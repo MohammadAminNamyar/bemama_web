@@ -1,7 +1,7 @@
 import { cp, mkdir, readFile, rm, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { navigation, pages, site } from '../src/pages.mjs';
+import { content, languages, pageSlugs, site } from '../src/pages.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const dist = path.join(root, 'dist');
@@ -12,32 +12,41 @@ await mkdir(dist, { recursive: true });
 await mkdir(path.join(dist, 'assets'), { recursive: true });
 
 await cp(path.join(root, 'public'), dist, { recursive: true });
-await writeFile(path.join(dist, 'assets', 'styles.css'), await readFile(path.join(root, 'src', 'styles.css'), 'utf8'));
+await writeFile(
+  path.join(dist, 'assets', 'styles.css'),
+  await readFile(path.join(root, 'src', 'styles.css'), 'utf8')
+);
 
-for (const page of pages) {
-  const html = renderPage(page);
-  const directory = page.slug ? path.join(dist, page.slug) : dist;
-  await mkdir(directory, { recursive: true });
-  await writeFile(path.join(directory, 'index.html'), html);
+for (const language of languages) {
+  for (const slug of pageSlugs) {
+    const html = renderPage(language, slug).replace(/[ \t]+$/gm, '');
+    const directory = outputDirectory(language.code, slug);
+    await mkdir(directory, { recursive: true });
+    await writeFile(path.join(directory, 'index.html'), html);
+  }
 }
 
 await writeFile(path.join(dist, 'sitemap.xml'), renderSitemap());
 
-function renderPage(page) {
-  const canonical = `${site.origin}/${page.slug ? `${page.slug}/` : ''}`;
-  const title = page.title === site.name ? site.name : `${page.title} | ${site.name}`;
-  const content = page.kind === 'home' ? renderHome() : renderPolicy(page);
+function renderPage(language, slug) {
+  const t = content[language.code];
+  const page = slug ? t.pages[slug] : undefined;
+  const title = slug ? `${page.title} | ${site.name}` : site.name;
+  const description = slug ? page.description : t.metaDescription;
+  const canonical = `${site.origin}${localizedPath(language.code, slug)}`;
+  const body = slug ? renderPolicy(language, slug, page) : renderHome(language);
   return `<!doctype html>
-<html lang="en">
+<html lang="${language.code}" dir="${language.dir}">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>${escapeHtml(title)}</title>
-    <meta name="description" content="${escapeHtml(page.description)}" />
+    <meta name="description" content="${escapeHtml(description)}" />
     <link rel="canonical" href="${canonical}" />
+    ${renderAlternates(slug)}
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <meta property="og:title" content="${escapeHtml(title)}" />
-    <meta property="og:description" content="${escapeHtml(page.description)}" />
+    <meta property="og:description" content="${escapeHtml(description)}" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="${canonical}" />
     <meta property="og:image" content="${site.origin}/assets/hero_pregnancy.png" />
@@ -45,38 +54,51 @@ function renderPage(page) {
     <link rel="stylesheet" href="/assets/styles.css?v=${assetVersion}" />
   </head>
   <body>
-    ${renderHeader()}
-    ${content}
-    ${renderFooter()}
+    ${renderHeader(language, slug)}
+    ${body}
+    ${renderFooter(language)}
   </body>
 </html>`;
 }
 
-function renderHeader() {
+function renderHeader(language, slug) {
+  const t = content[language.code];
+  const nav = [
+    ['', t.nav.home],
+    ['about', t.nav.about],
+    ['privacy', t.nav.privacy],
+    ['terms', t.nav.terms],
+    ['ai-disclaimer', t.nav.ai],
+    ['contact', t.nav.contact]
+  ];
   return `<header class="site-header">
   <div class="nav">
-    <a class="brand" href="/" aria-label="BeMama home">
+    <a class="brand" href="${localizedPath(language.code, '')}" aria-label="BeMama home">
       <img src="/assets/bemama_logo_mark.png" alt="" />
       <span>BeMama</span>
     </a>
-    <nav class="nav-links" aria-label="Main navigation">
-      ${navigation.map((item) => `<a href="${item.href}">${escapeHtml(item.label)}</a>`).join('')}
-      <a class="button secondary" href="/contact/">Support</a>
+    <nav class="nav-links" aria-label="${escapeHtml(t.nav.home)}">
+      ${nav.map(([itemSlug, label]) => `<a href="${localizedPath(language.code, itemSlug)}">${escapeHtml(label)}</a>`).join('')}
+      <a class="button secondary" href="${localizedPath(language.code, 'contact')}">${escapeHtml(t.nav.support)}</a>
     </nav>
+    <div class="language-switcher" aria-label="${escapeHtml(t.nav.language)}">
+      ${languages.map((item) => `<a class="${item.code === language.code ? 'active' : ''}" href="${localizedPath(item.code, slug)}" hreflang="${item.code}">${escapeHtml(item.label)}</a>`).join('')}
+    </div>
   </div>
 </header>`;
 }
 
-function renderHome() {
+function renderHome(language) {
+  const h = content[language.code].home;
   return `<main>
   <section class="hero">
     <div>
-      <span class="eyebrow">Planning, pregnancy, baby, and child growth</span>
-      <h1>BeMama</h1>
-      <p class="hero-copy">A calm companion for care journeys, daily guidance, Q&A, community support, and clearly labeled AI-assisted help.</p>
+      <span class="eyebrow">${escapeHtml(h.eyebrow)}</span>
+      <h1>${escapeHtml(h.title)}</h1>
+      <p class="hero-copy">${escapeHtml(h.copy)}</p>
       <div class="hero-actions">
-        <a class="button" href="/contact/">Get launch updates</a>
-        <a class="button secondary" href="/privacy/">Read privacy policy</a>
+        <a class="button" href="${localizedPath(language.code, 'contact')}">${escapeHtml(h.updates)}</a>
+        <a class="button secondary" href="${localizedPath(language.code, 'privacy')}">${escapeHtml(h.readPrivacy)}</a>
       </div>
     </div>
     <div class="hero-art" aria-label="BeMama app preview">
@@ -84,102 +106,86 @@ function renderHome() {
         <div class="phone-screen">
           <div class="phone-hero">
             <div>
-              <h2>Daily Journey</h2>
-              <p>Support shaped around your current stage.</p>
+              <h2>${escapeHtml(h.phoneTitle)}</h2>
+              <p>${escapeHtml(h.phoneText)}</p>
             </div>
           </div>
           <div class="phone-section">
-            <div class="mini-card">
-              <h3>Q&A and community</h3>
-              <p>Ask, learn, and connect with supportive spaces.</p>
-            </div>
-            <div class="mini-card">
-              <h3>AI-assisted support</h3>
-              <p>Clearly labeled and limited to general education.</p>
-            </div>
+            <div class="mini-card"><h3>${escapeHtml(h.qnaTitle)}</h3><p>${escapeHtml(h.qnaText)}</p></div>
+            <div class="mini-card"><h3>${escapeHtml(h.aiTitle)}</h3><p>${escapeHtml(h.aiText)}</p></div>
           </div>
         </div>
       </div>
       <div class="floating-journeys">
-        ${journeyChip('hero_planning.png', 'Planning')}
-        ${journeyChip('hero_pregnancy.png', 'Pregnancy')}
-        ${journeyChip('hero_baby.png', 'Baby care')}
-        ${journeyChip('hero_child.png', 'Child growth')}
+        ${journeyChip('hero_planning.png', h.journeys[0])}
+        ${journeyChip('hero_pregnancy.png', h.journeys[1])}
+        ${journeyChip('hero_baby.png', h.journeys[2])}
+        ${journeyChip('hero_child.png', h.journeys[3])}
       </div>
     </div>
   </section>
   <section class="section">
-    <div class="section-header">
-      <h2>What BeMama does</h2>
-      <p>BeMama brings practical parenting support into one organized experience without pretending to replace clinical care.</p>
-    </div>
-    <div class="grid">
-      ${featureCard('Daily Journey', 'Set up your current stage so daily care content and actions can be organized around where you are.')}
-      ${featureCard('Q&A and Community', 'Ask questions, find related discussions, and connect with supportive spaces built for parents and caregivers.')}
-      ${featureCard('Tools', 'Use practical calculators, trackers, and care utilities as they become available for each journey stage.')}
-    </div>
+    <div class="section-header"><h2>${escapeHtml(h.whatTitle)}</h2><p>${escapeHtml(h.whatText)}</p></div>
+    <div class="grid">${h.features.map(([title, text]) => featureCard(title, text)).join('')}</div>
   </section>
   <section class="section">
     <div class="section-header">
-      <h2>Privacy and trust</h2>
-      <p>BeMama is designed around sensitive motherhood and parenting data. Policy pages explain data use, retention basics, deletion/export request paths, and AI-assisted safety limits in plain language.</p>
+      <h2>${escapeHtml(h.trustTitle)}</h2>
+      <p>${escapeHtml(h.trustText)}</p>
       <div class="action-row">
-        <a class="button secondary" href="/terms/">Terms of Use</a>
-        <a class="button secondary" href="/ai-disclaimer/">AI Disclaimer</a>
-        <a class="button secondary" href="/subscription-terms/">Subscription Terms</a>
+        <a class="button secondary" href="${localizedPath(language.code, 'terms')}">${escapeHtml(content[language.code].nav.terms)}</a>
+        <a class="button secondary" href="${localizedPath(language.code, 'ai-disclaimer')}">${escapeHtml(content[language.code].nav.ai)}</a>
+        <a class="button secondary" href="${localizedPath(language.code, 'subscription-terms')}">${escapeHtml(h.reviewSubscription)}</a>
       </div>
     </div>
   </section>
   <section class="section">
     <div class="card">
-      <h2>App download</h2>
-      <p>BeMama app store links will be added here when the public listings are live. Until then, use the contact page for support, privacy requests, or launch updates.</p>
-      <div class="action-row">
-        <a class="button" href="/contact/">Contact support</a>
-        <a class="button secondary" href="/subscription-terms/">Review subscription terms</a>
+      <h2>${escapeHtml(h.appTitle)}</h2>
+      <p>${escapeHtml(h.appText)}</p>
+      <div class="platform-grid">
+        ${platformCard('android', h.android, h.comingSoon)}
+        ${platformCard('ios', h.ios, h.comingSoon)}
+        ${platformCard('web', h.web, h.openWeb, site.appUrl)}
       </div>
     </div>
   </section>
 </main>`;
 }
 
-function renderPolicy(page) {
+function renderPolicy(language, slug, page) {
+  const t = content[language.code];
+  const officialNotice = language.code === 'en' ? undefined : t.officialNotice;
   return `<main class="policy-layout">
   <article class="policy-panel">
-    <span class="eyebrow">${page.updated ? `Updated ${escapeHtml(page.updated)}` : 'BeMama'}</span>
+    <span class="eyebrow">${page.updated ? `${escapeHtml(page.updated)}` : 'BeMama'}</span>
     <h1>${escapeHtml(page.title)}</h1>
     <p>${escapeHtml(page.description)}</p>
-    ${page.body.map(renderBlock).join('')}
+    ${officialNotice ? `<div class="notice">${escapeHtml(officialNotice)} <a href="${localizedPath('en', slug)}">English</a></div>` : ''}
+    ${page.notice ? `<div class="notice">${escapeHtml(page.notice)}</div>` : ''}
+    ${page.sections.map(renderBlock).join('')}
   </article>
 </main>`;
 }
 
 function renderBlock(block) {
-  if (block.type === 'notice') {
-    return `<div class="notice">${escapeHtml(block.text)}</div>`;
-  }
-  const paragraphs = (block.paragraphs ?? []).map((text) => `<p>${escapeHtml(text)}</p>`).join('');
-  const list = block.list ? `<ul>${block.list.map((text) => `<li>${escapeHtml(text)}</li>`).join('')}</ul>` : '';
   return `<section>
     <h2>${escapeHtml(block.heading)}</h2>
-    ${paragraphs}
-    ${list}
+    ${block.paragraphs.map((text) => `<p>${escapeHtml(text)}</p>`).join('')}
   </section>`;
 }
 
-function renderFooter() {
+function renderFooter(language) {
+  const t = content[language.code];
   return `<footer class="site-footer">
   <div class="footer-inner">
-    <div>
-      <strong>BeMama</strong>
-      <p>General education and support only. Not a medical diagnosis tool.</p>
-    </div>
+    <div><strong>BeMama</strong><p>${escapeHtml(t.footer)}</p></div>
     <div class="footer-links">
-      <a href="/privacy/">Privacy</a>
-      <a href="/terms/">Terms</a>
-      <a href="/subscription-terms/">Subscription Terms</a>
-      <a href="/ai-disclaimer/">AI safety</a>
-      <a href="/contact/">Contact</a>
+      <a href="${localizedPath(language.code, 'privacy')}">${escapeHtml(t.nav.privacy)}</a>
+      <a href="${localizedPath(language.code, 'terms')}">${escapeHtml(t.nav.terms)}</a>
+      <a href="${localizedPath(language.code, 'subscription-terms')}">${escapeHtml(t.home.reviewSubscription)}</a>
+      <a href="${localizedPath(language.code, 'ai-disclaimer')}">${escapeHtml(t.nav.ai)}</a>
+      <a href="${localizedPath(language.code, 'contact')}">${escapeHtml(t.nav.contact)}</a>
     </div>
   </div>
 </footer>`;
@@ -193,12 +199,58 @@ function featureCard(title, text) {
   return `<article class="card"><h3>${escapeHtml(title)}</h3><p>${escapeHtml(text)}</p></article>`;
 }
 
+function platformCard(kind, title, label, href = undefined) {
+  const inner = `${platformIcon(kind)}<span><strong>${escapeHtml(title)}</strong><small>${escapeHtml(label)}</small></span>`;
+  return href
+    ? `<a class="platform-card is-link" href="${href}">${inner}</a>`
+    : `<div class="platform-card" aria-disabled="true">${inner}</div>`;
+}
+
+function platformIcon(kind) {
+  if (kind === 'android') {
+    return `<svg aria-hidden="true" viewBox="0 0 24 24"><path d="M7.4 8.8 5.7 5.9a.7.7 0 1 1 1.2-.7l1.8 3.1a8.7 8.7 0 0 1 6.6 0l1.8-3.1a.7.7 0 1 1 1.2.7l-1.7 2.9A7.5 7.5 0 0 1 20 14.7H4a7.5 7.5 0 0 1 3.4-5.9Zm1.4 3.1a.9.9 0 1 0 0-1.8.9.9 0 0 0 0 1.8Zm6.4 0a.9.9 0 1 0 0-1.8.9.9 0 0 0 0 1.8ZM5 16h14v2.5A2.5 2.5 0 0 1 16.5 21h-9A2.5 2.5 0 0 1 5 18.5V16Z"/></svg>`;
+  }
+  if (kind === 'ios') {
+    return `<svg aria-hidden="true" viewBox="0 0 24 24"><path d="M16.7 13.1c0-2 1.6-3 1.7-3.1-1-1.4-2.4-1.6-2.9-1.6-1.2-.1-2.4.7-3 .7-.7 0-1.7-.7-2.7-.7-1.4 0-2.7.8-3.4 2.1-1.5 2.6-.4 6.4 1 8.5.7 1 1.5 2.1 2.6 2.1 1 0 1.4-.7 2.7-.7s1.6.7 2.7.7 1.8-1 2.5-2c.8-1.1 1.1-2.2 1.1-2.3-.1 0-2.3-.9-2.3-3.7ZM14.8 7.1c.6-.7 1-1.7.9-2.6-.9 0-1.9.6-2.5 1.3-.6.7-1 1.6-.9 2.5.9.1 1.9-.5 2.5-1.2Z"/></svg>`;
+  }
+  return `<svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3h11A2.5 2.5 0 0 1 20 5.5v8A2.5 2.5 0 0 1 17.5 16H13v2h3a1 1 0 1 1 0 2H8a1 1 0 1 1 0-2h3v-2H6.5A2.5 2.5 0 0 1 4 13.5v-8Zm2 0v8c0 .3.2.5.5.5h11c.3 0 .5-.2.5-.5v-8c0-.3-.2-.5-.5-.5h-11c-.3 0-.5.2-.5.5Z"/></svg>`;
+}
+
+function renderAlternates(slug) {
+  return languages
+    .map((language) => `<link rel="alternate" hreflang="${language.code}" href="${site.origin}${localizedPath(language.code, slug)}" />`)
+    .join('\n    ');
+}
+
 function renderSitemap() {
+  const urls = [];
+  for (const language of languages) {
+    for (const slug of pageSlugs) {
+      urls.push(`  <url><loc>${site.origin}${localizedPath(language.code, slug)}</loc></url>`);
+    }
+  }
   return `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${pages.map((page) => `  <url><loc>${site.origin}/${page.slug ? `${page.slug}/` : ''}</loc></url>`).join('\n')}
+${urls.join('\n')}
 </urlset>
 `;
+}
+
+function outputDirectory(languageCode, slug) {
+  const parts = [];
+  if (languageCode !== 'en') {
+    parts.push(languageCode);
+  }
+  if (slug) {
+    parts.push(slug);
+  }
+  return path.join(dist, ...parts);
+}
+
+export function localizedPath(languageCode, slug) {
+  const prefix = languageCode === 'en' ? '' : `/${languageCode}`;
+  const suffix = slug ? `/${slug}` : '';
+  return `${prefix}${suffix}/`.replace('//', '/');
 }
 
 function escapeHtml(value) {

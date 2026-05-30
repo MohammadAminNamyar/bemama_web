@@ -55,6 +55,7 @@ a:hover {
   align-items: center;
   justify-content: space-between;
   gap: 18px;
+  flex-wrap: wrap;
 }
 
 .brand {
@@ -81,6 +82,32 @@ a:hover {
   flex-wrap: wrap;
   justify-content: flex-end;
   font-size: 0.94rem;
+}
+
+.language-switcher {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+}
+
+.language-switcher a {
+  min-height: 32px;
+  display: inline-flex;
+  align-items: center;
+  border-radius: 999px;
+  padding: 0 10px;
+  border: 1px solid transparent;
+  color: var(--muted);
+  font-size: 0.84rem;
+}
+
+.language-switcher a.active {
+  color: var(--teal-dark);
+  border-color: var(--line);
+  background: rgba(255, 255, 255, 0.72);
+  font-weight: 750;
 }
 
 .button {
@@ -344,6 +371,51 @@ p {
   flex-wrap: wrap;
 }
 
+.platform-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 14px;
+  margin-top: 22px;
+}
+
+.platform-card {
+  min-height: 96px;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: rgba(255, 255, 255, 0.82);
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 16px;
+  color: var(--ink);
+}
+
+.platform-card.is-link {
+  box-shadow: 0 12px 30px rgba(47, 141, 131, 0.12);
+}
+
+.platform-card.is-link:hover {
+  text-decoration: none;
+  border-color: rgba(47, 141, 131, 0.36);
+}
+
+.platform-card svg {
+  width: 34px;
+  height: 34px;
+  flex: 0 0 auto;
+  fill: var(--teal);
+}
+
+.platform-card span {
+  display: grid;
+  gap: 4px;
+}
+
+.platform-card small {
+  color: var(--muted);
+  font-weight: 700;
+}
+
 @media (max-width: 860px) {
   .nav {
     min-height: auto;
@@ -367,6 +439,10 @@ p {
   }
 
   .grid {
+    grid-template-columns: 1fr;
+  }
+
+  .platform-grid {
     grid-template-columns: 1fr;
   }
 
