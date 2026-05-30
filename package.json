@@ -1,0 +1,12 @@
+{
+  "name": "bemama-web",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "validate": "node scripts/validate.mjs",
+    "serve": "node scripts/serve.mjs",
+    "dev": "node scripts/serve.mjs --port 80"
+  }
+}
