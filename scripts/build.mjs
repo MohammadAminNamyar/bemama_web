@@ -5,6 +5,7 @@ import { navigation, pages, site } from '../src/pages.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const dist = path.join(root, 'dist');
+const assetVersion = new Date().toISOString().replaceAll(/[-:.TZ]/g, '');
 
 await rm(dist, { recursive: true, force: true });
 await mkdir(dist, { recursive: true });
@@ -41,7 +42,7 @@ function renderPage(page) {
     <meta property="og:url" content="${canonical}" />
     <meta property="og:image" content="${site.origin}/assets/hero_pregnancy.png" />
     <meta name="twitter:card" content="summary_large_image" />
-    <link rel="stylesheet" href="/assets/styles.css" />
+    <link rel="stylesheet" href="/assets/styles.css?v=${assetVersion}" />
   </head>
   <body>
     ${renderHeader()}
