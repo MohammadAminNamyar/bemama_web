@@ -49,6 +49,14 @@ export const content = {
       aiTitle: 'AI-assisted support',
       aiText: 'Clearly labeled and limited to general education.',
       journeys: ['Planning', 'Pregnancy', 'Baby care', 'Child growth'],
+      mediaTitle: 'Real BeMama media, ready for the web',
+      mediaText:
+        'Static web assets can show the BeMama experience without MinIO. Demo screen recordings stay separate until captured from a clean demo account.',
+      trustCue: 'Calm, trustworthy, clearly scoped support',
+      adTitle: 'A quieter web teaser can sit here when the movie is approved',
+      adText:
+        'No narrator is needed: a short visual story with licensed or synthetic music and soft interface sound can introduce Daily care, community, and BeMama+ without fake app UI.',
+      adStatus: 'OpenArt direction ready',
       whatTitle: 'What BeMama does',
       whatText: 'BeMama brings practical parenting support into one organized experience without pretending to replace clinical care.',
       features: [

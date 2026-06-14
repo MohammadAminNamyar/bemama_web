@@ -90,57 +90,80 @@ function renderHeader(language, slug) {
 
 function renderHome(language) {
   const h = content[language.code].home;
+  const fallback = content.en.home;
+  const mediaCards = [
+    ['app_daily_plan.png', 'icon_daily_action.png', h.phoneTitle, h.phoneText],
+    ['app_qna_support.png', 'icon_ask_question.png', h.qnaTitle, h.qnaText],
+    ['app_community.png', 'icon_shield_heart.png', h.aiTitle, h.aiText],
+    ['app_child_growth.png', 'icon_ask_ai.png', h.journeys[3], h.features[2][1]]
+  ];
   return `<main>
   <section class="hero">
-    <div>
-      <span class="eyebrow">${escapeHtml(h.eyebrow)}</span>
-      <h1>${escapeHtml(h.title)}</h1>
-      <p class="hero-copy">${escapeHtml(h.copy)}</p>
-      <div class="hero-actions">
-        <a class="button" href="${localizedPath(language.code, 'contact')}">${escapeHtml(h.updates)}</a>
-        <a class="button secondary" href="${localizedPath(language.code, 'privacy')}">${escapeHtml(h.readPrivacy)}</a>
-      </div>
+    <div class="hero-visual" aria-hidden="true">
+      <div class="hero-visual-panel"></div>
+      <img class="hero-character" src="/assets/hero_pregnancy.png" alt="" />
     </div>
-    <div class="hero-art" aria-label="BeMama app preview">
-      <div class="phone">
-        <div class="phone-screen">
-          <div class="phone-hero">
-            <div>
-              <h2>${escapeHtml(h.phoneTitle)}</h2>
-              <p>${escapeHtml(h.phoneText)}</p>
-            </div>
-          </div>
-          <div class="phone-section">
-            <div class="mini-card"><h3>${escapeHtml(h.qnaTitle)}</h3><p>${escapeHtml(h.qnaText)}</p></div>
-            <div class="mini-card"><h3>${escapeHtml(h.aiTitle)}</h3><p>${escapeHtml(h.aiText)}</p></div>
-          </div>
+    <div class="hero-inner">
+      <div class="hero-copy-area">
+        <span class="eyebrow">${escapeHtml(h.eyebrow)}</span>
+        <h1>${escapeHtml(h.title)}</h1>
+        <p class="hero-copy">${escapeHtml(h.copy)}</p>
+        <div class="hero-actions">
+          <a class="button" href="${localizedPath(language.code, 'contact')}">${escapeHtml(h.updates)}</a>
+          <a class="button secondary" href="${localizedPath(language.code, 'privacy')}">${escapeHtml(h.readPrivacy)}</a>
         </div>
       </div>
-      <div class="floating-journeys">
-        ${journeyChip('hero_planning.png', h.journeys[0])}
-        ${journeyChip('hero_pregnancy.png', h.journeys[1])}
-        ${journeyChip('hero_baby.png', h.journeys[2])}
-        ${journeyChip('hero_child.png', h.journeys[3])}
+      <div class="hero-proofbar" aria-label="BeMama care stages">
+        ${proofItem('hero_planning.png', h.journeys[0], h.features[0][0])}
+        ${proofItem('app_daily_plan.png', h.journeys[1], h.phoneTitle)}
+        ${proofItem('hero_baby.png', h.journeys[2], h.qnaTitle)}
+        ${proofItem('hero_child.png', h.journeys[3], h.features[2][0])}
       </div>
+    </div>
+  </section>
+  <section class="section product-media">
+    <div class="section-header">
+      <span class="section-kicker">${escapeHtml(h.trustCue || fallback.trustCue)}</span>
+      <h2>${escapeHtml(h.mediaTitle || fallback.mediaTitle)}</h2>
+      <p>${escapeHtml(h.mediaText || fallback.mediaText)}</p>
+    </div>
+    <div class="media-grid">
+      ${mediaCards.map(([image, icon, title, text]) => mediaCard(image, icon, title, text)).join('')}
     </div>
   </section>
   <section class="section">
     <div class="section-header"><h2>${escapeHtml(h.whatTitle)}</h2><p>${escapeHtml(h.whatText)}</p></div>
     <div class="grid">${h.features.map(([title, text]) => featureCard(title, text)).join('')}</div>
   </section>
-  <section class="section">
+  <section class="section trust-section">
     <div class="section-header">
       <h2>${escapeHtml(h.trustTitle)}</h2>
       <p>${escapeHtml(h.trustText)}</p>
-      <div class="action-row">
-        <a class="button secondary" href="${localizedPath(language.code, 'terms')}">${escapeHtml(content[language.code].nav.terms)}</a>
-        <a class="button secondary" href="${localizedPath(language.code, 'ai-disclaimer')}">${escapeHtml(content[language.code].nav.ai)}</a>
-        <a class="button secondary" href="${localizedPath(language.code, 'subscription-terms')}">${escapeHtml(h.reviewSubscription)}</a>
-      </div>
+    </div>
+    <div class="trust-grid">
+      ${trustTile('icon_shield_heart.png', content[language.code].nav.privacy, h.trustText)}
+      ${trustTile('icon_ask_question.png', content[language.code].nav.ai, h.aiText)}
+      ${trustTile('icon_daily_action.png', h.reviewSubscription, h.appText)}
+    </div>
+    <div class="action-row">
+      <a class="button secondary" href="${localizedPath(language.code, 'terms')}">${escapeHtml(content[language.code].nav.terms)}</a>
+      <a class="button secondary" href="${localizedPath(language.code, 'ai-disclaimer')}">${escapeHtml(content[language.code].nav.ai)}</a>
+      <a class="button secondary" href="${localizedPath(language.code, 'subscription-terms')}">${escapeHtml(h.reviewSubscription)}</a>
     </div>
   </section>
+  <section class="section ad-section">
+    <div class="ad-copy">
+      <span class="section-kicker">${escapeHtml(h.adStatus || fallback.adStatus)}</span>
+      <h2>${escapeHtml(h.adTitle || fallback.adTitle)}</h2>
+      <p>${escapeHtml(h.adText || fallback.adText)}</p>
+    </div>
+    <figure class="ad-poster">
+      <img src="/assets/bemama_logo_full.png" alt="BeMama" />
+      <figcaption>${escapeHtml(h.openWeb)}</figcaption>
+    </figure>
+  </section>
   <section class="section">
-    <div class="card">
+    <div class="app-access">
       <h2>${escapeHtml(h.appTitle)}</h2>
       <p>${escapeHtml(h.appText)}</p>
       <div class="platform-grid">
@@ -151,6 +174,14 @@ function renderHome(language) {
     </div>
   </section>
 </main>`;
+}
+
+function proofItem(image, stage, label) {
+  return `<article class="proof-item">
+    <img src="/assets/${image}" alt="" />
+    <span>${escapeHtml(stage)}</span>
+    <strong>${escapeHtml(label)}</strong>
+  </article>`;
 }
 
 function renderPolicy(language, slug, page) {
@@ -195,8 +226,27 @@ function journeyChip(image, label) {
   return `<div class="journey-chip"><img src="/assets/${image}" alt="" />${escapeHtml(label)}</div>`;
 }
 
+function mediaCard(image, icon, title, text) {
+  return `<article class="media-card">
+    <div class="media-image"><img src="/assets/${image}" alt="" /></div>
+    <div class="media-card-copy">
+      <img class="media-icon" src="/assets/${icon}" alt="" />
+      <h3>${escapeHtml(title)}</h3>
+      <p>${escapeHtml(text)}</p>
+    </div>
+  </article>`;
+}
+
 function featureCard(title, text) {
   return `<article class="card"><h3>${escapeHtml(title)}</h3><p>${escapeHtml(text)}</p></article>`;
+}
+
+function trustTile(icon, title, text) {
+  return `<article class="trust-tile">
+    <img src="/assets/${icon}" alt="" />
+    <h3>${escapeHtml(title)}</h3>
+    <p>${escapeHtml(text)}</p>
+  </article>`;
 }
 
 function platformCard(kind, title, label, href = undefined) {
