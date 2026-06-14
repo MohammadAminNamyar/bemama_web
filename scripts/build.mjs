@@ -101,7 +101,7 @@ function renderHome(language) {
   <section class="hero">
     <div class="hero-visual" aria-hidden="true">
       <div class="hero-visual-panel"></div>
-      <img class="hero-character" src="/assets/hero_pregnancy.png" alt="" />
+      <img class="hero-character" src="/assets/openart_premium_care.webp" alt="" />
     </div>
     <div class="hero-inner">
       <div class="hero-copy-area">

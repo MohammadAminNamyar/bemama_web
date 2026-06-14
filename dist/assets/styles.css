@@ -162,6 +162,11 @@ a:hover {
   max-width: 680px;
 }
 
+html[dir="rtl"] .hero-copy-area {
+  margin-inline-end: auto;
+  text-align: right;
+}
+
 .hero-visual {
   position: absolute;
   inset: 0;
@@ -190,6 +195,16 @@ a:hover {
   object-fit: contain;
   object-position: center top;
   filter: drop-shadow(0 18px 32px rgba(18, 58, 60, 0.14));
+}
+
+html[dir="rtl"] .hero-visual-panel {
+  right: auto;
+  left: max(32px, calc((100vw - 1180px) / 2));
+}
+
+html[dir="rtl"] .hero-character {
+  right: auto;
+  left: max(74px, calc((100vw - 1110px) / 2));
 }
 
 .eyebrow,
@@ -247,6 +262,11 @@ p {
   flex-wrap: wrap;
   gap: 12px;
   margin-top: 24px;
+}
+
+html[dir="rtl"] .hero-actions,
+html[dir="rtl"] .action-row {
+  justify-content: flex-start;
 }
 
 .hero-proofbar {
@@ -563,6 +583,7 @@ p {
 
   .hero-character {
     right: 50%;
+    left: auto;
     bottom: 14px;
     width: min(330px, 78vw);
     height: 350px;
