@@ -10,7 +10,15 @@ const forbiddenClaims = [
   'GDPR compliant',
   'PIPEDA compliant',
   'replaces your clinician',
-  'always accurate'
+  'always accurate',
+  'end-to-end encrypted',
+  'end to end encrypted',
+  'end-to-end encryption',
+  'end to end encryption',
+  'E2EE',
+  'nobody can read',
+  'even BeMama cannot access',
+  'private forever'
 ];
 
 const requiredRoutes = [];
@@ -30,9 +38,10 @@ const knownRoutes = new Set(requiredRoutes);
 
 for (const file of htmlFiles) {
   const html = await readFile(file, 'utf8');
+  const normalizedHtml = html.toLowerCase();
   for (const claim of forbiddenClaims) {
-    if (html.includes(claim)) {
-      throw new Error(`Forbidden legal/medical claim found in ${file}: ${claim}`);
+    if (normalizedHtml.includes(claim.toLowerCase())) {
+      throw new Error(`Forbidden launch claim found in ${file}: ${claim}`);
     }
   }
   const hrefs = [...html.matchAll(/href="([^"]+)"/g)].map((match) => match[1]);

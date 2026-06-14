@@ -78,6 +78,7 @@ export const content = {
       privacy: policy('Privacy Policy', 'Plain-language overview of how BeMama collects, uses, retains, and protects account, care journey, Q&A, community, chat, device, and AI-assisted support data.', [
         ['Information we collect', ['Account and profile data, Daily Journey data, Q&A/community/chat/support content, device/session/push data, operational records, and AI-assisted support metadata when AI features are enabled.']],
         ['How we use information', ['We use information to provide your account, personalize care surfaces, operate Q&A/community/support, label AI-assisted content, protect accounts, troubleshoot, and respond to support or privacy requests.']],
+        ['Message security', ['Messages are protected in transit and handled securely by BeMama.']],
         ['Retention basics', ['BeMama keeps account and care data while needed to provide the service and operate safely. Some audit and technical records may be retained for configured periods and redacted over time.']],
         ['Deletion and export requests', [`To request account deletion, data export, or privacy review, contact ${site.supportEmail}. Some audit or safety records may be retained where needed for platform integrity or legal/safety reasons.`]]
       ], 'This policy is not a claim of GDPR, PIPEDA, HIPAA, or other legal compliance.'),
