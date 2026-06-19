@@ -18,7 +18,24 @@ const forbiddenClaims = [
   'E2EE',
   'nobody can read',
   'even BeMama cannot access',
-  'private forever'
+  'private forever',
+  'not a claim of GDPR',
+  'not a claim of PIPEDA',
+  'not a claim of HIPAA',
+  'practical product draft',
+  'reviewed by qualified legal counsel',
+  'prepared for future subscription review',
+  'must be finalized before paid launch',
+  'until reviewed translations',
+  'until legal review',
+  'reviewed translations are available',
+  'MinIO',
+  'OpenArt direction',
+  'movie is approved',
+  'fake app UI',
+  'demo screen recordings',
+  'ready for the web',
+  'web teaser'
 ];
 
 const requiredRoutes = [];

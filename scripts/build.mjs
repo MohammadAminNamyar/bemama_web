@@ -84,6 +84,18 @@ function renderHeader(language, slug) {
     <div class="language-switcher" aria-label="${escapeHtml(t.nav.language)}">
       ${languages.map((item) => `<a class="${item.code === language.code ? 'active' : ''}" href="${localizedPath(item.code, slug)}" hreflang="${item.code}">${escapeHtml(item.label)}</a>`).join('')}
     </div>
+    <details class="mobile-menu">
+      <summary aria-label="Open navigation menu"><span class="menu-icon" aria-hidden="true"></span></summary>
+      <div class="mobile-menu-panel">
+        <nav class="mobile-nav-links" aria-label="${escapeHtml(t.nav.home)}">
+          ${nav.map(([itemSlug, label]) => `<a href="${localizedPath(language.code, itemSlug)}">${escapeHtml(label)}</a>`).join('')}
+          <a class="button secondary" href="${localizedPath(language.code, 'contact')}">${escapeHtml(t.nav.support)}</a>
+        </nav>
+        <div class="mobile-language-switcher" aria-label="${escapeHtml(t.nav.language)}">
+          ${languages.map((item) => `<a class="${item.code === language.code ? 'active' : ''}" href="${localizedPath(item.code, slug)}" hreflang="${item.code}">${escapeHtml(item.label)}</a>`).join('')}
+        </div>
+      </div>
+    </details>
   </div>
 </header>`;
 }
@@ -100,8 +112,9 @@ function renderHome(language) {
   return `<main>
   <section class="hero">
     <div class="hero-visual" aria-hidden="true">
-      <div class="hero-visual-panel"></div>
-      <img class="hero-character" src="/assets/openart_premium_care.webp" alt="" />
+      <div class="hero-visual-panel">
+        ${heroCarousel()}
+      </div>
     </div>
     <div class="hero-inner">
       <div class="hero-copy-area">
@@ -157,23 +170,38 @@ function renderHome(language) {
       <h2>${escapeHtml(h.adTitle || fallback.adTitle)}</h2>
       <p>${escapeHtml(h.adText || fallback.adText)}</p>
     </div>
-    <figure class="ad-poster">
-      <img src="/assets/bemama_logo_full.png" alt="BeMama" />
-      <figcaption>${escapeHtml(h.openWeb)}</figcaption>
-    </figure>
+    <div class="ad-video-grid" aria-label="BeMama video previews">
+      ${videoPreview('/assets/videos/bemama-care-story-01.mp4', 'BeMama care journey landscape video preview', 'landscape')}
+    </div>
   </section>
   <section class="section">
-    <div class="app-access">
-      <h2>${escapeHtml(h.appTitle)}</h2>
-      <p>${escapeHtml(h.appText)}</p>
-      <div class="platform-grid">
-        ${platformCard('android', h.android, h.comingSoon)}
-        ${platformCard('ios', h.ios, h.comingSoon)}
-        ${platformCard('web', h.web, h.openWeb, site.appUrl)}
+    <div class="app-access app-access-showcase">
+      <div class="app-access-copy">
+        <h2>${escapeHtml(h.appTitle)}</h2>
+        <p>${escapeHtml(h.appText)}</p>
+        <div class="platform-grid">
+          ${platformCard('android', h.android, h.comingSoon)}
+          ${platformCard('ios', h.ios, h.comingSoon)}
+          ${platformCard('web', h.web, h.openWeb, site.appUrl)}
+        </div>
       </div>
+      ${videoPreview('/assets/videos/bemama-care-story-02.mp4', 'BeMama mobile app portrait video preview', 'portrait')}
     </div>
   </section>
 </main>`;
+}
+
+function heroCarousel() {
+  const images = [
+    'pregnancy-rest.png',
+    'pregnancy-planning.png',
+    'baby-care.png',
+    'daily-care.png',
+    'child-growth.png'
+  ];
+  return `<div class="hero-carousel">
+    ${images.map((image) => `<img src="/assets/hero-carousel/${image}" alt="" />`).join('\n    ')}
+  </div>`;
 }
 
 function proofItem(image, stage, label) {
@@ -247,6 +275,14 @@ function trustTile(icon, title, text) {
     <h3>${escapeHtml(title)}</h3>
     <p>${escapeHtml(text)}</p>
   </article>`;
+}
+
+function videoPreview(src, label, orientation) {
+  return `<figure class="ad-video-card is-${orientation}">
+    <video controls autoplay muted loop playsinline preload="metadata" aria-label="${escapeHtml(label)}">
+      <source src="${src}" type="video/mp4" />
+    </video>
+  </figure>`;
 }
 
 function platformCard(kind, title, label, href = undefined) {
