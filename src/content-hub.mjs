@@ -14,6 +14,9 @@
 import { site } from './pages.mjs';
 import { ttcArticles } from './articles/trying-to-conceive.mjs';
 import { pregnancyArticles } from './articles/pregnancy.mjs';
+import { newbornArticles } from './articles/newborn.mjs';
+import { childArticles } from './articles/baby-and-child.mjs';
+import { appArticles } from './articles/about-bemama.mjs';
 
 // --- Categories (drive the navigation menu and the category landing pages) ---
 export const categories = [
@@ -99,7 +102,13 @@ export const hubDisclaimer = {
 };
 
 // --- Articles -------------------------------------------------------------
-export const articles = [...ttcArticles, ...pregnancyArticles];
+export const articles = [
+  ...ttcArticles,
+  ...pregnancyArticles,
+  ...newbornArticles,
+  ...childArticles,
+  ...appArticles
+];
 
 // --- Derived lookups (used by the build) ---------------------------------
 export const categoryById = new Map(categories.map((category) => [category.id, category]));

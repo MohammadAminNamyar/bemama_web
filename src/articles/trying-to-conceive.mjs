@@ -6,7 +6,7 @@ export const ttcArticles = [
   {
     slug: 'trying-to-conceive/preparing-for-pregnancy',
     category: 'ttc',
-    hero: 'hero_planning.png',
+    hero: 'content/ttc-preparing.jpg',
     updated: 'July 1, 2026',
     i18n: {
       en: {
@@ -79,7 +79,7 @@ export const ttcArticles = [
   {
     slug: 'trying-to-conceive/menstrual-cycle-fertile-window',
     category: 'ttc',
-    hero: 'hero-carousel/pregnancy-planning.png',
+    hero: 'content/ttc-cycle.jpg',
     updated: 'July 1, 2026',
     i18n: {
       en: {
@@ -105,7 +105,7 @@ export const ttcArticles = [
           },
           {
             heading: 'Your fertile window',
-            image: 'app_daily_plan.png',
+            image: 'content/ttc-notebook-window.jpg',
             paragraphs: [
               'Because sperm can survive in the reproductive tract for up to about five days, your fertile window spans roughly the five days before ovulation plus the day of ovulation itself — about six days total.',
               'The two to three days leading up to and including ovulation are the most fertile. Having intercourse during this window gives sperm the best chance of meeting the egg.'
@@ -153,7 +153,7 @@ export const ttcArticles = [
   {
     slug: 'trying-to-conceive/tracking-ovulation',
     category: 'ttc',
-    hero: 'app_daily_plan.png',
+    hero: 'content/ttc-ovulation.jpg',
     updated: 'July 1, 2026',
     i18n: {
       en: {
@@ -226,7 +226,7 @@ export const ttcArticles = [
   {
     slug: 'trying-to-conceive/folic-acid-preconception',
     category: 'ttc',
-    hero: 'hero-carousel/daily-care.png',
+    hero: 'content/ttc-folic-acid.jpg',
     updated: 'July 1, 2026',
     i18n: {
       en: {
@@ -292,7 +292,7 @@ export const ttcArticles = [
   {
     slug: 'trying-to-conceive/fertility-nutrition',
     category: 'ttc',
-    hero: 'hero-carousel/pregnancy-rest.png',
+    hero: 'content/ttc-nutrition.jpg',
     updated: 'July 1, 2026',
     i18n: {
       en: {
@@ -365,7 +365,7 @@ export const ttcArticles = [
   {
     slug: 'trying-to-conceive/shettles-method',
     category: 'ttc',
-    hero: 'hero_planning.png',
+    hero: 'content/ttc-shettles.jpg',
     updated: 'July 1, 2026',
     i18n: {
       en: {
@@ -392,7 +392,7 @@ export const ttcArticles = [
           },
           {
             heading: 'Tracking ovulation accurately',
-            image: 'app_daily_plan.png',
+            image: 'content/ttc-journal.jpg',
             paragraphs: [
               'Several signals can help you estimate ovulation: a rise in basal body temperature (BBT) after ovulation, changes in cervical mucus (clear and stretchy near ovulation), and ovulation predictor kits that detect the pre-ovulation surge in luteinizing hormone.',
               'No single signal is perfect, and cycles vary from month to month. Combining methods — for example, an ovulation kit alongside daily BBT and mucus notes — gives a more reliable picture than any one signal alone.',
@@ -442,7 +442,7 @@ export const ttcArticles = [
   {
     slug: 'trying-to-conceive/male-fertility',
     category: 'ttc',
-    hero: 'app_community.png',
+    hero: 'content/ttc-male-fertility.jpg',
     updated: 'July 1, 2026',
     i18n: {
       en: {
@@ -515,7 +515,7 @@ export const ttcArticles = [
   {
     slug: 'trying-to-conceive/how-long-to-conceive',
     category: 'ttc',
-    hero: 'hero-carousel/pregnancy-planning.png',
+    hero: 'content/ttc-how-long.jpg',
     updated: 'July 1, 2026',
     i18n: {
       en: {
@@ -581,7 +581,7 @@ export const ttcArticles = [
   {
     slug: 'trying-to-conceive/stopping-birth-control',
     category: 'ttc',
-    hero: 'app_daily_plan.png',
+    hero: 'content/ttc-birth-control.jpg',
     updated: 'July 1, 2026',
     i18n: {
       en: {
@@ -647,7 +647,7 @@ export const ttcArticles = [
   {
     slug: 'trying-to-conceive/when-to-see-fertility-specialist',
     category: 'ttc',
-    hero: 'app_qna_support.png',
+    hero: 'content/ttc-specialist.jpg',
     updated: 'July 1, 2026',
     i18n: {
       en: {
@@ -673,7 +673,7 @@ export const ttcArticles = [
           },
           {
             heading: 'What a first evaluation involves',
-            image: 'app_qna_support.png',
+            image: 'content/ttc-writing-card.jpg',
             paragraphs: [
               'An initial workup usually reviews both partners’ history and may include blood tests to check ovulation and hormones, imaging of the uterus and tubes, and a semen analysis for the male partner.',
               'These tests are mostly simple and aim to identify anything treatable, from ovulation issues to structural factors.'
