@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "bemama-web",
+      "runtimeExecutable": "wsl.exe",
+      "runtimeArgs": ["-e", "bash", "-lc", "cd /mnt/c/WorkSpace/Practice/bemama_web && node scripts/serve.mjs --port 8099"],
+      "port": 8099
+    }
+  ]
+}

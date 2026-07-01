@@ -2,6 +2,7 @@ import { access, readdir, readFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { languages, pageSlugs } from '../src/pages.mjs';
+import { hubSlugs } from '../src/content-hub.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const dist = path.join(root, 'dist');
@@ -40,7 +41,7 @@ const forbiddenClaims = [
 
 const requiredRoutes = [];
 for (const language of languages) {
-  for (const slug of pageSlugs) {
+  for (const slug of [...pageSlugs, ...hubSlugs]) {
     requiredRoutes.push(localizedPath(language.code, slug));
   }
 }

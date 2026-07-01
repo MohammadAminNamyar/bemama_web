@@ -2,6 +2,19 @@ import { cp, mkdir, readFile, rm, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { content, languages, pageSlugs, site } from '../src/pages.mjs';
+import {
+  categories,
+  hubSlugs,
+  articleBySlug,
+  categoryBySlug,
+  categoryById,
+  articlesInCategory,
+  ui as hubText,
+  disclaimer as hubDisclaimer,
+  pick
+} from '../src/content-hub.mjs';
+
+const allSlugs = [...pageSlugs, ...hubSlugs];
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const dist = path.join(root, 'dist');
@@ -14,11 +27,11 @@ await mkdir(path.join(dist, 'assets'), { recursive: true });
 await cp(path.join(root, 'public'), dist, { recursive: true });
 await writeFile(
   path.join(dist, 'assets', 'styles.css'),
-  await readFile(path.join(root, 'src', 'styles.css'), 'utf8')
+  `${await readFile(path.join(root, 'src', 'styles.css'), 'utf8')}\n${await readFile(path.join(root, 'src', 'hub.css'), 'utf8')}`
 );
 
 for (const language of languages) {
-  for (const slug of pageSlugs) {
+  for (const slug of allSlugs) {
     const html = renderPage(language, slug).replace(/[ \t]+$/gm, '');
     const directory = outputDirectory(language.code, slug);
     await mkdir(directory, { recursive: true });
@@ -30,11 +43,40 @@ await writeFile(path.join(dist, 'sitemap.xml'), renderSitemap());
 
 function renderPage(language, slug) {
   const t = content[language.code];
-  const page = slug ? t.pages[slug] : undefined;
-  const title = slug ? `${page.title} | ${site.name}` : site.name;
-  const description = slug ? page.description : t.metaDescription;
+  const article = articleBySlug.get(slug);
+  const category = categoryBySlug.get(slug);
+  let title;
+  let description;
+  let body;
+  let jsonLd = '';
+  let ogType = 'website';
+  let ogImage = `${site.origin}/assets/hero_pregnancy.png`;
+
+  if (article) {
+    const data = article.i18n[language.code] ?? article.i18n.en;
+    title = `${data.title} | ${site.name}`;
+    description = data.description;
+    body = renderArticle(language, slug, article, data);
+    jsonLd = renderArticleJsonLd(language, slug, article, data);
+    ogType = 'article';
+    ogImage = `${site.origin}/assets/${article.hero}`;
+  } else if (category) {
+    title = `${pick(category.title, language.code)} | ${site.name}`;
+    description = pick(category.blurb, language.code);
+    body = renderCategory(language, slug, category);
+    ogImage = `${site.origin}/assets/${category.hero}`;
+  } else if (slug) {
+    const page = t.pages[slug];
+    title = `${page.title} | ${site.name}`;
+    description = page.description;
+    body = renderPolicy(language, slug, page);
+  } else {
+    title = site.name;
+    description = t.metaDescription;
+    body = renderHome(language);
+  }
+
   const canonical = `${site.origin}${localizedPath(language.code, slug)}`;
-  const body = slug ? renderPolicy(language, slug, page) : renderHome(language);
   return `<!doctype html>
 <html lang="${language.code}" dir="${language.dir}">
   <head>
@@ -47,10 +89,11 @@ function renderPage(language, slug) {
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <meta property="og:title" content="${escapeHtml(title)}" />
     <meta property="og:description" content="${escapeHtml(description)}" />
-    <meta property="og:type" content="website" />
+    <meta property="og:type" content="${ogType}" />
     <meta property="og:url" content="${canonical}" />
-    <meta property="og:image" content="${site.origin}/assets/hero_pregnancy.png" />
+    <meta property="og:image" content="${ogImage}" />
     <meta name="twitter:card" content="summary_large_image" />
+    ${jsonLd}
     <link rel="stylesheet" href="/assets/styles.css?v=${assetVersion}" />
   </head>
   <body>
@@ -63,37 +106,68 @@ function renderPage(language, slug) {
 
 function renderHeader(language, slug) {
   const t = content[language.code];
-  const nav = [
-    ['', t.nav.home],
-    ['about', t.nav.about],
-    ['privacy', t.nav.privacy],
-    ['terms', t.nav.terms],
-    ['ai-disclaimer', t.nav.ai],
-    ['contact', t.nav.contact]
-  ];
+  const lang = language.code;
+  const catItems = categories.slice().sort((a, b) => a.order - b.order);
+  const articleTitle = (article) => escapeHtml((article.i18n[lang] ?? article.i18n.en).title);
+
+  const languageLinks = languages
+    .map((item) => `<a class="${item.code === lang ? 'active' : ''}" href="${localizedPath(item.code, slug)}" hreflang="${item.code}">${escapeHtml(item.label)}</a>`)
+    .join('');
+
+  const desktopCategory = (category) => {
+    const label = escapeHtml(pick(category.title, lang));
+    const links = articlesInCategory(category.id)
+      .map((article) => `<a href="${localizedPath(lang, article.slug)}" role="menuitem">${articleTitle(article)}</a>`)
+      .join('');
+    return `<li class="nav-item has-menu">
+        <a class="nav-top" href="${localizedPath(lang, category.slug)}" aria-haspopup="true">${label}<span class="caret" aria-hidden="true"></span></a>
+        <div class="submenu" role="menu">
+          <a class="submenu-head" href="${localizedPath(lang, category.slug)}" role="menuitem">${label}</a>
+          ${links}
+        </div>
+      </li>`;
+  };
+
+  const mobileCategory = (category) => {
+    const label = escapeHtml(pick(category.title, lang));
+    const links = articlesInCategory(category.id)
+      .map((article) => `<a href="${localizedPath(lang, article.slug)}">${articleTitle(article)}</a>`)
+      .join('');
+    return `<details class="mobile-group">
+          <summary>${label}</summary>
+          <div class="mobile-sub"><a href="${localizedPath(lang, category.slug)}">${label}</a>${links}</div>
+        </details>`;
+  };
+
   return `<header class="site-header">
   <div class="nav">
-    <a class="brand" href="${localizedPath(language.code, '')}" aria-label="BeMama home">
+    <a class="brand" href="${localizedPath(lang, '')}" aria-label="BeMama home">
       <img src="/assets/bemama_logo_mark.png" alt="" />
       <span>BeMama</span>
     </a>
-    <nav class="nav-links" aria-label="${escapeHtml(t.nav.home)}">
-      ${nav.map(([itemSlug, label]) => `<a href="${localizedPath(language.code, itemSlug)}">${escapeHtml(label)}</a>`).join('')}
-      <a class="button secondary" href="${localizedPath(language.code, 'contact')}">${escapeHtml(t.nav.support)}</a>
+    <nav class="primary-nav" aria-label="${escapeHtml(t.nav.home)}">
+      <ul class="nav-list">
+        <li class="nav-item"><a class="nav-top" href="${localizedPath(lang, '')}">${escapeHtml(t.nav.home)}</a></li>
+        ${catItems.map(desktopCategory).join('')}
+        <li class="nav-item"><a class="nav-top" href="${localizedPath(lang, 'about')}">${escapeHtml(t.nav.about)}</a></li>
+        <li class="nav-item has-menu lang-item">
+          <button type="button" class="nav-top" aria-haspopup="true">${escapeHtml(t.nav.language)}<span class="caret" aria-hidden="true"></span></button>
+          <div class="submenu submenu-lang" role="menu">${languageLinks}</div>
+        </li>
+        <li class="nav-item"><a class="nav-top nav-support" href="${localizedPath(lang, 'contact')}">${escapeHtml(t.nav.support)}</a></li>
+      </ul>
     </nav>
-    <div class="language-switcher" aria-label="${escapeHtml(t.nav.language)}">
-      ${languages.map((item) => `<a class="${item.code === language.code ? 'active' : ''}" href="${localizedPath(item.code, slug)}" hreflang="${item.code}">${escapeHtml(item.label)}</a>`).join('')}
-    </div>
     <details class="mobile-menu">
       <summary aria-label="Open navigation menu"><span class="menu-icon" aria-hidden="true"></span></summary>
       <div class="mobile-menu-panel">
-        <nav class="mobile-nav-links" aria-label="${escapeHtml(t.nav.home)}">
-          ${nav.map(([itemSlug, label]) => `<a href="${localizedPath(language.code, itemSlug)}">${escapeHtml(label)}</a>`).join('')}
-          <a class="button secondary" href="${localizedPath(language.code, 'contact')}">${escapeHtml(t.nav.support)}</a>
-        </nav>
-        <div class="mobile-language-switcher" aria-label="${escapeHtml(t.nav.language)}">
-          ${languages.map((item) => `<a class="${item.code === language.code ? 'active' : ''}" href="${localizedPath(item.code, slug)}" hreflang="${item.code}">${escapeHtml(item.label)}</a>`).join('')}
-        </div>
+        <a class="mobile-link" href="${localizedPath(lang, '')}">${escapeHtml(t.nav.home)}</a>
+        ${catItems.map(mobileCategory).join('')}
+        <a class="mobile-link" href="${localizedPath(lang, 'about')}">${escapeHtml(t.nav.about)}</a>
+        <details class="mobile-group">
+          <summary>${escapeHtml(t.nav.language)}</summary>
+          <div class="mobile-sub mobile-lang">${languageLinks}</div>
+        </details>
+        <a class="mobile-link button secondary" href="${localizedPath(lang, 'contact')}">${escapeHtml(t.nav.support)}</a>
       </div>
     </details>
   </div>
@@ -234,6 +308,164 @@ function renderBlock(block) {
   </section>`;
 }
 
+function renderBreadcrumbs(language, trail) {
+  const lang = language.code;
+  const items = trail
+    .map((crumb, index) =>
+      index === trail.length - 1
+        ? `<li aria-current="page">${escapeHtml(crumb.label)}</li>`
+        : `<li><a href="${localizedPath(lang, crumb.slug)}">${escapeHtml(crumb.label)}</a></li>`
+    )
+    .join('');
+  return `<nav class="breadcrumbs" aria-label="Breadcrumb"><ul>${items}</ul></nav>`;
+}
+
+function renderAppCta(language) {
+  const strings = hubText(language.code);
+  return `<aside class="app-cta">
+    <div class="app-cta-copy">
+      <h2>${escapeHtml(strings.ctaTitle)}</h2>
+      <p>${escapeHtml(strings.ctaText)}</p>
+    </div>
+    <a class="button" href="${site.appUrl}">${escapeHtml(strings.ctaButton)}</a>
+  </aside>`;
+}
+
+function renderArticle(language, slug, article, data) {
+  const lang = language.code;
+  const strings = hubText(lang);
+  const category = categoryById.get(article.category);
+  const usingFallback = !article.i18n[lang];
+  const trail = [
+    { label: strings.home, slug: '' },
+    { label: pick(category.title, lang), slug: category.slug },
+    { label: data.title, slug: article.slug }
+  ];
+  const sections = data.sections
+    .map(
+      (section) => `<section class="article-section">
+      <h2>${escapeHtml(section.heading)}</h2>
+      ${section.image ? `<figure class="article-figure"><img src="/assets/${section.image}" alt="" loading="lazy" /></figure>` : ''}
+      ${section.paragraphs.map((p) => `<p>${escapeHtml(p)}</p>`).join('')}
+    </section>`
+    )
+    .join('');
+  const takeaways =
+    data.takeaways && data.takeaways.length
+      ? `<aside class="takeaways"><h2>${escapeHtml(strings.takeaways)}</h2><ul>${data.takeaways.map((item) => `<li>${escapeHtml(item)}</li>`).join('')}</ul></aside>`
+      : '';
+  const faq =
+    data.faq && data.faq.length
+      ? `<section class="faq"><h2>${escapeHtml(strings.faq)}</h2>${data.faq.map((item) => `<details class="faq-item"><summary>${escapeHtml(item.q)}</summary><p>${escapeHtml(item.a)}</p></details>`).join('')}</section>`
+      : '';
+  const related = articlesInCategory(article.category)
+    .filter((item) => item.slug !== article.slug)
+    .slice(0, 3);
+  const relatedBlock = related.length
+    ? `<section class="related"><h2>${escapeHtml(strings.related)}</h2><div class="related-grid">${related
+        .map((item) => {
+          const rd = item.i18n[lang] ?? item.i18n.en;
+          return `<a class="related-card" href="${localizedPath(lang, item.slug)}"><img src="/assets/${item.hero}" alt="" loading="lazy" /><span>${escapeHtml(rd.title)}</span></a>`;
+        })
+        .join('')}</div></section>`
+    : '';
+  const fallbackNotice = usingFallback ? `<div class="notice">${escapeHtml(strings.localizedNotice)}</div>` : '';
+
+  return `<main class="article-layout">
+  ${renderBreadcrumbs(language, trail)}
+  <article class="article">
+    <header class="article-head">
+      <span class="eyebrow">${escapeHtml(pick(category.title, lang))}</span>
+      <h1>${escapeHtml(data.title)}</h1>
+      ${article.updated ? `<p class="article-meta">${escapeHtml(strings.updatedLabel)}: ${escapeHtml(article.updated)}</p>` : ''}
+    </header>
+    <figure class="article-hero"><img src="/assets/${article.hero}" alt="" /></figure>
+    ${fallbackNotice}
+    <p class="article-intro">${escapeHtml(data.intro)}</p>
+    ${sections}
+    ${takeaways}
+    ${faq}
+    <div class="notice article-disclaimer">${escapeHtml(hubDisclaimer(lang))}</div>
+    ${renderAppCta(language)}
+    ${relatedBlock}
+  </article>
+</main>`;
+}
+
+function renderCategory(language, slug, category) {
+  const lang = language.code;
+  const strings = hubText(lang);
+  const trail = [
+    { label: strings.home, slug: '' },
+    { label: pick(category.title, lang), slug: category.slug }
+  ];
+  const cards = articlesInCategory(category.id)
+    .map((article) => {
+      const data = article.i18n[lang] ?? article.i18n.en;
+      return `<a class="article-card" href="${localizedPath(lang, article.slug)}">
+        <div class="article-card-media"><img src="/assets/${article.hero}" alt="" loading="lazy" /></div>
+        <div class="article-card-copy">
+          <h3>${escapeHtml(data.title)}</h3>
+          <p>${escapeHtml(data.description)}</p>
+          <span class="article-card-link">${escapeHtml(strings.readMore)}</span>
+        </div>
+      </a>`;
+    })
+    .join('');
+  return `<main class="category-layout">
+  ${renderBreadcrumbs(language, trail)}
+  <section class="category-hero">
+    <div class="category-hero-copy">
+      <span class="eyebrow">BeMama</span>
+      <h1>${escapeHtml(pick(category.title, lang))}</h1>
+      <p>${escapeHtml(pick(category.blurb, lang))}</p>
+    </div>
+    <figure class="category-hero-media"><img src="/assets/${category.hero}" alt="" /></figure>
+  </section>
+  <section class="section">
+    <div class="article-grid">${cards}</div>
+  </section>
+  ${renderAppCta(language)}
+</main>`;
+}
+
+function renderArticleJsonLd(language, slug, article, data) {
+  const lang = language.code;
+  const category = categoryById.get(article.category);
+  const url = `${site.origin}${localizedPath(lang, slug)}`;
+  const graph = [
+    {
+      '@type': 'Article',
+      headline: data.title,
+      description: data.description,
+      image: `${site.origin}/assets/${article.hero}`,
+      inLanguage: lang,
+      mainEntityOfPage: url,
+      publisher: { '@type': 'Organization', name: site.name }
+    },
+    {
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: hubText(lang).home, item: `${site.origin}${localizedPath(lang, '')}` },
+        { '@type': 'ListItem', position: 2, name: pick(category.title, lang), item: `${site.origin}${localizedPath(lang, category.slug)}` },
+        { '@type': 'ListItem', position: 3, name: data.title, item: url }
+      ]
+    }
+  ];
+  if (data.faq && data.faq.length) {
+    graph.push({
+      '@type': 'FAQPage',
+      mainEntity: data.faq.map((item) => ({
+        '@type': 'Question',
+        name: item.q,
+        acceptedAnswer: { '@type': 'Answer', text: item.a }
+      }))
+    });
+  }
+  const json = JSON.stringify({ '@context': 'https://schema.org', '@graph': graph }).replaceAll('<', '\\u003c');
+  return `<script type="application/ld+json">${json}</script>`;
+}
+
 function renderFooter(language) {
   const t = content[language.code];
   return `<footer class="site-footer">
@@ -311,7 +543,7 @@ function renderAlternates(slug) {
 function renderSitemap() {
   const urls = [];
   for (const language of languages) {
-    for (const slug of pageSlugs) {
+    for (const slug of allSlugs) {
       urls.push(`  <url><loc>${site.origin}${localizedPath(language.code, slug)}</loc></url>`);
     }
   }

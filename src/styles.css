@@ -949,8 +949,8 @@ html[dir="rtl"] .notice {
     padding: 10px 0;
   }
 
-  .nav-links,
-  .language-switcher {
+  .primary-nav,
+  .nav-actions {
     display: none;
   }
 
