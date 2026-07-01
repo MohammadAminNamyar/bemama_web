@@ -17,6 +17,7 @@ import { pregnancyArticles } from './articles/pregnancy.mjs';
 import { newbornArticles } from './articles/newborn.mjs';
 import { childArticles } from './articles/baby-and-child.mjs';
 import { appArticles } from './articles/about-bemama.mjs';
+import { hubTranslations } from './articles/i18n/index.mjs';
 
 // --- Categories (drive the navigation menu and the category landing pages) ---
 export const categories = [
@@ -26,9 +27,23 @@ export const categories = [
     order: 1,
     hero: 'hero_planning.png',
     icon: 'icon_daily_action.png',
-    title: { en: 'Trying to Conceive' },
+    title: {
+      en: 'Trying to Conceive',
+      fa: 'اقدام به بارداری',
+      ar: 'التخطيط للحمل',
+      fr: 'Essayer de concevoir',
+      tr: 'Gebelik hazırlığı',
+      es: 'En busca del embarazo',
+      pt: 'Tentando engravidar'
+    },
     blurb: {
-      en: 'Preparing your body and mind before pregnancy — cycles, fertility, preconception health, and evidence-based conception guidance.'
+      en: 'Preparing your body and mind before pregnancy — cycles, fertility, preconception health, and evidence-based conception guidance.',
+      fa: 'آماده‌سازی جسم و ذهن پیش از بارداری — چرخه قاعدگی، باروری، سلامت پیش از بارداری و راهنمایی مبتنی بر شواهد.',
+      ar: 'تجهيز جسمك وذهنك قبل الحمل — الدورة الشهرية والخصوبة وصحة ما قبل الحمل وإرشادات مبنية على الأدلة.',
+      fr: 'Préparer votre corps et votre esprit avant la grossesse — cycles, fertilité, santé préconceptionnelle et conseils fondés sur les preuves.',
+      tr: 'Gebelik öncesinde bedeninizi ve zihninizi hazırlamak — döngüler, doğurganlık, gebelik öncesi sağlık ve kanıta dayalı rehberlik.',
+      es: 'Prepara tu cuerpo y tu mente antes del embarazo: ciclos, fertilidad, salud preconcepcional y orientación basada en la evidencia.',
+      pt: 'Preparando corpo e mente antes da gravidez — ciclos, fertilidade, saúde pré-concepção e orientação baseada em evidências.'
     }
   },
   {
@@ -37,9 +52,23 @@ export const categories = [
     order: 2,
     hero: 'hero_pregnancy.png',
     icon: 'icon_ask_question.png',
-    title: { en: 'Pregnancy' },
+    title: {
+      en: 'Pregnancy',
+      fa: 'بارداری',
+      ar: 'الحمل',
+      fr: 'Grossesse',
+      tr: 'Hamilelik',
+      es: 'Embarazo',
+      pt: 'Gravidez'
+    },
     blurb: {
-      en: 'Trimester-by-trimester guidance on symptoms, nutrition, prenatal care, and getting ready for birth.'
+      en: 'Trimester-by-trimester guidance on symptoms, nutrition, prenatal care, and getting ready for birth.',
+      fa: 'راهنمای سه‌ماهه به سه‌ماهه درباره علائم، تغذیه، مراقبت‌های بارداری و آمادگی برای زایمان.',
+      ar: 'إرشادات لكل ثلث من الحمل حول الأعراض والتغذية ورعاية الحمل والاستعداد للولادة.',
+      fr: 'Des conseils trimestre par trimestre sur les symptômes, la nutrition, le suivi prénatal et la préparation à la naissance.',
+      tr: 'Belirtiler, beslenme, gebelik takibi ve doğuma hazırlık üzerine üçer aylık dönemlere göre rehberlik.',
+      es: 'Orientación trimestre a trimestre sobre síntomas, nutrición, control prenatal y preparación para el parto.',
+      pt: 'Orientação trimestre a trimestre sobre sintomas, nutrição, pré-natal e preparação para o parto.'
     }
   },
   {
@@ -48,9 +77,23 @@ export const categories = [
     order: 3,
     hero: 'hero_baby.png',
     icon: 'icon_shield_heart.png',
-    title: { en: 'Newborn Care' },
+    title: {
+      en: 'Newborn Care',
+      fa: 'مراقبت از نوزاد',
+      ar: 'رعاية المولود',
+      fr: 'Soins du nouveau-né',
+      tr: 'Yenidoğan bakımı',
+      es: 'Cuidado del recién nacido',
+      pt: 'Cuidados com o recém-nascido'
+    },
     blurb: {
-      en: 'The first months — feeding, sleep, daily care, and knowing when to call your doctor, plus recovery for you.'
+      en: 'The first months — feeding, sleep, daily care, and knowing when to call your doctor, plus recovery for you.',
+      fa: 'ماه‌های نخست — تغذیه، خواب، مراقبت روزانه و اینکه چه زمانی باید با پزشک تماس بگیرید؛ به‌علاوه بهبودی خود شما.',
+      ar: 'الأشهر الأولى — التغذية والنوم والرعاية اليومية ومعرفة متى تتصلين بالطبيب، إضافة إلى تعافيك أنت.',
+      fr: 'Les premiers mois — alimentation, sommeil, soins quotidiens, savoir quand appeler le médecin, et votre propre récupération.',
+      tr: 'İlk aylar — beslenme, uyku, günlük bakım, doktoru ne zaman aramanız gerektiği ve sizin toparlanmanız.',
+      es: 'Los primeros meses: alimentación, sueño, cuidados diarios, cuándo llamar al médico y tu propia recuperación.',
+      pt: 'Os primeiros meses — alimentação, sono, cuidados diários, quando ligar para o médico e a sua recuperação.'
     }
   },
   {
@@ -109,6 +152,24 @@ export const articles = [
   ...childArticles,
   ...appArticles
 ];
+
+// Merge per-language translations into each article's i18n map. Section images
+// are copied from the English source by index so translators never manage
+// image paths and images always stay in sync with the English original.
+for (const article of articles) {
+  const en = article.i18n.en;
+  for (const [lang, map] of Object.entries(hubTranslations)) {
+    const t = map[article.slug];
+    if (!t) continue;
+    article.i18n[lang] = {
+      ...t,
+      sections: (t.sections || []).map((section, index) => {
+        const image = en.sections[index]?.image;
+        return image ? { ...section, image } : { ...section };
+      })
+    };
+  }
+}
 
 // --- Derived lookups (used by the build) ---------------------------------
 export const categoryById = new Map(categories.map((category) => [category.id, category]));

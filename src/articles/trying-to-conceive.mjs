@@ -12,14 +12,14 @@ export const ttcArticles = [
       en: {
         title: 'Preconception Health: How to Prepare Your Body for Pregnancy',
         description:
-          'A practical preconception checklist — nutrition, prenatal vitamins, health checks, lifestyle changes, and when to start — to give your future pregnancy the healthiest possible start.',
+          'A practical preconception checklist , nutrition, prenatal vitamins, health checks, lifestyle changes, and when to start , to give your future pregnancy the healthiest possible start.',
         intro:
           'The months before you start trying can matter just as much as pregnancy itself. Preparing your body early gives a baby the healthiest possible foundation and can make conceiving smoother. Here is a clear, practical checklist to work through.',
         sections: [
           {
             heading: 'Start a prenatal vitamin with folic acid',
             paragraphs: [
-              'Begin taking a daily prenatal vitamin containing folic acid ideally two to three months before you try to conceive. Adequate folic acid in the earliest weeks — often before you know you are pregnant — significantly lowers the risk of neural tube defects.',
+              'Begin taking a daily prenatal vitamin containing folic acid ideally two to three months before you try to conceive. Adequate folic acid in the earliest weeks , often before you know you are pregnant , significantly lowers the risk of neural tube defects.',
               'Look for a prenatal that also includes iron, iodine, and vitamin D, and confirm the right dose with your healthcare provider, since some people need more.'
             ]
           },
@@ -57,7 +57,7 @@ export const ttcArticles = [
           'Book a preconception check-up to review medications, conditions, and vaccines.',
           'Eat a balanced diet and aim for a healthy weight range.',
           'Stop smoking, avoid alcohol, and moderate caffeine.',
-          'Learn your cycle and be patient — conception often takes a few months.'
+          'Learn your cycle and be patient , conception often takes a few months.'
         ],
         faq: [
           {
@@ -87,7 +87,7 @@ export const ttcArticles = [
         description:
           'Learn how the menstrual cycle works, when ovulation happens, and how to identify your fertile window so you can time intercourse for the best chance of conceiving.',
         intro:
-          'Knowing how your cycle works is the single most useful skill when you are trying to conceive. It tells you when you are most likely to get pregnant — your fertile window — so you can focus your efforts on the right days.',
+          'Knowing how your cycle works is the single most useful skill when you are trying to conceive. It tells you when you are most likely to get pregnant , your fertile window , so you can focus your efforts on the right days.',
         sections: [
           {
             heading: 'The phases of the menstrual cycle',
@@ -99,7 +99,7 @@ export const ttcArticles = [
           {
             heading: 'What is ovulation?',
             paragraphs: [
-              'Ovulation is when an ovary releases a mature egg. It typically happens about 12–16 days before your next period starts — not necessarily on "day 14," which is a common misconception for anyone whose cycle is not exactly 28 days.',
+              'Ovulation is when an ovary releases a mature egg. It typically happens about 12–16 days before your next period starts , not necessarily on "day 14," which is a common misconception for anyone whose cycle is not exactly 28 days.',
               'Once released, the egg survives for around 12–24 hours. If it is not fertilized in that time, the cycle moves toward your next period.'
             ]
           },
@@ -107,7 +107,7 @@ export const ttcArticles = [
             heading: 'Your fertile window',
             image: 'content/ttc-notebook-window.jpg',
             paragraphs: [
-              'Because sperm can survive in the reproductive tract for up to about five days, your fertile window spans roughly the five days before ovulation plus the day of ovulation itself — about six days total.',
+              'Because sperm can survive in the reproductive tract for up to about five days, your fertile window spans roughly the five days before ovulation plus the day of ovulation itself , about six days total.',
               'The two to three days leading up to and including ovulation are the most fertile. Having intercourse during this window gives sperm the best chance of meeting the egg.'
             ]
           },
@@ -159,7 +159,7 @@ export const ttcArticles = [
       en: {
         title: 'How to Track Ovulation: Temperature, Mucus, and Kits',
         description:
-          'Three reliable ways to track ovulation — basal body temperature, cervical mucus, and ovulation predictor kits — and how to combine them to find your most fertile days.',
+          'Three reliable ways to track ovulation , basal body temperature, cervical mucus, and ovulation predictor kits , and how to combine them to find your most fertile days.',
         intro:
           'Pinpointing ovulation helps you focus on your most fertile days. No single method is perfect, but combining a few gives a clear, reliable picture of your cycle over time.',
         sections: [
@@ -173,14 +173,14 @@ export const ttcArticles = [
           {
             heading: 'Cervical mucus',
             paragraphs: [
-              'Cervical mucus changes across the cycle. After your period it is often scant or sticky; as ovulation approaches it becomes clearer, wetter, and stretchy — similar to raw egg white. This "fertile" mucus helps sperm travel and signals your most fertile days.',
+              'Cervical mucus changes across the cycle. After your period it is often scant or sticky; as ovulation approaches it becomes clearer, wetter, and stretchy , similar to raw egg white. This "fertile" mucus helps sperm travel and signals your most fertile days.',
               'Checking daily and noting the texture is free and surprisingly informative once you learn your own pattern.'
             ]
           },
           {
             heading: 'Ovulation predictor kits (OPKs)',
             paragraphs: [
-              'These urine tests detect the surge in luteinizing hormone (LH) that happens about 24–36 hours before ovulation. A positive result means ovulation is likely imminent — a good time to focus on conceiving.',
+              'These urine tests detect the surge in luteinizing hormone (LH) that happens about 24–36 hours before ovulation. A positive result means ovulation is likely imminent , a good time to focus on conceiving.',
               'Start testing a few days before you expect to ovulate. Digital kits can be easier to read than line tests, where interpreting a faint line can be tricky.'
             ]
           },
@@ -188,7 +188,7 @@ export const ttcArticles = [
             heading: 'Combining the methods',
             paragraphs: [
               'Each method has a weakness: OPKs predict but can misfire with certain conditions, BBT only confirms after the fact, and mucus is subjective. Together they cross-check one another.',
-              'A common approach is to use OPKs to anticipate ovulation, cervical mucus to spot the approaching window, and BBT to confirm ovulation occurred — then look for the pattern to repeat.'
+              'A common approach is to use OPKs to anticipate ovulation, cervical mucus to spot the approaching window, and BBT to confirm ovulation occurred , then look for the pattern to repeat.'
             ]
           },
           {
@@ -209,7 +209,7 @@ export const ttcArticles = [
         faq: [
           {
             q: 'Which ovulation method is most accurate?',
-            a: 'No single method wins — combining them is most reliable. OPKs are great for predicting the window, while BBT confirms ovulation actually occurred.'
+            a: 'No single method wins , combining them is most reliable. OPKs are great for predicting the window, while BBT confirms ovulation actually occurred.'
           },
           {
             q: 'Does a positive ovulation test guarantee I will ovulate?',
@@ -234,12 +234,12 @@ export const ttcArticles = [
         description:
           'Why folic acid matters before and during early pregnancy, how much you may need, food sources, and what to look for in a preconception prenatal vitamin.',
         intro:
-          'Folic acid is the standout nutrient for anyone trying to conceive. Taking it before pregnancy — not just after a positive test — protects your baby during the earliest, most critical weeks of development.',
+          'Folic acid is the standout nutrient for anyone trying to conceive. Taking it before pregnancy , not just after a positive test , protects your baby during the earliest, most critical weeks of development.',
         sections: [
           {
             heading: 'Why folic acid matters so early',
             paragraphs: [
-              'Folic acid is the synthetic form of folate, a B vitamin essential for forming the neural tube — the structure that becomes the brain and spinal cord. The neural tube closes within the first month of pregnancy, often before many people realize they are pregnant.',
+              'Folic acid is the synthetic form of folate, a B vitamin essential for forming the neural tube , the structure that becomes the brain and spinal cord. The neural tube closes within the first month of pregnancy, often before many people realize they are pregnant.',
               'Getting enough folic acid before and during this window substantially reduces the risk of neural tube defects such as spina bifida.'
             ]
           },
@@ -247,7 +247,7 @@ export const ttcArticles = [
             heading: 'How much do you need?',
             paragraphs: [
               'Many guidelines suggest a daily supplement containing folic acid for anyone who could become pregnant, starting before conception and continuing through early pregnancy.',
-              'Some people — for example those with certain medical conditions, on specific medications, or with a previous pregnancy affected by a neural tube defect — may be advised to take a higher dose. Always confirm the right amount with your healthcare provider.'
+              'Some people , for example those with certain medical conditions, on specific medications, or with a previous pregnancy affected by a neural tube defect , may be advised to take a higher dose. Always confirm the right amount with your healthcare provider.'
             ]
           },
           {
@@ -268,14 +268,14 @@ export const ttcArticles = [
         takeaways: [
           'Folic acid protects the neural tube, which forms in the first month of pregnancy.',
           'Start a folic-acid supplement before conceiving, not after a positive test.',
-          'Some people need a higher dose — confirm yours with a provider.',
+          'Some people need a higher dose , confirm yours with a provider.',
           'Eat folate-rich foods, but still take the supplement.',
           'A prenatal vitamin conveniently covers folic acid plus iron, iodine, and vitamin D.'
         ],
         faq: [
           {
             q: 'When exactly should I start taking folic acid?',
-            a: 'Ideally at least one month — many suggest two to three — before trying to conceive, and continue through at least the first trimester.'
+            a: 'Ideally at least one month , many suggest two to three , before trying to conceive, and continue through at least the first trimester.'
           },
           {
             q: 'Is folate in food enough on its own?',
@@ -305,7 +305,7 @@ export const ttcArticles = [
           {
             heading: 'Build meals around whole foods',
             paragraphs: [
-              'Emphasize vegetables, fruit, whole grains, legumes, nuts, and healthy fats such as olive oil. Diets rich in these — sometimes described as Mediterranean-style — are associated with better reproductive health.',
+              'Emphasize vegetables, fruit, whole grains, legumes, nuts, and healthy fats such as olive oil. Diets rich in these , sometimes described as Mediterranean-style , are associated with better reproductive health.',
               'Choose good protein sources and include some plant proteins. Cutting back on heavily processed foods, sugary drinks, and trans fats is a simple, high-value change.'
             ]
           },
@@ -319,12 +319,12 @@ export const ttcArticles = [
           {
             heading: 'Aim for a healthy weight',
             paragraphs: [
-              'Being significantly under or over a healthy weight can disrupt ovulation and lower fertility. You do not need to be "perfect" — even modest movement toward a healthy range can help regulate cycles.',
+              'Being significantly under or over a healthy weight can disrupt ovulation and lower fertility. You do not need to be "perfect" , even modest movement toward a healthy range can help regulate cycles.',
               'Focus on sustainable habits rather than restrictive dieting, which can itself affect cycles.'
             ]
           },
           {
-            heading: 'Habits that help — and hurt',
+            heading: 'Habits that help , and hurt',
             paragraphs: [
               'Regular moderate exercise, good sleep, and stress management support hormonal balance. Very intense over-exercising, on the other hand, can sometimes disrupt cycles.',
               'Avoid smoking and recreational drugs, limit alcohol, and keep caffeine moderate. These affect both egg and sperm quality.'
@@ -356,7 +356,7 @@ export const ttcArticles = [
           },
           {
             q: 'Does weight really affect fertility?',
-            a: 'Yes — being well under or over a healthy weight can disrupt ovulation and reduce fertility, so moving toward a healthy range can help.'
+            a: 'Yes , being well under or over a healthy weight can disrupt ovulation and reduce fertility, so moving toward a healthy range can help.'
           }
         ]
       }
@@ -371,9 +371,9 @@ export const ttcArticles = [
       en: {
         title: 'The Shettles Method: Can Timing Influence Your Baby’s Sex?',
         description:
-          'A clear, balanced guide to the Shettles method — the theory behind timing intercourse to influence a baby’s sex, how it is practiced, and what the evidence really shows.',
+          'A clear, balanced guide to the Shettles method , the theory behind timing intercourse to influence a baby’s sex, how it is practiced, and what the evidence really shows.',
         intro:
-          'The Shettles method is one of the best-known "natural" approaches for couples hoping to sway the odds of having a boy or a girl. Developed by Dr. Landrum Shettles in the 1960s, it centers on the timing of intercourse relative to ovulation. It remains popular because it is free, non-invasive, and easy to try at home — but it is important to understand both the idea and its limits before you rely on it.',
+          'The Shettles method is one of the best-known "natural" approaches for couples hoping to sway the odds of having a boy or a girl. Developed by Dr. Landrum Shettles in the 1960s, it centers on the timing of intercourse relative to ovulation. It remains popular because it is free, non-invasive, and easy to try at home , but it is important to understand both the idea and its limits before you rely on it.',
         sections: [
           {
             heading: 'What the Shettles method claims',
@@ -385,7 +385,7 @@ export const ttcArticles = [
           {
             heading: 'Timing for a boy vs. a girl',
             paragraphs: [
-              'To try for a boy, the method suggests having intercourse as close as possible to ovulation — ideally within about 24 hours before or at ovulation — so the faster Y-bearing sperm reach the egg first.',
+              'To try for a boy, the method suggests having intercourse as close as possible to ovulation , ideally within about 24 hours before or at ovulation , so the faster Y-bearing sperm reach the egg first.',
               'To try for a girl, it suggests intercourse two to four days before ovulation and then stopping, on the theory that only the hardier X-bearing sperm survive long enough to meet the egg once it is released.',
               'Because timing is everything in this method, accurately identifying your fertile window is the central practical challenge.'
             ]
@@ -395,7 +395,7 @@ export const ttcArticles = [
             image: 'content/ttc-journal.jpg',
             paragraphs: [
               'Several signals can help you estimate ovulation: a rise in basal body temperature (BBT) after ovulation, changes in cervical mucus (clear and stretchy near ovulation), and ovulation predictor kits that detect the pre-ovulation surge in luteinizing hormone.',
-              'No single signal is perfect, and cycles vary from month to month. Combining methods — for example, an ovulation kit alongside daily BBT and mucus notes — gives a more reliable picture than any one signal alone.',
+              'No single signal is perfect, and cycles vary from month to month. Combining methods , for example, an ovulation kit alongside daily BBT and mucus notes , gives a more reliable picture than any one signal alone.',
               'A tracking app that records these signals over several cycles can make patterns much easier to see than paper charts.'
             ]
           },
@@ -411,16 +411,16 @@ export const ttcArticles = [
             heading: 'A gentler, evidence-based mindset',
             paragraphs: [
               'If you enjoy the process and understand the odds, there is little harm in trying timing-based approaches. The same ovulation-tracking skills the method requires are genuinely useful for conceiving at all, because they help you identify your most fertile days.',
-              'The methods with real, proven control over a baby’s sex are medical — most notably genetic testing during IVF (PGT) — and are typically used for medical reasons and regulated differently around the world. If sex selection matters deeply to you, a conversation with a fertility specialist is the right next step.'
+              'The methods with real, proven control over a baby’s sex are medical , most notably genetic testing during IVF (PGT) , and are typically used for medical reasons and regulated differently around the world. If sex selection matters deeply to you, a conversation with a fertility specialist is the right next step.'
             ]
           }
         ],
         takeaways: [
           'The Shettles method times intercourse around ovulation to try to favor a boy (closer to ovulation) or a girl (a few days before).',
           'It depends entirely on accurately identifying your fertile window using BBT, cervical mucus, and ovulation kits.',
-          'Current evidence does not confirm it reliably works — results tend to land near the natural 50/50.',
+          'Current evidence does not confirm it reliably works , results tend to land near the natural 50/50.',
           'It is generally safe to try, and the tracking skills it teaches genuinely help with conceiving.',
-          'For proven sex selection, only medical methods like PGT during IVF apply — discuss options with a specialist.'
+          'For proven sex selection, only medical methods like PGT during IVF apply , discuss options with a specialist.'
         ],
         faq: [
           {
@@ -450,7 +450,7 @@ export const ttcArticles = [
         description:
           'Fertility is a shared journey. Learn the lifestyle habits, nutrition, and everyday factors that support healthy sperm, and when a partner should seek advice.',
         intro:
-          'Around half of fertility challenges involve a male factor, yet sperm health is often overlooked. The good news is that many of the things that support healthy sperm are simple lifestyle habits — and because sperm take about three months to develop, changes made now pay off within a season.',
+          'Around half of fertility challenges involve a male factor, yet sperm health is often overlooked. The good news is that many of the things that support healthy sperm are simple lifestyle habits , and because sperm take about three months to develop, changes made now pay off within a season.',
         sections: [
           {
             heading: 'What healthy sperm depends on',
@@ -483,7 +483,7 @@ export const ttcArticles = [
           {
             heading: 'When to seek advice',
             paragraphs: [
-              'If a couple has been trying for about a year without success — or six months if the female partner is over 35 — both partners should seek evaluation, which for men usually starts with a simple semen analysis.',
+              'If a couple has been trying for about a year without success , or six months if the female partner is over 35 , both partners should seek evaluation, which for men usually starts with a simple semen analysis.',
               'Certain issues, such as a history of undescended testicles, injury, or infection, are worth raising sooner.'
             ]
           }
@@ -536,7 +536,7 @@ export const ttcArticles = [
             heading: 'What affects how long it takes',
             paragraphs: [
               'Age is the biggest single factor, especially for the female partner, as both egg quantity and quality gradually decline with time. Overall health, weight, smoking, alcohol, and how well intercourse is timed to the fertile window also matter.',
-              'Underlying conditions — such as irregular ovulation, endometriosis, or male-factor issues — can extend the timeline.'
+              'Underlying conditions , such as irregular ovulation, endometriosis, or male-factor issues , can extend the timeline.'
             ]
           },
           {
@@ -549,7 +549,7 @@ export const ttcArticles = [
           {
             heading: 'When to seek help',
             paragraphs: [
-              'General guidance is to see a healthcare provider after about 12 months of trying without success — or after 6 months if the female partner is over 35, because time matters more with age.',
+              'General guidance is to see a healthcare provider after about 12 months of trying without success , or after 6 months if the female partner is over 35, because time matters more with age.',
               'Seek advice sooner if you have very irregular or absent periods, known reproductive conditions, or a history that concerns you.'
             ]
           }
@@ -559,7 +559,7 @@ export const ttcArticles = [
           'Conceiving in the first month is the exception, not the rule.',
           'Age is the biggest factor, along with health, weight, and timing.',
           'Timing intercourse to the fertile window most improves your odds.',
-          'Seek help after 12 months trying — or 6 months if over 35.'
+          'Seek help after 12 months trying , or 6 months if over 35.'
         ],
         faq: [
           {
@@ -589,7 +589,7 @@ export const ttcArticles = [
         description:
           'How fertility returns after stopping different contraceptives, how soon you can try to conceive, and what changes to expect in your cycle.',
         intro:
-          'Deciding to stop contraception is an exciting step. How quickly your fertility and cycles return depends on the method you were using — here is what to expect so there are no surprises.',
+          'Deciding to stop contraception is an exciting step. How quickly your fertility and cycles return depends on the method you were using , here is what to expect so there are no surprises.',
         sections: [
           {
             heading: 'Fertility usually returns quickly',
@@ -601,7 +601,7 @@ export const ttcArticles = [
           {
             heading: 'The one exception: the injection',
             paragraphs: [
-              'The contraceptive injection is the notable exception. After stopping it, it can take several months — sometimes up to a year — for ovulation and fertility to fully return.',
+              'The contraceptive injection is the notable exception. After stopping it, it can take several months , sometimes up to a year , for ovulation and fertility to fully return.',
               'If you are planning ahead and using the injection, it is worth stopping well before you want to conceive.'
             ]
           },
@@ -622,7 +622,7 @@ export const ttcArticles = [
         ],
         takeaways: [
           'For most methods, fertility can return within the first cycle after stopping.',
-          'The contraceptive injection is the exception — return can take months.',
+          'The contraceptive injection is the exception , return can take months.',
           'Early cycles off hormonal birth control may be irregular; that is normal.',
           'Start a folic-acid prenatal as soon as you begin trying.',
           'See a provider if periods do not return after a few months.'
@@ -653,15 +653,15 @@ export const ttcArticles = [
       en: {
         title: 'When to See a Fertility Specialist',
         description:
-          'Knowing when to seek help trying to conceive — the general timelines, signs to act sooner, what a first evaluation involves, and how to prepare.',
+          'Knowing when to seek help trying to conceive , the general timelines, signs to act sooner, what a first evaluation involves, and how to prepare.',
         intro:
-          'Trying to conceive can bring a mix of hope and worry, and knowing when to seek help takes away some of the guesswork. Seeing a specialist does not mean something is wrong — it means getting answers and support.',
+          'Trying to conceive can bring a mix of hope and worry, and knowing when to seek help takes away some of the guesswork. Seeing a specialist does not mean something is wrong , it means getting answers and support.',
         sections: [
           {
             heading: 'The general timelines',
             paragraphs: [
               'A common guideline is to seek evaluation after about 12 months of regular, unprotected intercourse without conceiving. If the female partner is over 35, seek help after about 6 months, because time is more of a factor with age.',
-              'These are starting points, not strict rules — your provider can advise based on your situation.'
+              'These are starting points, not strict rules , your provider can advise based on your situation.'
             ]
           },
           {
@@ -683,12 +683,12 @@ export const ttcArticles = [
             heading: 'Preparing for your appointment',
             paragraphs: [
               'Bring a record of your cycles, how long you have been trying, any tracking data, and a list of medications and past medical history for both partners. This helps the specialist tailor advice quickly.',
-              'Write down your questions in advance — appointments can feel rushed, and a list ensures you cover what matters to you.'
+              'Write down your questions in advance , appointments can feel rushed, and a list ensures you cover what matters to you.'
             ]
           }
         ],
         takeaways: [
-          'See a specialist after ~12 months of trying — or ~6 months if over 35.',
+          'See a specialist after ~12 months of trying , or ~6 months if over 35.',
           'Seek help sooner with irregular periods, known conditions, or recurrent miscarriage.',
           'A first evaluation covers both partners and is mostly simple tests.',
           'Bring cycle records, tracking data, and medical history to your appointment.',
@@ -705,7 +705,7 @@ export const ttcArticles = [
           },
           {
             q: 'Is it too early to ask for help before a year?',
-            a: 'No. If you have concerns — especially irregular cycles or a relevant history — it is reasonable to seek advice sooner for reassurance and a plan.'
+            a: 'No. If you have concerns , especially irregular cycles or a relevant history , it is reasonable to seek advice sooner for reassurance and a plan.'
           }
         ]
       }
