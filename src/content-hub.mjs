@@ -102,9 +102,23 @@ export const categories = [
     order: 4,
     hero: 'hero_child.png',
     icon: 'icon_ask_ai.png',
-    title: { en: 'Baby & Child' },
+    title: {
+      en: 'Baby & Child',
+      fa: 'نوزاد و کودک',
+      ar: 'الرضيع والطفل',
+      fr: 'Bébé et enfant',
+      tr: 'Bebek ve çocuk',
+      es: 'Bebé y niño',
+      pt: 'Bebê e criança'
+    },
     blurb: {
-      en: 'Milestones, feeding, sleep, and positive parenting as your baby grows into a curious, confident child.'
+      en: 'Milestones, feeding, sleep, and positive parenting as your baby grows into a curious, confident child.',
+      fa: 'نقاط عطف رشد، تغذیه، خواب و والدگری مثبت در مسیری که نوزاد شما به کودکی کنجکاو و بااعتمادبه‌نفس تبدیل می‌شود.',
+      ar: 'مراحل النمو والتغذية والنوم والتربية الإيجابية بينما يكبر طفلك ليصبح طفلاً فضولياً واثقاً.',
+      fr: 'Étapes du développement, alimentation, sommeil et parentalité positive à mesure que votre bébé devient un enfant curieux et confiant.',
+      tr: 'Bebeğiniz meraklı ve özgüvenli bir çocuğa dönüşürken gelişim basamakları, beslenme, uyku ve olumlu ebeveynlik.',
+      es: 'Hitos, alimentación, sueño y crianza positiva mientras tu bebé crece y se convierte en un niño curioso y seguro.',
+      pt: 'Marcos do desenvolvimento, alimentação, sono e parentalidade positiva enquanto seu bebê se torna uma criança curiosa e confiante.'
     }
   },
   {
@@ -113,9 +127,23 @@ export const categories = [
     order: 5,
     hero: 'app_daily_plan.png',
     icon: 'icon_ask_ai.png',
-    title: { en: 'About BeMama' },
+    title: {
+      en: 'About BeMama',
+      fa: 'درباره BeMama',
+      ar: 'حول BeMama',
+      fr: 'À propos de BeMama',
+      tr: 'BeMama hakkında',
+      es: 'Acerca de BeMama',
+      pt: 'Sobre a BeMama'
+    },
     blurb: {
-      en: 'How BeMama supports every stage — Daily Journey, Q&A, community, and tools — and how to get started.'
+      en: 'How BeMama supports every stage — Daily Journey, Q&A, community, and tools — and how to get started.',
+      fa: 'BeMama چگونه در هر مرحله همراه شماست — مسیر روزانه، پرسش و پاسخ، جامعه و ابزارها — و چگونه شروع کنید.',
+      ar: 'كيف تدعمك BeMama في كل مرحلة — المسار اليومي والأسئلة والمجتمع والأدوات — وكيف تبدئين.',
+      fr: 'Comment BeMama vous accompagne à chaque étape — Parcours quotidien, Q&R, communauté et outils — et comment commencer.',
+      tr: 'BeMama her aşamada nasıl destek olur — Günlük Yolculuk, Soru-Cevap, topluluk ve araçlar — ve nasıl başlanır.',
+      es: 'Cómo te acompaña BeMama en cada etapa —Camino Diario, preguntas, comunidad y herramientas— y cómo empezar.',
+      pt: 'Como a BeMama apoia cada fase — Jornada Diária, perguntas, comunidade e ferramentas — e como começar.'
     }
   }
 ];
@@ -136,12 +164,96 @@ export const hubUi = {
     updatedLabel: 'Updated',
     localizedNotice:
       'This article is shown in English while its translation is prepared.'
+  },
+  fa: {
+    home: 'خانه',
+    inThisSection: 'در این بخش',
+    takeaways: 'نکته‌های کلیدی',
+    faq: 'پرسش‌های پرتکرار',
+    related: 'مقاله‌های مرتبط',
+    readMore: 'خواندن راهنما',
+    ctaTitle: 'BeMama را همراه خود داشته باشید',
+    ctaText: 'راهنمایی روزانه متناسب با مرحله شما، جامعه‌ای حمایتگر و ابزارهای کاربردی در یک اپ آرام.',
+    ctaButton: 'باز کردن اپ BeMama',
+    updatedLabel: 'به‌روزرسانی',
+    localizedNotice: 'این مقاله تا آماده شدن ترجمه، به انگلیسی نمایش داده می‌شود.'
+  },
+  ar: {
+    home: 'الرئيسية',
+    inThisSection: 'في هذا القسم',
+    takeaways: 'أهم النقاط',
+    faq: 'الأسئلة الشائعة',
+    related: 'مقالات ذات صلة',
+    readMore: 'قراءة الدليل',
+    ctaTitle: 'خذي BeMama معك',
+    ctaText: 'إرشاد يومي حسب مرحلتك، ومجتمع داعم، وأدوات مفيدة في تطبيق واحد هادئ.',
+    ctaButton: 'فتح تطبيق BeMama',
+    updatedLabel: 'آخر تحديث',
+    localizedNotice: 'يُعرض هذا المقال بالإنجليزية حتى تجهز الترجمة.'
+  },
+  fr: {
+    home: 'Accueil',
+    inThisSection: 'Dans cette section',
+    takeaways: 'Points clés',
+    faq: 'Questions fréquentes',
+    related: 'Articles liés',
+    readMore: 'Lire le guide',
+    ctaTitle: 'Emportez BeMama avec vous',
+    ctaText: 'Des conseils quotidiens adaptés à votre étape, une communauté bienveillante et des outils pratiques dans une seule application sereine.',
+    ctaButton: 'Ouvrir l’application BeMama',
+    updatedLabel: 'Mis à jour',
+    localizedNotice: 'Cet article est affiché en anglais en attendant sa traduction.'
+  },
+  tr: {
+    home: 'Ana sayfa',
+    inThisSection: 'Bu bölümde',
+    takeaways: 'Önemli noktalar',
+    faq: 'Sık sorulan sorular',
+    related: 'İlgili yazılar',
+    readMore: 'Rehberi oku',
+    ctaTitle: 'BeMama’yı yanınıza alın',
+    ctaText: 'Bulunduğunuz döneme göre günlük rehberlik, destekleyici bir topluluk ve pratik araçlar tek bir sakin uygulamada.',
+    ctaButton: 'BeMama uygulamasını aç',
+    updatedLabel: 'Güncellendi',
+    localizedNotice: 'Bu yazı, çevirisi hazırlanana kadar İngilizce gösterilir.'
+  },
+  es: {
+    home: 'Inicio',
+    inThisSection: 'En esta sección',
+    takeaways: 'Puntos clave',
+    faq: 'Preguntas frecuentes',
+    related: 'Artículos relacionados',
+    readMore: 'Leer la guía',
+    ctaTitle: 'Lleva BeMama contigo',
+    ctaText: 'Orientación diaria según tu etapa, una comunidad que acompaña y herramientas útiles en una sola app tranquila.',
+    ctaButton: 'Abrir la app BeMama',
+    updatedLabel: 'Actualizado',
+    localizedNotice: 'Este artículo se muestra en inglés mientras se prepara su traducción.'
+  },
+  pt: {
+    home: 'Início',
+    inThisSection: 'Nesta seção',
+    takeaways: 'Pontos-chave',
+    faq: 'Perguntas frequentes',
+    related: 'Artigos relacionados',
+    readMore: 'Ler o guia',
+    ctaTitle: 'Leve a BeMama com você',
+    ctaText: 'Orientação diária para a sua fase, uma comunidade acolhedora e ferramentas práticas em um único app tranquilo.',
+    ctaButton: 'Abrir o app BeMama',
+    updatedLabel: 'Atualizado',
+    localizedNotice: 'Este artigo é exibido em inglês enquanto a tradução é preparada.'
   }
 };
 
 // Medical disclaimer shown on every learning article (English + fallback).
 export const hubDisclaimer = {
-  en: 'This article is general education, not medical advice, diagnosis, or treatment. Always talk with a qualified healthcare professional about your situation, and seek urgent care for emergencies.'
+  en: 'This article is general education, not medical advice, diagnosis, or treatment. Always talk with a qualified healthcare professional about your situation, and seek urgent care for emergencies.',
+  fa: 'این مقاله صرفاً آموزش عمومی است و توصیه، تشخیص یا درمان پزشکی نیست. همیشه درباره شرایط خود با یک متخصص واجد شرایط مشورت کنید و در موارد اضطراری فوراً به مراکز درمانی مراجعه کنید.',
+  ar: 'هذا المقال للتثقيف العام فقط وليس نصيحة طبية أو تشخيصاً أو علاجاً. تحدثي دائماً مع مختص رعاية صحية مؤهل حول حالتك، وفي الحالات الطارئة اطلبي الرعاية العاجلة فوراً.',
+  fr: 'Cet article relève de l’éducation générale et ne constitue ni un avis médical, ni un diagnostic, ni un traitement. Parlez toujours de votre situation à un professionnel de santé qualifié et, en cas d’urgence, consultez immédiatement.',
+  tr: 'Bu yazı genel bilgilendirme amaçlıdır; tıbbi tavsiye, tanı veya tedavi değildir. Durumunuzu her zaman nitelikli bir sağlık uzmanıyla konuşun ve acil durumlarda hemen sağlık kuruluşuna başvurun.',
+  es: 'Este artículo es educación general y no constituye consejo médico, diagnóstico ni tratamiento. Habla siempre de tu situación con un profesional de salud calificado y, ante una emergencia, busca atención urgente.',
+  pt: 'Este artigo é apenas educação geral e não constitui aconselhamento médico, diagnóstico ou tratamento. Converse sempre com um profissional de saúde qualificado sobre a sua situação e, em emergências, procure atendimento imediato.'
 };
 
 // --- Articles -------------------------------------------------------------

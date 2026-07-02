@@ -69,7 +69,10 @@
 .submenu {
   position: absolute;
   top: calc(100% + 10px);
-  inset-inline-start: 50%;
+  /* Physical centering (left + translateX) works identically in LTR and RTL;
+     a logical offset here would compound with the physical transform in RTL
+     and shove the panel off target. */
+  left: 50%;
   z-index: 40;
   min-width: 268px;
   padding: 10px;
@@ -88,7 +91,7 @@
   content: "";
   position: absolute;
   top: -5px;
-  inset-inline-start: 50%;
+  left: 50%;
   width: 12px;
   height: 12px;
   transform: translateX(-50%) rotate(45deg);
