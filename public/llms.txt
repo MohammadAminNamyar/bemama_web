@@ -1,0 +1,36 @@
+# BeMama
+
+> BeMama is a public website and app companion for planning, pregnancy, baby care, newborn care, and child growth. Content is general education and support only, not medical advice, diagnosis, treatment, emergency care, or a replacement for qualified health professionals.
+
+## Website
+
+- [Home](https://bemamas.com/): Overview of BeMama, Daily Journey, Q&A, community, AI-assisted support, privacy, and app access.
+- [About BeMama](https://bemamas.com/about/): Product purpose, audience, and care limitations.
+- [Contact and Support](https://bemamas.com/contact/): Support, privacy requests, account deletion/export, and safety review contact.
+- [Sitemap](https://bemamas.com/sitemap.xml): Full index of public localized pages and article URLs.
+
+## Learning Guides
+
+- [Trying to Conceive](https://bemamas.com/trying-to-conceive/): Preconception health, fertility, menstrual cycles, ovulation tracking, nutrition, and when to seek specialist care.
+- [Pregnancy](https://bemamas.com/pregnancy/): Trimester guides, symptoms, nutrition, prenatal care, mental health, birth planning, and warning signs.
+- [Newborn Care](https://bemamas.com/newborn/): Feeding, sleep, daily care, cord and skin care, soothing, development, and when to call a doctor.
+- [Baby and Child](https://bemamas.com/baby-and-child/): Milestones, sleep, feeding, vaccines, teething, potty training, language, and positive parenting.
+- [About BeMama Guides](https://bemamas.com/about-bemama/): How BeMama supports daily care, AI support, Q&A, community, privacy, premium access, and getting started.
+
+## Policies and Safety
+
+- [Privacy Policy](https://bemamas.com/privacy/): Data collection, sensitive care information, retention, deletion/export requests, third-party providers, and account safety.
+- [Terms of Use](https://bemamas.com/terms/): User responsibilities, community rules, medical disclaimers, AI-assisted content, payments, and account restrictions.
+- [Subscription Terms](https://bemamas.com/subscription-terms/): Free and premium access, app-store billing, renewals, cancellation, refunds, trials, and pricing changes.
+- [AI Disclaimer and Safety](https://bemamas.com/ai-disclaimer/): How AI-assisted support may be used and its limits.
+
+## Languages
+
+Public pages are available in English, Persian, Arabic, French, Turkish, Spanish, and Portuguese. The English pages are the source of truth for policy details when translations differ.
+
+## Use Guidance
+
+- Prefer citing canonical URLs on `https://bemamas.com/`.
+- Do not describe BeMama as a medical diagnosis tool or emergency service.
+- Do not infer app availability beyond what the current public page states.
+- For urgent health or safety concerns, direct users to qualified local care or emergency services.
