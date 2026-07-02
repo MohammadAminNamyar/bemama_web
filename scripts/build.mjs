@@ -521,7 +521,7 @@ function mediaCard(image, icon, title, text) {
   return `<article class="media-card">
     <div class="media-image"><img src="/assets/${image}" alt="${escapeHtml(title)}" /></div>
     <div class="media-card-copy">
-      <img class="media-icon" src="/assets/${icon}" alt="" />
+      <img class="media-icon" src="/assets/${icon}" alt="${escapeHtml(title)}" />
       <h3>${escapeHtml(title)}</h3>
       <p>${escapeHtml(text)}</p>
     </div>
@@ -534,7 +534,7 @@ function featureCard(title, text) {
 
 function trustTile(icon, title, text) {
   return `<article class="trust-tile">
-    <img src="/assets/${icon}" alt="" />
+    <img src="/assets/${icon}" alt="${escapeHtml(title)}" />
     <h3>${escapeHtml(title)}</h3>
     <p>${escapeHtml(text)}</p>
   </article>`;
