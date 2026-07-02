@@ -11,11 +11,21 @@
   flex-wrap: nowrap;
   min-height: 68px;
   padding: 6px 0;
+  /* Wider than the 1180px content width so verbose languages (fr/pt/es) fit on
+     one row; below the breakpoints the menu collapses to the hamburger. */
+  width: min(1320px, calc(100% - 32px));
+  /* Center the brand + menu as one cluster (equal space both sides). */
+  justify-content: center;
+}
+.brand {
+  flex-shrink: 0;
 }
 .primary-nav {
-  flex: 1 1 auto;
+  /* Don't grow — take only content width so the whole brand+menu group can be
+     centered by the parent (see .nav justify-content). */
+  flex: 0 1 auto;
   display: flex;
-  justify-content: center;
+  justify-content: flex-start;
   min-width: 0;
 }
 .nav-list {
@@ -152,13 +162,24 @@
   border-color: var(--teal);
 }
 
-/* Switch to the hamburger menu early enough that the desktop row never wraps. */
-@media (max-width: 1200px) {
+/* Collapse to the hamburger before the row can wrap/overlap. English labels
+   are compact; other languages (fr/pt/es/…) are wider and need more room, so
+   they switch to the hamburger at a larger width. */
+@media (max-width: 1040px) {
   .primary-nav,
   .nav-actions {
     display: none;
   }
   .mobile-menu {
+    display: block;
+  }
+}
+@media (max-width: 1260px) {
+  html:not([lang="en"]) .primary-nav,
+  html:not([lang="en"]) .nav-actions {
+    display: none;
+  }
+  html:not([lang="en"]) .mobile-menu {
     display: block;
   }
 }

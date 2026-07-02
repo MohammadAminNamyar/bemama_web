@@ -149,7 +149,6 @@ function renderHeader(language, slug) {
       <ul class="nav-list">
         <li class="nav-item"><a class="nav-top" href="${localizedPath(lang, '')}">${escapeHtml(t.nav.home)}</a></li>
         ${catItems.map(desktopCategory).join('')}
-        <li class="nav-item"><a class="nav-top" href="${localizedPath(lang, 'about')}">${escapeHtml(t.nav.about)}</a></li>
         <li class="nav-item has-menu lang-item">
           <button type="button" class="nav-top" aria-haspopup="true">${escapeHtml(t.nav.language)}<span class="caret" aria-hidden="true"></span></button>
           <div class="submenu submenu-lang" role="menu">${languageLinks}</div>
@@ -162,7 +161,6 @@ function renderHeader(language, slug) {
       <div class="mobile-menu-panel">
         <a class="mobile-link" href="${localizedPath(lang, '')}">${escapeHtml(t.nav.home)}</a>
         ${catItems.map(mobileCategory).join('')}
-        <a class="mobile-link" href="${localizedPath(lang, 'about')}">${escapeHtml(t.nav.about)}</a>
         <details class="mobile-group">
           <summary>${escapeHtml(t.nav.language)}</summary>
           <div class="mobile-sub mobile-lang">${languageLinks}</div>
@@ -472,6 +470,7 @@ function renderFooter(language) {
   <div class="footer-inner">
     <div><strong>BeMama</strong><p>${escapeHtml(t.footer)}</p></div>
     <div class="footer-links">
+      <a href="${localizedPath(language.code, 'about')}">${escapeHtml(t.nav.about)}</a>
       <a href="${localizedPath(language.code, 'privacy')}">${escapeHtml(t.nav.privacy)}</a>
       <a href="${localizedPath(language.code, 'terms')}">${escapeHtml(t.nav.terms)}</a>
       <a href="${localizedPath(language.code, 'subscription-terms')}">${escapeHtml(t.home.reviewSubscription)}</a>
