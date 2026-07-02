@@ -82,7 +82,7 @@ function renderPage(language, slug) {
     description = page.description;
     body = renderPolicy(language, slug, page);
   } else {
-    title = site.name;
+    title = `${site.name} | ${t.home.eyebrow}`;
     description = t.metaDescription;
     body = renderHome(language);
     jsonLd = renderSiteJsonLd(language);
@@ -166,7 +166,7 @@ function renderHeader(language, slug) {
   return `<header class="site-header">
   <div class="nav">
     <a class="brand" href="${localizedPath(lang, '')}" aria-label="BeMama home">
-      <img src="/assets/bemama_logo_mark.png" alt="" />
+      <img src="/assets/bemama_logo_mark.png" alt="${escapeHtml(site.name)}" />
       <span>BeMama</span>
     </a>
     <nav class="primary-nav" aria-label="${escapeHtml(t.nav.home)}">
@@ -289,20 +289,20 @@ function renderHome(language) {
 
 function heroCarousel() {
   const images = [
-    'pregnancy-rest.png',
-    'pregnancy-planning.png',
-    'baby-care.png',
-    'daily-care.png',
-    'child-growth.png'
+    ['pregnancy-rest.png', 'Expectant mother resting calmly'],
+    ['pregnancy-planning.png', 'Woman planning her pregnancy journey'],
+    ['baby-care.png', 'Parent caring for a newborn baby'],
+    ['daily-care.png', 'Daily care and guidance with BeMama'],
+    ['child-growth.png', 'Mother supporting her child’s growth']
   ];
   return `<div class="hero-carousel">
-    ${images.map((image) => `<img src="/assets/hero-carousel/${image}" alt="" />`).join('\n    ')}
+    ${images.map(([image, alt]) => `<img src="/assets/hero-carousel/${image}" alt="${escapeHtml(alt)}" />`).join('\n    ')}
   </div>`;
 }
 
 function proofItem(image, stage, label) {
   return `<article class="proof-item">
-    <img src="/assets/${image}" alt="" />
+    <img src="/assets/${image}" alt="${escapeHtml(label)}" />
     <span>${escapeHtml(stage)}</span>
     <strong>${escapeHtml(label)}</strong>
   </article>`;
@@ -367,7 +367,7 @@ function renderArticle(language, slug, article, data) {
     .map(
       (section) => `<section class="article-section">
       <h2>${escapeHtml(section.heading)}</h2>
-      ${section.image ? `<figure class="article-figure"><img src="/assets/${section.image}" alt="" loading="lazy" /></figure>` : ''}
+      ${section.image ? `<figure class="article-figure"><img src="/assets/${section.image}" alt="${escapeHtml(section.heading)}" loading="lazy" /></figure>` : ''}
       ${section.paragraphs.map((p) => `<p>${escapeHtml(p)}</p>`).join('')}
     </section>`
     )
@@ -387,7 +387,7 @@ function renderArticle(language, slug, article, data) {
     ? `<section class="related"><h2>${escapeHtml(strings.related)}</h2><div class="related-grid">${related
         .map((item) => {
           const rd = item.i18n[lang] ?? item.i18n.en;
-          return `<a class="related-card" href="${localizedPath(lang, item.slug)}"><img src="/assets/${item.hero}" alt="" loading="lazy" /><span>${escapeHtml(rd.title)}</span></a>`;
+          return `<a class="related-card" href="${localizedPath(lang, item.slug)}"><img src="/assets/${item.hero}" alt="${escapeHtml(rd.title)}" loading="lazy" /><span>${escapeHtml(rd.title)}</span></a>`;
         })
         .join('')}</div></section>`
     : '';
@@ -401,7 +401,7 @@ function renderArticle(language, slug, article, data) {
       <h1>${escapeHtml(data.title)}</h1>
       ${article.updated ? `<p class="article-meta">${escapeHtml(strings.updatedLabel)}: ${escapeHtml(article.updated)}</p>` : ''}
     </header>
-    <figure class="article-hero"><img src="/assets/${article.hero}" alt="" /></figure>
+    <figure class="article-hero"><img src="/assets/${article.hero}" alt="${escapeHtml(data.title)}" /></figure>
     ${fallbackNotice}
     <p class="article-intro">${escapeHtml(data.intro)}</p>
     ${sections}
@@ -425,7 +425,7 @@ function renderCategory(language, slug, category) {
     .map((article) => {
       const data = article.i18n[lang] ?? article.i18n.en;
       return `<a class="article-card" href="${localizedPath(lang, article.slug)}">
-        <div class="article-card-media"><img src="/assets/${article.hero}" alt="" loading="lazy" /></div>
+        <div class="article-card-media"><img src="/assets/${article.hero}" alt="${escapeHtml(data.title)}" loading="lazy" /></div>
         <div class="article-card-copy">
           <h3>${escapeHtml(data.title)}</h3>
           <p>${escapeHtml(data.description)}</p>
@@ -442,7 +442,7 @@ function renderCategory(language, slug, category) {
       <h1>${escapeHtml(pick(category.title, lang))}</h1>
       <p>${escapeHtml(pick(category.blurb, lang))}</p>
     </div>
-    <figure class="category-hero-media"><img src="/assets/${category.hero}" alt="" /></figure>
+    <figure class="category-hero-media"><img src="/assets/${category.hero}" alt="${escapeHtml(pick(category.title, lang))}" /></figure>
   </section>
   <section class="section">
     <div class="article-grid">${cards}</div>
@@ -519,7 +519,7 @@ function journeyChip(image, label) {
 
 function mediaCard(image, icon, title, text) {
   return `<article class="media-card">
-    <div class="media-image"><img src="/assets/${image}" alt="" /></div>
+    <div class="media-image"><img src="/assets/${image}" alt="${escapeHtml(title)}" /></div>
     <div class="media-card-copy">
       <img class="media-icon" src="/assets/${icon}" alt="" />
       <h3>${escapeHtml(title)}</h3>
