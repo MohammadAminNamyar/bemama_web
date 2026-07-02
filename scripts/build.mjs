@@ -16,6 +16,16 @@ import {
 
 const allSlugs = [...pageSlugs, ...hubSlugs];
 
+const ogLocales = {
+  en: 'en_US',
+  fa: 'fa_IR',
+  ar: 'ar_AR',
+  fr: 'fr_FR',
+  tr: 'tr_TR',
+  es: 'es_ES',
+  pt: 'pt_BR'
+};
+
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const dist = path.join(root, 'dist');
 const assetVersion = new Date().toISOString().replaceAll(/[-:.TZ]/g, '');
@@ -64,6 +74,7 @@ function renderPage(language, slug) {
     title = `${pick(category.title, language.code)} | ${site.name}`;
     description = pick(category.blurb, language.code);
     body = renderCategory(language, slug, category);
+    jsonLd = renderCategoryJsonLd(language, slug, category);
     ogImage = `${site.origin}/assets/${category.hero}`;
   } else if (slug) {
     const page = t.pages[slug];
@@ -74,6 +85,7 @@ function renderPage(language, slug) {
     title = site.name;
     description = t.metaDescription;
     body = renderHome(language);
+    jsonLd = renderSiteJsonLd(language);
   }
 
   const canonical = `${site.origin}${localizedPath(language.code, slug)}`;
@@ -87,12 +99,21 @@ function renderPage(language, slug) {
     <link rel="canonical" href="${canonical}" />
     ${renderAlternates(slug)}
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+    <meta property="og:site_name" content="${escapeHtml(site.name)}" />
     <meta property="og:title" content="${escapeHtml(title)}" />
     <meta property="og:description" content="${escapeHtml(description)}" />
     <meta property="og:type" content="${ogType}" />
     <meta property="og:url" content="${canonical}" />
     <meta property="og:image" content="${ogImage}" />
+    <meta property="og:locale" content="${ogLocales[language.code] || 'en_US'}" />
+    ${languages
+      .filter((item) => item.code !== language.code)
+      .map((item) => `<meta property="og:locale:alternate" content="${ogLocales[item.code] || item.code}" />`)
+      .join('\n    ')}
     <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="${escapeHtml(title)}" />
+    <meta name="twitter:description" content="${escapeHtml(description)}" />
+    <meta name="twitter:image" content="${ogImage}" />
     ${jsonLd}
     <link rel="stylesheet" href="/assets/styles.css?v=${assetVersion}" />
   </head>
@@ -466,9 +487,17 @@ function renderArticleJsonLd(language, slug, article, data) {
 
 function renderFooter(language) {
   const t = content[language.code];
+  const categoryLinks = categories
+    .slice()
+    .sort((a, b) => a.order - b.order)
+    .map((category) => `<a href="${localizedPath(language.code, category.slug)}">${escapeHtml(pick(category.title, language.code))}</a>`)
+    .join('');
   return `<footer class="site-footer">
   <div class="footer-inner">
     <div><strong>BeMama</strong><p>${escapeHtml(t.footer)}</p></div>
+    <nav class="footer-links footer-explore">
+      ${categoryLinks}
+    </nav>
     <div class="footer-links">
       <a href="${localizedPath(language.code, 'about')}">${escapeHtml(t.nav.about)}</a>
       <a href="${localizedPath(language.code, 'privacy')}">${escapeHtml(t.nav.privacy)}</a>
@@ -533,22 +562,99 @@ function platformIcon(kind) {
   return `<svg aria-hidden="true" viewBox="0 0 24 24"><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3h11A2.5 2.5 0 0 1 20 5.5v8A2.5 2.5 0 0 1 17.5 16H13v2h3a1 1 0 1 1 0 2H8a1 1 0 1 1 0-2h3v-2H6.5A2.5 2.5 0 0 1 4 13.5v-8Zm2 0v8c0 .3.2.5.5.5h11c.3 0 .5-.2.5-.5v-8c0-.3-.2-.5-.5-.5h-11c-.3 0-.5.2-.5.5Z"/></svg>`;
 }
 
+function jsonLdScript(graph) {
+  const json = JSON.stringify({ '@context': 'https://schema.org', '@graph': graph }).replaceAll('<', '\\u003c');
+  return `<script type="application/ld+json">${json}</script>`;
+}
+
+function renderSiteJsonLd(language) {
+  return jsonLdScript([
+    {
+      '@type': 'Organization',
+      name: site.name,
+      url: site.origin,
+      logo: `${site.origin}/assets/bemama_logo_mark.png`
+    },
+    {
+      '@type': 'WebSite',
+      name: site.name,
+      url: site.origin,
+      inLanguage: language.code
+    }
+  ]);
+}
+
+function renderCategoryJsonLd(language, slug, category) {
+  const lang = language.code;
+  const url = `${site.origin}${localizedPath(lang, slug)}`;
+  const items = articlesInCategory(category.id).map((article, index) => ({
+    '@type': 'ListItem',
+    position: index + 1,
+    url: `${site.origin}${localizedPath(lang, article.slug)}`,
+    name: (article.i18n[lang] ?? article.i18n.en).title
+  }));
+  return jsonLdScript([
+    {
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: hubText(lang).home, item: `${site.origin}${localizedPath(lang, '')}` },
+        { '@type': 'ListItem', position: 2, name: pick(category.title, lang), item: url }
+      ]
+    },
+    {
+      '@type': 'CollectionPage',
+      name: pick(category.title, lang),
+      description: pick(category.blurb, lang),
+      url,
+      inLanguage: lang,
+      mainEntity: { '@type': 'ItemList', itemListElement: items }
+    }
+  ]);
+}
+
 function renderAlternates(slug) {
-  return languages
-    .map((language) => `<link rel="alternate" hreflang="${language.code}" href="${site.origin}${localizedPath(language.code, slug)}" />`)
-    .join('\n    ');
+  const links = languages.map(
+    (language) => `<link rel="alternate" hreflang="${language.code}" href="${site.origin}${localizedPath(language.code, slug)}" />`
+  );
+  // x-default points at the English version for unmatched locales.
+  links.push(`<link rel="alternate" hreflang="x-default" href="${site.origin}${localizedPath('en', slug)}" />`);
+  return links.join('\n    ');
 }
 
 function renderSitemap() {
-  const urls = [];
-  for (const language of languages) {
-    for (const slug of allSlugs) {
-      urls.push(`  <url><loc>${site.origin}${localizedPath(language.code, slug)}</loc></url>`);
+  const lastmod = new Date().toISOString().slice(0, 10);
+  const priorityFor = (slug) => {
+    if (slug === '') return '1.0';
+    if (categoryBySlug.has(slug)) return '0.8';
+    if (articleBySlug.has(slug)) return '0.7';
+    return '0.4';
+  };
+  const changefreqFor = (slug) => {
+    if (slug === '' || categoryBySlug.has(slug)) return 'weekly';
+    if (articleBySlug.has(slug)) return 'monthly';
+    return 'yearly';
+  };
+  const entries = [];
+  for (const slug of allSlugs) {
+    // Every language variant of this slug shares the same set of hreflang
+    // alternates, which Google expects listed on each URL.
+    const alternates = languages
+      .map((l) => `    <xhtml:link rel="alternate" hreflang="${l.code}" href="${site.origin}${localizedPath(l.code, slug)}" />`)
+      .concat(`    <xhtml:link rel="alternate" hreflang="x-default" href="${site.origin}${localizedPath('en', slug)}" />`)
+      .join('\n');
+    for (const language of languages) {
+      entries.push(`  <url>
+    <loc>${site.origin}${localizedPath(language.code, slug)}</loc>
+    <lastmod>${lastmod}</lastmod>
+    <changefreq>${changefreqFor(slug)}</changefreq>
+    <priority>${priorityFor(slug)}</priority>
+${alternates}
+  </url>`);
     }
   }
   return `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${urls.join('\n')}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+${entries.join('\n')}
 </urlset>
 `;
 }
