@@ -98,7 +98,7 @@ function renderPage(language, slug) {
     <meta name="description" content="${escapeHtml(description)}" />
     <link rel="canonical" href="${canonical}" />
     ${renderAlternates(slug)}
-    <link rel="icon" href="/favicon.png" type="image/png" />
+    <link rel="icon" href="/favicon-bemama.png" type="image/png" />
     <meta property="og:site_name" content="${escapeHtml(site.name)}" />
     <meta property="og:title" content="${escapeHtml(title)}" />
     <meta property="og:description" content="${escapeHtml(description)}" />
