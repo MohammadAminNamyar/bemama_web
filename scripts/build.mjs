@@ -1,3 +1,4 @@
+import { existsSync, readFileSync } from 'node:fs';
 import { cp, mkdir, readFile, rm, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -28,7 +29,10 @@ const ogLocales = {
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const dist = path.join(root, 'dist');
+const publicAssets = path.join(root, 'public', 'assets');
 const assetVersion = new Date().toISOString().replaceAll(/[-:.TZ]/g, '');
+const transparentPixel = 'data:image/gif;base64,R0lGODlhAQABAAAAACw=';
+const imageSizeCache = new Map();
 
 await rm(dist, { recursive: true, force: true });
 await mkdir(dist, { recursive: true });
@@ -61,6 +65,7 @@ function renderPage(language, slug) {
   let jsonLd = '';
   let ogType = 'website';
   let ogImage = `${site.origin}/assets/hero_pregnancy.png`;
+  let preloadImage = '/assets/hero-carousel/pregnancy-rest.png';
 
   if (article) {
     const data = article.i18n[language.code] ?? article.i18n.en;
@@ -70,17 +75,20 @@ function renderPage(language, slug) {
     jsonLd = renderArticleJsonLd(language, slug, article, data);
     ogType = 'article';
     ogImage = `${site.origin}/assets/${article.hero}`;
+    preloadImage = `/assets/${article.hero}`;
   } else if (category) {
     title = `${pick(category.title, language.code)} | ${site.name}`;
     description = pick(category.blurb, language.code);
     body = renderCategory(language, slug, category);
     jsonLd = renderCategoryJsonLd(language, slug, category);
     ogImage = `${site.origin}/assets/${category.hero}`;
+    preloadImage = `/assets/${category.hero}`;
   } else if (slug) {
     const page = t.pages[slug];
     title = `${page.title} | ${site.name}`;
     description = page.description;
     body = renderPolicy(language, slug, page);
+    preloadImage = undefined;
   } else {
     title = `${site.name} | ${t.home.eyebrow}`;
     description = t.metaDescription;
@@ -118,12 +126,14 @@ function renderPage(language, slug) {
     <meta name="twitter:description" content="${escapeHtml(description)}" />
     <meta name="twitter:image" content="${ogImage}" />
     ${jsonLd}
+    ${preloadImage ? renderImagePreload(preloadImage) : ''}
     <link rel="stylesheet" href="/assets/styles.css?v=${assetVersion}" />
   </head>
   <body>
     ${renderHeader(language, slug)}
     ${body}
     ${renderFooter(language)}
+    ${renderDeferredImageLoader()}
   </body>
 </html>`;
 }
@@ -166,7 +176,7 @@ function renderHeader(language, slug) {
   return `<header class="site-header">
   <div class="nav">
     <a class="brand" href="${localizedPath(lang, '')}" aria-label="BeMama home">
-      <img src="/assets/bemama_logo_mark.png" alt="${escapeHtml(site.name)}" />
+      ${imageMarkup('/assets/bemama_logo_mark.png', site.name, { loading: 'eager' })}
       <span>BeMama</span>
     </a>
     <nav class="primary-nav" aria-label="${escapeHtml(t.nav.home)}">
@@ -296,13 +306,21 @@ function heroCarousel() {
     ['child-growth.png', 'Mother supporting her child’s growth']
   ];
   return `<div class="hero-carousel">
-    ${images.map(([image, alt]) => `<img src="/assets/hero-carousel/${image}" alt="${escapeHtml(alt)}" />`).join('\n    ')}
+    ${images
+      .map(([image, alt], index) =>
+        imageMarkup(`/assets/hero-carousel/${image}`, alt, {
+          loading: index === 0 ? 'eager' : 'lazy',
+          fetchpriority: index === 0 ? 'high' : undefined,
+          defer: index !== 0
+        })
+      )
+      .join('\n    ')}
   </div>`;
 }
 
 function proofItem(image, stage, label) {
   return `<article class="proof-item">
-    <img src="/assets/${image}" alt="${escapeHtml(label)}" />
+    ${imageMarkup(`/assets/${image}`, label)}
     <span>${escapeHtml(stage)}</span>
     <strong>${escapeHtml(label)}</strong>
   </article>`;
@@ -367,7 +385,7 @@ function renderArticle(language, slug, article, data) {
     .map(
       (section) => `<section class="article-section">
       <h2>${escapeHtml(section.heading)}</h2>
-      ${section.image ? `<figure class="article-figure"><img src="/assets/${section.image}" alt="${escapeHtml(section.heading)}" loading="lazy" /></figure>` : ''}
+      ${section.image ? `<figure class="article-figure">${imageMarkup(`/assets/${section.image}`, section.heading)}</figure>` : ''}
       ${section.paragraphs.map((p) => `<p>${escapeHtml(p)}</p>`).join('')}
     </section>`
     )
@@ -387,7 +405,7 @@ function renderArticle(language, slug, article, data) {
     ? `<section class="related"><h2>${escapeHtml(strings.related)}</h2><div class="related-grid">${related
         .map((item) => {
           const rd = item.i18n[lang] ?? item.i18n.en;
-          return `<a class="related-card" href="${localizedPath(lang, item.slug)}"><img src="/assets/${item.hero}" alt="${escapeHtml(rd.title)}" loading="lazy" /><span>${escapeHtml(rd.title)}</span></a>`;
+          return `<a class="related-card" href="${localizedPath(lang, item.slug)}">${imageMarkup(`/assets/${item.hero}`, rd.title)}<span>${escapeHtml(rd.title)}</span></a>`;
         })
         .join('')}</div></section>`
     : '';
@@ -401,7 +419,7 @@ function renderArticle(language, slug, article, data) {
       <h1>${escapeHtml(data.title)}</h1>
       ${article.updated ? `<p class="article-meta">${escapeHtml(strings.updatedLabel)}: ${escapeHtml(article.updated)}</p>` : ''}
     </header>
-    <figure class="article-hero"><img src="/assets/${article.hero}" alt="${escapeHtml(data.title)}" /></figure>
+    <figure class="article-hero">${imageMarkup(`/assets/${article.hero}`, data.title, { loading: 'eager', fetchpriority: 'high' })}</figure>
     ${fallbackNotice}
     <p class="article-intro">${escapeHtml(data.intro)}</p>
     ${sections}
@@ -425,7 +443,7 @@ function renderCategory(language, slug, category) {
     .map((article) => {
       const data = article.i18n[lang] ?? article.i18n.en;
       return `<a class="article-card" href="${localizedPath(lang, article.slug)}">
-        <div class="article-card-media"><img src="/assets/${article.hero}" alt="${escapeHtml(data.title)}" loading="lazy" /></div>
+        <div class="article-card-media">${imageMarkup(`/assets/${article.hero}`, data.title)}</div>
         <div class="article-card-copy">
           <h3>${escapeHtml(data.title)}</h3>
           <p>${escapeHtml(data.description)}</p>
@@ -442,7 +460,7 @@ function renderCategory(language, slug, category) {
       <h1>${escapeHtml(pick(category.title, lang))}</h1>
       <p>${escapeHtml(pick(category.blurb, lang))}</p>
     </div>
-    <figure class="category-hero-media"><img src="/assets/${category.hero}" alt="${escapeHtml(pick(category.title, lang))}" /></figure>
+    <figure class="category-hero-media">${imageMarkup(`/assets/${category.hero}`, pick(category.title, lang), { loading: 'eager', fetchpriority: 'high' })}</figure>
   </section>
   <section class="section">
     <div class="article-grid">${cards}</div>
@@ -514,14 +532,14 @@ function renderFooter(language) {
 }
 
 function journeyChip(image, label) {
-  return `<div class="journey-chip"><img src="/assets/${image}" alt="" />${escapeHtml(label)}</div>`;
+  return `<div class="journey-chip">${imageMarkup(`/assets/${image}`, '')}${escapeHtml(label)}</div>`;
 }
 
 function mediaCard(image, icon, title, text) {
   return `<article class="media-card">
-    <div class="media-image"><img src="/assets/${image}" alt="${escapeHtml(title)}" /></div>
+    <div class="media-image">${imageMarkup(`/assets/${image}`, title)}</div>
     <div class="media-card-copy">
-      <img class="media-icon" src="/assets/${icon}" alt="${escapeHtml(title)}" />
+      ${imageMarkup(`/assets/${icon}`, title, { className: 'media-icon' })}
       <h3>${escapeHtml(title)}</h3>
       <p>${escapeHtml(text)}</p>
     </div>
@@ -534,16 +552,17 @@ function featureCard(title, text) {
 
 function trustTile(icon, title, text) {
   return `<article class="trust-tile">
-    <img src="/assets/${icon}" alt="${escapeHtml(title)}" />
+    ${imageMarkup(`/assets/${icon}`, title)}
     <h3>${escapeHtml(title)}</h3>
     <p>${escapeHtml(text)}</p>
   </article>`;
 }
 
 function videoPreview(src, label, orientation) {
+  const poster = src.replace(/\.mp4$/, '-poster.webp');
   return `<figure class="ad-video-card is-${orientation}">
-    <video controls autoplay muted loop playsinline preload="metadata" aria-label="${escapeHtml(label)}">
-      <source src="${src}" type="video/mp4" />
+    <video controls muted loop playsinline preload="none" poster="${versionedAsset(poster)}" aria-label="${escapeHtml(label)}">
+      <source src="${versionedAsset(src)}" type="video/mp4" />
     </video>
   </figure>`;
 }
@@ -622,6 +641,136 @@ function renderAlternates(slug) {
   // x-default points at the English version for unmatched locales.
   links.push(`<link rel="alternate" hreflang="x-default" href="${site.origin}${localizedPath('en', slug)}" />`);
   return links.join('\n    ');
+}
+
+function renderImagePreload(src) {
+  const preferred = webpAsset(src) ?? src;
+  const type = preferred.endsWith('.webp')
+    ? 'image/webp'
+    : preferred.endsWith('.png')
+      ? 'image/png'
+      : 'image/jpeg';
+  return `<link rel="preload" as="image" href="${versionedAsset(preferred)}" type="${type}" fetchpriority="high" />`;
+}
+
+function imageMarkup(src, alt, options = {}) {
+  const dimensions = imageDimensions(src);
+  const attrs = [];
+  if (options.className) {
+    attrs.push(`class="${escapeHtml(options.className)}"`);
+  }
+  if (options.defer) {
+    attrs.push(`src="${transparentPixel}"`);
+    attrs.push(`data-src="${versionedAsset(src)}"`);
+  } else {
+    attrs.push(`src="${versionedAsset(src)}"`);
+  }
+  attrs.push(`alt="${escapeHtml(alt)}"`);
+  if (dimensions) {
+    attrs.push(`width="${dimensions.width}"`);
+    attrs.push(`height="${dimensions.height}"`);
+  }
+  attrs.push(`loading="${options.loading ?? 'lazy'}"`);
+  attrs.push('decoding="async"');
+  if (options.fetchpriority) {
+    attrs.push(`fetchpriority="${options.fetchpriority}"`);
+  }
+
+  const img = `<img ${attrs.join(' ')} />`;
+  const webp = webpAsset(src);
+  if (!webp) {
+    return img;
+  }
+  const sourceAttr = options.defer ? `data-srcset="${versionedAsset(webp)}"` : `srcset="${versionedAsset(webp)}"`;
+  return `<picture><source ${sourceAttr} type="image/webp" />${img}</picture>`;
+}
+
+function versionedAsset(src) {
+  if (!src.startsWith('/assets/')) {
+    return src;
+  }
+  return `${src}?v=${assetVersion}`;
+}
+
+function webpAsset(src) {
+  if (!/\.(png|jpe?g)$/i.test(src)) {
+    return undefined;
+  }
+  const webp = src.replace(/\.(png|jpe?g)$/i, '.webp');
+  return assetExists(webp) ? webp : undefined;
+}
+
+function assetExists(src) {
+  return existsSync(assetFile(src));
+}
+
+function assetFile(src) {
+  const relative = src.replace(/^\/assets\//, '');
+  return path.join(publicAssets, relative);
+}
+
+function imageDimensions(src) {
+  if (imageSizeCache.has(src)) {
+    return imageSizeCache.get(src);
+  }
+  const file = assetFile(src);
+  if (!existsSync(file)) {
+    imageSizeCache.set(src, undefined);
+    return undefined;
+  }
+  const bytes = readFileSync(file);
+  let size;
+  if (bytes.length > 24 && bytes.toString('ascii', 1, 4) === 'PNG') {
+    size = { width: bytes.readUInt32BE(16), height: bytes.readUInt32BE(20) };
+  } else if (bytes.length > 4 && bytes[0] === 0xff && bytes[1] === 0xd8) {
+    size = jpegDimensions(bytes);
+  }
+  imageSizeCache.set(src, size);
+  return size;
+}
+
+function jpegDimensions(bytes) {
+  let offset = 2;
+  while (offset < bytes.length) {
+    if (bytes[offset] !== 0xff) {
+      offset += 1;
+      continue;
+    }
+    const marker = bytes[offset + 1];
+    const length = bytes.readUInt16BE(offset + 2);
+    if (marker >= 0xc0 && marker <= 0xc3) {
+      return {
+        height: bytes.readUInt16BE(offset + 5),
+        width: bytes.readUInt16BE(offset + 7)
+      };
+    }
+    offset += 2 + length;
+  }
+  return undefined;
+}
+
+function renderDeferredImageLoader() {
+  return `<script>
+(() => {
+  const loadDeferredImages = () => {
+    document.querySelectorAll('picture source[data-srcset]').forEach((source) => {
+      source.srcset = source.dataset.srcset;
+      source.removeAttribute('data-srcset');
+    });
+    document.querySelectorAll('img[data-src]').forEach((image) => {
+      image.src = image.dataset.src;
+      image.removeAttribute('data-src');
+    });
+  };
+  window.addEventListener('load', () => {
+    if ('requestIdleCallback' in window) {
+      requestIdleCallback(loadDeferredImages, { timeout: 1800 });
+    } else {
+      setTimeout(loadDeferredImages, 900);
+    }
+  }, { once: true });
+})();
+</script>`;
 }
 
 function renderSitemap() {
