@@ -36,13 +36,14 @@
     <meta name="twitter:description" content="Termos de acesso gratuito e premium, pagamentos de loja, renovação, cancelamento e reembolsos." />
     <meta name="twitter:image" content="https://bemamas.com/assets/hero_pregnancy.png" />
 
-    <link rel="stylesheet" href="/assets/styles.css?v=20260702174818632" />
+
+    <link rel="stylesheet" href="/assets/styles.css?v=20260705173057486" />
   </head>
   <body>
     <header class="site-header">
   <div class="nav">
     <a class="brand" href="/pt/" aria-label="BeMama home">
-      <img src="/assets/bemama_logo_mark.png" alt="BeMama" />
+      <picture><source srcset="/assets/bemama_logo_mark.webp?v=20260705173057486" type="image/webp" /><img src="/assets/bemama_logo_mark.png?v=20260705173057486" alt="BeMama" width="1024" height="1024" loading="eager" decoding="async" /></picture>
       <span>BeMama</span>
     </a>
     <nav class="primary-nav" aria-label="Início">
@@ -171,5 +172,26 @@
     </div>
   </div>
 </footer>
+    <script>
+(() => {
+  const loadDeferredImages = () => {
+    document.querySelectorAll('picture source[data-srcset]').forEach((source) => {
+      source.srcset = source.dataset.srcset;
+      source.removeAttribute('data-srcset');
+    });
+    document.querySelectorAll('img[data-src]').forEach((image) => {
+      image.src = image.dataset.src;
+      image.removeAttribute('data-src');
+    });
+  };
+  window.addEventListener('load', () => {
+    if ('requestIdleCallback' in window) {
+      requestIdleCallback(loadDeferredImages, { timeout: 1800 });
+    } else {
+      setTimeout(loadDeferredImages, 900);
+    }
+  }, { once: true });
+})();
+</script>
   </body>
 </html>
