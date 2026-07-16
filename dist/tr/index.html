@@ -14,10 +14,15 @@
     <link rel="alternate" hreflang="es" href="https://bemamas.com/es/" />
     <link rel="alternate" hreflang="pt" href="https://bemamas.com/pt/" />
     <link rel="alternate" hreflang="x-default" href="https://bemamas.com/" />
-    <link rel="icon" href="/favicon.ico" sizes="32x32" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png" />
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96.png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png" />
+    <link rel="icon" type="image/png" sizes="512x512" href="/favicon-512.png" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" sizes="any" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <meta name="theme-color" content="#399A97" />
     <meta property="og:site_name" content="BeMama" />
     <meta property="og:title" content="BeMama | Planlama, hamilelik, bebek ve çocuk gelişimi" />
     <meta property="og:description" content="BeMama planlama, hamilelik, bebek bakımı ve çocuk gelişimi için sakin bir yardımcıdır." />
@@ -36,14 +41,14 @@
     <meta name="twitter:description" content="BeMama planlama, hamilelik, bebek bakımı ve çocuk gelişimi için sakin bir yardımcıdır." />
     <meta name="twitter:image" content="https://bemamas.com/assets/hero_pregnancy.png" />
     <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"Organization","name":"BeMama","url":"https://bemamas.com","logo":"https://bemamas.com/assets/bemama_logo_mark.png"},{"@type":"WebSite","name":"BeMama","url":"https://bemamas.com","inLanguage":"tr"}]}</script>
-    <link rel="preload" as="image" href="/assets/hero-carousel/pregnancy-rest.webp?v=20260705175322222" type="image/webp" fetchpriority="high" />
-    <link rel="stylesheet" href="/assets/styles.css?v=20260705175322222" />
+    <link rel="preload" as="image" href="/assets/hero-carousel/pregnancy-rest.webp?v=20260716213544056" type="image/webp" fetchpriority="high" />
+    <link rel="stylesheet" href="/assets/styles.css?v=20260716213544056" />
   </head>
   <body>
     <header class="site-header">
   <div class="nav">
     <a class="brand" href="/tr/" aria-label="BeMama home">
-      <picture><source srcset="/assets/bemama_logo_mark.webp?v=20260705175322222" type="image/webp" /><img src="/assets/bemama_logo_mark.png?v=20260705175322222" alt="BeMama" width="1024" height="1024" loading="eager" decoding="async" /></picture>
+      <picture><source srcset="/assets/bemama_logo_mark.webp?v=20260716213544056" type="image/webp" /><img src="/assets/bemama_logo_mark.png?v=20260716213544056" alt="BeMama" width="1024" height="1024" loading="eager" decoding="async" /></picture>
       <span>BeMama</span>
     </a>
     <nav class="primary-nav" aria-label="Ana sayfa">
@@ -87,9 +92,32 @@
         <li class="nav-item"><a class="nav-top nav-support" href="/tr/contact/">Destek</a></li>
       </ul>
     </nav>
+    <form class="site-search is-desktop" role="search" data-site-search data-search-lang="tr" data-empty-message="Aramak için en az 2 karakter yazın" data-no-results-message="Eşleşen rehber bulunamadı" data-results-label="sonuç">
+      <button class="search-toggle" type="button" aria-label="BeMama&#39;da ara" aria-expanded="false" aria-controls="site-search-tr-desktop-panel" data-search-toggle></button>
+      <div id="site-search-tr-desktop-panel" class="search-popover" data-search-panel hidden>
+        <label class="sr-only" for="site-search-tr-desktop">BeMama&#39;da ara</label>
+      <div class="search-control">
+        <input id="site-search-tr-desktop" class="search-input" type="search" autocomplete="off" placeholder="Rehberlerde ara" aria-controls="site-search-tr-desktop-results" aria-expanded="false" data-search-input />
+      </div>
+      <div id="site-search-tr-desktop-results" class="search-results-panel" data-search-results hidden>
+        <p class="search-status" data-search-status>Aramak için en az 2 karakter yazın</p>
+        <div class="search-result-list" data-search-list></div>
+      </div>
+      </div>
+    </form>
     <details class="mobile-menu">
       <summary aria-label="Open navigation menu"><span class="menu-icon" aria-hidden="true"></span></summary>
       <div class="mobile-menu-panel">
+        <form class="site-search is-mobile" role="search" data-site-search data-search-lang="tr" data-empty-message="Aramak için en az 2 karakter yazın" data-no-results-message="Eşleşen rehber bulunamadı" data-results-label="sonuç">
+      <label class="sr-only" for="site-search-tr-mobile">BeMama&#39;da ara</label>
+      <div class="search-control">
+        <input id="site-search-tr-mobile" class="search-input" type="search" autocomplete="off" placeholder="Rehberlerde ara" aria-controls="site-search-tr-mobile-results" aria-expanded="false" data-search-input />
+      </div>
+      <div id="site-search-tr-mobile-results" class="search-results-panel" data-search-results hidden>
+        <p class="search-status" data-search-status>Aramak için en az 2 karakter yazın</p>
+        <div class="search-result-list" data-search-list></div>
+      </div>
+    </form>
         <a class="mobile-link" href="/tr/">Ana sayfa</a>
         <details class="mobile-group">
           <summary>Gebelik hazırlığı</summary>
@@ -121,11 +149,11 @@
     <div class="hero-visual" aria-hidden="true">
       <div class="hero-visual-panel">
         <div class="hero-carousel">
-    <picture><source srcset="/assets/hero-carousel/pregnancy-rest.webp?v=20260705175322222" type="image/webp" /><img src="/assets/hero-carousel/pregnancy-rest.png?v=20260705175322222" alt="Expectant mother resting calmly" width="1024" height="1280" loading="eager" decoding="async" fetchpriority="high" /></picture>
-    <picture><source data-srcset="/assets/hero-carousel/pregnancy-planning.webp?v=20260705175322222" type="image/webp" /><img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" data-src="/assets/hero-carousel/pregnancy-planning.png?v=20260705175322222" alt="Woman planning her pregnancy journey" width="1024" height="1280" loading="lazy" decoding="async" /></picture>
-    <picture><source data-srcset="/assets/hero-carousel/baby-care.webp?v=20260705175322222" type="image/webp" /><img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" data-src="/assets/hero-carousel/baby-care.png?v=20260705175322222" alt="Parent caring for a newborn baby" width="1024" height="1280" loading="lazy" decoding="async" /></picture>
-    <picture><source data-srcset="/assets/hero-carousel/daily-care.webp?v=20260705175322222" type="image/webp" /><img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" data-src="/assets/hero-carousel/daily-care.png?v=20260705175322222" alt="Daily care and guidance with BeMama" width="1024" height="1280" loading="lazy" decoding="async" /></picture>
-    <picture><source data-srcset="/assets/hero-carousel/child-growth.webp?v=20260705175322222" type="image/webp" /><img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" data-src="/assets/hero-carousel/child-growth.png?v=20260705175322222" alt="Mother supporting her child’s growth" width="1024" height="1280" loading="lazy" decoding="async" /></picture>
+    <picture><source srcset="/assets/hero-carousel/pregnancy-rest.webp?v=20260716213544056" type="image/webp" /><img src="/assets/hero-carousel/pregnancy-rest.png?v=20260716213544056" alt="Expectant mother resting calmly" width="1024" height="1280" loading="eager" decoding="async" fetchpriority="high" /></picture>
+    <picture><source data-srcset="/assets/hero-carousel/pregnancy-planning.webp?v=20260716213544056" type="image/webp" /><img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" data-src="/assets/hero-carousel/pregnancy-planning.png?v=20260716213544056" alt="Woman planning her pregnancy journey" width="1024" height="1280" loading="lazy" decoding="async" /></picture>
+    <picture><source data-srcset="/assets/hero-carousel/baby-care.webp?v=20260716213544056" type="image/webp" /><img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" data-src="/assets/hero-carousel/baby-care.png?v=20260716213544056" alt="Parent caring for a newborn baby" width="1024" height="1280" loading="lazy" decoding="async" /></picture>
+    <picture><source data-srcset="/assets/hero-carousel/daily-care.webp?v=20260716213544056" type="image/webp" /><img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" data-src="/assets/hero-carousel/daily-care.png?v=20260716213544056" alt="Daily care and guidance with BeMama" width="1024" height="1280" loading="lazy" decoding="async" /></picture>
+    <picture><source data-srcset="/assets/hero-carousel/child-growth.webp?v=20260716213544056" type="image/webp" /><img src="data:image/gif;base64,R0lGODlhAQABAAAAACw=" data-src="/assets/hero-carousel/child-growth.png?v=20260716213544056" alt="Mother supporting her child’s growth" width="1024" height="1280" loading="lazy" decoding="async" /></picture>
   </div>
       </div>
     </div>
@@ -141,22 +169,22 @@
       </div>
       <div class="hero-proofbar" aria-label="BeMama care stages">
         <article class="proof-item">
-    <picture><source srcset="/assets/hero_planning.webp?v=20260705175322222" type="image/webp" /><img src="/assets/hero_planning.png?v=20260705175322222" alt="Daily Journey" width="226" height="243" loading="lazy" decoding="async" /></picture>
+    <picture><source srcset="/assets/hero_planning.webp?v=20260716213544056" type="image/webp" /><img src="/assets/hero_planning.png?v=20260716213544056" alt="Daily Journey" width="226" height="243" loading="lazy" decoding="async" /></picture>
     <span>Planlama</span>
     <strong>Daily Journey</strong>
   </article>
         <article class="proof-item">
-    <picture><source srcset="/assets/app_daily_plan.webp?v=20260705175322222" type="image/webp" /><img src="/assets/app_daily_plan.png?v=20260705175322222" alt="Daily Journey" width="720" height="720" loading="lazy" decoding="async" /></picture>
+    <picture><source srcset="/assets/app_daily_plan.webp?v=20260716213544056" type="image/webp" /><img src="/assets/app_daily_plan.png?v=20260716213544056" alt="Daily Journey" width="720" height="720" loading="lazy" decoding="async" /></picture>
     <span>Hamilelik</span>
     <strong>Daily Journey</strong>
   </article>
         <article class="proof-item">
-    <picture><source srcset="/assets/hero_baby.webp?v=20260705175322222" type="image/webp" /><img src="/assets/hero_baby.png?v=20260705175322222" alt="Soru-cevap ve topluluk" width="410" height="348" loading="lazy" decoding="async" /></picture>
+    <picture><source srcset="/assets/hero_baby.webp?v=20260716213544056" type="image/webp" /><img src="/assets/hero_baby.png?v=20260716213544056" alt="Soru-cevap ve topluluk" width="410" height="348" loading="lazy" decoding="async" /></picture>
     <span>Bebek bakımı</span>
     <strong>Soru-cevap ve topluluk</strong>
   </article>
         <article class="proof-item">
-    <picture><source srcset="/assets/hero_child.webp?v=20260705175322222" type="image/webp" /><img src="/assets/hero_child.png?v=20260705175322222" alt="Araçlar" width="389" height="415" loading="lazy" decoding="async" /></picture>
+    <picture><source srcset="/assets/hero_child.webp?v=20260716213544056" type="image/webp" /><img src="/assets/hero_child.png?v=20260716213544056" alt="Araçlar" width="389" height="415" loading="lazy" decoding="async" /></picture>
     <span>Çocuk gelişimi</span>
     <strong>Araçlar</strong>
   </article>
@@ -171,30 +199,30 @@
     </div>
     <div class="media-grid">
       <article class="media-card">
-    <div class="media-image"><picture><source srcset="/assets/app_daily_plan.webp?v=20260705175322222" type="image/webp" /><img src="/assets/app_daily_plan.png?v=20260705175322222" alt="Daily Journey" width="720" height="720" loading="lazy" decoding="async" /></picture></div>
+    <div class="media-image"><picture><source srcset="/assets/app_daily_plan.webp?v=20260716213544056" type="image/webp" /><img src="/assets/app_daily_plan.png?v=20260716213544056" alt="Daily Journey" width="720" height="720" loading="lazy" decoding="async" /></picture></div>
     <div class="media-card-copy">
-      <picture><source srcset="/assets/icon_daily_action.webp?v=20260705175322222" type="image/webp" /><img class="media-icon" src="/assets/icon_daily_action.png?v=20260705175322222" alt="Daily Journey" width="111" height="119" loading="lazy" decoding="async" /></picture>
+      <picture><source srcset="/assets/icon_daily_action.webp?v=20260716213544056" type="image/webp" /><img class="media-icon" src="/assets/icon_daily_action.png?v=20260716213544056" alt="Daily Journey" width="111" height="119" loading="lazy" decoding="async" /></picture>
       <h3>Daily Journey</h3>
       <p>Mevcut aşamana göre şekillenen destek.</p>
     </div>
   </article><article class="media-card">
-    <div class="media-image"><picture><source srcset="/assets/app_qna_support.webp?v=20260705175322222" type="image/webp" /><img src="/assets/app_qna_support.png?v=20260705175322222" alt="Soru-cevap ve topluluk" width="720" height="720" loading="lazy" decoding="async" /></picture></div>
+    <div class="media-image"><picture><source srcset="/assets/app_qna_support.webp?v=20260716213544056" type="image/webp" /><img src="/assets/app_qna_support.png?v=20260716213544056" alt="Soru-cevap ve topluluk" width="720" height="720" loading="lazy" decoding="async" /></picture></div>
     <div class="media-card-copy">
-      <picture><source srcset="/assets/icon_ask_question.webp?v=20260705175322222" type="image/webp" /><img class="media-icon" src="/assets/icon_ask_question.png?v=20260705175322222" alt="Soru-cevap ve topluluk" width="99" height="98" loading="lazy" decoding="async" /></picture>
+      <picture><source srcset="/assets/icon_ask_question.webp?v=20260716213544056" type="image/webp" /><img class="media-icon" src="/assets/icon_ask_question.png?v=20260716213544056" alt="Soru-cevap ve topluluk" width="99" height="98" loading="lazy" decoding="async" /></picture>
       <h3>Soru-cevap ve topluluk</h3>
       <p>Sor, öğren ve destekleyici alanlara bağlan.</p>
     </div>
   </article><article class="media-card">
-    <div class="media-image"><picture><source srcset="/assets/app_community.webp?v=20260705175322222" type="image/webp" /><img src="/assets/app_community.png?v=20260705175322222" alt="AI destekli yardım" width="720" height="720" loading="lazy" decoding="async" /></picture></div>
+    <div class="media-image"><picture><source srcset="/assets/app_community.webp?v=20260716213544056" type="image/webp" /><img src="/assets/app_community.png?v=20260716213544056" alt="AI destekli yardım" width="720" height="720" loading="lazy" decoding="async" /></picture></div>
     <div class="media-card-copy">
-      <picture><source srcset="/assets/icon_shield_heart.webp?v=20260705175322222" type="image/webp" /><img class="media-icon" src="/assets/icon_shield_heart.png?v=20260705175322222" alt="AI destekli yardım" width="103" height="110" loading="lazy" decoding="async" /></picture>
+      <picture><source srcset="/assets/icon_shield_heart.webp?v=20260716213544056" type="image/webp" /><img class="media-icon" src="/assets/icon_shield_heart.png?v=20260716213544056" alt="AI destekli yardım" width="103" height="110" loading="lazy" decoding="async" /></picture>
       <h3>AI destekli yardım</h3>
       <p>Açıkça etiketlenir ve genel eğitimle sınırlıdır.</p>
     </div>
   </article><article class="media-card">
-    <div class="media-image"><picture><source srcset="/assets/app_child_growth.webp?v=20260705175322222" type="image/webp" /><img src="/assets/app_child_growth.png?v=20260705175322222" alt="Çocuk gelişimi" width="720" height="720" loading="lazy" decoding="async" /></picture></div>
+    <div class="media-image"><picture><source srcset="/assets/app_child_growth.webp?v=20260716213544056" type="image/webp" /><img src="/assets/app_child_growth.png?v=20260716213544056" alt="Çocuk gelişimi" width="720" height="720" loading="lazy" decoding="async" /></picture></div>
     <div class="media-card-copy">
-      <picture><source srcset="/assets/icon_ask_ai.webp?v=20260705175322222" type="image/webp" /><img class="media-icon" src="/assets/icon_ask_ai.png?v=20260705175322222" alt="Çocuk gelişimi" width="111" height="94" loading="lazy" decoding="async" /></picture>
+      <picture><source srcset="/assets/icon_ask_ai.webp?v=20260716213544056" type="image/webp" /><img class="media-icon" src="/assets/icon_ask_ai.png?v=20260716213544056" alt="Çocuk gelişimi" width="111" height="94" loading="lazy" decoding="async" /></picture>
       <h3>Çocuk gelişimi</h3>
       <p>Aşamaya uygun pratik bakım araçlarını kullan.</p>
     </div>
@@ -212,17 +240,17 @@
     </div>
     <div class="trust-grid">
       <article class="trust-tile">
-    <picture><source srcset="/assets/icon_shield_heart.webp?v=20260705175322222" type="image/webp" /><img src="/assets/icon_shield_heart.png?v=20260705175322222" alt="Gizlilik" width="103" height="110" loading="lazy" decoding="async" /></picture>
+    <picture><source srcset="/assets/icon_shield_heart.webp?v=20260716213544056" type="image/webp" /><img src="/assets/icon_shield_heart.png?v=20260716213544056" alt="Gizlilik" width="103" height="110" loading="lazy" decoding="async" /></picture>
     <h3>Gizlilik</h3>
     <p>BeMama hassas annelik ve ebeveynlik verileri düşünülerek tasarlanır. Politikalar veri kullanımı, saklama, silme/dışa aktarma talepleri ve AI sınırlarını açıklar.</p>
   </article>
       <article class="trust-tile">
-    <picture><source srcset="/assets/icon_ask_question.webp?v=20260705175322222" type="image/webp" /><img src="/assets/icon_ask_question.png?v=20260705175322222" alt="AI güvenliği" width="99" height="98" loading="lazy" decoding="async" /></picture>
+    <picture><source srcset="/assets/icon_ask_question.webp?v=20260716213544056" type="image/webp" /><img src="/assets/icon_ask_question.png?v=20260716213544056" alt="AI güvenliği" width="99" height="98" loading="lazy" decoding="async" /></picture>
     <h3>AI güvenliği</h3>
     <p>Açıkça etiketlenir ve genel eğitimle sınırlıdır.</p>
   </article>
       <article class="trust-tile">
-    <picture><source srcset="/assets/icon_daily_action.webp?v=20260705175322222" type="image/webp" /><img src="/assets/icon_daily_action.png?v=20260705175322222" alt="Abonelik şartları" width="111" height="119" loading="lazy" decoding="async" /></picture>
+    <picture><source srcset="/assets/icon_daily_action.webp?v=20260716213544056" type="image/webp" /><img src="/assets/icon_daily_action.png?v=20260716213544056" alt="Abonelik şartları" width="111" height="119" loading="lazy" decoding="async" /></picture>
     <h3>Abonelik şartları</h3>
     <p>BeMama’yı bugün webde kullan. Android ve iOS mağaza bağlantıları yayınlandığında eklenecek.</p>
   </article>
@@ -241,8 +269,8 @@
     </div>
     <div class="ad-video-grid" aria-label="BeMama video previews">
       <figure class="ad-video-card is-landscape">
-    <video controls muted loop playsinline preload="none" poster="/assets/videos/bemama-care-story-01-poster.webp?v=20260705175322222" aria-label="BeMama care journey landscape video preview">
-      <source src="/assets/videos/bemama-care-story-01.mp4?v=20260705175322222" type="video/mp4" />
+    <video controls muted loop playsinline preload="none" poster="/assets/videos/bemama-care-story-01-poster.webp?v=20260716213544056" aria-label="BeMama care journey landscape video preview">
+      <source src="/assets/videos/bemama-care-story-01.mp4?v=20260716213544056" type="video/mp4" />
     </video>
   </figure>
     </div>
@@ -259,8 +287,8 @@
         </div>
       </div>
       <figure class="ad-video-card is-portrait">
-    <video controls muted loop playsinline preload="none" poster="/assets/videos/bemama-care-story-02-poster.webp?v=20260705175322222" aria-label="BeMama mobile app portrait video preview">
-      <source src="/assets/videos/bemama-care-story-02.mp4?v=20260705175322222" type="video/mp4" />
+    <video controls muted loop playsinline preload="none" poster="/assets/videos/bemama-care-story-02-poster.webp?v=20260716213544056" aria-label="BeMama mobile app portrait video preview">
+      <source src="/assets/videos/bemama-care-story-02.mp4?v=20260716213544056" type="video/mp4" />
     </video>
   </figure>
     </div>
@@ -282,6 +310,7 @@
     </div>
   </div>
 </footer>
+    <script type="module" src="/assets/site-search.js?v=20260716213544056"></script>
     <script>
 (() => {
   const loadDeferredImages = () => {

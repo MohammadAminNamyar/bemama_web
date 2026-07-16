@@ -14,10 +14,15 @@
     <link rel="alternate" hreflang="es" href="https://bemamas.com/es/contact/" />
     <link rel="alternate" hreflang="pt" href="https://bemamas.com/pt/contact/" />
     <link rel="alternate" hreflang="x-default" href="https://bemamas.com/contact/" />
-    <link rel="icon" href="/favicon.ico" sizes="32x32" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png" />
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96.png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png" />
+    <link rel="icon" type="image/png" sizes="512x512" href="/favicon-512.png" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" sizes="any" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <meta name="theme-color" content="#399A97" />
     <meta property="og:site_name" content="BeMama" />
     <meta property="og:title" content="تماس و پشتیبانی | BeMama" />
     <meta property="og:description" content="برای پشتیبانی، درخواست‌های حریم خصوصی، درخواست حذف یا خروجی داده و بازبینی ایمنی با BeMama تماس بگیرید." />
@@ -37,13 +42,13 @@
     <meta name="twitter:image" content="https://bemamas.com/assets/hero_pregnancy.png" />
 
 
-    <link rel="stylesheet" href="/assets/styles.css?v=20260705175322222" />
+    <link rel="stylesheet" href="/assets/styles.css?v=20260716213544056" />
   </head>
   <body>
     <header class="site-header">
   <div class="nav">
     <a class="brand" href="/fa/" aria-label="BeMama home">
-      <picture><source srcset="/assets/bemama_logo_mark.webp?v=20260705175322222" type="image/webp" /><img src="/assets/bemama_logo_mark.png?v=20260705175322222" alt="BeMama" width="1024" height="1024" loading="eager" decoding="async" /></picture>
+      <picture><source srcset="/assets/bemama_logo_mark.webp?v=20260716213544056" type="image/webp" /><img src="/assets/bemama_logo_mark.png?v=20260716213544056" alt="BeMama" width="1024" height="1024" loading="eager" decoding="async" /></picture>
       <span>BeMama</span>
     </a>
     <nav class="primary-nav" aria-label="خانه">
@@ -87,9 +92,32 @@
         <li class="nav-item"><a class="nav-top nav-support" href="/fa/contact/">پشتیبانی</a></li>
       </ul>
     </nav>
+    <form class="site-search is-desktop" role="search" data-site-search data-search-lang="fa" data-empty-message="برای جستجو حداقل ۲ نویسه وارد کنید" data-no-results-message="راهنمایی پیدا نشد" data-results-label="نتیجه">
+      <button class="search-toggle" type="button" aria-label="جستجو در BeMama" aria-expanded="false" aria-controls="site-search-fa-desktop-panel" data-search-toggle></button>
+      <div id="site-search-fa-desktop-panel" class="search-popover" data-search-panel hidden>
+        <label class="sr-only" for="site-search-fa-desktop">جستجو در BeMama</label>
+      <div class="search-control">
+        <input id="site-search-fa-desktop" class="search-input" type="search" autocomplete="off" placeholder="جستجوی راهنماها" aria-controls="site-search-fa-desktop-results" aria-expanded="false" data-search-input />
+      </div>
+      <div id="site-search-fa-desktop-results" class="search-results-panel" data-search-results hidden>
+        <p class="search-status" data-search-status>برای جستجو حداقل ۲ نویسه وارد کنید</p>
+        <div class="search-result-list" data-search-list></div>
+      </div>
+      </div>
+    </form>
     <details class="mobile-menu">
       <summary aria-label="Open navigation menu"><span class="menu-icon" aria-hidden="true"></span></summary>
       <div class="mobile-menu-panel">
+        <form class="site-search is-mobile" role="search" data-site-search data-search-lang="fa" data-empty-message="برای جستجو حداقل ۲ نویسه وارد کنید" data-no-results-message="راهنمایی پیدا نشد" data-results-label="نتیجه">
+      <label class="sr-only" for="site-search-fa-mobile">جستجو در BeMama</label>
+      <div class="search-control">
+        <input id="site-search-fa-mobile" class="search-input" type="search" autocomplete="off" placeholder="جستجوی راهنماها" aria-controls="site-search-fa-mobile-results" aria-expanded="false" data-search-input />
+      </div>
+      <div id="site-search-fa-mobile-results" class="search-results-panel" data-search-results hidden>
+        <p class="search-status" data-search-status>برای جستجو حداقل ۲ نویسه وارد کنید</p>
+        <div class="search-result-list" data-search-list></div>
+      </div>
+    </form>
         <a class="mobile-link" href="/fa/">خانه</a>
         <details class="mobile-group">
           <summary>اقدام به بارداری</summary>
@@ -118,7 +146,7 @@
 </header>
     <main class="policy-layout">
   <article class="policy-panel">
-    <span class="eyebrow">June 19, 2026</span>
+    <span class="eyebrow">آخرین به‌روزرسانی: June 19, 2026</span>
     <h1>تماس و پشتیبانی</h1>
     <p>برای پشتیبانی، درخواست‌های حریم خصوصی، درخواست حذف یا خروجی داده و بازبینی ایمنی با BeMama تماس بگیرید.</p>
     <div class="notice">این صفحه ترجمه‌ای برای راحتی شماست. اگر ترجمه با نسخه انگلیسی تفاوت داشته باشد، تا حد مجاز قانون نسخه انگلیسی ملاک است. <a href="/contact/">English</a></div>
@@ -160,6 +188,7 @@
     </div>
   </div>
 </footer>
+    <script type="module" src="/assets/site-search.js?v=20260716213544056"></script>
     <script>
 (() => {
   const loadDeferredImages = () => {

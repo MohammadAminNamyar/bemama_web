@@ -27,6 +27,75 @@ const ogLocales = {
   pt: 'pt_BR'
 };
 
+const policyUpdatedLabels = {
+  en: 'Last updated',
+  fa: 'آخرین به‌روزرسانی',
+  ar: 'آخر تحديث',
+  fr: 'Dernière mise à jour',
+  tr: 'Son güncelleme',
+  es: 'Última actualización',
+  pt: 'Última atualização'
+};
+
+const searchLabels = {
+  en: {
+    ariaLabel: 'Search BeMama',
+    placeholder: 'Search guides',
+    empty: 'Type at least 2 characters to search',
+    noResults: 'No matching guides found',
+    results: 'results',
+    types: { home: 'Home', page: 'Page', topic: 'Topic', guide: 'Guide' }
+  },
+  fa: {
+    ariaLabel: 'جستجو در BeMama',
+    placeholder: 'جستجوی راهنماها',
+    empty: 'برای جستجو حداقل ۲ نویسه وارد کنید',
+    noResults: 'راهنمایی پیدا نشد',
+    results: 'نتیجه',
+    types: { home: 'خانه', page: 'صفحه', topic: 'موضوع', guide: 'راهنما' }
+  },
+  ar: {
+    ariaLabel: 'البحث في BeMama',
+    placeholder: 'البحث في الأدلة',
+    empty: 'اكتب حرفين على الأقل للبحث',
+    noResults: 'لم يتم العثور على أدلة مطابقة',
+    results: 'نتائج',
+    types: { home: 'الرئيسية', page: 'صفحة', topic: 'موضوع', guide: 'دليل' }
+  },
+  fr: {
+    ariaLabel: 'Rechercher dans BeMama',
+    placeholder: 'Rechercher des guides',
+    empty: 'Saisissez au moins 2 caractères',
+    noResults: 'Aucun guide correspondant',
+    results: 'résultats',
+    types: { home: 'Accueil', page: 'Page', topic: 'Thème', guide: 'Guide' }
+  },
+  tr: {
+    ariaLabel: "BeMama'da ara",
+    placeholder: 'Rehberlerde ara',
+    empty: 'Aramak için en az 2 karakter yazın',
+    noResults: 'Eşleşen rehber bulunamadı',
+    results: 'sonuç',
+    types: { home: 'Ana sayfa', page: 'Sayfa', topic: 'Konu', guide: 'Rehber' }
+  },
+  es: {
+    ariaLabel: 'Buscar en BeMama',
+    placeholder: 'Buscar guías',
+    empty: 'Escribe al menos 2 caracteres',
+    noResults: 'No se encontraron guías',
+    results: 'resultados',
+    types: { home: 'Inicio', page: 'Página', topic: 'Tema', guide: 'Guía' }
+  },
+  pt: {
+    ariaLabel: 'Pesquisar no BeMama',
+    placeholder: 'Pesquisar guias',
+    empty: 'Digite pelo menos 2 caracteres',
+    noResults: 'Nenhum guia correspondente',
+    results: 'resultados',
+    types: { home: 'Início', page: 'Página', topic: 'Tema', guide: 'Guia' }
+  }
+};
+
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const dist = path.join(root, 'dist');
 const publicAssets = path.join(root, 'public', 'assets');
@@ -53,6 +122,13 @@ for (const language of languages) {
   }
 }
 
+const searchEntries = renderSearchIndex();
+for (const language of languages) {
+  await writeFile(
+    path.join(dist, `search-index-${language.code}.json`),
+    JSON.stringify(searchEntries.filter((entry) => entry.lang === language.code))
+  );
+}
 await writeFile(path.join(dist, 'sitemap.xml'), renderSitemap());
 
 function renderPage(language, slug) {
@@ -106,10 +182,15 @@ function renderPage(language, slug) {
     <meta name="description" content="${escapeHtml(description)}" />
     <link rel="canonical" href="${canonical}" />
     ${renderAlternates(slug)}
-    <link rel="icon" href="/favicon.ico" sizes="32x32" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png" />
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96.png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png" />
+    <link rel="icon" type="image/png" sizes="512x512" href="/favicon-512.png" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" sizes="any" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <meta name="theme-color" content="#399A97" />
     <meta property="og:site_name" content="${escapeHtml(site.name)}" />
     <meta property="og:title" content="${escapeHtml(title)}" />
     <meta property="og:description" content="${escapeHtml(description)}" />
@@ -133,6 +214,7 @@ function renderPage(language, slug) {
     ${renderHeader(language, slug)}
     ${body}
     ${renderFooter(language)}
+    <script type="module" src="/assets/site-search.js?v=${assetVersion}"></script>
     ${renderDeferredImageLoader()}
   </body>
 </html>`;
@@ -190,9 +272,11 @@ function renderHeader(language, slug) {
         <li class="nav-item"><a class="nav-top nav-support" href="${localizedPath(lang, 'contact')}">${escapeHtml(t.nav.support)}</a></li>
       </ul>
     </nav>
+    ${renderSearch(language, 'desktop')}
     <details class="mobile-menu">
       <summary aria-label="Open navigation menu"><span class="menu-icon" aria-hidden="true"></span></summary>
       <div class="mobile-menu-panel">
+        ${renderSearch(language, 'mobile')}
         <a class="mobile-link" href="${localizedPath(lang, '')}">${escapeHtml(t.nav.home)}</a>
         ${catItems.map(mobileCategory).join('')}
         <details class="mobile-group">
@@ -204,6 +288,30 @@ function renderHeader(language, slug) {
     </details>
   </div>
 </header>`;
+}
+
+function renderSearch(language, variant) {
+  const id = `site-search-${language.code}-${variant}`;
+  const labels = searchLabels[language.code] ?? searchLabels.en;
+  const searchBody = `<label class="sr-only" for="${id}">${escapeHtml(labels.ariaLabel)}</label>
+      <div class="search-control">
+        <input id="${id}" class="search-input" type="search" autocomplete="off" placeholder="${escapeHtml(labels.placeholder)}" aria-controls="${id}-results" aria-expanded="false" data-search-input />
+      </div>
+      <div id="${id}-results" class="search-results-panel" data-search-results hidden>
+        <p class="search-status" data-search-status>${escapeHtml(labels.empty)}</p>
+        <div class="search-result-list" data-search-list></div>
+      </div>`;
+  if (variant === 'desktop') {
+    return `<form class="site-search is-desktop" role="search" data-site-search data-search-lang="${language.code}" data-empty-message="${escapeHtml(labels.empty)}" data-no-results-message="${escapeHtml(labels.noResults)}" data-results-label="${escapeHtml(labels.results)}">
+      <button class="search-toggle" type="button" aria-label="${escapeHtml(labels.ariaLabel)}" aria-expanded="false" aria-controls="${id}-panel" data-search-toggle></button>
+      <div id="${id}-panel" class="search-popover" data-search-panel hidden>
+        ${searchBody}
+      </div>
+    </form>`;
+  }
+  return `<form class="site-search is-mobile" role="search" data-site-search data-search-lang="${language.code}" data-empty-message="${escapeHtml(labels.empty)}" data-no-results-message="${escapeHtml(labels.noResults)}" data-results-label="${escapeHtml(labels.results)}">
+      ${searchBody}
+    </form>`;
 }
 
 function renderHome(language) {
@@ -331,7 +439,7 @@ function renderPolicy(language, slug, page) {
   const officialNotice = language.code === 'en' ? undefined : t.officialNotice;
   return `<main class="policy-layout">
   <article class="policy-panel">
-    <span class="eyebrow">${page.updated ? `${escapeHtml(page.updated)}` : 'BeMama'}</span>
+    <span class="eyebrow">${page.updated ? `${escapeHtml(policyUpdatedLabels[language.code] ?? policyUpdatedLabels.en)}: ${escapeHtml(page.updated)}` : 'BeMama'}</span>
     <h1>${escapeHtml(page.title)}</h1>
     <p>${escapeHtml(page.description)}</p>
     ${officialNotice ? `<div class="notice">${escapeHtml(officialNotice)} <a href="${localizedPath('en', slug)}">English</a></div>` : ''}
@@ -771,6 +879,108 @@ function renderDeferredImageLoader() {
   }, { once: true });
 })();
 </script>`;
+}
+
+function renderSearchIndex() {
+  const entries = [];
+  for (const language of languages) {
+    const lang = language.code;
+    const t = content[lang];
+    const labels = searchLabels[lang] ?? searchLabels.en;
+    entries.push({
+      lang,
+      type: labels.types.home,
+      title: site.name,
+      description: t.metaDescription,
+      category: site.name,
+      url: localizedPath(lang, ''),
+      body: compactSearchText([
+        t.home.eyebrow,
+        t.home.copy,
+        t.home.mediaText,
+        t.home.whatText,
+        t.home.trustText,
+        t.home.features.flat()
+      ])
+    });
+
+    for (const slug of pageSlugs.filter(Boolean)) {
+      const page = t.pages[slug];
+      if (!page) continue;
+      entries.push({
+        lang,
+        type: labels.types.page,
+        title: page.title,
+        description: page.description,
+        category: site.name,
+        url: localizedPath(lang, slug),
+        body: compactSearchText([page.notice, page.sections.map((section) => [section.heading, section.paragraphs])])
+      });
+    }
+
+    for (const category of categories) {
+      const categoryTitle = pick(category.title, lang);
+      entries.push({
+        lang,
+        type: labels.types.topic,
+        title: categoryTitle,
+        description: pick(category.blurb, lang),
+        category: categoryTitle,
+        url: localizedPath(lang, category.slug),
+        body: compactSearchText(
+          articlesInCategory(category.id).map((article) => {
+            const data = article.i18n[lang] ?? article.i18n.en;
+            return [data.title, data.description];
+          })
+        )
+      });
+    }
+
+    for (const article of articlesInSiteOrder()) {
+      const category = categoryById.get(article.category);
+      const categoryTitle = pick(category.title, lang);
+      const data = article.i18n[lang] ?? article.i18n.en;
+      entries.push({
+        lang,
+        type: labels.types.guide,
+        title: data.title,
+        description: data.description,
+        category: categoryTitle,
+        url: localizedPath(lang, article.slug),
+        body: compactSearchText([
+          data.intro,
+          data.sections.map((section) => [section.heading, section.paragraphs]),
+          data.takeaways,
+          data.faq?.map((item) => [item.q, item.a])
+        ])
+      });
+    }
+  }
+  return entries;
+}
+
+function articlesInSiteOrder() {
+  return categories
+    .slice()
+    .sort((a, b) => a.order - b.order)
+    .flatMap((category) => articlesInCategory(category.id));
+}
+
+function compactSearchText(value) {
+  return flattenSearchText(value)
+    .map((part) => String(part).trim())
+    .filter(Boolean)
+    .join(' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function flattenSearchText(value) {
+  if (!value) return [];
+  if (Array.isArray(value)) {
+    return value.flatMap(flattenSearchText);
+  }
+  return [value];
 }
 
 function renderSitemap() {

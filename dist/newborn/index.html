@@ -14,10 +14,15 @@
     <link rel="alternate" hreflang="es" href="https://bemamas.com/es/newborn/" />
     <link rel="alternate" hreflang="pt" href="https://bemamas.com/pt/newborn/" />
     <link rel="alternate" hreflang="x-default" href="https://bemamas.com/newborn/" />
-    <link rel="icon" href="/favicon.ico" sizes="32x32" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png" />
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96.png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png" />
+    <link rel="icon" type="image/png" sizes="512x512" href="/favicon-512.png" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" sizes="any" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <meta name="theme-color" content="#399A97" />
     <meta property="og:site_name" content="BeMama" />
     <meta property="og:title" content="Newborn Care | BeMama" />
     <meta property="og:description" content="The first months — feeding, sleep, daily care, and knowing when to call your doctor, plus recovery for you." />
@@ -36,14 +41,14 @@
     <meta name="twitter:description" content="The first months — feeding, sleep, daily care, and knowing when to call your doctor, plus recovery for you." />
     <meta name="twitter:image" content="https://bemamas.com/assets/hero_baby.png" />
     <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://bemamas.com/"},{"@type":"ListItem","position":2,"name":"Newborn Care","item":"https://bemamas.com/newborn/"}]},{"@type":"CollectionPage","name":"Newborn Care","description":"The first months — feeding, sleep, daily care, and knowing when to call your doctor, plus recovery for you.","url":"https://bemamas.com/newborn/","inLanguage":"en","mainEntity":{"@type":"ItemList","itemListElement":[{"@type":"ListItem","position":1,"url":"https://bemamas.com/newborn/newborn-care-basics/","name":"Newborn Care Basics: Your First Days at Home"},{"@type":"ListItem","position":2,"url":"https://bemamas.com/newborn/breastfeeding-guide/","name":"Breastfeeding: A Beginner’s Guide"},{"@type":"ListItem","position":3,"url":"https://bemamas.com/newborn/formula-feeding/","name":"Formula Feeding: How to Bottle-Feed Safely"},{"@type":"ListItem","position":4,"url":"https://bemamas.com/newborn/newborn-sleep/","name":"Newborn Sleep: What’s Normal in the First Months"},{"@type":"ListItem","position":5,"url":"https://bemamas.com/newborn/bathing-and-diapering/","name":"Bathing and Diapering Your Newborn"},{"@type":"ListItem","position":6,"url":"https://bemamas.com/newborn/cord-and-skin-care/","name":"Umbilical Cord Care and Common Newborn Skin Issues"},{"@type":"ListItem","position":7,"url":"https://bemamas.com/newborn/when-to-call-doctor/","name":"Recognizing Illness in a Newborn: When to Call the Doctor"},{"@type":"ListItem","position":8,"url":"https://bemamas.com/newborn/postpartum-recovery/","name":"Postpartum Recovery: Caring for Yourself After Birth"},{"@type":"ListItem","position":9,"url":"https://bemamas.com/newborn/soothing-and-colic/","name":"Soothing a Crying Baby and Understanding Colic"},{"@type":"ListItem","position":10,"url":"https://bemamas.com/newborn/newborn-development/","name":"Newborn Development: The First Three Months"}]}}]}</script>
-    <link rel="preload" as="image" href="/assets/hero_baby.webp?v=20260705175322222" type="image/webp" fetchpriority="high" />
-    <link rel="stylesheet" href="/assets/styles.css?v=20260705175322222" />
+    <link rel="preload" as="image" href="/assets/hero_baby.webp?v=20260716213544056" type="image/webp" fetchpriority="high" />
+    <link rel="stylesheet" href="/assets/styles.css?v=20260716213544056" />
   </head>
   <body>
     <header class="site-header">
   <div class="nav">
     <a class="brand" href="/" aria-label="BeMama home">
-      <picture><source srcset="/assets/bemama_logo_mark.webp?v=20260705175322222" type="image/webp" /><img src="/assets/bemama_logo_mark.png?v=20260705175322222" alt="BeMama" width="1024" height="1024" loading="eager" decoding="async" /></picture>
+      <picture><source srcset="/assets/bemama_logo_mark.webp?v=20260716213544056" type="image/webp" /><img src="/assets/bemama_logo_mark.png?v=20260716213544056" alt="BeMama" width="1024" height="1024" loading="eager" decoding="async" /></picture>
       <span>BeMama</span>
     </a>
     <nav class="primary-nav" aria-label="Home">
@@ -87,9 +92,32 @@
         <li class="nav-item"><a class="nav-top nav-support" href="/contact/">Support</a></li>
       </ul>
     </nav>
+    <form class="site-search is-desktop" role="search" data-site-search data-search-lang="en" data-empty-message="Type at least 2 characters to search" data-no-results-message="No matching guides found" data-results-label="results">
+      <button class="search-toggle" type="button" aria-label="Search BeMama" aria-expanded="false" aria-controls="site-search-en-desktop-panel" data-search-toggle></button>
+      <div id="site-search-en-desktop-panel" class="search-popover" data-search-panel hidden>
+        <label class="sr-only" for="site-search-en-desktop">Search BeMama</label>
+      <div class="search-control">
+        <input id="site-search-en-desktop" class="search-input" type="search" autocomplete="off" placeholder="Search guides" aria-controls="site-search-en-desktop-results" aria-expanded="false" data-search-input />
+      </div>
+      <div id="site-search-en-desktop-results" class="search-results-panel" data-search-results hidden>
+        <p class="search-status" data-search-status>Type at least 2 characters to search</p>
+        <div class="search-result-list" data-search-list></div>
+      </div>
+      </div>
+    </form>
     <details class="mobile-menu">
       <summary aria-label="Open navigation menu"><span class="menu-icon" aria-hidden="true"></span></summary>
       <div class="mobile-menu-panel">
+        <form class="site-search is-mobile" role="search" data-site-search data-search-lang="en" data-empty-message="Type at least 2 characters to search" data-no-results-message="No matching guides found" data-results-label="results">
+      <label class="sr-only" for="site-search-en-mobile">Search BeMama</label>
+      <div class="search-control">
+        <input id="site-search-en-mobile" class="search-input" type="search" autocomplete="off" placeholder="Search guides" aria-controls="site-search-en-mobile-results" aria-expanded="false" data-search-input />
+      </div>
+      <div id="site-search-en-mobile-results" class="search-results-panel" data-search-results hidden>
+        <p class="search-status" data-search-status>Type at least 2 characters to search</p>
+        <div class="search-result-list" data-search-list></div>
+      </div>
+    </form>
         <a class="mobile-link" href="/">Home</a>
         <details class="mobile-group">
           <summary>Trying to Conceive</summary>
@@ -124,74 +152,74 @@
       <h1>Newborn Care</h1>
       <p>The first months — feeding, sleep, daily care, and knowing when to call your doctor, plus recovery for you.</p>
     </div>
-    <figure class="category-hero-media"><picture><source srcset="/assets/hero_baby.webp?v=20260705175322222" type="image/webp" /><img src="/assets/hero_baby.png?v=20260705175322222" alt="Newborn Care" width="410" height="348" loading="eager" decoding="async" fetchpriority="high" /></picture></figure>
+    <figure class="category-hero-media"><picture><source srcset="/assets/hero_baby.webp?v=20260716213544056" type="image/webp" /><img src="/assets/hero_baby.png?v=20260716213544056" alt="Newborn Care" width="410" height="348" loading="eager" decoding="async" fetchpriority="high" /></picture></figure>
   </section>
   <section class="section">
     <div class="article-grid"><a class="article-card" href="/newborn/newborn-care-basics/">
-        <div class="article-card-media"><picture><source srcset="/assets/content/newborn-basics.webp?v=20260705175322222" type="image/webp" /><img src="/assets/content/newborn-basics.jpg?v=20260705175322222" alt="Newborn Care Basics: Your First Days at Home" width="1024" height="1280" loading="lazy" decoding="async" /></picture></div>
+        <div class="article-card-media"><picture><source srcset="/assets/content/newborn-basics.webp?v=20260716213544056" type="image/webp" /><img src="/assets/content/newborn-basics.jpg?v=20260716213544056" alt="Newborn Care Basics: Your First Days at Home" width="1024" height="1280" loading="lazy" decoding="async" /></picture></div>
         <div class="article-card-copy">
           <h3>Newborn Care Basics: Your First Days at Home</h3>
           <p>A calm, practical guide to your first days home with a newborn , feeding cues, sleep basics, safe handling, visitors, and learning to trust yourself as a parent.</p>
           <span class="article-card-link">Read guide</span>
         </div>
       </a><a class="article-card" href="/newborn/breastfeeding-guide/">
-        <div class="article-card-media"><picture><source srcset="/assets/content/newborn-breastfeeding.webp?v=20260705175322222" type="image/webp" /><img src="/assets/content/newborn-breastfeeding.jpg?v=20260705175322222" alt="Breastfeeding: A Beginner’s Guide" width="1024" height="1280" loading="lazy" decoding="async" /></picture></div>
+        <div class="article-card-media"><picture><source srcset="/assets/content/newborn-breastfeeding.webp?v=20260716213544056" type="image/webp" /><img src="/assets/content/newborn-breastfeeding.jpg?v=20260716213544056" alt="Breastfeeding: A Beginner’s Guide" width="1024" height="1280" loading="lazy" decoding="async" /></picture></div>
         <div class="article-card-copy">
           <h3>Breastfeeding: A Beginner’s Guide</h3>
           <p>Getting started with breastfeeding , latch basics, how often newborns feed, common early challenges, signs baby is getting enough, and where to find real support.</p>
           <span class="article-card-link">Read guide</span>
         </div>
       </a><a class="article-card" href="/newborn/formula-feeding/">
-        <div class="article-card-media"><picture><source srcset="/assets/content/newborn-formula.webp?v=20260705175322222" type="image/webp" /><img src="/assets/content/newborn-formula.jpg?v=20260705175322222" alt="Formula Feeding: How to Bottle-Feed Safely" width="1024" height="1280" loading="lazy" decoding="async" /></picture></div>
+        <div class="article-card-media"><picture><source srcset="/assets/content/newborn-formula.webp?v=20260716213544056" type="image/webp" /><img src="/assets/content/newborn-formula.jpg?v=20260716213544056" alt="Formula Feeding: How to Bottle-Feed Safely" width="1024" height="1280" loading="lazy" decoding="async" /></picture></div>
         <div class="article-card-copy">
           <h3>Formula Feeding: How to Bottle-Feed Safely</h3>
           <p>A judgment-free guide to formula feeding , choosing a formula with your provider, safe preparation and sterilizing, amounts by age, and paced bottle feeding.</p>
           <span class="article-card-link">Read guide</span>
         </div>
       </a><a class="article-card" href="/newborn/newborn-sleep/">
-        <div class="article-card-media"><picture><source srcset="/assets/content/newborn-sleep.webp?v=20260705175322222" type="image/webp" /><img src="/assets/content/newborn-sleep.jpg?v=20260705175322222" alt="Newborn Sleep: What’s Normal in the First Months" width="804" height="752" loading="lazy" decoding="async" /></picture></div>
+        <div class="article-card-media"><picture><source srcset="/assets/content/newborn-sleep.webp?v=20260716213544056" type="image/webp" /><img src="/assets/content/newborn-sleep.jpg?v=20260716213544056" alt="Newborn Sleep: What’s Normal in the First Months" width="804" height="752" loading="lazy" decoding="async" /></picture></div>
         <div class="article-card-copy">
           <h3>Newborn Sleep: What’s Normal in the First Months</h3>
           <p>What newborn sleep really looks like , total hours, short cycles, day–night confusion, safe sleep rules, gentle routines, and survival tips for exhausted parents.</p>
           <span class="article-card-link">Read guide</span>
         </div>
       </a><a class="article-card" href="/newborn/bathing-and-diapering/">
-        <div class="article-card-media"><picture><source srcset="/assets/content/newborn-bathing.webp?v=20260705175322222" type="image/webp" /><img src="/assets/content/newborn-bathing.jpg?v=20260705175322222" alt="Bathing and Diapering Your Newborn" width="1024" height="1280" loading="lazy" decoding="async" /></picture></div>
+        <div class="article-card-media"><picture><source srcset="/assets/content/newborn-bathing.webp?v=20260716213544056" type="image/webp" /><img src="/assets/content/newborn-bathing.jpg?v=20260716213544056" alt="Bathing and Diapering Your Newborn" width="1024" height="1280" loading="lazy" decoding="async" /></picture></div>
         <div class="article-card-copy">
           <h3>Bathing and Diapering Your Newborn</h3>
           <p>How to bathe and diaper a newborn with confidence , sponge baths before the cord falls off, bath temperature and safety, diapering step-by-step, and preventing rash.</p>
           <span class="article-card-link">Read guide</span>
         </div>
       </a><a class="article-card" href="/newborn/cord-and-skin-care/">
-        <div class="article-card-media"><picture><source srcset="/assets/content/newborn-cord-skin.webp?v=20260705175322222" type="image/webp" /><img src="/assets/content/newborn-cord-skin.jpg?v=20260705175322222" alt="Umbilical Cord Care and Common Newborn Skin Issues" width="1024" height="1280" loading="lazy" decoding="async" /></picture></div>
+        <div class="article-card-media"><picture><source srcset="/assets/content/newborn-cord-skin.webp?v=20260716213544056" type="image/webp" /><img src="/assets/content/newborn-cord-skin.jpg?v=20260716213544056" alt="Umbilical Cord Care and Common Newborn Skin Issues" width="1024" height="1280" loading="lazy" decoding="async" /></picture></div>
         <div class="article-card-copy">
           <h3>Umbilical Cord Care and Common Newborn Skin Issues</h3>
           <p>Simple umbilical cord care, signs of infection to watch for, and a reassuring guide to normal newborn skin , peeling, baby acne, cradle cap, and milia.</p>
           <span class="article-card-link">Read guide</span>
         </div>
       </a><a class="article-card" href="/newborn/when-to-call-doctor/">
-        <div class="article-card-media"><picture><source srcset="/assets/content/newborn-call-doctor.webp?v=20260705175322222" type="image/webp" /><img src="/assets/content/newborn-call-doctor.jpg?v=20260705175322222" alt="Recognizing Illness in a Newborn: When to Call the Doctor" width="1254" height="1254" loading="lazy" decoding="async" /></picture></div>
+        <div class="article-card-media"><picture><source srcset="/assets/content/newborn-call-doctor.webp?v=20260716213544056" type="image/webp" /><img src="/assets/content/newborn-call-doctor.jpg?v=20260716213544056" alt="Recognizing Illness in a Newborn: When to Call the Doctor" width="1254" height="1254" loading="lazy" decoding="async" /></picture></div>
         <div class="article-card-copy">
           <h3>Recognizing Illness in a Newborn: When to Call the Doctor</h3>
           <p>A calm guide to newborn warning signs , fever, feeding refusal, breathing trouble, jaundice, dehydration, and lethargy , and why calling early is always right.</p>
           <span class="article-card-link">Read guide</span>
         </div>
       </a><a class="article-card" href="/newborn/postpartum-recovery/">
-        <div class="article-card-media"><picture><source srcset="/assets/content/newborn-postpartum.webp?v=20260705175322222" type="image/webp" /><img src="/assets/content/newborn-postpartum.jpg?v=20260705175322222" alt="Postpartum Recovery: Caring for Yourself After Birth" width="1024" height="1280" loading="lazy" decoding="async" /></picture></div>
+        <div class="article-card-media"><picture><source srcset="/assets/content/newborn-postpartum.webp?v=20260716213544056" type="image/webp" /><img src="/assets/content/newborn-postpartum.jpg?v=20260716213544056" alt="Postpartum Recovery: Caring for Yourself After Birth" width="1024" height="1280" loading="lazy" decoding="async" /></picture></div>
         <div class="article-card-copy">
           <h3>Postpartum Recovery: Caring for Yourself After Birth</h3>
           <p>What postpartum recovery really involves , healing after vaginal or cesarean birth, bleeding expectations, rest and nutrition, emotional shifts, and your own checkups.</p>
           <span class="article-card-link">Read guide</span>
         </div>
       </a><a class="article-card" href="/newborn/soothing-and-colic/">
-        <div class="article-card-media"><picture><source srcset="/assets/content/newborn-soothing.webp?v=20260705175322222" type="image/webp" /><img src="/assets/content/newborn-soothing.jpg?v=20260705175322222" alt="Soothing a Crying Baby and Understanding Colic" width="1024" height="1280" loading="lazy" decoding="async" /></picture></div>
+        <div class="article-card-media"><picture><source srcset="/assets/content/newborn-soothing.webp?v=20260716213544056" type="image/webp" /><img src="/assets/content/newborn-soothing.jpg?v=20260716213544056" alt="Soothing a Crying Baby and Understanding Colic" width="1024" height="1280" loading="lazy" decoding="async" /></picture></div>
         <div class="article-card-copy">
           <h3>Soothing a Crying Baby and Understanding Colic</h3>
           <p>Why babies cry, calming techniques that actually help, what colic is and is not, how to cope when nothing works, and when crying deserves a call to the doctor.</p>
           <span class="article-card-link">Read guide</span>
         </div>
       </a><a class="article-card" href="/newborn/newborn-development/">
-        <div class="article-card-media"><picture><source srcset="/assets/content/newborn-development.webp?v=20260705175322222" type="image/webp" /><img src="/assets/content/newborn-development.jpg?v=20260705175322222" alt="Newborn Development: The First Three Months" width="1024" height="1280" loading="lazy" decoding="async" /></picture></div>
+        <div class="article-card-media"><picture><source srcset="/assets/content/newborn-development.webp?v=20260716213544056" type="image/webp" /><img src="/assets/content/newborn-development.jpg?v=20260716213544056" alt="Newborn Development: The First Three Months" width="1024" height="1280" loading="lazy" decoding="async" /></picture></div>
         <div class="article-card-copy">
           <h3>Newborn Development: The First Three Months</h3>
           <p>How newborns develop from birth to three months , reflexes, senses, tummy time, first social smiles, and easy everyday ways to support your baby’s growth.</p>
@@ -223,6 +251,7 @@
     </div>
   </div>
 </footer>
+    <script type="module" src="/assets/site-search.js?v=20260716213544056"></script>
     <script>
 (() => {
   const loadDeferredImages = () => {

@@ -14,10 +14,15 @@
     <link rel="alternate" hreflang="es" href="https://bemamas.com/es/about-bemama/" />
     <link rel="alternate" hreflang="pt" href="https://bemamas.com/pt/about-bemama/" />
     <link rel="alternate" hreflang="x-default" href="https://bemamas.com/about-bemama/" />
-    <link rel="icon" href="/favicon.ico" sizes="32x32" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png" />
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96.png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png" />
+    <link rel="icon" type="image/png" sizes="512x512" href="/favicon-512.png" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" sizes="any" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <meta name="theme-color" content="#399A97" />
     <meta property="og:site_name" content="BeMama" />
     <meta property="og:title" content="About BeMama | BeMama" />
     <meta property="og:description" content="How BeMama supports every stage — Daily Journey, Q&amp;A, community, and tools — and how to get started." />
@@ -36,14 +41,14 @@
     <meta name="twitter:description" content="How BeMama supports every stage — Daily Journey, Q&amp;A, community, and tools — and how to get started." />
     <meta name="twitter:image" content="https://bemamas.com/assets/app_daily_plan.png" />
     <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://bemamas.com/"},{"@type":"ListItem","position":2,"name":"About BeMama","item":"https://bemamas.com/about-bemama/"}]},{"@type":"CollectionPage","name":"About BeMama","description":"How BeMama supports every stage — Daily Journey, Q&A, community, and tools — and how to get started.","url":"https://bemamas.com/about-bemama/","inLanguage":"en","mainEntity":{"@type":"ItemList","itemListElement":[{"@type":"ListItem","position":1,"url":"https://bemamas.com/about-bemama/why-bemama/","name":"Why BeMama: Support for Every Stage of Motherhood"},{"@type":"ListItem","position":2,"url":"https://bemamas.com/about-bemama/daily-journey/","name":"The Daily Journey: Guidance Tailored to Your Stage"},{"@type":"ListItem","position":3,"url":"https://bemamas.com/about-bemama/qa-and-community/","name":"Q&A and Community: Ask, Learn, and Connect"},{"@type":"ListItem","position":4,"url":"https://bemamas.com/about-bemama/tools/","name":"BeMama Tools: Calculators and Trackers"},{"@type":"ListItem","position":5,"url":"https://bemamas.com/about-bemama/premium/","name":"BeMama Premium: What’s Included"},{"@type":"ListItem","position":6,"url":"https://bemamas.com/about-bemama/ai-support/","name":"How AI-Assisted Support Works in BeMama"},{"@type":"ListItem","position":7,"url":"https://bemamas.com/about-bemama/privacy-and-safety/","name":"Your Privacy and Data Safety on BeMama"},{"@type":"ListItem","position":8,"url":"https://bemamas.com/about-bemama/getting-started/","name":"Getting Started with BeMama"}]}}]}</script>
-    <link rel="preload" as="image" href="/assets/app_daily_plan.webp?v=20260705175322222" type="image/webp" fetchpriority="high" />
-    <link rel="stylesheet" href="/assets/styles.css?v=20260705175322222" />
+    <link rel="preload" as="image" href="/assets/app_daily_plan.webp?v=20260716213544056" type="image/webp" fetchpriority="high" />
+    <link rel="stylesheet" href="/assets/styles.css?v=20260716213544056" />
   </head>
   <body>
     <header class="site-header">
   <div class="nav">
     <a class="brand" href="/" aria-label="BeMama home">
-      <picture><source srcset="/assets/bemama_logo_mark.webp?v=20260705175322222" type="image/webp" /><img src="/assets/bemama_logo_mark.png?v=20260705175322222" alt="BeMama" width="1024" height="1024" loading="eager" decoding="async" /></picture>
+      <picture><source srcset="/assets/bemama_logo_mark.webp?v=20260716213544056" type="image/webp" /><img src="/assets/bemama_logo_mark.png?v=20260716213544056" alt="BeMama" width="1024" height="1024" loading="eager" decoding="async" /></picture>
       <span>BeMama</span>
     </a>
     <nav class="primary-nav" aria-label="Home">
@@ -87,9 +92,32 @@
         <li class="nav-item"><a class="nav-top nav-support" href="/contact/">Support</a></li>
       </ul>
     </nav>
+    <form class="site-search is-desktop" role="search" data-site-search data-search-lang="en" data-empty-message="Type at least 2 characters to search" data-no-results-message="No matching guides found" data-results-label="results">
+      <button class="search-toggle" type="button" aria-label="Search BeMama" aria-expanded="false" aria-controls="site-search-en-desktop-panel" data-search-toggle></button>
+      <div id="site-search-en-desktop-panel" class="search-popover" data-search-panel hidden>
+        <label class="sr-only" for="site-search-en-desktop">Search BeMama</label>
+      <div class="search-control">
+        <input id="site-search-en-desktop" class="search-input" type="search" autocomplete="off" placeholder="Search guides" aria-controls="site-search-en-desktop-results" aria-expanded="false" data-search-input />
+      </div>
+      <div id="site-search-en-desktop-results" class="search-results-panel" data-search-results hidden>
+        <p class="search-status" data-search-status>Type at least 2 characters to search</p>
+        <div class="search-result-list" data-search-list></div>
+      </div>
+      </div>
+    </form>
     <details class="mobile-menu">
       <summary aria-label="Open navigation menu"><span class="menu-icon" aria-hidden="true"></span></summary>
       <div class="mobile-menu-panel">
+        <form class="site-search is-mobile" role="search" data-site-search data-search-lang="en" data-empty-message="Type at least 2 characters to search" data-no-results-message="No matching guides found" data-results-label="results">
+      <label class="sr-only" for="site-search-en-mobile">Search BeMama</label>
+      <div class="search-control">
+        <input id="site-search-en-mobile" class="search-input" type="search" autocomplete="off" placeholder="Search guides" aria-controls="site-search-en-mobile-results" aria-expanded="false" data-search-input />
+      </div>
+      <div id="site-search-en-mobile-results" class="search-results-panel" data-search-results hidden>
+        <p class="search-status" data-search-status>Type at least 2 characters to search</p>
+        <div class="search-result-list" data-search-list></div>
+      </div>
+    </form>
         <a class="mobile-link" href="/">Home</a>
         <details class="mobile-group">
           <summary>Trying to Conceive</summary>
@@ -124,60 +152,60 @@
       <h1>About BeMama</h1>
       <p>How BeMama supports every stage — Daily Journey, Q&amp;A, community, and tools — and how to get started.</p>
     </div>
-    <figure class="category-hero-media"><picture><source srcset="/assets/app_daily_plan.webp?v=20260705175322222" type="image/webp" /><img src="/assets/app_daily_plan.png?v=20260705175322222" alt="About BeMama" width="720" height="720" loading="eager" decoding="async" fetchpriority="high" /></picture></figure>
+    <figure class="category-hero-media"><picture><source srcset="/assets/app_daily_plan.webp?v=20260716213544056" type="image/webp" /><img src="/assets/app_daily_plan.png?v=20260716213544056" alt="About BeMama" width="720" height="720" loading="eager" decoding="async" fetchpriority="high" /></picture></figure>
   </section>
   <section class="section">
     <div class="article-grid"><a class="article-card" href="/about-bemama/why-bemama/">
-        <div class="article-card-media"><picture><source srcset="/assets/content/app-why-bemama.webp?v=20260705175322222" type="image/webp" /><img src="/assets/content/app-why-bemama.jpg?v=20260705175322222" alt="Why BeMama: Support for Every Stage of Motherhood" width="1254" height="1254" loading="lazy" decoding="async" /></picture></div>
+        <div class="article-card-media"><picture><source srcset="/assets/content/app-why-bemama.webp?v=20260716213544056" type="image/webp" /><img src="/assets/content/app-why-bemama.jpg?v=20260716213544056" alt="Why BeMama: Support for Every Stage of Motherhood" width="1254" height="1254" loading="lazy" decoding="async" /></picture></div>
         <div class="article-card-copy">
           <h3>Why BeMama: Support for Every Stage of Motherhood</h3>
           <p>Why we built BeMama , one calm companion that brings daily guidance, community, and practical tools together across planning, pregnancy, baby care, and child growth.</p>
           <span class="article-card-link">Read guide</span>
         </div>
       </a><a class="article-card" href="/about-bemama/daily-journey/">
-        <div class="article-card-media"><picture><source srcset="/assets/content/app-daily-journey.webp?v=20260705175322222" type="image/webp" /><img src="/assets/content/app-daily-journey.jpg?v=20260705175322222" alt="The Daily Journey: Guidance Tailored to Your Stage" width="1024" height="1280" loading="lazy" decoding="async" /></picture></div>
+        <div class="article-card-media"><picture><source srcset="/assets/content/app-daily-journey.webp?v=20260716213544056" type="image/webp" /><img src="/assets/content/app-daily-journey.jpg?v=20260716213544056" alt="The Daily Journey: Guidance Tailored to Your Stage" width="1024" height="1280" loading="lazy" decoding="async" /></picture></div>
         <div class="article-card-copy">
           <h3>The Daily Journey: Guidance Tailored to Your Stage</h3>
           <p>How BeMama’s Daily Journey works , set your stage, receive organized daily content and small actions, and let guidance adapt as your motherhood journey progresses.</p>
           <span class="article-card-link">Read guide</span>
         </div>
       </a><a class="article-card" href="/about-bemama/qa-and-community/">
-        <div class="article-card-media"><picture><source srcset="/assets/content/app-qa-community.webp?v=20260705175322222" type="image/webp" /><img src="/assets/content/app-qa-community.jpg?v=20260705175322222" alt="Q&amp;A and Community: Ask, Learn, and Connect" width="1254" height="1254" loading="lazy" decoding="async" /></picture></div>
+        <div class="article-card-media"><picture><source srcset="/assets/content/app-qa-community.webp?v=20260716213544056" type="image/webp" /><img src="/assets/content/app-qa-community.jpg?v=20260716213544056" alt="Q&amp;A and Community: Ask, Learn, and Connect" width="1254" height="1254" loading="lazy" decoding="async" /></picture></div>
         <div class="article-card-copy">
           <h3>Q&amp;A and Community: Ask, Learn, and Connect</h3>
           <p>How BeMama’s Q&amp;A and community spaces work , ask questions, browse related discussions, and find supportive, moderated connection with others on the same journey.</p>
           <span class="article-card-link">Read guide</span>
         </div>
       </a><a class="article-card" href="/about-bemama/tools/">
-        <div class="article-card-media"><picture><source srcset="/assets/content/app-tools.webp?v=20260705175322222" type="image/webp" /><img src="/assets/content/app-tools.jpg?v=20260705175322222" alt="BeMama Tools: Calculators and Trackers" width="1024" height="1280" loading="lazy" decoding="async" /></picture></div>
+        <div class="article-card-media"><picture><source srcset="/assets/content/app-tools.webp?v=20260716213544056" type="image/webp" /><img src="/assets/content/app-tools.jpg?v=20260716213544056" alt="BeMama Tools: Calculators and Trackers" width="1024" height="1280" loading="lazy" decoding="async" /></picture></div>
         <div class="article-card-copy">
           <h3>BeMama Tools: Calculators and Trackers</h3>
           <p>A look at BeMama’s practical tools , calculators, trackers, and care utilities organized by stage , and how they reduce the mental load of planning, pregnancy, and parenting.</p>
           <span class="article-card-link">Read guide</span>
         </div>
       </a><a class="article-card" href="/about-bemama/premium/">
-        <div class="article-card-media"><picture><source srcset="/assets/content/app-premium.webp?v=20260705175322222" type="image/webp" /><img src="/assets/content/app-premium.jpg?v=20260705175322222" alt="BeMama Premium: What’s Included" width="1254" height="1254" loading="lazy" decoding="async" /></picture></div>
+        <div class="article-card-media"><picture><source srcset="/assets/content/app-premium.webp?v=20260716213544056" type="image/webp" /><img src="/assets/content/app-premium.jpg?v=20260716213544056" alt="BeMama Premium: What’s Included" width="1254" height="1254" loading="lazy" decoding="async" /></picture></div>
         <div class="article-card-copy">
           <h3>BeMama Premium: What’s Included</h3>
           <p>An honest look at BeMama’s free experience versus Premium , deeper daily guidance and richer tools , with transparent subscription terms and no pressure to upgrade.</p>
           <span class="article-card-link">Read guide</span>
         </div>
       </a><a class="article-card" href="/about-bemama/ai-support/">
-        <div class="article-card-media"><picture><source srcset="/assets/content/app-ai-support.webp?v=20260705175322222" type="image/webp" /><img src="/assets/content/app-ai-support.jpg?v=20260705175322222" alt="How AI-Assisted Support Works in BeMama" width="1254" height="1254" loading="lazy" decoding="async" /></picture></div>
+        <div class="article-card-media"><picture><source srcset="/assets/content/app-ai-support.webp?v=20260716213544056" type="image/webp" /><img src="/assets/content/app-ai-support.jpg?v=20260716213544056" alt="How AI-Assisted Support Works in BeMama" width="1254" height="1254" loading="lazy" decoding="async" /></picture></div>
         <div class="article-card-copy">
           <h3>How AI-Assisted Support Works in BeMama</h3>
           <p>How BeMama’s clearly labeled AI-assisted support works, its firm limits , no diagnosis, prescriptions, or emergency use , and how to use it well alongside your care team.</p>
           <span class="article-card-link">Read guide</span>
         </div>
       </a><a class="article-card" href="/about-bemama/privacy-and-safety/">
-        <div class="article-card-media"><picture><source srcset="/assets/content/app-privacy.webp?v=20260705175322222" type="image/webp" /><img src="/assets/content/app-privacy.jpg?v=20260705175322222" alt="Your Privacy and Data Safety on BeMama" width="1254" height="1254" loading="lazy" decoding="async" /></picture></div>
+        <div class="article-card-media"><picture><source srcset="/assets/content/app-privacy.webp?v=20260716213544056" type="image/webp" /><img src="/assets/content/app-privacy.jpg?v=20260716213544056" alt="Your Privacy and Data Safety on BeMama" width="1254" height="1254" loading="lazy" decoding="async" /></picture></div>
         <div class="article-card-copy">
           <h3>Your Privacy and Data Safety on BeMama</h3>
           <p>A plain-language overview of how BeMama treats sensitive motherhood data , what it is used for, the deletion and export request paths, and where to read the full policy.</p>
           <span class="article-card-link">Read guide</span>
         </div>
       </a><a class="article-card" href="/about-bemama/getting-started/">
-        <div class="article-card-media"><picture><source srcset="/assets/content/app-getting-started.webp?v=20260705175322222" type="image/webp" /><img src="/assets/content/app-getting-started.jpg?v=20260705175322222" alt="Getting Started with BeMama" width="1024" height="1280" loading="lazy" decoding="async" /></picture></div>
+        <div class="article-card-media"><picture><source srcset="/assets/content/app-getting-started.webp?v=20260716213544056" type="image/webp" /><img src="/assets/content/app-getting-started.jpg?v=20260716213544056" alt="Getting Started with BeMama" width="1024" height="1280" loading="lazy" decoding="async" /></picture></div>
         <div class="article-card-copy">
           <h3>Getting Started with BeMama</h3>
           <p>A gentle five-minute walkthrough of your first BeMama session , open the web app, create your space, set your stage, and explore the Daily Journey, Q&amp;A, and tools.</p>
@@ -209,6 +237,7 @@
     </div>
   </div>
 </footer>
+    <script type="module" src="/assets/site-search.js?v=20260716213544056"></script>
     <script>
 (() => {
   const loadDeferredImages = () => {
