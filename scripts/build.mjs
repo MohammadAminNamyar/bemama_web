@@ -44,7 +44,7 @@ const searchLabels = {
     empty: 'Type at least 2 characters to search',
     noResults: 'No matching guides found',
     results: 'results',
-    types: { home: 'Home', page: 'Page', topic: 'Topic', guide: 'Guide' }
+    types: { home: 'Home', page: 'Page', topic: 'Topic', guide: 'Guide', tool: 'Tool' }
   },
   fa: {
     ariaLabel: 'جستجو در BeMama',
@@ -52,7 +52,7 @@ const searchLabels = {
     empty: 'برای جستجو حداقل ۲ نویسه وارد کنید',
     noResults: 'راهنمایی پیدا نشد',
     results: 'نتیجه',
-    types: { home: 'خانه', page: 'صفحه', topic: 'موضوع', guide: 'راهنما' }
+    types: { home: 'خانه', page: 'صفحه', topic: 'موضوع', guide: 'راهنما', tool: 'ابزار' }
   },
   ar: {
     ariaLabel: 'البحث في BeMama',
@@ -60,7 +60,7 @@ const searchLabels = {
     empty: 'اكتب حرفين على الأقل للبحث',
     noResults: 'لم يتم العثور على أدلة مطابقة',
     results: 'نتائج',
-    types: { home: 'الرئيسية', page: 'صفحة', topic: 'موضوع', guide: 'دليل' }
+    types: { home: 'الرئيسية', page: 'صفحة', topic: 'موضوع', guide: 'دليل', tool: 'أداة' }
   },
   fr: {
     ariaLabel: 'Rechercher dans BeMama',
@@ -68,7 +68,7 @@ const searchLabels = {
     empty: 'Saisissez au moins 2 caractères',
     noResults: 'Aucun guide correspondant',
     results: 'résultats',
-    types: { home: 'Accueil', page: 'Page', topic: 'Thème', guide: 'Guide' }
+    types: { home: 'Accueil', page: 'Page', topic: 'Thème', guide: 'Guide', tool: 'Outil' }
   },
   tr: {
     ariaLabel: "BeMama'da ara",
@@ -76,7 +76,7 @@ const searchLabels = {
     empty: 'Aramak için en az 2 karakter yazın',
     noResults: 'Eşleşen rehber bulunamadı',
     results: 'sonuç',
-    types: { home: 'Ana sayfa', page: 'Sayfa', topic: 'Konu', guide: 'Rehber' }
+    types: { home: 'Ana sayfa', page: 'Sayfa', topic: 'Konu', guide: 'Rehber', tool: 'Araç' }
   },
   es: {
     ariaLabel: 'Buscar en BeMama',
@@ -84,7 +84,7 @@ const searchLabels = {
     empty: 'Escribe al menos 2 caracteres',
     noResults: 'No se encontraron guías',
     results: 'resultados',
-    types: { home: 'Inicio', page: 'Página', topic: 'Tema', guide: 'Guía' }
+    types: { home: 'Inicio', page: 'Página', topic: 'Tema', guide: 'Guía', tool: 'Herramienta' }
   },
   pt: {
     ariaLabel: 'Pesquisar no BeMama',
@@ -92,7 +92,7 @@ const searchLabels = {
     empty: 'Digite pelo menos 2 caracteres',
     noResults: 'Nenhum guia correspondente',
     results: 'resultados',
-    types: { home: 'Início', page: 'Página', topic: 'Tema', guide: 'Guia' }
+    types: { home: 'Início', page: 'Página', topic: 'Tema', guide: 'Guia', tool: 'Ferramenta' }
   }
 };
 
@@ -147,8 +147,8 @@ function renderPage(language, slug) {
     const data = article.i18n[language.code] ?? article.i18n.en;
     title = `${data.title} | ${site.name}`;
     description = data.description;
-    body = renderArticle(language, slug, article, data);
-    jsonLd = renderArticleJsonLd(language, slug, article, data);
+    body = article.kind === 'tool' ? renderTool(language, slug, article, data) : renderArticle(language, slug, article, data);
+    jsonLd = article.kind === 'tool' ? renderToolJsonLd(language, slug, article, data) : renderArticleJsonLd(language, slug, article, data);
     ogType = 'article';
     ogImage = `${site.origin}/assets/${article.hero}`;
     preloadImage = `/assets/${article.hero}`;
@@ -215,6 +215,7 @@ function renderPage(language, slug) {
     ${body}
     ${renderFooter(language)}
     <script type="module" src="/assets/site-search.js?v=${assetVersion}"></script>
+    <script type="module" src="/assets/care-tools.js?v=${assetVersion}"></script>
     ${renderDeferredImageLoader()}
   </body>
 </html>`;
@@ -395,7 +396,7 @@ function renderHome(language) {
         <p>${escapeHtml(h.appText)}</p>
         <div class="platform-grid">
           ${platformCard('android', h.android, h.comingSoon)}
-          ${platformCard('ios', h.ios, h.comingSoon)}
+          ${platformCard('ios', h.ios, h.openIos || h.openWeb, site.iosAppUrl, true)}
           ${platformCard('web', h.web, h.openWeb, site.appUrl)}
         </div>
       </div>
@@ -540,6 +541,51 @@ function renderArticle(language, slug, article, data) {
 </main>`;
 }
 
+function renderTool(language, slug, article, data) {
+  const lang = language.code;
+  const strings = hubText(lang);
+  const category = categoryById.get(article.category);
+  const trail = [
+    { label: strings.home, slug: '' },
+    { label: pick(category.title, lang), slug: category.slug },
+    { label: data.title, slug: article.slug }
+  ];
+  const config = JSON.stringify(data.tool || {}).replaceAll('<', '\\u003c');
+  const sections = (data.sections || [])
+    .map(
+      (section) => `<section class="article-section">
+      <h2>${escapeHtml(section.heading)}</h2>
+      ${section.paragraphs.map((p) => `<p>${escapeHtml(p)}</p>`).join('')}
+    </section>`
+    )
+    .join('');
+  const tips =
+    data.takeaways && data.takeaways.length
+      ? `<aside class="takeaways"><h2>${escapeHtml(strings.takeaways)}</h2><ul>${data.takeaways.map((item) => `<li>${escapeHtml(item)}</li>`).join('')}</ul></aside>`
+      : '';
+
+  return `<main class="article-layout tool-layout">
+  ${renderBreadcrumbs(language, trail)}
+  <article class="article tool-article">
+    <header class="article-head">
+      <span class="eyebrow">${escapeHtml(pick(category.title, lang))}</span>
+      <h1>${escapeHtml(data.title)}</h1>
+      ${article.updated ? `<p class="article-meta">${escapeHtml(strings.updatedLabel)}: ${escapeHtml(article.updated)}</p>` : ''}
+    </header>
+    <p class="article-intro">${escapeHtml(data.intro)}</p>
+    <section class="tool-panel" data-care-tool>
+      <script type="application/json" data-tool-config>${config}</script>
+      <div class="tool-runtime" data-tool-runtime></div>
+      <noscript><p>${escapeHtml(data.description)}</p></noscript>
+    </section>
+    ${sections}
+    ${tips}
+    <div class="notice article-disclaimer">${escapeHtml(hubDisclaimer(lang))}</div>
+    ${renderAppCta(language)}
+  </article>
+</main>`;
+}
+
 function renderCategory(language, slug, category) {
   const lang = language.code;
   const strings = hubText(lang);
@@ -555,7 +601,7 @@ function renderCategory(language, slug, category) {
         <div class="article-card-copy">
           <h3>${escapeHtml(data.title)}</h3>
           <p>${escapeHtml(data.description)}</p>
-          <span class="article-card-link">${escapeHtml(strings.readMore)}</span>
+          <span class="article-card-link">${escapeHtml(article.kind === 'tool' ? strings.openTool || strings.readMore : strings.readMore)}</span>
         </div>
       </a>`;
     })
@@ -610,6 +656,36 @@ function renderArticleJsonLd(language, slug, article, data) {
       }))
     });
   }
+  const json = JSON.stringify({ '@context': 'https://schema.org', '@graph': graph }).replaceAll('<', '\\u003c');
+  return `<script type="application/ld+json">${json}</script>`;
+}
+
+function renderToolJsonLd(language, slug, article, data) {
+  const lang = language.code;
+  const category = categoryById.get(article.category);
+  const url = `${site.origin}${localizedPath(lang, slug)}`;
+  const graph = [
+    {
+      '@type': 'WebApplication',
+      name: data.title,
+      description: data.description,
+      image: `${site.origin}/assets/${article.hero}`,
+      inLanguage: lang,
+      url,
+      applicationCategory: 'HealthApplication',
+      operatingSystem: 'Any',
+      publisher: { '@type': 'Organization', name: site.name },
+      offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' }
+    },
+    {
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: hubText(lang).home, item: `${site.origin}${localizedPath(lang, '')}` },
+        { '@type': 'ListItem', position: 2, name: pick(category.title, lang), item: `${site.origin}${localizedPath(lang, category.slug)}` },
+        { '@type': 'ListItem', position: 3, name: data.title, item: url }
+      ]
+    }
+  ];
   const json = JSON.stringify({ '@context': 'https://schema.org', '@graph': graph }).replaceAll('<', '\\u003c');
   return `<script type="application/ld+json">${json}</script>`;
 }
@@ -675,10 +751,11 @@ function videoPreview(src, label, orientation) {
   </figure>`;
 }
 
-function platformCard(kind, title, label, href = undefined) {
+function platformCard(kind, title, label, href = undefined, external = false) {
   const inner = `${platformIcon(kind)}<span><strong>${escapeHtml(title)}</strong><small>${escapeHtml(label)}</small></span>`;
+  const externalAttrs = external ? ' target="_blank" rel="noopener"' : '';
   return href
-    ? `<a class="platform-card is-link" href="${href}">${inner}</a>`
+    ? `<a class="platform-card is-link" href="${escapeHtml(href)}"${externalAttrs}>${inner}</a>`
     : `<div class="platform-card" aria-disabled="true">${inner}</div>`;
 }
 
@@ -942,7 +1019,7 @@ function renderSearchIndex() {
       const data = article.i18n[lang] ?? article.i18n.en;
       entries.push({
         lang,
-        type: labels.types.guide,
+        type: article.kind === 'tool' ? labels.types.tool || labels.types.guide : labels.types.guide,
         title: data.title,
         description: data.description,
         category: categoryTitle,
@@ -951,7 +1028,10 @@ function renderSearchIndex() {
           data.intro,
           data.sections.map((section) => [section.heading, section.paragraphs]),
           data.takeaways,
-          data.faq?.map((item) => [item.q, item.a])
+          data.faq?.map((item) => [item.q, item.a]),
+          data.tool?.fields?.map((field) => [field.label, field.options?.map((option) => option.label)]),
+          data.tool?.items,
+          data.tool?.prompts
         ])
       });
     }

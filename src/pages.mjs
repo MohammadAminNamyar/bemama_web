@@ -2,7 +2,8 @@ export const site = {
   origin: 'https://bemamas.com',
   name: 'BeMama',
   supportEmail: 'support@bemamas.com',
-  appUrl: 'https://app.bemamas.com/'
+  appUrl: 'https://app.bemamas.com/',
+  iosAppUrl: 'https://apps.apple.com/us/app/bemama/id6783137312'
 };
 
 export const languages = [
@@ -69,11 +70,12 @@ export const content = {
         'BeMama is designed around sensitive motherhood and parenting data. Policy pages explain data use, retention basics, deletion/export request paths, and AI-assisted safety limits in plain language.',
       appTitle: 'Open BeMama',
       appText:
-        'Use BeMama on the web today. Android and iOS app store links will be added when the public listings are live.',
+        'Use BeMama on the web today, or download the iOS app from the App Store. Android will be added when the public listing is live.',
       android: 'Android',
       ios: 'iOS',
       web: 'Web app',
       comingSoon: 'Coming soon',
+      openIos: 'Open on App Store',
       openWeb: 'Open web app',
       reviewSubscription: 'Review subscription terms'
     },
@@ -236,11 +238,12 @@ export const content = {
       trustTitle: 'حریم خصوصی و اعتماد',
       trustText: 'BeMama برای داده‌های حساس مادری و والدگری طراحی شده است. سیاست‌ها درباره استفاده از داده، نگهداری، حذف/دریافت خروجی و محدودیت‌های هوش مصنوعی توضیح می‌دهند.',
       appTitle: 'باز کردن BeMama',
-      appText: 'امروز از نسخه وب BeMama استفاده کنید. لینک‌های اندروید و iOS پس از انتشار عمومی اضافه می‌شوند.',
+      appText: 'امروز از نسخه وب BeMama استفاده کنید یا اپ iOS را از App Store دریافت کنید. لینک اندروید پس از انتشار عمومی اضافه می‌شود.',
       android: 'اندروید',
       ios: 'iOS',
       web: 'نسخه وب',
       comingSoon: 'به‌زودی',
+      openIos: 'باز کردن در App Store',
       openWeb: 'باز کردن وب‌اپ',
       reviewSubscription: 'شرایط اشتراک'
     },
@@ -276,11 +279,12 @@ export const content = {
       trustTitle: 'الخصوصية والثقة',
       trustText: 'صممت BeMama حول بيانات الأمومة والوالدية الحساسة. تشرح السياسات استخدام البيانات والاحتفاظ وطلبات الحذف/التصدير وحدود الذكاء الاصطناعي.',
       appTitle: 'افتحي BeMama',
-      appText: 'استخدمي نسخة الويب اليوم. ستضاف روابط Android و iOS عند نشر المتاجر العامة.',
+      appText: 'استخدمي BeMama على الويب اليوم أو حمّلي تطبيق iOS من App Store. سيضاف رابط Android عند نشره علنياً.',
       android: 'Android',
       ios: 'iOS',
       web: 'تطبيق الويب',
       comingSoon: 'قريباً',
+      openIos: 'فتح في App Store',
       openWeb: 'فتح تطبيق الويب',
       reviewSubscription: 'شروط الاشتراك'
     },
@@ -316,11 +320,12 @@ export const content = {
       trustTitle: 'Confidentialité et confiance',
       trustText: 'BeMama est conçu autour de données sensibles de maternité et de parentalité. Les politiques expliquent l’usage des données, la conservation, les demandes de suppression/export et les limites de l’IA.',
       appTitle: 'Ouvrir BeMama',
-      appText: 'Utilisez BeMama sur le web aujourd’hui. Les liens Android et iOS seront ajoutés lorsque les fiches publiques seront prêtes.',
+      appText: 'Utilisez BeMama sur le web aujourd’hui ou téléchargez l’app iOS depuis l’App Store. Le lien Android sera ajouté lorsque la fiche publique sera prête.',
       android: 'Android',
       ios: 'iOS',
       web: 'Application web',
       comingSoon: 'Bientôt',
+      openIos: 'Ouvrir dans l’App Store',
       openWeb: 'Ouvrir l’app web',
       reviewSubscription: 'Conditions d’abonnement'
     },
@@ -356,11 +361,12 @@ export const content = {
       trustTitle: 'Gizlilik ve güven',
       trustText: 'BeMama hassas annelik ve ebeveynlik verileri düşünülerek tasarlanır. Politikalar veri kullanımı, saklama, silme/dışa aktarma talepleri ve AI sınırlarını açıklar.',
       appTitle: 'BeMama’yı aç',
-      appText: 'BeMama’yı bugün webde kullan. Android ve iOS mağaza bağlantıları yayınlandığında eklenecek.',
+      appText: 'BeMama’yı bugün webde kullan veya iOS uygulamasını App Store’dan indir. Android bağlantısı herkese açık liste hazır olduğunda eklenecek.',
       android: 'Android',
       ios: 'iOS',
       web: 'Web uygulaması',
       comingSoon: 'Yakında',
+      openIos: 'App Store’da aç',
       openWeb: 'Web uygulamasını aç',
       reviewSubscription: 'Abonelik şartları'
     },
@@ -396,11 +402,12 @@ export const content = {
       trustTitle: 'Privacidad y confianza',
       trustText: 'BeMama se diseña alrededor de datos sensibles de maternidad y crianza. Las políticas explican uso de datos, retención, solicitudes de eliminación/exportación y límites de IA.',
       appTitle: 'Abrir BeMama',
-      appText: 'Usa BeMama en la web hoy. Los enlaces de Android e iOS se agregarán cuando estén listas las tiendas públicas.',
+      appText: 'Usa BeMama en la web hoy o descarga la app de iOS desde App Store. El enlace de Android se agregará cuando la ficha pública esté lista.',
       android: 'Android',
       ios: 'iOS',
       web: 'App web',
       comingSoon: 'Próximamente',
+      openIos: 'Abrir en App Store',
       openWeb: 'Abrir app web',
       reviewSubscription: 'Términos de suscripción'
     },
@@ -436,11 +443,12 @@ export const content = {
       trustTitle: 'Privacidade e confiança',
       trustText: 'BeMama é projetado para dados sensíveis de maternidade e parentalidade. As políticas explicam uso de dados, retenção, pedidos de exclusão/exportação e limites de IA.',
       appTitle: 'Abrir BeMama',
-      appText: 'Use BeMama na web hoje. Links Android e iOS serão adicionados quando as lojas públicas estiverem disponíveis.',
+      appText: 'Use BeMama na web hoje ou baixe o app iOS na App Store. O link Android será adicionado quando a listagem pública estiver disponível.',
       android: 'Android',
       ios: 'iOS',
       web: 'App web',
       comingSoon: 'Em breve',
+      openIos: 'Abrir na App Store',
       openWeb: 'Abrir app web',
       reviewSubscription: 'Termos de assinatura'
     },

@@ -48,7 +48,7 @@ export const appArticles = [
           {
             heading: 'Try it today on the web',
             paragraphs: [
-              'BeMama is available as a web app right now at https://app.bemamas.com/ , no download required. Android and iOS store listings are coming, and links will be added when the public listings are live.',
+              'BeMama is available as a web app at https://app.bemamas.com/ and as an iOS app on the App Store at https://apps.apple.com/us/app/bemama/id6783137312. Android is still coming and will be linked when the public listing is live.',
               'Setting your stage takes only a moment, and from there the Daily Journey, community, and tools shape themselves around you.'
             ]
           }
@@ -58,7 +58,7 @@ export const appArticles = [
           'One companion covers planning, pregnancy, baby care, and child growth as your journey progresses.',
           'Daily Journey guidance, Q&A and community, and practical tools work together.',
           'BeMama is education and support only , medical decisions stay with you and your clinicians.',
-          'The web app is available today at app.bemamas.com; store listings are coming.'
+          'The web app and iOS app are available today; Android is still coming.'
         ],
         faq: [
           {
@@ -71,7 +71,7 @@ export const appArticles = [
           },
           {
             q: 'How do I start using BeMama?',
-            a: 'Open the web app at https://app.bemamas.com/, create your space, and set your current stage. Android and iOS store listings are coming and will be linked when live.'
+            a: 'Open the web app at https://app.bemamas.com/ or download BeMama for iOS from https://apps.apple.com/us/app/bemama/id6783137312, then create your space and set your current stage. Android is still coming and will be linked when live.'
           }
         ]
       }
@@ -528,7 +528,7 @@ export const appArticles = [
             heading: 'Step one: open the web app',
             paragraphs: [
               'BeMama runs on the web today at https://app.bemamas.com/. Open that address in any modern browser , phone, tablet, or computer , and you are at the front door. There is nothing to install.',
-              'Android and iOS store listings are coming, and links will be added to the website when the public listings are live. Until then, the web app is the full experience.'
+              'The iOS app is also live on the App Store at https://apps.apple.com/us/app/bemama/id6783137312. Android is still coming, and its link will be added when the public listing is live.'
             ]
           },
           {
@@ -572,12 +572,12 @@ export const appArticles = [
           'Create your account, then set your current stage; setup takes about five minutes.',
           'Your stage shapes the Daily Journey, tools, and content you see.',
           'Explore Q&A, community, and tools at your own pace , reading quietly counts.',
-          'Android and iOS store listings are coming; the web app is the full experience today.'
+          'The web app and iOS app are available today; Android is still coming.'
         ],
         faq: [
           {
             q: 'Is BeMama available in the app stores?',
-            a: 'Not yet , Android and iOS store listings are coming, and links will be added when the public listings are live. The web app at https://app.bemamas.com/ is fully available today.'
+            a: 'Yes for iOS: BeMama is on the App Store at https://apps.apple.com/us/app/bemama/id6783137312. The web app at https://app.bemamas.com/ is also available today, and Android is still coming.'
           },
           {
             q: 'How long does setup take?',

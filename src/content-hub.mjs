@@ -17,6 +17,7 @@ import { pregnancyArticles } from './articles/pregnancy.mjs';
 import { newbornArticles } from './articles/newborn.mjs';
 import { childArticles } from './articles/baby-and-child.mjs';
 import { appArticles } from './articles/about-bemama.mjs';
+import { expansionArticles, careTools } from './articles/expansion.mjs';
 import { hubTranslations } from './articles/i18n/index.mjs';
 
 // --- Categories (drive the navigation menu and the category landing pages) ---
@@ -124,7 +125,7 @@ export const categories = [
   {
     id: 'app',
     slug: 'about-bemama',
-    order: 5,
+    order: 6,
     hero: 'app_daily_plan.png',
     icon: 'icon_ask_ai.png',
     title: {
@@ -145,6 +146,31 @@ export const categories = [
       es: 'Cómo te acompaña BeMama en cada etapa —Camino Diario, preguntas, comunidad y herramientas— y cómo empezar.',
       pt: 'Como a BeMama apoia cada fase — Jornada Diária, perguntas, comunidade e ferramentas — e como começar.'
     }
+  },
+  {
+    id: 'tools',
+    slug: 'tools',
+    order: 5,
+    hero: 'content/app-tools.jpg',
+    icon: 'icon_daily_action.png',
+    title: {
+      en: 'Tools',
+      fa: 'ابزارها',
+      ar: 'الأدوات',
+      fr: 'Outils',
+      tr: 'Araçlar',
+      es: 'Herramientas',
+      pt: 'Ferramentas'
+    },
+    blurb: {
+      en: 'Browser-only calculators, trackers, checklists, and planners for fertility, pregnancy, newborn care, and child growth.',
+      fa: 'ماشین‌حساب‌ها، پیگیرها، چک‌لیست‌ها و برنامه‌ریزهای مرورگری برای باروری، بارداری، مراقبت نوزاد و رشد کودک.',
+      ar: 'حاسبات ومتتبعات وقوائم ومخططات داخل المتصفح للخصوبة والحمل ورعاية المولود ونمو الطفل.',
+      fr: 'Calculateurs, suivis, listes et planificateurs dans le navigateur pour fertilité, grossesse, nouveau-né et croissance de l’enfant.',
+      tr: 'Doğurganlık, hamilelik, yenidoğan bakımı ve çocuk gelişimi için tarayıcıda çalışan hesaplayıcılar, takipçiler, listeler ve planlayıcılar.',
+      es: 'Calculadoras, registros, listas y planificadores en el navegador para fertilidad, embarazo, recién nacido y crecimiento infantil.',
+      pt: 'Calculadoras, registros, listas e planejadores no navegador para fertilidade, gravidez, recém-nascido e crescimento infantil.'
+    }
   }
 ];
 
@@ -157,6 +183,7 @@ export const hubUi = {
     faq: 'Frequently asked questions',
     related: 'Related articles',
     readMore: 'Read guide',
+    openTool: 'Open tool',
     ctaTitle: 'Take BeMama with you',
     ctaText:
       'Get stage-by-stage daily guidance, a supportive community, and helpful tools in one calm app.',
@@ -262,6 +289,8 @@ export const articles = [
   ...pregnancyArticles,
   ...newbornArticles,
   ...childArticles,
+  ...expansionArticles,
+  ...careTools,
   ...appArticles
 ];
 
