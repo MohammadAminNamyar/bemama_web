@@ -140,7 +140,7 @@ function renderPage(language, slug) {
   let body;
   let jsonLd = '';
   let ogType = 'website';
-  let ogImage = `${site.origin}/assets/hero_pregnancy.png`;
+  let ogImage = `${site.origin}/assets/bemama_og.png`;
   let preloadImage = '/assets/hero-carousel/pregnancy-rest.png';
 
   if (article) {
@@ -337,8 +337,8 @@ function renderHome(language) {
         <h1>${escapeHtml(h.title)}</h1>
         <p class="hero-copy">${escapeHtml(h.copy)}</p>
         <div class="hero-actions">
-          <a class="button" href="${localizedPath(language.code, 'contact')}">${escapeHtml(h.updates)}</a>
-          <a class="button secondary" href="${localizedPath(language.code, 'privacy')}">${escapeHtml(h.readPrivacy)}</a>
+          <a class="button" href="${site.iosAppUrl}" rel="noopener">${escapeHtml(h.downloadIos || h.openIos)}</a>
+          <a class="button secondary" href="${site.appUrl}" rel="noopener">${escapeHtml(h.openWeb)}</a>
         </div>
       </div>
       <div class="hero-proofbar" aria-label="BeMama care stages">
