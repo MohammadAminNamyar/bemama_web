@@ -3,6 +3,7 @@ import { cp, mkdir, readFile, rm, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { content, languages, pageSlugs, site } from '../src/pages.mjs';
+import { tourCollectionTranslations, tourUiTranslations } from '../src/tour-i18n.mjs';
 import {
   categories,
   hubSlugs,
@@ -96,6 +97,201 @@ const searchLabels = {
   }
 };
 
+const tourUi = {
+  navLabel: 'Explore app',
+  eyebrow: 'Interactive product tour',
+  title: 'See how BeMama works',
+  description:
+    'Choose an area and tap through real BeMama screens. Nothing here is a mockup—the tour uses the same interface you will see in the app.',
+  start: 'Start the tour',
+  promoTitle: 'See the app before you install it',
+  promoText: 'Explore real BeMama screens for daily guidance, planning, care tracking, reports, and community support.',
+  choose: 'Choose what you want to explore',
+  chooseText: 'Switch areas at any time. Your place is saved in the page link.',
+  previous: 'Previous',
+  next: 'Next',
+  restart: 'Start again',
+  step: 'Step',
+  of: 'of',
+  tryLabel: 'Try it on the screen',
+  realScreens: 'Real app screens',
+  noMockups: 'No mockups or generated UI',
+  noAccount: 'No account required',
+  ctaTitle: 'Ready to make BeMama yours?',
+  ctaText: 'Continue in the full app to personalize your journey, save care records, and stay connected.',
+  openWeb: 'Open BeMama on the web',
+  openIos: 'Download on the App Store',
+  areasLabel: 'BeMama app areas',
+  assurancesLabel: 'Tour details',
+  workspaceLabel: 'Interactive BeMama tour',
+  stepsLabel: 'Tour steps'
+};
+
+const tourCollections = [
+  {
+    id: 'daily',
+    label: 'Daily guidance',
+    summary: 'A calm home for the guidance and actions that matter today.',
+    steps: [
+      {
+        title: 'Your day at a glance',
+        description: 'See stage-aware guidance, today’s care plan, and quick actions in one calm home screen.',
+        prompt: 'Tap “Open journey” to continue.',
+        image: 'daily-home.png',
+        alt: 'BeMama home screen with planning overview, today’s care plan, and quick actions',
+        tags: ['Personalized home', 'Daily plan', 'Quick actions'],
+        hotspot: { left: 5, top: 35, width: 20, height: 6 }
+      },
+      {
+        title: 'Small actions, clearly organized',
+        description: 'Read concise daily guidance and move through practical care steps without losing your place.',
+        prompt: 'Tap any guidance card to open it.',
+        image: 'daily-content.png',
+        alt: 'BeMama Daily screen showing personalized guidance cards',
+        tags: ['Short guidance', 'Stage aware', 'Easy to scan'],
+        hotspot: { left: 2, top: 4, width: 96, height: 13 }
+      },
+      {
+        title: 'Personalized from the start',
+        description: 'Choose your journey and save the details BeMama uses to shape daily guidance around you.',
+        prompt: 'Tap “Save” when your setup is ready.',
+        image: 'daily-setup.png',
+        alt: 'BeMama Daily setup screen with planning, pregnancy, baby, and child journey choices',
+        tags: ['Four journeys', 'Private setup', 'Editable anytime'],
+        hotspot: { left: 90, top: 0, width: 10, height: 5 }
+      }
+    ]
+  },
+  {
+    id: 'planning',
+    label: 'Planning',
+    summary: 'Cycle tracking and educational estimates, kept clear and private.',
+    steps: [
+      {
+        title: 'Plan with more clarity',
+        description: 'See your estimated fertile window, cycle tools, private insights, and daily trackers together.',
+        prompt: 'Tap “Cycle calendar” to see the month.',
+        image: 'planning-home.png',
+        alt: 'BeMama Planning screen with estimated fertile window and cycle tracking tools',
+        tags: ['Cycle overview', 'Private insights', 'Daily tracking'],
+        hotspot: { left: 3, top: 28, width: 94, height: 7 }
+      },
+      {
+        title: 'Understand your cycle at a glance',
+        description: 'Review recorded periods and educational fertility estimates in a clear calendar.',
+        prompt: 'Tap “Log period data” to add a record.',
+        image: 'cycle-calendar.png',
+        alt: 'BeMama cycle calendar showing recorded and estimated cycle dates',
+        tags: ['Cycle calendar', 'Fertile window', 'History'],
+        hotspot: { left: 4, top: 88, width: 92, height: 6 }
+      },
+      {
+        title: 'Keep symptoms and mood private',
+        description: 'Record symptoms, mood, intensity, and an optional private note in a focused form.',
+        prompt: 'Tap “Save privately” when the record is complete.',
+        image: 'symptom-log.png',
+        alt: 'BeMama private symptom and mood logging form',
+        tags: ['Symptoms', 'Mood', 'Private notes'],
+        hotspot: { left: 8, top: 94, width: 84, height: 5 }
+      }
+    ]
+  },
+  {
+    id: 'care',
+    label: 'Care tracking',
+    summary: 'Practical baby and child records that stay easy to review.',
+    steps: [
+      {
+        title: 'Every care detail in one place',
+        description: 'Track sleep, nursing, bottles, food, diapers, medicine, temperature, activity, and growth.',
+        prompt: 'Tap “Solid foods” to add a meal.',
+        image: 'care-home.png',
+        alt: 'BeMama baby care dashboard with trackers and recent care history',
+        tags: ['Ten care trackers', 'Care history', 'Synced records'],
+        hotspot: { left: 75, top: 24, width: 23, height: 9 }
+      },
+      {
+        title: 'Log foods visually',
+        description: 'Choose foods from a visual library, review the selection, and save the meal in a few taps.',
+        prompt: 'Tap “Save food log” to finish.',
+        image: 'solid-foods.png',
+        alt: 'BeMama solid food tracker with a visual food library and selected foods',
+        tags: ['Visual food library', 'Fast selection', 'Meal history'],
+        hotspot: { left: 14, top: 95, width: 72, height: 5 }
+      },
+      {
+        title: 'Track growth without spreadsheets',
+        description: 'Record weight, height, and head circumference in the units that work for your family.',
+        prompt: 'Tap “Set” beside a measurement.',
+        image: 'growth-log.png',
+        alt: 'BeMama growth measurement form for weight, height, and head circumference',
+        tags: ['Growth records', 'Flexible units', 'Clear measurements'],
+        hotspot: { left: 14, top: 24, width: 72, height: 6 }
+      }
+    ]
+  },
+  {
+    id: 'community',
+    label: 'Community',
+    summary: 'Questions, groups, saved messages, and clearly labeled AI-assisted support.',
+    steps: [
+      {
+        title: 'Supportive spaces, organized',
+        description: 'Keep consultations, saved messages, groups, and community conversations easy to find.',
+        prompt: 'Tap a space to open the conversation.',
+        image: 'community-home.png',
+        alt: 'BeMama Community screen with priority spaces, groups, and conversations',
+        tags: ['Groups', 'Saved messages', 'Care spaces'],
+        hotspot: { left: 2, top: 30, width: 96, height: 9 }
+      },
+      {
+        title: 'Ask and learn from other parents',
+        description: 'Browse real questions, preview answers, filter by journey, and ask something new.',
+        prompt: 'Tap “Ask question” to start a post.',
+        image: 'questions.png',
+        alt: 'BeMama Q and A screen with parent questions and answer previews',
+        tags: ['Questions and answers', 'Journey filters', 'Community support'],
+        hotspot: { left: 77, top: 89, width: 21, height: 6 }
+      },
+      {
+        title: 'Private support when you need it',
+        description: 'Use clearly labeled AI-assisted support for general information while medical decisions stay with qualified care.',
+        prompt: 'Tap the message field to ask a question.',
+        image: 'ai-support.png',
+        alt: 'BeMama AI-assisted consultation conversation with safety notice',
+        tags: ['Clearly labeled AI', 'Private conversation', 'Safety boundaries'],
+        hotspot: { left: 7, top: 91, width: 84, height: 5 }
+      }
+    ]
+  }
+];
+
+function tourUiFor(lang) {
+  return { ...tourUi, ...(tourUiTranslations[lang] ?? {}) };
+}
+
+function tourCollectionsFor(lang) {
+  const translatedCollections = tourCollectionTranslations[lang];
+  if (!translatedCollections) return tourCollections;
+
+  return tourCollections.map((collection) => {
+    const translatedCollection = translatedCollections[collection.id] ?? {};
+    return {
+      ...collection,
+      ...translatedCollection,
+      steps: collection.steps.map((step, index) => {
+        const translatedStep = translatedCollection.steps?.[index];
+        if (!translatedStep) return step;
+        return {
+          ...step,
+          ...translatedStep,
+          alt: `${translatedStep.title ?? step.title}. ${translatedStep.description ?? step.description}`
+        };
+      })
+    };
+  });
+}
+
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const dist = path.join(root, 'dist');
 const publicAssets = path.join(root, 'public', 'assets');
@@ -108,10 +304,15 @@ await mkdir(dist, { recursive: true });
 await mkdir(path.join(dist, 'assets'), { recursive: true });
 
 await cp(path.join(root, 'public'), dist, { recursive: true });
+const styles = `${await readFile(path.join(root, 'src', 'styles.css'), 'utf8')}\n${await readFile(path.join(root, 'src', 'hub.css'), 'utf8')}`;
 await writeFile(
   path.join(dist, 'assets', 'styles.css'),
-  `${await readFile(path.join(root, 'src', 'styles.css'), 'utf8')}\n${await readFile(path.join(root, 'src', 'hub.css'), 'utf8')}`
+  minifyCss(styles)
 );
+for (const script of ['site-search.js', 'care-tools.js', 'product-tour.js']) {
+  const source = await readFile(path.join(root, 'public', 'assets', script), 'utf8');
+  await writeFile(path.join(dist, 'assets', script), minifyJavaScript(source));
+}
 
 for (const language of languages) {
   for (const slug of allSlugs) {
@@ -159,6 +360,13 @@ function renderPage(language, slug) {
     jsonLd = renderCategoryJsonLd(language, slug, category);
     ogImage = `${site.origin}/assets/${category.hero}`;
     preloadImage = `/assets/${category.hero}`;
+  } else if (slug === 'explore') {
+    const ui = tourUiFor(language.code);
+    title = `${ui.title} | ${site.name}`;
+    description = ui.description;
+    body = renderProductTour(language);
+    jsonLd = renderProductTourJsonLd(language);
+    preloadImage = '/assets/tour/daily-home.png';
   } else if (slug) {
     const page = t.pages[slug];
     title = `${page.title} | ${site.name}`;
@@ -208,7 +416,8 @@ function renderPage(language, slug) {
     <meta name="twitter:image" content="${ogImage}" />
     ${jsonLd}
     ${preloadImage ? renderImagePreload(preloadImage) : ''}
-    <link rel="stylesheet" href="/assets/styles.css?v=${assetVersion}" />
+    <link rel="preload" as="style" href="/assets/styles.css?v=${assetVersion}" onload="this.onload=null;this.rel='stylesheet'" />
+    <noscript><link rel="stylesheet" href="/assets/styles.css?v=${assetVersion}" /></noscript>
   </head>
   <body>
     ${renderHeader(language, slug)}
@@ -216,6 +425,7 @@ function renderPage(language, slug) {
     ${renderFooter(language)}
     <script type="module" src="/assets/site-search.js?v=${assetVersion}"></script>
     <script type="module" src="/assets/care-tools.js?v=${assetVersion}"></script>
+    ${slug === 'explore' ? `<script type="module" src="/assets/product-tour.js?v=${assetVersion}"></script>` : ''}
     ${renderDeferredImageLoader()}
   </body>
 </html>`;
@@ -224,6 +434,7 @@ function renderPage(language, slug) {
 function renderHeader(language, slug) {
   const t = content[language.code];
   const lang = language.code;
+  const ui = tourUiFor(lang);
   const catItems = categories.slice().sort((a, b) => a.order - b.order);
   const articleTitle = (article) => escapeHtml((article.i18n[lang] ?? article.i18n.en).title);
 
@@ -270,6 +481,7 @@ function renderHeader(language, slug) {
           <button type="button" class="nav-top" aria-haspopup="true">${escapeHtml(t.nav.language)}<span class="caret" aria-hidden="true"></span></button>
           <div class="submenu submenu-lang" role="menu">${languageLinks}</div>
         </li>
+        <li class="nav-item"><a class="nav-top nav-tour" href="${localizedPath(lang, 'explore')}">${escapeHtml(ui.navLabel)}</a></li>
         <li class="nav-item"><a class="nav-top nav-support" href="${localizedPath(lang, 'contact')}">${escapeHtml(t.nav.support)}</a></li>
       </ul>
     </nav>
@@ -279,6 +491,7 @@ function renderHeader(language, slug) {
       <div class="mobile-menu-panel">
         ${renderSearch(language, 'mobile')}
         <a class="mobile-link" href="${localizedPath(lang, '')}">${escapeHtml(t.nav.home)}</a>
+        <a class="mobile-link" href="${localizedPath(lang, 'explore')}">${escapeHtml(ui.navLabel)}</a>
         ${catItems.map(mobileCategory).join('')}
         <details class="mobile-group">
           <summary>${escapeHtml(t.nav.language)}</summary>
@@ -318,6 +531,8 @@ function renderSearch(language, variant) {
 function renderHome(language) {
   const h = content[language.code].home;
   const fallback = content.en.home;
+  const ui = tourUiFor(language.code);
+  const collections = tourCollectionsFor(language.code);
   const mediaCards = [
     ['app_daily_plan.png', 'icon_daily_action.png', h.phoneTitle, h.phoneText],
     ['app_qna_support.png', 'icon_ask_question.png', h.qnaTitle, h.qnaText],
@@ -339,6 +554,7 @@ function renderHome(language) {
         <div class="hero-actions">
           <a class="button" href="${site.iosAppUrl}" rel="noopener">${escapeHtml(h.downloadIos || h.openIos)}</a>
           <a class="button secondary" href="${site.appUrl}" rel="noopener">${escapeHtml(h.openWeb)}</a>
+          <a class="button secondary" href="${localizedPath(language.code, 'explore')}">${escapeHtml(ui.navLabel)}</a>
         </div>
       </div>
       <div class="hero-proofbar" aria-label="BeMama care stages">
@@ -347,6 +563,23 @@ function renderHome(language) {
         ${proofItem('hero_baby.png', h.journeys[2], h.qnaTitle)}
         ${proofItem('hero_child.png', h.journeys[3], h.features[2][0])}
       </div>
+    </div>
+  </section>
+  <section class="section home-tour-promo">
+    <figure class="home-tour-preview tour-device-frame">
+      <div class="tour-device-screen">
+        ${imageMarkup('/assets/tour/daily-home.png', collections[0].steps[0].alt, { loading: 'lazy' })}
+      </div>
+      <figcaption class="sr-only">${escapeHtml(collections[0].steps[0].title)}. ${escapeHtml(collections[0].steps[0].description)}</figcaption>
+    </figure>
+    <div class="home-tour-copy">
+      <span class="section-kicker">${escapeHtml(ui.eyebrow)}</span>
+      <h2>${escapeHtml(ui.promoTitle)}</h2>
+      <p>${escapeHtml(ui.promoText)}</p>
+      <div class="tour-area-list" aria-label="${escapeHtml(ui.areasLabel)}">
+        ${collections.map((collection) => `<span>${escapeHtml(collection.label)}</span>`).join('')}
+      </div>
+      <a class="button" href="${localizedPath(language.code, 'explore')}">${escapeHtml(ui.start)}</a>
     </div>
   </section>
   <section class="section product-media">
@@ -404,6 +637,99 @@ function renderHome(language) {
     </div>
   </section>
 </main>`;
+}
+
+function renderProductTour(language) {
+  const ui = tourUiFor(language.code);
+  const collections = tourCollectionsFor(language.code);
+  const firstCollection = collections[0];
+  const firstStep = firstCollection.steps[0];
+  const config = JSON.stringify({
+    labels: {
+      previous: ui.previous,
+      next: ui.next,
+      restart: ui.restart,
+      step: ui.step,
+      of: ui.of,
+      tryLabel: ui.tryLabel
+    },
+    collections: collections.map((collection) => ({
+      ...collection,
+      steps: collection.steps.map((step) => ({
+        ...step,
+        image: versionedAsset(`/assets/tour/${step.image}`)
+      }))
+    }))
+  }).replaceAll('<', '\\u003c');
+
+  return `<main class="tour-page" data-product-tour>
+    <section class="tour-hero">
+      <div class="tour-hero-copy">
+        <span class="eyebrow">${escapeHtml(ui.eyebrow)}</span>
+        <h1>${escapeHtml(ui.title)}</h1>
+        <p>${escapeHtml(ui.description)}</p>
+        <div class="tour-assurances" aria-label="${escapeHtml(ui.assurancesLabel)}">
+          <span>${escapeHtml(ui.realScreens)}</span>
+          <span>${escapeHtml(ui.noMockups)}</span>
+          <span>${escapeHtml(ui.noAccount)}</span>
+        </div>
+      </div>
+    </section>
+    <section class="product-tour" id="product-tour" aria-labelledby="tour-chooser-title">
+      <div class="tour-chooser">
+        <div>
+          <span class="section-kicker">${escapeHtml(ui.eyebrow)}</span>
+          <h2 id="tour-chooser-title">${escapeHtml(ui.choose)}</h2>
+          <p>${escapeHtml(ui.chooseText)}</p>
+        </div>
+        <div class="tour-tabs" role="tablist" aria-label="${escapeHtml(ui.areasLabel)}">
+          ${collections
+            .map(
+              (collection, index) => `<button class="tour-tab${index === 0 ? ' is-active' : ''}" type="button" role="tab" aria-selected="${index === 0}" data-tour-tab="${escapeHtml(collection.id)}">${escapeHtml(collection.label)}</button>`
+            )
+            .join('')}
+        </div>
+      </div>
+      <div class="tour-workspace" tabindex="0" aria-label="${escapeHtml(ui.workspaceLabel)}">
+        <figure class="tour-screen-column" itemscope itemtype="https://schema.org/ImageObject">
+          <div class="tour-screen-wrap tour-device-frame">
+            <div class="tour-device-screen">
+              <img data-tour-image itemprop="contentUrl" src="${versionedAsset(`/assets/tour/${firstStep.image}`)}" width="498" height="860" alt="${escapeHtml(firstStep.alt)}" loading="eager" decoding="async" fetchpriority="high" aria-describedby="tour-screen-caption" />
+              <button class="tour-screen-hotspot" type="button" data-tour-hotspot aria-label="${escapeHtml(firstStep.prompt)}"></button>
+            </div>
+          </div>
+          <figcaption class="tour-screen-hint" id="tour-screen-caption" itemprop="caption" data-tour-hint>${escapeHtml(firstStep.prompt)}</figcaption>
+          <meta itemprop="name" content="${escapeHtml(firstStep.title)}" />
+        </figure>
+        <aside class="tour-guide" aria-live="polite">
+          <p class="tour-counter" data-tour-counter>${escapeHtml(ui.step)} 1 ${escapeHtml(ui.of)} ${firstCollection.steps.length}</p>
+          <span class="tour-area-summary" data-tour-summary>${escapeHtml(firstCollection.summary)}</span>
+          <h2 data-tour-title>${escapeHtml(firstStep.title)}</h2>
+          <p class="tour-description" data-tour-description>${escapeHtml(firstStep.description)}</p>
+          <div class="tour-tags" data-tour-tags>
+            ${firstStep.tags.map((tag) => `<span>${escapeHtml(tag)}</span>`).join('')}
+          </div>
+          <div class="tour-dots" data-tour-dots aria-label="${escapeHtml(ui.stepsLabel)}"></div>
+          <div class="tour-controls">
+            <button class="button secondary" type="button" data-tour-previous disabled>${escapeHtml(ui.previous)}</button>
+            <button class="button" type="button" data-tour-next>${escapeHtml(ui.next)}</button>
+          </div>
+        </aside>
+      </div>
+    </section>
+    <section class="section tour-outro">
+      <div>
+        <span class="section-kicker">BeMama</span>
+        <h2>${escapeHtml(ui.ctaTitle)}</h2>
+        <p>${escapeHtml(ui.ctaText)}</p>
+      </div>
+      <div class="tour-outro-actions">
+        <a class="button" href="${site.appUrl}" rel="noopener">${escapeHtml(ui.openWeb)}</a>
+        <a class="button secondary" href="${site.iosAppUrl}" target="_blank" rel="noopener">${escapeHtml(ui.openIos)}</a>
+      </div>
+    </section>
+    <script id="product-tour-config" type="application/json">${config}</script>
+  </main>`;
 }
 
 function heroCarousel() {
@@ -692,6 +1018,7 @@ function renderToolJsonLd(language, slug, article, data) {
 
 function renderFooter(language) {
   const t = content[language.code];
+  const ui = tourUiFor(language.code);
   const categoryLinks = categories
     .slice()
     .sort((a, b) => a.order - b.order)
@@ -705,6 +1032,7 @@ function renderFooter(language) {
     </nav>
     <div class="footer-links">
       <a href="${localizedPath(language.code, 'about')}">${escapeHtml(t.nav.about)}</a>
+      <a href="${localizedPath(language.code, 'explore')}">${escapeHtml(ui.navLabel)}</a>
       <a href="${localizedPath(language.code, 'privacy')}">${escapeHtml(t.nav.privacy)}</a>
       <a href="${localizedPath(language.code, 'terms')}">${escapeHtml(t.nav.terms)}</a>
       <a href="${localizedPath(language.code, 'subscription-terms')}">${escapeHtml(t.home.reviewSubscription)}</a>
@@ -787,6 +1115,58 @@ function renderSiteJsonLd(language) {
       name: site.name,
       url: site.origin,
       inLanguage: language.code
+    }
+  ]);
+}
+
+function renderProductTourJsonLd(language) {
+  const lang = language.code;
+  const ui = tourUiFor(lang);
+  const collections = tourCollectionsFor(lang);
+  const url = `${site.origin}${localizedPath(lang, 'explore')}`;
+  const screenshots = collections.flatMap((collection) =>
+    collection.steps.map((step, index) => ({
+      '@type': 'ImageObject',
+      name: step.title,
+      caption: step.alt,
+      description: step.description,
+      contentUrl: `${site.origin}/assets/tour/${step.image}`,
+      encodingFormat: 'image/png',
+      inLanguage: lang,
+      representativeOfPage: collection.id === 'daily' && index === 0
+    }))
+  );
+
+  return jsonLdScript([
+    {
+      '@type': 'MobileApplication',
+      '@id': `${url}#app`,
+      name: 'BeMama: Pregnancy & Baby',
+      description: ui.description,
+      url,
+      inLanguage: lang,
+      applicationCategory: 'HealthApplication',
+      operatingSystem: 'iOS, Android, Web',
+      image: screenshots[0],
+      screenshot: screenshots,
+      offers: {
+        '@type': 'Offer',
+        price: 0,
+        priceCurrency: 'USD'
+      },
+      publisher: {
+        '@type': 'Organization',
+        name: site.name,
+        url: site.origin,
+        logo: `${site.origin}/assets/bemama_logo_mark.png`
+      }
+    },
+    {
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: content[lang].nav.home, item: `${site.origin}${localizedPath(lang, '')}` },
+        { '@type': 'ListItem', position: 2, name: ui.navLabel, item: url }
+      ]
     }
   ]);
 }
@@ -958,12 +1338,156 @@ function renderDeferredImageLoader() {
 </script>`;
 }
 
+function minifyCss(source) {
+  const punctuation = new Set(['{', '}', ':', ';', ',', '>']);
+  let output = '';
+  let quote = '';
+  let escaped = false;
+  let pendingSpace = false;
+  let comment = false;
+
+  const appendWithPendingSpace = (char) => {
+    if (pendingSpace) {
+      const previous = output.at(-1);
+      if (previous && !punctuation.has(previous) && !punctuation.has(char)) {
+        output += ' ';
+      }
+      pendingSpace = false;
+    }
+    output += char;
+  };
+
+  for (let index = 0; index < source.length; index += 1) {
+    const char = source[index];
+    const next = source[index + 1];
+
+    if (comment) {
+      if (char === '*' && next === '/') {
+        comment = false;
+        index += 1;
+        pendingSpace = true;
+      }
+      continue;
+    }
+    if (!quote && char === '/' && next === '*') {
+      comment = true;
+      index += 1;
+      pendingSpace = true;
+      continue;
+    }
+    if (quote) {
+      output += char;
+      if (escaped) {
+        escaped = false;
+      } else if (char === '\\') {
+        escaped = true;
+      } else if (char === quote) {
+        quote = '';
+      }
+      continue;
+    }
+    if (char === '"' || char === "'") {
+      appendWithPendingSpace(char);
+      quote = char;
+      escaped = false;
+      continue;
+    }
+    if (/\s/.test(char)) {
+      pendingSpace = true;
+      continue;
+    }
+    if (char === '}' && output.endsWith(';')) {
+      output = output.slice(0, -1);
+    }
+    appendWithPendingSpace(char);
+  }
+  return output.trim();
+}
+
+function minifyJavaScript(source) {
+  const punctuation = new Set(['{', '}', '(', ')', '[', ']', ';', ',', ':', '.']);
+  let output = '';
+  let quote = '';
+  let escaped = false;
+  let pendingSpace = false;
+  let comment = '';
+
+  const appendWithPendingSpace = (char) => {
+    if (pendingSpace) {
+      const previous = output.at(-1);
+      if (previous && !punctuation.has(previous) && !punctuation.has(char)) {
+        output += ' ';
+      }
+      pendingSpace = false;
+    }
+    output += char;
+  };
+
+  for (let index = 0; index < source.length; index += 1) {
+    const char = source[index];
+    const next = source[index + 1];
+
+    if (comment === 'line') {
+      if (char === '\n' || char === '\r') {
+        comment = '';
+        pendingSpace = true;
+      }
+      continue;
+    }
+    if (comment === 'block') {
+      if (char === '*' && next === '/') {
+        comment = '';
+        index += 1;
+        pendingSpace = true;
+      }
+      continue;
+    }
+    if (!quote && char === '/' && next === '/') {
+      comment = 'line';
+      index += 1;
+      pendingSpace = true;
+      continue;
+    }
+    if (!quote && char === '/' && next === '*') {
+      comment = 'block';
+      index += 1;
+      pendingSpace = true;
+      continue;
+    }
+    if (quote) {
+      output += char;
+      if (escaped) {
+        escaped = false;
+      } else if (char === '\\') {
+        escaped = true;
+      } else if (char === quote) {
+        quote = '';
+      }
+      continue;
+    }
+    if (char === '"' || char === "'" || char === '`') {
+      appendWithPendingSpace(char);
+      quote = char;
+      escaped = false;
+      continue;
+    }
+    if (/\s/.test(char)) {
+      pendingSpace = true;
+      continue;
+    }
+    appendWithPendingSpace(char);
+  }
+  return output.trim();
+}
+
 function renderSearchIndex() {
   const entries = [];
   for (const language of languages) {
     const lang = language.code;
     const t = content[lang];
     const labels = searchLabels[lang] ?? searchLabels.en;
+    const ui = tourUiFor(lang);
+    const collections = tourCollectionsFor(lang);
     entries.push({
       lang,
       type: labels.types.home,
@@ -978,6 +1502,23 @@ function renderSearchIndex() {
         t.home.whatText,
         t.home.trustText,
         t.home.features.flat()
+      ])
+    });
+
+    entries.push({
+      lang,
+      type: labels.types.page,
+      title: ui.title,
+      description: ui.description,
+      category: site.name,
+      url: localizedPath(lang, 'explore'),
+      body: compactSearchText([
+        ui.promoText,
+        collections.map((collection) => [
+          collection.label,
+          collection.summary,
+          collection.steps.map((step) => [step.title, step.description, step.tags])
+        ])
       ])
     });
 
@@ -1085,17 +1626,32 @@ function renderSitemap() {
       .concat(`    <xhtml:link rel="alternate" hreflang="x-default" href="${site.origin}${localizedPath('en', slug)}" />`)
       .join('\n');
     for (const language of languages) {
+      const imageEntries =
+        slug === 'explore'
+          ? tourCollectionsFor(language.code)
+              .flatMap((collection) =>
+                collection.steps.map(
+                  (step) => `    <image:image>
+      <image:loc>${site.origin}/assets/tour/${escapeHtml(step.image)}</image:loc>
+      <image:title>${escapeHtml(step.title)}</image:title>
+      <image:caption>${escapeHtml(step.alt)}</image:caption>
+    </image:image>`
+                )
+              )
+              .join('\n')
+          : '';
       entries.push(`  <url>
     <loc>${site.origin}${localizedPath(language.code, slug)}</loc>
     <lastmod>${lastmod}</lastmod>
     <changefreq>${changefreqFor(slug)}</changefreq>
     <priority>${priorityFor(slug)}</priority>
 ${alternates}
+${imageEntries}
   </url>`);
     }
   }
   return `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 ${entries.join('\n')}
 </urlset>
 `;

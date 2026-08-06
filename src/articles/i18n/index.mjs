@@ -33,12 +33,13 @@ import { translations as appFr } from './about-bemama.fr.mjs';
 import { translations as appTr } from './about-bemama.tr.mjs';
 import { translations as appEs } from './about-bemama.es.mjs';
 import { translations as appPt } from './about-bemama.pt.mjs';
+import { translations as newArticlesManual } from './new-articles-manual.mjs';
 
 export const hubTranslations = {
-  fa: { ...ttcFa, ...pregFa, ...nbFa, ...childFa, ...appFa },
-  ar: { ...ttcAr, ...pregAr, ...nbAr, ...childAr, ...appAr },
-  fr: { ...ttcFr, ...pregFr, ...nbFr, ...childFr, ...appFr },
-  tr: { ...ttcTr, ...pregTr, ...nbTr, ...childTr, ...appTr },
-  es: { ...ttcEs, ...pregEs, ...nbEs, ...childEs, ...appEs },
-  pt: { ...ttcPt, ...pregPt, ...nbPt, ...childPt, ...appPt }
+  fa: { ...ttcFa, ...pregFa, ...nbFa, ...childFa, ...appFa, ...newArticlesManual.fa },
+  ar: { ...ttcAr, ...pregAr, ...nbAr, ...childAr, ...appAr, ...newArticlesManual.ar },
+  fr: { ...ttcFr, ...pregFr, ...nbFr, ...childFr, ...appFr, ...newArticlesManual.fr },
+  tr: { ...ttcTr, ...pregTr, ...nbTr, ...childTr, ...appTr, ...newArticlesManual.tr },
+  es: { ...ttcEs, ...pregEs, ...nbEs, ...childEs, ...appEs, ...newArticlesManual.es },
+  pt: { ...ttcPt, ...pregPt, ...nbPt, ...childPt, ...appPt, ...newArticlesManual.pt }
 };

@@ -13,7 +13,7 @@
   padding: 6px 0;
   /* Wider than the 1180px content width so verbose languages (fr/pt/es) fit on
      one row; below the breakpoints the menu collapses to the hamburger. */
-  width: min(1320px, calc(100% - 32px));
+  width: min(1460px, calc(100% - 32px));
   /* Center the brand + menu as one cluster (equal space both sides). */
   justify-content: center;
 }
@@ -419,7 +419,13 @@ html[dir="rtl"] .search-input {
 /* Collapse to the hamburger before the row can wrap/overlap. English labels
    are compact; other languages (fr/pt/es/…) are wider and need more room, so
    they switch to the hamburger at a larger width. */
-@media (max-width: 1040px) {
+@media (min-width: 1321px) and (max-width: 1500px) {
+  html[lang="en"] .nav-top {
+    padding-inline: 10px;
+    font-size: 0.88rem;
+  }
+}
+@media (max-width: 1320px) {
   .primary-nav,
   .nav-actions,
   .site-search.is-desktop {

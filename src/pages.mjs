@@ -16,7 +16,7 @@ export const languages = [
   { code: 'pt', label: 'Português', dir: 'ltr' }
 ];
 
-export const pageSlugs = ['', 'about', 'privacy', 'terms', 'subscription-terms', 'ai-disclaimer', 'contact'];
+export const pageSlugs = ['', 'explore', 'about', 'privacy', 'terms', 'subscription-terms', 'ai-disclaimer', 'contact'];
 
 const updated = 'June 19, 2026';
 

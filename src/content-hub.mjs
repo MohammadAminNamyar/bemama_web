@@ -18,6 +18,7 @@ import { newbornArticles } from './articles/newborn.mjs';
 import { childArticles } from './articles/baby-and-child.mjs';
 import { appArticles } from './articles/about-bemama.mjs';
 import { expansionArticles, careTools } from './articles/expansion.mjs';
+import { newArticles } from './articles/new-articles.mjs';
 import { hubTranslations } from './articles/i18n/index.mjs';
 
 // --- Categories (drive the navigation menu and the category landing pages) ---
@@ -290,6 +291,7 @@ export const articles = [
   ...newbornArticles,
   ...childArticles,
   ...expansionArticles,
+  ...newArticles,
   ...careTools,
   ...appArticles
 ];

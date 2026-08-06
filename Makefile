@@ -20,7 +20,7 @@ DEPLOY_MAKE = $(MAKE) -C "$(ORACLE_DEPLOY_DIR)" LOCAL_ROOT="$(LOCAL_ROOT)" PROD_
 	prod-reload-nginx prod-ssh
 
 help:
-	@printf '%s\n' "beMama Web targets"
+	@printf '%s\n' "BeMama Web targets"
 	@printf '%s\n' ""
 	@printf '%s\n' "Local:"
 	@printf '%s\n' "  make install            Install npm dependencies"
