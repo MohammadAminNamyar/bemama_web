@@ -2,7 +2,9 @@ import { access, readdir, readFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { languages, pageSlugs } from '../src/pages.mjs';
-import { hubSlugs } from '../src/content-hub.mjs';
+import { articleBySlug, articles, hubSlugs } from '../src/content-hub.mjs';
+import { articleEvidence, evidenceForArticle } from '../src/article-evidence.mjs';
+import { evidenceUi } from '../src/article-evidence-i18n.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const dist = path.join(root, 'dist');
@@ -46,6 +48,45 @@ for (const language of languages) {
   }
 }
 
+const healthCategories = new Set(['ttc', 'pregnancy', 'newborn', 'child']);
+const healthArticles = articles.filter((article) => healthCategories.has(article.category));
+for (const article of healthArticles) {
+  if (!articleEvidence[article.slug]) {
+    throw new Error(`English health article is missing evidence: ${article.slug}`);
+  }
+}
+
+for (const [slug, evidence] of Object.entries(articleEvidence)) {
+  if (!articleBySlug.has(slug)) {
+    throw new Error(`Evidence references an unknown article: ${slug}`);
+  }
+  if (!evidence.updated || !/^\d{4}-\d{2}-\d{2}$/.test(evidence.updatedIso || '')) {
+    throw new Error(`Evidence is missing a valid update date: ${slug}`);
+  }
+  if (evidence.guidance?.length < 2 || !evidence.bemama || !evidence.safety || !evidence.sources?.length) {
+    throw new Error(`Evidence content is incomplete: ${slug}`);
+  }
+  for (const source of evidence.sources) {
+    const sourceUrl = new URL(source.url);
+    if (sourceUrl.protocol !== 'https:' || !source.organization || !source.title) {
+      throw new Error(`Evidence source is incomplete or insecure: ${slug}`);
+    }
+  }
+}
+
+for (const article of healthArticles) {
+  for (const language of languages) {
+    const evidence = evidenceForArticle(article.slug, language.code);
+    const expectedLabels = evidenceUi[language.code];
+    if (!evidence || evidence.guidance?.length < 2 || !evidence.bemama || !evidence.safety || !evidence.sources?.length) {
+      throw new Error(`Localized evidence is incomplete: ${language.code}/${article.slug}`);
+    }
+    if (!expectedLabels || evidence.labels?.recommendationTitle !== expectedLabels.recommendationTitle) {
+      throw new Error(`Localized evidence labels are incomplete: ${language.code}/${article.slug}`);
+    }
+  }
+}
+
 for (const route of requiredRoutes) {
   const file = route === '/' ? path.join(dist, 'index.html') : path.join(dist, route, 'index.html');
   await access(file);
@@ -58,7 +99,10 @@ for (const file of htmlFiles) {
   const html = await readFile(file, 'utf8');
   const normalizedHtml = html.toLowerCase();
   for (const claim of forbiddenClaims) {
-    if (normalizedHtml.includes(claim.toLowerCase())) {
+    const found = claim === 'MinIO'
+      ? /\bminio\b/i.test(html)
+      : normalizedHtml.includes(claim.toLowerCase());
+    if (found) {
       throw new Error(`Forbidden launch claim found in ${file}: ${claim}`);
     }
   }
@@ -66,6 +110,24 @@ for (const file of htmlFiles) {
   for (const href of hrefs) {
     if (href.startsWith('/') && !href.includes('.') && !knownRoutes.has(stripQuery(href))) {
       throw new Error(`Broken internal link in ${file}: ${href}`);
+    }
+  }
+}
+
+for (const slug of Object.keys(articleEvidence)) {
+  for (const language of languages) {
+    const localizedFile = language.code === 'en'
+      ? path.join(dist, slug, 'index.html')
+      : path.join(dist, language.code, slug, 'index.html');
+    const localizedHtml = await readFile(localizedFile, 'utf8');
+    if (!localizedHtml.includes(evidenceUi[language.code].recommendationTitle)) {
+      throw new Error(`Rendered localized evidence section is missing: ${language.code}/${slug}`);
+    }
+    if (!localizedHtml.includes('"citation"') || !localizedHtml.includes('"dateModified":"2026-08-05"')) {
+      throw new Error(`Localized evidence JSON-LD is incomplete: ${language.code}/${slug}`);
+    }
+    if (language.code !== 'en' && localizedHtml.includes('What trusted health organizations recommend')) {
+      throw new Error(`English evidence label leaked into ${language.code}: ${slug}`);
     }
   }
 }

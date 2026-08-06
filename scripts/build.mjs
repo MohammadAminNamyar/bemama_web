@@ -4,6 +4,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { content, languages, pageSlugs, site } from '../src/pages.mjs';
 import { tourCollectionTranslations, tourUiTranslations } from '../src/tour-i18n.mjs';
+import { evidenceForArticle } from '../src/article-evidence.mjs';
 import {
   categories,
   hubSlugs,
@@ -806,9 +807,55 @@ function renderAppCta(language) {
   </aside>`;
 }
 
+function renderArticleEvidence(evidence) {
+  if (!evidence) return '';
+
+  const labels = evidence.labels ?? {
+    kicker: 'Evidence-informed guidance',
+    recommendationTitle: 'What trusted health organizations recommend',
+    bemamaTitle: 'How BeMama can help',
+    safetyTitle: 'When to seek help',
+    sourcesTitle: 'Sources and further reading',
+    sourceNote: 'Links lead directly to guidance from the organizations named above.'
+  };
+
+  const guidance = evidence.guidance
+    .map((paragraph) => `<p>${escapeHtml(paragraph)}</p>`)
+    .join('');
+  const sources = evidence.sources
+    .map(
+      (source) => `<li><a href="${escapeHtml(source.url)}">${escapeHtml(source.organization)} &mdash; ${escapeHtml(source.title)}</a></li>`
+    )
+    .join('');
+
+  return `<div class="article-evidence">
+    <section class="article-section evidence-guidance">
+      <span class="evidence-kicker">${escapeHtml(labels.kicker)}</span>
+      <h2>${escapeHtml(labels.recommendationTitle)}</h2>
+      ${guidance}
+    </section>
+    <section class="article-section evidence-bemama">
+      <h2>${escapeHtml(labels.bemamaTitle)}</h2>
+      <p>${escapeHtml(evidence.bemama)}</p>
+    </section>
+    ${
+      evidence.safety
+        ? `<aside class="evidence-safety"><h2>${escapeHtml(labels.safetyTitle)}</h2><p>${escapeHtml(evidence.safety)}</p></aside>`
+        : ''
+    }
+    <section class="evidence-sources" aria-labelledby="evidence-sources-title">
+      <h2 id="evidence-sources-title">${escapeHtml(labels.sourcesTitle)}</h2>
+      <ul>${sources}</ul>
+      <p class="evidence-source-note">${escapeHtml(labels.sourceNote)}</p>
+    </section>
+  </div>`;
+}
+
 function renderArticle(language, slug, article, data) {
   const lang = language.code;
   const strings = hubText(lang);
+  const evidence = evidenceForArticle(article.slug, lang);
+  const updated = evidence?.updated ?? article.updated;
   const category = categoryById.get(article.category);
   const usingFallback = !article.i18n[lang];
   const trail = [
@@ -852,12 +899,13 @@ function renderArticle(language, slug, article, data) {
     <header class="article-head">
       <span class="eyebrow">${escapeHtml(pick(category.title, lang))}</span>
       <h1>${escapeHtml(data.title)}</h1>
-      ${article.updated ? `<p class="article-meta">${escapeHtml(strings.updatedLabel)}: ${escapeHtml(article.updated)}</p>` : ''}
+      ${updated ? `<p class="article-meta">${escapeHtml(strings.updatedLabel)}: ${escapeHtml(updated)}</p>` : ''}
     </header>
     <figure class="article-hero">${imageMarkup(`/assets/${article.hero}`, data.title, { loading: 'eager', fetchpriority: 'high' })}</figure>
     ${fallbackNotice}
     <p class="article-intro">${escapeHtml(data.intro)}</p>
     ${sections}
+    ${renderArticleEvidence(evidence)}
     ${takeaways}
     ${faq}
     <div class="notice article-disclaimer">${escapeHtml(hubDisclaimer(lang))}</div>
@@ -951,6 +999,7 @@ function renderCategory(language, slug, category) {
 
 function renderArticleJsonLd(language, slug, article, data) {
   const lang = language.code;
+  const evidence = evidenceForArticle(article.slug, lang);
   const category = categoryById.get(article.category);
   const url = `${site.origin}${localizedPath(lang, slug)}`;
   const graph = [
@@ -961,7 +1010,9 @@ function renderArticleJsonLd(language, slug, article, data) {
       image: `${site.origin}/assets/${article.hero}`,
       inLanguage: lang,
       mainEntityOfPage: url,
-      publisher: { '@type': 'Organization', name: site.name }
+      publisher: { '@type': 'Organization', name: site.name },
+      ...(evidence?.updatedIso ? { dateModified: evidence.updatedIso } : {}),
+      ...(evidence?.sources?.length ? { citation: evidence.sources.map((source) => source.url) } : {})
     },
     {
       '@type': 'BreadcrumbList',
