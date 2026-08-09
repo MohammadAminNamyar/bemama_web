@@ -40,7 +40,7 @@ export const translations = {
       {
         heading: 'جربيه اليوم على الويب',
         paragraphs: [
-          'BeMama متاح الآن كتطبيق ويب على https://app.bemamas.com/ ، دون الحاجة إلى أي تنزيل. وستتوفر قوائم التطبيق على متجري Android وiOS قريبًا، وستُضاف الروابط عند إطلاق القوائم العامة.',
+          'BeMama متاح الآن كتطبيق ويب على https://app.bemamas.com/، ولأجهزة Android على https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client، ولأجهزة iOS على https://apps.apple.com/us/app/bemama/id6783137312.',
           'تحديد مرحلتك لا يستغرق سوى لحظة، ومن هناك يتشكل «المسار اليومي» والمجتمع و«الأدوات» حولك.'
         ]
       }
@@ -50,7 +50,7 @@ export const translations = {
       'رفيقة واحدة تغطي التخطيط والحمل ورعاية الرضيع ونمو الطفل مع تقدم رحلتك.',
       'إرشاد «المسار اليومي» و«الأسئلة والأجوبة» والمجتمع و«الأدوات» العملية تعمل معًا.',
       'BeMama للتثقيف والدعم فقط ، وتبقى القرارات الطبية بينك وبين أطبائك.',
-      'تطبيق الويب متاح اليوم على app.bemamas.com؛ وقوائم المتاجر قادمة قريبًا.'
+      'تطبيق الويب وتطبيقا Android وiOS متاحة اليوم.'
     ],
     faq: [
       {
@@ -63,7 +63,7 @@ export const translations = {
       },
       {
         q: 'كيف أبدأ في استخدام BeMama؟',
-        a: 'افتحي تطبيق الويب على https://app.bemamas.com/، وأنشئي مساحتك الخاصة، وحددي مرحلتك الحالية. قوائم متجري Android وiOS قادمة وستُربط عند إطلاقها.'
+        a: 'افتحي تطبيق الويب على https://app.bemamas.com/ أو حمّلي BeMama لأجهزة Android من https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client ولأجهزة iOS من https://apps.apple.com/us/app/bemama/id6783137312، ثم أنشئي مساحتك وحددي مرحلتك الحالية.'
       }
     ]
   },
@@ -462,7 +462,7 @@ export const translations = {
         heading: 'الخطوة الأولى: افتحي تطبيق الويب',
         paragraphs: [
           'يعمل BeMama على الويب اليوم عبر https://app.bemamas.com/. افتحي هذا العنوان في أي متصفح حديث ، على الهاتف أو الجهاز اللوحي أو الحاسوب ، وستكونين عند الباب الأمامي. لا شيء يحتاج إلى تثبيت.',
-          'قوائم متجري Android وiOS قادمة، وستُضاف الروابط إلى الموقع عند إطلاق القوائم العامة. وحتى ذلك الحين، تطبيق الويب هو التجربة الكاملة.'
+          'تطبيق Android متاح على https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client، وتطبيق iOS متاح على https://apps.apple.com/us/app/bemama/id6783137312، كما يتوفر تطبيق الويب على https://app.bemamas.com/.'
         ]
       },
       {
@@ -506,12 +506,12 @@ export const translations = {
       'أنشئي حسابك ثم حددي مرحلتك الحالية؛ يستغرق الإعداد نحو خمس دقائق.',
       'مرحلتك تشكّل «المسار اليومي» و«الأدوات» والمحتوى الذي ترينه.',
       'استكشفي «الأسئلة والأجوبة» والمجتمع و«الأدوات» بإيقاعك الخاص ، والقراءة بصمت تُحسب مشاركة.',
-      'قوائم متجري Android وiOS قادمة؛ وتطبيق الويب هو التجربة الكاملة اليوم.'
+      'تطبيق الويب وتطبيقا Android وiOS متاحة اليوم.'
     ],
     faq: [
       {
         q: 'هل BeMama متاح في متاجر التطبيقات؟',
-        a: 'ليس بعد ، قوائم متجري Android وiOS قادمة، وستُضاف الروابط عند إطلاق القوائم العامة. وتطبيق الويب على https://app.bemamas.com/ متاح بالكامل اليوم.'
+        a: 'نعم. يتوفر BeMama لأجهزة Android على https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client ولأجهزة iOS على https://apps.apple.com/us/app/bemama/id6783137312، كما يتوفر تطبيق الويب على https://app.bemamas.com/.'
       },
       {
         q: 'كم يستغرق الإعداد؟',

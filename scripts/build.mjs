@@ -122,6 +122,7 @@ const tourUi = {
   ctaText: 'Continue in the full app to personalize your journey, save care records, and stay connected.',
   openWeb: 'Open BeMama on the web',
   openIos: 'Download on the App Store',
+  openAndroid: 'Get it on Google Play',
   areasLabel: 'BeMama app areas',
   assurancesLabel: 'Tour details',
   workspaceLabel: 'Interactive BeMama tour',
@@ -553,7 +554,8 @@ function renderHome(language) {
         <h1>${escapeHtml(h.title)}</h1>
         <p class="hero-copy">${escapeHtml(h.copy)}</p>
         <div class="hero-actions">
-          <a class="button" href="${site.iosAppUrl}" rel="noopener">${escapeHtml(h.downloadIos || h.openIos)}</a>
+          <a class="button" href="${site.androidAppUrl}" target="_blank" rel="noopener">${escapeHtml(h.downloadAndroid || h.openAndroid)}</a>
+          <a class="button secondary" href="${site.iosAppUrl}" target="_blank" rel="noopener">${escapeHtml(h.downloadIos || h.openIos)}</a>
           <a class="button secondary" href="${site.appUrl}" rel="noopener">${escapeHtml(h.openWeb)}</a>
           <a class="button secondary" href="${localizedPath(language.code, 'explore')}">${escapeHtml(ui.navLabel)}</a>
         </div>
@@ -629,7 +631,7 @@ function renderHome(language) {
         <h2>${escapeHtml(h.appTitle)}</h2>
         <p>${escapeHtml(h.appText)}</p>
         <div class="platform-grid">
-          ${platformCard('android', h.android, h.comingSoon)}
+          ${platformCard('android', h.android, h.openAndroid, site.androidAppUrl, true)}
           ${platformCard('ios', h.ios, h.openIos || h.openWeb, site.iosAppUrl, true)}
           ${platformCard('web', h.web, h.openWeb, site.appUrl)}
         </div>
@@ -726,6 +728,7 @@ function renderProductTour(language) {
       </div>
       <div class="tour-outro-actions">
         <a class="button" href="${site.appUrl}" rel="noopener">${escapeHtml(ui.openWeb)}</a>
+        <a class="button secondary" href="${site.androidAppUrl}" target="_blank" rel="noopener">${escapeHtml(ui.openAndroid)}</a>
         <a class="button secondary" href="${site.iosAppUrl}" target="_blank" rel="noopener">${escapeHtml(ui.openIos)}</a>
       </div>
     </section>

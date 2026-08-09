@@ -40,7 +40,7 @@ export const translations = {
       {
         heading: 'Pruébala hoy en la web',
         paragraphs: [
-          'BeMama está disponible como aplicación web ahora mismo en https://app.bemamas.com/, sin necesidad de descarga. Las publicaciones en las tiendas de Android e iOS llegarán pronto, y los enlaces se agregarán cuando estén disponibles al público.',
+          'BeMama está disponible en la web en https://app.bemamas.com/, para Android en https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client y para iOS en https://apps.apple.com/us/app/bemama/id6783137312.',
           'Configurar tu etapa toma solo un momento, y a partir de ahí el Camino Diario, la comunidad y las herramientas se adaptan a ti.'
         ]
       }
@@ -50,7 +50,7 @@ export const translations = {
       'Una sola compañera cubre la planificación, el embarazo, el cuidado del bebé y el crecimiento infantil a medida que tu camino avanza.',
       'La guía del Camino Diario, las Preguntas y respuestas con la comunidad y las herramientas prácticas trabajan en conjunto.',
       'BeMama es solo educación y apoyo; las decisiones médicas quedan contigo y con tus profesionales de salud.',
-      'La aplicación web está disponible hoy en app.bemamas.com; las publicaciones en las tiendas de aplicaciones llegarán pronto.'
+      'Las aplicaciones web, Android e iOS están disponibles hoy.'
     ],
     faq: [
       {
@@ -63,7 +63,7 @@ export const translations = {
       },
       {
         q: '¿Cómo empiezo a usar BeMama?',
-        a: 'Abre la aplicación web en https://app.bemamas.com/, crea tu espacio y configura tu etapa actual. Las publicaciones en las tiendas de Android e iOS llegarán pronto y se enlazarán cuando estén activas.'
+        a: 'Abre la aplicación web en https://app.bemamas.com/, descarga BeMama para Android desde https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client o para iOS desde https://apps.apple.com/us/app/bemama/id6783137312. Después crea tu espacio y configura tu etapa actual.'
       }
     ]
   },
@@ -462,7 +462,7 @@ export const translations = {
         heading: 'Paso uno: abre la aplicación web',
         paragraphs: [
           'BeMama funciona hoy en la web en https://app.bemamas.com/. Abre esa dirección en cualquier navegador moderno, teléfono, tableta o computadora, y ya estás en la puerta de entrada. No hay nada que instalar.',
-          'Las publicaciones en las tiendas de Android e iOS llegarán pronto, y los enlaces se agregarán al sitio web cuando estén disponibles al público. Hasta entonces, la aplicación web es la experiencia completa.'
+          'La aplicación para Android está disponible en https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client, la aplicación para iOS en https://apps.apple.com/us/app/bemama/id6783137312 y la aplicación web en https://app.bemamas.com/.'
         ]
       },
       {
@@ -506,12 +506,12 @@ export const translations = {
       'Crea tu cuenta y luego configura tu etapa actual; la configuración toma unos cinco minutos.',
       'Tu etapa da forma al Camino Diario, a las Herramientas y al contenido que ves.',
       'Explora las Preguntas y respuestas, la comunidad y las Herramientas a tu propio ritmo; leer en silencio también cuenta.',
-      'Las publicaciones en las tiendas de Android e iOS llegarán pronto; la aplicación web es hoy la experiencia completa.'
+      'Las aplicaciones web, Android e iOS están disponibles hoy.'
     ],
     faq: [
       {
         q: '¿BeMama está disponible en las tiendas de aplicaciones?',
-        a: 'Todavía no: las publicaciones en las tiendas de Android e iOS llegarán pronto, y los enlaces se agregarán cuando estén disponibles al público. La aplicación web en https://app.bemamas.com/ está totalmente disponible hoy.'
+        a: 'Sí. BeMama está disponible para Android en https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client y para iOS en https://apps.apple.com/us/app/bemama/id6783137312. La aplicación web en https://app.bemamas.com/ también está disponible.'
       },
       {
         q: '¿Cuánto tarda la configuración?',

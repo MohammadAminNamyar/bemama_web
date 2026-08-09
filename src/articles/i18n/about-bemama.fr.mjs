@@ -40,7 +40,7 @@ export const translations = {
       {
         heading: 'Essayez-la dès aujourd’hui sur le web',
         paragraphs: [
-          'BeMama est disponible dès maintenant sous forme d’application web à l’adresse https://app.bemamas.com/ , aucun téléchargement requis. Les fiches sur les boutiques Android et iOS arrivent, et les liens seront ajoutés dès que les fiches publiques seront en ligne.',
+          'BeMama est disponible sur le Web à l’adresse https://app.bemamas.com/, pour Android sur https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client et pour iOS sur https://apps.apple.com/us/app/bemama/id6783137312.',
           'Définir votre étape ne prend qu’un instant, et à partir de là, le Parcours quotidien, la communauté et les Outils se façonnent autour de vous.'
         ]
       }
@@ -50,7 +50,7 @@ export const translations = {
       'Un seul compagnon couvre le projet de bébé, la grossesse, les soins du bébé et la croissance de l’enfant, au fil de votre parcours.',
       'Les conseils du Parcours quotidien, les Questions-réponses et la communauté, et les Outils pratiques fonctionnent ensemble.',
       'BeMama, c’est de l’éducation et du soutien uniquement , les décisions médicales restent entre vos mains et celles de vos cliniciens.',
-      'L’application web est disponible dès aujourd’hui sur app.bemamas.com ; les fiches sur les boutiques d’applications arrivent.'
+      'L’application web et les applications Android et iOS sont disponibles dès aujourd’hui.'
     ],
     faq: [
       {
@@ -63,7 +63,7 @@ export const translations = {
       },
       {
         q: 'Comment commencer à utiliser BeMama ?',
-        a: 'Ouvrez l’application web à l’adresse https://app.bemamas.com/, créez votre espace et définissez votre étape actuelle. Les fiches sur les boutiques Android et iOS arrivent et seront reliées dès leur mise en ligne.'
+        a: 'Ouvrez l’application web à l’adresse https://app.bemamas.com/, téléchargez BeMama pour Android sur https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client ou pour iOS sur https://apps.apple.com/us/app/bemama/id6783137312, puis créez votre espace et définissez votre étape actuelle.'
       }
     ]
   },
@@ -462,7 +462,7 @@ export const translations = {
         heading: 'Étape un : ouvrez l’application web',
         paragraphs: [
           'BeMama fonctionne aujourd’hui sur le web à l’adresse https://app.bemamas.com/. Ouvrez cette adresse dans n’importe quel navigateur moderne , téléphone, tablette ou ordinateur , et vous voilà devant la porte d’entrée. Il n’y a rien à installer.',
-          'Les fiches sur les boutiques Android et iOS arrivent, et les liens seront ajoutés au site web dès que les fiches publiques seront en ligne. D’ici là, l’application web offre l’expérience complète.'
+          'L’application Android est disponible sur https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client, l’application iOS sur https://apps.apple.com/us/app/bemama/id6783137312 et l’application web sur https://app.bemamas.com/.'
         ]
       },
       {
@@ -506,12 +506,12 @@ export const translations = {
       'Créez votre compte, puis définissez votre étape actuelle ; la mise en route prend environ cinq minutes.',
       'Votre étape façonne le Parcours quotidien, les Outils et les contenus que vous voyez.',
       'Explorez les Questions-réponses, la communauté et les Outils à votre rythme , lire en silence compte aussi.',
-      'Les fiches sur les boutiques Android et iOS arrivent ; l’application web offre déjà l’expérience complète.'
+      'L’application web et les applications Android et iOS sont disponibles dès aujourd’hui.'
     ],
     faq: [
       {
         q: 'BeMama est-elle disponible sur les boutiques d’applications ?',
-        a: 'Pas encore , les fiches sur les boutiques Android et iOS arrivent, et les liens seront ajoutés dès que les fiches publiques seront en ligne. L’application web à l’adresse https://app.bemamas.com/ est pleinement disponible dès aujourd’hui.'
+        a: 'Oui. BeMama est disponible pour Android sur https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client et pour iOS sur https://apps.apple.com/us/app/bemama/id6783137312. L’application web à l’adresse https://app.bemamas.com/ est également disponible.'
       },
       {
         q: 'Combien de temps prend la mise en route ?',

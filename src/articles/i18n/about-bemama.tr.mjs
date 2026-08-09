@@ -40,7 +40,7 @@ export const translations = {
       {
         heading: 'Bugün web üzerinden deneyin',
         paragraphs: [
-          'BeMama şu anda https://app.bemamas.com/ adresinde bir web uygulaması olarak kullanılabilir , indirme gerekmez. Android ve iOS mağaza listeleri yakında geliyor; herkese açık listeler yayına girdiğinde bağlantılar eklenecektir.',
+          'BeMama webde https://app.bemamas.com/, Android için https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client ve iOS için https://apps.apple.com/us/app/bemama/id6783137312 adresinde kullanılabilir.',
           'Aşamanızı belirlemek yalnızca bir dakika sürer ve oradan itibaren Günlük Yolculuk, topluluk ve araçlar kendilerini size göre şekillendirir.'
         ]
       }
@@ -50,7 +50,7 @@ export const translations = {
       'Tek bir yol arkadaşı, yolculuğunuz ilerledikçe planlamayı, hamileliği, bebek bakımını ve çocuk gelişimini kapsar.',
       'Günlük Yolculuk rehberliği, Soru-Cevap ve topluluk ile pratik araçlar birlikte çalışır.',
       'BeMama yalnızca eğitim ve destektir , tıbbi kararlar size ve klinisyenlerinize aittir.',
-      'Web uygulaması bugün app.bemamas.com adresinde kullanılabilir; mağaza listeleri yakında geliyor.'
+      'Web, Android ve iOS uygulamaları bugün kullanılabilir.'
     ],
     faq: [
       {
@@ -63,7 +63,7 @@ export const translations = {
       },
       {
         q: 'BeMama’yı kullanmaya nasıl başlarım?',
-        a: 'https://app.bemamas.com/ adresinden web uygulamasını açın, kendi alanınızı oluşturun ve mevcut aşamanızı belirleyin. Android ve iOS mağaza listeleri yakında geliyor ve yayına girdiğinde bağlantılar eklenecektir.'
+        a: 'Web uygulamasını https://app.bemamas.com/ adresinden açın, Android uygulamasını https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client veya iOS uygulamasını https://apps.apple.com/us/app/bemama/id6783137312 adresinden indirin. Ardından alanınızı oluşturup mevcut aşamanızı belirleyin.'
       }
     ]
   },
@@ -462,7 +462,7 @@ export const translations = {
         heading: 'Birinci adım: web uygulamasını açın',
         paragraphs: [
           'BeMama bugün https://app.bemamas.com/ adresinde web üzerinde çalışıyor. Bu adresi herhangi bir modern tarayıcıda , telefon, tablet veya bilgisayar , açın ve kapının önündesiniz. Yüklenecek hiçbir şey yok.',
-          'Android ve iOS mağaza listeleri yakında geliyor; herkese açık listeler yayına girdiğinde bağlantılar web sitesine eklenecektir. O zamana kadar web uygulaması eksiksiz deneyimdir.'
+          'Android uygulaması https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client, iOS uygulaması https://apps.apple.com/us/app/bemama/id6783137312 ve web uygulaması https://app.bemamas.com/ adresinde kullanılabilir.'
         ]
       },
       {
@@ -506,12 +506,12 @@ export const translations = {
       'Hesabınızı oluşturun, ardından mevcut aşamanızı belirleyin; kurulum yaklaşık beş dakika sürer.',
       'Aşamanız; Günlük Yolculuğu, Araçları ve gördüğünüz içeriği şekillendirir.',
       'Soru-Cevap alanını, topluluğu ve Araçları kendi hızınızda keşfedin , sessizce okumak da sayılır.',
-      'Android ve iOS mağaza listeleri yakında geliyor; web uygulaması bugün eksiksiz deneyimdir.'
+      'Web, Android ve iOS uygulamaları bugün kullanılabilir.'
     ],
     faq: [
       {
         q: 'BeMama uygulama mağazalarında var mı?',
-        a: 'Henüz değil , Android ve iOS mağaza listeleri yakında geliyor ve herkese açık listeler yayına girdiğinde bağlantılar eklenecektir. https://app.bemamas.com/ adresindeki web uygulaması bugün tamamen kullanılabilir.'
+        a: 'Evet. BeMama Android için https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client ve iOS için https://apps.apple.com/us/app/bemama/id6783137312 adresinde bulunur. https://app.bemamas.com/ adresindeki web uygulaması da kullanılabilir.'
       },
       {
         q: 'Kurulum ne kadar sürer?',

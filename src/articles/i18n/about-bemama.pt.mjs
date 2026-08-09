@@ -40,7 +40,7 @@ export const translations = {
       {
         heading: 'Experimente hoje mesmo na web',
         paragraphs: [
-          'O BeMama já está disponível como aplicativo web em https://app.bemamas.com/ — sem necessidade de download. As versões para as lojas de aplicativos Android e iOS estão a caminho, e os links serão adicionados quando as páginas públicas estiverem no ar.',
+          'O BeMama está disponível na web em https://app.bemamas.com/, para Android em https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client e para iOS em https://apps.apple.com/us/app/bemama/id6783137312.',
           'Definir a sua fase leva apenas um instante e, a partir daí, a Jornada Diária, a comunidade e as Ferramentas se moldam ao seu redor.'
         ]
       }
@@ -50,7 +50,7 @@ export const translations = {
       'Uma única companhia acompanha o planejamento, a gravidez, os cuidados com o bebê e o crescimento da criança conforme a sua jornada avança.',
       'A orientação da Jornada Diária, as Perguntas e respostas com a comunidade e as Ferramentas práticas trabalham juntas.',
       'O BeMama é apenas educação e apoio — as decisões médicas ficam com você e com os seus profissionais de saúde.',
-      'O aplicativo web está disponível hoje em app.bemamas.com; as lojas de aplicativos vêm em breve.'
+      'Os aplicativos web, Android e iOS estão disponíveis hoje.'
     ],
     faq: [
       {
@@ -63,7 +63,7 @@ export const translations = {
       },
       {
         q: 'Como começo a usar o BeMama?',
-        a: 'Abra o aplicativo web em https://app.bemamas.com/, crie o seu espaço e defina a sua fase atual. As versões para as lojas de aplicativos Android e iOS estão a caminho e serão vinculadas assim que estiverem no ar.'
+        a: 'Abra o aplicativo web em https://app.bemamas.com/, baixe o BeMama para Android em https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client ou para iOS em https://apps.apple.com/us/app/bemama/id6783137312. Depois, crie o seu espaço e defina a sua fase atual.'
       }
     ]
   },
@@ -462,7 +462,7 @@ export const translations = {
         heading: 'Passo um: abra o aplicativo web',
         paragraphs: [
           'O BeMama funciona na web hoje em https://app.bemamas.com/. Abra esse endereço em qualquer navegador moderno — celular, tablet ou computador — e você está na porta de entrada. Não há nada para instalar.',
-          'As versões para as lojas de aplicativos Android e iOS estão a caminho, e os links serão adicionados ao site quando as páginas públicas estiverem no ar. Até lá, o aplicativo web é a experiência completa.'
+          'O aplicativo Android está disponível em https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client, o aplicativo iOS em https://apps.apple.com/us/app/bemama/id6783137312 e o aplicativo web em https://app.bemamas.com/.'
         ]
       },
       {
@@ -506,12 +506,12 @@ export const translations = {
       'Crie a sua conta e defina a sua fase atual; a configuração leva cerca de cinco minutos.',
       'A sua fase molda a Jornada Diária, as Ferramentas e o conteúdo que você vê.',
       'Explore as Perguntas e respostas, a comunidade e as Ferramentas no seu ritmo — ler em silêncio também conta.',
-      'As lojas de aplicativos Android e iOS vêm em breve; o aplicativo web já é a experiência completa hoje.'
+      'Os aplicativos web, Android e iOS estão disponíveis hoje.'
     ],
     faq: [
       {
         q: 'O BeMama está disponível nas lojas de aplicativos?',
-        a: 'Ainda não — as versões para as lojas Android e iOS estão a caminho, e os links serão adicionados quando as páginas públicas estiverem no ar. O aplicativo web em https://app.bemamas.com/ está totalmente disponível hoje.'
+        a: 'Sim. O BeMama está disponível para Android em https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client e para iOS em https://apps.apple.com/us/app/bemama/id6783137312. O aplicativo web em https://app.bemamas.com/ também está disponível.'
       },
       {
         q: 'Quanto tempo leva a configuração?',
