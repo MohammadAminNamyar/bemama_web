@@ -1,4 +1,4 @@
-// "Baby & Child" category articles , Persian (Farsi) translation.
+// "Baby & Child" category articles — Persian (Farsi) translation.
 // Translated from English source. General education only (not medical advice).
 
 export const translations = {

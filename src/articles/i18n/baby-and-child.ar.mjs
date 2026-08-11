@@ -1,4 +1,4 @@
-// "Baby & Child" category articles , Modern Standard Arabic (ar) translations.
+// "Baby & Child" category articles — Modern Standard Arabic (ar) translations.
 // Translated from the English source. Original/paraphrased general education (not medical advice).
 
 export const translations = {

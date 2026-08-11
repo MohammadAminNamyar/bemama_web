@@ -1,6 +1,6 @@
 // Aggregates per-category, per-language article translations into one map:
 //   hubTranslations[lang][slug] -> { title, description, intro, sections, takeaways, faq }
-// Section images are NOT stored in translations , the merge in content-hub.mjs
+// Section images are NOT stored in translations — the merge in content-hub.mjs
 // copies them from the English source by section index, so images stay in sync.
 
 import { translations as ttcFa } from './trying-to-conceive.fa.mjs';

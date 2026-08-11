@@ -39,6 +39,30 @@ const policyUpdatedLabels = {
   pt: 'Última atualização'
 };
 
+// Store badge glyphs: Font Awesome Free (fontawesome.com) brand icons, CC BY 4.0.
+const appleGlyph = `<svg viewBox="0 0 384 512" aria-hidden="true" focusable="false"><path fill="currentColor" d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z"/></svg>`;
+const playGlyph = `<svg viewBox="0 0 512 512" aria-hidden="true" focusable="false"><path fill="currentColor" d="M325.3 234.3L104.6 13l280.8 161.2-60.1 60.1zM47 0C34 6.8 25.3 19.2 25.3 35.3v441.3c0 16.1 8.7 28.5 21.7 35.3l256.6-256L47 0zm425.2 225.6l-58.9-34.1-65.7 64.5 65.7 64.5 60.1-34.1c18-14.3 18-46.5-1.2-60.8zM104.6 499l280.8-161.2-60.1-60.1L104.6 499z"/></svg>`;
+
+const badgeSmallLabels = {
+  en: { ios: 'Download on the', android: 'Get it on' },
+  fa: { ios: 'دریافت از', android: 'دریافت از' },
+  ar: { ios: 'تنزيل من', android: 'احصل عليه من' },
+  fr: { ios: 'Télécharger dans l’', android: 'Disponible sur' },
+  tr: { ios: 'İndirin:', android: 'Edinin:' },
+  es: { ios: 'Descárgalo en el', android: 'Disponible en' },
+  pt: { ios: 'Baixe na', android: 'Disponível no' }
+};
+
+const bylineLabels = {
+  en: 'Written by the BeMama editorial team — checked against published guidance from recognized health organizations.',
+  fa: 'نوشتهٔ تیم تحریریهٔ BeMama — مطابق با راهنمای منتشرشدهٔ نهادهای معتبر سلامت بازبینی شده است.',
+  ar: 'بقلم فريق تحرير BeMama — تمت مراجعته وفق الإرشادات المنشورة من هيئات صحية معترف بها.',
+  fr: 'Rédigé par l’équipe éditoriale BeMama — vérifié au regard des recommandations publiées par des organismes de santé reconnus.',
+  tr: 'BeMama editör ekibi tarafından yazılmıştır — tanınmış sağlık kuruluşlarının yayımlanmış rehberleri esas alınarak gözden geçirilmiştir.',
+  es: 'Escrito por el equipo editorial de BeMama — revisado según las guías publicadas por organismos de salud reconocidos.',
+  pt: 'Escrito pela equipe editorial do BeMama — revisado com base nas diretrizes publicadas por organizações de saúde reconhecidas.'
+};
+
 const searchLabels = {
   en: {
     ariaLabel: 'Search BeMama',
@@ -401,6 +425,7 @@ function renderPage(language, slug) {
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     <link rel="manifest" href="/site.webmanifest" />
     <meta name="theme-color" content="#399A97" />
+    <meta name="apple-itunes-app" content="app-id=6783137312" />
     <meta property="og:site_name" content="${escapeHtml(site.name)}" />
     <meta property="og:title" content="${escapeHtml(title)}" />
     <meta property="og:description" content="${escapeHtml(description)}" />
@@ -799,14 +824,28 @@ function renderBreadcrumbs(language, trail) {
   return `<nav class="breadcrumbs" aria-label="Breadcrumb"><ul>${items}</ul></nav>`;
 }
 
+function storeBadge(href, glyph, smallLabel, storeName) {
+  return `<a class="store-badge" href="${href}" target="_blank" rel="noopener">
+      ${glyph}
+      <span class="store-badge-text"><small>${escapeHtml(smallLabel)}</small><strong>${escapeHtml(storeName)}</strong></span>
+    </a>`;
+}
+
 function renderAppCta(language) {
   const strings = hubText(language.code);
+  const labels = badgeSmallLabels[language.code] ?? badgeSmallLabels.en;
   return `<aside class="app-cta">
     <div class="app-cta-copy">
       <h2>${escapeHtml(strings.ctaTitle)}</h2>
       <p>${escapeHtml(strings.ctaText)}</p>
     </div>
-    <a class="button" href="${site.appUrl}">${escapeHtml(strings.ctaButton)}</a>
+    <div class="app-cta-actions">
+      <div class="store-badges">
+        ${storeBadge(site.iosAppUrl, appleGlyph, labels.ios, 'App Store')}
+        ${storeBadge(site.androidAppUrl, playGlyph, labels.android, 'Google Play')}
+      </div>
+      <a class="app-cta-weblink" href="${site.appUrl}">${escapeHtml(strings.ctaButton)}</a>
+    </div>
   </aside>`;
 }
 
@@ -903,6 +942,7 @@ function renderArticle(language, slug, article, data) {
       <span class="eyebrow">${escapeHtml(pick(category.title, lang))}</span>
       <h1>${escapeHtml(data.title)}</h1>
       ${updated ? `<p class="article-meta">${escapeHtml(strings.updatedLabel)}: ${escapeHtml(updated)}</p>` : ''}
+      <p class="article-byline">${escapeHtml(bylineLabels[lang] ?? bylineLabels.en)}</p>
     </header>
     <figure class="article-hero">${imageMarkup(`/assets/${article.hero}`, data.title, { loading: 'eager', fetchpriority: 'high' })}</figure>
     ${fallbackNotice}
@@ -1013,7 +1053,12 @@ function renderArticleJsonLd(language, slug, article, data) {
       image: `${site.origin}/assets/${article.hero}`,
       inLanguage: lang,
       mainEntityOfPage: url,
-      publisher: { '@type': 'Organization', name: site.name },
+      author: { '@type': 'Organization', name: 'BeMama Editorial Team', url: `${site.origin}/about-bemama/` },
+      publisher: {
+        '@type': 'Organization',
+        name: site.name,
+        logo: { '@type': 'ImageObject', url: `${site.origin}/favicon-512.png` }
+      },
       ...(evidence?.updatedIso ? { dateModified: evidence.updatedIso } : {}),
       ...(evidence?.sources?.length ? { citation: evidence.sources.map((source) => source.url) } : {})
     },

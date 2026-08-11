@@ -813,6 +813,70 @@ html[dir="rtl"] .search-input {
 .app-cta .button:hover {
   background: rgba(255, 255, 255, 0.9);
 }
+.app-cta-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+}
+.store-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+.store-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 11px;
+  padding: 9px 18px 9px 14px;
+  min-height: 52px;
+  border-radius: 12px;
+  background: #0c1211;
+  color: #fff;
+  text-decoration: none;
+  border: 1px solid rgba(255, 255, 255, 0.28);
+  transition: transform 0.15s ease, background 0.15s ease;
+}
+.store-badge:hover {
+  background: #000;
+  transform: translateY(-1px);
+}
+.store-badge svg {
+  height: 26px;
+  width: auto;
+  flex: none;
+}
+.store-badge-text {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.15;
+  text-align: start;
+}
+.store-badge-text small {
+  font-size: 0.66rem;
+  font-weight: 500;
+  opacity: 0.85;
+  letter-spacing: 0.02em;
+}
+.store-badge-text strong {
+  font-size: 1.08rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+}
+.app-cta-weblink {
+  color: rgba(255, 255, 255, 0.92);
+  font-size: 0.9rem;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.app-cta-weblink:hover {
+  color: #fff;
+}
+.article-byline {
+  margin: 6px 0 0;
+  font-size: 0.88rem;
+  color: var(--ink-soft, #5c6b6a);
+}
 
 /* Related articles */
 .related {
