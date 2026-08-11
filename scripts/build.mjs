@@ -356,7 +356,10 @@ for (const language of languages) {
     JSON.stringify(searchEntries.filter((entry) => entry.lang === language.code))
   );
 }
-await writeFile(path.join(dist, 'sitemap.xml'), renderSitemap());
+for (const language of languages) {
+  await writeFile(path.join(dist, `sitemap-${language.code}.xml`), renderLocaleSitemap(language));
+}
+await writeFile(path.join(dist, 'sitemap.xml'), renderSitemapIndex());
 
 function renderPage(language, slug) {
   const t = content[language.code];
@@ -1703,7 +1706,7 @@ function flattenSearchText(value) {
   return [value];
 }
 
-function renderSitemap() {
+function renderLocaleSitemap(language) {
   const lastmod = new Date().toISOString().slice(0, 10);
   const priorityFor = (slug) => {
     if (slug === '') return '1.0';
@@ -1724,22 +1727,21 @@ function renderSitemap() {
       .map((l) => `    <xhtml:link rel="alternate" hreflang="${l.code}" href="${site.origin}${localizedPath(l.code, slug)}" />`)
       .concat(`    <xhtml:link rel="alternate" hreflang="x-default" href="${site.origin}${localizedPath('en', slug)}" />`)
       .join('\n');
-    for (const language of languages) {
-      const imageEntries =
-        slug === 'explore'
-          ? tourCollectionsFor(language.code)
-              .flatMap((collection) =>
-                collection.steps.map(
-                  (step) => `    <image:image>
+    const imageEntries =
+      slug === 'explore'
+        ? tourCollectionsFor(language.code)
+            .flatMap((collection) =>
+              collection.steps.map(
+                (step) => `    <image:image>
       <image:loc>${site.origin}/assets/tour/${escapeHtml(step.image)}</image:loc>
       <image:title>${escapeHtml(step.title)}</image:title>
       <image:caption>${escapeHtml(step.alt)}</image:caption>
     </image:image>`
-                )
               )
-              .join('\n')
-          : '';
-      entries.push(`  <url>
+            )
+            .join('\n')
+        : '';
+    entries.push(`  <url>
     <loc>${site.origin}${localizedPath(language.code, slug)}</loc>
     <lastmod>${lastmod}</lastmod>
     <changefreq>${changefreqFor(slug)}</changefreq>
@@ -1747,12 +1749,28 @@ function renderSitemap() {
 ${alternates}
 ${imageEntries}
   </url>`);
-    }
   }
   return `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 ${entries.join('\n')}
 </urlset>
+`;
+}
+
+function renderSitemapIndex() {
+  const lastmod = new Date().toISOString().slice(0, 10);
+  const items = languages
+    .map(
+      (language) => `  <sitemap>
+    <loc>${site.origin}/sitemap-${language.code}.xml</loc>
+    <lastmod>${lastmod}</lastmod>
+  </sitemap>`
+    )
+    .join('\n');
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${items}
+</sitemapindex>
 `;
 }
 
