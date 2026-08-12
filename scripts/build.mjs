@@ -39,6 +39,61 @@ const policyUpdatedLabels = {
   pt: 'Última atualização'
 };
 
+// Copy for the 404 page. nginx serves a static file per locale prefix, so each
+// language gets its own build output rather than detecting the locale in the
+// browser.
+const notFoundCopy = {
+  en: {
+    title: 'We can’t find that page',
+    lead: 'The link may be broken, or the page may have moved. Nothing is wrong on your side — here is how to pick up where you left off.',
+    searchTitle: 'Search the guides',
+    browseTitle: 'Or browse by stage',
+    home: 'Back to home'
+  },
+  fa: {
+    title: 'این صفحه پیدا نشد',
+    lead: 'ممکن است پیوند خراب باشد یا صفحه جابه‌جا شده باشد. مشکلی از سمت شما نیست — از اینجا می‌توانید ادامه دهید.',
+    searchTitle: 'جست‌وجو در راهنماها',
+    browseTitle: 'یا بر اساس مرحله مرور کنید',
+    home: 'بازگشت به خانه'
+  },
+  ar: {
+    title: 'لم نتمكّن من العثور على هذه الصفحة',
+    lead: 'قد يكون الرابط معطّلاً أو تم نقل الصفحة. لا توجد مشكلة من جانبك — يمكنك المتابعة من هنا.',
+    searchTitle: 'ابحث في الأدلة',
+    browseTitle: 'أو تصفّح حسب المرحلة',
+    home: 'العودة إلى الرئيسية'
+  },
+  fr: {
+    title: 'Cette page est introuvable',
+    lead: 'Le lien est peut-être rompu, ou la page a été déplacée. Rien ne cloche de votre côté — voici comment reprendre le fil.',
+    searchTitle: 'Rechercher dans les guides',
+    browseTitle: 'Ou parcourir par étape',
+    home: 'Retour à l’accueil'
+  },
+  tr: {
+    title: 'Bu sayfayı bulamadık',
+    lead: 'Bağlantı bozulmuş ya da sayfa taşınmış olabilir. Sizin tarafınızda bir sorun yok — kaldığınız yerden şöyle devam edebilirsiniz.',
+    searchTitle: 'Rehberlerde ara',
+    browseTitle: 'Ya da aşamaya göre göz atın',
+    home: 'Ana sayfaya dön'
+  },
+  es: {
+    title: 'No encontramos esa página',
+    lead: 'Puede que el enlace esté roto o que la página se haya movido. No hay ningún problema de tu parte: así puedes retomar el camino.',
+    searchTitle: 'Busca en las guías',
+    browseTitle: 'O explora por etapa',
+    home: 'Volver al inicio'
+  },
+  pt: {
+    title: 'Não encontramos essa página',
+    lead: 'O link pode estar quebrado ou a página pode ter sido movida. Não há nada errado do seu lado — veja como retomar de onde parou.',
+    searchTitle: 'Pesquise nos guias',
+    browseTitle: 'Ou navegue por etapa',
+    home: 'Voltar ao início'
+  }
+};
+
 // Store badge glyphs: Font Awesome Free (fontawesome.com) brand icons, CC BY 4.0.
 const appleGlyph = `<svg viewBox="0 0 384 512" aria-hidden="true" focusable="false"><path fill="currentColor" d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z"/></svg>`;
 const playGlyph = `<svg viewBox="0 0 512 512" aria-hidden="true" focusable="false"><path fill="currentColor" d="M325.3 234.3L104.6 13l280.8 161.2-60.1 60.1zM47 0C34 6.8 25.3 19.2 25.3 35.3v441.3c0 16.1 8.7 28.5 21.7 35.3l256.6-256L47 0zm425.2 225.6l-58.9-34.1-65.7 64.5 65.7 64.5 60.1-34.1c18-14.3 18-46.5-1.2-60.8zM104.6 499l280.8-161.2-60.1-60.1L104.6 499z"/></svg>`;
@@ -347,6 +402,13 @@ for (const language of languages) {
     await mkdir(directory, { recursive: true });
     await writeFile(path.join(directory, 'index.html'), html);
   }
+}
+
+for (const language of languages) {
+  const html = renderNotFoundPage(language).replace(/[ \t]+$/gm, '');
+  const directory = outputDirectory(language.code, '');
+  await mkdir(directory, { recursive: true });
+  await writeFile(path.join(directory, '404.html'), html);
 }
 
 const searchEntries = renderSearchIndex();
@@ -813,6 +875,81 @@ function renderBlock(block) {
     <h2>${escapeHtml(block.heading)}</h2>
     ${block.paragraphs.map((text) => `<p>${escapeHtml(text)}</p>`).join('')}
   </section>`;
+}
+
+// The 404 page is not part of allSlugs on purpose: it has no URL of its own, it
+// is what nginx returns for every unknown path under a locale prefix. That also
+// keeps it out of the sitemaps and the search index.
+function renderNotFoundPage(language) {
+  const lang = language.code;
+  const copy = notFoundCopy[lang] ?? notFoundCopy.en;
+  const title = `${copy.title} | ${site.name}`;
+  return `<!doctype html>
+<html lang="${lang}" dir="${language.dir}">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>${escapeHtml(title)}</title>
+    <meta name="description" content="${escapeHtml(copy.lead)}" />
+    <!-- Served under whatever path the visitor mistyped, so there is no honest
+         canonical to declare and nothing here should be indexed. "follow" keeps
+         the recovery links crawlable. -->
+    <meta name="robots" content="noindex, follow" />
+    <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png" />
+    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96.png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png" />
+    <link rel="icon" type="image/png" sizes="512x512" href="/favicon-512.png" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" sizes="any" />
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <meta name="theme-color" content="#399A97" />
+    <link rel="stylesheet" href="/assets/styles.css?v=${assetVersion}" />
+  </head>
+  <body>
+    ${renderHeader(language, '')}
+    ${renderNotFound(language)}
+    ${renderFooter(language)}
+    <script type="module" src="/assets/site-search.js?v=${assetVersion}"></script>
+    ${renderDeferredImageLoader()}
+  </body>
+</html>`;
+}
+
+function renderNotFound(language) {
+  const lang = language.code;
+  const copy = notFoundCopy[lang] ?? notFoundCopy.en;
+  const ui = tourUiFor(lang);
+  const cards = categories
+    .slice()
+    .sort((a, b) => a.order - b.order)
+    .map(
+      (category) => `<a class="notfound-card" href="${localizedPath(lang, category.slug)}">
+        <strong>${escapeHtml(pick(category.title, lang))}</strong>
+        <span>${escapeHtml(pick(category.blurb, lang))}</span>
+      </a>`
+    )
+    .join('');
+  return `<main class="notfound">
+  <section class="notfound-panel">
+    <span class="notfound-code" aria-hidden="true">404</span>
+    <h1>${escapeHtml(copy.title)}</h1>
+    <p class="notfound-lead">${escapeHtml(copy.lead)}</p>
+    <div class="action-row">
+      <a class="button" href="${localizedPath(lang, '')}">${escapeHtml(copy.home)}</a>
+      <a class="button secondary" href="${localizedPath(lang, 'explore')}">${escapeHtml(ui.navLabel)}</a>
+    </div>
+    <div class="notfound-search">
+      <h2>${escapeHtml(copy.searchTitle)}</h2>
+      ${renderSearch(language, 'notfound')}
+    </div>
+  </section>
+  <section class="notfound-browse">
+    <h2>${escapeHtml(copy.browseTitle)}</h2>
+    <div class="notfound-grid">${cards}</div>
+  </section>
+  ${renderAppCta(language)}
+</main>`;
 }
 
 function renderBreadcrumbs(language, trail) {

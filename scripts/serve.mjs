@@ -37,9 +37,19 @@ createServer(async (request, response) => {
       return;
     }
     let filePath = safePath;
+    let status = 200;
     if (!existsSync(filePath)) {
       const nestedIndex = path.join(safePath, 'index.html');
-      filePath = existsSync(nestedIndex) ? nestedIndex : path.join(dist, 'index.html');
+      if (existsSync(nestedIndex)) {
+        filePath = nestedIndex;
+      } else {
+        // Mirror nginx: the site is fully pre-rendered, so an unknown path is a
+        // real 404 served from the locale's 404 page - not a copy of the home
+        // page with a 200. Falling back to index.html here hid broken links
+        // locally until they showed up as soft 404s in Search Console.
+        filePath = notFoundPageFor(pathname);
+        status = 404;
+      }
     }
     const info = await stat(filePath);
     if (!info.isFile()) {
@@ -47,7 +57,7 @@ createServer(async (request, response) => {
       response.end('Not found');
       return;
     }
-    response.writeHead(200, {
+    response.writeHead(status, {
       'content-type': mimeTypes.get(path.extname(filePath)) ?? 'application/octet-stream',
       'cache-control': 'no-store'
     });
@@ -63,4 +73,13 @@ createServer(async (request, response) => {
 function argValue(name) {
   const index = process.argv.indexOf(name);
   return index >= 0 ? process.argv[index + 1] : undefined;
+}
+
+function notFoundPageFor(pathname) {
+  const locale = pathname.split('/')[1];
+  const localized = path.join(dist, locale, '404.html');
+  if (/^[a-z]{2}$/.test(locale) && existsSync(localized)) {
+    return localized;
+  }
+  return path.join(dist, '404.html');
 }
