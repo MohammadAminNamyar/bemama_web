@@ -40,7 +40,7 @@ export const content = {
       'This localized page is provided for convenience. If a translation conflicts with the English policy page, the English version controls to the extent permitted by law.',
     home: {
       eyebrow: 'Planning, pregnancy, baby, and child growth',
-      title: 'BeMama',
+      title: 'Care for every stage',
       copy: 'From planning to pregnancy to your baby’s first years — daily guidance, real answers, and a caring community, right when you need them.',
       updates: 'Get launch updates',
       downloadAndroid: 'Get it on Google Play',
@@ -218,7 +218,7 @@ export const content = {
     officialNotice: 'این صفحه ترجمه‌ای برای راحتی شماست. اگر ترجمه با نسخه انگلیسی تفاوت داشته باشد، تا حد مجاز قانون نسخه انگلیسی ملاک است.',
     home: {
       eyebrow: 'برنامه‌ریزی، بارداری، نوزاد و رشد کودک',
-      title: 'BeMama',
+      title: 'همراه شما در هر مرحله',
       copy: 'از برنامه‌ریزی تا بارداری و نخستین سال‌های کودک — راهنمایی روزانه، پاسخ‌های واقعی و جامعه‌ای همراه، درست همان وقتی که نیاز دارید.',
       updates: 'دریافت خبرهای راه‌اندازی',
       downloadAndroid: 'دریافت از Google Play',
@@ -261,7 +261,7 @@ export const content = {
     officialNotice: 'هذه الصفحة مترجمة للتسهيل. إذا تعارضت الترجمة مع النسخة الإنجليزية، تكون النسخة الإنجليزية هي المعتمدة بالقدر الذي يسمح به القانون.',
     home: {
       eyebrow: 'التخطيط، الحمل، رعاية الطفل، ونمو الطفل',
-      title: 'BeMama',
+      title: 'رعاية في كل مرحلة',
       copy: 'من التخطيط إلى الحمل حتى سنوات طفلك الأولى — إرشاد يومي وإجابات حقيقية ومجتمع داعم، في اللحظة التي تحتاجينها.',
       updates: 'تلقي أخبار الإطلاق',
       downloadAndroid: 'التنزيل من Google Play',
@@ -304,7 +304,7 @@ export const content = {
     officialNotice: 'Cette page localisée est fournie pour faciliter la lecture. En cas de conflit avec la version anglaise, la version anglaise prévaut dans la mesure permise par la loi.',
     home: {
       eyebrow: 'Planification, grossesse, bébé et croissance',
-      title: 'BeMama',
+      title: 'À vos côtés à chaque étape',
       copy: 'De la planification à la grossesse jusqu’aux premières années de bébé — des conseils quotidiens, de vraies réponses et une communauté bienveillante, au moment où vous en avez besoin.',
       updates: 'Recevoir les nouvelles',
       downloadAndroid: 'Télécharger sur Google Play',
@@ -347,7 +347,7 @@ export const content = {
     officialNotice: 'Bu yerelleştirilmiş sayfa kolaylık için sunulur. Çeviri ile İngilizce sürüm arasında fark varsa, yasaların izin verdiği ölçüde İngilizce sürüm geçerlidir.',
     home: {
       eyebrow: 'Planlama, hamilelik, bebek ve çocuk gelişimi',
-      title: 'BeMama',
+      title: 'Her aşamada yanınızda',
       copy: 'Planlamadan hamileliğe ve bebeğinizin ilk yıllarına — günlük rehberlik, gerçek yanıtlar ve sizi anlayan bir topluluk, tam ihtiyacınız olduğunda.',
       updates: 'Lansman haberleri al',
       downloadAndroid: 'Google Play’den indirin',
@@ -390,7 +390,7 @@ export const content = {
     officialNotice: 'Esta página localizada se ofrece para facilitar la lectura. Si una traducción entra en conflicto con la versión en inglés, prevalece la versión en inglés en la medida permitida por la ley.',
     home: {
       eyebrow: 'Planificación, embarazo, bebé y crecimiento infantil',
-      title: 'BeMama',
+      title: 'A tu lado en cada etapa',
       copy: 'De la planificación al embarazo y los primeros años de tu bebé: guía diaria, respuestas reales y una comunidad que te acompaña, justo cuando la necesitas.',
       updates: 'Recibir novedades',
       downloadAndroid: 'Descargar en Google Play',
@@ -433,7 +433,7 @@ export const content = {
     officialNotice: 'Esta página localizada é fornecida para conveniência. Se uma tradução entrar em conflito com a versão em inglês, a versão em inglês prevalece na medida permitida por lei.',
     home: {
       eyebrow: 'Planejamento, gravidez, bebê e crescimento infantil',
-      title: 'BeMama',
+      title: 'Cuidado em cada etapa',
       copy: 'Do planejamento à gravidez e aos primeiros anos do seu bebê — orientação diária, respostas reais e uma comunidade acolhedora, na hora em que você precisa.',
       updates: 'Receber novidades',
       downloadAndroid: 'Baixar no Google Play',

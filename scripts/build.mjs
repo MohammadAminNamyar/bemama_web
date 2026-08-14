@@ -633,21 +633,25 @@ function renderHome(language) {
   ];
   return `<main>
   <section class="hero">
-    <div class="hero-visual" aria-hidden="true">
-      <div class="hero-visual-panel">
-        ${heroCarousel()}
-      </div>
-    </div>
     <div class="hero-inner">
-      <div class="hero-copy-area">
-        <span class="eyebrow">${escapeHtml(h.eyebrow)}</span>
-        <h1>${escapeHtml(h.title)}</h1>
-        <p class="hero-copy">${escapeHtml(h.copy)}</p>
-        <div class="hero-actions">
-          <a class="button" href="${site.androidAppUrl}" target="_blank" rel="noopener">${escapeHtml(h.downloadAndroid || h.openAndroid)}</a>
-          <a class="button secondary" href="${site.iosAppUrl}" target="_blank" rel="noopener">${escapeHtml(h.downloadIos || h.openIos)}</a>
-          <a class="button secondary" href="${site.appUrl}" rel="noopener">${escapeHtml(h.openWeb)}</a>
-          <a class="button secondary" href="${localizedPath(language.code, 'explore')}">${escapeHtml(ui.navLabel)}</a>
+      <div class="hero-main">
+        <div class="hero-copy-area">
+          <span class="eyebrow">${escapeHtml(h.eyebrow)}</span>
+          <h1>${escapeHtml(h.title)}</h1>
+          <p class="hero-copy">${escapeHtml(h.copy)}</p>
+          <div class="hero-actions">
+            <a class="button" href="${localizedPath(language.code, 'explore')}">${escapeHtml(ui.navLabel)}</a>
+            <a class="button secondary" href="${site.appUrl}" rel="noopener">${escapeHtml(h.openWeb)}</a>
+          </div>
+          <div class="hero-store-links" aria-label="BeMama mobile apps">
+            <a class="hero-store-link" href="${site.androidAppUrl}" target="_blank" rel="noopener">${platformIcon('android')}<span>${escapeHtml(h.downloadAndroid || h.openAndroid)}</span></a>
+            <a class="hero-store-link" href="${site.iosAppUrl}" target="_blank" rel="noopener">${platformIcon('ios')}<span>${escapeHtml(h.downloadIos || h.openIos)}</span></a>
+          </div>
+        </div>
+        <div class="hero-visual" aria-hidden="true">
+          <div class="hero-visual-panel">
+            ${heroCarousel()}
+          </div>
         </div>
       </div>
       <div class="hero-proofbar" aria-label="BeMama care stages">
