@@ -780,7 +780,7 @@ html[dir="rtl"] .search-input {
 
 /* App CTA */
 .app-cta {
-  width: min(720px, calc(100% - 32px));
+  width: min(900px, calc(100% - 32px));
   margin: 30px auto;
   padding: 24px 26px;
   border-radius: 20px;
@@ -792,6 +792,23 @@ html[dir="rtl"] .search-input {
   gap: 18px;
   flex-wrap: wrap;
   box-shadow: var(--shadow);
+}
+.app-cta-media {
+  flex: 0 0 132px;
+  align-self: flex-end;
+  margin-block: -12px -24px;
+}
+.app-cta-media picture {
+  display: block;
+}
+.app-cta-image {
+  display: block;
+  width: 132px;
+  height: auto;
+}
+.app-cta-copy {
+  flex: 1 1 260px;
+  min-width: 0;
 }
 .app-cta-copy h2 {
   color: #fff;
@@ -816,6 +833,8 @@ html[dir="rtl"] .search-input {
 .app-cta-actions {
   display: flex;
   flex-direction: column;
+  flex: 0 1 286px;
+  min-width: 0;
   gap: 12px;
   align-items: flex-start;
 }
@@ -1028,6 +1047,12 @@ html[dir="rtl"] .search-input {
   .app-cta {
     flex-direction: column;
     align-items: flex-start;
+  }
+  .app-cta-media {
+    display: none;
+  }
+  .app-cta-actions {
+    width: 100%;
   }
 }
 

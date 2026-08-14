@@ -1618,6 +1618,32 @@ html[dir="rtl"] .tour-outro h2 {
   background: linear-gradient(140deg, var(--sage), var(--surface) 62%);
   padding: clamp(26px, 4vw, 48px);
   box-shadow: 0 18px 50px rgba(18, 58, 60, 0.08);
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(240px, 38%);
+  align-items: end;
+  gap: clamp(18px, 4vw, 44px);
+}
+
+.notfound-panel-copy {
+  position: relative;
+  z-index: 1;
+  min-width: 0;
+}
+
+.notfound-art {
+  position: relative;
+  z-index: 1;
+  align-self: end;
+  justify-self: end;
+  width: min(100%, 390px);
+  margin-block-end: clamp(-34px, -3vw, -18px);
+}
+
+.notfound-art picture,
+.notfound-art-image {
+  display: block;
+  width: 100%;
+  height: auto;
 }
 
 /* Decorative, so it stays out of the accessibility tree and sits behind the
@@ -1732,6 +1758,16 @@ html[dir="rtl"] .tour-outro h2 {
 
   .notfound-code {
     inset-inline-end: -6px;
+  }
+
+  .notfound-panel {
+    grid-template-columns: 1fr;
+  }
+
+  .notfound-art {
+    justify-self: center;
+    width: min(100%, 340px);
+    margin-block-end: -22px;
   }
 }
 

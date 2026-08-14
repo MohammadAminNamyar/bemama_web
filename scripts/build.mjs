@@ -828,11 +828,11 @@ function renderProductTour(language) {
 
 function heroCarousel() {
   const images = [
-    ['pregnancy-rest.png', 'Expectant mother resting calmly'],
-    ['pregnancy-planning.png', 'Woman planning her pregnancy journey'],
-    ['baby-care.png', 'Parent caring for a newborn baby'],
-    ['daily-care.png', 'Daily care and guidance with BeMama'],
-    ['child-growth.png', 'Mother supporting her child’s growth']
+    ['pregnancy-rest.png', 'Pregnant BeMama mother resting while her partner brings her water'],
+    ['pregnancy-planning.png', 'BeMama couple planning their pregnancy with a calendar'],
+    ['baby-care.png', 'BeMama parents gently wrapping their newborn in a blanket'],
+    ['daily-care.png', 'BeMama family preparing a healthy snack together'],
+    ['child-growth.png', 'BeMama toddler taking first steps between encouraging parents']
   ];
   return `<div class="hero-carousel">
     ${images
@@ -932,16 +932,21 @@ function renderNotFound(language) {
     .join('');
   return `<main class="notfound">
   <section class="notfound-panel">
-    <span class="notfound-code" aria-hidden="true">404</span>
-    <h1>${escapeHtml(copy.title)}</h1>
-    <p class="notfound-lead">${escapeHtml(copy.lead)}</p>
-    <div class="action-row">
-      <a class="button" href="${localizedPath(lang, '')}">${escapeHtml(copy.home)}</a>
-      <a class="button secondary" href="${localizedPath(lang, 'explore')}">${escapeHtml(ui.navLabel)}</a>
+    <div class="notfound-panel-copy">
+      <span class="notfound-code" aria-hidden="true">404</span>
+      <h1>${escapeHtml(copy.title)}</h1>
+      <p class="notfound-lead">${escapeHtml(copy.lead)}</p>
+      <div class="action-row">
+        <a class="button" href="${localizedPath(lang, '')}">${escapeHtml(copy.home)}</a>
+        <a class="button secondary" href="${localizedPath(lang, 'explore')}">${escapeHtml(ui.navLabel)}</a>
+      </div>
+      <div class="notfound-search">
+        <h2>${escapeHtml(copy.searchTitle)}</h2>
+        ${renderSearch(language, 'notfound')}
+      </div>
     </div>
-    <div class="notfound-search">
-      <h2>${escapeHtml(copy.searchTitle)}</h2>
-      ${renderSearch(language, 'notfound')}
+    <div class="notfound-art" aria-hidden="true">
+      ${imageMarkup('/assets/characters/not-found.png', '', { className: 'notfound-art-image' })}
     </div>
   </section>
   <section class="notfound-browse">
@@ -975,6 +980,9 @@ function renderAppCta(language) {
   const strings = hubText(language.code);
   const labels = badgeSmallLabels[language.code] ?? badgeSmallLabels.en;
   return `<aside class="app-cta">
+    <div class="app-cta-media" aria-hidden="true">
+      ${imageMarkup('/assets/characters/app-cta.png', '', { className: 'app-cta-image' })}
+    </div>
     <div class="app-cta-copy">
       <h2>${escapeHtml(strings.ctaTitle)}</h2>
       <p>${escapeHtml(strings.ctaText)}</p>

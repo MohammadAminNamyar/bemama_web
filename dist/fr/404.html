@@ -18,13 +18,13 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     <link rel="manifest" href="/site.webmanifest" />
     <meta name="theme-color" content="#399A97" />
-    <link rel="stylesheet" href="/assets/styles.css?v=20260812235007949" />
+    <link rel="stylesheet" href="/assets/styles.css?v=20260814164738119" />
   </head>
   <body>
     <header class="site-header">
   <div class="nav">
     <a class="brand" href="/fr/" aria-label="BeMama home">
-      <picture><source srcset="/assets/bemama_logo_mark.webp?v=20260812235007949" type="image/webp" /><img src="/assets/bemama_logo_mark.png?v=20260812235007949" alt="BeMama" width="1024" height="1024" loading="eager" decoding="async" /></picture>
+      <picture><source srcset="/assets/bemama_logo_mark.webp?v=20260814164738119" type="image/webp" /><img src="/assets/bemama_logo_mark.png?v=20260814164738119" alt="BeMama" width="1024" height="1024" loading="eager" decoding="async" /></picture>
       <span>BeMama</span>
     </a>
     <nav class="primary-nav" aria-label="Accueil">
@@ -133,16 +133,17 @@
 </header>
     <main class="notfound">
   <section class="notfound-panel">
-    <span class="notfound-code" aria-hidden="true">404</span>
-    <h1>Cette page est introuvable</h1>
-    <p class="notfound-lead">Le lien est peut-être rompu, ou la page a été déplacée. Rien ne cloche de votre côté — voici comment reprendre le fil.</p>
-    <div class="action-row">
-      <a class="button" href="/fr/">Retour à l’accueil</a>
-      <a class="button secondary" href="/fr/explore/">Découvrir l’app</a>
-    </div>
-    <div class="notfound-search">
-      <h2>Rechercher dans les guides</h2>
-      <form class="site-search is-mobile" role="search" data-site-search data-search-lang="fr" data-empty-message="Saisissez au moins 2 caractères" data-no-results-message="Aucun guide correspondant" data-results-label="résultats">
+    <div class="notfound-panel-copy">
+      <span class="notfound-code" aria-hidden="true">404</span>
+      <h1>Cette page est introuvable</h1>
+      <p class="notfound-lead">Le lien est peut-être rompu, ou la page a été déplacée. Rien ne cloche de votre côté — voici comment reprendre le fil.</p>
+      <div class="action-row">
+        <a class="button" href="/fr/">Retour à l’accueil</a>
+        <a class="button secondary" href="/fr/explore/">Découvrir l’app</a>
+      </div>
+      <div class="notfound-search">
+        <h2>Rechercher dans les guides</h2>
+        <form class="site-search is-mobile" role="search" data-site-search data-search-lang="fr" data-empty-message="Saisissez au moins 2 caractères" data-no-results-message="Aucun guide correspondant" data-results-label="résultats">
       <label class="sr-only" for="site-search-fr-notfound">Rechercher dans BeMama</label>
       <div class="search-control">
         <input id="site-search-fr-notfound" class="search-input" type="search" autocomplete="off" placeholder="Rechercher des guides" aria-controls="site-search-fr-notfound-results" aria-expanded="false" data-search-input />
@@ -152,6 +153,10 @@
         <div class="search-result-list" data-search-list></div>
       </div>
     </form>
+      </div>
+    </div>
+    <div class="notfound-art" aria-hidden="true">
+      <picture><source srcset="/assets/characters/not-found.webp?v=20260814164738119" type="image/webp" /><img class="notfound-art-image" src="/assets/characters/not-found.png?v=20260814164738119" alt="" width="720" height="480" loading="lazy" decoding="async" /></picture>
     </div>
   </section>
   <section class="notfound-browse">
@@ -177,6 +182,9 @@
       </a></div>
   </section>
   <aside class="app-cta">
+    <div class="app-cta-media" aria-hidden="true">
+      <picture><source srcset="/assets/characters/app-cta.webp?v=20260814164738119" type="image/webp" /><img class="app-cta-image" src="/assets/characters/app-cta.png?v=20260814164738119" alt="" width="320" height="320" loading="lazy" decoding="async" /></picture>
+    </div>
     <div class="app-cta-copy">
       <h2>Emportez BeMama avec vous</h2>
       <p>Des conseils quotidiens adaptés à votre étape, une communauté bienveillante et des outils pratiques dans une seule application sereine.</p>
@@ -213,7 +221,7 @@
     </div>
   </div>
 </footer>
-    <script type="module" src="/assets/site-search.js?v=20260812235007949"></script>
+    <script type="module" src="/assets/site-search.js?v=20260814164738119"></script>
     <script>
 (() => {
   const loadDeferredImages = () => {
