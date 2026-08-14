@@ -652,7 +652,7 @@ function renderHome(language) {
       </div>
       <div class="hero-proofbar" aria-label="BeMama care stages">
         ${proofItem('hero_planning.png', h.journeys[0], h.features[0][0])}
-        ${proofItem('app_daily_plan.png', h.journeys[1], h.phoneTitle)}
+        ${proofItem('hero_pregnancy.png', h.journeys[1], h.phoneTitle)}
         ${proofItem('hero_baby.png', h.journeys[2], h.qnaTitle)}
         ${proofItem('hero_child.png', h.journeys[3], h.features[2][0])}
       </div>

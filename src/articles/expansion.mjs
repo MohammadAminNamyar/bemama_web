@@ -418,9 +418,85 @@ function makeArticle(category, topicDef) {
 
 const generatedHeroByArticle = {
   'ttc/preconception-appointment': 'content/generated-ttc-preconception-appointment.jpg',
+  'ttc/menstrual-cycle-basics': 'content/generated-ttc-menstrual-cycle-basics.jpg',
+  'ttc/ovulation-signs': 'content/generated-ttc-ovulation-signs.jpg',
+  'ttc/fertile-window-timing': 'content/generated-ttc-cycle-planning.png',
+  'ttc/ovulation-tests': 'content/generated-ttc-pcos-tracking.png',
+  'ttc/basal-body-temperature': 'content/ttc-journal.jpg',
+  'ttc/cervical-mucus': 'content/ttc-writing-card.jpg',
+  'ttc/prenatal-vitamins-before-pregnancy': 'content/ttc-folic-acid.jpg',
+  'ttc/folic-acid-basics': 'content/generated-ttc-medication-review.png',
+  'ttc/fertility-friendly-nutrition': 'content/generated-ttc-nourishing-dinner.png',
+  'ttc/caffeine-alcohol-ttc': 'content/ttc-nutrition.jpg',
+  'ttc/partner-health-sperm': 'content/ttc-male-fertility.jpg',
+  'ttc/early-pregnancy-signs': 'content/ttc-writing-card.jpg',
+  'ttc/pregnancy-test-timing': 'content/generated-ttc-negative-test.png',
+  'ttc/irregular-cycles-ttc': 'content/generated-ttc-pcos-tracking.png',
+  'ttc/when-to-seek-fertility-help': 'content/ttc-specialist.jpg',
+  'pregnancy/pregnancy-weeks-4-8': 'content/preg-first-trimester.jpg',
+  'pregnancy/pregnancy-weeks-9-12': 'content/generated-pregnancy-nausea-remedies.jpg',
+  'pregnancy/pregnancy-weeks-13-16': 'content/preg-exercise.jpg',
+  'pregnancy/pregnancy-weeks-17-20': 'content/preg-second-trimester.jpg',
+  'pregnancy/pregnancy-weeks-21-24': 'content/preg-breathing.jpg',
+  'pregnancy/pregnancy-weeks-25-28': 'content/generated-pregnancy-healthy-gain.png',
+  'pregnancy/pregnancy-weeks-29-32': 'content/preg-third-trimester.jpg',
+  'pregnancy/pregnancy-weeks-33-36': 'content/preg-hospital-bag.jpg',
+  'pregnancy/pregnancy-weeks-37-40': 'content/preg-birth-plan.jpg',
   'pregnancy/nausea-remedies': 'content/generated-pregnancy-nausea-remedies.jpg',
+  'pregnancy/heartburn-during-pregnancy': 'content/preg-symptoms.jpg',
+  'pregnancy/constipation-during-pregnancy': 'content/preg-nutrition.jpg',
+  'pregnancy/pelvic-pain-round-ligament': 'content/generated-pregnancy-pelvic-floor.png',
+  'pregnancy/prenatal-visit-schedule': 'content/generated-pregnancy-appointment-folder.png',
+  'pregnancy/blood-tests-screening': 'content/preg-prenatal-care.jpg',
+  'pregnancy/anatomy-scan-guide': 'content/preg-second-trimester.jpg',
+  'pregnancy/glucose-test-guide': 'content/generated-pregnancy-glucose-support.png',
+  'pregnancy/blood-pressure-preeclampsia': 'content/generated-pregnancy-headache-warning.png',
+  'pregnancy/vaccines-during-pregnancy': 'content/preg-warning-signs.jpg',
+  'pregnancy/safe-medicines-pregnancy': 'content/generated-ttc-medication-review.png',
+  'pregnancy/sleep-positions-pregnancy': 'content/preg-rest.jpg',
+  'pregnancy/travel-during-pregnancy': 'content/preg-tote.jpg',
+  'pregnancy/work-and-maternity-leave': 'content/preg-mental-health.jpg',
+  'pregnancy/baby-movement-patterns': 'content/preg-exercise.jpg',
+  'pregnancy/preparing-for-labor': 'content/preg-breathing.jpg',
+  'pregnancy/signs-of-labor': 'content/preg-warning-signs.jpg',
+  'pregnancy/c-section-basics': 'content/preg-birth-plan.jpg',
+  'pregnancy/postpartum-plan': 'content/newborn-postpartum.jpg',
+  'newborn/first-24-hours': 'content/newborn-basics.jpg',
+  'newborn/feeding-cues': 'content/newborn-breastfeeding.jpg',
+  'newborn/latch-basics': 'content/generated-newborn-shared-care.png',
+  'newborn/pumping-storing-milk': 'content/generated-newborn-pumping.jpg',
+  'newborn/formula-prep-safety': 'content/newborn-formula.jpg',
+  'newborn/diaper-output': 'content/newborn-changing-table.jpg',
+  'newborn/newborn-poop': 'content/generated-newborn-poop-changes.jpg',
+  'newborn/jaundice-basics': 'content/newborn-cord-skin.jpg',
+  'newborn/newborn-fever': 'content/generated-newborn-fever.jpg',
   'newborn/safe-sleep-room-sharing': 'content/generated-newborn-safe-sleep-room-sharing.jpg',
-  'child/starting-solids-allergens': 'content/generated-child-starting-solids-allergens.jpg'
+  'newborn/swaddling-safety': 'content/generated-newborn-swaddling.jpg',
+  'newborn/crying-and-colic': 'content/newborn-soothing.jpg',
+  'newborn/pacifier-basics': 'content/newborn-cradle.jpg',
+  'newborn/newborn-skin-rashes': 'content/newborn-cord-skin.jpg',
+  'newborn/newborn-nail-care': 'content/newborn-bathing.jpg',
+  'newborn/first-doctor-visit': 'content/generated-newborn-first-doctor.jpg',
+  'newborn/tummy-time-newborn': 'content/newborn-development.jpg',
+  'newborn/parent-rest-newborn': 'content/newborn-postpartum.jpg',
+  'child/two-month-milestones': 'content/child-milestones.jpg',
+  'child/four-month-milestones': 'content/child-first-steps.jpg',
+  'child/six-month-milestones': 'content/child-reaching-toy.jpg',
+  'child/nine-month-milestones': 'content/generated-child-independent-play.png',
+  'child/twelve-month-milestones': 'content/child-blocks-book.jpg',
+  'child/sleep-regressions': 'content/child-sleep-training.jpg',
+  'child/nap-transitions': 'content/generated-child-early-waking.png',
+  'child/starting-solids-allergens': 'content/generated-child-starting-solids-allergens.jpg',
+  'child/finger-foods': 'content/generated-child-finger-foods.jpg',
+  'child/cup-and-water': 'content/generated-child-cup-practice.jpg',
+  'child/teething-comfort': 'content/child-teething.jpg',
+  'child/babyproofing-basics': 'content/child-reaching-toy.jpg',
+  'child/car-seat-basics': 'content/generated-child-car-seat.jpg',
+  'child/language-games': 'content/generated-child-language-games.jpg',
+  'child/separation-anxiety': 'content/child-positive-parenting.jpg',
+  'child/toddler-tantrums': 'content/generated-child-toddler-tantrums.jpg',
+  'child/daycare-transition': 'content/child-blocks-book.jpg',
+  'child/potty-readiness': 'content/child-potty-training.jpg'
 };
 
 function heroForArticle(category, slug) {
@@ -1076,9 +1152,10 @@ function makeTool(def) {
 }
 
 function heroForTool(id) {
-  if (id === 'ovulation-calculator') return 'content/ttc-ovulation.jpg';
+  if (id === 'ovulation-calculator') return 'content/tool-ovulation-planning.jpg';
   if (id === 'preconception-checklist') return 'content/ttc-preparing.jpg';
-  if (['due-date-calculator', 'pregnancy-week-lookup'].includes(id)) return 'content/preg-first-trimester.jpg';
+  if (id === 'due-date-calculator') return 'content/preg-first-trimester.jpg';
+  if (id === 'pregnancy-week-lookup') return 'content/generated-pregnancy-appointment-folder.png';
   if (id === 'appointment-symptom-calendar') return 'content/preg-prenatal-care.jpg';
   if (id === 'hospital-bag-checklist') return 'content/preg-hospital-bag.jpg';
   if (id === 'baby-name-shortlist') return 'content/ttc-writing-card.jpg';
@@ -1086,7 +1163,7 @@ function heroForTool(id) {
   if (id === 'newborn-care-checklist') return 'content/newborn-basics.jpg';
   if (id === 'milestone-tracker') return 'content/child-milestones.jpg';
   if (id === 'growth-log') return 'content/newborn-development.jpg';
-  if (id === 'solids-planner') return 'content/child-solids.jpg';
+  if (id === 'solids-planner') return 'content/tool-solids-planner.jpg';
   if (id === 'toddler-activity-picker') return 'content/child-blocks-book.jpg';
   return 'content/app-tools.jpg';
 }

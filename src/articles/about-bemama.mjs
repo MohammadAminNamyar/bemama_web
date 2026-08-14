@@ -32,7 +32,7 @@ export const appArticles = [
           },
           {
             heading: 'Guidance, community, and tools in one place',
-            image: 'app_community.png',
+            image: 'content/app-why-bemama-community.jpg',
             paragraphs: [
               'BeMama brings three kinds of support together. The Daily Journey offers stage-based daily content and small, doable actions. Q&A and community spaces let you ask questions and connect with people walking the same path. Practical tools — calculators and trackers — handle the bookkeeping as they become available for each stage.',
               'Each piece supports the others. A question raised in the community might be answered by a Daily Journey article; a tracker might prompt a question worth asking your provider. Together they make the journey feel organized instead of overwhelming.'
@@ -99,7 +99,7 @@ export const appArticles = [
           },
           {
             heading: 'A daily rhythm of content and small actions',
-            image: 'app_daily_plan.png',
+            image: 'content/app-daily-journey-detail.jpg',
             paragraphs: [
               'Each day, the Daily Journey surfaces organized content relevant to your stage: what is happening in your body or your baby’s development, what tends to matter right now, and gentle reminders worth acting on.',
               'Alongside the reading, it suggests small, concrete actions — the kind that take minutes, not afternoons. A note to log something, a topic to think about, a question worth raising at your next appointment.'
@@ -173,7 +173,7 @@ export const appArticles = [
           },
           {
             heading: 'Supportive, moderated spaces',
-            image: 'app_qna_support.png',
+            image: 'content/app-qa-community-detail.jpg',
             paragraphs: [
               'BeMama’s community spaces are moderated. Content and behavior that harass, shame, mislead, or endanger others can be reported, reviewed, and acted on — because a support space only works when it stays safe.',
               'Moderation is not about silencing disagreement; it is about keeping the room kind. Different choices and different experiences are welcome. Cruelty and dangerous misinformation are not.'
