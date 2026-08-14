@@ -98,6 +98,62 @@ const notFoundCopy = {
 const appleGlyph = `<svg viewBox="0 0 384 512" aria-hidden="true" focusable="false"><path fill="currentColor" d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z"/></svg>`;
 const playGlyph = `<svg viewBox="0 0 512 512" aria-hidden="true" focusable="false"><path fill="currentColor" d="M325.3 234.3L104.6 13l280.8 161.2-60.1 60.1zM47 0C34 6.8 25.3 19.2 25.3 35.3v441.3c0 16.1 8.7 28.5 21.7 35.3l256.6-256L47 0zm425.2 225.6l-58.9-34.1-65.7 64.5 65.7 64.5 60.1-34.1c18-14.3 18-46.5-1.2-60.8zM104.6 499l280.8-161.2-60.1-60.1L104.6 499z"/></svg>`;
 
+// Alt text for the homepage hero illustrations. The carousel sits inside an
+// aria-hidden container (the hero already carries its own heading and copy),
+// so these are not announced by screen readers - they are what image search
+// reads, which is why they are localized rather than left in English.
+const heroCarouselAlts = {
+  en: {
+    pregnancyRest: 'Pregnant BeMama mother resting on the sofa while her partner brings her a glass of water',
+    pregnancyPlanning: 'BeMama couple marking dates together on a calendar at their kitchen table',
+    babyCare: 'BeMama parents in the nursery holding their swaddled newborn',
+    dailyCare: 'BeMama family preparing a bowl of fruit together while their toddler stirs',
+    childGrowth: 'BeMama toddler taking first steps between two encouraging parents'
+  },
+  fa: {
+    pregnancyRest: 'مادر باردار بی‌ماما روی مبل استراحت می‌کند و همسرش برایش لیوان آب می‌آورد',
+    pregnancyPlanning: 'زوج بی‌ماما دور میز آشپزخانه با هم تاریخ‌ها را روی تقویم علامت می‌زنند',
+    babyCare: 'والدین بی‌ماما در اتاق کودک، نوزاد قنداق‌شده‌شان را در آغوش گرفته‌اند',
+    dailyCare: 'خانواده بی‌ماما با هم کاسه‌ای میوه آماده می‌کنند و کودک نوپا آن را هم می‌زند',
+    childGrowth: 'کودک نوپای بی‌ماما میان پدر و مادر مشوقش اولین قدم‌ها را برمی‌دارد'
+  },
+  ar: {
+    pregnancyRest: 'أم حامل من بي‌ماما ترتاح على الأريكة بينما يحضر لها شريكها كوب ماء',
+    pregnancyPlanning: 'زوجان من بي‌ماما يحددان المواعيد معًا على التقويم حول طاولة المطبخ',
+    babyCare: 'والدان من بي‌ماما في غرفة الطفل يحتضنان مولودهما الملفوف',
+    dailyCare: 'عائلة بي‌ماما تحضّر طبقًا من الفاكهة معًا بينما يقلّبه طفلهما الصغير',
+    childGrowth: 'طفل بي‌ماما الصغير يخطو خطواته الأولى بين والدين يشجعانه'
+  },
+  fr: {
+    pregnancyRest: 'Maman enceinte BeMama se reposant sur le canapé pendant que son partenaire lui apporte un verre d’eau',
+    pregnancyPlanning: 'Couple BeMama notant ensemble des dates sur un calendrier à la table de la cuisine',
+    babyCare: 'Parents BeMama dans la chambre de bébé tenant leur nouveau-né emmailloté',
+    dailyCare: 'Famille BeMama préparant ensemble un bol de fruits pendant que leur tout-petit mélange',
+    childGrowth: 'Tout-petit BeMama faisant ses premiers pas entre ses deux parents encourageants'
+  },
+  tr: {
+    pregnancyRest: 'Hamile BeMama annesi kanepede dinlenirken eşi ona bir bardak su getiriyor',
+    pregnancyPlanning: 'BeMama çifti mutfak masasında birlikte takvime tarihler işaretliyor',
+    babyCare: 'BeMama ebeveynleri bebek odasında kundaklanmış yenidoğanlarını kucaklıyor',
+    dailyCare: 'BeMama ailesi birlikte meyve kâsesi hazırlarken küçük çocukları karıştırıyor',
+    childGrowth: 'BeMama’nın küçük çocuğu onu yüreklendiren iki ebeveyni arasında ilk adımlarını atıyor'
+  },
+  es: {
+    pregnancyRest: 'Mamá embarazada de BeMama descansando en el sofá mientras su pareja le trae un vaso de agua',
+    pregnancyPlanning: 'Pareja de BeMama marcando fechas juntos en un calendario en la mesa de la cocina',
+    babyCare: 'Padres de BeMama en la habitación del bebé sosteniendo a su recién nacido envuelto',
+    dailyCare: 'Familia de BeMama preparando juntos un bol de fruta mientras su peque lo remueve',
+    childGrowth: 'Peque de BeMama dando sus primeros pasos entre sus dos padres que lo animan'
+  },
+  pt: {
+    pregnancyRest: 'Mãe grávida da BeMama descansando no sofá enquanto o parceiro lhe traz um copo de água',
+    pregnancyPlanning: 'Casal da BeMama marcando datas juntos em um calendário na mesa da cozinha',
+    babyCare: 'Pais da BeMama no quarto do bebê segurando o recém-nascido enrolado',
+    dailyCare: 'Família da BeMama preparando junta uma tigela de frutas enquanto a criança mexe',
+    childGrowth: 'Criança da BeMama dando os primeiros passos entre os dois pais que a incentivam'
+  }
+};
+
 const badgeSmallLabels = {
   en: { ios: 'Download on the', android: 'Get it on' },
   fa: { ios: 'دریافت از', android: 'دریافت از' },
@@ -650,7 +706,7 @@ function renderHome(language) {
         </div>
         <div class="hero-visual" aria-hidden="true">
           <div class="hero-visual-panel">
-            ${heroCarousel()}
+            ${heroCarousel(language)}
           </div>
         </div>
       </div>
@@ -830,13 +886,14 @@ function renderProductTour(language) {
   </main>`;
 }
 
-function heroCarousel() {
+function heroCarousel(language) {
+  const alts = heroCarouselAlts[language.code] ?? heroCarouselAlts.en;
   const images = [
-    ['pregnancy-rest.png', 'Pregnant BeMama mother resting while her partner brings her water'],
-    ['pregnancy-planning.png', 'BeMama couple planning their pregnancy with a calendar'],
-    ['baby-care.png', 'BeMama parents gently wrapping their newborn in a blanket'],
-    ['daily-care.png', 'BeMama family preparing a healthy snack together'],
-    ['child-growth.png', 'BeMama toddler taking first steps between encouraging parents']
+    ['pregnancy-rest.png', alts.pregnancyRest],
+    ['pregnancy-planning.png', alts.pregnancyPlanning],
+    ['baby-care.png', alts.babyCare],
+    ['daily-care.png', alts.dailyCare],
+    ['child-growth.png', alts.childGrowth]
   ];
   return `<div class="hero-carousel">
     ${images
