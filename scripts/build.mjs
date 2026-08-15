@@ -1457,8 +1457,15 @@ function trustTile(icon, title, text) {
 
 function videoPreview(src, label, orientation) {
   const poster = src.replace(/\.mp4$/, '-poster.webp');
+  // Without intrinsic dimensions the browser reserves no space for the video
+  // until its poster decodes, so the whole page jumps when it arrives. That
+  // single omission was worth a Cumulative Layout Shift of 1.0 (good is
+  // below 0.1). Take the size from the poster file itself so the aspect ratio
+  // always matches the real asset.
+  const size = imageDimensions(poster);
+  const dimensions = size ? ` width="${size.width}" height="${size.height}"` : '';
   return `<figure class="ad-video-card is-${orientation}">
-    <video controls muted loop playsinline preload="none" poster="${versionedAsset(poster)}" aria-label="${escapeHtml(label)}">
+    <video controls muted loop playsinline preload="none"${dimensions} poster="${versionedAsset(poster)}" aria-label="${escapeHtml(label)}">
       <source src="${versionedAsset(src)}" type="video/mp4" />
     </video>
   </figure>`;
@@ -1674,9 +1681,46 @@ function imageDimensions(src) {
     size = { width: bytes.readUInt32BE(16), height: bytes.readUInt32BE(20) };
   } else if (bytes.length > 4 && bytes[0] === 0xff && bytes[1] === 0xd8) {
     size = jpegDimensions(bytes);
+  } else if (
+    bytes.length > 30 &&
+    bytes.toString('ascii', 0, 4) === 'RIFF' &&
+    bytes.toString('ascii', 8, 12) === 'WEBP'
+  ) {
+    size = webpDimensions(bytes);
   }
   imageSizeCache.set(src, size);
   return size;
+}
+
+/// WebP comes in three container flavours and each stores its size
+/// differently. Without this every .webp fell through as "unknown", so the
+/// build emitted no width/height for them - which is how the video preview
+/// ended up unsized and shifting the whole page.
+function webpDimensions(bytes) {
+  const format = bytes.toString('ascii', 12, 16);
+  if (format === 'VP8 ') {
+    // Lossy: 14-bit dimensions after the start code.
+    return {
+      width: bytes.readUInt16LE(26) & 0x3fff,
+      height: bytes.readUInt16LE(28) & 0x3fff
+    };
+  }
+  if (format === 'VP8L') {
+    // Lossless: 14-bit each, packed across four bytes after the signature.
+    const bits = bytes.readUInt32LE(21);
+    return {
+      width: (bits & 0x3fff) + 1,
+      height: ((bits >> 14) & 0x3fff) + 1
+    };
+  }
+  if (format === 'VP8X') {
+    // Extended: 24-bit canvas size, stored minus one.
+    return {
+      width: (bytes[24] | (bytes[25] << 8) | (bytes[26] << 16)) + 1,
+      height: (bytes[27] | (bytes[28] << 8) | (bytes[29] << 16)) + 1
+    };
+  }
+  return undefined;
 }
 
 function jpegDimensions(bytes) {
