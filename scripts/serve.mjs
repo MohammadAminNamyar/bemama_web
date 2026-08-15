@@ -3,6 +3,7 @@ import { stat } from 'node:fs/promises';
 import { createServer } from 'node:http';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
+import { createGzip } from 'node:zlib';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const dist = path.join(root, 'dist');
@@ -18,10 +19,13 @@ const mimeTypes = new Map([
   ['.svg', 'image/svg+xml'],
   ['.png', 'image/png'],
   ['.ico', 'image/x-icon'],
+  ['.avif', 'image/avif'],
   ['.webp', 'image/webp'],
   ['.txt', 'text/plain; charset=utf-8'],
   ['.xml', 'application/xml; charset=utf-8']
 ]);
+
+const compressibleExtensions = new Set(['.html', '.css', '.js', '.json', '.webmanifest', '.svg', '.txt', '.xml']);
 
 createServer(async (request, response) => {
   try {
@@ -57,11 +61,23 @@ createServer(async (request, response) => {
       response.end('Not found');
       return;
     }
-    response.writeHead(status, {
-      'content-type': mimeTypes.get(path.extname(filePath)) ?? 'application/octet-stream',
-      'cache-control': 'no-store'
-    });
-    createReadStream(filePath).pipe(response);
+    const extension = path.extname(filePath);
+    const shouldGzip = compressibleExtensions.has(extension) && /(?:^|,)\s*gzip\s*(?:,|$)/i.test(request.headers['accept-encoding'] ?? '');
+    const headers = {
+      'content-type': mimeTypes.get(extension) ?? 'application/octet-stream',
+      'cache-control': 'no-store',
+      'vary': 'Accept-Encoding'
+    };
+    if (shouldGzip) {
+      headers['content-encoding'] = 'gzip';
+    }
+    response.writeHead(status, headers);
+    const stream = createReadStream(filePath);
+    if (shouldGzip) {
+      stream.pipe(createGzip()).pipe(response);
+    } else {
+      stream.pipe(response);
+    }
   } catch (error) {
     response.writeHead(500);
     response.end(error instanceof Error ? error.message : 'Server error');

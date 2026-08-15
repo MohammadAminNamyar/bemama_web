@@ -42,15 +42,14 @@
     <meta name="twitter:description" content="Planificador de sólidos: herramienta BeMama en el navegador para planificar, seguir u organizar cuidados. Los datos guardados se quedan en este dispositivo." />
     <meta name="twitter:image" content="https://bemamas.com/assets/content/tool-solids-planner.jpg" />
     <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebApplication","name":"Planificador de sólidos","description":"Planificador de sólidos: herramienta BeMama en el navegador para planificar, seguir u organizar cuidados. Los datos guardados se quedan en este dispositivo.","image":"https://bemamas.com/assets/content/tool-solids-planner.jpg","inLanguage":"es","url":"https://bemamas.com/es/tools/solids-planner/","applicationCategory":"HealthApplication","operatingSystem":"Any","publisher":{"@type":"Organization","name":"BeMama"},"offers":{"@type":"Offer","price":"0","priceCurrency":"USD"}},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Inicio","item":"https://bemamas.com/es/"},{"@type":"ListItem","position":2,"name":"Herramientas","item":"https://bemamas.com/es/tools/"},{"@type":"ListItem","position":3,"name":"Planificador de sólidos","item":"https://bemamas.com/es/tools/solids-planner/"}]}]}</script>
-    <link rel="preload" as="image" href="/assets/content/tool-solids-planner.webp?v=20260815225704099" type="image/webp" fetchpriority="high" />
-    <link rel="preload" as="style" href="/assets/styles.css?v=20260815225704099" onload="this.onload=null;this.rel='stylesheet'" />
-    <noscript><link rel="stylesheet" href="/assets/styles.css?v=20260815225704099" /></noscript>
+    <link rel="preload" as="image" href="/assets/content/tool-solids-planner.webp?v=20260815232629841" type="image/webp" fetchpriority="high" />
+    <link rel="stylesheet" href="/assets/styles.css?v=20260815232629841" />
   </head>
   <body>
     <header class="site-header">
   <div class="nav">
     <a class="brand" href="/es/" aria-label="BeMama home">
-      <picture><source srcset="/assets/bemama_logo_mark.webp?v=20260815225704099" type="image/webp" /><img src="/assets/bemama_logo_mark.png?v=20260815225704099" alt="BeMama" width="1024" height="1024" loading="eager" decoding="async" /></picture>
+      <picture><source srcset="/assets/bemama_logo_mark-64.webp?v=20260815232629841 64w, /assets/bemama_logo_mark-96.webp?v=20260815232629841 96w, /assets/bemama_logo_mark-128.webp?v=20260815232629841 128w, /assets/bemama_logo_mark.webp?v=20260815232629841 1024w" sizes="38px" type="image/webp" /><img src="/assets/bemama_logo_mark.png?v=20260815232629841" alt="BeMama" width="1024" height="1024" loading="eager" decoding="async" /></picture>
       <span>BeMama</span>
     </a>
     <nav class="primary-nav" aria-label="Inicio">
@@ -182,7 +181,7 @@
     <div class="notice article-disclaimer">Este artículo es educación general y no constituye consejo médico, diagnóstico ni tratamiento. Habla siempre de tu situación con un profesional de salud calificado y, ante una emergencia, busca atención urgente.</div>
     <aside class="app-cta">
     <div class="app-cta-media" aria-hidden="true">
-      <picture><source srcset="/assets/characters/app-cta.webp?v=20260815225704099" type="image/webp" /><img class="app-cta-image" src="/assets/characters/app-cta.png?v=20260815225704099" alt="" width="320" height="320" loading="lazy" decoding="async" /></picture>
+      <picture><source srcset="/assets/characters/app-cta.webp?v=20260815232629841" type="image/webp" /><img class="app-cta-image" src="/assets/characters/app-cta.png?v=20260815232629841" alt="" width="320" height="320" loading="lazy" decoding="async" /></picture>
     </div>
     <div class="app-cta-copy">
       <h2>Lleva BeMama contigo</h2>
@@ -221,28 +220,31 @@
     </div>
   </div>
 </footer>
-    <script type="module" src="/assets/site-search.js?v=20260815225704099"></script>
-    <script type="module" src="/assets/care-tools.js?v=20260815225704099"></script>
+    <script type="module" src="/assets/site-search.js?v=20260815232629841"></script>
+    <script type="module" src="/assets/care-tools.js?v=20260815232629841"></script>
 
     <script defer src="/_stats/s.js" data-website-id="0ab934ef-a442-468e-9bdc-c41e6af2189a" data-host-url="https://bemamas.com/_stats"></script>
     <script>
 (() => {
-  const loadDeferredImages = () => {
-    document.querySelectorAll('picture source[data-srcset]').forEach((source) => {
+  const loadPicture = (picture) => {
+    picture.querySelectorAll('source[data-srcset]').forEach((source) => {
       source.srcset = source.dataset.srcset;
       source.removeAttribute('data-srcset');
     });
-    document.querySelectorAll('img[data-src]').forEach((image) => {
+    picture.querySelectorAll('img[data-src]').forEach((image) => {
       image.src = image.dataset.src;
       image.removeAttribute('data-src');
     });
   };
   window.addEventListener('load', () => {
-    if ('requestIdleCallback' in window) {
-      requestIdleCallback(loadDeferredImages, { timeout: 1800 });
-    } else {
-      setTimeout(loadDeferredImages, 900);
-    }
+    const pictures = [...document.querySelectorAll('picture')]
+      .filter((picture) => picture.querySelector('source[data-srcset], img[data-src]'));
+    pictures.forEach((picture, index) => {
+      // Carousel slides change every six seconds. Warm each future slide two
+      // seconds before it is shown instead of downloading all of them during
+      // the initial page-load trace.
+      setTimeout(() => loadPicture(picture), 4000 + (index * 6000));
+    });
   }, { once: true });
 })();
 </script>

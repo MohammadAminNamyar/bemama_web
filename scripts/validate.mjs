@@ -95,6 +95,34 @@ for (const route of requiredRoutes) {
 const htmlFiles = await collectHtml(dist);
 const knownRoutes = new Set(requiredRoutes);
 
+const homeHtml = await readFile(path.join(dist, 'index.html'), 'utf8');
+if (!homeHtml.includes('<link rel="stylesheet" href="/assets/styles.css?v=')) {
+  throw new Error('Homepage must load the main stylesheet before first paint.');
+}
+if (homeHtml.includes('rel="preload" as="style"') || homeHtml.includes("this.rel='stylesheet'")) {
+  throw new Error('Homepage must not use the flash-of-unstyled-content stylesheet preload pattern.');
+}
+if (homeHtml.includes('/assets/care-tools.js')) {
+  throw new Error('Homepage must not load the tool-only JavaScript bundle.');
+}
+for (const expectedAsset of [
+  'hero-carousel/pregnancy-rest-640.avif',
+  'bemama_logo_mark-96.webp',
+  'hero_planning-160.webp',
+  'app_daily_plan-320.webp',
+  'videos/bemama-care-story-01-poster-640.webp',
+  'videos/bemama-care-story-02-poster-360.webp'
+]) {
+  if (!homeHtml.includes(expectedAsset)) {
+    throw new Error(`Homepage is missing optimized media: ${expectedAsset}`);
+  }
+}
+
+const toolHtml = await readFile(path.join(dist, 'tools', 'due-date-calculator', 'index.html'), 'utf8');
+if (!toolHtml.includes('/assets/care-tools.js')) {
+  throw new Error('Interactive tool pages must load the care-tools bundle.');
+}
+
 for (const file of htmlFiles) {
   const html = await readFile(file, 'utf8');
   const normalizedHtml = html.toLowerCase();

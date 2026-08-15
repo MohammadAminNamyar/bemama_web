@@ -164,6 +164,25 @@ const heroResponsive = {
   sizes: '(max-width: 520px) calc(100vw - 60px), 446px'
 };
 
+// Small homepage images were previously delivered at their full source size.
+// Keep these values aligned with the rendered CSS sizes so the browser can
+// choose the smallest sharp candidate for the current device pixel ratio.
+const brandResponsive = {
+  widths: [64, 96, 128],
+  sizes: '38px'
+};
+
+const proofResponsive = {
+  widths: [96, 128, 160, 256],
+  sizes: '76px'
+};
+
+const mediaResponsive = {
+  widths: [256, 320, 400, 512],
+  // The square artwork is constrained by the fixed-height, object-fit box.
+  sizes: '(max-width: 700px) 176px, 198px'
+};
+
 // Self-hosted, cookieless analytics (Umami). Served first-party from
 // /_stats/ so blocklists do not treat it as a third-party tracker. It sets no
 // cookies and stores no personal data, which is why the site needs no consent
@@ -637,15 +656,14 @@ function renderPage(language, slug) {
     <meta name="twitter:image" content="${ogImage}" />
     ${jsonLd}
     ${preloadImage ? renderImagePreload(preloadImage, preloadImage.startsWith('/assets/hero-carousel/') ? heroResponsive : {}) : ''}
-    <link rel="preload" as="style" href="/assets/styles.css?v=${assetVersion}" onload="this.onload=null;this.rel='stylesheet'" />
-    <noscript><link rel="stylesheet" href="/assets/styles.css?v=${assetVersion}" /></noscript>
+    <link rel="stylesheet" href="/assets/styles.css?v=${assetVersion}" />
   </head>
   <body>
     ${renderHeader(language, slug)}
     ${body}
     ${renderFooter(language)}
     <script type="module" src="/assets/site-search.js?v=${assetVersion}"></script>
-    <script type="module" src="/assets/care-tools.js?v=${assetVersion}"></script>
+    ${article?.kind === 'tool' ? `<script type="module" src="/assets/care-tools.js?v=${assetVersion}"></script>` : ''}
     ${slug === 'explore' ? `<script type="module" src="/assets/product-tour.js?v=${assetVersion}"></script>` : ''}
     ${renderAnalytics()}
     ${renderDeferredImageLoader()}
@@ -692,7 +710,7 @@ function renderHeader(language, slug) {
   return `<header class="site-header">
   <div class="nav">
     <a class="brand" href="${localizedPath(lang, '')}" aria-label="BeMama home">
-      ${imageMarkup('/assets/bemama_logo_mark.png', site.name, { loading: 'eager' })}
+      ${imageMarkup('/assets/bemama_logo_mark.png', site.name, { loading: 'eager', ...brandResponsive })}
       <span>BeMama</span>
     </a>
     <nav class="primary-nav" aria-label="${escapeHtml(t.nav.home)}">
@@ -985,7 +1003,7 @@ function heroCarousel(language) {
 
 function proofItem(image, stage, label) {
   return `<article class="proof-item">
-    ${imageMarkup(`/assets/${image}`, label)}
+    ${imageMarkup(`/assets/${image}`, label, proofResponsive)}
     <span>${escapeHtml(stage)}</span>
     <strong>${escapeHtml(label)}</strong>
   </article>`;
@@ -1445,7 +1463,7 @@ function journeyChip(image, label) {
 
 function mediaCard(image, icon, title, text) {
   return `<article class="media-card">
-    <div class="media-image">${imageMarkup(`/assets/${image}`, title)}</div>
+    <div class="media-image">${imageMarkup(`/assets/${image}`, title, mediaResponsive)}</div>
     <div class="media-card-copy">
       ${imageMarkup(`/assets/${icon}`, title, { className: 'media-icon' })}
       <h3>${escapeHtml(title)}</h3>
@@ -1468,6 +1486,7 @@ function trustTile(icon, title, text) {
 
 function videoPreview(src, label, orientation) {
   const poster = src.replace(/\.mp4$/, '-poster.webp');
+  const optimizedPoster = poster.replace(/\.webp$/, orientation === 'landscape' ? '-640.webp' : '-360.webp');
   // Without intrinsic dimensions the browser reserves no space for the video
   // until its poster decodes, so the whole page jumps when it arrives. That
   // single omission was worth a Cumulative Layout Shift of 1.0 (good is
@@ -1476,7 +1495,7 @@ function videoPreview(src, label, orientation) {
   const size = imageDimensions(poster);
   const dimensions = size ? ` width="${size.width}" height="${size.height}"` : '';
   return `<figure class="ad-video-card is-${orientation}">
-    <video controls muted loop playsinline preload="none"${dimensions} poster="${versionedAsset(poster)}" aria-label="${escapeHtml(label)}">
+    <video controls muted loop playsinline preload="none"${dimensions} poster="${versionedAsset(assetExists(optimizedPoster) ? optimizedPoster : poster)}" aria-label="${escapeHtml(label)}">
       <source src="${versionedAsset(src)}" type="video/mp4" />
     </video>
   </figure>`;
@@ -1612,9 +1631,11 @@ function renderAlternates(slug) {
 }
 
 function renderImagePreload(src, options = {}) {
-  const preferred = webpAsset(src) ?? src;
-  const type = preferred.endsWith('.webp')
-    ? 'image/webp'
+  const preferred = avifAsset(src) ?? webpAsset(src) ?? src;
+  const type = preferred.endsWith('.avif')
+    ? 'image/avif'
+    : preferred.endsWith('.webp')
+      ? 'image/webp'
     : preferred.endsWith('.png')
       ? 'image/png'
       : 'image/jpeg';
@@ -1625,7 +1646,7 @@ function renderImagePreload(src, options = {}) {
   // element - downloading the hero twice.
   const candidates = [];
   for (const width of options.widths ?? []) {
-    const variant = preferred.replace(/\.webp$/, `-${width}.webp`);
+    const variant = responsiveVariant(preferred, width);
     if (existsSync(assetFile(variant))) {
       candidates.push(`${versionedAsset(variant)} ${width}w`);
     }
@@ -1664,33 +1685,46 @@ function imageMarkup(src, alt, options = {}) {
   }
 
   const img = `<img ${attrs.join(' ')} />`;
+  const avif = avifAsset(src);
   const webp = webpAsset(src);
-  if (!webp) {
+  if (!avif && !webp) {
     return img;
   }
 
+  const sources = [];
+  if (avif) {
+    sources.push(imageSourceMarkup(avif, src, options, 'image/avif'));
+  }
+  if (webp) {
+    sources.push(imageSourceMarkup(webp, src, options, 'image/webp'));
+  }
+  return `<picture>${sources.join('')}${img}</picture>`;
+}
+
+function imageSourceMarkup(preferred, dimensionSource, options, type) {
   // Opt-in responsive candidates. Only images whose display width is much
   // smaller than the file pass `widths`, so every other image keeps the
   // single-candidate behaviour it had before.
   const candidates = [];
   for (const width of options.widths ?? []) {
-    const variant = webp.replace(/\.webp$/, `-${width}.webp`);
+    const variant = responsiveVariant(preferred, width);
     if (existsSync(assetFile(variant))) {
       candidates.push(`${versionedAsset(variant)} ${width}w`);
     }
   }
-  let srcsetValue = versionedAsset(webp);
+  let srcsetValue = versionedAsset(preferred);
+  const dimensions = imageDimensions(dimensionSource);
   if (candidates.length && dimensions) {
-    candidates.push(`${versionedAsset(webp)} ${dimensions.width}w`);
+    candidates.push(`${versionedAsset(preferred)} ${dimensions.width}w`);
     srcsetValue = candidates.join(', ');
   }
 
   const sourceAttrs = [
     options.defer ? `data-srcset="${srcsetValue}"` : `srcset="${srcsetValue}"`,
     ...(candidates.length && options.sizes ? [`sizes="${options.sizes}"`] : []),
-    'type="image/webp"'
+    `type="${type}"`
   ];
-  return `<picture><source ${sourceAttrs.join(' ')} />${img}</picture>`;
+  return `<source ${sourceAttrs.join(' ')} />`;
 }
 
 function versionedAsset(src) {
@@ -1706,6 +1740,18 @@ function webpAsset(src) {
   }
   const webp = src.replace(/\.(png|jpe?g)$/i, '.webp');
   return assetExists(webp) ? webp : undefined;
+}
+
+function avifAsset(src) {
+  if (!/\.(png|jpe?g)$/i.test(src)) {
+    return undefined;
+  }
+  const avif = src.replace(/\.(png|jpe?g)$/i, '.avif');
+  return assetExists(avif) ? avif : undefined;
+}
+
+function responsiveVariant(src, width) {
+  return src.replace(/\.(avif|webp)$/i, `-${width}.$1`);
 }
 
 function assetExists(src) {
@@ -1797,22 +1843,25 @@ function jpegDimensions(bytes) {
 function renderDeferredImageLoader() {
   return `<script>
 (() => {
-  const loadDeferredImages = () => {
-    document.querySelectorAll('picture source[data-srcset]').forEach((source) => {
+  const loadPicture = (picture) => {
+    picture.querySelectorAll('source[data-srcset]').forEach((source) => {
       source.srcset = source.dataset.srcset;
       source.removeAttribute('data-srcset');
     });
-    document.querySelectorAll('img[data-src]').forEach((image) => {
+    picture.querySelectorAll('img[data-src]').forEach((image) => {
       image.src = image.dataset.src;
       image.removeAttribute('data-src');
     });
   };
   window.addEventListener('load', () => {
-    if ('requestIdleCallback' in window) {
-      requestIdleCallback(loadDeferredImages, { timeout: 1800 });
-    } else {
-      setTimeout(loadDeferredImages, 900);
-    }
+    const pictures = [...document.querySelectorAll('picture')]
+      .filter((picture) => picture.querySelector('source[data-srcset], img[data-src]'));
+    pictures.forEach((picture, index) => {
+      // Carousel slides change every six seconds. Warm each future slide two
+      // seconds before it is shown instead of downloading all of them during
+      // the initial page-load trace.
+      setTimeout(() => loadPicture(picture), 4000 + (index * 6000));
+    });
   }, { once: true });
 })();
 </script>`;
