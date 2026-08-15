@@ -154,6 +154,17 @@ const heroCarouselAlts = {
   }
 };
 
+// Self-hosted, cookieless analytics (Umami). Served first-party from
+// /_stats/ so blocklists do not treat it as a third-party tracker. It sets no
+// cookies and stores no personal data, which is why the site needs no consent
+// banner - keep it that way: do not add identifying data to these events.
+const analyticsWebsiteId = '0ab934ef-a442-468e-9bdc-c41e6af2189a';
+
+function renderAnalytics() {
+  if (!analyticsWebsiteId) return '';
+  return `<script defer src="/_stats/s.js" data-website-id="${analyticsWebsiteId}" data-host-url="https://bemamas.com/_stats"></script>`;
+}
+
 const badgeSmallLabels = {
   en: { ios: 'Download on the', android: 'Get it on' },
   fa: { ios: 'دریافت از', android: 'دریافت از' },
@@ -626,6 +637,7 @@ function renderPage(language, slug) {
     <script type="module" src="/assets/site-search.js?v=${assetVersion}"></script>
     <script type="module" src="/assets/care-tools.js?v=${assetVersion}"></script>
     ${slug === 'explore' ? `<script type="module" src="/assets/product-tour.js?v=${assetVersion}"></script>` : ''}
+    ${renderAnalytics()}
     ${renderDeferredImageLoader()}
   </body>
 </html>`;
@@ -1024,6 +1036,7 @@ function renderNotFoundPage(language) {
     ${renderNotFound(language)}
     ${renderFooter(language)}
     <script type="module" src="/assets/site-search.js?v=${assetVersion}"></script>
+    ${renderAnalytics()}
     ${renderDeferredImageLoader()}
   </body>
 </html>`;
