@@ -164,15 +164,67 @@ const badgeSmallLabels = {
   pt: { ios: 'Baixe na', android: 'Disponível no' }
 };
 
-const bylineLabels = {
-  en: 'Written by the BeMama editorial team — checked against published guidance from recognized health organizations.',
-  fa: 'نوشتهٔ تیم تحریریهٔ BeMama — مطابق با راهنمای منتشرشدهٔ نهادهای معتبر سلامت بازبینی شده است.',
-  ar: 'بقلم فريق تحرير BeMama — تمت مراجعته وفق الإرشادات المنشورة من هيئات صحية معترف بها.',
-  fr: 'Rédigé par l’équipe éditoriale BeMama — vérifié au regard des recommandations publiées par des organismes de santé reconnus.',
-  tr: 'BeMama editör ekibi tarafından yazılmıştır — tanınmış sağlık kuruluşlarının yayımlanmış rehberleri esas alınarak gözden geçirilmiştir.',
-  es: 'Escrito por el equipo editorial de BeMama — revisado según las guías publicadas por organismos de salud reconocidos.',
-  pt: 'Escrito pela equipe editorial do BeMama — revisado com base nas diretrizes publicadas por organizações de saúde reconhecidas.'
+// Editorial accountability.
+//
+// This is health-adjacent (YMYL) content, where Google's quality guidance asks
+// a simple question: which identifiable human stands behind this page? An
+// anonymous "editorial team" is the weakest possible answer and is a plausible
+// reason 1,204 URLs sit at "Discovered - currently not indexed".
+//
+// Change `editorialAuthor` in one place to re-attribute every article in every
+// locale.
+//
+// DO NOT populate `medicalReviewer` with anyone who has not actually reviewed
+// this content. Claiming clinical review that did not happen would mislead
+// parents on newborn health topics, and it is exactly the kind of unverifiable
+// credential that damages trust rather than building it. It stays null until a
+// real, named, credentialed professional is engaged - at which point the
+// reviewer line and the schema below light up automatically.
+const editorialAuthor = {
+  name: 'Mohammadamin Namyar',
+  url: `${site.origin}/about-bemama/`
 };
+
+const medicalReviewer = null;
+
+// {name} is substituted with editorialAuthor.name. The second clause is the
+// honest provenance claim the content actually supports: it is checked against
+// published guidance from recognized health organizations, and every article
+// carries its sources.
+const bylineLabels = {
+  en: 'Written and edited by {name}, founder of BeMama — checked against published guidance from recognized health organizations.',
+  fa: 'نوشته و ویرایش‌شده توسط {name}، بنیان‌گذار BeMama — مطابق با راهنمای منتشرشدهٔ نهادهای معتبر سلامت بازبینی شده است.',
+  ar: 'كتابة وتحرير {name}، مؤسس BeMama — تمت مراجعته وفق الإرشادات المنشورة من هيئات صحية معترف بها.',
+  fr: 'Écrit et édité par {name}, fondateur de BeMama — vérifié au regard des recommandations publiées par des organismes de santé reconnus.',
+  tr: '{name} tarafından yazılıp düzenlenmiştir, BeMama kurucusu — tanınmış sağlık kuruluşlarının yayımlanmış rehberleri esas alınarak gözden geçirilmiştir.',
+  es: 'Escrito y editado por {name}, fundador de BeMama — revisado según las guías publicadas por organismos de salud reconocidos.',
+  pt: 'Escrito e editado por {name}, fundador do BeMama — revisado com base nas diretrizes publicadas por organizações de saúde reconhecidas.'
+};
+
+// Reviewer line, only ever rendered when medicalReviewer is a real person.
+const reviewerLabels = {
+  en: 'Medically reviewed by {reviewer}.',
+  fa: 'بازبینی پزشکی توسط {reviewer}.',
+  ar: 'مراجعة طبية بواسطة {reviewer}.',
+  fr: 'Revu médicalement par {reviewer}.',
+  tr: 'Tıbbi inceleme: {reviewer}.',
+  es: 'Revisado médicamente por {reviewer}.',
+  pt: 'Revisado clinicamente por {reviewer}.'
+};
+
+/// The byline with the author's name as a real, followable link. Everything
+/// around the name is escaped; only the anchor is markup.
+function bylineHtml(lang) {
+  const template = bylineLabels[lang] ?? bylineLabels.en;
+  const [before, after = ''] = template.split('{name}');
+  const link = `<a href="${editorialAuthor.url}" rel="author">${escapeHtml(editorialAuthor.name)}</a>`;
+  let reviewer = '';
+  if (medicalReviewer) {
+    const label = reviewerLabels[lang] ?? reviewerLabels.en;
+    reviewer = ` ${escapeHtml(label.replace('{reviewer}', medicalReviewer.name))}`;
+  }
+  return `${escapeHtml(before)}${link}${escapeHtml(after)}${reviewer}`;
+}
 
 const searchLabels = {
   en: {
@@ -1151,7 +1203,7 @@ function renderArticle(language, slug, article, data) {
       <span class="eyebrow">${escapeHtml(pick(category.title, lang))}</span>
       <h1>${escapeHtml(data.title)}</h1>
       ${updated ? `<p class="article-meta">${escapeHtml(strings.updatedLabel)}: ${escapeHtml(updated)}</p>` : ''}
-      <p class="article-byline">${escapeHtml(bylineLabels[lang] ?? bylineLabels.en)}</p>
+      <p class="article-byline">${bylineHtml(lang)}</p>
     </header>
     <figure class="article-hero">${imageMarkup(`/assets/${article.hero}`, data.title, { loading: 'eager', fetchpriority: 'high' })}</figure>
     ${fallbackNotice}
@@ -1262,7 +1314,19 @@ function renderArticleJsonLd(language, slug, article, data) {
       image: `${site.origin}/assets/${article.hero}`,
       inLanguage: lang,
       mainEntityOfPage: url,
-      author: { '@type': 'Organization', name: 'BeMama Editorial Team', url: `${site.origin}/about-bemama/` },
+      // A named Person, not an anonymous team: for YMYL content search engines
+      // want an identifiable human who is accountable for the page.
+      author: { '@type': 'Person', name: editorialAuthor.name, url: editorialAuthor.url },
+      ...(medicalReviewer
+        ? {
+            reviewedBy: {
+              '@type': 'Person',
+              name: medicalReviewer.name,
+              ...(medicalReviewer.jobTitle ? { jobTitle: medicalReviewer.jobTitle } : {}),
+              ...(medicalReviewer.url ? { url: medicalReviewer.url } : {})
+            }
+          }
+        : {}),
       publisher: {
         '@type': 'Organization',
         name: site.name,
