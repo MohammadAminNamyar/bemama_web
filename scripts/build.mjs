@@ -154,6 +154,16 @@ const heroCarouselAlts = {
   }
 };
 
+// Responsive settings for the homepage hero illustrations. Shared by the
+// carousel markup and the preload hint - if these ever disagree the browser
+// downloads the hero twice, once for each candidate set.
+// .hero-visual-panel is min(100%, 470px) with 12px padding, so the image is
+// never displayed wider than ~446 CSS px.
+const heroResponsive = {
+  widths: [400, 640],
+  sizes: '(max-width: 520px) calc(100vw - 60px), 446px'
+};
+
 // Self-hosted, cookieless analytics (Umami). Served first-party from
 // /_stats/ so blocklists do not treat it as a third-party tracker. It sets no
 // cookies and stores no personal data, which is why the site needs no consent
@@ -626,7 +636,7 @@ function renderPage(language, slug) {
     <meta name="twitter:description" content="${escapeHtml(description)}" />
     <meta name="twitter:image" content="${ogImage}" />
     ${jsonLd}
-    ${preloadImage ? renderImagePreload(preloadImage) : ''}
+    ${preloadImage ? renderImagePreload(preloadImage, preloadImage.startsWith('/assets/hero-carousel/') ? heroResponsive : {}) : ''}
     <link rel="preload" as="style" href="/assets/styles.css?v=${assetVersion}" onload="this.onload=null;this.rel='stylesheet'" />
     <noscript><link rel="stylesheet" href="/assets/styles.css?v=${assetVersion}" /></noscript>
   </head>
@@ -966,11 +976,7 @@ function heroCarousel(language) {
           loading: index === 0 ? 'eager' : 'lazy',
           fetchpriority: index === 0 ? 'high' : undefined,
           defer: index !== 0,
-          // .hero-visual-panel is min(100%, 470px) with 12px padding, so the
-          // image is never wider than ~446 CSS px however large the viewport.
-          // Phones therefore fetch 400w/640w instead of the full 1024w file.
-          widths: [400, 640],
-          sizes: '(max-width: 520px) calc(100vw - 60px), 446px'
+          ...heroResponsive
         })
       )
       .join('\n    ')}
@@ -1605,13 +1611,32 @@ function renderAlternates(slug) {
   return links.join('\n    ');
 }
 
-function renderImagePreload(src) {
+function renderImagePreload(src, options = {}) {
   const preferred = webpAsset(src) ?? src;
   const type = preferred.endsWith('.webp')
     ? 'image/webp'
     : preferred.endsWith('.png')
       ? 'image/png'
       : 'image/jpeg';
+
+  // A preload must offer the same candidates as the <picture> it is warming.
+  // Preloading a single URL while the markup is responsive makes the browser
+  // fetch the full-size file for the preload AND the chosen candidate for the
+  // element - downloading the hero twice.
+  const candidates = [];
+  for (const width of options.widths ?? []) {
+    const variant = preferred.replace(/\.webp$/, `-${width}.webp`);
+    if (existsSync(assetFile(variant))) {
+      candidates.push(`${versionedAsset(variant)} ${width}w`);
+    }
+  }
+  if (candidates.length && options.sizes) {
+    const dimensions = imageDimensions(src);
+    if (dimensions) {
+      candidates.push(`${versionedAsset(preferred)} ${dimensions.width}w`);
+    }
+    return `<link rel="preload" as="image" imagesrcset="${candidates.join(', ')}" imagesizes="${options.sizes}" type="${type}" fetchpriority="high" />`;
+  }
   return `<link rel="preload" as="image" href="${versionedAsset(preferred)}" type="${type}" fetchpriority="high" />`;
 }
 
