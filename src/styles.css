@@ -845,6 +845,12 @@ html[dir="rtl"] .ad-copy {
 .ad-video-card video {
   display: block;
   width: 100%;
+  /* The width/height attributes exist to give the element an intrinsic ratio
+     before the stylesheet loads (they are what keeps CLS at zero). Without
+     height:auto the browser treats the height attribute as a presentational
+     height, so the box becomes width:100% x 720px and object-fit crops the
+     poster. Letting height resolve from aspect-ratio keeps both properties. */
+  height: auto;
   background: #0b2527;
   object-fit: cover;
 }
