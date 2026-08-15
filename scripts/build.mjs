@@ -965,7 +965,12 @@ function heroCarousel(language) {
         imageMarkup(`/assets/hero-carousel/${image}`, alt, {
           loading: index === 0 ? 'eager' : 'lazy',
           fetchpriority: index === 0 ? 'high' : undefined,
-          defer: index !== 0
+          defer: index !== 0,
+          // .hero-visual-panel is min(100%, 470px) with 12px padding, so the
+          // image is never wider than ~446 CSS px however large the viewport.
+          // Phones therefore fetch 400w/640w instead of the full 1024w file.
+          widths: [400, 640],
+          sizes: '(max-width: 520px) calc(100vw - 60px), 446px'
         })
       )
       .join('\n    ')}
@@ -1638,8 +1643,29 @@ function imageMarkup(src, alt, options = {}) {
   if (!webp) {
     return img;
   }
-  const sourceAttr = options.defer ? `data-srcset="${versionedAsset(webp)}"` : `srcset="${versionedAsset(webp)}"`;
-  return `<picture><source ${sourceAttr} type="image/webp" />${img}</picture>`;
+
+  // Opt-in responsive candidates. Only images whose display width is much
+  // smaller than the file pass `widths`, so every other image keeps the
+  // single-candidate behaviour it had before.
+  const candidates = [];
+  for (const width of options.widths ?? []) {
+    const variant = webp.replace(/\.webp$/, `-${width}.webp`);
+    if (existsSync(assetFile(variant))) {
+      candidates.push(`${versionedAsset(variant)} ${width}w`);
+    }
+  }
+  let srcsetValue = versionedAsset(webp);
+  if (candidates.length && dimensions) {
+    candidates.push(`${versionedAsset(webp)} ${dimensions.width}w`);
+    srcsetValue = candidates.join(', ');
+  }
+
+  const sourceAttrs = [
+    options.defer ? `data-srcset="${srcsetValue}"` : `srcset="${srcsetValue}"`,
+    ...(candidates.length && options.sizes ? [`sizes="${options.sizes}"`] : []),
+    'type="image/webp"'
+  ];
+  return `<picture><source ${sourceAttrs.join(' ')} />${img}</picture>`;
 }
 
 function versionedAsset(src) {
