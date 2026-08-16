@@ -1173,7 +1173,7 @@ function renderArticleEvidence(evidence) {
   };
 
   const guidance = evidence.guidance
-    .map((paragraph) => `<p>${escapeHtml(paragraph)}</p>`)
+    .map((paragraph) => `<p>${richText(paragraph)}</p>`)
     .join('');
   const sources = evidence.sources
     .map(
@@ -1221,7 +1221,7 @@ function renderArticle(language, slug, article, data) {
       (section) => `<section class="article-section">
       <h2>${escapeHtml(section.heading)}</h2>
       ${section.image ? `<figure class="article-figure">${imageMarkup(`/assets/${section.image}`, section.heading)}</figure>` : ''}
-      ${section.paragraphs.map((p) => `<p>${escapeHtml(p)}</p>`).join('')}
+      ${section.paragraphs.map((p) => `<p>${richText(p)}</p>`).join("")}
     </section>`
     )
     .join('');
@@ -1231,7 +1231,7 @@ function renderArticle(language, slug, article, data) {
       : '';
   const faq =
     data.faq && data.faq.length
-      ? `<section class="faq"><h2>${escapeHtml(strings.faq)}</h2>${data.faq.map((item) => `<details class="faq-item"><summary>${escapeHtml(item.q)}</summary><p>${escapeHtml(item.a)}</p></details>`).join('')}</section>`
+      ? `<section class="faq"><h2>${escapeHtml(strings.faq)}</h2>${data.faq.map((item) => `<details class="faq-item"><summary>${escapeHtml(item.q)}</summary><p>${richText(item.a)}</p></details>`).join('')}</section>`
       : '';
   const related = articlesInCategory(article.category)
     .filter((item) => item.slug !== article.slug)
@@ -1257,7 +1257,7 @@ function renderArticle(language, slug, article, data) {
     </header>
     <figure class="article-hero">${imageMarkup(`/assets/${article.hero}`, data.title, { loading: 'eager', fetchpriority: 'high' })}</figure>
     ${fallbackNotice}
-    <p class="article-intro">${escapeHtml(data.intro)}</p>
+    <p class="article-intro">${richText(data.intro)}</p>
     ${sections}
     ${renderArticleEvidence(evidence)}
     ${takeaways}
@@ -1283,7 +1283,7 @@ function renderTool(language, slug, article, data) {
     .map(
       (section) => `<section class="article-section">
       <h2>${escapeHtml(section.heading)}</h2>
-      ${section.paragraphs.map((p) => `<p>${escapeHtml(p)}</p>`).join('')}
+      ${section.paragraphs.map((p) => `<p>${richText(p)}</p>`).join("")}
     </section>`
     )
     .join('');
@@ -1300,7 +1300,7 @@ function renderTool(language, slug, article, data) {
       <h1>${escapeHtml(data.title)}</h1>
       ${article.updated ? `<p class="article-meta">${escapeHtml(strings.updatedLabel)}: ${escapeHtml(article.updated)}</p>` : ''}
     </header>
-    <p class="article-intro">${escapeHtml(data.intro)}</p>
+    <p class="article-intro">${richText(data.intro)}</p>
     <section class="tool-panel" data-care-tool>
       <script type="application/json" data-tool-config>${config}</script>
       <div class="tool-runtime" data-tool-runtime></div>
@@ -2256,4 +2256,21 @@ function escapeHtml(value) {
     .replaceAll('>', '&gt;')
     .replaceAll('"', '&quot;')
     .replaceAll("'", '&#39;');
+}
+
+/// Prose that may contain a bare URL. Escapes first (XSS-safe), then turns
+/// http(s) links into anchors marked dir="ltr". The dir attribute makes the
+/// browser isolate the link's direction (per the HTML UA stylesheet), so a
+/// Latin URL no longer gets scrambled by the bidi algorithm inside Persian or
+/// Arabic paragraphs - and every language gets clickable links for free.
+/// URLs here contain no &<>"' so they survive escapeHtml unchanged.
+function richText(value) {
+  const escaped = escapeHtml(value);
+  return escaped.replace(/https?:\/\/[^\s<]+/g, (match) => {
+    // Keep sentence punctuation (Latin and Arabic/Persian) out of the href.
+    const trailing = match.match(/[.,;:!?)»؛،؟]+$/);
+    const url = trailing ? match.slice(0, -trailing[0].length) : match;
+    const tail = trailing ? trailing[0] : '';
+    return `<a href="${url}" dir="ltr" rel="noopener">${url}</a>${tail}`;
+  });
 }
