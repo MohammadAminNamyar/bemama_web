@@ -18,39 +18,53 @@ RESPONSIVE_IMAGES = {
     "hero_pregnancy.png": (96, 128, 160, 256),
     "hero_baby.png": (96, 128, 160, 256),
     "hero_child.png": (96, 128, 160, 256),
-    "app_daily_plan.png": (256, 320, 400, 512),
-    "app_qna_support.png": (256, 320, 400, 512),
-    "app_community.png": (256, 320, 400, 512),
-    "app_child_growth.png": (256, 320, 400, 512),
+    "app_daily_plan.png": (192, 256, 280, 320, 400, 512),
+    "app_qna_support.png": (192, 256, 280, 320, 400, 512),
+    "app_community.png": (192, 256, 280, 320, 400, 512),
+    "app_child_growth.png": (192, 256, 280, 320, 400, 512),
+    "tour/daily-home.png": (256, 320, 400),
     "videos/bemama-care-story-01-poster.webp": (640,),
     "videos/bemama-care-story-02-poster.webp": (360,),
 }
 
-HERO_AVIF_IMAGES = (
-    "hero-carousel/pregnancy-rest.png",
-    "hero-carousel/pregnancy-planning.png",
-    "hero-carousel/baby-care.png",
-    "hero-carousel/daily-care.png",
-    "hero-carousel/child-growth.png",
-)
+AVIF_IMAGES = {
+    "hero-carousel/pregnancy-rest.png": ((400, 640), 40),
+    "hero-carousel/pregnancy-planning.png": ((400, 640), 40),
+    "hero-carousel/baby-care.png": ((400, 640), 40),
+    "hero-carousel/daily-care.png": ((400, 640), 40),
+    "hero-carousel/child-growth.png": ((400, 640), 40),
+    "app_daily_plan.png": ((192, 256, 280, 320, 400, 512), 42),
+    "app_qna_support.png": ((192, 256, 280, 320, 400, 512), 42),
+    "app_community.png": ((192, 256, 280, 320, 400, 512), 42),
+    "app_child_growth.png": ((192, 256, 280, 320, 400, 512), 42),
+    # Preserve small interface text in the phone-tour screenshot.
+    "tour/daily-home.png": ((256, 320, 400), 48),
+}
+
+WEBP_QUALITY = {
+    # Video posters are temporary preview frames, so a slightly stronger
+    # compression level saves bytes without affecting the played video.
+    "videos/bemama-care-story-01-poster.webp": 68,
+    "videos/bemama-care-story-02-poster.webp": 68,
+}
 
 
 def output_path(source: Path, width: int) -> Path:
     return source.with_name(f"{source.stem}-{width}.webp")
 
 
-def resize(source: Path, width: int) -> None:
+def resize(source: Path, width: int, quality: int = 80) -> None:
     with Image.open(source) as image:
         if width >= image.width:
             raise ValueError(f"Candidate width {width} is not smaller than {source} ({image.width}px)")
         height = round(image.height * width / image.width)
         resized = image.resize((width, height), Image.Resampling.LANCZOS)
         destination = output_path(source, width)
-        resized.save(destination, "WEBP", quality=80, method=6)
+        resized.save(destination, "WEBP", quality=quality, method=6)
         print(f"{destination.relative_to(ROOT)}: {width}x{height}, {destination.stat().st_size} bytes")
 
 
-def save_hero_avif(source: Path, width: int | None = None) -> None:
+def save_avif(source: Path, width: int | None, quality: int) -> None:
     with Image.open(source) as image:
         if width is not None:
             height = round(image.height * width / image.width)
@@ -58,7 +72,7 @@ def save_hero_avif(source: Path, width: int | None = None) -> None:
             destination = source.with_name(f"{source.stem}-{width}.avif")
         else:
             destination = source.with_suffix(".avif")
-        image.save(destination, "AVIF", quality=40, speed=6)
+        image.save(destination, "AVIF", quality=quality, speed=6)
         print(f"{destination.relative_to(ROOT)}: {image.width}x{image.height}, {destination.stat().st_size} bytes")
 
 
@@ -67,12 +81,12 @@ for relative_source, widths in RESPONSIVE_IMAGES.items():
     if not source.exists():
         raise FileNotFoundError(source)
     for candidate_width in widths:
-        resize(source, candidate_width)
+        resize(source, candidate_width, WEBP_QUALITY.get(relative_source, 80))
 
-for relative_source in HERO_AVIF_IMAGES:
+for relative_source, (widths, quality) in AVIF_IMAGES.items():
     source = ASSETS / relative_source
     if not source.exists():
         raise FileNotFoundError(source)
-    for candidate_width in (400, 640):
-        save_hero_avif(source, candidate_width)
-    save_hero_avif(source)
+    for candidate_width in widths:
+        save_avif(source, candidate_width, quality)
+    save_avif(source, None, quality)

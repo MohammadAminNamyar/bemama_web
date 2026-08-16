@@ -96,6 +96,7 @@ const htmlFiles = await collectHtml(dist);
 const knownRoutes = new Set(requiredRoutes);
 
 const homeHtml = await readFile(path.join(dist, 'index.html'), 'utf8');
+const mainCss = await readFile(path.join(dist, 'assets', 'styles.css'), 'utf8');
 if (!homeHtml.includes('<link rel="stylesheet" href="/assets/styles.css?v=')) {
   throw new Error('Homepage must load the main stylesheet before first paint.');
 }
@@ -105,11 +106,21 @@ if (homeHtml.includes('rel="preload" as="style"') || homeHtml.includes("this.rel
 if (homeHtml.includes('/assets/care-tools.js')) {
   throw new Error('Homepage must not load the tool-only JavaScript bundle.');
 }
+if (!mainCss.includes('--hero-carousel-start-delay:6s')) {
+  throw new Error('Homepage carousel must keep its initial visual state stable during the performance window.');
+}
+if (!homeHtml.includes("getPropertyValue('--hero-carousel-start-delay')")) {
+  throw new Error('Deferred carousel media must use the CSS startup delay as its timing source.');
+}
+if (/<video\b[^>]*\sposter=/i.test(homeHtml) || !homeHtml.includes('video[data-poster]')) {
+  throw new Error('Below-fold video posters must be loaded near the viewport instead of during initial navigation.');
+}
 for (const expectedAsset of [
   'hero-carousel/pregnancy-rest-640.avif',
   'bemama_logo_mark-96.webp',
   'hero_planning-160.webp',
-  'app_daily_plan-320.webp',
+  'app_daily_plan-280.avif',
+  'tour/daily-home.avif',
   'videos/bemama-care-story-01-poster-640.webp',
   'videos/bemama-care-story-02-poster-360.webp'
 ]) {

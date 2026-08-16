@@ -178,9 +178,17 @@ const proofResponsive = {
 };
 
 const mediaResponsive = {
-  widths: [256, 320, 400, 512],
+  widths: [192, 256, 280, 320, 400, 512],
   // The square artwork is constrained by the fixed-height, object-fit box.
-  sizes: '(max-width: 700px) 176px, 198px'
+  // Subtract its 12px padding on both sides so candidate selection follows
+  // the actual painted image rather than the outer card slot.
+  sizes: '(max-width: 700px) 152px, 174px'
+};
+
+const homeTourResponsive = {
+  widths: [256, 320, 400],
+  // The 330px phone frame has 8px of inline padding on each side.
+  sizes: '314px'
 };
 
 // Self-hosted, cookieless analytics (Umami). Served first-party from
@@ -813,7 +821,7 @@ function renderHome(language) {
   <section class="section home-tour-promo">
     <figure class="home-tour-preview tour-device-frame">
       <div class="tour-device-screen">
-        ${imageMarkup('/assets/tour/daily-home.png', collections[0].steps[0].alt, { loading: 'lazy' })}
+        ${imageMarkup('/assets/tour/daily-home.png', collections[0].steps[0].alt, { loading: 'lazy', ...homeTourResponsive })}
       </div>
       <figcaption class="sr-only">${escapeHtml(collections[0].steps[0].title)}. ${escapeHtml(collections[0].steps[0].description)}</figcaption>
     </figure>
@@ -1495,7 +1503,7 @@ function videoPreview(src, label, orientation) {
   const size = imageDimensions(poster);
   const dimensions = size ? ` width="${size.width}" height="${size.height}"` : '';
   return `<figure class="ad-video-card is-${orientation}">
-    <video controls muted loop playsinline preload="none"${dimensions} poster="${versionedAsset(assetExists(optimizedPoster) ? optimizedPoster : poster)}" aria-label="${escapeHtml(label)}">
+    <video controls muted loop playsinline preload="none"${dimensions} data-poster="${versionedAsset(assetExists(optimizedPoster) ? optimizedPoster : poster)}" aria-label="${escapeHtml(label)}">
       <source src="${versionedAsset(src)}" type="video/mp4" />
     </video>
   </figure>`;
@@ -1853,15 +1861,38 @@ function renderDeferredImageLoader() {
       image.removeAttribute('data-src');
     });
   };
+  const loadPoster = (video) => {
+    video.poster = video.dataset.poster;
+    video.removeAttribute('data-poster');
+  };
   window.addEventListener('load', () => {
-    const pictures = [...document.querySelectorAll('picture')]
+    const carousel = document.querySelector('.hero-carousel');
+    const pictures = [...document.querySelectorAll('.hero-carousel picture')]
       .filter((picture) => picture.querySelector('source[data-srcset], img[data-src]'));
-    pictures.forEach((picture, index) => {
-      // Carousel slides change every six seconds. Warm each future slide two
-      // seconds before it is shown instead of downloading all of them during
-      // the initial page-load trace.
-      setTimeout(() => loadPicture(picture), 4000 + (index * 6000));
-    });
+    if (carousel && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      const configuredDelay = Number.parseFloat(getComputedStyle(carousel).getPropertyValue('--hero-carousel-start-delay')) * 1000;
+      const startDelay = Number.isFinite(configuredDelay) ? configuredDelay : 6000;
+      pictures.forEach((picture, index) => {
+        // Each deferred picture is a future slide. Warm it two seconds before
+        // its CSS animation begins, using the CSS startup delay as the shared
+        // source of truth.
+        setTimeout(() => loadPicture(picture), startDelay + 4000 + (index * 6000));
+      });
+    }
+
+    const videos = [...document.querySelectorAll('video[data-poster]')];
+    if ('IntersectionObserver' in window) {
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach((entry) => {
+          if (!entry.isIntersecting) return;
+          loadPoster(entry.target);
+          observer.unobserve(entry.target);
+        });
+      }, { rootMargin: '600px 0px' });
+      videos.forEach((video) => observer.observe(video));
+    } else {
+      videos.forEach(loadPoster);
+    }
   }, { once: true });
 })();
 </script>`;

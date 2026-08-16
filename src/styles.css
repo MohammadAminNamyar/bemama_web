@@ -385,6 +385,10 @@ html[dir="rtl"] .hero-copy-area {
 }
 
 .hero-carousel {
+  /* Keep the first story still long enough to read and outside the initial
+     performance-measurement window. Future slides retain their six-second
+     cadence after this one-time startup delay. */
+  --hero-carousel-start-delay: 6s;
   position: relative;
   width: 100%;
   height: 100%;
@@ -399,6 +403,7 @@ html[dir="rtl"] .hero-copy-area {
   display: block;
   opacity: 0;
   animation: hero-carousel-fade 30s infinite;
+  animation-delay: var(--hero-carousel-start-delay);
 }
 
 .hero-carousel picture > img {
@@ -413,19 +418,19 @@ html[dir="rtl"] .hero-copy-area {
 }
 
 .hero-carousel picture:nth-child(2) {
-  animation-delay: 6s;
+  animation-delay: calc(var(--hero-carousel-start-delay) + 6s);
 }
 
 .hero-carousel picture:nth-child(3) {
-  animation-delay: 12s;
+  animation-delay: calc(var(--hero-carousel-start-delay) + 12s);
 }
 
 .hero-carousel picture:nth-child(4) {
-  animation-delay: 18s;
+  animation-delay: calc(var(--hero-carousel-start-delay) + 18s);
 }
 
 .hero-carousel picture:nth-child(5) {
-  animation-delay: 24s;
+  animation-delay: calc(var(--hero-carousel-start-delay) + 24s);
 }
 
 @keyframes hero-carousel-fade {
