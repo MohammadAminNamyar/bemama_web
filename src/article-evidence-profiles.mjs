@@ -688,7 +688,7 @@ assign('trying-to-conceive', 'preconception', [
 assign('trying-to-conceive', 'cycle', [
   'menstrual-cycle-fertile-window', 'tracking-ovulation', 'menstrual-cycle-basics', 'ovulation-signs',
   'fertile-window-timing', 'ovulation-tests', 'basal-body-temperature', 'cervical-mucus',
-  'irregular-cycles-ttc', 'cycle-planning-week-by-week'
+  'irregular-cycles-ttc', 'cycle-planning-week-by-week', 'luteal-phase-basics'
 ]);
 assign('trying-to-conceive', 'infertility', [
   'how-long-to-conceive', 'when-to-see-fertility-specialist', 'when-to-seek-fertility-help'
@@ -702,14 +702,15 @@ assign('trying-to-conceive', 'fertilityLifestyle', [
 ]);
 assign('trying-to-conceive', 'ttcSubstances', ['caffeine-alcohol-ttc']);
 assign('trying-to-conceive', 'birthControlReturn', ['stopping-birth-control', 'fertility-after-birth-control']);
-assign('trying-to-conceive', 'pregnancyTesting', ['early-pregnancy-signs', 'pregnancy-test-timing']);
+assign('trying-to-conceive', 'pregnancyTesting', ['early-pregnancy-signs', 'pregnancy-test-timing', 'implantation-signs-and-timing']);
 assign('trying-to-conceive', 'emotionalTtc', ['emotional-wellbeing-while-trying', 'coping-with-negative-pregnancy-test']);
 assign('trying-to-conceive', 'sexSelection', ['shettles-method']);
 
 assign('pregnancy', 'fetalDevelopment', [
   'first-trimester', 'second-trimester', 'third-trimester', 'pregnancy-weeks-4-8', 'pregnancy-weeks-9-12',
   'pregnancy-weeks-13-16', 'pregnancy-weeks-17-20', 'pregnancy-weeks-21-24', 'pregnancy-weeks-25-28',
-  'pregnancy-weeks-29-32', 'pregnancy-weeks-33-36', 'pregnancy-weeks-37-40'
+  'pregnancy-weeks-29-32', 'pregnancy-weeks-33-36', 'pregnancy-weeks-37-40',
+  'trimesters-of-pregnancy', 'how-many-weeks-pregnant', 'when-do-you-start-showing'
 ]);
 assign('pregnancy', 'prenatalCare', [
   'prenatal-care-schedule', 'prenatal-visit-schedule', 'blood-tests-screening', 'anatomy-scan-guide',
@@ -728,7 +729,7 @@ assign('pregnancy', 'preeclampsia', ['blood-pressure-preeclampsia']);
 assign('pregnancy', 'gestationalDiabetes', ['glucose-test-guide', 'gestational-diabetes-support']);
 assign('pregnancy', 'pregnancyPrevention', ['vaccines-during-pregnancy', 'safe-medicines-pregnancy']);
 assign('pregnancy', 'travelWork', ['travel-during-pregnancy', 'work-and-maternity-leave']);
-assign('pregnancy', 'fetalMovement', ['baby-movement-patterns']);
+assign('pregnancy', 'fetalMovement', ['baby-movement-patterns', 'when-can-you-feel-baby-move']);
 assign('pregnancy', 'laborBirth', [
   'birth-plan', 'hospital-bag', 'preparing-for-labor', 'signs-of-labor', 'c-section-basics',
   'induction-of-labor-conversation'
@@ -752,7 +753,7 @@ assign('newborn', 'newbornHygiene', [
   'umbilical-cord-healing'
 ]);
 assign('newborn', 'cryingColic', ['soothing-and-colic', 'crying-and-colic']);
-assign('newborn', 'newbornDevelopment', ['newborn-development', 'tummy-time-newborn']);
+assign('newborn', 'newbornDevelopment', ['newborn-development', 'tummy-time-newborn', 'baby-growth-spurts']);
 assign('newborn', 'babywearing', ['babywearing-safety']);
 assign('newborn', 'postpartumRecovery', [
   'postpartum-recovery', 'parent-rest-newborn', 'postpartum-bleeding-basics', 'postpartum-mood-changes'
@@ -760,14 +761,16 @@ assign('newborn', 'postpartumRecovery', [
 
 assign('baby-and-child', 'childMilestones', [
   'baby-milestones', 'two-month-milestones', 'four-month-milestones', 'six-month-milestones',
-  'nine-month-milestones', 'twelve-month-milestones'
+  'nine-month-milestones', 'twelve-month-milestones',
+  'when-do-babies-roll-over', 'when-do-babies-sit-up', 'when-do-babies-crawl', 'when-do-babies-walk'
 ]);
 assign('baby-and-child', 'childFeeding', [
   'starting-solids', 'toddler-nutrition', 'finger-foods', 'cup-and-water', 'toddler-balanced-meals'
 ]);
 assign('baby-and-child', 'childAllergens', ['starting-solids-allergens', 'allergy-action-plan']);
 assign('baby-and-child', 'childSleep', [
-  'sleep-training', 'sleep-regressions', 'nap-transitions', 'separation-anxiety', 'early-morning-waking'
+  'sleep-training', 'sleep-regressions', 'nap-transitions', 'separation-anxiety', 'early-morning-waking',
+  'when-do-babies-sleep-through-the-night'
 ]);
 assign('baby-and-child', 'teething', ['teething', 'teething-comfort']);
 assign('baby-and-child', 'childVaccines', ['vaccinations-overview']);
