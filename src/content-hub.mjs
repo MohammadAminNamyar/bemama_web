@@ -18,6 +18,7 @@ import { newbornArticles } from './articles/newborn.mjs';
 import { childArticles } from './articles/baby-and-child.mjs';
 import { appArticles } from './articles/about-bemama.mjs';
 import { expansionArticles, careTools } from './articles/expansion.mjs';
+import { expansionUpgradedArticles } from './articles/expansion-upgraded.mjs';
 import { newArticles } from './articles/new-articles.mjs';
 import { questionArticles } from './articles/question-guides.mjs';
 import { hubTranslations } from './articles/i18n/index.mjs';
@@ -292,6 +293,7 @@ export const articles = [
   ...newbornArticles,
   ...childArticles,
   ...expansionArticles,
+  ...expansionUpgradedArticles,
   ...newArticles,
   ...questionArticles,
   ...careTools,

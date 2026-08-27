@@ -35,12 +35,13 @@ import { translations as appEs } from './about-bemama.es.mjs';
 import { translations as appPt } from './about-bemama.pt.mjs';
 import { translations as newArticlesManual } from './new-articles-manual.mjs';
 import { questionGuideTranslations } from './question-guides.i18n.mjs';
+import { expansionUpgradedTranslations } from './expansion-upgraded.i18n.mjs';
 
 export const hubTranslations = {
-  fa: { ...ttcFa, ...pregFa, ...nbFa, ...childFa, ...appFa, ...newArticlesManual.fa, ...questionGuideTranslations.fa },
-  ar: { ...ttcAr, ...pregAr, ...nbAr, ...childAr, ...appAr, ...newArticlesManual.ar, ...questionGuideTranslations.ar },
-  fr: { ...ttcFr, ...pregFr, ...nbFr, ...childFr, ...appFr, ...newArticlesManual.fr, ...questionGuideTranslations.fr },
-  tr: { ...ttcTr, ...pregTr, ...nbTr, ...childTr, ...appTr, ...newArticlesManual.tr, ...questionGuideTranslations.tr },
-  es: { ...ttcEs, ...pregEs, ...nbEs, ...childEs, ...appEs, ...newArticlesManual.es, ...questionGuideTranslations.es },
-  pt: { ...ttcPt, ...pregPt, ...nbPt, ...childPt, ...appPt, ...newArticlesManual.pt, ...questionGuideTranslations.pt }
+  fa: { ...ttcFa, ...pregFa, ...nbFa, ...childFa, ...appFa, ...newArticlesManual.fa, ...questionGuideTranslations.fa, ...expansionUpgradedTranslations.fa },
+  ar: { ...ttcAr, ...pregAr, ...nbAr, ...childAr, ...appAr, ...newArticlesManual.ar, ...questionGuideTranslations.ar, ...expansionUpgradedTranslations.ar },
+  fr: { ...ttcFr, ...pregFr, ...nbFr, ...childFr, ...appFr, ...newArticlesManual.fr, ...questionGuideTranslations.fr, ...expansionUpgradedTranslations.fr },
+  tr: { ...ttcTr, ...pregTr, ...nbTr, ...childTr, ...appTr, ...newArticlesManual.tr, ...questionGuideTranslations.tr, ...expansionUpgradedTranslations.tr },
+  es: { ...ttcEs, ...pregEs, ...nbEs, ...childEs, ...appEs, ...newArticlesManual.es, ...questionGuideTranslations.es, ...expansionUpgradedTranslations.es },
+  pt: { ...ttcPt, ...pregPt, ...nbPt, ...childPt, ...appPt, ...newArticlesManual.pt, ...questionGuideTranslations.pt, ...expansionUpgradedTranslations.pt }
 };

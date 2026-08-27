@@ -2,6 +2,8 @@
 // journeys and tool patterns. These are intentionally not copied or closely
 // paraphrased from any single publisher.
 
+import { upgradedExpansionSlugs } from './expansion-upgraded.mjs';
+
 const langs = ['en', 'fa', 'ar', 'fr', 'tr', 'es', 'pt'];
 
 const categorySlug = {
@@ -550,9 +552,11 @@ function heroForArticle(category, slug) {
   return 'content/app-tools.jpg';
 }
 
-export const expansionArticles = Object.entries(topicsByCategory).flatMap(([category, topics]) =>
-  topics.map((item) => makeArticle(category, item))
-);
+// Articles rewritten with real editorial content live in expansion-upgraded.mjs;
+// the template generator below only emits slugs that have not been upgraded yet.
+export const expansionArticles = Object.entries(topicsByCategory)
+  .flatMap(([category, topics]) => topics.map((item) => makeArticle(category, item)))
+  .filter((article) => !upgradedExpansionSlugs.has(article.slug));
 
 const toolLabels = {
   en: {
