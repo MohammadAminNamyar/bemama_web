@@ -25,37 +25,51 @@ import {
 // piling onto the same few pages.
 const RELATED_STOPWORDS = new Set([
   'and', 'the', 'for', 'with', 'your', 'when', 'how', 'what', 'why', 'who',
-  'does', 'are', 'can', 'you', 'from', 'during', 'while', 'into', 'about'
+  'does', 'are', 'can', 'you', 'from', 'during', 'while', 'into', 'about',
+  'basic', 'guide'
 ]);
 
-function relatedTokenSet(article) {
-  const raw = [
-    ...article.slug.split('/').pop().split(/[^a-z0-9]+/i),
-    ...String(article.i18n.en?.title ?? '').split(/[^a-z0-9]+/i)
-  ];
-  const tokens = new Set();
-  for (let token of raw) {
-    token = token.toLowerCase();
-    if (token.length < 3 || RELATED_STOPWORDS.has(token)) continue;
-    if (token.endsWith('ies')) token = `${token.slice(0, -3)}y`;
-    else if (token.endsWith('s') && !token.endsWith('ss')) token = token.slice(0, -1);
-    tokens.add(token);
+function normalizeRelatedToken(raw) {
+  let token = raw.toLowerCase();
+  if (token.length < 3) return null;
+  if (token.endsWith('ies')) token = `${token.slice(0, -3)}y`;
+  else if (token.endsWith('s') && !token.endsWith('ss')) token = token.slice(0, -1);
+  return RELATED_STOPWORDS.has(token) ? null : token;
+}
+
+function relatedTokenSets(article) {
+  const slugTokens = new Set();
+  for (const raw of article.slug.split('/').pop().split(/[^a-z0-9]+/i)) {
+    const token = normalizeRelatedToken(raw);
+    if (token) slugTokens.add(token);
   }
-  return tokens;
+  const allTokens = new Set(slugTokens);
+  for (const raw of String(article.i18n.en?.title ?? '').split(/[^a-z0-9]+/i)) {
+    const token = normalizeRelatedToken(raw);
+    if (token) allTokens.add(token);
+  }
+  return { slugTokens, allTokens };
 }
 
 const relatedBySlug = new Map();
 {
   const pool = articles.filter((item) => item.kind !== 'tool');
-  const tokenCache = new Map(pool.map((item) => [item.slug, relatedTokenSet(item)]));
+  const tokenCache = new Map(pool.map((item) => [item.slug, relatedTokenSets(item)]));
   for (const article of pool) {
     const own = tokenCache.get(article.slug);
     const scored = [];
     for (const candidate of pool) {
       if (candidate.slug === article.slug) continue;
-      let score = candidate.category === article.category ? 3 : 0;
-      for (const token of tokenCache.get(candidate.slug)) {
-        if (own.has(token)) score += 2;
+      const cand = tokenCache.get(candidate.slug);
+      // Slug tokens carry the topic; title words are only a weak tie-breaker,
+      // otherwise generic title vocabulary ("ages", "normal") drowns out the
+      // real cluster (e.g. the motor-milestone question pages).
+      let score = candidate.category === article.category ? 2 : 0;
+      for (const token of cand.slugTokens) {
+        if (own.slugTokens.has(token)) score += 4;
+      }
+      for (const token of cand.allTokens) {
+        if (own.allTokens.has(token) && !(own.slugTokens.has(token) && cand.slugTokens.has(token))) score += 1;
       }
       if (score > 0) scored.push({ candidate, score });
     }
