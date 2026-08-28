@@ -708,6 +708,7 @@ function renderPage(language, slug) {
     <link rel="manifest" href="/site.webmanifest" />
     <meta name="theme-color" content="#399A97" />
     <meta name="apple-itunes-app" content="app-id=6783137312" />
+    <meta name="p:domain_verify" content="3029c12ae7152fd75763a05c74436b86" />
     <meta property="og:site_name" content="${escapeHtml(site.name)}" />
     <meta property="og:title" content="${escapeHtml(title)}" />
     <meta property="og:description" content="${escapeHtml(description)}" />
