@@ -639,6 +639,14 @@ for (const language of languages) {
   await writeFile(path.join(dist, `sitemap-${language.code}.xml`), renderLocaleSitemap(language));
 }
 await writeFile(path.join(dist, 'sitemap.xml'), renderSitemapIndex());
+for (const language of languages) {
+  const feed = renderLocaleFeed(language);
+  await writeFile(path.join(dist, `rss-${language.code}.xml`), feed);
+  if (language.code === 'en') {
+    // Conventional discovery path; same content as rss-en.xml.
+    await writeFile(path.join(dist, 'rss.xml'), feed);
+  }
+}
 
 function renderPage(language, slug) {
   const t = content[language.code];
@@ -697,6 +705,7 @@ function renderPage(language, slug) {
     <title>${escapeHtml(title)}</title>
     <meta name="description" content="${escapeHtml(description)}" />
     <link rel="canonical" href="${canonical}" />
+    <link rel="alternate" type="application/rss+xml" title="${escapeHtml(site.name)} — ${escapeHtml(language.label)}" href="${site.origin}/rss-${language.code}.xml" />
     ${renderAlternates(slug)}
     <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png" />
     <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96.png" />
@@ -2273,6 +2282,57 @@ ${imageEntries}
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 ${entries.join('\n')}
 </urlset>
+`;
+}
+
+// --- RSS feeds --------------------------------------------------------------
+// One feed per locale (rss-<code>.xml, with rss.xml aliasing English), items
+// newest-first by each article's `updated` date. Pinterest auto-publish and
+// feed readers consume these; dates are pinned to 12:00 UTC so the feed only
+// changes when content does, not on every rebuild.
+function feedDate(updated) {
+  const parsed = new Date(`${updated} 12:00:00 UTC`);
+  return Number.isNaN(parsed.getTime()) ? null : parsed;
+}
+
+function renderLocaleFeed(language) {
+  const lang = language.code;
+  const feedUrl = `${site.origin}/rss-${lang}.xml`;
+  const homeUrl = `${site.origin}${localizedPath(lang, '')}`;
+  const dated = articles
+    .map((article) => ({ article, date: feedDate(article.updated) }))
+    .filter((entry) => entry.date !== null)
+    .sort((a, b) => b.date - a.date);
+  const newest = dated[0]?.date ?? new Date('2026-07-01T12:00:00Z');
+  const items = dated
+    .map(({ article, date }) => {
+      const data = pick(article.i18n, lang);
+      const url = `${site.origin}${localizedPath(lang, article.slug)}`;
+      const heroUrl = article.hero ? `${site.origin}/assets/${article.hero}` : '';
+      const media = heroUrl
+        ? `\n      <media:content url="${escapeHtml(heroUrl)}" medium="image" />`
+        : '';
+      return `    <item>
+      <title>${escapeHtml(data.title)}</title>
+      <link>${url}</link>
+      <guid isPermaLink="true">${url}</guid>
+      <description>${escapeHtml(data.description)}</description>
+      <pubDate>${date.toUTCString()}</pubDate>${media}
+    </item>`;
+    })
+    .join('\n');
+  return `<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>${escapeHtml(site.name)} — ${escapeHtml(language.label)}</title>
+    <link>${homeUrl}</link>
+    <atom:link href="${feedUrl}" rel="self" type="application/rss+xml" />
+    <description>${escapeHtml(content[lang]?.metaDescription || content.en?.metaDescription || 'Pregnancy, baby, and parenting guidance from BeMama.')}</description>
+    <language>${lang}</language>
+    <lastBuildDate>${newest.toUTCString()}</lastBuildDate>
+${items}
+  </channel>
+</rss>
 `;
 }
 
