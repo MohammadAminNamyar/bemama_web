@@ -1404,38 +1404,65 @@ html[dir="rtl"] .notice {
   margin: 0;
 }
 
+.device-stage {
+  perspective: 1600px;
+  perspective-origin: 62% 38%;
+}
+
 .tour-device-frame {
   position: relative;
   box-sizing: border-box;
-  padding: 18px 8px 14px;
-  border: 1px solid #0d2928;
-  border-radius: 44px;
-  background: linear-gradient(145deg, #1c4442, #0f2928);
-  box-shadow: 0 18px 42px rgba(18, 58, 60, 0.16);
+  padding: 12px;
+  border-radius: 52px;
+  background: linear-gradient(150deg, #35615d 0%, #12312f 42%, #0b2422 74%, #1d4744 100%);
+  box-shadow:
+    inset 0 0 0 1.5px rgba(255, 255, 255, 0.22),
+    inset 0 0 0 5px #071b1a,
+    inset 0 0 0 6px rgba(255, 255, 255, 0.06),
+    2px 3px 8px rgba(7, 27, 26, 0.4),
+    26px 38px 70px rgba(18, 58, 60, 0.3),
+    48px 80px 130px rgba(18, 58, 60, 0.16);
+  transform: rotateY(-9deg) rotateX(3deg) rotateZ(0.4deg);
+  transform-style: preserve-3d;
+  transition: transform 0.55s cubic-bezier(0.22, 0.7, 0.3, 1), box-shadow 0.55s ease;
 }
 
-.tour-device-frame::before,
-.tour-device-frame::after {
-  content: "";
+.device-stage:hover .tour-device-frame {
+  transform: rotateY(-3.5deg) rotateX(1deg) rotateZ(0deg);
+  box-shadow:
+    inset 0 0 0 1.5px rgba(255, 255, 255, 0.22),
+    inset 0 0 0 5px #071b1a,
+    inset 0 0 0 6px rgba(255, 255, 255, 0.06),
+    2px 3px 8px rgba(7, 27, 26, 0.4),
+    14px 26px 54px rgba(18, 58, 60, 0.26),
+    28px 56px 100px rgba(18, 58, 60, 0.14);
+}
+
+.device-btn {
   position: absolute;
-  z-index: 4;
-  left: 50%;
-  transform: translateX(-50%);
-  border-radius: 999px;
-  background: rgba(255, 255, 255, 0.5);
-  pointer-events: none;
+  z-index: 3;
+  width: 3px;
+  border-radius: 3px;
+  background: linear-gradient(180deg, #3a6a66, #0d2928 15%, #0d2928 85%, #050f0e);
+  box-shadow: inset 0.5px 0 0 rgba(255, 255, 255, 0.28);
 }
 
-.tour-device-frame::before {
-  top: 7px;
-  width: 54px;
-  height: 4px;
+.device-btn.is-volup {
+  left: -3px;
+  top: 21%;
+  height: 8%;
 }
 
-.tour-device-frame::after {
-  bottom: 5px;
-  width: 72px;
-  height: 4px;
+.device-btn.is-voldown {
+  left: -3px;
+  top: 31%;
+  height: 8%;
+}
+
+.device-btn.is-power {
+  right: -3px;
+  top: 24%;
+  height: 12%;
 }
 
 .tour-screen-wrap {
@@ -1445,9 +1472,21 @@ html[dir="rtl"] .notice {
 .tour-device-screen {
   position: relative;
   overflow: hidden;
-  border-radius: 34px;
+  border-radius: 40px;
   background: #f5f8f7;
   direction: ltr;
+}
+
+.tour-device-screen::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: 3;
+  pointer-events: none;
+  border-radius: inherit;
+  background:
+    linear-gradient(112deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0.06) 22%, rgba(255, 255, 255, 0) 38%),
+    linear-gradient(292deg, rgba(7, 27, 26, 0.08) 0%, rgba(7, 27, 26, 0) 18%);
 }
 
 .tour-screen-wrap img {
@@ -1585,6 +1624,82 @@ html[dir="rtl"] .notice {
   cursor: not-allowed;
 }
 
+.feature-map {
+  padding-top: 24px;
+}
+
+.feature-map-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 16px;
+}
+
+.feature-map-card {
+  padding: 26px 24px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: rgba(251, 252, 251, 0.82);
+  box-shadow: 0 14px 38px rgba(18, 58, 60, 0.08);
+}
+
+.feature-map-card .fm-icon {
+  display: grid;
+  place-items: center;
+  width: 46px;
+  height: 46px;
+  margin-bottom: 16px;
+  border-radius: 14px;
+  color: var(--teal);
+  background: rgba(23, 110, 103, 0.1);
+}
+
+.feature-map-card .fm-icon svg {
+  width: 26px;
+  height: 26px;
+}
+
+.feature-map-card h3 {
+  margin-bottom: 10px;
+}
+
+.feature-map-card ul {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.feature-map-card li {
+  position: relative;
+  padding-inline-start: 26px;
+  color: var(--muted);
+  font-size: 0.98rem;
+  line-height: 1.45;
+}
+
+.feature-map-card li::before {
+  content: "✓";
+  position: absolute;
+  inset-inline-start: 0;
+  top: 0;
+  color: var(--teal);
+  font-weight: 700;
+}
+
+@media (max-width: 980px) {
+  .feature-map-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 640px) {
+  .feature-map-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 .tour-outro {
   display: flex;
   align-items: center;
@@ -1717,16 +1832,14 @@ html[dir="rtl"] .tour-outro h2 {
     border-radius: 24px;
   }
 
-  .tour-screen-wrap {
-    border-radius: 36px;
-  }
-
   .tour-device-frame {
-    padding: 16px 7px 13px;
+    padding: 10px;
+    border-radius: 42px;
+    transform: rotateY(-6deg) rotateX(2deg);
   }
 
   .tour-device-screen {
-    border-radius: 28px;
+    border-radius: 32px;
   }
 
   .tour-screen-hint {

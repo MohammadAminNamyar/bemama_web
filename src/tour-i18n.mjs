@@ -26,7 +26,18 @@ export const tourUiTranslations = {
     areasLabel: 'بخش‌های برنامه BeMama',
     assurancesLabel: 'جزئیات تور',
     workspaceLabel: 'تور تعاملی BeMama',
-    stepsLabel: 'مرحله‌های تور'
+    stepsLabel: 'مرحله‌های تور',
+    featureMapKicker: 'فراتر از تور',
+    featureMapTitle: 'این تور فقط شروع ماجراست',
+    featureMapText: 'BeMama یک همراه کامل است. تماس‌ها، پخش زنده، جامعه کاربران و پیگیری روزانه، همه بعد از ورود در دسترس‌اند.',
+    featureGroups: [
+      { icon: 'calls', title: 'تماس صوتی و تصویری', items: ['تماس صوتی خصوصی', 'تماس تصویری چهره‌به‌چهره', 'شروع تماس مستقیم از گفتگوها'] },
+      { icon: 'live', title: 'پخش زنده', items: ['پخش زنده دوربین داخل مطالب وبلاگ', 'تماشا یا میزبانی به‌صورت زنده', 'گفتگو با بینندگان هنگام پخش'] },
+      { icon: 'community', title: 'فضاهای اجتماعی', items: ['گروه‌هایی برای هر مرحله', 'پرسش و پاسخ با والدین واقعی', 'پیام‌های ذخیره‌شده', 'اشتراک عکس و ویدیو در گفتگو'] },
+      { icon: 'daily', title: 'مسیر روزانه', items: ['چهار مسیر: برنامه‌ریزی، بارداری، نوزاد، کودک', 'راهنمایی تازه هر روز', 'یادآورهای روزانه در کنترل شما'] },
+      { icon: 'tracking', title: 'پیگیری و گزارش‌ها', items: ['ده ابزار ثبت مراقبت، از خواب تا رشد', 'تقویم چرخه', 'تاریخچه و گزارش‌های تصویری'] },
+      { icon: 'support', title: 'پشتیبانی به زبان شما', items: ['پاسخ‌های هوش مصنوعی با برچسب شفاف', 'در دسترس به هفت زبان', 'طراحی‌شده برای حفظ حریم خصوصی'] }
+    ]
   },
   ar: {
     navLabel: 'استكشف التطبيق',
@@ -55,7 +66,18 @@ export const tourUiTranslations = {
     areasLabel: 'أقسام تطبيق BeMama',
     assurancesLabel: 'تفاصيل الجولة',
     workspaceLabel: 'جولة BeMama التفاعلية',
-    stepsLabel: 'خطوات الجولة'
+    stepsLabel: 'خطوات الجولة',
+    featureMapKicker: 'أبعد من الجولة',
+    featureMapTitle: 'الجولة مجرد البداية',
+    featureMapText: 'BeMama تطبيق مرافق متكامل. المكالمات والبث المباشر والمجتمع والمتابعة اليومية كلها بانتظارك بعد تسجيل الدخول.',
+    featureGroups: [
+      { icon: 'calls', title: 'مكالمات صوتية ومرئية', items: ['مكالمات صوتية خاصة', 'مكالمات فيديو وجهًا لوجه', 'تبدأ مباشرة من محادثاتك'] },
+      { icon: 'live', title: 'جلسات بث مباشر', items: ['بث مباشر بالكاميرا داخل مقالات المدونة', 'شاهد أو استضف البث لحظيًا', 'دردش مع المشاهدين أثناء البث'] },
+      { icon: 'community', title: 'مساحات المجتمع', items: ['مجموعات لكل مرحلة', 'أسئلة وأجوبة مع أهالٍ حقيقيين', 'رسائل محفوظة', 'مشاركة الصور والفيديو في الدردشة'] },
+      { icon: 'daily', title: 'الرحلة اليومية', items: ['أربع رحلات: التخطيط والحمل والرضيع والطفل', 'إرشاد جديد كل يوم', 'تذكيرات يومية تتحكم بها'] },
+      { icon: 'tracking', title: 'المتابعة والتقارير', items: ['عشرة أدوات لتتبع الرعاية من النوم إلى النمو', 'تقويم الدورة', 'سجل مرئي وتقارير'] },
+      { icon: 'support', title: 'دعم بلغتك', items: ['إجابات بمساعدة الذكاء الاصطناعي بوسم واضح', 'متاح بسبع لغات', 'مصمم لحماية خصوصيتك'] }
+    ]
   },
   fr: {
     navLabel: "Découvrir l’app",
@@ -84,7 +106,18 @@ export const tourUiTranslations = {
     areasLabel: "Rubriques de l’application BeMama",
     assurancesLabel: 'Détails de la visite',
     workspaceLabel: 'Visite interactive de BeMama',
-    stepsLabel: 'Étapes de la visite'
+    stepsLabel: 'Étapes de la visite',
+    featureMapKicker: 'Au-delà de la visite',
+    featureMapTitle: "La visite n'est que le début",
+    featureMapText: "BeMama est une application compagnon complète. Appels, sessions en direct, communauté et suivi quotidien vous attendent après la connexion.",
+    featureGroups: [
+      { icon: 'calls', title: 'Appels audio et vidéo', items: ['Appels vocaux privés', 'Appels vidéo en face à face', 'Lancés directement depuis vos conversations'] },
+      { icon: 'live', title: 'Sessions en direct', items: ['Caméra en direct dans les articles du blog', 'Regardez ou animez en temps réel', 'Discutez avec les spectateurs pendant le direct'] },
+      { icon: 'community', title: 'Espaces communautaires', items: ['Des groupes pour chaque étape', 'Questions-réponses avec de vrais parents', 'Messages enregistrés', 'Partage de photos et vidéos dans la discussion'] },
+      { icon: 'daily', title: 'Parcours quotidien', items: ['Quatre parcours : projet de bébé, grossesse, bébé, enfant', 'De nouveaux conseils chaque jour', 'Des rappels quotidiens que vous contrôlez'] },
+      { icon: 'tracking', title: 'Suivi et rapports', items: ['Dix outils de suivi, du sommeil à la croissance', 'Calendrier du cycle', 'Historique visuel et rapports'] },
+      { icon: 'support', title: 'Une aide dans votre langue', items: ['Réponses assistées par IA clairement identifiées', 'Disponible en sept langues', 'Conçu pour protéger votre vie privée'] }
+    ]
   },
   tr: {
     navLabel: 'Uygulamayı keşfet',
@@ -113,7 +146,18 @@ export const tourUiTranslations = {
     areasLabel: 'BeMama uygulama alanları',
     assurancesLabel: 'Tur ayrıntıları',
     workspaceLabel: 'Etkileşimli BeMama turu',
-    stepsLabel: 'Tur adımları'
+    stepsLabel: 'Tur adımları',
+    featureMapKicker: 'Turun ötesi',
+    featureMapTitle: 'Tur sadece başlangıç',
+    featureMapText: 'BeMama eksiksiz bir yol arkadaşıdır. Aramalar, canlı yayınlar, topluluk ve günlük takip giriş yaptıktan sonra sizi bekliyor.',
+    featureGroups: [
+      { icon: 'calls', title: 'Sesli ve görüntülü aramalar', items: ['Özel sesli aramalar', 'Yüz yüze görüntülü aramalar', 'Doğrudan sohbetlerinizden başlatılır'] },
+      { icon: 'live', title: 'Canlı yayınlar', items: ['Blog yazılarının içinde canlı kamera yayını', 'Canlı izleyin veya yayın açın', 'Yayın sırasında izleyicilerle sohbet edin'] },
+      { icon: 'community', title: 'Topluluk alanları', items: ['Her aşama için gruplar', 'Gerçek ebeveynlerle soru-cevap', 'Kaydedilen mesajlar', 'Sohbette fotoğraf ve video paylaşımı'] },
+      { icon: 'daily', title: 'Günlük Yolculuk', items: ['Dört yolculuk: planlama, hamilelik, bebek, çocuk', 'Her gün taze rehberlik', 'Kontrolü sizde olan günlük hatırlatıcılar'] },
+      { icon: 'tracking', title: 'Takip ve raporlar', items: ['Uykudan büyümeye on bakım takipçisi', 'Döngü takvimi', 'Görsel geçmiş ve raporlar'] },
+      { icon: 'support', title: 'Kendi dilinizde destek', items: ['Açıkça etiketlenmiş yapay zeka destekli yanıtlar', 'Yedi dilde kullanılabilir', 'Gizliliğiniz için tasarlandı'] }
+    ]
   },
   es: {
     navLabel: 'Explorar la app',
@@ -142,7 +186,18 @@ export const tourUiTranslations = {
     areasLabel: 'Áreas de la aplicación BeMama',
     assurancesLabel: 'Detalles del recorrido',
     workspaceLabel: 'Recorrido interactivo de BeMama',
-    stepsLabel: 'Pasos del recorrido'
+    stepsLabel: 'Pasos del recorrido',
+    featureMapKicker: 'Más allá del recorrido',
+    featureMapTitle: 'El recorrido es solo el comienzo',
+    featureMapText: 'BeMama es una app acompañante completa. Llamadas, sesiones en vivo, comunidad y seguimiento diario te esperan al iniciar sesión.',
+    featureGroups: [
+      { icon: 'calls', title: 'Llamadas de voz y video', items: ['Llamadas de voz privadas', 'Videollamadas cara a cara', 'Se inician directamente desde tus conversaciones'] },
+      { icon: 'live', title: 'Sesiones en vivo', items: ['Cámara en vivo dentro de las entradas del blog', 'Mira o transmite en tiempo real', 'Chatea con la audiencia durante la transmisión'] },
+      { icon: 'community', title: 'Espacios de comunidad', items: ['Grupos para cada etapa', 'Preguntas y respuestas con madres y padres reales', 'Mensajes guardados', 'Fotos y videos compartidos en el chat'] },
+      { icon: 'daily', title: 'Recorrido diario', items: ['Cuatro etapas: planificación, embarazo, bebé, niñez', 'Orientación nueva cada día', 'Recordatorios diarios que tú controlas'] },
+      { icon: 'tracking', title: 'Seguimiento e informes', items: ['Diez registros de cuidados, del sueño al crecimiento', 'Calendario del ciclo', 'Historial visual e informes'] },
+      { icon: 'support', title: 'Apoyo en tu idioma', items: ['Respuestas asistidas por IA claramente identificadas', 'Disponible en siete idiomas', 'Pensado para tu privacidad'] }
+    ]
   },
   pt: {
     navLabel: 'Explorar o app',
@@ -171,7 +226,18 @@ export const tourUiTranslations = {
     areasLabel: 'Áreas do aplicativo BeMama',
     assurancesLabel: 'Detalhes do tour',
     workspaceLabel: 'Tour interativo do BeMama',
-    stepsLabel: 'Etapas do tour'
+    stepsLabel: 'Etapas do tour',
+    featureMapKicker: 'Além do tour',
+    featureMapTitle: 'O tour é só o começo',
+    featureMapText: 'O BeMama é um companheiro completo. Chamadas, sessões ao vivo, comunidade e acompanhamento diário esperam por você após o login.',
+    featureGroups: [
+      { icon: 'calls', title: 'Chamadas de voz e vídeo', items: ['Chamadas de voz privadas', 'Chamadas de vídeo cara a cara', 'Iniciadas direto das suas conversas'] },
+      { icon: 'live', title: 'Sessões ao vivo', items: ['Câmera ao vivo dentro dos posts do blog', 'Assista ou apresente em tempo real', 'Converse com o público durante a transmissão'] },
+      { icon: 'community', title: 'Espaços da comunidade', items: ['Grupos para cada fase', 'Perguntas e respostas com pais reais', 'Mensagens salvas', 'Fotos e vídeos compartilhados no chat'] },
+      { icon: 'daily', title: 'Jornada Diária', items: ['Quatro jornadas: planejamento, gravidez, bebê, criança', 'Orientação nova todos os dias', 'Lembretes diários sob seu controle'] },
+      { icon: 'tracking', title: 'Acompanhamento e relatórios', items: ['Dez registros de cuidados, do sono ao crescimento', 'Calendário do ciclo', 'Histórico visual e relatórios'] },
+      { icon: 'support', title: 'Apoio no seu idioma', items: ['Respostas com IA claramente identificadas', 'Disponível em sete idiomas', 'Feito para proteger sua privacidade'] }
+    ]
   }
 };
 

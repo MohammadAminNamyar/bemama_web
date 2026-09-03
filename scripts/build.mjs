@@ -399,7 +399,7 @@ const tourUi = {
   eyebrow: 'Interactive product tour',
   title: 'See how BeMama works',
   description:
-    'Choose an area and tap through real BeMama screens. Nothing here is a mockup—the tour uses the same interface you will see in the app.',
+    'Choose an area and tap through real BeMama screens. Nothing here is a mockup. The tour uses the same interface you will see in the app.',
   start: 'Start the tour',
   promoTitle: 'See the app before you install it',
   promoText: 'Explore real BeMama screens for daily guidance, planning, care tracking, reports, and community support.',
@@ -422,7 +422,43 @@ const tourUi = {
   areasLabel: 'BeMama app areas',
   assurancesLabel: 'Tour details',
   workspaceLabel: 'Interactive BeMama tour',
-  stepsLabel: 'Tour steps'
+  stepsLabel: 'Tour steps',
+  featureMapKicker: 'Beyond the tour',
+  featureMapTitle: 'The tour is just the start',
+  featureMapText:
+    'BeMama is a full companion app. Calls, live sessions, community, and daily tracking are all inside once you sign in.',
+  featureGroups: [
+    {
+      icon: 'calls',
+      title: 'Voice and video calls',
+      items: ['Private voice calls', 'Face-to-face video calls', 'Started right from your conversations']
+    },
+    {
+      icon: 'live',
+      title: 'Live sessions',
+      items: ['Live camera sessions inside blog posts', 'Watch or host in real time', 'Chat with viewers while live']
+    },
+    {
+      icon: 'community',
+      title: 'Community spaces',
+      items: ['Groups for every stage', 'Q&A with real parents', 'Saved messages', 'Photo and video sharing in chat']
+    },
+    {
+      icon: 'daily',
+      title: 'Daily Journey',
+      items: ['Four journeys: planning, pregnancy, baby, child', 'Fresh guidance every day', 'Daily reminders you control']
+    },
+    {
+      icon: 'tracking',
+      title: 'Tracking and reports',
+      items: ['Ten care trackers, sleep to growth', 'Cycle calendar', 'Visual history and reports']
+    },
+    {
+      icon: 'support',
+      title: 'Support in your language',
+      items: ['Clearly labeled AI-assisted answers', 'Available in seven languages', 'Private by design']
+    }
+  ]
 };
 
 const tourCollections = [
@@ -893,9 +929,12 @@ function renderHome(language) {
     </div>
   </section>
   <section class="section home-tour-promo">
-    <figure class="home-tour-preview tour-device-frame">
-      <div class="tour-device-screen">
-        ${imageMarkup('/assets/tour/daily-home.png', collections[0].steps[0].alt, { loading: 'lazy', ...homeTourResponsive })}
+    <figure class="home-tour-preview device-stage">
+      <div class="tour-device-frame">
+        <span class="device-btn is-volup"></span><span class="device-btn is-voldown"></span><span class="device-btn is-power"></span>
+        <div class="tour-device-screen">
+          ${imageMarkup('/assets/tour/daily-home.png', collections[0].steps[0].alt, { loading: 'lazy', ...homeTourResponsive })}
+        </div>
       </div>
       <figcaption class="sr-only">${escapeHtml(collections[0].steps[0].title)}. ${escapeHtml(collections[0].steps[0].description)}</figcaption>
     </figure>
@@ -1019,10 +1058,13 @@ function renderProductTour(language) {
       </div>
       <div class="tour-workspace" tabindex="0" aria-label="${escapeHtml(ui.workspaceLabel)}">
         <figure class="tour-screen-column" itemscope itemtype="https://schema.org/ImageObject">
-          <div class="tour-screen-wrap tour-device-frame">
-            <div class="tour-device-screen">
-              <img data-tour-image itemprop="contentUrl" src="${versionedAsset(`/assets/tour/${firstStep.image}`)}" width="498" height="860" alt="${escapeHtml(firstStep.alt)}" loading="eager" decoding="async" fetchpriority="high" aria-describedby="tour-screen-caption" />
-              <button class="tour-screen-hotspot" type="button" data-tour-hotspot aria-label="${escapeHtml(firstStep.prompt)}"></button>
+          <div class="tour-screen-wrap device-stage">
+            <div class="tour-device-frame">
+              <span class="device-btn is-volup"></span><span class="device-btn is-voldown"></span><span class="device-btn is-power"></span>
+              <div class="tour-device-screen">
+                <img data-tour-image itemprop="contentUrl" src="${versionedAsset(`/assets/tour/${firstStep.image}`)}" width="498" height="860" alt="${escapeHtml(firstStep.alt)}" loading="eager" decoding="async" fetchpriority="high" aria-describedby="tour-screen-caption" />
+                <button class="tour-screen-hotspot" type="button" data-tour-hotspot aria-label="${escapeHtml(firstStep.prompt)}"></button>
+              </div>
             </div>
           </div>
           <figcaption class="tour-screen-hint" id="tour-screen-caption" itemprop="caption" data-tour-hint>${escapeHtml(firstStep.prompt)}</figcaption>
@@ -1044,6 +1086,16 @@ function renderProductTour(language) {
         </aside>
       </div>
     </section>
+    <section class="section feature-map">
+      <div class="section-header">
+        <span class="section-kicker">${escapeHtml(ui.featureMapKicker)}</span>
+        <h2>${escapeHtml(ui.featureMapTitle)}</h2>
+        <p>${escapeHtml(ui.featureMapText)}</p>
+      </div>
+      <div class="feature-map-grid">
+        ${ui.featureGroups.map((group) => featureMapCard(group)).join('')}
+      </div>
+    </section>
     <section class="section tour-outro">
       <div>
         <span class="section-kicker">BeMama</span>
@@ -1058,6 +1110,29 @@ function renderProductTour(language) {
     </section>
     <script id="product-tour-config" type="application/json">${config}</script>
   </main>`;
+}
+
+function featureMapIconFor(key) {
+  return featureMapIconSvgs()[key] ?? featureMapIconSvgs().support;
+}
+
+function featureMapIconSvgs() {
+  return {
+  calls: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3" y="6.5" width="12.5" height="11" rx="2.4"/><path d="M15.5 10.6 21 7.5v9l-5.5-3.1"/></svg>',
+  live: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="2.1" fill="currentColor" stroke="none"/><path d="M8.4 8.4a5.1 5.1 0 0 0 0 7.2M15.6 8.4a5.1 5.1 0 0 1 0 7.2M5.6 5.6a9 9 0 0 0 0 12.8M18.4 5.6a9 9 0 0 1 0 12.8"/></svg>',
+  community: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="9" cy="8.5" r="3.2"/><path d="M3.5 19.5c.7-3.2 2.9-4.9 5.5-4.9s4.8 1.7 5.5 4.9"/><circle cx="16.8" cy="9.5" r="2.5"/><path d="M16 14.7c2.3.1 4 1.6 4.5 4.3"/></svg>',
+  daily: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="3.5" y="5" width="17" height="15.5" rx="2.4"/><path d="M3.5 9.5h17M8 3v3.5M16 3v3.5"/><circle cx="8.5" cy="14" r="1.2" fill="currentColor" stroke="none"/><path d="M12 14h5M8.5 17.5H17"/></svg>',
+  tracking: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 4v15.5h16"/><path d="M8 15.5v-4M12.5 15.5V7.5M17 15.5v-6"/></svg>',
+  support: '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 20.5c4.7 0 8.5-3.2 8.5-7.5S16.7 5.5 12 5.5 3.5 8.7 3.5 13c0 1.9.75 3.6 2 4.9L5 21l3.4-1.2c1.1.45 2.3.7 3.6.7Z"/><path d="M9 11.2c.4-1 1.6-1.6 2.6-1.2 1 .35 1.6 1.4 1.2 2.4-.3.9-1.4 1.2-1.8 2.1"/><circle cx="11.4" cy="16.6" r=".9" fill="currentColor" stroke="none"/></svg>'
+  };
+}
+
+function featureMapCard(group) {
+  return `<article class="feature-map-card">
+    <span class="fm-icon">${featureMapIconFor(group.icon)}</span>
+    <h3>${escapeHtml(group.title)}</h3>
+    <ul>${group.items.map((item) => `<li>${escapeHtml(item)}</li>`).join('')}</ul>
+  </article>`;
 }
 
 function heroCarousel(language) {
