@@ -972,6 +972,21 @@ html[dir="rtl"] .notice {
   flex-wrap: wrap;
 }
 
+.footer-social {
+  display: flex;
+  gap: 14px;
+  margin-top: 12px;
+}
+
+.footer-social a {
+  color: #56716c;
+  transition: color 0.15s ease;
+}
+
+.footer-social a:hover {
+  color: var(--brand, #2f8f86);
+}
+
 .platform-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));

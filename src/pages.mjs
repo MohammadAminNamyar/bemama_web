@@ -4,7 +4,12 @@ export const site = {
   supportEmail: 'support@bemamas.com',
   appUrl: 'https://app.bemamas.com/',
   androidAppUrl: 'https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client',
-  iosAppUrl: 'https://apps.apple.com/us/app/bemama/id6783137312'
+  iosAppUrl: 'https://apps.apple.com/us/app/bemama/id6783137312',
+  socials: {
+    instagram: 'https://www.instagram.com/bemamaapp',
+    facebook: 'https://www.facebook.com/bemamaapp',
+    pinterest: 'https://ca.pinterest.com/BeMamaApp/'
+  }
 };
 
 export const languages = [
