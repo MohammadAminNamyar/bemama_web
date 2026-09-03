@@ -1405,8 +1405,22 @@ html[dir="rtl"] .notice {
 }
 
 .device-stage {
-  perspective: 1600px;
-  perspective-origin: 62% 38%;
+  position: relative;
+  perspective: 1200px;
+  perspective-origin: 66% 34%;
+}
+
+.device-stage::after {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  left: 4%;
+  right: -8%;
+  bottom: -30px;
+  height: 52px;
+  background: radial-gradient(52% 58% at 52% 50%, rgba(14, 44, 42, 0.36), rgba(14, 44, 42, 0) 72%);
+  filter: blur(7px);
+  transform: rotate(-2.5deg);
 }
 
 .tour-device-frame {
@@ -1414,28 +1428,38 @@ html[dir="rtl"] .notice {
   box-sizing: border-box;
   padding: 12px;
   border-radius: 52px;
-  background: linear-gradient(150deg, #35615d 0%, #12312f 42%, #0b2422 74%, #1d4744 100%);
+  background: linear-gradient(150deg, #3d6c67 0%, #143734 40%, #0b2422 76%, #1d4744 100%);
   box-shadow:
-    inset 0 0 0 1.5px rgba(255, 255, 255, 0.22),
+    inset 0 0 0 1.5px rgba(255, 255, 255, 0.26),
     inset 0 0 0 5px #071b1a,
-    inset 0 0 0 6px rgba(255, 255, 255, 0.06),
-    2px 3px 8px rgba(7, 27, 26, 0.4),
-    26px 38px 70px rgba(18, 58, 60, 0.3),
-    48px 80px 130px rgba(18, 58, 60, 0.16);
-  transform: rotateY(-9deg) rotateX(3deg) rotateZ(0.4deg);
+    inset 0 0 0 6px rgba(255, 255, 255, 0.07),
+    12px 22px 44px rgba(18, 58, 60, 0.22);
+  transform: rotateY(-19deg) rotateX(6deg) rotateZ(0.8deg);
   transform-style: preserve-3d;
-  transition: transform 0.55s cubic-bezier(0.22, 0.7, 0.3, 1), box-shadow 0.55s ease;
+  transition: transform 0.55s cubic-bezier(0.22, 0.7, 0.3, 1);
+}
+
+.tour-device-frame::before {
+  content: "";
+  position: absolute;
+  inset: -1px;
+  border-radius: inherit;
+  background: linear-gradient(165deg, #0e2a28 0%, #163a37 45%, #050f0e 100%);
+  transform: translateZ(-16px);
+  box-shadow: 0 40px 60px rgba(18, 58, 60, 0.3);
+}
+
+.tour-device-frame::after {
+  content: "";
+  position: absolute;
+  inset: -1px;
+  border-radius: inherit;
+  background: linear-gradient(165deg, #1c4744 0%, #0a2422 55%, #102e2c 100%);
+  transform: translateZ(-8px);
 }
 
 .device-stage:hover .tour-device-frame {
-  transform: rotateY(-3.5deg) rotateX(1deg) rotateZ(0deg);
-  box-shadow:
-    inset 0 0 0 1.5px rgba(255, 255, 255, 0.22),
-    inset 0 0 0 5px #071b1a,
-    inset 0 0 0 6px rgba(255, 255, 255, 0.06),
-    2px 3px 8px rgba(7, 27, 26, 0.4),
-    14px 26px 54px rgba(18, 58, 60, 0.26),
-    28px 56px 100px rgba(18, 58, 60, 0.14);
+  transform: rotateY(-10deg) rotateX(3deg) rotateZ(0.3deg);
 }
 
 .device-btn {
@@ -1835,7 +1859,7 @@ html[dir="rtl"] .tour-outro h2 {
   .tour-device-frame {
     padding: 10px;
     border-radius: 42px;
-    transform: rotateY(-6deg) rotateX(2deg);
+    transform: rotateY(-13deg) rotateX(4deg) rotateZ(0.6deg);
   }
 
   .tour-device-screen {
