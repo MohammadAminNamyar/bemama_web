@@ -852,12 +852,15 @@ function renderHome(language) {
   const fallback = content.en.home;
   const ui = tourUiFor(language.code);
   const collections = tourCollectionsFor(language.code);
+  const explorePath = localizedPath(language.code, 'explore');
+  const tourLink = (area, step) => `${explorePath}?area=${area}${step ? `&step=${step}` : ''}`;
   const mediaCards = [
-    ['app_daily_plan.png', 'icon_daily_action.png', h.phoneTitle, h.phoneText],
-    ['app_qna_support.png', 'icon_ask_question.png', h.qnaTitle, h.qnaText],
-    ['app_community.png', 'icon_shield_heart.png', h.aiTitle, h.aiText],
-    ['app_child_growth.png', 'icon_ask_ai.png', h.journeys[3], h.features[2][1]]
+    ['app_daily_plan.png', 'icon_daily_action.png', h.phoneTitle, h.phoneText, tourLink('daily')],
+    ['app_qna_support.png', 'icon_ask_question.png', h.qnaTitle, h.qnaText, tourLink('community', 2)],
+    ['app_community.png', 'icon_shield_heart.png', h.aiTitle, h.aiText, tourLink('community', 3)],
+    ['app_child_growth.png', 'icon_ask_ai.png', h.journeys[3], h.features[2][1], tourLink('care')]
   ];
+  const featureLinks = [tourLink('daily'), tourLink('community'), tourLink('care')];
   return `<main>
   <section class="hero">
     <div class="hero-inner">
@@ -882,10 +885,10 @@ function renderHome(language) {
         </div>
       </div>
       <div class="hero-proofbar" aria-label="BeMama care stages">
-        ${proofItem('hero_planning.png', h.journeys[0], h.features[0][0])}
-        ${proofItem('hero_pregnancy.png', h.journeys[1], h.phoneTitle)}
-        ${proofItem('hero_baby.png', h.journeys[2], h.qnaTitle)}
-        ${proofItem('hero_child.png', h.journeys[3], h.features[2][0])}
+        ${proofItem('hero_planning.png', h.journeys[0], h.features[0][0], tourLink('planning'))}
+        ${proofItem('hero_pregnancy.png', h.journeys[1], h.phoneTitle, tourLink('daily'))}
+        ${proofItem('hero_baby.png', h.journeys[2], h.qnaTitle, tourLink('community'))}
+        ${proofItem('hero_child.png', h.journeys[3], h.features[2][0], tourLink('care'))}
       </div>
     </div>
   </section>
@@ -913,12 +916,12 @@ function renderHome(language) {
       <p>${escapeHtml(h.mediaText || fallback.mediaText)}</p>
     </div>
     <div class="media-grid">
-      ${mediaCards.map(([image, icon, title, text]) => mediaCard(image, icon, title, text)).join('')}
+      ${mediaCards.map(([image, icon, title, text, href]) => mediaCard(image, icon, title, text, href)).join('')}
     </div>
   </section>
   <section class="section">
     <div class="section-header"><h2>${escapeHtml(h.whatTitle)}</h2><p>${escapeHtml(h.whatText)}</p></div>
-    <div class="grid">${h.features.map(([title, text]) => featureCard(title, text)).join('')}</div>
+    <div class="grid">${h.features.map(([title, text], index) => featureCard(title, text, featureLinks[index] ?? explorePath)).join('')}</div>
   </section>
   <section class="section trust-section">
     <div class="section-header">
@@ -926,9 +929,9 @@ function renderHome(language) {
       <p>${escapeHtml(h.trustText)}</p>
     </div>
     <div class="trust-grid">
-      ${trustTile('icon_shield_heart.png', content[language.code].nav.privacy, h.trustText)}
-      ${trustTile('icon_ask_question.png', content[language.code].nav.ai, h.aiText)}
-      ${trustTile('icon_daily_action.png', h.reviewSubscription, h.appText)}
+      ${trustTile('icon_shield_heart.png', content[language.code].nav.privacy, h.trustText, localizedPath(language.code, 'privacy'))}
+      ${trustTile('icon_ask_question.png', content[language.code].nav.ai, h.aiText, localizedPath(language.code, 'ai-disclaimer'))}
+      ${trustTile('icon_daily_action.png', h.reviewSubscription, h.appText, localizedPath(language.code, 'subscription-terms'))}
     </div>
     <div class="action-row">
       <a class="button secondary" href="${localizedPath(language.code, 'terms')}">${escapeHtml(content[language.code].nav.terms)}</a>
@@ -1080,12 +1083,12 @@ function heroCarousel(language) {
   </div>`;
 }
 
-function proofItem(image, stage, label) {
-  return `<article class="proof-item">
+function proofItem(image, stage, label, href) {
+  return `<a class="proof-item" href="${href}">
     ${imageMarkup(`/assets/${image}`, label, proofResponsive)}
     <span>${escapeHtml(stage)}</span>
     <strong>${escapeHtml(label)}</strong>
-  </article>`;
+  </a>`;
 }
 
 function renderPolicy(language, slug, page) {
@@ -1552,27 +1555,27 @@ function journeyChip(image, label) {
   return `<div class="journey-chip">${imageMarkup(`/assets/${image}`, '')}${escapeHtml(label)}</div>`;
 }
 
-function mediaCard(image, icon, title, text) {
-  return `<article class="media-card">
+function mediaCard(image, icon, title, text, href) {
+  return `<a class="media-card" href="${href}">
     <div class="media-image">${imageMarkup(`/assets/${image}`, title, mediaResponsive)}</div>
     <div class="media-card-copy">
       ${imageMarkup(`/assets/${icon}`, title, { className: 'media-icon' })}
       <h3>${escapeHtml(title)}</h3>
       <p>${escapeHtml(text)}</p>
     </div>
-  </article>`;
+  </a>`;
 }
 
-function featureCard(title, text) {
-  return `<article class="card"><h3>${escapeHtml(title)}</h3><p>${escapeHtml(text)}</p></article>`;
+function featureCard(title, text, href) {
+  return `<a class="card" href="${href}"><h3>${escapeHtml(title)}</h3><p>${escapeHtml(text)}</p></a>`;
 }
 
-function trustTile(icon, title, text) {
-  return `<article class="trust-tile">
+function trustTile(icon, title, text, href) {
+  return `<a class="trust-tile" href="${href}">
     ${imageMarkup(`/assets/${icon}`, title)}
     <h3>${escapeHtml(title)}</h3>
     <p>${escapeHtml(text)}</p>
-  </article>`;
+  </a>`;
 }
 
 function videoPreview(src, label, orientation) {
