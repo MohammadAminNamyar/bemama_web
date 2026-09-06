@@ -66,8 +66,15 @@ rule. App/API/analytics traffic and assets are outside its scope. Responses with
 status 400 or above are not stored. Origin cache headers are respected: currently
 5 minutes in browsers and 30 minutes at the edge.
 
+The method condition includes `PURGE` alongside `GET` and `HEAD` so Cloudflare's
+single-URL cache invalidations can match the rule. Keep this when editing the
+expression; omitting `PURGE` can leave old cached HTML after an accepted purge.
+
 After deploying, purge changed HTML URLs in Cloudflare (or allow the edge TTL to
 expire) before verifying metadata or submitting to IndexNow. Existing assets use
 versioned URLs and do not need a blanket purge. Do not broaden this rule to the
 app, APIs or all hostnames. Details and checks are in
 `docs/seo-remaining-fixes.md`.
+
+Production verification after deployment is recorded in
+`docs/seo-deployment-verification-2026-09-06.md`.

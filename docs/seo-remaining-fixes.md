@@ -1,5 +1,9 @@
 # Remaining SEO fixes, September 6, 2026
 
+This is the implementation handoff. For the subsequent live deployment checks,
+cache correction and new Ahrefs crawl, see
+[deployment verification](seo-deployment-verification-2026-09-06.md).
+
 ## Baseline
 
 The Ahrefs crawl completed at 13:15 Vancouver time showed Health Score 100, with
@@ -58,6 +62,8 @@ Only the bare main hostname and known public page sections are eligible. Request
 must be GET/HEAD, have no query string, cookies or Authorization header, and end
 in a slash. App, APIs, analytics, assets and other hosts are outside this rule.
 It respects origin TTLs and explicitly uses no-store for status >= 400.
+The method condition was subsequently extended to include Cloudflare's `PURGE`
+operation, with user approval, so single-URL invalidations also match the rule.
 
 Verified saved rule and live behavior:
 
