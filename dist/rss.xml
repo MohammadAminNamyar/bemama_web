@@ -6,7 +6,23 @@
     <atom:link href="https://bemamas.com/rss-en.xml" rel="self" type="application/rss+xml" />
     <description>BeMama is a companion for planning, pregnancy, baby care, and child growth with Daily Journey, Q&amp;A, community, and clearly labeled AI-assisted support.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 26 Aug 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>When Does the Second Trimester Start? Week 13 or 14</title>
+      <link>https://bemamas.com/pregnancy/second-trimester/</link>
+      <guid isPermaLink="true">https://bemamas.com/pregnancy/second-trimester/</guid>
+      <description>When does the second trimester start? Learn why guides use week 13 or 14, what happens through week 27, and what to expect before the third trimester.</description>
+      <pubDate>Sat, 05 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/preg-second-trimester.jpg" medium="image" />
+    </item>
+    <item>
+      <title>When Does the Third Trimester Start? Week 28</title>
+      <link>https://bemamas.com/pregnancy/third-trimester/</link>
+      <guid isPermaLink="true">https://bemamas.com/pregnancy/third-trimester/</guid>
+      <description>When does the third trimester start? Learn when you enter it, what changes during weeks 28–40, how to track movement, and how to prepare for birth.</description>
+      <pubDate>Sat, 05 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/preg-third-trimester.jpg" medium="image" />
+    </item>
     <item>
       <title>Menstrual Cycle Phases: What Happens in Each Stage</title>
       <link>https://bemamas.com/trying-to-conceive/menstrual-cycle-basics/</link>
@@ -1174,22 +1190,6 @@
       <description>What to expect in the first trimester of pregnancy — early symptoms, your baby’s development, nutrition and folic acid, what to avoid, prenatal care, and warning signs to watch for.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/preg-first-trimester.jpg" medium="image" />
-    </item>
-    <item>
-      <title>The Second Trimester: What to Expect (Weeks 13–27)</title>
-      <link>https://bemamas.com/pregnancy/second-trimester/</link>
-      <guid isPermaLink="true">https://bemamas.com/pregnancy/second-trimester/</guid>
-      <description>A guide to the second trimester — returning energy, your baby’s growth and first movements, the anatomy scan, body changes, comfort tips, and planning ahead.</description>
-      <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/preg-second-trimester.jpg" medium="image" />
-    </item>
-    <item>
-      <title>When Do You Enter the Third Trimester? Weeks 28–40</title>
-      <link>https://bemamas.com/pregnancy/third-trimester/</link>
-      <guid isPermaLink="true">https://bemamas.com/pregnancy/third-trimester/</guid>
-      <description>When does the third trimester start? Learn when you enter it, what changes during weeks 28–40, how to track movement, and how to prepare for birth.</description>
-      <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/preg-third-trimester.jpg" medium="image" />
     </item>
     <item>
       <title>Pregnancy Nutrition: Eating Well for Two</title>

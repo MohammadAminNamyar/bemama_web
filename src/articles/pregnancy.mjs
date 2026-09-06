@@ -96,14 +96,14 @@ export const pregnancyArticles = [
     slug: 'pregnancy/second-trimester',
     category: 'pregnancy',
     hero: 'content/preg-second-trimester.jpg',
-    updated: 'July 1, 2026',
+    updated: 'September 5, 2026',
     i18n: {
       en: {
-        title: 'The Second Trimester: What to Expect (Weeks 13–27)',
+        title: 'When Does the Second Trimester Start? Week 13 or 14',
         description:
-          'A guide to the second trimester — returning energy, your baby’s growth and first movements, the anatomy scan, body changes, comfort tips, and planning ahead.',
+          'When does the second trimester start? Learn why guides use week 13 or 14, what happens through week 27, and what to expect before the third trimester.',
         intro:
-          'Many people call the second trimester the most comfortable stretch of pregnancy — and for good reason. Nausea often fades, energy returns, and your bump becomes real to the outside world. Weeks 13 through 27 are also when you feel your baby move for the first time and see them in detail at the anatomy scan.',
+          'The second trimester is the middle stretch of pregnancy and runs until week 28 begins. The NHS groups weeks 13–27 as the second trimester, while ACOG defines it from 14 weeks 0 days through 27 weeks 6 days. That is why you may see either week 13 or week 14 described as the start. These months often bring returning energy, your first experience of baby movement, and the anatomy scan.',
         sections: [
           {
             heading: 'Why energy often returns',
@@ -164,6 +164,10 @@ export const pregnancyArticles = [
         ],
         faq: [
           {
+            q: 'When does the second trimester start?',
+            a: 'The answer depends on the convention being used. The NHS groups weeks 13 through 27 as the second trimester, while ACOG starts it at 14 weeks 0 days and ends it at 27 weeks 6 days. Both place the start of the third trimester at week 28.'
+          },
+          {
             q: 'When will I feel my baby move for the first time?',
             a: 'Most first-time mothers notice movement between weeks 18 and 22, though it can be earlier in later pregnancies. Early movements feel like flutters or bubbles and become stronger over time.'
           },
@@ -183,10 +187,10 @@ export const pregnancyArticles = [
     slug: 'pregnancy/third-trimester',
     category: 'pregnancy',
     hero: 'content/preg-third-trimester.jpg',
-    updated: 'July 1, 2026',
+    updated: 'September 5, 2026',
     i18n: {
       en: {
-        title: 'When Do You Enter the Third Trimester? Weeks 28–40',
+        title: 'When Does the Third Trimester Start? Week 28',
         description:
           'When does the third trimester start? Learn when you enter it, what changes during weeks 28–40, how to track movement, and how to prepare for birth.',
         intro:
@@ -248,6 +252,10 @@ export const pregnancyArticles = [
           'Have your bag packed, car seat installed, and plans ready by about week 36.'
         ],
         faq: [
+          {
+            q: 'When does the third trimester start?',
+            a: 'The third trimester starts at 28 weeks 0 days and continues until birth. A due date is an estimate around week 40, so the trimester does not have one fixed final day for every pregnancy.'
+          },
           {
             q: 'How can I tell Braxton Hicks from real contractions?',
             a: 'Braxton Hicks are irregular, stay mild, and usually stop when you move, rest, or hydrate. Real labor contractions become regular, longer, and stronger over time and continue regardless of what you do. When unsure, call your maternity unit.'

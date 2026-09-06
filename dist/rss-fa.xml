@@ -6,7 +6,23 @@
     <atom:link href="https://bemamas.com/rss-fa.xml" rel="self" type="application/rss+xml" />
     <description>BeMama همراهی آرام برای برنامه‌ریزی، بارداری، مراقبت نوزاد و رشد کودک است.</description>
     <language>fa</language>
-    <lastBuildDate>Wed, 26 Aug 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>سه‌ماهه دوم بارداری: چه چیزهایی در انتظار شماست (هفته‌های ۱۳ تا ۲۷)</title>
+      <link>https://bemamas.com/fa/pregnancy/second-trimester/</link>
+      <guid isPermaLink="true">https://bemamas.com/fa/pregnancy/second-trimester/</guid>
+      <description>راهنمای سه‌ماهه دوم؛ بازگشت انرژی، رشد جنین و نخستین حرکت‌های او، سونوگرافی آنومالی، تغییرات بدن، نکته‌های راحتی و برنامه‌ریزی برای ادامه راه.</description>
+      <pubDate>Sat, 05 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/preg-second-trimester.jpg" medium="image" />
+    </item>
+    <item>
+      <title>سه‌ماهه سوم بارداری: هفته‌های ۲۸ تا ۴۰ و آماده شدن</title>
+      <link>https://bemamas.com/fa/pregnancy/third-trimester/</link>
+      <guid isPermaLink="true">https://bemamas.com/fa/pregnancy/third-trimester/</guid>
+      <description>آنچه در سه‌ماهه سوم در انتظار شماست؛ قرارگیری جنین، ناراحتی‌های شایع، شمارش حرکات، تفاوت علائم زایمان با انقباض‌های براکستون هیکس و آماده‌سازی‌های نهایی برای تولد.</description>
+      <pubDate>Sat, 05 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/preg-third-trimester.jpg" medium="image" />
+    </item>
     <item>
       <title>مراحل چرخه قاعدگی: در هر مرحله چه می‌گذرد</title>
       <link>https://bemamas.com/fa/trying-to-conceive/menstrual-cycle-basics/</link>
@@ -1174,22 +1190,6 @@
       <description>آنچه در سه‌ماهه اول بارداری در انتظار شماست؛ علائم اولیه، رشد جنین، تغذیه و اسید فولیک، چیزهایی که باید از آن‌ها پرهیز کنید، مراقبت‌های دوران بارداری و علائم هشداردهنده‌ای که باید مراقبشان باشید.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/preg-first-trimester.jpg" medium="image" />
-    </item>
-    <item>
-      <title>سه‌ماهه دوم بارداری: چه چیزهایی در انتظار شماست (هفته‌های ۱۳ تا ۲۷)</title>
-      <link>https://bemamas.com/fa/pregnancy/second-trimester/</link>
-      <guid isPermaLink="true">https://bemamas.com/fa/pregnancy/second-trimester/</guid>
-      <description>راهنمای سه‌ماهه دوم؛ بازگشت انرژی، رشد جنین و نخستین حرکت‌های او، سونوگرافی آنومالی، تغییرات بدن، نکته‌های راحتی و برنامه‌ریزی برای ادامه راه.</description>
-      <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/preg-second-trimester.jpg" medium="image" />
-    </item>
-    <item>
-      <title>سه‌ماهه سوم بارداری: هفته‌های ۲۸ تا ۴۰ و آماده شدن</title>
-      <link>https://bemamas.com/fa/pregnancy/third-trimester/</link>
-      <guid isPermaLink="true">https://bemamas.com/fa/pregnancy/third-trimester/</guid>
-      <description>آنچه در سه‌ماهه سوم در انتظار شماست؛ قرارگیری جنین، ناراحتی‌های شایع، شمارش حرکات، تفاوت علائم زایمان با انقباض‌های براکستون هیکس و آماده‌سازی‌های نهایی برای تولد.</description>
-      <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/preg-third-trimester.jpg" medium="image" />
     </item>
     <item>
       <title>تغذیه بارداری: خوب خوردن برای دو نفر</title>

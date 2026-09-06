@@ -74,6 +74,11 @@ const sources = {
     title: 'How Your Fetus Grows During Pregnancy',
     url: 'https://www.acog.org/womens-health/faqs/how-your-fetus-grows-during-pregnancy'
   },
+  nhsPregnancyWeeks: {
+    organization: 'NHS',
+    title: 'Week-by-week guide to pregnancy',
+    url: 'https://www.nhs.uk/best-start-in-life/pregnancy/week-by-week-guide-to-pregnancy/'
+  },
   acogPrenatalCare: {
     organization: 'ACOG',
     title: 'Prenatal Care',
@@ -374,7 +379,7 @@ export const evidenceProfiles = {
     ],
     bemama: 'Use BeMama’s week view for education, appointment preparation, and dated notes. It cannot confirm fetal growth, anatomy, heartbeat, or wellbeing.',
     safety: 'Contact your prenatal team for bleeding, severe pain, fluid leakage, reduced movement after movement is established, or any urgent concern instead of relying on a week-by-week article.',
-    sources: [sources.acogFetalGrowth, sources.acogUltrasound, sources.cdcMaternalWarnings]
+    sources: [sources.acogFetalGrowth, sources.nhsPregnancyWeeks, sources.acogUltrasound, sources.cdcMaternalWarnings]
   },
   prenatalCare: {
     guidance: [

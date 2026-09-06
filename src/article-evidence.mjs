@@ -13,6 +13,10 @@ import {
 
 const updated = 'August 5, 2026';
 const updatedIso = '2026-08-05';
+const updatedOverrides = new Map([
+  ['pregnancy/second-trimester', { updated: 'September 5, 2026', updatedIso: '2026-09-05' }],
+  ['pregnancy/third-trimester', { updated: 'September 5, 2026', updatedIso: '2026-09-05' }]
+]);
 
 const priorityEvidence = {
   'trying-to-conceive/preparing-for-pregnancy': {
@@ -545,7 +549,10 @@ const healthCategories = new Set(['ttc', 'pregnancy', 'newborn', 'child']);
 const generatedEvidence = Object.fromEntries(
   articles
     .filter((article) => healthCategories.has(article.category))
-    .map((article) => [article.slug, buildProfileEvidence(article, updated, updatedIso)])
+    .map((article) => {
+      const dates = updatedOverrides.get(article.slug) ?? { updated, updatedIso };
+      return [article.slug, buildProfileEvidence(article, dates.updated, dates.updatedIso)];
+    })
     .filter(([, evidence]) => evidence)
 );
 
@@ -562,5 +569,6 @@ export function evidenceForArticle(slug, languageCode) {
   }
 
   const article = articleBySlug.get(slug);
-  return article ? localizedProfileEvidence(article, languageCode, updatedIso) : null;
+  const localizedUpdatedIso = updatedOverrides.get(slug)?.updatedIso ?? updatedIso;
+  return article ? localizedProfileEvidence(article, languageCode, localizedUpdatedIso) : null;
 }

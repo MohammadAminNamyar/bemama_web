@@ -6,7 +6,23 @@
     <atom:link href="https://bemamas.com/rss-tr.xml" rel="self" type="application/rss+xml" />
     <description>BeMama planlama, hamilelik, bebek bakımı ve çocuk gelişimi için sakin bir yardımcıdır.</description>
     <language>tr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>İkinci Üç Aylık Dönem: Sizi Neler Bekliyor (13–27. Haftalar)</title>
+      <link>https://bemamas.com/tr/pregnancy/second-trimester/</link>
+      <guid isPermaLink="true">https://bemamas.com/tr/pregnancy/second-trimester/</guid>
+      <description>İkinci üç aylık dönem rehberi: geri gelen enerji, bebeğinizin büyümesi ve ilk hareketleri, ayrıntılı ultrason (anomali taraması), bedeninizdeki değişimler, rahatlama ipuçları ve ileriye dönük planlama.</description>
+      <pubDate>Sat, 05 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/preg-second-trimester.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Üçüncü Üç Aylık Dönem: 28–40. Haftalar ve Doğuma Hazırlık</title>
+      <link>https://bemamas.com/tr/pregnancy/third-trimester/</link>
+      <guid isPermaLink="true">https://bemamas.com/tr/pregnancy/third-trimester/</guid>
+      <description>Üçüncü üç aylık dönemde sizi neler bekliyor: bebeğinizin pozisyon alması, sık görülen rahatsızlıklar, tekme sayımı, gerçek doğum sancıları ile Braxton Hicks arasındaki fark ve doğum için son hazırlıklar.</description>
+      <pubDate>Sat, 05 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/preg-third-trimester.jpg" medium="image" />
+    </item>
     <item>
       <title>Adet Döngüsünün Evreleri: Her Aşamada Neler Olur?</title>
       <link>https://bemamas.com/tr/trying-to-conceive/menstrual-cycle-basics/</link>
@@ -1174,22 +1190,6 @@
       <description>Hamileliğin ilk üç aylık döneminde sizi neler bekliyor: erken belirtiler, bebeğinizin gelişimi, beslenme ve folik asit, nelerden kaçınmanız gerektiği, doğum öncesi bakım ve dikkat edilmesi gereken uyarı işaretleri.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/preg-first-trimester.jpg" medium="image" />
-    </item>
-    <item>
-      <title>İkinci Üç Aylık Dönem: Sizi Neler Bekliyor (13–27. Haftalar)</title>
-      <link>https://bemamas.com/tr/pregnancy/second-trimester/</link>
-      <guid isPermaLink="true">https://bemamas.com/tr/pregnancy/second-trimester/</guid>
-      <description>İkinci üç aylık dönem rehberi: geri gelen enerji, bebeğinizin büyümesi ve ilk hareketleri, ayrıntılı ultrason (anomali taraması), bedeninizdeki değişimler, rahatlama ipuçları ve ileriye dönük planlama.</description>
-      <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/preg-second-trimester.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Üçüncü Üç Aylık Dönem: 28–40. Haftalar ve Doğuma Hazırlık</title>
-      <link>https://bemamas.com/tr/pregnancy/third-trimester/</link>
-      <guid isPermaLink="true">https://bemamas.com/tr/pregnancy/third-trimester/</guid>
-      <description>Üçüncü üç aylık dönemde sizi neler bekliyor: bebeğinizin pozisyon alması, sık görülen rahatsızlıklar, tekme sayımı, gerçek doğum sancıları ile Braxton Hicks arasındaki fark ve doğum için son hazırlıklar.</description>
-      <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/preg-third-trimester.jpg" medium="image" />
     </item>
     <item>
       <title>Hamilelikte Beslenme: İki Can İçin İyi Beslenmek</title>

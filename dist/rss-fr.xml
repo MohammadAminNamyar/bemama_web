@@ -6,7 +6,23 @@
     <atom:link href="https://bemamas.com/rss-fr.xml" rel="self" type="application/rss+xml" />
     <description>BeMama accompagne la planification, la grossesse, les soins du bébé et la croissance de l’enfant.</description>
     <language>fr</language>
-    <lastBuildDate>Wed, 26 Aug 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Le deuxième trimestre : à quoi s’attendre (semaines 13 à 27)</title>
+      <link>https://bemamas.com/fr/pregnancy/second-trimester/</link>
+      <guid isPermaLink="true">https://bemamas.com/fr/pregnancy/second-trimester/</guid>
+      <description>Un guide du deuxième trimestre : le retour de l’énergie, la croissance de votre bébé et ses premiers mouvements, l’échographie morphologique, les changements corporels, des conseils de confort et l’organisation à venir.</description>
+      <pubDate>Sat, 05 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/preg-second-trimester.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Le troisième trimestre : semaines 28 à 40 et derniers préparatifs</title>
+      <link>https://bemamas.com/fr/pregnancy/third-trimester/</link>
+      <guid isPermaLink="true">https://bemamas.com/fr/pregnancy/third-trimester/</guid>
+      <description>À quoi s’attendre au troisième trimestre : la position de votre bébé, les inconforts courants, le comptage des mouvements, les signes du travail face aux contractions de Braxton Hicks, et les derniers préparatifs pour la naissance.</description>
+      <pubDate>Sat, 05 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/preg-third-trimester.jpg" medium="image" />
+    </item>
     <item>
       <title>Les phases du cycle menstruel : ce qui se passe à chaque étape</title>
       <link>https://bemamas.com/fr/trying-to-conceive/menstrual-cycle-basics/</link>
@@ -1174,22 +1190,6 @@
       <description>À quoi s’attendre au premier trimestre de la grossesse : premiers symptômes, développement de votre bébé, nutrition et acide folique, ce qu’il faut éviter, suivi prénatal et signes d’alerte à surveiller.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/preg-first-trimester.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Le deuxième trimestre : à quoi s’attendre (semaines 13 à 27)</title>
-      <link>https://bemamas.com/fr/pregnancy/second-trimester/</link>
-      <guid isPermaLink="true">https://bemamas.com/fr/pregnancy/second-trimester/</guid>
-      <description>Un guide du deuxième trimestre : le retour de l’énergie, la croissance de votre bébé et ses premiers mouvements, l’échographie morphologique, les changements corporels, des conseils de confort et l’organisation à venir.</description>
-      <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/preg-second-trimester.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Le troisième trimestre : semaines 28 à 40 et derniers préparatifs</title>
-      <link>https://bemamas.com/fr/pregnancy/third-trimester/</link>
-      <guid isPermaLink="true">https://bemamas.com/fr/pregnancy/third-trimester/</guid>
-      <description>À quoi s’attendre au troisième trimestre : la position de votre bébé, les inconforts courants, le comptage des mouvements, les signes du travail face aux contractions de Braxton Hicks, et les derniers préparatifs pour la naissance.</description>
-      <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/preg-third-trimester.jpg" medium="image" />
     </item>
     <item>
       <title>Nutrition pendant la grossesse : bien manger pour deux</title>

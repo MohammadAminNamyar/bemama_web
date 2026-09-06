@@ -195,7 +195,8 @@ const seoTargets = [
   ['trying-to-conceive/early-pregnancy-signs', 'early pregnancy signs before a missed period'],
   ['trying-to-conceive/fertile-window-timing', 'when are the best times to conceive'],
   ['trying-to-conceive/basal-body-temperature', 'basal temp and ovulation'],
-  ['pregnancy/third-trimester', 'when do you enter the third trimester'],
+  ['pregnancy/second-trimester', 'when does the second trimester start'],
+  ['pregnancy/third-trimester', 'when does the third trimester start'],
   ['baby-and-child/toddler-tantrums', 'baby and toddler tantrums']
 ];
 for (const [slug, phrase] of seoTargets) {
@@ -212,10 +213,11 @@ for (const slug of Object.keys(articleEvidence)) {
       ? path.join(dist, slug, 'index.html')
       : path.join(dist, language.code, slug, 'index.html');
     const localizedHtml = await readFile(localizedFile, 'utf8');
+    const expectedEvidence = evidenceForArticle(slug, language.code);
     if (!localizedHtml.includes(evidenceUi[language.code].recommendationTitle)) {
       throw new Error(`Rendered localized evidence section is missing: ${language.code}/${slug}`);
     }
-    if (!localizedHtml.includes('"citation"') || !localizedHtml.includes('"dateModified":"2026-08-05"')) {
+    if (!localizedHtml.includes('"citation"') || !localizedHtml.includes(`"dateModified":"${expectedEvidence.updatedIso}"`)) {
       throw new Error(`Localized evidence JSON-LD is incomplete: ${language.code}/${slug}`);
     }
     if (language.code !== 'en' && localizedHtml.includes('What trusted health organizations recommend')) {

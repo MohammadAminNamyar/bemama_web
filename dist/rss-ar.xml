@@ -6,7 +6,23 @@
     <atom:link href="https://bemamas.com/rss-ar.xml" rel="self" type="application/rss+xml" />
     <description>BeMama رفيق هادئ للتخطيط والحمل ورعاية الطفل ونموه.</description>
     <language>ar</language>
-    <lastBuildDate>Wed, 26 Aug 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>الثلث الثاني من الحمل: ماذا تتوقعين (الأسابيع 13–27)</title>
+      <link>https://bemamas.com/ar/pregnancy/second-trimester/</link>
+      <guid isPermaLink="true">https://bemamas.com/ar/pregnancy/second-trimester/</guid>
+      <description>دليل الثلث الثاني من الحمل: عودة النشاط، نمو جنينك وحركاته الأولى، الفحص التشريحي التفصيلي، تغيرات الجسم، نصائح للراحة، والتخطيط للمستقبل.</description>
+      <pubDate>Sat, 05 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/preg-second-trimester.jpg" medium="image" />
+    </item>
+    <item>
+      <title>الثلث الثالث من الحمل: الأسابيع 28–40 والاستعداد للولادة</title>
+      <link>https://bemamas.com/ar/pregnancy/third-trimester/</link>
+      <guid isPermaLink="true">https://bemamas.com/ar/pregnancy/third-trimester/</guid>
+      <description>ما تتوقعينه في الثلث الثالث: وضعية جنينك، المضايقات الشائعة، عد الركلات، الفرق بين علامات المخاض وانقباضات براكستون هيكس، والاستعدادات النهائية للولادة.</description>
+      <pubDate>Sat, 05 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/preg-third-trimester.jpg" medium="image" />
+    </item>
     <item>
       <title>مراحل الدورة الشهرية: ماذا يحدث في كل مرحلة</title>
       <link>https://bemamas.com/ar/trying-to-conceive/menstrual-cycle-basics/</link>
@@ -1174,22 +1190,6 @@
       <description>ما الذي تتوقعينه في الثلث الأول من الحمل: الأعراض المبكرة، تطور جنينك، التغذية وحمض الفوليك، ما يجب تجنبه، رعاية ما قبل الولادة، والعلامات التحذيرية التي ينبغي الانتباه إليها.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/preg-first-trimester.jpg" medium="image" />
-    </item>
-    <item>
-      <title>الثلث الثاني من الحمل: ماذا تتوقعين (الأسابيع 13–27)</title>
-      <link>https://bemamas.com/ar/pregnancy/second-trimester/</link>
-      <guid isPermaLink="true">https://bemamas.com/ar/pregnancy/second-trimester/</guid>
-      <description>دليل الثلث الثاني من الحمل: عودة النشاط، نمو جنينك وحركاته الأولى، الفحص التشريحي التفصيلي، تغيرات الجسم، نصائح للراحة، والتخطيط للمستقبل.</description>
-      <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/preg-second-trimester.jpg" medium="image" />
-    </item>
-    <item>
-      <title>الثلث الثالث من الحمل: الأسابيع 28–40 والاستعداد للولادة</title>
-      <link>https://bemamas.com/ar/pregnancy/third-trimester/</link>
-      <guid isPermaLink="true">https://bemamas.com/ar/pregnancy/third-trimester/</guid>
-      <description>ما تتوقعينه في الثلث الثالث: وضعية جنينك، المضايقات الشائعة، عد الركلات، الفرق بين علامات المخاض وانقباضات براكستون هيكس، والاستعدادات النهائية للولادة.</description>
-      <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/preg-third-trimester.jpg" medium="image" />
     </item>
     <item>
       <title>تغذية الحامل: الأكل الصحي لك ولجنينك</title>

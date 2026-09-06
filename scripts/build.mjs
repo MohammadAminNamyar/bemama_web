@@ -23,6 +23,42 @@ import {
 // overlap, same-category preference) instead of the first three articles of
 // its category, so internal links spread across topic clusters rather than
 // piling onto the same few pages.
+const FEATURED_GUIDE_SLUGS = [
+  'pregnancy/second-trimester',
+  'pregnancy/third-trimester',
+  'trying-to-conceive/basal-body-temperature'
+];
+
+// These editorial links connect detailed guides to their strongest overview
+// page. They are pinned ahead of the automatic relevance results below, while
+// the remaining slots still come from the topical scoring system.
+const CURATED_RELATED_SLUGS = new Map([
+  ['pregnancy/first-trimester', ['pregnancy/second-trimester']],
+  ['pregnancy/pregnancy-weeks-13-16', ['pregnancy/second-trimester']],
+  ['pregnancy/pregnancy-weeks-17-20', ['pregnancy/second-trimester']],
+  ['pregnancy/pregnancy-weeks-21-24', ['pregnancy/second-trimester']],
+  ['pregnancy/anatomy-scan-guide', ['pregnancy/second-trimester']],
+  ['pregnancy/when-can-you-feel-baby-move', ['pregnancy/second-trimester']],
+  ['pregnancy/trimesters-of-pregnancy', ['pregnancy/second-trimester', 'pregnancy/third-trimester']],
+  ['pregnancy/pregnancy-weeks-25-28', ['pregnancy/third-trimester']],
+  ['pregnancy/pregnancy-weeks-29-32', ['pregnancy/third-trimester']],
+  ['pregnancy/pregnancy-weeks-33-36', ['pregnancy/third-trimester']],
+  ['pregnancy/pregnancy-weeks-37-40', ['pregnancy/third-trimester']],
+  ['pregnancy/baby-movement-patterns', ['pregnancy/third-trimester']],
+  ['pregnancy/preparing-for-labor', ['pregnancy/third-trimester']],
+  ['pregnancy/signs-of-labor', ['pregnancy/third-trimester']],
+  ['pregnancy/hospital-bag', ['pregnancy/third-trimester']],
+  ['trying-to-conceive/menstrual-cycle-basics', ['trying-to-conceive/basal-body-temperature']],
+  ['trying-to-conceive/ovulation-signs', ['trying-to-conceive/basal-body-temperature']],
+  ['trying-to-conceive/fertile-window-timing', ['trying-to-conceive/basal-body-temperature']],
+  ['trying-to-conceive/ovulation-tests', ['trying-to-conceive/basal-body-temperature']],
+  ['trying-to-conceive/cervical-mucus', ['trying-to-conceive/basal-body-temperature']],
+  ['trying-to-conceive/irregular-cycles-ttc', ['trying-to-conceive/basal-body-temperature']],
+  ['trying-to-conceive/menstrual-cycle-fertile-window', ['trying-to-conceive/basal-body-temperature']],
+  ['trying-to-conceive/tracking-ovulation', ['trying-to-conceive/basal-body-temperature']],
+  ['trying-to-conceive/pcos-and-ovulation-tracking', ['trying-to-conceive/basal-body-temperature']]
+]);
+
 const RELATED_STOPWORDS = new Set([
   'and', 'the', 'for', 'with', 'your', 'when', 'how', 'what', 'why', 'who',
   'does', 'are', 'can', 'you', 'from', 'during', 'while', 'into', 'about',
@@ -74,7 +110,21 @@ const relatedBySlug = new Map();
       if (score > 0) scored.push({ candidate, score });
     }
     scored.sort((a, b) => b.score - a.score || (a.candidate.slug < b.candidate.slug ? -1 : 1));
-    relatedBySlug.set(article.slug, scored.slice(0, 3).map((entry) => entry.candidate));
+    const selected = [];
+    const selectedSlugs = new Set();
+    for (const slug of CURATED_RELATED_SLUGS.get(article.slug) ?? []) {
+      const candidate = articleBySlug.get(slug);
+      if (!candidate || candidate.kind === 'tool' || candidate.slug === article.slug || selectedSlugs.has(candidate.slug)) continue;
+      selected.push(candidate);
+      selectedSlugs.add(candidate.slug);
+    }
+    for (const { candidate } of scored) {
+      if (selected.length >= 3) break;
+      if (selectedSlugs.has(candidate.slug)) continue;
+      selected.push(candidate);
+      selectedSlugs.add(candidate.slug);
+    }
+    relatedBySlug.set(article.slug, selected.slice(0, 3));
   }
 }
 
@@ -887,6 +937,7 @@ function renderHome(language) {
   const h = content[language.code].home;
   const fallback = content.en.home;
   const ui = tourUiFor(language.code);
+  const guideUi = hubText(language.code);
   const collections = tourCollectionsFor(language.code);
   const explorePath = localizedPath(language.code, 'explore');
   // Product-tour state belongs in the fragment. Query-string state creates
@@ -900,6 +951,20 @@ function renderHome(language) {
     ['app_child_growth.png', 'icon_ask_ai.png', h.journeys[3], h.features[2][1], tourLink('care')]
   ];
   const featureLinks = [tourLink('daily'), tourLink('community'), tourLink('care')];
+  const featuredGuideCards = FEATURED_GUIDE_SLUGS.map((slug) => articleBySlug.get(slug))
+    .filter(Boolean)
+    .map((article) => {
+      const data = article.i18n[language.code] ?? article.i18n.en;
+      return `<a class="article-card" href="${localizedPath(language.code, article.slug)}">
+        <div class="article-card-media">${imageMarkup(`/assets/${article.hero}`, data.title)}</div>
+        <div class="article-card-copy">
+          <h3>${escapeHtml(data.title)}</h3>
+          <p>${escapeHtml(data.description)}</p>
+          <span class="article-card-link">${escapeHtml(guideUi.readMore)}</span>
+        </div>
+      </a>`;
+    })
+    .join('');
   return `<main>
   <section class="hero">
     <div class="hero-inner">
@@ -960,6 +1025,13 @@ function renderHome(language) {
     <div class="media-grid">
       ${mediaCards.map(([image, icon, title, text, href]) => mediaCard(image, icon, title, text, href)).join('')}
     </div>
+  </section>
+  <section class="section home-guides" aria-labelledby="featured-guides-title">
+    <div class="section-header">
+      <h2 id="featured-guides-title">${escapeHtml(guideUi.featuredGuides)}</h2>
+      <p>${escapeHtml(guideUi.featuredGuidesText)}</p>
+    </div>
+    <div class="article-grid">${featuredGuideCards}</div>
   </section>
   <section class="section">
     <div class="section-header"><h2>${escapeHtml(h.whatTitle)}</h2><p>${escapeHtml(h.whatText)}</p></div>
