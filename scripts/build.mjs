@@ -5,6 +5,7 @@ import { fileURLToPath } from 'node:url';
 import { content, languages, pageSlugs, site } from '../src/pages.mjs';
 import { tourCollectionTranslations, tourUiTranslations } from '../src/tour-i18n.mjs';
 import { evidenceForArticle } from '../src/article-evidence.mjs';
+import { searchMetadata } from '../src/seo-metadata.mjs';
 import {
   articles,
   categories,
@@ -859,6 +860,10 @@ function renderPage(language, slug) {
     jsonLd = renderSiteJsonLd(language);
   }
 
+  ({ title, description } = searchMetadata({
+    lang: language.code, slug, title, description,
+    sections: article ? (article.i18n[language.code] ?? article.i18n.en).sections : []
+  }));
   const canonical = `${site.origin}${localizedPath(language.code, slug)}`;
   return `<!doctype html>
 <html lang="${language.code}" dir="${language.dir}">
@@ -2104,15 +2109,18 @@ function renderImagePreload(src, options = {}) {
 
 function imageMarkup(src, alt, options = {}) {
   const dimensions = imageDimensions(src);
+  // WebP is also the fallback for crawlers that only read <img src>. Keep the
+  // original files for existing external image URLs and social previews.
+  const fallback = webpAsset(src) ?? src;
   const attrs = [];
   if (options.className) {
     attrs.push(`class="${escapeHtml(options.className)}"`);
   }
   if (options.defer) {
     attrs.push(`src="${transparentPixel}"`);
-    attrs.push(`data-src="${versionedAsset(src)}"`);
+    attrs.push(`data-src="${versionedAsset(fallback)}"`);
   } else {
-    attrs.push(`src="${versionedAsset(src)}"`);
+    attrs.push(`src="${versionedAsset(fallback)}"`);
   }
   attrs.push(`alt="${escapeHtml(alt)}"`);
   if (dimensions) {

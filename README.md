@@ -7,6 +7,7 @@ Small static public website for BeMama policy, support, and launch pages.
 ```powershell
 node scripts/build.mjs
 node scripts/validate.mjs
+node scripts/audit-seo.mjs
 node scripts/serve.mjs --port 80
 ```
 

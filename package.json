@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "build": "node scripts/build.mjs",
-    "validate": "node scripts/validate.mjs",
+    "validate": "node scripts/validate.mjs && node scripts/audit-seo.mjs",
+    "audit:seo": "node scripts/audit-seo.mjs",
     "serve": "node scripts/serve.mjs",
     "dev": "node scripts/serve.mjs --port 80"
   }
