@@ -186,11 +186,11 @@ export const pregnancyArticles = [
     updated: 'July 1, 2026',
     i18n: {
       en: {
-        title: 'The Third Trimester: Weeks 28–40 and Getting Ready',
+        title: 'When Do You Enter the Third Trimester? Weeks 28–40',
         description:
-          'What to expect in the third trimester — your baby’s positioning, common discomforts, kick counting, labor signs vs Braxton Hicks, and final preparations for birth.',
+          'When does the third trimester start? Learn when you enter it, what changes during weeks 28–40, how to track movement, and how to prepare for birth.',
         intro:
-          'The third trimester is the home stretch. From week 28 until birth, your baby gains most of their weight, settles into position, and gets ready to meet you. Your body works harder than ever, so this guide covers the common discomforts, how to keep an eye on your baby’s movements, and how to tell practice contractions from the real thing.',
+          'You enter the third trimester at week 28, and it usually lasts until birth around week 40. During this home stretch, your baby gains much of their birth weight, settles into position, and gets ready to meet you. Your body works harder too. This guide covers common discomforts, your baby’s movement pattern, and how to tell practice contractions from labor.',
         sections: [
           {
             heading: 'Your baby gets into position',

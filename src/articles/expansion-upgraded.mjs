@@ -161,9 +161,9 @@ export const expansionUpgradedArticles = [
     "updated": "August 26, 2026",
     "i18n": {
       "en": {
-        "title": "Best Days to Get Pregnant: Timing Your Fertile Window",
-        "description": "The best days to get pregnant are the five days before ovulation and ovulation day itself. Learn how to find your window for any cycle length and how often to try.",
-        "intro": "The best days to get pregnant are the five days before ovulation and the day of ovulation itself, with the highest chance in the one to two days just before the egg is released. That six day stretch is called the fertile window, and it exists because sperm can live up to five days inside the body while the egg lasts only about 12 to 24 hours. This guide turns that biology into a simple schedule you can actually follow, whatever your cycle length.",
+        "title": "When Are the Best Times to Conceive? Fertile Window",
+        "description": "When are the best times to conceive? Learn why the five days before ovulation and ovulation day form your fertile window, plus how often to try.",
+        "intro": "When are the best times to conceive? Your fertile window covers the five days before ovulation and ovulation day itself. The highest chance is usually in the one to two days before the egg is released. Sperm can live for up to five days inside the body, while the egg lasts only about 12 to 24 hours. This guide turns that biology into a simple schedule you can follow, whatever your cycle length.",
         "sections": [
           {
             "heading": "Why the window is six days",
@@ -311,9 +311,9 @@ export const expansionUpgradedArticles = [
     "updated": "August 26, 2026",
     "i18n": {
       "en": {
-        "title": "Basal Body Temperature: How to Chart BBT for Ovulation",
-        "description": "Basal body temperature charting explained: when to take your temperature, how much BBT rises after ovulation, how to read a biphasic chart, and what the method can and cannot tell you.",
-        "intro": "Basal body temperature, or BBT, is your body's lowest resting temperature, taken first thing in the morning before you get up, and it rises slightly after ovulation, so charting it each day can confirm that you ovulated. The catch is timing: the rise appears after the fertile window has mostly passed. That makes BBT a learning tool more than a same-day signal. This guide walks through the morning routine, how to read the chart, and what the numbers can honestly tell you.",
+        "title": "Basal Temp and Ovulation: How to Chart BBT",
+        "description": "Understand basal temp and ovulation: when to take BBT, how to read the rise after ovulation, and what a biphasic chart can and cannot tell you.",
+        "intro": "Basal body temperature, or BBT, is your lowest resting temperature. Take it first thing in the morning, before you get up. BBT rises slightly after ovulation, so a daily chart can help confirm that you ovulated. The catch is that the rise appears after most of the fertile window has passed. That makes BBT a learning tool, not a same-day signal. This guide explains the morning routine, how to read the chart, and what the numbers can honestly tell you.",
         "sections": [
           {
             "heading": "What basal body temperature is and why it shifts",
@@ -836,22 +836,22 @@ export const expansionUpgradedArticles = [
     "updated": "August 26, 2026",
     "i18n": {
       "en": {
-        "title": "Early Signs of Pregnancy: Symptoms Before a Missed Period",
-        "description": "The early signs of pregnancy usually begin with a missed period, fatigue, and breast tenderness. Learn the typical order symptoms appear in and how to tell them apart from PMS.",
-        "intro": "The most common early signs of pregnancy are a missed period, fatigue, sore breasts, frequent urination, mild cramping, food aversions, and nausea, which usually begins around weeks 5 to 6. A missed period is the only sign on that list you can really trust, because the rest overlap heavily with ordinary PMS. This guide walks through the symptoms in the order they tend to appear, explains what they can and cannot tell you, and covers the few warning signs that need a same-day call or emergency care.",
+        "title": "Early Pregnancy Signs Before a Missed Period",
+        "description": "Early pregnancy signs before a missed period can include fatigue, swollen breasts, light spotting, and smell changes. Learn what they mean and when to test.",
+        "intro": "Early pregnancy signs before a missed period can include fatigue, sore or swollen breasts, frequent urination, mild cramping, food aversions, and a heightened sense of smell. Nausea usually begins later, around weeks 5 to 6. These symptoms overlap heavily with PMS, so they cannot confirm pregnancy. A missed period followed by a pregnancy test is a more reliable signal. This guide explains when symptoms may appear, what they can mean, and which warning signs need urgent care.",
         "sections": [
           {
             "heading": "A missed period is still the sign that matters most",
             "paragraphs": [
-              "If your cycles are fairly regular, a missed period is the earliest sign of pregnancy you can actually trust. Every other symptom on the classic list can happen in a normal, non-pregnant cycle too. The second half of your cycle is run by progesterone, and progesterone rises whether or not an egg was fertilized that month. The tiredness, sore breasts, and bloating it causes feel the same either way. A period that simply does not arrive is different. It suggests the hormone drop that normally ends the cycle never came, which is exactly what happens in early pregnancy, and it is the cue to take a test.",
+              "If your cycles are fairly regular, a missed period is the earliest sign you can trust. The other classic symptoms can also happen in a cycle without pregnancy. Progesterone rises after ovulation whether or not an egg was fertilized, so tiredness, swollen breasts, and bloating can feel the same either way. After implantation, pregnancy hormones stay high instead of falling before a period. That is why a late period is the cue to take a test.",
               "A missed period is less useful if your cycles are irregular, and plenty of things can delay a period without pregnancy being involved. Stress, illness, travel, big changes in weight or exercise, breastfeeding, thyroid conditions, and polycystic ovary syndrome are all common reasons. If you are not sure when your period is actually due, start by writing down the first day of each period so you have a baseline. If your period is more than a week late and a test is negative, repeat the test in a few days. If periods stay absent for several weeks with negative tests, mention it to a clinician rather than guessing."
             ]
           },
           {
             "heading": "Symptoms that can appear before your period is due",
             "paragraphs": [
-              "Fatigue is often the first thing people notice, and it is not ordinary tiredness. It can feel like being flattened by mid afternoon for no clear reason. Breast changes tend to follow: soreness, heaviness, tingling, or nipples that suddenly hate the seam of a shirt. Needing to pee more often can also begin surprisingly early, because blood flow to the kidneys increases within weeks. For some people these symptoms start one to two weeks after conception, before a period is even late. For many others, nothing at all happens until well after a missed period, and both patterns are normal.",
-              "Mild cramping or a pulling sensation low in the belly is common in early pregnancy, and so is bloating that makes jeans feel tight before anything has actually grown. Food can turn strange before nausea ever arrives: coffee suddenly smells wrong, a favorite meal loses its appeal, or one specific smell becomes unbearable. Some people also notice light spotting around the time a period would be due. Spotting, cramping, and the day-by-day timing of implantation are a topic of their own, and our guide to implantation signs covers them in detail. Here, the honest summary is that these signs are suggestive at best, never proof."
+              "Fatigue is often one of the first changes people notice. It can feel stronger than ordinary tiredness and arrive for no clear reason. Breast changes may follow, including soreness, heaviness, tingling, or swelling. Needing to pee more often can also begin in the early stages of pregnancy as blood flow to the kidneys increases. Some people notice these changes one to two weeks after conception. Others feel nothing until well after a missed period. Both patterns are normal.",
+              "Mild cramping or a pulling feeling low in the belly can occur early, as can bloating. Food and smells may also seem different. Coffee may suddenly smell wrong, a favorite meal may lose its appeal, or you may develop a heightened sense of smell. Some people notice light spotting around the time a period is due. This is often called implantation bleeding, but spotting alone cannot prove that implantation occurred. These signs are possible clues, never confirmation."
             ]
           },
           {
@@ -871,7 +871,7 @@ export const expansionUpgradedArticles = [
           {
             "heading": "Getting through the wait, and when to call",
             "paragraphs": [
-              "The two-week wait rewards distraction, not surveillance. Checking your breasts hourly or comparing every sensation with forum posts does not change the outcome; it just makes the wait longer and lonelier. A calmer routine helps: pick your test date in advance and write it down, note symptoms once a day at most, and plan something absorbing for the hardest days. If you want one place for the dates, symptoms, and questions you are collecting, the BeMama app works well for that. Treat symptom notes as a diary to show a clinician later, not as evidence to interrogate tonight.",
+              "The two-week wait rewards distraction, not surveillance. Checking every sensation does not change the outcome and can make the wait feel longer. Pick your test date in advance, note symptoms once a day at most, and plan something absorbing for the hardest days. If pregnancy is possible, continue a prenatal vitamin that contains folic acid; ask a clinician or pharmacist if you are unsure which dose is right for you. You can keep dates, symptoms, and questions together in BeMama. Treat those notes as a diary for a future appointment, not as proof of pregnancy.",
               "A few situations need action rather than patience. If you have had a positive test and notice steady pain on one side of your lower belly or bleeding that is more than spotting, call your clinician the same day, because these can be signs of a pregnancy growing outside the uterus. If the pain becomes severe, you feel pain in the tip of your shoulder, you feel faint or actually faint, or the bleeding is heavy, go to emergency care right away instead of waiting for a callback. Severe pain or unusually heavy bleeding deserves the same urgency even without a positive test. For everything milder, your own clinician, who knows your history, is the right judge of anything that worries you."
             ]
           }
@@ -5786,9 +5786,9 @@ export const expansionUpgradedArticles = [
     "updated": "August 26, 2026",
     "i18n": {
       "en": {
-        "title": "Toddler Tantrums: Why They Happen and How to Respond",
-        "description": "Why toddler tantrums happen, what is normal from ages 1 to 3, calm scripts for the meltdown itself, and the warning signs that deserve a pediatrician conversation.",
-        "intro": "Toddler tantrums are a normal part of development between about ages 1 and 3, and they happen because a young child's emotions outgrow their language and self-control for a while. Most last only a few minutes, and even daily tantrums can be typical around age 2. This guide explains why they happen, how to head some off, what to do mid-meltdown, and which patterns are worth mentioning to your pediatrician.",
+        "title": "Baby and Toddler Tantrums: How to Respond",
+        "description": "Learn why baby and toddler tantrums happen from ages 1 to 3, how to respond calmly during a meltdown, and when to talk with a pediatrician.",
+        "intro": "What parents call a baby tantrum often begins around the first birthday. Tantrums are a normal part of development from about ages 1 to 3 because emotions grow faster than language and self-control. Most last only a few minutes, and even daily tantrums can be typical around age 2. This guide explains why they happen, how to prevent some of them, what to do mid-meltdown, and which patterns are worth mentioning to your pediatrician.",
         "sections": [
           {
             "heading": "Why toddlers have tantrums",
@@ -5834,6 +5834,10 @@ export const expansionUpgradedArticles = [
           "Ask your pediatrician about very long, self-injuring, or escalating tantrums."
         ],
         "faq": [
+          {
+            "q": "Are baby tantrums normal?",
+            "a": "Tantrum-like outbursts can begin around a child's first birthday and are usually a normal sign of limited language and self-control. A younger baby's crying is communication about a need, discomfort, or overstimulation rather than deliberate misbehavior. Stay close, check basic needs, keep the child safe, and ask a pediatrician about any behavior that worries you."
+          },
           {
             "q": "Are tantrums normal for 2 year olds?",
             "a": "Yes, tantrums are normal for 2 year olds, and this age is often the peak of the tantrum stage. Even a tantrum every day can be typical at 2, because strong feelings arrive before the language and self-control needed to manage them. What matters more than frequency is that your child recovers afterward and is generally warm and engaged between outbursts."

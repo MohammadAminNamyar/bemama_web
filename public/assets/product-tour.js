@@ -18,7 +18,12 @@ if (root && configNode) {
   const next = root.querySelector('[data-tour-next]');
   const tabs = [...root.querySelectorAll('[data-tour-tab]')];
   const workspace = root.querySelector('.tour-workspace');
-  const params = new URLSearchParams(window.location.search);
+  const fragmentParams = new URLSearchParams(window.location.hash.replace(/^#/, ''));
+  // Keep old shared ?area= links working while all newly written state uses a
+  // fragment, which is not sent to servers or indexed as a duplicate page.
+  const params = fragmentParams.has('area')
+    ? fragmentParams
+    : new URLSearchParams(window.location.search);
 
   let collectionIndex = Math.max(
     0,
@@ -38,8 +43,13 @@ if (root && configNode) {
 
   const writeUrl = () => {
     const url = new URL(window.location.href);
-    url.searchParams.set('area', currentCollection().id);
-    url.searchParams.set('step', String(stepIndex + 1));
+    url.searchParams.delete('area');
+    url.searchParams.delete('step');
+    const state = new URLSearchParams({
+      area: currentCollection().id,
+      step: String(stepIndex + 1)
+    });
+    url.hash = state.toString();
     history.replaceState(null, '', url);
   };
 

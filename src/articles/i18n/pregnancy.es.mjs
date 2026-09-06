@@ -83,11 +83,11 @@ export const translations = {
     ]
   },
   'pregnancy/second-trimester': {
-    title: 'El segundo trimestre: qué esperar (semanas 13 a 27)',
+    title: 'Segundo trimestre de embarazo: semanas 13 a 27',
     description:
-      'Una guía del segundo trimestre: el regreso de la energía, el crecimiento de tu bebé y sus primeros movimientos, la ecografía morfológica, los cambios en tu cuerpo, consejos de comodidad y planificación.',
+      'Guía del segundo trimestre de embarazo: energía, crecimiento y primeros movimientos del bebé, ecografía morfológica y cambios en tu cuerpo.',
     intro:
-      'Muchas personas llaman al segundo trimestre la etapa más cómoda del embarazo, y con razón. Las náuseas suelen desaparecer, la energía regresa y tu pancita se vuelve visible para el mundo exterior. Las semanas 13 a 27 son también cuando sientes a tu bebé moverse por primera vez y lo ves en detalle en la ecografía morfológica.',
+      'El segundo trimestre de embarazo abarca las semanas 13 a 27. Muchas personas lo consideran la etapa más cómoda: las náuseas suelen disminuir, la energía puede regresar y la pancita se hace visible. También es cuando muchas sienten por primera vez los movimientos del bebé y lo ven en detalle durante la ecografía morfológica.',
     sections: [
       {
         heading: 'Por qué suele regresar la energía',

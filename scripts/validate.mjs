@@ -1,7 +1,7 @@
 import { access, readdir, readFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
-import { languages, pageSlugs } from '../src/pages.mjs';
+import { languages, pageSlugs, site } from '../src/pages.mjs';
 import { articleBySlug, articles, hubSlugs } from '../src/content-hub.mjs';
 import { articleEvidence, evidenceForArticle } from '../src/article-evidence.mjs';
 import { evidenceUi } from '../src/article-evidence-i18n.mjs';
@@ -42,9 +42,12 @@ const forbiddenClaims = [
 ];
 
 const requiredRoutes = [];
+const routeMetadata = new Map();
 for (const language of languages) {
   for (const slug of [...pageSlugs, ...hubSlugs]) {
-    requiredRoutes.push(localizedPath(language.code, slug));
+    const route = localizedPath(language.code, slug);
+    requiredRoutes.push(route);
+    routeMetadata.set(route, { language, slug });
   }
 }
 
@@ -90,6 +93,31 @@ for (const article of healthArticles) {
 for (const route of requiredRoutes) {
   const file = route === '/' ? path.join(dist, 'index.html') : path.join(dist, route, 'index.html');
   await access(file);
+  const html = await readFile(file, 'utf8');
+  const { language, slug } = routeMetadata.get(route);
+  if (!html.includes(`<html lang="${language.code}" dir="${language.dir}">`)) {
+    throw new Error(`Localized page has the wrong html lang or direction: ${route}`);
+  }
+  if (!html.includes('<meta name="viewport" content="width=device-width, initial-scale=1.0" />')) {
+    throw new Error(`Localized page is missing the mobile viewport: ${route}`);
+  }
+  if ((html.match(/<h1\b/g) ?? []).length !== 1) {
+    throw new Error(`Localized page must have exactly one H1: ${route}`);
+  }
+  if (!html.includes(`<link rel="canonical" href="${site.origin}${route}" />`)) {
+    throw new Error(`Localized page has the wrong canonical URL: ${route}`);
+  }
+  for (const alternateLanguage of languages) {
+    const alternateRoute = localizedPath(alternateLanguage.code, slug);
+    const alternate = `<link rel="alternate" hreflang="${alternateLanguage.code}" href="${site.origin}${alternateRoute}" />`;
+    if (!html.includes(alternate)) {
+      throw new Error(`Localized page is missing hreflang ${alternateLanguage.code}: ${route}`);
+    }
+  }
+  const defaultRoute = localizedPath('en', slug);
+  if (!html.includes(`<link rel="alternate" hreflang="x-default" href="${site.origin}${defaultRoute}" />`)) {
+    throw new Error(`Localized page is missing its x-default hreflang: ${route}`);
+  }
 }
 
 const htmlFiles = await collectHtml(dist);
@@ -137,6 +165,16 @@ if (!toolHtml.includes('/assets/care-tools.js')) {
 for (const file of htmlFiles) {
   const html = await readFile(file, 'utf8');
   const normalizedHtml = html.toLowerCase();
+  if (/href="\/(?:[a-z]{2}\/)?explore\/\?[^"#]*(?:area|step)=/i.test(html)) {
+    throw new Error(`Crawlable product-tour state found in ${file}; use a URL fragment instead.`);
+  }
+  for (const match of html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)) {
+    try {
+      JSON.parse(match[1]);
+    } catch (error) {
+      throw new Error(`Invalid JSON-LD in ${file}: ${error.message}`);
+    }
+  }
   for (const claim of forbiddenClaims) {
     const found = claim === 'MinIO'
       ? /\bminio\b/i.test(html)
@@ -152,6 +190,21 @@ for (const file of htmlFiles) {
     }
   }
 }
+
+const seoTargets = [
+  ['trying-to-conceive/early-pregnancy-signs', 'early pregnancy signs before a missed period'],
+  ['trying-to-conceive/fertile-window-timing', 'when are the best times to conceive'],
+  ['trying-to-conceive/basal-body-temperature', 'basal temp and ovulation'],
+  ['pregnancy/third-trimester', 'when do you enter the third trimester'],
+  ['baby-and-child/toddler-tantrums', 'baby and toddler tantrums']
+];
+for (const [slug, phrase] of seoTargets) {
+  await validateSeoTarget(path.join(dist, slug, 'index.html'), phrase);
+}
+await validateSeoTarget(
+  path.join(dist, 'es', 'pregnancy', 'second-trimester', 'index.html'),
+  'segundo trimestre de embarazo'
+);
 
 for (const slug of Object.keys(articleEvidence)) {
   for (const language of languages) {
@@ -195,4 +248,18 @@ function localizedPath(languageCode, slug) {
 
 function stripQuery(href) {
   return href.split('?')[0].split('#')[0];
+}
+
+async function validateSeoTarget(file, phrase) {
+  const html = await readFile(file, 'utf8');
+  const title = html.match(/<title>(.*?)<\/title>/)?.[1] ?? '';
+  const h1 = html.match(/<h1>(.*?)<\/h1>/)?.[1] ?? '';
+  const description = html.match(/<meta name="description" content="([^"]*)" \/>/)?.[1] ?? '';
+  const expected = phrase.toLowerCase();
+  if (!title.toLowerCase().includes(expected) || !h1.toLowerCase().includes(expected)) {
+    throw new Error(`SEO target phrase is missing from title or H1 in ${file}: ${phrase}`);
+  }
+  if (title.length > 60 || description.length > 160) {
+    throw new Error(`SEO title or description is too long in ${file} (${title.length}/${description.length}).`);
+  }
 }
