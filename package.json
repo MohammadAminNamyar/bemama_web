@@ -5,8 +5,9 @@
   "type": "module",
   "scripts": {
     "build": "node scripts/build.mjs",
-    "validate": "node --test scripts/seo-metadata.test.mjs && node scripts/validate.mjs && node scripts/audit-seo.mjs",
+    "validate": "node --test scripts/seo-metadata.test.mjs scripts/indexnow.test.mjs && node scripts/validate.mjs && node scripts/audit-seo.mjs",
     "audit:seo": "node scripts/audit-seo.mjs",
+    "indexnow": "node scripts/indexnow.mjs",
     "serve": "node scripts/serve.mjs",
     "dev": "node scripts/serve.mjs --port 80"
   }

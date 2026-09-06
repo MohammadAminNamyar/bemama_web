@@ -3,7 +3,7 @@ import { test } from 'node:test';
 import { articles, articleBySlug } from '../src/content-hub.mjs';
 import { languages, pageSlugs } from '../src/pages.mjs';
 import { categories } from '../src/content-hub.mjs';
-import { descriptionsByLanguage, metadataOverrides, metadataLength, searchMetadata, normalizeMetadata } from '../src/seo-metadata.mjs';
+import { descriptionsByLanguage, metadataOverrides, metadataLength, searchMetadata, normalizeMetadata, validDescription } from '../src/seo-metadata.mjs';
 
 test('every supported locale has its own editorial description map', () => {
   assert.deepEqual(Object.keys(descriptionsByLanguage).sort(), languages.map(l => l.code).sort());
@@ -11,7 +11,7 @@ test('every supported locale has its own editorial description map', () => {
     assert.ok(Object.keys(descriptions).length > 0, lang);
     for (const [slug, description] of Object.entries(descriptions)) {
       assert.ok(articleBySlug.has(slug), `${lang}/${slug}: unknown route`);
-      assert.ok(metadataLength(description) >= 70 && metadataLength(description) <= 160, `${lang}/${slug}: description length`);
+      assert.ok(validDescription(description), `${lang}/${slug}: description length`);
       assert.equal(description, description.trim(), `${lang}/${slug}: extra whitespace`);
       assert.ok(!description.includes('—'), `${lang}/${slug}: em dash`);
       if (lang !== 'en') assert.notEqual(description, descriptionsByLanguage.en[slug], `${lang}/${slug}: English copy`);
@@ -27,7 +27,7 @@ for (const { code: lang } of languages) {
       const result = searchMetadata({ lang, slug: article.slug, title: `${localized.title} | BeMama`, description: localized.description });
       assert.ok(['original', 'editorial'].includes(result.method));
       assert.ok(metadataLength(result.title) >= 15 && metadataLength(result.title) <= 70, `${lang}/${article.slug}: title length`);
-      assert.ok(metadataLength(result.description) >= 70 && metadataLength(result.description) <= 160, `${lang}/${article.slug}: description length`);
+      assert.ok(validDescription(result.description), `${lang}/${article.slug}: description length`);
       const expected = metadataOverrides[`${lang}/${article.slug}`]?.description
         ?? descriptionsByLanguage[lang][article.slug] ?? localized.description;
       assert.equal(result.description, normalizeMetadata(expected), `${lang}/${article.slug}: description truncated or synthesized`);
@@ -42,6 +42,7 @@ test('explicit overrides reference known routes and languages', () => {
     const slash = key.indexOf('/');
     assert.ok(descriptionsByLanguage[key.slice(0, slash)], key);
     assert.ok(routes.has(key.slice(slash + 1)), key);
+    if (metadataOverrides[key].description) assert.ok(validDescription(metadataOverrides[key].description), `${key}: description length`);
   }
 });
 
@@ -63,4 +64,14 @@ test('unsupported languages are never replaced with English', () => {
 test('length budgeting accounts for escaped metadata without changing it', () => {
   assert.equal(metadataLength('A & B'), 'A &amp; B'.length);
   assert.equal(metadataLength("Baby's"), 'Baby&#39;s'.length);
+});
+
+test('short-description checks use visible characters, not entity-inflated length', () => {
+  assert.equal(validDescription('x'.repeat(99)), false);
+  assert.equal(validDescription('x'.repeat(100)), true);
+  assert.equal(validDescription('x'.repeat(160)), true);
+  assert.equal(validDescription('x'.repeat(161)), false);
+  assert.equal(validDescription('x'.repeat(95) + ' &'), false);
+  assert.equal(validDescription('x'.repeat(156) + ' &'), false);
+  assert.throws(() => searchMetadata({ lang: 'en', slug: 'future-page', title: 'Future article | BeMama', description: 'x'.repeat(99) }), /editorial rewrite/);
 });

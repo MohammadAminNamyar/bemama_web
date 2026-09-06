@@ -30,6 +30,32 @@ const labels = {
 };
 
 export const metadataOverrides = {
+  'en/about': { description: 'Meet BeMama, a companion for pregnancy and parenting. Explore its daily guidance, practical tools, community and limits of AI-assisted support.' },
+  'en/ai-disclaimer': { description: 'Understand how BeMama uses AI-assisted content, its limitations and safety boundaries, and why it cannot replace advice from a qualified clinician.' },
+  'en/contact': { description: 'Contact BeMama support for help with your account, privacy questions, data access, export or deletion requests, and concerns about content safety.' },
+  'en/pregnancy': { description: 'Explore pregnancy guides by trimester, from early symptoms and prenatal appointments to nutrition, everyday comfort and preparing for birth.' },
+  'fa/': { description: 'با BeMama برای اقدام به بارداری، دوران بارداری و رشد کودک همراه شوید؛ راهنماهای روزانه، ابزارهای کاربردی و جامعه‌ای برای حمایت از والدین.' },
+  'fa/about': { description: 'با BeMama و امکانات آن برای بارداری و والدگری آشنا شوید؛ راهنمای روزانه، ابزارهای کاربردی، جامعه والدین و محدودیت‌های پشتیبانی هوش مصنوعی.' },
+  'fa/subscription-terms': { description: 'شرایط اشتراک BeMama را بخوانید؛ طرح‌های پولی، پرداخت فروشگاهی، تمدید و لغو اشتراک، بازپرداخت، دوره آزمایشی و نحوه تغییر قیمت.' },
+  'fa/pregnancy': { description: 'راهنماهای بارداری را بر اساس سه‌ماهه پیدا کنید؛ از علائم اولیه و ویزیت‌های مراقبتی تا تغذیه، آسایش روزمره و آمادگی برای زایمان.' },
+  'ar/subscription-terms': { description: 'اقرئي شروط اشتراك BeMama، بما فيها الوصول المجاني والمميز والدفع عبر المتاجر والتجديد والإلغاء وسياسة الاسترداد والفترات التجريبية.' },
+  'ar/trying-to-conceive': { description: 'استعدي للحمل مع أدلة BeMama حول الدورة الشهرية ومتابعة الخصوبة وصحة ما قبل الحمل، وتجهيز الأسئلة والزيارات مع فريق الرعاية.' },
+  'ar/pregnancy': { description: 'تصفحي أدلة الحمل حسب الثلث، من الأعراض الأولى ومواعيد الرعاية إلى التغذية والراحة اليومية والاستعداد للولادة ومعرفة متى تطلبين المساعدة.' },
+  'ar/newborn': { description: 'اكتشفي أدلة رعاية المولود في الأشهر الأولى، من التغذية والنوم والعناية اليومية إلى تعافي الأم والعلامات التي تستدعي التواصل مع الطبيب.' },
+  'ar/baby-and-child': { description: 'تصفحي أدلة نمو الرضيع والطفل، مع موضوعات عن التغذية والنوم واللعب والتواصل والسلامة وروتين الأسرة والتعامل مع مشاعر الصغير.' },
+  'ar/tools': { description: 'اكتشفي أدوات BeMama في المتصفح لتنظيم رحلة الأسرة، من حاسبات الحمل والإباضة إلى قوائم الاستعداد ورعاية المولود ومتابعة نمو الطفل.' },
+  'fr/': { description: 'Découvrez BeMama pour préparer une grossesse et accompagner votre enfant, avec des guides, des outils pratiques et une communauté de parents.' },
+  'fr/terms': { description: 'Consultez les conditions d’utilisation de BeMama : responsabilités des utilisateurs, règles de la communauté et limites des contenus assistés par IA.' },
+  'tr/': { description: 'BeMama ile gebeliğe hazırlık, hamilelik ve çocuk gelişimini keşfedin; günlük rehberlere, pratik araçlara ve ebeveyn topluluğuna ulaşın.' },
+  'tr/terms': { description: 'BeMama kullanım şartlarını inceleyin: kullanıcı sorumlulukları, topluluk kuralları, hizmetin kapsamı ve yapay zeka destekli içeriğin sınırları.' },
+  'tr/subscription-terms': { description: 'BeMama abonelik koşullarını okuyun; ücretsiz ve premium erişim, mağaza ödemeleri, yenileme, iptal, iade ve deneme süreleri hakkında bilgi edinin.' },
+  'es/': { description: 'Descubre BeMama para preparar el embarazo y acompañar el crecimiento de tu bebé, con guías, herramientas prácticas y una comunidad de familias.' },
+  'es/terms': { description: 'Consulta las condiciones de uso de BeMama, las responsabilidades del usuario, las normas de la comunidad y los límites del contenido asistido por IA.' },
+  'es/subscription-terms': { description: 'Lee las condiciones de suscripción de BeMama sobre acceso gratuito y premium, pagos, renovación, cancelación, reembolsos y periodos de prueba.' },
+  'pt/': { description: 'Conheça o BeMama para planejar a gravidez e acompanhar o crescimento do bebê, com orientações, ferramentas práticas e uma comunidade de famílias.' },
+  'pt/terms': { description: 'Leia os termos de uso do BeMama, com as responsabilidades do usuário, as regras da comunidade e os limites do conteúdo assistido por IA.' },
+  'pt/subscription-terms': { description: 'Consulte os termos de assinatura do BeMama sobre acesso gratuito e premium, pagamentos, renovação, cancelamento, reembolsos e períodos de teste.' },
+  'pt/pregnancy': { description: 'Explore os guias de gravidez por trimestre, dos primeiros sintomas e consultas de pré-natal à alimentação, ao conforto e à preparação para o parto.' },
   'fa/baby-and-child/when-do-babies-walk': { title: 'کودکان چه زمانی راه می‌روند؟ | BeMama' },
   'ar/baby-and-child/nap-transitions': { title: 'انتقال الطفل بين القيلولات: العلامات والتوقيت | BeMama' },
   'fr/baby-and-child/finger-foods': { title: 'Premiers aliments à saisir pour bébé | BeMama' },
@@ -63,13 +89,13 @@ export const metadataOverrides = {
   'pt/privacy': { description: 'Saiba como o BeMama coleta, utiliza e armazena seus dados e como solicitar acesso, exportação ou exclusão das suas informações.' },
   'pt/ai-disclaimer': { description: 'Saiba como a IA é usada no BeMama, quais são seus limites e por que as informações educativas não substituem uma consulta médica.' },
   'pt/contact': { description: 'Fale com o suporte do BeMama para obter ajuda com sua conta ou solicitar acesso, exportação ou exclusão dos seus dados.' },
-  'en/about-bemama': { title: 'BeMama App Guides and Features | BeMama' },
-  'fa/about-bemama': { title: 'راهنمای امکانات و استفاده از برنامه BeMama' },
-  'ar/about-bemama': { title: 'دليل تطبيق BeMama وميزاته' },
+  'en/about-bemama': { title: 'BeMama App Guides and Features | BeMama', description: 'Explore BeMama app guides for daily journeys, care tools, questions and community support, with practical steps to get started at your own pace.' },
+  'fa/about-bemama': { title: 'راهنمای امکانات و استفاده از برنامه BeMama', description: 'راهنمای استفاده از BeMama را مرور کنید؛ مسیر روزانه، ابزارهای مراقبت، پرسش و پاسخ و جامعه والدین، همراه با گام‌های شروع استفاده از برنامه.' },
+  'ar/about-bemama': { title: 'دليل تطبيق BeMama وميزاته', description: 'اكتشفي كيفية استخدام BeMama، من المسار اليومي وأدوات الرعاية إلى الأسئلة والمجتمع، مع أدلة تساعدك على البدء وفهم حدود الخدمة.' },
   'fr/about-bemama': { title: 'Guides et fonctionnalités de l’application BeMama' },
   'tr/about-bemama': { title: 'BeMama Uygulama Rehberleri ve Özellikleri' },
   'es/about-bemama': { title: 'Guías y funciones de la aplicación BeMama' },
-  'pt/about-bemama': { title: 'Guias e recursos do aplicativo BeMama' },
+  'pt/about-bemama': { title: 'Guias e recursos do aplicativo BeMama', description: 'Explore os guias do aplicativo BeMama sobre jornadas diárias, ferramentas de cuidado, perguntas e comunidade, com orientações para começar.' },
   'fr/newborn/cord-and-skin-care': { title: 'Soins du cordon et de la peau du nouveau-né | BeMama' },
   'fr/trying-to-conceive/basal-body-temperature': { title: 'Température basale : suivre son ovulation | BeMama' },
   'fr/pregnancy/sleep-positions-pregnancy': { title: 'Positions pour dormir pendant la grossesse | BeMama' },
@@ -123,6 +149,15 @@ export function metadataLength(value) {
     .replaceAll('"', '&quot;').replaceAll("'", '&#39;').length;
 }
 
+// The completed Ahrefs crawl flags descriptions below 100 characters. Use
+// visible text for the minimum and serialized text for the maximum so HTML
+// entities cannot make an under-length description appear to pass.
+export const metadataLimits = Object.freeze({ descriptionMin: 100, descriptionMax: 160 });
+export function validDescription(value) {
+  return normalizeMetadata(value).length >= metadataLimits.descriptionMin
+    && metadataLength(value) <= metadataLimits.descriptionMax;
+}
+
 export function searchMetadata({ lang, slug, title, description }) {
   if (!Object.hasOwn(descriptionsByLanguage, lang)) {
     throw new Error(`Unsupported SEO language: ${lang}`);
@@ -152,7 +187,6 @@ export function searchMetadata({ lang, slug, title, description }) {
 
   const searchDescription = summary;
   const method = override.description ? 'editorial' : 'original';
-  const validDescription = (value) => metadataLength(value) >= 70 && metadataLength(value) <= 160;
   // New content must supply a usable summary or an explicit localized rewrite.
   // Do not synthesize topic lists, copy English, or truncate by character count.
   if (!validDescription(searchDescription)) {

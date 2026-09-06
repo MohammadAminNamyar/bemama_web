@@ -3,7 +3,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { languages, pageSlugs } from '../src/pages.mjs';
 import { articleBySlug, hubSlugs } from '../src/content-hub.mjs';
-import { searchMetadata, metadataLength, metadataOverrides } from '../src/seo-metadata.mjs';
+import { searchMetadata, metadataLength, metadataOverrides, metadataLimits, normalizeMetadata } from '../src/seo-metadata.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const decode = (text) => text.replace(/&(amp|lt|gt|quot|#39);/g,
@@ -20,7 +20,8 @@ for (const { code: lang, dir } of languages) {
     const article = articleBySlug.get(slug);
     const localized = article?.i18n[lang];
     const expected = localized ? searchMetadata({ lang, slug,
-      title: `${localized.title} | BeMama`, description: localized.description }) : undefined;
+      title: `${localized.title} | BeMama`, description: localized.description })
+      : metadataOverrides[`${lang}/${slug}`] ? searchMetadata({ lang, slug, title, description }) : undefined;
     if (article && !localized) localizationIssues.push({ route, issue: 'Missing source translation' });
     if (expected && (title !== expected.title || description !== expected.description)) {
       localizationIssues.push({ route, issue: 'Rendered metadata differs from localized source; rebuild required' });
@@ -36,7 +37,7 @@ for (const { code: lang, dir } of languages) {
     }
     const method = expected?.method ?? (metadataOverrides[`${lang}/${slug}`]?.description ? 'editorial' : 'original');
     const metadata = { title, description, method };
-    rows.push({ lang, slug, ...metadata, titleLength: metadataLength(metadata.title), descriptionLength: metadataLength(metadata.description) });
+    rows.push({ lang, slug, ...metadata, titleLength: metadataLength(metadata.title), descriptionLength: metadataLength(metadata.description), descriptionTextLength: normalizeMetadata(metadata.description).length });
     for (const tag of html.matchAll(/<img\b[^>]*>/g)) {
       const src = tag[0].match(/\b(?:data-src|src)="(\/assets\/[^"?]+)(?:\?[^"]*)?"/)?.[1];
       if (src) images.set(src, (images.get(src) ?? 0) + 1);
@@ -57,7 +58,7 @@ for (const [src, references] of images) {
   const { size } = await stat(path.join(root, 'dist', src));
   if (size > 1_000_000) oversizedImages.push({ src, size, references });
 }
-const issues = rows.filter((row) => row.titleLength < 15 || row.titleLength > 70 || row.descriptionLength < 70 || row.descriptionLength > 160);
+const issues = rows.filter((row) => row.titleLength < 15 || row.titleLength > 70 || row.descriptionTextLength < metadataLimits.descriptionMin || row.descriptionLength > metadataLimits.descriptionMax);
 const perLanguage = languages.map(({ code: lang, label }) => {
   const localized = rows.filter(row => row.lang === lang);
   return { language: lang, label, pages: localized.length,
@@ -68,8 +69,8 @@ const perLanguage = languages.map(({ code: lang, label }) => {
 });
 console.log(JSON.stringify({ pages: rows.length, longTitles: rows.filter(r => r.titleLength > 70).length,
   shortTitles: rows.filter(r => r.titleLength < 15).length,
-  longDescriptions: rows.filter(r => r.descriptionLength > 160).length,
-  shortDescriptions: rows.filter(r => r.descriptionLength < 70).length,
+  longDescriptions: rows.filter(r => r.descriptionLength > metadataLimits.descriptionMax).length,
+  shortDescriptions: rows.filter(r => r.descriptionTextLength < metadataLimits.descriptionMin).length,
   perLanguage, oversizedImages, duplicateTitles, duplicateDescriptions, localizationIssues }, null, 2));
 if (process.argv.includes('--issues')) {
   for (const row of issues) console.log(JSON.stringify(row));
