@@ -1,0 +1,776 @@
+{
+  "observedAt": "2026-09-06 23:23:28 UTC",
+  "scope": "Individual inspection of all 11 examples in Crawled - currently not indexed; no other indexing group included",
+  "sourceReportLastUpdated": "2026-09-03",
+  "summary": {
+    "examples": 11,
+    "indexedNow": 9,
+    "stillUnindexed": 2
+  },
+  "records": [
+    {
+      "url": "https://bemamas.com/baby-and-child/potty-readiness/",
+      "subject": "Potty-readiness (English)",
+      "indexStatus": "Indexed",
+      "lastCrawlLocal": "Sep 5, 2026, 3:43:47 PM",
+      "timeZone": "America/Vancouver",
+      "crawler": "Googlebot smartphone",
+      "crawlAllowed": "Yes",
+      "pageFetch": "Successful",
+      "indexingAllowed": "Yes",
+      "userDeclaredCanonical": "https://bemamas.com/baby-and-child/potty-readiness/",
+      "googleSelectedCanonical": "https://bemamas.com/baby-and-child/potty-readiness/",
+      "savedHtmlAvailable": true
+    },
+    {
+      "url": "https://bemamas.com/es/trying-to-conceive/basal-body-temperature/",
+      "subject": "Basal body temperature (Spanish)",
+      "indexStatus": "Crawled - currently not indexed",
+      "lastCrawlLocal": "Sep 5, 2026, 1:20:09 AM",
+      "timeZone": "America/Vancouver",
+      "crawler": "Googlebot smartphone",
+      "crawlAllowed": "Yes",
+      "pageFetch": "Successful",
+      "indexingAllowed": "N/A",
+      "userDeclaredCanonical": "N/A",
+      "googleSelectedCanonical": "N/A",
+      "savedHtmlAvailable": false
+    },
+    {
+      "url": "https://bemamas.com/ar/pregnancy/baby-movement-patterns/",
+      "subject": "Baby movement patterns (Arabic)",
+      "indexStatus": "Indexed",
+      "lastCrawlLocal": "Sep 6, 2026, 4:42:28 AM",
+      "timeZone": "America/Vancouver",
+      "crawler": "Googlebot smartphone",
+      "crawlAllowed": "Yes",
+      "pageFetch": "Successful",
+      "indexingAllowed": "Yes",
+      "userDeclaredCanonical": "https://bemamas.com/ar/pregnancy/baby-movement-patterns/",
+      "googleSelectedCanonical": "https://bemamas.com/ar/pregnancy/baby-movement-patterns/",
+      "savedHtmlAvailable": true
+    },
+    {
+      "url": "https://bemamas.com/ar/newborn/first-doctor-visit/",
+      "subject": "First doctor visit (Arabic)",
+      "indexStatus": "Indexed",
+      "lastCrawlLocal": "Sep 5, 2026, 11:17:28 PM",
+      "timeZone": "America/Vancouver",
+      "crawler": "Googlebot smartphone",
+      "crawlAllowed": "Yes",
+      "pageFetch": "Successful",
+      "indexingAllowed": "Yes",
+      "userDeclaredCanonical": "https://bemamas.com/ar/newborn/first-doctor-visit/",
+      "googleSelectedCanonical": "https://bemamas.com/ar/newborn/first-doctor-visit/",
+      "savedHtmlAvailable": true
+    },
+    {
+      "url": "https://bemamas.com/fa/newborn/safe-sleep-room-sharing/",
+      "subject": "Safe sleep and room sharing (Persian)",
+      "indexStatus": "Indexed",
+      "lastCrawlLocal": "Sep 5, 2026, 9:24:58 PM",
+      "timeZone": "America/Vancouver",
+      "crawler": "Googlebot smartphone",
+      "crawlAllowed": "Yes",
+      "pageFetch": "Successful",
+      "indexingAllowed": "Yes",
+      "userDeclaredCanonical": "https://bemamas.com/fa/newborn/safe-sleep-room-sharing/",
+      "googleSelectedCanonical": "https://bemamas.com/fa/newborn/safe-sleep-room-sharing/",
+      "savedHtmlAvailable": true
+    },
+    {
+      "url": "https://bemamas.com/fr/baby-and-child/baby-milestones/",
+      "subject": "Baby milestones (French)",
+      "indexStatus": "Indexed",
+      "lastCrawlLocal": "Sep 5, 2026, 8:21:38 PM",
+      "timeZone": "America/Vancouver",
+      "crawler": "Googlebot smartphone",
+      "crawlAllowed": "Yes",
+      "pageFetch": "Successful",
+      "indexingAllowed": "Yes",
+      "userDeclaredCanonical": "https://bemamas.com/fr/baby-and-child/baby-milestones/",
+      "googleSelectedCanonical": "https://bemamas.com/fr/baby-and-child/baby-milestones/",
+      "savedHtmlAvailable": true
+    },
+    {
+      "url": "https://bemamas.com/fa/baby-and-child/vaccinations-overview/",
+      "subject": "Vaccination overview (Persian)",
+      "indexStatus": "Indexed",
+      "lastCrawlLocal": "Sep 5, 2026, 8:59:58 PM",
+      "timeZone": "America/Vancouver",
+      "crawler": "Googlebot smartphone",
+      "crawlAllowed": "Yes",
+      "pageFetch": "Successful",
+      "indexingAllowed": "Yes",
+      "userDeclaredCanonical": "https://bemamas.com/fa/baby-and-child/vaccinations-overview/",
+      "googleSelectedCanonical": "https://bemamas.com/fa/baby-and-child/vaccinations-overview/",
+      "savedHtmlAvailable": true
+    },
+    {
+      "url": "https://bemamas.com/fr/trying-to-conceive/menstrual-cycle-basics/",
+      "subject": "Menstrual-cycle basics (French)",
+      "indexStatus": "Indexed",
+      "lastCrawlLocal": "Sep 5, 2026, 3:52:42 PM",
+      "timeZone": "America/Vancouver",
+      "crawler": "Googlebot smartphone",
+      "crawlAllowed": "Yes",
+      "pageFetch": "Successful",
+      "indexingAllowed": "Yes",
+      "userDeclaredCanonical": "https://bemamas.com/fr/trying-to-conceive/menstrual-cycle-basics/",
+      "googleSelectedCanonical": "https://bemamas.com/fr/trying-to-conceive/menstrual-cycle-basics/",
+      "savedHtmlAvailable": true
+    },
+    {
+      "url": "https://bemamas.com/ar/tools/due-date-calculator/",
+      "subject": "Due-date calculator (Arabic)",
+      "indexStatus": "Indexed",
+      "lastCrawlLocal": "Sep 5, 2026, 1:22:41 PM",
+      "timeZone": "America/Vancouver",
+      "crawler": "Googlebot smartphone",
+      "crawlAllowed": "Yes",
+      "pageFetch": "Successful",
+      "indexingAllowed": "Yes",
+      "userDeclaredCanonical": "https://bemamas.com/ar/tools/due-date-calculator/",
+      "googleSelectedCanonical": "https://bemamas.com/ar/tools/due-date-calculator/",
+      "savedHtmlAvailable": true
+    },
+    {
+      "url": "https://bemamas.com/es/newborn/formula-prep-safety/",
+      "subject": "Formula preparation (Spanish)",
+      "indexStatus": "Indexed",
+      "lastCrawlLocal": "Sep 5, 2026, 9:02:00 AM",
+      "timeZone": "America/Vancouver",
+      "crawler": "Googlebot smartphone",
+      "crawlAllowed": "Yes",
+      "pageFetch": "Successful",
+      "indexingAllowed": "Yes",
+      "userDeclaredCanonical": "https://bemamas.com/es/newborn/formula-prep-safety/",
+      "googleSelectedCanonical": "https://bemamas.com/es/newborn/formula-prep-safety/",
+      "savedHtmlAvailable": true
+    },
+    {
+      "url": "https://bemamas.com/trying-to-conceive/ovulation-signs/",
+      "subject": "Ovulation signs (English)",
+      "indexStatus": "Crawled - currently not indexed",
+      "lastCrawlLocal": "Aug 13, 2026, 8:26:35 PM",
+      "timeZone": "America/Vancouver",
+      "crawler": "Googlebot smartphone",
+      "crawlAllowed": "Yes",
+      "pageFetch": "Successful",
+      "indexingAllowed": "N/A",
+      "userDeclaredCanonical": "N/A",
+      "googleSelectedCanonical": "N/A",
+      "savedHtmlAvailable": false
+    }
+  ],
+  "liveTests": [
+    {
+      "url": "https://bemamas.com/trying-to-conceive/ovulation-signs/",
+      "testedLocal": "Sep 6, 2026, 4:20:22 PM",
+      "timeZone": "America/Vancouver",
+      "status": "URL is available to Google",
+      "availability": "Page can be indexed",
+      "crawler": "Google Inspection Tool smartphone",
+      "crawlAllowed": "Yes",
+      "pageFetch": "Successful",
+      "indexingAllowed": "Yes",
+      "userDeclaredCanonical": "https://bemamas.com/trying-to-conceive/ovulation-signs/",
+      "googleSelectedCanonical": "Only determined after indexing",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "resources": "All resources were loaded",
+      "javascriptConsole": "No messages",
+      "breadcrumbs": "1 valid item detected",
+      "fetchedHtmlInspected": "Head, canonical/hreflang tags, article heading, update date, introduction and first section",
+      "visibleArticleDate": "2026-08-26"
+    },
+    {
+      "url": "https://bemamas.com/es/trying-to-conceive/basal-body-temperature/",
+      "testedLocal": "Sep 6, 2026, 4:20:50 PM",
+      "timeZone": "America/Vancouver",
+      "status": "URL is available to Google",
+      "availability": "Page can be indexed",
+      "crawler": "Google Inspection Tool smartphone",
+      "crawlAllowed": "Yes",
+      "pageFetch": "Successful",
+      "indexingAllowed": "Yes",
+      "userDeclaredCanonical": "https://bemamas.com/es/trying-to-conceive/basal-body-temperature/",
+      "googleSelectedCanonical": "Only determined after indexing",
+      "httpStatus": 200,
+      "contentType": "text/html",
+      "resources": "All resources were loaded",
+      "javascriptConsole": "No messages",
+      "breadcrumbs": "1 valid item detected",
+      "fetchedHtmlInspected": "Head, canonical/hreflang tags, article heading, update date, introduction and first section",
+      "visibleArticleDate": "2026-08-26"
+    }
+  ],
+  "publicHttpChecks": {
+    "checkedAt": "2026-09-06T23:16:44.763Z",
+    "results": [
+      {
+        "url": "https://bemamas.com/baby-and-child/potty-readiness/",
+        "status": 200,
+        "cache": "HIT",
+        "issues": [],
+        "htmlLang": "en",
+        "canonical": [
+          "https://bemamas.com/baby-and-child/potty-readiness/"
+        ],
+        "hreflang": [
+          [
+            "en",
+            "https://bemamas.com/baby-and-child/potty-readiness/"
+          ],
+          [
+            "fa",
+            "https://bemamas.com/fa/baby-and-child/potty-readiness/"
+          ],
+          [
+            "ar",
+            "https://bemamas.com/ar/baby-and-child/potty-readiness/"
+          ],
+          [
+            "fr",
+            "https://bemamas.com/fr/baby-and-child/potty-readiness/"
+          ],
+          [
+            "tr",
+            "https://bemamas.com/tr/baby-and-child/potty-readiness/"
+          ],
+          [
+            "es",
+            "https://bemamas.com/es/baby-and-child/potty-readiness/"
+          ],
+          [
+            "pt",
+            "https://bemamas.com/pt/baby-and-child/potty-readiness/"
+          ],
+          [
+            "x-default",
+            "https://bemamas.com/baby-and-child/potty-readiness/"
+          ]
+        ],
+        "title": "Potty Training Readiness: Signs Your Toddler Is Ready | BeMama",
+        "h1": [
+          "Potty Training Readiness: Signs Your Toddler Is Ready"
+        ],
+        "mainTextCharacters": 10673,
+        "robotsHeader": null
+      },
+      {
+        "url": "https://bemamas.com/es/trying-to-conceive/basal-body-temperature/",
+        "status": 200,
+        "cache": "HIT",
+        "issues": [],
+        "htmlLang": "es",
+        "canonical": [
+          "https://bemamas.com/es/trying-to-conceive/basal-body-temperature/"
+        ],
+        "hreflang": [
+          [
+            "en",
+            "https://bemamas.com/trying-to-conceive/basal-body-temperature/"
+          ],
+          [
+            "fa",
+            "https://bemamas.com/fa/trying-to-conceive/basal-body-temperature/"
+          ],
+          [
+            "ar",
+            "https://bemamas.com/ar/trying-to-conceive/basal-body-temperature/"
+          ],
+          [
+            "fr",
+            "https://bemamas.com/fr/trying-to-conceive/basal-body-temperature/"
+          ],
+          [
+            "tr",
+            "https://bemamas.com/tr/trying-to-conceive/basal-body-temperature/"
+          ],
+          [
+            "es",
+            "https://bemamas.com/es/trying-to-conceive/basal-body-temperature/"
+          ],
+          [
+            "pt",
+            "https://bemamas.com/pt/trying-to-conceive/basal-body-temperature/"
+          ],
+          [
+            "x-default",
+            "https://bemamas.com/trying-to-conceive/basal-body-temperature/"
+          ]
+        ],
+        "title": "Temperatura basal: cómo hacer la gráfica para detectar la ovulación",
+        "h1": [
+          "Temperatura basal: cómo hacer la gráfica para detectar la ovulación"
+        ],
+        "mainTextCharacters": 13009,
+        "robotsHeader": null
+      },
+      {
+        "url": "https://bemamas.com/ar/pregnancy/baby-movement-patterns/",
+        "status": 200,
+        "cache": "HIT",
+        "issues": [],
+        "htmlLang": "ar",
+        "canonical": [
+          "https://bemamas.com/ar/pregnancy/baby-movement-patterns/"
+        ],
+        "hreflang": [
+          [
+            "en",
+            "https://bemamas.com/pregnancy/baby-movement-patterns/"
+          ],
+          [
+            "fa",
+            "https://bemamas.com/fa/pregnancy/baby-movement-patterns/"
+          ],
+          [
+            "ar",
+            "https://bemamas.com/ar/pregnancy/baby-movement-patterns/"
+          ],
+          [
+            "fr",
+            "https://bemamas.com/fr/pregnancy/baby-movement-patterns/"
+          ],
+          [
+            "tr",
+            "https://bemamas.com/tr/pregnancy/baby-movement-patterns/"
+          ],
+          [
+            "es",
+            "https://bemamas.com/es/pregnancy/baby-movement-patterns/"
+          ],
+          [
+            "pt",
+            "https://bemamas.com/pt/pregnancy/baby-movement-patterns/"
+          ],
+          [
+            "x-default",
+            "https://bemamas.com/pregnancy/baby-movement-patterns/"
+          ]
+        ],
+        "title": "كيف تعدّين ركلات جنينك وتتابعين نمط حركته | BeMama",
+        "h1": [
+          "كيف تعدّين ركلات جنينك وتتابعين نمط حركته"
+        ],
+        "mainTextCharacters": 8589,
+        "robotsHeader": null
+      },
+      {
+        "url": "https://bemamas.com/ar/newborn/first-doctor-visit/",
+        "status": 200,
+        "cache": "HIT",
+        "issues": [],
+        "htmlLang": "ar",
+        "canonical": [
+          "https://bemamas.com/ar/newborn/first-doctor-visit/"
+        ],
+        "hreflang": [
+          [
+            "en",
+            "https://bemamas.com/newborn/first-doctor-visit/"
+          ],
+          [
+            "fa",
+            "https://bemamas.com/fa/newborn/first-doctor-visit/"
+          ],
+          [
+            "ar",
+            "https://bemamas.com/ar/newborn/first-doctor-visit/"
+          ],
+          [
+            "fr",
+            "https://bemamas.com/fr/newborn/first-doctor-visit/"
+          ],
+          [
+            "tr",
+            "https://bemamas.com/tr/newborn/first-doctor-visit/"
+          ],
+          [
+            "es",
+            "https://bemamas.com/es/newborn/first-doctor-visit/"
+          ],
+          [
+            "pt",
+            "https://bemamas.com/pt/newborn/first-doctor-visit/"
+          ],
+          [
+            "x-default",
+            "https://bemamas.com/newborn/first-doctor-visit/"
+          ]
+        ],
+        "title": "أول زيارة للطبيب لحديث الولادة: التوقيت وما يمكن توقعه | BeMama",
+        "h1": [
+          "أول زيارة للطبيب لحديث الولادة: التوقيت وما يمكن توقعه"
+        ],
+        "mainTextCharacters": 8741,
+        "robotsHeader": null
+      },
+      {
+        "url": "https://bemamas.com/fa/newborn/safe-sleep-room-sharing/",
+        "status": 200,
+        "cache": "HIT",
+        "issues": [],
+        "htmlLang": "fa",
+        "canonical": [
+          "https://bemamas.com/fa/newborn/safe-sleep-room-sharing/"
+        ],
+        "hreflang": [
+          [
+            "en",
+            "https://bemamas.com/newborn/safe-sleep-room-sharing/"
+          ],
+          [
+            "fa",
+            "https://bemamas.com/fa/newborn/safe-sleep-room-sharing/"
+          ],
+          [
+            "ar",
+            "https://bemamas.com/ar/newborn/safe-sleep-room-sharing/"
+          ],
+          [
+            "fr",
+            "https://bemamas.com/fr/newborn/safe-sleep-room-sharing/"
+          ],
+          [
+            "tr",
+            "https://bemamas.com/tr/newborn/safe-sleep-room-sharing/"
+          ],
+          [
+            "es",
+            "https://bemamas.com/es/newborn/safe-sleep-room-sharing/"
+          ],
+          [
+            "pt",
+            "https://bemamas.com/pt/newborn/safe-sleep-room-sharing/"
+          ],
+          [
+            "x-default",
+            "https://bemamas.com/newborn/safe-sleep-room-sharing/"
+          ]
+        ],
+        "title": "خواب امن نوزاد: سه اصل طلایی و هم‌اتاقی با والدین | BeMama",
+        "h1": [
+          "خواب امن نوزاد: سه اصل طلایی و هم‌اتاقی با والدین"
+        ],
+        "mainTextCharacters": 10601,
+        "robotsHeader": null
+      },
+      {
+        "url": "https://bemamas.com/fr/baby-and-child/baby-milestones/",
+        "status": 200,
+        "cache": "HIT",
+        "issues": [],
+        "htmlLang": "fr",
+        "canonical": [
+          "https://bemamas.com/fr/baby-and-child/baby-milestones/"
+        ],
+        "hreflang": [
+          [
+            "en",
+            "https://bemamas.com/baby-and-child/baby-milestones/"
+          ],
+          [
+            "fa",
+            "https://bemamas.com/fa/baby-and-child/baby-milestones/"
+          ],
+          [
+            "ar",
+            "https://bemamas.com/ar/baby-and-child/baby-milestones/"
+          ],
+          [
+            "fr",
+            "https://bemamas.com/fr/baby-and-child/baby-milestones/"
+          ],
+          [
+            "tr",
+            "https://bemamas.com/tr/baby-and-child/baby-milestones/"
+          ],
+          [
+            "es",
+            "https://bemamas.com/es/baby-and-child/baby-milestones/"
+          ],
+          [
+            "pt",
+            "https://bemamas.com/pt/baby-and-child/baby-milestones/"
+          ],
+          [
+            "x-default",
+            "https://bemamas.com/baby-and-child/baby-milestones/"
+          ]
+        ],
+        "title": "Les étapes du développement de bébé mois par mois (0–12 mois) | BeMama",
+        "h1": [
+          "Les étapes du développement de bébé mois par mois (0–12 mois)"
+        ],
+        "mainTextCharacters": 8931,
+        "robotsHeader": null
+      },
+      {
+        "url": "https://bemamas.com/fa/baby-and-child/vaccinations-overview/",
+        "status": 200,
+        "cache": "HIT",
+        "issues": [],
+        "htmlLang": "fa",
+        "canonical": [
+          "https://bemamas.com/fa/baby-and-child/vaccinations-overview/"
+        ],
+        "hreflang": [
+          [
+            "en",
+            "https://bemamas.com/baby-and-child/vaccinations-overview/"
+          ],
+          [
+            "fa",
+            "https://bemamas.com/fa/baby-and-child/vaccinations-overview/"
+          ],
+          [
+            "ar",
+            "https://bemamas.com/ar/baby-and-child/vaccinations-overview/"
+          ],
+          [
+            "fr",
+            "https://bemamas.com/fr/baby-and-child/vaccinations-overview/"
+          ],
+          [
+            "tr",
+            "https://bemamas.com/tr/baby-and-child/vaccinations-overview/"
+          ],
+          [
+            "es",
+            "https://bemamas.com/es/baby-and-child/vaccinations-overview/"
+          ],
+          [
+            "pt",
+            "https://bemamas.com/pt/baby-and-child/vaccinations-overview/"
+          ],
+          [
+            "x-default",
+            "https://bemamas.com/baby-and-child/vaccinations-overview/"
+          ]
+        ],
+        "title": "واکسیناسیون دوران کودکی: مروری ساده | BeMama",
+        "h1": [
+          "واکسیناسیون دوران کودکی: مروری ساده"
+        ],
+        "mainTextCharacters": 7023,
+        "robotsHeader": null
+      },
+      {
+        "url": "https://bemamas.com/fr/trying-to-conceive/menstrual-cycle-basics/",
+        "status": 200,
+        "cache": "HIT",
+        "issues": [],
+        "htmlLang": "fr",
+        "canonical": [
+          "https://bemamas.com/fr/trying-to-conceive/menstrual-cycle-basics/"
+        ],
+        "hreflang": [
+          [
+            "en",
+            "https://bemamas.com/trying-to-conceive/menstrual-cycle-basics/"
+          ],
+          [
+            "fa",
+            "https://bemamas.com/fa/trying-to-conceive/menstrual-cycle-basics/"
+          ],
+          [
+            "ar",
+            "https://bemamas.com/ar/trying-to-conceive/menstrual-cycle-basics/"
+          ],
+          [
+            "fr",
+            "https://bemamas.com/fr/trying-to-conceive/menstrual-cycle-basics/"
+          ],
+          [
+            "tr",
+            "https://bemamas.com/tr/trying-to-conceive/menstrual-cycle-basics/"
+          ],
+          [
+            "es",
+            "https://bemamas.com/es/trying-to-conceive/menstrual-cycle-basics/"
+          ],
+          [
+            "pt",
+            "https://bemamas.com/pt/trying-to-conceive/menstrual-cycle-basics/"
+          ],
+          [
+            "x-default",
+            "https://bemamas.com/trying-to-conceive/menstrual-cycle-basics/"
+          ]
+        ],
+        "title": "Les phases du cycle menstruel : ce qui se passe à chaque étape",
+        "h1": [
+          "Les phases du cycle menstruel : ce qui se passe à chaque étape"
+        ],
+        "mainTextCharacters": 13896,
+        "robotsHeader": null
+      },
+      {
+        "url": "https://bemamas.com/ar/tools/due-date-calculator/",
+        "status": 200,
+        "cache": "HIT",
+        "issues": [],
+        "htmlLang": "ar",
+        "canonical": [
+          "https://bemamas.com/ar/tools/due-date-calculator/"
+        ],
+        "hreflang": [
+          [
+            "en",
+            "https://bemamas.com/tools/due-date-calculator/"
+          ],
+          [
+            "fa",
+            "https://bemamas.com/fa/tools/due-date-calculator/"
+          ],
+          [
+            "ar",
+            "https://bemamas.com/ar/tools/due-date-calculator/"
+          ],
+          [
+            "fr",
+            "https://bemamas.com/fr/tools/due-date-calculator/"
+          ],
+          [
+            "tr",
+            "https://bemamas.com/tr/tools/due-date-calculator/"
+          ],
+          [
+            "es",
+            "https://bemamas.com/es/tools/due-date-calculator/"
+          ],
+          [
+            "pt",
+            "https://bemamas.com/pt/tools/due-date-calculator/"
+          ],
+          [
+            "x-default",
+            "https://bemamas.com/tools/due-date-calculator/"
+          ]
+        ],
+        "title": "حاسبة موعد الولادة | BeMama",
+        "h1": [
+          "حاسبة موعد الولادة"
+        ],
+        "mainTextCharacters": 987,
+        "robotsHeader": null
+      },
+      {
+        "url": "https://bemamas.com/es/newborn/formula-prep-safety/",
+        "status": 200,
+        "cache": "HIT",
+        "issues": [],
+        "htmlLang": "es",
+        "canonical": [
+          "https://bemamas.com/es/newborn/formula-prep-safety/"
+        ],
+        "hreflang": [
+          [
+            "en",
+            "https://bemamas.com/newborn/formula-prep-safety/"
+          ],
+          [
+            "fa",
+            "https://bemamas.com/fa/newborn/formula-prep-safety/"
+          ],
+          [
+            "ar",
+            "https://bemamas.com/ar/newborn/formula-prep-safety/"
+          ],
+          [
+            "fr",
+            "https://bemamas.com/fr/newborn/formula-prep-safety/"
+          ],
+          [
+            "tr",
+            "https://bemamas.com/tr/newborn/formula-prep-safety/"
+          ],
+          [
+            "es",
+            "https://bemamas.com/es/newborn/formula-prep-safety/"
+          ],
+          [
+            "pt",
+            "https://bemamas.com/pt/newborn/formula-prep-safety/"
+          ],
+          [
+            "x-default",
+            "https://bemamas.com/newborn/formula-prep-safety/"
+          ]
+        ],
+        "title": "Cómo preparar la fórmula para bebés de forma segura: agua y mezcla",
+        "h1": [
+          "Cómo preparar la fórmula para bebés de forma segura: agua y mezcla"
+        ],
+        "mainTextCharacters": 13433,
+        "robotsHeader": null
+      },
+      {
+        "url": "https://bemamas.com/trying-to-conceive/ovulation-signs/",
+        "status": 200,
+        "cache": "HIT",
+        "issues": [],
+        "htmlLang": "en",
+        "canonical": [
+          "https://bemamas.com/trying-to-conceive/ovulation-signs/"
+        ],
+        "hreflang": [
+          [
+            "en",
+            "https://bemamas.com/trying-to-conceive/ovulation-signs/"
+          ],
+          [
+            "fa",
+            "https://bemamas.com/fa/trying-to-conceive/ovulation-signs/"
+          ],
+          [
+            "ar",
+            "https://bemamas.com/ar/trying-to-conceive/ovulation-signs/"
+          ],
+          [
+            "fr",
+            "https://bemamas.com/fr/trying-to-conceive/ovulation-signs/"
+          ],
+          [
+            "tr",
+            "https://bemamas.com/tr/trying-to-conceive/ovulation-signs/"
+          ],
+          [
+            "es",
+            "https://bemamas.com/es/trying-to-conceive/ovulation-signs/"
+          ],
+          [
+            "pt",
+            "https://bemamas.com/pt/trying-to-conceive/ovulation-signs/"
+          ],
+          [
+            "x-default",
+            "https://bemamas.com/trying-to-conceive/ovulation-signs/"
+          ]
+        ],
+        "title": "Signs of Ovulation: How to Tell When You Ovulate | BeMama",
+        "h1": [
+          "Signs of Ovulation: How to Tell When You Ovulate"
+        ],
+        "mainTextCharacters": 10594,
+        "robotsHeader": null
+      }
+    ]
+  },
+  "actions": {
+    "indexingRequests": 0,
+    "validationRestarts": 0,
+    "sitemapResubmissions": 0,
+    "sourceChanges": 0,
+    "securityChanges": 0,
+    "liveInspections": 2
+  },
+  "limitations": [
+    "No historical saved HTML or Google-selected canonical was available for the two unindexed records.",
+    "Passing a live test is not confirmation of indexing or Google's eventual canonical choice.",
+    "This is not a clinical fact-check, native-speaker translation review, content-quality verdict, or investigation of the 1,133 discovered-not-indexed URLs."
+  ]
+}

@@ -5,6 +5,7 @@ import { languages, pageSlugs, site } from '../src/pages.mjs';
 import { articleBySlug, articles, categories, hubSlugs, articlesInCategory } from '../src/content-hub.mjs';
 import { articleEvidence, evidenceForArticle } from '../src/article-evidence.mjs';
 import { evidenceUi } from '../src/article-evidence-i18n.mjs';
+import { articleDates } from '../src/article-dates.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const dist = path.join(root, 'dist');
@@ -283,10 +284,14 @@ for (const slug of Object.keys(articleEvidence)) {
       : path.join(dist, language.code, slug, 'index.html');
     const localizedHtml = await readFile(localizedFile, 'utf8');
     const expectedEvidence = evidenceForArticle(slug, language.code);
+    const expectedDates = articleDates(articleBySlug.get(slug), language.code, expectedEvidence);
     if (!localizedHtml.includes(evidenceUi[language.code].recommendationTitle)) {
       throw new Error(`Rendered localized evidence section is missing: ${language.code}/${slug}`);
     }
-    if (!localizedHtml.includes('"citation"') || !localizedHtml.includes(`"dateModified":"${expectedEvidence.updatedIso}"`)) {
+    if (!localizedHtml.includes('"citation"') || !localizedHtml.includes(`"dateModified":"${expectedDates.modifiedIso}"`)
+      || !localizedHtml.includes(`<time datetime="${expectedDates.modifiedIso}">`)
+      || !localizedHtml.includes(`class="evidence-source-note evidence-updated"`)
+      || !localizedHtml.includes(`<time datetime="${expectedEvidence.updatedIso}">`)) {
       throw new Error(`Localized evidence JSON-LD is incomplete: ${language.code}/${slug}`);
     }
     if (language.code !== 'en' && localizedHtml.includes('What trusted health organizations recommend')) {

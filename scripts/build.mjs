@@ -1,10 +1,12 @@
 import { existsSync, readFileSync } from 'node:fs';
+import { createHash } from 'node:crypto';
 import { cp, mkdir, readFile, rm, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { content, languages, pageSlugs, site } from '../src/pages.mjs';
 import { tourCollectionTranslations, tourUiTranslations } from '../src/tour-i18n.mjs';
 import { evidenceForArticle } from '../src/article-evidence.mjs';
+import { articleDates, evidenceDateLabels } from '../src/article-dates.mjs';
 import { searchMetadata } from '../src/seo-metadata.mjs';
 import {
   articles,
@@ -134,7 +136,17 @@ const CURATED_RELATED_SLUGS = new Map([
   ['trying-to-conceive/irregular-cycles-ttc', ['trying-to-conceive/basal-body-temperature']],
   ['trying-to-conceive/menstrual-cycle-fertile-window', ['trying-to-conceive/basal-body-temperature']],
   ['trying-to-conceive/tracking-ovulation', ['trying-to-conceive/basal-body-temperature']],
-  ['trying-to-conceive/pcos-and-ovulation-tracking', ['trying-to-conceive/basal-body-temperature']]
+  ['trying-to-conceive/pcos-and-ovulation-tracking', ['trying-to-conceive/basal-body-temperature']],
+  // Connect complementary guides in the existing three-card component. These
+  // choices are shared across locales, but every destination stays localized.
+  ['newborn/newborn-care-basics', ['newborn/first-doctor-visit', 'newborn/safe-sleep-room-sharing']],
+  ['baby-and-child/baby-milestones', ['baby-and-child/vaccinations-overview']],
+  ['newborn/first-doctor-visit', ['baby-and-child/vaccinations-overview']],
+  ['newborn/formula-feeding', ['newborn/formula-prep-safety']],
+  ['pregnancy/third-trimester', ['pregnancy/baby-movement-patterns']],
+  ['trying-to-conceive/preparing-for-pregnancy', ['trying-to-conceive/menstrual-cycle-basics']],
+  ['about-bemama/getting-started', ['about-bemama/tools', 'about-bemama/qa-and-community']],
+  ['about-bemama/privacy-and-safety', ['about-bemama/ai-support']]
 ]);
 
 const RELATED_STOPWORDS = new Set([
@@ -757,7 +769,7 @@ function tourCollectionsFor(lang) {
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const dist = path.join(root, 'dist');
 const publicAssets = path.join(root, 'public', 'assets');
-const assetVersion = new Date().toISOString().replaceAll(/[-:.TZ]/g, '');
+const assetVersions = new Map();
 const transparentPixel = 'data:image/gif;base64,R0lGODlhAQABAAAAACw=';
 const imageSizeCache = new Map();
 
@@ -902,15 +914,15 @@ function renderPage(language, slug) {
     <meta name="twitter:image" content="${ogImage}" />
     ${jsonLd}
     ${preloadImage ? renderImagePreload(preloadImage, preloadImage.startsWith('/assets/hero-carousel/') ? heroResponsive : {}) : ''}
-    <link rel="stylesheet" href="/assets/styles.css?v=${assetVersion}" />
+    <link rel="stylesheet" href="${versionedAsset('/assets/styles.css')}" />
   </head>
   <body>
     ${renderHeader(language, slug)}
     ${body}
     ${renderFooter(language)}
-    <script type="module" src="/assets/site-search.js?v=${assetVersion}"></script>
-    ${article?.kind === 'tool' ? `<script type="module" src="/assets/care-tools.js?v=${assetVersion}"></script>` : ''}
-    ${slug === 'explore' ? `<script type="module" src="/assets/product-tour.js?v=${assetVersion}"></script>` : ''}
+    <script type="module" src="${versionedAsset('/assets/site-search.js')}"></script>
+    ${article?.kind === 'tool' ? `<script type="module" src="${versionedAsset('/assets/care-tools.js')}"></script>` : ''}
+    ${slug === 'explore' ? `<script type="module" src="${versionedAsset('/assets/product-tour.js')}"></script>` : ''}
     ${renderAnalytics()}
     ${renderDeferredImageLoader()}
   </body>
@@ -1350,7 +1362,7 @@ function renderPolicy(language, slug, page) {
 function renderBlock(block) {
   return `<section>
     <h2>${escapeHtml(block.heading)}</h2>
-    ${block.paragraphs.map((text) => `<p>${escapeHtml(text)}</p>`).join('')}
+    ${block.paragraphs.map((text) => `<p>${publicText(text)}</p>`).join('')}
   </section>`;
 }
 
@@ -1381,13 +1393,13 @@ function renderNotFoundPage(language) {
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     <link rel="manifest" href="/site.webmanifest" />
     <meta name="theme-color" content="#399A97" />
-    <link rel="stylesheet" href="/assets/styles.css?v=${assetVersion}" />
+    <link rel="stylesheet" href="${versionedAsset('/assets/styles.css')}" />
   </head>
   <body>
     ${renderHeader(language, '')}
     ${renderNotFound(language)}
     ${renderFooter(language)}
-    <script type="module" src="/assets/site-search.js?v=${assetVersion}"></script>
+    <script type="module" src="${versionedAsset('/assets/site-search.js')}"></script>
     ${renderAnalytics()}
     ${renderDeferredImageLoader()}
   </body>
@@ -1475,7 +1487,7 @@ function renderAppCta(language) {
   </aside>`;
 }
 
-function renderArticleEvidence(evidence) {
+function renderArticleEvidence(evidence, dates, lang) {
   if (!evidence) return '';
 
   const labels = evidence.labels ?? {
@@ -1515,6 +1527,7 @@ function renderArticleEvidence(evidence) {
       <h2 id="evidence-sources-title">${escapeHtml(labels.sourcesTitle)}</h2>
       <ul>${sources}</ul>
       <p class="evidence-source-note">${escapeHtml(labels.sourceNote)}</p>
+      ${dates.evidenceIso ? `<p class="evidence-source-note evidence-updated">${escapeHtml(evidenceDateLabels[lang])}: <time datetime="${dates.evidenceIso}">${escapeHtml(dates.evidenceLabel)}</time></p>` : ''}
     </section>
   </div>`;
 }
@@ -1523,7 +1536,7 @@ function renderArticle(language, slug, article, data) {
   const lang = language.code;
   const strings = hubText(lang);
   const evidence = evidenceForArticle(article.slug, lang);
-  const updated = evidence?.updated ?? article.updated;
+  const dates = articleDates(article, lang, evidence);
   const category = categoryById.get(article.category);
   const usingFallback = !article.i18n[lang];
   const trail = [
@@ -1566,14 +1579,14 @@ function renderArticle(language, slug, article, data) {
     <header class="article-head">
       <span class="eyebrow">${escapeHtml(pick(category.title, lang))}</span>
       <h1>${escapeHtml(data.title)}</h1>
-      ${updated ? `<p class="article-meta">${escapeHtml(strings.updatedLabel)}: ${escapeHtml(updated)}</p>` : ''}
+      ${dates.modifiedIso ? `<p class="article-meta">${escapeHtml(strings.updatedLabel)}: <time datetime="${dates.modifiedIso}">${escapeHtml(dates.modifiedLabel)}</time></p>` : ''}
       <p class="article-byline">${bylineHtml(lang)}</p>
     </header>
     <figure class="article-hero">${imageMarkup(`/assets/${article.hero}`, data.title, { loading: 'eager', fetchpriority: 'high' })}</figure>
     ${fallbackNotice}
     <p class="article-intro">${richText(data.intro)}</p>
     ${sections}
-    ${renderArticleEvidence(evidence)}
+    ${renderArticleEvidence(evidence, dates, lang)}
     ${takeaways}
     ${faq}
     <div class="notice article-disclaimer">${escapeHtml(hubDisclaimer(lang))}</div>
@@ -1586,6 +1599,7 @@ function renderArticle(language, slug, article, data) {
 function renderTool(language, slug, article, data) {
   const lang = language.code;
   const strings = hubText(lang);
+  const dates = articleDates(article, lang);
   const category = categoryById.get(article.category);
   const trail = [
     { label: strings.home, slug: '' },
@@ -1612,7 +1626,7 @@ function renderTool(language, slug, article, data) {
     <header class="article-head">
       <span class="eyebrow">${escapeHtml(pick(category.title, lang))}</span>
       <h1>${escapeHtml(data.title)}</h1>
-      ${article.updated ? `<p class="article-meta">${escapeHtml(strings.updatedLabel)}: ${escapeHtml(article.updated)}</p>` : ''}
+      ${dates.modifiedIso ? `<p class="article-meta">${escapeHtml(strings.updatedLabel)}: <time datetime="${dates.modifiedIso}">${escapeHtml(dates.modifiedLabel)}</time></p>` : ''}
     </header>
     <p class="article-intro">${richText(data.intro)}</p>
     <section class="tool-panel" data-care-tool>
@@ -1746,6 +1760,7 @@ function renderCategory(language, slug, category) {
 function renderArticleJsonLd(language, slug, article, data) {
   const lang = language.code;
   const evidence = evidenceForArticle(article.slug, lang);
+  const dates = articleDates(article, lang, evidence);
   const category = categoryById.get(article.category);
   const url = `${site.origin}${localizedPath(lang, slug)}`;
   const graph = [
@@ -1774,7 +1789,7 @@ function renderArticleJsonLd(language, slug, article, data) {
         name: site.name,
         logo: { '@type': 'ImageObject', url: `${site.origin}/favicon-512.png` }
       },
-      ...(evidence?.updatedIso ? { dateModified: evidence.updatedIso } : {}),
+      ...(dates.modifiedIso ? { dateModified: dates.modifiedIso } : {}),
       ...(evidence?.sources?.length ? { citation: evidence.sources.map((source) => source.url) } : {})
     },
     {
@@ -1802,6 +1817,7 @@ function renderArticleJsonLd(language, slug, article, data) {
 
 function renderToolJsonLd(language, slug, article, data) {
   const lang = language.code;
+  const dates = articleDates(article, lang);
   const category = categoryById.get(article.category);
   const url = `${site.origin}${localizedPath(lang, slug)}`;
   const graph = [
@@ -1814,6 +1830,7 @@ function renderToolJsonLd(language, slug, article, data) {
       url,
       applicationCategory: 'HealthApplication',
       operatingSystem: 'Any',
+      ...(dates.modifiedIso ? { dateModified: dates.modifiedIso } : {}),
       publisher: { '@type': 'Organization', name: site.name },
       offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' }
     },
@@ -2179,7 +2196,14 @@ function versionedAsset(src) {
   if (!src.startsWith('/assets/')) {
     return src;
   }
-  return `${src}?v=${assetVersion}`;
+  // Hash the emitted bytes (including minified CSS/JS), not the build clock.
+  // Unchanged media keeps its cache key across deployments; changed files get
+  // a new key. Compute once per asset, even when used on thousands of pages.
+  if (!assetVersions.has(src)) {
+    const bytes = readFileSync(path.join(dist, src.slice(1)));
+    assetVersions.set(src, createHash('sha256').update(bytes).digest('hex').slice(0, 16));
+  }
+  return `${src}?v=${assetVersions.get(src)}`;
 }
 
 function webpAsset(src) {
@@ -2605,7 +2629,10 @@ function flattenSearchText(value) {
 }
 
 function renderLocaleSitemap(language) {
-  const lastmod = new Date().toISOString().slice(0, 10);
+  // A rebuild is not a significant page update. Until we track per-locale
+  // revisions covering body, metadata and links, omit optional lastmod rather
+  // than claim that every page changed today. Editorial dates alone do not
+  // include metadata/navigation edits and are not a reliable substitute.
   const priorityFor = (slug) => {
     if (slug === '') return '1.0';
     if (categoryBySlug.has(slug)) return '0.8';
@@ -2641,7 +2668,6 @@ function renderLocaleSitemap(language) {
         : '';
     entries.push(`  <url>
     <loc>${site.origin}${localizedPath(language.code, slug)}</loc>
-    <lastmod>${lastmod}</lastmod>
     <changefreq>${changefreqFor(slug)}</changefreq>
     <priority>${priorityFor(slug)}</priority>
 ${alternates}
@@ -2707,12 +2733,10 @@ ${items}
 }
 
 function renderSitemapIndex() {
-  const lastmod = new Date().toISOString().slice(0, 10);
   const items = languages
     .map(
       (language) => `  <sitemap>
     <loc>${site.origin}/sitemap-${language.code}.xml</loc>
-    <lastmod>${lastmod}</lastmod>
   </sitemap>`
     )
     .join('\n');
@@ -2764,6 +2788,15 @@ function escapeHtml(value) {
     .replaceAll('>', '&gt;')
     .replaceAll('"', '&quot;')
     .replaceAll("'", '&#39;');
+}
+
+// Body prose only, never attributes/JSON/RSS. Exempt just the published support
+// address from Cloudflare's HTML rewrite. Keep its normal mailto behavior and
+// isolate Latin text in RTL paragraphs; other email/bot protections stay intact.
+function publicText(value) {
+  const address = escapeHtml(site.supportEmail);
+  return escapeHtml(value).replaceAll(address,
+    `<!--email_off--><a href="mailto:${address}" dir="ltr">${address}</a><!--/email_off-->`);
 }
 
 /// Prose that may contain a bare URL. Escapes first (XSS-safe), then turns

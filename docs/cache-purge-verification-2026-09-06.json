@@ -1,0 +1,59 @@
+{
+  "scope": "Cloudflare Purge Everything for the bemamas.com zone",
+  "authorization": "User explicitly authorized: You can purge all",
+  "purgeConfirmation": "Purge request successfully received. Changes should take effect in less than 5 seconds.",
+  "confirmationObservedAt": "2026-09-06 22:58:50 UTC",
+  "prePurge": {
+    "publicPages": 1393,
+    "staleCachedPages": 1313,
+    "otherFailures": []
+  },
+  "postPurge": {
+    "checkedAt": "2026-09-06T23:00:17.448Z",
+    "bypassedCache": false,
+    "results": {
+      "en": {
+        "checked": 199,
+        "passed": 199
+      },
+      "fa": {
+        "checked": 199,
+        "passed": 199
+      },
+      "ar": {
+        "checked": 199,
+        "passed": 199
+      },
+      "fr": {
+        "checked": 199,
+        "passed": 199
+      },
+      "tr": {
+        "checked": 199,
+        "passed": 199
+      },
+      "es": {
+        "checked": 199,
+        "passed": 199
+      },
+      "pt": {
+        "checked": 199,
+        "passed": 199
+      }
+    },
+    "failedPages": 0,
+    "failures": [],
+    "sitemapIssues": [],
+    "note": "Read-only production comparison. Passing does not mean Google has indexed the URLs.",
+    "failuresTruncated": false
+  },
+  "smokeChecks": {
+    "homepage": 200,
+    "sampledAssets": 5,
+    "sampledAssetsAll200": true,
+    "appHomepage": 200,
+    "appCacheStatus": "DYNAMIC"
+  },
+  "changes": "Cached copies invalidated. No site source, app source, WAF, API or other security settings changed.",
+  "limitation": "Production checks originate from this connection. Passing confirms the deployed HTML is served, not Google indexing or every global edge location."
+}

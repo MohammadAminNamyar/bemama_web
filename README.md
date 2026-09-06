@@ -6,7 +6,7 @@ Small static public website for BeMama policy, support, and launch pages.
 
 ```powershell
 node scripts/build.mjs
-node --test scripts/seo-metadata.test.mjs scripts/indexnow.test.mjs
+node --test scripts/seo-metadata.test.mjs scripts/indexnow.test.mjs scripts/indexing.test.mjs
 node scripts/validate.mjs
 node scripts/audit-seo.mjs
 node scripts/serve.mjs --port 80
@@ -78,3 +78,58 @@ app, APIs or all hostnames. Details and checks are in
 
 Production verification after deployment is recorded in
 `docs/seo-deployment-verification-2026-09-06.md`.
+
+## Google indexing and crawl stability
+
+Sitemaps retain every public canonical URL and all seven reciprocal language
+alternates. They intentionally omit optional `lastmod` values: the previous
+build-date stamp incorrectly marked unchanged pages as updated on every build.
+Do not restore it without reliable per-page, per-language revision dates that
+cover content, metadata and significant link changes. RSS editorial dates are
+unchanged; they are not replaced with the build clock.
+
+Asset cache keys now use SHA-256 hashes of the emitted file bytes, including
+minified CSS and JavaScript. Unchanged assets keep their URLs across deployments;
+only changed assets receive new keys. Do not manually edit generated assets after
+building. The indexing tests verify these hashes and check every localized route
+for canonical/sitemap agreement, accidental noindex, utility links and HTML-link
+reachability within three clicks of its language's homepage.
+
+These checks establish technical eligibility, not guaranteed Google indexing.
+See `docs/google-indexing-followup-2026-09-06.md` for the Google live test, daily
+submission quota and deployment follow-up.
+
+### Article dates and public support email
+
+`src/article-dates.mjs` chooses the latest recorded article/evidence-note revision
+for the visible update date and Article/WebApplication `dateModified`. Evidence
+notes retain their separately labelled date, not a medical-review claim.
+Existing `article.updated` values are shared editorial revision records, not
+independently verified translation timestamps. An actual independent translation
+revision can be recorded as `article.i18n[lang].updatedIso` (YYYY-MM-DD); it takes
+precedence over that shared article record. Do not stamp the build date or infer
+a translation/clinical review that did not happen. Dates render in each locale
+with an unambiguous ISO `datetime` attribute. RSS dates and sitemap policy are
+unchanged.
+
+Published support-address mentions in policy paragraphs are rendered as normal
+`mailto:` links with RTL isolation, enclosed by Cloudflare's documented
+`email_off` comments. Only this already-public address is exempted from email
+obfuscation; other addresses and security settings are unchanged. Keep these
+comments through any HTML postprocessing. All-language tests cover the 38
+affected pages and 49 existing address mentions.
+
+After deployment, check the actual Cloudflare-served HTML as well as the build:
+
+```powershell
+node scripts/verify-indexing-live.mjs
+node scripts/verify-indexing-live.mjs --all
+# Diagnose whether failures are old cached HTML (read-only query bypass):
+node scripts/verify-indexing-live.mjs --all --bypass-cache
+```
+
+Default mode checks 91 representative URLs across all seven languages; `--all`
+checks all 1,393. Both also verify the eight sitemap files. The command detects
+date/schema mismatches, missing email links, Cloudflare-injected utility links,
+stale asset references, bad status codes, metadata mismatches and noindex. It
+does not purge, submit URLs, call Search Console or prove Google indexing.
