@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>BeMama — Español</title>
+    <title>BeMama: Español</title>
     <link>https://bemamas.com/es/</link>
     <atom:link href="https://bemamas.com/rss-es.xml" rel="self" type="application/rss+xml" />
     <description>BeMama acompaña la planificación, embarazo, cuidado del bebé y crecimiento infantil.</description>
@@ -1123,7 +1123,7 @@
       <title>Cómo detectar la ovulación: temperatura, moco y tests</title>
       <link>https://bemamas.com/es/trying-to-conceive/tracking-ovulation/</link>
       <guid isPermaLink="true">https://bemamas.com/es/trying-to-conceive/tracking-ovulation/</guid>
-      <description>Tres formas confiables de detectar la ovulación —temperatura basal, moco cervical y tests de ovulación— y cómo combinarlas para encontrar tus días más fértiles.</description>
+      <description>Tres formas confiables de detectar la ovulación (temperatura basal, moco cervical y tests de ovulación) y cómo combinarlas para encontrar tus días más fértiles.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/ttc-ovulation.jpg" medium="image" />
     </item>

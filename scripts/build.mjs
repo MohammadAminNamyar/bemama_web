@@ -18,6 +18,9 @@ import {
   pick
 } from '../src/content-hub.mjs';
 
+const FORWARD_CHEVRON = '<svg class="ui-chevron" viewBox="0 0 20 20" fill="none" focusable="false"><path d="M7.25 4.5 12.75 10l-5.5 5.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+const DOWN_CHEVRON = '<svg class="ui-chevron" viewBox="0 0 20 20" fill="none" focusable="false"><path d="m4.5 7.25 5.5 5.5 5.5-5.5" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+
 // --- Related-article selection --------------------------------------------
 // Each article links to its closest topical neighbors (slug/title token
 // overlap, same-category preference) instead of the first three articles of
@@ -28,6 +31,80 @@ const FEATURED_GUIDE_SLUGS = [
   'pregnancy/third-trimester',
   'trying-to-conceive/basal-body-temperature'
 ];
+
+const CATEGORY_FEATURED_SLUGS = {
+  ttc: [
+    'trying-to-conceive/menstrual-cycle-basics',
+    'trying-to-conceive/fertile-window-timing',
+    'trying-to-conceive/basal-body-temperature'
+  ],
+  pregnancy: [
+    'pregnancy/second-trimester',
+    'pregnancy/third-trimester',
+    'pregnancy/warning-signs'
+  ],
+  newborn: [
+    'newborn/newborn-care-basics',
+    'newborn/newborn-fever',
+    'newborn/safe-sleep-room-sharing'
+  ],
+  child: [
+    'baby-and-child/baby-milestones',
+    'baby-and-child/starting-solids-allergens',
+    'baby-and-child/toddler-tantrums'
+  ],
+  tools: [
+    'tools/ovulation-calculator',
+    'tools/due-date-calculator',
+    'tools/milestone-tracker'
+  ],
+  app: [
+    'about-bemama/why-bemama',
+    'about-bemama/daily-journey',
+    'about-bemama/getting-started'
+  ]
+};
+
+// Category pages use a small set of universal, localized topic labels. The
+// ordered matchers put every non-featured article in exactly one group; the
+// final matcher in each category is deliberately the catch-all.
+const CATEGORY_TOPIC_RULES = {
+  ttc: [
+    { label: 'timelinesAndMilestones', match: /(menstrual|ovulation|fertile-window|basal-body|cervical|early-pregnancy|pregnancy-test|implantation|luteal-phase|cycle-planning)/ },
+    { label: 'planningAndTools', match: /(preparing-for-pregnancy|preconception|folic|prenatal|nutrition|caffeine|birth-control)/ },
+    { label: 'healthSafetySupport' }
+  ],
+  pregnancy: [
+    { label: 'timelinesAndMilestones', match: /(trimester|pregnancy-weeks|how-many-weeks|when-do-you-start-showing|when-can-you-feel-baby-move|baby-movement)/ },
+    { label: 'healthSafetySupport', match: /(symptoms|warning|nausea|heartburn|constipation|pain|blood|glucose|diabetes|headache|swelling|breathlessness|mental-health|vaccines|medicines)/ },
+    { label: 'everydayGuidance', match: /(nutrition|foods|exercise|prenatal|anatomy|sleep|travel|weight)/ },
+    { label: 'planningAndTools' }
+  ],
+  newborn: [
+    { label: 'timelinesAndMilestones', match: /(development|growth|tummy-time|first-24)/ },
+    { label: 'healthSafetySupport', match: /(doctor|jaundice|fever|rash|temperature|safe-sleep|babywearing|cord|umbilical)/ },
+    { label: 'everydayGuidance' }
+  ],
+  child: [
+    { label: 'timelinesAndMilestones', match: /(milestone|language|reading|when-do-babies)/ },
+    { label: 'healthSafetySupport', match: /(vaccination|allerg|babyproof|car-seat|teething)/ },
+    { label: 'everydayGuidance' }
+  ],
+  tools: [
+    { label: 'fertilityPregnancyTools', match: /(ovulation|preconception|due-date|pregnancy-week|appointment|hospital|baby-name|registry)/ },
+    { label: 'babyChildTools' }
+  ],
+  app: [
+    { label: 'productGuides', match: /(why-bemama|daily-journey|qa-and-community|\/tools|premium|getting-started)/ },
+    { label: 'privacySafety' }
+  ]
+};
+
+function featuredArticlesForCategory(categoryId) {
+  return (CATEGORY_FEATURED_SLUGS[categoryId] ?? [])
+    .map((slug) => articleBySlug.get(slug))
+    .filter((article) => article?.category === categoryId);
+}
 
 // These editorial links connect detailed guides to their strongest overview
 // page. They are pinned ahead of the automatic relevance results below, while
@@ -718,7 +795,7 @@ const searchEntries = renderSearchIndex();
 for (const language of languages) {
   await writeFile(
     path.join(dist, `search-index-${language.code}.json`),
-    JSON.stringify(searchEntries.filter((entry) => entry.lang === language.code))
+    normalizeJsonStringify(searchEntries.filter((entry) => entry.lang === language.code))
   );
 }
 for (const language of languages) {
@@ -791,7 +868,7 @@ function renderPage(language, slug) {
     <title>${escapeHtml(title)}</title>
     <meta name="description" content="${escapeHtml(description)}" />
     <link rel="canonical" href="${canonical}" />
-    <link rel="alternate" type="application/rss+xml" title="${escapeHtml(site.name)} — ${escapeHtml(language.label)}" href="${site.origin}/rss-${language.code}.xml" />
+    <link rel="alternate" type="application/rss+xml" title="${escapeHtml(site.name)}: ${escapeHtml(language.label)}" href="${site.origin}/rss-${language.code}.xml" />
     ${renderAlternates(slug)}
     <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png" />
     <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96.png" />
@@ -840,6 +917,7 @@ function renderHeader(language, slug) {
   const t = content[language.code];
   const lang = language.code;
   const ui = tourUiFor(lang);
+  const guideUi = hubText(lang);
   const catItems = categories.slice().sort((a, b) => a.order - b.order);
   const articleTitle = (article) => escapeHtml((article.i18n[lang] ?? article.i18n.en).title);
 
@@ -848,27 +926,36 @@ function renderHeader(language, slug) {
     .join('');
 
   const desktopCategory = (category) => {
-    const label = escapeHtml(pick(category.title, lang));
-    const links = articlesInCategory(category.id)
+    const categoryTitle = pick(category.title, lang);
+    const label = escapeHtml(categoryTitle);
+    const guideCount = articlesInCategory(category.id).length;
+    const viewAllLabel = escapeHtml(guideUi.viewAllCategory.replace('{category}', categoryTitle));
+    const links = featuredArticlesForCategory(category.id)
       .map((article) => `<a href="${localizedPath(lang, article.slug)}" role="menuitem">${articleTitle(article)}</a>`)
       .join('');
     return `<li class="nav-item has-menu">
         <a class="nav-top" href="${localizedPath(lang, category.slug)}" aria-haspopup="true">${label}<span class="caret" aria-hidden="true"></span></a>
-        <div class="submenu" role="menu">
-          <a class="submenu-head" href="${localizedPath(lang, category.slug)}" role="menuitem">${label}</a>
+        <div class="submenu" role="menu" aria-label="${label}">
+          <a class="submenu-overview" href="${localizedPath(lang, category.slug)}" role="menuitem">
+            <span><strong>${viewAllLabel}</strong><small>${guideCount} ${escapeHtml(guideUi.guidesLabel)}</small></span>
+            <span class="submenu-overview-arrow" aria-hidden="true">${FORWARD_CHEVRON}</span>
+          </a>
+          <span class="submenu-label">${escapeHtml(guideUi.featuredInCategory)}</span>
           ${links}
         </div>
       </li>`;
   };
 
   const mobileCategory = (category) => {
-    const label = escapeHtml(pick(category.title, lang));
-    const links = articlesInCategory(category.id)
+    const categoryTitle = pick(category.title, lang);
+    const label = escapeHtml(categoryTitle);
+    const viewAllLabel = escapeHtml(guideUi.viewAllCategory.replace('{category}', categoryTitle));
+    const links = featuredArticlesForCategory(category.id)
       .map((article) => `<a href="${localizedPath(lang, article.slug)}">${articleTitle(article)}</a>`)
       .join('');
     return `<details class="mobile-group">
           <summary>${label}</summary>
-          <div class="mobile-sub"><a href="${localizedPath(lang, category.slug)}">${label}</a>${links}</div>
+          <div class="mobile-sub"><a class="mobile-sub-all" href="${localizedPath(lang, category.slug)}">${viewAllLabel}</a>${links}</div>
         </details>`;
   };
 
@@ -1085,7 +1172,7 @@ function renderProductTour(language) {
   const collections = tourCollectionsFor(language.code);
   const firstCollection = collections[0];
   const firstStep = firstCollection.steps[0];
-  const config = JSON.stringify({
+  const config = normalizeJsonStringify({
     labels: {
       previous: ui.previous,
       next: ui.next,
@@ -1501,7 +1588,7 @@ function renderTool(language, slug, article, data) {
     { label: pick(category.title, lang), slug: category.slug },
     { label: data.title, slug: article.slug }
   ];
-  const config = JSON.stringify(data.tool || {}).replaceAll('<', '\\u003c');
+  const config = normalizeJsonStringify(data.tool || {}).replaceAll('<', '\\u003c');
   const sections = (data.sections || [])
     .map(
       (section) => `<section class="article-section">
@@ -1544,7 +1631,21 @@ function renderCategory(language, slug, category) {
     { label: strings.home, slug: '' },
     { label: pick(category.title, lang), slug: category.slug }
   ];
-  const cards = articlesInCategory(category.id)
+  const allCategoryArticles = articlesInCategory(category.id);
+  const featuredArticles = featuredArticlesForCategory(category.id);
+  const featuredSlugs = new Set(featuredArticles.map((article) => article.slug));
+  const remainingArticles = allCategoryArticles.filter((article) => !featuredSlugs.has(article.slug));
+  const topicGroups = (CATEGORY_TOPIC_RULES[category.id] ?? [{ label: 'everydayGuidance' }])
+    .map((rule) => ({ ...rule, articles: [] }));
+
+  for (const article of remainingArticles) {
+    const group = topicGroups.find((rule) => !rule.match || rule.match.test(article.slug));
+    (group ?? topicGroups.at(-1)).articles.push(article);
+  }
+
+  const populatedTopicGroups = topicGroups.filter((group) => group.articles.length);
+
+  const featuredCards = featuredArticles
     .map((article) => {
       const data = article.i18n[lang] ?? article.i18n.en;
       return `<a class="article-card" href="${localizedPath(lang, article.slug)}">
@@ -1557,6 +1658,60 @@ function renderCategory(language, slug, category) {
       </a>`;
     })
     .join('');
+
+  const topicShortcuts = populatedTopicGroups
+    .map((group, index) => {
+      const groupId = `topic-${category.id}-${group.label}`;
+      return `<a class="topic-shortcut" href="#${groupId}">
+        <span class="topic-shortcut-number" aria-hidden="true">${String(index + 1).padStart(2, '0')}</span>
+        <span class="topic-shortcut-copy">
+          <strong>${escapeHtml(strings[group.label])}</strong>
+          <small>${group.articles.length} ${escapeHtml(strings.guidesLabel)}</small>
+        </span>
+        <span class="topic-shortcut-arrow" aria-hidden="true">${DOWN_CHEVRON}</span>
+      </a>`;
+    })
+    .join('');
+
+  const renderTopicLink = (article) => {
+    const data = article.i18n[lang] ?? article.i18n.en;
+    return `<a class="topic-guide-link" href="${localizedPath(lang, article.slug)}">
+      <span class="topic-guide-thumb" aria-hidden="true">${imageMarkup(`/assets/${article.hero}`, '', { loading: 'lazy' })}</span>
+      <span class="topic-guide-copy">
+        <h4>${escapeHtml(data.title)}</h4>
+        <span class="topic-guide-excerpt">${escapeHtml(data.description)}</span>
+      </span>
+      <span class="topic-guide-arrow" aria-hidden="true">${FORWARD_CHEVRON}</span>
+    </a>`;
+  };
+
+  const topicBlocks = populatedTopicGroups
+    .map((group) => {
+      const groupId = `topic-${category.id}-${group.label}`;
+      const visibleArticles = group.articles.slice(0, 6);
+      const additionalArticles = group.articles.slice(6);
+      const visibleLinks = visibleArticles.map(renderTopicLink).join('');
+      const additionalLinks = additionalArticles.map(renderTopicLink).join('');
+      const moreGuides = additionalArticles.length
+        ? `<details class="topic-more">
+          <summary>
+            <span class="topic-more-closed">${escapeHtml(strings.showMoreGuides)} (${additionalArticles.length})</span>
+            <span class="topic-more-open">${escapeHtml(strings.showFewerGuides)}</span>
+          </summary>
+          <div class="topic-guide-list topic-guide-list-more">${additionalLinks}</div>
+        </details>`
+        : '';
+      return `<section class="topic-group" aria-labelledby="${groupId}">
+        <div class="topic-group-header">
+          <h3 id="${groupId}">${escapeHtml(strings[group.label])}</h3>
+          <span>${group.articles.length} ${escapeHtml(strings.guidesLabel)}</span>
+        </div>
+        <div class="topic-guide-list">${visibleLinks}</div>
+        ${moreGuides}
+      </section>`;
+    })
+    .join('');
+
   return `<main class="category-layout">
   ${renderBreadcrumbs(language, trail)}
   <section class="category-hero">
@@ -1567,8 +1722,18 @@ function renderCategory(language, slug, category) {
     </div>
     <figure class="category-hero-media">${imageMarkup(`/assets/${category.hero}`, pick(category.title, lang), { loading: 'eager', fetchpriority: 'high' })}</figure>
   </section>
-  <section class="section">
-    <div class="article-grid">${cards}</div>
+  <section class="section category-featured" aria-labelledby="category-featured-title">
+    <div class="category-section-header">
+      <h2 id="category-featured-title">${escapeHtml(strings.featuredInCategory)}</h2>
+    </div>
+    <div class="article-grid">${featuredCards}</div>
+  </section>
+  <section class="section category-topics" aria-labelledby="category-topics-title">
+    <div class="category-section-header">
+      <h2 id="category-topics-title">${escapeHtml(strings.browseByTopic)}</h2>
+    </div>
+    <nav class="topic-shortcuts" aria-labelledby="category-topics-title">${topicShortcuts}</nav>
+    <div class="topic-group-list">${topicBlocks}</div>
   </section>
   ${renderAppCta(language)}
 </main>`;
@@ -1627,7 +1792,7 @@ function renderArticleJsonLd(language, slug, article, data) {
       }))
     });
   }
-  const json = JSON.stringify({ '@context': 'https://schema.org', '@graph': graph }).replaceAll('<', '\\u003c');
+  const json = normalizeJsonStringify({ '@context': 'https://schema.org', '@graph': graph }).replaceAll('<', '\\u003c');
   return `<script type="application/ld+json">${json}</script>`;
 }
 
@@ -1657,22 +1822,31 @@ function renderToolJsonLd(language, slug, article, data) {
       ]
     }
   ];
-  const json = JSON.stringify({ '@context': 'https://schema.org', '@graph': graph }).replaceAll('<', '\\u003c');
+  const json = normalizeJsonStringify({ '@context': 'https://schema.org', '@graph': graph }).replaceAll('<', '\\u003c');
   return `<script type="application/ld+json">${json}</script>`;
 }
 
 function renderFooter(language) {
   const t = content[language.code];
   const ui = tourUiFor(language.code);
+  const footerUi = hubText(language.code);
   const categoryLinks = categories
     .slice()
     .sort((a, b) => a.order - b.order)
     .map((category) => `<a href="${localizedPath(language.code, category.slug)}">${escapeHtml(pick(category.title, language.code))}</a>`)
     .join('');
-  return `<footer class="site-footer">
-  <div class="footer-inner">
-    <div>
-      <strong>BeMama</strong><p>${escapeHtml(t.footer)}</p>
+  const appLink = (kind, href, label) => `<a class="footer-app-link" href="${href}" target="_blank" rel="noopener">
+    ${platformIcon(kind)}<span>${escapeHtml(label)}</span>${FORWARD_CHEVRON}
+  </a>`;
+  return `<footer class="site-footer" id="site-footer">
+  <div class="footer-shell">
+    <div class="footer-main">
+      <section class="footer-brand-block" aria-label="BeMama">
+        <a class="footer-brand" href="${localizedPath(language.code, '')}">
+          ${imageMarkup('/assets/bemama_logo_mark.png', '', { loading: 'lazy' })}
+          <strong>BeMama</strong>
+        </a>
+        <p>${escapeHtml(t.home.copy)}</p>
       <div class="footer-social">
         <a href="${site.socials.instagram}" target="_blank" rel="noopener" aria-label="Instagram">
           <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2.2c3.2 0 3.58.01 4.85.07 1.17.06 1.8.25 2.22.41.56.22.96.48 1.38.9.42.42.68.82.9 1.38.16.42.35 1.05.41 2.22.06 1.27.07 1.65.07 4.85s-.01 3.58-.07 4.85c-.06 1.17-.25 1.8-.41 2.22-.22.56-.48.96-.9 1.38-.42.42-.82.68-1.38.9-.42.16-1.05.35-2.22.41-1.27.06-1.65.07-4.85.07s-3.58-.01-4.85-.07c-1.17-.06-1.8-.25-2.22-.41a3.72 3.72 0 0 1-1.38-.9 3.72 3.72 0 0 1-.9-1.38c-.16-.42-.35-1.05-.41-2.22C2.21 15.58 2.2 15.2 2.2 12s.01-3.58.07-4.85c.06-1.17.25-1.8.41-2.22.22-.56.48-.96.9-1.38.42-.42.82-.68 1.38-.9.42-.16 1.05-.35 2.22-.41C8.42 2.21 8.8 2.2 12 2.2Zm0 1.98c-3.15 0-3.52.01-4.76.07-1.08.05-1.67.23-2.06.38-.52.2-.89.44-1.28.83-.39.39-.63.76-.83 1.28-.15.39-.33.98-.38 2.06-.06 1.24-.07 1.61-.07 4.76s.01 3.52.07 4.76c.05 1.08.23 1.67.38 2.06.2.52.44.89.83 1.28.39.39.76.63 1.28.83.39.15.98.33 2.06.38 1.24.06 1.61.07 4.76.07s3.52-.01 4.76-.07c1.08-.05 1.67-.23 2.06-.38.52-.2.89-.44 1.28-.83.39-.39.63-.76.83-1.28.15-.39.33-.98.38-2.06.06-1.24.07-1.61.07-4.76s-.01-3.52-.07-4.76c-.05-1.08-.23-1.67-.38-2.06-.2-.52-.44-.89-.83-1.28a3.44 3.44 0 0 0-1.28-.83c-.39-.15-.98-.33-2.06-.38-1.24-.06-1.61-.07-4.76-.07Zm0 3.37a4.45 4.45 0 1 1 0 8.9 4.45 4.45 0 0 1 0-8.9Zm0 1.98a2.47 2.47 0 1 0 0 4.94 2.47 2.47 0 0 0 0-4.94Zm4.69-3.07a1.04 1.04 0 1 1 0 2.08 1.04 1.04 0 0 1 0-2.08Z"/></svg>
@@ -1687,18 +1861,37 @@ function renderFooter(language) {
           <span class="sr-only">Pinterest</span>
         </a>
       </div>
+      </section>
+      <nav class="footer-column" aria-label="${escapeHtml(footerUi.footerExplore)}">
+        <h2>${escapeHtml(footerUi.footerExplore)}</h2>
+        ${categoryLinks}
+      </nav>
+      <nav class="footer-column" aria-label="${escapeHtml(footerUi.footerCompany)}">
+        <h2>${escapeHtml(footerUi.footerCompany)}</h2>
+        <a href="${localizedPath(language.code, 'about')}">${escapeHtml(t.nav.about)}</a>
+        <a href="${localizedPath(language.code, 'explore')}">${escapeHtml(ui.navLabel)}</a>
+        <a href="${localizedPath(language.code, 'contact')}">${escapeHtml(t.nav.contact)}</a>
+        <a href="${localizedPath(language.code, 'ai-disclaimer')}">${escapeHtml(t.nav.ai)}</a>
+      </nav>
+      <section class="footer-app-column" aria-labelledby="footer-app-title-${language.code}">
+        <h2 id="footer-app-title-${language.code}">${escapeHtml(footerUi.footerGetApp)}</h2>
+        <div class="footer-app-links">
+          ${appLink('web', site.appUrl, t.home.openWeb)}
+          ${appLink('ios', site.iosAppUrl, t.home.downloadIos || t.home.openIos)}
+          ${appLink('android', site.androidAppUrl, t.home.downloadAndroid || t.home.openAndroid)}
+        </div>
+      </section>
     </div>
-    <nav class="footer-links footer-explore">
-      ${categoryLinks}
-    </nav>
-    <div class="footer-links">
-      <a href="${localizedPath(language.code, 'about')}">${escapeHtml(t.nav.about)}</a>
-      <a href="${localizedPath(language.code, 'explore')}">${escapeHtml(ui.navLabel)}</a>
-      <a href="${localizedPath(language.code, 'privacy')}">${escapeHtml(t.nav.privacy)}</a>
-      <a href="${localizedPath(language.code, 'terms')}">${escapeHtml(t.nav.terms)}</a>
-      <a href="${localizedPath(language.code, 'subscription-terms')}">${escapeHtml(t.home.reviewSubscription)}</a>
-      <a href="${localizedPath(language.code, 'ai-disclaimer')}">${escapeHtml(t.nav.ai)}</a>
-      <a href="${localizedPath(language.code, 'contact')}">${escapeHtml(t.nav.contact)}</a>
+    <div class="footer-bottom">
+      <div class="footer-bottom-copy">
+        <span>© ${new Date().getUTCFullYear()} BeMama. ${escapeHtml(footerUi.footerRights)}</span>
+        <span>${escapeHtml(t.footer)}</span>
+      </div>
+      <nav class="footer-legal" aria-label="${escapeHtml(footerUi.footerLegal)}">
+        <a href="${localizedPath(language.code, 'privacy')}">${escapeHtml(t.nav.privacy)}</a>
+        <a href="${localizedPath(language.code, 'terms')}">${escapeHtml(t.nav.terms)}</a>
+        <a href="${localizedPath(language.code, 'subscription-terms')}">${escapeHtml(t.home.reviewSubscription)}</a>
+      </nav>
     </div>
   </div>
 </footer>`;
@@ -1767,7 +1960,7 @@ function platformIcon(kind) {
 }
 
 function jsonLdScript(graph) {
-  const json = JSON.stringify({ '@context': 'https://schema.org', '@graph': graph }).replaceAll('<', '\\u003c');
+  const json = normalizeJsonStringify({ '@context': 'https://schema.org', '@graph': graph }).replaceAll('<', '\\u003c');
   return `<script type="application/ld+json">${json}</script>`;
 }
 
@@ -2494,7 +2687,7 @@ function renderLocaleFeed(language) {
   return `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>${escapeHtml(site.name)} — ${escapeHtml(language.label)}</title>
+    <title>${escapeHtml(site.name)}: ${escapeHtml(language.label)}</title>
     <link>${homeUrl}</link>
     <atom:link href="${feedUrl}" rel="self" type="application/rss+xml" />
     <description>${escapeHtml(content[lang]?.metaDescription || content.en?.metaDescription || 'Pregnancy, baby, and parenting guidance from BeMama.')}</description>
@@ -2540,8 +2733,25 @@ export function localizedPath(languageCode, slug) {
   return `${prefix}${suffix}/`.replace('//', '/');
 }
 
-function escapeHtml(value) {
+function normalizeEditorialPunctuation(value) {
   return String(value)
+    // Parenthetical asides are the most common paired-em-dash construction.
+    .replace(/\s*—\s*([^—.!?؟\n]{1,180}?)\s*—\s*/g, ' ($1) ')
+    // A remaining em dash acts as a separator; a colon keeps that relationship
+    // without the repetitive punctuation pattern readers flagged as synthetic.
+    .replace(/\s*—\s*/g, ': ')
+    .replace(/[ \t]{2,}/g, ' ')
+    .trim();
+}
+
+function normalizeJsonStringify(value) {
+  return JSON.stringify(value, (_key, entry) =>
+    typeof entry === 'string' ? normalizeEditorialPunctuation(entry) : entry
+  );
+}
+
+function escapeHtml(value) {
+  return normalizeEditorialPunctuation(value)
     .replaceAll('&', '&amp;')
     .replaceAll('<', '&lt;')
     .replaceAll('>', '&gt;')

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>BeMama — Português</title>
+    <title>BeMama: Português</title>
     <link>https://bemamas.com/pt/</link>
     <atom:link href="https://bemamas.com/rss-pt.xml" rel="self" type="application/rss+xml" />
     <description>BeMama acompanha planejamento, gravidez, cuidado do bebê e crescimento infantil.</description>
@@ -1107,7 +1107,7 @@
       <title>Saúde pré-concepcional: como preparar seu corpo para a gravidez</title>
       <link>https://bemamas.com/pt/trying-to-conceive/preparing-for-pregnancy/</link>
       <guid isPermaLink="true">https://bemamas.com/pt/trying-to-conceive/preparing-for-pregnancy/</guid>
-      <description>Um checklist prático de pré-concepção — alimentação, vitaminas pré-natais, exames de saúde, mudanças de estilo de vida e quando começar — para dar à sua futura gravidez o começo mais saudável possível.</description>
+      <description>Um checklist prático de pré-concepção (alimentação, vitaminas pré-natais, exames de saúde, mudanças de estilo de vida e quando começar) para dar à sua futura gravidez o começo mais saudável possível.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/ttc-preparing.jpg" medium="image" />
     </item>
@@ -1123,7 +1123,7 @@
       <title>Como monitorar a ovulação: temperatura, muco e testes</title>
       <link>https://bemamas.com/pt/trying-to-conceive/tracking-ovulation/</link>
       <guid isPermaLink="true">https://bemamas.com/pt/trying-to-conceive/tracking-ovulation/</guid>
-      <description>Três formas confiáveis de monitorar a ovulação — temperatura basal, muco cervical e testes de ovulação — e como combiná-las para encontrar seus dias mais férteis.</description>
+      <description>Três formas confiáveis de monitorar a ovulação (temperatura basal, muco cervical e testes de ovulação) e como combiná-las para encontrar seus dias mais férteis.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/ttc-ovulation.jpg" medium="image" />
     </item>
@@ -1147,7 +1147,7 @@
       <title>O método Shettles: o momento da relação pode influenciar o sexo do bebê?</title>
       <link>https://bemamas.com/pt/trying-to-conceive/shettles-method/</link>
       <guid isPermaLink="true">https://bemamas.com/pt/trying-to-conceive/shettles-method/</guid>
-      <description>Um guia claro e equilibrado sobre o método Shettles — a teoria por trás de programar as relações para influenciar o sexo do bebê, como ele é praticado e o que as evidências realmente mostram.</description>
+      <description>Um guia claro e equilibrado sobre o método Shettles: a teoria por trás de programar as relações para influenciar o sexo do bebê, como ele é praticado e o que as evidências realmente mostram.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/ttc-shettles.jpg" medium="image" />
     </item>
@@ -1179,7 +1179,7 @@
       <title>Quando procurar um especialista em fertilidade</title>
       <link>https://bemamas.com/pt/trying-to-conceive/when-to-see-fertility-specialist/</link>
       <guid isPermaLink="true">https://bemamas.com/pt/trying-to-conceive/when-to-see-fertility-specialist/</guid>
-      <description>Saiba quando buscar ajuda para engravidar — os prazos gerais, sinais para agir mais cedo, o que envolve uma primeira avaliação e como se preparar.</description>
+      <description>Saiba quando buscar ajuda para engravidar: os prazos gerais, sinais para agir mais cedo, o que envolve uma primeira avaliação e como se preparar.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/ttc-specialist.jpg" medium="image" />
     </item>
@@ -1315,7 +1315,7 @@
       <title>Reconhecendo Doenças no Recém-nascido: Quando Ligar para o Médico</title>
       <link>https://bemamas.com/pt/newborn/when-to-call-doctor/</link>
       <guid isPermaLink="true">https://bemamas.com/pt/newborn/when-to-call-doctor/</guid>
-      <description>Um guia tranquilo sobre os sinais de alerta no recém-nascido — febre, recusa das mamadas, dificuldade para respirar, icterícia, desidratação e sonolência excessiva — e por que ligar cedo é sempre o certo.</description>
+      <description>Um guia tranquilo sobre os sinais de alerta no recém-nascido (febre, recusa das mamadas, dificuldade para respirar, icterícia, desidratação e sonolência excessiva) e por que ligar cedo é sempre o certo.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/newborn-call-doctor.jpg" medium="image" />
     </item>
@@ -1427,7 +1427,7 @@
       <title>Por que o BeMama: apoio para cada fase da maternidade</title>
       <link>https://bemamas.com/pt/about-bemama/why-bemama/</link>
       <guid isPermaLink="true">https://bemamas.com/pt/about-bemama/why-bemama/</guid>
-      <description>Por que criamos o BeMama — uma companhia tranquila que reúne orientação diária, comunidade e ferramentas práticas para o planejamento, a gravidez, os cuidados com o bebê e o crescimento da criança.</description>
+      <description>Por que criamos o BeMama: uma companhia tranquila que reúne orientação diária, comunidade e ferramentas práticas para o planejamento, a gravidez, os cuidados com o bebê e o crescimento da criança.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/app-why-bemama.jpg" medium="image" />
     </item>
@@ -1435,7 +1435,7 @@
       <title>A Jornada Diária: orientação sob medida para a sua fase</title>
       <link>https://bemamas.com/pt/about-bemama/daily-journey/</link>
       <guid isPermaLink="true">https://bemamas.com/pt/about-bemama/daily-journey/</guid>
-      <description>Como funciona a Jornada Diária do BeMama — defina a sua fase, receba conteúdo diário organizado e pequenas ações, e deixe a orientação se adaptar conforme a sua jornada de maternidade avança.</description>
+      <description>Como funciona a Jornada Diária do BeMama: defina a sua fase, receba conteúdo diário organizado e pequenas ações, e deixe a orientação se adaptar conforme a sua jornada de maternidade avança.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/app-daily-journey.jpg" medium="image" />
     </item>
@@ -1443,7 +1443,7 @@
       <title>Perguntas e respostas e comunidade: pergunte, aprenda e conecte-se</title>
       <link>https://bemamas.com/pt/about-bemama/qa-and-community/</link>
       <guid isPermaLink="true">https://bemamas.com/pt/about-bemama/qa-and-community/</guid>
-      <description>Como funcionam os espaços de Perguntas e respostas e de comunidade do BeMama — faça perguntas, explore discussões relacionadas e encontre conexão acolhedora e moderada com outras pessoas na mesma jornada.</description>
+      <description>Como funcionam os espaços de Perguntas e respostas e de comunidade do BeMama: faça perguntas, explore discussões relacionadas e encontre conexão acolhedora e moderada com outras pessoas na mesma jornada.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/app-qa-community.jpg" medium="image" />
     </item>
@@ -1451,7 +1451,7 @@
       <title>Ferramentas do BeMama: calculadoras e registros</title>
       <link>https://bemamas.com/pt/about-bemama/tools/</link>
       <guid isPermaLink="true">https://bemamas.com/pt/about-bemama/tools/</guid>
-      <description>Um olhar sobre as Ferramentas práticas do BeMama — calculadoras, registros e utilitários de cuidado organizados por fase — e como elas reduzem a carga mental do planejamento, da gravidez e da criação dos filhos.</description>
+      <description>Um olhar sobre as Ferramentas práticas do BeMama (calculadoras, registros e utilitários de cuidado organizados por fase) e como elas reduzem a carga mental do planejamento, da gravidez e da criação dos filhos.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/app-tools.jpg" medium="image" />
     </item>
@@ -1459,7 +1459,7 @@
       <title>BeMama Premium: o que está incluído</title>
       <link>https://bemamas.com/pt/about-bemama/premium/</link>
       <guid isPermaLink="true">https://bemamas.com/pt/about-bemama/premium/</guid>
-      <description>Uma visão honesta da experiência gratuita do BeMama em comparação com o Premium — orientação diária mais profunda e ferramentas mais completas — com termos de assinatura transparentes e nenhuma pressão para assinar.</description>
+      <description>Uma visão honesta da experiência gratuita do BeMama em comparação com o Premium (orientação diária mais profunda e ferramentas mais completas) com termos de assinatura transparentes e nenhuma pressão para assinar.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/app-premium.jpg" medium="image" />
     </item>
@@ -1467,7 +1467,7 @@
       <title>Como funciona o apoio assistido por IA no BeMama</title>
       <link>https://bemamas.com/pt/about-bemama/ai-support/</link>
       <guid isPermaLink="true">https://bemamas.com/pt/about-bemama/ai-support/</guid>
-      <description>Como funciona o apoio assistido por IA do BeMama, sempre claramente identificado, seus limites firmes — nada de diagnósticos, prescrições ou uso em emergências — e como usá-lo bem junto com a sua equipe de saúde.</description>
+      <description>Como funciona o apoio assistido por IA do BeMama, sempre claramente identificado, seus limites firmes (nada de diagnósticos, prescrições ou uso em emergências) e como usá-lo bem junto com a sua equipe de saúde.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/app-ai-support.jpg" medium="image" />
     </item>
@@ -1475,7 +1475,7 @@
       <title>Sua privacidade e a segurança dos seus dados no BeMama</title>
       <link>https://bemamas.com/pt/about-bemama/privacy-and-safety/</link>
       <guid isPermaLink="true">https://bemamas.com/pt/about-bemama/privacy-and-safety/</guid>
-      <description>Uma visão geral, em linguagem simples, de como o BeMama trata dados sensíveis da maternidade — para que são usados, os caminhos para pedir exclusão e exportação, e onde ler a política completa.</description>
+      <description>Uma visão geral, em linguagem simples, de como o BeMama trata dados sensíveis da maternidade: para que são usados, os caminhos para pedir exclusão e exportação, e onde ler a política completa.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/app-privacy.jpg" medium="image" />
     </item>
@@ -1483,7 +1483,7 @@
       <title>Primeiros passos com o BeMama</title>
       <link>https://bemamas.com/pt/about-bemama/getting-started/</link>
       <guid isPermaLink="true">https://bemamas.com/pt/about-bemama/getting-started/</guid>
-      <description>Um passeio tranquilo de cinco minutos pela sua primeira sessão no BeMama — abra o aplicativo web, crie o seu espaço, defina a sua fase e explore a Jornada Diária, as Perguntas e respostas e as Ferramentas.</description>
+      <description>Um passeio tranquilo de cinco minutos pela sua primeira sessão no BeMama: abra o aplicativo web, crie o seu espaço, defina a sua fase e explore a Jornada Diária, as Perguntas e respostas e as Ferramentas.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/app-getting-started.jpg" medium="image" />
     </item>

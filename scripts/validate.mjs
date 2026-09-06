@@ -2,7 +2,7 @@ import { access, readdir, readFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { languages, pageSlugs, site } from '../src/pages.mjs';
-import { articleBySlug, articles, hubSlugs } from '../src/content-hub.mjs';
+import { articleBySlug, articles, categories, hubSlugs, articlesInCategory } from '../src/content-hub.mjs';
 import { articleEvidence, evidenceForArticle } from '../src/article-evidence.mjs';
 import { evidenceUi } from '../src/article-evidence-i18n.mjs';
 
@@ -95,6 +95,9 @@ for (const route of requiredRoutes) {
   await access(file);
   const html = await readFile(file, 'utf8');
   const { language, slug } = routeMetadata.get(route);
+  if (html.includes('—')) {
+    throw new Error(`Rendered page contains an em dash: ${route}`);
+  }
   if (!html.includes(`<html lang="${language.code}" dir="${language.dir}">`)) {
     throw new Error(`Localized page has the wrong html lang or direction: ${route}`);
   }
@@ -187,6 +190,72 @@ for (const file of htmlFiles) {
   for (const href of hrefs) {
     if (href.startsWith('/') && !href.includes('.') && !knownRoutes.has(stripQuery(href))) {
       throw new Error(`Broken internal link in ${file}: ${href}`);
+    }
+  }
+}
+
+// Keep global navigation focused. Every guide remains discoverable from its
+// category hub and sitemap, so the header should never return to listing the
+// entire library twice for desktop and mobile.
+const englishHomepage = await readFile(path.join(dist, 'index.html'), 'utf8');
+const englishHeader = englishHomepage.match(/<header class="site-header">.*?<\/header>/s)?.[0] ?? '';
+const headerLinkCount = [...englishHeader.matchAll(/href="[^"]+"/g)].length;
+if (headerLinkCount > 80) {
+  throw new Error(`Global navigation has too many links: ${headerLinkCount} (maximum 80).`);
+}
+const categoryOverviewCount = [...englishHeader.matchAll(/class="submenu-overview"/g)].length;
+if (categoryOverviewCount !== categories.length) {
+  throw new Error(`Global navigation must provide one explicit category overview action per category; found ${categoryOverviewCount}.`);
+}
+
+const englishFooter = englishHomepage.match(/<footer class="site-footer".*?<\/footer>/s)?.[0] ?? '';
+if (!englishFooter.includes('class="footer-main"') || !englishFooter.includes('class="footer-bottom"')) {
+  throw new Error('Homepage footer is missing its structured navigation or legal section.');
+}
+const footerAppLinkCount = [...englishFooter.matchAll(/class="footer-app-link"/g)].length;
+if (footerAppLinkCount !== 3) {
+  throw new Error(`Homepage footer must include web, iOS, and Android actions; found ${footerAppLinkCount}.`);
+}
+const footerCategoryLinkCount = categories.filter((category) => englishFooter.includes(`href="/${category.slug}/"`)).length;
+if (footerCategoryLinkCount !== categories.length) {
+  throw new Error(`Homepage footer must link to every category hub; found ${footerCategoryLinkCount}.`);
+}
+
+for (const language of languages) {
+  for (const category of categories) {
+    const categoryFile = language.code === 'en'
+      ? path.join(dist, category.slug, 'index.html')
+      : path.join(dist, language.code, category.slug, 'index.html');
+    const categoryHtml = await readFile(categoryFile, 'utf8');
+    const categoryMain = categoryHtml.match(/<main class="category-layout">.*?<\/main>/s)?.[0] ?? '';
+    if (categoryMain.includes('class="compact-guide-card"')) {
+      throw new Error(`Category hub returned to the dense description-card layout in ${language.code}/${category.slug}.`);
+    }
+    const topicGroupBlocks = [...categoryMain.matchAll(/<section class="topic-group".*?<\/section>/gs)]
+      .map((match) => match[0]);
+    const topicShortcutCount = [...categoryMain.matchAll(/class="topic-shortcut"/g)].length;
+    if (topicShortcutCount !== topicGroupBlocks.length) {
+      throw new Error(`Category hub topic shortcuts do not match topic groups in ${language.code}/${category.slug}.`);
+    }
+    for (const groupBlock of topicGroupBlocks) {
+      const initiallyVisibleMarkup = groupBlock.split('<details class="topic-more">')[0];
+      const initiallyVisibleLinks = [...initiallyVisibleMarkup.matchAll(/class="topic-guide-link"/g)].length;
+      if (initiallyVisibleLinks > 6) {
+        throw new Error(`Category hub exposes more than six initial guide links in ${language.code}/${category.slug}.`);
+      }
+    }
+    const topicGuideCount = [...categoryMain.matchAll(/class="topic-guide-link"/g)].length;
+    const topicThumbnailCount = [...categoryMain.matchAll(/class="topic-guide-thumb"/g)].length;
+    const topicExcerptCount = [...categoryMain.matchAll(/class="topic-guide-excerpt"/g)].length;
+    if (topicGuideCount !== topicThumbnailCount || topicGuideCount !== topicExcerptCount) {
+      throw new Error(`Category hub guide cards need a thumbnail and summary in ${language.code}/${category.slug}.`);
+    }
+    for (const article of articlesInCategory(category.id)) {
+      const href = `href="${localizedPath(language.code, article.slug)}"`;
+      const linkCount = categoryMain.split(href).length - 1;
+      if (linkCount !== 1) {
+        throw new Error(`Category hub must link to ${article.slug} exactly once in ${language.code}; found ${linkCount}.`);
+      }
     }
   }
 }
