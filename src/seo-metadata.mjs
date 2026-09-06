@@ -1,19 +1,43 @@
 import { englishDescriptions } from './seo-descriptions-en.mjs';
+import { persianDescriptions } from './seo-descriptions-fa.mjs';
+import { arabicDescriptions } from './seo-descriptions-ar.mjs';
+import { frenchDescriptions } from './seo-descriptions-fr.mjs';
+import { turkishDescriptions } from './seo-descriptions-tr.mjs';
+import { spanishDescriptions } from './seo-descriptions-es.mjs';
+import { portugueseDescriptions } from './seo-descriptions-pt.mjs';
+
+export const descriptionsByLanguage = {
+  en: englishDescriptions,
+  fa: persianDescriptions,
+  ar: arabicDescriptions,
+  fr: frenchDescriptions,
+  tr: turkishDescriptions,
+  es: spanishDescriptions,
+  pt: portugueseDescriptions
+};
 
 // Search snippets are independent of article headings and summaries. Keep
 // complete sentences/topics: cutting by character count can change meaning,
 // especially in translated health information.
 const labels = {
-  en: { topics: 'In this guide', guide: 'Guide' },
-  fa: { topics: 'در این راهنما', guide: 'راهنما' },
-  ar: { topics: 'في هذا الدليل', guide: 'دليل' },
-  fr: { topics: 'Dans ce guide', guide: 'Guide' },
-  tr: { topics: 'Bu rehberde', guide: 'Rehber' },
-  es: { topics: 'En esta guía', guide: 'Guía' },
-  pt: { topics: 'Neste guia', guide: 'Guia' }
+  en: { guide: 'Guide' },
+  fa: { guide: 'راهنما' },
+  ar: { guide: 'دليل' },
+  fr: { guide: 'Guide' },
+  tr: { guide: 'Rehber' },
+  es: { guide: 'Guía' },
+  pt: { guide: 'Guia' }
 };
 
 export const metadataOverrides = {
+  'fa/baby-and-child/when-do-babies-walk': { title: 'کودکان چه زمانی راه می‌روند؟ | BeMama' },
+  'ar/baby-and-child/nap-transitions': { title: 'انتقال الطفل بين القيلولات: العلامات والتوقيت | BeMama' },
+  'fr/baby-and-child/finger-foods': { title: 'Premiers aliments à saisir pour bébé | BeMama' },
+  'fr/baby-and-child/potty-readiness': { title: 'Signes de préparation au pot chez le jeune enfant | BeMama' },
+  'tr/baby-and-child/finger-foods': { title: 'Bebekler İçin Elle Yenebilen Gıdalar | BeMama' },
+  'es/baby-and-child/finger-foods': { title: 'Alimentos que el bebé puede comer con las manos | BeMama' },
+  'pt/baby-and-child/babyproofing-basics': { title: 'Segurança em casa para bebês: checklist | BeMama' },
+  'pt/baby-and-child/nap-transitions': { title: 'Quando reduzir as sonecas do bebê | BeMama' },
   'en/privacy': { description: 'Learn how BeMama collects, uses and protects your data, how long it is kept, and how to request access, export or deletion.' },
   'en/subscription-terms': { description: 'Read BeMama Premium terms for monthly and annual plans, including billing, renewal, cancellation, refunds, trials and price changes.' },
   'fa/privacy': { description: 'با نحوه جمع‌آوری، استفاده و نگهداری داده‌ها در BeMama و روش درخواست دسترسی، دریافت نسخه یا حذف اطلاعات آشنا شوید.' },
@@ -99,14 +123,12 @@ export function metadataLength(value) {
     .replaceAll('"', '&quot;').replaceAll("'", '&#39;').length;
 }
 
-function sentence(value) {
-  const text = normalizeMetadata(value);
-  return /[.!?؟]$/.test(text) ? text : `${text}.`;
-}
-
-export function searchMetadata({ lang, slug, title, description, sections = [] }) {
+export function searchMetadata({ lang, slug, title, description }) {
+  if (!Object.hasOwn(descriptionsByLanguage, lang)) {
+    throw new Error(`Unsupported SEO language: ${lang}`);
+  }
   const override = {
-    ...(lang === 'en' && englishDescriptions[slug] ? { description: englishDescriptions[slug] } : {}),
+    ...(descriptionsByLanguage[lang][slug] ? { description: descriptionsByLanguage[lang][slug] } : {}),
     ...metadataOverrides[`${lang}/${slug}`]
   };
   const originalTitle = normalizeMetadata(title);
@@ -128,46 +150,16 @@ export function searchMetadata({ lang, slug, title, description, sections = [] }
     searchTitle = `${bareTitle}: ${labels[lang].guide} | BeMama`;
   }
 
-  let searchDescription = summary;
-  let method = override.description ? 'editorial' : 'original';
+  const searchDescription = summary;
+  const method = override.description ? 'editorial' : 'original';
   const validDescription = (value) => metadataLength(value) >= 70 && metadataLength(value) <= 160;
-  if (!override.description && !validDescription(summary)) {
-    // Only use leading sentences, which retain the subject and any negation.
-    const sentences = [...new Intl.Segmenter(lang, { granularity: 'sentence' }).segment(summary)]
-      .map((item) => item.segment.trim());
-    let lead = '';
-    const leads = [];
-    for (const item of sentences) {
-      lead = `${lead} ${item}`.trim();
-      if (validDescription(lead)) leads.push(lead);
-    }
-    if (leads.length) {
-      searchDescription = leads.at(-1);
-      method = 'leading-sentences';
-    } else {
-      // Programmatic summaries use page-specific, complete section headings,
-      // explicitly labelled as topics rather than isolated medical advice.
-      const headings = sections.map((section) => normalizeMetadata(section.heading))
-        .filter(Boolean).filter((heading, index, all) => all.indexOf(heading) === index);
-      const prefixes = [...new Set([bareTitle, searchTitle.replace(/ \| BeMama$/, '')])];
-      const candidates = [];
-      for (const prefix of prefixes) {
-        for (let i = 0; i < headings.length; i++) {
-          const base = `${sentence(prefix)} ${labels[lang].topics}: ${sentence(headings[i])}`;
-          if (validDescription(base)) candidates.push(base);
-          for (let j = i + 1; j < headings.length; j++) {
-            const pair = `${base} ${sentence(headings[j])}`;
-            if (validDescription(pair)) candidates.push(pair);
-          }
-          if (candidates.length) break;
-        }
-        if (candidates.length) break;
-      }
-      // Earlier headings establish the topic. Prefer adding another complete
-      // heading when it fits; never cut off a word or append generic filler.
-      searchDescription = candidates.sort((a, b) => metadataLength(b) - metadataLength(a))[0] ?? summary;
-      method = candidates.length ? 'section-topics' : 'needs-editorial';
-    }
+  // New content must supply a usable summary or an explicit localized rewrite.
+  // Do not synthesize topic lists, copy English, or truncate by character count.
+  if (!validDescription(searchDescription)) {
+    throw new Error(`SEO description needs an editorial rewrite: ${lang}/${slug}`);
+  }
+  if (metadataLength(searchTitle) < 15 || metadataLength(searchTitle) > 70) {
+    throw new Error(`SEO title needs an editorial rewrite: ${lang}/${slug}`);
   }
   return { title: searchTitle, description: searchDescription, method };
 }

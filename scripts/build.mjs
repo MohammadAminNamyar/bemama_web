@@ -861,8 +861,7 @@ function renderPage(language, slug) {
   }
 
   ({ title, description } = searchMetadata({
-    lang: language.code, slug, title, description,
-    sections: article ? (article.i18n[language.code] ?? article.i18n.en).sections : []
+    lang: language.code, slug, title, description
   }));
   const canonical = `${site.origin}${localizedPath(language.code, slug)}`;
   return `<!doctype html>
