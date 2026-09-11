@@ -4,6 +4,7 @@ import { cp, mkdir, readFile, rm, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { content, languages, pageSlugs, site } from '../src/pages.mjs';
+import { quickHelpCopy, quickHelpUrl } from '../src/quick-help.mjs';
 import { tourCollectionTranslations, tourUiTranslations } from '../src/tour-i18n.mjs';
 import { evidenceForArticle } from '../src/article-evidence.mjs';
 import { articleDates, evidenceDateLabels } from '../src/article-dates.mjs';
@@ -922,7 +923,7 @@ function renderPage(language, slug) {
     ${renderFooter(language)}
     <script type="module" src="${versionedAsset('/assets/site-search.js')}"></script>
     ${article?.kind === 'tool' ? `<script type="module" src="${versionedAsset('/assets/care-tools.js')}"></script>` : ''}
-    ${slug === 'explore' ? `<script type="module" src="${versionedAsset('/assets/product-tour.js')}"></script>` : ''}
+    ${slug === 'explore' ? `<script type="module" src="${versionedAsset('/assets/product-tour.js')}"></script>` : ''}${slug === '' ? `\n    <script type="module" src="${versionedAsset('/assets/quick-help-entry.js')}"></script>` : ''}
     ${renderAnalytics()}
     ${renderDeferredImageLoader()}
   </body>
@@ -1077,9 +1078,10 @@ function renderHome(language) {
           <h1>${escapeHtml(h.title)}</h1>
           <p class="hero-copy">${escapeHtml(h.copy)}</p>
           <div class="hero-actions">
-            <a class="button" href="${localizedPath(language.code, 'explore')}">${escapeHtml(ui.navLabel)}</a>
+            <a class="button" href="${escapeHtml(quickHelpUrl(language.code))}" data-quick-help data-umami-event="quick_help_clicked">${escapeHtml(quickHelpCopy[language.code].action)}</a>
             <a class="button secondary" href="${site.appUrl}" rel="noopener">${escapeHtml(h.openWeb)}</a>
           </div>
+          <p>${escapeHtml(quickHelpCopy[language.code].note)}</p>
           <div class="hero-store-links" aria-label="BeMama mobile apps">
             <a class="hero-store-link" href="${site.androidAppUrl}" target="_blank" rel="noopener">${platformIcon('android')}<span>${escapeHtml(h.downloadAndroid || h.openAndroid)}</span></a>
             <a class="hero-store-link" href="${site.iosAppUrl}" target="_blank" rel="noopener">${platformIcon('ios')}<span>${escapeHtml(h.downloadIos || h.openIos)}</span></a>
