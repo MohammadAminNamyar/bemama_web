@@ -5,6 +5,7 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { content, languages, pageSlugs, site } from '../src/pages.mjs';
 import { quickHelpCopy, quickHelpUrl } from '../src/quick-help.mjs';
+import { dinnerCopy, dinnerUrl } from '../src/dinner.mjs';
 import { tourCollectionTranslations, tourUiTranslations } from '../src/tour-i18n.mjs';
 import { evidenceForArticle } from '../src/article-evidence.mjs';
 import { articleDates, evidenceDateLabels } from '../src/article-dates.mjs';
@@ -1079,9 +1080,10 @@ function renderHome(language) {
           <p class="hero-copy">${escapeHtml(h.copy)}</p>
           <div class="hero-actions">
             <a class="button" href="${escapeHtml(quickHelpUrl(language.code))}" data-quick-help data-umami-event="quick_help_clicked">${escapeHtml(quickHelpCopy[language.code].action)}</a>
-            <a class="button secondary" href="${site.appUrl}" rel="noopener">${escapeHtml(h.openWeb)}</a>
+            <a class="button secondary" href="${escapeHtml(dinnerUrl(language.code))}" data-quick-help data-umami-event="dinner_clicked">${escapeHtml(dinnerCopy[language.code].action)}</a>
           </div>
           <p>${escapeHtml(quickHelpCopy[language.code].note)}</p>
+          <p>${escapeHtml(dinnerCopy[language.code].note)}</p>
           <div class="hero-store-links" aria-label="BeMama mobile apps">
             <a class="hero-store-link" href="${site.androidAppUrl}" target="_blank" rel="noopener">${platformIcon('android')}<span>${escapeHtml(h.downloadAndroid || h.openAndroid)}</span></a>
             <a class="hero-store-link" href="${site.iosAppUrl}" target="_blank" rel="noopener">${platformIcon('ios')}<span>${escapeHtml(h.downloadIos || h.openIos)}</span></a>

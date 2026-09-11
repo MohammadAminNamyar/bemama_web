@@ -2,7 +2,7 @@
 // strings (which may contain email addresses, tokens, or redirect targets).
 export function withHelpCampaign(href, search) {
   const target = new URL(href);
-  if (target.origin !== 'https://app.bemamas.com' || target.searchParams.get('tool') !== 'help') return href;
+  if (target.origin !== 'https://app.bemamas.com' || !['help', 'dinner'].includes(target.searchParams.get('tool'))) return href;
   const incoming = new URLSearchParams(search);
   for (const key of ['utm_source', 'utm_medium', 'utm_campaign', 'utm_content']) {
     const value = incoming.get(key);
