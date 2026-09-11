@@ -13,6 +13,8 @@ for (const { code } of languages) {
     assert.ok(html.includes(quickHelpUrl(code).replaceAll('&', '&amp;')));
     assert.ok(html.includes('quick-help-entry.js'));
     assert.ok(html.includes('data-umami-event="quick_help_clicked"'));
+    assert.ok(!html.includes('data-umami-event="dinner_clicked"'));
+    assert.ok(!html.includes('tool=dinner'));
   });
 }
 
