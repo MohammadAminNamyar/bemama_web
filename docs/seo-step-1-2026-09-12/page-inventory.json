@@ -1,0 +1,4287 @@
+[
+  {
+    "slug": "",
+    "url": "https://bemamas.com/",
+    "kind": "site-page",
+    "title": null,
+    "headings": [],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "explore",
+    "url": "https://bemamas.com/explore/",
+    "kind": "site-page",
+    "title": null,
+    "headings": [],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "about",
+    "url": "https://bemamas.com/about/",
+    "kind": "site-page",
+    "title": null,
+    "headings": [],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "privacy",
+    "url": "https://bemamas.com/privacy/",
+    "kind": "site-page",
+    "title": null,
+    "headings": [],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "terms",
+    "url": "https://bemamas.com/terms/",
+    "kind": "site-page",
+    "title": null,
+    "headings": [],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "subscription-terms",
+    "url": "https://bemamas.com/subscription-terms/",
+    "kind": "site-page",
+    "title": null,
+    "headings": [],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "ai-disclaimer",
+    "url": "https://bemamas.com/ai-disclaimer/",
+    "kind": "site-page",
+    "title": null,
+    "headings": [],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "contact",
+    "url": "https://bemamas.com/contact/",
+    "kind": "site-page",
+    "title": null,
+    "headings": [],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive",
+    "url": "https://bemamas.com/trying-to-conceive/",
+    "kind": "category",
+    "title": null,
+    "headings": [],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy",
+    "url": "https://bemamas.com/pregnancy/",
+    "kind": "category",
+    "title": null,
+    "headings": [],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn",
+    "url": "https://bemamas.com/newborn/",
+    "kind": "category",
+    "title": null,
+    "headings": [],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child",
+    "url": "https://bemamas.com/baby-and-child/",
+    "kind": "category",
+    "title": null,
+    "headings": [],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "about-bemama",
+    "url": "https://bemamas.com/about-bemama/",
+    "kind": "category",
+    "title": null,
+    "headings": [],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "tools",
+    "url": "https://bemamas.com/tools/",
+    "kind": "category",
+    "title": null,
+    "headings": [],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/preparing-for-pregnancy",
+    "url": "https://bemamas.com/trying-to-conceive/preparing-for-pregnancy/",
+    "kind": "article",
+    "title": "Preconception Health: How to Prepare Your Body for Pregnancy",
+    "headings": [
+      "Start a prenatal vitamin with folic acid",
+      "Book a preconception check-up",
+      "Nourish your body",
+      "Adjust lifestyle habits",
+      "Prepare your mind and your calendar"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/menstrual-cycle-fertile-window",
+    "url": "https://bemamas.com/trying-to-conceive/menstrual-cycle-fertile-window/",
+    "kind": "article",
+    "title": "Understanding Your Menstrual Cycle and Fertile Window",
+    "headings": [
+      "The phases of the menstrual cycle",
+      "What is ovulation?",
+      "Your fertile window",
+      "How to estimate when you ovulate",
+      "When cycles are irregular"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/tracking-ovulation",
+    "url": "https://bemamas.com/trying-to-conceive/tracking-ovulation/",
+    "kind": "article",
+    "title": "How to Track Ovulation: Temperature, Mucus, and Kits",
+    "headings": [
+      "Basal body temperature (BBT)",
+      "Cervical mucus",
+      "Ovulation predictor kits (OPKs)",
+      "Combining the methods",
+      "Let an app do the bookkeeping"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/folic-acid-preconception",
+    "url": "https://bemamas.com/trying-to-conceive/folic-acid-preconception/",
+    "kind": "article",
+    "title": "Folic Acid and Prenatal Vitamins Before Pregnancy",
+    "headings": [
+      "Why folic acid matters so early",
+      "How much do you need?",
+      "Food sources of folate",
+      "Choosing a prenatal vitamin"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/fertility-nutrition",
+    "url": "https://bemamas.com/trying-to-conceive/fertility-nutrition/",
+    "kind": "article",
+    "title": "Foods and Habits That Support Fertility",
+    "headings": [
+      "Build meals around whole foods",
+      "Key nutrients to prioritize",
+      "Aim for a healthy weight",
+      "Habits that help — and hurt",
+      "It takes two"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/shettles-method",
+    "url": "https://bemamas.com/trying-to-conceive/shettles-method/",
+    "kind": "article",
+    "title": "The Shettles Method: Can Timing Influence Your Baby’s Sex?",
+    "headings": [
+      "What the Shettles method claims",
+      "Timing for a boy vs. a girl",
+      "Tracking ovulation accurately",
+      "What the evidence actually shows",
+      "A gentler, evidence-based mindset"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/male-fertility",
+    "url": "https://bemamas.com/trying-to-conceive/male-fertility/",
+    "kind": "article",
+    "title": "Boosting Male Fertility: Sperm Health Basics",
+    "headings": [
+      "What healthy sperm depends on",
+      "Lifestyle habits that help",
+      "Watch the heat",
+      "Nutrition for sperm health",
+      "When to seek advice"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/how-long-to-conceive",
+    "url": "https://bemamas.com/trying-to-conceive/how-long-to-conceive/",
+    "kind": "article",
+    "title": "How Long Does It Usually Take to Get Pregnant?",
+    "headings": [
+      "The typical timeline",
+      "What affects how long it takes",
+      "Improving your odds each cycle",
+      "When to seek help"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/stopping-birth-control",
+    "url": "https://bemamas.com/trying-to-conceive/stopping-birth-control/",
+    "kind": "article",
+    "title": "Coming Off Birth Control: What to Expect",
+    "headings": [
+      "Fertility usually returns quickly",
+      "The one exception: the injection",
+      "What your cycles may do",
+      "Get ready while you transition"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/when-to-see-fertility-specialist",
+    "url": "https://bemamas.com/trying-to-conceive/when-to-see-fertility-specialist/",
+    "kind": "article",
+    "title": "When to See a Fertility Specialist",
+    "headings": [
+      "The general timelines",
+      "Reasons to seek help sooner",
+      "What a first evaluation involves",
+      "Preparing for your appointment"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/first-trimester",
+    "url": "https://bemamas.com/pregnancy/first-trimester/",
+    "kind": "article",
+    "title": "The First Trimester: A Week-by-Week Guide to Weeks 1–12",
+    "headings": [
+      "What is happening to your baby",
+      "Common early symptoms",
+      "Nutrition and folic acid",
+      "What to avoid",
+      "Your first prenatal appointment",
+      "Warning signs — when to call your doctor",
+      "Caring for your mind, too"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/second-trimester",
+    "url": "https://bemamas.com/pregnancy/second-trimester/",
+    "kind": "article",
+    "title": "When Does the Second Trimester Start? Week 13 or 14",
+    "headings": [
+      "Why energy often returns",
+      "How your baby is growing",
+      "Feeling your baby move: quickening",
+      "The anatomy scan",
+      "Changes in your body",
+      "Staying comfortable",
+      "Planning ahead"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/third-trimester",
+    "url": "https://bemamas.com/pregnancy/third-trimester/",
+    "kind": "article",
+    "title": "When Does the Third Trimester Start? Week 28",
+    "headings": [
+      "Your baby gets into position",
+      "Common third-trimester discomforts",
+      "Counting kicks: getting to know the rhythm",
+      "Braxton Hicks or real labor?",
+      "Final appointments and checks",
+      "Getting ready for the big day"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/pregnancy-nutrition",
+    "url": "https://bemamas.com/pregnancy/pregnancy-nutrition/",
+    "kind": "article",
+    "title": "Pregnancy Nutrition: Eating Well for Two",
+    "headings": [
+      "Build a balanced plate",
+      "The key nutrients of pregnancy",
+      "Realistic calorie needs by trimester",
+      "Smart snacks and meal prep",
+      "Hydration matters more than ever",
+      "Eating well when nausea has other ideas"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/foods-to-avoid",
+    "url": "https://bemamas.com/pregnancy/foods-to-avoid/",
+    "kind": "article",
+    "title": "Foods to Avoid During Pregnancy",
+    "headings": [
+      "Raw and undercooked meat, fish, and eggs",
+      "Unpasteurized dairy and soft cheeses",
+      "Fish: choose low-mercury options",
+      "Deli meats, pâté, and ready-to-eat foods",
+      "Caffeine and alcohol",
+      "Simple swaps that keep meals enjoyable"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/common-symptoms",
+    "url": "https://bemamas.com/pregnancy/common-symptoms/",
+    "kind": "article",
+    "title": "Common Pregnancy Symptoms and How to Ease Them",
+    "headings": [
+      "Nausea and morning sickness",
+      "Heartburn and indigestion",
+      "Backache and pelvic aches",
+      "Swelling in feet and ankles",
+      "Fatigue",
+      "Constipation",
+      "When a symptom needs a call"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/safe-exercise",
+    "url": "https://bemamas.com/pregnancy/safe-exercise/",
+    "kind": "article",
+    "title": "Safe Exercise During Pregnancy",
+    "headings": [
+      "Why movement helps",
+      "Walking and swimming: the reliable pair",
+      "Prenatal yoga and stretching",
+      "Strength training with modifications",
+      "How hard is too hard?",
+      "What to avoid",
+      "Warning signs: when to stop and call"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/prenatal-care-schedule",
+    "url": "https://bemamas.com/pregnancy/prenatal-care-schedule/",
+    "kind": "article",
+    "title": "Your Prenatal Care Schedule and Checkups",
+    "headings": [
+      "The typical visit rhythm",
+      "The first visit: the big one",
+      "First-trimester screening choices",
+      "Second-trimester milestones",
+      "Third-trimester monitoring",
+      "Making the most of every appointment"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/mental-health",
+    "url": "https://bemamas.com/pregnancy/mental-health/",
+    "kind": "article",
+    "title": "Mental Health and Emotional Wellbeing in Pregnancy",
+    "headings": [
+      "The normal emotional weather of pregnancy",
+      "When it is more than mood swings",
+      "Everyday self-care that actually helps",
+      "Calming a racing mind",
+      "Building your support system",
+      "Seeking help: what it looks like"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/warning-signs",
+    "url": "https://bemamas.com/pregnancy/warning-signs/",
+    "kind": "article",
+    "title": "Warning Signs in Pregnancy: When to Call Your Doctor",
+    "headings": [
+      "Bleeding",
+      "Severe headache and vision changes",
+      "Reduced baby movements",
+      "Fever and feeling unwell",
+      "Fluid leaks and waters breaking",
+      "Preeclampsia: a cluster worth knowing",
+      "The bottom line: better to call"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/birth-plan",
+    "url": "https://bemamas.com/pregnancy/birth-plan/",
+    "kind": "article",
+    "title": "Creating a Birth Plan",
+    "headings": [
+      "What a birth plan is (and is not)",
+      "Your environment and atmosphere",
+      "Pain relief preferences",
+      "Your support people",
+      "After the birth: newborn wishes",
+      "Staying flexible: plan the person, not the birth",
+      "Sharing it with your team"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/hospital-bag",
+    "url": "https://bemamas.com/pregnancy/hospital-bag/",
+    "kind": "article",
+    "title": "What to Pack in Your Hospital Bag",
+    "headings": [
+      "When to pack (earlier than you think)",
+      "For labor itself",
+      "For you, after the birth",
+      "For your baby",
+      "For your partner or support person",
+      "Documents and what to leave at home"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/newborn-care-basics",
+    "url": "https://bemamas.com/newborn/newborn-care-basics/",
+    "kind": "article",
+    "title": "Newborn Care Basics: Your First Days at Home",
+    "headings": [
+      "What the first days really look like",
+      "Learning your baby’s feeding cues",
+      "Sleep in the newborn stage",
+      "Holding and handling your newborn",
+      "Visitors, hygiene, and protecting a new immune system",
+      "Trusting yourself"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/breastfeeding-guide",
+    "url": "https://bemamas.com/newborn/breastfeeding-guide/",
+    "kind": "article",
+    "title": "Breastfeeding: A Beginner’s Guide",
+    "headings": [
+      "Getting started in the first days",
+      "Latch basics",
+      "How often and how long",
+      "Common early challenges",
+      "How to know baby is getting enough",
+      "Where to get support"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/formula-feeding",
+    "url": "https://bemamas.com/newborn/formula-feeding/",
+    "kind": "article",
+    "title": "Formula Feeding: How to Bottle-Feed Safely",
+    "headings": [
+      "Choosing a formula",
+      "Safe preparation, step by step",
+      "Sterilizing and storage",
+      "How much and how often",
+      "Paced bottle feeding",
+      "Fed is what matters"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/newborn-sleep",
+    "url": "https://bemamas.com/newborn/newborn-sleep/",
+    "kind": "article",
+    "title": "Newborn Sleep: What’s Normal in the First Months",
+    "headings": [
+      "How much newborns actually sleep",
+      "Day–night confusion",
+      "Safe sleep, every sleep",
+      "Gentle rhythms, not rigid schedules",
+      "Surviving the newborn nights"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/bathing-and-diapering",
+    "url": "https://bemamas.com/newborn/bathing-and-diapering/",
+    "kind": "article",
+    "title": "Bathing and Diapering Your Newborn",
+    "headings": [
+      "Sponge baths until the cord falls off",
+      "Moving to tub baths",
+      "Water temperature and bath safety",
+      "Diapering, step by step",
+      "Preventing and handling diaper rash"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/cord-and-skin-care",
+    "url": "https://bemamas.com/newborn/cord-and-skin-care/",
+    "kind": "article",
+    "title": "Umbilical Cord Care and Common Newborn Skin Issues",
+    "headings": [
+      "Caring for the cord stump",
+      "Signs of cord infection",
+      "Peeling, blotchy, brand-new skin",
+      "Baby acne and milia",
+      "Cradle cap",
+      "When to ask the doctor"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/when-to-call-doctor",
+    "url": "https://bemamas.com/newborn/when-to-call-doctor/",
+    "kind": "article",
+    "title": "Recognizing Illness in a Newborn: When to Call the Doctor",
+    "headings": [
+      "Fever in a newborn is always a call",
+      "Feeding refusal and dehydration signs",
+      "Breathing that does not look right",
+      "Jaundice to keep an eye on",
+      "Lethargy and just seeming \"off\"",
+      "Calling early is the right call"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/postpartum-recovery",
+    "url": "https://bemamas.com/newborn/postpartum-recovery/",
+    "kind": "article",
+    "title": "Postpartum Recovery: Caring for Yourself After Birth",
+    "headings": [
+      "Healing after a vaginal birth",
+      "Healing after a cesarean birth",
+      "Bleeding: what lochia looks like",
+      "Rest, nutrition, and the unglamorous basics",
+      "Baby blues, or something more",
+      "Accepting help and keeping your own checkups"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/soothing-and-colic",
+    "url": "https://bemamas.com/newborn/soothing-and-colic/",
+    "kind": "article",
+    "title": "Soothing a Crying Baby and Understanding Colic",
+    "headings": [
+      "Why babies cry",
+      "Soothing techniques worth trying",
+      "What colic is — and is not",
+      "Coping when the crying wears you down",
+      "Never shake a baby",
+      "When crying deserves a call to the doctor"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/newborn-development",
+    "url": "https://bemamas.com/newborn/newborn-development/",
+    "kind": "article",
+    "title": "Newborn Development: The First Three Months",
+    "headings": [
+      "Born with reflexes",
+      "How newborn senses work",
+      "Tummy time: tiny workouts",
+      "The first social smile",
+      "A month-by-month sketch",
+      "Everyday interaction is the curriculum"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/baby-milestones",
+    "url": "https://bemamas.com/baby-and-child/baby-milestones/",
+    "kind": "article",
+    "title": "Baby Milestones Month by Month (0–12 Months)",
+    "headings": [
+      "0–3 months: settling in and waking up to the world",
+      "4–6 months: rolling, reaching, and laughing",
+      "7–9 months: sitting, scooting, and stranger awareness",
+      "10–12 months: cruising toward toddlerhood",
+      "Every baby has their own pace",
+      "When to mention delays to your doctor"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/starting-solids",
+    "url": "https://bemamas.com/baby-and-child/starting-solids/",
+    "kind": "article",
+    "title": "Starting Solids: Baby’s First Foods",
+    "headings": [
+      "Signs your baby is ready",
+      "Great first foods",
+      "Purees, baby-led weaning, or both?",
+      "Introducing allergens",
+      "Foods to avoid in the first year",
+      "Mess is part of the process"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/sleep-training",
+    "url": "https://bemamas.com/baby-and-child/sleep-training/",
+    "kind": "article",
+    "title": "Baby Sleep Training: Gentle Approaches That Work",
+    "headings": [
+      "When to consider sleep training",
+      "Start with a solid bedtime routine",
+      "Fading: gradually stepping back",
+      "Pick up, put down",
+      "Graduated check-ins",
+      "Consistency is the real method"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/teething",
+    "url": "https://bemamas.com/baby-and-child/teething/",
+    "kind": "article",
+    "title": "Teething: Signs, Timeline, and Soothing Tips",
+    "headings": [
+      "The typical teething timeline",
+      "Real symptoms vs myths",
+      "Safe ways to soothe sore gums",
+      "What to avoid",
+      "Dental care from the very first tooth"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/vaccinations-overview",
+    "url": "https://bemamas.com/baby-and-child/vaccinations-overview/",
+    "kind": "article",
+    "title": "Childhood Vaccinations: A Simple Overview",
+    "headings": [
+      "How vaccines work, in plain language",
+      "Why vaccine schedules exist",
+      "Common mild reactions — and comfort tips",
+      "Keeping good vaccine records",
+      "If you feel hesitant, ask — that is healthy"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/toddler-nutrition",
+    "url": "https://bemamas.com/baby-and-child/toddler-nutrition/",
+    "kind": "article",
+    "title": "Toddler Nutrition and Feeding Picky Eaters",
+    "headings": [
+      "Toddler portions are smaller than you think",
+      "The division of responsibility",
+      "Picky eating: why it happens",
+      "Strategies that actually help",
+      "Milk, juice, and what fills the cup",
+      "Ending food battles"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/language-development",
+    "url": "https://bemamas.com/baby-and-child/language-development/",
+    "kind": "article",
+    "title": "Speech and Language Development in Toddlers",
+    "headings": [
+      "From babble to first words",
+      "The toddler explosion: words to sentences",
+      "Everyday ways to grow language",
+      "Bilingual homes: an advantage, not a delay",
+      "Red flags worth a conversation"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/positive-parenting",
+    "url": "https://bemamas.com/baby-and-child/positive-parenting/",
+    "kind": "article",
+    "title": "Positive Parenting and Gentle Discipline",
+    "headings": [
+      "Connection before correction",
+      "Expect what the age can deliver",
+      "Redirection: the toddler power tool",
+      "Natural and logical consequences",
+      "Name feelings to tame them",
+      "Consistency between caregivers",
+      "Repair after hard moments"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/potty-training",
+    "url": "https://bemamas.com/baby-and-child/potty-training/",
+    "kind": "article",
+    "title": "Potty Training: When and How to Start",
+    "headings": [
+      "Readiness matters more than age",
+      "Gear and groundwork",
+      "A calm step-by-step approach",
+      "Accidents without shame",
+      "Nighttime comes later",
+      "Regressions are normal"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/screen-time",
+    "url": "https://bemamas.com/baby-and-child/screen-time/",
+    "kind": "article",
+    "title": "Screen Time and Healthy Habits for Young Children",
+    "headings": [
+      "General guidance by age, in plain terms",
+      "Quality beats quantity",
+      "Watch together when you can",
+      "Screen-free zones and times",
+      "Children copy what they see you do",
+      "Realistic, not perfect"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/menstrual-cycle-basics",
+    "url": "https://bemamas.com/trying-to-conceive/menstrual-cycle-basics/",
+    "kind": "article",
+    "title": "Menstrual Cycle Phases: What Happens in Each Stage",
+    "headings": [
+      "The four phases, in order",
+      "The four hormones, in plain language",
+      "Why day 14 is only an average",
+      "What counts as normal, and what counts as irregular",
+      "Log a few cycles before drawing conclusions"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/ovulation-signs",
+    "url": "https://bemamas.com/trying-to-conceive/ovulation-signs/",
+    "kind": "article",
+    "title": "Signs of Ovulation: How to Tell When You Ovulate",
+    "headings": [
+      "Signs that show up before ovulation",
+      "What ovulation pain feels like",
+      "Spotting, tender breasts, and other quiet signs",
+      "Signs that ovulation has already happened",
+      "A simple daily log, and when to ask for help"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/fertile-window-timing",
+    "url": "https://bemamas.com/trying-to-conceive/fertile-window-timing/",
+    "kind": "article",
+    "title": "When Are the Best Times to Conceive? Fertile Window",
+    "headings": [
+      "Why the window is six days",
+      "Find your likely ovulation day",
+      "A schedule that does not take over your life",
+      "What helps, and what is folklore",
+      "When to fine tune, and when to call a clinician"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/ovulation-tests",
+    "url": "https://bemamas.com/trying-to-conceive/ovulation-tests/",
+    "kind": "article",
+    "title": "How to Use Ovulation Tests and Read the Results",
+    "headings": [
+      "What an ovulation test actually measures",
+      "When to start testing in your cycle",
+      "The best time of day to test",
+      "How to read the lines",
+      "What a positive means, and what it cannot tell you"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/basal-body-temperature",
+    "url": "https://bemamas.com/trying-to-conceive/basal-body-temperature/",
+    "kind": "article",
+    "title": "Basal Temp and Ovulation: How to Chart BBT",
+    "headings": [
+      "What basal body temperature is and why it shifts",
+      "How to take your temperature",
+      "Reading the chart: the biphasic pattern",
+      "What BBT can and cannot tell you",
+      "Messy charts, confounders, and when to ask for help"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/cervical-mucus",
+    "url": "https://bemamas.com/trying-to-conceive/cervical-mucus/",
+    "kind": "article",
+    "title": "Cervical Mucus Stages: What Fertile Mucus Looks Like",
+    "headings": [
+      "The stages of one cycle",
+      "What fertile egg white mucus looks like",
+      "How to check, step by step",
+      "After ovulation: the abrupt change",
+      "What muddies the reading, and when to call a clinician"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/prenatal-vitamins-before-pregnancy",
+    "url": "https://bemamas.com/trying-to-conceive/prenatal-vitamins-before-pregnancy/",
+    "kind": "article",
+    "title": "When to Start Prenatal Vitamins Before Pregnancy",
+    "headings": [
+      "Why the timing matters more than the brand",
+      "Read the back of the bottle, not the front",
+      "More is not better, and one ingredient to avoid",
+      "Gummies, pills, and prescription prenatals",
+      "What prenatals do, what they do not, and how to stick with it"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/folic-acid-basics",
+    "url": "https://bemamas.com/trying-to-conceive/folic-acid-basics/",
+    "kind": "article",
+    "title": "Folic Acid Before Pregnancy: How Much and When to Start",
+    "headings": [
+      "Why the advice sounds so early",
+      "How much to take and when to start",
+      "Folate, folic acid, and methylfolate",
+      "Who needs the 4 mg prescription dose",
+      "Where food fits in"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/fertility-friendly-nutrition",
+    "url": "https://bemamas.com/trying-to-conceive/fertility-friendly-nutrition/",
+    "kind": "article",
+    "title": "What to Eat When Trying to Get Pregnant: Fertility Nutrition",
+    "headings": [
+      "Start with the pattern, not a superfood",
+      "Folate and iron come first",
+      "Fish and omega-3s without the mercury worry",
+      "Vitamin D, iodine, and calcium",
+      "Body weight, cycles, and the myths you can skip"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/caffeine-alcohol-ttc",
+    "url": "https://bemamas.com/trying-to-conceive/caffeine-alcohol-ttc/",
+    "kind": "article",
+    "title": "Caffeine and Alcohol While Trying to Conceive",
+    "headings": [
+      "Caffeine: the 200 mg question",
+      "What 200 mg looks like in real drinks",
+      "Alcohol: why the advice is to stop when you start trying",
+      "A realistic approach to the two week wait",
+      "Swaps that make the change easier"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/partner-health-sperm",
+    "url": "https://bemamas.com/trying-to-conceive/partner-health-sperm/",
+    "kind": "article",
+    "title": "How to Improve Sperm Quality: A Partner Health Checklist",
+    "headings": [
+      "Start about three months before you want to try",
+      "Quit smoking and vaping, and rethink alcohol",
+      "Keep the heat down",
+      "Review medications, especially testosterone",
+      "Weight, food, sleep, and keeping it sustainable"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/early-pregnancy-signs",
+    "url": "https://bemamas.com/trying-to-conceive/early-pregnancy-signs/",
+    "kind": "article",
+    "title": "Early Pregnancy Signs Before a Missed Period",
+    "headings": [
+      "A missed period is still the sign that matters most",
+      "Symptoms that can appear before your period is due",
+      "When nausea usually starts",
+      "PMS or pregnancy: why you usually cannot tell",
+      "Getting through the wait, and when to call"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/pregnancy-test-timing",
+    "url": "https://bemamas.com/trying-to-conceive/pregnancy-test-timing/",
+    "kind": "article",
+    "title": "When to Take a Pregnancy Test for an Accurate Result",
+    "headings": [
+      "The short answer: wait for your missed period",
+      "Why testing too early gives false negatives",
+      "How to test for the cleanest result",
+      "Early-result tests and blood tests",
+      "Reading the result, and what to do next"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/irregular-cycles-ttc",
+    "url": "https://bemamas.com/trying-to-conceive/irregular-cycles-ttc/",
+    "kind": "article",
+    "title": "How to Get Pregnant With Irregular Periods",
+    "headings": [
+      "What counts as an irregular cycle",
+      "Why day 14 advice does not work here",
+      "Tracking that still helps when cycles do not cooperate",
+      "The plan that needs no prediction at all",
+      "Common causes, and when to see a clinician"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/when-to-seek-fertility-help",
+    "url": "https://bemamas.com/trying-to-conceive/when-to-seek-fertility-help/",
+    "kind": "article",
+    "title": "When to Seek Fertility Help: 6 and 12 Month Guidelines",
+    "headings": [
+      "The 6 and 12 month guidelines, explained",
+      "Reasons not to wait for the calendar",
+      "Help starts at a familiar office",
+      "What a first fertility evaluation involves",
+      "How to get ready, and how to steady yourself"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/preconception-appointment",
+    "url": "https://bemamas.com/trying-to-conceive/preconception-appointment/",
+    "kind": "article",
+    "title": "Preconception Appointment: What to Expect and Ask",
+    "headings": [
+      "Who to book with and when",
+      "Your health history, front and center",
+      "Medicines, supplements, and vaccines",
+      "Tests you might be offered",
+      "Questions worth bringing with you"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/pregnancy-weeks-4-8",
+    "url": "https://bemamas.com/pregnancy/pregnancy-weeks-4-8/",
+    "kind": "article",
+    "title": "4 to 8 Weeks Pregnant: Symptoms, Baby Size, First Steps",
+    "headings": [
+      "What is developing from week 4 to week 8",
+      "How you might feel, week by week",
+      "Your first prenatal appointment",
+      "Small steps that matter right now",
+      "When to call your clinician"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/pregnancy-weeks-9-12",
+    "url": "https://bemamas.com/pregnancy/pregnancy-weeks-9-12/",
+    "kind": "article",
+    "title": "9 to 12 Weeks Pregnant: Symptoms, Screening, Baby Growth",
+    "headings": [
+      "From embryo to fetus: what changes in weeks 9 to 12",
+      "How you might feel right now",
+      "Screening decisions: NIPT and the nuchal scan",
+      "Hearing the heartbeat",
+      "Your to-do list, and when to call"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/pregnancy-weeks-13-16",
+    "url": "https://bemamas.com/pregnancy/pregnancy-weeks-13-16/",
+    "kind": "article",
+    "title": "13 to 16 Weeks Pregnant: Second Trimester Start Guide",
+    "headings": [
+      "Your baby, from a lemon to an avocado",
+      "How you might feel from week 13 to 16",
+      "Appointments and tests in this window",
+      "Good things to do between 13 and 16 weeks",
+      "When to call your clinician"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/pregnancy-weeks-17-20",
+    "url": "https://bemamas.com/pregnancy/pregnancy-weeks-17-20/",
+    "kind": "article",
+    "title": "17 to 20 Weeks Pregnant: Movement and the Anatomy Scan",
+    "headings": [
+      "How your baby grows from week 17 to 20",
+      "How you might feel right now",
+      "The anatomy scan, this window's headline appointment",
+      "Is 20 weeks really the halfway point?",
+      "Comfort, self-care, and when to call"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/pregnancy-weeks-21-24",
+    "url": "https://bemamas.com/pregnancy/pregnancy-weeks-21-24/",
+    "kind": "article",
+    "title": "21 to 24 Weeks Pregnant: Baby Growth and Viability",
+    "headings": [
+      "How your baby grows from week 21 to 24",
+      "What viability at 24 weeks actually means",
+      "How your body may feel in these weeks",
+      "Appointments and checks in this window",
+      "Useful things to do before the third trimester"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/pregnancy-weeks-25-28",
+    "url": "https://bemamas.com/pregnancy/pregnancy-weeks-25-28/",
+    "kind": "article",
+    "title": "25 to 28 Weeks Pregnant: Glucose Test and Third Trimester",
+    "headings": [
+      "How your baby grows from week 25 to 28",
+      "How you might feel right now",
+      "Three tests share this window",
+      "Visits move to every two weeks",
+      "When to call your clinician"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/pregnancy-weeks-29-32",
+    "url": "https://bemamas.com/pregnancy/pregnancy-weeks-29-32/",
+    "kind": "article",
+    "title": "29 to 32 Weeks Pregnant: Kick Counts and Rapid Growth",
+    "headings": [
+      "Your baby's fastest growth stretch",
+      "How you might feel right now",
+      "Kick counts become part of the day",
+      "Appointments, position checks, and the Tdap window",
+      "Small to-dos, and when to call"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/pregnancy-weeks-33-36",
+    "url": "https://bemamas.com/pregnancy/pregnancy-weeks-33-36/",
+    "kind": "article",
+    "title": "33 to 36 Weeks Pregnant: GBS Test and Getting Ready",
+    "headings": [
+      "How your baby grows from week 33 to 36",
+      "What weeks 33 to 36 can feel like",
+      "Appointments from here to the finish",
+      "A short get-ready list that builds momentum",
+      "When to call your clinician"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/pregnancy-weeks-37-40",
+    "url": "https://bemamas.com/pregnancy/pregnancy-weeks-37-40/",
+    "kind": "article",
+    "title": "37 to 40 Weeks Pregnant: Full Term and Signs of Labor",
+    "headings": [
+      "Early term, full term, and why the labels matter",
+      "How big your baby is now",
+      "How you might feel from 37 weeks on",
+      "What appointments look like now",
+      "Waiting well, and when to go in"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/nausea-remedies",
+    "url": "https://bemamas.com/pregnancy/nausea-remedies/",
+    "kind": "article",
+    "title": "Morning Sickness Remedies: What Actually Helps Nausea",
+    "headings": [
+      "When it starts, peaks, and eases",
+      "Food first: small, bland, and never an empty stomach",
+      "Ginger and acupressure: gentle options worth trying",
+      "Vitamin B6 and when to ask about medicine",
+      "Fluids first, and the signs that mean call your clinician"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/heartburn-during-pregnancy",
+    "url": "https://bemamas.com/pregnancy/heartburn-during-pregnancy/",
+    "kind": "article",
+    "title": "Heartburn During Pregnancy: Causes and Fast Relief",
+    "headings": [
+      "Why pregnancy causes heartburn",
+      "Relief steps you can start tonight",
+      "Beating heartburn at night",
+      "Antacids and other medicines",
+      "The hair myth and when to call"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/constipation-during-pregnancy",
+    "url": "https://bemamas.com/pregnancy/constipation-during-pregnancy/",
+    "kind": "article",
+    "title": "Constipation During Pregnancy: Safe Relief That Works",
+    "headings": [
+      "Why constipation shows up in pregnancy",
+      "Aim for about 25 to 30 grams of fiber a day",
+      "Drink more than feels natural, and keep moving",
+      "The iron question, and safe step-up options",
+      "Hemorrhoids, red flags, and when to call"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/pelvic-pain-round-ligament",
+    "url": "https://bemamas.com/pregnancy/pelvic-pain-round-ligament/",
+    "kind": "article",
+    "title": "Round Ligament Pain: What It Feels Like and What Helps",
+    "headings": [
+      "What round ligament pain feels like",
+      "When it starts and why it happens",
+      "How to relieve round ligament pain",
+      "Round ligament pain or pelvic girdle pain",
+      "When pelvic pain deserves a call"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/prenatal-visit-schedule",
+    "url": "https://bemamas.com/pregnancy/prenatal-visit-schedule/",
+    "kind": "article",
+    "title": "Prenatal Visit Schedule: Week by Week Appointment Guide",
+    "headings": [
+      "The standard rhythm at a glance",
+      "Weeks 8 to 13: the first visit and early screening",
+      "Weeks 14 to 27: the monthly stretch",
+      "Week 28 to birth: visits speed up",
+      "The same checks every time, and why your schedule might differ"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/blood-tests-screening",
+    "url": "https://bemamas.com/pregnancy/blood-tests-screening/",
+    "kind": "article",
+    "title": "Prenatal Blood Tests and Screening by Trimester",
+    "headings": [
+      "The first-visit panel: routine labs everyone gets",
+      "Genetic screening options, in plain language",
+      "Screening versus diagnostic: what a result can tell you",
+      "The 28 week round and the Rh factor follow-up",
+      "Questions worth asking before you decide"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/anatomy-scan-guide",
+    "url": "https://bemamas.com/pregnancy/anatomy-scan-guide/",
+    "kind": "article",
+    "title": "Anatomy Scan: What to Expect at the 20 Week Ultrasound",
+    "headings": [
+      "What the anatomy scan is and when it happens",
+      "What the sonographer is actually checking",
+      "How long it takes and what the room feels like",
+      "Finding out the sex, and what the scan cannot do",
+      "If they find something: soft markers and follow-ups"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/glucose-test-guide",
+    "url": "https://bemamas.com/pregnancy/glucose-test-guide/",
+    "kind": "article",
+    "title": "Pregnancy Glucose Test: What to Expect and How to Prep",
+    "headings": [
+      "Why the test happens between 24 and 28 weeks",
+      "What the 1 hour screen is actually like",
+      "Reading the result: cutoffs and what a high screen means",
+      "The 3 hour test, step by step",
+      "After the test: results and next steps"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/blood-pressure-preeclampsia",
+    "url": "https://bemamas.com/pregnancy/blood-pressure-preeclampsia/",
+    "kind": "article",
+    "title": "Preeclampsia Symptoms and Blood Pressure in Pregnancy",
+    "headings": [
+      "The blood pressure numbers that matter",
+      "Symptoms worth a same-day call",
+      "Risk factors and low-dose aspirin",
+      "Checking blood pressure at home",
+      "Treatment, delivery, and the weeks after birth"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/vaccines-during-pregnancy",
+    "url": "https://bemamas.com/pregnancy/vaccines-during-pregnancy/",
+    "kind": "article",
+    "title": "Vaccines During Pregnancy: Which Shots and When",
+    "headings": [
+      "Why vaccines in pregnancy protect your baby",
+      "Tdap between 27 and 36 weeks, in every pregnancy",
+      "The flu shot and the COVID vaccine while pregnant",
+      "The RSV vaccine at 32 to 36 weeks",
+      "Which vaccines are not safe during pregnancy"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/safe-medicines-pregnancy",
+    "url": "https://bemamas.com/pregnancy/safe-medicines-pregnancy/",
+    "kind": "article",
+    "title": "What Medicine Can You Take While Pregnant? A Safety Guide",
+    "headings": [
+      "How medicine safety is judged now",
+      "Pain and fever: what usually gets a yes",
+      "Colds and allergies without the guesswork",
+      "Prescription medicines: never stop without a plan",
+      "Supplements, herbs, and the pharmacist script"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/sleep-positions-pregnancy",
+    "url": "https://bemamas.com/pregnancy/sleep-positions-pregnancy/",
+    "kind": "article",
+    "title": "Best Sleeping Position During Pregnancy by Trimester",
+    "headings": [
+      "Why side sleeping matters from 28 weeks",
+      "Early pregnancy: sleep in whatever position works",
+      "Left side, right side, and what actually matters",
+      "A pillow setup that keeps you on your side",
+      "When sleep belongs on your prenatal visit list"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/travel-during-pregnancy",
+    "url": "https://bemamas.com/pregnancy/travel-during-pregnancy/",
+    "kind": "article",
+    "title": "Flying While Pregnant: Travel Safety Through 36 Weeks",
+    "headings": [
+      "The best window: roughly 14 to 28 weeks",
+      "Airline rules and the letter you may need",
+      "Long trips: move, drink, and consider compression stockings",
+      "Car travel: how to wear the seatbelt",
+      "Vet the destination before you book"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/work-and-maternity-leave",
+    "url": "https://bemamas.com/pregnancy/work-and-maternity-leave/",
+    "kind": "article",
+    "title": "When to Start Maternity Leave and How to Plan for It",
+    "headings": [
+      "First trimester: decide when to tell your employer",
+      "Second trimester: map the leave math",
+      "Third trimester: choose your last day of work",
+      "Finish the paperwork and the handover by 36 weeks",
+      "Set up your return before you go"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/baby-movement-patterns",
+    "url": "https://bemamas.com/pregnancy/baby-movement-patterns/",
+    "kind": "article",
+    "title": "How to Count Baby Kicks and Track Movement Patterns",
+    "headings": [
+      "Your baby's normal is the benchmark",
+      "How to count kicks, step by step",
+      "What can muddle the pattern",
+      "Babies do not slow down before labor",
+      "If your baby is moving less than usual"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/preparing-for-labor",
+    "url": "https://bemamas.com/pregnancy/preparing-for-labor/",
+    "kind": "article",
+    "title": "How to Prepare for Labor: A Third Trimester Checklist",
+    "headings": [
+      "Weeks 28 to 32: book a class and learn how labor works",
+      "Weeks 28 to 32: practice one or two coping skills",
+      "Weeks 32 to 36: prepare your body",
+      "Weeks 32 to 36: handle the logistics",
+      "Weeks 36 and beyond: rehearse the day and settle your mind"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/signs-of-labor",
+    "url": "https://bemamas.com/pregnancy/signs-of-labor/",
+    "kind": "article",
+    "title": "Signs of Labor: How to Tell When It Is Really Starting",
+    "headings": [
+      "Early clues in the days before labor",
+      "Braxton Hicks or the real thing",
+      "What early contractions feel like and how to time them",
+      "If your water breaks",
+      "When to head in, and when to call right away"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/c-section-basics",
+    "url": "https://bemamas.com/pregnancy/c-section-basics/",
+    "kind": "article",
+    "title": "What Happens During a C-Section: Step by Step",
+    "headings": [
+      "Why C-sections happen",
+      "Planned, unplanned, and true emergency",
+      "In the operating room, step by step",
+      "The first hours and days in the hospital",
+      "Healing at home, and what comes next"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/postpartum-plan",
+    "url": "https://bemamas.com/pregnancy/postpartum-plan/",
+    "kind": "article",
+    "title": "How to Prepare for Postpartum: Make a Plan Before Birth",
+    "headings": [
+      "Write a one-page postpartum plan",
+      "Name your support roster and visitor rules",
+      "Plan feeding and sleep before you are exhausted",
+      "Stock the house by week 38",
+      "Book your checkups and plan a mental health check-in"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/first-24-hours",
+    "url": "https://bemamas.com/newborn/first-24-hours/",
+    "kind": "article",
+    "title": "The First 24 Hours With a Newborn: What to Expect",
+    "headings": [
+      "The golden hour: skin to skin and the first feed",
+      "Routine medicines on the birth day, in plain language",
+      "Screening tests and the delayed first bath",
+      "Sleep, feeds, and diapers on day one",
+      "The second night, and when to ask for help"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/feeding-cues",
+    "url": "https://bemamas.com/newborn/feeding-cues/",
+    "kind": "article",
+    "title": "Newborn Hunger Cues: Early, Active, and Late Signs",
+    "headings": [
+      "Early cues: the quiet window",
+      "Active cues: the volume rises",
+      "Crying is a late cue, so calm first",
+      "Fullness cues: how a baby says enough",
+      "Sleepy newborns: when to wake for a feed"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/latch-basics",
+    "url": "https://bemamas.com/newborn/latch-basics/",
+    "kind": "article",
+    "title": "How to Get a Good Latch: Step by Step for Newborns",
+    "headings": [
+      "Set up the position before the latch",
+      "The latch, step by step",
+      "What a good latch looks and feels like",
+      "Fixing a shallow latch, and when baby will not latch",
+      "When to ask for skilled help"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/pumping-storing-milk",
+    "url": "https://bemamas.com/newborn/pumping-storing-milk/",
+    "kind": "article",
+    "title": "Breast Milk Storage Guidelines: Room, Fridge, Freezer",
+    "headings": [
+      "The storage numbers, first",
+      "Thawing frozen milk without wasting it",
+      "When to start pumping, and how often",
+      "Label it, freeze it flat, use the oldest first",
+      "Warming milk and keeping everything clean"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/formula-prep-safety",
+    "url": "https://bemamas.com/newborn/formula-prep-safety/",
+    "kind": "article",
+    "title": "How to Prepare Baby Formula Safely: Water and Mixing",
+    "headings": [
+      "Why the preparation rules exist",
+      "Choose your water",
+      "Measure and mix exactly as the label says",
+      "The timing rules, all in one place",
+      "Keep hands, bottles, and surfaces clean"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/diaper-output",
+    "url": "https://bemamas.com/newborn/diaper-output/",
+    "kind": "article",
+    "title": "How Many Wet Diapers Should a Newborn Have Each Day",
+    "headings": [
+      "The day by day wet diaper count",
+      "Why wet diapers are the best home measure of intake",
+      "What a wet diaper actually feels like",
+      "Brick dust and urate crystals",
+      "Dehydration signs and when to call"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/newborn-poop",
+    "url": "https://bemamas.com/newborn/newborn-poop/",
+    "kind": "article",
+    "title": "Newborn Poop Colors: What Is Normal and What Is Not",
+    "headings": [
+      "The first week, diaper by diaper",
+      "Yellow, green, and brown are almost always fine",
+      "White, red, and black: the colors that need a call",
+      "How often newborns poop, and when less is fine",
+      "Texture, mucus, and keeping track without obsessing"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/jaundice-basics",
+    "url": "https://bemamas.com/newborn/jaundice-basics/",
+    "kind": "article",
+    "title": "Newborn Jaundice: Causes, Timeline, and Treatment",
+    "headings": [
+      "What bilirubin is and why newborns turn yellow",
+      "The usual timeline, and the one bright line",
+      "How jaundice is actually checked",
+      "Feeding helps, and what phototherapy really involves",
+      "Breastfeeding patterns and the call-now signs"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/newborn-fever",
+    "url": "https://bemamas.com/newborn/newborn-fever/",
+    "kind": "article",
+    "title": "Newborn Fever: Why 100.4 F Means Call Right Away",
+    "headings": [
+      "Why 100.4 F is the line for young babies",
+      "How to take your newborn's temperature",
+      "What to do when the number is 100.4 F or higher",
+      "What not to do before your baby is seen",
+      "A low temperature needs a call too"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/safe-sleep-room-sharing",
+    "url": "https://bemamas.com/newborn/safe-sleep-room-sharing/",
+    "kind": "article",
+    "title": "Safe Sleep for Newborns: The ABCs and Room Sharing",
+    "headings": [
+      "The ABCs: alone, on the back, in a bare crib",
+      "Room sharing: same room, separate surface",
+      "What a baby can sleep in, and what to leave out",
+      "Back sleeping, for every sleep and every nap",
+      "The 2 a.m. version of the rules"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/swaddling-safety",
+    "url": "https://bemamas.com/newborn/swaddling-safety/",
+    "kind": "article",
+    "title": "How to Swaddle a Baby Safely and When to Stop",
+    "headings": [
+      "Why swaddling calms newborns",
+      "How to swaddle, step by step",
+      "Keep the hips loose",
+      "Safety rules for every swaddled sleep",
+      "When to stop, and how to make the change"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/crying-and-colic",
+    "url": "https://bemamas.com/newborn/crying-and-colic/",
+    "kind": "article",
+    "title": "Normal Newborn Crying and the Period of PURPLE Crying",
+    "headings": [
+      "How much crying is normal for a newborn",
+      "What the Period of PURPLE Crying stands for",
+      "Colic and the rule of threes",
+      "When you cannot take one more minute",
+      "Which crying patterns deserve a call"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/pacifier-basics",
+    "url": "https://bemamas.com/newborn/pacifier-basics/",
+    "kind": "article",
+    "title": "When to Introduce a Pacifier and How to Use It Safely",
+    "headings": [
+      "The honest trade off",
+      "When to introduce a pacifier",
+      "Safe use rules that matter most",
+      "How to clean a pacifier and when to replace it",
+      "When to take away the pacifier"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/newborn-skin-rashes",
+    "url": "https://bemamas.com/newborn/newborn-skin-rashes/",
+    "kind": "article",
+    "title": "Newborn Rash Guide: What Is Normal and When to Worry",
+    "headings": [
+      "Erythema toxicum: the blotchy red rash most babies get",
+      "White bumps and baby acne: milia and newborn breakouts",
+      "Peeling, flaky skin in the first weeks",
+      "Cradle cap and heat rash",
+      "When a newborn rash needs a clinician"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/newborn-nail-care",
+    "url": "https://bemamas.com/newborn/newborn-nail-care/",
+    "kind": "article",
+    "title": "How to Cut Newborn Nails Safely: Tools and Timing",
+    "headings": [
+      "Start with a file, not clippers",
+      "When to move to clippers, and how often to trim",
+      "A calm, step by step technique",
+      "If you nick the skin",
+      "Scratch mittens, and nail signs that need a clinician"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/first-doctor-visit",
+    "url": "https://bemamas.com/newborn/first-doctor-visit/",
+    "kind": "article",
+    "title": "Newborn First Doctor Visit: Timing and What to Expect",
+    "headings": [
+      "When the first visit happens",
+      "The weigh-in and what the numbers mean",
+      "What the exam covers",
+      "What to bring and what to ask",
+      "The visits that come after this one"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/tummy-time-newborn",
+    "url": "https://bemamas.com/newborn/tummy-time-newborn/",
+    "kind": "article",
+    "title": "When to Start Tummy Time and How Long Each Day",
+    "headings": [
+      "Start in the first days, awake and supervised",
+      "How long, and how many times a day",
+      "Why a few minutes on the tummy matter",
+      "The best time of day, and what to lay out",
+      "When your baby protests, and when to ask for help"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/parent-rest-newborn",
+    "url": "https://bemamas.com/newborn/parent-rest-newborn/",
+    "kind": "article",
+    "title": "How to Sleep When You Have a Newborn: A Rest Plan",
+    "headings": [
+      "Start with the real math",
+      "Split the night into shifts",
+      "Be honest about sleep when the baby sleeps",
+      "Time caffeine and protect the block you built",
+      "Know the safety edge of exhaustion"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/two-month-milestones",
+    "url": "https://bemamas.com/baby-and-child/two-month-milestones/",
+    "kind": "article",
+    "title": "2 Month Old Milestones: What Babies Do by 2 Months",
+    "headings": [
+      "What a 2 month milestone checklist really means",
+      "Social smiles, cooing, and hearing",
+      "Head control, tracking, and movement",
+      "Feeding and sleep at 2 months",
+      "The 2 month checkup and when to call"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/four-month-milestones",
+    "url": "https://bemamas.com/baby-and-child/four-month-milestones/",
+    "kind": "article",
+    "title": "4 Month Old Milestones: Skills to Expect at 4 Months",
+    "headings": [
+      "What most babies do by 4 months",
+      "Social and language: smiles, chuckles, and coos",
+      "Movement: head control, reaching, and tummy time",
+      "Feeding and sleep at 4 months",
+      "Easy play, and when to call the pediatrician"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/six-month-milestones",
+    "url": "https://bemamas.com/baby-and-child/six-month-milestones/",
+    "kind": "article",
+    "title": "6 Month Old Milestones: What Babies Do by 6 Months",
+    "headings": [
+      "Social and language skills: laughter, squeals, and turn-taking",
+      "Movement: rolling, pushing up, and steadier sitting",
+      "Feeding at 6 months: milk still leads, solids begin",
+      "Sleep at 6 months: totals and naps",
+      "Play ideas, red flags, and the 6-month checkup"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/nine-month-milestones",
+    "url": "https://bemamas.com/baby-and-child/nine-month-milestones/",
+    "kind": "article",
+    "title": "9 Month Old Milestones: Skills to Expect at 9 Months",
+    "headings": [
+      "Social skills: your name, strangers, and peekaboo",
+      "Babbling, gestures, and new thinking skills",
+      "Movement at nine months, and a word about crawling",
+      "Feeding and sleep at nine months",
+      "The nine month checkup and when to call"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/twelve-month-milestones",
+    "url": "https://bemamas.com/baby-and-child/twelve-month-milestones/",
+    "kind": "article",
+    "title": "12 Month Old Milestones: Your Baby at 1 Year",
+    "headings": [
+      "How to read the checklist at one year",
+      "Social and language: games, waves, and first words",
+      "Hands, standing, and getting around",
+      "Eating and sleeping at one year",
+      "The 12 month checkup and when to call sooner"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/sleep-regressions",
+    "url": "https://bemamas.com/baby-and-child/sleep-regressions/",
+    "kind": "article",
+    "title": "Sleep Regression Ages: 4, 8, 12 and 18 Month Guide",
+    "headings": [
+      "What a sleep regression is and how to spot one",
+      "The 4 month regression: the one true reset",
+      "Later regressions: 8 months to 2 years",
+      "Regression, teething, illness, or a nap problem?",
+      "How to respond, and when to call your pediatrician"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/nap-transitions",
+    "url": "https://bemamas.com/baby-and-child/nap-transitions/",
+    "kind": "article",
+    "title": "Nap Transition Ages: 3 to 2, 2 to 1, and Dropping Naps",
+    "headings": [
+      "How many naps by age: the quick map",
+      "Signs a nap drop is coming, and signs it is not",
+      "The 3 to 2 nap transition, around 6 to 9 months",
+      "The 2 to 1 nap transition, between 13 and 18 months",
+      "Dropping the last nap, and what replaces it"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/starting-solids-allergens",
+    "url": "https://bemamas.com/baby-and-child/starting-solids-allergens/",
+    "kind": "article",
+    "title": "Introducing Allergens to Baby: Peanut, Egg and More",
+    "headings": [
+      "Waiting does not prevent food allergies",
+      "Know the big nine",
+      "One at a time, early in the day, at home",
+      "Safe forms for peanut, egg, and the rest",
+      "What a reaction looks like, and what to do"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/finger-foods",
+    "url": "https://bemamas.com/baby-and-child/finger-foods/",
+    "kind": "article",
+    "title": "Baby Finger Foods: What to Offer by Age and Choking Safety",
+    "headings": [
+      "When babies are ready for finger foods",
+      "The squish test: getting texture and size right",
+      "What to offer at each stage",
+      "Choking hazards to avoid before age 4",
+      "Gagging, choking, and safe mealtime habits"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/cup-and-water",
+    "url": "https://bemamas.com/baby-and-child/cup-and-water/",
+    "kind": "article",
+    "title": "When Can Babies Drink Water? Cup Training by Age",
+    "headings": [
+      "Why babies do not need water before 6 months",
+      "Water from 6 months: small sips with meals",
+      "Open cup, straw cup, or sippy cup",
+      "How to teach the first sips",
+      "Weaning off the bottle"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/teething-comfort",
+    "url": "https://bemamas.com/baby-and-child/teething-comfort/",
+    "kind": "article",
+    "title": "How to Soothe a Teething Baby: Safe Remedies That Work",
+    "headings": [
+      "Cold and pressure do most of the work",
+      "Comfort beyond the mouth",
+      "Pain medicine, used honestly",
+      "The remedies to skip",
+      "A calm plan for teething nights"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/babyproofing-basics",
+    "url": "https://bemamas.com/baby-and-child/babyproofing-basics/",
+    "kind": "article",
+    "title": "Babyproofing Checklist: How to Childproof Room by Room",
+    "headings": [
+      "Start before the skills arrive",
+      "Anchor furniture and the TV",
+      "Gates for stairs, guards for windows",
+      "Outlets, cords, and hot water",
+      "Lock up poisons and small objects"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/car-seat-basics",
+    "url": "https://bemamas.com/baby-and-child/car-seat-basics/",
+    "kind": "article",
+    "title": "Car Seat Guidelines by Age: Rear Facing to Booster",
+    "headings": [
+      "Rear facing is the longest stage, and that is good",
+      "Forward facing with a harness comes next",
+      "Boosters bridge the gap to the adult belt",
+      "Fit checks you can do on the next ride",
+      "Buying, expiration dates, and free help"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/language-games",
+    "url": "https://bemamas.com/baby-and-child/language-games/",
+    "kind": "article",
+    "title": "Language Activities for Toddlers: Games by Age",
+    "headings": [
+      "The one rule behind every game: serve and return",
+      "6 to 12 months: games for babblers",
+      "12 to 18 months: first words at work",
+      "18 to 24 months: stretching words into phrases",
+      "2 to 3 years: silly games and real conversations"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/separation-anxiety",
+    "url": "https://bemamas.com/baby-and-child/separation-anxiety/",
+    "kind": "article",
+    "title": "Separation Anxiety in Babies and Toddlers: What Helps",
+    "headings": [
+      "Why babies suddenly cry when you leave",
+      "Say goodbye the same way every time",
+      "Practice being apart in small doses",
+      "Separation anxiety at night",
+      "When to talk with your pediatrician"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/toddler-tantrums",
+    "url": "https://bemamas.com/baby-and-child/toddler-tantrums/",
+    "kind": "article",
+    "title": "Baby and Toddler Tantrums: How to Respond",
+    "headings": [
+      "Why toddlers have tantrums",
+      "What normal looks like at this age",
+      "Prevent the tantrums you can",
+      "What to do in the middle of one",
+      "When tantrums deserve a closer look"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/daycare-transition",
+    "url": "https://bemamas.com/baby-and-child/daycare-transition/",
+    "kind": "article",
+    "title": "Starting Daycare: How to Ease the Transition for Your Child",
+    "headings": [
+      "Two weeks before: visit, talk, and shift the routine",
+      "The first week: say goodbye, then actually leave",
+      "Weeks two to six: the real adjustment window",
+      "What to pack, what to label, and the sickness question",
+      "When to talk with the provider or your pediatrician"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/potty-readiness",
+    "url": "https://bemamas.com/baby-and-child/potty-readiness/",
+    "kind": "article",
+    "title": "Potty Training Readiness: Signs Your Toddler Is Ready",
+    "headings": [
+      "Why readiness beats the calendar",
+      "Physical signs: dryness and movement",
+      "Words and understanding",
+      "Interest and feelings",
+      "When waiting is the better choice"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/preconception-medication-review",
+    "url": "https://bemamas.com/trying-to-conceive/preconception-medication-review/",
+    "kind": "article",
+    "title": "A Practical Medication Review Before Pregnancy",
+    "headings": [
+      "Make one complete list",
+      "Book the review before you need an answer",
+      "Treat supplements as real medicines",
+      "Plan what happens after a positive test",
+      "Questions worth taking to the appointment"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/emotional-wellbeing-while-trying",
+    "url": "https://bemamas.com/trying-to-conceive/emotional-wellbeing-while-trying/",
+    "kind": "article",
+    "title": "Protecting Your Emotional Wellbeing While Trying to Conceive",
+    "headings": [
+      "Name the parts that are hardest",
+      "Build boundaries without apologizing",
+      "Keep the relationship bigger than the project",
+      "Use coping tools that actually fit",
+      "Know when to ask for more support"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/endometriosis-and-conception",
+    "url": "https://bemamas.com/trying-to-conceive/endometriosis-and-conception/",
+    "kind": "article",
+    "title": "Endometriosis and Conception: A More Informed Starting Point",
+    "headings": [
+      "Bring the whole history",
+      "Understand why timing of help matters",
+      "Think about pain as part of fertility care",
+      "Care for the body between appointments",
+      "Questions for the next visit"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/fertility-friendly-meal-patterns",
+    "url": "https://bemamas.com/trying-to-conceive/fertility-friendly-meal-patterns/",
+    "kind": "article",
+    "title": "Fertility-Friendly Meal Patterns Without a Perfect Diet",
+    "headings": [
+      "Build a balanced plate",
+      "Pay attention to the nutrients that matter",
+      "Use food safety habits now",
+      "Make the plan affordable and repeatable",
+      "Let nutrition support wellbeing"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/pcos-and-ovulation-tracking",
+    "url": "https://bemamas.com/trying-to-conceive/pcos-and-ovulation-tracking/",
+    "kind": "article",
+    "title": "PCOS and Ovulation Tracking: Use Data Without Letting It Take Over",
+    "headings": [
+      "Start with the cycle pattern you actually have",
+      "Know what each tool can and cannot say",
+      "Use timing that is broad enough",
+      "Ask about treatment options early enough",
+      "Keep tracking emotionally sustainable"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/fertility-after-birth-control",
+    "url": "https://bemamas.com/trying-to-conceive/fertility-after-birth-control/",
+    "kind": "article",
+    "title": "What to Expect When Fertility Returns After Birth Control",
+    "headings": [
+      "Separate return of ovulation from return of a regular cycle",
+      "Plan the transition",
+      "Interpret early changes carefully",
+      "Know when to check in",
+      "Give yourself a workable timeline"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/coping-with-negative-pregnancy-test",
+    "url": "https://bemamas.com/trying-to-conceive/coping-with-negative-pregnancy-test/",
+    "kind": "article",
+    "title": "Coping With a Negative Pregnancy Test",
+    "headings": [
+      "Check the timing before interpreting the result",
+      "Let the emotional response be real",
+      "Talk with your partner in the way you need",
+      "Choose the next decision point",
+      "Know when symptoms need care"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/cycle-planning-week-by-week",
+    "url": "https://bemamas.com/trying-to-conceive/cycle-planning-week-by-week/",
+    "kind": "article",
+    "title": "A Low-Stress Cycle Planning Routine, Week by Week",
+    "headings": [
+      "Week one: mark the start and reset",
+      "Week two: watch for changing signs",
+      "Week three: confirm patterns, do not chase certainty",
+      "Week four: test or begin again with kindness",
+      "Adapt the calendar to your real life"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/healthy-weight-gain",
+    "url": "https://bemamas.com/pregnancy/healthy-weight-gain/",
+    "kind": "article",
+    "title": "Healthy Pregnancy Weight Gain: A Supportive, Individual Approach",
+    "headings": [
+      "Start with individualized guidance",
+      "Nourish rather than restrict",
+      "Use movement for function and wellbeing",
+      "Notice changes that need a conversation",
+      "Protect the relationship with your body"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/headaches-when-to-call",
+    "url": "https://bemamas.com/pregnancy/headaches-when-to-call/",
+    "kind": "article",
+    "title": "Headaches in Pregnancy: Comfort Measures and When to Call",
+    "headings": [
+      "Describe the pattern clearly",
+      "Try basic support if your team has said it is appropriate",
+      "Know the symptoms that need prompt advice",
+      "Check the surrounding factors",
+      "Make a simple call plan"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/swelling-and-edema",
+    "url": "https://bemamas.com/pregnancy/swelling-and-edema/",
+    "kind": "article",
+    "title": "Swelling and Edema in Pregnancy: Everyday Comfort and Warning Signs",
+    "headings": [
+      "Notice when and where it happens",
+      "Support circulation gently",
+      "Make daily comfort easier",
+      "Know the warning patterns",
+      "Bring questions to routine care"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/pelvic-floor-preparation",
+    "url": "https://bemamas.com/pregnancy/pelvic-floor-preparation/",
+    "kind": "article",
+    "title": "Preparing Your Pelvic Floor During Pregnancy",
+    "headings": [
+      "Learn the full job of the muscles",
+      "Coordinate with breathing",
+      "Support bowel and bladder comfort",
+      "Prepare for birth without fear",
+      "Plan postpartum follow-up"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/induction-of-labor-conversation",
+    "url": "https://bemamas.com/pregnancy/induction-of-labor-conversation/",
+    "kind": "article",
+    "title": "How to Have a Clear Conversation About Induction of Labor",
+    "headings": [
+      "Start with the reason and the timing",
+      "Understand the stages",
+      "Keep preferences in the conversation",
+      "Prepare for different timelines",
+      "Review recovery and follow-up"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/gestational-diabetes-support",
+    "url": "https://bemamas.com/pregnancy/gestational-diabetes-support/",
+    "kind": "article",
+    "title": "Gestational Diabetes: Practical Support After a Positive Screen",
+    "headings": [
+      "Understand what the test means",
+      "Learn the monitoring routine",
+      "Build balanced meals",
+      "Use movement and medicine without blame",
+      "Plan birth and long-term follow-up"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/breathlessness-in-pregnancy",
+    "url": "https://bemamas.com/pregnancy/breathlessness-in-pregnancy/",
+    "kind": "article",
+    "title": "Breathlessness in Pregnancy: What to Notice and How to Get Help",
+    "headings": [
+      "Describe what you feel",
+      "Make ordinary activities easier",
+      "Call promptly for changes",
+      "Check the basics at prenatal visits",
+      "Support the emotional side"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/preparing-for-prenatal-appointments",
+    "url": "https://bemamas.com/pregnancy/preparing-for-prenatal-appointments/",
+    "kind": "article",
+    "title": "How to Get More From Every Prenatal Appointment",
+    "headings": [
+      "Keep one running note",
+      "Prioritize the questions",
+      "Understand routine tests",
+      "Discuss mental health and safety",
+      "Leave with a plan"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/cluster-feeding-and-rest",
+    "url": "https://bemamas.com/newborn/cluster-feeding-and-rest/",
+    "kind": "article",
+    "title": "Cluster Feeding and Rest: A Plan for the Early Weeks",
+    "headings": [
+      "Understand the rhythm without forcing a schedule",
+      "Share the work around the feed",
+      "Protect safe sleep during exhaustion",
+      "Look at the full feeding picture",
+      "Know when to call"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/paced-bottle-feeding",
+    "url": "https://bemamas.com/newborn/paced-bottle-feeding/",
+    "kind": "article",
+    "title": "Paced Bottle Feeding: A Calm, Responsive Technique",
+    "headings": [
+      "Set up a safe, supported position",
+      "Offer pauses and follow cues",
+      "Make burping and breaks ordinary",
+      "Avoid common pressure points",
+      "Ask for an observed feed when needed"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/babywearing-safety",
+    "url": "https://bemamas.com/newborn/babywearing-safety/",
+    "kind": "article",
+    "title": "Babywearing Safety: A Simple Fit and Airway Check",
+    "headings": [
+      "Choose a carrier that fits the baby",
+      "Keep the airway visible",
+      "Support the hips and body",
+      "Move and work within limits",
+      "Get a fit check when unsure"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/newborn-temperature-and-dressing",
+    "url": "https://bemamas.com/newborn/newborn-temperature-and-dressing/",
+    "kind": "article",
+    "title": "Newborn Temperature and Dressing: Simple Layers, Safer Sleep",
+    "headings": [
+      "Check the baby, not just the hands",
+      "Use breathable, simple layers",
+      "Create a safer sleep environment",
+      "Plan for weather and travel",
+      "Know when temperature is illness"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/postpartum-bleeding-basics",
+    "url": "https://bemamas.com/newborn/postpartum-bleeding-basics/",
+    "kind": "article",
+    "title": "Postpartum Bleeding: What Recovery Can Look Like and When to Call",
+    "headings": [
+      "Expect a changing pattern",
+      "Make recovery practical",
+      "Track symptoms without alarm",
+      "Know warning signs",
+      "Plan the follow-up conversation"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/postpartum-mood-changes",
+    "url": "https://bemamas.com/newborn/postpartum-mood-changes/",
+    "kind": "article",
+    "title": "Postpartum Mood Changes: Support for the Parent, Too",
+    "headings": [
+      "Expect a range, not one perfect feeling",
+      "Notice symptoms that deserve help",
+      "Share the load in concrete ways",
+      "Treat safety concerns as urgent",
+      "Keep support going after the first weeks"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/umbilical-cord-healing",
+    "url": "https://bemamas.com/newborn/umbilical-cord-healing/",
+    "kind": "article",
+    "title": "Umbilical Cord Healing: Gentle Care and What to Watch",
+    "headings": [
+      "Keep the area clean and dry",
+      "Expect gradual changes",
+      "Look for signs of infection",
+      "Handle common questions calmly",
+      "After it falls off"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/early-morning-waking",
+    "url": "https://bemamas.com/baby-and-child/early-morning-waking/",
+    "kind": "article",
+    "title": "Early-Morning Waking: A Gentle Troubleshooting Guide",
+    "headings": [
+      "Define “too early” for your child",
+      "Check the room first",
+      "Review bedtime and naps",
+      "Respond without starting the day",
+      "Look for health and development clues"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/toddler-balanced-meals",
+    "url": "https://bemamas.com/baby-and-child/toddler-balanced-meals/",
+    "kind": "article",
+    "title": "Balanced Meals for Toddlers: Structure Without Pressure",
+    "headings": [
+      "Use a predictable meal rhythm",
+      "Build variety across the week",
+      "Keep pressure out of the chair",
+      "Protect safety while offering independence",
+      "Know when to ask for help"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/allergy-action-plan",
+    "url": "https://bemamas.com/baby-and-child/allergy-action-plan/",
+    "kind": "article",
+    "title": "Building a Family Allergy Action Plan",
+    "headings": [
+      "Know the child’s specific triggers",
+      "Learn the symptoms and the response",
+      "Make the plan work outside home",
+      "Support the child emotionally",
+      "Review after every change"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/welcoming-new-sibling",
+    "url": "https://bemamas.com/baby-and-child/welcoming-new-sibling/",
+    "kind": "article",
+    "title": "Welcoming a New Sibling With Less Pressure",
+    "headings": [
+      "Tell the truth in child-sized pieces",
+      "Protect the older child’s anchors",
+      "Make room for mixed feelings",
+      "Include without making a job",
+      "Repair the rough moments"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/independent-play",
+    "url": "https://bemamas.com/baby-and-child/independent-play/",
+    "kind": "article",
+    "title": "Independent Play: Helping Toddlers Build Attention and Confidence",
+    "headings": [
+      "Start with the environment",
+      "Build the time slowly",
+      "Stay available without taking over",
+      "Use everyday work as a companion activity",
+      "Notice when support is needed"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/toddler-biting",
+    "url": "https://bemamas.com/baby-and-child/toddler-biting/",
+    "kind": "article",
+    "title": "Toddler Biting: Calm Limits and Practical Prevention",
+    "headings": [
+      "Respond quickly and simply",
+      "Look for the pattern",
+      "Prevent and redirect",
+      "Care for the bitten child",
+      "Ask for support when it persists"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/family-reading-routine",
+    "url": "https://bemamas.com/baby-and-child/family-reading-routine/",
+    "kind": "article",
+    "title": "Building a Family Reading Routine That Actually Lasts",
+    "headings": [
+      "Choose a time that can survive real life",
+      "Let the child lead sometimes",
+      "Support language without pressure",
+      "Make room for movement and repetition",
+      "Make it inclusive and sustainable"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/trimesters-of-pregnancy",
+    "url": "https://bemamas.com/pregnancy/trimesters-of-pregnancy/",
+    "kind": "article",
+    "title": "Pregnancy Trimesters: When Each One Starts and Ends",
+    "headings": [
+      "The week boundaries at a glance",
+      "Why some sources say 13 weeks and others say 14",
+      "Turning weeks into months",
+      "What actually changes at each boundary",
+      "Keeping track of your own dates"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/how-many-weeks-pregnant",
+    "url": "https://bemamas.com/pregnancy/how-many-weeks-pregnant/",
+    "kind": "article",
+    "title": "How Many Weeks Pregnant Am I? Counting Weeks and Your Due Date",
+    "headings": [
+      "Why the count starts before you conceived",
+      "How to work out your current week",
+      "How a dating ultrasound adjusts the estimate",
+      "Full term and the term bands",
+      "Turning weeks into months"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/when-do-you-start-showing",
+    "url": "https://bemamas.com/pregnancy/when-do-you-start-showing/",
+    "kind": "article",
+    "title": "When Do You Start Showing in Pregnancy?",
+    "headings": [
+      "What counts as showing, and the usual timeline",
+      "Why the range is so wide",
+      "Bloating or bump: what you are seeing early on",
+      "Showing early, showing late, and second pregnancies",
+      "When bump size is worth mentioning at a visit"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "pregnancy/when-can-you-feel-baby-move",
+    "url": "https://bemamas.com/pregnancy/when-can-you-feel-baby-move/",
+    "kind": "article",
+    "title": "When Can You Feel Your Baby Move? Quickening Explained",
+    "headings": [
+      "Most people feel movement between 16 and 25 weeks",
+      "What quickening actually feels like",
+      "Why an anterior placenta delays the feeling",
+      "When movement becomes regular, and when others can feel it",
+      "A decrease in movement deserves a same-day call"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/implantation-signs-and-timing",
+    "url": "https://bemamas.com/trying-to-conceive/implantation-signs-and-timing/",
+    "kind": "article",
+    "title": "Implantation: When It Happens and What You Might Notice",
+    "headings": [
+      "When implantation happens",
+      "Implantation bleeding or a period: how to tell them apart",
+      "Implantation symptoms: what you might notice",
+      "Testing after implantation: when a result means something",
+      "Getting through the wait, and when to call a clinician"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "trying-to-conceive/luteal-phase-basics",
+    "url": "https://bemamas.com/trying-to-conceive/luteal-phase-basics/",
+    "kind": "article",
+    "title": "The Luteal Phase: Length, Symptoms, and Why It Matters",
+    "headings": [
+      "What the luteal phase actually is",
+      "How long the luteal phase lasts",
+      "What progesterone does to your body",
+      "Why you cannot tell luteal symptoms from early pregnancy",
+      "Short luteal phases and when to talk to a clinician"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/when-do-babies-roll-over",
+    "url": "https://bemamas.com/baby-and-child/when-do-babies-roll-over/",
+    "kind": "article",
+    "title": "When Do Babies Roll Over? Timeline and Safety Guide",
+    "headings": [
+      "The typical rolling timeline",
+      "Stop swaddling at the first signs of rolling",
+      "Rolling over and safe sleep",
+      "Raised surfaces: the rule that starts at birth",
+      "How to help your baby roll, and when to check in"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/when-do-babies-sit-up",
+    "url": "https://bemamas.com/baby-and-child/when-do-babies-sit-up/",
+    "kind": "article",
+    "title": "When Do Babies Sit Up? Timeline, Help, and Safety",
+    "headings": [
+      "What the typical timeline looks like",
+      "Head control and trunk strength come first",
+      "How to help your baby learn to sit",
+      "Why baby seats and props do not speed things up",
+      "Keeping new sitters safe, and when to check in"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/when-do-babies-crawl",
+    "url": "https://bemamas.com/baby-and-child/when-do-babies-crawl/",
+    "kind": "article",
+    "title": "When Do Babies Crawl? Ages, Styles, and What Is Normal",
+    "headings": [
+      "The usual timeline, and why it varies so much",
+      "Do all babies crawl? No, and skipping it can be fine",
+      "Baby crawling styles: classic, commando, shuffle, and more",
+      "How to encourage crawling without pushing",
+      "Babyproofing now, and when to check in with a clinician"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/when-do-babies-walk",
+    "url": "https://bemamas.com/baby-and-child/when-do-babies-walk/",
+    "kind": "article",
+    "title": "When Do Babies Start Walking? Timeline and What Helps",
+    "headings": [
+      "The typical timeline, and why it is so wide",
+      "The usual sequence: pulling up, cruising, standing, stepping",
+      "How to encourage first steps safely",
+      "Why wheeled baby walkers are not recommended",
+      "When to check in with a clinician"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "baby-and-child/when-do-babies-sleep-through-the-night",
+    "url": "https://bemamas.com/baby-and-child/when-do-babies-sleep-through-the-night/",
+    "kind": "article",
+    "title": "When Do Babies Sleep Through the Night?",
+    "headings": [
+      "What sleeping through the night actually means",
+      "A realistic timeline, age by age",
+      "Night feeds and when they can go",
+      "Why sleep changes around 4, 8, and 12 months",
+      "What helps, and when to call your clinician"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "newborn/baby-growth-spurts",
+    "url": "https://bemamas.com/newborn/baby-growth-spurts/",
+    "kind": "article",
+    "title": "Baby Growth Spurts: When They Happen and What to Expect",
+    "headings": [
+      "When growth spurts usually happen",
+      "What a growth spurt looks like",
+      "How long growth spurts last",
+      "Feeding your baby through a spurt",
+      "Growth spurt or something wrong"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "tools/ovulation-calculator",
+    "url": "https://bemamas.com/tools/ovulation-calculator/",
+    "kind": "tool",
+    "title": "Ovulation Calculator",
+    "headings": [
+      "How to use it",
+      "Privacy note"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "tools/preconception-checklist",
+    "url": "https://bemamas.com/tools/preconception-checklist/",
+    "kind": "tool",
+    "title": "Preconception Checklist",
+    "headings": [
+      "How to use it",
+      "Privacy note"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "tools/due-date-calculator",
+    "url": "https://bemamas.com/tools/due-date-calculator/",
+    "kind": "tool",
+    "title": "Due Date Calculator",
+    "headings": [
+      "How to use it",
+      "Privacy note"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "tools/pregnancy-week-lookup",
+    "url": "https://bemamas.com/tools/pregnancy-week-lookup/",
+    "kind": "tool",
+    "title": "Pregnancy Week Lookup",
+    "headings": [
+      "How to use it",
+      "Privacy note"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "tools/appointment-symptom-calendar",
+    "url": "https://bemamas.com/tools/appointment-symptom-calendar/",
+    "kind": "tool",
+    "title": "Appointment and Symptom Calendar",
+    "headings": [
+      "How to use it",
+      "Privacy note"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "tools/hospital-bag-checklist",
+    "url": "https://bemamas.com/tools/hospital-bag-checklist/",
+    "kind": "tool",
+    "title": "Hospital Bag Checklist",
+    "headings": [
+      "How to use it",
+      "Privacy note"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "tools/baby-name-shortlist",
+    "url": "https://bemamas.com/tools/baby-name-shortlist/",
+    "kind": "tool",
+    "title": "Baby Name Ideas & Shortlist",
+    "headings": [
+      "How to use it",
+      "Privacy note"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "tools/registry-checklist",
+    "url": "https://bemamas.com/tools/registry-checklist/",
+    "kind": "tool",
+    "title": "Registry Checklist",
+    "headings": [
+      "How to use it",
+      "Privacy note"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "tools/newborn-care-checklist",
+    "url": "https://bemamas.com/tools/newborn-care-checklist/",
+    "kind": "tool",
+    "title": "Newborn Care Checklist",
+    "headings": [
+      "How to use it",
+      "Privacy note"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "tools/milestone-tracker",
+    "url": "https://bemamas.com/tools/milestone-tracker/",
+    "kind": "tool",
+    "title": "Milestone Tracker",
+    "headings": [
+      "How to use it",
+      "Privacy note"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "tools/growth-log",
+    "url": "https://bemamas.com/tools/growth-log/",
+    "kind": "tool",
+    "title": "Growth Log",
+    "headings": [
+      "How to use it",
+      "Privacy note"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "tools/solids-planner",
+    "url": "https://bemamas.com/tools/solids-planner/",
+    "kind": "tool",
+    "title": "Solids Planner",
+    "headings": [
+      "How to use it",
+      "Privacy note"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "tools/toddler-activity-picker",
+    "url": "https://bemamas.com/tools/toddler-activity-picker/",
+    "kind": "tool",
+    "title": "Toddler Activity Picker",
+    "headings": [
+      "How to use it",
+      "Privacy note"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "about-bemama/why-bemama",
+    "url": "https://bemamas.com/about-bemama/why-bemama/",
+    "kind": "article",
+    "title": "Why BeMama: Support for Every Stage of Motherhood",
+    "headings": [
+      "The problem: too much information, too little clarity",
+      "One companion across every stage",
+      "Guidance, community, and tools in one place",
+      "A safety-first approach",
+      "Try it today on the web"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "about-bemama/daily-journey",
+    "url": "https://bemamas.com/about-bemama/daily-journey/",
+    "kind": "article",
+    "title": "The Daily Journey: Guidance Tailored to Your Stage",
+    "headings": [
+      "Start by setting your stage",
+      "A daily rhythm of content and small actions",
+      "Guidance that adapts as you progress",
+      "Why small daily steps beat information overload",
+      "Education first, decisions with your provider"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "about-bemama/qa-and-community",
+    "url": "https://bemamas.com/about-bemama/qa-and-community/",
+    "kind": "article",
+    "title": "Q&A and Community: Ask, Learn, and Connect",
+    "headings": [
+      "Ask your question, find related answers",
+      "Supportive, moderated spaces",
+      "Why peer support matters in motherhood",
+      "Community guidelines keep it kind",
+      "A quieter kind of internet"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "about-bemama/tools",
+    "url": "https://bemamas.com/about-bemama/tools/",
+    "kind": "article",
+    "title": "BeMama Tools: Calculators and Trackers",
+    "headings": [
+      "Practical utilities, organized by stage",
+      "Why tracking reduces mental load",
+      "Tools and guidance work together",
+      "Growing with the app",
+      "Numbers inform, providers decide"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "about-bemama/premium",
+    "url": "https://bemamas.com/about-bemama/premium/",
+    "kind": "article",
+    "title": "BeMama Premium: What’s Included",
+    "headings": [
+      "The free experience stands on its own",
+      "What Premium adds",
+      "A subscription managed transparently",
+      "No pressure — honestly"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "about-bemama/ai-support",
+    "url": "https://bemamas.com/about-bemama/ai-support/",
+    "kind": "article",
+    "title": "How AI-Assisted Support Works in BeMama",
+    "headings": [
+      "Clearly labeled, always",
+      "What AI-assisted support is for",
+      "The limits are firm",
+      "Humans stay in charge of medical decisions",
+      "How to use it well"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "about-bemama/privacy-and-safety",
+    "url": "https://bemamas.com/about-bemama/privacy-and-safety/",
+    "kind": "article",
+    "title": "Your Privacy and Data Safety on BeMama",
+    "headings": [
+      "Sensitive data, treated with care",
+      "What your data is actually used for",
+      "You can request deletion or export",
+      "Your choices in everyday use",
+      "Read the full policy — really"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "about-bemama/getting-started",
+    "url": "https://bemamas.com/about-bemama/getting-started/",
+    "kind": "article",
+    "title": "Getting Started with BeMama",
+    "headings": [
+      "Step one: open the web app",
+      "Step two: create your space",
+      "Step three: set your stage",
+      "Step four: meet your Daily Journey",
+      "Step five: explore Q&A, community, and tools",
+      "A note before you begin"
+    ],
+    "localeContent": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  }
+]

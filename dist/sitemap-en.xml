@@ -2594,20 +2594,6 @@
 
   </url>
   <url>
-    <loc>https://bemamas.com/tools/pregnancy-week-lookup/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://bemamas.com/tools/pregnancy-week-lookup/" />
-    <xhtml:link rel="alternate" hreflang="fa" href="https://bemamas.com/fa/tools/pregnancy-week-lookup/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://bemamas.com/ar/tools/pregnancy-week-lookup/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bemamas.com/fr/tools/pregnancy-week-lookup/" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://bemamas.com/tr/tools/pregnancy-week-lookup/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bemamas.com/es/tools/pregnancy-week-lookup/" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bemamas.com/pt/tools/pregnancy-week-lookup/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bemamas.com/tools/pregnancy-week-lookup/" />
-
-  </url>
-  <url>
     <loc>https://bemamas.com/tools/appointment-symptom-calendar/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -2678,20 +2664,6 @@
 
   </url>
   <url>
-    <loc>https://bemamas.com/tools/milestone-tracker/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://bemamas.com/tools/milestone-tracker/" />
-    <xhtml:link rel="alternate" hreflang="fa" href="https://bemamas.com/fa/tools/milestone-tracker/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://bemamas.com/ar/tools/milestone-tracker/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bemamas.com/fr/tools/milestone-tracker/" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://bemamas.com/tr/tools/milestone-tracker/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bemamas.com/es/tools/milestone-tracker/" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bemamas.com/pt/tools/milestone-tracker/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bemamas.com/tools/milestone-tracker/" />
-
-  </url>
-  <url>
     <loc>https://bemamas.com/tools/growth-log/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
@@ -2703,34 +2675,6 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://bemamas.com/es/tools/growth-log/" />
     <xhtml:link rel="alternate" hreflang="pt" href="https://bemamas.com/pt/tools/growth-log/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://bemamas.com/tools/growth-log/" />
-
-  </url>
-  <url>
-    <loc>https://bemamas.com/tools/solids-planner/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://bemamas.com/tools/solids-planner/" />
-    <xhtml:link rel="alternate" hreflang="fa" href="https://bemamas.com/fa/tools/solids-planner/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://bemamas.com/ar/tools/solids-planner/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bemamas.com/fr/tools/solids-planner/" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://bemamas.com/tr/tools/solids-planner/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bemamas.com/es/tools/solids-planner/" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bemamas.com/pt/tools/solids-planner/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bemamas.com/tools/solids-planner/" />
-
-  </url>
-  <url>
-    <loc>https://bemamas.com/tools/toddler-activity-picker/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-    <xhtml:link rel="alternate" hreflang="en" href="https://bemamas.com/tools/toddler-activity-picker/" />
-    <xhtml:link rel="alternate" hreflang="fa" href="https://bemamas.com/fa/tools/toddler-activity-picker/" />
-    <xhtml:link rel="alternate" hreflang="ar" href="https://bemamas.com/ar/tools/toddler-activity-picker/" />
-    <xhtml:link rel="alternate" hreflang="fr" href="https://bemamas.com/fr/tools/toddler-activity-picker/" />
-    <xhtml:link rel="alternate" hreflang="tr" href="https://bemamas.com/tr/tools/toddler-activity-picker/" />
-    <xhtml:link rel="alternate" hreflang="es" href="https://bemamas.com/es/tools/toddler-activity-picker/" />
-    <xhtml:link rel="alternate" hreflang="pt" href="https://bemamas.com/pt/tools/toddler-activity-picker/" />
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://bemamas.com/tools/toddler-activity-picker/" />
 
   </url>
   <url>

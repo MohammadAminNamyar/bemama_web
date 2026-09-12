@@ -1,0 +1,639 @@
+[
+  {
+    "slug": "tools/ovulation-calculator",
+    "url": "https://bemamas.com/tools/ovulation-calculator/",
+    "title": "Ovulation Calculator",
+    "config": {
+      "id": "ovulation-calculator",
+      "type": "calculator",
+      "calculator": "ovulation",
+      "fields": [
+        {
+          "name": "lastPeriod",
+          "type": "date",
+          "label": "First day of last period"
+        },
+        {
+          "name": "cycleLength",
+          "type": "number",
+          "label": "Average cycle length",
+          "defaultValue": "28",
+          "min": "20",
+          "max": "45"
+        },
+        {
+          "name": "lutealLength",
+          "type": "number",
+          "label": "Luteal phase length",
+          "defaultValue": "14",
+          "min": "10",
+          "max": "18"
+        }
+      ],
+      "items": [],
+      "prompts": [],
+      "labels": {
+        "action": "Use tool",
+        "save": "Save",
+        "clear": "Clear",
+        "reset": "Reset",
+        "add": "Add",
+        "result": "Result",
+        "saved": "Saved entries",
+        "empty": "Nothing saved yet.",
+        "local": "Saved on this device only.",
+        "check": "Mark complete"
+      }
+    },
+    "locales": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "tools/preconception-checklist",
+    "url": "https://bemamas.com/tools/preconception-checklist/",
+    "title": "Preconception Checklist",
+    "config": {
+      "id": "preconception-checklist",
+      "type": "checklist",
+      "fields": [],
+      "items": [
+        "Book a preconception visit",
+        "Review medicines and supplements",
+        "Start a prenatal vitamin",
+        "Check vaccine records",
+        "Plan cycle tracking",
+        "Discuss chronic conditions"
+      ],
+      "prompts": [],
+      "labels": {
+        "action": "Use tool",
+        "save": "Save",
+        "clear": "Clear",
+        "reset": "Reset",
+        "add": "Add",
+        "result": "Result",
+        "saved": "Saved entries",
+        "empty": "Nothing saved yet.",
+        "local": "Saved on this device only.",
+        "check": "Mark complete"
+      }
+    },
+    "locales": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "tools/due-date-calculator",
+    "url": "https://bemamas.com/tools/due-date-calculator/",
+    "title": "Due Date Calculator",
+    "config": {
+      "id": "due-date-calculator",
+      "type": "calculator",
+      "calculator": "dueDate",
+      "fields": [
+        {
+          "name": "lastPeriod",
+          "type": "date",
+          "label": "First day of last period"
+        },
+        {
+          "name": "cycleLength",
+          "type": "number",
+          "label": "Average cycle length",
+          "defaultValue": "28",
+          "min": "20",
+          "max": "45"
+        }
+      ],
+      "items": [],
+      "prompts": [],
+      "labels": {
+        "action": "Use tool",
+        "save": "Save",
+        "clear": "Clear",
+        "reset": "Reset",
+        "add": "Add",
+        "result": "Result",
+        "saved": "Saved entries",
+        "empty": "Nothing saved yet.",
+        "local": "Saved on this device only.",
+        "check": "Mark complete"
+      }
+    },
+    "locales": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "tools/pregnancy-week-lookup",
+    "url": "https://bemamas.com/tools/pregnancy-week-lookup/",
+    "title": "Pregnancy Week Lookup",
+    "config": {
+      "id": "pregnancy-week-lookup",
+      "type": "calculator",
+      "calculator": "pregnancyWeek",
+      "fields": [
+        {
+          "name": "dueDate",
+          "type": "date",
+          "label": "Due date"
+        }
+      ],
+      "items": [],
+      "prompts": [],
+      "labels": {
+        "action": "Use tool",
+        "save": "Save",
+        "clear": "Clear",
+        "reset": "Reset",
+        "add": "Add",
+        "result": "Result",
+        "saved": "Saved entries",
+        "empty": "Nothing saved yet.",
+        "local": "Saved on this device only.",
+        "check": "Mark complete"
+      }
+    },
+    "locales": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "tools/appointment-symptom-calendar",
+    "url": "https://bemamas.com/tools/appointment-symptom-calendar/",
+    "title": "Appointment and Symptom Calendar",
+    "config": {
+      "id": "appointment-symptom-calendar",
+      "type": "log",
+      "fields": [
+        {
+          "name": "date",
+          "type": "date",
+          "label": "Date"
+        },
+        {
+          "name": "symptom",
+          "type": "text",
+          "label": "Symptom or appointment"
+        },
+        {
+          "name": "note",
+          "type": "text",
+          "label": "Note"
+        }
+      ],
+      "items": [],
+      "prompts": [],
+      "labels": {
+        "action": "Use tool",
+        "save": "Save",
+        "clear": "Clear",
+        "reset": "Reset",
+        "add": "Add",
+        "result": "Result",
+        "saved": "Saved entries",
+        "empty": "Nothing saved yet.",
+        "local": "Saved on this device only.",
+        "check": "Mark complete"
+      }
+    },
+    "locales": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "tools/hospital-bag-checklist",
+    "url": "https://bemamas.com/tools/hospital-bag-checklist/",
+    "title": "Hospital Bag Checklist",
+    "config": {
+      "id": "hospital-bag-checklist",
+      "type": "checklist",
+      "fields": [],
+      "items": [
+        "ID and health documents",
+        "Comfortable clothes",
+        "Phone charger",
+        "Baby going-home outfit",
+        "Feeding items",
+        "Snacks and water bottle"
+      ],
+      "prompts": [],
+      "labels": {
+        "action": "Use tool",
+        "save": "Save",
+        "clear": "Clear",
+        "reset": "Reset",
+        "add": "Add",
+        "result": "Result",
+        "saved": "Saved entries",
+        "empty": "Nothing saved yet.",
+        "local": "Saved on this device only.",
+        "check": "Mark complete"
+      }
+    },
+    "locales": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "tools/baby-name-shortlist",
+    "url": "https://bemamas.com/tools/baby-name-shortlist/",
+    "title": "Baby Name Ideas & Shortlist",
+    "config": {
+      "id": "baby-name-shortlist",
+      "type": "nameFinder",
+      "fields": [
+        {
+          "name": "name",
+          "type": "text",
+          "label": "Name"
+        },
+        {
+          "name": "note",
+          "type": "text",
+          "label": "Note"
+        }
+      ],
+      "items": [],
+      "prompts": [],
+      "labels": {
+        "action": "Use tool",
+        "save": "Save",
+        "clear": "Clear",
+        "reset": "Reset",
+        "add": "Add",
+        "result": "Result",
+        "saved": "Saved entries",
+        "empty": "Nothing saved yet.",
+        "local": "Saved on this device only.",
+        "check": "Mark complete"
+      }
+    },
+    "locales": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "tools/registry-checklist",
+    "url": "https://bemamas.com/tools/registry-checklist/",
+    "title": "Registry Checklist",
+    "config": {
+      "id": "registry-checklist",
+      "type": "checklist",
+      "fields": [],
+      "items": [
+        "Safe sleep space",
+        "Car seat",
+        "Diapers and wipes",
+        "Feeding basics",
+        "Thermometer",
+        "Simple clothing sizes"
+      ],
+      "prompts": [],
+      "labels": {
+        "action": "Use tool",
+        "save": "Save",
+        "clear": "Clear",
+        "reset": "Reset",
+        "add": "Add",
+        "result": "Result",
+        "saved": "Saved entries",
+        "empty": "Nothing saved yet.",
+        "local": "Saved on this device only.",
+        "check": "Mark complete"
+      }
+    },
+    "locales": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "tools/newborn-care-checklist",
+    "url": "https://bemamas.com/tools/newborn-care-checklist/",
+    "title": "Newborn Care Checklist",
+    "config": {
+      "id": "newborn-care-checklist",
+      "type": "checklist",
+      "fields": [],
+      "items": [
+        "Feed responsively",
+        "Count wet diapers",
+        "Use safe sleep",
+        "Check temperature when concerned",
+        "Plan first visit",
+        "Protect parent rest"
+      ],
+      "prompts": [],
+      "labels": {
+        "action": "Use tool",
+        "save": "Save",
+        "clear": "Clear",
+        "reset": "Reset",
+        "add": "Add",
+        "result": "Result",
+        "saved": "Saved entries",
+        "empty": "Nothing saved yet.",
+        "local": "Saved on this device only.",
+        "check": "Mark complete"
+      }
+    },
+    "locales": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "tools/milestone-tracker",
+    "url": "https://bemamas.com/tools/milestone-tracker/",
+    "title": "Milestone Tracker",
+    "config": {
+      "id": "milestone-tracker",
+      "type": "planner",
+      "planner": "milestones",
+      "fields": [
+        {
+          "name": "ageGroup",
+          "type": "select",
+          "label": "Age group",
+          "options": [
+            {
+              "value": "0-3",
+              "label": "0–3 months"
+            },
+            {
+              "value": "4-6",
+              "label": "4–6 months"
+            },
+            {
+              "value": "7-9",
+              "label": "7–9 months"
+            },
+            {
+              "value": "10-12",
+              "label": "10–12 months"
+            },
+            {
+              "value": "toddler",
+              "label": "Toddler"
+            }
+          ]
+        }
+      ],
+      "items": [],
+      "prompts": [],
+      "labels": {
+        "action": "Use tool",
+        "save": "Save",
+        "clear": "Clear",
+        "reset": "Reset",
+        "add": "Add",
+        "result": "Result",
+        "saved": "Saved entries",
+        "empty": "Nothing saved yet.",
+        "local": "Saved on this device only.",
+        "check": "Mark complete"
+      }
+    },
+    "locales": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "tools/growth-log",
+    "url": "https://bemamas.com/tools/growth-log/",
+    "title": "Growth Log",
+    "config": {
+      "id": "growth-log",
+      "type": "log",
+      "fields": [
+        {
+          "name": "date",
+          "type": "date",
+          "label": "Date"
+        },
+        {
+          "name": "weight",
+          "type": "number",
+          "label": "Weight"
+        },
+        {
+          "name": "length",
+          "type": "number",
+          "label": "Length/height"
+        },
+        {
+          "name": "note",
+          "type": "text",
+          "label": "Note"
+        }
+      ],
+      "items": [],
+      "prompts": [],
+      "labels": {
+        "action": "Use tool",
+        "save": "Save",
+        "clear": "Clear",
+        "reset": "Reset",
+        "add": "Add",
+        "result": "Result",
+        "saved": "Saved entries",
+        "empty": "Nothing saved yet.",
+        "local": "Saved on this device only.",
+        "check": "Mark complete"
+      }
+    },
+    "locales": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "tools/solids-planner",
+    "url": "https://bemamas.com/tools/solids-planner/",
+    "title": "Solids Planner",
+    "config": {
+      "id": "solids-planner",
+      "type": "planner",
+      "planner": "solids",
+      "fields": [
+        {
+          "name": "ageGroup",
+          "type": "select",
+          "label": "Age group",
+          "options": [
+            {
+              "value": "0-3",
+              "label": "0–3 months"
+            },
+            {
+              "value": "4-6",
+              "label": "4–6 months"
+            },
+            {
+              "value": "7-9",
+              "label": "7–9 months"
+            },
+            {
+              "value": "10-12",
+              "label": "10–12 months"
+            },
+            {
+              "value": "toddler",
+              "label": "Toddler"
+            }
+          ]
+        }
+      ],
+      "items": [],
+      "prompts": [],
+      "labels": {
+        "action": "Use tool",
+        "save": "Save",
+        "clear": "Clear",
+        "reset": "Reset",
+        "add": "Add",
+        "result": "Result",
+        "saved": "Saved entries",
+        "empty": "Nothing saved yet.",
+        "local": "Saved on this device only.",
+        "check": "Mark complete"
+      }
+    },
+    "locales": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  },
+  {
+    "slug": "tools/toddler-activity-picker",
+    "url": "https://bemamas.com/tools/toddler-activity-picker/",
+    "title": "Toddler Activity Picker",
+    "config": {
+      "id": "toddler-activity-picker",
+      "type": "planner",
+      "planner": "activities",
+      "fields": [
+        {
+          "name": "ageGroup",
+          "type": "select",
+          "label": "Age group",
+          "options": [
+            {
+              "value": "0-3",
+              "label": "0–3 months"
+            },
+            {
+              "value": "4-6",
+              "label": "4–6 months"
+            },
+            {
+              "value": "7-9",
+              "label": "7–9 months"
+            },
+            {
+              "value": "10-12",
+              "label": "10–12 months"
+            },
+            {
+              "value": "toddler",
+              "label": "Toddler"
+            }
+          ]
+        }
+      ],
+      "items": [],
+      "prompts": [],
+      "labels": {
+        "action": "Use tool",
+        "save": "Save",
+        "clear": "Clear",
+        "reset": "Reset",
+        "add": "Add",
+        "result": "Result",
+        "saved": "Saved entries",
+        "empty": "Nothing saved yet.",
+        "local": "Saved on this device only.",
+        "check": "Mark complete"
+      }
+    },
+    "locales": [
+      "en",
+      "fa",
+      "ar",
+      "fr",
+      "tr",
+      "es",
+      "pt"
+    ]
+  }
+]

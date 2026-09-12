@@ -52,9 +52,9 @@ const escape = value => value.replaceAll('&', '&amp;').replaceAll('<', '&lt;')
   .replaceAll('>', '&gt;').replaceAll('"', '&quot;').replaceAll("'", '&#39;');
 
 for (const { code: lang } of languages) {
-  test(`${lang}: all article/tool dates agree with recorded revisions and JSON-LD`, async () => {
+  test(`${lang}: active article/tool dates agree with recorded revisions and JSON-LD`, async () => {
     let fixedOldEvidenceDates = 0;
-    for (const article of articles) {
+    for (const article of articles.filter(article => !article.catalogHidden)) {
       const evidence = article.kind === 'tool' ? null : evidenceForArticle(article.slug, lang);
       const dates = articleDates(article, lang, evidence);
       assert.ok(dates.modifiedIso <= new Date().toISOString().slice(0, 10), article.slug);

@@ -1,0 +1,27 @@
+{
+  "capturedAtUtc": "2026-09-12T21:24:16Z",
+  "property": "https://bemamas.com/",
+  "source": "https://search.google.com/search-console/performance/search-analytics?resource_id=https%3A%2F%2Fbemamas.com%2F",
+  "method": "Read visible Chrome accessibility tree in signed-in Search Console; no report settings changed",
+  "selectedPeriod": "3 months",
+  "chartObservedDates": {"from":"2026-07-04","through":"2026-09-10"},
+  "searchType": "Web",
+  "filters": "No page, country, device, or query filter shown",
+  "lastUpdateLabel": "5.5 hours ago",
+  "totals": {"clicks":16,"impressions":956,"averageCtrPercent":1.7,"averagePosition":70.8},
+  "tableRowsReported":404,
+  "querySample": [
+    {"query":"idemama","clicks":1,"impressions":1},
+    {"query":"when does the third trimester start","clicks":0,"impressions":24},
+    {"query":"when is the third trimester","clicks":0,"impressions":23},
+    {"query":"when does third trimester start","clicks":0,"impressions":20},
+    {"query":"when does second trimester start","clicks":0,"impressions":18},
+    {"query":"bemama","clicks":0,"impressions":12},
+    {"query":"when does 2nd trimester start","clicks":0,"impressions":10},
+    {"query":"when does the 3rd trimester start","clicks":0,"impressions":10},
+    {"query":"bbt ovulation","clicks":0,"impressions":8},
+    {"query":"how to track ovulation with pcos","clicks":0,"impressions":7}
+  ],
+  "csvExport": {"status":"blocked_by_chrome","downloadedFile":null,"detail":"Download CSV navigated to Chrome ERR_BLOCKED_BY_CLIENT. No alternate export or bypass attempted."},
+  "limitations":["Only first ten visible query rows captured; not all 404 rows.","Totals include the whole property and are not an English-only or per-language baseline.","Displayed rounded metrics are preserved; do not derive exact unrounded figures.","Search positions do not measure AI citations; dedicated AI report not captured.","Historical indexing figures from September 6 documents must not be presented as current."]
+}

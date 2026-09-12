@@ -1,0 +1,2417 @@
+[
+  {
+    "id": "K001",
+    "legacyId": 1,
+    "term": "pregnancy tracker app",
+    "destination": "https://bemamas.com/about-bemama/daily-journey/",
+    "classification": "product_explanation",
+    "action": "Improve existing overview; verify every feature/free-access statement against the app. Do not create a page per synonym.",
+    "cluster": "pregnancy-app",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      },
+      {
+        "source": "N",
+        "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      }
+    ],
+    "monthlyRange": "10K–100K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K002",
+    "legacyId": 2,
+    "term": "pregnancy app",
+    "destination": "https://bemamas.com/about-bemama/daily-journey/",
+    "classification": "product_explanation",
+    "action": "Improve existing overview; verify every feature/free-access statement against the app. Do not create a page per synonym.",
+    "cluster": "pregnancy-app",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "B",
+        "sourceUrl": "https://bemamas.com/",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\bemama-site-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      },
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      },
+      {
+        "source": "N",
+        "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      }
+    ],
+    "monthlyRange": "10K–100K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K003",
+    "legacyId": 3,
+    "term": "pregnancy week by week app",
+    "destination": "https://bemamas.com/about-bemama/daily-journey/",
+    "classification": "product_explanation",
+    "action": "Improve existing overview; verify every feature/free-access statement against the app. Do not create a page per synonym.",
+    "cluster": "pregnancy-app",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "5000",
+        "monthlyRange": "1K–10K"
+      }
+    ],
+    "monthlyRange": "1K–10K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K004",
+    "legacyId": 4,
+    "term": "pregnancy tracker week by week",
+    "destination": "https://bemamas.com/about-bemama/daily-journey/",
+    "classification": "product_explanation",
+    "action": "Improve existing overview; verify every feature/free-access statement against the app. Do not create a page per synonym.",
+    "cluster": "pregnancy-app",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "5000",
+        "monthlyRange": "1K–10K"
+      }
+    ],
+    "monthlyRange": "1K–10K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K005",
+    "legacyId": 5,
+    "term": "pregnancy calendar app",
+    "destination": "https://bemamas.com/about-bemama/daily-journey/",
+    "classification": "product_explanation",
+    "action": "Improve existing overview; verify every feature/free-access statement against the app. Do not create a page per synonym.",
+    "cluster": "pregnancy-app",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "500",
+        "monthlyRange": "100–1K"
+      }
+    ],
+    "monthlyRange": "100–1K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K006",
+    "legacyId": 6,
+    "term": "pregnancy tracker online",
+    "destination": "https://bemamas.com/about-bemama/daily-journey/",
+    "classification": "intent_unverified",
+    "action": "Confirm whether online means a web tracker; do not imply a browser app exists from a mobile-app listing.",
+    "cluster": "pregnancy-app",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "500",
+        "monthlyRange": "100–1K"
+      }
+    ],
+    "monthlyRange": "100–1K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K007",
+    "legacyId": 7,
+    "term": "pregnancy app download",
+    "destination": "https://bemamas.com/about-bemama/daily-journey/",
+    "classification": "product_explanation",
+    "action": "Improve existing overview; verify every feature/free-access statement against the app. Do not create a page per synonym.",
+    "cluster": "pregnancy-app",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "5000",
+        "monthlyRange": "1K–10K"
+      }
+    ],
+    "monthlyRange": "1K–10K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K008",
+    "legacyId": 8,
+    "term": "free pregnancy tracker app",
+    "destination": "https://bemamas.com/about-bemama/daily-journey/",
+    "classification": "product_explanation",
+    "action": "Improve existing overview; verify every feature/free-access statement against the app. Do not create a page per synonym.",
+    "cluster": "pregnancy-app",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "5000",
+        "monthlyRange": "1K–10K"
+      }
+    ],
+    "monthlyRange": "1K–10K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K009",
+    "legacyId": 9,
+    "term": "pregnancy tracker",
+    "destination": "https://bemamas.com/about-bemama/daily-journey/",
+    "classification": "product_explanation",
+    "action": "Improve existing overview; verify every feature/free-access statement against the app. Do not create a page per synonym.",
+    "cluster": "pregnancy-app",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      }
+    ],
+    "monthlyRange": "10K–100K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K010",
+    "legacyId": 10,
+    "term": "track my pregnancy",
+    "destination": "https://bemamas.com/about-bemama/daily-journey/",
+    "classification": "product_explanation",
+    "action": "Improve existing overview; verify every feature/free-access statement against the app. Do not create a page per synonym.",
+    "cluster": "pregnancy-app",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "5000",
+        "monthlyRange": "1K–10K"
+      }
+    ],
+    "monthlyRange": "1K–10K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K011",
+    "legacyId": 11,
+    "term": "baby tracker",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "product_explanation",
+    "action": "Expand existing baby-care overview; show actual logging workflow after app verification.",
+    "cluster": "baby-tracking",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      },
+      {
+        "source": "H",
+        "sourceUrl": "https://huckleberrycare.com/product/tracking",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\huckleberry-page-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      },
+      {
+        "source": "N",
+        "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      }
+    ],
+    "monthlyRange": "10K–100K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K012",
+    "legacyId": 12,
+    "term": "infant tracking app",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "product_explanation",
+    "action": "Expand existing baby-care overview; show actual logging workflow after app verification.",
+    "cluster": "baby-tracking",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "5000",
+        "monthlyRange": "1K–10K"
+      },
+      {
+        "source": "N",
+        "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+        "rawBucket": "5000",
+        "monthlyRange": "1K–10K"
+      }
+    ],
+    "monthlyRange": "1K–10K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K013",
+    "legacyId": 13,
+    "term": "newborn tracking app",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "product_explanation",
+    "action": "Expand existing baby-care overview; show actual logging workflow after app verification.",
+    "cluster": "baby-tracking",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "500",
+        "monthlyRange": "100–1K"
+      }
+    ],
+    "monthlyRange": "100–1K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K014",
+    "legacyId": 14,
+    "term": "infant app",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "intent_unverified",
+    "action": "Broad app intent; retain for research, not mandatory wording or a separate page.",
+    "cluster": "baby-tracking",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "H",
+        "sourceUrl": "https://huckleberrycare.com/product/tracking",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\huckleberry-page-keywords-2026-09-12.csv",
+        "rawBucket": "5000",
+        "monthlyRange": "1K–10K"
+      }
+    ],
+    "monthlyRange": "1K–10K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K015",
+    "legacyId": 15,
+    "term": "infant log",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "product_explanation",
+    "action": "Expand existing baby-care overview; show actual logging workflow after app verification.",
+    "cluster": "baby-tracking",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "H",
+        "sourceUrl": "https://huckleberrycare.com/product/tracking",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\huckleberry-page-keywords-2026-09-12.csv",
+        "rawBucket": "5000",
+        "monthlyRange": "1K–10K"
+      }
+    ],
+    "monthlyRange": "1K–10K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K016",
+    "legacyId": 16,
+    "term": "new parent app",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "intent_unverified",
+    "action": "Broad app intent; retain for research, not mandatory wording or a separate page.",
+    "cluster": "baby-tracking",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "N",
+        "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+        "rawBucket": "500",
+        "monthlyRange": "100–1K"
+      }
+    ],
+    "monthlyRange": "100–1K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K017",
+    "legacyId": 17,
+    "term": "baby tracker app",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "product_explanation",
+    "action": "Expand existing baby-care overview; show actual logging workflow after app verification.",
+    "cluster": "baby-tracking",
+    "keywordEvidence": "inferred_no_captured_estimate",
+    "searchEvidence": [],
+    "monthlyRange": null,
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K018",
+    "legacyId": 18,
+    "term": "baby sleep tracker",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "product_explanation",
+    "action": "Expand existing baby-care overview; show actual logging workflow after app verification.",
+    "cluster": "baby-tracking",
+    "keywordEvidence": "inferred_no_captured_estimate",
+    "searchEvidence": [],
+    "monthlyRange": null,
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K019",
+    "legacyId": 19,
+    "term": "feeding tracker",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "product_explanation",
+    "action": "Add feeding/diaper workflow sections; link existing educational articles.",
+    "cluster": "feeding-diaper-workflows",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "50",
+        "monthlyRange": "10–100"
+      },
+      {
+        "source": "H",
+        "sourceUrl": "https://huckleberrycare.com/product/tracking",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\huckleberry-page-keywords-2026-09-12.csv",
+        "rawBucket": "50",
+        "monthlyRange": "10–100"
+      },
+      {
+        "source": "N",
+        "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+        "rawBucket": "50",
+        "monthlyRange": "10–100"
+      }
+    ],
+    "monthlyRange": "10–100",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K020",
+    "legacyId": 20,
+    "term": "nursing tracker app",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "product_explanation",
+    "action": "Add feeding/diaper workflow sections; link existing educational articles.",
+    "cluster": "feeding-diaper-workflows",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "H",
+        "sourceUrl": "https://huckleberrycare.com/product/tracking",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\huckleberry-page-keywords-2026-09-12.csv",
+        "rawBucket": "500",
+        "monthlyRange": "100–1K"
+      }
+    ],
+    "monthlyRange": "100–1K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K021",
+    "legacyId": 21,
+    "term": "infant feeding tracker",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "product_explanation",
+    "action": "Add feeding/diaper workflow sections; link existing educational articles.",
+    "cluster": "feeding-diaper-workflows",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "N",
+        "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+        "rawBucket": "500",
+        "monthlyRange": "100–1K"
+      }
+    ],
+    "monthlyRange": "100–1K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K022",
+    "legacyId": 22,
+    "term": "feeding and diaper tracker",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "product_explanation",
+    "action": "Add feeding/diaper workflow sections; link existing educational articles.",
+    "cluster": "feeding-diaper-workflows",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "N",
+        "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+        "rawBucket": "50",
+        "monthlyRange": "10–100"
+      }
+    ],
+    "monthlyRange": "10–100",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K023",
+    "legacyId": 23,
+    "term": "diaper change tracker",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "product_explanation",
+    "action": "Add feeding/diaper workflow sections; link existing educational articles.",
+    "cluster": "feeding-diaper-workflows",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "N",
+        "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+        "rawBucket": "50",
+        "monthlyRange": "10–100"
+      }
+    ],
+    "monthlyRange": "10–100",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K024",
+    "legacyId": 24,
+    "term": "app to track feedings",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "product_explanation",
+    "action": "Add feeding/diaper workflow sections; link existing educational articles.",
+    "cluster": "feeding-diaper-workflows",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "H",
+        "sourceUrl": "https://huckleberrycare.com/product/tracking",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\huckleberry-page-keywords-2026-09-12.csv",
+        "rawBucket": "50",
+        "monthlyRange": "10–100"
+      },
+      {
+        "source": "N",
+        "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+        "rawBucket": "50",
+        "monthlyRange": "10–100"
+      }
+    ],
+    "monthlyRange": "10–100",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K025",
+    "legacyId": 25,
+    "term": "app to track diapers and feedings",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "product_explanation",
+    "action": "Add feeding/diaper workflow sections; link existing educational articles.",
+    "cluster": "feeding-diaper-workflows",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "H",
+        "sourceUrl": "https://huckleberrycare.com/product/tracking",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\huckleberry-page-keywords-2026-09-12.csv",
+        "rawBucket": "50",
+        "monthlyRange": "10–100"
+      },
+      {
+        "source": "N",
+        "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+        "rawBucket": "50",
+        "monthlyRange": "10–100"
+      }
+    ],
+    "monthlyRange": "10–100",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K026",
+    "legacyId": 26,
+    "term": "track newborn feeding",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "product_explanation",
+    "action": "Add feeding/diaper workflow sections; link existing educational articles.",
+    "cluster": "feeding-diaper-workflows",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "H",
+        "sourceUrl": "https://huckleberrycare.com/product/tracking",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\huckleberry-page-keywords-2026-09-12.csv",
+        "rawBucket": "50",
+        "monthlyRange": "10–100"
+      }
+    ],
+    "monthlyRange": "10–100",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K027",
+    "legacyId": 27,
+    "term": "breastfeeding tracker app",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "product_explanation",
+    "action": "Add feeding/diaper workflow sections; link existing educational articles.",
+    "cluster": "feeding-diaper-workflows",
+    "keywordEvidence": "inferred_no_captured_estimate",
+    "searchEvidence": [],
+    "monthlyRange": null,
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K028",
+    "legacyId": 28,
+    "term": "bottle feeding tracker",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "product_explanation",
+    "action": "Add feeding/diaper workflow sections; link existing educational articles.",
+    "cluster": "feeding-diaper-workflows",
+    "keywordEvidence": "inferred_no_captured_estimate",
+    "searchEvidence": [],
+    "monthlyRange": null,
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K029",
+    "legacyId": 29,
+    "term": "shared baby tracker app",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "feature_verification_required",
+    "action": "Shared-care intent appears on competitor product pages; these exact phrases were inferred. Verify app behavior before documenting sharing, offline use or export.",
+    "cluster": "caregiver-reports",
+    "keywordEvidence": "inferred_no_captured_estimate",
+    "searchEvidence": [],
+    "monthlyRange": null,
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K030",
+    "legacyId": 30,
+    "term": "baby tracker for both parents",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "feature_verification_required",
+    "action": "Shared-care intent appears on competitor product pages; these exact phrases were inferred. Verify app behavior before documenting sharing, offline use or export.",
+    "cluster": "caregiver-reports",
+    "keywordEvidence": "inferred_no_captured_estimate",
+    "searchEvidence": [],
+    "monthlyRange": null,
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K031",
+    "legacyId": 31,
+    "term": "baby tracker multiple caregivers",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "feature_verification_required",
+    "action": "Shared-care intent appears on competitor product pages; these exact phrases were inferred. Verify app behavior before documenting sharing, offline use or export.",
+    "cluster": "caregiver-reports",
+    "keywordEvidence": "inferred_no_captured_estimate",
+    "searchEvidence": [],
+    "monthlyRange": null,
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K032",
+    "legacyId": 32,
+    "term": "baby tracker offline",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "feature_verification_required",
+    "action": "Shared-care intent appears on competitor product pages; these exact phrases were inferred. Verify app behavior before documenting sharing, offline use or export.",
+    "cluster": "caregiver-reports",
+    "keywordEvidence": "inferred_no_captured_estimate",
+    "searchEvidence": [],
+    "monthlyRange": null,
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K033",
+    "legacyId": 33,
+    "term": "baby tracker with reports",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "feature_verification_required",
+    "action": "Shared-care intent appears on competitor product pages; these exact phrases were inferred. Verify app behavior before documenting sharing, offline use or export.",
+    "cluster": "caregiver-reports",
+    "keywordEvidence": "inferred_no_captured_estimate",
+    "searchEvidence": [],
+    "monthlyRange": null,
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K034",
+    "legacyId": 34,
+    "term": "baby tracker CSV export",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "feature_verification_required",
+    "action": "Shared-care intent appears on competitor product pages; these exact phrases were inferred. Verify app behavior before documenting sharing, offline use or export.",
+    "cluster": "caregiver-reports",
+    "keywordEvidence": "inferred_no_captured_estimate",
+    "searchEvidence": [],
+    "monthlyRange": null,
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K035",
+    "legacyId": 35,
+    "term": "share baby feeding log",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "feature_verification_required",
+    "action": "Shared-care intent appears on competitor product pages; these exact phrases were inferred. Verify app behavior before documenting sharing, offline use or export.",
+    "cluster": "caregiver-reports",
+    "keywordEvidence": "inferred_no_captured_estimate",
+    "searchEvidence": [],
+    "monthlyRange": null,
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K036",
+    "legacyId": 36,
+    "term": "baby care handover",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "feature_verification_required",
+    "action": "Shared-care intent appears on competitor product pages; these exact phrases were inferred. Verify app behavior before documenting sharing, offline use or export.",
+    "cluster": "caregiver-reports",
+    "keywordEvidence": "inferred_no_captured_estimate",
+    "searchEvidence": [],
+    "monthlyRange": null,
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K037",
+    "legacyId": 37,
+    "term": "cycle tracker app",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "feature_verification_required",
+    "action": "Verify app cycle-recording workflow; link existing cycle education.",
+    "cluster": "cycle-app",
+    "keywordEvidence": "prior_planner_ui_only",
+    "searchEvidence": [],
+    "monthlyRange": "1K–10K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K038",
+    "legacyId": 38,
+    "term": "ovulation tracker app",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "feature_verification_required",
+    "action": "Verify app cycle-recording workflow; link existing cycle education.",
+    "cluster": "cycle-app",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      }
+    ],
+    "monthlyRange": "10K–100K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K039",
+    "legacyId": 39,
+    "term": "fertility tracker app",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "feature_verification_required",
+    "action": "Verify app cycle-recording workflow; link existing cycle education.",
+    "cluster": "cycle-app",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "5000",
+        "monthlyRange": "1K–10K"
+      }
+    ],
+    "monthlyRange": "1K–10K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K040",
+    "legacyId": 40,
+    "term": "trying to conceive app",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "feature_verification_required",
+    "action": "Verify app cycle-recording workflow; link existing cycle education.",
+    "cluster": "cycle-app",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "5000",
+        "monthlyRange": "1K–10K"
+      }
+    ],
+    "monthlyRange": "1K–10K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K041",
+    "legacyId": 41,
+    "term": "pregnancy planning app",
+    "destination": "https://bemamas.com/about-bemama/tools/",
+    "classification": "feature_verification_required",
+    "action": "Verify app cycle-recording workflow; link existing cycle education.",
+    "cluster": "cycle-app",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "B",
+        "sourceUrl": "https://bemamas.com/",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\bemama-site-keywords-2026-09-12.csv",
+        "rawBucket": "500",
+        "monthlyRange": "100–1K"
+      },
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "500",
+        "monthlyRange": "100–1K"
+      }
+    ],
+    "monthlyRange": "100–1K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K042",
+    "legacyId": 42,
+    "term": "pregnancy planning",
+    "destination": "https://bemamas.com/trying-to-conceive/preparing-for-pregnancy/",
+    "classification": "covered_topic",
+    "action": "Existing topic; no new page justified by phrase alone.",
+    "cluster": "preconception",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "B",
+        "sourceUrl": "https://bemamas.com/",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\bemama-site-keywords-2026-09-12.csv",
+        "rawBucket": "5000",
+        "monthlyRange": "1K–10K"
+      }
+    ],
+    "monthlyRange": "1K–10K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K043",
+    "legacyId": 43,
+    "term": "preparing for pregnancy",
+    "destination": "https://bemamas.com/trying-to-conceive/preparing-for-pregnancy/",
+    "classification": "covered_topic",
+    "action": "Existing topic; no new page justified by phrase alone.",
+    "cluster": "preconception",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "5000",
+        "monthlyRange": "1K–10K"
+      }
+    ],
+    "monthlyRange": "1K–10K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K044",
+    "legacyId": 44,
+    "term": "fertile window",
+    "destination": "https://bemamas.com/trying-to-conceive/fertile-window-timing/",
+    "classification": "covered_topic",
+    "action": "Existing fertile-window guidance; no duplicate article.",
+    "cluster": "fertile-window",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "B",
+        "sourceUrl": "https://bemamas.com/",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\bemama-site-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      }
+    ],
+    "monthlyRange": "10K–100K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [
+      "https://bemamas.com/trying-to-conceive/preparing-for-pregnancy/",
+      "https://bemamas.com/trying-to-conceive/menstrual-cycle-fertile-window/",
+      "https://bemamas.com/trying-to-conceive/tracking-ovulation/",
+      "https://bemamas.com/trying-to-conceive/shettles-method/",
+      "https://bemamas.com/trying-to-conceive/how-long-to-conceive/",
+      "https://bemamas.com/trying-to-conceive/stopping-birth-control/",
+      "https://bemamas.com/trying-to-conceive/menstrual-cycle-basics/",
+      "https://bemamas.com/trying-to-conceive/ovulation-signs/",
+      "https://bemamas.com/trying-to-conceive/fertile-window-timing/",
+      "https://bemamas.com/trying-to-conceive/ovulation-tests/",
+      "https://bemamas.com/trying-to-conceive/basal-body-temperature/",
+      "https://bemamas.com/trying-to-conceive/cervical-mucus/",
+      "https://bemamas.com/trying-to-conceive/irregular-cycles-ttc/",
+      "https://bemamas.com/trying-to-conceive/when-to-seek-fertility-help/",
+      "https://bemamas.com/trying-to-conceive/pcos-and-ovulation-tracking/",
+      "https://bemamas.com/trying-to-conceive/cycle-planning-week-by-week/"
+    ],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K045",
+    "legacyId": 45,
+    "term": "ovulation symptoms",
+    "destination": "https://bemamas.com/trying-to-conceive/ovulation-signs/",
+    "classification": "covered_topic",
+    "action": "Existing ovulation-signs article; inferred query has no captured estimate.",
+    "cluster": "ovulation-signs",
+    "keywordEvidence": "inferred_no_captured_estimate",
+    "searchEvidence": [],
+    "monthlyRange": null,
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K046",
+    "legacyId": 46,
+    "term": "basal body temperature",
+    "destination": "https://bemamas.com/trying-to-conceive/basal-body-temperature/",
+    "classification": "covered_topic",
+    "action": "Existing dedicated article; no duplicate.",
+    "cluster": "basal-body-temperature",
+    "keywordEvidence": "inferred_no_captured_estimate",
+    "searchEvidence": [],
+    "monthlyRange": null,
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [
+      "https://bemamas.com/trying-to-conceive/menstrual-cycle-fertile-window/",
+      "https://bemamas.com/trying-to-conceive/tracking-ovulation/",
+      "https://bemamas.com/trying-to-conceive/shettles-method/",
+      "https://bemamas.com/trying-to-conceive/ovulation-signs/",
+      "https://bemamas.com/trying-to-conceive/ovulation-tests/",
+      "https://bemamas.com/trying-to-conceive/basal-body-temperature/",
+      "https://bemamas.com/trying-to-conceive/cervical-mucus/",
+      "https://bemamas.com/trying-to-conceive/irregular-cycles-ttc/",
+      "https://bemamas.com/trying-to-conceive/luteal-phase-basics/"
+    ],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K047",
+    "legacyId": 47,
+    "term": "ovulation calculator",
+    "destination": "https://bemamas.com/tools/ovulation-calculator/",
+    "classification": "existing_tool_improvement",
+    "action": "Improve validation, labels and explained results in the existing tool.",
+    "cluster": "ovulation-calculator",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "B",
+        "sourceUrl": "https://bemamas.com/",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\bemama-site-keywords-2026-09-12.csv",
+        "rawBucket": "500000",
+        "monthlyRange": "100K–1M"
+      }
+    ],
+    "monthlyRange": "100K–1M",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [
+      "https://bemamas.com/trying-to-conceive/fertile-window-timing/",
+      "https://bemamas.com/tools/ovulation-calculator/"
+    ],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K048",
+    "legacyId": 48,
+    "term": "fertile window calculator",
+    "destination": "https://bemamas.com/tools/ovulation-calculator/",
+    "classification": "existing_tool_improvement",
+    "action": "Improve validation, labels and explained results in the existing tool.",
+    "cluster": "ovulation-calculator",
+    "keywordEvidence": "inferred_no_captured_estimate",
+    "searchEvidence": [],
+    "monthlyRange": null,
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K049",
+    "legacyId": 49,
+    "term": "due date calculator",
+    "destination": "https://bemamas.com/tools/due-date-calculator/",
+    "classification": "existing_tool_improvement",
+    "action": "Improve existing calculator; related wording belongs to the same destination.",
+    "cluster": "due-date-calculator",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "500000",
+        "monthlyRange": "100K–1M"
+      }
+    ],
+    "monthlyRange": "100K–1M",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [
+      "https://bemamas.com/tools/due-date-calculator/"
+    ],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K050",
+    "legacyId": 50,
+    "term": "pregnancy due date calculator",
+    "destination": "https://bemamas.com/tools/due-date-calculator/",
+    "classification": "existing_tool_improvement",
+    "action": "Improve existing calculator; related wording belongs to the same destination.",
+    "cluster": "due-date-calculator",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "500000",
+        "monthlyRange": "100K–1M"
+      }
+    ],
+    "monthlyRange": "100K–1M",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K051",
+    "legacyId": 51,
+    "term": "pregnancy week calculator",
+    "destination": "https://bemamas.com/tools/pregnancy-week-lookup/",
+    "classification": "existing_tool_improvement",
+    "action": "Clarify calculator naming and completed weeks/days; keep URL.",
+    "cluster": "pregnancy-week-calculator",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "500000",
+        "monthlyRange": "100K–1M"
+      }
+    ],
+    "monthlyRange": "100K–1M",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K052",
+    "legacyId": 52,
+    "term": "pregnancy date calculator",
+    "destination": "https://bemamas.com/tools/due-date-calculator/",
+    "classification": "existing_tool_improvement",
+    "action": "Improve existing calculator; related wording belongs to the same destination.",
+    "cluster": "due-date-calculator",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "B",
+        "sourceUrl": "https://bemamas.com/",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\bemama-site-keywords-2026-09-12.csv",
+        "rawBucket": "500000",
+        "monthlyRange": "100K–1M"
+      },
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "500000",
+        "monthlyRange": "100K–1M"
+      }
+    ],
+    "monthlyRange": "100K–1M",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K053",
+    "legacyId": 53,
+    "term": "how many weeks pregnant am i",
+    "destination": "https://bemamas.com/pregnancy/how-many-weeks-pregnant/",
+    "classification": "covered_topic",
+    "action": "Existing exact-intent article; link corrected calculator.",
+    "cluster": "pregnancy-dating",
+    "keywordEvidence": "inferred_no_captured_estimate",
+    "searchEvidence": [],
+    "monthlyRange": null,
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [
+      "https://bemamas.com/pregnancy/how-many-weeks-pregnant/"
+    ],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K054",
+    "legacyId": 54,
+    "term": "pregnancy calculator",
+    "destination": "https://bemamas.com/tools/",
+    "classification": "intent_unverified",
+    "action": "Broad query; compare query intent before assigning to due-date or week calculator.",
+    "cluster": "pregnancy-dating",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "B",
+        "sourceUrl": "https://bemamas.com/",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\bemama-site-keywords-2026-09-12.csv",
+        "rawBucket": "5000000",
+        "monthlyRange": "1M–10M"
+      },
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "5000000",
+        "monthlyRange": "1M–10M"
+      }
+    ],
+    "monthlyRange": "1M–10M",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K055",
+    "legacyId": 55,
+    "term": "pregnancy week by week",
+    "destination": "https://bemamas.com/pregnancy/",
+    "classification": "covered_topic",
+    "action": "Existing pregnancy hub and week-range articles cover the subject; review depth rather than commission duplicates.",
+    "cluster": "pregnancy-development",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      }
+    ],
+    "monthlyRange": "10K–100K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [
+      "https://bemamas.com/about-bemama/why-bemama/"
+    ],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K056",
+    "legacyId": 56,
+    "term": "pregnancy calendar",
+    "destination": "https://bemamas.com/pregnancy/",
+    "classification": "intent_unverified",
+    "action": "Calendar could mean a week-by-week guide or a product feature; determine intent before changing content.",
+    "cluster": "pregnancy-development",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      }
+    ],
+    "monthlyRange": "10K–100K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K057",
+    "legacyId": 57,
+    "term": "pregnancy timeline",
+    "destination": "https://bemamas.com/pregnancy/",
+    "classification": "covered_topic",
+    "action": "Existing pregnancy hub and week-range articles cover the subject; review depth rather than commission duplicates.",
+    "cluster": "pregnancy-development",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "5000",
+        "monthlyRange": "1K–10K"
+      }
+    ],
+    "monthlyRange": "1K–10K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K058",
+    "legacyId": 58,
+    "term": "pregnancy stages",
+    "destination": "https://bemamas.com/pregnancy/",
+    "classification": "covered_topic",
+    "action": "Existing pregnancy hub and week-range articles cover the subject; review depth rather than commission duplicates.",
+    "cluster": "pregnancy-development",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      }
+    ],
+    "monthlyRange": "10K–100K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K059",
+    "legacyId": 59,
+    "term": "fetal development by week",
+    "destination": "https://bemamas.com/pregnancy/",
+    "classification": "covered_topic",
+    "action": "Existing pregnancy hub and week-range articles cover the subject; review depth rather than commission duplicates.",
+    "cluster": "pregnancy-development",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      }
+    ],
+    "monthlyRange": "10K–100K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K060",
+    "legacyId": 60,
+    "term": "pregnancy trimesters",
+    "destination": "https://bemamas.com/pregnancy/trimesters-of-pregnancy/",
+    "classification": "covered_topic",
+    "action": "Existing trimester overview.",
+    "cluster": "trimesters",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      }
+    ],
+    "monthlyRange": "10K–100K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [
+      "https://bemamas.com/pregnancy/trimesters-of-pregnancy/"
+    ],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K061",
+    "legacyId": 61,
+    "term": "first trimester",
+    "destination": "https://bemamas.com/pregnancy/first-trimester/",
+    "classification": "covered_topic",
+    "action": "Existing first-trimester guide.",
+    "cluster": "trimesters",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      }
+    ],
+    "monthlyRange": "10K–100K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [
+      "https://bemamas.com/trying-to-conceive/folic-acid-preconception/",
+      "https://bemamas.com/pregnancy/first-trimester/",
+      "https://bemamas.com/pregnancy/pregnancy-nutrition/",
+      "https://bemamas.com/pregnancy/common-symptoms/",
+      "https://bemamas.com/pregnancy/safe-exercise/",
+      "https://bemamas.com/pregnancy/prenatal-care-schedule/",
+      "https://bemamas.com/trying-to-conceive/folic-acid-basics/",
+      "https://bemamas.com/pregnancy/pregnancy-weeks-4-8/",
+      "https://bemamas.com/pregnancy/pregnancy-weeks-9-12/",
+      "https://bemamas.com/pregnancy/pregnancy-weeks-13-16/",
+      "https://bemamas.com/pregnancy/pregnancy-weeks-17-20/",
+      "https://bemamas.com/pregnancy/heartburn-during-pregnancy/",
+      "https://bemamas.com/pregnancy/constipation-during-pregnancy/",
+      "https://bemamas.com/pregnancy/prenatal-visit-schedule/",
+      "https://bemamas.com/pregnancy/blood-tests-screening/",
+      "https://bemamas.com/pregnancy/safe-medicines-pregnancy/",
+      "https://bemamas.com/pregnancy/sleep-positions-pregnancy/",
+      "https://bemamas.com/pregnancy/travel-during-pregnancy/",
+      "https://bemamas.com/pregnancy/work-and-maternity-leave/",
+      "https://bemamas.com/pregnancy/trimesters-of-pregnancy/",
+      "https://bemamas.com/pregnancy/how-many-weeks-pregnant/",
+      "https://bemamas.com/pregnancy/when-do-you-start-showing/",
+      "https://bemamas.com/pregnancy/when-can-you-feel-baby-move/"
+    ],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K062",
+    "legacyId": 62,
+    "term": "first trimester weeks",
+    "destination": "https://bemamas.com/pregnancy/first-trimester/",
+    "classification": "covered_topic",
+    "action": "Existing first-trimester guide.",
+    "cluster": "trimesters",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      }
+    ],
+    "monthlyRange": "10K–100K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K063",
+    "legacyId": 63,
+    "term": "second trimester",
+    "destination": "https://bemamas.com/pregnancy/second-trimester/",
+    "classification": "covered_topic",
+    "action": "Existing second-trimester timing guide.",
+    "cluster": "trimesters",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "B",
+        "sourceUrl": "https://bemamas.com/",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\bemama-site-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      },
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      }
+    ],
+    "monthlyRange": "10K–100K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [
+      "https://bemamas.com/pregnancy/first-trimester/",
+      "https://bemamas.com/pregnancy/second-trimester/",
+      "https://bemamas.com/pregnancy/pregnancy-nutrition/",
+      "https://bemamas.com/pregnancy/common-symptoms/",
+      "https://bemamas.com/pregnancy/prenatal-care-schedule/",
+      "https://bemamas.com/pregnancy/pregnancy-weeks-4-8/",
+      "https://bemamas.com/pregnancy/pregnancy-weeks-9-12/",
+      "https://bemamas.com/pregnancy/pregnancy-weeks-13-16/",
+      "https://bemamas.com/pregnancy/pregnancy-weeks-21-24/",
+      "https://bemamas.com/pregnancy/nausea-remedies/",
+      "https://bemamas.com/pregnancy/heartburn-during-pregnancy/",
+      "https://bemamas.com/pregnancy/pelvic-pain-round-ligament/",
+      "https://bemamas.com/pregnancy/glucose-test-guide/",
+      "https://bemamas.com/pregnancy/sleep-positions-pregnancy/",
+      "https://bemamas.com/pregnancy/work-and-maternity-leave/",
+      "https://bemamas.com/pregnancy/trimesters-of-pregnancy/",
+      "https://bemamas.com/pregnancy/when-do-you-start-showing/",
+      "https://bemamas.com/pregnancy/when-can-you-feel-baby-move/"
+    ],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K064",
+    "legacyId": 64,
+    "term": "third trimester",
+    "destination": "https://bemamas.com/pregnancy/third-trimester/",
+    "classification": "covered_topic",
+    "action": "Existing third-trimester timing guide.",
+    "cluster": "trimesters",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "B",
+        "sourceUrl": "https://bemamas.com/",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\bemama-site-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      },
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      }
+    ],
+    "monthlyRange": "10K–100K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [
+      "https://bemamas.com/pregnancy/second-trimester/",
+      "https://bemamas.com/pregnancy/third-trimester/",
+      "https://bemamas.com/pregnancy/prenatal-care-schedule/",
+      "https://bemamas.com/pregnancy/pregnancy-weeks-13-16/",
+      "https://bemamas.com/pregnancy/pregnancy-weeks-17-20/",
+      "https://bemamas.com/pregnancy/pregnancy-weeks-21-24/",
+      "https://bemamas.com/pregnancy/pregnancy-weeks-25-28/",
+      "https://bemamas.com/pregnancy/pregnancy-weeks-29-32/",
+      "https://bemamas.com/pregnancy/heartburn-during-pregnancy/",
+      "https://bemamas.com/pregnancy/prenatal-visit-schedule/",
+      "https://bemamas.com/pregnancy/blood-tests-screening/",
+      "https://bemamas.com/pregnancy/blood-pressure-preeclampsia/",
+      "https://bemamas.com/pregnancy/sleep-positions-pregnancy/",
+      "https://bemamas.com/pregnancy/travel-during-pregnancy/",
+      "https://bemamas.com/pregnancy/work-and-maternity-leave/",
+      "https://bemamas.com/pregnancy/baby-movement-patterns/",
+      "https://bemamas.com/pregnancy/preparing-for-labor/",
+      "https://bemamas.com/pregnancy/postpartum-plan/",
+      "https://bemamas.com/newborn/swaddling-safety/",
+      "https://bemamas.com/pregnancy/trimesters-of-pregnancy/",
+      "https://bemamas.com/pregnancy/how-many-weeks-pregnant/"
+    ],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K065",
+    "legacyId": 65,
+    "term": "pregnancy symptoms",
+    "destination": "https://bemamas.com/pregnancy/common-symptoms/",
+    "classification": "covered_topic",
+    "action": "Existing symptom guide and week-range articles; adequacy by week remains an editorial review, not proven absence.",
+    "cluster": "pregnancy-symptoms",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "500000",
+        "monthlyRange": "100K–1M"
+      }
+    ],
+    "monthlyRange": "100K–1M",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [
+      "https://bemamas.com/pregnancy/common-symptoms/",
+      "https://bemamas.com/trying-to-conceive/early-pregnancy-signs/",
+      "https://bemamas.com/pregnancy/pregnancy-weeks-37-40/",
+      "https://bemamas.com/trying-to-conceive/luteal-phase-basics/"
+    ],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K066",
+    "legacyId": 66,
+    "term": "pregnancy symptoms week by week",
+    "destination": "https://bemamas.com/pregnancy/common-symptoms/",
+    "classification": "covered_topic",
+    "action": "Existing symptom guide and week-range articles; adequacy by week remains an editorial review, not proven absence.",
+    "cluster": "pregnancy-symptoms",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      }
+    ],
+    "monthlyRange": "10K–100K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K067",
+    "legacyId": 67,
+    "term": "first trimester symptoms",
+    "destination": "https://bemamas.com/pregnancy/first-trimester/",
+    "classification": "covered_topic",
+    "action": "Existing first-trimester symptom coverage.",
+    "cluster": "pregnancy-symptoms",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      }
+    ],
+    "monthlyRange": "10K–100K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K068",
+    "legacyId": 68,
+    "term": "signs of pregnancy",
+    "destination": "https://bemamas.com/trying-to-conceive/early-pregnancy-signs/",
+    "classification": "covered_topic",
+    "action": "Existing early-signs page.",
+    "cluster": "pregnancy-symptoms",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "B",
+        "sourceUrl": "https://bemamas.com/",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\bemama-site-keywords-2026-09-12.csv",
+        "rawBucket": "500000",
+        "monthlyRange": "100K–1M"
+      },
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "500000",
+        "monthlyRange": "100K–1M"
+      }
+    ],
+    "monthlyRange": "100K–1M",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [
+      "https://bemamas.com/trying-to-conceive/early-pregnancy-signs/"
+    ],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K069",
+    "legacyId": 69,
+    "term": "pregnancy tips for first time moms",
+    "destination": "https://bemamas.com/pregnancy/",
+    "classification": "intent_unverified",
+    "action": "Broad guidance intent; compare relevant existing guides before choosing the final page.",
+    "cluster": "pregnancy-practical",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "500",
+        "monthlyRange": "100–1K"
+      }
+    ],
+    "monthlyRange": "100–1K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K070",
+    "legacyId": 70,
+    "term": "pregnancy checklist",
+    "destination": "https://bemamas.com/pregnancy/",
+    "classification": "intent_unverified",
+    "action": "Broad guidance intent; compare relevant existing guides before choosing the final page.",
+    "cluster": "pregnancy-practical",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "5000",
+        "monthlyRange": "1K–10K"
+      }
+    ],
+    "monthlyRange": "1K–10K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K071",
+    "legacyId": 71,
+    "term": "prenatal care",
+    "destination": "https://bemamas.com/pregnancy/prenatal-visit-schedule/",
+    "classification": "covered_topic",
+    "action": "Existing prenatal-care and visit-schedule guides; preserve both until overlap is assessed.",
+    "cluster": "prenatal-care",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      }
+    ],
+    "monthlyRange": "10K–100K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [
+      "https://bemamas.com/pregnancy/first-trimester/",
+      "https://bemamas.com/pregnancy/prenatal-care-schedule/",
+      "https://bemamas.com/pregnancy/blood-tests-screening/",
+      "https://bemamas.com/pregnancy/anatomy-scan-guide/",
+      "https://bemamas.com/pregnancy/travel-during-pregnancy/"
+    ],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K072",
+    "legacyId": 72,
+    "term": "healthy pregnancy",
+    "destination": "https://bemamas.com/pregnancy/",
+    "classification": "intent_unverified",
+    "action": "Broad guidance intent; compare relevant existing guides before choosing the final page.",
+    "cluster": "pregnancy-practical",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      }
+    ],
+    "monthlyRange": "10K–100K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [
+      "https://bemamas.com/pregnancy/safe-exercise/",
+      "https://bemamas.com/pregnancy/prenatal-care-schedule/",
+      "https://bemamas.com/pregnancy/prenatal-visit-schedule/",
+      "https://bemamas.com/pregnancy/preparing-for-labor/",
+      "https://bemamas.com/pregnancy/healthy-weight-gain/"
+    ],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K073",
+    "legacyId": 73,
+    "term": "foods to avoid when pregnant",
+    "destination": "https://bemamas.com/pregnancy/foods-to-avoid/",
+    "classification": "covered_topic",
+    "action": "Existing dedicated article.",
+    "cluster": "pregnancy-nutrition",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "BC",
+        "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      }
+    ],
+    "monthlyRange": "10K–100K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K074",
+    "legacyId": 74,
+    "term": "pregnancy nutrition",
+    "destination": "https://bemamas.com/pregnancy/pregnancy-nutrition/",
+    "classification": "covered_topic",
+    "action": "Existing dedicated article; inferred phrase not a new gap.",
+    "cluster": "pregnancy-nutrition",
+    "keywordEvidence": "inferred_no_captured_estimate",
+    "searchEvidence": [],
+    "monthlyRange": null,
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [
+      "https://bemamas.com/pregnancy/pregnancy-nutrition/"
+    ],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K075",
+    "legacyId": 75,
+    "term": "3 month nap schedule",
+    "destination": "https://bemamas.com/newborn/newborn-sleep/",
+    "classification": "depth_review",
+    "action": "Competitor has focused three-month scheduling detail; compare existing newborn guidance before drafting a separate guide.",
+    "cluster": "three-month-sleep",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "H",
+        "sourceUrl": "https://huckleberrycare.com/product/tracking",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\huckleberry-page-keywords-2026-09-12.csv",
+        "rawBucket": "500",
+        "monthlyRange": "100–1K"
+      }
+    ],
+    "monthlyRange": "100–1K",
+    "directCompetitorPage": "https://huckleberrycare.com/blog/3-month-old-sleep-schedule-and-development",
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K076",
+    "legacyId": 76,
+    "term": "nursing to sleep",
+    "destination": "https://bemamas.com/baby-and-child/sleep-regressions/",
+    "classification": "covered_related_topic",
+    "action": "Feeding to sleep is already discussed. Compare nursing terminology and depth; no new page yet.",
+    "cluster": "feeding-to-sleep",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "H",
+        "sourceUrl": "https://huckleberrycare.com/product/tracking",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\huckleberry-page-keywords-2026-09-12.csv",
+        "rawBucket": "5000",
+        "monthlyRange": "1K–10K"
+      }
+    ],
+    "monthlyRange": "1K–10K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K077",
+    "legacyId": 77,
+    "term": "feeding to sleep",
+    "destination": "https://bemamas.com/baby-and-child/sleep-regressions/",
+    "classification": "covered_related_topic",
+    "action": "Feeding to sleep is already discussed. Compare nursing terminology and depth; no new page yet.",
+    "cluster": "feeding-to-sleep",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "H",
+        "sourceUrl": "https://huckleberrycare.com/product/tracking",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\huckleberry-page-keywords-2026-09-12.csv",
+        "rawBucket": "500",
+        "monthlyRange": "100–1K"
+      }
+    ],
+    "monthlyRange": "100–1K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [
+      "https://bemamas.com/baby-and-child/sleep-regressions/"
+    ],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K078",
+    "legacyId": 78,
+    "term": "sleep at 3 months",
+    "destination": "https://bemamas.com/newborn/newborn-sleep/",
+    "classification": "depth_review",
+    "action": "Competitor has focused three-month scheduling detail; compare existing newborn guidance before drafting a separate guide.",
+    "cluster": "three-month-sleep",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "H",
+        "sourceUrl": "https://huckleberrycare.com/product/tracking",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\huckleberry-page-keywords-2026-09-12.csv",
+        "rawBucket": "500",
+        "monthlyRange": "100–1K"
+      }
+    ],
+    "monthlyRange": "100–1K",
+    "directCompetitorPage": "https://huckleberrycare.com/blog/3-month-old-sleep-schedule-and-development",
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K079",
+    "legacyId": 79,
+    "term": "sleep at 7 months",
+    "destination": "https://bemamas.com/baby-and-child/nap-transitions/",
+    "classification": "depth_review",
+    "action": "Competitor has a seven-month schedule; existing transition guidance is related. Scope a distinct answer before drafting.",
+    "cluster": "seven-month-sleep",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "H",
+        "sourceUrl": "https://huckleberrycare.com/product/tracking",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\huckleberry-page-keywords-2026-09-12.csv",
+        "rawBucket": "500",
+        "monthlyRange": "100–1K"
+      }
+    ],
+    "monthlyRange": "100–1K",
+    "directCompetitorPage": "https://huckleberrycare.com/blog/7-month-old-sleep-schedule-and-development",
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K080",
+    "legacyId": 80,
+    "term": "13 month nap schedule",
+    "destination": "https://bemamas.com/baby-and-child/nap-transitions/",
+    "classification": "depth_review",
+    "action": "Competitor has separate 13/14/15-month guides. First evaluate one substantial age-range section in the existing guide; split only for distinct needs.",
+    "cluster": "toddler-nap-transition",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "H",
+        "sourceUrl": "https://huckleberrycare.com/product/tracking",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\huckleberry-page-keywords-2026-09-12.csv",
+        "rawBucket": "500",
+        "monthlyRange": "100–1K"
+      }
+    ],
+    "monthlyRange": "100–1K",
+    "directCompetitorPage": "https://huckleberrycare.com/blog/13-month-old-sleep-schedule-and-development",
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K081",
+    "legacyId": 81,
+    "term": "14 month nap schedule",
+    "destination": "https://bemamas.com/baby-and-child/nap-transitions/",
+    "classification": "depth_review",
+    "action": "Competitor has separate 13/14/15-month guides. First evaluate one substantial age-range section in the existing guide; split only for distinct needs.",
+    "cluster": "toddler-nap-transition",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "H",
+        "sourceUrl": "https://huckleberrycare.com/product/tracking",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\huckleberry-page-keywords-2026-09-12.csv",
+        "rawBucket": "500",
+        "monthlyRange": "100–1K"
+      }
+    ],
+    "monthlyRange": "100–1K",
+    "directCompetitorPage": "https://huckleberrycare.com/blog/14-month-old-sleep-schedule-bedtime-and-nap-schedule",
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K082",
+    "legacyId": 82,
+    "term": "15 month nap schedule",
+    "destination": "https://bemamas.com/baby-and-child/nap-transitions/",
+    "classification": "depth_review",
+    "action": "Competitor has separate 13/14/15-month guides. First evaluate one substantial age-range section in the existing guide; split only for distinct needs.",
+    "cluster": "toddler-nap-transition",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "H",
+        "sourceUrl": "https://huckleberrycare.com/product/tracking",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\huckleberry-page-keywords-2026-09-12.csv",
+        "rawBucket": "500",
+        "monthlyRange": "100–1K"
+      }
+    ],
+    "monthlyRange": "100–1K",
+    "directCompetitorPage": "https://huckleberrycare.com/blog/15-month-old-sleep-schedule-bedtime-and-nap-schedule",
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K083",
+    "legacyId": 83,
+    "term": "newborn care",
+    "destination": "https://bemamas.com/newborn/newborn-care-basics/",
+    "classification": "covered_topic",
+    "action": "Existing newborn-care hub and guide; no broad duplicate article.",
+    "cluster": "newborn-care",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "B",
+        "sourceUrl": "https://bemamas.com/",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\bemama-site-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      }
+    ],
+    "monthlyRange": "10K–100K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [
+      "https://bemamas.com/newborn/newborn-care-basics/",
+      "https://bemamas.com/newborn/when-to-call-doctor/",
+      "https://bemamas.com/newborn/jaundice-basics/",
+      "https://bemamas.com/newborn/newborn-temperature-and-dressing/",
+      "https://bemamas.com/newborn/umbilical-cord-healing/",
+      "https://bemamas.com/tools/newborn-care-checklist/"
+    ],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K084",
+    "legacyId": 84,
+    "term": "baby care",
+    "destination": "https://bemamas.com/newborn/newborn-care-basics/",
+    "classification": "covered_topic",
+    "action": "Existing newborn-care hub and guide; no broad duplicate article.",
+    "cluster": "newborn-care",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "B",
+        "sourceUrl": "https://bemamas.com/",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\bemama-site-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      }
+    ],
+    "monthlyRange": "10K–100K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [
+      "https://bemamas.com/newborn/newborn-sleep/",
+      "https://bemamas.com/about-bemama/why-bemama/"
+    ],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K085",
+    "legacyId": 85,
+    "term": "first solids",
+    "destination": "https://bemamas.com/baby-and-child/starting-solids/",
+    "classification": "covered_related_topic",
+    "action": "Starting-solids and milk-feeding articles already exist; broader infant nutrition intent needs review.",
+    "cluster": "feeding-guidance",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "H",
+        "sourceUrl": "https://huckleberrycare.com/product/tracking",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\huckleberry-page-keywords-2026-09-12.csv",
+        "rawBucket": "500",
+        "monthlyRange": "100–1K"
+      }
+    ],
+    "monthlyRange": "100–1K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K086",
+    "legacyId": 86,
+    "term": "infant nutrition",
+    "destination": "https://bemamas.com/baby-and-child/starting-solids/",
+    "classification": "covered_related_topic",
+    "action": "Starting-solids and milk-feeding articles already exist; broader infant nutrition intent needs review.",
+    "cluster": "feeding-guidance",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "N",
+        "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+        "rawBucket": "5000",
+        "monthlyRange": "1K–10K"
+      }
+    ],
+    "monthlyRange": "1K–10K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [
+      "https://bemamas.com/newborn/formula-feeding/"
+    ],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K087",
+    "legacyId": 87,
+    "term": "feeding tips",
+    "destination": "https://bemamas.com/newborn/breastfeeding-guide/",
+    "classification": "depth_review",
+    "action": "Existing feeding guidance; a three-month routine is not yet established as a separate gap.",
+    "cluster": "feeding-guidance",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "N",
+        "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+        "rawBucket": "500",
+        "monthlyRange": "100–1K"
+      }
+    ],
+    "monthlyRange": "100–1K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K088",
+    "legacyId": 88,
+    "term": "3 month nursing schedule",
+    "destination": "https://bemamas.com/newborn/breastfeeding-guide/",
+    "classification": "depth_review",
+    "action": "Existing feeding guidance; a three-month routine is not yet established as a separate gap.",
+    "cluster": "feeding-guidance",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "H",
+        "sourceUrl": "https://huckleberrycare.com/product/tracking",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\huckleberry-page-keywords-2026-09-12.csv",
+        "rawBucket": "50",
+        "monthlyRange": "10–100"
+      }
+    ],
+    "monthlyRange": "10–100",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K089",
+    "legacyId": 89,
+    "term": "baby milestones",
+    "destination": "https://bemamas.com/baby-and-child/baby-milestones/",
+    "classification": "covered_topic",
+    "action": "Existing month-by-month and age-specific milestone articles.",
+    "cluster": "milestones",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "B",
+        "sourceUrl": "https://bemamas.com/",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\bemama-site-keywords-2026-09-12.csv",
+        "rawBucket": "50000",
+        "monthlyRange": "10K–100K"
+      }
+    ],
+    "monthlyRange": "10K–100K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [
+      "https://bemamas.com/baby-and-child/baby-milestones/",
+      "https://bemamas.com/baby-and-child/four-month-milestones/"
+    ],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K090",
+    "legacyId": 90,
+    "term": "milestone tracking",
+    "destination": "https://bemamas.com/tools/milestone-tracker/",
+    "classification": "existing_tool_improvement",
+    "action": "Improve actual usefulness of existing tracker; avoid diagnostic claims.",
+    "cluster": "milestone-tool",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "B",
+        "sourceUrl": "https://bemamas.com/",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\bemama-site-keywords-2026-09-12.csv",
+        "rawBucket": "5000",
+        "monthlyRange": "1K–10K"
+      }
+    ],
+    "monthlyRange": "1K–10K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K091",
+    "legacyId": 91,
+    "term": "infant development",
+    "destination": "https://bemamas.com/baby-and-child/baby-milestones/",
+    "classification": "covered_topic",
+    "action": "Existing month-by-month and age-specific milestone articles.",
+    "cluster": "milestones",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "N",
+        "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+        "rawBucket": "5000",
+        "monthlyRange": "1K–10K"
+      }
+    ],
+    "monthlyRange": "1K–10K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K092",
+    "legacyId": 92,
+    "term": "tracking newborn development",
+    "destination": "https://bemamas.com/baby-and-child/baby-milestones/",
+    "classification": "covered_topic",
+    "action": "Existing month-by-month and age-specific milestone articles.",
+    "cluster": "milestones",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "N",
+        "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+        "rawBucket": "50",
+        "monthlyRange": "10–100"
+      }
+    ],
+    "monthlyRange": "10–100",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K093",
+    "legacyId": 93,
+    "term": "baby growth tracker",
+    "destination": "https://bemamas.com/tools/growth-log/",
+    "classification": "existing_tool_improvement",
+    "action": "Fix units, persistence and history in the existing log; these are not new tools.",
+    "cluster": "growth-tool",
+    "keywordEvidence": "inferred_no_captured_estimate",
+    "searchEvidence": [],
+    "monthlyRange": null,
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K094",
+    "legacyId": 94,
+    "term": "baby weight tracker",
+    "destination": "https://bemamas.com/tools/growth-log/",
+    "classification": "existing_tool_improvement",
+    "action": "Fix units, persistence and history in the existing log; these are not new tools.",
+    "cluster": "growth-tool",
+    "keywordEvidence": "inferred_no_captured_estimate",
+    "searchEvidence": [],
+    "monthlyRange": null,
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K095",
+    "legacyId": 95,
+    "term": "baby milestone tracker",
+    "destination": "https://bemamas.com/tools/milestone-tracker/",
+    "classification": "existing_tool_improvement",
+    "action": "Improve actual usefulness of existing tracker; avoid diagnostic claims.",
+    "cluster": "milestone-tool",
+    "keywordEvidence": "inferred_no_captured_estimate",
+    "searchEvidence": [],
+    "monthlyRange": null,
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K096",
+    "legacyId": 96,
+    "term": "infant growth tracker",
+    "destination": "https://bemamas.com/tools/growth-log/",
+    "classification": "existing_tool_improvement",
+    "action": "Fix units, persistence and history in the existing log; these are not new tools.",
+    "cluster": "growth-tool",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "B",
+        "sourceUrl": "https://bemamas.com/",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\bemama-site-keywords-2026-09-12.csv",
+        "rawBucket": "50",
+        "monthlyRange": "10–100"
+      }
+    ],
+    "monthlyRange": "10–100",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K097",
+    "legacyId": 97,
+    "term": "postpartum recovery",
+    "destination": "https://bemamas.com/newborn/postpartum-recovery/",
+    "classification": "covered_topic",
+    "action": "Existing postpartum recovery guide; broad recovery wording does not justify a duplicate.",
+    "cluster": "postpartum",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "N",
+        "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+        "rawBucket": "5000",
+        "monthlyRange": "1K–10K"
+      }
+    ],
+    "monthlyRange": "1K–10K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [
+      "https://bemamas.com/newborn/postpartum-recovery/"
+    ],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K098",
+    "legacyId": 98,
+    "term": "postpartum sleep",
+    "destination": "https://bemamas.com/newborn/parent-rest-newborn/",
+    "classification": "covered_topic",
+    "action": "Existing parent rest plan.",
+    "cluster": "postpartum-rest",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "N",
+        "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+        "rawBucket": "500",
+        "monthlyRange": "100–1K"
+      }
+    ],
+    "monthlyRange": "100–1K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K099",
+    "legacyId": 99,
+    "term": "pregnancy recovery",
+    "destination": "https://bemamas.com/newborn/postpartum-recovery/",
+    "classification": "covered_topic",
+    "action": "Existing postpartum recovery guide; broad recovery wording does not justify a duplicate.",
+    "cluster": "postpartum",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "N",
+        "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+        "rawBucket": "500",
+        "monthlyRange": "100–1K"
+      }
+    ],
+    "monthlyRange": "100–1K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K100",
+    "legacyId": 100,
+    "term": "newborn parent sleep schedule",
+    "destination": "https://bemamas.com/newborn/parent-rest-newborn/",
+    "classification": "covered_topic",
+    "action": "Existing parent rest plan.",
+    "cluster": "postpartum-rest",
+    "keywordEvidence": "planner_export",
+    "searchEvidence": [
+      {
+        "source": "N",
+        "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+        "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+        "rawBucket": "500",
+        "monthlyRange": "100–1K"
+      }
+    ],
+    "monthlyRange": "100–1K",
+    "directCompetitorPage": null,
+    "englishArticleSourceExactMatches": [],
+    "exactMatchScope": "English article/tool source objects only, not homepage/tour or rankings; semantic classification is editorial, not derived from absence."
+  },
+  {
+    "id": "K101",
+    "legacyId": null,
+    "term": "4 month old sleep schedule",
+    "classification": "depth_gap_draft_brief",
+    "cluster": "four-month-sleep",
+    "destination": "https://bemamas.com/baby-and-child/four-month-milestones/",
+    "proposedNewDestination": "https://bemamas.com/baby-and-child/four-month-sleep-schedule/",
+    "keywordEvidence": "direct_competitor_page",
+    "monthlyRange": null,
+    "searchEvidence": [],
+    "directCompetitorPage": "https://huckleberrycare.com/blog/4-month-olds-and-sleep",
+    "action": "Prepare original age-specific sleep brief; compare milestone/sleep-regression coverage and obtain appropriate source review before publication."
+  },
+  {
+    "id": "K102",
+    "legacyId": null,
+    "term": "6 month old feeding schedule",
+    "classification": "depth_gap_draft_brief",
+    "cluster": "six-month-feeding",
+    "destination": "https://bemamas.com/baby-and-child/starting-solids/",
+    "proposedNewDestination": "https://bemamas.com/baby-and-child/six-month-feeding-schedule/",
+    "keywordEvidence": "direct_competitor_page",
+    "monthlyRange": null,
+    "searchEvidence": [],
+    "directCompetitorPage": "https://huckleberrycare.com/blog/6-month-old-feeding-schedule",
+    "action": "Prepare practical feeding-routine brief; compare existing solids and six-month milestone pages. Proposed URL is not live."
+  }
+]

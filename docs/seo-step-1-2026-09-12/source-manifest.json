@@ -1,0 +1,72 @@
+{
+  "createdAt": "2026-09-12T21:26:11.595Z",
+  "step": "1 — evidence and baseline; awaiting confirmation before implementation",
+  "repo": "C:/WorkSpace/Practice/bemama_web",
+  "commit": "80e2eef3051ea75acc9d5536db3f39016c876799",
+  "sourceFiles": {
+    "src/content-hub.mjs": "067360d83ecf36ee64ee771408931f5cb454258da0c836c10ef03eac40cab8c7",
+    "public/assets/care-tools.js": "3512c27d0466e8c0d7b675a40d943ca69bc10e55cadf3950888391491d769b90"
+  },
+  "englishRoutes": 199,
+  "localizedRoutes": 1393,
+  "articleAndToolRoutes": 185,
+  "tools": 13,
+  "sourceExports": {
+    "B": {
+      "file": "bemama-site-keywords-2026-09-12.csv",
+      "url": "https://bemamas.com/",
+      "scope": "whole-site discovery",
+      "localFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\bemama-site-keywords-2026-09-12.csv",
+      "sha256": "d72dcdbdc1784a3436710ac4481ddce8cc84791b0c511ec35421a9bef7fbc889",
+      "period": "\"September 1, 2025 - August 31, 2026\"",
+      "rows": 442
+    },
+    "BC": {
+      "file": "babycenter-app-keywords-2026-09-12.csv",
+      "url": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+      "scope": "single app-store listing; not BabyCenter website",
+      "localFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+      "sha256": "20674297e09640e5700a6a41adaf03633716eb5591836324ef25869496a5fb3f",
+      "period": "\"September 1, 2025 - August 31, 2026\"",
+      "rows": 1307
+    },
+    "H": {
+      "file": "huckleberry-page-keywords-2026-09-12.csv",
+      "url": "https://huckleberrycare.com/product/tracking",
+      "scope": "single product page",
+      "localFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\huckleberry-page-keywords-2026-09-12.csv",
+      "sha256": "75c8d65766f7c61a0c35173e40542747d9840b1be3b0b11b914f43f2afd13e57",
+      "period": "\"September 1, 2025 - August 31, 2026\"",
+      "rows": 129
+    },
+    "N": {
+      "file": "nara-page-keywords-2026-09-12.csv",
+      "url": "https://nara.com/pages/nara-baby-tracker-app",
+      "scope": "single product page",
+      "localFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+      "sha256": "a6fe050a53608a1e1fca4db95a2a9507c033ae26612a32154b5ff21faefb4e74",
+      "period": "\"September 1, 2025 - August 31, 2026\"",
+      "rows": 77
+    }
+  },
+  "rawDistinctExportPhrases": 1907,
+  "registerRows": 102,
+  "classifications": {
+    "product_explanation": 25,
+    "intent_unverified": 8,
+    "feature_verification_required": 13,
+    "covered_topic": 31,
+    "existing_tool_improvement": 11,
+    "depth_review": 8,
+    "covered_related_topic": 4,
+    "depth_gap_draft_brief": 2
+  },
+  "limitations": [
+    "BabyCenter website not audited: direct access blocked; official Play listing only.",
+    "Planner suggestions are not organic rankings.",
+    "English article source exact-match checks do not establish semantic gaps.",
+    "Fresh visible Search Console totals and ten query rows are in search-console-baseline.json; CSV export was blocked. Historical indexing reports are dated September 6 with aggregate data dated September 3.",
+    "Non-English query research and current app workflow tests are pending.",
+    "No source code fix, deployment, campaign activation, or indexing submission is part of this step."
+  ]
+}

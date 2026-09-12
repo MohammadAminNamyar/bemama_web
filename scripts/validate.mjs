@@ -228,7 +228,7 @@ for (const language of languages) {
       ? path.join(dist, category.slug, 'index.html')
       : path.join(dist, language.code, category.slug, 'index.html');
     const categoryHtml = await readFile(categoryFile, 'utf8');
-    const categoryMain = categoryHtml.match(/<main class="category-layout">.*?<\/main>/s)?.[0] ?? '';
+    const categoryMain = categoryHtml.match(/<main class="category-layout(?: tool-catalog)?">.*?<\/main>/s)?.[0] ?? '';
     if (categoryMain.includes('class="compact-guide-card"')) {
       throw new Error(`Category hub returned to the dense description-card layout in ${language.code}/${category.slug}.`);
     }

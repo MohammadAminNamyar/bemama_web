@@ -1,0 +1,1 @@
+Validated 1400 HTML files and 1393 localized routes.

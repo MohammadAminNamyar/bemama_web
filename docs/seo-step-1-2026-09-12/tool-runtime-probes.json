@@ -1,0 +1,108 @@
+{
+  "method": "Original runtime pure functions executed in Node VM; fixed local date 2026-09-12. This is not an end-to-end UI test.",
+  "runtimeSha256": "3512c27d0466e8c0d7b675a40d943ca69bc10e55cadf3950888391491d769b90",
+  "dueDateToday": [
+    "Estimated pregnancy age: week 41, day 0",
+    "Estimated due date: Sep 12, 2026"
+  ],
+  "invalidCalendarDate": "2026-03-02T08:00:00.000Z",
+  "blankCycle": [
+    "Estimated ovulation: Aug 18, 2026",
+    "Fertile window: Aug 13, 2026 - Aug 19, 2026",
+    "Next expected period: Sep 1, 2026",
+    "Earliest useful pregnancy test: Aug 30, 2026"
+  ],
+  "zeroCycle": [
+    "Estimated ovulation: Aug 18, 2026",
+    "Fertile window: Aug 13, 2026 - Aug 19, 2026",
+    "Next expected period: Sep 1, 2026",
+    "Earliest useful pregnancy test: Aug 30, 2026"
+  ],
+  "solidsByLocale": {
+    "en": [
+      "Solids are not usually developmentally ready yet; focus on milk feeding and growth.",
+      "Watch for readiness later: sitting with support, good head control, and interest in food.",
+      "Ask your clinician before starting early."
+    ],
+    "fa": [
+      "هر بار یک تمرین غذای آرام پیشنهاد کنید.",
+      "بافت‌ها را ایمن و تحت نظارت نگه دارید.",
+      "اگر واکنش‌ها نگران‌کننده بود مکث کنید و مشورت بگیرید.",
+      "جلسه‌ها را کوتاه و نزدیک مراقب نگه دارید."
+    ],
+    "ar": [
+      "قدمي تجربة طعام هادئة واحدة في كل مرة.",
+      "اجعلي القوام آمناً وتحت المراقبة.",
+      "توقفي واطلبي نصيحة إذا أقلقتك ردود الفعل.",
+      "اجعلي الجلسات قصيرة وقريبة من مقدم الرعاية."
+    ],
+    "fr": [
+      "Proposez un repas d’essai calme à la fois.",
+      "Gardez les textures sûres et surveillées.",
+      "Faites une pause et demandez conseil si une réaction inquiète.",
+      "Gardez les séances courtes et proches du parent."
+    ],
+    "tr": [
+      "Her seferinde sakin bir öğün denemesi sunun.",
+      "Dokuları güvenli ve gözetimli tutun.",
+      "Tepkiler endişe verirse durup bakım tavsiyesi alın.",
+      "Seansları kısa ve bakıcıya yakın tutun."
+    ],
+    "es": [
+      "Ofrece una práctica de comida tranquila a la vez.",
+      "Mantén texturas seguras y supervisadas.",
+      "Pausa y consulta si una reacción preocupa.",
+      "Mantén sesiones breves y cerca del cuidador."
+    ],
+    "pt": [
+      "Ofereça uma prática tranquila de refeição por vez.",
+      "Mantenha texturas seguras e supervisionadas.",
+      "Pause e peça orientação se alguma reação preocupar.",
+      "Mantenha sessões breves e perto do cuidador."
+    ]
+  },
+  "dueDateByLocale": {
+    "en": [
+      "Estimated due date: Jun 8, 2027",
+      "Estimated pregnancy age: week 2",
+      "First trimester",
+      "Estimated conception window: Sep 12, 2026 - Sep 22, 2026"
+    ],
+    "fa": [
+      "تاریخ زایمان تخمینی: ۱۸ خرداد ۱۴۰۶",
+      "سن بارداری تخمینی: هفته 2",
+      "First trimester",
+      "بازه احتمالی لقاح: ۲۱ شهریور ۱۴۰۵ - ۳۱ شهریور ۱۴۰۵"
+    ],
+    "ar": [
+      "موعد الولادة المتوقع: 08‏/06‏/2027",
+      "عمر الحمل المقدر: الأسبوع 2",
+      "First trimester",
+      "نافذة حدوث الحمل المقدرة: 12‏/09‏/2026 - 22‏/09‏/2026"
+    ],
+    "fr": [
+      "Date prévue estimée: 8 juin 2027",
+      "Âge de grossesse estimé: semaine 2",
+      "First trimester",
+      "Fenêtre de conception estimée: 12 sept. 2026 - 22 sept. 2026"
+    ],
+    "tr": [
+      "Tahmini doğum tarihi: 8 Haz 2027",
+      "Tahmini gebelik yaşı: hafta 2",
+      "First trimester",
+      "Tahmini gebelik oluşma aralığı: 12 Eyl 2026 - 22 Eyl 2026"
+    ],
+    "es": [
+      "Fecha probable estimada: 8 jun 2027",
+      "Edad gestacional estimada: semana 2",
+      "First trimester",
+      "Ventana estimada de concepción: 12 sept 2026 - 22 sept 2026"
+    ],
+    "pt": [
+      "Data provável estimada: 8 de jun. de 2027",
+      "Idade gestacional estimada: semana 2",
+      "First trimester",
+      "Janela estimada de concepção: 12 de set. de 2026 - 22 de set. de 2026"
+    ]
+  }
+}

@@ -1,0 +1,128 @@
+[
+  {
+    "language": "en",
+    "direction": "ltr",
+    "existingRouteCount": 199,
+    "keywordResearchStatus": "Initial evidence register completed; further competitive coverage remains",
+    "keywordBriefFields": [
+      "market",
+      "primary_query",
+      "supporting_queries",
+      "competitor_page",
+      "planner_range_or_unknown",
+      "evidence_date",
+      "intent",
+      "destination",
+      "terminology_decision",
+      "reviewer_status"
+    ]
+  },
+  {
+    "language": "fa",
+    "direction": "rtl",
+    "existingRouteCount": 199,
+    "keywordResearchStatus": "Not researched; existing translation is not keyword evidence",
+    "keywordBriefFields": [
+      "market",
+      "primary_query",
+      "supporting_queries",
+      "competitor_page",
+      "planner_range_or_unknown",
+      "evidence_date",
+      "intent",
+      "destination",
+      "terminology_decision",
+      "reviewer_status"
+    ]
+  },
+  {
+    "language": "ar",
+    "direction": "rtl",
+    "existingRouteCount": 199,
+    "keywordResearchStatus": "Not researched; existing translation is not keyword evidence",
+    "keywordBriefFields": [
+      "market",
+      "primary_query",
+      "supporting_queries",
+      "competitor_page",
+      "planner_range_or_unknown",
+      "evidence_date",
+      "intent",
+      "destination",
+      "terminology_decision",
+      "reviewer_status"
+    ]
+  },
+  {
+    "language": "fr",
+    "direction": "ltr",
+    "existingRouteCount": 199,
+    "keywordResearchStatus": "Not researched; existing translation is not keyword evidence",
+    "keywordBriefFields": [
+      "market",
+      "primary_query",
+      "supporting_queries",
+      "competitor_page",
+      "planner_range_or_unknown",
+      "evidence_date",
+      "intent",
+      "destination",
+      "terminology_decision",
+      "reviewer_status"
+    ]
+  },
+  {
+    "language": "tr",
+    "direction": "ltr",
+    "existingRouteCount": 199,
+    "keywordResearchStatus": "Not researched; existing translation is not keyword evidence",
+    "keywordBriefFields": [
+      "market",
+      "primary_query",
+      "supporting_queries",
+      "competitor_page",
+      "planner_range_or_unknown",
+      "evidence_date",
+      "intent",
+      "destination",
+      "terminology_decision",
+      "reviewer_status"
+    ]
+  },
+  {
+    "language": "es",
+    "direction": "ltr",
+    "existingRouteCount": 199,
+    "keywordResearchStatus": "Not researched; existing translation is not keyword evidence",
+    "keywordBriefFields": [
+      "market",
+      "primary_query",
+      "supporting_queries",
+      "competitor_page",
+      "planner_range_or_unknown",
+      "evidence_date",
+      "intent",
+      "destination",
+      "terminology_decision",
+      "reviewer_status"
+    ]
+  },
+  {
+    "language": "pt",
+    "direction": "ltr",
+    "existingRouteCount": 199,
+    "keywordResearchStatus": "Not researched; existing translation is not keyword evidence",
+    "keywordBriefFields": [
+      "market",
+      "primary_query",
+      "supporting_queries",
+      "competitor_page",
+      "planner_range_or_unknown",
+      "evidence_date",
+      "intent",
+      "destination",
+      "terminology_decision",
+      "reviewer_status"
+    ]
+  }
+]

@@ -6,7 +6,79 @@
     <atom:link href="https://bemamas.com/rss-pt.xml" rel="self" type="application/rss+xml" />
     <description>BeMama acompanha planejamento, gravidez, cuidado do bebê e crescimento infantil.</description>
     <language>pt</language>
-    <lastBuildDate>Sat, 05 Sep 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Calculadora de ovulação</title>
+      <link>https://bemamas.com/pt/tools/ovulation-calculator/</link>
+      <guid isPermaLink="true">https://bemamas.com/pt/tools/ovulation-calculator/</guid>
+      <description>Veja dias férteis estimados, ovulação e próxima menstruação no calendário.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/tool-ovulation-planning.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Lista pré-concepcional</title>
+      <link>https://bemamas.com/pt/tools/preconception-checklist/</link>
+      <guid isPermaLink="true">https://bemamas.com/pt/tools/preconception-checklist/</guid>
+      <description>Prepare perguntas e tarefas antes de tentar engravidar.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/ttc-preparing.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Calculadora de parto e semana de gravidez</title>
+      <link>https://bemamas.com/pt/tools/due-date-calculator/</link>
+      <guid isPermaLink="true">https://bemamas.com/pt/tools/due-date-calculator/</guid>
+      <description>Calcule a data provável do parto e explore a linha do tempo da gravidez.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/preg-first-trimester.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Calendário de consultas e sintomas</title>
+      <link>https://bemamas.com/pt/tools/appointment-symptom-calendar/</link>
+      <guid isPermaLink="true">https://bemamas.com/pt/tools/appointment-symptom-calendar/</guid>
+      <description>Guarde notas datadas de consultas e sintomas, edite e baixe o histórico.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/preg-prenatal-care.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Lista da mala da maternidade</title>
+      <link>https://bemamas.com/pt/tools/hospital-bag-checklist/</link>
+      <guid isPermaLink="true">https://bemamas.com/pt/tools/hospital-bag-checklist/</guid>
+      <description>Acompanhe os itens preparados para a maternidade.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/preg-hospital-bag.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Ideias e lista curta de nomes</title>
+      <link>https://bemamas.com/pt/tools/baby-name-shortlist/</link>
+      <guid isPermaLink="true">https://bemamas.com/pt/tools/baby-name-shortlist/</guid>
+      <description>Explore dados oficiais de nomes dos EUA, compare favoritos e crie uma lista editável em qualquer idioma.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/ttc-writing-card.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Lista de enxoval</title>
+      <link>https://bemamas.com/pt/tools/registry-checklist/</link>
+      <guid isPermaLink="true">https://bemamas.com/pt/tools/registry-checklist/</guid>
+      <description>Organize os itens do bebê e marque o que já está pronto.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/newborn-nursery-cart.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Lista de cuidados do recém-nascido</title>
+      <link>https://bemamas.com/pt/tools/newborn-care-checklist/</link>
+      <guid isPermaLink="true">https://bemamas.com/pt/tools/newborn-care-checklist/</guid>
+      <description>Revise os preparativos para os primeiros dias com seu bebê.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/newborn-basics.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Registro de crescimento</title>
+      <link>https://bemamas.com/pt/tools/growth-log/</link>
+      <guid isPermaLink="true">https://bemamas.com/pt/tools/growth-log/</guid>
+      <description>Registre peso e comprimento, veja tendências e compare pesos com curvas OMS.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/newborn-development.jpg" medium="image" />
+    </item>
     <item>
       <title>O Segundo Trimestre: O Que Esperar (Semanas 13 a 27)</title>
       <link>https://bemamas.com/pt/pregnancy/second-trimester/</link>
@@ -998,110 +1070,6 @@
       <description>Guia da BeMama sobre Criar uma rotina familiar de leitura que dure, com passos práticos, perguntas para levar ao atendimento e sinais que merecem acompanhamento.</description>
       <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/generated-child-reading-routine.png" medium="image" />
-    </item>
-    <item>
-      <title>Calculadora de ovulação</title>
-      <link>https://bemamas.com/pt/tools/ovulation-calculator/</link>
-      <guid isPermaLink="true">https://bemamas.com/pt/tools/ovulation-calculator/</guid>
-      <description>Calculadora de ovulação: ferramenta BeMama no navegador para planejar, acompanhar ou organizar cuidados. Dados salvos ficam neste dispositivo.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/tool-ovulation-planning.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Lista pré-concepcional</title>
-      <link>https://bemamas.com/pt/tools/preconception-checklist/</link>
-      <guid isPermaLink="true">https://bemamas.com/pt/tools/preconception-checklist/</guid>
-      <description>Lista pré-concepcional: ferramenta BeMama no navegador para planejar, acompanhar ou organizar cuidados. Dados salvos ficam neste dispositivo.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/ttc-preparing.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Calculadora de data provável</title>
-      <link>https://bemamas.com/pt/tools/due-date-calculator/</link>
-      <guid isPermaLink="true">https://bemamas.com/pt/tools/due-date-calculator/</guid>
-      <description>Calculadora de data provável: ferramenta BeMama no navegador para planejar, acompanhar ou organizar cuidados. Dados salvos ficam neste dispositivo.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/preg-first-trimester.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Consulta da semana de gravidez</title>
-      <link>https://bemamas.com/pt/tools/pregnancy-week-lookup/</link>
-      <guid isPermaLink="true">https://bemamas.com/pt/tools/pregnancy-week-lookup/</guid>
-      <description>Consulta da semana de gravidez: ferramenta BeMama no navegador para planejar, acompanhar ou organizar cuidados. Dados salvos ficam neste dispositivo.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/generated-pregnancy-appointment-folder.png" medium="image" />
-    </item>
-    <item>
-      <title>Calendário de consultas e sintomas</title>
-      <link>https://bemamas.com/pt/tools/appointment-symptom-calendar/</link>
-      <guid isPermaLink="true">https://bemamas.com/pt/tools/appointment-symptom-calendar/</guid>
-      <description>Calendário de consultas e sintomas: ferramenta BeMama no navegador para planejar, acompanhar ou organizar cuidados. Dados salvos ficam neste dispositivo.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/preg-prenatal-care.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Lista da mala da maternidade</title>
-      <link>https://bemamas.com/pt/tools/hospital-bag-checklist/</link>
-      <guid isPermaLink="true">https://bemamas.com/pt/tools/hospital-bag-checklist/</guid>
-      <description>Lista da mala da maternidade: ferramenta BeMama no navegador para planejar, acompanhar ou organizar cuidados. Dados salvos ficam neste dispositivo.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/preg-hospital-bag.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Ideias e lista curta de nomes</title>
-      <link>https://bemamas.com/pt/tools/baby-name-shortlist/</link>
-      <guid isPermaLink="true">https://bemamas.com/pt/tools/baby-name-shortlist/</guid>
-      <description>Ideias e lista curta de nomes: ferramenta BeMama no navegador para planejar, acompanhar ou organizar cuidados. Dados salvos ficam neste dispositivo.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/ttc-writing-card.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Lista de enxoval</title>
-      <link>https://bemamas.com/pt/tools/registry-checklist/</link>
-      <guid isPermaLink="true">https://bemamas.com/pt/tools/registry-checklist/</guid>
-      <description>Lista de enxoval: ferramenta BeMama no navegador para planejar, acompanhar ou organizar cuidados. Dados salvos ficam neste dispositivo.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/newborn-nursery-cart.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Lista de cuidados do recém-nascido</title>
-      <link>https://bemamas.com/pt/tools/newborn-care-checklist/</link>
-      <guid isPermaLink="true">https://bemamas.com/pt/tools/newborn-care-checklist/</guid>
-      <description>Lista de cuidados do recém-nascido: ferramenta BeMama no navegador para planejar, acompanhar ou organizar cuidados. Dados salvos ficam neste dispositivo.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/newborn-basics.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Acompanhamento de marcos</title>
-      <link>https://bemamas.com/pt/tools/milestone-tracker/</link>
-      <guid isPermaLink="true">https://bemamas.com/pt/tools/milestone-tracker/</guid>
-      <description>Acompanhamento de marcos: ferramenta BeMama no navegador para planejar, acompanhar ou organizar cuidados. Dados salvos ficam neste dispositivo.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/child-milestones.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Registro de crescimento</title>
-      <link>https://bemamas.com/pt/tools/growth-log/</link>
-      <guid isPermaLink="true">https://bemamas.com/pt/tools/growth-log/</guid>
-      <description>Registro de crescimento: ferramenta BeMama no navegador para planejar, acompanhar ou organizar cuidados. Dados salvos ficam neste dispositivo.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/newborn-development.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Planejador de sólidos</title>
-      <link>https://bemamas.com/pt/tools/solids-planner/</link>
-      <guid isPermaLink="true">https://bemamas.com/pt/tools/solids-planner/</guid>
-      <description>Planejador de sólidos: ferramenta BeMama no navegador para planejar, acompanhar ou organizar cuidados. Dados salvos ficam neste dispositivo.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/tool-solids-planner.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Seletor de atividades para crianças pequenas</title>
-      <link>https://bemamas.com/pt/tools/toddler-activity-picker/</link>
-      <guid isPermaLink="true">https://bemamas.com/pt/tools/toddler-activity-picker/</guid>
-      <description>Seletor de atividades para crianças pequenas: ferramenta BeMama no navegador para planejar, acompanhar ou organizar cuidados. Dados salvos ficam neste dispositivo.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/child-blocks-book.jpg" medium="image" />
     </item>
     <item>
       <title>Saúde pré-concepcional: como preparar seu corpo para a gravidez</title>

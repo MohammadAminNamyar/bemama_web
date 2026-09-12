@@ -2,7 +2,7 @@ import { readFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 import { languages, pageSlugs, site } from '../src/pages.mjs';
-import { hubSlugs } from '../src/content-hub.mjs';
+import { hubSlugs, articleBySlug } from '../src/content-hub.mjs';
 
 // IndexNow keys are public ownership-verification tokens, not login secrets.
 export const key = 'xkfc94pam6281fxy8srfa7gd52xxnspv';
@@ -34,13 +34,17 @@ export function pageSignature(html) {
   return JSON.stringify(fields);
 }
 
+export function activePageUrls() {
+  return languages.flatMap(({ code }) => [...pageSlugs, ...hubSlugs].filter(slug => !articleBySlug.get(slug)?.catalogHidden).map(slug =>
+    `${site.origin}/${code === 'en' ? '' : `${code}/`}${slug ? `${slug}/` : ''}`));
+}
+
 async function run() {
   const args = process.argv.slice(2);
   if (args.some(arg => !['--submit', '--dry-run'].includes(arg)) || args.length > 1) {
     throw new Error('Use node scripts/indexnow.mjs [--dry-run|--submit]');
   }
-  const urls = languages.flatMap(({ code }) => [...pageSlugs, ...hubSlugs].map(slug =>
-    `${site.origin}/${code === 'en' ? '' : `${code}/`}${slug ? `${slug}/` : ''}`));
+  const urls = activePageUrls();
   const payload = submissionPayload(urls);
   const verificationFile = (await readFile(path.join(root, 'public', `${key}.txt`), 'utf8')).trim();
   if (verificationFile !== key) throw new Error('Public verification file does not match configured key');

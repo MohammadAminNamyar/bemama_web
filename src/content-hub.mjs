@@ -478,7 +478,7 @@ export const categoryBySlug = new Map(categories.map((category) => [category.slu
 export const articleBySlug = new Map(articles.map((article) => [article.slug, article]));
 
 export function articlesInCategory(categoryId) {
-  return articles.filter((article) => article.category === categoryId);
+  return articles.filter((article) => article.category === categoryId && !article.catalogHidden);
 }
 
 // Every slug the hub adds to the site (category landing pages + articles).

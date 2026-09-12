@@ -1,6 +1,13 @@
 import assert from 'node:assert/strict';
 import { test } from 'node:test';
-import { submissionPayload, pageSignature } from './indexnow.mjs';
+import { submissionPayload, pageSignature, activePageUrls } from './indexnow.mjs';
+
+test('default IndexNow URL selection excludes explicitly retired noindex tools', () => {
+  const urls=activePageUrls();
+  assert.equal(urls.length,1365);
+  for(const id of ['milestone-tracker','solids-planner','toddler-activity-picker']) assert.ok(urls.every(url=>!url.includes(`/tools/${id}/`)));
+  assert.ok(urls.includes('https://bemamas.com/tools/growth-log/'));
+});
 
 test('IndexNow batches public pages across languages and removes duplicates', () => {
   const p = submissionPayload(['https://bemamas.com/', 'https://bemamas.com/fa/pregnancy/', 'https://bemamas.com/']);

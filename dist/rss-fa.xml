@@ -6,7 +6,79 @@
     <atom:link href="https://bemamas.com/rss-fa.xml" rel="self" type="application/rss+xml" />
     <description>BeMama همراهی آرام برای برنامه‌ریزی، بارداری، مراقبت نوزاد و رشد کودک است.</description>
     <language>fa</language>
-    <lastBuildDate>Sat, 05 Sep 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>ماشین حساب تخمک‌گذاری</title>
+      <link>https://bemamas.com/fa/tools/ovulation-calculator/</link>
+      <guid isPermaLink="true">https://bemamas.com/fa/tools/ovulation-calculator/</guid>
+      <description>روزهای بارور تخمینی را همراه تاریخ تخمک‌گذاری و پریود بعدی روی تقویم ببینید.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/tool-ovulation-planning.jpg" medium="image" />
+    </item>
+    <item>
+      <title>چک‌لیست پیش از بارداری</title>
+      <link>https://bemamas.com/fa/tools/preconception-checklist/</link>
+      <guid isPermaLink="true">https://bemamas.com/fa/tools/preconception-checklist/</guid>
+      <description>پرسش‌ها و کارهای عملی پیش از اقدام به بارداری را آماده کنید.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/ttc-preparing.jpg" medium="image" />
+    </item>
+    <item>
+      <title>محاسبهٔ تاریخ زایمان و هفتهٔ بارداری</title>
+      <link>https://bemamas.com/fa/tools/due-date-calculator/</link>
+      <guid isPermaLink="true">https://bemamas.com/fa/tools/due-date-calculator/</guid>
+      <description>تاریخ زایمان تخمینی را محاسبه و خط زمانی بارداری را مرور کنید.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/preg-first-trimester.jpg" medium="image" />
+    </item>
+    <item>
+      <title>تقویم قرار و علامت</title>
+      <link>https://bemamas.com/fa/tools/appointment-symptom-calendar/</link>
+      <guid isPermaLink="true">https://bemamas.com/fa/tools/appointment-symptom-calendar/</guid>
+      <description>یادداشت‌های تاریخ‌دار ویزیت و علائم را ثبت و ویرایش کنید و سوابق را دریافت کنید.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/preg-prenatal-care.jpg" medium="image" />
+    </item>
+    <item>
+      <title>چک‌لیست کیف بیمارستان</title>
+      <link>https://bemamas.com/fa/tools/hospital-bag-checklist/</link>
+      <guid isPermaLink="true">https://bemamas.com/fa/tools/hospital-bag-checklist/</guid>
+      <description>وسایل ضروری آماده‌شده برای اقامت در بیمارستان را پیگیری کنید.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/preg-hospital-bag.jpg" medium="image" />
+    </item>
+    <item>
+      <title>ایده‌ها و فهرست کوتاه نام نوزاد</title>
+      <link>https://bemamas.com/fa/tools/baby-name-shortlist/</link>
+      <guid isPermaLink="true">https://bemamas.com/fa/tools/baby-name-shortlist/</guid>
+      <description>دادهٔ مستند نام‌های آمریکا را مرور و مقایسه کنید و فهرستی قابل ویرایش به هر زبان بسازید.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/ttc-writing-card.jpg" medium="image" />
+    </item>
+    <item>
+      <title>چک‌لیست خرید نوزاد</title>
+      <link>https://bemamas.com/fa/tools/registry-checklist/</link>
+      <guid isPermaLink="true">https://bemamas.com/fa/tools/registry-checklist/</guid>
+      <description>وسایل ضروری کودک را سامان دهید و موارد آماده‌شده را علامت بزنید.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/newborn-nursery-cart.jpg" medium="image" />
+    </item>
+    <item>
+      <title>چک‌لیست مراقبت نوزاد</title>
+      <link>https://bemamas.com/fa/tools/newborn-care-checklist/</link>
+      <guid isPermaLink="true">https://bemamas.com/fa/tools/newborn-care-checklist/</guid>
+      <description>آمادگی‌های عملی روزهای نخست همراه نوزاد را مرور کنید.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/newborn-basics.jpg" medium="image" />
+    </item>
+    <item>
+      <title>ثبت رشد</title>
+      <link>https://bemamas.com/fa/tools/growth-log/</link>
+      <guid isPermaLink="true">https://bemamas.com/fa/tools/growth-log/</guid>
+      <description>وزن و قد را ثبت کنید، روندها را ببینید و وزن را با منحنی مرجع WHO مقایسه کنید.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/newborn-development.jpg" medium="image" />
+    </item>
     <item>
       <title>سه‌ماهه دوم بارداری: چه چیزهایی در انتظار شماست (هفته‌های ۱۳ تا ۲۷)</title>
       <link>https://bemamas.com/fa/pregnancy/second-trimester/</link>
@@ -998,110 +1070,6 @@
       <description>راهنمای BeMama درباره ساختن برنامه مطالعه خانوادگی که پایدار بماند، با نکات عملی، پرسش‌های مناسب برای مراقبت حرفه‌ای و نشانه‌هایی که نیاز به پیگیری دارند.</description>
       <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/generated-child-reading-routine.png" medium="image" />
-    </item>
-    <item>
-      <title>ماشین حساب تخمک‌گذاری</title>
-      <link>https://bemamas.com/fa/tools/ovulation-calculator/</link>
-      <guid isPermaLink="true">https://bemamas.com/fa/tools/ovulation-calculator/</guid>
-      <description>ماشین حساب تخمک‌گذاری: ابزار مرورگر BeMama برای برنامه‌ریزی، پیگیری یا نظم دادن به مراقبت. داده‌های ذخیره‌شده روی همین دستگاه می‌ماند.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/tool-ovulation-planning.jpg" medium="image" />
-    </item>
-    <item>
-      <title>چک‌لیست پیش از بارداری</title>
-      <link>https://bemamas.com/fa/tools/preconception-checklist/</link>
-      <guid isPermaLink="true">https://bemamas.com/fa/tools/preconception-checklist/</guid>
-      <description>چک‌لیست پیش از بارداری: ابزار مرورگر BeMama برای برنامه‌ریزی، پیگیری یا نظم دادن به مراقبت. داده‌های ذخیره‌شده روی همین دستگاه می‌ماند.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/ttc-preparing.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ماشین حساب تاریخ زایمان</title>
-      <link>https://bemamas.com/fa/tools/due-date-calculator/</link>
-      <guid isPermaLink="true">https://bemamas.com/fa/tools/due-date-calculator/</guid>
-      <description>ماشین حساب تاریخ زایمان: ابزار مرورگر BeMama برای برنامه‌ریزی، پیگیری یا نظم دادن به مراقبت. داده‌های ذخیره‌شده روی همین دستگاه می‌ماند.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/preg-first-trimester.jpg" medium="image" />
-    </item>
-    <item>
-      <title>یافتن هفته بارداری</title>
-      <link>https://bemamas.com/fa/tools/pregnancy-week-lookup/</link>
-      <guid isPermaLink="true">https://bemamas.com/fa/tools/pregnancy-week-lookup/</guid>
-      <description>یافتن هفته بارداری: ابزار مرورگر BeMama برای برنامه‌ریزی، پیگیری یا نظم دادن به مراقبت. داده‌های ذخیره‌شده روی همین دستگاه می‌ماند.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/generated-pregnancy-appointment-folder.png" medium="image" />
-    </item>
-    <item>
-      <title>تقویم قرار و علامت</title>
-      <link>https://bemamas.com/fa/tools/appointment-symptom-calendar/</link>
-      <guid isPermaLink="true">https://bemamas.com/fa/tools/appointment-symptom-calendar/</guid>
-      <description>تقویم قرار و علامت: ابزار مرورگر BeMama برای برنامه‌ریزی، پیگیری یا نظم دادن به مراقبت. داده‌های ذخیره‌شده روی همین دستگاه می‌ماند.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/preg-prenatal-care.jpg" medium="image" />
-    </item>
-    <item>
-      <title>چک‌لیست کیف بیمارستان</title>
-      <link>https://bemamas.com/fa/tools/hospital-bag-checklist/</link>
-      <guid isPermaLink="true">https://bemamas.com/fa/tools/hospital-bag-checklist/</guid>
-      <description>چک‌لیست کیف بیمارستان: ابزار مرورگر BeMama برای برنامه‌ریزی، پیگیری یا نظم دادن به مراقبت. داده‌های ذخیره‌شده روی همین دستگاه می‌ماند.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/preg-hospital-bag.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ایده‌ها و فهرست کوتاه نام نوزاد</title>
-      <link>https://bemamas.com/fa/tools/baby-name-shortlist/</link>
-      <guid isPermaLink="true">https://bemamas.com/fa/tools/baby-name-shortlist/</guid>
-      <description>ایده‌ها و فهرست کوتاه نام نوزاد: ابزار مرورگر BeMama برای برنامه‌ریزی، پیگیری یا نظم دادن به مراقبت. داده‌های ذخیره‌شده روی همین دستگاه می‌ماند.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/ttc-writing-card.jpg" medium="image" />
-    </item>
-    <item>
-      <title>چک‌لیست خرید نوزاد</title>
-      <link>https://bemamas.com/fa/tools/registry-checklist/</link>
-      <guid isPermaLink="true">https://bemamas.com/fa/tools/registry-checklist/</guid>
-      <description>چک‌لیست خرید نوزاد: ابزار مرورگر BeMama برای برنامه‌ریزی، پیگیری یا نظم دادن به مراقبت. داده‌های ذخیره‌شده روی همین دستگاه می‌ماند.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/newborn-nursery-cart.jpg" medium="image" />
-    </item>
-    <item>
-      <title>چک‌لیست مراقبت نوزاد</title>
-      <link>https://bemamas.com/fa/tools/newborn-care-checklist/</link>
-      <guid isPermaLink="true">https://bemamas.com/fa/tools/newborn-care-checklist/</guid>
-      <description>چک‌لیست مراقبت نوزاد: ابزار مرورگر BeMama برای برنامه‌ریزی، پیگیری یا نظم دادن به مراقبت. داده‌های ذخیره‌شده روی همین دستگاه می‌ماند.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/newborn-basics.jpg" medium="image" />
-    </item>
-    <item>
-      <title>پیگیری نقاط رشد</title>
-      <link>https://bemamas.com/fa/tools/milestone-tracker/</link>
-      <guid isPermaLink="true">https://bemamas.com/fa/tools/milestone-tracker/</guid>
-      <description>پیگیری نقاط رشد: ابزار مرورگر BeMama برای برنامه‌ریزی، پیگیری یا نظم دادن به مراقبت. داده‌های ذخیره‌شده روی همین دستگاه می‌ماند.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/child-milestones.jpg" medium="image" />
-    </item>
-    <item>
-      <title>ثبت رشد</title>
-      <link>https://bemamas.com/fa/tools/growth-log/</link>
-      <guid isPermaLink="true">https://bemamas.com/fa/tools/growth-log/</guid>
-      <description>ثبت رشد: ابزار مرورگر BeMama برای برنامه‌ریزی، پیگیری یا نظم دادن به مراقبت. داده‌های ذخیره‌شده روی همین دستگاه می‌ماند.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/newborn-development.jpg" medium="image" />
-    </item>
-    <item>
-      <title>برنامه غذای کمکی</title>
-      <link>https://bemamas.com/fa/tools/solids-planner/</link>
-      <guid isPermaLink="true">https://bemamas.com/fa/tools/solids-planner/</guid>
-      <description>برنامه غذای کمکی: ابزار مرورگر BeMama برای برنامه‌ریزی، پیگیری یا نظم دادن به مراقبت. داده‌های ذخیره‌شده روی همین دستگاه می‌ماند.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/tool-solids-planner.jpg" medium="image" />
-    </item>
-    <item>
-      <title>انتخابگر فعالیت کودک نوپا</title>
-      <link>https://bemamas.com/fa/tools/toddler-activity-picker/</link>
-      <guid isPermaLink="true">https://bemamas.com/fa/tools/toddler-activity-picker/</guid>
-      <description>انتخابگر فعالیت کودک نوپا: ابزار مرورگر BeMama برای برنامه‌ریزی، پیگیری یا نظم دادن به مراقبت. داده‌های ذخیره‌شده روی همین دستگاه می‌ماند.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/child-blocks-book.jpg" medium="image" />
     </item>
     <item>
       <title>سلامت پیش از بارداری: چگونه بدن خود را برای بارداری آماده کنید</title>

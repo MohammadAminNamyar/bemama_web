@@ -5,16 +5,16 @@ import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { test } from 'node:test';
 import { languages, pageSlugs, site } from '../src/pages.mjs';
-import { hubSlugs } from '../src/content-hub.mjs';
+import { hubSlugs, articleBySlug } from '../src/content-hub.mjs';
 
 // Integration checks against the generated site. Run npm run build first.
 const dist = fileURLToPath(new URL('../dist/', import.meta.url));
-const slugs = [...pageSlugs, ...hubSlugs];
+const slugs = [...pageSlugs, ...hubSlugs].filter(slug => !articleBySlug.get(slug)?.catalogHidden);
 const routeFor = (lang, slug) => `/${lang === 'en' ? '' : `${lang}/`}${slug ? `${slug}/` : ''}`;
 const assetHashes = new Map();
 
 for (const { code: lang } of languages) {
-  test(`${lang}: all public routes are indexable, in the sitemap and reachable without JavaScript`, async () => {
+  test(`${lang}: all active public routes are indexable, in the sitemap and reachable without JavaScript`, async () => {
     const routes = slugs.map(slug => routeFor(lang, slug));
     const known = new Set(routes);
     const xml = await readFile(path.join(dist, `sitemap-${lang}.xml`), 'utf8');

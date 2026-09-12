@@ -3,6 +3,11 @@
 // paraphrased from any single publisher.
 
 import { upgradedExpansionSlugs } from './expansion-upgraded.mjs';
+import { pilotCopy, pilotPurpose } from '../tool-pilot-copy.mjs';
+import { plannerCopy } from '../tool-planner-copy.mjs';
+import { qualityCopy, toolDescription, withdrawnToolIds } from '../tool-quality-copy.mjs';
+import { completionCopy } from '../tool-completion-copy.mjs';
+import { checklistContent } from '../checklist-content.mjs';
 
 const langs = ['en', 'fa', 'ar', 'fr', 'tr', 'es', 'pt'];
 
@@ -1118,23 +1123,44 @@ function makeTool(def) {
     category: 'tools',
     kind: 'tool',
     toolId: def.id,
+    catalogHidden: withdrawnToolIds.has(def.id) || def.id === 'pregnancy-week-lookup',
+    mergedInto: def.id === 'pregnancy-week-lookup' ? 'tools/due-date-calculator' : undefined,
     hero: heroForTool(def.id),
-    updated: 'July 16, 2026',
+    updated: 'September 12, 2026',
     i18n: Object.fromEntries(
       langs.map((lang) => {
         const copy = toolCopy[lang];
-        const title = def.titles[lang] ?? def.titles.en;
+        const completion = completionCopy(lang);
+        const title = def.id === 'due-date-calculator' ? completion.pregnancyTitle : def.titles[lang] ?? def.titles.en;
+        const ui = pilotCopy(lang);
+        const purpose = pilotPurpose(def.calculator || (def.id === 'growth-log' ? 'growth' : ''), lang);
+        const fields = def.fields.flatMap((key) => {
+          const field = localizeField(key, lang);
+          if (def.id !== 'growth-log' || !['weight', 'length'].includes(key)) return [field];
+          return [field, {
+            name: `${key}Unit`, type: 'select', label: ui[`${key}Unit`],
+            options: [{value: '', label: ui.chooseUnit}, ...(key === 'weight' ? ['kg', 'lb'] : ['cm', 'in']).map(value => ({value, label: value}))]
+          }];
+        });
         return [
           lang,
           {
             title,
-            description: copy.description(title),
-            intro: copy.intro(title),
-            sections: [
+            description: def.type === 'nameFinder' ? completion.namesDescription : toolDescription(def.id, lang) || copy.description(title),
+            intro: def.id === 'due-date-calculator' ? completion.pregnancyIntro : def.type === 'checklist' ? toolDescription(def.id,lang) : def.type === 'nameFinder' ? completion.namesDescription : purpose || copy.intro(title),
+            sections: def.type === 'nameFinder' ? [
+              {heading:copy.headings[0],paragraphs:[completion.nameWorkflow]},
+              {heading:copy.headings[1],paragraphs:[copy.privacy]}
+            ] : def.type === 'checklist' ? [
+              {heading:copy.headings[0],paragraphs:[completion.checklistWorkflow]},
+              {heading:copy.headings[1],paragraphs:[copy.privacy]}
+            ] : def.type === 'calculator' ? [
+              { heading: copy.headings[1], paragraphs: [ui.calculationPrivacy] }
+            ] : [
               { heading: copy.headings[0], paragraphs: [copy.use] },
               { heading: copy.headings[1], paragraphs: [copy.privacy] }
             ],
-            takeaways: copy.tips,
+            takeaways: ['nameFinder','checklist'].includes(def.type) ? [] : copy.tips,
             faq: [],
             tool: {
               id: def.id,
@@ -1143,7 +1169,16 @@ function makeTool(def) {
               counter: def.counter,
               timer: def.timer,
               planner: def.planner,
-              fields: def.fields.map((field) => localizeField(field, lang)),
+              fields,
+              ui: {...ui, ...qualityCopy(lang), ...completion},
+              combined: def.id === 'due-date-calculator',
+              dueDateFields: def.id === 'due-date-calculator' ? [localizeField('dueDate',lang)] : undefined,
+              checklist: checklistContent(def.id,lang,localizeItems(def.items,lang)),
+              suggestions: def.planner ? plannerCopy(def.planner, lang) : undefined,
+              sources: def.calculator ? [
+                {label: 'NHS', url: def.calculator === 'ovulation' ? 'https://www.nhs.uk/conditions/periods/fertility-in-the-menstrual-cycle/' : 'https://www.nhs.uk/pregnancy/finding-out/due-date-calculator/'},
+                ...(def.calculator === 'ovulation' ? [{label:'ASRM',url:'https://www.asrm.org/practice-guidance/practice-committee-documents/optimizing-natural-fertility-a-committee-opinion-2021/'}] : [{label:'NHS · '+qualityCopy(lang).timeline,url:'https://www.nhs.uk/best-start-in-life/pregnancy/week-by-week-guide-to-pregnancy/'}])
+              ] : def.planner === 'solids' ? [{label: 'CDC', url: 'https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/when-what-and-how-to-introduce-solid-foods.html'}] : undefined,
               items: localizeItems(def.items, lang),
               prompts: localizeItems(def.prompts, lang),
               labels: toolLabels[lang] ?? toolLabels.en

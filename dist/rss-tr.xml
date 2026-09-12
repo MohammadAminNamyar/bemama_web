@@ -6,7 +6,79 @@
     <atom:link href="https://bemamas.com/rss-tr.xml" rel="self" type="application/rss+xml" />
     <description>BeMama planlama, hamilelik, bebek bakımı ve çocuk gelişimi için sakin bir yardımcıdır.</description>
     <language>tr</language>
-    <lastBuildDate>Sat, 05 Sep 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>Ovulasyon Hesaplayıcı</title>
+      <link>https://bemamas.com/tr/tools/ovulation-calculator/</link>
+      <guid isPermaLink="true">https://bemamas.com/tr/tools/ovulation-calculator/</guid>
+      <description>Tahmini verimli günleri, yumurtlama ve sonraki adet tarihlerini takvimde görün.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/tool-ovulation-planning.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Gebelik Öncesi Kontrol Listesi</title>
+      <link>https://bemamas.com/tr/tools/preconception-checklist/</link>
+      <guid isPermaLink="true">https://bemamas.com/tr/tools/preconception-checklist/</guid>
+      <description>Gebelik öncesi soruları ve pratik işleri hazırlayın.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/ttc-preparing.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Doğum Tarihi ve Gebelik Haftası Hesaplayıcı</title>
+      <link>https://bemamas.com/tr/tools/due-date-calculator/</link>
+      <guid isPermaLink="true">https://bemamas.com/tr/tools/due-date-calculator/</guid>
+      <description>Tahmini doğum tarihini hesaplayın ve gebelik zaman çizelgesini inceleyin.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/preg-first-trimester.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Randevu ve Belirti Takvimi</title>
+      <link>https://bemamas.com/tr/tools/appointment-symptom-calendar/</link>
+      <guid isPermaLink="true">https://bemamas.com/tr/tools/appointment-symptom-calendar/</guid>
+      <description>Randevu ve belirti notlarını tarihle kaydedin, düzenleyin ve geçmişi indirin.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/preg-prenatal-care.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Hastane Çantası Listesi</title>
+      <link>https://bemamas.com/tr/tools/hospital-bag-checklist/</link>
+      <guid isPermaLink="true">https://bemamas.com/tr/tools/hospital-bag-checklist/</guid>
+      <description>Hastane için hazırladığınız temel eşyaları takip edin.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/preg-hospital-bag.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Bebek İsmi Fikirleri ve Kısa Liste</title>
+      <link>https://bemamas.com/tr/tools/baby-name-shortlist/</link>
+      <guid isPermaLink="true">https://bemamas.com/tr/tools/baby-name-shortlist/</guid>
+      <description>Kaynaklı ABD isim verilerini inceleyin, karşılaştırın ve her dilde düzenlenebilir liste oluşturun.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/ttc-writing-card.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Bebek İhtiyaç Listesi</title>
+      <link>https://bemamas.com/tr/tools/registry-checklist/</link>
+      <guid isPermaLink="true">https://bemamas.com/tr/tools/registry-checklist/</guid>
+      <description>Bebek ihtiyaçlarını düzenleyin ve hazırlananları işaretleyin.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/newborn-nursery-cart.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Yenidoğan Bakım Listesi</title>
+      <link>https://bemamas.com/tr/tools/newborn-care-checklist/</link>
+      <guid isPermaLink="true">https://bemamas.com/tr/tools/newborn-care-checklist/</guid>
+      <description>Yenidoğanla ilk günler için pratik hazırlıkları gözden geçirin.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/newborn-basics.jpg" medium="image" />
+    </item>
+    <item>
+      <title>Büyüme Kaydı</title>
+      <link>https://bemamas.com/tr/tools/growth-log/</link>
+      <guid isPermaLink="true">https://bemamas.com/tr/tools/growth-log/</guid>
+      <description>Ağırlık ve boyu kaydedin, eğilimleri ve WHO referans eğrilerini inceleyin.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/newborn-development.jpg" medium="image" />
+    </item>
     <item>
       <title>İkinci Üç Aylık Dönem: Sizi Neler Bekliyor (13–27. Haftalar)</title>
       <link>https://bemamas.com/tr/pregnancy/second-trimester/</link>
@@ -998,110 +1070,6 @@
       <description>Sürdürülebilir bir aile okuma rutini kurmak hakkında BeMama rehberi. Pratik adımlar, sağlık uzmanına sorulacak sorular ve takip edilmesi gereken işaretler içerir.</description>
       <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/generated-child-reading-routine.png" medium="image" />
-    </item>
-    <item>
-      <title>Ovulasyon Hesaplayıcı</title>
-      <link>https://bemamas.com/tr/tools/ovulation-calculator/</link>
-      <guid isPermaLink="true">https://bemamas.com/tr/tools/ovulation-calculator/</guid>
-      <description>Ovulasyon Hesaplayıcı: planlama, takip veya bakım düzeni için tarayıcıda çalışan BeMama aracı. Kaydedilen veriler bu cihazda kalır.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/tool-ovulation-planning.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Gebelik Öncesi Kontrol Listesi</title>
-      <link>https://bemamas.com/tr/tools/preconception-checklist/</link>
-      <guid isPermaLink="true">https://bemamas.com/tr/tools/preconception-checklist/</guid>
-      <description>Gebelik Öncesi Kontrol Listesi: planlama, takip veya bakım düzeni için tarayıcıda çalışan BeMama aracı. Kaydedilen veriler bu cihazda kalır.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/ttc-preparing.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Doğum Tarihi Hesaplayıcı</title>
-      <link>https://bemamas.com/tr/tools/due-date-calculator/</link>
-      <guid isPermaLink="true">https://bemamas.com/tr/tools/due-date-calculator/</guid>
-      <description>Doğum Tarihi Hesaplayıcı: planlama, takip veya bakım düzeni için tarayıcıda çalışan BeMama aracı. Kaydedilen veriler bu cihazda kalır.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/preg-first-trimester.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Gebelik Haftası Bulucu</title>
-      <link>https://bemamas.com/tr/tools/pregnancy-week-lookup/</link>
-      <guid isPermaLink="true">https://bemamas.com/tr/tools/pregnancy-week-lookup/</guid>
-      <description>Gebelik Haftası Bulucu: planlama, takip veya bakım düzeni için tarayıcıda çalışan BeMama aracı. Kaydedilen veriler bu cihazda kalır.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/generated-pregnancy-appointment-folder.png" medium="image" />
-    </item>
-    <item>
-      <title>Randevu ve Belirti Takvimi</title>
-      <link>https://bemamas.com/tr/tools/appointment-symptom-calendar/</link>
-      <guid isPermaLink="true">https://bemamas.com/tr/tools/appointment-symptom-calendar/</guid>
-      <description>Randevu ve Belirti Takvimi: planlama, takip veya bakım düzeni için tarayıcıda çalışan BeMama aracı. Kaydedilen veriler bu cihazda kalır.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/preg-prenatal-care.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Hastane Çantası Listesi</title>
-      <link>https://bemamas.com/tr/tools/hospital-bag-checklist/</link>
-      <guid isPermaLink="true">https://bemamas.com/tr/tools/hospital-bag-checklist/</guid>
-      <description>Hastane Çantası Listesi: planlama, takip veya bakım düzeni için tarayıcıda çalışan BeMama aracı. Kaydedilen veriler bu cihazda kalır.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/preg-hospital-bag.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Bebek İsmi Fikirleri ve Kısa Liste</title>
-      <link>https://bemamas.com/tr/tools/baby-name-shortlist/</link>
-      <guid isPermaLink="true">https://bemamas.com/tr/tools/baby-name-shortlist/</guid>
-      <description>Bebek İsmi Fikirleri ve Kısa Liste: planlama, takip veya bakım düzeni için tarayıcıda çalışan BeMama aracı. Kaydedilen veriler bu cihazda kalır.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/ttc-writing-card.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Bebek İhtiyaç Listesi</title>
-      <link>https://bemamas.com/tr/tools/registry-checklist/</link>
-      <guid isPermaLink="true">https://bemamas.com/tr/tools/registry-checklist/</guid>
-      <description>Bebek İhtiyaç Listesi: planlama, takip veya bakım düzeni için tarayıcıda çalışan BeMama aracı. Kaydedilen veriler bu cihazda kalır.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/newborn-nursery-cart.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Yenidoğan Bakım Listesi</title>
-      <link>https://bemamas.com/tr/tools/newborn-care-checklist/</link>
-      <guid isPermaLink="true">https://bemamas.com/tr/tools/newborn-care-checklist/</guid>
-      <description>Yenidoğan Bakım Listesi: planlama, takip veya bakım düzeni için tarayıcıda çalışan BeMama aracı. Kaydedilen veriler bu cihazda kalır.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/newborn-basics.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Gelişim Takipçisi</title>
-      <link>https://bemamas.com/tr/tools/milestone-tracker/</link>
-      <guid isPermaLink="true">https://bemamas.com/tr/tools/milestone-tracker/</guid>
-      <description>Gelişim Takipçisi: planlama, takip veya bakım düzeni için tarayıcıda çalışan BeMama aracı. Kaydedilen veriler bu cihazda kalır.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/child-milestones.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Büyüme Kaydı</title>
-      <link>https://bemamas.com/tr/tools/growth-log/</link>
-      <guid isPermaLink="true">https://bemamas.com/tr/tools/growth-log/</guid>
-      <description>Büyüme Kaydı: planlama, takip veya bakım düzeni için tarayıcıda çalışan BeMama aracı. Kaydedilen veriler bu cihazda kalır.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/newborn-development.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Katı Gıda Planlayıcı</title>
-      <link>https://bemamas.com/tr/tools/solids-planner/</link>
-      <guid isPermaLink="true">https://bemamas.com/tr/tools/solids-planner/</guid>
-      <description>Katı Gıda Planlayıcı: planlama, takip veya bakım düzeni için tarayıcıda çalışan BeMama aracı. Kaydedilen veriler bu cihazda kalır.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/tool-solids-planner.jpg" medium="image" />
-    </item>
-    <item>
-      <title>Küçük Çocuk Aktivite Seçici</title>
-      <link>https://bemamas.com/tr/tools/toddler-activity-picker/</link>
-      <guid isPermaLink="true">https://bemamas.com/tr/tools/toddler-activity-picker/</guid>
-      <description>Küçük Çocuk Aktivite Seçici: planlama, takip veya bakım düzeni için tarayıcıda çalışan BeMama aracı. Kaydedilen veriler bu cihazda kalır.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/child-blocks-book.jpg" medium="image" />
     </item>
     <item>
       <title>Gebelik Öncesi Sağlık: Vücudunuzu Hamileliğe Nasıl Hazırlarsınız?</title>

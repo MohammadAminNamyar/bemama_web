@@ -1,0 +1,26 @@
+{
+  "girls": {
+    "sha256": "cab683c68f937cec0fa8c80a601c4784d5f98230d787a20678d217db98f12f0e",
+    "rows": 25,
+    "columns": [
+      "Month",
+      "P3",
+      "P15",
+      "P50",
+      "P85",
+      "P97"
+    ]
+  },
+  "boys": {
+    "sha256": "675e1516ffcdf6273b1cc1370fa34e533d3bd84dfd31fdba93ebc457d907032a",
+    "rows": 25,
+    "columns": [
+      "Month",
+      "P3",
+      "P15",
+      "P50",
+      "P85",
+      "P97"
+    ]
+  }
+}

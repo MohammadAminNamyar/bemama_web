@@ -9,6 +9,7 @@ import { tourCollectionTranslations, tourUiTranslations } from '../src/tour-i18n
 import { evidenceForArticle } from '../src/article-evidence.mjs';
 import { articleDates, evidenceDateLabels } from '../src/article-dates.mjs';
 import { searchMetadata } from '../src/seo-metadata.mjs';
+import { qualityCopy } from '../src/tool-quality-copy.mjs';
 import {
   articles,
   categories,
@@ -60,7 +61,7 @@ const CATEGORY_FEATURED_SLUGS = {
   tools: [
     'tools/ovulation-calculator',
     'tools/due-date-calculator',
-    'tools/milestone-tracker'
+    'tools/growth-log'
   ],
   app: [
     'about-bemama/why-bemama',
@@ -107,7 +108,7 @@ const CATEGORY_TOPIC_RULES = {
 function featuredArticlesForCategory(categoryId) {
   return (CATEGORY_FEATURED_SLUGS[categoryId] ?? [])
     .map((slug) => articleBySlug.get(slug))
-    .filter((article) => article?.category === categoryId);
+    .filter((article) => article?.category === categoryId && !article.catalogHidden);
 }
 
 // These editorial links connect detailed guides to their strongest overview
@@ -774,7 +775,7 @@ const assetVersions = new Map();
 const transparentPixel = 'data:image/gif;base64,R0lGODlhAQABAAAAACw=';
 const imageSizeCache = new Map();
 
-await rm(dist, { recursive: true, force: true });
+await rm(dist, { recursive: true, force: true, maxRetries: 5, retryDelay: 200 });
 await mkdir(dist, { recursive: true });
 await mkdir(path.join(dist, 'assets'), { recursive: true });
 
@@ -784,8 +785,12 @@ await writeFile(
   path.join(dist, 'assets', 'styles.css'),
   minifyCss(styles)
 );
-for (const script of ['site-search.js', 'care-tools.js', 'product-tour.js']) {
-  const source = await readFile(path.join(root, 'public', 'assets', script), 'utf8');
+for (const script of ['baby-name-data.js','who-weight-reference.js', 'care-tools-core.js','care-organizers-core.js', 'care-tools-visuals.js', 'care-tools-pilot.js','care-organizers.js', 'site-search.js', 'care-tools.js', 'product-tour.js']) {
+  let source = await readFile(path.join(root, 'public', 'assets', script), 'utf8');
+  // Version imported modules from their emitted bytes, just like entry scripts.
+  for (const dependency of ['baby-name-data.js','who-weight-reference.js', 'care-tools-core.js','care-organizers-core.js', 'care-tools-visuals.js', 'care-tools-pilot.js','care-organizers.js']) {
+    if (source.includes(`from './${dependency}'`)) source = source.replaceAll(`from './${dependency}'`, `from '${versionedAsset(`/assets/${dependency}`)}'`);
+  }
   await writeFile(path.join(dist, 'assets', script), minifyJavaScript(source));
 }
 
@@ -884,6 +889,7 @@ function renderPage(language, slug) {
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>${escapeHtml(title)}</title>
     <meta name="description" content="${escapeHtml(description)}" />
+    ${article?.catalogHidden ? '<meta name="robots" content="noindex, follow" />' : ''}
     <link rel="canonical" href="${canonical}" />
     <link rel="alternate" type="application/rss+xml" title="${escapeHtml(site.name)}: ${escapeHtml(language.label)}" href="${site.origin}/rss-${language.code}.xml" />
     ${renderAlternates(slug)}
@@ -922,7 +928,7 @@ function renderPage(language, slug) {
     ${body}
     ${renderFooter(language)}
     <script type="module" src="${versionedAsset('/assets/site-search.js')}"></script>
-    ${article?.kind === 'tool' ? `<script type="module" src="${versionedAsset('/assets/care-tools.js')}"></script>` : ''}
+    ${article?.kind === 'tool' && !article.catalogHidden ? `<script type="module" src="${versionedAsset('/assets/care-tools.js')}"></script>` : ''}
     ${slug === 'explore' ? `<script type="module" src="${versionedAsset('/assets/product-tour.js')}"></script>` : ''}${slug === '' ? `\n    <script type="module" src="${versionedAsset('/assets/quick-help-entry.js')}"></script>` : ''}
     ${renderAnalytics()}
     ${renderDeferredImageLoader()}
@@ -1608,6 +1614,11 @@ function renderTool(language, slug, article, data) {
     { label: data.title, slug: article.slug }
   ];
   const config = normalizeJsonStringify(data.tool || {}).replaceAll('<', '\\u003c');
+  if (article.catalogHidden) {
+    const target = article.mergedInto || {'milestone-tracker':'baby-and-child/baby-milestones','solids-planner':'baby-and-child/starting-solids','toddler-activity-picker':'baby-and-child/independent-play'}[article.toolId];
+    const guide = articleBySlug.get(target).i18n[lang];
+    return `<main class="article-layout tool-layout">${renderBreadcrumbs(language,trail)}<article class="article"><h1>${escapeHtml(data.title)}</h1><p class="article-intro">${escapeHtml(article.mergedInto ? data.tool.ui.merged : qualityCopy(lang).withdrawn)}</p><p><a class="button" href="${localizedPath(lang,target)}${article.mergedInto?'?method=due-date':''}">${escapeHtml(guide.title)}</a></p><p><a href="${localizedPath(lang,'tools')}">${escapeHtml(pick(category.title,lang))}</a></p></article></main>`;
+  }
   const sections = (data.sections || [])
     .map(
       (section) => `<section class="article-section">
@@ -1637,13 +1648,14 @@ function renderTool(language, slug, article, data) {
     </section>
     ${sections}
     ${tips}
-    <div class="notice article-disclaimer">${escapeHtml(hubDisclaimer(lang))}</div>
+    ${data.tool?.type === 'nameFinder' ? '' : `<div class="notice article-disclaimer">${escapeHtml(hubDisclaimer(lang))}</div>`}
     ${renderAppCta(language)}
   </article>
 </main>`;
 }
 
 function renderCategory(language, slug, category) {
+  if (category.id === 'tools') return renderToolsCatalog(language, category);
   const lang = language.code;
   const strings = hubText(lang);
   const trail = [
@@ -1758,6 +1770,40 @@ function renderCategory(language, slug, category) {
 </main>`;
 }
 
+function renderToolsCatalog(language, category) {
+  const lang = language.code, ui = qualityCopy(lang), strings = hubText(lang);
+  const groups = [
+    {heading: strings.fertilityPregnancyTools, tools: articlesInCategory('tools').filter(a => !['growth-log','newborn-care-checklist'].includes(a.toolId))},
+    {heading: strings.babyChildTools, tools: articlesInCategory('tools').filter(a => ['growth-log','newborn-care-checklist'].includes(a.toolId))}
+  ];
+  const icons = {
+    calculator: '<rect x="4" y="5" width="24" height="23" rx="5"/><path d="M4 12h24M11 2v6M21 2v6M10 18h3m6 0h3m-12 5h3"/>',
+    log: '<path d="M5 4v24h24M9 22l6-7 5 3 7-10"/><circle cx="15" cy="15" r="2"/>',
+    checklist: '<rect x="5" y="4" width="22" height="25" rx="4"/><path d="m9 12 2 2 4-4m-6 11 2 2 4-4m3-6h5m-5 9h5"/>',
+    nameFinder: '<path d="M16 27S3 20 3 11a7 7 0 0 1 13-3 7 7 0 0 1 13 3c0 9-13 16-13 16Z"/>'
+  };
+  const toolIcons = {
+    'ovulation-calculator': '<circle cx="16" cy="16" r="11"/><path d="M16 5v4m11 7h-4M16 27v-4M5 16h4"/><circle cx="16" cy="16" r="4"/>',
+    'due-date-calculator': icons.calculator,
+    'preconception-checklist': '<path d="M16 28V15M16 19C7 20 4 13 5 6c8 0 12 4 11 13ZM16 23c9 0 12-6 11-13-7 0-11 5-11 13Z"/>',
+    'hospital-bag-checklist': '<rect x="4" y="10" width="24" height="18" rx="5"/><path d="M11 10V7a5 5 0 0 1 10 0v3M4 18h24M16 15v6"/>',
+    'registry-checklist': '<path d="M4 12h24v16H4zM2 7h28v5H2zM16 7v21M16 7C7 9 6 2 10 2c3 0 6 5 6 5ZM16 7c9 2 10-5 6-5-3 0-6 5-6 5Z"/>',
+    'newborn-care-checklist': '<path d="M9 7a7 7 0 0 1 14 0M6 10l10 5 10-5v11a10 10 0 0 1-20 0ZM6 16l18 12M26 16 8 28"/><circle cx="13" cy="7" r=".6"/><circle cx="19" cy="7" r=".6"/>',
+    'appointment-symptom-calendar': '<rect x="4" y="6" width="24" height="23" rx="4"/><path d="M4 13h24M10 3v6m12-6v6m-11 12 3 3 7-7"/>',
+    'growth-log': icons.log,
+    'baby-name-shortlist': icons.nameFinder
+  };
+  return `<main class="category-layout tool-catalog">
+    ${renderBreadcrumbs(language,[{label:strings.home,slug:''},{label:pick(category.title,lang),slug:category.slug}])}
+    <header class="tool-catalog-heading"><div><span class="eyebrow">BeMama</span><h1>${escapeHtml(pick(category.title,lang))}</h1><p>${escapeHtml(ui.catalogIntro)}</p></div><div class="tool-catalog-art" aria-hidden="true">${['preconception-checklist','due-date-calculator','baby-name-shortlist'].map(id=>`<span><svg viewBox="0 0 32 32" fill="none">${toolIcons[id]}</svg></span>`).join('')}</div></header>
+    <div class="tool-catalog-grid">${groups.flatMap((group,index)=>group.tools.map((article,toolIndex)=>{
+      const data=article.i18n[lang]??article.i18n.en;
+      return `<a class="tool-catalog-card" ${toolIndex===0?`id="tool-group-${index}"`:''} href="${localizedPath(lang,article.slug)}"><span class="tool-catalog-icon" aria-hidden="true"><svg viewBox="0 0 32 32" fill="none">${toolIcons[article.toolId]||icons.checklist}</svg></span><span class="tool-catalog-topic">${escapeHtml(group.heading)}</span><h2>${escapeHtml(data.title)}</h2><p>${escapeHtml(data.description)}</p><span class="tool-catalog-action">${escapeHtml(ui.openTool)} ${FORWARD_CHEVRON}</span></a>`;
+    })).join('')}</div>
+    ${renderAppCta(language)}
+  </main>`;
+}
+
 function renderArticleJsonLd(language, slug, article, data) {
   const lang = language.code;
   const evidence = evidenceForArticle(article.slug, lang);
@@ -1817,6 +1863,7 @@ function renderArticleJsonLd(language, slug, article, data) {
 }
 
 function renderToolJsonLd(language, slug, article, data) {
+  if (article.catalogHidden) return jsonLdScript([{'@type':'WebPage',name:data.title,url:`${site.origin}${localizedPath(language.code,slug)}`}]);
   const lang = language.code;
   const dates = articleDates(article, lang);
   const category = categoryById.get(article.category);
@@ -2580,6 +2627,7 @@ function renderSearchIndex() {
     }
 
     for (const article of articlesInSiteOrder()) {
+      if (article.catalogHidden) continue;
       const category = categoryById.get(article.category);
       const categoryTitle = pick(category.title, lang);
       const data = article.i18n[lang] ?? article.i18n.en;
@@ -2647,6 +2695,7 @@ function renderLocaleSitemap(language) {
   };
   const entries = [];
   for (const slug of allSlugs) {
+    if (articleBySlug.get(slug)?.catalogHidden) continue;
     // Every language variant of this slug shares the same set of hreflang
     // alternates, which Google expects listed on each URL.
     const alternates = languages
@@ -2697,6 +2746,7 @@ function renderLocaleFeed(language) {
   const feedUrl = `${site.origin}/rss-${lang}.xml`;
   const homeUrl = `${site.origin}${localizedPath(lang, '')}`;
   const dated = articles
+    .filter(article => !article.catalogHidden)
     .map((article) => ({ article, date: feedDate(article.updated) }))
     .filter((entry) => entry.date !== null)
     .sort((a, b) => b.date - a.date);

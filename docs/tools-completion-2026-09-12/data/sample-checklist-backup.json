@@ -1,0 +1,128 @@
+{
+  "version": 3,
+  "kind": "checklist",
+  "toolId": "hospital-bag-checklist",
+  "entries": [
+    {
+      "id": "base-0",
+      "state": "done",
+      "note": "Sample imported note — UI test"
+    },
+    {
+      "id": "base-1",
+      "state": "todo",
+      "note": ""
+    },
+    {
+      "id": "base-2",
+      "state": "done",
+      "note": ""
+    },
+    {
+      "id": "base-3",
+      "state": "todo",
+      "note": ""
+    },
+    {
+      "id": "base-4",
+      "state": "todo",
+      "note": ""
+    },
+    {
+      "id": "base-5",
+      "state": "todo",
+      "note": ""
+    },
+    {
+      "id": "birth-notes",
+      "state": "todo",
+      "note": ""
+    },
+    {
+      "id": "transport",
+      "state": "todo",
+      "note": ""
+    },
+    {
+      "id": "hospital-supplies",
+      "state": "todo",
+      "note": ""
+    },
+    {
+      "id": "medicines",
+      "state": "todo",
+      "note": ""
+    },
+    {
+      "id": "toiletries",
+      "state": "todo",
+      "note": ""
+    },
+    {
+      "id": "pads",
+      "state": "todo",
+      "note": ""
+    },
+    {
+      "id": "footwear",
+      "state": "todo",
+      "note": ""
+    },
+    {
+      "id": "nightwear",
+      "state": "todo",
+      "note": ""
+    },
+    {
+      "id": "glasses",
+      "state": "todo",
+      "note": ""
+    },
+    {
+      "id": "nappies",
+      "state": "todo",
+      "note": ""
+    },
+    {
+      "id": "spare-baby",
+      "state": "todo",
+      "note": ""
+    },
+    {
+      "id": "weather",
+      "state": "todo",
+      "note": ""
+    },
+    {
+      "id": "seat",
+      "state": "todo",
+      "note": ""
+    },
+    {
+      "id": "partner-clothes",
+      "state": "todo",
+      "note": ""
+    },
+    {
+      "id": "partner-phone",
+      "state": "todo",
+      "note": ""
+    },
+    {
+      "id": "partner-food",
+      "state": "todo",
+      "note": ""
+    },
+    {
+      "id": "washing",
+      "state": "todo",
+      "note": ""
+    },
+    {
+      "id": "feeding-check",
+      "state": "todo",
+      "note": ""
+    }
+  ],
+  "history": []
+}

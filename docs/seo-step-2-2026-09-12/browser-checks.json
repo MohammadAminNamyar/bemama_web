@@ -1,0 +1,39 @@
+{
+  "date": "2026-09-12",
+  "browser": "Chrome",
+  "origin": "http://127.0.0.1:4173",
+  "data": "Synthetic UI-test records only",
+  "calculators": {
+    "pregnancyWeekDueToday": "40 completed weeks, 0 days",
+    "blankDueDate": {"resultCleared": true, "inlineError": true, "focusReturnedToDate": true},
+    "dueDateExample": {"lastPeriod": "2026-06-01", "cycleDays": 35, "dueDate": "2027-03-15", "weeks": 13, "days": 5}
+  },
+  "growth": {
+    "saveAndReload": "passed",
+    "explicitMetricAndImperialUnits": "passed",
+    "edit": "12 lb changed to 12.2 lb",
+    "removeReloadUndo": "passed",
+    "backupDownload": {"verified": true, "version": 2, "entries": 2, "removed": 0},
+    "capturedConsoleErrors": []
+  },
+  "mobile": {
+    "override": {"width": 390, "height": 844},
+    "observedContentWidth": 375,
+    "calculatorAndSolidsLocales": ["en", "fa", "ar", "fr", "tr", "es"],
+    "horizontalOverflow": false,
+    "rtlVisualChecks": ["ar calculator", "fa growth log"],
+    "screenshots": "Displayed inline in the task; not persisted as standalone files"
+  },
+  "portuguese": {
+    "automatedTests": "passed",
+    "browserCheck": "incomplete",
+    "blockedPath": "/pt/tools/pregnancy-week-lookup/",
+    "browserError": "ERR_BLOCKED_BY_CLIENT",
+    "bypassed": false
+  },
+  "limitations": [
+    "Browser checks are sampled workflows, not exhaustive end-to-end coverage of every planner age and locale.",
+    "Storage failure, legacy migration and 151-record retention were verified by automated tests rather than modifying browser storage behind the UI.",
+    "No native-speaker or clinical review is claimed."
+  ]
+}

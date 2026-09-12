@@ -6,7 +6,79 @@
     <atom:link href="https://bemamas.com/rss-ar.xml" rel="self" type="application/rss+xml" />
     <description>BeMama رفيق هادئ للتخطيط والحمل ورعاية الطفل ونموه.</description>
     <language>ar</language>
-    <lastBuildDate>Sat, 05 Sep 2026 12:00:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 12:00:00 GMT</lastBuildDate>
+    <item>
+      <title>حاسبة الإباضة</title>
+      <link>https://bemamas.com/ar/tools/ovulation-calculator/</link>
+      <guid isPermaLink="true">https://bemamas.com/ar/tools/ovulation-calculator/</guid>
+      <description>شاهدي أيام الخصوبة التقديرية على تقويم مع موعد الإباضة والدورة التالية.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/tool-ovulation-planning.jpg" medium="image" />
+    </item>
+    <item>
+      <title>قائمة ما قبل الحمل</title>
+      <link>https://bemamas.com/ar/tools/preconception-checklist/</link>
+      <guid isPermaLink="true">https://bemamas.com/ar/tools/preconception-checklist/</guid>
+      <description>جهزي الأسئلة والمهام العملية قبل محاولة الحمل.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/ttc-preparing.jpg" medium="image" />
+    </item>
+    <item>
+      <title>حاسبة موعد الولادة وأسبوع الحمل</title>
+      <link>https://bemamas.com/ar/tools/due-date-calculator/</link>
+      <guid isPermaLink="true">https://bemamas.com/ar/tools/due-date-calculator/</guid>
+      <description>احسبي موعد الولادة التقديري واستكشفي جدول الحمل المؤرخ.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/preg-first-trimester.jpg" medium="image" />
+    </item>
+    <item>
+      <title>تقويم المواعيد والأعراض</title>
+      <link>https://bemamas.com/ar/tools/appointment-symptom-calendar/</link>
+      <guid isPermaLink="true">https://bemamas.com/ar/tools/appointment-symptom-calendar/</guid>
+      <description>احتفظي بملاحظات مؤرخة للمواعيد والأعراض وعدليها ونزّلي السجل.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/preg-prenatal-care.jpg" medium="image" />
+    </item>
+    <item>
+      <title>قائمة حقيبة المستشفى</title>
+      <link>https://bemamas.com/ar/tools/hospital-bag-checklist/</link>
+      <guid isPermaLink="true">https://bemamas.com/ar/tools/hospital-bag-checklist/</guid>
+      <description>تابعي المستلزمات التي جهزتها للإقامة في المستشفى.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/preg-hospital-bag.jpg" medium="image" />
+    </item>
+    <item>
+      <title>أفكار وقائمة أسماء الطفل</title>
+      <link>https://bemamas.com/ar/tools/baby-name-shortlist/</link>
+      <guid isPermaLink="true">https://bemamas.com/ar/tools/baby-name-shortlist/</guid>
+      <description>استكشفي بيانات أسماء أمريكية موثقة وقارني الأسماء وأنشئي قائمة قابلة للتعديل بأي لغة.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/ttc-writing-card.jpg" medium="image" />
+    </item>
+    <item>
+      <title>قائمة مستلزمات الطفل</title>
+      <link>https://bemamas.com/ar/tools/registry-checklist/</link>
+      <guid isPermaLink="true">https://bemamas.com/ar/tools/registry-checklist/</guid>
+      <description>نظمي مستلزمات الطفل وحددي ما جهزته بالفعل.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/newborn-nursery-cart.jpg" medium="image" />
+    </item>
+    <item>
+      <title>قائمة رعاية المولود</title>
+      <link>https://bemamas.com/ar/tools/newborn-care-checklist/</link>
+      <guid isPermaLink="true">https://bemamas.com/ar/tools/newborn-care-checklist/</guid>
+      <description>راجعي الاستعدادات العملية للأيام الأولى مع المولود.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/newborn-basics.jpg" medium="image" />
+    </item>
+    <item>
+      <title>سجل النمو</title>
+      <link>https://bemamas.com/ar/tools/growth-log/</link>
+      <guid isPermaLink="true">https://bemamas.com/ar/tools/growth-log/</guid>
+      <description>سجلي الوزن والطول واستكشفي الاتجاهات وقارني الوزن بمنحنيات WHO المرجعية.</description>
+      <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
+      <media:content url="https://bemamas.com/assets/content/newborn-development.jpg" medium="image" />
+    </item>
     <item>
       <title>الثلث الثاني من الحمل: ماذا تتوقعين (الأسابيع 13–27)</title>
       <link>https://bemamas.com/ar/pregnancy/second-trimester/</link>
@@ -998,110 +1070,6 @@
       <description>دليل من BeMama حول بناء روتين قراءة عائلي يستمر، مع خطوات عملية وأسئلة مفيدة للرعاية المتخصصة وعلامات تستدعي المتابعة.</description>
       <pubDate>Thu, 30 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/generated-child-reading-routine.png" medium="image" />
-    </item>
-    <item>
-      <title>حاسبة الإباضة</title>
-      <link>https://bemamas.com/ar/tools/ovulation-calculator/</link>
-      <guid isPermaLink="true">https://bemamas.com/ar/tools/ovulation-calculator/</guid>
-      <description>حاسبة الإباضة: أداة BeMama داخل المتصفح للتخطيط أو التتبع أو تنظيم الرعاية. تبقى البيانات المحفوظة على هذا الجهاز.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/tool-ovulation-planning.jpg" medium="image" />
-    </item>
-    <item>
-      <title>قائمة ما قبل الحمل</title>
-      <link>https://bemamas.com/ar/tools/preconception-checklist/</link>
-      <guid isPermaLink="true">https://bemamas.com/ar/tools/preconception-checklist/</guid>
-      <description>قائمة ما قبل الحمل: أداة BeMama داخل المتصفح للتخطيط أو التتبع أو تنظيم الرعاية. تبقى البيانات المحفوظة على هذا الجهاز.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/ttc-preparing.jpg" medium="image" />
-    </item>
-    <item>
-      <title>حاسبة موعد الولادة</title>
-      <link>https://bemamas.com/ar/tools/due-date-calculator/</link>
-      <guid isPermaLink="true">https://bemamas.com/ar/tools/due-date-calculator/</guid>
-      <description>حاسبة موعد الولادة: أداة BeMama داخل المتصفح للتخطيط أو التتبع أو تنظيم الرعاية. تبقى البيانات المحفوظة على هذا الجهاز.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/preg-first-trimester.jpg" medium="image" />
-    </item>
-    <item>
-      <title>معرفة أسبوع الحمل</title>
-      <link>https://bemamas.com/ar/tools/pregnancy-week-lookup/</link>
-      <guid isPermaLink="true">https://bemamas.com/ar/tools/pregnancy-week-lookup/</guid>
-      <description>معرفة أسبوع الحمل: أداة BeMama داخل المتصفح للتخطيط أو التتبع أو تنظيم الرعاية. تبقى البيانات المحفوظة على هذا الجهاز.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/generated-pregnancy-appointment-folder.png" medium="image" />
-    </item>
-    <item>
-      <title>تقويم المواعيد والأعراض</title>
-      <link>https://bemamas.com/ar/tools/appointment-symptom-calendar/</link>
-      <guid isPermaLink="true">https://bemamas.com/ar/tools/appointment-symptom-calendar/</guid>
-      <description>تقويم المواعيد والأعراض: أداة BeMama داخل المتصفح للتخطيط أو التتبع أو تنظيم الرعاية. تبقى البيانات المحفوظة على هذا الجهاز.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/preg-prenatal-care.jpg" medium="image" />
-    </item>
-    <item>
-      <title>قائمة حقيبة المستشفى</title>
-      <link>https://bemamas.com/ar/tools/hospital-bag-checklist/</link>
-      <guid isPermaLink="true">https://bemamas.com/ar/tools/hospital-bag-checklist/</guid>
-      <description>قائمة حقيبة المستشفى: أداة BeMama داخل المتصفح للتخطيط أو التتبع أو تنظيم الرعاية. تبقى البيانات المحفوظة على هذا الجهاز.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/preg-hospital-bag.jpg" medium="image" />
-    </item>
-    <item>
-      <title>أفكار وقائمة أسماء الطفل</title>
-      <link>https://bemamas.com/ar/tools/baby-name-shortlist/</link>
-      <guid isPermaLink="true">https://bemamas.com/ar/tools/baby-name-shortlist/</guid>
-      <description>أفكار وقائمة أسماء الطفل: أداة BeMama داخل المتصفح للتخطيط أو التتبع أو تنظيم الرعاية. تبقى البيانات المحفوظة على هذا الجهاز.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/ttc-writing-card.jpg" medium="image" />
-    </item>
-    <item>
-      <title>قائمة مستلزمات الطفل</title>
-      <link>https://bemamas.com/ar/tools/registry-checklist/</link>
-      <guid isPermaLink="true">https://bemamas.com/ar/tools/registry-checklist/</guid>
-      <description>قائمة مستلزمات الطفل: أداة BeMama داخل المتصفح للتخطيط أو التتبع أو تنظيم الرعاية. تبقى البيانات المحفوظة على هذا الجهاز.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/newborn-nursery-cart.jpg" medium="image" />
-    </item>
-    <item>
-      <title>قائمة رعاية المولود</title>
-      <link>https://bemamas.com/ar/tools/newborn-care-checklist/</link>
-      <guid isPermaLink="true">https://bemamas.com/ar/tools/newborn-care-checklist/</guid>
-      <description>قائمة رعاية المولود: أداة BeMama داخل المتصفح للتخطيط أو التتبع أو تنظيم الرعاية. تبقى البيانات المحفوظة على هذا الجهاز.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/newborn-basics.jpg" medium="image" />
-    </item>
-    <item>
-      <title>متتبع مراحل النمو</title>
-      <link>https://bemamas.com/ar/tools/milestone-tracker/</link>
-      <guid isPermaLink="true">https://bemamas.com/ar/tools/milestone-tracker/</guid>
-      <description>متتبع مراحل النمو: أداة BeMama داخل المتصفح للتخطيط أو التتبع أو تنظيم الرعاية. تبقى البيانات المحفوظة على هذا الجهاز.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/child-milestones.jpg" medium="image" />
-    </item>
-    <item>
-      <title>سجل النمو</title>
-      <link>https://bemamas.com/ar/tools/growth-log/</link>
-      <guid isPermaLink="true">https://bemamas.com/ar/tools/growth-log/</guid>
-      <description>سجل النمو: أداة BeMama داخل المتصفح للتخطيط أو التتبع أو تنظيم الرعاية. تبقى البيانات المحفوظة على هذا الجهاز.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/newborn-development.jpg" medium="image" />
-    </item>
-    <item>
-      <title>مخطط الأطعمة الصلبة</title>
-      <link>https://bemamas.com/ar/tools/solids-planner/</link>
-      <guid isPermaLink="true">https://bemamas.com/ar/tools/solids-planner/</guid>
-      <description>مخطط الأطعمة الصلبة: أداة BeMama داخل المتصفح للتخطيط أو التتبع أو تنظيم الرعاية. تبقى البيانات المحفوظة على هذا الجهاز.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/tool-solids-planner.jpg" medium="image" />
-    </item>
-    <item>
-      <title>منتقي أنشطة الطفل الدارج</title>
-      <link>https://bemamas.com/ar/tools/toddler-activity-picker/</link>
-      <guid isPermaLink="true">https://bemamas.com/ar/tools/toddler-activity-picker/</guid>
-      <description>منتقي أنشطة الطفل الدارج: أداة BeMama داخل المتصفح للتخطيط أو التتبع أو تنظيم الرعاية. تبقى البيانات المحفوظة على هذا الجهاز.</description>
-      <pubDate>Thu, 16 Jul 2026 12:00:00 GMT</pubDate>
-      <media:content url="https://bemamas.com/assets/content/child-blocks-book.jpg" medium="image" />
     </item>
     <item>
       <title>صحة ما قبل الحمل: كيف تجهزين جسمك للحمل</title>

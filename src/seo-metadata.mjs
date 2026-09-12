@@ -30,6 +30,13 @@ const labels = {
 };
 
 export const metadataOverrides = {
+  'en/tools': { title: 'Pregnancy and Parenting Tools | BeMama' },
+  'fa/tools': { title: 'ابزارهای بارداری و مراقبت از کودک | BeMama' },
+  'ar/tools': { title: 'أدوات الحمل ورعاية الطفل | BeMama' },
+  'fr/tools': { title: 'Outils de grossesse et de parentalité | BeMama' },
+  'tr/tools': { title: 'Gebelik ve Ebeveynlik Araçları | BeMama' },
+  'es/tools': { title: 'Herramientas de embarazo y crianza | BeMama' },
+  'pt/tools': { title: 'Ferramentas de gravidez e parentalidade | BeMama' },
   'en/about': { description: 'Meet BeMama, a companion for pregnancy and parenting. Explore its daily guidance, practical tools, community and limits of AI-assisted support.' },
   'en/ai-disclaimer': { description: 'Understand how BeMama uses AI-assisted content, its limitations and safety boundaries, and why it cannot replace advice from a qualified clinician.' },
   'en/contact': { description: 'Contact BeMama support for help with your account, privacy questions, data access, export or deletion requests, and concerns about content safety.' },

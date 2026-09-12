@@ -1,0 +1,76 @@
+{
+  "pages": 1393,
+  "longTitles": 0,
+  "shortTitles": 0,
+  "longDescriptions": 0,
+  "shortDescriptions": 0,
+  "perLanguage": [
+    {
+      "language": "en",
+      "label": "English",
+      "pages": 199,
+      "editorialDescriptions": 121,
+      "preservedDescriptions": 78,
+      "lengthIssues": 0,
+      "localizationIssues": 0
+    },
+    {
+      "language": "fa",
+      "label": "فارسی",
+      "pages": 199,
+      "editorialDescriptions": 145,
+      "preservedDescriptions": 54,
+      "lengthIssues": 0,
+      "localizationIssues": 0
+    },
+    {
+      "language": "ar",
+      "label": "العربية",
+      "pages": 199,
+      "editorialDescriptions": 103,
+      "preservedDescriptions": 96,
+      "lengthIssues": 0,
+      "localizationIssues": 0
+    },
+    {
+      "language": "fr",
+      "label": "Français",
+      "pages": 199,
+      "editorialDescriptions": 191,
+      "preservedDescriptions": 8,
+      "lengthIssues": 0,
+      "localizationIssues": 0
+    },
+    {
+      "language": "tr",
+      "label": "Türkçe",
+      "pages": 199,
+      "editorialDescriptions": 184,
+      "preservedDescriptions": 15,
+      "lengthIssues": 0,
+      "localizationIssues": 0
+    },
+    {
+      "language": "es",
+      "label": "Español",
+      "pages": 199,
+      "editorialDescriptions": 186,
+      "preservedDescriptions": 13,
+      "lengthIssues": 0,
+      "localizationIssues": 0
+    },
+    {
+      "language": "pt",
+      "label": "Português",
+      "pages": 199,
+      "editorialDescriptions": 185,
+      "preservedDescriptions": 14,
+      "lengthIssues": 0,
+      "localizationIssues": 0
+    }
+  ],
+  "oversizedImages": [],
+  "duplicateTitles": [],
+  "duplicateDescriptions": [],
+  "localizationIssues": []
+}
