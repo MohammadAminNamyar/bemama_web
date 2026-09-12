@@ -1,0 +1,695 @@
+{
+  "date": "2026-09-12",
+  "scope": "25 existing product-explanation candidates, not 25 newly discovered gaps",
+  "evidence": "feature-evidence.md",
+  "method": "Editorial intent mapping; exact phrase presence is diagnostic only. Competitor-seeded Planner ideas do not establish literal competitor usage or organic rankings.",
+  "rows": [
+    {
+      "id": "K001",
+      "term": "pregnancy tracker app",
+      "destination": "https://bemamas.com/about-bemama/daily-journey/",
+      "originalClassification": "product_explanation",
+      "status": "source_backed_workflow_copy",
+      "claimEvidenceIds": [
+        "C01",
+        "C02",
+        "C08",
+        "C14"
+      ],
+      "liveAccountWorkflowVerified": false,
+      "exactPhraseInRevisedEnglishData": true,
+      "interpretation": "Intent served by a shared explanation; synonyms do not each need a page or an exact-match insertion.",
+      "retainedDemandEvidence": [
+        {
+          "source": "BC",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+          "rawBucket": "50000",
+          "monthlyRange": "10K–100K"
+        },
+        {
+          "source": "N",
+          "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+          "rawBucket": "50000",
+          "monthlyRange": "10K–100K"
+        }
+      ],
+      "monthlyRange": "10K–100K"
+    },
+    {
+      "id": "K002",
+      "term": "pregnancy app",
+      "destination": "https://bemamas.com/about-bemama/daily-journey/",
+      "originalClassification": "product_explanation",
+      "status": "source_backed_workflow_copy",
+      "claimEvidenceIds": [
+        "C01",
+        "C02",
+        "C08",
+        "C14"
+      ],
+      "liveAccountWorkflowVerified": false,
+      "exactPhraseInRevisedEnglishData": true,
+      "interpretation": "Intent served by a shared explanation; synonyms do not each need a page or an exact-match insertion.",
+      "retainedDemandEvidence": [
+        {
+          "source": "B",
+          "sourceUrl": "https://bemamas.com/",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\bemama-site-keywords-2026-09-12.csv",
+          "rawBucket": "50000",
+          "monthlyRange": "10K–100K"
+        },
+        {
+          "source": "BC",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+          "rawBucket": "50000",
+          "monthlyRange": "10K–100K"
+        },
+        {
+          "source": "N",
+          "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+          "rawBucket": "50000",
+          "monthlyRange": "10K–100K"
+        }
+      ],
+      "monthlyRange": "10K–100K"
+    },
+    {
+      "id": "K003",
+      "term": "pregnancy week by week app",
+      "destination": "https://bemamas.com/about-bemama/daily-journey/",
+      "originalClassification": "product_explanation",
+      "status": "source_backed_workflow_copy",
+      "claimEvidenceIds": [
+        "C01",
+        "C02",
+        "C08",
+        "C14"
+      ],
+      "liveAccountWorkflowVerified": false,
+      "exactPhraseInRevisedEnglishData": false,
+      "interpretation": "Intent served by a shared explanation; synonyms do not each need a page or an exact-match insertion.",
+      "retainedDemandEvidence": [
+        {
+          "source": "BC",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+          "rawBucket": "5000",
+          "monthlyRange": "1K–10K"
+        }
+      ],
+      "monthlyRange": "1K–10K"
+    },
+    {
+      "id": "K004",
+      "term": "pregnancy tracker week by week",
+      "destination": "https://bemamas.com/about-bemama/daily-journey/",
+      "originalClassification": "product_explanation",
+      "status": "source_backed_workflow_copy",
+      "claimEvidenceIds": [
+        "C01",
+        "C02",
+        "C08",
+        "C14"
+      ],
+      "liveAccountWorkflowVerified": false,
+      "exactPhraseInRevisedEnglishData": false,
+      "interpretation": "Intent served by a shared explanation; synonyms do not each need a page or an exact-match insertion.",
+      "retainedDemandEvidence": [
+        {
+          "source": "BC",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+          "rawBucket": "5000",
+          "monthlyRange": "1K–10K"
+        }
+      ],
+      "monthlyRange": "1K–10K"
+    },
+    {
+      "id": "K005",
+      "term": "pregnancy calendar app",
+      "destination": "https://bemamas.com/about-bemama/daily-journey/",
+      "originalClassification": "product_explanation",
+      "status": "partial_intent_dates_only",
+      "claimEvidenceIds": [
+        "C01",
+        "C02",
+        "C12",
+        "C13"
+      ],
+      "liveAccountWorkflowVerified": false,
+      "exactPhraseInRevisedEnglishData": false,
+      "interpretation": "Explains pregnancy date estimates and the separate public appointment calendar; does not claim an in-app appointment calendar.",
+      "retainedDemandEvidence": [
+        {
+          "source": "BC",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+          "rawBucket": "500",
+          "monthlyRange": "100–1K"
+        }
+      ],
+      "monthlyRange": "100–1K"
+    },
+    {
+      "id": "K007",
+      "term": "pregnancy app download",
+      "destination": "https://bemamas.com/about-bemama/daily-journey/",
+      "originalClassification": "product_explanation",
+      "status": "source_backed_workflow_copy",
+      "claimEvidenceIds": [
+        "C01",
+        "C02",
+        "C08",
+        "C14"
+      ],
+      "liveAccountWorkflowVerified": false,
+      "exactPhraseInRevisedEnglishData": false,
+      "interpretation": "Intent served by a shared explanation; synonyms do not each need a page or an exact-match insertion.",
+      "retainedDemandEvidence": [
+        {
+          "source": "BC",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+          "rawBucket": "5000",
+          "monthlyRange": "1K–10K"
+        }
+      ],
+      "monthlyRange": "1K–10K"
+    },
+    {
+      "id": "K008",
+      "term": "free pregnancy tracker app",
+      "destination": "https://bemamas.com/about-bemama/daily-journey/",
+      "originalClassification": "product_explanation",
+      "status": "qualified_free_access",
+      "claimEvidenceIds": [
+        "C08",
+        "C09",
+        "C12"
+      ],
+      "liveAccountWorkflowVerified": false,
+      "exactPhraseInRevisedEnglishData": true,
+      "interpretation": "FAQ limits free access to Daily Journey and the public calculator; no all-features-free promise.",
+      "retainedDemandEvidence": [
+        {
+          "source": "BC",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+          "rawBucket": "5000",
+          "monthlyRange": "1K–10K"
+        }
+      ],
+      "monthlyRange": "1K–10K"
+    },
+    {
+      "id": "K009",
+      "term": "pregnancy tracker",
+      "destination": "https://bemamas.com/about-bemama/daily-journey/",
+      "originalClassification": "product_explanation",
+      "status": "source_backed_workflow_copy",
+      "claimEvidenceIds": [
+        "C01",
+        "C02",
+        "C08",
+        "C14"
+      ],
+      "liveAccountWorkflowVerified": false,
+      "exactPhraseInRevisedEnglishData": true,
+      "interpretation": "Intent served by a shared explanation; synonyms do not each need a page or an exact-match insertion.",
+      "retainedDemandEvidence": [
+        {
+          "source": "BC",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+          "rawBucket": "50000",
+          "monthlyRange": "10K–100K"
+        }
+      ],
+      "monthlyRange": "10K–100K"
+    },
+    {
+      "id": "K010",
+      "term": "track my pregnancy",
+      "destination": "https://bemamas.com/about-bemama/daily-journey/",
+      "originalClassification": "product_explanation",
+      "status": "source_backed_workflow_copy",
+      "claimEvidenceIds": [
+        "C01",
+        "C02",
+        "C08",
+        "C14"
+      ],
+      "liveAccountWorkflowVerified": false,
+      "exactPhraseInRevisedEnglishData": true,
+      "interpretation": "Intent served by a shared explanation; synonyms do not each need a page or an exact-match insertion.",
+      "retainedDemandEvidence": [
+        {
+          "source": "BC",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+          "rawBucket": "5000",
+          "monthlyRange": "1K–10K"
+        }
+      ],
+      "monthlyRange": "1K–10K"
+    },
+    {
+      "id": "K011",
+      "term": "baby tracker",
+      "destination": "https://bemamas.com/about-bemama/tools/",
+      "originalClassification": "product_explanation",
+      "status": "source_backed_workflow_copy",
+      "claimEvidenceIds": [
+        "C01",
+        "C03",
+        "C04",
+        "C05",
+        "C06",
+        "C07"
+      ],
+      "liveAccountWorkflowVerified": false,
+      "exactPhraseInRevisedEnglishData": true,
+      "interpretation": "Intent served by a shared explanation; synonyms do not each need a page or an exact-match insertion.",
+      "retainedDemandEvidence": [
+        {
+          "source": "BC",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+          "rawBucket": "50000",
+          "monthlyRange": "10K–100K"
+        },
+        {
+          "source": "H",
+          "sourceUrl": "https://huckleberrycare.com/product/tracking",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\huckleberry-page-keywords-2026-09-12.csv",
+          "rawBucket": "50000",
+          "monthlyRange": "10K–100K"
+        },
+        {
+          "source": "N",
+          "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+          "rawBucket": "50000",
+          "monthlyRange": "10K–100K"
+        }
+      ],
+      "monthlyRange": "10K–100K"
+    },
+    {
+      "id": "K012",
+      "term": "infant tracking app",
+      "destination": "https://bemamas.com/about-bemama/tools/",
+      "originalClassification": "product_explanation",
+      "status": "source_backed_workflow_copy",
+      "claimEvidenceIds": [
+        "C01",
+        "C03",
+        "C04",
+        "C05",
+        "C06",
+        "C07"
+      ],
+      "liveAccountWorkflowVerified": false,
+      "exactPhraseInRevisedEnglishData": false,
+      "interpretation": "Intent served by a shared explanation; synonyms do not each need a page or an exact-match insertion.",
+      "retainedDemandEvidence": [
+        {
+          "source": "BC",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+          "rawBucket": "5000",
+          "monthlyRange": "1K–10K"
+        },
+        {
+          "source": "N",
+          "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+          "rawBucket": "5000",
+          "monthlyRange": "1K–10K"
+        }
+      ],
+      "monthlyRange": "1K–10K"
+    },
+    {
+      "id": "K013",
+      "term": "newborn tracking app",
+      "destination": "https://bemamas.com/about-bemama/tools/",
+      "originalClassification": "product_explanation",
+      "status": "source_backed_workflow_copy",
+      "claimEvidenceIds": [
+        "C01",
+        "C03",
+        "C04",
+        "C05",
+        "C06",
+        "C07"
+      ],
+      "liveAccountWorkflowVerified": false,
+      "exactPhraseInRevisedEnglishData": false,
+      "interpretation": "Intent served by a shared explanation; synonyms do not each need a page or an exact-match insertion.",
+      "retainedDemandEvidence": [
+        {
+          "source": "BC",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+          "rawBucket": "500",
+          "monthlyRange": "100–1K"
+        }
+      ],
+      "monthlyRange": "100–1K"
+    },
+    {
+      "id": "K015",
+      "term": "infant log",
+      "destination": "https://bemamas.com/about-bemama/tools/",
+      "originalClassification": "product_explanation",
+      "status": "source_backed_workflow_copy",
+      "claimEvidenceIds": [
+        "C01",
+        "C03",
+        "C04",
+        "C05",
+        "C06",
+        "C07"
+      ],
+      "liveAccountWorkflowVerified": false,
+      "exactPhraseInRevisedEnglishData": false,
+      "interpretation": "Intent served by a shared explanation; synonyms do not each need a page or an exact-match insertion.",
+      "retainedDemandEvidence": [
+        {
+          "source": "H",
+          "sourceUrl": "https://huckleberrycare.com/product/tracking",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\huckleberry-page-keywords-2026-09-12.csv",
+          "rawBucket": "5000",
+          "monthlyRange": "1K–10K"
+        }
+      ],
+      "monthlyRange": "1K–10K"
+    },
+    {
+      "id": "K017",
+      "term": "baby tracker app",
+      "destination": "https://bemamas.com/about-bemama/tools/",
+      "originalClassification": "product_explanation",
+      "status": "source_backed_workflow_copy",
+      "claimEvidenceIds": [
+        "C01",
+        "C03",
+        "C04",
+        "C05",
+        "C06",
+        "C07"
+      ],
+      "liveAccountWorkflowVerified": false,
+      "exactPhraseInRevisedEnglishData": false,
+      "interpretation": "Intent served by a shared explanation; synonyms do not each need a page or an exact-match insertion.",
+      "retainedDemandEvidence": [],
+      "monthlyRange": null
+    },
+    {
+      "id": "K018",
+      "term": "baby sleep tracker",
+      "destination": "https://bemamas.com/about-bemama/tools/",
+      "originalClassification": "product_explanation",
+      "status": "source_backed_workflow_copy",
+      "claimEvidenceIds": [
+        "C05",
+        "C06"
+      ],
+      "liveAccountWorkflowVerified": false,
+      "exactPhraseInRevisedEnglishData": true,
+      "interpretation": "Intent served by a shared explanation; synonyms do not each need a page or an exact-match insertion.",
+      "retainedDemandEvidence": [],
+      "monthlyRange": null
+    },
+    {
+      "id": "K019",
+      "term": "feeding tracker",
+      "destination": "https://bemamas.com/about-bemama/tools/",
+      "originalClassification": "product_explanation",
+      "status": "source_backed_workflow_copy",
+      "claimEvidenceIds": [
+        "C03",
+        "C04",
+        "C06"
+      ],
+      "liveAccountWorkflowVerified": false,
+      "exactPhraseInRevisedEnglishData": true,
+      "interpretation": "Intent served by a shared explanation; synonyms do not each need a page or an exact-match insertion.",
+      "retainedDemandEvidence": [
+        {
+          "source": "BC",
+          "sourceUrl": "https://play.google.com/store/apps/details?id=com.babycenter.pregnancytracker",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\babycenter-app-keywords-2026-09-12.csv",
+          "rawBucket": "50",
+          "monthlyRange": "10–100"
+        },
+        {
+          "source": "H",
+          "sourceUrl": "https://huckleberrycare.com/product/tracking",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\huckleberry-page-keywords-2026-09-12.csv",
+          "rawBucket": "50",
+          "monthlyRange": "10–100"
+        },
+        {
+          "source": "N",
+          "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+          "rawBucket": "50",
+          "monthlyRange": "10–100"
+        }
+      ],
+      "monthlyRange": "10–100"
+    },
+    {
+      "id": "K020",
+      "term": "nursing tracker app",
+      "destination": "https://bemamas.com/about-bemama/tools/",
+      "originalClassification": "product_explanation",
+      "status": "source_backed_workflow_copy",
+      "claimEvidenceIds": [
+        "C03",
+        "C04",
+        "C06"
+      ],
+      "liveAccountWorkflowVerified": false,
+      "exactPhraseInRevisedEnglishData": false,
+      "interpretation": "Intent served by a shared explanation; synonyms do not each need a page or an exact-match insertion.",
+      "retainedDemandEvidence": [
+        {
+          "source": "H",
+          "sourceUrl": "https://huckleberrycare.com/product/tracking",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\huckleberry-page-keywords-2026-09-12.csv",
+          "rawBucket": "500",
+          "monthlyRange": "100–1K"
+        }
+      ],
+      "monthlyRange": "100–1K"
+    },
+    {
+      "id": "K021",
+      "term": "infant feeding tracker",
+      "destination": "https://bemamas.com/about-bemama/tools/",
+      "originalClassification": "product_explanation",
+      "status": "source_backed_workflow_copy",
+      "claimEvidenceIds": [
+        "C03",
+        "C04",
+        "C06"
+      ],
+      "liveAccountWorkflowVerified": false,
+      "exactPhraseInRevisedEnglishData": false,
+      "interpretation": "Intent served by a shared explanation; synonyms do not each need a page or an exact-match insertion.",
+      "retainedDemandEvidence": [
+        {
+          "source": "N",
+          "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+          "rawBucket": "500",
+          "monthlyRange": "100–1K"
+        }
+      ],
+      "monthlyRange": "100–1K"
+    },
+    {
+      "id": "K022",
+      "term": "feeding and diaper tracker",
+      "destination": "https://bemamas.com/about-bemama/tools/",
+      "originalClassification": "product_explanation",
+      "status": "source_backed_workflow_copy",
+      "claimEvidenceIds": [
+        "C03",
+        "C04",
+        "C05",
+        "C06"
+      ],
+      "liveAccountWorkflowVerified": false,
+      "exactPhraseInRevisedEnglishData": true,
+      "interpretation": "Intent served by a shared explanation; synonyms do not each need a page or an exact-match insertion.",
+      "retainedDemandEvidence": [
+        {
+          "source": "N",
+          "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+          "rawBucket": "50",
+          "monthlyRange": "10–100"
+        }
+      ],
+      "monthlyRange": "10–100"
+    },
+    {
+      "id": "K023",
+      "term": "diaper change tracker",
+      "destination": "https://bemamas.com/about-bemama/tools/",
+      "originalClassification": "product_explanation",
+      "status": "source_backed_workflow_copy",
+      "claimEvidenceIds": [
+        "C03",
+        "C04",
+        "C05",
+        "C06"
+      ],
+      "liveAccountWorkflowVerified": false,
+      "exactPhraseInRevisedEnglishData": true,
+      "interpretation": "Intent served by a shared explanation; synonyms do not each need a page or an exact-match insertion.",
+      "retainedDemandEvidence": [
+        {
+          "source": "N",
+          "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+          "rawBucket": "50",
+          "monthlyRange": "10–100"
+        }
+      ],
+      "monthlyRange": "10–100"
+    },
+    {
+      "id": "K024",
+      "term": "app to track feedings",
+      "destination": "https://bemamas.com/about-bemama/tools/",
+      "originalClassification": "product_explanation",
+      "status": "source_backed_workflow_copy",
+      "claimEvidenceIds": [
+        "C03",
+        "C04",
+        "C06"
+      ],
+      "liveAccountWorkflowVerified": false,
+      "exactPhraseInRevisedEnglishData": true,
+      "interpretation": "Intent served by a shared explanation; synonyms do not each need a page or an exact-match insertion.",
+      "retainedDemandEvidence": [
+        {
+          "source": "H",
+          "sourceUrl": "https://huckleberrycare.com/product/tracking",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\huckleberry-page-keywords-2026-09-12.csv",
+          "rawBucket": "50",
+          "monthlyRange": "10–100"
+        },
+        {
+          "source": "N",
+          "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+          "rawBucket": "50",
+          "monthlyRange": "10–100"
+        }
+      ],
+      "monthlyRange": "10–100"
+    },
+    {
+      "id": "K025",
+      "term": "app to track diapers and feedings",
+      "destination": "https://bemamas.com/about-bemama/tools/",
+      "originalClassification": "product_explanation",
+      "status": "source_backed_workflow_copy",
+      "claimEvidenceIds": [
+        "C03",
+        "C04",
+        "C05",
+        "C06"
+      ],
+      "liveAccountWorkflowVerified": false,
+      "exactPhraseInRevisedEnglishData": false,
+      "interpretation": "Intent served by a shared explanation; synonyms do not each need a page or an exact-match insertion.",
+      "retainedDemandEvidence": [
+        {
+          "source": "H",
+          "sourceUrl": "https://huckleberrycare.com/product/tracking",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\huckleberry-page-keywords-2026-09-12.csv",
+          "rawBucket": "50",
+          "monthlyRange": "10–100"
+        },
+        {
+          "source": "N",
+          "sourceUrl": "https://nara.com/pages/nara-baby-tracker-app",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\nara-page-keywords-2026-09-12.csv",
+          "rawBucket": "50",
+          "monthlyRange": "10–100"
+        }
+      ],
+      "monthlyRange": "10–100"
+    },
+    {
+      "id": "K026",
+      "term": "track newborn feeding",
+      "destination": "https://bemamas.com/about-bemama/tools/",
+      "originalClassification": "product_explanation",
+      "status": "source_backed_workflow_copy",
+      "claimEvidenceIds": [
+        "C03",
+        "C04",
+        "C06"
+      ],
+      "liveAccountWorkflowVerified": false,
+      "exactPhraseInRevisedEnglishData": true,
+      "interpretation": "Intent served by a shared explanation; synonyms do not each need a page or an exact-match insertion.",
+      "retainedDemandEvidence": [
+        {
+          "source": "H",
+          "sourceUrl": "https://huckleberrycare.com/product/tracking",
+          "exportFile": "C:\\Users\\amin.namyar\\Documents\\Codex\\2026-09-12\\ca\\outputs\\huckleberry-page-keywords-2026-09-12.csv",
+          "rawBucket": "50",
+          "monthlyRange": "10–100"
+        }
+      ],
+      "monthlyRange": "10–100"
+    },
+    {
+      "id": "K027",
+      "term": "breastfeeding tracker app",
+      "destination": "https://bemamas.com/about-bemama/tools/",
+      "originalClassification": "product_explanation",
+      "status": "source_backed_workflow_copy",
+      "claimEvidenceIds": [
+        "C03",
+        "C04",
+        "C06"
+      ],
+      "liveAccountWorkflowVerified": false,
+      "exactPhraseInRevisedEnglishData": false,
+      "interpretation": "Intent served by a shared explanation; synonyms do not each need a page or an exact-match insertion.",
+      "retainedDemandEvidence": [],
+      "monthlyRange": null
+    },
+    {
+      "id": "K028",
+      "term": "bottle feeding tracker",
+      "destination": "https://bemamas.com/about-bemama/tools/",
+      "originalClassification": "product_explanation",
+      "status": "source_backed_workflow_copy",
+      "claimEvidenceIds": [
+        "C04",
+        "C06"
+      ],
+      "liveAccountWorkflowVerified": false,
+      "exactPhraseInRevisedEnglishData": true,
+      "interpretation": "Intent served by a shared explanation; synonyms do not each need a page or an exact-match insertion.",
+      "retainedDemandEvidence": [],
+      "monthlyRange": null
+    }
+  ]
+}

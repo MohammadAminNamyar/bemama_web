@@ -106,12 +106,12 @@ export const englishDescriptions = {
   'newborn/paced-bottle-feeding': 'Learn paced bottle feeding, newborn feeding cues, comfortable positioning and when to ask for help with bottle feeds.',
   'pregnancy/when-can-you-feel-baby-move': 'Learn when baby movements may first be felt, what quickening feels like and how factors such as placenta position affect the experience.',
   'baby-and-child/when-do-babies-walk': 'Explore the range of ages for first steps, skills that lead up to walking and ways to support your baby’s movement safely.',
-  'about-bemama/why-bemama': 'Learn why BeMama brings daily guidance, community and practical tools together across pregnancy planning, pregnancy, baby care and child growth.',
-  'about-bemama/daily-journey': 'Explore BeMama’s Daily Journey: set your stage, find organized daily guidance and follow small actions as your motherhood journey progresses.',
+  'about-bemama/why-bemama': "Meet BeMama: pregnancy guidance, a baby tracker for feeding and sleep, and free website tools for planning and everyday care.",
+  'about-bemama/daily-journey': "Use BeMama’s pregnancy tracker app to follow your week, set up Daily Journey and understand pregnancy date estimates and feature access.",
   'about-bemama/qa-and-community': 'Learn how to ask questions, browse related discussions and connect with other parents through BeMama’s Q&A and community spaces.',
-  'about-bemama/tools': 'Explore BeMama calculators, trackers and care tools by stage, from planning a pregnancy to everyday parenting.',
-  'about-bemama/premium': 'Compare BeMama’s free experience and Premium features, including daily guidance, tools and where to review subscription terms.',
+  'about-bemama/tools': "Learn how BeMama’s baby tracker records nursing, bottle feeds, sleep and diapers, with report views and separate free website care tools.",
+  'about-bemama/premium': "Understand BeMama’s free Daily Journey, public website tools and optional Premium features, with links to current access and subscription details.",
   'about-bemama/ai-support': 'Learn how BeMama’s AI-assisted support works and its limits: it does not provide diagnosis, prescriptions or emergency care.',
   'about-bemama/privacy-and-safety': 'Learn how BeMama uses sensitive data, how to request deletion or export and where to read the full privacy policy.',
-  'about-bemama/getting-started': 'Start with BeMama: open the web app, create your space, set your stage and explore the Daily Journey, questions, community and tools.'
+  'about-bemama/getting-started': "Start BeMama with the right journey and baby profile, learn the first tracking steps, or try free website tools without creating an account."
 };

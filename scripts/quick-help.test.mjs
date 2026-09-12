@@ -5,7 +5,17 @@ import { quickHelpCopy, quickHelpUrl } from '../src/quick-help.mjs';
 import { withHelpCampaign } from '../public/assets/quick-help-entry.js';
 import { languages } from '../src/pages.mjs';
 
-for (const { code } of languages) {
+test('English homepage opens a public tool without sending readers to app sign-in', async () => {
+  const html = await readFile(new URL('../dist/index.html', import.meta.url), 'utf8');
+  const heroAction = html.match(/<div class="hero-actions">([\s\S]*?)<\/div>/)?.[1] ?? '';
+  assert.match(heroAction, /href="\/tools\/"/);
+  assert.match(heroAction, /public_tools_clicked/);
+  assert.doesNotMatch(heroAction, /data-quick-help|app\.bemamas\.com/);
+  const target = await readFile(new URL('../dist/tools/index.html', import.meta.url), 'utf8');
+  assert.match(target, /tools\/due-date-calculator/);
+});
+
+for (const { code } of languages.filter(({ code }) => code !== 'en')) {
   test(`${code}: generated homepage links directly to localized guest help`, async () => {
     const html = await readFile(new URL(`../dist/${code === 'en' ? '' : code + '/'}index.html`, import.meta.url), 'utf8');
     assert.ok(html.includes(quickHelpCopy[code].action));

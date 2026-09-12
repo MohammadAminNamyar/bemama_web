@@ -465,8 +465,8 @@ const reviewerLabels = {
 
 /// The byline with the author's name as a real, followable link. Everything
 /// around the name is escaped; only the anchor is markup.
-function bylineHtml(lang) {
-  const template = bylineLabels[lang] ?? bylineLabels.en;
+function bylineHtml(lang, customTemplate) {
+  const template = customTemplate ?? bylineLabels[lang] ?? bylineLabels.en;
   const [before, after = ''] = template.split('{name}');
   const link = `<a href="${editorialAuthor.url}" rel="author">${escapeHtml(editorialAuthor.name)}</a>`;
   let reviewer = '';
@@ -474,7 +474,8 @@ function bylineHtml(lang) {
     const label = reviewerLabels[lang] ?? reviewerLabels.en;
     reviewer = ` ${escapeHtml(label.replace('{reviewer}', medicalReviewer.name))}`;
   }
-  return `${escapeHtml(before)}${link}${escapeHtml(after)}${reviewer}`;
+  const customSpacing = customTemplate && /\s$/.test(before) ? ' ' : '';
+  return `${escapeHtml(before)}${customSpacing}${link}${escapeHtml(after)}${reviewer}`;
 }
 
 const searchLabels = {
@@ -1058,9 +1059,14 @@ function renderHome(language) {
     ['app_daily_plan.png', 'icon_daily_action.png', h.phoneTitle, h.phoneText, tourLink('daily')],
     ['app_qna_support.png', 'icon_ask_question.png', h.qnaTitle, h.qnaText, tourLink('community', 2)],
     ['app_community.png', 'icon_shield_heart.png', h.aiTitle, h.aiText, tourLink('community', 3)],
-    ['app_child_growth.png', 'icon_ask_ai.png', h.journeys[3], h.features[2][1], tourLink('care')]
+    ['app_child_growth.png', 'icon_ask_ai.png', h.journeys[3], language.code === 'en' ? 'Explore child-growth records and the care screens in the app tour.' : h.features[2][1], tourLink('care')]
   ];
-  const featureLinks = [tourLink('daily'), tourLink('community'), tourLink('care')];
+  const featureLinks = language.code === 'en'
+    ? ['about-bemama/daily-journey', 'about-bemama/tools', 'tools'].map(slug => localizedPath(language.code, slug))
+    : [tourLink('daily'), tourLink('community'), tourLink('care')];
+  const primaryAction = language.code === 'en'
+    ? { href: localizedPath(language.code, 'tools'), action: 'Try free tools', note: 'Calculators and checklists. No account needed.', attributes: 'data-umami-event="public_tools_clicked"' }
+    : { href: quickHelpUrl(language.code), ...quickHelpCopy[language.code], attributes: 'data-quick-help data-umami-event="quick_help_clicked"' };
   const featuredGuideCards = FEATURED_GUIDE_SLUGS.map((slug) => articleBySlug.get(slug))
     .filter(Boolean)
     .map((article) => {
@@ -1084,9 +1090,9 @@ function renderHome(language) {
           <h1>${escapeHtml(h.title)}</h1>
           <p class="hero-copy">${escapeHtml(h.copy)}</p>
           <div class="hero-actions">
-            <a class="button" href="${escapeHtml(quickHelpUrl(language.code))}" data-quick-help data-umami-event="quick_help_clicked">${escapeHtml(quickHelpCopy[language.code].action)}</a>
+            <a class="button" href="${escapeHtml(primaryAction.href)}" ${primaryAction.attributes}>${escapeHtml(primaryAction.action)}</a>
           </div>
-          <p>${escapeHtml(quickHelpCopy[language.code].note)}</p>
+          <p>${escapeHtml(primaryAction.note)}</p>
           <div class="hero-store-links" aria-label="BeMama mobile apps">
             <a class="hero-store-link" href="${site.androidAppUrl}" target="_blank" rel="noopener">${platformIcon('android')}<span>${escapeHtml(h.downloadAndroid || h.openAndroid)}</span></a>
             <a class="hero-store-link" href="${site.iosAppUrl}" target="_blank" rel="noopener">${platformIcon('ios')}<span>${escapeHtml(h.downloadIos || h.openIos)}</span></a>
@@ -1102,7 +1108,7 @@ function renderHome(language) {
         ${proofItem('hero_planning.png', h.journeys[0], h.features[0][0], tourLink('planning'))}
         ${proofItem('hero_pregnancy.png', h.journeys[1], h.phoneTitle, tourLink('daily'))}
         ${proofItem('hero_baby.png', h.journeys[2], h.qnaTitle, tourLink('community'))}
-        ${proofItem('hero_child.png', h.journeys[3], h.features[2][0], tourLink('care'))}
+        ${proofItem('hero_child.png', h.journeys[3], language.code === 'en' ? 'Growth records' : h.features[2][0], tourLink('care'))}
       </div>
     </div>
   </section>
@@ -1556,7 +1562,7 @@ function renderArticle(language, slug, article, data) {
       (section) => `<section class="article-section">
       <h2>${escapeHtml(section.heading)}</h2>
       ${section.image ? `<figure class="article-figure">${imageMarkup(`/assets/${section.image}`, section.heading)}</figure>` : ''}
-      ${section.paragraphs.map((p) => `<p>${richText(p)}</p>`).join("")}
+      ${section.paragraphs.map((p) => `<p>${richText(p, data.linkLabels)}</p>`).join("")}
     </section>`
     )
     .join('');
@@ -1566,7 +1572,7 @@ function renderArticle(language, slug, article, data) {
       : '';
   const faq =
     data.faq && data.faq.length
-      ? `<section class="faq"><h2>${escapeHtml(strings.faq)}</h2>${data.faq.map((item) => `<details class="faq-item"><summary>${escapeHtml(item.q)}</summary><p>${richText(item.a)}</p></details>`).join('')}</section>`
+      ? `<section class="faq"><h2>${escapeHtml(strings.faq)}</h2>${data.faq.map((item) => `<details class="faq-item"><summary>${escapeHtml(item.q)}</summary><p>${richText(item.a, data.linkLabels)}</p></details>`).join('')}</section>`
       : '';
   const related = relatedBySlug.get(article.slug)
     ?? articlesInCategory(article.category).filter((item) => item.slug !== article.slug).slice(0, 3);
@@ -1587,7 +1593,7 @@ function renderArticle(language, slug, article, data) {
       <span class="eyebrow">${escapeHtml(pick(category.title, lang))}</span>
       <h1>${escapeHtml(data.title)}</h1>
       ${dates.modifiedIso ? `<p class="article-meta">${escapeHtml(strings.updatedLabel)}: <time datetime="${dates.modifiedIso}">${escapeHtml(dates.modifiedLabel)}</time></p>` : ''}
-      <p class="article-byline">${bylineHtml(lang)}</p>
+      <p class="article-byline">${bylineHtml(lang, data.byline)}</p>
     </header>
     <figure class="article-hero">${imageMarkup(`/assets/${article.hero}`, data.title, { loading: 'eager', fetchpriority: 'high' })}</figure>
     ${fallbackNotice}
@@ -2856,13 +2862,14 @@ function publicText(value) {
 /// Latin URL no longer gets scrambled by the bidi algorithm inside Persian or
 /// Arabic paragraphs - and every language gets clickable links for free.
 /// URLs here contain no &<>"' so they survive escapeHtml unchanged.
-function richText(value) {
+function richText(value, linkLabels = {}) {
   const escaped = escapeHtml(value);
   return escaped.replace(/https?:\/\/[^\s<]+/g, (match) => {
     // Keep sentence punctuation (Latin and Arabic/Persian) out of the href.
     const trailing = match.match(/[.,;:!?)»؛،؟]+$/);
     const url = trailing ? match.slice(0, -trailing[0].length) : match;
     const tail = trailing ? trailing[0] : '';
-    return `<a href="${url}" dir="ltr" rel="noopener">${url}</a>${tail}`;
+    const label = Object.hasOwn(linkLabels, url) ? escapeHtml(linkLabels[url]) : url;
+    return `<a href="${url}" dir="ltr" rel="noopener">${label}</a>${tail}`;
   });
 }

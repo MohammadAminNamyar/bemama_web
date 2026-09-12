@@ -1,0 +1,386 @@
+{
+  "baseCommit": "99b671f5a",
+  "appSourceCommit": "e6bece9",
+  "home": {
+    "eyebrow": "Planning, pregnancy, baby, and child growth",
+    "title": "Care for every stage",
+    "copy": "From planning to pregnancy to your baby’s first years — daily guidance, real answers, and a caring community, right when you need them.",
+    "updates": "Get launch updates",
+    "downloadAndroid": "Get it on Google Play",
+    "downloadIos": "Download on the App Store",
+    "readPrivacy": "Read privacy policy",
+    "phoneTitle": "Daily Journey",
+    "phoneText": "Support shaped around your current stage.",
+    "qnaTitle": "Q&A and community",
+    "qnaText": "Ask, learn, and connect with supportive spaces.",
+    "aiTitle": "AI-assisted support",
+    "aiText": "Clearly labeled and limited to general education.",
+    "journeys": [
+      "Planning",
+      "Pregnancy",
+      "Baby care",
+      "Child growth"
+    ],
+    "mediaTitle": "A look inside BeMama",
+    "mediaText": "Preview the main BeMama experiences: daily guidance, Q&A, community spaces, AI-assisted explanations, and child-growth support.",
+    "trustCue": "Clearly scoped support",
+    "adTitle": "Support for each stage of the care journey",
+    "adText": "BeMama helps organize daily guidance, community conversations, and clearly labeled AI-assisted explanations while keeping medical decisions with qualified care.",
+    "adStatus": "Care support across stages",
+    "whatTitle": "What BeMama does",
+    "whatText": "BeMama brings practical parenting support into one organized experience without pretending to replace clinical care.",
+    "features": [
+      [
+        "Daily Journey",
+        "Set up your current stage so daily care content and actions can be organized around where you are."
+      ],
+      [
+        "Q&A and Community",
+        "Ask questions, find related discussions, and connect with supportive spaces built for parents and caregivers."
+      ],
+      [
+        "Tools",
+        "Use practical calculators, trackers, and care utilities as they become available for each journey stage."
+      ]
+    ],
+    "trustTitle": "Privacy and trust",
+    "trustText": "BeMama is designed around sensitive motherhood and parenting data. Policy pages explain data use, retention basics, deletion/export request paths, and AI-assisted safety limits in plain language.",
+    "appTitle": "Open BeMama",
+    "appText": "Use BeMama on the web, download the Android app from Google Play, or get the iOS app from the App Store.",
+    "android": "Android",
+    "ios": "iOS",
+    "web": "Web app",
+    "openAndroid": "Open on Google Play",
+    "openIos": "Open on App Store",
+    "openWeb": "Open web app",
+    "reviewSubscription": "Review subscription terms"
+  },
+  "metaDescription": "BeMama is a companion for planning, pregnancy, baby care, and child growth with Daily Journey, Q&A, community, and clearly labeled AI-assisted support.",
+  "articles": {
+    "about-bemama/why-bemama": {
+      "title": "Why BeMama: Support for Every Stage of Motherhood",
+      "description": "Why we built BeMama — one calm companion that brings daily guidance, community, and practical tools together across planning, pregnancy, baby care, and child growth.",
+      "intro": "Motherhood comes with a flood of information: search results that contradict each other, forums full of conflicting opinions, and a dozen apps that each cover one small slice of the journey. BeMama was built to quiet that noise. It is one calm companion that stays with you from planning a pregnancy through your child’s early years.",
+      "sections": [
+        {
+          "heading": "The problem: too much information, too little clarity",
+          "paragraphs": [
+            "When you are planning a pregnancy, expecting, or caring for a baby, almost every question sends you down a rabbit hole. One site says one thing, another says the opposite, and it is hard to know what applies to your stage, your situation, or your day.",
+            "The result is a familiar feeling: more anxious after searching than before. Information is everywhere, but calm, organized, stage-appropriate guidance is rare. That gap is exactly what BeMama is designed to fill."
+          ]
+        },
+        {
+          "heading": "One companion across every stage",
+          "paragraphs": [
+            "BeMama covers the whole arc of early motherhood: planning and trying to conceive, pregnancy week by week, newborn and baby care, and child growth. You set your current stage, and the experience organizes itself around where you actually are.",
+            "Because it is one app rather than four, nothing gets lost when your journey moves forward. The companion that helped you understand your cycle is the same one that walks with you through pregnancy and, later, your child’s milestones."
+          ]
+        },
+        {
+          "heading": "Guidance, community, and tools in one place",
+          "image": "content/app-why-bemama-community.jpg",
+          "paragraphs": [
+            "BeMama brings three kinds of support together. The Daily Journey offers stage-based daily content and small, doable actions. Q&A and community spaces let you ask questions and connect with people walking the same path. Practical tools — calculators and trackers — handle the bookkeeping as they become available for each stage.",
+            "Each piece supports the others. A question raised in the community might be answered by a Daily Journey article; a tracker might prompt a question worth asking your provider. Together they make the journey feel organized instead of overwhelming."
+          ]
+        },
+        {
+          "heading": "A safety-first approach",
+          "paragraphs": [
+            "BeMama is honest about what it is: general education and support, not a medical service. It does not diagnose, prescribe, or handle emergencies, and it never pretends to. Medical decisions belong with you and qualified clinicians.",
+            "AI-assisted features are clearly labeled and limited to general education, so you always know what kind of help you are getting. For urgent symptoms or safety concerns, BeMama consistently points you toward qualified local care."
+          ]
+        },
+        {
+          "heading": "Try it today on the web",
+          "paragraphs": [
+            "BeMama is available as a web app at https://app.bemamas.com/, for Android on Google Play at https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client, and for iOS on the App Store at https://apps.apple.com/us/app/bemama/id6783137312.",
+            "Setting your stage takes only a moment, and from there the Daily Journey, community, and tools shape themselves around you."
+          ]
+        }
+      ],
+      "takeaways": [
+        "Motherhood information is fragmented and overwhelming; BeMama organizes it into one calm place.",
+        "One companion covers planning, pregnancy, baby care, and child growth as your journey progresses.",
+        "Daily Journey guidance, Q&A and community, and practical tools work together.",
+        "BeMama is education and support only — medical decisions stay with you and your clinicians.",
+        "The web app, Android app, and iOS app are available today."
+      ],
+      "faq": [
+        {
+          "q": "What exactly is BeMama?",
+          "a": "BeMama is a digital companion for planning, pregnancy, baby care, and child growth. It combines stage-based daily guidance, Q&A and community spaces, and practical tools in one organized experience."
+        },
+        {
+          "q": "Is BeMama a medical app?",
+          "a": "No. BeMama provides general education and support. It does not diagnose, prescribe, or replace care from qualified clinicians, and it directs urgent concerns to local care or emergency services."
+        },
+        {
+          "q": "How do I start using BeMama?",
+          "a": "Open the web app at https://app.bemamas.com/, download BeMama for Android from https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client, or get it for iOS from https://apps.apple.com/us/app/bemama/id6783137312. Then create your space and set your current stage."
+        }
+      ]
+    },
+    "about-bemama/daily-journey": {
+      "title": "The Daily Journey: Guidance Tailored to Your Stage",
+      "description": "How BeMama’s Daily Journey works — set your stage, receive organized daily content and small actions, and let guidance adapt as your motherhood journey progresses.",
+      "intro": "The Daily Journey is the heart of BeMama. Instead of handing you an encyclopedia and wishing you luck, it offers a small, well-chosen set of content and actions each day, shaped around exactly where you are — planning, pregnant, caring for a baby, or watching a child grow.",
+      "sections": [
+        {
+          "heading": "Start by setting your stage",
+          "paragraphs": [
+            "When you set up BeMama, you tell it where you are in your journey: planning a pregnancy, expecting (and roughly how far along), caring for a baby, or supporting a growing child. That single choice shapes everything you see.",
+            "You can add details that help personalize the experience — like a due date or your child’s age range — so the content that reaches you actually fits your days."
+          ]
+        },
+        {
+          "heading": "A daily rhythm of content and small actions",
+          "image": "content/app-daily-journey-detail.jpg",
+          "paragraphs": [
+            "Each day, the Daily Journey surfaces organized content relevant to your stage: what is happening in your body or your baby’s development, what tends to matter right now, and gentle reminders worth acting on.",
+            "Alongside the reading, it suggests small, concrete actions — the kind that take minutes, not afternoons. A note to log something, a topic to think about, a question worth raising at your next appointment."
+          ]
+        },
+        {
+          "heading": "Guidance that adapts as you progress",
+          "paragraphs": [
+            "Motherhood does not stand still, and neither does the Daily Journey. As weeks pass and your stage advances, the content and suggested actions move with you — from cycle awareness to trimester milestones to newborn routines to toddler growth.",
+            "When your journey changes in a bigger way — a positive test, a birth, a new stage — you update your stage and the whole experience reshapes itself around your new reality."
+          ]
+        },
+        {
+          "heading": "Why small daily steps beat information overload",
+          "paragraphs": [
+            "Reading forty articles in one anxious evening rarely helps anyone. Small daily doses work better: they are easier to absorb, easier to act on, and they build understanding gradually instead of overwhelming you all at once.",
+            "The Daily Journey is deliberately paced this way. It respects your attention and your energy — because a calm, steady drip of the right information at the right time is worth more than an ocean of everything at once."
+          ]
+        },
+        {
+          "heading": "Education first, decisions with your provider",
+          "paragraphs": [
+            "Daily Journey content is general education. It helps you understand what is typical, what to watch for, and what questions to ask — but it never replaces the judgment of your own healthcare provider.",
+            "Many people find that a few days of Daily Journey reading makes appointments more productive: you arrive with context and better questions."
+          ]
+        }
+      ],
+      "takeaways": [
+        "Set your stage once and the Daily Journey organizes daily content around it.",
+        "Each day brings a small, focused set of reading and doable actions.",
+        "Guidance adapts automatically as your stage and weeks progress.",
+        "Small daily steps are calmer and more effective than information overload.",
+        "Content is educational — it prepares you for provider conversations, not decisions."
+      ],
+      "faq": [
+        {
+          "q": "What happens if my stage changes?",
+          "a": "Update your stage in the app — for example from planning to pregnancy — and the Daily Journey reshapes its content and actions around your new stage right away."
+        },
+        {
+          "q": "How much time does the Daily Journey take each day?",
+          "a": "It is designed for minutes, not hours. A short read and a small action are typical; you can always explore more if you want to."
+        },
+        {
+          "q": "Is the Daily Journey medical advice?",
+          "a": "No. It is general education organized by stage. It can help you prepare questions and understand what is typical, but medical decisions belong with your healthcare provider."
+        }
+      ]
+    },
+    "about-bemama/tools": {
+      "title": "BeMama Tools: Calculators and Trackers",
+      "description": "A look at BeMama’s practical tools — calculators, trackers, and care utilities organized by stage — and how they reduce the mental load of planning, pregnancy, and parenting.",
+      "intro": "So much of early motherhood is quiet bookkeeping: cycle days, weeks of pregnancy, feeds, naps, measurements. BeMama’s tools exist to carry that load for you — practical calculators and trackers, organized by stage, so your head can hold less and your heart can hold more.",
+      "sections": [
+        {
+          "heading": "Practical utilities, organized by stage",
+          "paragraphs": [
+            "BeMama’s tools are built around the same stages as everything else in the app. During planning, that means utilities that support cycle awareness. In pregnancy, tools that help you follow your progress. As your baby arrives and grows, tracking utilities support the early months and beyond, as they become available for each stage.",
+            "Because tools live inside the same app as your Daily Journey and community, everything stays in one place — no juggling a separate tracker app for every phase of life."
+          ]
+        },
+        {
+          "heading": "Why tracking reduces mental load",
+          "paragraphs": [
+            "Keeping numbers in your head is exhausting, and half-remembered details make patterns impossible to see. Writing things down — or better, letting an app do the arithmetic — frees real mental space and turns scattered moments into a picture you can actually read.",
+            "That picture is useful beyond peace of mind. A few weeks of logged information often reveals a rhythm you would never notice day to day, and it gives you something concrete to bring to appointments."
+          ]
+        },
+        {
+          "heading": "Tools and guidance work together",
+          "paragraphs": [
+            "BeMama’s tools are not isolated widgets. What you track can connect naturally to the guidance you receive: your stage informs which tools you see, and your Daily Journey can point you toward a tool when it is genuinely useful.",
+            "The goal is quiet usefulness — a calculator when you need a number, a tracker when a pattern matters, never a wall of features demanding attention."
+          ]
+        },
+        {
+          "heading": "Growing with the app",
+          "paragraphs": [
+            "BeMama’s toolset expands over time, with new calculators, trackers, and care utilities added as they become available for each journey stage. The app you start with keeps getting more capable as your journey continues.",
+            "Whatever the tool, the philosophy stays the same: reduce the bookkeeping, surface the pattern, and keep the experience calm."
+          ]
+        },
+        {
+          "heading": "Numbers inform, providers decide",
+          "paragraphs": [
+            "Trackers and calculators are helpers, not verdicts. A calculator’s estimate or a tracker’s chart is general information — a starting point for understanding, not a diagnosis.",
+            "If a number or pattern worries you, that is a reason to talk to your healthcare provider, and your logged data can make that conversation more productive."
+          ]
+        }
+      ],
+      "takeaways": [
+        "BeMama offers calculators, trackers, and care utilities organized by journey stage.",
+        "Tools support cycle awareness, pregnancy progress, and growth tracking as they become available for each stage.",
+        "Tracking offloads mental bookkeeping and makes patterns visible.",
+        "Tools live alongside the Daily Journey and community in one app.",
+        "Tool results are general information — concerning patterns belong in a provider conversation."
+      ],
+      "faq": [
+        {
+          "q": "Which tools does BeMama include?",
+          "a": "Tools are organized by stage — for example, utilities that support cycle awareness during planning, pregnancy progress during pregnancy, and growth tracking as your child grows — and new ones are added as they become available for each stage."
+        },
+        {
+          "q": "Do I need to use the tools to benefit from BeMama?",
+          "a": "No. Tools are there when they help. Some people rely on them daily; others mostly use the Daily Journey and community. Use whatever combination fits your life."
+        },
+        {
+          "q": "Are the calculators and trackers medically accurate?",
+          "a": "They provide general estimates and organized records, which is genuinely useful — but they are educational aids, not diagnostic instruments. Always confirm anything important with your healthcare provider."
+        }
+      ]
+    },
+    "about-bemama/premium": {
+      "title": "BeMama Premium: What’s Included",
+      "description": "An honest look at BeMama’s free experience versus Premium — deeper daily guidance and richer tools — with transparent subscription terms and no pressure to upgrade.",
+      "intro": "BeMama has a genuinely useful free experience, and a Premium subscription for those who want more depth. This page explains the difference honestly — what Premium adds, how the subscription works, and why we would rather you upgrade because it helps you than because we pressured you.",
+      "sections": [
+        {
+          "heading": "The free experience stands on its own",
+          "paragraphs": [
+            "Free members can set their stage, follow the Daily Journey, take part in Q&A and community spaces, and use available tools. It is a real experience, not a locked shop window.",
+            "We built it this way on purpose. Support during motherhood should not start behind a paywall, and many members use the free experience happily for a long time."
+          ]
+        },
+        {
+          "heading": "What Premium adds",
+          "paragraphs": [
+            "Premium is for members who want to go deeper. In general terms, it unlocks deeper daily guidance, richer tools, and priority experiences within the app — more depth on the same foundation, not a different app.",
+            "The exact contents of Premium can evolve as BeMama grows, so the app itself and the subscription terms page are always the most current description of what is included."
+          ]
+        },
+        {
+          "heading": "A subscription managed transparently",
+          "paragraphs": [
+            "Premium is a subscription, and we aim to keep it free of surprises: clear pricing shown before you commit, and management of your subscription through standard, familiar mechanisms.",
+            "Before subscribing, please review the subscription terms on the BeMama website. They describe billing, renewal, and cancellation in plain language, and they are the authoritative source if anything here differs."
+          ]
+        },
+        {
+          "heading": "No pressure — honestly",
+          "paragraphs": [
+            "You will not find countdown timers, guilt-laden pop-ups, or artificial scarcity in BeMama. If Premium is useful to you, it will still be useful next week; a support app that manufactures anxiety would be failing at its one job.",
+            "Our suggestion: use the free experience first. If you find yourself wanting more depth from the Daily Journey or more from the tools, Premium will be there — and if the free tier is enough, that is a perfectly good outcome too."
+          ]
+        }
+      ],
+      "takeaways": [
+        "The free experience includes the Daily Journey, Q&A and community, and available tools.",
+        "Premium adds deeper daily guidance, richer tools, and priority experiences.",
+        "Pricing and terms are shown clearly before you subscribe.",
+        "Review the subscription terms on the website — they are the authoritative details.",
+        "There is no pressure to upgrade; the free tier is a real, lasting option."
+      ],
+      "faq": [
+        {
+          "q": "Do I need Premium to get value from BeMama?",
+          "a": "No. The free experience includes the core of BeMama — stage-based daily guidance, community, and available tools. Premium adds depth for those who want it."
+        },
+        {
+          "q": "How do I see the exact terms and pricing?",
+          "a": "Pricing is shown in the app before you subscribe, and the subscription terms page on the BeMama website describes billing, renewal, and cancellation in plain language."
+        },
+        {
+          "q": "Can I cancel my subscription?",
+          "a": "Yes. Subscriptions can be cancelled through the standard management flow described in the subscription terms. Review those terms for the specifics that apply to you."
+        }
+      ]
+    },
+    "about-bemama/getting-started": {
+      "title": "Getting Started with BeMama",
+      "description": "A gentle five-minute walkthrough of your first BeMama session — open the web app, create your space, set your stage, and explore the Daily Journey, Q&A, and tools.",
+      "intro": "Starting with BeMama takes about five minutes and requires nothing but a browser. Here is a gentle walkthrough of your first session — from opening the web app to seeing your first day of stage-based guidance.",
+      "sections": [
+        {
+          "heading": "Step one: open the web app",
+          "paragraphs": [
+            "BeMama runs on the web today at https://app.bemamas.com/. Open that address in any modern browser — phone, tablet, or computer — and you are at the front door. There is nothing to install.",
+            "The Android app is live on Google Play at https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client, and the iOS app is live on the App Store at https://apps.apple.com/us/app/bemama/id6783137312."
+          ]
+        },
+        {
+          "heading": "Step two: create your space",
+          "paragraphs": [
+            "Sign up to create your account — your own space in BeMama. This takes a minute: the basics to identify you, your language preference, and you are in.",
+            "Your account is what lets BeMama remember your stage, your Daily Journey progress, and anything you track, so the app feels like yours from the second visit onward."
+          ]
+        },
+        {
+          "heading": "Step three: set your stage",
+          "paragraphs": [
+            "Now the important moment: tell BeMama where you are. Planning a pregnancy? Expecting, and roughly how far along? Caring for a baby? Supporting a growing child? Pick the stage that fits.",
+            "This single choice tunes the whole app. Your Daily Journey, the tools you see, and the content that reaches you are all organized around your stage — and you can update it whenever your journey moves forward."
+          ]
+        },
+        {
+          "heading": "Step four: meet your Daily Journey",
+          "paragraphs": [
+            "With your stage set, your Daily Journey is ready. Open it and you will find your first day of organized content and a small suggested action — a gentle introduction rather than a homework pile.",
+            "Give it a few days before judging it. The Daily Journey is designed as a rhythm, and its value shows in the accumulation of small, timely pieces rather than any single day."
+          ]
+        },
+        {
+          "heading": "Step five: explore Q&A, community, and tools",
+          "paragraphs": [
+            "When you are ready, look around. Browse the Q&A to see what people at your stage are asking. Peek into community spaces — reading quietly is a perfectly good way to start. Open the tools available for your stage and try one.",
+            "There is no required order and no pressure to use everything. Most members settle into their own mix: some live in the Daily Journey, some in the community, many somewhere in between."
+          ]
+        },
+        {
+          "heading": "A note before you begin",
+          "paragraphs": [
+            "BeMama is general education and support — a companion, not a clinic. It does not diagnose or prescribe, its AI-assisted answers are clearly labeled and educational, and anything urgent belongs with qualified local care or emergency services.",
+            "With that understood: welcome. Open https://app.bemamas.com/, set your stage, and let the journey feel a little more organized from today."
+          ]
+        }
+      ],
+      "takeaways": [
+        "Open https://app.bemamas.com/ in any browser — no installation needed.",
+        "Create your account, then set your current stage; setup takes about five minutes.",
+        "Your stage shapes the Daily Journey, tools, and content you see.",
+        "Explore Q&A, community, and tools at your own pace — reading quietly counts.",
+        "The web app, Android app, and iOS app are available today."
+      ],
+      "faq": [
+        {
+          "q": "Is BeMama available in the app stores?",
+          "a": "Yes. BeMama is available for Android on Google Play at https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client and for iOS on the App Store at https://apps.apple.com/us/app/bemama/id6783137312. The web app at https://app.bemamas.com/ is also available today."
+        },
+        {
+          "q": "How long does setup take?",
+          "a": "About five minutes: open the web app, create your account, and set your stage. Your Daily Journey is ready immediately after that."
+        },
+        {
+          "q": "What if I pick the wrong stage or my situation changes?",
+          "a": "You can update your stage at any time, and the app reorganizes around your new stage — your Daily Journey, tools, and content all follow."
+        }
+      ]
+    }
+  },
+  "translatedContentHashes": {
+    "fa": "d73152bced88e5f1caddb1f34f435444500db66fb38c35a2c6ac56d2ad767280",
+    "ar": "fc86c9e4d2bb206515a31a09ef37cd6c66716693ff1deea141876adf9dee84bd",
+    "fr": "4e707c0ffd202d2c0920e1d559cc109a15433b651319fb033ff8e977595962b0",
+    "tr": "070847938fe836afb9749d42f7694c64603284bcdd406e8c211dd846643b2e1b",
+    "es": "d827012b649ea7ca129b343c823a7df285d14819253bc76456e2969d8fded1bf",
+    "pt": "43c915a6587bec0dc9fbd88549374b0b71cb6c648867e3581998822d09a78a86"
+  }
+}

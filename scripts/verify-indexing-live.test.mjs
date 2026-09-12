@@ -1,6 +1,14 @@
 import assert from 'node:assert/strict';
 import { test } from 'node:test';
-import { livePageIssues } from './verify-indexing-live.mjs';
+import { livePageIssues, sameSitemap } from './verify-indexing-live.mjs';
+
+test('sitemap comparison permits Windows line endings but catches changed content', () => {
+  const xml = '<urlset>\n<url><loc>https://bemamas.com/tools/</loc><lastmod>2026-09-12</lastmod></url>\n</urlset>';
+  assert.equal(sameSitemap(xml, xml.replaceAll('\n', '\r\n')), true);
+  assert.equal(sameSitemap(xml, xml.replace('/tools/', '/pregnancy/')), false);
+  assert.equal(sameSitemap(xml, xml.replace('2026-09-12', '2026-09-11')), false);
+  assert.equal(sameSitemap(xml, xml.replace(/<url>.*<\/url>/, '')), false);
+});
 
 const expected = `<html lang="en"><head><title>Guide</title><meta name="description" content="A helpful guide" />
 <link rel="canonical" href="https://bemamas.com/guide/" />

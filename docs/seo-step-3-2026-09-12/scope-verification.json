@@ -1,0 +1,33 @@
+{
+  "baseCommit": "99b671f5a",
+  "appSourceCommit": "e6bece9",
+  "changedEnglishArticles": [
+    "about-bemama/why-bemama",
+    "about-bemama/daily-journey",
+    "about-bemama/tools",
+    "about-bemama/premium",
+    "about-bemama/getting-started"
+  ],
+  "englishHomeChanged": true,
+  "otherLanguagesSourceUnchanged": true,
+  "translatedContentHashes": {
+    "fa": "d73152bced88e5f1caddb1f34f435444500db66fb38c35a2c6ac56d2ad767280",
+    "ar": "fc86c9e4d2bb206515a31a09ef37cd6c66716693ff1deea141876adf9dee84bd",
+    "fr": "4e707c0ffd202d2c0920e1d559cc109a15433b651319fb033ff8e977595962b0",
+    "tr": "070847938fe836afb9749d42f7694c64603284bcdd406e8c211dd846643b2e1b",
+    "es": "d827012b649ea7ca129b343c823a7df285d14819253bc76456e2969d8fded1bf",
+    "pt": "43c915a6587bec0dc9fbd88549374b0b71cb6c648867e3581998822d09a78a86"
+  },
+  "newPublicRoutes": [],
+  "newPublishedArticles": 0,
+  "briefIds": [
+    "K101",
+    "K102"
+  ],
+  "keywordCandidatesMapped": 25,
+  "statusCounts": {
+    "source_backed_workflow_copy": 23,
+    "partial_intent_dates_only": 1,
+    "qualified_free_access": 1
+  }
+}

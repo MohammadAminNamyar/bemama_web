@@ -4,7 +4,7 @@
     <title>BeMama: English</title>
     <link>https://bemamas.com/</link>
     <atom:link href="https://bemamas.com/rss-en.xml" rel="self" type="application/rss+xml" />
-    <description>BeMama is a companion for planning, pregnancy, baby care, and child growth with Daily Journey, Q&amp;A, community, and clearly labeled AI-assisted support.</description>
+    <description>Follow pregnancy week by week with BeMama. Record baby feeds, sleep and diapers in the app, or try free website calculators and checklists.</description>
     <language>en</language>
     <lastBuildDate>Sat, 12 Sep 2026 12:00:00 GMT</lastBuildDate>
     <item>
@@ -1392,18 +1392,18 @@
       <media:content url="https://bemamas.com/assets/content/child-screen-time.jpg" medium="image" />
     </item>
     <item>
-      <title>Why BeMama: Support for Every Stage of Motherhood</title>
+      <title>BeMama: Pregnancy Guidance and Baby Tracking</title>
       <link>https://bemamas.com/about-bemama/why-bemama/</link>
       <guid isPermaLink="true">https://bemamas.com/about-bemama/why-bemama/</guid>
-      <description>Why we built BeMama: one calm companion that brings daily guidance, community, and practical tools together across planning, pregnancy, baby care, and child growth.</description>
+      <description>Meet BeMama: pregnancy guidance, a baby tracker for feeding and sleep, and free website tools for planning and everyday care.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/app-why-bemama.jpg" medium="image" />
     </item>
     <item>
-      <title>The Daily Journey: Guidance Tailored to Your Stage</title>
+      <title>Pregnancy Tracker App: BeMama Daily Journey</title>
       <link>https://bemamas.com/about-bemama/daily-journey/</link>
       <guid isPermaLink="true">https://bemamas.com/about-bemama/daily-journey/</guid>
-      <description>How BeMama’s Daily Journey works: set your stage, receive organized daily content and small actions, and let guidance adapt as your motherhood journey progresses.</description>
+      <description>Use BeMama’s pregnancy tracker app to follow your week, set up Daily Journey and understand pregnancy date estimates and feature access.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/app-daily-journey.jpg" medium="image" />
     </item>
@@ -1416,18 +1416,18 @@
       <media:content url="https://bemamas.com/assets/content/app-qa-community.jpg" medium="image" />
     </item>
     <item>
-      <title>BeMama Tools: Calculators and Trackers</title>
+      <title>Baby Tracker: Feeding, Sleep and Diaper Logs</title>
       <link>https://bemamas.com/about-bemama/tools/</link>
       <guid isPermaLink="true">https://bemamas.com/about-bemama/tools/</guid>
-      <description>A look at BeMama’s practical tools (calculators, trackers, and care utilities organized by stage) and how they reduce the mental load of planning, pregnancy, and parenting.</description>
+      <description>Learn how BeMama’s baby tracker records nursing, bottle feeds, sleep and diapers, with report views and separate free website care tools.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/app-tools.jpg" medium="image" />
     </item>
     <item>
-      <title>BeMama Premium: What’s Included</title>
+      <title>BeMama Free and Premium: Feature Access</title>
       <link>https://bemamas.com/about-bemama/premium/</link>
       <guid isPermaLink="true">https://bemamas.com/about-bemama/premium/</guid>
-      <description>An honest look at BeMama’s free experience versus Premium (deeper daily guidance and richer tools) with transparent subscription terms and no pressure to upgrade.</description>
+      <description>Understand BeMama’s free Daily Journey, public website tools and optional Premium features, with links to current access and subscription details.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/app-premium.jpg" medium="image" />
     </item>
@@ -1448,10 +1448,10 @@
       <media:content url="https://bemamas.com/assets/content/app-privacy.jpg" medium="image" />
     </item>
     <item>
-      <title>Getting Started with BeMama</title>
+      <title>Get Started with BeMama: Pregnancy and Baby Care</title>
       <link>https://bemamas.com/about-bemama/getting-started/</link>
       <guid isPermaLink="true">https://bemamas.com/about-bemama/getting-started/</guid>
-      <description>A gentle five-minute walkthrough of your first BeMama session: open the web app, create your space, set your stage, and explore the Daily Journey, Q&amp;A, and tools.</description>
+      <description>Start BeMama with the right journey and baby profile, learn the first tracking steps, or try free website tools without creating an account.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/app-getting-started.jpg" medium="image" />
     </item>

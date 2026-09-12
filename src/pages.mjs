@@ -39,53 +39,63 @@ export const content = {
       language: 'Language'
     },
     metaDescription:
-      'BeMama is a companion for planning, pregnancy, baby care, and child growth with Daily Journey, Q&A, community, and clearly labeled AI-assisted support.',
+      'Follow pregnancy week by week with BeMama. Record baby feeds, sleep and diapers in the app, or try free website calculators and checklists.',
     footer: 'General education and support only. Not a medical diagnosis tool.',
     officialNotice:
       'This localized page is provided for convenience. If a translation conflicts with the English policy page, the English version controls to the extent permitted by law.',
     home: {
-      eyebrow: 'Planning, pregnancy, baby, and child growth',
-      title: 'Care for every stage',
-      copy: 'From planning to pregnancy to your baby’s first years — daily guidance, real answers, and a caring community, right when you need them.',
-      updates: 'Get launch updates',
-      downloadAndroid: 'Get it on Google Play',
-      downloadIos: 'Download on the App Store',
-      readPrivacy: 'Read privacy policy',
-      phoneTitle: 'Daily Journey',
-      phoneText: 'Support shaped around your current stage.',
-      qnaTitle: 'Q&A and community',
-      qnaText: 'Ask, learn, and connect with supportive spaces.',
-      aiTitle: 'AI-assisted support',
-      aiText: 'Clearly labeled and limited to general education.',
-      journeys: ['Planning', 'Pregnancy', 'Baby care', 'Child growth'],
-      mediaTitle: 'A look inside BeMama',
-      mediaText:
-        'Preview the main BeMama experiences: daily guidance, Q&A, community spaces, AI-assisted explanations, and child-growth support.',
-      trustCue: 'Clearly scoped support',
-      adTitle: 'Support for each stage of the care journey',
-      adText:
-        'BeMama helps organize daily guidance, community conversations, and clearly labeled AI-assisted explanations while keeping medical decisions with qualified care.',
-      adStatus: 'Care support across stages',
-      whatTitle: 'What BeMama does',
-      whatText: 'BeMama brings practical parenting support into one organized experience without pretending to replace clinical care.',
-      features: [
-        ['Daily Journey', 'Set up your current stage so daily care content and actions can be organized around where you are.'],
-        ['Q&A and Community', 'Ask questions, find related discussions, and connect with supportive spaces built for parents and caregivers.'],
-        ['Tools', 'Use practical calculators, trackers, and care utilities as they become available for each journey stage.']
+      "eyebrow": "Pregnancy and baby tracker app",
+      "title": "Pregnancy to baby care",
+      "copy": "Follow your pregnancy week by week with Daily Journey, then record nursing, bottles, sleep and diaper changes as your baby grows. Find care tools and guides for every stage.",
+      "updates": "Get launch updates",
+      "downloadAndroid": "Get it on Google Play",
+      "downloadIos": "Download on the App Store",
+      "readPrivacy": "Read privacy policy",
+      "phoneTitle": "Pregnancy week by week",
+      "phoneText": "Set your stage and dates to follow your Daily Journey.",
+      "qnaTitle": "Q&A and community",
+      "qnaText": "Ask, learn, and connect with supportive spaces.",
+      "aiTitle": "AI-assisted support",
+      "aiText": "Clearly labeled and limited to general education.",
+      "journeys": [
+        "Planning",
+        "Pregnancy",
+        "Baby care",
+        "Child growth"
       ],
-      trustTitle: 'Privacy and trust',
-      trustText:
-        'BeMama is designed around sensitive motherhood and parenting data. Policy pages explain data use, retention basics, deletion/export request paths, and AI-assisted safety limits in plain language.',
-      appTitle: 'Open BeMama',
-      appText:
-        'Use BeMama on the web, download the Android app from Google Play, or get the iOS app from the App Store.',
-      android: 'Android',
-      ios: 'iOS',
-      web: 'Web app',
-      openAndroid: 'Open on Google Play',
-      openIos: 'Open on App Store',
-      openWeb: 'Open web app',
-      reviewSubscription: 'Review subscription terms'
+      "mediaTitle": "A look inside BeMama",
+      "mediaText": "See BeMama’s Daily Journey, community and child-growth screens. Read the workflow guides to understand what to record and how feature access works.",
+      "trustCue": "Clearly scoped support",
+      "adTitle": "Support for each stage of the care journey",
+      "adText": "BeMama helps organize daily guidance, community conversations, and clearly labeled AI-assisted explanations while keeping medical decisions with qualified care.",
+      "adStatus": "Care support across stages",
+      "whatTitle": "What BeMama does",
+      "whatText": "Choose daily pregnancy guidance, a baby care record, or a free tool to help with today’s planning.",
+      "features": [
+        [
+          "Daily Journey",
+          "Follow your pregnancy week by week, check estimated dates and update your stage as your journey changes."
+        ],
+        [
+          "Baby tracker",
+          "Record nursing, bottle feeds, sleep and diaper changes. Review saved entries in day, week, list and summary views."
+        ],
+        [
+          "Free care tools",
+          "Use pregnancy calculators, preparation checklists and a growth log on this website. No app account needed."
+        ]
+      ],
+      "trustTitle": "Privacy and trust",
+      "trustText": "BeMama is designed around sensitive motherhood and parenting data. Policy pages explain data use, retention basics, deletion/export request paths, and AI-assisted safety limits in plain language.",
+      "appTitle": "Open BeMama",
+      "appText": "Download BeMama for pregnancy guidance and baby tracking, or open the web app. Check the app for feature access and optional Premium details.",
+      "android": "Android",
+      "ios": "iOS",
+      "web": "Web app",
+      "openAndroid": "Open on Google Play",
+      "openIos": "Open on App Store",
+      "openWeb": "Open web app",
+      "reviewSubscription": "Review subscription terms"
     },
     pages: {
       about: policy('About BeMama', 'Learn what BeMama is, who it is for, and the limits of care and AI-assisted support.', [

@@ -2119,6 +2119,11 @@ html[dir="rtl"] .tour-outro h2 {
     grid-template-columns: 1fr;
   }
 
+  /* Keep the decorative device shadow from widening the English homepage. */
+  html[lang="en"] .home-tour-promo {
+    overflow-x: clip;
+  }
+
   .tour-hero {
     width: min(100% - 24px, 1120px);
     padding: 54px 0 44px;

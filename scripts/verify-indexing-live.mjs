@@ -9,6 +9,10 @@ import { pageSignature } from './indexnow.mjs';
 
 const assetReferences = html => [...new Set([...html.matchAll(/\/assets\/[^\s"'<>?]+\?v=[a-zA-Z0-9]+/g)]
   .map(match => match[0]))].sort();
+// Git can check XML out with CRLF on Windows while hosting serves LF.
+// Ignore that transport difference, but retain every URL, date and XML value.
+export const sameSitemap = (expected, actual) =>
+  expected.replace(/\r\n/g, '\n').trim() === actual.replace(/\r\n/g, '\n').trim();
 const dateSignature = html => JSON.stringify({
   visible: html.match(/<p class="article-meta">([\s\S]*?)<\/p>/)?.[1] ?? null,
   evidence: html.match(/<p class="evidence-source-note evidence-updated">([\s\S]*?)<\/p>/)?.[1] ?? null,
@@ -73,7 +77,7 @@ async function run() {
     try {
       const expected = await readFile(new URL(`../dist/${file}`, import.meta.url), 'utf8');
       const response = await fetch(`${site.origin}/${file}${query}`, { redirect: 'manual', signal: AbortSignal.timeout(20000) });
-      if (response.status !== 200 || (await response.text()).trim() !== expected.trim()) sitemapIssues.push(file);
+      if (response.status !== 200 || !sameSitemap(expected, await response.text())) sitemapIssues.push(file);
     } catch { sitemapIssues.push(file); }
   }
   console.log(JSON.stringify({ checkedAt: new Date().toISOString(), bypassedCache: Boolean(query), results,
