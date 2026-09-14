@@ -1,0 +1,200 @@
+✔ editorial dates parse strictly without local-time rollover (4.1592ms)
+✔ older evidence cannot replace a newer article revision (18.7678ms)
+✔ newer evidence is a real page update, but remains separately identified (0.6557ms)
+✔ independent locale revision takes precedence over the shared article date (2.0353ms)
+✔ missing dates stay missing, never defaulting to the build date (0.9303ms)
+✔ en: active article/tool dates agree with recorded revisions and JSON-LD (296.5043ms)
+✔ en: every policy support address is protected and directly usable without JavaScript (5.7406ms)
+✔ fa: active article/tool dates agree with recorded revisions and JSON-LD (185.8508ms)
+✔ fa: every policy support address is protected and directly usable without JavaScript (6.1634ms)
+✔ ar: active article/tool dates agree with recorded revisions and JSON-LD (186.3236ms)
+✔ ar: every policy support address is protected and directly usable without JavaScript (3.7786ms)
+✔ fr: active article/tool dates agree with recorded revisions and JSON-LD (163.4893ms)
+✔ fr: every policy support address is protected and directly usable without JavaScript (4.634ms)
+✔ tr: active article/tool dates agree with recorded revisions and JSON-LD (150.5053ms)
+✔ tr: every policy support address is protected and directly usable without JavaScript (3.6309ms)
+✔ es: active article/tool dates agree with recorded revisions and JSON-LD (141.0257ms)
+✔ es: every policy support address is protected and directly usable without JavaScript (3.7576ms)
+✔ pt: active article/tool dates agree with recorded revisions and JSON-LD (150.6669ms)
+✔ pt: every policy support address is protected and directly usable without JavaScript (3.7234ms)
+✔ calendar dates reject normalization, malformed input and invalid leap days (5.3158ms)
+✔ numeric values never turn blank inputs into zero; localized decimal input works (0.6932ms)
+✔ pregnancy age uses completed weeks: the due date is exactly 40 weeks and 0 days (1.0664ms)
+✔ dates outside the estimate window produce an error rather than a clamped result (0.2479ms)
+✔ due-date and week tools agree for every supported cycle length (0.5943ms)
+✔ cycle and luteal validation rejects blank, zero, fractions and out-of-range inputs (0.298ms)
+✔ legacy records are read without rewriting or guessing units (0.4908ms)
+✔ adding the 51st and 151st record never discards existing records (1.1479ms)
+✔ failed writes preserve the previous raw record and explicitly fail (0.2741ms)
+✔ corrupt, unsupported and inaccessible storage is not overwritten (0.4418ms)
+✔ another tab cannot be overwritten with an out-of-date log (0.3318ms)
+✔ edit, remove, reload and undo preserve values and identity (0.2185ms)
+✔ growth requires a measurement and its unit but unchanged legacy unknown units remain unknown (0.4117ms)
+✔ trend conversion accepts only explicit compatible units (0.1629ms)
+✔ en: calculator and planner pages have complete localized tool configuration (0.613ms)
+✔ fa: calculator and planner pages have complete localized tool configuration (0.489ms)
+✔ ar: calculator and planner pages have complete localized tool configuration (0.3221ms)
+✔ fr: calculator and planner pages have complete localized tool configuration (0.4812ms)
+✔ tr: calculator and planner pages have complete localized tool configuration (2.4335ms)
+✔ es: calculator and planner pages have complete localized tool configuration (0.544ms)
+✔ pt: calculator and planner pages have complete localized tool configuration (0.323ms)
+✔ built module imports use hashes of emitted dependency bytes (22.7509ms)
+✔ en: all active public routes are indexable, in the sitemap and reachable without JavaScript (441.1332ms)
+✔ fa: all active public routes are indexable, in the sitemap and reachable without JavaScript (196.6172ms)
+✔ ar: all active public routes are indexable, in the sitemap and reachable without JavaScript (174.8338ms)
+✔ fr: all active public routes are indexable, in the sitemap and reachable without JavaScript (173.5952ms)
+✔ tr: all active public routes are indexable, in the sitemap and reachable without JavaScript (168.5526ms)
+✔ es: all active public routes are indexable, in the sitemap and reachable without JavaScript (178.4607ms)
+✔ pt: all active public routes are indexable, in the sitemap and reachable without JavaScript (167.4317ms)
+✔ sitemap index preserves all languages without artificial lastmod dates (1.0269ms)
+✔ default IndexNow URL selection excludes explicitly retired noindex tools (3.4883ms)
+✔ IndexNow batches public pages across languages and removes duplicates (0.4914ms)
+✔ IndexNow refuses private endpoints, other hosts, query strings and empty batches (6.5157ms)
+✔ deployment signatures ignore build timestamps but detect changed metadata (0.8116ms)
+✔ localized product guides keep source sections, images and same-language destinations (30.9708ms)
+✔ calculator localization preserves input methods and exposes its dating convention (11.1424ms)
+✔ product-specific bylines do not inherit health-source or medical-review claims (9.4503ms)
+✔ article link labels preserve the intended URL and render as escaped text (5.2214ms)
+✔ English homepage opens a public tool without sending readers to app sign-in (11.3308ms)
+✔ fa: generated homepage links directly to localized guest help (3.6511ms)
+✔ ar: generated homepage links directly to localized guest help (1.6036ms)
+✔ fr: generated homepage links directly to localized guest help (1.5596ms)
+✔ tr: generated homepage links directly to localized guest help (1.4213ms)
+✔ es: generated homepage links directly to localized guest help (1.1278ms)
+✔ pt: generated homepage links directly to localized guest help (1.7894ms)
+✔ campaign forwarding preserves tool/language and drops arbitrary input (1.0011ms)
+✔ every supported locale has its own editorial description map (13.7669ms)
+✔ en: every article has translated, valid search metadata (7.704ms)
+✔ fa: every article has translated, valid search metadata (9.7741ms)
+✔ ar: every article has translated, valid search metadata (14.4345ms)
+✔ fr: every article has translated, valid search metadata (6.7024ms)
+✔ tr: every article has translated, valid search metadata (9.807ms)
+✔ es: every article has translated, valid search metadata (6.047ms)
+✔ pt: every article has translated, valid search metadata (6.4561ms)
+✔ explicit overrides reference known routes and languages (0.9052ms)
+✔ missing rewrites fail instead of cutting sentences or assembling headings (1.1301ms)
+✔ unsupported languages are never replaced with English (0.2422ms)
+✔ length budgeting accounts for escaped metadata without changing it (0.3385ms)
+✔ short-description checks use visible characters, not entity-inflated length (0.3676ms)
+✔ gestational age uses locale-specific singular and plural units (24.7418ms)
+✔ legacy checklist migration retains the exact checked task across categories (1.3484ms)
+✔ checklist progress excludes skipped tasks and handles all-skipped lists (0.2428ms)
+✔ first save preserves original records and undo survives reload (1.1278ms)
+✔ stale writes, corrupt storage, oversized notes and duplicate IDs cannot overwrite data (1.0237ms)
+✔ quota failure does not announce success or change the prior state (0.4017ms)
+✔ backup cannot cross tools; importing a valid backup is undoable (0.5662ms)
+✔ name migration preserves previous notes without claiming verified meanings (0.5233ms)
+✔ SSA records reproduce every row of the retained source and published anchors (17.8973ms)
+✔ name filters combine query, category, length and order without arbitrary result loss (2.1529ms)
+✔ calendar export handles leap days, escaping, invalid dates and UTF-8 line folding (2.7753ms)
+✔ en: expanded organizers, sourced names and combined dating route (2.6645ms)
+✔ fa: expanded organizers, sourced names and combined dating route (2.172ms)
+✔ ar: expanded organizers, sourced names and combined dating route (2.3545ms)
+✔ fr: expanded organizers, sourced names and combined dating route (2.1656ms)
+✔ tr: expanded organizers, sourced names and combined dating route (2.0369ms)
+✔ es: expanded organizers, sourced names and combined dating route (2.2451ms)
+✔ pt: expanded organizers, sourced names and combined dating route (2.2033ms)
+✔ new module hashes and removal of unverified name data reach the built runtime (6.4808ms)
+✔ fertile window is the ASRM six-day interval ending on estimated ovulation (3.024ms)
+✔ growth graph uses dates, selected range and explicitly compatible units (0.6348ms)
+✔ WHO references never infer a birth date or include out-of-range measurements (0.4014ms)
+✔ WHO tables contain the 25 published monthly rows and ordered percentiles (10.7151ms)
+✔ fertility calendar spans leap-month and year boundaries (0.7608ms)
+✔ en: nine distinct tools are listed and retired planners recover to guides (12.8045ms)
+✔ fa: nine distinct tools are listed and retired planners recover to guides (5.5755ms)
+✔ ar: nine distinct tools are listed and retired planners recover to guides (4.5197ms)
+✔ fr: nine distinct tools are listed and retired planners recover to guides (4.5049ms)
+✔ tr: nine distinct tools are listed and retired planners recover to guides (4.9177ms)
+✔ es: nine distinct tools are listed and retired planners recover to guides (4.073ms)
+✔ pt: nine distinct tools are listed and retired planners recover to guides (4.1914ms)
+✔ chart modules and WHO data are versioned using their emitted content (4.2216ms)
+✔ sitemap comparison permits Windows line endings but catches changed content (1.3912ms)
+✔ live verifier permits removed comments and unrelated edge scripts (24.8568ms)
+✔ live verifier detects email rewriting added after a clean local build (0.3428ms)
+✔ live verifier catches stale dates even when SEO metadata is unchanged (0.1616ms)
+✔ live verifier fails redirects, noindex headers and stale asset keys (0.3169ms)
+ℹ tests 115
+ℹ suites 0
+ℹ pass 115
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1906.878
+Validated 1400 HTML files and 1393 localized routes.
+{
+  "pages": 1393,
+  "longTitles": 0,
+  "shortTitles": 0,
+  "longDescriptions": 0,
+  "shortDescriptions": 0,
+  "perLanguage": [
+    {
+      "language": "en",
+      "label": "English",
+      "pages": 199,
+      "editorialDescriptions": 121,
+      "preservedDescriptions": 78,
+      "lengthIssues": 0,
+      "localizationIssues": 0
+    },
+    {
+      "language": "fa",
+      "label": "فارسی",
+      "pages": 199,
+      "editorialDescriptions": 145,
+      "preservedDescriptions": 54,
+      "lengthIssues": 0,
+      "localizationIssues": 0
+    },
+    {
+      "language": "ar",
+      "label": "العربية",
+      "pages": 199,
+      "editorialDescriptions": 104,
+      "preservedDescriptions": 95,
+      "lengthIssues": 0,
+      "localizationIssues": 0
+    },
+    {
+      "language": "fr",
+      "label": "Français",
+      "pages": 199,
+      "editorialDescriptions": 191,
+      "preservedDescriptions": 8,
+      "lengthIssues": 0,
+      "localizationIssues": 0
+    },
+    {
+      "language": "tr",
+      "label": "Türkçe",
+      "pages": 199,
+      "editorialDescriptions": 184,
+      "preservedDescriptions": 15,
+      "lengthIssues": 0,
+      "localizationIssues": 0
+    },
+    {
+      "language": "es",
+      "label": "Español",
+      "pages": 199,
+      "editorialDescriptions": 186,
+      "preservedDescriptions": 13,
+      "lengthIssues": 0,
+      "localizationIssues": 0
+    },
+    {
+      "language": "pt",
+      "label": "Português",
+      "pages": 199,
+      "editorialDescriptions": 185,
+      "preservedDescriptions": 14,
+      "lengthIssues": 0,
+      "localizationIssues": 0
+    }
+  ],
+  "oversizedImages": [],
+  "duplicateTitles": [],
+  "duplicateDescriptions": [],
+  "localizationIssues": []
+}

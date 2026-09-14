@@ -1,0 +1,402 @@
+{
+  "scope": "Step 5 two-page pilot; keyword research, not campaigns. These are research candidates, not a count of missing website keywords.",
+  "method": "Manually transcribed from the visible Keywords you provided rows in Google Ads Keyword Planner in Chrome. Seed chips were verified before submitting each batch. Some submitted phrases did not appear as provided-keyword rows and disappeared from the retained seed list; the cause was not established. Null means not returned/measured in this run, never zero searches.",
+  "settings": {
+    "locations": "All locations",
+    "network": "Google",
+    "filter": "Exclude adult ideas",
+    "dateRangeLabel": "Last 12 months",
+    "period": {
+      "from": "2025-09",
+      "to": "2026-08",
+      "verification": "Explicit Start date/End date fields observed September 13. The earlier September 12 batches used Last 12 months; exact months were not separately opened then."
+    }
+  },
+  "limits": [
+    "Google estimates may group close variants. Do not sum or treat ranges as exact counts.",
+    "No organic rank, SEO difficulty, competitor traffic or AI-citation measurement.",
+    "Ad competition and bids were not used to prioritize organic content.",
+    "All locations is language-level research, not country-specific demand. Portuguese copy follows the site's existing Brazilian Portuguese style.",
+    "Initial seed wording includes competitor concepts and editorial variants. See sources-and-decisions.md for actual observed publisher wording; a measured term is not automatically a competitor's exact phrase."
+  ],
+  "batches": {
+    "en": {
+      "observedDate": "2026-09-13",
+      "language": "en",
+      "keywords": [
+        {
+          "keyword": "pregnancy tracker app",
+          "avgMonthlySearches": "10K – 100K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "pregnancy week by week",
+          "avgMonthlySearches": "10K – 100K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "due date calculator",
+          "avgMonthlySearches": "100K – 1M",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "pregnancy week calculator",
+          "avgMonthlySearches": "100K – 1M",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "baby tracker app",
+          "avgMonthlySearches": null,
+          "status": "not-returned",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "breastfeeding tracker",
+          "avgMonthlySearches": "100 – 1K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "4 month sleep schedule",
+          "avgMonthlySearches": "1K – 10K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "6 month feeding schedule",
+          "avgMonthlySearches": "1K – 10K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        }
+      ]
+    },
+    "fa": {
+      "observedDate": "2026-09-12",
+      "language": "fa",
+      "keywords": [
+        {
+          "keyword": "اپلیکیشن بارداری",
+          "avgMonthlySearches": "10 – 100",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "بارداری هفته به هفته",
+          "avgMonthlySearches": "100 – 1K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "تقویم بارداری",
+          "avgMonthlySearches": "100 – 1K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "محاسبه تاریخ زایمان",
+          "avgMonthlySearches": "100 – 1K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "محاسبه سن بارداری",
+          "avgMonthlySearches": "1K – 10K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "ثبت شیردهی",
+          "avgMonthlySearches": null,
+          "status": "not-returned",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "خواب نوزاد چهار ماهه",
+          "avgMonthlySearches": "10 – 100",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "تغذیه کودک شش ماهه",
+          "avgMonthlySearches": "10 – 100",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        }
+      ]
+    },
+    "fr": {
+      "observedDate": "2026-09-12",
+      "language": "fr",
+      "keywords": [
+        {
+          "keyword": "application grossesse",
+          "avgMonthlySearches": "1K – 10K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "suivi de grossesse",
+          "avgMonthlySearches": null,
+          "status": "not-returned",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "grossesse semaine par semaine",
+          "avgMonthlySearches": "1K – 10K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "calcul date accouchement",
+          "avgMonthlySearches": "1K – 10K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "calcul semaine grossesse",
+          "avgMonthlySearches": "1K – 10K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "suivi bébé",
+          "avgMonthlySearches": null,
+          "status": "not-returned",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "sommeil bébé 4 mois",
+          "avgMonthlySearches": null,
+          "status": "not-returned",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "alimentation bébé 6 mois",
+          "avgMonthlySearches": null,
+          "status": "not-returned",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        }
+      ]
+    },
+    "es": {
+      "observedDate": "2026-09-12",
+      "language": "es",
+      "keywords": [
+        {
+          "keyword": "app de embarazo",
+          "avgMonthlySearches": "1K – 10K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "embarazo semana a semana",
+          "avgMonthlySearches": "1K – 10K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "calculadora fecha de parto",
+          "avgMonthlySearches": "1K – 10K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "calculadora semanas embarazo",
+          "avgMonthlySearches": "1K – 10K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "seguimiento del bebé",
+          "avgMonthlySearches": null,
+          "status": "not-returned",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "registro lactancia",
+          "avgMonthlySearches": null,
+          "status": "not-returned",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "sueño bebé 4 meses",
+          "avgMonthlySearches": null,
+          "status": "not-returned",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "alimentación bebé 6 meses",
+          "avgMonthlySearches": null,
+          "status": "not-returned",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        }
+      ]
+    },
+    "pt": {
+      "observedDate": "2026-09-13",
+      "language": "pt",
+      "keywords": [
+        {
+          "keyword": "aplicativo de gravidez",
+          "avgMonthlySearches": "1K – 10K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "gravidez semana a semana",
+          "avgMonthlySearches": "1K – 10K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "calculadora da gravidez",
+          "avgMonthlySearches": "1K – 10K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "data provável do parto",
+          "avgMonthlySearches": "1K – 10K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "calculadora gestacional",
+          "avgMonthlySearches": "100K – 1M",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "registro de amamentação",
+          "avgMonthlySearches": "10 – 100",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "sono bebê 4 meses",
+          "avgMonthlySearches": "100 – 1K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "alimentação bebê 6 meses",
+          "avgMonthlySearches": "100 – 1K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        }
+      ]
+    },
+    "tr": {
+      "observedDate": "2026-09-13",
+      "language": "tr",
+      "keywords": [
+        {
+          "keyword": "gebelik takibi",
+          "avgMonthlySearches": null,
+          "status": "not-returned",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "hamilelik uygulaması",
+          "avgMonthlySearches": "100 – 1K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "hafta hafta gebelik",
+          "avgMonthlySearches": null,
+          "status": "not-returned",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "doğum tarihi hesaplama",
+          "avgMonthlySearches": "1K – 10K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "gebelik haftası hesaplama",
+          "avgMonthlySearches": null,
+          "status": "not-returned",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "emzirme takibi",
+          "avgMonthlySearches": "10 – 100",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "4 aylık bebek uyku düzeni",
+          "avgMonthlySearches": "1K – 10K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "6 aylık bebek beslenmesi",
+          "avgMonthlySearches": "100 – 1K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        }
+      ]
+    },
+    "ar": {
+      "observedDate": "2026-09-13",
+      "language": "ar",
+      "keywords": [
+        {
+          "keyword": "تطبيق متابعة الحمل",
+          "avgMonthlySearches": "100 – 1K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "الحمل أسبوع بأسبوع",
+          "avgMonthlySearches": "10 – 100",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "حاسبة الحمل",
+          "avgMonthlySearches": "100K – 1M",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "حساب موعد الولادة",
+          "avgMonthlySearches": "1K – 10K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "حساب عمر الحمل",
+          "avgMonthlySearches": "1K – 10K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "تسجيل الرضاعة",
+          "avgMonthlySearches": null,
+          "status": "not-returned",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "نوم الطفل في الشهر الرابع",
+          "avgMonthlySearches": "100 – 1K",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        },
+        {
+          "keyword": "تغذية الطفل في الشهر السادس",
+          "avgMonthlySearches": "10 – 100",
+          "status": "measured-range",
+          "source": "Google Ads Keyword Planner / Keywords you provided"
+        }
+      ]
+    }
+  }
+}

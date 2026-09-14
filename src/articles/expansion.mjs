@@ -8,6 +8,7 @@ import { plannerCopy } from '../tool-planner-copy.mjs';
 import { qualityCopy, toolDescription, withdrawnToolIds } from '../tool-quality-copy.mjs';
 import { completionCopy } from '../tool-completion-copy.mjs';
 import { checklistContent } from '../checklist-content.mjs';
+import { pregnancyCalculatorCopy } from '../pregnancy-calculator-copy.mjs';
 
 const langs = ['en', 'fa', 'ar', 'fr', 'tr', 'es', 'pt'];
 
@@ -1131,11 +1132,13 @@ function makeTool(def) {
       langs.map((lang) => {
         const copy = toolCopy[lang];
         const completion = completionCopy(lang);
-        const title = def.id === 'due-date-calculator' ? completion.pregnancyTitle : def.titles[lang] ?? def.titles.en;
+        const pregnancy = def.id === 'due-date-calculator' ? pregnancyCalculatorCopy[lang] : undefined;
+        const title = pregnancy?.title ?? def.titles[lang] ?? def.titles.en;
         const ui = pilotCopy(lang);
         const purpose = pilotPurpose(def.calculator || (def.id === 'growth-log' ? 'growth' : ''), lang);
         const fields = def.fields.flatMap((key) => {
           const field = localizeField(key, lang);
+          if (pregnancy?.fieldLabels[key]) field.label = pregnancy.fieldLabels[key];
           if (def.id !== 'growth-log' || !['weight', 'length'].includes(key)) return [field];
           return [field, {
             name: `${key}Unit`, type: 'select', label: ui[`${key}Unit`],
@@ -1146,8 +1149,9 @@ function makeTool(def) {
           lang,
           {
             title,
-            description: def.type === 'nameFinder' ? completion.namesDescription : toolDescription(def.id, lang) || copy.description(title),
-            intro: def.id === 'due-date-calculator' ? completion.pregnancyIntro : def.type === 'checklist' ? toolDescription(def.id,lang) : def.type === 'nameFinder' ? completion.namesDescription : purpose || copy.intro(title),
+            updatedIso: pregnancy ? '2026-09-13' : undefined,
+            description: pregnancy?.description ?? (def.type === 'nameFinder' ? completion.namesDescription : toolDescription(def.id, lang) || copy.description(title)),
+            intro: pregnancy?.intro ?? (def.type === 'checklist' ? toolDescription(def.id,lang) : def.type === 'nameFinder' ? completion.namesDescription : purpose || copy.intro(title)),
             sections: def.type === 'nameFinder' ? [
               {heading:copy.headings[0],paragraphs:[completion.nameWorkflow]},
               {heading:copy.headings[1],paragraphs:[copy.privacy]}
@@ -1170,12 +1174,13 @@ function makeTool(def) {
               timer: def.timer,
               planner: def.planner,
               fields,
-              ui: {...ui, ...qualityCopy(lang), ...completion},
+              ui: {...ui, ...qualityCopy(lang), ...completion, ...pregnancy?.ui},
               combined: def.id === 'due-date-calculator',
-              dueDateFields: def.id === 'due-date-calculator' ? [localizeField('dueDate',lang)] : undefined,
+              dueDateFields: pregnancy ? [{...localizeField('dueDate',lang), label: pregnancy.fieldLabels.dueDate}] : undefined,
               checklist: checklistContent(def.id,lang,localizeItems(def.items,lang)),
               suggestions: def.planner ? plannerCopy(def.planner, lang) : undefined,
               sources: def.calculator ? [
+                ...(pregnancy && lang === 'fr' ? [{label: 'Assurance Maladie · SA', url: 'https://www.ameli.fr/assure/sante/devenir-parent/grossesse/grossesse-en-bonne-sante/grossesse/premiers-symptomes-grossesse'}] : []),
                 {label: 'NHS', url: def.calculator === 'ovulation' ? 'https://www.nhs.uk/conditions/periods/fertility-in-the-menstrual-cycle/' : 'https://www.nhs.uk/pregnancy/finding-out/due-date-calculator/'},
                 ...(def.calculator === 'ovulation' ? [{label:'ASRM',url:'https://www.asrm.org/practice-guidance/practice-committee-documents/optimizing-natural-fertility-a-committee-opinion-2021/'}] : [{label:'NHS · '+qualityCopy(lang).timeline,url:'https://www.nhs.uk/best-start-in-life/pregnancy/week-by-week-guide-to-pregnancy/'}])
               ] : def.planner === 'solids' ? [{label: 'CDC', url: 'https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/when-what-and-how-to-introduce-solid-foods.html'}] : undefined,

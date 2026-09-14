@@ -68,69 +68,90 @@ export const translations = {
     ]
   },
   'about-bemama/daily-journey': {
-    title: 'A Jornada Diária: orientação sob medida para a sua fase',
-    description:
-      'Como funciona a Jornada Diária do BeMama — defina a sua fase, receba conteúdo diário organizado e pequenas ações, e deixe a orientação se adaptar conforme a sua jornada de maternidade avança.',
-    intro:
-      'A Jornada Diária é o coração do BeMama. Em vez de entregar uma enciclopédia e desejar boa sorte, ela oferece a cada dia um conjunto pequeno e bem escolhido de conteúdos e ações, moldado exatamente para onde você está — planejando, grávida, cuidando de um bebê ou acompanhando o crescimento de uma criança.',
-    sections: [
+    "title": "Aplicativo de gravidez BeMama: guia da jornada diária",
+    "description": "Configure sua jornada no aplicativo de gravidez BeMama, acompanhe a gravidez semana a semana e entenda o cálculo de datas e o acesso aos recursos.",
+    "intro": "A jornada diária do BeMama reúne conteúdos adequados à sua fase e estimativas do progresso da gravidez. Escolha a fase e a data correspondentes, veja sua semana atual e atualize as informações quando sua situação mudar.",
+    "sections": [
       {
-        heading: 'Comece definindo a sua fase',
-        paragraphs: [
-          'Ao configurar o BeMama, você conta em que ponto da jornada está: planejando uma gravidez, esperando um bebê (e de quantas semanas, aproximadamente), cuidando de um bebê ou apoiando uma criança em crescimento. Essa única escolha molda tudo o que você vê.',
-          'Você pode adicionar detalhes que ajudam a personalizar a experiência — como a data prevista do parto ou a faixa etária do seu filho — para que o conteúdo que chega até você realmente combine com os seus dias.'
+        "heading": "1. Configure o acompanhamento da gravidez",
+        "paragraphs": [
+          "Abra o BeMama, crie uma conta ou entre e configure a jornada diária escolhendo a fase de gravidez. As outras opções incluem planejamento, cuidados com o bebê e crescimento infantil.",
+          "Informe a data pedida no formulário e confira antes de salvar. A calculadora do aplicativo usa o primeiro dia da última menstruação; não coloque a data do parto nesse campo. Se a equipe de pré-natal definir outra datação, siga a orientação dela."
         ]
       },
       {
-        heading: 'Um ritmo diário de conteúdo e pequenas ações',
-        paragraphs: [
-          'A cada dia, a Jornada Diária apresenta conteúdo organizado e relevante para a sua fase: o que está acontecendo no seu corpo ou no desenvolvimento do seu bebê, o que costuma importar agora e lembretes gentis que valem a pena colocar em prática.',
-          'Junto com a leitura, ela sugere ações pequenas e concretas — daquelas que levam minutos, não tardes inteiras. Uma anotação para registrar algo, um tema para refletir, uma pergunta que vale levar à sua próxima consulta.'
+        "heading": "2. Acompanhe a gravidez semana a semana",
+        "paragraphs": [
+          "Abra a jornada diária para ver os conteúdos da fase escolhida. As ferramentas mostram estimativas da semana e do dia, trimestre, data provável do parto e dias restantes, ajudando você a se orientar no calendário da gravidez.",
+          "Use os assuntos que leu para preparar perguntas para a próxima consulta. As informações são educativas e gerais; não confirmam o desenvolvimento do feto nem substituem consultas e exames."
         ]
       },
       {
-        heading: 'Orientação que se adapta conforme você avança',
-        paragraphs: [
-          'A maternidade não para, e a Jornada Diária também não. Conforme as semanas passam e a sua fase avança, o conteúdo e as ações sugeridas caminham com você — da consciência do ciclo aos marcos de cada trimestre, das rotinas do recém-nascido ao crescimento da criança pequena.',
-          'Quando a sua jornada muda de forma mais significativa — um teste positivo, um nascimento, uma nova fase — você atualiza a sua fase e toda a experiência se reorganiza em torno da sua nova realidade.'
+        "heading": "3. Mantenha a jornada atualizada",
+        "paragraphs": [
+          "Use as configurações ou a edição da jornada quando sua fase ou suas datas mudarem. Depois do nascimento, configure a fase do bebê com a data de nascimento para adequar os conteúdos à idade dele.",
+          "A mudança de fase depende de você. Confira a jornada ativa antes de ler um plano diário ou registrar informações, principalmente se houver mais de um perfil."
         ]
       },
       {
-        heading: 'Por que pequenos passos diários vencem o excesso de informação',
-        paragraphs: [
-          'Ler quarenta artigos em uma única noite de ansiedade raramente ajuda alguém. Pequenas doses diárias funcionam melhor: são mais fáceis de absorver, mais fáceis de colocar em prática e constroem compreensão aos poucos, em vez de sobrecarregar você de uma vez.',
-          'A Jornada Diária segue esse ritmo de propósito. Ela respeita a sua atenção e a sua energia — porque um fluxo calmo e constante da informação certa na hora certa vale mais do que um oceano de tudo ao mesmo tempo.'
+        "heading": "Calcule a data provável do parto sem entrar na conta",
+        "paragraphs": [
+          "A calculadora gratuita do site aceita a data da última menstruação ou uma data provável do parto já conhecida e mostra o progresso em uma linha do tempo: https://bemamas.com/pt/tools/due-date-calculator/",
+          "Organize consultas e perguntas no calendário separado do site e baixe um arquivo de calendário: https://bemamas.com/pt/tools/appointment-symptom-calendar/",
+          "Os dados da calculadora e do calendário do site ficam separados da conta do aplicativo e não são sincronizados automaticamente com a jornada diária. Baixe um backup quando a ferramenta oferecer essa opção."
         ]
       },
       {
-        heading: 'Educação em primeiro lugar, decisões com o seu profissional',
-        paragraphs: [
-          'O conteúdo da Jornada Diária é educação geral. Ele ajuda você a entender o que é típico, o que observar e quais perguntas fazer — mas nunca substitui o julgamento do seu próprio profissional de saúde.',
-          'Muitas pessoas percebem que alguns dias de leitura da Jornada Diária tornam as consultas mais produtivas: você chega com contexto e com perguntas melhores.'
+        "heading": "Acesso gratuito e recursos opcionais",
+        "paragraphs": [
+          "No aplicativo atual, a jornada diária continua disponível sem assinatura Premium ativa. Algumas ferramentas, funções de IA e recursos da conta têm condições de acesso próprias. Confira as telas de recursos e assinatura para saber o que está disponível na sua conta.",
+          "Veja a explicação sobre acesso gratuito e Premium: https://bemamas.com/pt/about-bemama/premium/"
+        ]
+      },
+      {
+        "heading": "Baixe o aplicativo de gravidez",
+        "paragraphs": [
+          "Use o BeMama na web: https://app.bemamas.com/ no Android: https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client ou no iOS: https://apps.apple.com/us/app/bemama/id6783137312.",
+          "Depois do nascimento, veja como registrar amamentação, mamadeiras, sono e trocas de fralda: https://bemamas.com/pt/about-bemama/tools/"
         ]
       }
     ],
-    takeaways: [
-      'Defina a sua fase uma única vez e a Jornada Diária organiza o conteúdo diário em torno dela.',
-      'Cada dia traz um conjunto pequeno e focado de leituras e ações realizáveis.',
-      'A orientação se adapta automaticamente conforme a sua fase e as suas semanas avançam.',
-      'Pequenos passos diários são mais calmos e eficazes do que o excesso de informação.',
-      'O conteúdo é educativo — ele prepara você para as conversas com o seu profissional, não para decisões.'
+    "takeaways": [
+      "Escolha a fase de gravidez e informe a data pedida no formulário.",
+      "Acompanhe a gravidez semana a semana com a jornada diária e as ferramentas de progresso.",
+      "Atualize sua fase e suas datas quando sua situação mudar.",
+      "A calculadora de data provável do parto do site funciona sem conta.",
+      "Os cálculos são estimativas; não confirmam o desenvolvimento nem a datação clínica."
     ],
-    faq: [
+    "faq": [
       {
-        q: 'O que acontece se a minha fase mudar?',
-        a: 'Atualize a sua fase no aplicativo — por exemplo, do planejamento para a gravidez — e a Jornada Diária reorganiza imediatamente o conteúdo e as ações em torno da sua nova fase.'
+        "q": "Como acompanho minha gravidez no BeMama?",
+        "a": "Configure uma jornada de gravidez, confira a data da última menstruação e abra a jornada diária. As ferramentas estimam semana, dia, trimestre e data do parto. Confirme a datação clínica com a equipe de pré-natal."
       },
       {
-        q: 'Quanto tempo a Jornada Diária toma por dia?',
-        a: 'Ela foi pensada para minutos, não horas. Uma leitura curta e uma pequena ação são o habitual; você sempre pode explorar mais, se quiser.'
+        "q": "O BeMama é um aplicativo de gravidez gratuito?",
+        "a": "A jornada diária está disponível sem assinatura Premium ativa no aplicativo atual. Os outros recursos têm condições de acesso próprias. A calculadora pública do site é gratuita e não exige conta."
       },
       {
-        q: 'A Jornada Diária é aconselhamento médico?',
-        a: 'Não. É educação geral organizada por fase. Ela pode ajudar você a preparar perguntas e a entender o que é típico, mas as decisões médicas pertencem ao seu profissional de saúde.'
+        "q": "O calendário da gravidez agenda minhas consultas?",
+        "a": "O progresso da gravidez mostra datas estimadas e não marca consultas. Use o calendário separado do site para organizar os compromissos que já combinou e confirme as datas com sua equipe de saúde."
+      },
+      {
+        "q": "Posso usar o BeMama depois que meu bebê nascer?",
+        "a": "Sim. Configure a fase do bebê com a data de nascimento e use o perfil dele para registrar amamentação, mamadeiras, sono e fraldas. Confira o perfil selecionado antes de salvar."
       }
-    ]
+    ],
+    "byline": "Guia do produto por {name}, fundador do BeMama.",
+    "linkLabels": {
+      "https://app.bemamas.com/": "Abrir o aplicativo BeMama",
+      "https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client": "BeMama no Google Play",
+      "https://apps.apple.com/us/app/bemama/id6783137312": "BeMama na App Store",
+      "https://bemamas.com/pt/about-bemama/tools/": "Acompanhamento do bebê: alimentação, sono e fraldas",
+      "https://bemamas.com/pt/about-bemama/premium/": "Acesso gratuito e Premium",
+      "https://bemamas.com/pt/tools/due-date-calculator/": "Calculadora de data provável do parto e semanas",
+      "https://bemamas.com/pt/tools/appointment-symptom-calendar/": "Calendário de consultas e sintomas"
+    },
+    "updatedIso": "2026-09-13"
   },
   'about-bemama/qa-and-community': {
     title: 'Perguntas e respostas e comunidade: pergunte, aprenda e conecte-se',

@@ -24,10 +24,10 @@
       <media:content url="https://bemamas.com/assets/content/ttc-preparing.jpg" medium="image" />
     </item>
     <item>
-      <title>Calculateur de terme et de semaine de grossesse</title>
+      <title>Calcul de date d’accouchement et semaines de grossesse</title>
       <link>https://bemamas.com/fr/tools/due-date-calculator/</link>
       <guid isPermaLink="true">https://bemamas.com/fr/tools/due-date-calculator/</guid>
-      <description>Calculez le terme estimé et explorez un calendrier daté de grossesse.</description>
+      <description>Calculez la date d’accouchement et les semaines d’aménorrhée (SA) avec BeMama, depuis les dernières règles ou une date prévue à 40 SA.</description>
       <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/preg-first-trimester.jpg" medium="image" />
     </item>
@@ -1400,10 +1400,10 @@
       <media:content url="https://bemamas.com/assets/content/app-why-bemama.jpg" medium="image" />
     </item>
     <item>
-      <title>Le Parcours quotidien : des conseils adaptés à votre étape</title>
+      <title>Application de suivi de grossesse : le parcours BeMama</title>
       <link>https://bemamas.com/fr/about-bemama/daily-journey/</link>
       <guid isPermaLink="true">https://bemamas.com/fr/about-bemama/daily-journey/</guid>
-      <description>Comment fonctionne le Parcours quotidien de BeMama: définissez votre étape, recevez chaque jour des contenus organisés et de petites actions, et laissez les conseils s’adapter à mesure que votre parcours de maternité avance.</description>
+      <description>Découvrez le suivi de grossesse BeMama : configurez votre parcours, suivez les semaines et comprenez le calcul des dates et l’accès aux fonctions.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/app-daily-journey.jpg" medium="image" />
     </item>

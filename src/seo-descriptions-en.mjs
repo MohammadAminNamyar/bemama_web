@@ -5,7 +5,7 @@ export const englishDescriptions = {
   'newborn/newborn-fever': 'Understand how to measure newborn fever, why it needs urgent medical assessment and what information to share when contacting your care team.',
   'tools/ovulation-calculator': 'Estimate ovulation timing from your cycle information with the BeMama calculator, and understand the limits of predicting fertile days.',
   'tools/preconception-checklist': 'Organize your preconception visit, medicine review, vaccine records and other pregnancy preparation steps with the BeMama checklist.',
-  'tools/due-date-calculator': 'Estimate your due date with the BeMama calculator and use the result as a starting point for planning and prenatal discussions.',
+  'tools/due-date-calculator': "Calculate your estimated due date and completed pregnancy weeks with BeMama. Use your last period or a known due date and explore a dated timeline.",
   'tools/pregnancy-week-lookup': 'Look up your pregnancy week with this BeMama tool to understand your current stage and prepare for the weeks ahead.',
   'tools/appointment-symptom-calendar': 'Organize appointments and symptom notes in the BeMama calendar so you can prepare questions and discuss changes with your care team.',
   'tools/hospital-bag-checklist': 'Prepare your hospital bag with a BeMama checklist covering documents, clothing, baby essentials and useful items for your support person.',

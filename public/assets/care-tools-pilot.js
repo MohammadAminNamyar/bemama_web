@@ -115,7 +115,15 @@ export function renderCalculatorPilot(config, runtimeLabels) {
     if(new URLSearchParams(location.search).get('method')==='due-date')select.value='pregnancyWeek';
     label.append(node('span','',ui.pregnancyMethod),select);const body=node('div');
     const render=()=>body.replaceChildren(renderCalculatorPilot({...config,chosenMethod:true,calculator:select.value,fields:select.value==='pregnancyWeek'?config.dueDateFields:config.fields},runtimeLabels));
-    select.addEventListener('change',render);wrapper.append(label,body);render();return wrapper;
+    select.addEventListener('change',render);
+    wrapper.append(label);
+    if (ui.methodHelp) {
+      const help = node('p', 'pilot-hint calculator-method-help', ui.methodHelp);
+      help.id = `${config.id}-method-help`;
+      select.setAttribute('aria-describedby', help.id);
+      wrapper.append(help);
+    }
+    wrapper.append(body);render();return wrapper;
   }
   const layout = node('div', 'tool-pilot pilot-calculator');
   const inputs = node('section', 'pilot-card');

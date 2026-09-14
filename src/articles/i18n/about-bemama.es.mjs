@@ -68,69 +68,90 @@ export const translations = {
     ]
   },
   'about-bemama/daily-journey': {
-    title: 'El Camino Diario: guía adaptada a tu etapa',
-    description:
-      'Cómo funciona el Camino Diario de BeMama: configura tu etapa, recibe contenido diario organizado y pequeñas acciones, y deja que la guía se adapte a medida que avanza tu camino de maternidad.',
-    intro:
-      'El Camino Diario es el corazón de BeMama. En lugar de entregarte una enciclopedia y desearte suerte, te ofrece cada día un conjunto pequeño y bien elegido de contenido y acciones, moldeado exactamente alrededor de donde estás: planificando, embarazada, cuidando a un bebé o viendo crecer a tu hijo.',
-    sections: [
+    "title": "App de embarazo BeMama: guía del recorrido diario",
+    "description": "Aprende a configurar tu app de embarazo BeMama, seguir el embarazo semana a semana y entender el cálculo de fechas y el acceso a las funciones.",
+    "intro": "El recorrido diario de BeMama reúne contenidos adecuados para tu etapa y estimaciones del progreso del embarazo. Elige la etapa y la fecha que corresponden, consulta tu semana actual y actualiza los datos cuando cambie tu situación.",
+    "sections": [
       {
-        heading: 'Empieza configurando tu etapa',
-        paragraphs: [
-          'Cuando configuras BeMama, le dices en qué punto de tu camino estás: planificando un embarazo, esperando un bebé (y aproximadamente cuántas semanas llevas), cuidando a un bebé o acompañando a un hijo que crece. Esa única elección da forma a todo lo que ves.',
-          'Puedes agregar detalles que ayudan a personalizar la experiencia, como la fecha probable de parto o el rango de edad de tu hijo, para que el contenido que te llega realmente encaje con tus días.'
+        "heading": "1. Configura el seguimiento de tu embarazo",
+        "paragraphs": [
+          "Abre BeMama, crea una cuenta o inicia sesión y configura el recorrido diario eligiendo la etapa de embarazo. Las otras opciones cubren la planificación, el cuidado del bebé y el crecimiento infantil.",
+          "Introduce la fecha solicitada y revísala antes de guardar. La calculadora de la aplicación usa el primer día de la última menstruación; no introduzcas la fecha de parto en ese campo. Si tu profesional de salud establece una datación diferente, sigue sus indicaciones."
         ]
       },
       {
-        heading: 'Un ritmo diario de contenido y pequeñas acciones',
-        paragraphs: [
-          'Cada día, el Camino Diario presenta contenido organizado y relevante para tu etapa: qué está pasando en tu cuerpo o en el desarrollo de tu bebé, qué suele importar en este momento y recordatorios amables que vale la pena atender.',
-          'Junto con la lectura, sugiere acciones pequeñas y concretas, de las que toman minutos, no tardes enteras. Una nota para registrar algo, un tema para reflexionar, una pregunta que vale la pena plantear en tu próxima cita.'
+        "heading": "2. Sigue tu embarazo semana a semana",
+        "paragraphs": [
+          "Abre el recorrido diario para consultar contenidos de tu etapa. Las herramientas muestran estimaciones de la semana y el día, el trimestre, la fecha probable de parto y los días restantes, como referencias en tu calendario de embarazo.",
+          "Usa lo que leas para preparar preguntas para la próxima consulta. La información es educativa y general; no confirma el desarrollo del feto ni sustituye consultas o pruebas."
         ]
       },
       {
-        heading: 'Una guía que se adapta a medida que avanzas',
-        paragraphs: [
-          'La maternidad no se detiene, y el Camino Diario tampoco. A medida que pasan las semanas y tu etapa avanza, el contenido y las acciones sugeridas se mueven contigo: de la conciencia del ciclo a los hitos de cada trimestre, de las rutinas del recién nacido al crecimiento del niño pequeño.',
-          'Cuando tu camino cambia de forma más grande, una prueba positiva, un nacimiento, una nueva etapa, actualizas tu etapa y toda la experiencia se reorganiza alrededor de tu nueva realidad.'
+        "heading": "3. Mantén tu recorrido actualizado",
+        "paragraphs": [
+          "Edita la configuración del recorrido cuando cambien tu etapa o tus fechas. Después del nacimiento, configura la etapa de bebé con su fecha de nacimiento para adaptar los contenidos a su edad.",
+          "Tú controlas el cambio de etapa. Revisa el recorrido activo antes de leer un plan diario o registrar información, especialmente si tienes más de un perfil."
         ]
       },
       {
-        heading: 'Por qué los pequeños pasos diarios superan a la sobrecarga de información',
-        paragraphs: [
-          'Leer cuarenta artículos en una noche de ansiedad rara vez ayuda a alguien. Las dosis pequeñas y diarias funcionan mejor: son más fáciles de absorber, más fáciles de poner en práctica y construyen comprensión de forma gradual en lugar de abrumarte de golpe.',
-          'El Camino Diario tiene este ritmo a propósito. Respeta tu atención y tu energía, porque un goteo sereno y constante de la información correcta en el momento correcto vale más que un océano de todo a la vez.'
+        "heading": "Calcula la fecha de parto sin iniciar sesión",
+        "paragraphs": [
+          "La calculadora gratuita del sitio acepta la fecha de la última menstruación o una fecha probable de parto ya conocida y muestra el progreso en una línea de tiempo: https://bemamas.com/es/tools/due-date-calculator/",
+          "Organiza las citas y tus preguntas en el calendario independiente del sitio y descarga un archivo de calendario: https://bemamas.com/es/tools/appointment-symptom-calendar/",
+          "Los datos de la calculadora y del calendario del sitio están separados de tu cuenta de la aplicación y no se sincronizan automáticamente con el recorrido diario. Descarga una copia de seguridad cuando la herramienta lo permita."
         ]
       },
       {
-        heading: 'Primero la educación; las decisiones, con tu profesional de salud',
-        paragraphs: [
-          'El contenido del Camino Diario es educación general. Te ayuda a entender qué es lo típico, a qué prestar atención y qué preguntas hacer, pero nunca reemplaza el criterio de tu propio profesional de salud.',
-          'Muchas personas descubren que unos días de lectura del Camino Diario hacen que las citas sean más productivas: llegas con contexto y con mejores preguntas.'
+        "heading": "Acceso gratuito y funciones opcionales",
+        "paragraphs": [
+          "En la aplicación actual, el recorrido diario sigue disponible sin una suscripción Premium activa. Algunas herramientas, funciones de IA y servicios de la cuenta tienen requisitos de acceso propios. Consulta las pantallas de funciones y suscripción para saber qué incluye tu cuenta.",
+          "Consulta la explicación del acceso gratuito y Premium: https://bemamas.com/es/about-bemama/premium/"
+        ]
+      },
+      {
+        "heading": "Descarga la app de embarazo",
+        "paragraphs": [
+          "Usa BeMama en la web: https://app.bemamas.com/ en Android: https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client o en iOS: https://apps.apple.com/us/app/bemama/id6783137312.",
+          "Después del nacimiento, conoce el registro de lactancia, biberones, sueño y cambios de pañal: https://bemamas.com/es/about-bemama/tools/"
         ]
       }
     ],
-    takeaways: [
-      'Configura tu etapa una vez y el Camino Diario organiza el contenido diario a su alrededor.',
-      'Cada día trae un conjunto pequeño y enfocado de lecturas y acciones realizables.',
-      'La guía se adapta automáticamente a medida que avanzan tu etapa y tus semanas.',
-      'Los pequeños pasos diarios son más serenos y más eficaces que la sobrecarga de información.',
-      'El contenido es educativo: te prepara para las conversaciones con tu profesional de salud, no para tomar decisiones médicas.'
+    "takeaways": [
+      "Elige la etapa de embarazo e introduce la fecha que pide el formulario.",
+      "Sigue el embarazo semana a semana con el recorrido diario y las herramientas de progreso.",
+      "Actualiza tu etapa y tus fechas cuando cambie tu situación.",
+      "La calculadora de fecha de parto del sitio funciona sin cuenta.",
+      "Los cálculos son estimaciones, no una confirmación del desarrollo ni de la datación clínica."
     ],
-    faq: [
+    "faq": [
       {
-        q: '¿Qué pasa si mi etapa cambia?',
-        a: 'Actualiza tu etapa en la aplicación, por ejemplo de planificación a embarazo, y el Camino Diario reorganiza su contenido y sus acciones alrededor de tu nueva etapa de inmediato.'
+        "q": "¿Cómo sigo mi embarazo en BeMama?",
+        "a": "Configura un recorrido de embarazo, revisa la fecha de tu última menstruación y abre el recorrido diario. Las herramientas estiman la semana, el día, el trimestre y la fecha de parto. Confirma la datación clínica con tu equipo de salud."
       },
       {
-        q: '¿Cuánto tiempo toma el Camino Diario cada día?',
-        a: 'Está diseñado para tomar minutos, no horas. Lo típico es una lectura corta y una acción pequeña; siempre puedes explorar más si lo deseas.'
+        "q": "¿BeMama es una app de embarazo gratuita?",
+        "a": "El recorrido diario está disponible sin una suscripción Premium activa en la aplicación actual. Las demás funciones tienen sus propios requisitos de acceso. La calculadora pública del sitio es gratuita y no necesita cuenta."
       },
       {
-        q: '¿El Camino Diario es consejo médico?',
-        a: 'No. Es educación general organizada por etapa. Puede ayudarte a preparar preguntas y a entender qué es lo típico, pero las decisiones médicas corresponden a tu profesional de salud.'
+        "q": "¿El calendario de embarazo reserva mis citas?",
+        "a": "El progreso del embarazo muestra fechas estimadas; no reserva citas. Usa el calendario separado del sitio para organizar las citas que ya has concertado y confírmalas con tu equipo de salud."
+      },
+      {
+        "q": "¿Puedo usar BeMama después del nacimiento?",
+        "a": "Sí. Configura la etapa de bebé con su fecha de nacimiento y usa su perfil para registrar lactancia, biberones, sueño y pañales. Revisa el perfil seleccionado antes de guardar."
       }
-    ]
+    ],
+    "byline": "Guía del producto de {name}, fundador de BeMama.",
+    "linkLabels": {
+      "https://app.bemamas.com/": "Abrir la app BeMama",
+      "https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client": "BeMama en Google Play",
+      "https://apps.apple.com/us/app/bemama/id6783137312": "BeMama en el App Store",
+      "https://bemamas.com/es/about-bemama/tools/": "Seguimiento del bebé: alimentación, sueño y pañales",
+      "https://bemamas.com/es/about-bemama/premium/": "Acceso gratuito y Premium",
+      "https://bemamas.com/es/tools/due-date-calculator/": "Calculadora de fecha de parto y semanas de embarazo",
+      "https://bemamas.com/es/tools/appointment-symptom-calendar/": "Calendario de citas y síntomas"
+    },
+    "updatedIso": "2026-09-13"
   },
   'about-bemama/qa-and-community': {
     title: 'Preguntas y respuestas y comunidad: pregunta, aprende y conecta',

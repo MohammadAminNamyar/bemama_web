@@ -24,10 +24,10 @@
       <media:content url="https://bemamas.com/assets/content/ttc-preparing.jpg" medium="image" />
     </item>
     <item>
-      <title>Doğum Tarihi ve Gebelik Haftası Hesaplayıcı</title>
+      <title>Doğum Tarihi ve Gebelik Haftası Hesaplama</title>
       <link>https://bemamas.com/tr/tools/due-date-calculator/</link>
       <guid isPermaLink="true">https://bemamas.com/tr/tools/due-date-calculator/</guid>
-      <description>Tahmini doğum tarihini hesaplayın ve gebelik zaman çizelgesini inceleyin.</description>
+      <description>BeMama ile son adet tarihinizden tahmini doğum tarihini hesaplayın veya bilinen tarihi kullanarak gebelik haftasını ve zaman çizelgesini görün.</description>
       <pubDate>Sat, 12 Sep 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/preg-first-trimester.jpg" medium="image" />
     </item>
@@ -1400,10 +1400,10 @@
       <media:content url="https://bemamas.com/assets/content/app-why-bemama.jpg" medium="image" />
     </item>
     <item>
-      <title>Günlük Yolculuk: Aşamanıza Özel Rehberlik</title>
+      <title>Gebelik Takibi Uygulaması: BeMama Günlük Yolculuk</title>
       <link>https://bemamas.com/tr/about-bemama/daily-journey/</link>
       <guid isPermaLink="true">https://bemamas.com/tr/about-bemama/daily-journey/</guid>
-      <description>BeMama’nın Günlük Yolculuğu nasıl çalışır: aşamanızı belirleyin, düzenli günlük içerik ve küçük eylemler alın ve annelik yolculuğunuz ilerledikçe rehberliğin size uyum sağlamasına izin verin.</description>
+      <description>BeMama gebelik takibi uygulamasında yolculuğunuzu kurun, hafta hafta gebeliği izleyin; tarih hesaplamalarını ve özelliklere erişimi öğrenin.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/app-daily-journey.jpg" medium="image" />
     </item>

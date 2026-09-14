@@ -68,69 +68,90 @@ export const translations = {
     ]
   },
   'about-bemama/daily-journey': {
-    title: 'Le Parcours quotidien : des conseils adaptés à votre étape',
-    description:
-      'Comment fonctionne le Parcours quotidien de BeMama — définissez votre étape, recevez chaque jour des contenus organisés et de petites actions, et laissez les conseils s’adapter à mesure que votre parcours de maternité avance.',
-    intro:
-      'Le Parcours quotidien est le cœur de BeMama. Plutôt que de vous tendre une encyclopédie en vous souhaitant bonne chance, il vous propose chaque jour un petit ensemble de contenus et d’actions bien choisis, façonné autour de là où vous en êtes précisément — projet de bébé, grossesse, soins d’un bébé ou accompagnement d’un enfant qui grandit.',
-    sections: [
+    "title": "Application de suivi de grossesse : le parcours BeMama",
+    "description": "Découvrez le suivi de grossesse BeMama : configurez votre parcours, suivez les semaines et comprenez le calcul des dates et l’accès aux fonctions.",
+    "intro": "Le parcours quotidien de BeMama associe des contenus adaptés à votre étape et des estimations de votre progression. Choisissez le bon parcours et la date demandée, consultez votre semaine actuelle et mettez vos informations à jour lorsque votre situation change.",
+    "sections": [
       {
-        heading: 'Commencez par définir votre étape',
-        paragraphs: [
-          'Lorsque vous configurez BeMama, vous lui indiquez où vous en êtes dans votre parcours : projet de grossesse, grossesse en cours (et approximativement à quel stade), soins d’un bébé ou accompagnement d’un enfant qui grandit. Ce simple choix façonne tout ce que vous voyez.',
-          'Vous pouvez ajouter des détails qui aident à personnaliser l’expérience — comme une date prévue d’accouchement ou la tranche d’âge de votre enfant — afin que les contenus qui vous parviennent correspondent vraiment à vos journées.'
+        "heading": "1. Configurer votre suivi de grossesse",
+        "paragraphs": [
+          "Ouvrez BeMama, créez un compte ou connectez-vous, puis configurez le parcours quotidien en choisissant la grossesse. Les autres étapes couvrent le projet de grossesse, les soins du bébé et la croissance de l’enfant.",
+          "Saisissez la date demandée et vérifiez-la avant de l’enregistrer. Le calculateur de l’application utilise le premier jour des dernières règles : ne saisissez pas une date d’accouchement dans ce champ. Les semaines comptées depuis les dernières règles sont des semaines d’aménorrhée (SA), distinctes des semaines depuis la conception. Suivez la datation retenue par votre équipe de soins."
         ]
       },
       {
-        heading: 'Un rythme quotidien de contenus et de petites actions',
-        paragraphs: [
-          'Chaque jour, le Parcours quotidien met en avant des contenus organisés et pertinents pour votre étape : ce qui se passe dans votre corps ou dans le développement de votre bébé, ce qui compte généralement en ce moment, et de doux rappels qui méritent d’être suivis.',
-          'En parallèle de la lecture, il suggère de petites actions concrètes — de celles qui prennent quelques minutes, pas des après-midis entiers. Une note à consigner, un sujet auquel réfléchir, une question à poser lors de votre prochain rendez-vous.'
+        "heading": "2. Suivre votre grossesse semaine par semaine",
+        "paragraphs": [
+          "Ouvrez le parcours quotidien pour lire les contenus de votre étape. Les outils de grossesse affichent une estimation de la semaine et du jour, du trimestre, de la date d’accouchement et des jours restants : des repères dans votre calendrier de grossesse.",
+          "Servez-vous d’un sujet lu pour préparer des questions à votre prochain rendez-vous. Ces informations générales ne confirment pas le développement du fœtus et ne remplacent ni consultations ni examens."
         ]
       },
       {
-        heading: 'Des conseils qui s’adaptent à mesure que vous avancez',
-        paragraphs: [
-          'La maternité ne reste pas immobile, et le Parcours quotidien non plus. Au fil des semaines et de l’avancement de votre étape, les contenus et les actions suggérées évoluent avec vous — de la connaissance du cycle aux grandes étapes des trimestres, puis aux routines du nouveau-né et à la croissance du tout-petit.',
-          'Quand votre parcours change de façon plus marquante — un test positif, une naissance, une nouvelle étape — vous mettez à jour votre étape et toute l’expérience se remodèle autour de votre nouvelle réalité.'
+        "heading": "3. Actualiser votre parcours",
+        "paragraphs": [
+          "Modifiez les réglages du parcours si votre étape ou vos dates changent. Après la naissance, configurez l’étape bébé avec sa date de naissance pour adapter les contenus à son âge.",
+          "Le changement d’étape dépend de vous. Vérifiez le parcours actif avant de lire un programme quotidien ou de saisir des informations, surtout si vous avez plusieurs profils."
         ]
       },
       {
-        heading: 'Pourquoi de petits pas quotidiens valent mieux que la surcharge d’informations',
-        paragraphs: [
-          'Lire quarante articles en une seule soirée d’angoisse n’aide presque jamais personne. De petites doses quotidiennes fonctionnent mieux : elles sont plus faciles à assimiler, plus faciles à mettre en pratique, et elles construisent la compréhension progressivement au lieu de vous submerger d’un coup.',
-          'Le Parcours quotidien est volontairement rythmé ainsi. Il respecte votre attention et votre énergie — parce qu’un filet calme et régulier de la bonne information au bon moment vaut plus qu’un océan de tout en même temps.'
+        "heading": "Calculer une date d’accouchement sans connexion",
+        "paragraphs": [
+          "Le calculateur gratuit du site accepte la date des dernières règles ou une date d’accouchement déjà connue, et affiche la progression sur une frise datée : https://bemamas.com/fr/tools/due-date-calculator/",
+          "Organisez vos rendez-vous et vos questions dans le calendrier distinct du site, avec téléchargement d’un fichier calendrier : https://bemamas.com/fr/tools/appointment-symptom-calendar/",
+          "Les données du calculateur et du calendrier du site sont séparées du compte de l’application et ne se synchronisent pas automatiquement avec le parcours quotidien. Téléchargez une sauvegarde lorsque l’outil le propose."
         ]
       },
       {
-        heading: 'L’éducation d’abord, les décisions avec votre professionnel de santé',
-        paragraphs: [
-          'Les contenus du Parcours quotidien relèvent de l’éducation générale. Ils vous aident à comprendre ce qui est habituel, ce qu’il faut surveiller et quelles questions poser — mais ils ne remplacent jamais le jugement de votre propre professionnel de santé.',
-          'Beaucoup de personnes constatent que quelques jours de lecture du Parcours quotidien rendent les rendez-vous plus productifs : vous arrivez avec du contexte et de meilleures questions.'
+        "heading": "Accès gratuit et fonctions en option",
+        "paragraphs": [
+          "Dans l’application actuelle, le parcours quotidien reste accessible sans abonnement Premium actif. Certains outils, fonctions d’IA et services du compte ont leurs propres conditions d’accès. Vérifiez les écrans des fonctions et de l’abonnement pour votre compte.",
+          "Consultez les explications sur les accès gratuit et Premium : https://bemamas.com/fr/about-bemama/premium/"
+        ]
+      },
+      {
+        "heading": "Télécharger l’application de grossesse",
+        "paragraphs": [
+          "Utilisez BeMama sur le web : https://app.bemamas.com/ sur Android : https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client ou sur iOS : https://apps.apple.com/us/app/bemama/id6783137312.",
+          "Après la naissance, découvrez le suivi des tétées, des biberons, du sommeil et des changes : https://bemamas.com/fr/about-bemama/tools/"
         ]
       }
     ],
-    takeaways: [
-      'Définissez votre étape une seule fois et le Parcours quotidien organise les contenus du jour autour d’elle.',
-      'Chaque jour apporte un petit ensemble ciblé de lectures et d’actions réalisables.',
-      'Les conseils s’adaptent automatiquement à mesure que votre étape et vos semaines avancent.',
-      'De petits pas quotidiens sont plus sereins et plus efficaces que la surcharge d’informations.',
-      'Les contenus sont éducatifs — ils vous préparent aux conversations avec votre professionnel de santé, pas aux décisions.'
+    "takeaways": [
+      "Choisissez la grossesse et saisissez la date demandée dans le formulaire.",
+      "Suivez votre grossesse semaine par semaine avec le parcours quotidien et les outils de progression.",
+      "Actualisez votre étape et vos dates lorsque votre situation évolue.",
+      "Le calculateur de date d’accouchement du site fonctionne sans compte.",
+      "Les résultats restent des estimations, pas une confirmation du développement ou de la datation clinique."
     ],
-    faq: [
+    "faq": [
       {
-        q: 'Que se passe-t-il si mon étape change ?',
-        a: 'Mettez à jour votre étape dans l’application — par exemple du projet de bébé à la grossesse — et le Parcours quotidien remodèle aussitôt ses contenus et ses actions autour de votre nouvelle étape.'
+        "q": "Comment suivre ma grossesse dans BeMama ?",
+        "a": "Configurez un parcours de grossesse, vérifiez la date des dernières règles et ouvrez le parcours quotidien. Les outils estiment la semaine, le jour, le trimestre et la date d’accouchement. Confirmez la datation clinique avec votre équipe de soins."
       },
       {
-        q: 'Combien de temps le Parcours quotidien demande-t-il chaque jour ?',
-        a: 'Il est conçu pour des minutes, pas des heures. Une courte lecture et une petite action sont la norme ; vous pouvez toujours explorer davantage si vous en avez envie.'
+        "q": "BeMama est-elle une application de grossesse gratuite ?",
+        "a": "Le parcours quotidien est disponible sans abonnement Premium actif dans l’application actuelle. Les autres fonctions ont leurs propres conditions d’accès. Le calculateur public du site est gratuit et ne nécessite pas de compte."
       },
       {
-        q: 'Le Parcours quotidien constitue-t-il un avis médical ?',
-        a: 'Non. C’est de l’éducation générale organisée par étape. Il peut vous aider à préparer vos questions et à comprendre ce qui est habituel, mais les décisions médicales appartiennent à votre professionnel de santé.'
+        "q": "Le calendrier de grossesse prend-il mes rendez-vous ?",
+        "a": "La progression affiche des dates estimées et ne réserve aucun rendez-vous. Utilisez le calendrier séparé du site pour organiser les rendez-vous déjà convenus et vérifiez-les avec votre équipe de soins."
+      },
+      {
+        "q": "Puis-je utiliser BeMama après la naissance ?",
+        "a": "Oui. Configurez l’étape bébé avec sa date de naissance, puis utilisez son profil pour noter tétées, biberons, sommeil et changes. Vérifiez le profil sélectionné avant d’enregistrer."
       }
-    ]
+    ],
+    "byline": "Guide du produit par {name}, fondateur de BeMama.",
+    "linkLabels": {
+      "https://app.bemamas.com/": "Ouvrir l’application BeMama",
+      "https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client": "BeMama sur Google Play",
+      "https://apps.apple.com/us/app/bemama/id6783137312": "BeMama sur l’App Store",
+      "https://bemamas.com/fr/about-bemama/tools/": "Suivi bébé : tétées, biberons, sommeil et changes",
+      "https://bemamas.com/fr/about-bemama/premium/": "Accès gratuit et Premium",
+      "https://bemamas.com/fr/tools/due-date-calculator/": "Calcul de la date d’accouchement et des semaines",
+      "https://bemamas.com/fr/tools/appointment-symptom-calendar/": "Calendrier des rendez-vous et symptômes"
+    },
+    "updatedIso": "2026-09-13"
   },
   'about-bemama/qa-and-community': {
     title: 'Questions-réponses et communauté : demandez, apprenez, échangez',

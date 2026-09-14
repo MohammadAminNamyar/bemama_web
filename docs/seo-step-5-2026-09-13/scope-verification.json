@@ -1,0 +1,38 @@
+{
+  "baseline": "4f1fbdae4",
+  "locales": {
+    "fa": {
+      "allOtherProductArticleSourceUnchanged": true,
+      "beforeHashExcludingPilot": "a9971b6bee63ea33acedae0c02a608250617aee561a82c53dc7d5c328427377c",
+      "afterHashExcludingPilot": "a9971b6bee63ea33acedae0c02a608250617aee561a82c53dc7d5c328427377c"
+    },
+    "ar": {
+      "allOtherProductArticleSourceUnchanged": true,
+      "beforeHashExcludingPilot": "761f3e33b2faa0bb390747768942609f2bf083abed4f1beed203df957fc81268",
+      "afterHashExcludingPilot": "761f3e33b2faa0bb390747768942609f2bf083abed4f1beed203df957fc81268"
+    },
+    "fr": {
+      "allOtherProductArticleSourceUnchanged": true,
+      "beforeHashExcludingPilot": "288261b01d90e5baa695c0a41206fb6e043c58beed41fa7c20f5a0f5d531fd84",
+      "afterHashExcludingPilot": "288261b01d90e5baa695c0a41206fb6e043c58beed41fa7c20f5a0f5d531fd84"
+    },
+    "tr": {
+      "allOtherProductArticleSourceUnchanged": true,
+      "beforeHashExcludingPilot": "2e5d42683777922cd2aff3c76c9d02a0718d81d8a543d3aee7839f4293aacaa4",
+      "afterHashExcludingPilot": "2e5d42683777922cd2aff3c76c9d02a0718d81d8a543d3aee7839f4293aacaa4"
+    },
+    "es": {
+      "allOtherProductArticleSourceUnchanged": true,
+      "beforeHashExcludingPilot": "36f6f00687506ea6d35622537a8a18ce4c3b45a81bddb2cc335d62ad59e6c4fe",
+      "afterHashExcludingPilot": "36f6f00687506ea6d35622537a8a18ce4c3b45a81bddb2cc335d62ad59e6c4fe"
+    },
+    "pt": {
+      "allOtherProductArticleSourceUnchanged": true,
+      "beforeHashExcludingPilot": "1aeb8301b418aa1646f985016902181cb726c4220bd4834d493189190be51660",
+      "afterHashExcludingPilot": "1aeb8301b418aa1646f985016902181cb726c4220bd4834d493189190be51660"
+    }
+  },
+  "englishProductSourceUnchanged": true,
+  "calculationCoreUnchanged": true,
+  "themeUnchanged": true
+}

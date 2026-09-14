@@ -475,7 +475,8 @@ function bylineHtml(lang, customTemplate) {
     reviewer = ` ${escapeHtml(label.replace('{reviewer}', medicalReviewer.name))}`;
   }
   const customSpacing = customTemplate && /\s$/.test(before) ? ' ' : '';
-  return `${escapeHtml(before)}${customSpacing}${link}${escapeHtml(after)}${reviewer}`;
+  const customSuffixSpacing = customTemplate && /^\s/.test(after) ? ' ' : '';
+  return `${escapeHtml(before)}${customSpacing}${link}${customSuffixSpacing}${escapeHtml(after)}${reviewer}`;
 }
 
 const searchLabels = {

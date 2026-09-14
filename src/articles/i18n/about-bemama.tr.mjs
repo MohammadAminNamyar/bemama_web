@@ -68,69 +68,90 @@ export const translations = {
     ]
   },
   'about-bemama/daily-journey': {
-    title: 'Günlük Yolculuk: Aşamanıza Özel Rehberlik',
-    description:
-      'BeMama’nın Günlük Yolculuğu nasıl çalışır — aşamanızı belirleyin, düzenli günlük içerik ve küçük eylemler alın ve annelik yolculuğunuz ilerledikçe rehberliğin size uyum sağlamasına izin verin.',
-    intro:
-      'Günlük Yolculuk, BeMama’nın kalbidir. Size bir ansiklopedi verip bol şans dilemek yerine, her gün tam olarak bulunduğunuz yere göre şekillendirilmiş — planlama, hamilelik, bebek bakımı ya da büyüyen bir çocuğu izleme — küçük ve özenle seçilmiş bir içerik ve eylem seti sunar.',
-    sections: [
+    "title": "Gebelik Takibi Uygulaması: BeMama Günlük Yolculuk",
+    "description": "BeMama gebelik takibi uygulamasında yolculuğunuzu kurun, hafta hafta gebeliği izleyin; tarih hesaplamalarını ve özelliklere erişimi öğrenin.",
+    "intro": "BeMama Günlük Yolculuk, bulunduğunuz aşamaya uygun içerikleri gebelik ilerleme tahminleriyle bir araya getirir. Doğru aşamayı ve istenen tarihi seçin, mevcut haftanızı inceleyin ve durumunuz değiştiğinde bilgilerinizi güncelleyin.",
+    "sections": [
       {
-        heading: 'Aşamanızı belirleyerek başlayın',
-        paragraphs: [
-          'BeMama’yı kurarken yolculuğunuzda nerede olduğunuzu söylersiniz: hamilelik planlıyorsunuz, bebek bekliyorsunuz (ve yaklaşık kaçıncı haftadasınız), bir bebeğe bakıyorsunuz ya da büyüyen bir çocuğu destekliyorsunuz. Bu tek seçim, gördüğünüz her şeyi şekillendirir.',
-          'Deneyimi kişiselleştirmeye yardımcı olan ayrıntılar — örneğin tahmini doğum tarihi veya çocuğunuzun yaş aralığı — ekleyebilirsiniz; böylece size ulaşan içerik günlerinize gerçekten uyar.'
+        "heading": "1. Gebelik takibini başlatın",
+        "paragraphs": [
+          "BeMama’yı açın, hesap oluşturun veya giriş yapın. Ardından Günlük Yolculuk ayarlarında hamilelik aşamasını seçin. Diğer seçenekler gebelik planlama, bebek bakımı ve çocuk gelişimini kapsar.",
+          "Formun istediği tarihi girip kaydetmeden önce kontrol edin. Uygulamanın hesaplayıcısı son adetin ilk gününü kullanır; son adet tarihi istenen alana doğum tarihini yazmayın. Doktorunuz veya ebeniz farklı bir gebelik tarihlemesi belirlediyse onun önerisini esas alın."
         ]
       },
       {
-        heading: 'İçerik ve küçük eylemlerden oluşan günlük bir ritim',
-        paragraphs: [
-          'Günlük Yolculuk her gün aşamanızla ilgili düzenli içerik sunar: bedeninizde veya bebeğinizin gelişiminde neler olduğu, şu anda genellikle nelerin önemli olduğu ve harekete geçmeye değer nazik hatırlatmalar.',
-          'Okumanın yanı sıra küçük, somut eylemler önerir — öğleden sonralar değil, dakikalar süren türden. Bir şeyi kaydetmek için bir not, üzerinde düşünülecek bir konu, bir sonraki randevunuzda gündeme getirmeye değer bir soru.'
+        "heading": "2. Hafta hafta gebelik takibi",
+        "paragraphs": [
+          "Seçtiğiniz aşamaya uygun içerikler için Günlük Yolculuk’u açın. Gebelik araçları tahmini hafta ve günü, trimesteri, tahmini doğum tarihini ve kalan günleri göstererek gebelik takviminde nerede olduğunuzu anlamanıza yardımcı olur.",
+          "Okuduğunuz konuları bir sonraki kontrolünüzde soracağınız sorulara dönüştürün. Bu genel bilgiler bebeğin gelişimini doğrulamaz; muayene ve testlerin yerini tutmaz."
         ]
       },
       {
-        heading: 'İlerledikçe uyum sağlayan rehberlik',
-        paragraphs: [
-          'Annelik yerinde durmaz, Günlük Yolculuk da öyle. Haftalar geçtikçe ve aşamanız ilerledikçe içerik ve önerilen eylemler sizinle birlikte hareket eder — döngü farkındalığından trimester dönüm noktalarına, yenidoğan rutinlerinden küçük çocuk gelişimine.',
-          'Yolculuğunuz daha büyük bir şekilde değiştiğinde — pozitif bir test, bir doğum, yeni bir aşama — aşamanızı güncellersiniz ve tüm deneyim yeni gerçekliğinize göre yeniden şekillenir.'
+        "heading": "3. Yolculuğunuzu güncel tutun",
+        "paragraphs": [
+          "Aşama veya tarihler değiştiğinde yolculuk ayarlarını ya da düzenleme seçeneklerini kullanın. Doğumdan sonra, içeriklerin bebeğin yaşına uygun olması için doğum tarihini girerek bebek aşamasını kurun.",
+          "Aşama değişikliğini siz yaparsınız. Özellikle birden fazla profiliniz varsa günlük planı okumadan veya bilgi kaydetmeden önce etkin yolculuğu kontrol edin."
         ]
       },
       {
-        heading: 'Küçük günlük adımlar neden bilgi yığınından iyidir',
-        paragraphs: [
-          'Kaygılı bir akşamda kırk makale okumak nadiren kimseye yardımcı olur. Küçük günlük dozlar daha iyi çalışır: özümsemesi daha kolaydır, harekete geçmesi daha kolaydır ve sizi bir anda bunaltmak yerine anlayışı kademeli olarak inşa eder.',
-          'Günlük Yolculuk bilinçli olarak bu tempoda tasarlanmıştır. Dikkatinize ve enerjinize saygı duyar — çünkü doğru bilginin doğru zamanda sakin ve istikrarlı bir şekilde damla damla gelmesi, her şeyin bir anda geldiği bir okyanustan daha değerlidir.'
+        "heading": "Giriş yapmadan doğum tarihi hesaplama",
+        "paragraphs": [
+          "Web sitesinin ücretsiz hesaplayıcısına son adet tarihinizi veya önceden belirlenmiş tahmini doğum tarihinizi girerek gebelik ilerlemesini zaman çizelgesinde görebilirsiniz: https://bemamas.com/tr/tools/due-date-calculator/",
+          "Randevu tarihlerini ve sorularınızı ayrı web takviminde düzenleyin ve takvim dosyası indirin: https://bemamas.com/tr/tools/appointment-symptom-calendar/",
+          "Web hesaplayıcısı ve takvimindeki bilgiler uygulama hesabından ayrıdır; Günlük Yolculuk ile otomatik eşitlenmez. Araç yedekleme sunuyorsa yedek indirin."
         ]
       },
       {
-        heading: 'Önce eğitim, kararlar sağlık uzmanınızla',
-        paragraphs: [
-          'Günlük Yolculuk içeriği genel eğitimdir. Neyin tipik olduğunu, nelere dikkat etmeniz gerektiğini ve hangi soruları soracağınızı anlamanıza yardımcı olur — ama asla kendi sağlık uzmanınızın değerlendirmesinin yerini almaz.',
-          'Birçok kişi, birkaç günlük Günlük Yolculuk okumasının randevuları daha verimli hale getirdiğini fark eder: bağlamla ve daha iyi sorularla gelirsiniz.'
+        "heading": "Ücretsiz erişim ve isteğe bağlı özellikler",
+        "paragraphs": [
+          "Mevcut uygulamada Günlük Yolculuk, etkin Premium aboneliği olmadan kullanılabilir. Bazı araçların, yapay zekâ özelliklerinin ve hesap işlevlerinin ayrı erişim koşulları vardır. Hesabınızda nelerin açık olduğunu özellikler ve abonelik ekranlarından kontrol edin.",
+          "Ücretsiz ve Premium erişim açıklaması: https://bemamas.com/tr/about-bemama/premium/"
+        ]
+      },
+      {
+        "heading": "Hamilelik uygulamasını indirin",
+        "paragraphs": [
+          "BeMama’yı web üzerinden https://app.bemamas.com/ Android’de https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client veya iOS’ta https://apps.apple.com/us/app/bemama/id6783137312 adresinden kullanın.",
+          "Doğumdan sonra emzirme, biberon, uyku ve bez kayıtlarının nasıl tutulduğunu öğrenin: https://bemamas.com/tr/about-bemama/tools/"
         ]
       }
     ],
-    takeaways: [
-      'Aşamanızı bir kez belirleyin; Günlük Yolculuk, günlük içeriği onun etrafında düzenler.',
-      'Her gün küçük, odaklanmış bir okuma seti ve yapılabilir eylemler getirir.',
-      'Rehberlik, aşamanız ve haftalarınız ilerledikçe otomatik olarak uyum sağlar.',
-      'Küçük günlük adımlar, bilgi yığınından daha sakin ve daha etkilidir.',
-      'İçerik eğitim amaçlıdır — sizi kararlara değil, sağlık uzmanı görüşmelerine hazırlar.'
+    "takeaways": [
+      "Hamilelik aşamasını seçin ve formda istenen tarihi girin.",
+      "Günlük Yolculuk ve gebelik araçlarıyla haftaları takip edin.",
+      "Durumunuz değiştiğinde aşama ve tarihleri güncelleyin.",
+      "Web sitesindeki doğum tarihi hesaplayıcısı hesap gerektirmez.",
+      "Hesaplamalar tahmindir; gelişimi veya klinik tarihleme sonucunu doğrulamaz."
     ],
-    faq: [
+    "faq": [
       {
-        q: 'Aşamam değişirse ne olur?',
-        a: 'Uygulamada aşamanızı güncelleyin — örneğin planlamadan hamileliğe — ve Günlük Yolculuk, içeriğini ve eylemlerini hemen yeni aşamanıza göre yeniden şekillendirir.'
+        "q": "BeMama’da gebeliğimi nasıl takip ederim?",
+        "a": "Hamilelik yolculuğunu kurun, son adet tarihinizi kontrol edin ve Günlük Yolculuk’u açın. Araçlar hafta, gün, trimester ve doğum tarihini tahmini olarak gösterir. Klinik tarihlemenizi bakım ekibinizle doğrulayın."
       },
       {
-        q: 'Günlük Yolculuk her gün ne kadar zaman alır?',
-        a: 'Saatler için değil, dakikalar için tasarlanmıştır. Kısa bir okuma ve küçük bir eylem tipiktir; isterseniz her zaman daha fazlasını keşfedebilirsiniz.'
+        "q": "BeMama ücretsiz bir gebelik takibi uygulaması mı?",
+        "a": "Mevcut uygulamada Günlük Yolculuk için etkin Premium aboneliği gerekmez. Diğer özelliklerin ayrı erişim koşulları vardır. Web sitesindeki doğum tarihi hesaplayıcısı ücretsizdir ve hesap istemez."
       },
       {
-        q: 'Günlük Yolculuk tıbbi tavsiye mi?',
-        a: 'Hayır. Aşamaya göre düzenlenmiş genel eğitimdir. Sorular hazırlamanıza ve neyin tipik olduğunu anlamanıza yardımcı olabilir, ancak tıbbi kararlar sağlık uzmanınıza aittir.'
+        "q": "Gebelik takvimi randevularımı alır mı?",
+        "a": "İlerleme görünümü tahmini tarihleri gösterir; randevu almaz. Daha önce ayarladığınız randevuları web sitesinin ayrı randevu takviminde düzenleyin ve bakım ekibinizle doğrulayın."
+      },
+      {
+        "q": "Doğumdan sonra da BeMama’yı kullanabilir miyim?",
+        "a": "Evet. Doğum tarihiyle bebek aşamasını kurun; bebeğin profilinde emzirme, biberon, uyku ve bez kayıtlarını tutun. Kaydetmeden önce seçili profili kontrol edin."
       }
-    ]
+    ],
+    "byline": "BeMama’nın kurucusu {name} tarafından hazırlanan ürün rehberi.",
+    "linkLabels": {
+      "https://app.bemamas.com/": "BeMama uygulamasını açın",
+      "https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client": "Google Play’de BeMama",
+      "https://apps.apple.com/us/app/bemama/id6783137312": "App Store’da BeMama",
+      "https://bemamas.com/tr/about-bemama/tools/": "Bebek takibi: beslenme, uyku ve bez kayıtları",
+      "https://bemamas.com/tr/about-bemama/premium/": "Ücretsiz ve Premium erişim",
+      "https://bemamas.com/tr/tools/due-date-calculator/": "Doğum tarihi ve gebelik haftası hesaplama",
+      "https://bemamas.com/tr/tools/appointment-symptom-calendar/": "Randevu ve belirti takvimi"
+    },
+    "updatedIso": "2026-09-13"
   },
   'about-bemama/qa-and-community': {
     title: 'Soru-Cevap ve Topluluk: Sorun, Öğrenin ve Bağlantı Kurun',
