@@ -4,7 +4,7 @@
     <title>BeMama: Türkçe</title>
     <link>https://bemamas.com/tr/</link>
     <atom:link href="https://bemamas.com/rss-tr.xml" rel="self" type="application/rss+xml" />
-    <description>BeMama planlama, hamilelik, bebek bakımı ve çocuk gelişimi için sakin bir yardımcıdır.</description>
+    <description>BeMama ile gebeliği hafta hafta takip edin; emzirme, uyku ve bez kayıtlarını tutun, hazırlık için ücretsiz web hesaplayıcılarını ve listeleri kullanın.</description>
     <language>tr</language>
     <lastBuildDate>Sat, 12 Sep 2026 12:00:00 GMT</lastBuildDate>
     <item>
@@ -1392,10 +1392,10 @@
       <media:content url="https://bemamas.com/assets/content/child-screen-time.jpg" medium="image" />
     </item>
     <item>
-      <title>Neden BeMama: Anneliğin Her Aşaması İçin Destek</title>
+      <title>BeMama: gebelik ve bebek takibi</title>
       <link>https://bemamas.com/tr/about-bemama/why-bemama/</link>
       <guid isPermaLink="true">https://bemamas.com/tr/about-bemama/why-bemama/</guid>
-      <description>BeMama’yı neden geliştirdik: planlama, hamilelik, bebek bakımı ve çocuk gelişimi boyunca günlük rehberliği, topluluğu ve pratik araçları bir araya getiren sakin bir yol arkadaşı.</description>
+      <description>BeMama ile gebeliğinizi takip edin, bebeğinizin beslenme, uyku ve bez kayıtlarını tutun; ücretsiz web hesaplayıcılarını ve listeleri keşfedin.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/app-why-bemama.jpg" medium="image" />
     </item>
@@ -1416,18 +1416,18 @@
       <media:content url="https://bemamas.com/assets/content/app-qa-community.jpg" medium="image" />
     </item>
     <item>
-      <title>BeMama Araçları: Hesaplayıcılar ve Takipçiler</title>
+      <title>Bebek takibi: emzirme, uyku ve bez kayıtları</title>
       <link>https://bemamas.com/tr/about-bemama/tools/</link>
       <guid isPermaLink="true">https://bemamas.com/tr/about-bemama/tools/</guid>
-      <description>BeMama’nın pratik araçlarına bir bakış (aşamaya göre düzenlenmiş hesaplayıcılar, takipçiler ve bakım araçları) ve planlama, hamilelik ve ebeveynliğin zihinsel yükünü nasıl azalttıkları.</description>
+      <description>BeMama’da emzirme, biberon, uyku ve bez kaydı tutmayı, raporları incelemeyi ve ücretsiz web araçlarını kullanmayı adım adım öğrenin.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/app-tools.jpg" medium="image" />
     </item>
     <item>
-      <title>BeMama Premium: Neler Dahil</title>
+      <title>BeMama ücretsiz ve Premium özellikleri</title>
       <link>https://bemamas.com/tr/about-bemama/premium/</link>
       <guid isPermaLink="true">https://bemamas.com/tr/about-bemama/premium/</guid>
-      <description>BeMama’nın ücretsiz deneyimi ile Premium arasındaki farka dürüst bir bakış (daha derin günlük rehberlik ve daha zengin araçlar) şeffaf abonelik koşulları ve yükseltme baskısı olmadan.</description>
+      <description>BeMama’nın ücretsiz Günlük Yolculuk içeriğini, web araçlarını ve Premium özelliklere erişimi abonelik seçmeden önce karşılaştırın.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/app-premium.jpg" medium="image" />
     </item>
@@ -1448,10 +1448,10 @@
       <media:content url="https://bemamas.com/assets/content/app-privacy.jpg" medium="image" />
     </item>
     <item>
-      <title>BeMama ile Başlarken</title>
+      <title>BeMama’ya başlarken: gebelik ve bebek bakımı</title>
       <link>https://bemamas.com/tr/about-bemama/getting-started/</link>
       <guid isPermaLink="true">https://bemamas.com/tr/about-bemama/getting-started/</guid>
-      <description>İlk BeMama oturumunuz için beş dakikalık nazik bir rehber: web uygulamasını açın, kendi alanınızı oluşturun, aşamanızı belirleyin ve Günlük Yolculuğu, Soru-Cevap alanını ve Araçları keşfedin.</description>
+      <description>BeMama’da yolculuğunuzu ve bebek profilini kurun, ilk bakım kaydını kontrol edin veya web araçlarını hesap oluşturmadan deneyin.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/app-getting-started.jpg" medium="image" />
     </item>

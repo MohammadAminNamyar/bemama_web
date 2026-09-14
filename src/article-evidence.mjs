@@ -559,10 +559,14 @@ const generatedEvidence = Object.fromEntries(
 // Bespoke evidence takes precedence over a reusable topic profile.
 export const articleEvidence = {
   ...generatedEvidence,
-  ...priorityEvidence
+  ...priorityEvidence,
+  ...Object.fromEntries(articles.filter(article => article.i18n.en.evidence)
+    .map(article => [article.slug, article.i18n.en.evidence]))
 };
 
 export function evidenceForArticle(slug, languageCode) {
+  const bespoke = articleBySlug.get(slug)?.i18n[languageCode]?.evidence;
+  if (bespoke) return { ...bespoke, labels: labelsForEvidence(languageCode) };
   if (languageCode === 'en') {
     const evidence = articleEvidence[slug];
     return evidence ? { ...evidence, labels: labelsForEvidence('en') } : null;

@@ -1,3 +1,5 @@
+import { homeRollout } from './home-rollout.mjs';
+
 export const site = {
   origin: 'https://bemamas.com',
   name: 'BeMama',
@@ -485,6 +487,12 @@ export const content = {
     pages: localizedPolicy('pt')
   }
 };
+
+for (const [lang, copy] of Object.entries(homeRollout)) {
+  const { metaDescription, ...home } = copy;
+  Object.assign(content[lang].home, home);
+  if (metaDescription) content[lang].metaDescription = metaDescription;
+}
 
 function policy(title, description, sections, notice = undefined) {
   return {

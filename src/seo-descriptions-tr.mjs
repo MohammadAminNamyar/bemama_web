@@ -168,12 +168,8 @@ export const turkishDescriptions = {
   'baby-and-child/when-do-babies-walk': 'Yürümeye hazırlayan becerileri, ilk adım yaşlarındaki farklılıkları ve bebeğin hareketlerini acele ettirmeden desteklemeyi öğrenin.',
   'baby-and-child/when-do-babies-sleep-through-the-night': 'Gece boyunca uyumanın ne anlama geldiğini, bebekler arasındaki farkları ve gece uyanmalarının neden sürebildiğini öğrenin.',
   'newborn/baby-growth-spurts': 'Bebeğin büyüme ataklarını, iştah değişikliklerini ve sağlık uzmanıyla görüşmeyi gerektiren belirtileri tanıyın.',
-  'about-bemama/why-bemama': 'BeMama’nın gebelik planlamasından çocuğun ilk yıllarına kadar günlük rehberliği, topluluğu ve pratik araçları neden bir araya getirdiğini öğrenin.',
   'about-bemama/daily-journey': "BeMama gebelik takibi uygulamasında yolculuğunuzu kurun, hafta hafta gebeliği izleyin; tarih hesaplamalarını ve özelliklere erişimi öğrenin.",
   'about-bemama/qa-and-community': 'BeMama’da soru sormayı, ilgili tartışmaları bulmayı ve topluluk alanlarında diğer ebeveynlerle iletişim kurmayı öğrenin.',
-  'about-bemama/tools': 'Gebelik planlamasından günlük ebeveynliğe kadar aşamalara göre düzenlenen BeMama hesaplayıcılarını, takip ve bakım araçlarını keşfedin.',
-  'about-bemama/premium': 'BeMama’nın ücretsiz deneyimiyle Premium özelliklerini karşılaştırın ve abonelik koşullarını nereden inceleyebileceğinizi öğrenin.',
   'about-bemama/ai-support': 'BeMama’da yapay zeka desteğinin rolünü ve sınırlarını öğrenin; bu destek tanı, reçete veya acil sağlık hizmeti sunmaz.',
   'about-bemama/privacy-and-safety': 'BeMama’da hassas verilerin kullanımını, dışa aktarma veya silme taleplerini ve tam gizlilik politikasına nasıl ulaşacağınızı öğrenin.',
-  'about-bemama/getting-started': 'BeMama’ya ilk adımı atın; uygulamayı açın, alanınızı oluşturun, aşamanızı belirleyin ve rehberliği, topluluğu ve araçları keşfedin.'
 };

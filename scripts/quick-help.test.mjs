@@ -1,9 +1,10 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
-import { quickHelpCopy, quickHelpUrl } from '../src/quick-help.mjs';
+import { quickHelpUrl } from '../src/quick-help.mjs';
 import { withHelpCampaign } from '../public/assets/quick-help-entry.js';
 import { languages } from '../src/pages.mjs';
+import { homeRollout } from '../src/home-rollout.mjs';
 
 test('English homepage opens a public tool without sending readers to app sign-in', async () => {
   const html = await readFile(new URL('../dist/index.html', import.meta.url), 'utf8');
@@ -16,13 +17,13 @@ test('English homepage opens a public tool without sending readers to app sign-i
 });
 
 for (const { code } of languages.filter(({ code }) => code !== 'en')) {
-  test(`${code}: generated homepage links directly to localized guest help`, async () => {
+  test(`${code}: homepage opens working public tools in the same language`, async () => {
     const html = await readFile(new URL(`../dist/${code === 'en' ? '' : code + '/'}index.html`, import.meta.url), 'utf8');
-    assert.ok(html.includes(quickHelpCopy[code].action));
-    assert.ok(html.includes(quickHelpCopy[code].note));
-    assert.ok(html.includes(quickHelpUrl(code).replaceAll('&', '&amp;')));
-    assert.ok(html.includes('quick-help-entry.js'));
-    assert.ok(html.includes('data-umami-event="quick_help_clicked"'));
+    const hero = html.match(/<div class="hero-actions">([\s\S]*?)<\/div>/)?.[1] ?? '';
+    assert.ok(hero.includes(`href="/${code}/tools/"`));
+    assert.ok(hero.includes(homeRollout[code].freeToolsAction));
+    assert.ok(hero.includes('data-umami-event="public_tools_clicked"'));
+    assert.ok(!hero.includes('data-quick-help'));
     assert.ok(!html.includes('data-umami-event="dinner_clicked"'));
     assert.ok(!html.includes('tool=dinner'));
   });

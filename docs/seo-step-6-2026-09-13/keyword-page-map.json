@@ -1,0 +1,834 @@
+{
+  "checkedDate": "2026-09-13",
+  "note": "Separate competitor intent, measured seed, native-language source and final editorial wording. Search-volume ranges apply only to the listed research phrases. This is a bounded content rollout, not a full competitor crawl, organic rank report or AI-citation audit.",
+  "articlePages": [
+    {
+      "language": "en",
+      "topic": "sleep",
+      "route": "/baby-and-child/4-month-old-sleep-schedule/",
+      "newDedicatedPage": true,
+      "researchPhrase": {
+        "keyword": "4 month sleep schedule",
+        "avgMonthlySearches": "1K – 10K",
+        "status": "measured-range",
+        "source": "Google Ads Keyword Planner / Keywords you provided"
+      },
+      "additionalResearch": [],
+      "competitorIntentSource": "https://huckleberrycare.com/blog/4-month-olds-and-sleep",
+      "primaryHealthSources": [
+        {
+          "organization": "AASM",
+          "title": "Child Sleep Duration Health Advisory",
+          "url": "https://aasm.org/advocacy/position-statements/child-sleep-duration-health-advisory/"
+        },
+        {
+          "organization": "AAP / HealthyChildren",
+          "title": "How to Keep Your Sleeping Baby Safe",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/A-Parents-Guide-to-Safe-Sleep.aspx"
+        }
+      ],
+      "nativeSource": null,
+      "editorialDecision": "Use a grammatical age-specific heading. The Huckleberry pages establish the competitor intent; the examples, totals and prose are original.",
+      "publishedHeadingPrepared": "4 Month Old Sleep Schedule: A Flexible Day",
+      "descriptionPrepared": "Build a flexible four-month sleep routine with an example timeline, clear sleep-log totals, missing-data guidance and safe-sleep sources.",
+      "placements": [
+        "title and H1",
+        "description and introduction",
+        "relevant section headings and explanatory copy",
+        "localized visual labels",
+        "FAQ and related links"
+      ]
+    },
+    {
+      "language": "fa",
+      "topic": "sleep",
+      "route": "/fa/baby-and-child/4-month-old-sleep-schedule/",
+      "newDedicatedPage": true,
+      "researchPhrase": {
+        "keyword": "خواب نوزاد چهار ماهه",
+        "avgMonthlySearches": "10 – 100",
+        "status": "measured-range",
+        "source": "Google Ads Keyword Planner / Keywords you provided"
+      },
+      "additionalResearch": [],
+      "competitorIntentSource": "https://huckleberrycare.com/blog/4-month-olds-and-sleep",
+      "primaryHealthSources": [
+        {
+          "organization": "AASM",
+          "title": "Child Sleep Duration Health Advisory",
+          "url": "https://aasm.org/advocacy/position-statements/child-sleep-duration-health-advisory/"
+        },
+        {
+          "organization": "AAP / HealthyChildren",
+          "title": "How to Keep Your Sleeping Baby Safe",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/A-Parents-Guide-to-Safe-Sleep.aspx"
+        }
+      ],
+      "nativeSource": {
+        "organization": "CDC",
+        "title": "فهرست مراحل رشد کودک به فارسی",
+        "url": "https://www.cdc.gov/act-early/media/pdfs/2025/11/cdc-milestone-checklists-ltsae-farsi.pdf"
+      },
+      "editorialDecision": "Use natural four-month sleep and six-month complementary-food wording. CDC Persian material supports age/development vocabulary; UNICEF Iran supplies native six-month feeding context. Do not attribute the exact search phrase to the CDC PDF.",
+      "publishedHeadingPrepared": "خواب نوزاد چهار ماهه: برنامه‌ای انعطاف‌پذیر",
+      "descriptionPrepared": "خواب نوزاد چهار ماهه را با خط زمانی نمونه، محاسبه روشن مجموع خواب، توضیح داده‌های ثبت‌نشده و منابع معتبر خواب ایمن بررسی کنید.",
+      "placements": [
+        "title and H1",
+        "description and introduction",
+        "relevant section headings and explanatory copy",
+        "localized visual labels",
+        "FAQ and related links"
+      ]
+    },
+    {
+      "language": "ar",
+      "topic": "sleep",
+      "route": "/ar/baby-and-child/4-month-old-sleep-schedule/",
+      "newDedicatedPage": true,
+      "researchPhrase": {
+        "keyword": "نوم الطفل في الشهر الرابع",
+        "avgMonthlySearches": "100 – 1K",
+        "status": "measured-range",
+        "source": "Google Ads Keyword Planner / Keywords you provided"
+      },
+      "additionalResearch": [],
+      "competitorIntentSource": "https://huckleberrycare.com/blog/4-month-olds-and-sleep",
+      "primaryHealthSources": [
+        {
+          "organization": "AASM",
+          "title": "Child Sleep Duration Health Advisory",
+          "url": "https://aasm.org/advocacy/position-statements/child-sleep-duration-health-advisory/"
+        },
+        {
+          "organization": "AAP / HealthyChildren",
+          "title": "How to Keep Your Sleeping Baby Safe",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/A-Parents-Guide-to-Safe-Sleep.aspx"
+        }
+      ],
+      "nativeSource": {
+        "organization": "وزارة الصحة السعودية",
+        "title": "سلامة الرضيع",
+        "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/babyhealth/pages/014.aspx"
+      },
+      "editorialDecision": "Use بعمر 4 أشهر / بعمر 6 أشهر and clarify completed months. The measured الشهر الرابع / الشهر السادس phrases are adjacent intent and may mean the preceding age interval; their ranges are not measurements of the final headings.",
+      "publishedHeadingPrepared": "نوم الرضيع بعمر 4 أشهر: روتين مرن",
+      "descriptionPrepared": "افهمي نوم الرضيع بعد إتمام أربعة أشهر بخط زمني توضيحي ومجاميع واضحة، مع بيان أثر السجلات الناقصة وروابط موثوقة للنوم الآمن.",
+      "placements": [
+        "title and H1",
+        "description and introduction",
+        "relevant section headings and explanatory copy",
+        "localized visual labels",
+        "FAQ and related links"
+      ]
+    },
+    {
+      "language": "fr",
+      "topic": "sleep",
+      "route": "/fr/baby-and-child/4-month-old-sleep-schedule/",
+      "newDedicatedPage": true,
+      "researchPhrase": {
+        "keyword": "sommeil bébé 4 mois",
+        "avgMonthlySearches": null,
+        "status": "not-returned",
+        "source": "Google Ads Keyword Planner / Keywords you provided"
+      },
+      "additionalResearch": [
+        {
+          "keyword": "sommeil bébé 4 mois",
+          "avgMonthlySearches": null,
+          "status": "not-returned"
+        },
+        {
+          "keyword": "rythme sommeil bébé 4 mois",
+          "avgMonthlySearches": null,
+          "status": "not-returned"
+        }
+      ],
+      "competitorIntentSource": "https://huckleberrycare.com/blog/4-month-olds-and-sleep",
+      "primaryHealthSources": [
+        {
+          "organization": "AASM",
+          "title": "Child Sleep Duration Health Advisory",
+          "url": "https://aasm.org/advocacy/position-statements/child-sleep-duration-health-advisory/"
+        },
+        {
+          "organization": "AAP / HealthyChildren",
+          "title": "How to Keep Your Sleeping Baby Safe",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/A-Parents-Guide-to-Safe-Sleep.aspx"
+        }
+      ],
+      "nativeSource": {
+        "organization": "Naître et grandir (Québec)",
+        "title": "Le sommeil de bébé",
+        "url": "https://naitreetgrandir.com/fr/etape/0_12_mois/soins/fiche.aspx?doc=naitre-grandir-bebe-sommeil-dodo"
+      },
+      "editorialDecision": "Use sommeil, rythme and diversification alimentaire / aliments complémentaires. French sleep demand remains unmeasured. The measured complementary-feeding phrase is broader than a timed schedule. The local reference is Quebec; do not imply uniform France/Quebec recommendations.",
+      "publishedHeadingPrepared": "Sommeil de bébé à 4 mois : un rythme souple",
+      "descriptionPrepared": "Organisez le sommeil de bébé à quatre mois avec une frise explicative, des totaux de sommeil, les limites du carnet et des sources fiables.",
+      "placements": [
+        "title and H1",
+        "description and introduction",
+        "relevant section headings and explanatory copy",
+        "localized visual labels",
+        "FAQ and related links"
+      ]
+    },
+    {
+      "language": "tr",
+      "topic": "sleep",
+      "route": "/tr/baby-and-child/4-month-old-sleep-schedule/",
+      "newDedicatedPage": true,
+      "researchPhrase": {
+        "keyword": "4 aylık bebek uyku düzeni",
+        "avgMonthlySearches": "1K – 10K",
+        "status": "measured-range",
+        "source": "Google Ads Keyword Planner / Keywords you provided"
+      },
+      "additionalResearch": [],
+      "competitorIntentSource": "https://huckleberrycare.com/blog/4-month-olds-and-sleep",
+      "primaryHealthSources": [
+        {
+          "organization": "AASM",
+          "title": "Child Sleep Duration Health Advisory",
+          "url": "https://aasm.org/advocacy/position-statements/child-sleep-duration-health-advisory/"
+        },
+        {
+          "organization": "AAP / HealthyChildren",
+          "title": "How to Keep Your Sleeping Baby Safe",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/A-Parents-Guide-to-Safe-Sleep.aspx"
+        }
+      ],
+      "nativeSource": {
+        "organization": "Acıbadem",
+        "title": "4 Aylık Bebek Gelişimi Nasıl Olur?",
+        "url": "https://www.acibadem.com.tr/saglikli-yasam/4-aylik-bebek-gelisimi/"
+      },
+      "editorialDecision": "Use 4 aylık bebek uyku düzeni and 6 aylık bebek beslenmesi with ek gıda / tamamlayıcı besin. Local sources establish vocabulary and context; conflicting numeric sleep targets are not blended with the explicitly attributed AASM range.",
+      "publishedHeadingPrepared": "4 aylık bebek uyku düzeni: esnek bir gün",
+      "descriptionPrepared": "Dört aylık bebeğin uyku düzenini örnek zaman çizelgesi, açıklamalı uyku toplamları, eksik kayıt karşılaştırması ve güvenilir kaynaklarla inceleyin.",
+      "placements": [
+        "title and H1",
+        "description and introduction",
+        "relevant section headings and explanatory copy",
+        "localized visual labels",
+        "FAQ and related links"
+      ]
+    },
+    {
+      "language": "es",
+      "topic": "sleep",
+      "route": "/es/baby-and-child/4-month-old-sleep-schedule/",
+      "newDedicatedPage": true,
+      "researchPhrase": {
+        "keyword": "sueño bebé 4 meses",
+        "avgMonthlySearches": null,
+        "status": "not-returned",
+        "source": "Google Ads Keyword Planner / Keywords you provided"
+      },
+      "additionalResearch": [
+        {
+          "keyword": "sueño bebé 4 meses",
+          "avgMonthlySearches": null,
+          "status": "not-returned"
+        },
+        {
+          "keyword": "rutina sueño bebé 4 meses",
+          "avgMonthlySearches": null,
+          "status": "not-returned"
+        }
+      ],
+      "competitorIntentSource": "https://huckleberrycare.com/blog/4-month-olds-and-sleep",
+      "primaryHealthSources": [
+        {
+          "organization": "AASM",
+          "title": "Child Sleep Duration Health Advisory",
+          "url": "https://aasm.org/advocacy/position-statements/child-sleep-duration-health-advisory/"
+        },
+        {
+          "organization": "AAP / HealthyChildren",
+          "title": "How to Keep Your Sleeping Baby Safe",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/A-Parents-Guide-to-Safe-Sleep.aspx"
+        }
+      ],
+      "nativeSource": {
+        "organization": "AAP / HealthyChildren",
+        "title": "Consejos para hacer dormir a su bebé",
+        "url": "https://www.healthychildren.org/Spanish/ages-stages/baby/sleep/Paginas/Getting-Your-Baby-to-Sleep.aspx"
+      },
+      "editorialDecision": "Use sueño / rutina and alimentación complementaria. Sleep demand remains unmeasured. The new feeding term supports broader complementary-food intent; AEP guidance is linked with its original 2018 document date, not described as a new 2026 clinical standard.",
+      "publishedHeadingPrepared": "Sueño del bebé de 4 meses: una rutina flexible",
+      "descriptionPrepared": "Organiza el sueño a los cuatro meses con una línea de tiempo, totales explicados, límites de los registros y fuentes sobre sueño seguro.",
+      "placements": [
+        "title and H1",
+        "description and introduction",
+        "relevant section headings and explanatory copy",
+        "localized visual labels",
+        "FAQ and related links"
+      ]
+    },
+    {
+      "language": "pt",
+      "topic": "sleep",
+      "route": "/pt/baby-and-child/4-month-old-sleep-schedule/",
+      "newDedicatedPage": true,
+      "researchPhrase": {
+        "keyword": "sono bebê 4 meses",
+        "avgMonthlySearches": "100 – 1K",
+        "status": "measured-range",
+        "source": "Google Ads Keyword Planner / Keywords you provided"
+      },
+      "additionalResearch": [],
+      "competitorIntentSource": "https://huckleberrycare.com/blog/4-month-olds-and-sleep",
+      "primaryHealthSources": [
+        {
+          "organization": "AASM",
+          "title": "Child Sleep Duration Health Advisory",
+          "url": "https://aasm.org/advocacy/position-statements/child-sleep-duration-health-advisory/"
+        },
+        {
+          "organization": "AAP / HealthyChildren",
+          "title": "How to Keep Your Sleeping Baby Safe",
+          "url": "https://www.healthychildren.org/English/ages-stages/baby/sleep/Pages/A-Parents-Guide-to-Safe-Sleep.aspx"
+        }
+      ],
+      "nativeSource": {
+        "organization": "Sociedade Brasileira de Pediatria",
+        "title": "Recomendações para o sono seguro",
+        "url": "https://www.sbp.com.br/bebe-deve-dormir-de-barriga-para-cima-ou-de-lado-pediatras-reforcam-recomendacoes-para-o-sono-seguro/"
+      },
+      "editorialDecision": "Keep Brazilian Portuguese: sono do bebê, alimentação do bebê and introdução alimentar. Brazilian public-health and pediatric sources support regional terminology; do not generalize this as a separate Portugal audit.",
+      "publishedHeadingPrepared": "Sono do bebê de 4 meses: uma rotina flexível",
+      "descriptionPrepared": "Organize o sono aos quatro meses com uma linha do tempo, totais explicados, limites dos registros e fontes sobre um ambiente seguro.",
+      "placements": [
+        "title and H1",
+        "description and introduction",
+        "relevant section headings and explanatory copy",
+        "localized visual labels",
+        "FAQ and related links"
+      ]
+    },
+    {
+      "language": "en",
+      "topic": "feeding",
+      "route": "/baby-and-child/6-month-old-feeding-schedule/",
+      "newDedicatedPage": true,
+      "researchPhrase": {
+        "keyword": "6 month feeding schedule",
+        "avgMonthlySearches": "1K – 10K",
+        "status": "measured-range",
+        "source": "Google Ads Keyword Planner / Keywords you provided"
+      },
+      "additionalResearch": [],
+      "competitorIntentSource": "https://huckleberrycare.com/blog/6-month-old-feeding-schedule",
+      "primaryHealthSources": [
+        {
+          "organization": "NHS",
+          "title": "Your baby’s first solid foods",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/"
+        },
+        {
+          "organization": "CDC",
+          "title": "When, What, and How to Introduce Solid Foods",
+          "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/when-what-and-how-to-introduce-solid-foods.html"
+        }
+      ],
+      "nativeSource": null,
+      "editorialDecision": "Use a grammatical age-specific heading. The Huckleberry pages establish the competitor intent; the examples, totals and prose are original.",
+      "publishedHeadingPrepared": "6 Month Old Feeding Schedule: Milk and First Foods",
+      "descriptionPrepared": "Plan a flexible six-month feeding routine around milk, readiness and feeding cues, with a practical day guide and printable observation sheet.",
+      "placements": [
+        "title and H1",
+        "description and introduction",
+        "relevant section headings and explanatory copy",
+        "localized visual labels",
+        "FAQ and related links"
+      ]
+    },
+    {
+      "language": "fa",
+      "topic": "feeding",
+      "route": "/fa/baby-and-child/6-month-old-feeding-schedule/",
+      "newDedicatedPage": true,
+      "researchPhrase": {
+        "keyword": "تغذیه کودک شش ماهه",
+        "avgMonthlySearches": "10 – 100",
+        "status": "measured-range",
+        "source": "Google Ads Keyword Planner / Keywords you provided"
+      },
+      "additionalResearch": [],
+      "competitorIntentSource": "https://huckleberrycare.com/blog/6-month-old-feeding-schedule",
+      "primaryHealthSources": [
+        {
+          "organization": "NHS",
+          "title": "Your baby’s first solid foods",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/"
+        },
+        {
+          "organization": "CDC",
+          "title": "When, What, and How to Introduce Solid Foods",
+          "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/when-what-and-how-to-introduce-solid-foods.html"
+        }
+      ],
+      "nativeSource": {
+        "organization": "یونیسف ایران",
+        "title": "رشد و تغذیه نوزاد در ۶ ماهگی",
+        "url": "https://www.unicef.org/iran/داستان/نقاط-عطف-رشد-و-بالندگی-نوزاد-شما-در-6-ماهگی"
+      },
+      "editorialDecision": "Use natural four-month sleep and six-month complementary-food wording. CDC Persian material supports age/development vocabulary; UNICEF Iran supplies native six-month feeding context. Do not attribute the exact search phrase to the CDC PDF.",
+      "publishedHeadingPrepared": "تغذیه کودک شش ماهه: شیر و شروع غذای کمکی",
+      "descriptionPrepared": "تغذیه کودک شش ماهه را با توجه به شیر، آمادگی غذای کمکی و نشانه‌های کودک تنظیم کنید و از برگه قابل چاپ برای ثبت مشاهدات کمک بگیرید.",
+      "placements": [
+        "title and H1",
+        "description and introduction",
+        "relevant section headings and explanatory copy",
+        "localized visual labels",
+        "FAQ and related links"
+      ]
+    },
+    {
+      "language": "ar",
+      "topic": "feeding",
+      "route": "/ar/baby-and-child/6-month-old-feeding-schedule/",
+      "newDedicatedPage": true,
+      "researchPhrase": {
+        "keyword": "تغذية الطفل في الشهر السادس",
+        "avgMonthlySearches": "10 – 100",
+        "status": "measured-range",
+        "source": "Google Ads Keyword Planner / Keywords you provided"
+      },
+      "additionalResearch": [],
+      "competitorIntentSource": "https://huckleberrycare.com/blog/6-month-old-feeding-schedule",
+      "primaryHealthSources": [
+        {
+          "organization": "NHS",
+          "title": "Your baby’s first solid foods",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/"
+        },
+        {
+          "organization": "CDC",
+          "title": "When, What, and How to Introduce Solid Foods",
+          "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/when-what-and-how-to-introduce-solid-foods.html"
+        }
+      ],
+      "nativeSource": {
+        "organization": "وزارة الصحة السعودية",
+        "title": "الغذاء التكميلي للرضع",
+        "url": "https://www.moh.gov.sa/healthawareness/educationalcontent/babyhealth/pages/complementary-food-for-infants.aspx"
+      },
+      "editorialDecision": "Use بعمر 4 أشهر / بعمر 6 أشهر and clarify completed months. The measured الشهر الرابع / الشهر السادس phrases are adjacent intent and may mean the preceding age interval; their ranges are not measurements of the final headings.",
+      "publishedHeadingPrepared": "تغذية الطفل بعمر 6 أشهر: الحليب والطعام التكميلي",
+      "descriptionPrepared": "نظّمي تغذية طفلك قرب عمر ستة أشهر حول الحليب وإشارات الاستعداد للطعام، مع مثال مرن لليوم وورقة قابلة للطباعة لتسجيل الملاحظات.",
+      "placements": [
+        "title and H1",
+        "description and introduction",
+        "relevant section headings and explanatory copy",
+        "localized visual labels",
+        "FAQ and related links"
+      ]
+    },
+    {
+      "language": "fr",
+      "topic": "feeding",
+      "route": "/fr/baby-and-child/6-month-old-feeding-schedule/",
+      "newDedicatedPage": true,
+      "researchPhrase": {
+        "keyword": "alimentation bébé 6 mois",
+        "avgMonthlySearches": null,
+        "status": "not-returned",
+        "source": "Google Ads Keyword Planner / Keywords you provided"
+      },
+      "additionalResearch": [
+        {
+          "keyword": "alimentation bébé 6 mois",
+          "avgMonthlySearches": null,
+          "status": "not-returned"
+        },
+        {
+          "keyword": "diversification alimentaire 6 mois",
+          "avgMonthlySearches": "1K – 10K",
+          "status": "measured-range"
+        }
+      ],
+      "competitorIntentSource": "https://huckleberrycare.com/blog/6-month-old-feeding-schedule",
+      "primaryHealthSources": [
+        {
+          "organization": "NHS",
+          "title": "Your baby’s first solid foods",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/"
+        },
+        {
+          "organization": "CDC",
+          "title": "When, What, and How to Introduce Solid Foods",
+          "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/when-what-and-how-to-introduce-solid-foods.html"
+        }
+      ],
+      "nativeSource": {
+        "organization": "Naître et grandir (Québec)",
+        "title": "L’introduction aux aliments complémentaires",
+        "url": "https://naitreetgrandir.com/fr/etape/0_12_mois/alimentation/fiche.aspx?doc=naitre-grandir-bebe-introduction-aliment-solide-complementaire"
+      },
+      "editorialDecision": "Use sommeil, rythme and diversification alimentaire / aliments complémentaires. French sleep demand remains unmeasured. The measured complementary-feeding phrase is broader than a timed schedule. The local reference is Quebec; do not imply uniform France/Quebec recommendations.",
+      "publishedHeadingPrepared": "Alimentation de bébé à 6 mois : lait et diversification",
+      "descriptionPrepared": "Préparez la diversification à six mois avec le lait, les signes de préparation et une fiche imprimable pour noter repas et observations.",
+      "placements": [
+        "title and H1",
+        "description and introduction",
+        "relevant section headings and explanatory copy",
+        "localized visual labels",
+        "FAQ and related links"
+      ]
+    },
+    {
+      "language": "tr",
+      "topic": "feeding",
+      "route": "/tr/baby-and-child/6-month-old-feeding-schedule/",
+      "newDedicatedPage": true,
+      "researchPhrase": {
+        "keyword": "6 aylık bebek beslenmesi",
+        "avgMonthlySearches": "100 – 1K",
+        "status": "measured-range",
+        "source": "Google Ads Keyword Planner / Keywords you provided"
+      },
+      "additionalResearch": [],
+      "competitorIntentSource": "https://huckleberrycare.com/blog/6-month-old-feeding-schedule",
+      "primaryHealthSources": [
+        {
+          "organization": "NHS",
+          "title": "Your baby’s first solid foods",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/"
+        },
+        {
+          "organization": "CDC",
+          "title": "When, What, and How to Introduce Solid Foods",
+          "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/when-what-and-how-to-introduce-solid-foods.html"
+        }
+      ],
+      "nativeSource": {
+        "organization": "T.C. Sağlık Bakanlığı / Dr. Behçet Uz Hastanesi",
+        "title": "6–8 aylık bebeklerde beslenme",
+        "url": "https://behcetuzch.saglik.gov.tr/TR-520554/6-8-aylik-bebeklerde-beslenme.html"
+      },
+      "editorialDecision": "Use 4 aylık bebek uyku düzeni and 6 aylık bebek beslenmesi with ek gıda / tamamlayıcı besin. Local sources establish vocabulary and context; conflicting numeric sleep targets are not blended with the explicitly attributed AASM range.",
+      "publishedHeadingPrepared": "6 aylık bebek beslenmesi: süt ve ek gıda düzeni",
+      "descriptionPrepared": "Altı aylık bebek için süt, ek gıdaya hazır olma işaretleri ve esnek öğün fırsatlarını inceleyin; yazdırılabilir gözlem formunu kullanın.",
+      "placements": [
+        "title and H1",
+        "description and introduction",
+        "relevant section headings and explanatory copy",
+        "localized visual labels",
+        "FAQ and related links"
+      ]
+    },
+    {
+      "language": "es",
+      "topic": "feeding",
+      "route": "/es/baby-and-child/6-month-old-feeding-schedule/",
+      "newDedicatedPage": true,
+      "researchPhrase": {
+        "keyword": "alimentación bebé 6 meses",
+        "avgMonthlySearches": null,
+        "status": "not-returned",
+        "source": "Google Ads Keyword Planner / Keywords you provided"
+      },
+      "additionalResearch": [
+        {
+          "keyword": "alimentación bebé 6 meses",
+          "avgMonthlySearches": null,
+          "status": "not-returned"
+        },
+        {
+          "keyword": "alimentación complementaria 6 meses",
+          "avgMonthlySearches": "1K – 10K",
+          "status": "measured-range"
+        }
+      ],
+      "competitorIntentSource": "https://huckleberrycare.com/blog/6-month-old-feeding-schedule",
+      "primaryHealthSources": [
+        {
+          "organization": "NHS",
+          "title": "Your baby’s first solid foods",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/"
+        },
+        {
+          "organization": "CDC",
+          "title": "When, What, and How to Introduce Solid Foods",
+          "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/when-what-and-how-to-introduce-solid-foods.html"
+        }
+      ],
+      "nativeSource": {
+        "organization": "Asociación Española de Pediatría",
+        "title": "Recomendaciones sobre alimentación complementaria",
+        "url": "https://static.aeped.es/recomendaciones_aep_sobre_alimentacio_n_complementaria_nov2018_v3_final_0d83dbbd5a.pdf"
+      },
+      "editorialDecision": "Use sueño / rutina and alimentación complementaria. Sleep demand remains unmeasured. The new feeding term supports broader complementary-food intent; AEP guidance is linked with its original 2018 document date, not described as a new 2026 clinical standard.",
+      "publishedHeadingPrepared": "Alimentación a los 6 meses: leche y primeros alimentos",
+      "descriptionPrepared": "Organiza la alimentación complementaria a los seis meses con leche, señales de preparación y una hoja imprimible para registrar observaciones.",
+      "placements": [
+        "title and H1",
+        "description and introduction",
+        "relevant section headings and explanatory copy",
+        "localized visual labels",
+        "FAQ and related links"
+      ]
+    },
+    {
+      "language": "pt",
+      "topic": "feeding",
+      "route": "/pt/baby-and-child/6-month-old-feeding-schedule/",
+      "newDedicatedPage": true,
+      "researchPhrase": {
+        "keyword": "alimentação bebê 6 meses",
+        "avgMonthlySearches": "100 – 1K",
+        "status": "measured-range",
+        "source": "Google Ads Keyword Planner / Keywords you provided"
+      },
+      "additionalResearch": [],
+      "competitorIntentSource": "https://huckleberrycare.com/blog/6-month-old-feeding-schedule",
+      "primaryHealthSources": [
+        {
+          "organization": "NHS",
+          "title": "Your baby’s first solid foods",
+          "url": "https://www.nhs.uk/baby/weaning-and-feeding/babys-first-solid-foods/"
+        },
+        {
+          "organization": "CDC",
+          "title": "When, What, and How to Introduce Solid Foods",
+          "url": "https://www.cdc.gov/infant-toddler-nutrition/foods-and-drinks/when-what-and-how-to-introduce-solid-foods.html"
+        }
+      ],
+      "nativeSource": {
+        "organization": "Ministério da Saúde do Brasil",
+        "title": "Alimentação saudável",
+        "url": "https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-da-crianca/primeira-infancia/alimentacao-saudavel"
+      },
+      "editorialDecision": "Keep Brazilian Portuguese: sono do bebê, alimentação do bebê and introdução alimentar. Brazilian public-health and pediatric sources support regional terminology; do not generalize this as a separate Portugal audit.",
+      "publishedHeadingPrepared": "Alimentação do bebê de 6 meses: leite e primeiros alimentos",
+      "descriptionPrepared": "Organize a introdução alimentar aos seis meses com leite, sinais de prontidão e uma ficha para imprimir e registrar suas observações.",
+      "placements": [
+        "title and H1",
+        "description and introduction",
+        "relevant section headings and explanatory copy",
+        "localized visual labels",
+        "FAQ and related links"
+      ]
+    }
+  ],
+  "existingProductPages": [
+    {
+      "language": "fa",
+      "route": "/fa/about-bemama/why-bemama/",
+      "heading": "BeMama: پیگیری بارداری و ثبت مراقبت نوزاد",
+      "description": "با BeMama بارداری را دنبال کنید، شیر خوردن، خواب و پوشک نوزاد را ثبت کنید و از محاسبه‌گرها و فهرست‌های رایگان وب‌سایت کمک بگیرید.",
+      "evidence": "../seo-step-5-2026-09-13/sources-and-decisions.md plus ../seo-step-3-2026-09-12/feature-evidence.md",
+      "gapType": "Existing product page clarity and localization; not a new measured keyword gap",
+      "intent": "pregnancy journey and baby-tracking overview"
+    },
+    {
+      "language": "ar",
+      "route": "/ar/about-bemama/why-bemama/",
+      "heading": "BeMama: متابعة الحمل والعناية بالرضيع",
+      "description": "تعرّفي على BeMama لمتابعة الحمل وتسجيل الرضاعة والنوم والحفاضات، مع حاسبات وقوائم مجانية على الموقع تساعدك في تنظيم الرعاية اليومية.",
+      "evidence": "../seo-step-5-2026-09-13/sources-and-decisions.md plus ../seo-step-3-2026-09-12/feature-evidence.md",
+      "gapType": "Existing product page clarity and localization; not a new measured keyword gap",
+      "intent": "pregnancy journey and baby-tracking overview"
+    },
+    {
+      "language": "fr",
+      "route": "/fr/about-bemama/why-bemama/",
+      "heading": "BeMama : suivi de grossesse et de bébé",
+      "description": "Découvrez BeMama pour suivre la grossesse et noter les repas, le sommeil et les couches de bébé, avec des outils gratuits sur le site.",
+      "evidence": "../seo-step-5-2026-09-13/sources-and-decisions.md plus ../seo-step-3-2026-09-12/feature-evidence.md",
+      "gapType": "Existing product page clarity and localization; not a new measured keyword gap",
+      "intent": "pregnancy journey and baby-tracking overview"
+    },
+    {
+      "language": "tr",
+      "route": "/tr/about-bemama/why-bemama/",
+      "heading": "BeMama: gebelik ve bebek takibi",
+      "description": "BeMama ile gebeliğinizi takip edin, bebeğinizin beslenme, uyku ve bez kayıtlarını tutun; ücretsiz web hesaplayıcılarını ve listeleri keşfedin.",
+      "evidence": "../seo-step-5-2026-09-13/sources-and-decisions.md plus ../seo-step-3-2026-09-12/feature-evidence.md",
+      "gapType": "Existing product page clarity and localization; not a new measured keyword gap",
+      "intent": "pregnancy journey and baby-tracking overview"
+    },
+    {
+      "language": "es",
+      "route": "/es/about-bemama/why-bemama/",
+      "heading": "BeMama: seguimiento del embarazo y del bebé",
+      "description": "Conoce BeMama para seguir el embarazo y registrar tomas, sueño y pañales del bebé, con calculadoras y listas gratuitas en la web.",
+      "evidence": "../seo-step-5-2026-09-13/sources-and-decisions.md plus ../seo-step-3-2026-09-12/feature-evidence.md",
+      "gapType": "Existing product page clarity and localization; not a new measured keyword gap",
+      "intent": "pregnancy journey and baby-tracking overview"
+    },
+    {
+      "language": "pt",
+      "route": "/pt/about-bemama/why-bemama/",
+      "heading": "BeMama: acompanhamento da gravidez e do bebê",
+      "description": "Conheça a BeMama para acompanhar a gravidez e registrar mamadas, sono e fraldas do bebê, com calculadoras e listas gratuitas no site.",
+      "evidence": "../seo-step-5-2026-09-13/sources-and-decisions.md plus ../seo-step-3-2026-09-12/feature-evidence.md",
+      "gapType": "Existing product page clarity and localization; not a new measured keyword gap",
+      "intent": "pregnancy journey and baby-tracking overview"
+    },
+    {
+      "language": "fa",
+      "route": "/fa/about-bemama/tools/",
+      "heading": "ثبت مراقبت نوزاد: شیردهی، خواب و پوشک",
+      "description": "روش ثبت شیردهی، شیشه‌شیر، خواب و پوشک در BeMama، بررسی گزارش‌ها و تفاوت این امکانات با ابزارهای رایگان وب‌سایت را یاد بگیرید.",
+      "evidence": "../seo-step-5-2026-09-13/sources-and-decisions.md plus ../seo-step-3-2026-09-12/feature-evidence.md",
+      "gapType": "Existing product page clarity and localization; not a new measured keyword gap",
+      "intent": "feeding, sleep and diaper record workflow"
+    },
+    {
+      "language": "ar",
+      "route": "/ar/about-bemama/tools/",
+      "heading": "متابعة الرضيع: تسجيل الرضاعة والنوم والحفاضات",
+      "description": "تعلّمي تسجيل الرضاعة الطبيعية والزجاجات والنوم والحفاضات في BeMama، ومراجعة التقارير، واستخدام الأدوات المجانية المنفصلة على الموقع.",
+      "evidence": "../seo-step-5-2026-09-13/sources-and-decisions.md plus ../seo-step-3-2026-09-12/feature-evidence.md",
+      "gapType": "Existing product page clarity and localization; not a new measured keyword gap",
+      "intent": "feeding, sleep and diaper record workflow"
+    },
+    {
+      "language": "fr",
+      "route": "/fr/about-bemama/tools/",
+      "heading": "Suivi de bébé : allaitement, sommeil et couches",
+      "description": "Apprenez à noter allaitement, biberons, sommeil et couches dans BeMama, à consulter les rapports et à utiliser les outils gratuits du site.",
+      "evidence": "../seo-step-5-2026-09-13/sources-and-decisions.md plus ../seo-step-3-2026-09-12/feature-evidence.md",
+      "gapType": "Existing product page clarity and localization; not a new measured keyword gap",
+      "intent": "feeding, sleep and diaper record workflow"
+    },
+    {
+      "language": "tr",
+      "route": "/tr/about-bemama/tools/",
+      "heading": "Bebek takibi: emzirme, uyku ve bez kayıtları",
+      "description": "BeMama’da emzirme, biberon, uyku ve bez kaydı tutmayı, raporları incelemeyi ve ücretsiz web araçlarını kullanmayı adım adım öğrenin.",
+      "evidence": "../seo-step-5-2026-09-13/sources-and-decisions.md plus ../seo-step-3-2026-09-12/feature-evidence.md",
+      "gapType": "Existing product page clarity and localization; not a new measured keyword gap",
+      "intent": "feeding, sleep and diaper record workflow"
+    },
+    {
+      "language": "es",
+      "route": "/es/about-bemama/tools/",
+      "heading": "Seguimiento del bebé: lactancia, sueño y pañales",
+      "description": "Aprende a registrar lactancia, biberones, sueño y pañales en BeMama, consultar informes y usar las herramientas gratuitas de la web.",
+      "evidence": "../seo-step-5-2026-09-13/sources-and-decisions.md plus ../seo-step-3-2026-09-12/feature-evidence.md",
+      "gapType": "Existing product page clarity and localization; not a new measured keyword gap",
+      "intent": "feeding, sleep and diaper record workflow"
+    },
+    {
+      "language": "pt",
+      "route": "/pt/about-bemama/tools/",
+      "heading": "Registro do bebê: amamentação, sono e fraldas",
+      "description": "Aprenda a registrar amamentação, mamadeiras, sono e fraldas na BeMama, consultar relatórios e usar as ferramentas gratuitas do site.",
+      "evidence": "../seo-step-5-2026-09-13/sources-and-decisions.md plus ../seo-step-3-2026-09-12/feature-evidence.md",
+      "gapType": "Existing product page clarity and localization; not a new measured keyword gap",
+      "intent": "feeding, sleep and diaper record workflow"
+    },
+    {
+      "language": "fa",
+      "route": "/fa/about-bemama/premium/",
+      "heading": "BeMama رایگان و پریمیوم: دسترسی به امکانات",
+      "description": "پیش از انتخاب اشتراک BeMama، تفاوت مسیر روزانه رایگان، ابزارهای عمومی سایت و دسترسی به امکانات پریمیوم و هوش مصنوعی را بشناسید.",
+      "evidence": "../seo-step-5-2026-09-13/sources-and-decisions.md plus ../seo-step-3-2026-09-12/feature-evidence.md",
+      "gapType": "Existing product page clarity and localization; not a new measured keyword gap",
+      "intent": "free and paid access boundaries"
+    },
+    {
+      "language": "ar",
+      "route": "/ar/about-bemama/premium/",
+      "heading": "BeMama المجاني وPremium: الوصول إلى الميزات",
+      "description": "افهمي الفرق بين المسار اليومي المجاني وأدوات الموقع وميزات Premium في BeMama، وتحققي من شروط الوصول قبل اختيار الاشتراك المناسب.",
+      "evidence": "../seo-step-5-2026-09-13/sources-and-decisions.md plus ../seo-step-3-2026-09-12/feature-evidence.md",
+      "gapType": "Existing product page clarity and localization; not a new measured keyword gap",
+      "intent": "free and paid access boundaries"
+    },
+    {
+      "language": "fr",
+      "route": "/fr/about-bemama/premium/",
+      "heading": "BeMama gratuit et Premium : accès aux fonctions",
+      "description": "Comprenez l’accès au parcours quotidien gratuit, aux outils du site et aux fonctions Premium de BeMama avant de choisir un abonnement.",
+      "evidence": "../seo-step-5-2026-09-13/sources-and-decisions.md plus ../seo-step-3-2026-09-12/feature-evidence.md",
+      "gapType": "Existing product page clarity and localization; not a new measured keyword gap",
+      "intent": "free and paid access boundaries"
+    },
+    {
+      "language": "tr",
+      "route": "/tr/about-bemama/premium/",
+      "heading": "BeMama ücretsiz ve Premium özellikleri",
+      "description": "BeMama’nın ücretsiz Günlük Yolculuk içeriğini, web araçlarını ve Premium özelliklere erişimi abonelik seçmeden önce karşılaştırın.",
+      "evidence": "../seo-step-5-2026-09-13/sources-and-decisions.md plus ../seo-step-3-2026-09-12/feature-evidence.md",
+      "gapType": "Existing product page clarity and localization; not a new measured keyword gap",
+      "intent": "free and paid access boundaries"
+    },
+    {
+      "language": "es",
+      "route": "/es/about-bemama/premium/",
+      "heading": "BeMama gratis y Premium: acceso a las funciones",
+      "description": "Conoce el recorrido diario gratuito, las herramientas web y el acceso a funciones Premium de BeMama antes de elegir una suscripción.",
+      "evidence": "../seo-step-5-2026-09-13/sources-and-decisions.md plus ../seo-step-3-2026-09-12/feature-evidence.md",
+      "gapType": "Existing product page clarity and localization; not a new measured keyword gap",
+      "intent": "free and paid access boundaries"
+    },
+    {
+      "language": "pt",
+      "route": "/pt/about-bemama/premium/",
+      "heading": "BeMama grátis e Premium: acesso aos recursos",
+      "description": "Entenda a Jornada Diária gratuita, as ferramentas do site e o acesso aos recursos Premium da BeMama antes de escolher uma assinatura.",
+      "evidence": "../seo-step-5-2026-09-13/sources-and-decisions.md plus ../seo-step-3-2026-09-12/feature-evidence.md",
+      "gapType": "Existing product page clarity and localization; not a new measured keyword gap",
+      "intent": "free and paid access boundaries"
+    },
+    {
+      "language": "fa",
+      "route": "/fa/about-bemama/getting-started/",
+      "heading": "شروع با BeMama: بارداری و مراقبت نوزاد",
+      "description": "مسیر و پروفایل نوزاد را در BeMama تنظیم کنید، نخستین مراقبت را ثبت و بررسی کنید یا ابزارهای رایگان سایت را بدون ساخت حساب امتحان کنید.",
+      "evidence": "../seo-step-5-2026-09-13/sources-and-decisions.md plus ../seo-step-3-2026-09-12/feature-evidence.md",
+      "gapType": "Existing product page clarity and localization; not a new measured keyword gap",
+      "intent": "starting and choosing app or public tools"
+    },
+    {
+      "language": "ar",
+      "route": "/ar/about-bemama/getting-started/",
+      "heading": "ابدئي مع BeMama: الحمل ورعاية الرضيع",
+      "description": "أعدّي مسارك وملف رضيعك في BeMama، واحفظي أول سجل للرعاية وراجعيه، أو جرّبي أدوات الموقع المجانية دون الحاجة إلى إنشاء حساب.",
+      "evidence": "../seo-step-5-2026-09-13/sources-and-decisions.md plus ../seo-step-3-2026-09-12/feature-evidence.md",
+      "gapType": "Existing product page clarity and localization; not a new measured keyword gap",
+      "intent": "starting and choosing app or public tools"
+    },
+    {
+      "language": "fr",
+      "route": "/fr/about-bemama/getting-started/",
+      "heading": "Commencer avec BeMama : grossesse et suivi de bébé",
+      "description": "Configurez votre parcours et le profil bébé dans BeMama, enregistrez un premier soin ou essayez les outils gratuits du site sans compte.",
+      "evidence": "../seo-step-5-2026-09-13/sources-and-decisions.md plus ../seo-step-3-2026-09-12/feature-evidence.md",
+      "gapType": "Existing product page clarity and localization; not a new measured keyword gap",
+      "intent": "starting and choosing app or public tools"
+    },
+    {
+      "language": "tr",
+      "route": "/tr/about-bemama/getting-started/",
+      "heading": "BeMama’ya başlarken: gebelik ve bebek bakımı",
+      "description": "BeMama’da yolculuğunuzu ve bebek profilini kurun, ilk bakım kaydını kontrol edin veya web araçlarını hesap oluşturmadan deneyin.",
+      "evidence": "../seo-step-5-2026-09-13/sources-and-decisions.md plus ../seo-step-3-2026-09-12/feature-evidence.md",
+      "gapType": "Existing product page clarity and localization; not a new measured keyword gap",
+      "intent": "starting and choosing app or public tools"
+    },
+    {
+      "language": "es",
+      "route": "/es/about-bemama/getting-started/",
+      "heading": "Primeros pasos con BeMama: embarazo y bebé",
+      "description": "Configura tu recorrido y perfil del bebé en BeMama, guarda tu primer registro o prueba las herramientas gratuitas de la web sin cuenta.",
+      "evidence": "../seo-step-5-2026-09-13/sources-and-decisions.md plus ../seo-step-3-2026-09-12/feature-evidence.md",
+      "gapType": "Existing product page clarity and localization; not a new measured keyword gap",
+      "intent": "starting and choosing app or public tools"
+    },
+    {
+      "language": "pt",
+      "route": "/pt/about-bemama/getting-started/",
+      "heading": "Comece na BeMama: gravidez e cuidados do bebê",
+      "description": "Configure sua jornada e o perfil do bebê na BeMama, salve o primeiro registro ou experimente ferramentas gratuitas no site sem conta.",
+      "evidence": "../seo-step-5-2026-09-13/sources-and-decisions.md plus ../seo-step-3-2026-09-12/feature-evidence.md",
+      "gapType": "Existing product page clarity and localization; not a new measured keyword gap",
+      "intent": "starting and choosing app or public tools"
+    }
+  ]
+}

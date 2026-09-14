@@ -1,0 +1,20 @@
+{
+  "baselineHead": "a334249c423097c2fa2cec968f75fb44d2b1f165",
+  "baselineArticleCount": 185,
+  "finalArticleCount": 187,
+  "existingArticleObjectsChanged": [
+    "about-bemama/why-bemama",
+    "about-bemama/tools",
+    "about-bemama/premium",
+    "about-bemama/getting-started"
+  ],
+  "newArticles": [
+    "baby-and-child/4-month-old-sleep-schedule",
+    "baby-and-child/6-month-old-feeding-schedule"
+  ],
+  "allOtherExistingArticleObjectsUnchanged": true,
+  "englishProductCopyUnchanged": true,
+  "existingLocalizedPagesUpdated": 30,
+  "newLocalizedArticlePages": 14,
+  "scopeNote": "Six homepages plus four product guides in six languages. Shared homepage rendering and CSS/script version keys also affect generated files. Existing installed Step 5 changes were already uncommitted at the baseline."
+}

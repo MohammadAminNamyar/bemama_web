@@ -1443,6 +1443,16 @@ html[dir="rtl"] .notice {
   object-position: top center;
 }
 
+@media (max-width: 600px) {
+  /* Keep decorative phone shadows inside the mobile page width. */
+  .home-tour-preview.device-stage::before,
+  .home-tour-preview.device-stage::after {
+    left: 0;
+    right: 0;
+    transform: none;
+  }
+}
+
 .home-tour-copy {
   max-width: 660px;
 }

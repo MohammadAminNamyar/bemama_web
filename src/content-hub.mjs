@@ -17,6 +17,7 @@ import { pregnancyArticles } from './articles/pregnancy.mjs';
 import { newbornArticles } from './articles/newborn.mjs';
 import { childArticles } from './articles/baby-and-child.mjs';
 import { appArticles } from './articles/about-bemama.mjs';
+import { routineArticles } from './articles/routines.mjs';
 import { expansionArticles, careTools } from './articles/expansion.mjs';
 import { expansionUpgradedArticles } from './articles/expansion-upgraded.mjs';
 import { newArticles } from './articles/new-articles.mjs';
@@ -451,7 +452,8 @@ export const articles = [
   ...newArticles,
   ...questionArticles,
   ...careTools,
-  ...appArticles
+  ...appArticles,
+  ...routineArticles
 ];
 
 // Merge per-language translations into each article's i18n map. Section images

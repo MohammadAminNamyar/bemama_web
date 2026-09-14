@@ -1,0 +1,82 @@
+{
+  "scope": "Eight additional/repeated seed submissions in French and Spanish, not eight new unique keywords or missing-page claims.",
+  "settings": {
+    "locations": "All locations",
+    "network": "Google",
+    "filter": "Exclude adult ideas",
+    "dateRangeLabel": "Last 12 months",
+    "period": {
+      "from": "2025-09",
+      "to": "2026-08",
+      "verification": "Explicit Start date/End date fields observed September 13. The earlier September 12 batches used Last 12 months; exact months were not separately opened then."
+    }
+  },
+  "method": "Transcribed from the visible Keywords you provided rows in Google Ads Keyword Planner in Chrome. No keyword was added to a campaign.",
+  "observedNotice": "Some of the keywords were removed and won't be used for keyword ideas.",
+  "noticeInterpretation": "The help described precautionary restrictions for sensitive topics. No phrase-specific cause was established. Null is unmeasured, not zero.",
+  "limits": [
+    "Google estimates may group close variants. Do not sum or treat ranges as exact counts.",
+    "No organic rank, SEO difficulty, competitor traffic or AI-citation measurement.",
+    "Ad competition and bids were not used to prioritize organic content.",
+    "All locations is language-level research, not country-specific demand. Portuguese copy follows the site's existing Brazilian Portuguese style.",
+    "Initial seed wording includes competitor concepts and editorial variants. See sources-and-decisions.md for actual observed publisher wording; a measured term is not automatically a competitor's exact phrase."
+  ],
+  "providedRowObservations": {
+    "fr": "diversification alimentaire 6 mois. This is a keyword you provided. 1K – 10K",
+    "es": "alimentación complementaria 6 meses. This is a keyword you provided. 1K – 10K"
+  },
+  "batches": {
+    "fr": {
+      "language": "fr",
+      "observedDate": "2026-09-13",
+      "keywords": [
+        {
+          "keyword": "sommeil bébé 4 mois",
+          "avgMonthlySearches": null,
+          "status": "not-returned"
+        },
+        {
+          "keyword": "rythme sommeil bébé 4 mois",
+          "avgMonthlySearches": null,
+          "status": "not-returned"
+        },
+        {
+          "keyword": "alimentation bébé 6 mois",
+          "avgMonthlySearches": null,
+          "status": "not-returned"
+        },
+        {
+          "keyword": "diversification alimentaire 6 mois",
+          "avgMonthlySearches": "1K – 10K",
+          "status": "measured-range"
+        }
+      ]
+    },
+    "es": {
+      "language": "es",
+      "observedDate": "2026-09-13",
+      "keywords": [
+        {
+          "keyword": "sueño bebé 4 meses",
+          "avgMonthlySearches": null,
+          "status": "not-returned"
+        },
+        {
+          "keyword": "rutina sueño bebé 4 meses",
+          "avgMonthlySearches": null,
+          "status": "not-returned"
+        },
+        {
+          "keyword": "alimentación bebé 6 meses",
+          "avgMonthlySearches": null,
+          "status": "not-returned"
+        },
+        {
+          "keyword": "alimentación complementaria 6 meses",
+          "avgMonthlySearches": "1K – 10K",
+          "status": "measured-range"
+        }
+      ]
+    }
+  }
+}

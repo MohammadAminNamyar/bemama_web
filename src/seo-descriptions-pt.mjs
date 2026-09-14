@@ -167,12 +167,8 @@ export const portugueseDescriptions = {
   'baby-and-child/when-do-babies-walk': 'Explore as habilidades que levam à caminhada, as diferentes idades dos primeiros passos e como apoiar os movimentos do bebê sem pressa.',
   'baby-and-child/when-do-babies-sleep-through-the-night': 'Entenda o que significa dormir a noite toda, as diferenças entre bebês e por que os despertares noturnos podem continuar.',
   'newborn/baby-growth-spurts': 'Reconheça os estirões de crescimento do bebê, as mudanças de apetite e os sinais que merecem uma conversa com um profissional.',
-  'about-bemama/why-bemama': 'Descubra por que o BeMama reúne orientação diária, comunidade e ferramentas desde o planejamento da gravidez até os primeiros anos da criança.',
   'about-bemama/daily-journey': "Configure sua jornada no aplicativo de gravidez BeMama, acompanhe a gravidez semana a semana e entenda o cálculo de datas e o acesso aos recursos.",
   'about-bemama/qa-and-community': 'Aprenda a fazer perguntas, encontrar discussões relacionadas e conversar com outros pais nos espaços da comunidade BeMama.',
-  'about-bemama/tools': 'Explore calculadoras, registros e ferramentas BeMama organizadas por etapa, do planejamento da gravidez aos cuidados diários com os filhos.',
-  'about-bemama/premium': 'Compare a experiência gratuita com os recursos Premium do BeMama e saiba onde consultar as condições de assinatura.',
   'about-bemama/ai-support': 'Entenda o apoio da IA no BeMama e seus limites: ele não fornece diagnósticos, prescrições ou atendimento de emergência.',
   'about-bemama/privacy-and-safety': 'Conheça o uso de dados sensíveis no BeMama, os pedidos de exportação ou exclusão e onde ler a política de privacidade completa.',
-  'about-bemama/getting-started': 'Dê os primeiros passos no BeMama: abra o aplicativo, crie seu espaço, informe sua etapa e explore orientações, comunidade e ferramentas.'
 };

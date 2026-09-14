@@ -176,12 +176,8 @@ export const frenchDescriptions = {
   'baby-and-child/when-do-babies-walk': 'Explorez les étapes vers la marche, la diversité des âges des premiers pas et les façons d’accompagner votre bébé sans le presser.',
   'baby-and-child/when-do-babies-sleep-through-the-night': 'Comprenez ce que signifie faire ses nuits, les variations entre bébés et pourquoi les réveils nocturnes peuvent persister.',
   'newborn/baby-growth-spurts': 'Reconnaissez les poussées de croissance du bébé, les changements d’appétit et les signes qui justifient d’en parler à un professionnel.',
-  'about-bemama/why-bemama': 'Découvrez pourquoi BeMama réunit conseils quotidiens, communauté et outils pratiques, du projet de grossesse aux premières années de l’enfant.',
   'about-bemama/daily-journey': "Découvrez le suivi de grossesse BeMama : configurez votre parcours, suivez les semaines et comprenez le calcul des dates et l’accès aux fonctions.",
   'about-bemama/qa-and-community': 'Apprenez à poser des questions, consulter les discussions et échanger avec d’autres parents dans les espaces communautaires de BeMama.',
-  'about-bemama/tools': 'Découvrez les calculateurs, suivis et outils BeMama organisés par étape, du projet de grossesse aux besoins quotidiens des parents.',
-  'about-bemama/premium': 'Comparez l’expérience gratuite et les fonctions Premium de BeMama, et découvrez où consulter les conditions d’abonnement.',
   'about-bemama/ai-support': 'Comprenez l’aide de l’IA dans BeMama et ses limites : elle ne fournit ni diagnostic, ni ordonnance, ni prise en charge d’urgence.',
   'about-bemama/privacy-and-safety': 'Découvrez l’utilisation des données sensibles dans BeMama, les demandes d’export ou de suppression et l’accès à la politique de confidentialité.',
-  'about-bemama/getting-started': 'Faites vos premiers pas dans BeMama : ouvrez l’application, créez votre espace, indiquez votre étape et explorez conseils, communauté et outils.'
 };

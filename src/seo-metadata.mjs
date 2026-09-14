@@ -1,3 +1,4 @@
+import { homeRollout } from './home-rollout.mjs';
 import { englishDescriptions } from './seo-descriptions-en.mjs';
 import { persianDescriptions } from './seo-descriptions-fa.mjs';
 import { arabicDescriptions } from './seo-descriptions-ar.mjs';
@@ -171,7 +172,8 @@ export function searchMetadata({ lang, slug, title, description }) {
   }
   const override = {
     ...(descriptionsByLanguage[lang][slug] ? { description: descriptionsByLanguage[lang][slug] } : {}),
-    ...metadataOverrides[`${lang}/${slug}`]
+    ...metadataOverrides[`${lang}/${slug}`],
+    ...(slug === '' && homeRollout[lang]?.metaDescription ? { description: homeRollout[lang].metaDescription } : {})
   };
   const originalTitle = normalizeMetadata(title);
   const summary = normalizeMetadata(override.description ?? description);

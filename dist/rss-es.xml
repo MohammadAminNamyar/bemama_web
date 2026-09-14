@@ -4,7 +4,7 @@
     <title>BeMama: Español</title>
     <link>https://bemamas.com/es/</link>
     <atom:link href="https://bemamas.com/rss-es.xml" rel="self" type="application/rss+xml" />
-    <description>BeMama acompaña la planificación, embarazo, cuidado del bebé y crecimiento infantil.</description>
+    <description>Sigue el embarazo semana a semana con BeMama, registra tomas, sueño y pañales del bebé y usa herramientas gratuitas para preparar sus cuidados.</description>
     <language>es</language>
     <lastBuildDate>Sat, 12 Sep 2026 12:00:00 GMT</lastBuildDate>
     <item>
@@ -1392,10 +1392,10 @@
       <media:content url="https://bemamas.com/assets/content/child-screen-time.jpg" medium="image" />
     </item>
     <item>
-      <title>Por qué BeMama: apoyo para cada etapa de la maternidad</title>
+      <title>BeMama: seguimiento del embarazo y del bebé</title>
       <link>https://bemamas.com/es/about-bemama/why-bemama/</link>
       <guid isPermaLink="true">https://bemamas.com/es/about-bemama/why-bemama/</guid>
-      <description>Por qué creamos BeMama: una compañera serena que reúne guía diaria, comunidad y herramientas prácticas para la planificación, el embarazo, el cuidado del bebé y el crecimiento infantil.</description>
+      <description>Conoce BeMama para seguir el embarazo y registrar tomas, sueño y pañales del bebé, con calculadoras y listas gratuitas en la web.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/app-why-bemama.jpg" medium="image" />
     </item>
@@ -1416,18 +1416,18 @@
       <media:content url="https://bemamas.com/assets/content/app-qa-community.jpg" medium="image" />
     </item>
     <item>
-      <title>Herramientas de BeMama: calculadoras y registros</title>
+      <title>Seguimiento del bebé: lactancia, sueño y pañales</title>
       <link>https://bemamas.com/es/about-bemama/tools/</link>
       <guid isPermaLink="true">https://bemamas.com/es/about-bemama/tools/</guid>
-      <description>Un vistazo a las Herramientas prácticas de BeMama, calculadoras, registros y utilidades de cuidado organizadas por etapa, y cómo reducen la carga mental de la planificación, el embarazo y la crianza.</description>
+      <description>Aprende a registrar lactancia, biberones, sueño y pañales en BeMama, consultar informes y usar las herramientas gratuitas de la web.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/app-tools.jpg" medium="image" />
     </item>
     <item>
-      <title>BeMama Premium: qué incluye</title>
+      <title>BeMama gratis y Premium: acceso a las funciones</title>
       <link>https://bemamas.com/es/about-bemama/premium/</link>
       <guid isPermaLink="true">https://bemamas.com/es/about-bemama/premium/</guid>
-      <description>Una mirada honesta a la experiencia gratuita de BeMama frente a Premium, con guía diaria más profunda y herramientas más completas, términos de suscripción transparentes y sin presión para mejorar de plan.</description>
+      <description>Conoce el recorrido diario gratuito, las herramientas web y el acceso a funciones Premium de BeMama antes de elegir una suscripción.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/app-premium.jpg" medium="image" />
     </item>
@@ -1448,10 +1448,10 @@
       <media:content url="https://bemamas.com/assets/content/app-privacy.jpg" medium="image" />
     </item>
     <item>
-      <title>Primeros pasos con BeMama</title>
+      <title>Primeros pasos con BeMama: embarazo y bebé</title>
       <link>https://bemamas.com/es/about-bemama/getting-started/</link>
       <guid isPermaLink="true">https://bemamas.com/es/about-bemama/getting-started/</guid>
-      <description>Un recorrido amable de cinco minutos por tu primera sesión en BeMama: abre la aplicación web, crea tu espacio, configura tu etapa y explora el Camino Diario, las Preguntas y respuestas y las Herramientas.</description>
+      <description>Configura tu recorrido y perfil del bebé en BeMama, guarda tu primer registro o prueba las herramientas gratuitas de la web sin cuenta.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/app-getting-started.jpg" medium="image" />
     </item>

@@ -4,9 +4,9 @@ import { cp, mkdir, readFile, rm, writeFile } from 'node:fs/promises';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { content, languages, pageSlugs, site } from '../src/pages.mjs';
-import { quickHelpCopy, quickHelpUrl } from '../src/quick-help.mjs';
 import { tourCollectionTranslations, tourUiTranslations } from '../src/tour-i18n.mjs';
 import { evidenceForArticle } from '../src/article-evidence.mjs';
+import { renderRoutineVisual } from '../src/routine-visuals.mjs';
 import { articleDates, evidenceDateLabels } from '../src/article-dates.mjs';
 import { searchMetadata } from '../src/seo-metadata.mjs';
 import { qualityCopy } from '../src/tool-quality-copy.mjs';
@@ -145,6 +145,11 @@ const CURATED_RELATED_SLUGS = new Map([
   ['baby-and-child/baby-milestones', ['baby-and-child/vaccinations-overview']],
   ['newborn/first-doctor-visit', ['baby-and-child/vaccinations-overview']],
   ['newborn/formula-feeding', ['newborn/formula-prep-safety']],
+  ['baby-and-child/4-month-old-sleep-schedule', ['baby-and-child/four-month-milestones', 'newborn/safe-sleep-room-sharing', 'about-bemama/tools']],
+  ['baby-and-child/6-month-old-feeding-schedule', ['baby-and-child/starting-solids', 'baby-and-child/six-month-milestones', 'about-bemama/tools']],
+  ['baby-and-child/four-month-milestones', ['baby-and-child/4-month-old-sleep-schedule']],
+  ['baby-and-child/six-month-milestones', ['baby-and-child/6-month-old-feeding-schedule']],
+  ['baby-and-child/starting-solids', ['baby-and-child/6-month-old-feeding-schedule']],
   ['pregnancy/third-trimester', ['pregnancy/baby-movement-patterns']],
   ['trying-to-conceive/preparing-for-pregnancy', ['trying-to-conceive/menstrual-cycle-basics']],
   ['about-bemama/getting-started', ['about-bemama/tools', 'about-bemama/qa-and-community']],
@@ -774,7 +779,7 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const dist = path.join(root, 'dist');
 const publicAssets = path.join(root, 'public', 'assets');
 const assetVersions = new Map();
-const transparentPixel = 'data:image/gif;base64,R0lGODlhAQABAAAAACw=';
+const transparentPixel = 'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7';
 const imageSizeCache = new Map();
 
 await rm(dist, { recursive: true, force: true, maxRetries: 5, retryDelay: 200 });
@@ -782,7 +787,7 @@ await mkdir(dist, { recursive: true });
 await mkdir(path.join(dist, 'assets'), { recursive: true });
 
 await cp(path.join(root, 'public'), dist, { recursive: true });
-const styles = `${await readFile(path.join(root, 'src', 'styles.css'), 'utf8')}\n${await readFile(path.join(root, 'src', 'hub.css'), 'utf8')}`;
+const styles = `${await readFile(path.join(root, 'src', 'styles.css'), 'utf8')}\n${await readFile(path.join(root, 'src', 'hub.css'), 'utf8')}\n${await readFile(path.join(root, 'src', 'routine-articles.css'), 'utf8')}`;
 await writeFile(
   path.join(dist, 'assets', 'styles.css'),
   minifyCss(styles)
@@ -930,6 +935,7 @@ function renderPage(language, slug) {
     ${body}
     ${renderFooter(language)}
     <script type="module" src="${versionedAsset('/assets/site-search.js')}"></script>
+    ${article?.routineGuide ? `<script type="module" src="${versionedAsset('/assets/routine-articles.js')}"></script>` : ''}
     ${article?.kind === 'tool' && !article.catalogHidden ? `<script type="module" src="${versionedAsset('/assets/care-tools.js')}"></script>` : ''}
     ${slug === 'explore' ? `<script type="module" src="${versionedAsset('/assets/product-tour.js')}"></script>` : ''}${slug === '' ? `\n    <script type="module" src="${versionedAsset('/assets/quick-help-entry.js')}"></script>` : ''}
     ${renderAnalytics()}
@@ -1060,14 +1066,10 @@ function renderHome(language) {
     ['app_daily_plan.png', 'icon_daily_action.png', h.phoneTitle, h.phoneText, tourLink('daily')],
     ['app_qna_support.png', 'icon_ask_question.png', h.qnaTitle, h.qnaText, tourLink('community', 2)],
     ['app_community.png', 'icon_shield_heart.png', h.aiTitle, h.aiText, tourLink('community', 3)],
-    ['app_child_growth.png', 'icon_ask_ai.png', h.journeys[3], language.code === 'en' ? 'Explore child-growth records and the care screens in the app tour.' : h.features[2][1], tourLink('care')]
+    ['app_child_growth.png', 'icon_ask_ai.png', h.journeys[3], h.growthTourText, tourLink('care')]
   ];
-  const featureLinks = language.code === 'en'
-    ? ['about-bemama/daily-journey', 'about-bemama/tools', 'tools'].map(slug => localizedPath(language.code, slug))
-    : [tourLink('daily'), tourLink('community'), tourLink('care')];
-  const primaryAction = language.code === 'en'
-    ? { href: localizedPath(language.code, 'tools'), action: 'Try free tools', note: 'Calculators and checklists. No account needed.', attributes: 'data-umami-event="public_tools_clicked"' }
-    : { href: quickHelpUrl(language.code), ...quickHelpCopy[language.code], attributes: 'data-quick-help data-umami-event="quick_help_clicked"' };
+  const featureLinks = ['about-bemama/daily-journey', 'about-bemama/tools', 'tools'].map(slug => localizedPath(language.code, slug));
+  const primaryAction = { href: localizedPath(language.code, 'tools'), action: h.freeToolsAction, note: h.freeToolsNote, attributes: 'data-umami-event="public_tools_clicked"' };
   const featuredGuideCards = FEATURED_GUIDE_SLUGS.map((slug) => articleBySlug.get(slug))
     .filter(Boolean)
     .map((article) => {
@@ -1564,6 +1566,7 @@ function renderArticle(language, slug, article, data) {
       <h2>${escapeHtml(section.heading)}</h2>
       ${section.image ? `<figure class="article-figure">${imageMarkup(`/assets/${section.image}`, section.heading)}</figure>` : ''}
       ${section.paragraphs.map((p) => `<p>${richText(p, data.linkLabels)}</p>`).join("")}
+      ${section.visual ? renderRoutineVisual(section.visual, lang) : ''}
     </section>`
     )
     .join('');

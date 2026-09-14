@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "build": "node scripts/build.mjs",
-    "validate": "node --test scripts/seo-metadata.test.mjs scripts/indexnow.test.mjs scripts/indexing.test.mjs scripts/article-dates.test.mjs scripts/verify-indexing-live.test.mjs scripts/care-tools.test.mjs scripts/tool-quality.test.mjs scripts/tool-completion.test.mjs scripts/quick-help.test.mjs scripts/product-content.test.mjs scripts/localization-pilot.test.mjs && node scripts/validate.mjs && node scripts/audit-seo.mjs",
+    "validate": "node --test scripts/seo-metadata.test.mjs scripts/indexnow.test.mjs scripts/indexing.test.mjs scripts/article-dates.test.mjs scripts/verify-indexing-live.test.mjs scripts/care-tools.test.mjs scripts/tool-quality.test.mjs scripts/tool-completion.test.mjs scripts/quick-help.test.mjs scripts/product-content.test.mjs scripts/localization-pilot.test.mjs scripts/content-rollout.test.mjs && node scripts/validate.mjs && node scripts/audit-seo.mjs",
     "verify:indexing:live": "node scripts/verify-indexing-live.mjs",
     "audit:seo": "node scripts/audit-seo.mjs",
     "indexnow": "node scripts/indexnow.mjs",

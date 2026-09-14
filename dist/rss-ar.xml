@@ -4,7 +4,7 @@
     <title>BeMama: العربية</title>
     <link>https://bemamas.com/ar/</link>
     <atom:link href="https://bemamas.com/rss-ar.xml" rel="self" type="application/rss+xml" />
-    <description>BeMama رفيق هادئ للتخطيط والحمل ورعاية الطفل ونموه.</description>
+    <description>تابعي الحمل أسبوعًا بأسبوع مع BeMama وسجّلي رضاعة رضيعك ونومه وحفاضاته، واستخدمي أدوات الموقع المجانية للتخطيط والاستعداد للرعاية.</description>
     <language>ar</language>
     <lastBuildDate>Sat, 12 Sep 2026 12:00:00 GMT</lastBuildDate>
     <item>
@@ -1392,10 +1392,10 @@
       <media:content url="https://bemamas.com/assets/content/child-screen-time.jpg" medium="image" />
     </item>
     <item>
-      <title>لماذا BeMama: دعم لكل مرحلة من مراحل الأمومة</title>
+      <title>BeMama: متابعة الحمل والعناية بالرضيع</title>
       <link>https://bemamas.com/ar/about-bemama/why-bemama/</link>
       <guid isPermaLink="true">https://bemamas.com/ar/about-bemama/why-bemama/</guid>
-      <description>لماذا أنشأنا BeMama ، رفيقة هادئة واحدة تجمع الإرشاد اليومي والمجتمع والأدوات العملية معًا عبر مراحل التخطيط والحمل ورعاية الرضيع ونمو الطفل.</description>
+      <description>تعرّفي على BeMama لمتابعة الحمل وتسجيل الرضاعة والنوم والحفاضات، مع حاسبات وقوائم مجانية على الموقع تساعدك في تنظيم الرعاية اليومية.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/app-why-bemama.jpg" medium="image" />
     </item>
@@ -1416,18 +1416,18 @@
       <media:content url="https://bemamas.com/assets/content/app-qa-community.jpg" medium="image" />
     </item>
     <item>
-      <title>«الأدوات» في BeMama: حاسبات وأدوات تتبع</title>
+      <title>متابعة الرضيع: تسجيل الرضاعة والنوم والحفاضات</title>
       <link>https://bemamas.com/ar/about-bemama/tools/</link>
       <guid isPermaLink="true">https://bemamas.com/ar/about-bemama/tools/</guid>
-      <description>نظرة على «الأدوات» العملية في BeMama ، حاسبات وأدوات تتبع ووسائل رعاية منظمة حسب المرحلة ، وكيف تخفف العبء الذهني للتخطيط والحمل والأمومة.</description>
+      <description>تعلّمي تسجيل الرضاعة الطبيعية والزجاجات والنوم والحفاضات في BeMama، ومراجعة التقارير، واستخدام الأدوات المجانية المنفصلة على الموقع.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/app-tools.jpg" medium="image" />
     </item>
     <item>
-      <title>اشتراك BeMama Premium: ما الذي يتضمنه</title>
+      <title>BeMama المجاني وPremium: الوصول إلى الميزات</title>
       <link>https://bemamas.com/ar/about-bemama/premium/</link>
       <guid isPermaLink="true">https://bemamas.com/ar/about-bemama/premium/</guid>
-      <description>نظرة صادقة على التجربة المجانية في BeMama مقابل اشتراك Premium ، إرشاد يومي أعمق وأدوات أغنى ، مع شروط اشتراك شفافة ودون أي ضغط للترقية.</description>
+      <description>افهمي الفرق بين المسار اليومي المجاني وأدوات الموقع وميزات Premium في BeMama، وتحققي من شروط الوصول قبل اختيار الاشتراك المناسب.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/app-premium.jpg" medium="image" />
     </item>
@@ -1448,10 +1448,10 @@
       <media:content url="https://bemamas.com/assets/content/app-privacy.jpg" medium="image" />
     </item>
     <item>
-      <title>البدء مع BeMama</title>
+      <title>ابدئي مع BeMama: الحمل ورعاية الرضيع</title>
       <link>https://bemamas.com/ar/about-bemama/getting-started/</link>
       <guid isPermaLink="true">https://bemamas.com/ar/about-bemama/getting-started/</guid>
-      <description>جولة لطيفة من خمس دقائق في جلستك الأولى مع BeMama ، افتحي تطبيق الويب، وأنشئي مساحتك، وحددي مرحلتك، واستكشفي «المسار اليومي» و«الأسئلة والأجوبة» و«الأدوات».</description>
+      <description>أعدّي مسارك وملف رضيعك في BeMama، واحفظي أول سجل للرعاية وراجعيه، أو جرّبي أدوات الموقع المجانية دون الحاجة إلى إنشاء حساب.</description>
       <pubDate>Wed, 01 Jul 2026 12:00:00 GMT</pubDate>
       <media:content url="https://bemamas.com/assets/content/app-getting-started.jpg" medium="image" />
     </item>

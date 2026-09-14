@@ -1,0 +1,81 @@
+{
+  "checkedDate": "2026-09-13",
+  "browser": "Chrome (connected BeMama profile)",
+  "localOrigin": "http://localhost:4173",
+  "build": "node scripts/build.mjs: exit 0",
+  "automated": {
+    "tests": 120,
+    "passed": 120,
+    "failed": 0,
+    "htmlFiles": 1414,
+    "localizedRoutes": 1407,
+    "activeIndexableUrls": 1379,
+    "duplicateTitles": 0,
+    "duplicateDescriptions": 0,
+    "metadataLengthIssues": 0,
+    "metadataLocalizationIssues": 0,
+    "oversizedImages": 0
+  },
+  "browserChecks": {
+    "mobile": {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "pages": 44,
+      "scope": "30 localized product/home pages plus 14 new article pages",
+      "horizontalOverflow": 0,
+      "brokenImagesAtObservation": 0,
+      "missingH1": 0,
+      "hiddenInteractiveControlsAfterLoad": 0
+    },
+    "tablet": {
+      "viewport": {
+        "width": 768,
+        "height": 1024
+      },
+      "pages": 21,
+      "scope": "All seven homepages plus fourteen new article pages",
+      "horizontalOverflow": 0
+    },
+    "desktop": {
+      "width": 1920,
+      "scope": "New article pages inspected; English sleep chart visually checked. Final English preview restored to normal desktop width."
+    },
+    "sleep": {
+      "completeSleepMinutes": 825,
+      "incompleteSleepMinutes": 780,
+      "incompleteUnknownMinutes": 360,
+      "switchWorked": true,
+      "persianLabelsAndNumeralsChecked": true,
+      "accessibleArithmeticTable": true
+    },
+    "worksheet": {
+      "englishAddedEntry": 4,
+      "focusMovedToNewEntry": true,
+      "arabicAddedEntry": 4,
+      "arabicLabelsAndRtlLayoutChecked": true,
+      "printData": "Only fictional test text",
+      "multilineNotesPreserved": true,
+      "printVisibleHeadings": [
+        "Your feeding observation sheet"
+      ],
+      "pdfGeneration": {
+        "method": "Chrome Page.printToPDF after invoking the worksheet button with a temporary print-dialog stub",
+        "bytes": 42931,
+        "pageObjects": 2,
+        "note": "Print CSS inspected visually; PDF generation and page count checked. No printer job submitted and no PDF file was saved."
+      },
+      "reloadClearedFictionalValues": true,
+      "temporaryTestOverridesRemoved": true
+    },
+    "finalBrowserConsoleErrorsObserved": 0,
+    "viewportOverridesReset": true
+  },
+  "limitations": [
+    "No independent pediatric review.",
+    "No independent native-speaking editorial review.",
+    "No production deployment, organic ranking measurement or AI-answer visibility measurement in this batch.",
+    "Worksheet entries are temporary page data; the UI advises printing before leaving."
+  ]
+}

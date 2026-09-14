@@ -4,7 +4,7 @@ import { submissionPayload, pageSignature, activePageUrls } from './indexnow.mjs
 
 test('default IndexNow URL selection excludes explicitly retired noindex tools', () => {
   const urls=activePageUrls();
-  assert.equal(urls.length,1365);
+  assert.equal(urls.length,1379);
   for(const id of ['milestone-tracker','solids-planner','toddler-activity-picker']) assert.ok(urls.every(url=>!url.includes(`/tools/${id}/`)));
   assert.ok(urls.includes('https://bemamas.com/tools/growth-log/'));
 });
