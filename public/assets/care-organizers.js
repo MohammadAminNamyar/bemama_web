@@ -105,41 +105,53 @@ export function renderChecklistComplete(config) {
 export function renderNameFinderComplete(config) {
  const ui=config.ui,root=el('div','tool-pilot organizer names-organizer'),browse=el('section','pilot-card'),shortlist=el('section','pilot-card'),ctl=controller(config,'names',renderSaved);
  const source=el('a','',`SSA · ${nameSource.period}`);source.href=nameSource.url;
- browse.append(el('h2','pilot-heading',ui.nameSearch),el('p','pilot-hint',ui.nameDataHelp),source);
+ const browseAbout=el('details','name-source-details');browseAbout.append(el('summary','',ui.nameDataAbout),el('p','pilot-hint',ui.nameDataHelp),source);
+ browse.append(el('h2','pilot-heading',ui.nameRankings));
  const query=field(ui.nameSearch,'search'),sex=field(ui.nameCategory,'select',[['',ui.all],['F',ui.girls],['M',ui.boys]]),length=field(ui.nameLength,'select',[['',ui.all],['short',ui.shortName],['long',ui.longName]]),sort=field(ui.nameSort,'select',[['rank',ui.rank],['alpha',ui.alphabetical]]);
  const filters=el('div','organizer-filters name-filters');filters.append(query.wrap,sex.wrap,length.wrap,sort.wrap);browse.append(filters);
  const count=el('p','pilot-hint'),results=el('div','sourced-name-results'),more=btn(ui.showMore,()=>{visible+=24;renderResults();});let visible=24;
- [query.input,sex.input,length.input,sort.input].forEach(input=>input.addEventListener('input',()=>{visible=24;renderResults();}));browse.append(count,results,more);
+ count.setAttribute('role','status');
+ [query.input,sex.input,length.input,sort.input].forEach(input=>input.addEventListener('input',()=>{visible=24;renderResults();}));browse.append(browseAbout,count,results,more);
  const savedList=el('div','organizer-shortlist'),chart=el('section','pilot-card name-comparison'),compareSex=field(ui.nameCategory,'select',[['F',ui.girls],['M',ui.boys]]),bars=el('div','name-comparison-bars');compareSex.input.addEventListener('change',renderComparison);
  chart.append(el('h2','pilot-heading',ui.compareNames),el('p','pilot-hint',ui.compareHelp),compareSex.wrap,bars);
  const form=el('form','pilot-form name-editor'),name=field(ui.name),note=field(ui.notes,'textarea');name.input.required=true;name.input.maxLength=100;note.input.maxLength=4000;let editing;
  const heading=el('h3','pilot-heading',ui.addName),submit=el('button','button',ui.saveName);submit.type='submit';const cancel=btn(ui.cancel,reset);cancel.hidden=true;form.append(heading,name.wrap,note.wrap,submit,cancel);
- function reset(){form.reset();editing=undefined;heading.textContent=ui.addName;submit.textContent=ui.saveName;cancel.hidden=true;}
+ const editor=el('details','name-editor-disclosure');editor.append(el('summary','',ui.addName),form);
+ function reset(){form.reset();editing=undefined;heading.textContent=ui.addName;submit.textContent=ui.saveName;cancel.hidden=true;editor.open=false;editor.firstElementChild.focus();}
  form.addEventListener('submit',event=>{event.preventDefault();const value=name.input.value.trim();if(!value)return;const duplicate=ctl.entries.some(e=>nameKey(e.name)===nameKey(value)&&e.id!==editing?.id);if(duplicate){ctl.status.textContent=ui.duplicateName;return;}
   const entry={...(editing||{}),id:editing?.id||crypto.randomUUID(),name:value,note:note.input.value.trim(),legacy:false};
   if(ctl.apply(editing?ctl.entries.map(e=>e.id===entry.id?entry:e):[...ctl.entries,entry]))reset();
  });
- shortlist.append(el('h2','pilot-heading',ui.savedNames),ctl.controls,ctl.status,savedList,form,el('p','pilot-hint',config.labels.local));
+ const manage=el('details','organizer-manage');manage.append(el('summary','',ui.manageList),ctl.controls);
+ shortlist.append(el('h2','pilot-heading',ui.savedNames),ctl.status,savedList,editor,manage,el('p','pilot-hint',config.labels.local));
  const collection=config.nameCollection, meanings=el('section','pilot-card'), meaningResults=el('div','sourced-name-results'), meaningCount=el('p','pilot-hint');
- let meaningQuery,meaningUsage;
+ let meaningQuery,meaningUsage,meaningVisible=6,meaningMore;
  if(collection){
   const c=collection.ui;
   meanings.id='name-meanings';meaningCount.setAttribute('role','status');meaningCount.dir='ltr';
   meaningQuery=field(c.search,'search');meaningUsage=field(c.usage,'select',[['',ui.all],...Object.entries(c.languages)]);
   const fields=el('div','organizer-filters');fields.append(meaningQuery.wrap,meaningUsage.wrap);
-  meanings.append(el('h2','pilot-heading',c.title),el('p','pilot-hint',c.help),fields,meaningCount,meaningResults);
-  for(const input of [meaningQuery.input,meaningUsage.input])input.addEventListener('input',renderMeanings);
+  const about=el('details','name-source-details');about.append(el('summary','',ui.nameDataAbout),el('p','pilot-hint',c.help));
+  meaningMore=btn(ui.showMore,()=>{meaningVisible+=6;renderMeanings();});
+  meanings.append(el('h2','pilot-heading',c.title),fields,about,meaningCount,meaningResults,meaningMore);
+  for(const input of [meaningQuery.input,meaningUsage.input])input.addEventListener('input',()=>{meaningVisible=6;renderMeanings();});
  }
- const nav=el('nav','organizer-nav');
- for(const [section,id,label]of [[browse,'name-explorer',ui.nameSearch],[shortlist,'name-shortlist',ui.savedNames],[chart,'name-comparison',ui.compareNames]]){section.id=id;const link=el('a','button secondary pilot-button',label);link.href=`#${id}`;nav.append(link);}
- if(collection){const link=el('a','button secondary pilot-button',collection.ui.title);link.href='#name-meanings';nav.append(link);}
- root.append(nav,shortlist,chart);if(collection)root.append(meanings);root.append(browse);
+ browse.id='name-explorer';shortlist.id='name-shortlist';chart.id='name-comparison';
+ const discovery=el('div','name-discovery-controls'),mode=field(ui.nameExplore,'select',[...(collection?[['meanings',ui.nameMeanings]]:[]),['rankings',ui.nameRankings]]);
+ const shortlistLink=el('a','button secondary pilot-button',ui.savedNames);shortlistLink.href='#name-shortlist';
+ discovery.append(mode.wrap,shortlistLink);
+ function setMode(value){mode.input.value=value;meanings.hidden=value!=='meanings';browse.hidden=value!=='rankings';}
+ mode.input.addEventListener('change',()=>setMode(mode.input.value));
+ // Retain existing section bookmarks while keeping only one dataset visible.
+ function showHashTarget(){const id=location.hash.slice(1);if(id==='name-explorer')setMode('rankings');else if(id==='name-meanings'&&collection)setMode('meanings');else return;if(root.isConnected)document.getElementById(id)?.scrollIntoView({block:'start'});}
+ setMode(collection?'meanings':'rankings');showHashTarget();window.addEventListener('hashchange',showHashTarget);
+ root.append(discovery);if(collection)root.append(meanings);root.append(browse,shortlist,chart);
  function renderMeanings(){
   if(!collection)return;
   const c=collection.ui,matches=filterNameCollection(collection.entries,{query:meaningQuery.input.value,usage:meaningUsage.input.value});
-  meaningResults.replaceChildren();meaningCount.textContent=`${fmt(matches.length)} / ${fmt(collection.entries.length)}`;
+  meaningResults.replaceChildren();meaningCount.textContent=`${fmt(Math.min(meaningVisible,matches.length))} / ${fmt(matches.length)}`;meaningMore.hidden=meaningVisible>=matches.length;
   if(!matches.length)meaningResults.append(el('p','pilot-empty',ui.noMatches));
-  for(const n of matches){
+  for(const n of matches.slice(0,meaningVisible)){
    const card=el('article','sourced-name-card'),heading=el('h3');card.tabIndex=-1;heading.append(el('bdi','',n.name));if(n.script)heading.append(' · ',el('bdi','',n.script));
    const source=el('a','',`${c.source} · ${n.name}`);source.href=n.source;
    const saved=ctl.entries.some(e=>nameKey(e.name)===nameKey(n.name));
@@ -158,8 +170,8 @@ export function renderNameFinderComplete(config) {
  function renderComparison(){bars.replaceChildren();const selected=ctl.entries.map(e=>({...e,data:nameData.find(n=>nameKey(n.name)===nameKey(e.name)&&n.sex===compareSex.input.value)}));const max=Math.max(1,...selected.map(e=>e.data?.count||0));if(!selected.length)bars.append(el('p','pilot-empty',ui.shortlistEmpty));
   for(const e of selected){const row=el('div','name-comparison-row'),label=el('div','name-bar-label');label.append(el('strong','',e.name),el('span','',e.data?`${fmt(e.data.count)} · #${fmt(e.data.rank)}`:ui.unranked));row.append(label);if(e.data){const track=el('div','name-bar-track'),bar=el('span');bar.style.width=`${e.data.count/max*100}%`;track.setAttribute('aria-label',`${e.name}: ${fmt(e.data.count)}`);track.append(bar);row.append(track);}bars.append(row);}
  }
- function renderSaved(){ctl.refresh();savedList.replaceChildren();submit.disabled=!ctl.state.ok;if(!ctl.entries.length)savedList.append(el('p','pilot-empty',ui.shortlistEmpty));
-  for(const e of ctl.entries){const card=el('article','shortlist-card');card.append(el('h3','',e.name));if(e.note)card.append(el('p','organizer-note',e.note));if(e.legacy)card.append(el('p','pilot-hint',ui.legacyNotes));const actions=el('div','pilot-actions');const edit=btn(ui.edit,()=>{editing=e;name.input.value=e.name;note.input.value=e.note;heading.textContent=ui.edit;submit.textContent=ui.updateEntry;cancel.hidden=false;name.input.focus();});edit.setAttribute('aria-label',`${ui.edit}: ${e.name}`);const remove=btn(ui.remove,()=>{if(ctl.apply(ctl.entries.filter(n=>n.id!==e.id))&&editing?.id===e.id)reset();});remove.setAttribute('aria-label',`${ui.remove}: ${e.name}`);actions.append(edit,remove);card.append(actions);savedList.append(card);}
+ function renderSaved(){ctl.refresh();savedList.replaceChildren();submit.disabled=!ctl.state.ok;chart.hidden=!ctl.entries.length;shortlistLink.textContent=`${ui.savedNames} (${fmt(ctl.entries.length)})`;if(!ctl.entries.length)savedList.append(el('p','pilot-empty',ui.shortlistEmpty));
+  for(const e of ctl.entries){const card=el('article','shortlist-card');card.append(el('h3','',e.name));if(e.note)card.append(el('p','organizer-note',e.note));if(e.legacy)card.append(el('p','pilot-hint',ui.legacyNotes));const actions=el('div','pilot-actions');const edit=btn(ui.edit,()=>{editing=e;editor.open=true;name.input.value=e.name;note.input.value=e.note;heading.textContent=ui.edit;submit.textContent=ui.updateEntry;cancel.hidden=false;name.input.focus();});edit.setAttribute('aria-label',`${ui.edit}: ${e.name}`);const remove=btn(ui.remove,()=>{if(ctl.apply(ctl.entries.filter(n=>n.id!==e.id))&&editing?.id===e.id)reset();});remove.setAttribute('aria-label',`${ui.remove}: ${e.name}`);actions.append(edit,remove);card.append(actions);savedList.append(card);}
   renderResults();renderComparison();renderMeanings();
  }
  renderSaved();

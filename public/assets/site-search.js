@@ -34,13 +34,14 @@ function setupSearch(root) {
   input.addEventListener('focus', () => {
     if (input.value.trim()) updateResults();
   });
+  root.addEventListener('keydown', (event) => {
+    if (event.key !== 'Escape') return;
+    event.preventDefault();
+    closeSearchPanel();
+    toggle?.focus();
+  });
   input.addEventListener('keydown', (event) => {
     const links = Array.from(list.querySelectorAll('.search-result'));
-    if (event.key === 'Escape') {
-      event.preventDefault();
-      closeSearchPanel();
-      return;
-    }
     if (!links.length) return;
     if (event.key === 'ArrowDown') {
       event.preventDefault();

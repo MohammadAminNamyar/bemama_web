@@ -93,7 +93,7 @@ for (const { code: lang } of languages) {
       assert.ok(!prose.includes('/cdn-cgi/l/email-protection'), route);
       assert.ok(!prose.includes('data-cfemail'), route);
     }
-    assert.equal(occurrences, 7, `${lang}: all existing support mentions retained`);
-    assert.equal(protectedPages, ['en', 'fa'].includes(lang) ? 4 : 6);
+    assert.equal(occurrences, 8, `${lang}: existing support mentions plus the editorial corrections contact`);
+    assert.equal(protectedPages, ['en', 'fa'].includes(lang) ? 5 : 7);
   });
 }

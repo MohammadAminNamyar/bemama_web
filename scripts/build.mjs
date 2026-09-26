@@ -11,6 +11,8 @@ import { renderBirthPreferences } from '../src/website-gap-tools.mjs';
 import { articleDates, evidenceDateLabels } from '../src/article-dates.mjs';
 import { searchMetadata } from '../src/seo-metadata.mjs';
 import { qualityCopy } from '../src/tool-quality-copy.mjs';
+import { websiteUxCopy } from '../src/website-ux-copy.mjs';
+import { editorialAuthorName } from '../src/editorial.mjs';
 import {
   articles,
   categories,
@@ -438,8 +440,8 @@ const badgeSmallLabels = {
 // real, named, credentialed professional is engaged - at which point the
 // reviewer line and the schema below light up automatically.
 const editorialAuthor = {
-  name: 'Mohammadamin Namyar',
-  url: `${site.origin}/about-bemama/`
+  name: editorialAuthorName,
+  url: `${site.origin}/editorial/`
 };
 
 const medicalReviewer = null;
@@ -474,7 +476,7 @@ const reviewerLabels = {
 function bylineHtml(lang, customTemplate) {
   const template = customTemplate ?? bylineLabels[lang] ?? bylineLabels.en;
   const [before, after = ''] = template.split('{name}');
-  const link = `<a href="${editorialAuthor.url}" rel="author">${escapeHtml(editorialAuthor.name)}</a>`;
+  const link = `<a href="${localizedPath(lang, 'editorial')}" rel="author">${escapeHtml(editorialAuthor.name)}</a>`;
   let reviewer = '';
   if (medicalReviewer) {
     const label = reviewerLabels[lang] ?? reviewerLabels.en;
@@ -858,7 +860,7 @@ function renderPage(language, slug) {
     jsonLd = article.kind === 'tool' ? renderToolJsonLd(language, slug, article, data) : renderArticleJsonLd(language, slug, article, data);
     ogType = 'article';
     ogImage = `${site.origin}/assets/${article.hero}`;
-    preloadImage = `/assets/${article.hero}`;
+    preloadImage = article.kind === 'tool' ? `/assets/${article.hero}` : undefined;
   } else if (category) {
     title = `${pick(category.title, language.code)} | ${site.name}`;
     description = pick(category.blurb, language.code);
@@ -909,7 +911,7 @@ function renderPage(language, slug) {
     <link rel="shortcut icon" href="/favicon.ico" />
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     <link rel="manifest" href="/site.webmanifest" />
-    <meta name="theme-color" content="#399A97" />
+    <meta name="theme-color" content="#1E3A5F" />
     <meta name="apple-itunes-app" content="app-id=6783137312" />
     <meta name="p:domain_verify" content="3029c12ae7152fd75763a05c74436b86" />
     <meta property="og:site_name" content="${escapeHtml(site.name)}" />
@@ -994,7 +996,7 @@ function renderHeader(language, slug) {
 
   return `<header class="site-header">
   <div class="nav">
-    <a class="brand" href="${localizedPath(lang, '')}" aria-label="BeMama home">
+    <a class="brand" href="${localizedPath(lang, '')}" aria-label="${escapeHtml(websiteUxCopy(lang).home)}">
       ${imageMarkup('/assets/bemama_logo_mark.png', site.name, { loading: 'eager', ...brandResponsive })}
       <span>BeMama</span>
     </a>
@@ -1010,9 +1012,10 @@ function renderHeader(language, slug) {
         <li class="nav-item"><a class="nav-top nav-support" href="${localizedPath(lang, 'contact')}">${escapeHtml(t.nav.support)}</a></li>
       </ul>
     </nav>
+    <a class="compact-tools-link" href="${localizedPath(lang, 'tools')}">${escapeHtml(websiteUxCopy(lang).tools)}</a>
     ${renderSearch(language, 'desktop')}
     <details class="mobile-menu">
-      <summary aria-label="Open navigation menu"><span class="menu-icon" aria-hidden="true"></span></summary>
+      <summary aria-label="${escapeHtml(websiteUxCopy(lang).menu)}"><span class="menu-icon" aria-hidden="true"></span></summary>
       <div class="mobile-menu-panel">
         ${renderSearch(language, 'mobile')}
         <a class="mobile-link" href="${localizedPath(lang, '')}">${escapeHtml(t.nav.home)}</a>
@@ -1042,7 +1045,7 @@ function renderSearch(language, variant) {
       </div>`;
   if (variant === 'desktop') {
     return `<form class="site-search is-desktop" role="search" data-site-search data-search-lang="${language.code}" data-empty-message="${escapeHtml(labels.empty)}" data-no-results-message="${escapeHtml(labels.noResults)}" data-results-label="${escapeHtml(labels.results)}">
-      <button class="search-toggle" type="button" aria-label="${escapeHtml(labels.ariaLabel)}" aria-expanded="false" aria-controls="${id}-panel" data-search-toggle></button>
+      <button class="search-toggle" type="button" aria-label="${escapeHtml(labels.ariaLabel)}" aria-expanded="false" aria-controls="${id}-panel" data-search-toggle><span class="search-toggle-label">${escapeHtml(websiteUxCopy(language.code).search)}</span></button>
       <div id="${id}-panel" class="search-popover" data-search-panel hidden>
         ${searchBody}
       </div>
@@ -1098,7 +1101,7 @@ function renderHome(language) {
             <a class="button" href="${escapeHtml(primaryAction.href)}" ${primaryAction.attributes}>${escapeHtml(primaryAction.action)}</a>
           </div>
           <p>${escapeHtml(primaryAction.note)}</p>
-          <div class="hero-store-links" aria-label="BeMama mobile apps">
+          <div class="hero-store-links" aria-label="${escapeHtml(websiteUxCopy(language.code).apps)}">
             <a class="hero-store-link" href="${site.androidAppUrl}" target="_blank" rel="noopener">${platformIcon('android')}<span>${escapeHtml(h.downloadAndroid || h.openAndroid)}</span></a>
             <a class="hero-store-link" href="${site.iosAppUrl}" target="_blank" rel="noopener">${platformIcon('ios')}<span>${escapeHtml(h.downloadIos || h.openIos)}</span></a>
           </div>
@@ -1109,7 +1112,7 @@ function renderHome(language) {
           </div>
         </div>
       </div>
-      <div class="hero-proofbar" aria-label="BeMama care stages">
+      <div class="hero-proofbar" aria-label="${escapeHtml(websiteUxCopy(language.code).stages)}">
         ${proofItem('hero_planning.png', h.journeys[0], h.features[0][0], tourLink('planning'))}
         ${proofItem('hero_pregnancy.png', h.journeys[1], h.phoneTitle, tourLink('daily'))}
         ${proofItem('hero_baby.png', h.journeys[2], h.qnaTitle, tourLink('community'))}
@@ -1180,7 +1183,7 @@ function renderHome(language) {
       <h2>${escapeHtml(h.adTitle || fallback.adTitle)}</h2>
       <p>${escapeHtml(h.adText || fallback.adText)}</p>
     </div>
-    <div class="ad-video-grid" aria-label="BeMama video previews">
+    <div class="ad-video-grid" aria-label="${escapeHtml(websiteUxCopy(language.code).videos)}">
       ${videoPreview('/assets/videos/bemama-care-story-01.mp4', 'BeMama care journey landscape video preview', 'landscape')}
     </div>
   </section>
@@ -1333,24 +1336,10 @@ function featureMapCard(group) {
 
 function heroCarousel(language) {
   const alts = heroCarouselAlts[language.code] ?? heroCarouselAlts.en;
-  const images = [
-    ['pregnancy-rest.png', alts.pregnancyRest],
-    ['pregnancy-planning.png', alts.pregnancyPlanning],
-    ['baby-care.png', alts.babyCare],
-    ['daily-care.png', alts.dailyCare],
-    ['child-growth.png', alts.childGrowth]
-  ];
   return `<div class="hero-carousel">
-    ${images
-      .map(([image, alt], index) =>
-        imageMarkup(`/assets/hero-carousel/${image}`, alt, {
-          loading: index === 0 ? 'eager' : 'lazy',
-          fetchpriority: index === 0 ? 'high' : undefined,
-          defer: index !== 0,
-          ...heroResponsive
-        })
-      )
-      .join('\n    ')}
+    ${imageMarkup('/assets/hero-carousel/pregnancy-rest.png', alts.pregnancyRest, {
+      loading: 'eager', fetchpriority: 'high', ...heroResponsive
+    })}
   </div>`;
 }
 
@@ -1364,7 +1353,7 @@ function proofItem(image, stage, label, href) {
 
 function renderPolicy(language, slug, page) {
   const t = content[language.code];
-  const officialNotice = language.code === 'en' ? undefined : t.officialNotice;
+  const officialNotice = language.code === 'en' || slug === 'editorial' ? undefined : t.officialNotice;
   return `<main class="policy-layout">
   <article class="policy-panel">
     <span class="eyebrow">${page.updated ? `${escapeHtml(policyUpdatedLabels[language.code] ?? policyUpdatedLabels.en)}: ${escapeHtml(page.updated)}` : 'BeMama'}</span>
@@ -1410,7 +1399,7 @@ function renderNotFoundPage(language) {
     <link rel="shortcut icon" href="/favicon.ico" />
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     <link rel="manifest" href="/site.webmanifest" />
-    <meta name="theme-color" content="#399A97" />
+    <meta name="theme-color" content="#1E3A5F" />
     <link rel="stylesheet" href="${versionedAsset('/assets/styles.css')}" />
   </head>
   <body>
@@ -1474,7 +1463,7 @@ function renderBreadcrumbs(language, trail) {
         : `<li><a href="${localizedPath(lang, crumb.slug)}">${escapeHtml(crumb.label)}</a></li>`
     )
     .join('');
-  return `<nav class="breadcrumbs" aria-label="Breadcrumb"><ul>${items}</ul></nav>`;
+  return `<nav class="breadcrumbs" aria-label="${escapeHtml(websiteUxCopy(language.code).breadcrumb)}"><ul>${items}</ul></nav>`;
 }
 
 function storeBadge(href, glyph, smallLabel, storeName) {
@@ -1572,7 +1561,7 @@ function renderArticle(language, slug, article, data) {
       ${section.table ? `<div class="guide-table-wrap" role="region" aria-label="${escapeHtml(section.heading)}" tabindex="0"><table class="guide-table"><caption>${escapeHtml(section.table.caption || section.heading)}</caption><thead><tr>${section.table.headers.map(h => `<th scope="col">${escapeHtml(h)}</th>`).join('')}</tr></thead><tbody>${section.table.rows.map(row => `<tr>${row.map((cell, i) => i === 0 ? `<th scope="row">${escapeHtml(cell)}</th>` : `<td>${escapeHtml(cell)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>` : ''}
       ${section.links ? `<ul class="guide-links">${section.links.map(link => `<li><a href="${escapeHtml(link.url)}">${escapeHtml(link.label)}</a></li>`).join('')}</ul>` : ''}
       ${section.visual ? renderRoutineVisual(section.visual, lang) : ''}
-    </section>`
+    </section>${index === 0 ? `<figure class="article-hero">${imageMarkup(`/assets/${article.hero}`, data.title, { loading: 'lazy' })}</figure>` : ''}`
     )
     .join('');
   const takeaways =
@@ -1604,10 +1593,9 @@ function renderArticle(language, slug, article, data) {
       ${dates.modifiedIso ? `<p class="article-meta">${escapeHtml(strings.updatedLabel)}: <time datetime="${dates.modifiedIso}">${escapeHtml(dates.modifiedLabel)}</time></p>` : ''}
       <p class="article-byline">${bylineHtml(lang, data.byline)}</p>
     </header>
-    <figure class="article-hero">${imageMarkup(`/assets/${article.hero}`, data.title, { loading: 'eager', fetchpriority: 'high' })}</figure>
     ${fallbackNotice}
     <p class="article-intro">${richText(data.intro)}</p>
-    ${article.expandedGuide ? `<nav class="guide-jump-links" aria-label="${escapeHtml(data.title)}">${data.sections.map((section, index) => `<a href="#${escapeHtml(section.id || `section-${index + 1}`)}">${escapeHtml(section.heading)}</a>`).join('')}${article.birthPreferences ? `<a href="#birth-preferences">${escapeHtml(data.worksheetLabel)}</a>` : ''}</nav>` : ''}
+    ${article.expandedGuide ? `<details class="guide-contents"><summary>${escapeHtml(websiteUxCopy(lang).contents)}</summary><nav class="guide-jump-links" aria-label="${escapeHtml(data.title)}">${data.sections.map((section, index) => `<a href="#${escapeHtml(section.id || `section-${index + 1}`)}">${escapeHtml(section.heading)}</a>`).join('')}${article.birthPreferences ? `<a href="#birth-preferences">${escapeHtml(data.worksheetLabel)}</a>` : ''}</nav></details>` : ''}
     ${article.birthPreferences ? renderBirthPreferences(lang, escapeHtml) : ''}
     ${sections}
     ${renderArticleEvidence(evidence, dates, lang)}
@@ -1840,7 +1828,7 @@ function renderArticleJsonLd(language, slug, article, data) {
       mainEntityOfPage: url,
       // A named Person, not an anonymous team: for YMYL content search engines
       // want an identifiable human who is accountable for the page.
-      author: { '@type': 'Person', name: editorialAuthor.name, url: editorialAuthor.url },
+      author: { '@type': 'Person', name: editorialAuthor.name, url: `${site.origin}${localizedPath(language.code, 'editorial')}` },
       ...(medicalReviewer
         ? {
             reviewedBy: {
@@ -1958,6 +1946,7 @@ function renderFooter(language) {
       <nav class="footer-column" aria-label="${escapeHtml(footerUi.footerCompany)}">
         <h2>${escapeHtml(footerUi.footerCompany)}</h2>
         <a href="${localizedPath(language.code, 'about')}">${escapeHtml(t.nav.about)}</a>
+        <a href="${localizedPath(language.code, 'editorial')}">${escapeHtml(websiteUxCopy(language.code).editorial)}</a>
         <a href="${localizedPath(language.code, 'explore')}">${escapeHtml(ui.navLabel)}</a>
         <a href="${localizedPath(language.code, 'contact')}">${escapeHtml(t.nav.contact)}</a>
         <a href="${localizedPath(language.code, 'ai-disclaimer')}">${escapeHtml(t.nav.ai)}</a>
@@ -2383,35 +2372,11 @@ function jpegDimensions(bytes) {
 function renderDeferredImageLoader() {
   return `<script>
 (() => {
-  const loadPicture = (picture) => {
-    picture.querySelectorAll('source[data-srcset]').forEach((source) => {
-      source.srcset = source.dataset.srcset;
-      source.removeAttribute('data-srcset');
-    });
-    picture.querySelectorAll('img[data-src]').forEach((image) => {
-      image.src = image.dataset.src;
-      image.removeAttribute('data-src');
-    });
-  };
   const loadPoster = (video) => {
     video.poster = video.dataset.poster;
     video.removeAttribute('data-poster');
   };
   window.addEventListener('load', () => {
-    const carousel = document.querySelector('.hero-carousel');
-    const pictures = [...document.querySelectorAll('.hero-carousel picture')]
-      .filter((picture) => picture.querySelector('source[data-srcset], img[data-src]'));
-    if (carousel && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-      const configuredDelay = Number.parseFloat(getComputedStyle(carousel).getPropertyValue('--hero-carousel-start-delay')) * 1000;
-      const startDelay = Number.isFinite(configuredDelay) ? configuredDelay : 6000;
-      pictures.forEach((picture, index) => {
-        // Each deferred picture is a future slide. Warm it two seconds before
-        // its CSS animation begins, using the CSS startup delay as the shared
-        // source of truth.
-        setTimeout(() => loadPicture(picture), startDelay + 4000 + (index * 6000));
-      });
-    }
-
     const videos = [...document.querySelectorAll('video[data-poster]')];
     if ('IntersectionObserver' in window) {
       const observer = new IntersectionObserver((entries) => {

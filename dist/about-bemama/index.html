@@ -24,7 +24,7 @@
     <link rel="shortcut icon" href="/favicon.ico" />
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     <link rel="manifest" href="/site.webmanifest" />
-    <meta name="theme-color" content="#399A97" />
+    <meta name="theme-color" content="#1E3A5F" />
     <meta name="apple-itunes-app" content="app-id=6783137312" />
     <meta name="p:domain_verify" content="3029c12ae7152fd75763a05c74436b86" />
     <meta property="og:site_name" content="BeMama" />
@@ -46,7 +46,7 @@
     <meta name="twitter:image" content="https://bemamas.com/assets/app_daily_plan.png" />
     <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://bemamas.com/"},{"@type":"ListItem","position":2,"name":"About BeMama","item":"https://bemamas.com/about-bemama/"}]},{"@type":"CollectionPage","name":"About BeMama","description":"How BeMama supports every stage (Daily Journey, Q&A, community, and tools) and how to get started.","url":"https://bemamas.com/about-bemama/","inLanguage":"en","mainEntity":{"@type":"ItemList","itemListElement":[{"@type":"ListItem","position":1,"url":"https://bemamas.com/about-bemama/why-bemama/","name":"BeMama: Pregnancy Guidance and Baby Tracking"},{"@type":"ListItem","position":2,"url":"https://bemamas.com/about-bemama/daily-journey/","name":"Pregnancy Tracker App: BeMama Daily Journey"},{"@type":"ListItem","position":3,"url":"https://bemamas.com/about-bemama/qa-and-community/","name":"Q&A and Community: Ask, Learn, and Connect"},{"@type":"ListItem","position":4,"url":"https://bemamas.com/about-bemama/tools/","name":"Baby Tracker: Feeding, Sleep and Diaper Logs"},{"@type":"ListItem","position":5,"url":"https://bemamas.com/about-bemama/premium/","name":"BeMama Free and Premium: Feature Access"},{"@type":"ListItem","position":6,"url":"https://bemamas.com/about-bemama/ai-support/","name":"How AI-Assisted Support Works in BeMama"},{"@type":"ListItem","position":7,"url":"https://bemamas.com/about-bemama/privacy-and-safety/","name":"Your Privacy and Data Safety on BeMama"},{"@type":"ListItem","position":8,"url":"https://bemamas.com/about-bemama/getting-started/","name":"Get Started with BeMama: Pregnancy and Baby Care"},{"@type":"ListItem","position":9,"url":"https://bemamas.com/about-bemama/cycle-tracker/","name":"Cycle Tracker App: Periods, Symptoms and BBT"}]}}]}</script>
     <link rel="preload" as="image" href="/assets/app_daily_plan.avif?v=619fc6958d2e2c84" type="image/avif" fetchpriority="high" />
-    <link rel="stylesheet" href="/assets/styles.css?v=f253eeaa4b3e0605" />
+    <link rel="stylesheet" href="/assets/styles.css?v=d6fdc36c18a2ae6a" />
   </head>
   <body>
     <header class="site-header">
@@ -127,8 +127,9 @@
         <li class="nav-item"><a class="nav-top nav-support" href="/contact/">Support</a></li>
       </ul>
     </nav>
+    <a class="compact-tools-link" href="/tools/">Tools</a>
     <form class="site-search is-desktop" role="search" data-site-search data-search-lang="en" data-empty-message="Type at least 2 characters to search" data-no-results-message="No matching guides found" data-results-label="results">
-      <button class="search-toggle" type="button" aria-label="Search BeMama" aria-expanded="false" aria-controls="site-search-en-desktop-panel" data-search-toggle></button>
+      <button class="search-toggle" type="button" aria-label="Search BeMama" aria-expanded="false" aria-controls="site-search-en-desktop-panel" data-search-toggle><span class="search-toggle-label">Search</span></button>
       <div id="site-search-en-desktop-panel" class="search-popover" data-search-panel hidden>
         <label class="sr-only" for="site-search-en-desktop">Search BeMama</label>
       <div class="search-control">
@@ -141,7 +142,7 @@
       </div>
     </form>
     <details class="mobile-menu">
-      <summary aria-label="Open navigation menu"><span class="menu-icon" aria-hidden="true"></span></summary>
+      <summary aria-label="Navigation menu"><span class="menu-icon" aria-hidden="true"></span></summary>
       <div class="mobile-menu-panel">
         <form class="site-search is-mobile" role="search" data-site-search data-search-lang="en" data-empty-message="Type at least 2 characters to search" data-no-results-message="No matching guides found" data-results-label="results">
       <label class="sr-only" for="site-search-en-mobile">Search BeMama</label>
@@ -184,7 +185,7 @@
   </div>
 </header>
     <main class="category-layout">
-  <nav class="breadcrumbs" aria-label="Breadcrumb"><ul><li><a href="/">Home</a></li><li aria-current="page">About BeMama</li></ul></nav>
+  <nav class="breadcrumbs" aria-label="You are here"><ul><li><a href="/">Home</a></li><li aria-current="page">About BeMama</li></ul></nav>
   <section class="category-hero">
     <div class="category-hero-copy">
       <span class="eyebrow">BeMama</span>
@@ -351,6 +352,7 @@
       <nav class="footer-column" aria-label="BeMama">
         <h2>BeMama</h2>
         <a href="/about/">About</a>
+        <a href="/editorial/">Author &amp; editorial approach</a>
         <a href="/explore/">Explore app</a>
         <a href="/contact/">Contact</a>
         <a href="/ai-disclaimer/">AI safety</a>
@@ -383,7 +385,7 @@
     </div>
   </div>
 </footer>
-    <script type="module" src="/assets/site-search.js?v=a35f5e91f74a4af0"></script>
+    <script type="module" src="/assets/site-search.js?v=a14c129559d5a887"></script>
 
 
 
@@ -391,35 +393,11 @@
     <script defer src="/_stats/s.js" data-website-id="0ab934ef-a442-468e-9bdc-c41e6af2189a" data-host-url="https://bemamas.com/_stats"></script>
     <script>
 (() => {
-  const loadPicture = (picture) => {
-    picture.querySelectorAll('source[data-srcset]').forEach((source) => {
-      source.srcset = source.dataset.srcset;
-      source.removeAttribute('data-srcset');
-    });
-    picture.querySelectorAll('img[data-src]').forEach((image) => {
-      image.src = image.dataset.src;
-      image.removeAttribute('data-src');
-    });
-  };
   const loadPoster = (video) => {
     video.poster = video.dataset.poster;
     video.removeAttribute('data-poster');
   };
   window.addEventListener('load', () => {
-    const carousel = document.querySelector('.hero-carousel');
-    const pictures = [...document.querySelectorAll('.hero-carousel picture')]
-      .filter((picture) => picture.querySelector('source[data-srcset], img[data-src]'));
-    if (carousel && !window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
-      const configuredDelay = Number.parseFloat(getComputedStyle(carousel).getPropertyValue('--hero-carousel-start-delay')) * 1000;
-      const startDelay = Number.isFinite(configuredDelay) ? configuredDelay : 6000;
-      pictures.forEach((picture, index) => {
-        // Each deferred picture is a future slide. Warm it two seconds before
-        // its CSS animation begins, using the CSS startup delay as the shared
-        // source of truth.
-        setTimeout(() => loadPicture(picture), startDelay + 4000 + (index * 6000));
-      });
-    }
-
     const videos = [...document.querySelectorAll('video[data-poster]')];
     if ('IntersectionObserver' in window) {
       const observer = new IntersectionObserver((entries) => {

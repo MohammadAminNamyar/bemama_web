@@ -138,11 +138,9 @@ if (homeHtml.includes('rel="preload" as="style"') || homeHtml.includes("this.rel
 if (homeHtml.includes('/assets/care-tools.js')) {
   throw new Error('Homepage must not load the tool-only JavaScript bundle.');
 }
-if (!mainCss.includes('--hero-carousel-start-delay:6s')) {
-  throw new Error('Homepage carousel must keep its initial visual state stable during the performance window.');
-}
-if (!homeHtml.includes("getPropertyValue('--hero-carousel-start-delay')")) {
-  throw new Error('Deferred carousel media must use the CSS startup delay as its timing source.');
+const heroMarkup = homeHtml.match(/<div class="hero-carousel">([\s\S]*?)<\/div>/)?.[1] ?? '';
+if ((heroMarkup.match(/<picture\b/g) ?? []).length !== 1 || mainCss.includes('hero-carousel-fade')) {
+  throw new Error('Homepage hero must show one static image without automatic rotation.');
 }
 if (/<video\b[^>]*\sposter=/i.test(homeHtml) || !homeHtml.includes('video[data-poster]')) {
   throw new Error('Below-fold video posters must be loaded near the viewport instead of during initial navigation.');

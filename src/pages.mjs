@@ -1,4 +1,5 @@
 import { homeRollout } from './home-rollout.mjs';
+import { editorialPages } from './editorial.mjs';
 
 export const site = {
   origin: 'https://bemamas.com',
@@ -24,7 +25,7 @@ export const languages = [
   { code: 'pt', label: 'Português', dir: 'ltr' }
 ];
 
-export const pageSlugs = ['', 'explore', 'about', 'privacy', 'terms', 'subscription-terms', 'ai-disclaimer', 'contact'];
+export const pageSlugs = ['', 'explore', 'about', 'editorial', 'privacy', 'terms', 'subscription-terms', 'ai-disclaimer', 'contact'];
 
 const updated = 'June 19, 2026';
 
@@ -493,6 +494,8 @@ for (const [lang, copy] of Object.entries(homeRollout)) {
   Object.assign(content[lang].home, home);
   if (metaDescription) content[lang].metaDescription = metaDescription;
 }
+
+for (const language of languages) content[language.code].pages.editorial = editorialPages[language.code];
 
 function policy(title, description, sections, notice = undefined) {
   return {
