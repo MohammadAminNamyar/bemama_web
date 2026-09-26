@@ -2,6 +2,12 @@ import {calendarDay} from './care-tools-core.js';
 const record=x=>x&&typeof x==='object'&&!Array.isArray(x);
 const text=(x,max)=>typeof x==='string'&&x.length<=max;
 export const nameKey=name=>name.normalize('NFKC').trim().toLocaleLowerCase('en');
+// Search folds accents and Arabic/Persian letter variants; stored names stay intact.
+const searchKey = value => String(value).normalize('NFKD').replace(/\p{M}/gu,'').replace(/ـ/g,'').toLocaleLowerCase('en').replace(/ı/g,'i').replace(/ي/g,'ی').replace(/ك/g,'ک');
+export function filterNameCollection(entries, {query='',usage=''}={}) {
+ const words=searchKey(query).trim().split(/\s+/).filter(Boolean);
+ return entries.filter(n=>(!usage||n.usage.includes(usage))&&words.every(word=>searchKey([n.name,n.script,n.meaning,n.usageLabel,n.originLabel].join(' ')).includes(word)));
+}
 export function validEntries(entries,kind,template=[]) {
  if(!Array.isArray(entries)||entries.length>2000)return false;
  const ids=new Set(),base=new Set(template.map(t=>t.id));

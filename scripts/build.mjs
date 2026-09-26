@@ -1566,7 +1566,7 @@ function renderArticle(language, slug, article, data) {
     .map(
       (section, index) => `<section class="article-section" id="${escapeHtml(section.id || `section-${index + 1}`)}">
       <h2>${escapeHtml(section.heading)}</h2>
-      ${section.image ? `<figure class="article-figure">${imageMarkup(`/assets/${section.image}`, section.heading)}</figure>` : ''}
+      ${section.image ? `<figure class="article-figure">${imageMarkup(`/assets/${section.image}`, section.imageAlt || section.heading)}${section.caption ? `<figcaption>${escapeHtml(section.caption)}</figcaption>` : ''}</figure>` : ''}
       ${section.paragraphs.map((p) => `<p>${richText(p, data.linkLabels)}</p>`).join("")}
       ${section.items ? `<ul class="guide-checklist">${section.items.map(item=>`<li>${escapeHtml(item)}</li>`).join('')}</ul>` : ''}
       ${section.table ? `<div class="guide-table-wrap" role="region" aria-label="${escapeHtml(section.heading)}" tabindex="0"><table class="guide-table"><caption>${escapeHtml(section.table.caption || section.heading)}</caption><thead><tr>${section.table.headers.map(h => `<th scope="col">${escapeHtml(h)}</th>`).join('')}</tr></thead><tbody>${section.table.rows.map(row => `<tr>${row.map((cell, i) => i === 0 ? `<th scope="row">${escapeHtml(cell)}</th>` : `<td>${escapeHtml(cell)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>` : ''}
@@ -1638,9 +1638,10 @@ function renderTool(language, slug, article, data) {
   }
   const sections = (data.sections || [])
     .map(
-      (section) => `<section class="article-section">
+      (section) => `<section class="article-section"${section.id ? ` id="${escapeHtml(section.id)}"` : ''}>
       <h2>${escapeHtml(section.heading)}</h2>
       ${section.paragraphs.map((p) => `<p>${richText(p)}</p>`).join("")}
+      ${section.nameCollection ? `<div class="sourced-name-results">${section.nameCollection.entries.map(n => `<article class="sourced-name-card"><h3><bdi>${escapeHtml(n.name)}</bdi>${n.script ? ` · <bdi>${escapeHtml(n.script)}</bdi>` : ''}</h3><p>${escapeHtml(n.meaning)}</p><p>${escapeHtml(section.nameCollection.ui.usage)}: ${escapeHtml(n.usageLabel)} · ${escapeHtml(section.nameCollection.ui.origin)}: ${escapeHtml(n.originLabel)}</p><a href="${escapeHtml(n.source)}">${escapeHtml(section.nameCollection.ui.source)} · <bdi>${escapeHtml(n.name)}</bdi></a></article>`).join('')}</div>` : ''}
       ${section.table ? `<div class="guide-table-wrap" role="region" aria-label="${escapeHtml(section.heading)}" tabindex="0"><table class="guide-table"><caption>${escapeHtml(section.heading)}</caption><thead><tr>${section.table.headers.map(h => `<th scope="col">${escapeHtml(h)}</th>`).join('')}</tr></thead><tbody>${section.table.rows.map(row => `<tr>${row.map((cell, i) => i === 0 ? `<th scope="row">${escapeHtml(cell)}</th>` : `<td>${escapeHtml(cell)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>` : ''}
       ${section.links ? `<ul class="guide-links">${section.links.map(link => `<li><a href="${escapeHtml(link.url)}">${escapeHtml(link.label)}</a></li>`).join('')}</ul>` : ''}
     </section>`

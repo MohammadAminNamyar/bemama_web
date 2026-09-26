@@ -1,4 +1,4 @@
-import {readBoard,commitBoard,parseBoard,checklistStats,nameKey,filterNames} from './care-organizers-core.js';
+import {readBoard,commitBoard,parseBoard,checklistStats,nameKey,filterNames,filterNameCollection} from './care-organizers-core.js';
 import {nameData,nameSource} from './baby-name-data.js';
 const el=(tag,cls,text)=>{const n=document.createElement(tag);if(cls)n.className=cls;if(text!==undefined)n.textContent=text;return n;};
 const fmt=x=>new Intl.NumberFormat(document.documentElement.lang).format(x);
@@ -120,9 +120,37 @@ export function renderNameFinderComplete(config) {
   if(ctl.apply(editing?ctl.entries.map(e=>e.id===entry.id?entry:e):[...ctl.entries,entry]))reset();
  });
  shortlist.append(el('h2','pilot-heading',ui.savedNames),ctl.controls,ctl.status,savedList,form,el('p','pilot-hint',config.labels.local));
+ const collection=config.nameCollection, meanings=el('section','pilot-card'), meaningResults=el('div','sourced-name-results'), meaningCount=el('p','pilot-hint');
+ let meaningQuery,meaningUsage;
+ if(collection){
+  const c=collection.ui;
+  meanings.id='name-meanings';meaningCount.setAttribute('role','status');meaningCount.dir='ltr';
+  meaningQuery=field(c.search,'search');meaningUsage=field(c.usage,'select',[['',ui.all],...Object.entries(c.languages)]);
+  const fields=el('div','organizer-filters');fields.append(meaningQuery.wrap,meaningUsage.wrap);
+  meanings.append(el('h2','pilot-heading',c.title),el('p','pilot-hint',c.help),fields,meaningCount,meaningResults);
+  for(const input of [meaningQuery.input,meaningUsage.input])input.addEventListener('input',renderMeanings);
+ }
  const nav=el('nav','organizer-nav');
  for(const [section,id,label]of [[browse,'name-explorer',ui.nameSearch],[shortlist,'name-shortlist',ui.savedNames],[chart,'name-comparison',ui.compareNames]]){section.id=id;const link=el('a','button secondary pilot-button',label);link.href=`#${id}`;nav.append(link);}
- root.append(nav,shortlist,chart,browse);
+ if(collection){const link=el('a','button secondary pilot-button',collection.ui.title);link.href='#name-meanings';nav.append(link);}
+ root.append(nav,shortlist,chart);if(collection)root.append(meanings);root.append(browse);
+ function renderMeanings(){
+  if(!collection)return;
+  const c=collection.ui,matches=filterNameCollection(collection.entries,{query:meaningQuery.input.value,usage:meaningUsage.input.value});
+  meaningResults.replaceChildren();meaningCount.textContent=`${fmt(matches.length)} / ${fmt(collection.entries.length)}`;
+  if(!matches.length)meaningResults.append(el('p','pilot-empty',ui.noMatches));
+  for(const n of matches){
+   const card=el('article','sourced-name-card'),heading=el('h3');card.tabIndex=-1;heading.append(el('bdi','',n.name));if(n.script)heading.append(' · ',el('bdi','',n.script));
+   const source=el('a','',`${c.source} · ${n.name}`);source.href=n.source;
+   const saved=ctl.entries.some(e=>nameKey(e.name)===nameKey(n.name));
+   const save=btn(saved?ui.savedNames:ui.saveName,()=>{
+    const note=`${n.meaning}\n${c.usage}: ${n.usageLabel}\n${c.origin}: ${n.originLabel}\n${n.source}`;
+    if(ctl.apply([...ctl.entries,{id:crypto.randomUUID(),name:n.name,note}]))meaningResults.querySelector(`[data-name="${CSS.escape(n.name)}"]`)?.closest('article').focus();
+   },!saved);
+   save.disabled=saved||!ctl.state.ok;save.dataset.name=n.name;save.setAttribute('aria-label',`${ui.saveName}: ${n.name}`);
+   card.append(heading,el('p','',n.meaning),el('p','pilot-hint',`${c.usage}: ${n.usageLabel} · ${c.origin}: ${n.originLabel}`),source,save);meaningResults.append(card);
+  }
+ }
  function renderResults(){results.replaceChildren();const matches=filterNames(nameData,{query:query.input.value,sex:sex.input.value,length:length.input.value,sort:sort.input.value});count.textContent=`${fmt(Math.min(visible,matches.length))} / ${fmt(matches.length)}`;more.hidden=visible>=matches.length;
   if(!matches.length)results.append(el('p','pilot-empty',ui.noMatches));
   for(const n of matches.slice(0,visible)){const card=el('article','sourced-name-card');card.append(el('h3','',n.name),el('p','name-rank',`${ui.rank} #${fmt(n.rank)} · ${n.sex==='F'?ui.girls:ui.boys}`),el('p','pilot-hint',`${ui.occurrences}: ${fmt(n.count)}`));const saved=ctl.entries.some(e=>nameKey(e.name)===nameKey(n.name)),save=btn(saved?ui.savedNames:ui.saveName,()=>ctl.apply([...ctl.entries,{id:crypto.randomUUID(),name:n.name,note:''}]),!saved);save.disabled=saved||!ctl.state.ok;save.setAttribute('aria-label',`${ui.saveName}: ${n.name} (${n.sex==='F'?ui.girls:ui.boys})`);card.append(save);results.append(card);}
@@ -132,7 +160,9 @@ export function renderNameFinderComplete(config) {
  }
  function renderSaved(){ctl.refresh();savedList.replaceChildren();submit.disabled=!ctl.state.ok;if(!ctl.entries.length)savedList.append(el('p','pilot-empty',ui.shortlistEmpty));
   for(const e of ctl.entries){const card=el('article','shortlist-card');card.append(el('h3','',e.name));if(e.note)card.append(el('p','organizer-note',e.note));if(e.legacy)card.append(el('p','pilot-hint',ui.legacyNotes));const actions=el('div','pilot-actions');const edit=btn(ui.edit,()=>{editing=e;name.input.value=e.name;note.input.value=e.note;heading.textContent=ui.edit;submit.textContent=ui.updateEntry;cancel.hidden=false;name.input.focus();});edit.setAttribute('aria-label',`${ui.edit}: ${e.name}`);const remove=btn(ui.remove,()=>{if(ctl.apply(ctl.entries.filter(n=>n.id!==e.id))&&editing?.id===e.id)reset();});remove.setAttribute('aria-label',`${ui.remove}: ${e.name}`);actions.append(edit,remove);card.append(actions);savedList.append(card);}
-  renderResults();renderComparison();
+  renderResults();renderComparison();renderMeanings();
  }
- renderSaved();return root;
+ renderSaved();
+ if(collection)document.getElementById('name-meanings-static')?.setAttribute('hidden','');
+ return root;
 }
