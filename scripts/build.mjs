@@ -7,6 +7,7 @@ import { content, languages, pageSlugs, site } from '../src/pages.mjs';
 import { tourCollectionTranslations, tourUiTranslations } from '../src/tour-i18n.mjs';
 import { evidenceForArticle } from '../src/article-evidence.mjs';
 import { renderRoutineVisual } from '../src/routine-visuals.mjs';
+import { renderBirthPreferences } from '../src/website-gap-tools.mjs';
 import { articleDates, evidenceDateLabels } from '../src/article-dates.mjs';
 import { searchMetadata } from '../src/seo-metadata.mjs';
 import { qualityCopy } from '../src/tool-quality-copy.mjs';
@@ -49,7 +50,7 @@ const CATEGORY_FEATURED_SLUGS = {
     'pregnancy/warning-signs'
   ],
   newborn: [
-    'newborn/newborn-care-basics',
+    'newborn/postpartum-recovery',
     'newborn/newborn-fever',
     'newborn/safe-sleep-room-sharing'
   ],
@@ -100,7 +101,7 @@ const CATEGORY_TOPIC_RULES = {
     { label: 'babyChildTools' }
   ],
   app: [
-    { label: 'productGuides', match: /(why-bemama|daily-journey|qa-and-community|\/tools|premium|getting-started)/ },
+    { label: 'productGuides', match: /(why-bemama|daily-journey|cycle-tracker|qa-and-community|\/tools|premium|getting-started)/ },
     { label: 'privacySafety' }
   ]
 };
@@ -936,6 +937,7 @@ function renderPage(language, slug) {
     ${renderFooter(language)}
     <script type="module" src="${versionedAsset('/assets/site-search.js')}"></script>
     ${article?.routineGuide ? `<script type="module" src="${versionedAsset('/assets/routine-articles.js')}"></script>` : ''}
+    ${article?.birthPreferences ? `<script type="module" src="${versionedAsset('/assets/birth-preferences.js')}"></script>` : ''}
     ${article?.kind === 'tool' && !article.catalogHidden ? `<script type="module" src="${versionedAsset('/assets/care-tools.js')}"></script>` : ''}
     ${slug === 'explore' ? `<script type="module" src="${versionedAsset('/assets/product-tour.js')}"></script>` : ''}${slug === '' ? `\n    <script type="module" src="${versionedAsset('/assets/quick-help-entry.js')}"></script>` : ''}
     ${renderAnalytics()}
@@ -1562,10 +1564,13 @@ function renderArticle(language, slug, article, data) {
   ];
   const sections = data.sections
     .map(
-      (section) => `<section class="article-section">
+      (section, index) => `<section class="article-section" id="${escapeHtml(section.id || `section-${index + 1}`)}">
       <h2>${escapeHtml(section.heading)}</h2>
       ${section.image ? `<figure class="article-figure">${imageMarkup(`/assets/${section.image}`, section.heading)}</figure>` : ''}
       ${section.paragraphs.map((p) => `<p>${richText(p, data.linkLabels)}</p>`).join("")}
+      ${section.items ? `<ul class="guide-checklist">${section.items.map(item=>`<li>${escapeHtml(item)}</li>`).join('')}</ul>` : ''}
+      ${section.table ? `<div class="guide-table-wrap" role="region" aria-label="${escapeHtml(section.heading)}" tabindex="0"><table class="guide-table"><caption>${escapeHtml(section.table.caption || section.heading)}</caption><thead><tr>${section.table.headers.map(h => `<th scope="col">${escapeHtml(h)}</th>`).join('')}</tr></thead><tbody>${section.table.rows.map(row => `<tr>${row.map((cell, i) => i === 0 ? `<th scope="row">${escapeHtml(cell)}</th>` : `<td>${escapeHtml(cell)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>` : ''}
+      ${section.links ? `<ul class="guide-links">${section.links.map(link => `<li><a href="${escapeHtml(link.url)}">${escapeHtml(link.label)}</a></li>`).join('')}</ul>` : ''}
       ${section.visual ? renderRoutineVisual(section.visual, lang) : ''}
     </section>`
     )
@@ -1602,6 +1607,8 @@ function renderArticle(language, slug, article, data) {
     <figure class="article-hero">${imageMarkup(`/assets/${article.hero}`, data.title, { loading: 'eager', fetchpriority: 'high' })}</figure>
     ${fallbackNotice}
     <p class="article-intro">${richText(data.intro)}</p>
+    ${article.expandedGuide ? `<nav class="guide-jump-links" aria-label="${escapeHtml(data.title)}">${data.sections.map((section, index) => `<a href="#${escapeHtml(section.id || `section-${index + 1}`)}">${escapeHtml(section.heading)}</a>`).join('')}${article.birthPreferences ? `<a href="#birth-preferences">${escapeHtml(data.worksheetLabel)}</a>` : ''}</nav>` : ''}
+    ${article.birthPreferences ? renderBirthPreferences(lang, escapeHtml) : ''}
     ${sections}
     ${renderArticleEvidence(evidence, dates, lang)}
     ${takeaways}
@@ -1634,6 +1641,8 @@ function renderTool(language, slug, article, data) {
       (section) => `<section class="article-section">
       <h2>${escapeHtml(section.heading)}</h2>
       ${section.paragraphs.map((p) => `<p>${richText(p)}</p>`).join("")}
+      ${section.table ? `<div class="guide-table-wrap" role="region" aria-label="${escapeHtml(section.heading)}" tabindex="0"><table class="guide-table"><caption>${escapeHtml(section.heading)}</caption><thead><tr>${section.table.headers.map(h => `<th scope="col">${escapeHtml(h)}</th>`).join('')}</tr></thead><tbody>${section.table.rows.map(row => `<tr>${row.map((cell, i) => i === 0 ? `<th scope="row">${escapeHtml(cell)}</th>` : `<td>${escapeHtml(cell)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>` : ''}
+      ${section.links ? `<ul class="guide-links">${section.links.map(link => `<li><a href="${escapeHtml(link.url)}">${escapeHtml(link.label)}</a></li>`).join('')}</ul>` : ''}
     </section>`
     )
     .join('');

@@ -1,0 +1,40 @@
+[
+  {
+    "start": "https://bemamas.com/about-bemama",
+    "chain": [
+      {
+        "url": "https://bemamas.com/about-bemama",
+        "status": 301,
+        "location": "https://bemamas.com/about-bemama/"
+      },
+      {
+        "url": "https://bemamas.com/about-bemama/",
+        "status": 200,
+        "location": null,
+        "canonical": "https://bemamas.com/about-bemama/"
+      }
+    ]
+  },
+  {
+    "start": "https://bemamas.com/explore/?area=daily&step=1",
+    "chain": [
+      {
+        "url": "https://bemamas.com/explore/?area=daily&step=1",
+        "status": 200,
+        "location": null,
+        "canonical": "https://bemamas.com/explore/"
+      }
+    ]
+  },
+  {
+    "start": "https://bemamas.com/explore/",
+    "chain": [
+      {
+        "url": "https://bemamas.com/explore/",
+        "status": 200,
+        "location": null,
+        "canonical": "https://bemamas.com/explore/"
+      }
+    ]
+  }
+]

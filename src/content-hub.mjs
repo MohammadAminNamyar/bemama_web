@@ -23,6 +23,8 @@ import { expansionUpgradedArticles } from './articles/expansion-upgraded.mjs';
 import { newArticles } from './articles/new-articles.mjs';
 import { questionArticles } from './articles/question-guides.mjs';
 import { hubTranslations } from './articles/i18n/index.mjs';
+import { applyWebsiteGaps } from './website-gap-content.mjs';
+import { configureGapTools } from './website-gap-tools.mjs';
 
 // --- Categories (drive the navigation menu and the category landing pages) ---
 export const categories = [
@@ -473,6 +475,9 @@ for (const article of articles) {
     };
   }
 }
+
+applyWebsiteGaps(articles);
+configureGapTools(articles);
 
 // --- Derived lookups (used by the build) ---------------------------------
 export const categoryById = new Map(categories.map((category) => [category.id, category]));

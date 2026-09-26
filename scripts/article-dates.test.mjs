@@ -74,7 +74,7 @@ for (const { code: lang } of languages) {
         if (dates.articleIso > dates.evidenceIso) fixedOldEvidenceDates++;
       }
     }
-    assert.equal(fixedOldEvidenceDates, 92, `${lang}: cover every reported older-evidence regression`);
+    assert.equal(fixedOldEvidenceDates, 98, `${lang}: preserve newer editorial dates, including the expanded guides`);
   });
 
   test(`${lang}: every policy support address is protected and directly usable without JavaScript`, async () => {

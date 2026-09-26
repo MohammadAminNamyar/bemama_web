@@ -1,0 +1,38 @@
+{
+  "checkedAt": "2026-09-16T20:12:38.310Z",
+  "bypassedCache": false,
+  "results": {
+    "en": {
+      "checked": 13,
+      "passed": 13
+    },
+    "fa": {
+      "checked": 13,
+      "passed": 13
+    },
+    "ar": {
+      "checked": 13,
+      "passed": 13
+    },
+    "fr": {
+      "checked": 13,
+      "passed": 13
+    },
+    "tr": {
+      "checked": 13,
+      "passed": 13
+    },
+    "es": {
+      "checked": 13,
+      "passed": 13
+    },
+    "pt": {
+      "checked": 13,
+      "passed": 13
+    }
+  },
+  "failedPages": 0,
+  "failures": [],
+  "sitemapIssues": [],
+  "note": "Read-only production comparison. Passing does not mean Google has indexed the URLs."
+}

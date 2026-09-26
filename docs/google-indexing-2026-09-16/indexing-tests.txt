@@ -1,0 +1,16 @@
+✔ en: all active public routes are indexable, in the sitemap and reachable without JavaScript (338.3344ms)
+✔ fa: all active public routes are indexable, in the sitemap and reachable without JavaScript (208.1924ms)
+✔ ar: all active public routes are indexable, in the sitemap and reachable without JavaScript (207.6783ms)
+✔ fr: all active public routes are indexable, in the sitemap and reachable without JavaScript (221.2755ms)
+✔ tr: all active public routes are indexable, in the sitemap and reachable without JavaScript (198.5169ms)
+✔ es: all active public routes are indexable, in the sitemap and reachable without JavaScript (189.4903ms)
+✔ pt: all active public routes are indexable, in the sitemap and reachable without JavaScript (209.7023ms)
+✔ sitemap index preserves all languages without artificial lastmod dates (1.162ms)
+ℹ tests 8
+ℹ suites 0
+ℹ pass 8
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 1863.6089

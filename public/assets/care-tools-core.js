@@ -29,13 +29,15 @@ export function numericValue(value) {
 
 export function computeCalculator(kind, values, today = currentDay()) {
   const errors = {};
-  const field = kind === 'pregnancyWeek' ? 'dueDate' : 'lastPeriod';
+  const field = kind === 'pregnancyWeek' ? 'dueDate' : kind === 'ivf' ? 'transferDate' : 'lastPeriod';
   const inputDay = calendarDay(values[field]);
   if (inputDay === undefined) errors[field] = 'validDate';
-  if (field === 'lastPeriod' && inputDay > today) errors[field] = 'pastDate';
+  if (field !== 'dueDate' && inputDay > today) errors[field] = 'pastDate';
   const cycle = numericValue(values.cycleLength);
   const luteal = numericValue(values.lutealLength);
-  if (kind !== 'pregnancyWeek' && (!Number.isInteger(cycle) || cycle < 20 || cycle > 45)) errors.cycleLength = 'cycleRange';
+  if (!['pregnancyWeek', 'ivf'].includes(kind) && (!Number.isInteger(cycle) || cycle < 20 || cycle > 45)) errors.cycleLength = 'cycleRange';
+  const embryoAge = numericValue(values.embryoAge);
+  if (kind === 'ivf' && ![3, 5].includes(embryoAge)) errors.embryoAge = 'required';
   if (kind === 'ovulation' && (!Number.isInteger(luteal) || luteal < 10 || luteal > 18)) errors.lutealLength = 'lutealRange';
   if (Object.keys(errors).length) return {errors, rows: []};
   if (kind === 'ovulation') {
@@ -47,7 +49,8 @@ export function computeCalculator(kind, values, today = currentDay()) {
       {label: 'nextPeriod', date: nextPeriod}
     ]};
   }
-  const dueDate = kind === 'dueDate' ? inputDay + 280 + cycle - 28 : inputDay;
+  // ACOG: 263 days after a day-3 transfer, 261 after a day-5 transfer.
+  const dueDate = kind === 'ivf' ? inputDay + 266 - embryoAge : kind === 'dueDate' ? inputDay + 280 + cycle - 28 : inputDay;
   const days = 280 - (dueDate - today);
   if (days < 0 || days > 294) return {errors: {[field]: days < 0 ? 'notStarted' : 'pastWindow'}, rows: []};
   return {errors, elapsedDays: days, rows: [

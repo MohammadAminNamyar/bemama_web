@@ -50,7 +50,7 @@ function createForm(config, ui, action, onSubmit) {
     if (field.min !== undefined) input.min = field.min;
     if (field.max !== undefined) input.max = field.max;
     if (field.type === 'number') input.step = '1';
-    if (field.name === 'lastPeriod' || (config.id === 'growth-log' && field.name === 'date')) input.max = todayIso();
+    if (['lastPeriod', 'transferDate'].includes(field.name) || (config.id === 'growth-log' && field.name === 'date')) input.max = todayIso();
     if (['weight', 'length'].includes(field.name)) { input.type = 'text'; input.inputMode = 'decimal'; }
     if (['note', 'symptom'].includes(field.name)) input.maxLength = 2000;
     const error = node('span', 'pilot-error');
@@ -111,10 +111,15 @@ export function renderCalculatorPilot(config, runtimeLabels) {
   if (config.combined && !config.chosenMethod) {
     const wrapper=node('div','combined-calculator'),label=node('label','pilot-field calculator-method'),select=node('select');
     select.setAttribute('aria-label',ui.pregnancyMethod);
-    for(const [value,text] of [['dueDate',ui.lastPeriodMethod],['pregnancyWeek',ui.knownDueMethod]]) {const option=node('option','',text);option.value=value;select.append(option);}
+    for(const [value,text] of [['dueDate',ui.lastPeriodMethod],['pregnancyWeek',ui.knownDueMethod],...(config.ivfFields ? [['ivf',ui.ivfMethod]] : [])]) {const option=node('option','',text);option.value=value;select.append(option);}
     if(new URLSearchParams(location.search).get('method')==='due-date')select.value='pregnancyWeek';
+    if(config.ivfFields && new URLSearchParams(location.search).get('method')==='ivf')select.value='ivf';
     label.append(node('span','',ui.pregnancyMethod),select);const body=node('div');
-    const render=()=>body.replaceChildren(renderCalculatorPilot({...config,chosenMethod:true,calculator:select.value,fields:select.value==='pregnancyWeek'?config.dueDateFields:config.fields},runtimeLabels));
+    const render=()=>{
+      body.replaceChildren(renderCalculatorPilot({...config,chosenMethod:true,calculator:select.value,fields:select.value==='ivf'?config.ivfFields:select.value==='pregnancyWeek'?config.dueDateFields:config.fields},runtimeLabels));
+      const help=wrapper.querySelector('.calculator-method-help');
+      if(help)help.textContent=select.value==='ivf'?ui.ivfHelp:ui.methodHelp;
+    };
     select.addEventListener('change',render);
     wrapper.append(label);
     if (ui.methodHelp) {
