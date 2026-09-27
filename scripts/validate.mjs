@@ -129,8 +129,12 @@ const knownRoutes = new Set(requiredRoutes);
 
 const homeHtml = await readFile(path.join(dist, 'index.html'), 'utf8');
 const mainCss = await readFile(path.join(dist, 'assets', 'styles.css'), 'utf8');
-if (!homeHtml.includes('<link rel="stylesheet" href="/assets/styles.css?v=')) {
-  throw new Error('Homepage must load the main stylesheet before first paint.');
+const homeStyles = homeHtml.match(/<style id="home-styles">([\s\S]*?)<\/style>/)?.[1];
+if (!homeStyles || !homeStyles.includes('.hero') || !homeStyles.includes('.site-footer') || !homeStyles.includes('.mobile-menu')) {
+  throw new Error('Homepage must include its full layout and navigation styles before first paint.');
+}
+if (homeHtml.includes('<link rel="stylesheet"') || homeStyles.includes('.organizer-dashboard') || homeStyles.includes('.routine-visual')) {
+  throw new Error('Homepage must avoid blocking CSS requests and tool/article-only styles.');
 }
 if (homeHtml.includes('rel="preload" as="style"') || homeHtml.includes("this.rel='stylesheet'")) {
   throw new Error('Homepage must not use the flash-of-unstyled-content stylesheet preload pattern.');
@@ -164,7 +168,6 @@ if (!toolHtml.includes('/assets/care-tools.js')) {
 
 for (const file of htmlFiles) {
   const html = await readFile(file, 'utf8');
-  const normalizedHtml = html.toLowerCase();
   if (/href="\/(?:[a-z]{2}\/)?explore\/\?[^"#]*(?:area|step)=/i.test(html)) {
     throw new Error(`Crawlable product-tour state found in ${file}; use a URL fragment instead.`);
   }
@@ -175,10 +178,13 @@ for (const file of htmlFiles) {
       throw new Error(`Invalid JSON-LD in ${file}: ${error.message}`);
     }
   }
+  // CSS and hexadecimal asset fingerprints are not editorial claims.
+  const claimContent = html.replace(/<style\b[^>]*>[\s\S]*?<\/style>/gi, '')
+    .replace(/\?v=[a-f0-9]{16}/g, '');
   for (const claim of forbiddenClaims) {
     const found = claim === 'MinIO'
-      ? /\bminio\b/i.test(html)
-      : normalizedHtml.includes(claim.toLowerCase());
+      ? /\bminio\b/i.test(claimContent)
+      : claimContent.toLowerCase().includes(claim.toLowerCase());
     if (found) {
       throw new Error(`Forbidden launch claim found in ${file}: ${claim}`);
     }

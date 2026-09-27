@@ -95,6 +95,15 @@ building. The indexing tests verify these hashes and check every localized route
 for canonical/sitemap agreement, accidental noindex, utility links and HTML-link
 reachability within three clicks of its language's homepage.
 
+Localized homepages inline their complete shared/layout CSS before first paint,
+excluding the tool/organizer section and routine-article stylesheet. This avoids
+a blocking CSS request without a JavaScript stylesheet swap or unstyled content.
+Other routes keep the shared, versioned stylesheet. `build.mjs` checks the source
+section boundaries; retain those markers when reorganizing `hub.css`.
+Latin pages use the losslessly compressed Manrope WOFF2 and preload it; RTL pages
+retain Vazirmatn and do not preload the unused Latin font. The original TTF and
+font license remain available in `public/assets/fonts`.
+
 These checks establish technical eligibility, not guaranteed Google indexing.
 See `docs/google-indexing-followup-2026-09-06.md` for the Google live test, daily
 submission quota and deployment follow-up.

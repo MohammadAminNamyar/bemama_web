@@ -58,7 +58,12 @@ for (const { code: lang } of languages) {
         }
         assert.equal(match[1], assetHashes.get(assetPath), `${route}: unstable/stale asset key ${assetPath}`);
       }
-      assert.match(html, /href="\/assets\/styles\.css\?v=[a-f0-9]{16}"/);
+      if (route === routeFor(lang, '')) {
+        assert.match(html, /<style id="home-styles">[^<]+<\/style>/);
+        assert.ok(!html.includes('rel="stylesheet"'), `${route}: blocking stylesheet request`);
+      } else {
+        assert.match(html, /href="\/assets\/styles\.css\?v=[a-f0-9]{16}"/);
+      }
       assert.match(html, /src="\/assets\/site-search\.js\?v=[a-f0-9]{16}"/);
     }
 

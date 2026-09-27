@@ -722,7 +722,21 @@ await cp(path.join(root, 'public'), dist, { recursive: true });
 const webManifest = JSON.parse(await readFile(path.join(dist, 'site.webmanifest'), 'utf8'));
 webManifest.icons = webManifest.icons.map(icon => ({ ...icon, src: versionedAsset(icon.src) }));
 await writeFile(path.join(dist, 'site.webmanifest'), JSON.stringify(webManifest, null, 2) + '\n');
-const styles = `${await readFile(path.join(root, 'src', 'styles.css'), 'utf8')}\n${await readFile(path.join(root, 'src', 'hub.css'), 'utf8')}\n${await readFile(path.join(root, 'src', 'routine-articles.css'), 'utf8')}`;
+const baseStyles = await readFile(path.join(root, 'src', 'styles.css'), 'utf8');
+const hubStyles = await readFile(path.join(root, 'src', 'hub.css'), 'utf8');
+const routineStyles = await readFile(path.join(root, 'src', 'routine-articles.css'), 'utf8');
+// Keep the complete homepage styled before first paint, without a CSS network
+// round trip or a JS-dependent stylesheet swap. Tool/organizer and routine
+// article rules are unnecessary here; retain shared navigation overrides.
+const toolStylesStart = hubStyles.indexOf('.tool-layout .article {');
+const sharedOverridesStart = hubStyles.indexOf('/* Practical guides:');
+if (toolStylesStart < 0 || sharedOverridesStart <= toolStylesStart) {
+  throw new Error('Cannot locate the homepage stylesheet boundaries.');
+}
+const versionFontUrls = css => css.replace(/url\("(\/assets\/fonts\/[^"?]+)"\)/g,
+  (_, src) => `url("${versionedAsset(src)}")`);
+const homeStyles = minifyCss(versionFontUrls(`${baseStyles}\n${hubStyles.slice(0, toolStylesStart)}\n${hubStyles.slice(sharedOverridesStart)}`));
+const styles = versionFontUrls(`${baseStyles}\n${hubStyles}\n${routineStyles}`);
 await writeFile(
   path.join(dist, 'assets', 'styles.css'),
   minifyCss(styles)
@@ -863,7 +877,8 @@ function renderPage(language, slug) {
     <meta name="twitter:image" content="${ogImage}" />
     ${jsonLd}
     ${preloadImage ? renderImagePreload(preloadImage, slug === '' ? {widths:[256,320,640],sizes:'(max-width: 980px) 224px, 252px'} : {}) : ''}
-    <link rel="stylesheet" href="${versionedAsset('/assets/styles.css')}" />
+    ${language.dir === 'rtl' ? '' : `<link rel="preload" href="${versionedAsset('/assets/fonts/Manrope-Variable.woff2')}" as="font" type="font/woff2" crossorigin />`}
+    ${slug === '' ? `<style id="home-styles">${homeStyles}</style>` : `<link rel="stylesheet" href="${versionedAsset('/assets/styles.css')}" />`}
   </head>
   <body>
     ${renderHeader(language, slug)}
@@ -1012,7 +1027,7 @@ function renderHome(language) {
     .map((article) => {
       const data = article.i18n[language.code] ?? article.i18n.en;
       return `<a class="article-card" href="${localizedPath(language.code, article.slug)}">
-        <div class="article-card-media">${imageMarkup(`/assets/${article.hero}`, data.title)}</div>
+        <div class="article-card-media">${imageMarkup(`/assets/${article.hero}`, data.title, {widths:[160,320,480],sizes:'144px'})}</div>
         <div class="article-card-copy">
           <h3>${escapeHtml(data.title)}</h3>
           <p>${escapeHtml(data.description)}</p>
@@ -1257,7 +1272,7 @@ function renderProductHero(language) {
           ${imageMarkup('/assets/tour/daily-home.png', copy.heroHomeAlt, { loading: 'eager', fetchpriority: 'high', widths:[256,320,640],sizes:'(max-width: 980px) 224px, 252px' })}
         </div>
       </figure>
-      <div class="hero-brand-characters" aria-hidden="true">${imageMarkup('/assets/hero_pregnancy.png','',{loading:'eager',widths:[128,160,256],sizes:'(max-width: 700px) 176px, 260px'})}</div>
+      <div class="hero-brand-characters" aria-hidden="true">${imageMarkup('/assets/hero_pregnancy.png','',{loading:'eager',widths:[128,160,256,320,480],sizes:'(max-width: 700px) min(42vw, 200px), (max-width: 980px) 200px, 270px'})}</div>
       <div class="hero-benefit"><strong>${escapeHtml(copy.heroBenefit)}</strong><small>${escapeHtml(copy.heroBenefitText)}</small></div>
     </div>
     <p class="hero-preview-note">${escapeHtml(copy.heroPreview)}</p>
