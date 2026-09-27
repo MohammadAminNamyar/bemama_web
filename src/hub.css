@@ -2100,3 +2100,13 @@ html[dir="rtl"] .tool-entry {
   .birth-print-sheet h2 { font-size:12pt; break-after:avoid; margin-block:1.2em .4em; }
   .birth-print-sheet p { white-space:pre-wrap; overflow-wrap:anywhere; orphans:3; widows:3; }
 }
+.persian-date-fields {
+  display: grid;
+  grid-template-columns: minmax(64px, .75fr) minmax(90px, 1.2fr) minmax(80px, 1fr);
+  gap: 8px;
+  width: 100%;
+}
+.persian-date-fields > label { display: grid; min-width: 0; gap: 5px; }
+.persian-date-fields > label > span { font-size: .75rem; color: var(--muted); }
+.persian-date-fields select { min-width: 0; width: 100%; padding-inline: 8px; }
+.persian-date-fields:has(> label:nth-child(2):last-child) { grid-template-columns: 1.2fr 1fr; }

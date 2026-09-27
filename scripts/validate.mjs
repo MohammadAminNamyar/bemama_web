@@ -138,19 +138,17 @@ if (homeHtml.includes('rel="preload" as="style"') || homeHtml.includes("this.rel
 if (homeHtml.includes('/assets/care-tools.js')) {
   throw new Error('Homepage must not load the tool-only JavaScript bundle.');
 }
-const heroMarkup = homeHtml.match(/<div class="hero-carousel">([\s\S]*?)<\/div>/)?.[1] ?? '';
-if ((heroMarkup.match(/<picture\b/g) ?? []).length !== 1 || mainCss.includes('hero-carousel-fade')) {
-  throw new Error('Homepage hero must show one static image without automatic rotation.');
+const heroMarkup = homeHtml.match(/<div class="hero-product">([\s\S]*?)<p class="hero-preview-note">/)?.[1] ?? '';
+if (!heroMarkup.includes('/assets/tour/daily-home.') || mainCss.includes('hero-carousel-fade')) {
+  throw new Error('Homepage hero must show a static app preview without automatic rotation.');
 }
 if (/<video\b[^>]*\sposter=/i.test(homeHtml) || !homeHtml.includes('video[data-poster]')) {
   throw new Error('Below-fold video posters must be loaded near the viewport instead of during initial navigation.');
 }
 for (const expectedAsset of [
-  'hero-carousel/pregnancy-rest-640.avif',
-  'bemama_logo_mark-96.webp',
-  'hero_planning-160.webp',
-  'app_daily_plan-280.avif',
-  'tour/daily-home.avif',
+  'product-hero/pregnancy-daily-640.avif',
+  'bemama_logo_mark_navy.svg',
+  'product-hero/questions-640.avif',
   'videos/bemama-care-story-01-poster-640.webp',
   'videos/bemama-care-story-02-poster-360.webp'
 ]) {

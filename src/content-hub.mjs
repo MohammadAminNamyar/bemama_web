@@ -34,7 +34,7 @@ export const categories = [
     slug: 'trying-to-conceive',
     order: 1,
     hero: 'hero_planning.png',
-    icon: 'icon_daily_action.png',
+    icon: 'icon-subscription-navy.svg',
     title: {
       en: 'Trying to Conceive',
       fa: 'اقدام به بارداری',
@@ -59,7 +59,7 @@ export const categories = [
     slug: 'pregnancy',
     order: 2,
     hero: 'hero_pregnancy.png',
-    icon: 'icon_ask_question.png',
+    icon: 'icon-ai-safety-navy.svg',
     title: {
       en: 'Pregnancy',
       fa: 'بارداری',
@@ -84,7 +84,7 @@ export const categories = [
     slug: 'newborn',
     order: 3,
     hero: 'hero_baby.png',
-    icon: 'icon_shield_heart.png',
+    icon: 'icon-privacy-navy.svg',
     title: {
       en: 'Newborn Care',
       fa: 'مراقبت از نوزاد',
@@ -159,7 +159,7 @@ export const categories = [
     slug: 'tools',
     order: 5,
     hero: 'content/app-tools.jpg',
-    icon: 'icon_daily_action.png',
+    icon: 'icon-subscription-navy.svg',
     title: {
       en: 'Tools',
       fa: 'ابزارها',

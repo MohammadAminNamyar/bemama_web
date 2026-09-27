@@ -1,6 +1,7 @@
 import {calendarDay, currentDay, computeCalculator, numericValue, readLog, changeLog, validateLogValues, measurementValue, formatGestationalAge} from './care-tools-core.js';
 import {renderCycleCalendar, renderPregnancyTimeline, renderGrowthDashboard, renderAppointmentCalendar} from './care-tools-visuals.js';
 import {calendarFile} from './care-organizers-core.js';
+import {persianDateControl} from './local-calendar.js';
 
 const node = (tag, className, text) => {
   const element = document.createElement(tag);
@@ -58,6 +59,12 @@ function createForm(config, ui, action, onSubmit) {
     error.hidden = true;
     input.setAttribute('aria-describedby', error.id);
     wrap.append(label, input);
+    const localDate = field.type === 'date' && locale() === 'fa' ? persianDateControl(input, field.label) : null;
+    if (localDate) {
+      label.htmlFor = localDate.focusTarget.id;
+      wrap.append(localDate.element, node('span','pilot-hint','تقویم هجری شمسی'));
+      localDate.inputs.forEach(control => control.setAttribute('aria-describedby',error.id));
+    }
     if (['cycleLength', 'lutealLength'].includes(field.name)) {
       const hint = node('span', 'pilot-hint', `${number(Number(field.min))}–${number(Number(field.max))} ${ui.daysUnit}`);
       hint.id = `${id}-hint`;
@@ -66,7 +73,7 @@ function createForm(config, ui, action, onSubmit) {
     }
     wrap.append(error);
     grid.append(wrap);
-    controls.set(field.name, {input, error});
+    controls.set(field.name, {input, error, localDate});
   }
   const actions = node('div', 'pilot-actions');
   const submit = button(action, null, false);
@@ -77,14 +84,15 @@ function createForm(config, ui, action, onSubmit) {
   status.setAttribute('aria-live', 'polite');
   form.append(grid, actions, status);
   const showErrors = errors => {
-    for (const [key, {input, error}] of controls) {
+    for (const [key, {input, error, localDate}] of controls) {
       const invalid = !!errors[key];
       error.textContent = invalid ? ui[errors[key]] || ui.required : '';
       error.hidden = !invalid;
       input.setAttribute('aria-invalid', String(invalid));
+      localDate?.inputs.forEach(control => control.setAttribute('aria-invalid',String(invalid)));
     }
     const first = Object.keys(errors).find(key => controls.has(key));
-    if (first) { status.textContent = ui.errors; controls.get(first).input.focus(); }
+    if (first) { status.textContent = ui.errors; const control = controls.get(first); (control.localDate?.focusTarget || control.input).focus(); }
     return !!first;
   };
   form.addEventListener('submit', event => {
@@ -268,6 +276,7 @@ export function renderLogPilot(config, runtimeLabels) {
 
   function resetForm() {
     controls.form.reset();
+    for (const {localDate} of controls.controls.values()) localDate?.reset();
     editing = undefined;
     cancel.hidden = true;
     controls.submit.textContent = ui.saveEntry;
@@ -286,11 +295,12 @@ export function renderLogPilot(config, runtimeLabels) {
   function edit(entry) {
     editing = entry;
     controls.showErrors({});
-    for (const [name, {input}] of controls.controls) input.value = entry[name] ?? '';
+    for (const [name, {input, localDate}] of controls.controls) { input.value = entry[name] ?? ''; localDate?.sync(); }
     controls.submit.textContent = ui.updateEntry;
     controls.status.textContent = '';
     cancel.hidden = false;
-    controls.controls.get('date').input.focus();
+    const dateControl = controls.controls.get('date');
+    (dateControl.localDate?.focusTarget || dateControl.input).focus();
   }
   function render() {
     list.replaceChildren(); chart.replaceChildren(); dashboard.replaceChildren();

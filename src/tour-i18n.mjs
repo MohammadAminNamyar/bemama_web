@@ -247,9 +247,9 @@ export const tourCollectionTranslations = {
       label: 'راهنمایی روزانه',
       summary: 'صفحه‌ای آرام برای راهنمایی‌ها و کارهای مهم امروز.',
       steps: [
-        { title: 'روز شما در یک نگاه', description: 'راهنمایی متناسب با مرحله، برنامه مراقبت امروز و دسترسی‌های سریع را در یک صفحه آرام ببینید.', prompt: 'برای ادامه روی «باز کردن مسیر» بزنید.', tags: ['خانه شخصی‌شده', 'برنامه روزانه', 'دسترسی سریع'] },
+        { title: 'روز شما در یک نگاه', description: 'راهنمایی متناسب با مرحله، برنامه مراقبت امروز و دسترسی‌های سریع را در یک صفحه آرام ببینید.', prompt: 'برای ادامه روی کارت مسیر خود بزنید.', tags: ['خانه شخصی‌شده', 'برنامه روزانه', 'دسترسی سریع'] },
         { title: 'کارهای کوچک، منظم و روشن', description: 'راهنمایی‌های کوتاه را بخوانید و بدون گم‌کردن مسیر، مراحل عملی مراقبت را دنبال کنید.', prompt: 'برای باز کردن، روی هر کارت راهنما بزنید.', tags: ['راهنمایی کوتاه', 'متناسب با مرحله', 'خوانا و منظم'] },
-        { title: 'شخصی‌سازی از همان ابتدا', description: 'مسیر خود را انتخاب و جزئیاتی را ذخیره کنید که BeMama بر اساس آن‌ها راهنمایی روزانه شما را می‌سازد.', prompt: 'وقتی تنظیمات آماده شد، روی «ذخیره» بزنید.', tags: ['چهار مسیر', 'تنظیمات خصوصی', 'قابل ویرایش'] }
+        { title: 'شخصی‌سازی از همان ابتدا', description: 'مسیر خود را انتخاب و جزئیاتی را ذخیره کنید که BeMama بر اساس آن‌ها راهنمایی روزانه شما را می‌سازد.', prompt: 'وقتی تنظیمات آماده شد، روی «ذخیره تغییرات» بزنید.', tags: ['چهار مسیر', 'تنظیمات خصوصی', 'قابل ویرایش'] }
       ]
     },
     planning: {
@@ -257,7 +257,7 @@ export const tourCollectionTranslations = {
       summary: 'ثبت چرخه و برآوردهای آموزشی، روشن و خصوصی.',
       steps: [
         { title: 'برنامه‌ریزی با دید روشن‌تر', description: 'پنجره باروری تخمینی، ابزارهای چرخه، بینش‌های خصوصی و ثبت‌های روزانه را یکجا ببینید.', prompt: 'برای دیدن ماه، روی «تقویم چرخه» بزنید.', tags: ['نمای کلی چرخه', 'بینش‌های خصوصی', 'ثبت روزانه'] },
-        { title: 'درک چرخه در یک نگاه', description: 'دوره‌های ثبت‌شده و برآوردهای آموزشی باروری را در یک تقویم روشن مرور کنید.', prompt: 'برای افزودن رکورد، روی «ثبت داده‌های دوره» بزنید.', tags: ['تقویم چرخه', 'پنجره باروری', 'سابقه'] },
+        { title: 'درک چرخه در یک نگاه', description: 'دوره‌های ثبت‌شده و برآوردهای آموزشی باروری را در یک تقویم روشن مرور کنید.', prompt: 'برای ادامه تور، روی تقویم بزنید.', tags: ['تقویم چرخه', 'پنجره باروری', 'سابقه'] },
         { title: 'علائم و حال‌وهوای خود را خصوصی نگه دارید', description: 'علائم، حال‌وهوا، شدت و یادداشت خصوصی اختیاری را در یک فرم متمرکز ثبت کنید.', prompt: 'پس از تکمیل رکورد، روی «ذخیره خصوصی» بزنید.', tags: ['علائم', 'حال‌وهوا', 'یادداشت خصوصی'] }
       ]
     },
@@ -284,16 +284,16 @@ export const tourCollectionTranslations = {
     daily: {
       label: 'الإرشاد اليومي', summary: 'واجهة هادئة للإرشادات والإجراءات المهمة اليوم.',
       steps: [
-        { title: 'يومك في لمحة', description: 'شاهد الإرشاد المناسب لمرحلتك وخطة رعاية اليوم والإجراءات السريعة في شاشة واحدة هادئة.', prompt: 'اضغط على «فتح الرحلة» للمتابعة.', tags: ['واجهة مخصصة', 'خطة يومية', 'إجراءات سريعة'] },
+        { title: 'يومك في لمحة', description: 'شاهد الإرشاد المناسب لمرحلتك وخطة رعاية اليوم والإجراءات السريعة في شاشة واحدة هادئة.', prompt: 'اضغط على بطاقة رحلتك للمتابعة.', tags: ['واجهة مخصصة', 'خطة يومية', 'إجراءات سريعة'] },
         { title: 'خطوات صغيرة ومنظمة', description: 'اقرأ إرشادات موجزة وتقدّم في خطوات الرعاية العملية دون أن تفقد موضعك.', prompt: 'اضغط على أي بطاقة إرشاد لفتحها.', tags: ['إرشاد موجز', 'مناسب للمرحلة', 'سهل القراءة'] },
-        { title: 'تخصيص منذ البداية', description: 'اختر رحلتك واحفظ التفاصيل التي يستخدمها BeMama لتشكيل إرشادك اليومي.', prompt: 'اضغط على «حفظ» عند اكتمال الإعداد.', tags: ['أربع رحلات', 'إعداد خاص', 'قابل للتعديل'] }
+        { title: 'تخصيص منذ البداية', description: 'اختر رحلتك واحفظ التفاصيل التي يستخدمها BeMama لتشكيل إرشادك اليومي.', prompt: 'اضغط على «حفظ التغييرات» عند اكتمال الإعداد.', tags: ['أربع رحلات', 'إعداد خاص', 'قابل للتعديل'] }
       ]
     },
     planning: {
       label: 'التخطيط', summary: 'تتبع الدورة والتقديرات التثقيفية بوضوح وخصوصية.',
       steps: [
         { title: 'خططي بوضوح أكبر', description: 'شاهدي نافذة الخصوبة التقديرية وأدوات الدورة والرؤى الخاصة والمتابعات اليومية في مكان واحد.', prompt: 'اضغطي على «تقويم الدورة» لعرض الشهر.', tags: ['نظرة عامة على الدورة', 'رؤى خاصة', 'تتبع يومي'] },
-        { title: 'افهمي دورتك في لمحة', description: 'راجعي الدورات المسجلة وتقديرات الخصوبة التثقيفية في تقويم واضح.', prompt: 'اضغطي على «تسجيل بيانات الدورة» لإضافة سجل.', tags: ['تقويم الدورة', 'نافذة الخصوبة', 'السجل'] },
+        { title: 'افهمي دورتك في لمحة', description: 'راجعي الدورات المسجلة وتقديرات الخصوبة التثقيفية في تقويم واضح.', prompt: 'اضغطي على التقويم لمتابعة الجولة.', tags: ['تقويم الدورة', 'نافذة الخصوبة', 'السجل'] },
         { title: 'احفظي خصوصية الأعراض والمزاج', description: 'سجلي الأعراض والمزاج والشدة وملاحظة خاصة اختيارية في نموذج مركز.', prompt: 'اضغطي على «حفظ بخصوصية» عند اكتمال السجل.', tags: ['الأعراض', 'المزاج', 'ملاحظات خاصة'] }
       ]
     },
@@ -318,16 +318,16 @@ export const tourCollectionTranslations = {
     daily: {
       label: 'Conseils quotidiens', summary: "Un accueil apaisé pour les conseils et les actions qui comptent aujourd’hui.",
       steps: [
-        { title: "Votre journée en un coup d’œil", description: "Retrouvez des conseils adaptés à votre étape, le programme de soins du jour et des actions rapides sur un écran d’accueil apaisé.", prompt: 'Touchez « Ouvrir le parcours » pour continuer.', tags: ['Accueil personnalisé', 'Programme quotidien', 'Actions rapides'] },
+        { title: "Votre journée en un coup d’œil", description: "Retrouvez des conseils adaptés à votre étape, le programme de soins du jour et des actions rapides sur un écran d’accueil apaisé.", prompt: 'Touchez votre carte de parcours pour continuer.', tags: ['Accueil personnalisé', 'Programme quotidien', 'Actions rapides'] },
         { title: 'De petites actions bien organisées', description: 'Lisez des conseils quotidiens concis et avancez dans des étapes de soins pratiques sans perdre votre progression.', prompt: "Touchez une carte de conseil pour l’ouvrir.", tags: ['Conseils courts', 'Adaptés à votre étape', 'Facile à parcourir'] },
-        { title: 'Personnalisé dès le départ', description: 'Choisissez votre parcours et enregistrez les informations utilisées par BeMama pour personnaliser vos conseils quotidiens.', prompt: 'Touchez « Enregistrer » lorsque la configuration est prête.', tags: ['Quatre parcours', 'Configuration privée', 'Modifiable à tout moment'] }
+        { title: 'Personnalisé dès le départ', description: 'Choisissez votre parcours et enregistrez les informations utilisées par BeMama pour personnaliser vos conseils quotidiens.', prompt: 'Touchez « Enregistrer les modifications » lorsque la configuration est prête.', tags: ['Quatre parcours', 'Configuration privée', 'Modifiable à tout moment'] }
       ]
     },
     planning: {
       label: 'Planification', summary: 'Un suivi du cycle et des estimations éducatives clairs et confidentiels.',
       steps: [
         { title: 'Planifiez plus clairement', description: 'Réunissez votre fenêtre de fertilité estimée, les outils du cycle, les analyses privées et les suivis quotidiens.', prompt: 'Touchez « Calendrier du cycle » pour afficher le mois.', tags: ["Vue d’ensemble du cycle", 'Analyses privées', 'Suivi quotidien'] },
-        { title: "Comprenez votre cycle en un coup d’œil", description: 'Consultez les règles enregistrées et les estimations éducatives de fertilité dans un calendrier clair.', prompt: 'Touchez « Enregistrer les règles » pour ajouter une entrée.', tags: ['Calendrier du cycle', 'Fenêtre de fertilité', 'Historique'] },
+        { title: "Comprenez votre cycle en un coup d’œil", description: 'Consultez les règles enregistrées et les estimations éducatives de fertilité dans un calendrier clair.', prompt: 'Touchez le calendrier pour poursuivre la visite.', tags: ['Calendrier du cycle', 'Fenêtre de fertilité', 'Historique'] },
         { title: 'Gardez vos symptômes et votre humeur privés', description: "Enregistrez symptômes, humeur, intensité et, si vous le souhaitez, une note privée dans un formulaire ciblé.", prompt: "Touchez « Enregistrer en privé » lorsque l’entrée est complète.", tags: ['Symptômes', 'Humeur', 'Notes privées'] }
       ]
     },
@@ -352,16 +352,16 @@ export const tourCollectionTranslations = {
     daily: {
       label: 'Günlük rehberlik', summary: 'Bugün önemli olan rehberlik ve işlemler için sakin bir ana ekran.',
       steps: [
-        { title: 'Gününüz bir bakışta', description: 'Aşamanıza uygun rehberliği, bugünün bakım planını ve hızlı işlemleri tek bir sakin ana ekranda görün.', prompt: 'Devam etmek için “Yolculuğu aç”a dokunun.', tags: ['Kişiselleştirilmiş ana ekran', 'Günlük plan', 'Hızlı işlemler'] },
+        { title: 'Gününüz bir bakışta', description: 'Aşamanıza uygun rehberliği, bugünün bakım planını ve hızlı işlemleri tek bir sakin ana ekranda görün.', prompt: 'Devam etmek için yolculuk kartınıza dokunun.', tags: ['Kişiselleştirilmiş ana ekran', 'Günlük plan', 'Hızlı işlemler'] },
         { title: 'Küçük adımlar, düzenli bir akış', description: 'Kısa günlük rehberleri okuyun ve kaldığınız yeri kaybetmeden pratik bakım adımlarında ilerleyin.', prompt: 'Açmak için herhangi bir rehber kartına dokunun.', tags: ['Kısa rehberler', 'Aşamaya uygun', 'Kolay taranır'] },
-        { title: 'En baştan kişiselleştirilmiş', description: 'Yolculuğunuzu seçin ve BeMama’nın günlük rehberliği size göre şekillendirmek için kullandığı bilgileri kaydedin.', prompt: 'Kurulum hazır olduğunda “Kaydet”e dokunun.', tags: ['Dört yolculuk', 'Özel kurulum', 'Her zaman düzenlenebilir'] }
+        { title: 'En baştan kişiselleştirilmiş', description: 'Yolculuğunuzu seçin ve BeMama’nın günlük rehberliği size göre şekillendirmek için kullandığı bilgileri kaydedin.', prompt: 'Kurulum hazır olduğunda “Değişiklikleri kaydet”e dokunun.', tags: ['Dört yolculuk', 'Özel kurulum', 'Her zaman düzenlenebilir'] }
       ]
     },
     planning: {
       label: 'Planlama', summary: 'Açık ve gizli tutulan döngü takibi ile eğitici tahminler.',
       steps: [
         { title: 'Daha net planlayın', description: 'Tahmini doğurganlık aralığınızı, döngü araçlarını, özel içgörüleri ve günlük takipleri birlikte görün.', prompt: 'Ayı görmek için “Döngü takvimi”ne dokunun.', tags: ['Döngü özeti', 'Özel içgörüler', 'Günlük takip'] },
-        { title: 'Döngünüzü bir bakışta anlayın', description: 'Kaydedilen adetleri ve eğitici doğurganlık tahminlerini açık bir takvimde inceleyin.', prompt: 'Kayıt eklemek için “Adet verisi ekle”ye dokunun.', tags: ['Döngü takvimi', 'Doğurganlık aralığı', 'Geçmiş'] },
+        { title: 'Döngünüzü bir bakışta anlayın', description: 'Kaydedilen adetleri ve eğitici doğurganlık tahminlerini açık bir takvimde inceleyin.', prompt: 'Tura devam etmek için takvime dokunun.', tags: ['Döngü takvimi', 'Doğurganlık aralığı', 'Geçmiş'] },
         { title: 'Belirtilerinizi ve ruh halinizi gizli tutun', description: 'Belirtileri, ruh halini, yoğunluğu ve isteğe bağlı özel notu odaklı bir formda kaydedin.', prompt: 'Kayıt tamamlandığında “Gizli kaydet”e dokunun.', tags: ['Belirtiler', 'Ruh hali', 'Özel notlar'] }
       ]
     },
@@ -386,16 +386,16 @@ export const tourCollectionTranslations = {
     daily: {
       label: 'Orientación diaria', summary: 'Un inicio tranquilo para la orientación y las acciones importantes de hoy.',
       steps: [
-        { title: 'Tu día de un vistazo', description: 'Consulta orientación adaptada a tu etapa, el plan de cuidados de hoy y acciones rápidas en una pantalla de inicio serena.', prompt: 'Toca «Abrir recorrido» para continuar.', tags: ['Inicio personalizado', 'Plan diario', 'Acciones rápidas'] },
+        { title: 'Tu día de un vistazo', description: 'Consulta orientación adaptada a tu etapa, el plan de cuidados de hoy y acciones rápidas en una pantalla de inicio serena.', prompt: 'Toca la tarjeta de tu recorrido para continuar.', tags: ['Inicio personalizado', 'Plan diario', 'Acciones rápidas'] },
         { title: 'Pequeñas acciones, bien organizadas', description: 'Lee orientación diaria concisa y avanza por pasos prácticos de cuidado sin perder tu progreso.', prompt: 'Toca cualquier tarjeta de orientación para abrirla.', tags: ['Orientación breve', 'Adaptada a tu etapa', 'Fácil de revisar'] },
-        { title: 'Personalizado desde el principio', description: 'Elige tu recorrido y guarda los datos que BeMama usa para adaptar la orientación diaria a ti.', prompt: 'Toca «Guardar» cuando la configuración esté lista.', tags: ['Cuatro recorridos', 'Configuración privada', 'Editable en cualquier momento'] }
+        { title: 'Personalizado desde el principio', description: 'Elige tu recorrido y guarda los datos que BeMama usa para adaptar la orientación diaria a ti.', prompt: 'Toca «Guardar cambios» cuando tu configuración esté lista.', tags: ['Cuatro recorridos', 'Configuración privada', 'Editable en cualquier momento'] }
       ]
     },
     planning: {
       label: 'Planificación', summary: 'Seguimiento del ciclo y estimaciones educativas, claros y privados.',
       steps: [
         { title: 'Planifica con más claridad', description: 'Consulta en un solo lugar tu ventana fértil estimada, herramientas del ciclo, información privada y registros diarios.', prompt: 'Toca «Calendario del ciclo» para ver el mes.', tags: ['Resumen del ciclo', 'Información privada', 'Seguimiento diario'] },
-        { title: 'Comprende tu ciclo de un vistazo', description: 'Revisa los periodos registrados y las estimaciones educativas de fertilidad en un calendario claro.', prompt: 'Toca «Registrar datos del periodo» para añadir un registro.', tags: ['Calendario del ciclo', 'Ventana fértil', 'Historial'] },
+        { title: 'Comprende tu ciclo de un vistazo', description: 'Revisa los periodos registrados y las estimaciones educativas de fertilidad en un calendario claro.', prompt: 'Toca el calendario para continuar el recorrido.', tags: ['Calendario del ciclo', 'Ventana fértil', 'Historial'] },
         { title: 'Mantén en privado tus síntomas y estado de ánimo', description: 'Registra síntomas, estado de ánimo, intensidad y una nota privada opcional en un formulario sencillo.', prompt: 'Toca «Guardar en privado» cuando termines.', tags: ['Síntomas', 'Estado de ánimo', 'Notas privadas'] }
       ]
     },
@@ -420,16 +420,16 @@ export const tourCollectionTranslations = {
     daily: {
       label: 'Orientação diária', summary: 'Uma tela inicial tranquila para as orientações e ações que importam hoje.',
       steps: [
-        { title: 'Seu dia em um só olhar', description: 'Veja orientações adequadas à sua fase, o plano de cuidados de hoje e ações rápidas em uma tela inicial tranquila.', prompt: 'Toque em “Abrir jornada” para continuar.', tags: ['Início personalizado', 'Plano diário', 'Ações rápidas'] },
+        { title: 'Seu dia em um só olhar', description: 'Veja orientações adequadas à sua fase, o plano de cuidados de hoje e ações rápidas em uma tela inicial tranquila.', prompt: 'Toque no cartão da sua jornada para continuar.', tags: ['Início personalizado', 'Plano diário', 'Ações rápidas'] },
         { title: 'Pequenas ações, bem organizadas', description: 'Leia orientações diárias objetivas e avance por etapas práticas de cuidado sem perder seu progresso.', prompt: 'Toque em qualquer cartão de orientação para abrir.', tags: ['Orientações curtas', 'Adequadas à fase', 'Fácil de consultar'] },
-        { title: 'Personalizado desde o início', description: 'Escolha sua jornada e salve os detalhes que o BeMama usa para adaptar as orientações diárias a você.', prompt: 'Toque em “Salvar” quando a configuração estiver pronta.', tags: ['Quatro jornadas', 'Configuração privada', 'Editável a qualquer momento'] }
+        { title: 'Personalizado desde o início', description: 'Escolha sua jornada e salve os detalhes que o BeMama usa para adaptar as orientações diárias a você.', prompt: 'Toque em «Guardar alterações» quando a configuração estiver pronta.', tags: ['Quatro jornadas', 'Configuração privada', 'Editável a qualquer momento'] }
       ]
     },
     planning: {
       label: 'Planejamento', summary: 'Acompanhamento do ciclo e estimativas educativas com clareza e privacidade.',
       steps: [
         { title: 'Planeje com mais clareza', description: 'Veja em um só lugar sua janela fértil estimada, ferramentas do ciclo, insights privados e registros diários.', prompt: 'Toque em “Calendário do ciclo” para ver o mês.', tags: ['Visão geral do ciclo', 'Insights privados', 'Acompanhamento diário'] },
-        { title: 'Entenda seu ciclo em um só olhar', description: 'Revise menstruações registradas e estimativas educativas de fertilidade em um calendário claro.', prompt: 'Toque em “Registrar dados da menstruação” para adicionar um registro.', tags: ['Calendário do ciclo', 'Janela fértil', 'Histórico'] },
+        { title: 'Entenda seu ciclo em um só olhar', description: 'Revise menstruações registradas e estimativas educativas de fertilidade em um calendário claro.', prompt: 'Toque no calendário para continuar a visita.', tags: ['Calendário do ciclo', 'Janela fértil', 'Histórico'] },
         { title: 'Mantenha sintomas e humor em privado', description: 'Registre sintomas, humor, intensidade e uma nota privada opcional em um formulário objetivo.', prompt: 'Toque em “Salvar em privado” quando terminar.', tags: ['Sintomas', 'Humor', 'Notas privadas'] }
       ]
     },

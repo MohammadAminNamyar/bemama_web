@@ -1,5 +1,6 @@
 import {calendarDay, currentDay, measurementValue} from './care-tools-core.js';
 import {whoWeight} from './who-weight-reference.js';
+import {localizedMonths, calendarSystem, weekStart, persianDateControl} from './local-calendar.js';
 
 const element = (tag, cls, text) => {const e=document.createElement(tag); if(cls)e.className=cls; if(text!==undefined)e.textContent=text; return e;};
 const number = value => new Intl.NumberFormat(document.documentElement.lang,{maximumFractionDigits:2}).format(value);
@@ -20,26 +21,18 @@ export function referenceSeries(entries,birthDate,today=currentDay()) {
   return growthSeries(entries,'weight',{today}).map(p=>({...p,age:(p.day-birth)/30.4375})).filter(p=>p.age>=0 && p.age<=24);
 }
 
-export function calendarMonths(from,to) {
-  const first=new Date(from*86400000),last=new Date(to*86400000),months=[];
-  for(let year=first.getUTCFullYear(),month=first.getUTCMonth(); year<last.getUTCFullYear() || (year===last.getUTCFullYear()&&month<=last.getUTCMonth());) {
-    const start=Date.UTC(year,month,1)/86400000;
-    months.push({start,offset:new Date(start*86400000).getUTCDay(),days:new Date(Date.UTC(year,month+1,0)).getUTCDate()});
-    month++;if(month===12){month=0;year++;}
-  }
-  return months;
-}
+export const calendarMonths = localizedMonths;
 
 export function renderCycleCalendar(calculated,values,ui) {
   const start=calendarDay(values.lastPeriod),ov=calculated.rows[0].date,window=calculated.rows[1],end=calculated.rows[2].date;
   const section=element('section','pilot-card pilot-calendar-panel');
   section.append(element('h2','pilot-heading',ui.cycleCalendar));
   const months=element('div','cycle-months');
-  for(const month of calendarMonths(start,end)) {
+  for(const month of calendarMonths(start,end,document.documentElement.lang)) {
     const block=element('section','cycle-month');
-    block.append(element('h3','',new Intl.DateTimeFormat(document.documentElement.lang,{month:'long',year:'numeric',calendar:'gregory',timeZone:'UTC'}).format(new Date(month.start*86400000))));
+    block.append(element('h3','',new Intl.DateTimeFormat(document.documentElement.lang,{month:'long',year:'numeric',calendar:calendarSystem(document.documentElement.lang),timeZone:'UTC'}).format(new Date(month.start*86400000))));
     const grid=element('div','cycle-days');
-    for(let i=0;i<7;i++)grid.append(element('span','cycle-weekday',new Intl.DateTimeFormat(document.documentElement.lang,{weekday:'short',timeZone:'UTC'}).format(new Date(Date.UTC(2026,0,4+i)))));
+    for(let i=0;i<7;i++)grid.append(element('span','cycle-weekday',new Intl.DateTimeFormat(document.documentElement.lang,{weekday:'short',timeZone:'UTC'}).format(new Date(Date.UTC(2026,0,4+weekStart(document.documentElement.lang)+i)))));
     for(let i=0;i<month.offset;i++){const blank=element('span');blank.setAttribute('aria-hidden','true');grid.append(blank);}
     for(let i=0;i<month.days;i++) {
       const day=month.start+i,labels=[];
@@ -115,8 +108,12 @@ function selectControl(label,options,onChange,value) {
 export function renderAppointmentCalendar(entries,ui,state={}) {
   const card=element('section','pilot-card appointment-calendar');card.append(element('h2','pilot-heading',ui.calendar));
   const controls=element('div','dashboard-controls');
-  const monthWrap=element('label','dashboard-control');monthWrap.append(element('span','',ui.month));
-  const input=element('input');input.type='month';input.value=state.month||new Date(currentDay()*86400000).toISOString().slice(0,7);monthWrap.append(input);
+  const local=document.documentElement.lang,isPersian=calendarSystem(local)==='persian';
+  const monthWrap=element(isPersian?'div':'label','dashboard-control');monthWrap.append(element('span','',ui.month));
+  const input=element('input');input.type=isPersian?'date':'month';input.id='appointment-month';
+  input.value=state.month||new Date(currentDay()*86400000).toISOString().slice(0,isPersian?10:7);monthWrap.append(input);
+  const localMonth=isPersian?persianDateControl(input,ui.month,{monthOnly:true}):null;
+  if(localMonth)monthWrap.append(localMonth.element);
   const grid=element('div','cycle-days appointment-days'),details=element('div','appointment-details');details.setAttribute('aria-live','polite');
   const selectDay=day=>{
     state.selectedDay=day;details.replaceChildren(element('h3','',date(day)));
@@ -126,10 +123,10 @@ export function renderAppointmentCalendar(entries,ui,state={}) {
     grid.querySelectorAll('button').forEach(button=>button.setAttribute('aria-pressed',String(Number(button.dataset.day)===day)));
   };
   const render=()=>{
-    const first=calendarDay(`${input.value}-01`);if(first===undefined)return;
+    const selectedMonth=calendarDay(isPersian?input.value:`${input.value}-01`);if(selectedMonth===undefined)return;
+    const month=calendarMonths(selectedMonth,selectedMonth,local)[0],first=month.start;
     state.month=input.value;grid.replaceChildren();
-    const month=calendarMonths(first,first)[0];
-    for(let i=0;i<7;i++)grid.append(element('span','cycle-weekday',new Intl.DateTimeFormat(document.documentElement.lang,{weekday:'short',timeZone:'UTC'}).format(new Date(Date.UTC(2026,0,4+i)))));
+    for(let i=0;i<7;i++)grid.append(element('span','cycle-weekday',new Intl.DateTimeFormat(local,{weekday:'short',timeZone:'UTC'}).format(new Date(Date.UTC(2026,0,4+weekStart(local)+i)))));
     for(let i=0;i<month.offset;i++){const blank=element('span');blank.setAttribute('aria-hidden','true');grid.append(blank);}
     for(let i=0;i<month.days;i++) {
       const day=first+i,count=entries.filter(e=>calendarDay(e.date)===day).length;
@@ -142,7 +139,10 @@ export function renderAppointmentCalendar(entries,ui,state={}) {
   };
   for(const [step,label] of [[-1,ui.previousMonth],[1,ui.nextMonth]]) {
     const button=element('button','button secondary pilot-button',label);button.type='button';button.addEventListener('click',()=>{
-      const first=calendarDay(`${input.value}-01`);if(first===undefined)return;const d=new Date(first*86400000);d.setUTCMonth(d.getUTCMonth()+step);input.value=d.toISOString().slice(0,7);render();
+      const anchor=calendarDay(isPersian?input.value:`${input.value}-01`);if(anchor===undefined)return;
+      const month=calendarMonths(anchor,anchor,local)[0];
+      const next=calendarMonths(step<0?month.start-1:month.start+month.days,step<0?month.start-1:month.start+month.days,local)[0];
+      input.value=new Date(next.start*86400000).toISOString().slice(0,isPersian?10:7);localMonth?.sync();render();
     });controls.append(button);
   }
   input.addEventListener('change',render);controls.prepend(monthWrap);
@@ -178,8 +178,11 @@ export function renderGrowthDashboard(entries,fields,ui,state={}) {
 function renderWhoReference(entries,ui,state) {
   const section=element('section','who-reference');section.append(element('h3','',ui.weightReference),element('p','pilot-hint',ui.referenceIntro));
   const form=element('form','reference-form');form.noValidate=true;
-  const birthWrap=element('label','dashboard-control');birthWrap.append(element('span','',ui.birthDate));
+  const birthWrap=element('div','dashboard-control');const birthLabel=element('label','',ui.birthDate);birthLabel.htmlFor='reference-birth-date';birthWrap.append(birthLabel);
   const birth=element('input');birth.type='date';birth.max=new Date(currentDay()*86400000).toISOString().slice(0,10);birth.value=state.birthDate||'';birthWrap.append(birth);
+  birth.id='reference-birth-date';
+  const localBirth=document.documentElement.lang==='fa'?persianDateControl(birth,ui.birthDate):null;
+  if(localBirth){birthWrap.append(localBirth.element);birthLabel.htmlFor=localBirth.focusTarget.id;}
   const sexWrap=selectControl(ui.referenceSex,[['',ui.choose],['girls',ui.girls],['boys',ui.boys]],value=>{state.sex=value;result.replaceChildren();},state.sex||'');
   const termWrap=element('label','reference-term');const term=element('input');term.type='checkbox';term.checked=!!state.term;termWrap.append(term,document.createTextNode(ui.bornAtTerm));
   const submit=element('button','button pilot-button',ui.showReference);submit.type='submit';
@@ -189,8 +192,8 @@ function renderWhoReference(entries,ui,state) {
   form.addEventListener('input',()=>{state.birthDate=birth.value;state.term=term.checked;feedback.textContent='';result.replaceChildren();});
   const render=()=>{
     const day=calendarDay(birth.value);result.replaceChildren();
-    if(day===undefined||day>currentDay()){feedback.textContent=ui.validDate;birth.setAttribute('aria-invalid','true');birth.focus();return;}
-    birth.setAttribute('aria-invalid','false');const sex=sexWrap.querySelector('select');
+    if(day===undefined||day>currentDay()){feedback.textContent=ui.validDate;birth.setAttribute('aria-invalid','true');localBirth?.inputs.forEach(control=>control.setAttribute('aria-invalid','true'));(localBirth?.focusTarget||birth).focus();return;}
+    birth.setAttribute('aria-invalid','false');localBirth?.inputs.forEach(control=>control.setAttribute('aria-invalid','false'));const sex=sexWrap.querySelector('select');
     if(!whoWeight[sex.value]){feedback.textContent=ui.required;sex.focus();return;}
     if(!term.checked){feedback.textContent=ui.termHelp;term.focus();return;}
     const points=referenceSeries(entries,birth.value),rows=whoWeight[sex.value];

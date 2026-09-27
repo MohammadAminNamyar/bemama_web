@@ -309,80 +309,9 @@ const notFoundCopy = {
 const appleGlyph = `<svg viewBox="0 0 384 512" aria-hidden="true" focusable="false"><path fill="currentColor" d="M318.7 268.7c-.2-36.7 16.4-64.4 50-84.8-18.8-26.9-47.2-41.7-84.7-44.6-35.5-2.8-74.3 20.7-88.5 20.7-15 0-49.4-19.7-76.4-19.7C63.3 141.2 4 184.8 4 273.5q0 39.3 14.4 81.2c12.8 36.7 59 126.7 107.2 125.2 25.2-.6 43-17.9 75.8-17.9 31.8 0 48.3 17.9 76.4 17.9 48.6-.7 90.4-82.5 102.6-119.3-65.2-30.7-61.7-90-61.7-91.9zm-56.6-164.2c27.3-32.4 24.8-61.9 24-72.5-24.1 1.4-52 16.4-67.9 34.9-17.5 19.8-27.8 44.3-25.6 71.9 26.1 2 49.9-11.4 69.5-34.3z"/></svg>`;
 const playGlyph = `<svg viewBox="0 0 512 512" aria-hidden="true" focusable="false"><path fill="currentColor" d="M325.3 234.3L104.6 13l280.8 161.2-60.1 60.1zM47 0C34 6.8 25.3 19.2 25.3 35.3v441.3c0 16.1 8.7 28.5 21.7 35.3l256.6-256L47 0zm425.2 225.6l-58.9-34.1-65.7 64.5 65.7 64.5 60.1-34.1c18-14.3 18-46.5-1.2-60.8zM104.6 499l280.8-161.2-60.1-60.1L104.6 499z"/></svg>`;
 
-// Alt text for the homepage hero illustrations. The carousel sits inside an
-// aria-hidden container (the hero already carries its own heading and copy),
-// so these are not announced by screen readers - they are what image search
-// reads, which is why they are localized rather than left in English.
-const heroCarouselAlts = {
-  en: {
-    pregnancyRest: 'Pregnant BeMama mother resting on the sofa while her partner brings her a glass of water',
-    pregnancyPlanning: 'BeMama couple marking dates together on a calendar at their kitchen table',
-    babyCare: 'BeMama parents in the nursery holding their swaddled newborn',
-    dailyCare: 'BeMama family preparing a bowl of fruit together while their toddler stirs',
-    childGrowth: 'BeMama toddler taking first steps between two encouraging parents'
-  },
-  fa: {
-    pregnancyRest: 'مادر باردار بی‌ماما روی مبل استراحت می‌کند و همسرش برایش لیوان آب می‌آورد',
-    pregnancyPlanning: 'زوج بی‌ماما دور میز آشپزخانه با هم تاریخ‌ها را روی تقویم علامت می‌زنند',
-    babyCare: 'والدین بی‌ماما در اتاق کودک، نوزاد قنداق‌شده‌شان را در آغوش گرفته‌اند',
-    dailyCare: 'خانواده بی‌ماما با هم کاسه‌ای میوه آماده می‌کنند و کودک نوپا آن را هم می‌زند',
-    childGrowth: 'کودک نوپای بی‌ماما میان پدر و مادر مشوقش اولین قدم‌ها را برمی‌دارد'
-  },
-  ar: {
-    pregnancyRest: 'أم حامل من بي‌ماما ترتاح على الأريكة بينما يحضر لها شريكها كوب ماء',
-    pregnancyPlanning: 'زوجان من بي‌ماما يحددان المواعيد معًا على التقويم حول طاولة المطبخ',
-    babyCare: 'والدان من بي‌ماما في غرفة الطفل يحتضنان مولودهما الملفوف',
-    dailyCare: 'عائلة بي‌ماما تحضّر طبقًا من الفاكهة معًا بينما يقلّبه طفلهما الصغير',
-    childGrowth: 'طفل بي‌ماما الصغير يخطو خطواته الأولى بين والدين يشجعانه'
-  },
-  fr: {
-    pregnancyRest: 'Maman enceinte BeMama se reposant sur le canapé pendant que son partenaire lui apporte un verre d’eau',
-    pregnancyPlanning: 'Couple BeMama notant ensemble des dates sur un calendrier à la table de la cuisine',
-    babyCare: 'Parents BeMama dans la chambre de bébé tenant leur nouveau-né emmailloté',
-    dailyCare: 'Famille BeMama préparant ensemble un bol de fruits pendant que leur tout-petit mélange',
-    childGrowth: 'Tout-petit BeMama faisant ses premiers pas entre ses deux parents encourageants'
-  },
-  tr: {
-    pregnancyRest: 'Hamile BeMama annesi kanepede dinlenirken eşi ona bir bardak su getiriyor',
-    pregnancyPlanning: 'BeMama çifti mutfak masasında birlikte takvime tarihler işaretliyor',
-    babyCare: 'BeMama ebeveynleri bebek odasında kundaklanmış yenidoğanlarını kucaklıyor',
-    dailyCare: 'BeMama ailesi birlikte meyve kâsesi hazırlarken küçük çocukları karıştırıyor',
-    childGrowth: 'BeMama’nın küçük çocuğu onu yüreklendiren iki ebeveyni arasında ilk adımlarını atıyor'
-  },
-  es: {
-    pregnancyRest: 'Mamá embarazada de BeMama descansando en el sofá mientras su pareja le trae un vaso de agua',
-    pregnancyPlanning: 'Pareja de BeMama marcando fechas juntos en un calendario en la mesa de la cocina',
-    babyCare: 'Padres de BeMama en la habitación del bebé sosteniendo a su recién nacido envuelto',
-    dailyCare: 'Familia de BeMama preparando juntos un bol de fruta mientras su peque lo remueve',
-    childGrowth: 'Peque de BeMama dando sus primeros pasos entre sus dos padres que lo animan'
-  },
-  pt: {
-    pregnancyRest: 'Mãe grávida da BeMama descansando no sofá enquanto o parceiro lhe traz um copo de água',
-    pregnancyPlanning: 'Casal da BeMama marcando datas juntos em um calendário na mesa da cozinha',
-    babyCare: 'Pais da BeMama no quarto do bebê segurando o recém-nascido enrolado',
-    dailyCare: 'Família da BeMama preparando junta uma tigela de frutas enquanto a criança mexe',
-    childGrowth: 'Criança da BeMama dando os primeiros passos entre os dois pais que a incentivam'
-  }
-};
-
-// Responsive settings for the homepage hero illustrations. Shared by the
-// carousel markup and the preload hint - if these ever disagree the browser
-// downloads the hero twice, once for each candidate set.
-// .hero-visual-panel is min(100%, 470px) with 12px padding, so the image is
-// never displayed wider than ~446 CSS px.
-const heroResponsive = {
-  widths: [400, 640],
-  sizes: '(max-width: 520px) calc(100vw - 60px), 446px'
-};
-
 // Small homepage images were previously delivered at their full source size.
 // Keep these values aligned with the rendered CSS sizes so the browser can
 // choose the smallest sharp candidate for the current device pixel ratio.
-const brandResponsive = {
-  widths: [64, 96, 128],
-  sizes: '38px'
-};
-
 const proofResponsive = {
   widths: [96, 128, 160, 256],
   sizes: '76px'
@@ -622,11 +551,11 @@ const tourCollections = [
       {
         title: 'Your day at a glance',
         description: 'See stage-aware guidance, today’s care plan, and quick actions in one calm home screen.',
-        prompt: 'Tap “Open journey” to continue.',
+        prompt: 'Tap your journey card to continue.',
         image: 'daily-home.png',
-        alt: 'BeMama home screen with planning overview, today’s care plan, and quick actions',
+        alt: 'BeMama home screen with a pregnancy journey, today’s care plan, and quick actions',
         tags: ['Personalized home', 'Daily plan', 'Quick actions'],
-        hotspot: { left: 5, top: 35, width: 20, height: 6 }
+        hotspot: { left: 5, top: 20, width: 90, height: 15 }
       },
       {
         title: 'Small actions, clearly organized',
@@ -635,16 +564,16 @@ const tourCollections = [
         image: 'daily-content.png',
         alt: 'BeMama Daily screen showing personalized guidance cards',
         tags: ['Short guidance', 'Stage aware', 'Easy to scan'],
-        hotspot: { left: 2, top: 4, width: 96, height: 13 }
+        hotspot: { left: 4, top: 62, width: 92, height: 23 }
       },
       {
         title: 'Personalized from the start',
         description: 'Choose your journey and save the details BeMama uses to shape daily guidance around you.',
-        prompt: 'Tap “Save” when your setup is ready.',
+        prompt: 'Tap “Save changes” when your setup is ready.',
         image: 'daily-setup.png',
         alt: 'BeMama Daily setup screen with planning, pregnancy, baby, and child journey choices',
         tags: ['Four journeys', 'Private setup', 'Editable anytime'],
-        hotspot: { left: 90, top: 0, width: 10, height: 5 }
+        hotspot: { left: 4, top: 93, width: 92, height: 5 }
       }
     ]
   },
@@ -660,16 +589,16 @@ const tourCollections = [
         image: 'planning-home.png',
         alt: 'BeMama Planning screen with estimated fertile window and cycle tracking tools',
         tags: ['Cycle overview', 'Private insights', 'Daily tracking'],
-        hotspot: { left: 3, top: 28, width: 94, height: 7 }
+        hotspot: { left: 4, top: 47, width: 92, height: 10 }
       },
       {
         title: 'Understand your cycle at a glance',
         description: 'Review recorded periods and educational fertility estimates in a clear calendar.',
-        prompt: 'Tap “Log period data” to add a record.',
+        prompt: 'Tap the calendar to continue the tour.',
         image: 'cycle-calendar.png',
         alt: 'BeMama cycle calendar showing recorded and estimated cycle dates',
         tags: ['Cycle calendar', 'Fertile window', 'History'],
-        hotspot: { left: 4, top: 88, width: 92, height: 6 }
+        hotspot: { left: 4, top: 21, width: 92, height: 42 }
       },
       {
         title: 'Keep symptoms and mood private',
@@ -678,7 +607,7 @@ const tourCollections = [
         image: 'symptom-log.png',
         alt: 'BeMama private symptom and mood logging form',
         tags: ['Symptoms', 'Mood', 'Private notes'],
-        hotspot: { left: 8, top: 94, width: 84, height: 5 }
+        hotspot: { left: 5, top: 92, width: 90, height: 6 }
       }
     ]
   },
@@ -694,7 +623,7 @@ const tourCollections = [
         image: 'care-home.png',
         alt: 'BeMama baby care dashboard with trackers and recent care history',
         tags: ['Ten care trackers', 'Care history', 'Synced records'],
-        hotspot: { left: 75, top: 24, width: 23, height: 9 }
+        hotspot: { left: 52, top: 23, width: 43, height: 14 }
       },
       {
         title: 'Log foods visually',
@@ -703,7 +632,7 @@ const tourCollections = [
         image: 'solid-foods.png',
         alt: 'BeMama solid food tracker with a visual food library and selected foods',
         tags: ['Visual food library', 'Fast selection', 'Meal history'],
-        hotspot: { left: 14, top: 95, width: 72, height: 5 }
+        hotspot: { left: 5, top: 89, width: 90, height: 5 }
       },
       {
         title: 'Track growth without spreadsheets',
@@ -712,7 +641,7 @@ const tourCollections = [
         image: 'growth-log.png',
         alt: 'BeMama growth measurement form for weight, height, and head circumference',
         tags: ['Growth records', 'Flexible units', 'Clear measurements'],
-        hotspot: { left: 14, top: 24, width: 72, height: 6 }
+        hotspot: { left: 5, top: 38, width: 90, height: 8 }
       }
     ]
   },
@@ -728,7 +657,7 @@ const tourCollections = [
         image: 'community-home.png',
         alt: 'BeMama Community screen with priority spaces, groups, and conversations',
         tags: ['Groups', 'Saved messages', 'Care spaces'],
-        hotspot: { left: 2, top: 30, width: 96, height: 9 }
+        hotspot: { left: 5, top: 34, width: 90, height: 10 }
       },
       {
         title: 'Ask and learn from other parents',
@@ -737,7 +666,7 @@ const tourCollections = [
         image: 'questions.png',
         alt: 'BeMama Q and A screen with parent questions and answer previews',
         tags: ['Questions and answers', 'Journey filters', 'Community support'],
-        hotspot: { left: 77, top: 89, width: 21, height: 6 }
+        hotspot: { left: 62, top: 92, width: 36, height: 7 }
       },
       {
         title: 'Private support when you need it',
@@ -746,7 +675,7 @@ const tourCollections = [
         image: 'ai-support.png',
         alt: 'BeMama AI-assisted consultation conversation with safety notice',
         tags: ['Clearly labeled AI', 'Private conversation', 'Safety boundaries'],
-        hotspot: { left: 7, top: 91, width: 84, height: 5 }
+        hotspot: { left: 13, top: 94, width: 83, height: 4 }
       }
     ]
   }
@@ -795,10 +724,10 @@ await writeFile(
   path.join(dist, 'assets', 'styles.css'),
   minifyCss(styles)
 );
-for (const script of ['baby-name-data.js','who-weight-reference.js', 'care-tools-core.js','care-organizers-core.js', 'care-tools-visuals.js', 'care-tools-pilot.js','care-organizers.js', 'site-search.js', 'care-tools.js', 'product-tour.js']) {
+for (const script of ['local-calendar.js','baby-name-data.js','who-weight-reference.js', 'care-tools-core.js','care-organizers-core.js', 'care-tools-visuals.js', 'care-tools-pilot.js','care-organizers.js', 'site-search.js', 'care-tools.js', 'product-tour.js']) {
   let source = await readFile(path.join(root, 'public', 'assets', script), 'utf8');
   // Version imported modules from their emitted bytes, just like entry scripts.
-  for (const dependency of ['baby-name-data.js','who-weight-reference.js', 'care-tools-core.js','care-organizers-core.js', 'care-tools-visuals.js', 'care-tools-pilot.js','care-organizers.js']) {
+  for (const dependency of ['local-calendar.js','baby-name-data.js','who-weight-reference.js', 'care-tools-core.js','care-organizers-core.js', 'care-tools-visuals.js', 'care-tools-pilot.js','care-organizers.js']) {
     if (source.includes(`from './${dependency}'`)) source = source.replaceAll(`from './${dependency}'`, `from '${versionedAsset(`/assets/${dependency}`)}'`);
   }
   await writeFile(path.join(dist, 'assets', script), minifyJavaScript(source));
@@ -850,7 +779,7 @@ function renderPage(language, slug) {
   let jsonLd = '';
   let ogType = 'website';
   let ogImage = `${site.origin}/assets/bemama_og.png`;
-  let preloadImage = '/assets/hero-carousel/pregnancy-rest.png';
+  let preloadImage = '/assets/tour/daily-home.png';
 
   if (article) {
     const data = article.i18n[language.code] ?? article.i18n.en;
@@ -874,7 +803,7 @@ function renderPage(language, slug) {
     description = ui.description;
     body = renderProductTour(language);
     jsonLd = renderProductTourJsonLd(language);
-    preloadImage = '/assets/tour/daily-home.png';
+    preloadImage = '/assets/tour/daily-home.webp';
   } else if (slug) {
     const page = t.pages[slug];
     title = `${page.title} | ${site.name}`;
@@ -930,7 +859,7 @@ function renderPage(language, slug) {
     <meta name="twitter:description" content="${escapeHtml(description)}" />
     <meta name="twitter:image" content="${ogImage}" />
     ${jsonLd}
-    ${preloadImage ? renderImagePreload(preloadImage, preloadImage.startsWith('/assets/hero-carousel/') ? heroResponsive : {}) : ''}
+    ${preloadImage ? renderImagePreload(preloadImage, slug === '' ? {widths:[256,320,640],sizes:'(max-width: 980px) 224px, 252px'} : {}) : ''}
     <link rel="stylesheet" href="${versionedAsset('/assets/styles.css')}" />
   </head>
   <body>
@@ -997,7 +926,7 @@ function renderHeader(language, slug) {
   return `<header class="site-header">
   <div class="nav">
     <a class="brand" href="${localizedPath(lang, '')}" aria-label="${escapeHtml(websiteUxCopy(lang).home)}">
-      ${imageMarkup('/assets/bemama_logo_mark.png', site.name, { loading: 'eager', ...brandResponsive })}
+      <img src="${versionedAsset('/assets/bemama_logo_mark_navy.svg')}" alt="${escapeHtml(site.name)}" width="38" height="38" loading="eager" decoding="async" />
       <span>BeMama</span>
     </a>
     <nav class="primary-nav" aria-label="${escapeHtml(t.nav.home)}">
@@ -1058,6 +987,7 @@ function renderSearch(language, variant) {
 
 function renderHome(language) {
   const h = content[language.code].home;
+  const ux = websiteUxCopy(language.code);
   const fallback = content.en.home;
   const ui = tourUiFor(language.code);
   const guideUi = hubText(language.code);
@@ -1068,10 +998,9 @@ function renderHome(language) {
   // set, which search-audit tools correctly report as conflicting pages.
   const tourLink = (area, step) => `${explorePath}#area=${area}${step ? `&step=${step}` : ''}`;
   const mediaCards = [
-    ['app_daily_plan.png', 'icon_daily_action.png', h.phoneTitle, h.phoneText, tourLink('daily')],
-    ['app_qna_support.png', 'icon_ask_question.png', h.qnaTitle, h.qnaText, tourLink('community', 2)],
-    ['app_community.png', 'icon_shield_heart.png', h.aiTitle, h.aiText, tourLink('community', 3)],
-    ['app_child_growth.png', 'icon_ask_ai.png', h.journeys[3], h.growthTourText, tourLink('care')]
+    ['product-hero/pregnancy-daily.png', h.phoneTitle, h.phoneText, tourLink('daily', 2)],
+    ['product-hero/weekly-report.png', h.features[1][0], h.features[1][1], localizedPath(language.code, 'about-bemama/tools')],
+    ['product-hero/questions.png', h.qnaTitle, h.qnaText, tourLink('community', 2)]
   ];
   const featureLinks = ['about-bemama/daily-journey', 'about-bemama/tools', 'tools'].map(slug => localizedPath(language.code, slug));
   const primaryAction = { href: localizedPath(language.code, 'tools'), action: h.freeToolsAction, note: h.freeToolsNote, attributes: 'data-umami-event="public_tools_clicked"' };
@@ -1093,62 +1022,44 @@ function renderHome(language) {
   <section class="hero">
     <div class="hero-inner">
       <div class="hero-main">
+        <svg class="hero-backdrop" viewBox="0 0 1180 590" preserveAspectRatio="none" aria-hidden="true" focusable="false">
+          <path class="hero-backdrop-wash" d="M-40 534C176 572 398 598 489 464C566 352 517 81 656 0H1140Q1180 0 1180 40V554Q1180 590 1144 590H26Q-40 590-40 534Z"/>
+          <path class="hero-backdrop-thread" d="M-94 542C142 603 407 635 513 479C598 354 543 72 669 0"/>
+        </svg>
         <div class="hero-copy-area">
           <span class="eyebrow">${escapeHtml(h.eyebrow)}</span>
-          <h1>${escapeHtml(h.title)}</h1>
-          <p class="hero-copy">${escapeHtml(h.copy)}</p>
+          <h1>${escapeHtml(ux.heroTitle)} <em>${escapeHtml(ux.heroTitleAccent)}</em></h1>
+          <p class="hero-copy">${escapeHtml(ux.heroIntro)}</p>
           <div class="hero-actions">
-            <a class="button" href="${escapeHtml(primaryAction.href)}" ${primaryAction.attributes}>${escapeHtml(primaryAction.action)}</a>
+            <a class="button" href="${explorePath}">${escapeHtml(ui.navLabel)} ${FORWARD_CHEVRON}</a>
+            <a class="button secondary" href="${escapeHtml(primaryAction.href)}" ${primaryAction.attributes}>${escapeHtml(primaryAction.action)}</a>
           </div>
-          <p>${escapeHtml(primaryAction.note)}</p>
+          <p class="hero-tools-note">${escapeHtml(primaryAction.note)}</p>
           <div class="hero-store-links" aria-label="${escapeHtml(websiteUxCopy(language.code).apps)}">
-            <a class="hero-store-link" href="${site.androidAppUrl}" target="_blank" rel="noopener">${platformIcon('android')}<span>${escapeHtml(h.downloadAndroid || h.openAndroid)}</span></a>
-            <a class="hero-store-link" href="${site.iosAppUrl}" target="_blank" rel="noopener">${platformIcon('ios')}<span>${escapeHtml(h.downloadIos || h.openIos)}</span></a>
+            <a class="hero-store-link" href="${site.androidAppUrl}" aria-label="${escapeHtml(h.downloadAndroid || h.openAndroid)}" target="_blank" rel="noopener">${platformIcon('android')}<span class="store-full-label">${escapeHtml(h.downloadAndroid || h.openAndroid)}</span><span class="store-short-label" aria-hidden="true">Google Play</span></a>
+            <a class="hero-store-link" href="${site.iosAppUrl}" aria-label="${escapeHtml(h.downloadIos || h.openIos)}" target="_blank" rel="noopener">${platformIcon('ios')}<span class="store-full-label">${escapeHtml(h.downloadIos || h.openIos)}</span><span class="store-short-label" aria-hidden="true">App Store</span></a>
           </div>
         </div>
-        <div class="hero-visual" aria-hidden="true">
-          <div class="hero-visual-panel">
-            ${heroCarousel(language)}
-          </div>
-        </div>
+        ${renderProductHero(language)}
       </div>
-      <div class="hero-proofbar" aria-label="${escapeHtml(websiteUxCopy(language.code).stages)}">
-        ${proofItem('hero_planning.png', h.journeys[0], h.features[0][0], tourLink('planning'))}
-        ${proofItem('hero_pregnancy.png', h.journeys[1], h.phoneTitle, tourLink('daily'))}
-        ${proofItem('hero_baby.png', h.journeys[2], h.qnaTitle, tourLink('community'))}
-        ${proofItem('hero_child.png', h.journeys[3], language.code === 'en' ? 'Growth records' : h.features[2][0], tourLink('care'))}
-      </div>
-    </div>
-  </section>
-  <section class="section home-tour-promo">
-    <figure class="home-tour-preview device-stage">
-      <div class="tour-device-frame">
-        <span class="device-btn is-volup"></span><span class="device-btn is-voldown"></span><span class="device-btn is-power"></span>
-        <div class="tour-device-screen">
-          ${imageMarkup('/assets/tour/daily-home.png', collections[0].steps[0].alt, { loading: 'lazy', ...homeTourResponsive })}
-        </div>
-      </div>
-      <figcaption class="sr-only">${escapeHtml(collections[0].steps[0].title)}. ${escapeHtml(collections[0].steps[0].description)}</figcaption>
-    </figure>
-    <div class="home-tour-copy">
-      <span class="section-kicker">${escapeHtml(ui.eyebrow)}</span>
-      <h2>${escapeHtml(ui.promoTitle)}</h2>
-      <p>${escapeHtml(ui.promoText)}</p>
-      <div class="tour-area-list" aria-label="${escapeHtml(ui.areasLabel)}">
-        ${collections.map((collection) => `<span>${escapeHtml(collection.label)}</span>`).join('')}
-      </div>
-      <a class="button" href="${localizedPath(language.code, 'explore')}">${escapeHtml(ui.start)}</a>
+      <nav class="hero-stages" aria-label="${escapeHtml(ux.stages)}">
+        <h2>${escapeHtml(ux.stageHeading)}</h2>
+        <div>${['trying-to-conceive','pregnancy','newborn','baby-and-child'].map((slug,index) => `<a class="stage-card stage-card-${index}" href="${localizedPath(language.code,slug)}"><span class="stage-card-top"><span class="stage-character" aria-hidden="true">${imageMarkup(`/assets/${['hero_planning.png','hero_pregnancy.png','hero_baby.png','hero_child.png'][index]}`,'',{widths:[96,128,160,256],sizes:'100px'})}</span><span class="stage-arrow">${FORWARD_CHEVRON}</span></span><strong>${escapeHtml(h.journeys[index])}</strong><span class="stage-description">${escapeHtml([ux.stagePlanning,ux.stagePregnancy,ux.stageBaby,ux.stageChild][index])}</span></a>`).join('')}</div>
+      </nav>
     </div>
   </section>
   <section class="section product-media">
-    <div class="section-header">
-      <span class="section-kicker">${escapeHtml(h.trustCue || fallback.trustCue)}</span>
-      <h2>${escapeHtml(h.mediaTitle || fallback.mediaTitle)}</h2>
-      <p>${escapeHtml(h.mediaText || fallback.mediaText)}</p>
+    <div class="product-intro">
+      <div class="section-header">
+      <h2>${escapeHtml(ui.promoTitle)}</h2>
+      <p>${escapeHtml(ui.promoText)}</p>
+      </div>
+      <a class="button secondary" href="${explorePath}">${escapeHtml(ui.start)} ${FORWARD_CHEVRON}</a>
     </div>
-    <div class="media-grid">
-      ${mediaCards.map(([image, icon, title, text, href]) => mediaCard(image, icon, title, text, href)).join('')}
+    <div class="product-preview-grid">
+      ${mediaCards.map(([image,title,text,href]) => `<a class="product-preview-card" href="${href}"><div class="product-preview-copy"><h3>${escapeHtml(title)}</h3><p>${escapeHtml(text)}</p></div><div class="product-preview-screen">${imageMarkup(`/assets/${image}`,title,{widths:[320,400,640],sizes:'(max-width:700px) 270px, 300px'})}</div></a>`).join('')}
     </div>
+    <p class="hero-preview-note">${escapeHtml(websiteUxCopy(language.code).heroPreview)}</p>
   </section>
   <section class="section home-guides" aria-labelledby="featured-guides-title">
     <div class="section-header">
@@ -1167,9 +1078,9 @@ function renderHome(language) {
       <p>${escapeHtml(h.trustText)}</p>
     </div>
     <div class="trust-grid">
-      ${trustTile('icon_shield_heart.png', content[language.code].nav.privacy, h.trustText, localizedPath(language.code, 'privacy'))}
-      ${trustTile('icon_ask_question.png', content[language.code].nav.ai, h.aiText, localizedPath(language.code, 'ai-disclaimer'))}
-      ${trustTile('icon_daily_action.png', h.reviewSubscription, h.appText, localizedPath(language.code, 'subscription-terms'))}
+      ${trustTile('icon-privacy-navy.svg', content[language.code].nav.privacy, h.trustText, localizedPath(language.code, 'privacy'))}
+      ${trustTile('icon-ai-safety-navy.svg', content[language.code].nav.ai, h.aiText, localizedPath(language.code, 'ai-disclaimer'))}
+      ${trustTile('icon-subscription-navy.svg', h.reviewSubscription, h.appText, localizedPath(language.code, 'subscription-terms'))}
     </div>
     <div class="action-row">
       <a class="button secondary" href="${localizedPath(language.code, 'terms')}">${escapeHtml(content[language.code].nav.terms)}</a>
@@ -1222,7 +1133,7 @@ function renderProductTour(language) {
       ...collection,
       steps: collection.steps.map((step) => ({
         ...step,
-        image: versionedAsset(`/assets/tour/${step.image}`)
+        image: versionedAsset(webpAsset(`/assets/tour/${step.image}`) ?? `/assets/tour/${step.image}`)
       }))
     }))
   }).replaceAll('<', '\\u003c');
@@ -1261,7 +1172,7 @@ function renderProductTour(language) {
             <div class="tour-device-frame">
               <span class="device-btn is-volup"></span><span class="device-btn is-voldown"></span><span class="device-btn is-power"></span>
               <div class="tour-device-screen">
-                <img data-tour-image itemprop="contentUrl" src="${versionedAsset(`/assets/tour/${firstStep.image}`)}" width="498" height="860" alt="${escapeHtml(firstStep.alt)}" loading="eager" decoding="async" fetchpriority="high" aria-describedby="tour-screen-caption" />
+                <img data-tour-image itemprop="contentUrl" src="${versionedAsset(webpAsset(`/assets/tour/${firstStep.image}`) ?? `/assets/tour/${firstStep.image}`)}" width="1290" height="2796" alt="${escapeHtml(firstStep.alt)}" loading="eager" decoding="async" fetchpriority="high" aria-describedby="tour-screen-caption" />
                 <button class="tour-screen-hotspot" type="button" data-tour-hotspot aria-label="${escapeHtml(firstStep.prompt)}"></button>
               </div>
             </div>
@@ -1334,12 +1245,19 @@ function featureMapCard(group) {
   </article>`;
 }
 
-function heroCarousel(language) {
-  const alts = heroCarouselAlts[language.code] ?? heroCarouselAlts.en;
-  return `<div class="hero-carousel">
-    ${imageMarkup('/assets/hero-carousel/pregnancy-rest.png', alts.pregnancyRest, {
-      loading: 'eager', fetchpriority: 'high', ...heroResponsive
-    })}
+function renderProductHero(language) {
+  const copy = websiteUxCopy(language.code);
+  return `<div class="hero-product">
+    <div class="hero-product-stage">
+      <figure class="hero-phone">
+        <div class="hero-phone-screen">
+          ${imageMarkup('/assets/tour/daily-home.png', copy.heroHomeAlt, { loading: 'eager', fetchpriority: 'high', widths:[256,320,640],sizes:'(max-width: 980px) 224px, 252px' })}
+        </div>
+      </figure>
+      <div class="hero-brand-characters" aria-hidden="true">${imageMarkup('/assets/hero_pregnancy.png','',{loading:'eager',widths:[128,160,256],sizes:'(max-width: 700px) 176px, 260px'})}</div>
+      <div class="hero-benefit"><strong>${escapeHtml(copy.heroBenefit)}</strong><small>${escapeHtml(copy.heroBenefitText)}</small></div>
+    </div>
+    <p class="hero-preview-note">${escapeHtml(copy.heroPreview)}</p>
   </div>`;
 }
 
@@ -1920,7 +1838,7 @@ function renderFooter(language) {
     <div class="footer-main">
       <section class="footer-brand-block" aria-label="BeMama">
         <a class="footer-brand" href="${localizedPath(language.code, '')}">
-          ${imageMarkup('/assets/bemama_logo_mark.png', '', { loading: 'lazy' })}
+          <img src="${versionedAsset('/assets/bemama_logo_mark_navy.svg')}" alt="" width="40" height="40" loading="lazy" decoding="async" />
           <strong>BeMama</strong>
         </a>
         <p>${escapeHtml(t.home.copy)}</p>
@@ -1996,7 +1914,7 @@ function featureCard(title, text, href) {
 
 function trustTile(icon, title, text, href) {
   return `<a class="trust-tile" href="${href}">
-    ${imageMarkup(`/assets/${icon}`, title)}
+    ${imageMarkup(`/assets/${icon}`, '')}
     <h3>${escapeHtml(title)}</h3>
     <p>${escapeHtml(text)}</p>
   </a>`;
