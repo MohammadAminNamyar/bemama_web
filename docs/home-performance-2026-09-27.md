@@ -83,3 +83,39 @@ The legacy-JavaScript audit identifies Cloudflare's injected analytics beacon,
 not the site's source scripts. No analytics service was removed or disabled.
 Another production run is needed after deploying this follow-up; local resource
 selection and byte reductions do not establish a new Lighthouse score.
+
+## Rendering containment after the 96-point report
+
+The homepage now uses `content-visibility: auto` on its six sections after the
+hero. Desktop/mobile intrinsic block-size estimates reserve scroll space;
+`auto` remembers each section's actual height after it renders. A 24-pixel
+overflow clip margin preserves card shadows, and print media explicitly renders
+all sections. The hero, typography and article/tool pages keep their existing
+rendering behavior. Content remains in the generated HTML.
+
+Six local Chrome traces (three control, three optimized) used a 412 × 823
+viewport, 1.75 device scale, disabled browser cache, 150 ms latency,
+200,000 bytes/s download and 4× CPU slowdown. The control runs used the same
+homepage with containment disabled. Timing varied, so these are local medians,
+not a new production PageSpeed score:
+
+| Measurement | Control median | Optimized median |
+| --- | ---: | ---: |
+| Total layout time during recorded load | 686 ms | 607 ms |
+| Large layout pass following font completion | 466 ms | 341 ms |
+| Objects marked dirty in that font-related pass (all runs) | 466 | 303 |
+| Initial full layout object count (all runs) | 521 | 254 |
+
+Total layout elapsed times ranged from 667–849 ms in the controls and 427–858 ms
+in the optimized runs. The reduction in initial object counts was consistent;
+individual timing improvements were not. Offscreen work is deferred until needed,
+not eliminated. No claim is made that containment resolves the full render delay
+seen in the remote PageSpeed report.
+
+Validation: all 134 tests passed; 1,442 generated HTML files and 1,435 localized
+routes validated. The seven rendered homepage section heights matched the
+control exactly at 412 px. Desktop, English/Persian mobile scrolling, a deferred
+link, keyboard navigation into a deferred guide and print visibility were checked.
+The English/Persian mobile pages had no horizontal overflow. Font metrics were
+left unchanged; the site's existing CLS was zero, and this experiment isolates
+the offscreen-layout change.

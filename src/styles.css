@@ -759,6 +759,32 @@ html[dir="rtl"] .action-row {
   padding: 66px 0;
 }
 
+/* Keep distant homepage sections out of initial layout and font-swap work.
+   Estimates reserve scroll space; auto remembers the measured size after the
+   section renders. The hero is deliberately outside this containment. */
+.home-page > .section {
+  content-visibility: auto;
+  contain-intrinsic-block-size: auto var(--home-section-height, 600px);
+  overflow-clip-margin: 24px;
+}
+.home-page > .section:nth-child(2) { --home-section-height: 784px; }
+.home-page > .section:nth-child(3) { --home-section-height: 513px; }
+.home-page > .section:nth-child(4) { --home-section-height: 285px; }
+.home-page > .section:nth-child(5) { --home-section-height: 503px; }
+.home-page > .section:nth-child(6) { --home-section-height: 708px; }
+.home-page > .section:nth-child(7) { --home-section-height: 433px; }
+@media (max-width: 700px) {
+  .home-page > .section:nth-child(2) { --home-section-height: 1800px; }
+  .home-page > .section:nth-child(3) { --home-section-height: 1340px; }
+  .home-page > .section:nth-child(4) { --home-section-height: 660px; }
+  .home-page > .section:nth-child(5) { --home-section-height: 1100px; }
+  .home-page > .section:nth-child(6) { --home-section-height: 490px; }
+  .home-page > .section:nth-child(7) { --home-section-height: 935px; }
+}
+@media print {
+  .home-page > .section { content-visibility: visible; contain-intrinsic-block-size: none; }
+}
+
 .section-header {
   max-width: 780px;
   margin-bottom: 24px;

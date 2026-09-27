@@ -1040,7 +1040,7 @@ function renderHome(language) {
       </a>`;
     })
     .join('');
-  return `<main>
+  return `<main class="home-page">
   <section class="hero">
     <div class="hero-inner">
       <div class="hero-main">
