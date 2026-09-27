@@ -719,6 +719,9 @@ await mkdir(dist, { recursive: true });
 await mkdir(path.join(dist, 'assets'), { recursive: true });
 
 await cp(path.join(root, 'public'), dist, { recursive: true });
+const webManifest = JSON.parse(await readFile(path.join(dist, 'site.webmanifest'), 'utf8'));
+webManifest.icons = webManifest.icons.map(icon => ({ ...icon, src: versionedAsset(icon.src) }));
+await writeFile(path.join(dist, 'site.webmanifest'), JSON.stringify(webManifest, null, 2) + '\n');
 const styles = `${await readFile(path.join(root, 'src', 'styles.css'), 'utf8')}\n${await readFile(path.join(root, 'src', 'hub.css'), 'utf8')}\n${await readFile(path.join(root, 'src', 'routine-articles.css'), 'utf8')}`;
 await writeFile(
   path.join(dist, 'assets', 'styles.css'),
@@ -832,14 +835,14 @@ function renderPage(language, slug) {
     <link rel="canonical" href="${canonical}" />
     <link rel="alternate" type="application/rss+xml" title="${escapeHtml(site.name)}: ${escapeHtml(language.label)}" href="${site.origin}/rss-${language.code}.xml" />
     ${renderAlternates(slug)}
-    <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png" />
-    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96.png" />
-    <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png" />
-    <link rel="icon" type="image/png" sizes="512x512" href="/favicon-512.png" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" sizes="any" />
-    <link rel="shortcut icon" href="/favicon.ico" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="icon" type="image/png" sizes="48x48" href="${versionedAsset('/favicon-48.png')}" />
+    <link rel="icon" type="image/png" sizes="96x96" href="${versionedAsset('/favicon-96.png')}" />
+    <link rel="icon" type="image/png" sizes="192x192" href="${versionedAsset('/favicon-192.png')}" />
+    <link rel="icon" type="image/png" sizes="512x512" href="${versionedAsset('/favicon-512.png')}" />
+    <link rel="icon" type="image/svg+xml" href="${versionedAsset('/favicon.svg')}" sizes="any" />
+    <link rel="shortcut icon" href="${versionedAsset('/favicon.ico')}" />
+    <link rel="apple-touch-icon" sizes="180x180" href="${versionedAsset('/apple-touch-icon.png')}" />
+    <link rel="manifest" href="${versionedAsset('/site.webmanifest')}" />
     <meta name="theme-color" content="#1E3A5F" />
     <meta name="apple-itunes-app" content="app-id=6783137312" />
     <meta name="p:domain_verify" content="3029c12ae7152fd75763a05c74436b86" />
@@ -1309,14 +1312,14 @@ function renderNotFoundPage(language) {
          canonical to declare and nothing here should be indexed. "follow" keeps
          the recovery links crawlable. -->
     <meta name="robots" content="noindex, follow" />
-    <link rel="icon" type="image/png" sizes="48x48" href="/favicon-48.png" />
-    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96.png" />
-    <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192.png" />
-    <link rel="icon" type="image/png" sizes="512x512" href="/favicon-512.png" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.svg" sizes="any" />
-    <link rel="shortcut icon" href="/favicon.ico" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
-    <link rel="manifest" href="/site.webmanifest" />
+    <link rel="icon" type="image/png" sizes="48x48" href="${versionedAsset('/favicon-48.png')}" />
+    <link rel="icon" type="image/png" sizes="96x96" href="${versionedAsset('/favicon-96.png')}" />
+    <link rel="icon" type="image/png" sizes="192x192" href="${versionedAsset('/favicon-192.png')}" />
+    <link rel="icon" type="image/png" sizes="512x512" href="${versionedAsset('/favicon-512.png')}" />
+    <link rel="icon" type="image/svg+xml" href="${versionedAsset('/favicon.svg')}" sizes="any" />
+    <link rel="shortcut icon" href="${versionedAsset('/favicon.ico')}" />
+    <link rel="apple-touch-icon" sizes="180x180" href="${versionedAsset('/apple-touch-icon.png')}" />
+    <link rel="manifest" href="${versionedAsset('/site.webmanifest')}" />
     <meta name="theme-color" content="#1E3A5F" />
     <link rel="stylesheet" href="${versionedAsset('/assets/styles.css')}" />
   </head>
@@ -2168,7 +2171,7 @@ function imageSourceMarkup(preferred, dimensionSource, options, type) {
 }
 
 function versionedAsset(src) {
-  if (!src.startsWith('/assets/')) {
+  if (!src.startsWith('/assets/') && !/^\/(?:favicon(?:-[a-z0-9]+)?\.(?:png|svg|ico)|apple-touch-icon\.png|site\.webmanifest)$/.test(src)) {
     return src;
   }
   // Hash the emitted bytes (including minified CSS/JS), not the build clock.

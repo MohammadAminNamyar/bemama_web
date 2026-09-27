@@ -1116,6 +1116,7 @@ html[dir="rtl"] .notice {
   height: 40px;
 }
 .footer-brand img {
+  border: 1px solid rgba(255, 255, 255, 0.2);
   border-radius: 12px;
 }
 .footer-brand-block > p {
