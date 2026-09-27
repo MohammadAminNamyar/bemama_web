@@ -728,14 +728,23 @@ const routineStyles = await readFile(path.join(root, 'src', 'routine-articles.cs
 // Keep the complete homepage styled before first paint, without a CSS network
 // round trip or a JS-dependent stylesheet swap. Tool/organizer and routine
 // article rules are unnecessary here; retain shared navigation overrides.
-const toolStylesStart = hubStyles.indexOf('.tool-layout .article {');
-const sharedOverridesStart = hubStyles.indexOf('/* Practical guides:');
-if (toolStylesStart < 0 || sharedOverridesStart <= toolStylesStart) {
-  throw new Error('Cannot locate the homepage stylesheet boundaries.');
+function cssSection(source, start, end) {
+  const from = start ? source.indexOf(start) : 0;
+  const to = end ? source.indexOf(end, from + 1) : source.length;
+  if (from < 0 || to <= from) throw new Error(`Cannot locate CSS section: ${start} / ${end}`);
+  return source.slice(from, to);
 }
 const versionFontUrls = css => css.replace(/url\("(\/assets\/fonts\/[^"?]+)"\)/g,
   (_, src) => `url("${versionedAsset(src)}")`);
-const homeStyles = minifyCss(versionFontUrls(`${baseStyles}\n${hubStyles.slice(0, toolStylesStart)}\n${hubStyles.slice(sharedOverridesStart)}`));
+const homeStyles = minifyCss(versionFontUrls([
+  cssSection(baseStyles, null, '/* Interactive product tour */'),
+  cssSection(baseStyles, '.nav-top.nav-tour {', '.home-tour-promo {'),
+  cssSection(baseStyles, '@media (prefers-reduced-motion: reduce)'),
+  cssSection(hubStyles, null, '/* --- Breadcrumbs --- */'),
+  cssSection(hubStyles, '.article-grid {', '.category-section-header {'),
+  cssSection(hubStyles, '@media (max-width: 980px) {', '.tool-layout .article {'),
+  cssSection(hubStyles, '.compact-tools-link, .search-toggle-label {', '.article-section[id], .birth-preferences {')
+].join('\n')));
 const styles = versionFontUrls(`${baseStyles}\n${hubStyles}\n${routineStyles}`);
 await writeFile(
   path.join(dist, 'assets', 'styles.css'),
@@ -850,11 +859,6 @@ function renderPage(language, slug) {
     <link rel="alternate" type="application/rss+xml" title="${escapeHtml(site.name)}: ${escapeHtml(language.label)}" href="${site.origin}/rss-${language.code}.xml" />
     ${renderAlternates(slug)}
     <link rel="icon" type="image/png" sizes="48x48" href="${versionedAsset('/favicon-48.png')}" />
-    <link rel="icon" type="image/png" sizes="96x96" href="${versionedAsset('/favicon-96.png')}" />
-    <link rel="icon" type="image/png" sizes="192x192" href="${versionedAsset('/favicon-192.png')}" />
-    <link rel="icon" type="image/png" sizes="512x512" href="${versionedAsset('/favicon-512.png')}" />
-    <link rel="icon" type="image/svg+xml" href="${versionedAsset('/favicon.svg')}" sizes="any" />
-    <link rel="shortcut icon" href="${versionedAsset('/favicon.ico')}" />
     <link rel="apple-touch-icon" sizes="180x180" href="${versionedAsset('/apple-touch-icon.png')}" />
     <link rel="manifest" href="${versionedAsset('/site.webmanifest')}" />
     <meta name="theme-color" content="#1E3A5F" />
@@ -876,8 +880,8 @@ function renderPage(language, slug) {
     <meta name="twitter:description" content="${escapeHtml(description)}" />
     <meta name="twitter:image" content="${ogImage}" />
     ${jsonLd}
-    ${preloadImage ? renderImagePreload(preloadImage, slug === '' ? {widths:[256,320,640],sizes:'(max-width: 980px) 224px, 252px'} : {}) : ''}
-    ${language.dir === 'rtl' ? '' : `<link rel="preload" href="${versionedAsset('/assets/fonts/Manrope-Variable.woff2')}" as="font" type="font/woff2" crossorigin />`}
+    ${preloadImage ? renderImagePreload(preloadImage, slug === '' ? {widths:[256,320,400,480,640],sizes:'(max-width: 980px) 224px, 252px'} : {}) : ''}
+    ${language.dir === 'rtl' ? '' : `<link rel="preload" href="${versionedAsset('/assets/fonts/Manrope-Latin-Variable.woff2')}" as="font" type="font/woff2" crossorigin />`}
     ${slug === '' ? `<style id="home-styles">${homeStyles}</style>` : `<link rel="stylesheet" href="${versionedAsset('/assets/styles.css')}" />`}
   </head>
   <body>
@@ -1062,7 +1066,7 @@ function renderHome(language) {
       </div>
       <nav class="hero-stages" aria-label="${escapeHtml(ux.stages)}">
         <h2>${escapeHtml(ux.stageHeading)}</h2>
-        <div>${['trying-to-conceive','pregnancy','newborn','baby-and-child'].map((slug,index) => `<a class="stage-card stage-card-${index}" href="${localizedPath(language.code,slug)}"><span class="stage-card-top"><span class="stage-character" aria-hidden="true">${imageMarkup(`/assets/${['hero_planning.png','hero_pregnancy.png','hero_baby.png','hero_child.png'][index]}`,'',{widths:[96,128,160,256],sizes:'100px'})}</span><span class="stage-arrow">${FORWARD_CHEVRON}</span></span><strong>${escapeHtml(h.journeys[index])}</strong><span class="stage-description">${escapeHtml([ux.stagePlanning,ux.stagePregnancy,ux.stageBaby,ux.stageChild][index])}</span></a>`).join('')}</div>
+        <div>${['trying-to-conceive','pregnancy','newborn','baby-and-child'].map((slug,index) => `<a class="stage-card stage-card-${index}" href="${localizedPath(language.code,slug)}"><span class="stage-card-top"><span class="stage-character" aria-hidden="true">${imageMarkup(`/assets/${['hero_planning.png','hero_pregnancy.png','hero_baby.png','hero_child.png'][index]}`,'',{widths:[96,128,160,200,256],sizes:'(max-width: 700px) 90px, 100px'})}</span><span class="stage-arrow">${FORWARD_CHEVRON}</span></span><strong>${escapeHtml(h.journeys[index])}</strong><span class="stage-description">${escapeHtml([ux.stagePlanning,ux.stagePregnancy,ux.stageBaby,ux.stageChild][index])}</span></a>`).join('')}</div>
       </nav>
     </div>
   </section>
@@ -1075,7 +1079,7 @@ function renderHome(language) {
       <a class="button secondary" href="${explorePath}">${escapeHtml(ui.start)} ${FORWARD_CHEVRON}</a>
     </div>
     <div class="product-preview-grid">
-      ${mediaCards.map(([image,title,text,href]) => `<a class="product-preview-card" href="${href}"><div class="product-preview-copy"><h3>${escapeHtml(title)}</h3><p>${escapeHtml(text)}</p></div><div class="product-preview-screen">${imageMarkup(`/assets/${image}`,title,{widths:[320,400,640],sizes:'(max-width:700px) 270px, 300px'})}</div></a>`).join('')}
+      ${mediaCards.map(([image,title,text,href]) => `<a class="product-preview-card" href="${href}"><div class="product-preview-copy"><h3>${escapeHtml(title)}</h3><p>${escapeHtml(text)}</p></div><div class="product-preview-screen">${imageMarkup(`/assets/${image}`,title,{widths:[320,400,480,560,640],sizes:'(max-width: 700px) min(calc(100vw - 76px), 298px), 298px',fetchpriority:'low'})}</div></a>`).join('')}
     </div>
     <p class="hero-preview-note">${escapeHtml(websiteUxCopy(language.code).heroPreview)}</p>
   </section>
@@ -1269,7 +1273,7 @@ function renderProductHero(language) {
     <div class="hero-product-stage">
       <figure class="hero-phone">
         <div class="hero-phone-screen">
-          ${imageMarkup('/assets/tour/daily-home.png', copy.heroHomeAlt, { loading: 'eager', fetchpriority: 'high', widths:[256,320,640],sizes:'(max-width: 980px) 224px, 252px' })}
+          ${imageMarkup('/assets/tour/daily-home.png', copy.heroHomeAlt, { loading: 'eager', fetchpriority: 'high', widths:[256,320,400,480,640],sizes:'(max-width: 980px) 224px, 252px' })}
         </div>
       </figure>
       <div class="hero-brand-characters" aria-hidden="true">${imageMarkup('/assets/hero_pregnancy.png','',{loading:'eager',widths:[128,160,256,320,480],sizes:'(max-width: 700px) min(42vw, 200px), (max-width: 980px) 200px, 270px'})}</div>
@@ -1328,11 +1332,6 @@ function renderNotFoundPage(language) {
          the recovery links crawlable. -->
     <meta name="robots" content="noindex, follow" />
     <link rel="icon" type="image/png" sizes="48x48" href="${versionedAsset('/favicon-48.png')}" />
-    <link rel="icon" type="image/png" sizes="96x96" href="${versionedAsset('/favicon-96.png')}" />
-    <link rel="icon" type="image/png" sizes="192x192" href="${versionedAsset('/favicon-192.png')}" />
-    <link rel="icon" type="image/png" sizes="512x512" href="${versionedAsset('/favicon-512.png')}" />
-    <link rel="icon" type="image/svg+xml" href="${versionedAsset('/favicon.svg')}" sizes="any" />
-    <link rel="shortcut icon" href="${versionedAsset('/favicon.ico')}" />
     <link rel="apple-touch-icon" sizes="180x180" href="${versionedAsset('/apple-touch-icon.png')}" />
     <link rel="manifest" href="${versionedAsset('/site.webmanifest')}" />
     <meta name="theme-color" content="#1E3A5F" />

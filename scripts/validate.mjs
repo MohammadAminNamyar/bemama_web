@@ -139,6 +139,13 @@ if (homeHtml.includes('<link rel="stylesheet"') || homeStyles.includes('.organiz
 if (homeHtml.includes('rel="preload" as="style"') || homeHtml.includes("this.rel='stylesheet'")) {
   throw new Error('Homepage must not use the flash-of-unstyled-content stylesheet preload pattern.');
 }
+if (Buffer.byteLength(homeStyles) > 50000 || homeStyles.includes('.tour-workspace')) {
+  throw new Error('Homepage CSS must stay within its 50 KB budget and exclude the interactive tour.');
+}
+const heroPreload = homeHtml.match(/<link rel="preload" as="image"[^>]+>/)?.[0] ?? '';
+if (!heroPreload.includes('daily-home-400.avif') || !homeHtml.includes('Manrope-Latin-Variable.woff2')) {
+  throw new Error('Homepage must preload its right-sized hero candidates and smaller Latin font.');
+}
 if (homeHtml.includes('/assets/care-tools.js')) {
   throw new Error('Homepage must not load the tool-only JavaScript bundle.');
 }

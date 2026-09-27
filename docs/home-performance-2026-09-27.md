@@ -51,3 +51,35 @@ WOFF2 was generated with FontTools (`TTFont`, `flavor = 'woff2'`). AVIFs were
 generated from original JPG/PNG sources with Sharp at quality 55, effort 5;
 responsive WebP variants use quality 82. All generated assets are committed, so
 the normal site build requires neither image nor font conversion dependencies.
+
+## Follow-up to the 95-point production report
+
+Chrome report: https://pagespeed.web.dev/analysis/https-bemamas-com/30g8ed2pg0?hl=en&form_factor=mobile
+
+The deployed first pass measured FCP 1.7 s, LCP 2.3 s, TBT 0 ms, CLS 0 and
+Speed Index 4.2 s. Its hero had 1.8 s of element render delay. Cache purging had
+already been performed; the live page contained the new inline CSS/font URLs.
+
+The follow-up fixes an omitted 400-pixel responsive candidate: the 224 CSS-pixel
+hero at Lighthouse's 1.75x density previously jumped from 320 to 640 pixels.
+Both preload and picture now include 400 and 480 pixels. The observed Chrome
+selection is 400 pixels (25,689 B) instead of 640 (45,741 B). Product previews
+also gain 480/560-pixel candidates and low fetch priority, while stage characters
+use accurate 90/100-pixel sizing, AVIF and a new 200-pixel intermediate variant.
+
+The homepage CSS is further reduced from about 70 KB to 40 KB by retaining
+only the shared header/footer, homepage, article-card, breakpoint and motion
+sections in their original cascade order. A 470-element mobile comparison found
+no computed-style or dimension differences (scroll position was excluded).
+
+Manrope now prefers a 36,772-byte Latin-and-symbol subset; the complete font
+remains available for other scripts. Common arrow/math symbols are included to
+avoid fetching both font files. All original variable weights are preserved.
+The page uses a single 48-pixel PNG favicon declaration; install/touch icons are
+unchanged, and the legacy ICO retains 16/32/48-pixel frames at 5,943 bytes instead
+of 50,952 bytes. This avoids requesting redundant large tab-icon formats.
+
+The legacy-JavaScript audit identifies Cloudflare's injected analytics beacon,
+not the site's source scripts. No analytics service was removed or disabled.
+Another production run is needed after deploying this follow-up; local resource
+selection and byte reductions do not establish a new Lighthouse score.
