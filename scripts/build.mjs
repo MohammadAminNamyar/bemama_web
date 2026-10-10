@@ -77,6 +77,11 @@ const CATEGORY_FEATURED_SLUGS = {
 // ordered matchers put every non-featured article in exactly one group; the
 // final matcher in each category is deliberately the catch-all.
 const CATEGORY_TOPIC_RULES = {
+  'family-health': [
+    { label: 'healthSafetySupport', match: /(cancer|lymphoma|leukemia|melanoma|myeloma)/ },
+    { label: 'planningAndTools', match: /(test|scan|surgery|repair|hysterectomy|biopsy|procedure)/ },
+    { label: 'everydayGuidance' }
+  ],
   ttc: [
     { label: 'timelinesAndMilestones', match: /(menstrual|ovulation|fertile-window|basal-body|cervical|early-pregnancy|pregnancy-test|implantation|luteal-phase|cycle-planning)/ },
     { label: 'planningAndTools', match: /(preparing-for-pregnancy|preconception|folic|prenatal|nutrition|caffeine|birth-control)/ },
@@ -714,6 +719,9 @@ const assetVersions = new Map();
 const transparentPixel = 'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7';
 const imageSizeCache = new Map();
 
+const feedsOnly = process.argv.includes('--feeds-only');
+let homeStyles;
+if (!feedsOnly) {
 await rm(dist, { recursive: true, force: true, maxRetries: 5, retryDelay: 200 });
 await mkdir(dist, { recursive: true });
 await mkdir(path.join(dist, 'assets'), { recursive: true });
@@ -736,7 +744,7 @@ function cssSection(source, start, end) {
 }
 const versionFontUrls = css => css.replace(/url\("(\/assets\/fonts\/[^"?]+)"\)/g,
   (_, src) => `url("${versionedAsset(src)}")`);
-const homeStyles = minifyCss(versionFontUrls([
+homeStyles = minifyCss(versionFontUrls([
   cssSection(baseStyles, null, '/* Interactive product tour */'),
   cssSection(baseStyles, '.nav-top.nav-tour {', '.home-tour-promo {'),
   cssSection(baseStyles, '@media (prefers-reduced-motion: reduce)'),
@@ -759,14 +767,19 @@ for (const script of ['local-calendar.js','baby-name-data.js','who-weight-refere
   await writeFile(path.join(dist, 'assets', script), minifyJavaScript(source));
 }
 
-for (const language of languages) {
-  for (const slug of allSlugs) {
+// Each route has its own file. Keep filesystem writes bounded and concurrent
+// so a large multilingual library does not wait on every mkdir/write in turn.
+const pageJobs = languages.flatMap(language => allSlugs.map(slug => ({ language, slug })));
+let nextPageJob = 0;
+await Promise.all(Array.from({ length: 8 }, async () => {
+  while (nextPageJob < pageJobs.length) {
+    const { language, slug } = pageJobs[nextPageJob++];
     const html = renderPage(language, slug).replace(/[ \t]+$/gm, '');
     const directory = outputDirectory(language.code, slug);
     await mkdir(directory, { recursive: true });
     await writeFile(path.join(directory, 'index.html'), html);
   }
-}
+}));
 
 for (const language of languages) {
   const html = renderNotFoundPage(language).replace(/[ \t]+$/gm, '');
@@ -786,6 +799,9 @@ for (const language of languages) {
   await writeFile(path.join(dist, `sitemap-${language.code}.xml`), renderLocaleSitemap(language));
 }
 await writeFile(path.join(dist, 'sitemap.xml'), renderSitemapIndex());
+} else if (!existsSync(dist)) {
+  throw new Error('Build the full website before refreshing only its feeds.');
+}
 for (const language of languages) {
   const feed = renderLocaleFeed(language);
   await writeFile(path.join(dist, `rss-${language.code}.xml`), feed);
@@ -880,7 +896,7 @@ function renderPage(language, slug) {
     <meta name="twitter:description" content="${escapeHtml(description)}" />
     <meta name="twitter:image" content="${ogImage}" />
     ${jsonLd}
-    ${preloadImage ? renderImagePreload(preloadImage, slug === '' ? {widths:[256,320,400,480,640],sizes:'(max-width: 980px) 224px, 252px'} : {}) : ''}
+    ${preloadImage ? renderImagePreload(preloadImage, slug === '' ? {widths:[256,320,400,480,640],sizes:'(max-width: 980px) 224px, 252px'} : category?.heroResponsive ?? {}) : ''}
     ${language.dir === 'rtl' ? '' : `<link rel="preload" href="${versionedAsset('/assets/fonts/Manrope-Latin-Variable.woff2')}" as="font" type="font/woff2" crossorigin />`}
     ${slug === '' ? `<style id="home-styles">${homeStyles}</style>` : `<link rel="stylesheet" href="${versionedAsset('/assets/styles.css')}" />`}
   </head>
@@ -1496,7 +1512,7 @@ function renderArticle(language, slug, article, data) {
       ${section.table ? `<div class="guide-table-wrap" role="region" aria-label="${escapeHtml(section.heading)}" tabindex="0"><table class="guide-table"><caption>${escapeHtml(section.table.caption || section.heading)}</caption><thead><tr>${section.table.headers.map(h => `<th scope="col">${escapeHtml(h)}</th>`).join('')}</tr></thead><tbody>${section.table.rows.map(row => `<tr>${row.map((cell, i) => i === 0 ? `<th scope="row">${escapeHtml(cell)}</th>` : `<td>${escapeHtml(cell)}</td>`).join('')}</tr>`).join('')}</tbody></table></div>` : ''}
       ${section.links ? `<ul class="guide-links">${section.links.map(link => `<li><a href="${escapeHtml(link.url)}">${escapeHtml(link.label)}</a></li>`).join('')}</ul>` : ''}
       ${section.visual ? renderRoutineVisual(section.visual, lang) : ''}
-    </section>${index === 0 ? `<figure class="article-hero">${imageMarkup(`/assets/${article.hero}`, data.title, { loading: 'lazy' })}</figure>` : ''}`
+    </section>${index === 0 ? `<figure class="article-hero">${imageMarkup(`/assets/${article.hero}`, article.heroAlt?.[lang] ?? data.title, { ...article.heroResponsive, loading: 'lazy' })}</figure>` : ''}`
     )
     .join('');
   const takeaways =
@@ -1513,7 +1529,7 @@ function renderArticle(language, slug, article, data) {
     ? `<section class="related"><h2>${escapeHtml(strings.related)}</h2><div class="related-grid">${related
         .map((item) => {
           const rd = item.i18n[lang] ?? item.i18n.en;
-          return `<a class="related-card" href="${localizedPath(lang, item.slug)}">${imageMarkup(`/assets/${item.hero}`, rd.title)}<span>${escapeHtml(rd.title)}</span></a>`;
+          return `<a class="related-card" href="${localizedPath(lang, item.slug)}">${imageMarkup(`/assets/${item.hero}`, item.heroAlt?.[lang] ?? rd.title, item.heroResponsive ? { widths: [160, 320, 480], sizes: '(max-width: 620px) calc(100vw - 48px), 224px' } : {})}<span>${escapeHtml(rd.title)}</span></a>`;
         })
         .join('')}</div></section>`
     : '';
@@ -1650,7 +1666,7 @@ function renderCategory(language, slug, category) {
   const renderTopicLink = (article) => {
     const data = article.i18n[lang] ?? article.i18n.en;
     return `<a class="topic-guide-link" href="${localizedPath(lang, article.slug)}">
-      <span class="topic-guide-thumb" aria-hidden="true">${imageMarkup(`/assets/${article.hero}`, '', { loading: 'lazy' })}</span>
+      <span class="topic-guide-thumb" aria-hidden="true">${imageMarkup(`/assets/${article.hero}`, '', { loading: 'lazy', ...(article.heroResponsive ? { widths: [160, 320], sizes: '(max-width: 700px) 68px, 78px' } : {}) })}</span>
       <span class="topic-guide-copy">
         <h4>${escapeHtml(data.title)}</h4>
         <span class="topic-guide-excerpt">${escapeHtml(data.description)}</span>
@@ -1694,14 +1710,14 @@ function renderCategory(language, slug, category) {
       <h1>${escapeHtml(pick(category.title, lang))}</h1>
       <p>${escapeHtml(pick(category.blurb, lang))}</p>
     </div>
-    <figure class="category-hero-media">${imageMarkup(`/assets/${category.hero}`, pick(category.title, lang), { loading: 'eager', fetchpriority: 'high' })}</figure>
+    <figure class="category-hero-media">${imageMarkup(`/assets/${category.hero}`, category.heroAlt?.[lang] ?? pick(category.title, lang), { ...category.heroResponsive, loading: 'eager', fetchpriority: 'high' })}</figure>
   </section>
-  <section class="section category-featured" aria-labelledby="category-featured-title">
+  ${featuredCards ? `<section class="section category-featured" aria-labelledby="category-featured-title">
     <div class="category-section-header">
       <h2 id="category-featured-title">${escapeHtml(strings.featuredInCategory)}</h2>
     </div>
     <div class="article-grid">${featuredCards}</div>
-  </section>
+  </section>` : ''}
   <section class="section category-topics" aria-labelledby="category-topics-title">
     <div class="category-section-header">
       <h2 id="category-topics-title">${escapeHtml(strings.browseByTopic)}</h2>
@@ -2199,6 +2215,9 @@ function versionedAsset(src) {
 }
 
 function webpAsset(src) {
+  if (/\.webp$/i.test(src)) {
+    return assetExists(src) ? src : undefined;
+  }
   if (!/\.(png|jpe?g)$/i.test(src)) {
     return undefined;
   }
@@ -2657,7 +2676,8 @@ ${entries.join('\n')}
 // feed readers consume these; dates are pinned to 12:00 UTC so the feed only
 // changes when content does, not on every rebuild.
 function feedDate(updated) {
-  const parsed = new Date(`${updated} 12:00:00 UTC`);
+  const parsed = new Date(/^\d{4}-\d{2}-\d{2}$/.test(updated)
+    ? `${updated}T12:00:00Z` : `${updated} 12:00:00 UTC`);
   return Number.isNaN(parsed.getTime()) ? null : parsed;
 }
 
@@ -2667,7 +2687,8 @@ function renderLocaleFeed(language) {
   const homeUrl = `${site.origin}${localizedPath(lang, '')}`;
   const dated = articles
     .filter(article => !article.catalogHidden)
-    .map((article) => ({ article, date: feedDate(article.updated) }))
+    .map((article) => ({ article, date: feedDate(article.updated
+      ?? articleDates(article, lang, evidenceForArticle(article.slug, lang)).modifiedIso) }))
     .filter((entry) => entry.date !== null)
     .sort((a, b) => b.date - a.date);
   const newest = dated[0]?.date ?? new Date('2026-07-01T12:00:00Z');

@@ -1,0 +1,822 @@
+{
+  "family-health/osteoarthritis-diagnosis-and-care": {
+    "description": "Osteoartritte tanının nasıl konduğunu ve ekleme göre egzersiz, destekler ve ilaçların bakım planına nasıl katkıda bulunabileceğini öğrenin."
+  },
+  "family-health/understanding-osteoarthritis-symptoms": {
+    "title": "Osteoartrit: erken belirtiler ve tedavi seçenekleri",
+    "description": "Osteoartritin eklemleri nasıl değiştirdiğini, belirtilerle görüntülerin neden farklı olabildiğini ve hareketi destekleyen tedavileri keşfedin."
+  },
+  "family-health/clitoral-size-and-orgasm-concerns": {
+    "description": "Klitoris anatomisini ve orgazmı etkileyen etkenleri tanıyın; ağrı, kalıcı güçlük veya büyüklük değişiminde ne zaman değerlendirme gerektiğini öğrenin."
+  },
+  "pregnancy/interpreting-thyroid-tests-during-pregnancy": {
+    "description": "Gebelikte TSH ve T4 testlerinin neyi ölçtüğünü, referans aralıklarının neden değiştiğini ve sonuçların belirtilerle nasıl değerlendirildiğini öğrenin."
+  },
+  "family-health/recognizing-thyroid-storm": {
+    "description": "Ateş, çok hızlı kalp atımı ve bilinç bulanıklığı tiroid aciline işaret edebilir. Bu ağır belirtilerde neden hemen yardım gerektiğini öğrenin."
+  },
+  "family-health/abdominal-pain-and-loss-of-appetite": {
+    "description": "Karın ağrısı ve iştah kaybının olası nedenlerini, evde bakımın sınırlarını ve hangi belirtilerin acil değerlendirme gerektirdiğini öğrenin."
+  },
+  "family-health/pain-in-the-lower-left-abdomen": {
+    "description": "Sol alt karın ağrısının bağırsak, idrar yolu ve üreme sistemiyle ilgili olası nedenlerini ve ne zaman acil değerlendirme gerektiğini öğrenin."
+  },
+  "family-health/colon-cancer-tests-and-treatment": {
+    "description": "Kolon kanserinde dışkı testleri ve kolonoskopinin rolünü, tedavi seçeneklerini ve sağkalım istatistiklerinin yorumlanmasındaki sınırları öğrenin."
+  },
+  "family-health/rectal-cancer-diagnosis-and-care": {
+    "description": "Rektum kanserinin belirtilerini, tanı ve evreleme testlerini ve tedavi seçeneklerini tanıyın; sağkalım rakamlarının sınırlarını anlayın."
+  },
+  "family-health/medullary-thyroid-cancer": {
+    "description": "Medüller tiroid kanserinin belirtilerini ve bu nadir türde tanı testleri, genetik değerlendirme ve tedavinin neden özel planlandığını öğrenin."
+  },
+  "family-health/how-leukemia-is-diagnosed": {
+    "description": "Kan ve kemik iliği testlerinin lösemi tanısına katkısını ve hastalık türünün tedaviyi nasıl değiştirdiğini öğrenin; sağkalımı kişisel tahmin saymayın."
+  },
+  "family-health/non-hodgkin-lymphoma": {
+    "description": "Hodgkin dışı lenfoma farklı kanserleri kapsar. Alt tipin nasıl belirlendiğini ve tanının tedavi seçenekleri açısından neden önemli olduğunu öğrenin."
+  },
+  "family-health/hysterectomy-recovery-and-risks": {
+    "description": "Histerektomi sonrası iyileşmeyi ve kalıcı değişiklikleri anlayın; menopoz, sarkma, cinsellik ve takip hakkında sorulabilecek soruları hazırlayın."
+  },
+  "family-health/clitoral-hood-anatomy-and-concerns": {
+    "description": "Klitoris başlığının normal farklılıklarını, rahatsızlığın ne zaman değerlendirilmesi gerektiğini ve estetik girişim iddialarının sınırlarını öğrenin.",
+    "title": "Klitoris başlığı: anatomi, rahatsızlık ve cerrahi"
+  },
+  "family-health/weight-changes-after-hysterectomy": {
+    "description": "Histerektomi sonrası kilo değişiminde iyileşme, iştah, hareket ve yumurtalık ameliyatının rolünü anlayın; araştırma sonuçlarını bağlamında değerlendirin."
+  },
+  "family-health/hair-shedding-in-the-shower": {
+    "description": "Saç döngüsünü ve yıkama günlerindeki dökülmeyi anlayın; nazik bakımın yanında hangi saç derisi belirtilerinin değerlendirme gerektirdiğini öğrenin.",
+    "title": "Duşta saç dökülmesi: bakım ve yardım zamanı"
+  },
+  "newborn/constipation-while-breastfeeding": {
+    "description": "Doğum sonrası kabızlık için rahatlama ve laksatif seçeneklerini, emzirme önlemlerini ve hangi belirtilerde gecikmeden yardım gerektiğini öğrenin.",
+    "title": "Emzirirken kabızlık: rahatlama ve laksatifler"
+  },
+  "pregnancy/do-babies-sleep-in-the-womb": {
+    "description": "Fetal uyku araştırmalarını ve rüyalar hakkındaki belirsizliği keşfedin; bebeğin hareketleri değiştiğinde neden hemen danışmanız gerektiğini öğrenin."
+  },
+  "family-health/unexpected-vaginal-bleeding": {
+    "description": "Beklenmedik vajinal kanamanın doğum kontrolü, enfeksiyon veya gebelikle ilişkisini ve hangi değişikliklerin değerlendirme gerektirdiğini öğrenin."
+  },
+  "family-health/breast-pain-and-when-to-seek-care": {
+    "description": "Döngü, kist veya emzirmeyle ilişkili meme ağrısını tanıyın; rahatlama seçeneklerini ve hangi değişikliklerin tıbbi değerlendirme gerektirdiğini öğrenin."
+  },
+  "family-health/pelvic-floor-exercises-for-men": {
+    "title": "Erkekler için pelvik taban egzersizlerine başlamak",
+    "description": "Erkeklerde pelvik taban egzersizlerinin ne zaman yardımcı olabileceğini öğrenin; doğru kasılma ve tam gevşeme güçlü sıkmaktan daha önemlidir."
+  },
+  "newborn/when-baby-is-not-gaining-weight": {
+    "description": "Bebeğin erken kilo kaybını ve yavaş kilo alımının nedenlerini anlayın; beslenme ve büyümenin güvenli, kişiye özel değerlendirmesini planlayın."
+  },
+  "family-health/understanding-ovarian-cancer-stages": {
+    "title": "Yumurtalık kanseri: evreler ve sağkalım istatistikleri",
+    "description": "Yumurtalık kanserinde FIGO evrelerini ve sağkalım verilerinin sınırlarını anlayın; evreleme görüşmesine yararlı sorularla hazırlanmayı öğrenin."
+  },
+  "pregnancy/watermelon-seeds-as-a-pregnancy-snack": {
+    "description": "Yenilebilir karpuz çekirdeklerinin gebelikte beslenmeye nasıl katılabileceğini, kanıtlanmamış yarar iddialarını ve tüketim önlemlerini öğrenin."
+  },
+  "family-health/cervical-cone-biopsy-and-recovery": {
+    "description": "Rahim ağzı koni biyopsisinin hazırlığını ve iyileşmesini anlayın; sonuçların takip ve gelecekteki gebelik bakımını nasıl yönlendirdiğini öğrenin."
+  },
+  "family-health/urethral-stricture-symptoms-and-treatment": {
+    "description": "Yara dokusunun üretrayı nasıl daralttığını, testlerin neyi gösterdiğini ve genişletme, rekonstrüksiyon ile drenajın nasıl farklı olduğunu öğrenin."
+  },
+  "family-health/trichomoniasis-symptoms-tests-and-partner-care": {
+    "description": "Trikomoniyazın nasıl bulaştığını ve neden belirtisiz olabildiğini öğrenin; test, tedavi, gebelik önerileri ve partner bakımını birlikte değerlendirin."
+  },
+  "family-health/colorless-urine-and-excessive-thirst": {
+    "title": "Renksiz idrar: sıvı dengesi ve aşırı susama",
+    "description": "İdrarın neden renksiz olabileceğini, sıvı ve ilaçların etkisini ve aşırı susama veya diğer belirtilerde ne zaman değerlendirme gerektiğini öğrenin."
+  },
+  "family-health/fibroids-home-care-and-treatment-evidence": {
+    "description": "Miyomlarda gerçekçi ev bakımını, diyet ve bitki iddialarının sınırlarını ve kanama veya baskı yaşamı etkilediğinde tıbbi seçenekleri öğrenin.",
+    "title": "Miyomlar: evde bakım ve tedavi kanıtları"
+  },
+  "newborn/noticing-jaundice-and-getting-bilirubin-checked": {
+    "description": "Yenidoğanda sarı cildi gözlemenin sınırlarını ve bilirubin testlerinin farklarını anlayın; hangi belirtilerin acil yardım gerektirdiğini öğrenin."
+  },
+  "pregnancy/can-an-anembryonic-pregnancy-be-misdiagnosed": {
+    "title": "Boş gebelik kesesi: tanıyı doğrulamak neden önemlidir?",
+    "description": "Erken ultrasonda boş görünen kesenin neden yeniden değerlendirilmesi gerekebildiğini ve belirtilerle takip testlerinin bakımı nasıl yönlendirdiğini öğrenin."
+  },
+  "pregnancy/ovarian-cancer-during-pregnancy": {
+    "description": "Gebelikte yumurtalık kanseri şüphesi veya tanısında test, tedavi zamanı, bebek beslenmesi ve gelecekteki doğurganlığın nasıl planlandığını öğrenin."
+  },
+  "family-health/overactive-bladder-in-men": {
+    "description": "Erkeklerde ani idrar sıkışmasını kaçırma ve tam boşaltamamadan ayırın; prostatın olası katkısını, değerlendirmeyi ve tedavileri öğrenin."
+  },
+  "family-health/shy-bladder-paruresis": {
+    "title": "Çekingen mesane: başkalarının yanında idrar yapma güçlüğü",
+    "description": "Parürezisi ve değerlendirme seçeneklerini tanıyın; idrar yapmayı zorlamadan güven kazanmayı destekleyen tedavi yaklaşımlarını öğrenin."
+  },
+  "family-health/difficulty-starting-urination": {
+    "description": "İdrara başlama güçlüğünün nedenlerini ve boşalmayı değerlendiren testleri öğrenin; aniden idrar yapamamak neden acil bakım gerektirir, anlayın."
+  },
+  "family-health/anal-sex-orgasm-and-health-considerations": {
+    "description": "Anal sekste yetişkin tepkileri farklıdır. Haz iddialarının sınırlarını, rızanın önemini ve yaralanma ile enfeksiyon riskini azaltmayı öğrenin."
+  },
+  "pregnancy/strong-smelling-urine-and-when-to-check": {
+    "title": "Keskin kokulu idrar: nedenler ve gebelikte önlemler",
+    "description": "Yiyecek, sıvı, ilaç veya enfeksiyonun idrar kokusuna etkisini ve özellikle gebelikte hangi belirtilerin hızlı değerlendirme gerektirdiğini öğrenin."
+  },
+  "pregnancy/can-cravings-predict-a-babys-sex": {
+    "title": "Aşermeler bebeğin cinsiyetini tahmin edebilir mi?",
+    "description": "Gebelikte aşermeler bebeğin cinsiyetini güvenilir biçimde göstermez. Bu inanışların sınırlarını ve beslenme güvenliğine nasıl odaklanılacağını öğrenin."
+  },
+  "pregnancy/small-measurements-and-fetal-growth-restriction": {
+    "title": "Küçük ölçülen bebek: tarihleme ve büyüme değerlendirmesi",
+    "description": "Tek bir küçük fetal ölçüm nedeni açıklamaz. Gebelik tarihlemesi, büyüme eğilimleri ve plasenta değerlendirmesinin takibi nasıl yönlendirdiğini öğrenin."
+  },
+  "trying-to-conceive/can-home-methods-help-you-conceive-a-girl": {
+    "description": "Kız çocuk için yiyecek, bitki ve zamanlama iddialarının kanıt sınırlarını öğrenin; vajinal duşun neden gebelik hazırlığına uygun olmadığını anlayın."
+  },
+  "trying-to-conceive/can-traditional-methods-help-you-conceive-a-boy": {
+    "description": "Erkek bebek için pazarlanan yiyecek, zamanlama ve pozisyon iddialarını inceleyin; gebeliğe hazırlanırken daha güvenli adımları öğrenin."
+  },
+  "newborn/care-after-the-umbilical-cord-falls-off": {
+    "description": "Göbek bağı düştükten sonra iyileşen göbeği nasıl koruyacağınızı, az kanın anlamını ve hangi yenidoğan belirtilerinde hızlı yardım gerektiğini öğrenin."
+  },
+  "family-health/testicular-injury-and-urgent-symptoms": {
+    "description": "Testis yaralanmasında yüzeysel morluğu derin hasardan ayırmayı öğrenin; torsiyon veya yırtılma şüphesinin neden acil bakım gerektirdiğini anlayın."
+  },
+  "family-health/omicron-symptoms-and-outdated-comparisons": {
+    "title": "Omicron belirtileri: eski karşılaştırmaların sınırları",
+    "description": "Nezle benzeri belirtiler COVID-19 varyantını belirlemez veya hafif hastalığı garanti etmez. Testlerin ve kişisel riskin neden önemli olduğunu öğrenin."
+  },
+  "newborn/slim-baby-or-growth-concern": {
+    "title": "İnce yapılı bebek mi, büyüme sorunu mu?",
+    "description": "Büyüme eğrileri, beslenme ve doğum öyküsünün doğal olarak küçük bir bebekle büyüme desteği gereken bebeği ayırt etmeye nasıl yardımcı olduğunu öğrenin."
+  },
+  "family-health/low-sexual-desire-in-men": {
+    "description": "Hormon, ilaç, uyku, stres ve hastalığın erkeklerde cinsel isteği nasıl etkileyebildiğini ve nedene uygun desteğin nasıl planlandığını öğrenin."
+  },
+  "pregnancy/understanding-pregnancy-weeks-and-trimesters": {
+    "description": "Gebelik haftalarını ve tahmini doğum tarihini anlamayı öğrenin; yaklaşık ay çizelgelerini miad tanımları ve ikizlerin doğum planlarından ayırın."
+  },
+  "newborn/contraception-while-breastfeeding": {
+    "description": "Emzirmeye uygun doğum kontrolü seçeneklerini ve emzirmenin koruma sınırlarını öğrenin; unutulan hap veya korunmasız ilişki için plan yapın."
+  },
+  "pregnancy/covid-19-complications-and-study-findings": {
+    "description": "2022 gebelik ve COVID-19 araştırmasını aşı öncesi bağlamında değerlendirin; risk tahminlerini, korunmayı ve acil belirtileri ayırt etmeyi öğrenin."
+  },
+  "family-health/contraception-covid-19-and-blood-clots": {
+    "description": "Ağır COVID-19 hastalığında doğum kontrolü planının neden değişebildiğini ve ilaç değişikliklerini sağlık uzmanıyla planlamanın önemini öğrenin."
+  },
+  "family-health/smell-and-taste-changes-after-covid-19": {
+    "title": "COVID-19 sonrası koku ve tat değişiklikleri",
+    "description": "COVID-19 sonrası koku ve tat değişimlerini, araştırmaların sınırlarını ve nazik koku eğitimini öğrenin; iyileşme veya beslenme için ne zaman yardım gerekir?"
+  },
+  "family-health/heart-symptoms-after-covid-19": {
+    "description": "COVID-19 sonrası sürekli çarpıntı veya nefes darlığı değerlendirilmelidir; geçmiş enfeksiyon herkese aynı kalp testlerinin gerektiğini göstermez."
+  },
+  "family-health/moles-and-spots-on-the-penis": {
+    "description": "Peniste ben ve benzer lekelerin olası nedenlerini, uyarı belirtilerini ve genital bir lezyon çıkarılmadan önce neden tanı gerektiğini öğrenin."
+  },
+  "pregnancy/deodorant-and-antiperspirant-in-pregnancy": {
+    "description": "Gebelik terlemeyi ve koku duyarlılığını değiştirebilir. Deodorantı amaçlanan kullanımına, etiketine ve cildinizin yanıtına göre seçmeyi öğrenin."
+  },
+  "pregnancy/heart-disease-and-pregnancy-planning": {
+    "description": "Gebelik kalbin iş yükünü değiştirir. Kişisel değerlendirme ve ilaç gözden geçirmesinin doğum öncesi ve sonrası bakım planına katkısını öğrenin."
+  },
+  "newborn/septic-pelvic-thrombophlebitis-after-birth": {
+    "description": "Nadir septik pelvik tromboflebiti tanıyın; sürekli doğum sonrası ateşin değerlendirilmesini ve antibiyotik ile diğer tedavilerin rolünü öğrenin."
+  },
+  "family-health/food-supplements-and-sexual-desire": {
+    "description": "Bir yiyecek veya bitkisel ürün güvenilir libido tedavisi değildir. Cinsel istekte neyin değiştiğini ve desteğin nasıl kişiselleştiğini öğrenin."
+  },
+  "trying-to-conceive/clomiphene-for-male-infertility": {
+    "description": "Erkek infertilitesinde klomifenin neden reçete edilebildiğini, araştırma bulgularını, tedavi izlemini ve diğer seçeneklerle farkını öğrenin."
+  },
+  "trying-to-conceive/late-periods-and-when-to-test": {
+    "description": "Gebelik, doğum kontrolü veya hormonal değişiklikler adet gecikmesine yol açabilir. Ne zaman test yapmanız ve değerlendirme istemeniz gerektiğini öğrenin."
+  },
+  "baby-and-child/vomiting-at-night": {
+    "description": "Çocuklarda gece kusmasının öksürük, reflü, besin veya solunumla ilgili nedenlerini ve hangi belirtilerde acil yardım gerektiğini öğrenin."
+  },
+  "newborn/understanding-galactosemia": {
+    "description": "Galaktozemi türlerini ve yenidoğanda acil takibin önemini anlayın; özel beslenme ve gelişim desteğinin çocuğun bakımına nasıl katıldığını öğrenin."
+  },
+  "family-health/penile-swelling-causes-and-care": {
+    "description": "Penis şişliğinde tahriş, enfeksiyon ve sünnet derisi sorunlarını tanıyın; hangi belirtilerin rutin değerlendirme yerine acil bakım gerektirdiğini öğrenin."
+  },
+  "family-health/dry-skin-on-the-penis": {
+    "description": "Kuru veya tahriş olmuş penis derisinin olası nedenlerini ve nazik bakımı öğrenin; yara, döküntü veya sünnet derisi değişiminde ne zaman muayene gerekir?"
+  },
+  "pregnancy/perfume-fragrance-and-pregnancy": {
+    "description": "Parfüm gebelikte bulantı veya cilt tahrişini artırabilir. Tek kullanımın bebeğin sağlığını öngörmediğini ve araştırmaların sınırlarını öğrenin."
+  },
+  "family-health/pelvic-floor-dysfunction": {
+    "description": "Pelvik taban belirtileri güçsüzlük, gerginlik veya koordinasyon sorunundan kaynaklanabilir. Değerlendirmenin uygun tedaviyi nasıl yönlendirdiğini öğrenin."
+  },
+  "trying-to-conceive/cervical-stenosis-and-fertility": {
+    "description": "Rahim ağzı darlığı bazen adet akışını veya fertilite işlemlerini zorlaştırır. Etkisinin darlık derecesine ve klinik duruma nasıl bağlı olduğunu öğrenin."
+  },
+  "pregnancy/prolonged-sitting-and-movement": {
+    "description": "Gebelikte uzun oturmayı bölmek rahatsızlığı azaltabilir. Hareket planını ve tıbbi kısıtlamaların neden kişiye özel açıklama gerektirdiğini öğrenin."
+  },
+  "pregnancy/colds-steam-and-herbal-remedies": {
+    "title": "Gebelikte soğuk algınlığı: bitkisel buhar ve rahatlama",
+    "description": "Gebelikte bitkisel buhar iddialarının sınırlarını ve risklerini inceleyin; daha güvenli rahatlama, ilaç kontrolleri ve uyarı belirtilerini öğrenin."
+  },
+  "pregnancy/eucalyptus-lozenges-pregnancy-and-breastfeeding": {
+    "description": "Okaliptüs şekeri, ilaçlı pastil ve uçucu yağın farklarını anlayın; gebelik veya emzirme önerisinin neden tam ürüne bağlı olduğunu öğrenin."
+  },
+  "pregnancy/fetal-hiccups-and-kicks": {
+    "description": "Fetal hıçkırık ritmik vuruşlar gibi hissedilebilir. Bunu tanıyın ve neden bebeğin normal tekme ve hareket düzenini izlemenin yerini almadığını öğrenin."
+  },
+  "pregnancy/nutrition-and-baby-growth": {
+    "title": "Gebelikte beslenme ve bebeğin sağlıklı büyümesi",
+    "description": "Gebelikte kalsiyum, demir, iyot ve diğer besinlerin rolünü öğrenin; hiçbir gıdanın fetüsün veya gelecekteki yetişkinin boyunu garanti etmediğini anlayın."
+  },
+  "trying-to-conceive/understanding-cycle-length": {
+    "description": "Adet döngüsünü nasıl sayacağınızı ve evrelerini öğrenin; kısa veya uzun aralıkların ve kanama değişimlerinin ne zaman değerlendirme gerektirdiğini anlayın."
+  },
+  "pregnancy/swelling-and-discomfort-with-twins": {
+    "description": "İkiz gebelikte bazı rahatsızlıklar artabilir, ancak şişlik kaçınılmaz değildir. Ani değişikliklerin neden normal kabul edilmemesi gerektiğini öğrenin."
+  },
+  "trying-to-conceive/watery-cervical-mucus": {
+    "description": "Sulu servikal mukusun döngü ve doğurganlık açısından anlamını öğrenin; sıcaklık takibi, yumurtlama testleri ve diğer incelemelerin sınırlarını anlayın."
+  },
+  "trying-to-conceive/when-to-seek-a-fertility-assessment": {
+    "description": "Doğurganlık değerlendirmesi için belirgin belirtiler gerekmez. Ne zaman başvurmanız ve hangi değişiklikleri daha erken konuşmanız gerektiğini öğrenin."
+  },
+  "newborn/combining-breastfeeding-and-expressing": {
+    "title": "Emzirme ve sağmayı birlikte planlamak",
+    "description": "Sağmayı emzirme öğünleriyle düzenleyin; rahat pompa kullanımı ve güvenli süt saklamayı öğrenerek gereksiz süt fazlalığı oluşturmaktan kaçının."
+  },
+  "family-health/probiotics-and-sexual-wellbeing": {
+    "title": "Probiyotikler ve cinsel sağlık: kanıtların sınırları",
+    "description": "Bağırsak ile cinsel sağlık arasındaki olası bağlantıları ve probiyotik kanıtlarının sınırlarını öğrenin; kalıcı belirtileri daha geniş değerlendirin."
+  },
+  "family-health/understanding-penis-size": {
+    "description": "Penis boyutu araştırmalarını, ortalamaların sınırlarını ve değerlendirmeyi anlayın; büyütme vaatlerini neden dikkatle incelemek gerektiğini öğrenin."
+  },
+  "newborn/is-my-milk-supply-really-low": {
+    "title": "Sütüm gerçekten az mı? İşaretler ve beslenme planı",
+    "description": "Bebeğin bezleri, ağırlığı ve normal emzirme değişimlerini inceleyin; üretimi değerlendirmek ve takviyelerden önce ne zaman yardım istemek gerektiğini öğrenin."
+  },
+  "family-health/period-arriving-early": {
+    "title": "Erken adet ve beklenmedik kanama: ne zaman yardım alınmalı?",
+    "description": "Erken veya beklenmedik kanamanın olası nedenlerini ve gebelikle ilişkili kanamadan farkını öğrenin; hangi değişikliklerde değerlendirme gerektiğini anlayın."
+  },
+  "newborn/pelvic-floor-recovery-after-birth": {
+    "description": "Doğum sonrası kaçırma, pelvik ağrı ve kas gerginliğini anlayın; egzersizler, cinsellik ve ne zaman pelvik sağlık desteği isteneceğini öğrenin."
+  },
+  "family-health/understanding-high-estrogen": {
+    "description": "Yüksek östrojen sonucunun olası anlamını ve belirtilerin neden tek başına tanı koymadığını öğrenin; test ve tedavinin nasıl değerlendirildiğini anlayın."
+  },
+  "family-health/earlobe-cyst": {
+    "description": "Kulak memesindeki yumru bir epidermoid kist olabilir. Yeni veya değişen bir yumruyu gözlemlemeye karar vermeden önce neden tanı gerektiğini öğrenin."
+  },
+  "pregnancy/nub-theory-and-early-ultrasound": {
+    "description": "Nub teorisindeki açılar ve erken cinsiyet tahminlerinin sınırlarını öğrenin; ultrason, NIPT ve uzmanlık testlerinin farklı amaçlarını anlayın."
+  },
+  "pregnancy/skull-theory-baby-sex-prediction": {
+    "description": "Kafatası şekli bebeğin cinsiyetini güvenilir biçimde göstermez. Bu teorinin sınırlarını ve neden doğum öncesi test sayılmadığını öğrenin.",
+    "title": "Kafatası şekli bebeğin cinsiyetini gösterir mi?"
+  },
+  "pregnancy/facial-swelling": {
+    "description": "Gebelikte yeni yüz şişliğinin neden değerlendirilmesi gerektiğini, acil belirtileri ve iyi huylu neden doğrulanınca rahatlama seçeneklerini öğrenin."
+  },
+  "pregnancy/swelling-does-not-predict-baby-sex": {
+    "description": "Gebelikte şişlik bebeğin cinsiyetini göstermez. Ödemin nedenlerini ve hangi ani değişikliklerde acil gebelik değerlendirmesi gerektiğini öğrenin."
+  },
+  "pregnancy/food-and-swelling": {
+    "description": "Gebelikte şişliğin nedenlerini ve acil belirtileri öğrenin; yiyecek, içecek, hareket ve dinlenmeyi gereksiz yasaklar olmadan planlayın."
+  },
+  "family-health/pain-after-sex": {
+    "title": "Cinsel ilişki sonrası ağrı: nedenler ve değerlendirme",
+    "description": "Cinsel ilişki sonrası ağrıda RİA, gebelik ve enfeksiyon gibi olası etkenleri öğrenin; rahatlığı ve rızayı gözeten değerlendirme seçeneklerini tanıyın."
+  },
+  "family-health/irregular-periods-and-home-remedies": {
+    "title": "Düzensiz adetler: ev yöntemleri ve kanıtların sınırları",
+    "description": "Yoga, bitkiler, vitaminler ve diğer ev yöntemlerinin düzensiz adetlere ilişkin kanıtlarını inceleyin; kanama için ne zaman yardım gerektiğini öğrenin."
+  },
+  "family-health/cervical-stenosis-and-period-pain": {
+    "description": "Rahim ağzı darlığı bazen adet akışını engelleyip ağrı yapabilir. Krampların neden tek başına bu tanıyı göstermediğini ve değerlendirmeyi öğrenin."
+  },
+  "trying-to-conceive/spotting-around-ovulation": {
+    "title": "Yumurtlama döneminde lekelenme: anlamı ve değerlendirme",
+    "description": "Döngü ortası lekelenmenin renk ve zamanlama sınırlarını, doğurganlık penceresini ve ne zaman gebelik testi ya da tıbbi değerlendirme gerektiğini öğrenin."
+  },
+  "family-health/bleeding-after-sex": {
+    "description": "Cinsel ilişki sonrası kanamanın olası nedenlerini ve değerlendirmeyi anlayın; kuruluk, enfeksiyon ve diğer durumların nasıl tedavi edildiğini öğrenin."
+  },
+  "family-health/genetic-testing-for-inherited-cancer-risk": {
+    "description": "Kalıtsal kanser testinden kimlerin yararlanabileceğini, danışmanlığı ve pozitif, negatif ya da belirsiz sonuçların aile açısından anlamını öğrenin."
+  },
+  "family-health/ingrown-hairs-and-scalp-razor-bumps": {
+    "description": "Batık kıl kaşıntılı veya hassas kabarıklık yapabilir. Nazik kıl alma ve bakımın neden sıkma, ovalama veya sık antiseptik kullanmaktan iyi olduğunu öğrenin."
+  },
+  "family-health/ganglion-cysts": {
+    "title": "Ganglion kistleri: eklem yakınındaki kitle ne zaman tedavi edilir?",
+    "description": "Doğrulanmış ganglion kistleri çoğunlukla iyi huyludur. Ağrı, sinir belirtileri veya tanı belirsizliğinin ne zaman yeniden değerlendirme gerektirdiğini öğrenin."
+  },
+  "family-health/preparing-for-chalazion-surgery": {
+    "description": "Kalıcı şalazyonun ne zaman boşaltılması gerekebileceğini, anesteziye hazırlığı ve ameliyat sonrası bakım ile uyarı belirtilerini öğrenin."
+  },
+  "family-health/bakers-cyst-behind-the-knee": {
+    "description": "Baker kisti diz sorunlarına eşlik edebilir. Ani baldır ağrısı veya şişliğinin pıhtıyı dışlamak için neden acil değerlendirme gerektirdiğini öğrenin."
+  },
+  "family-health/why-not-to-remove-a-skin-cyst-at-home": {
+    "description": "Cilt kistini sıkmanın riskini, iltihap ile enfeksiyonun farkını ve kisti boşaltmanın duvarını çıkarmakla neden aynı olmadığını öğrenin."
+  },
+  "family-health/pilar-cysts-on-the-scalp": {
+    "description": "Pilar kistler genellikle yavaş büyüyen iyi huylu kitlelerdir. İzlemi ve hızla değişen veya rahatsızlık veren saçlı deri kitlesinin değerlendirilmesini öğrenin."
+  },
+  "family-health/dilated-pore-of-winer": {
+    "title": "Winer lezyonu: genişlemiş gözenek ve bakım seçenekleri",
+    "description": "Winer lezyonunun görünümünü ve benzer durumları tanıyın; bu iyi huylu foliküler lezyonda izlem, içerik çıkarma ve cerrahi seçenekleri karşılaştırın."
+  },
+  "trying-to-conceive/clomiphene-and-antibiotics": {
+    "description": "Klomifen kullanırken antibiyotiğin türü ve gebelik olasılığı önemlidir. Tedaviyi değiştirmeden önce ilaç birleşimini ekibinizle kontrol etmeyi öğrenin."
+  },
+  "pregnancy/can-position-predict-a-baby-girl": {
+    "description": "Bebeğin konumu, karın şekli veya bulantı cinsiyeti güvenilir biçimde göstermez. Bu tahminlerin sınırlarını ve prenatal testlerin rolünü öğrenin."
+  },
+  "pregnancy/chalazion-eyelid-lump": {
+    "description": "Gebelikte şalazyon ılık kompreslerle düzelebilir. Kalıcı şişlik, yayılan kızarıklık veya görme değişikliğinde neden muayene gerektiğini öğrenin."
+  },
+  "family-health/laser-treatment-cervical-cell-changes": {
+    "title": "Rahim ağzı hücre değişikliklerinde lazer ve takip",
+    "description": "Rahim ağzı lazer ablasyonu ve konizasyonun farklarını, iyileşme sürecini ve başarı oranlarını yorumlamayı öğrenin; takip planını anlayın."
+  },
+  "newborn/reflux-signs-and-warning-symptoms": {
+    "description": "Bebekte süt çıkarma normal olabilir, fakat yetersiz beslenme, az büyüme veya olağandışı kusma değerlendirilmelidir. Ağlama tek başına reflü tanısı koydurmaz."
+  },
+  "family-health/ingrown-hair-or-genital-herpes": {
+    "description": "Tıraş kabarıklığı ile herpes yarası benzeyebilir. Yalnız görünüşe güvenmek yerine yeni lezyonu hızlı değerlendirtmenin neden yararlı olduğunu öğrenin."
+  },
+  "pregnancy/heartburn-food-triggers": {
+    "description": "Gebelikte mide yanmasını öğün boyutu, zamanlama ve kişisel tetikleyiciler etkileyebilir. Besin çeşitliliğini koruyarak hedefli değişiklikleri öğrenin."
+  },
+  "pregnancy/foods-to-try-for-heartburn": {
+    "title": "Gebelikte mide yanmasıyla yemek yemeyi kolaylaştırmak",
+    "description": "Mide yanması sırasında tolere ettiğiniz tahıl, sebze ve proteinlerle öğün kurmayı öğrenin; hiçbir yiyeceğin reflüyü tek başına iyileştirmediğini anlayın."
+  },
+  "pregnancy/epidural-pain-relief-decisions": {
+    "description": "Epiduralin yararlarını, yan etkilerini ve doğum bakımına etkisini öğrenin; alternatifleri de içeren esnek bir ağrı giderme planı hazırlayın."
+  },
+  "family-health/hysterectomy-for-endometriosis": {
+    "description": "Histerektomi bazı endometriozis belirtilerine yardım edebilir, ancak hastalığı veya ağrıyı bitirmeyi garanti etmez. Ameliyatın sonuçlarını öğrenin."
+  },
+  "family-health/bleeding-after-hysterectomy": {
+    "description": "Histerektomi sonrası hafif lekelenmeyi yeni veya yoğun kanamadan ayırın; rahim ağzı ve vajinal kubbe sorunlarında ne zaman değerlendirme gerektiğini öğrenin."
+  },
+  "family-health/cervical-screening-without-current-sexual-activity": {
+    "description": "Cinsel olarak aktif olmasanız da geçmiş HPV, yaş ve sonuçlar taramayı etkiler. Rahim ağzı testlerini ve yerel önerilerin rolünü öğrenin.",
+    "title": "Cinsel olarak aktif değilken rahim ağzı taraması"
+  },
+  "trying-to-conceive/twin-boy-injection-myth": {
+    "description": "Hiçbir iğne erkek ikizleri garanti etmez. Fertilite tedavisinin çoğul gebelik riskini ve kliniklerin bu riski neden azaltmaya çalıştığını öğrenin."
+  },
+  "pregnancy/can-a-twelve-week-scan-show-baby-sex": {
+    "description": "On iki haftalık ultrasonda cinsiyet tahmininin sınırlarını, erken genital görüntüleri ve daha sonraki anatomi ultrasonunun rolünü öğrenin."
+  },
+  "family-health/haemorrhoids-or-bowel-cancer-symptoms": {
+    "title": "Hemoroid mi, bağırsak kanseri mi? Ortak belirtileri değerlendirmek",
+    "description": "Hemoroid ve bağırsak kanseri kanama veya başka belirtileri paylaşabilir. Hangi değişikliklerin değerlendirme, hangilerinin acil yardım gerektirdiğini öğrenin."
+  },
+  "family-health/endometriosis-and-nausea": {
+    "description": "Endometriozis ile bulantı arasındaki olası ilişkiyi, rahatlama ve tedavi seçeneklerini öğrenin; hangi belirtilerde gecikmeden yardım gerekir?"
+  },
+  "trying-to-conceive/follitropin-alfa-for-men": {
+    "description": "Erkek infertilitesinde FSH enjeksiyonunun hangi tanılarda kullanıldığını ve hCG, takip ile yan etki değerlendirmesinin neden önemli olduğunu öğrenin."
+  },
+  "family-health/herbal-hair-growth-products": {
+    "description": "Saç uzaması için satılan bitkisel ürünleri inceleyin; hayvan çalışmalarının ve reklamların insanlarda yararı neden tek başına göstermediğini öğrenin."
+  },
+  "pregnancy/lower-abdominal-pain-when-walking": {
+    "description": "Gebelikte yürürken yeni alt karın ağrısında durup belirtileri değerlendirin. Hangi ağrı örüntülerinin acil gebelik danışmanlığı gerektirdiğini öğrenin."
+  },
+  "trying-to-conceive/follitropin-alfa-injections": {
+    "description": "Follitropin alfanın fertilite tedavisindeki rolünü, ürün talimatlarının neden değiştiğini ve hangi belirtilerde acil danışmanlık gerektiğini öğrenin."
+  },
+  "family-health/anal-cancer-symptoms-and-treatment": {
+    "description": "Anal kanser türlerini ve HPV dahil risk etkenlerini tanıyın; tanı testleri, tedavi seçenekleri ve sağkalım istatistiklerinin sınırlarını öğrenin."
+  },
+  "baby-and-child/hpv-vaccination-for-children": {
+    "description": "Çocuklarda HPV aşısının maruziyet öncesi verilme nedenini, doz takvimi farklarını ve ailelerin koruma ile yan etkiler hakkında sorularını öğrenin."
+  },
+  "family-health/her2-negative-breast-cancer": {
+    "description": "HER2-negatif meme kanserini ve hormon reseptörlerinin tedavideki rolünü anlayın; HER2-düşük hastalık ve sağkalım verilerinin anlamını öğrenin."
+  },
+  "family-health/shoulder-pain-after-breast-cancer": {
+    "description": "Meme kanseri tedavisi sonrası omuz ağrısının nedenlerini ve hareket üzerindeki etkileri anlayın; hangi belirtilerde hızlı değerlendirme gerektiğini öğrenin."
+  },
+  "pregnancy/walking-when-expecting-twins": {
+    "description": "İkiz gebelikte yürüyüş ve diğer egzersizleri kişiselleştirmeyi öğrenin; dinlenme, komplikasyonlar ve uyarı belirtilerini planın parçası yapın."
+  },
+  "pregnancy/twins-birth-weight-and-growth": {
+    "description": "İkizlerde doğum ağırlığını tek hedef sayıyla değerlendirmeyin. Ortak plasenta, büyüme farkları ve doğum sonrası destek ihtiyacını öğrenin."
+  },
+  "pregnancy/general-anaesthesia-for-birth": {
+    "description": "Doğumda genel anestezinin ne zaman gerekebildiğini ve spinal anesteziden farkını öğrenin; toparlanma ve beslenme hakkında sorular hazırlayın."
+  },
+  "family-health/vaginal-and-vulval-pain": {
+    "description": "Vajina ve vulva ağrısının olası kaynaklarını, değerlendirmeyi ve tedavileri tanıyın; hangi pelvik belirtilerin acil yardım gerektirdiğini öğrenin."
+  },
+  "family-health/yoga-during-and-after-breast-cancer": {
+    "description": "Meme kanseri tedavisi sırasında veya sonrasında hafif yogayı uyarlamayı öğrenin; başlamadan önce hareket ve nefes çalışmaları hakkında danışın."
+  },
+  "family-health/food-choices-and-breast-cancer-prevention": {
+    "description": "Sebze, meyve, balık ve diğer besin gruplarıyla meme kanseri riski arasındaki araştırmaları inceleyin; kanıtlanmamış korunma vaatlerinden kaçının."
+  },
+  "family-health/inherited-breast-cancer-risk": {
+    "description": "Kalıtsal varyantların ve aile öyküsünün meme kanseri riskini nasıl etkilediğini öğrenin; genetik danışmanlığın testleri yorumlamadaki rolünü anlayın."
+  },
+  "family-health/understanding-hormone-related-symptoms": {
+    "description": "Hormonlarla ilişkili olabilen belirtileri ve değerlendirmeyi tanıyın; ev testleri veya belirti listelerinin neden her soruna tanı koyamadığını öğrenin."
+  },
+  "family-health/antibiotics-and-a-late-period": {
+    "description": "Antibiyotik kullanırken adet gecikmesinde hastalık, etkileşim, unutulan hap ve gebeliği ayırt etmeyi öğrenin; ne zaman değerlendirme gerektiğini anlayın."
+  },
+  "newborn/retained-placenta-after-birth": {
+    "description": "Doğumdan sonra plasentanın neden içeride kalabildiğini, zaman ve belirtilerin müdahaleyi nasıl yönlendirdiğini ve iyileşme takibini öğrenin."
+  },
+  "baby-and-child/breast-development-during-puberty": {
+    "description": "Meme gelişiminde hassasiyet ve asimetriyi tanıyın; hangi kitle, akıntı veya cilt değişikliğinin normal büyümeden ayrı değerlendirilmesi gerektiğini öğrenin."
+  },
+  "family-health/coconut-oil-for-skin": {
+    "description": "Hindistan cevizi yağının nem tutmaya katkısını ve egzama kanıtlarını inceleyin; akne, alerji ve güneş korumasını neden ayrı ele almak gerekir?"
+  },
+  "newborn/when-pumping-hurts-your-nipples": {
+    "description": "Ağrılı süt sağmada pompa başlığı, vakum ve mevcut yaralanmayı kontrol etmeyi öğrenin; dolgunluk veya enfeksiyonda ne zaman uzman desteği gerekir?"
+  },
+  "baby-and-child/iq-and-emotional-intelligence": {
+    "title": "IQ ve duygusal zekâ: farklı becerileri anlamak",
+    "description": "Bilişsel ve duygusal zekâ değerlendirmelerinin neyi ölçtüğünü, puanların sınırlarını ve öğrenme veya eğitim iddialarının kanıtlarını anlayın."
+  },
+  "trying-to-conceive/age-fertility-and-the-biological-clock": {
+    "description": "Yaşın yumurta, sperm ve gebelik üzerindeki etkisini öğrenin; fertilite değerlendirmesi ve dondurmanın neler sunabileceğini baskı olmadan ele alın."
+  },
+  "family-health/keratin-hair-treatment-benefits-and-risks": {
+    "description": "Keratin saç işlemlerinin yararlarını ve içerik sorularını inceleyin; formaldehit etiketi, böbrek riski ve gebelik açısından güvenliği değerlendirin."
+  },
+  "family-health/bleeding-haemorrhoids-assessment-and-treatment": {
+    "description": "Kanayan hemoroidlerde acil belirtileri tanıyın; bağırsak bakımı, ilaçlar ve profesyonel işlemlerin tedavide nasıl birlikte kullanılabildiğini öğrenin."
+  },
+  "pregnancy/breech-baby-sleep-positions-and-turning-options": {
+    "description": "Uyku pozisyonlarının makat gelişteki bebeği döndürdüğüne dair kanıt yoktur. Yan yatış, dıştan çevirme ve doğum planı hakkında bilgi edinin."
+  },
+  "baby-and-child/prune-juice-and-childhood-constipation": {
+    "description": "Kabız çocukta kuru erik suyunun ne zaman yardımcı olabildiğini ve yaşa göre yaklaşımı öğrenin; yenidoğanlarda neden farklı değerlendirme gerekir?"
+  },
+  "family-health/minoxidil-for-hair-loss-benefits-and-precautions": {
+    "title": "Minoksidil: saç dökülmesinde yararlar ve önlemler",
+    "description": "Minoksidil kalıtsal saç seyrelmesine yardımcı olabilir. Doğru tanı ve ürün seçimini, gerçekçi sonuçları ve güvenli kullanım önlemlerini öğrenin."
+  },
+  "newborn/expressing-milk-at-work": {
+    "description": "İş yerinde süt sağmak için mola, pompa uyumu, temizlik ve saklamayı planlayın; katı hedefler veya gereksiz alışverişler olmadan düzen kurun."
+  },
+  "baby-and-child/when-babies-learn-to-stand": {
+    "description": "Bebeğin ayakta durması birkaç beceriyle gelişir. Güvenli oyunla desteklemeyi, gelişim kontrollerini ve ne zaman değerlendirme istemeyi öğrenin."
+  },
+  "baby-and-child/why-toddlers-hit-or-bang-their-head": {
+    "title": "Küçük çocuklarda başa vurma: nedenler ve güvenli yanıt",
+    "description": "Küçük çocuğun başına vurmasının olası nedenlerini ve sakin karşılık vermeyi öğrenin; yaralanma, ağrı veya gelişim kaygısında ne zaman yardım gerekir?"
+  },
+  "trying-to-conceive/cold-medicines-while-trying-for-a-baby": {
+    "description": "Nezle ilaçları birden fazla etken madde içerebilir. Gebelik planlarken içerikleri kontrol etmeyi ve kanıtsız fertilite iddialarından kaçınmayı öğrenin."
+  },
+  "pregnancy/rh-immunoglobulin-aftercare-and-access": {
+    "description": "Anti-D sonrası hangi tepkilerin yardım gerektirdiğini öğrenin; maliyet veya bulunabilirlik tedaviyi geciktirecekse ekibe sorulacakları hazırlayın."
+  },
+  "pregnancy/anti-d-injections-timing-and-what-to-expect": {
+    "description": "Gebelikte kimlerin anti-D ihtiyacı olabileceğini ve marka, uygulama yolu ile yerel önerilerin zamanlamayı neden etkilediğini öğrenin."
+  },
+  "pregnancy/itchy-breasts-and-nipples-in-pregnancy": {
+    "title": "Gebelikte meme kaşıntısı: nedenler ve yardım zamanı",
+    "description": "Gebelikte meme kaşıntısında cilt gerilmesi, egzama ve diğer nedenleri tanıyın; rahatlama yollarını ve değerlendirme gerektiren belirtileri öğrenin."
+  },
+  "baby-and-child/yellow-or-discoloured-teeth-in-children": {
+    "description": "Çocuk dişlerinde normal renk, lekelenme ve mine değişimini ayırt etmeyi öğrenin; güvenli günlük bakım ve diş hekiminin tedavi seçeneklerini tanıyın."
+  },
+  "newborn/when-babies-start-to-laugh": {
+    "description": "Bebeklerde gülümseme ve kahkaha giderek gelişir. Nazik ortak oyunları ve ulaşılmayan bir gelişim basamağını ne zaman konuşmak gerektiğini öğrenin."
+  },
+  "newborn/laid-back-breastfeeding": {
+    "description": "Destekli geriye yaslanarak emzirmeyi, yerleşimi ve sezaryen uyarlamalarını öğrenin; bu beslenme pozisyonunun uyku güvenliği sınırlarını anlayın."
+  },
+  "pregnancy/human-placental-lactogen-explained": {
+    "description": "İnsan plasental laktojeninin gebelik metabolizmasındaki rolünü ve tek hormon sonucunun neden diyabet veya plasenta sağlığını göstermediğini öğrenin."
+  },
+  "pregnancy/understanding-a-triploidy-diagnosis": {
+    "description": "Triploidi fazladan tam bir kromozom takımıdır. Tanının nasıl doğrulandığını, ne anlama geldiğini ve hangi destek veya takibin gerekebildiğini öğrenin."
+  },
+  "family-health/covid-and-changes-in-smell-or-taste": {
+    "description": "Koku ve tat kaybının olası nedenlerini ve COVID-19 şüphesinde yapılacakları öğrenin; iyileşme tahminlerini neden bağlamında değerlendirmek gerekir?"
+  },
+  "newborn/blood-or-a-lump-near-your-babys-bottom": {
+    "description": "Bebeklerde hemoroid nadirdir. Bezde kan veya anüs çevresinde şişlik varsa daha sık nedenleri değerlendirmek ve doğru tedaviyi seçmek gerektiğini öğrenin."
+  },
+  "family-health/purple-or-bruised-penis-when-to-seek-care": {
+    "description": "Penis morarmasında hafif yaralanmayı acil belirtilerden ayırın; ağrı, şişlik veya sıkışmış sünnet derisinde neden hızlı değerlendirme gerektiğini öğrenin."
+  },
+  "newborn/cupping-while-breastfeeding": {
+    "description": "Emzirirken kuru ve kan alınan kupa uygulamalarının kanıt sınırlarını, kan kaybı ve cilt hasarı risklerini ve kişisel değerlendirmenin önemini öğrenin."
+  },
+  "trying-to-conceive/pregnancy-symptoms-but-a-negative-test": {
+    "description": "Gebelik belirtileriyle negatif testin neden çelişebildiğini ve testi ne zaman tekrarlamayı öğrenin; ağrı veya kanamada acil belirtileri tanıyın."
+  },
+  "family-health/hair-around-the-nipples-whats-normal": {
+    "description": "Areola kıllarının neden geliştiğini ve değişen örüntünün ne zaman değerlendirilmesi gerektiğini öğrenin; hassas ciltte isteğe bağlı kıl almayı planlayın."
+  },
+  "family-health/naproxen-side-effects-and-precautions": {
+    "description": "Naproksen ağrıyı azaltabilir, ancak mide, böbrek ve kalbi etkileyebilir. Uyarı belirtilerini ve kullanmadan önce ne zaman danışmak gerektiğini öğrenin."
+  },
+  "pregnancy/leech-therapy-during-pregnancy": {
+    "description": "Sülüklerin sınırlı cerrahi kullanımını öğrenin; bunun gebelikte iyilik hâli vaatlerini neden doğrulamadığını ve maruziyet sonrası riskleri anlayın."
+  },
+  "baby-and-child/when-baby-teeth-fall-out": {
+    "description": "Süt dişlerinin çıkma ve düşme zamanlarını, sallanan dişin bakımını ve kalıcı dişleri öğrenin; hangi farklılıkların diş hekimi kontrolü gerektirdiğini anlayın."
+  },
+  "newborn/acetaminophen-for-teething-pain": {
+    "title": "Diş çıkarma ağrısında asetaminofen: doz ve güvenlik",
+    "description": "Diş çıkarırken ağrı kesicinin ne zaman yardım edebildiğini, tam ilacı ve dozu kontrol etmeyi öğrenin; her huzursuzluğu diş çıkarmaya bağlamayın."
+  },
+  "baby-and-child/miralax-and-childhood-constipation": {
+    "description": "Çocuklarda PEG 3350 tedavisinin kişiye özel planını, aşamalarını ve yan etkilerini öğrenin; beslenme ve tuvalet rutinlerinin rolünü anlayın."
+  },
+  "baby-and-child/toddlers-diarrhoea-food-and-drink-changes": {
+    "title": "Küçük çocuk ishali: beslenme ve uyarı belirtileri",
+    "description": "İyi büyüyen küçük çocukta işlevsel ishal için öğün, meyve suyu ve lif değişikliklerini öğrenin; hangi belirtilerde yeniden değerlendirme gerektiğini anlayın."
+  },
+  "newborn/returning-to-sex-after-a-cesarean": {
+    "description": "Sezaryen sonrası cinselliğe dönüşte iyileşme, rahatlık ve hazır olmak önemlidir. Kuruluğu yönetmeyi ve ağrıda ne zaman destek istemeyi öğrenin."
+  },
+  "pregnancy/how-long-labour-epidural-lasts": {
+    "description": "Doğum epiduralinin yerleştirilmesini, ek dozları ve etki kontrollerini öğrenin; toparlanmada hangi belirtilerin hızlı değerlendirme gerektirdiğini anlayın."
+  },
+  "newborn/endometriosis-in-a-cesarean-scar": {
+    "description": "Sezaryen izindeki ağrılı kitlenin nadir bir nedeni endometriozistir. Diğer olasılıkları, tanı değerlendirmesini ve tedavi yaklaşımını öğrenin."
+  },
+  "trying-to-conceive/pregnancy-before-during-or-after-a-period": {
+    "description": "Adet tarihleri güvenli gün garantisi vermez. Doğurgan pencereyi ve yumurtlama testi, sıcaklık takibi ile gebelik testinin sınırlarını öğrenin."
+  },
+  "family-health/covid-or-a-sinus-infection": {
+    "description": "Sinüzit ve COVID-19 belirtileri örtüşebilir. Testlerin rolünü ve evde bakım, erken tedavi veya acil değerlendirmenin ne zaman gerektiğini öğrenin."
+  },
+  "pregnancy/phenylephrine-and-nasal-congestion": {
+    "description": "Gebelikte burun tıkanıklığı için ilaç içeriklerini kontrol edin; oral fenilefrinin belirsiz yararını ve gebeliğe özel önerilerin önemini öğrenin."
+  },
+  "pregnancy/when-abdominal-pain-needs-urgent-help": {
+    "description": "Gebelikte hafif karın ağrısı olabilir, ancak şiddetli veya başka belirtilerle birlikte ağrı değerlendirilmelidir. Ne zaman yardım gerektiğini öğrenin."
+  },
+  "family-health/understanding-covid-tests": {
+    "description": "Moleküler, antijen ve antikor COVID testlerini karşılaştırın; zamanlamanın doğruluğu nasıl etkilediğini ve sonuca göre yapılacakları öğrenin."
+  },
+  "family-health/what-to-do-if-a-condom-breaks": {
+    "description": "Prezervatif yırtıldığında acil kontrasepsiyon, HIV PEP ve testler için zamanlamayı öğrenin; gebelik ve enfeksiyon takibini gecikmeden planlayın."
+  },
+  "family-health/dry-eyes-and-covid": {
+    "description": "Göz kuruluğu tek başına COVID tanısı koydurmaz. Rahatlama seçeneklerini ve hangi göz belirtilerinin acil değerlendirme gerektirdiğini öğrenin."
+  },
+  "newborn/vitamin-c-for-babies": {
+    "description": "Bebeklerin C vitaminini beslenmeden nasıl aldığını öğrenin; önerilen günlük alımın neden bir takviye dozu olmadığını ve yerel rehberliğin rolünü anlayın."
+  },
+  "newborn/hernia-near-a-cesarean-scar": {
+    "description": "Sezaryen sonrası kesi fıtığının belirtilerini ve acil işaretleri tanıyın; tanı, onarım ve gelecekteki gebelik için görüşülecek konuları öğrenin."
+  },
+  "newborn/rest-and-movement-after-birth": {
+    "description": "Doğum sonrası dinlenme ve destek önemlidir, ancak uzun yatak istirahati rutin değildir. Belirtilerinize uygun iyileşme planını nasıl kuracağınızı öğrenin."
+  },
+  "newborn/blue-or-grey-lips-in-a-baby": {
+    "description": "Bebekte mavi veya gri dudaklar bir uyarıdır, tek bir tanı değildir. Renk değişiminde hızlı yardımın ve güvenli suyun neden önemli olduğunu öğrenin."
+  },
+  "pregnancy/more-belly-hair-during-pregnancy": {
+    "description": "Gebelik vücut tüylerini artırabilir. Ani kalın kıllar başka hormonal belirtilerle birlikteyse neden değerlendirme gerektiğini öğrenin."
+  },
+  "trying-to-conceive/why-periods-happen": {
+    "description": "Adet rahim iç tabakasının dökülmesidir. Döngüyü saymayı ve kanama değişimlerini anlamayı öğrenin; hafif veya seyrek adetleri ne zaman konuşmalısınız?"
+  },
+  "trying-to-conceive/heavy-periods-causes-and-treatment-options": {
+    "description": "Yoğun adet kanamasını, olası nedenlerini ve acil uyarıları tanıyın; test ve tedavinin sağlık ile gebelik hedeflerine nasıl uyarlandığını öğrenin."
+  },
+  "trying-to-conceive/bowel-changes-around-your-period": {
+    "description": "Adetle birlikte dışkı kıvamı, sıklığı veya kokusu değişebilir. Örüntüyü izlemeyi, hafif belirtileri yönetmeyi ve ne zaman yardım istemeyi öğrenin."
+  },
+  "newborn/vitamin-a-during-breastfeeding": {
+    "description": "Emzirirken A vitamininin beslenmedeki rolünü öğrenin; yüksek doz takviyeler ile cilt retinoidlerinin neden ayrı danışmanlık gerektirdiğini anlayın."
+  },
+  "baby-and-child/covid-vaccination-and-future-fertility": {
+    "description": "COVID aşıları ve doğurganlık araştırmalarını inceleyin; adet değişiminin infertiliteden farkını ve güncel öneriler hakkında soruları öğrenin."
+  },
+  "family-health/covid-after-vaccination-and-long-covid": {
+    "title": "Aşı sonrası COVID-19 ve Uzun COVID: araştırmaların sınırları",
+    "description": "Aşı sonrası COVID-19 enfeksiyonunu ve erken araştırmaların sınırlarını anlayın; yeni veya süren belirtilerde pratik bakım ve yardım yollarını öğrenin."
+  },
+  "family-health/penis-size-genetics-and-development": {
+    "description": "Genler, hormonlar ve ergenliğin penis gelişimindeki rolünü öğrenin; yetişkin ortalamalarının sınırlarını ve büyüme kaygısının değerlendirilmesini anlayın."
+  },
+  "newborn/baby-wakes-crying-or-screaming": {
+    "description": "Bebeğin ağlayarak uyanmasının olası nedenlerini ve beslenme ile rahatlık kontrolünü öğrenin; hastalık veya bakım veren tükenmişliğinde yardım isteyin."
+  },
+  "newborn/why-babies-shake-or-turn-their-heads": {
+    "description": "Bazı baş hareketleri beslenme veya oyunun parçasıdır. Ani hareket kümeleri, farkındalık veya gelişim değişiminde neden hızlı yardım gerektiğini öğrenin."
+  },
+  "family-health/cervical-cancer-surgery-options": {
+    "description": "Rahim ağzı kanserinde ameliyatları, doğurganlığı koruyan seçenekleri ve lenf düğümü değerlendirmesini tanıyın; iyileşmenin günlük etkilerini öğrenin."
+  },
+  "newborn/necrotising-enterocolitis-signs-and-treatment": {
+    "description": "Nekrotizan enterokolit yenidoğanda ciddi bağırsak hastalığıdır. Acil belirtileri ve yenidoğan ekibinin tanı ile tedavi yaklaşımını öğrenin."
+  },
+  "family-health/oestrogen-testing-what-results-can-tell-you": {
+    "description": "Östrojen testinin neden istendiğini, örnek zamanlamasının etkisini ve evde hormon panelleri veya prenatal taramanın yorum sınırlarını öğrenin."
+  },
+  "newborn/preventing-abusive-head-trauma-and-getting-help": {
+    "description": "İstismara bağlı kafa travmasının acil belirtilerini tanıyın; ağlayan bebek karşısında bunalan bakım verenler için güvenli bir plan hazırlayın."
+  },
+  "baby-and-child/masturbation-and-acne-myths": {
+    "title": "Mastürbasyon ve akne: efsaneler ve cilt bakımı",
+    "description": "Mastürbasyonun akneye yol açtığı efsanesini gerçek nedenlerden ayırın; nazik bakım düzeni ve ne zaman profesyonel tedavi gerektiğini öğrenin."
+  },
+  "family-health/diarrhoea-around-your-period": {
+    "description": "Adet çevresindeki ishali yönetmenin pratik yollarını öğrenin; ağrı, kanama veya susuzluk belirtilerinde ne zaman tıbbi değerlendirme gerektiğini anlayın."
+  },
+  "newborn/bumps-on-the-nipple-or-areola": {
+    "description": "Meme ucu veya areoladaki kabarıklıklarda bez, tahriş ve enfeksiyon gibi nedenleri tanıyın; neyi kurcalamamak ve ne zaman kontrol ettirmek gerekir?"
+  },
+  "family-health/why-your-period-is-lighter-than-usual": {
+    "description": "Hafif adet akışında gebelik, emzirme, doğum kontrolü ve hormonal nedenleri öğrenin; değişimin ne zaman değerlendirme gerektirdiğini anlayın."
+  },
+  "newborn/tingling-or-burning-breasts-during-feeding": {
+    "description": "Emzirirken karıncalanma ve yanmada süt salınımını ağrı veya damar spazmından ayırın; rahatlama yollarını ve değerlendirme gereken belirtileri öğrenin."
+  },
+  "family-health/night-sweats-around-your-period": {
+    "description": "Adet çevresinde gece terlemesinin döngü, perimenopoz ve diğer nedenlerini tanıyın; uyku düzenlemelerini ve kontrol gerektiren belirtileri öğrenin."
+  },
+  "family-health/baking-soda-and-vulval-itching": {
+    "description": "Vulva kaşıntısında seyreltilmiş dış banyonun sınırlarını öğrenin; karbonatın vajinal veya idrar yolu enfeksiyonunu neden tedavi etmediğini anlayın."
+  },
+  "pregnancy/dating-pregnancy-after-embryo-transfer": {
+    "description": "Embriyo transferi sonrası gebelik haftası ve doğum tarihinin nasıl hesaplandığını öğrenin; embriyo yaşı, test ve ultrasonun rolünü anlayın."
+  },
+  "pregnancy/understanding-5d-ultrasound": {
+    "description": "2D, 3D, 4D ve 5D ultrason adlarının neyi gösterdiğini ve görüntülerin sınırlarını öğrenin; tıbben uygun tarama için görüşülecek konuları anlayın."
+  },
+  "family-health/breast-pain-around-menopause": {
+    "description": "Perimenopozda meme ağrısının değişimini, rahatlama ve ilaç gözden geçirme seçeneklerini öğrenin; hangi belirtilerin değerlendirme gerektirdiğini anlayın."
+  },
+  "family-health/clitoral-enlargement-and-swelling": {
+    "description": "Klitoriste uyarılmaya bağlı geçici değişim ile kalıcı şişliği ayırın; muayenenin tahriş, hormonal maruziyet veya başka nedeni bulmadaki rolünü öğrenin."
+  },
+  "newborn/when-your-baby-refuses-the-breast": {
+    "description": "Bebeğin kavrama güçlüğü, dikkat dağılması veya emme grevinde memeyi reddetmesini anlayın; destek alırken süt alımını korumayı öğrenin."
+  },
+  "newborn/ibuprofen-while-breastfeeding": {
+    "description": "Emzirirken ibuprofen kullanımını ve ürüne özel dozun önemini öğrenin; diğer ağrı kesicilerle farkını ve bebeğin tedavisinin ayrı olduğunu anlayın."
+  },
+  "family-health/migraine-around-your-period": {
+    "description": "Adetle ilişkili migreni tanıyın ve atak ile koruyucu tedaviyi karşılaştırın; aura, doğum kontrolü veya gebeliğin planı neden değiştirdiğini öğrenin."
+  },
+  "newborn/constipation-in-breastfed-babies": {
+    "description": "Anne sütü alan bebekte sert, ağrılı dışkı bir gün kaka yapmamaktan önemlidir. Yaşa göre normali ve ne zaman beslenme desteği istemeyi öğrenin."
+  },
+  "newborn/side-lying-breastfeeding": {
+    "description": "Yan yatarak emzirmede rahat kavrama ve yerleşimi öğrenin; beslenme bitince bebeği ayrı, güvenli uyku alanına geri koymanın önemini anlayın."
+  },
+  "newborn/moving-between-breast-and-bottle": {
+    "description": "Bebeğin meme ile biberon arasında geçişinde işaretlerini izleyip süt alımını koruyun; her güçlüğü meme başı karışıklığına bağlamamayı öğrenin."
+  },
+  "pregnancy/pelvic-pain-in-early-pregnancy": {
+    "description": "Erken gebelikte pelvik ağrının gerilme, kabızlık veya dış gebelik gibi nedenlerini öğrenin; hangi belirtilerin acil bakım gerektirdiğini anlayın."
+  },
+  "family-health/testosterone-and-healthy-habits": {
+    "description": "Uyku, hareket ve beslenme sağlığı destekler, ancak testosteron artışını garanti etmez. Kalıcı belirtilerde neden uygun değerlendirme gerektiğini öğrenin."
+  },
+  "newborn/recognising-cows-milk-protein-allergy": {
+    "description": "Süt proteini alerjisi hemen veya geç belirti verebilir. Tanı ve beslenme planının tehlikeli maruziyet ve gereksiz kısıtlamaları önlemedeki rolünü öğrenin."
+  },
+  "pregnancy/waters-break-without-contractions": {
+    "description": "Suyunuz geldiğinden şüpheleniyorsanız doğum ekibini arayın. Haftalara göre bakım farklarını, değerlendirmeyi ve acil uyarı belirtilerini öğrenin."
+  },
+  "newborn/understanding-neonatal-lupus": {
+    "description": "Yenidoğan lupusunun yetişkin lupusundan farkını ve düzelebilen belirtileri öğrenin; kalp bloğunun neden ayrı uzman bakımına ihtiyaç duyduğunu anlayın."
+  },
+  "newborn/why-breast-milk-changes-colour": {
+    "description": "Anne sütünün normal renklerini ve saklama değişimlerini tanıyın; pembe, kırmızı, kahverengi veya siyah süt için ne zaman danışmanız gerektiğini öğrenin."
+  },
+  "pregnancy/planning-care-for-psoriasis": {
+    "description": "Sedef hastalığıyla sağlıklı gebelik mümkündür. İlaçları erken gözden geçirmeyi ve değişen belirtilerle doğum sonrası beslenmeyi planlamayı öğrenin."
+  },
+  "newborn/can-you-increase-milk-supply-in-one-day": {
+    "description": "Süt azlığını değerlendirmeyi ve bugün yardımcı olabilecek adımları öğrenin; yoğun sağım, yiyecekler ve hızlı çözüm önerilerinin sınırlarını anlayın."
+  },
+  "family-health/grey-vaginal-discharge": {
+    "description": "Gri akıntının olası nedenlerinden biri bakteriyel vajinozistir, ancak belirtiler örtüşür. Testlerin önemini ve ne zaman yardım istemeyi öğrenin."
+  },
+  "family-health/discharge-after-your-period": {
+    "title": "Adet sonrası akıntı: normal değişimler ve uyarı belirtileri",
+    "description": "Adet sonrası kahverengi lekelenme veya mukus değişebilir. Devam eden kanama, ağrı veya alışılmadık kokunun ne zaman değerlendirilmesi gerektiğini öğrenin."
+  },
+  "family-health/menopause-and-insomnia": {
+    "description": "Menopozun uykuyu nasıl etkilediğini, başka nedenlerin değerlendirilmesini ve uykusuzluk için bilişsel terapi ile kişisel tedavinin rolünü öğrenin."
+  },
+  "family-health/burning-nipple-pain-and-its-causes": {
+    "description": "Meme ucunda yanma nedenlerini, emzirme desteğini ve zararlı ev çözümlerinden kaçınmayı öğrenin; hangi değişiklikler muayene gerektirir?"
+  },
+  "pregnancy/grape-dreams-and-pregnancy-predictions": {
+    "description": "Gebelikte üzüm rüyalarının geleneksel simgelerini keşfedin; renk veya eylemlerin bebeğin sağlığına ilişkin kanıt sayılmadığını öğrenin."
+  },
+  "trying-to-conceive/implantation-timing-and-pregnancy-testing": {
+    "description": "İmplantasyon hesaplayıcısı yalnız tahmin verir. Tarihlerin sınırlarını öğrenin ve gebelik testi için daha güvenilir bir zaman seçmeyi anlayın."
+  },
+  "family-health/common-period-problems-and-getting-help": {
+    "description": "Adet ağrısı, yoğun kanama veya adet görememenin çeşitli nedenlerini tanıyın; hangi örüntüleri kaydedeceğinizi ve ne zaman yardım isteyeceğinizi öğrenin."
+  },
+  "family-health/cauda-equina-syndrome-emergency-symptoms": {
+    "description": "Kauda ekuinada mesane, bağırsak ve eyer bölgesi duyusundaki acil değişiklikleri tanıyın; test, ameliyat ve iyileşme desteğini öğrenin."
+  },
+  "pregnancy/sour-food-cravings-and-baby-sex": {
+    "description": "Ekşi aşermenin bebeğin cinsiyetini göstermediğini öğrenin; bu yiyeceklerin neden çekici gelebileceğini ve gebelikte güvenli tüketimini anlayın."
+  },
+  "trying-to-conceive/understanding-unexplained-infertility": {
+    "description": "Standart fertilite değerlendirmesinin bulgularını ve açıklanamayan infertilitede kalan belirsizliği öğrenin; ek test ve gerçekçi planı görüşün."
+  },
+  "trying-to-conceive/follitropin-alfa-treatment-guide": {
+    "description": "Follitropin alfanın etkisini ve hangi durumlarda reçete edilebildiğini öğrenin; enjeksiyon, saklama, takip ve yan etkiler hakkında sorular hazırlayın."
+  },
+  "baby-and-child/genital-development-and-puberty-concerns": {
+    "description": "Ergenlikte genital gelişimin farklı hızlarını ve yaş tablolarının sınırlarını öğrenin; gencin kaygısına mahremiyetini koruyarak yanıt verin."
+  },
+  "trying-to-conceive/lubricants-when-trying-to-conceive": {
+    "description": "Gebe kalmaya çalışırken kayganlaştırıcının sperm uyumu iddialarını ve laboratuvar ile gerçek yaşam kanıtlarının farkını öğrenin; rahatlığı koruyun."
+  },
+  "trying-to-conceive/symptoms-after-embryo-transfer": {
+    "title": "Embriyo transferi sonrası belirtiler: anlamı ve test zamanı",
+    "description": "Transfer sonrası lekelenme, kramp ve diğer belirtilerin sınırlarını öğrenin; ne zaman test yapılması veya tıbbi değerlendirme gerektiğini anlayın."
+  },
+  "pregnancy/tuna-and-mercury-during-pregnancy": {
+    "description": "Gebelikte ton balığının türü ve miktarı konserve olmasından daha önemlidir. Cıva ve balık seçimini nasıl birlikte değerlendireceğinizi öğrenin."
+  },
+  "pregnancy/food-choices-with-gestational-diabetes": {
+    "description": "Gebelik diyabetinde porsiyon, eşleştirme ve hazırlamayı kişisel plana uyarlamayı öğrenin; tüm karbonhidratları kesmeyin veya pişirme hilelerine güvenmeyin."
+  },
+  "trying-to-conceive/what-to-do-after-sex-when-trying": {
+    "title": "Gebe kalmak için ilişkiden sonra özel bir şey gerekir mi?",
+    "description": "Gebe kalmak için ilişkiden sonra bacak kaldırmak gerekmez. Zamanlama, rahatlık ve gebelik öncesi bakımın nasıl yardımcı olabileceğini öğrenin."
+  },
+  "trying-to-conceive/understanding-vaginismus-symptoms": {
+    "description": "Vajinismusta istemsiz pelvik taban kasılmasını ve belirtilerin değişimini anlayın; ağrı, geçmiş deneyimler ve korkunun katkısını suçlamadan ele alın."
+  },
+  "trying-to-conceive/emotional-support-during-fertility-treatment": {
+    "description": "Fertilite tedavisinin ruh hali ve ilişkilere etkisini anlayın; kontrol hissini destekleyen adımları ve yakınlar ile uzmanların yardımını öğrenin."
+  },
+  "trying-to-conceive/understanding-ovarian-cancer": {
+    "description": "Yumurtalık kanserinin türlerini, kalıcı belirtilerin değerlendirmesini ve taramanın sınırlarını öğrenin; tedavi ve doğurganlık planını anlayın."
+  },
+  "trying-to-conceive/weight-and-gestational-diabetes-risk": {
+    "title": "Gebelik öncesi kilo ve gebelik diyabeti riski",
+    "description": "Gebelik öncesi değişimler bazı kişilerde diyabet riskini azaltabilir. Önerilerin sağlık, gebelik planı ve kişisel ihtiyaçlara nasıl uyarlandığını öğrenin."
+  },
+  "pregnancy/blood-pressure-cannot-choose-baby-sex": {
+    "description": "Gebelik öncesi tansiyon bebeğin cinsiyetini güvenilir biçimde öngörmez. Gözlemsel ilişkinin neden tansiyonu değiştirmek için gerekçe olmadığını öğrenin."
+  },
+  "family-health/testicular-cancer-diagnosis-treatment-and-fertility": {
+    "description": "Testis kitlesinde görüntüleme ve kan belirteçlerinin rolünü öğrenin; kanser türünün tedavi ile doğurganlık planını nasıl değiştirdiğini anlayın."
+  },
+  "newborn/postpartum-recovery-what-to-avoid-and-when-to-seek-help": {
+    "description": "Doğum sonrası dinlenme, kanama, ağrı, ruh hali ve korunmayı planlayın; pratik desteğin rolünü ve hangi belirtilerde acil değerlendirme gerektiğini öğrenin."
+  },
+  "pregnancy/superfetation-pregnancy-during-pregnancy": {
+    "description": "Nadir süperfetasyon bildirimlerini ve fetal boyut farkının neden kanıt olmadığını öğrenin; gebelik ve fertilite bakımına etkisini anlayın."
+  },
+  "pregnancy/what-determines-babys-hair-colour": {
+    "description": "Kalıtımın bebeğin saç rengine etkisini ve basit tahminlerin sınırlarını öğrenin; gebelikte yiyecek veya ev yöntemlerinin sarı saç sağlayamayacağını anlayın."
+  },
+  "baby-and-child/partridge-meat-for-children": {
+    "description": "Çocuklar için keklik etinde kaynak, pişirme ve dokuyu değerlendirin; kurşunla avlanma, alerji ve abartılı sağlık iddialarının önemini öğrenin."
+  },
+  "pregnancy/partridge-meat-in-pregnancy": {
+    "description": "Gebelikte keklik etinin güvenliğini değerlendirirken kurşunla avlanma ve pişirmeyi ele alın; özel tıbbi yarar vaatlerinin kanıt sınırlarını öğrenin."
+  },
+  "family-health/clitoral-itching-causes-and-care": {
+    "description": "Klitoris kaşıntısında tahriş, enfeksiyon veya cilt hastalığı gibi nedenleri tanıyın; neyi gözlemlemek, nelerden kaçınmak ve ne zaman yardım istemek gerekir?"
+  },
+  "pregnancy/ostrich-liver-in-pregnancy": {
+    "title": "Gebelikte devekuşu karaciğeri: riskler ve demir kaynakları",
+    "description": "Devekuşu karaciğeri besin içerir, fakat gebelikte karaciğerden kaçınma önerilir. A vitamini riskini ve alternatif demir kaynaklarını öğrenin."
+  },
+  "baby-and-child/ostrich-meat-for-children": {
+    "description": "Çocuklara devekuşu eti verirken protein, doku ve pişirmeyi değerlendirin; boğulma ve gıda güvenliği risklerini azaltmanın yollarını öğrenin."
+  },
+  "pregnancy/ostrich-meat-in-pregnancy": {
+    "description": "Gebelikte devekuşu etinin besinlerini ve güvenli hazırlanmasını öğrenin; yarar iddialarının sınırlarını ve karaciğer önerisinin farkını anlayın."
+  },
+  "newborn/gripe-water-safety-for-babies": {
+    "title": "Bebekler için gripe water: kanıtlar ve güvenlik",
+    "description": "Gripe water içeriklerini ve kolik kanıtlarını inceleyin; bebeği yatıştırma, beslenme desteği ve tıbbi yardım gerektiren belirtileri öğrenin."
+  },
+  "newborn/snoring-and-noisy-breathing-in-babies": {
+    "description": "Bebekte burun sesleri, horlama ve stridoru ayırt etmeyi öğrenin; beslenme veya solunum değişikliğinde hangi işaretler acil bakım gerektirir?"
+  },
+  "family-health/enlarged-uterus": {
+    "description": "Rahim büyümesinde miyom ve adenomyozis gibi nedenleri, değerlendirme gereken belirtileri ve tedavinin kişisel hedeflere göre seçimini öğrenin."
+  },
+  "newborn/torticollis-causes-and-care": {
+    "description": "Bebek, çocuk ve yetişkinde tortikollis nedenlerini ve uyarı belirtilerini tanıyın; fizyoterapi veya uzman tedavisinin tanıya göre nasıl değiştiğini öğrenin."
+  }
+}

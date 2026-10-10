@@ -1,0 +1,45 @@
+[
+  {
+    "id": "family-health",
+    "slug": "family-health",
+    "order": 5,
+    "hero": "content/part-01/category-family-health.webp",
+    "heroAlt": {
+      "en": "Adults from different generations spending time together in a garden.",
+      "fa": "بزرگسالانی از نسل‌های مختلف در کنار هم در یک باغ وقت می‌گذرانند.",
+      "ar": "بالغون من أجيال مختلفة يقضون وقتًا معًا في حديقة.",
+      "fr": "Des adultes de différentes générations passent du temps ensemble dans un jardin.",
+      "tr": "Farklı kuşaklardan yetişkinler bir bahçede birlikte vakit geçiriyor.",
+      "es": "Personas adultas de distintas generaciones pasan tiempo juntas en un jardín.",
+      "pt": "Adultos de diferentes gerações passam tempo juntos em um jardim."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    },
+    "icon": "icon-ai-safety-navy.svg",
+    "title": {
+      "en": "Family Health",
+      "fa": "سلامت خانواده",
+      "ar": "صحة الأسرة",
+      "fr": "Santé de la famille",
+      "tr": "Aile sağlığı",
+      "es": "Salud familiar",
+      "pt": "Saúde da família"
+    },
+    "blurb": {
+      "en": "Understand symptoms, tests, treatment choices and sexual wellbeing across adult life, with practical guidance for conversations with your care team.",
+      "fa": "علائم، آزمایش‌ها، گزینه‌های درمان و سلامت جنسی در دوران بزرگسالی را بشناسید؛ همراه با راهنمایی کاربردی برای گفت‌وگو با تیم مراقبت سلامت خود.",
+      "ar": "تعرّفوا إلى الأعراض والفحوص وخيارات العلاج والصحة الجنسية في مراحل حياة البالغين، مع إرشادات عملية للحوار مع فريق الرعاية الصحية.",
+      "fr": "Comprendre les symptômes, les examens, les choix de traitement et le bien-être sexuel à l’âge adulte, avec des repères pratiques pour échanger avec votre équipe de soins.",
+      "tr": "Yetişkinlik boyunca belirtileri, tetkikleri, tedavi seçeneklerini ve cinsel sağlığı anlamaya; sağlık ekibinizle görüşmeye yardımcı pratik bilgiler.",
+      "es": "Comprende los síntomas, las pruebas, las opciones de tratamiento y el bienestar sexual en la vida adulta, con orientación práctica para hablar con tu equipo de salud.",
+      "pt": "Entenda sintomas, exames, opções de tratamento e bem-estar sexual na vida adulta, com orientações práticas para conversar com sua equipe de saúde."
+    }
+  }
+]

@@ -1,0 +1,1391 @@
+{
+  "family-health/osteoarthritis-diagnosis-and-care": {
+    "title": "Artrosis: diagnóstico, cuidados y tratamiento",
+    "description": "Conoce cómo se evalúa la artrosis y qué pueden aportar el ejercicio, los apoyos y los medicamentos según la articulación afectada."
+  },
+  "family-health/understanding-osteoarthritis-symptoms": {
+    "title": "Artrosis: síntomas iniciales y opciones de tratamiento",
+    "description": "Descubre cómo cambia la artrosis las articulaciones, por qué síntomas e imágenes pueden diferir y qué tratamientos ayudan a cuidar la movilidad."
+  },
+  "family-health/hyperthyroidism-and-natural-remedies": {
+    "title": "Hipertiroidismo: alimentación y remedios naturales",
+    "description": "Examina las pruebas y los límites de los remedios naturales para el hipertiroidismo, sin sustituir el tratamiento médico por suplementos."
+  },
+  "family-health/lightheadedness-and-when-to-get-help": {
+    "description": "Distingue la sensación de desmayo del vértigo, reduce el riesgo de caídas y reconoce cuándo el aturdimiento necesita atención urgente."
+  },
+  "family-health/clitoral-size-and-orgasm-concerns": {
+    "description": "Conoce la anatomía del clítoris y los factores que influyen en el orgasmo, además de cuándo consultar por dolor o cambios persistentes.",
+    "title": "Tamaño del clítoris y dificultad para alcanzar el orgasmo"
+  },
+  "family-health/eating-well-with-hyperthyroidism": {
+    "description": "Revisa el papel del yodo, el calcio y la vitamina D durante el tratamiento del hipertiroidismo, evitando restricciones sin fundamento."
+  },
+  "family-health/recognizing-thyroid-storm": {
+    "description": "La fiebre, los latidos muy rápidos y la confusión pueden indicar una emergencia tiroidea. Aprende a reconocer cuándo pedir ayuda inmediata."
+  },
+  "family-health/understanding-white-blood-cell-counts": {
+    "description": "Entiende qué miden los glóbulos blancos, por qué su recuento puede subir o bajar y cómo se investiga la causa antes de elegir tratamiento."
+  },
+  "family-health/abdominal-pain-and-loss-of-appetite": {
+    "description": "Conoce posibles causas del dolor abdominal con falta de apetito, los límites del cuidado en casa y las señales que requieren atención urgente."
+  },
+  "family-health/lower-abdominal-pain-and-gynecologic-causes": {
+    "title": "Dolor abdominal inferior izquierdo: causas ginecológicas",
+    "description": "Revisa causas menstruales, ováricas y pélvicas del dolor abdominal inferior izquierdo y reconoce señales que necesitan atención urgente."
+  },
+  "family-health/pain-in-the-lower-left-abdomen": {
+    "title": "Dolor abdominal inferior izquierdo: causas y evaluación",
+    "description": "Entiende las causas intestinales, urinarias y reproductivas del dolor abdominal inferior izquierdo y cuándo buscar evaluación urgente."
+  },
+  "family-health/colon-cancer-tests-and-treatment": {
+    "description": "Conoce las pruebas y tratamientos del cáncer de colon, desde la colonoscopia hasta la cirugía, y los límites de las cifras de supervivencia."
+  },
+  "family-health/colorectal-cancer-symptoms-and-stages": {
+    "description": "Entiende los síntomas, estadios y pruebas del cáncer colorrectal, y cómo el diagnóstico orienta el tratamiento y la recuperación."
+  },
+  "family-health/rectal-cancer-diagnosis-and-care": {
+    "description": "Revisa los síntomas y pruebas del cáncer de recto, las opciones de tratamiento y qué pueden decir las estadísticas de supervivencia."
+  },
+  "family-health/melanoma-stages-and-treatment": {
+    "description": "Una lesión cutánea que cambia necesita valoración. Entiende cómo se determina el estadio del melanoma y se elige el tratamiento.",
+    "title": "Melanoma: cambios en la piel, estadios y tratamiento"
+  },
+  "family-health/hyperthyroidism-in-men": {
+    "description": "Conoce cómo el hipertiroidismo puede afectar a los hombres, incluida la salud sexual, y qué pruebas, tratamientos y seguimiento se utilizan."
+  },
+  "family-health/thyroid-scans-pregnancy-and-breastfeeding": {
+    "title": "Gammagrafía tiroidea: preparación, embarazo y lactancia",
+    "description": "Entiende la gammagrafía tiroidea y su preparación, y por qué las precauciones durante embarazo y lactancia dependen del trazador utilizado."
+  },
+  "family-health/medullary-thyroid-cancer": {
+    "description": "Conoce los síntomas del cáncer medular de tiroides y por qué requiere pruebas, evaluación genética y un tratamiento específico para este tipo."
+  },
+  "family-health/how-leukemia-is-diagnosed": {
+    "title": "Diagnóstico de leucemia: síntomas, pruebas y tipos",
+    "description": "Descubre qué aportan las pruebas de sangre y médula ósea en la leucemia, y por qué el tipo de enfermedad determina el plan de tratamiento."
+  },
+  "family-health/non-hodgkin-lymphoma": {
+    "description": "El linfoma no Hodgkin reúne distintos cánceres. Comprende cómo se identifica el subtipo y por qué importa para las opciones de tratamiento."
+  },
+  "family-health/hysterectomy-recovery-and-risks": {
+    "description": "Entiende la recuperación de una histerectomía, los cambios permanentes y las preguntas sobre menopausia, sexo, prolapso y seguimiento.",
+    "title": "Histerectomía: recuperación y posibles complicaciones"
+  },
+  "family-health/clitoral-hood-anatomy-and-concerns": {
+    "title": "Capuchón del clítoris: anatomía, molestias y cirugía",
+    "description": "Conoce la variación normal del capuchón del clítoris, cuándo revisar las molestias y los límites de las afirmaciones sobre cirugía estética."
+  },
+  "family-health/using-condoms-correctly": {
+    "title": "Preservativos: uso correcto y qué hacer si se rompen",
+    "description": "Aprende a elegir y usar preservativos y lubricantes, conservarlos bien y actuar a tiempo si se produce una rotura o un deslizamiento."
+  },
+  "family-health/weight-changes-after-hysterectomy": {
+    "title": "Cambios de peso después de una histerectomía",
+    "description": "Entiende cómo pueden influir la recuperación, el apetito, la actividad y los cambios ováricos en el peso después de una histerectomía."
+  },
+  "newborn/constipation-while-breastfeeding": {
+    "title": "Estreñimiento durante la lactancia: alivio y laxantes",
+    "description": "Revisa las opciones para aliviar el estreñimiento posparto, las precauciones con laxantes durante la lactancia y cuándo solicitar una revisión."
+  },
+  "family-health/bleeding-while-using-contraception": {
+    "description": "Entiende el manchado con anticonceptivos, el efecto de olvidos o medicamentos y cuándo valorar un embarazo o pedir ayuda por el sangrado."
+  },
+  "family-health/making-cervical-screening-more-comfortable": {
+    "description": "Conoce cómo se realiza el cribado cervical, qué puede reducir las molestias y cómo interpretar el sangrado, los resultados y el seguimiento."
+  },
+  "family-health/cervical-biopsy-and-recovery": {
+    "description": "Entiende los tipos de biopsia cervical, cómo prepararte y qué dolor, sangrado o cambios durante la recuperación requieren consultar."
+  },
+  "pregnancy/do-babies-sleep-in-the-womb": {
+    "title": "¿Duermen los bebés en el útero? Movimientos y evidencia",
+    "description": "Explora lo que se sabe del sueño fetal y sus límites, y por qué un cambio en los movimientos del bebé requiere consejo inmediato."
+  },
+  "family-health/unexpected-vaginal-bleeding": {
+    "description": "Revisa posibles causas del sangrado vaginal inesperado, desde anticonceptivos hasta embarazo o infección, y cuándo pedir evaluación médica."
+  },
+  "family-health/breast-pain-and-when-to-seek-care": {
+    "description": "Entiende causas frecuentes del dolor de mama, el alivio que puede ayudar y las señales que requieren una valoración médica individual."
+  },
+  "family-health/a-new-breast-lump": {
+    "description": "Conoce posibles causas de un bulto mamario nuevo y qué pueden aclarar la exploración, las imágenes y la biopsia al valorar el siguiente paso."
+  },
+  "newborn/when-baby-is-not-gaining-weight": {
+    "description": "Entiende la pérdida de peso inicial y la ganancia lenta del bebé, con pasos para revisar su alimentación y crecimiento de forma individual."
+  },
+  "family-health/ovarian-cancer-symptoms-and-assessment": {
+    "title": "Cáncer de ovario: síntomas y cómo solicitar evaluación",
+    "description": "Conoce los cambios persistentes de hinchazón, dolor, apetito, orina o sangrado que conviene consultar y cómo prepararte para la evaluación."
+  },
+  "family-health/understanding-ovarian-cancer-stages": {
+    "title": "Cáncer de ovario: estadios y cifras de supervivencia",
+    "description": "Comprende los estadios FIGO del cáncer de ovario y los límites de las cifras de supervivencia para preparar preguntas útiles a tu equipo."
+  },
+  "family-health/cervicitis-symptoms-and-care": {
+    "description": "Entiende la inflamación del cuello uterino, las pruebas que buscan su causa y la importancia del tratamiento, las parejas y el seguimiento."
+  },
+  "pregnancy/watermelon-seeds-as-a-pregnancy-snack": {
+    "description": "Conoce cómo incluir semillas comestibles de sandía en el embarazo, los límites de sus supuestos beneficios y las precauciones al consumirlas."
+  },
+  "family-health/vaginal-depth-and-pain-with-penetration": {
+    "description": "Entiende por qué varía la profundidad vaginal, qué puede causar dolor con la penetración y cómo buscar apoyo sin presión para continuar."
+  },
+  "family-health/cervical-cone-biopsy-and-recovery": {
+    "description": "Conoce la preparación y recuperación de una biopsia cónica cervical y cómo sus resultados orientan el seguimiento y un embarazo futuro."
+  },
+  "family-health/understanding-orgasm-without-performance-pressure": {
+    "description": "Explora el orgasmo, la estimulación y la comunicación en la salud sexual adulta, con formas de buscar ayuda sin presión por rendir."
+  },
+  "family-health/urethral-stricture-symptoms-and-treatment": {
+    "description": "Entiende cómo las cicatrices estrechan la uretra, qué pruebas delimitan el problema y cómo difieren la dilatación, la reconstrucción y el drenaje."
+  },
+  "newborn/breast-lumps-during-breastfeeding": {
+    "description": "Conoce las causas de un bulto mamario durante la lactancia, cuándo revisarlo y cómo pueden afectar las pruebas o el tratamiento a la alimentación."
+  },
+  "family-health/recovery-after-a-double-mastectomy": {
+    "description": "Prepara apoyo para recuperarte de una doble mastectomía y entiende los drenajes, las heridas, la sensibilidad y el seguimiento emocional."
+  },
+  "family-health/understanding-bilateral-mastectomy": {
+    "description": "Revisa por qué puede plantearse una mastectomía bilateral, las opciones de reconstrucción y cómo preparar la recuperación en casa."
+  },
+  "family-health/sex-and-semen-after-hysterectomy": {
+    "description": "Entiende qué ocurre con el semen tras una histerectomía, los posibles cambios sexuales y hormonales y cuándo pedir ayuda al recuperarte."
+  },
+  "pregnancy/papaya-in-pregnancy-and-the-evidence": {
+    "description": "Examina qué se sabe de la papaya madura y verde durante el embarazo, dónde persiste la incertidumbre y cómo tomar decisiones alimentarias."
+  },
+  "pregnancy/cravings-nausea-and-baby-intelligence": {
+    "title": "¿Predicen los antojos la inteligencia del bebé?",
+    "description": "Conoce los límites de la investigación sobre náuseas, antojos e inteligencia del bebé, y cuándo buscar ayuda por malestar o antojos no alimentarios."
+  },
+  "pregnancy/trichomoniasis-testing-and-treatment": {
+    "description": "Entiende las pruebas y el tratamiento de la tricomoniasis durante el embarazo, el cuidado de las parejas y cuándo repetir las pruebas."
+  },
+  "family-health/trichomoniasis-symptoms-tests-and-partner-care": {
+    "description": "Conoce cómo se transmite la tricomoniasis, por qué puede no causar síntomas y cómo se coordinan las pruebas, el tratamiento y el cuidado de parejas."
+  },
+  "family-health/mucus-in-urine-what-to-check": {
+    "description": "Entiende qué puede significar el moco en la orina, cómo distinguirlo de otras secreciones y qué pruebas ayudan a investigar la causa."
+  },
+  "family-health/colorless-urine-and-excessive-thirst": {
+    "description": "Conoce por qué la orina puede ser incolora, cómo influyen los líquidos y medicamentos y cuándo la sed excesiva u otros síntomas requieren revisión."
+  },
+  "family-health/urinary-retention-causes-and-diagnosis": {
+    "description": "Entiende la retención urinaria repentina y crónica, sus posibles causas y las pruebas para investigar por qué la vejiga no se vacía bien."
+  },
+  "family-health/fibroids-home-care-and-treatment-evidence": {
+    "title": "Miomas: cuidados en casa y evidencia sobre tratamientos",
+    "description": "Revisa los cuidados para los miomas, los límites de dieta y hierbas y las opciones médicas si el sangrado o la presión afectan a tu vida."
+  },
+  "newborn/home-phototherapy-for-jaundice": {
+    "title": "Fototerapia en casa: cuidados de la ictericia neonatal",
+    "description": "Conoce cómo se organiza la fototerapia domiciliaria supervisada del recién nacido, con cuidados de alimentación, equipo, vigilancia y seguimiento."
+  },
+  "newborn/noticing-jaundice-and-getting-bilirubin-checked": {
+    "title": "Ictericia neonatal: señales y pruebas de bilirrubina",
+    "description": "Entiende los límites de observar la piel amarilla, las pruebas de bilirrubina y las señales del recién nacido que requieren atención urgente."
+  },
+  "pregnancy/can-an-anembryonic-pregnancy-be-misdiagnosed": {
+    "title": "Saco gestacional vacío: confirmar el diagnóstico",
+    "description": "Entiende por qué una ecografía temprana con un saco vacío puede necesitar confirmación y cómo las pruebas y el seguimiento orientan la atención."
+  },
+  "pregnancy/ovarian-cancer-during-pregnancy": {
+    "title": "Cáncer de ovario durante el embarazo: planificar la atención",
+    "description": "Conoce cómo se coordinan las pruebas y el tratamiento del cáncer de ovario en el embarazo, junto con la alimentación infantil y la fertilidad futura."
+  },
+  "family-health/urethral-cancer-symptoms-and-care": {
+    "description": "Entiende el diagnóstico del cáncer de uretra, el papel de la biopsia y el estadio, y cómo se organiza el tratamiento especializado y su seguimiento."
+  },
+  "family-health/urethral-caruncle-symptoms-and-treatment": {
+    "title": "Carúncula uretral: evaluación y tratamiento",
+    "description": "Una carúncula uretral suele ser benigna. Conoce por qué conviene examinar esta protuberancia y cuándo puede necesitar tratamiento."
+  },
+  "pregnancy/urge-to-urinate-but-little-comes-out": {
+    "description": "Distingue la frecuencia urinaria del embarazo de una infección o un vaciado incompleto, y reconoce cuándo orinar muy poco necesita revisión."
+  },
+  "family-health/difficulty-starting-urination": {
+    "description": "Conoce las causas de la dificultad para empezar a orinar y las pruebas utilizadas. No poder orinar de repente requiere atención urgente."
+  },
+  "family-health/dry-sex-meaning-and-health-risks": {
+    "description": "Distingue el contacto sin penetración del secado deliberado de la vagina y comprende sus implicaciones para comodidad, consentimiento y riesgos."
+  },
+  "family-health/anal-sex-orgasm-and-health-considerations": {
+    "description": "Explora la respuesta sexual adulta, los límites de las afirmaciones sobre placer anal y las medidas para reducir lesiones e infecciones."
+  },
+  "family-health/bladder-stones-causes-and-treatment": {
+    "description": "Conoce cómo se forman los cálculos de vejiga, el papel del vaciado incompleto y las opciones de diagnóstico, tratamiento y prevención."
+  },
+  "pregnancy/strong-smelling-urine-and-when-to-check": {
+    "title": "Orina con olor fuerte: causas y precauciones en el embarazo",
+    "description": "Entiende cómo alimentos, líquidos, medicamentos o infecciones cambian el olor de la orina y cuándo consultar, especialmente en el embarazo."
+  },
+  "pregnancy/when-does-a-babys-brain-develop": {
+    "description": "Descubre cómo se desarrolla el cerebro fetal por trimestres y qué límites tiene la investigación sobre audición e inteligencia antes del nacimiento."
+  },
+  "pregnancy/can-cravings-predict-a-babys-sex": {
+    "title": "¿Predicen los antojos el sexo del bebé?",
+    "description": "Los antojos no predicen el sexo del bebé. Revisa estas creencias y cómo cuidar la nutrición y la seguridad alimentaria durante el embarazo."
+  },
+  "trying-to-conceive/can-home-methods-help-you-conceive-a-girl": {
+    "description": "Examina los límites de las afirmaciones sobre alimentos, hierbas y posiciones para concebir una niña, y por qué evitar las duchas vaginales."
+  },
+  "trying-to-conceive/can-traditional-methods-help-you-conceive-a-boy": {
+    "description": "Revisa las pruebas sobre métodos tradicionales para concebir un niño y las medidas más seguras para prepararte para un embarazo."
+  },
+  "pregnancy/quran-recitation-and-connection-during-pregnancy": {
+    "title": "Recitar el Corán durante el embarazo: conexión espiritual",
+    "description": "La recitación puede ofrecer conexión espiritual en el embarazo, pero ninguna práctica concreta garantiza una mayor inteligencia del bebé."
+  },
+  "newborn/care-after-the-umbilical-cord-falls-off": {
+    "title": "Cuidados del ombligo después de caer el cordón",
+    "description": "Aprende a cuidar el ombligo mientras cicatriza, qué puede significar una pequeña mancha de sangre y qué señales del recién nacido requieren ayuda."
+  },
+  "family-health/white-spots-on-scrotal-skin": {
+    "title": "Manchas blancas en el escroto: causas y evaluación",
+    "description": "Conoce posibles causas de manchas blancas en el escroto, desde folículos y quistes hasta infecciones, y por qué el cuidado depende del diagnóstico."
+  },
+  "family-health/testicular-injury-and-urgent-symptoms": {
+    "description": "Distingue un hematoma escrotal de lesiones más profundas y entiende cuándo el dolor o una lesión testicular requieren atención urgente."
+  },
+  "family-health/omicron-symptoms-and-outdated-comparisons": {
+    "title": "Síntomas de Ómicron: límites de las comparaciones antiguas",
+    "description": "Los síntomas de resfriado no identifican una variante ni garantizan una COVID-19 leve. Entiende por qué importan las pruebas y tu riesgo individual."
+  },
+  "newborn/slim-baby-or-growth-concern": {
+    "description": "Conoce cómo el crecimiento, la alimentación y los antecedentes ayudan a distinguir un bebé pequeño de uno que necesita apoyo para ganar peso."
+  },
+  "family-health/rectal-bleeding-after-sex": {
+    "description": "Revisa posibles causas del sangrado rectal tras el sexo, los cuidados para recuperarte y las señales que necesitan atención médica urgente."
+  },
+  "newborn/breastfeeding-and-sexual-wellbeing": {
+    "description": "Entiende cómo lactancia, hormonas y recuperación pueden influir en deseo y comodidad sexual, con apoyo para comunicación y anticoncepción."
+  },
+  "family-health/low-sexual-desire-in-men": {
+    "description": "Conoce factores hormonales, médicos y cotidianos que pueden reducir el deseo sexual masculino y cómo buscar apoyo adaptado a la causa."
+  },
+  "family-health/abdominal-massage-for-constipation": {
+    "description": "Revisa la evidencia y los límites del masaje para el estreñimiento, con precauciones específicas para embarazo, bebés y síntomas de alarma."
+  },
+  "family-health/understanding-the-norwood-hair-loss-scale": {
+    "description": "Entiende las etapas de la escala de Norwood y sus límites para diagnosticar la caída del cabello, junto con las opciones de tratamiento."
+  },
+  "pregnancy/understanding-pregnancy-weeks-and-trimesters": {
+    "description": "Aprende a contar las semanas de embarazo, entender la fecha probable de parto y distinguir los meses aproximados de las definiciones de término."
+  },
+  "newborn/contraception-while-breastfeeding": {
+    "description": "Compara opciones anticonceptivas durante la lactancia y conoce los límites de su efecto protector y qué hacer si falla la protección."
+  },
+  "pregnancy/covid-19-complications-and-study-findings": {
+    "description": "Interpreta el estudio de COVID-19 en embarazadas de 2022 en su contexto previo a vacunas y distingue las estimaciones de riesgo y gravedad."
+  },
+  "family-health/contraception-covid-19-and-blood-clots": {
+    "title": "Anticoncepción, COVID-19 y riesgo de coágulos",
+    "description": "Entiende cuándo una COVID-19 grave puede cambiar el plan anticonceptivo y por qué los cambios deben acordarse con un profesional sanitario."
+  },
+  "family-health/covid-vaccine-comparisons-and-changing-variants": {
+    "title": "Vacunas y Ómicron: interpretar las primeras comparaciones",
+    "description": "Revisa qué mostraron las primeras comparaciones de vacunas contra Ómicron y por qué esos resultados no definen la vacunación actual."
+  },
+  "family-health/smell-and-taste-changes-after-covid-19": {
+    "title": "Cambios del olfato y el gusto después de COVID-19",
+    "description": "Conoce los cambios de olfato y gusto tras COVID-19, los límites de la investigación y cuándo buscar ayuda para recuperarte o alimentarte."
+  },
+  "family-health/heart-symptoms-after-covid-19": {
+    "description": "Las palpitaciones o la falta de aire persistentes tras COVID-19 necesitan atención, aunque no todas las personas requieren las mismas pruebas."
+  },
+  "family-health/moles-and-spots-on-the-penis": {
+    "description": "Conoce posibles causas de lunares y manchas en el pene, las señales para consultar y por qué se necesita diagnóstico antes de eliminarlos."
+  },
+  "pregnancy/deodorant-and-antiperspirant-in-pregnancy": {
+    "description": "El embarazo puede cambiar el sudor y la sensibilidad a olores. Aprende a elegir desodorantes según su uso, etiqueta y respuesta de la piel."
+  },
+  "pregnancy/breath-fresheners-and-mouthwash": {
+    "description": "Las mentas ocultan el olor solo por un tiempo. Revisa el cuidado oral y la elección de enjuagues para tratar el mal aliento durante el embarazo."
+  },
+  "pregnancy/amoxicillin-use-and-safety": {
+    "description": "La amoxicilina puede recetarse en el embarazo para ciertas infecciones. Su elección depende de la infección, las alergias y la resistencia local."
+  },
+  "pregnancy/azithromycin-pregnancy-and-breastfeeding": {
+    "description": "Entiende cuándo puede utilizarse azitromicina en embarazo o lactancia y qué interacciones, efectos adversos o síntomas del bebé requieren atención."
+  },
+  "pregnancy/doxycycline-pregnancy-and-breastfeeding": {
+    "description": "Conoce por qué el momento de exposición y el producto importan al valorar doxiciclina durante el embarazo o un ciclo corto en la lactancia."
+  },
+  "pregnancy/heart-disease-and-pregnancy-planning": {
+    "description": "El embarazo cambia el trabajo del corazón. Conoce cómo la evaluación individual y la revisión de medicamentos ayudan a planificar la atención."
+  },
+  "newborn/fertility-and-pregnancy-spacing-after-birth": {
+    "description": "Puedes quedar embarazada antes de volver a menstruar. Revisa recuperación, anticoncepción y circunstancias personales al planear otro embarazo."
+  },
+  "family-health/skin-abscess-symptoms-and-treatment": {
+    "description": "Aprende a reconocer un posible absceso cutáneo y qué pueden incluir el drenaje, los antibióticos, el cuidado de heridas y el seguimiento."
+  },
+  "newborn/septic-pelvic-thrombophlebitis-after-birth": {
+    "title": "Tromboflebitis pélvica séptica después del parto",
+    "description": "Conoce esta rara infección de un coágulo pélvico, por qué una fiebre posparto persistente necesita revisión y cómo se trata bajo supervisión."
+  },
+  "trying-to-conceive/clomiphene-for-male-infertility": {
+    "description": "Entiende por qué puede recetarse clomifeno para la infertilidad masculina, qué muestran los estudios y cómo se supervisan beneficios y riesgos."
+  },
+  "trying-to-conceive/late-periods-and-when-to-test": {
+    "description": "Revisa posibles causas de retraso menstrual, desde embarazo hasta cambios hormonales, y cuándo hacer una prueba o buscar atención médica."
+  },
+  "baby-and-child/vomiting-at-night": {
+    "title": "Vómitos nocturnos en niños: causas y señales de alarma",
+    "description": "Conoce posibles causas de los vómitos nocturnos de un niño, desde tos o reflujo hasta alimentos, y las señales que requieren ayuda urgente."
+  },
+  "newborn/understanding-galactosemia": {
+    "description": "Entiende los tipos de galactosemia, la urgencia del seguimiento neonatal y cómo la alimentación especializada y el apoyo acompañan el desarrollo."
+  },
+  "family-health/penile-swelling-causes-and-care": {
+    "description": "Revisa causas de hinchazón del pene, incluidas irritación, infección y problemas del prepucio, y distingue las situaciones que requieren urgencias."
+  },
+  "family-health/dry-skin-on-the-penis": {
+    "description": "Conoce causas de piel seca o irritada del pene, cuidados suaves y cuándo una erupción, llaga o cambio del prepucio necesita evaluación."
+  },
+  "pregnancy/perfume-fragrance-and-pregnancy": {
+    "description": "Las fragancias pueden causar náuseas o irritación en el embarazo. Entiende los límites de la investigación sin convertir un uso en una predicción."
+  },
+  "pregnancy/gasoline-fumes-and-pregnancy": {
+    "description": "Distingue un olor breve a gasolina de una exposición concentrada y conoce cómo reducirla, responder a síntomas y pedir consejo durante el embarazo."
+  },
+  "family-health/pelvic-floor-dysfunction": {
+    "description": "El suelo pélvico puede estar débil, tenso o mal coordinado. Entiende por qué la evaluación orienta ejercicios u otros cuidados adecuados."
+  },
+  "trying-to-conceive/cervical-stenosis-and-fertility": {
+    "title": "Estenosis cervical: fertilidad y flujo menstrual",
+    "description": "Un cuello uterino estrecho puede dificultar el flujo menstrual o ciertos procedimientos de fertilidad. Su importancia depende de cada situación."
+  },
+  "pregnancy/hair-dye-and-fumes": {
+    "description": "Revisa las precauciones para teñir el cabello en el embarazo, como ventilación y alergias, sin valorar la seguridad solo por el olor."
+  },
+  "pregnancy/prolonged-sitting-and-movement": {
+    "description": "Entiende cómo interrumpir periodos largos sentada puede aliviar molestias del embarazo y por qué las restricciones prescritas necesitan un plan."
+  },
+  "pregnancy/colds-steam-and-herbal-remedies": {
+    "title": "Resfriado en el embarazo: vapor, hierbas y alivio",
+    "description": "Examina los riesgos y límites del vapor con hierbas para el resfriado en el embarazo, las opciones de alivio y cuándo revisar síntomas o medicamentos."
+  },
+  "pregnancy/eucalyptus-lozenges-pregnancy-and-breastfeeding": {
+    "description": "Distingue caramelos, pastillas medicinales y aceite esencial de eucalipto, y por qué su uso en embarazo o lactancia depende del producto."
+  },
+  "pregnancy/fetal-hiccups-and-kicks": {
+    "description": "Conoce cómo puede sentirse el hipo fetal y por qué no sustituye la vigilancia del patrón habitual de patadas y otros movimientos del bebé."
+  },
+  "pregnancy/nutrition-and-baby-growth": {
+    "title": "Nutrición en el embarazo y crecimiento del bebé",
+    "description": "Revisa nutrientes y elecciones alimentarias que apoyan el crecimiento en el embarazo, sin promesas de aumentar la altura fetal o adulta."
+  },
+  "trying-to-conceive/understanding-cycle-length": {
+    "description": "Aprende a contar el ciclo menstrual, entender sus fases y reconocer cuándo un intervalo corto, largo o un cambio de sangrado necesita revisión."
+  },
+  "family-health/facial-exercises-evidence": {
+    "description": "Los estudios sobre ejercicios faciales son pequeños. Conoce sus límites antes de esperar menos arrugas, rejuvenecimiento o pérdida de grasa localizada."
+  },
+  "family-health/testicular-lumps": {
+    "description": "Conoce posibles causas de bultos testiculares, cómo se evalúan y por qué el dolor súbito o una posible torsión requieren atención urgente."
+  },
+  "pregnancy/swelling-and-discomfort-with-twins": {
+    "description": "Algunas molestias aumentan con gemelos, pero la hinchazón no es inevitable. Conoce por qué los cambios repentinos necesitan valoración."
+  },
+  "family-health/vaginal-discharge-changes": {
+    "description": "Entiende cómo puede variar el flujo vaginal con el ciclo, anticonceptivos, embarazo o infección y cuándo un cambio merece evaluación."
+  },
+  "family-health/foamy-urine": {
+    "description": "Revisa causas de orina espumosa y el papel de las pruebas de proteínas, sin diagnosticar enfermedad renal únicamente por su apariencia."
+  },
+  "trying-to-conceive/watery-cervical-mucus": {
+    "description": "Conoce cómo cambia el moco cervical durante el ciclo y qué puede indicar sobre fertilidad, junto con los límites de otras pruebas de ovulación."
+  },
+  "trying-to-conceive/celiac-disease-and-fertility": {
+    "description": "Revisa la evidencia sobre celiaquía y fertilidad, qué aportan las pruebas y cómo el tratamiento sin gluten encaja en la preparación del embarazo."
+  },
+  "trying-to-conceive/sea-moss-and-fertility": {
+    "description": "El musgo marino aporta nutrientes, pero no demuestra mejorar la fertilidad. Conoce los límites de sus promesas y la seguridad de los suplementos."
+  },
+  "newborn/combining-breastfeeding-and-expressing": {
+    "description": "Organiza lactancia y extracción con comodidad, maneja la leche de forma segura y evita crear una sobreproducción innecesaria al usar el sacaleches."
+  },
+  "newborn/babbling-and-early-conversation": {
+    "description": "Conoce los sonidos y etapas del balbuceo, cómo responder al bebé y qué señales pueden necesitar una revisión auditiva o del desarrollo."
+  },
+  "family-health/probiotics-and-sexual-wellbeing": {
+    "title": "Probióticos y bienestar sexual: evidencia y límites",
+    "description": "Explora los vínculos entre intestino y bienestar sexual, los límites de los probióticos y cuándo los síntomas necesitan una evaluación más amplia."
+  },
+  "family-health/understanding-penis-size": {
+    "title": "Tamaño del pene: promedios y promesas de agrandamiento",
+    "description": "Entiende los límites de los estudios sobre tamaño del pene y preferencias, cómo se evalúan las preocupaciones y qué revisar en promesas de agrandamiento."
+  },
+  "family-health/contraceptive-pill-for-acne": {
+    "description": "La píldora combinada puede ayudar con el acné en algunas personas. Revisa la respuesta esperada, los efectos adversos y la evaluación necesaria."
+  },
+  "newborn/is-my-milk-supply-really-low": {
+    "title": "¿Es baja mi producción de leche? Señales y próximos pasos",
+    "description": "Revisa el peso, los pañales y los cambios normales de lactancia para valorar la producción de leche y saber cuándo buscar ayuda especializada."
+  },
+  "family-health/period-arriving-early": {
+    "title": "Regla adelantada: cambios, manchado y cuándo consultar",
+    "description": "Conoce posibles causas de una regla adelantada o sangrado inesperado, cómo se distingue del embarazo y qué cambios necesitan valoración."
+  },
+  "newborn/pelvic-floor-recovery-after-birth": {
+    "title": "Recuperación del suelo pélvico después del parto",
+    "description": "Entiende las pérdidas, el dolor y la tensión del suelo pélvico después del parto, con orientación sobre ejercicios, sexo y cuándo pedir ayuda."
+  },
+  "family-health/understanding-high-estrogen": {
+    "description": "Entiende qué puede significar un análisis de estrógeno alto, por qué los síntomas no bastan para diagnosticar y cómo se decide el tratamiento.",
+    "title": "Estrógeno alto: síntomas, pruebas y tratamiento"
+  },
+  "family-health/earlobe-cyst": {
+    "description": "Un quiste es una posible causa de un bulto en el lóbulo de la oreja. Conoce por qué un bulto nuevo o cambiante necesita identificación."
+  },
+  "pregnancy/nub-theory-and-early-ultrasound": {
+    "title": "Teoría del tubérculo genital: límites de la ecografía",
+    "description": "Revisa los ángulos del tubérculo genital, los límites de predecir el sexo en una ecografía temprana y cómo difieren otras pruebas prenatales."
+  },
+  "pregnancy/skull-theory-baby-sex-prediction": {
+    "description": "La forma del cráneo no es una prueba prenatal fiable del sexo del bebé. Conoce los límites de esta teoría y de sus afirmaciones populares.",
+    "title": "¿Predice la forma del cráneo el sexo del bebé?"
+  },
+  "pregnancy/food-and-swelling": {
+    "description": "Conoce cómo alimentación, movimiento y descanso pueden ayudar con la hinchazón del embarazo y qué cambios requieren atención urgente."
+  },
+  "family-health/pain-after-sex": {
+    "title": "Dolor después del sexo: causas y cuándo consultar",
+    "description": "Revisa posibles causas del dolor después del sexo, incluidas infecciones o cambios del embarazo, y busca cuidados que respeten tu comodidad."
+  },
+  "family-health/irregular-periods-and-home-remedies": {
+    "description": "Examina la evidencia sobre remedios caseros para menstruaciones irregulares y cuándo el sangrado necesita evaluación en lugar de suplementos."
+  },
+  "family-health/tampons-and-pain": {
+    "description": "Distingue los cólicos menstruales de las molestias al usar tampones y conoce el uso seguro, las posibles causas del dolor y las señales de alarma."
+  },
+  "family-health/treating-cervical-stenosis": {
+    "description": "La estenosis cervical no siempre necesita tratamiento. Conoce cómo los síntomas y la necesidad de acceso al útero orientan un procedimiento."
+  },
+  "family-health/cervical-stenosis-and-period-pain": {
+    "description": "Un canal cervical estrecho puede dificultar el flujo menstrual, pero los cólicos por sí solos no diagnostican estenosis. Conoce cómo se evalúa."
+  },
+  "trying-to-conceive/spotting-around-ovulation": {
+    "title": "Manchado en la ovulación: significado y cuándo consultar",
+    "description": "Entiende el manchado a mitad del ciclo, los límites de su color y momento, y cuándo hacer una prueba de embarazo o solicitar evaluación."
+  },
+  "family-health/bleeding-after-sex": {
+    "title": "Sangrado después del sexo: causas y evaluación",
+    "description": "Conoce posibles causas del sangrado después del sexo, qué puede incluir la evaluación y cómo se tratan la sequedad, las infecciones u otros problemas."
+  },
+  "family-health/mons-pubis-and-vulval-variation": {
+    "title": "Volumen del monte de Venus y la vulva: variación y opciones",
+    "description": "Revisa la variación del volumen púbico, los cambios con peso y hormonas y qué preguntar antes de considerar un procedimiento estético."
+  },
+  "family-health/swelling-around-the-anus": {
+    "description": "Distingue posibles causas de hinchazón anal, como irritación, hemorroides o abscesos, y conoce las señales que requieren atención urgente."
+  },
+  "family-health/genetic-testing-for-inherited-cancer-risk": {
+    "title": "Pruebas genéticas del riesgo hereditario de cáncer",
+    "description": "Conoce quién puede beneficiarse de pruebas genéticas de cáncer y qué significan los resultados positivos, negativos o inciertos para la familia."
+  },
+  "pregnancy/buttock-pain-during-pregnancy": {
+    "description": "Distingue causas del dolor en las nalgas durante el embarazo, desde ciática hasta molestias pélvicas, y cuándo buscar ayuda obstétrica urgente."
+  },
+  "newborn/blood-clots-and-bleeding-after-birth": {
+    "description": "Entiende los loquios y los coágulos vaginales después del parto, los cambios esperables y cuándo el sangrado requiere atención urgente."
+  },
+  "pregnancy/swollen-hands-and-fingers": {
+    "description": "Conoce medidas para las manos hinchadas en el embarazo y por qué la hinchazón repentina, el entumecimiento o la debilidad necesitan revisión."
+  },
+  "family-health/ingrown-hairs-and-scalp-razor-bumps": {
+    "description": "Un vello encarnado puede causar un bulto sensible. Aprende a cuidar la piel con suavidad y por qué apretar o escarbar puede empeorarlo."
+  },
+  "family-health/ganglion-cysts": {
+    "title": "Quistes ganglionares: cuándo tratar un bulto articular",
+    "description": "Un quiste ganglionar confirmado suele ser benigno. Conoce cuándo observarlo y cuándo el dolor, los síntomas nerviosos o las dudas requieren revisión."
+  },
+  "family-health/deep-painful-acne": {
+    "description": "Conoce tratamientos del acné profundo y doloroso, precauciones durante el embarazo y cuidados diarios suaves para la piel y las cicatrices."
+  },
+  "family-health/preparing-for-chalazion-surgery": {
+    "description": "Entiende cuándo un chalazión persistente puede requerir drenaje, cómo prepararte para la cirugía y qué cuidados y señales importan después."
+  },
+  "family-health/bakers-cyst-behind-the-knee": {
+    "description": "Un quiste de Baker puede acompañar problemas de rodilla. El dolor o la hinchazón repentinos de pantorrilla requieren descartar un coágulo."
+  },
+  "family-health/why-not-to-remove-a-skin-cyst-at-home": {
+    "description": "Entiende por qué no conviene apretar un quiste cutáneo, cómo difieren inflamación e infección y por qué drenarlo no equivale a extirparlo."
+  },
+  "family-health/pilar-cysts-on-the-scalp": {
+    "title": "Quistes pilares del cuero cabelludo: diagnóstico y cuidado",
+    "description": "Los quistes pilares suelen crecer despacio y ser benignos. Conoce cuándo observarlos y por qué un bulto que cambia rápido necesita revisión."
+  },
+  "family-health/dilated-pore-of-winer": {
+    "description": "Conoce el aspecto del poro dilatado de Winer y otras lesiones parecidas, con diferencias entre observación, extracción y extirpación."
+  },
+  "family-health/epidermoid-cysts-understanding-a-skin-lump": {
+    "description": "Los quistes epidermoides suelen ser benignos. Entiende cuándo observarlos, tratar su inflamación o considerar retirarlos según el diagnóstico."
+  },
+  "family-health/using-a-home-covid-test": {
+    "description": "Compara pruebas rápidas de COVID-19 y kits de recogida domiciliaria, aprende a obtener la muestra y cuándo repetir pruebas o pedir ayuda."
+  },
+  "trying-to-conceive/clomiphene-and-antibiotics": {
+    "description": "El antibiótico exacto y un posible embarazo importan durante un ciclo de clomifeno. Pide que revisen la combinación antes de cambiar el tratamiento."
+  },
+  "pregnancy/can-position-predict-a-baby-girl": {
+    "description": "La posición del bebé no identifica su sexo con fiabilidad. Conoce los límites de estas predicciones y lo que pueden mostrar las pruebas prenatales."
+  },
+  "newborn/a-chalazion-while-breastfeeding": {
+    "description": "Distingue un chalazión de un orzuelo durante la lactancia y conoce cuidados suaves, opciones de tratamiento y cuándo revisar un bulto del párpado."
+  },
+  "pregnancy/chalazion-eyelid-lump": {
+    "description": "Un chalazión puede mejorar con compresas tibias. En el embarazo, consulta si persiste, cambia la visión o se extiende el enrojecimiento."
+  },
+  "family-health/laser-treatment-cervical-cell-changes": {
+    "title": "Láser para cambios del cuello uterino: cuidados y seguimiento",
+    "description": "Distingue la ablación y conización cervical con láser, qué supone la recuperación y cómo interpretar las tasas de éxito y el seguimiento."
+  },
+  "newborn/reflux-signs-and-warning-symptoms": {
+    "description": "Regurgitar puede ser normal en bebés, pero comer mal, crecer poco o vomitar de forma inusual requiere revisión. El llanto solo no diagnostica reflujo."
+  },
+  "family-health/ingrown-hair-or-genital-herpes": {
+    "title": "¿Vello encarnado o herpes genital? Cómo se evalúa",
+    "description": "Una lesión de herpes puede parecer un bulto del afeitado. Conoce por qué evaluar pronto una lesión reciente es mejor que juzgar solo su aspecto."
+  },
+  "family-health/botulinum-toxin-brow-lift": {
+    "description": "Entiende los resultados temporales de elevar las cejas con toxina botulínica y qué preguntar sobre medicamentos, embarazo, costes y complicaciones."
+  },
+  "pregnancy/heartburn-food-triggers": {
+    "title": "Acidez en el embarazo: alimentos desencadenantes",
+    "description": "Identifica horarios, porciones y alimentos que empeoran tu acidez en el embarazo sin eliminar innecesariamente variedad o nutrientes de la dieta."
+  },
+  "pregnancy/foods-to-try-for-heartburn": {
+    "title": "Alimentos para comer mejor con acidez en el embarazo",
+    "description": "Organiza comidas tolerables cuando la acidez dificulta comer en el embarazo, recordando que ningún alimento cura el reflujo por sí solo."
+  },
+  "pregnancy/epidural-pain-relief-decisions": {
+    "title": "Epidural en el parto: beneficios y decisiones",
+    "description": "Conoce qué implica una epidural, sus beneficios, efectos secundarios y alternativas para preparar un plan flexible de alivio del dolor del parto."
+  },
+  "family-health/hysterectomy-for-endometriosis": {
+    "description": "Una histerectomía puede aliviar algunos síntomas de endometriosis, pero no garantiza eliminar la enfermedad o el dolor. Revisa sus consecuencias."
+  },
+  "family-health/bleeding-after-hysterectomy": {
+    "title": "Sangrado después de una histerectomía: cuándo consultar",
+    "description": "Distingue el manchado leve de recuperación de un sangrado nuevo o abundante después de una histerectomía y conoce cuándo solicitar valoración."
+  },
+  "family-health/cervical-cancer-risk-and-age": {
+    "description": "Entiende cómo varía con la edad el riesgo de cáncer cervical y por qué la prevención, el cribado y los antecedentes personales siguen importando."
+  },
+  "family-health/anal-warts-symptoms-and-care": {
+    "description": "Conoce cómo se evalúan y tratan las verrugas anales, y por qué el embarazo, la recurrencia y el seguimiento necesitan un plan individual."
+  },
+  "family-health/how-long-genital-wart-treatment-takes": {
+    "description": "Compara tratamientos de verrugas genitales y entiende la recurrencia y cicatrización, sin asumir una fecha fija de curación o fin de transmisión."
+  },
+  "family-health/cervical-screening-without-current-sexual-activity": {
+    "description": "Conoce cómo la edad, la exposición previa al VPH y los resultados anteriores orientan el cribado cervical, aunque no tengas actividad sexual actual."
+  },
+  "trying-to-conceive/twin-boy-injection-myth": {
+    "description": "Ninguna inyección garantiza gemelos varones. Entiende por qué el tratamiento de fertilidad busca reducir los embarazos múltiples y sus riesgos."
+  },
+  "pregnancy/placental-shape-variations": {
+    "description": "Una placenta anular y una circunvalada son hallazgos distintos. Conoce por qué el diagnóstico, la ecografía y los síntomas orientan el seguimiento."
+  },
+  "pregnancy/can-a-twelve-week-scan-show-baby-sex": {
+    "description": "Revisa los límites de predecir el sexo fetal en una ecografía de doce semanas y qué pueden aportar las vistas tempranas y una ecografía posterior."
+  },
+  "family-health/haemorrhoids-or-bowel-cancer-symptoms": {
+    "title": "Hemorroides o cáncer intestinal: síntomas que revisar",
+    "description": "Las hemorroides y el cáncer intestinal pueden compartir síntomas. Conoce qué sangrado o cambios necesitan evaluación y cuáles requieren urgencias."
+  },
+  "family-health/endometriosis-and-nausea": {
+    "description": "Entiende cómo pueden relacionarse endometriosis y náuseas, qué opciones de alivio se estudian y qué síntomas requieren una revisión pronta."
+  },
+  "family-health/cervical-cancer-and-kidney-problems": {
+    "description": "Conoce cómo el cáncer cervical o su tratamiento pueden afectar a los riñones y las distintas funciones del drenaje, la diálisis y el trasplante."
+  },
+  "family-health/cervical-cancer-treatment-and-outlook": {
+    "description": "Entiende cómo el estadio y el tratamiento influyen en el pronóstico del cáncer cervical y por qué la supervivencia no predice un resultado individual."
+  },
+  "pregnancy/accessory-placental-lobe": {
+    "description": "Un lóbulo placentario accesorio requiere revisar sus vasos y la salida completa de tejido tras el parto. Conoce qué significa este hallazgo."
+  },
+  "trying-to-conceive/follitropin-alfa-for-men": {
+    "title": "Folitropina alfa para la infertilidad masculina",
+    "description": "Conoce cuándo puede usarse FSH inyectable en infertilidad masculina y por qué importan la hCG, el seguimiento y la vigilancia de efectos adversos."
+  },
+  "pregnancy/understanding-babys-position-before-birth": {
+    "title": "Posiciones del bebé antes del parto: qué significan",
+    "description": "Entiende las posiciones del bebé antes de nacer, las opciones para girarlo y las señales que requieren consejo inmediato del equipo de maternidad."
+  },
+  "newborn/overheating-and-heat-illness-in-babies": {
+    "description": "Reconoce cuándo un bebé tiene demasiado calor, cómo mantener alimentación y sueño seguros y qué signos requieren atención médica urgente."
+  },
+  "pregnancy/when-cardiac-activity-is-seen-on-ultrasound": {
+    "description": "Entiende cuándo puede verse actividad cardíaca en una ecografía temprana y por qué el momento y las mediciones importan si el resultado es incierto."
+  },
+  "family-health/herbal-hair-growth-products": {
+    "title": "Productos herbales para el cabello: evidencia y riesgos",
+    "description": "Revisa los ingredientes y límites de los productos herbales para el cabello, sin confundir estudios animales o publicidad con eficacia demostrada."
+  },
+  "pregnancy/lower-abdominal-pain-when-walking": {
+    "description": "Si aparece dolor abdominal al caminar en el embarazo, para y valora los síntomas. Conoce qué patrones necesitan consejo obstétrico urgente."
+  },
+  "trying-to-conceive/follitropin-alfa-injections": {
+    "description": "Entiende cómo se utiliza folitropina alfa en fertilidad, por qué las instrucciones varían según el producto y qué síntomas requieren ayuda urgente."
+  },
+  "family-health/haemorrhoid-procedures-and-surgery": {
+    "title": "Procedimientos para hemorroides y recuperación",
+    "description": "Compara procedimientos para hemorroides y su recuperación, desde bandas hasta cirugía, con precauciones de medicamentos y señales de alarma."
+  },
+  "family-health/temple-fillers-benefits-and-risks": {
+    "title": "Rellenos en las sienes: beneficios y riesgos",
+    "description": "Conoce los materiales de relleno para las sienes, sus límites y riesgos graves, y qué síntomas después del tratamiento necesitan atención inmediata."
+  },
+  "family-health/anal-cancer-symptoms-and-treatment": {
+    "description": "Entiende los síntomas, tipos y pruebas del cáncer anal, su relación con el VPH y cómo se eligen tratamientos según cada diagnóstico."
+  },
+  "baby-and-child/hpv-vaccination-for-children": {
+    "description": "Conoce por qué se ofrece la vacuna contra el VPH antes de la exposición, cómo varían sus pautas y qué preguntar sobre protección y seguridad."
+  },
+  "family-health/cervical-cancer-and-family-history": {
+    "description": "Entiende el papel del VPH y los antecedentes familiares en el cáncer cervical, incluidas asociaciones raras, y las medidas de prevención y cribado."
+  },
+  "family-health/her2-negative-breast-cancer": {
+    "description": "Conoce qué significa un cáncer de mama HER2 negativo y cómo los receptores y las pruebas orientan el tratamiento y la interpretación del pronóstico."
+  },
+  "family-health/radiotherapy-for-breast-cancer": {
+    "title": "Radioterapia del cáncer de mama: cuidados y efectos",
+    "description": "Entiende la radioterapia externa y la braquiterapia para el cáncer de mama, por qué cambian los calendarios y cómo prepararte para los efectos."
+  },
+  "family-health/turmeric-and-breast-cancer": {
+    "description": "Distingue los estudios de laboratorio de la evidencia humana sobre cúrcuma y cáncer de mama, y revisa los riesgos de suplementos con tu equipo."
+  },
+  "family-health/shoulder-pain-after-breast-cancer": {
+    "description": "Conoce por qué puede doler el hombro tras el tratamiento del cáncer de mama, cómo afecta al movimiento y cuándo solicitar una evaluación pronta."
+  },
+  "family-health/stage-two-breast-cancer": {
+    "title": "Cáncer de mama en estadio II: tratamiento y seguimiento",
+    "description": "Entiende los estadios IIA y IIB del cáncer de mama y cómo el grado y los receptores ayudan a elegir cirugía, medicamentos y radioterapia."
+  },
+  "pregnancy/why-your-bump-may-look-high": {
+    "description": "La forma alta de la barriga no predice por sí sola cómo está el bebé. Conoce cómo se evalúan su crecimiento, el líquido y su posición."
+  },
+  "pregnancy/twins-birth-weight-and-growth": {
+    "description": "Revisa qué influye en el peso al nacer de gemelos, cómo se vigila el crecimiento desigual y qué apoyo pueden necesitar después del parto."
+  },
+  "pregnancy/circumvallate-placenta": {
+    "description": "Entiende qué significa placenta circunvalada y cómo el crecimiento, el líquido y los síntomas orientan la atención más allá de un informe ecográfico."
+  },
+  "newborn/diarrhea-after-birth": {
+    "description": "Conoce posibles causas de diarrea posparto, el papel de antibióticos e hidratación y cuándo pedir ayuda durante la recuperación o la lactancia."
+  },
+  "family-health/fibroid-pain-and-treatment": {
+    "description": "Entiende el dolor y la presión de los miomas, las opciones de alivio y tratamiento y cómo influyen los planes de fertilidad en las decisiones."
+  },
+  "family-health/bleeding-after-sex-with-an-iud": {
+    "description": "Distingue los cambios de sangrado con un DIU del sangrado después del sexo y conoce cuándo el dolor o los hilos cambiados requieren consejo urgente."
+  },
+  "family-health/yoga-during-and-after-breast-cancer": {
+    "description": "Conoce cómo adaptar el yoga suave después del tratamiento del cáncer de mama, qué preguntar antes de empezar y cómo apoyar tu bienestar."
+  },
+  "family-health/treating-hormone-related-symptoms": {
+    "description": "Entiende las opciones para síntomas hormonales, desde sustitución tiroidea hasta cuidado de piel, y los límites de promesas de equilibrio hormonal."
+  },
+  "family-health/foods-to-limit-and-breast-cancer-risk": {
+    "description": "Conoce qué dice la evidencia sobre dieta y riesgo de cáncer de mama, por qué importa el alcohol y cómo evitar restricciones alimentarias sin fundamento.",
+    "title": "Alimentos que limitar y riesgo de cáncer de mama"
+  },
+  "family-health/food-choices-and-breast-cancer-prevention": {
+    "title": "Alimentación y cáncer de mama: qué muestra la evidencia",
+    "description": "Revisa la evidencia sobre verduras, frutas, pescado y otros alimentos en relación con el riesgo de cáncer de mama, sin promesas de prevención."
+  },
+  "family-health/inherited-breast-cancer-risk": {
+    "description": "Conoce qué patrones familiares y variantes heredadas influyen en el riesgo de cáncer de mama y cómo el asesoramiento ayuda a interpretar las pruebas."
+  },
+  "family-health/understanding-hormone-related-symptoms": {
+    "description": "Explora cuándo los síntomas pueden implicar hormonas y por qué una lista o una prueba casera no sustituye la evaluación del problema."
+  },
+  "family-health/allergic-reactions-around-anaesthesia": {
+    "description": "Distingue alergia y efectos secundarios de anestesia, conoce otras reacciones posibles y prepara la información importante para el equipo."
+  },
+  "newborn/vaginal-bleeding-after-a-cesarean": {
+    "description": "Entiende los loquios después de una cesárea, el cuidado de compresas y heridas y qué cambios en el sangrado requieren atención urgente."
+  },
+  "pregnancy/prp-hair-treatment-during-pregnancy": {
+    "description": "Conoce qué se sabe del PRP capilar, sus posibles beneficios y riesgos y por qué suele posponerse este tratamiento electivo durante el embarazo."
+  },
+  "newborn/retained-placenta-after-birth": {
+    "description": "Entiende por qué puede quedar retenida la placenta, cómo el tiempo y los síntomas orientan su extracción y qué implica recuperarse después."
+  },
+  "family-health/coconut-oil-for-skin": {
+    "title": "Aceite de coco para la piel: beneficios y precauciones",
+    "description": "Revisa cómo el aceite de coco ayuda a retener humedad, los límites de la evidencia y las precauciones con acné, alergias y protección solar."
+  },
+  "newborn/when-pumping-hurts-your-nipples": {
+    "title": "Dolor de pezones al extraer leche: causas y alivio",
+    "description": "Revisa el ajuste del embudo, la succión y las lesiones del pezón para entender el dolor al extraer leche y saber cuándo pedir ayuda profesional."
+  },
+  "family-health/laser-hair-removal-side-effects": {
+    "description": "Conoce reacciones habituales y señales de alarma de la depilación láser, y por qué importan el dispositivo, el profesional y tu historia cutánea.",
+    "title": "Depilación láser: efectos secundarios y seguridad"
+  },
+  "baby-and-child/iq-and-emotional-intelligence": {
+    "title": "Inteligencia cognitiva y emocional: habilidades distintas",
+    "description": "Entiende qué evalúan el CI y la inteligencia emocional, qué pueden predecir las puntuaciones y los límites de las promesas de entrenamiento."
+  },
+  "baby-and-child/broken-or-knocked-out-tooth-first-aid": {
+    "description": "Aprende a responder ante un diente roto o arrancado en un niño y por qué los primeros auxilios difieren entre dientes de leche y permanentes."
+  },
+  "family-health/bleeding-haemorrhoids-assessment-and-treatment": {
+    "description": "Entiende el sangrado por hemorroides, cuándo requiere ayuda inmediata y cómo se combinan cuidados intestinales, medicamentos y procedimientos."
+  },
+  "trying-to-conceive/antibiotics-and-common-medicines-when-trying": {
+    "description": "No dejes una infección sin tratar al buscar embarazo. Revisa el medicamento exacto, el momento y los mitos de fertilidad con tu equipo sanitario."
+  },
+  "newborn/when-babies-can-have-the-flu-vaccine": {
+    "description": "Conoce cuándo puede vacunarse un bebé contra la gripe, cómo proteger a los más pequeños y qué reacciones o síntomas requieren atención."
+  },
+  "baby-and-child/eruption-cysts-when-a-tooth-is-coming-through": {
+    "description": "Un quiste de erupción puede causar un bulto azul en la encía. Conoce cuándo suele resolverse y cuándo el dolor o la infección necesitan dentista."
+  },
+  "pregnancy/breech-baby-sleep-positions-and-turning-options": {
+    "description": "Ninguna postura al dormir ha demostrado girar a un bebé de nalgas. Conoce el descanso de lado, la versión externa y cómo planificar el parto."
+  },
+  "family-health/strangulated-hernia-warning-signs-and-emergency-care": {
+    "description": "Una hernia con dolor repentino, vómitos o un bulto recién atascado puede necesitar urgencias. Conoce qué ocurre cuando pierde riego sanguíneo."
+  },
+  "family-health/pcos-related-hair-loss-treatment-and-support": {
+    "title": "Caída del cabello por SOP: tratamientos y expectativas",
+    "description": "Conoce opciones para el afinamiento del cabello relacionado con el SOP, los límites de suplementos y formas de apoyar el bienestar emocional."
+  },
+  "family-health/female-pattern-hair-loss-signs-and-treatment": {
+    "title": "Pérdida de cabello de patrón femenino: cuidados",
+    "description": "Entiende el diagnóstico de la pérdida de cabello de patrón femenino y las opciones de minoxidil, tratamientos con receta y apoyo cosmético."
+  },
+  "family-health/minoxidil-for-hair-loss-benefits-and-precautions": {
+    "title": "Minoxidil para la caída del cabello: beneficios y límites",
+    "description": "El minoxidil puede ayudar con la caída hereditaria del cabello. Conoce resultados realistas, precauciones y por qué importa el diagnóstico."
+  },
+  "trying-to-conceive/medicines-and-antibiotics-when-trying-to-conceive": {
+    "description": "Revisa antibióticos y otros medicamentos al planificar un embarazo, con precauciones para ambos miembros de la pareja y según el producto exacto."
+  },
+  "newborn/expressing-milk-at-work": {
+    "title": "Extraer leche en el trabajo: organización y conservación",
+    "description": "Planifica pausas, limpieza, ajuste del sacaleches y conservación de leche en el trabajo, sin objetivos rígidos ni compras innecesarias."
+  },
+  "baby-and-child/when-babies-learn-to-stand": {
+    "description": "Conoce las habilidades para ponerse de pie, cómo apoyar al bebé con juego seguro y cuándo consultar sobre un hito del desarrollo no alcanzado."
+  },
+  "baby-and-child/why-toddlers-hit-or-bang-their-head": {
+    "description": "Entiende por qué un niño pequeño puede golpearse la cabeza, cómo responder con calma y cuándo una lesión o preocupación necesita valoración."
+  },
+  "trying-to-conceive/cold-medicines-while-trying-for-a-baby": {
+    "title": "Medicamentos del resfriado al intentar concebir",
+    "description": "Un remedio para el resfriado puede combinar varios fármacos. Revisa sus ingredientes al buscar embarazo y evita promesas de fertilidad sin respaldo."
+  },
+  "pregnancy/anti-d-injections-timing-and-what-to-expect": {
+    "description": "Conoce quién puede necesitar anti-D en el embarazo y por qué las marcas, las vías de administración y las recomendaciones locales importan."
+  },
+  "pregnancy/itchy-breasts-and-nipples-in-pregnancy": {
+    "description": "Revisa posibles causas del picor mamario en el embarazo, las medidas de alivio y las señales que requieren valoración del equipo de maternidad."
+  },
+  "pregnancy/swelling-in-pregnancy-normal-changes-and-warning-signs": {
+    "title": "Hinchazón en el embarazo: alivio y señales de urgencia",
+    "description": "Entiende los cambios de líquidos del embarazo y qué hinchazón o síntomas pueden indicar preeclampsia o coágulos, también después del parto."
+  },
+  "newborn/when-babies-start-to-laugh": {
+    "description": "Las sonrisas y risas del bebé se desarrollan gradualmente. Conoce juegos suaves para compartir y cuándo consultar por un hito no alcanzado."
+  },
+  "pregnancy/what-to-do-if-an-anti-d-injection-is-late": {
+    "description": "Si se retrasa una dosis de anti-D, contacta pronto con maternidad. El retraso no demuestra sensibilización y el tratamiento aún puede ayudar."
+  },
+  "baby-and-child/when-a-toddler-holds-in-poo": {
+    "title": "Retención de heces en niños: romper el estreñimiento",
+    "description": "Entiende por qué un niño retiene las heces y cómo el tratamiento temprano y un baño cómodo ayudan más que la presión o premios mayores."
+  },
+  "newborn/when-your-baby-suddenly-refuses-the-breast": {
+    "description": "Si el bebé rechaza el pecho de repente, prioriza alimentarlo y detectar enfermedad. Conoce cómo buscar apoyo sin forzar las tomas."
+  },
+  "pregnancy/human-placental-lactogen-explained": {
+    "description": "Conoce el papel del lactógeno placentario humano y por qué un resultado aislado no diagnostica diabetes ni demuestra la salud de la placenta."
+  },
+  "pregnancy/using-heat-for-back-pain-during-pregnancy": {
+    "description": "El calor local suave puede aliviar la espalda en el embarazo. Conoce cómo proteger la piel y cuándo un dolor nuevo o intenso necesita consulta.",
+    "title": "Calor para el dolor de espalda durante el embarazo"
+  },
+  "baby-and-child/tooth-decay-in-children-causes-and-care": {
+    "description": "Entiende cómo se detectan y tratan las caries infantiles y qué aportan el cepillado, el flúor y los hábitos alimentarios para prevenirlas."
+  },
+  "family-health/femoral-hernia-symptoms-and-treatment": {
+    "description": "Una hernia femoral puede atrapar intestino. Conoce por qué un bulto inguinal necesita evaluación y qué síntomas requieren atención urgente.",
+    "title": "Hernia femoral: síntomas, evaluación y reparación"
+  },
+  "pregnancy/anti-d-after-miscarriage": {
+    "description": "Anti-D no se necesita tras toda pérdida temprana. Entiende cómo el grupo sanguíneo y las guías locales orientan la atención después de un aborto."
+  },
+  "pregnancy/understanding-a-triploidy-diagnosis": {
+    "description": "La triploidía implica un juego extra de cromosomas. Conoce cómo se confirma el diagnóstico y qué apoyo y seguimiento pueden necesitarse."
+  },
+  "family-health/masturbation-and-penis-size": {
+    "description": "La masturbación no cambia permanentemente el tamaño del pene. Distingue la variación normal de los mitos hormonales y productos de aumento arriesgados."
+  },
+  "family-health/covid-and-changes-in-smell-or-taste": {
+    "description": "Conoce qué pueden indicar los cambios de olfato o gusto, cómo responder ante posible COVID-19 y por qué la recuperación necesita contexto."
+  },
+  "newborn/blood-or-a-lump-near-your-babys-bottom": {
+    "description": "Las hemorroides son raras en bebés. La sangre en el pañal o un bulto anal necesita revisar causas más frecuentes antes de elegir tratamiento."
+  },
+  "family-health/purple-or-bruised-penis-when-to-seek-care": {
+    "description": "Conoce posibles causas de un pene morado o con hematoma y cuándo el dolor, la hinchazón o un prepucio atrapado requieren atención urgente."
+  },
+  "newborn/cupping-while-breastfeeding": {
+    "description": "Revisa las pruebas sobre ventosas durante la lactancia y los riesgos de pérdida de sangre o lesiones, sin sustituir la evaluación posparto."
+  },
+  "pregnancy/cupping-during-pregnancy-evidence-and-risks": {
+    "title": "Ventosas en el embarazo: evidencia y riesgos",
+    "description": "Entiende qué implican las ventosas secas y húmedas y por qué sus beneficios durante el embarazo no están demostrados frente a los riesgos."
+  },
+  "family-health/henna-for-hair-colour-benefits-and-precautions": {
+    "description": "Conoce la henna y el índigo para teñir el cabello, sus beneficios realistas, las instrucciones según producto y las señales de reacción cutánea."
+  },
+  "trying-to-conceive/pregnancy-symptoms-but-a-negative-test": {
+    "description": "Si tienes síntomas de embarazo y una prueba negativa, conoce cuándo repetirla y por qué dolor o sangrado pueden necesitar evaluación urgente."
+  },
+  "family-health/naproxen-side-effects-and-precautions": {
+    "description": "El naproxeno puede aliviar dolor, pero tiene riesgos para estómago, riñones y corazón. Conoce las señales de alarma y cuándo consultar antes."
+  },
+  "pregnancy/leech-therapy-during-pregnancy": {
+    "title": "Sanguijuelas en el embarazo: usos médicos y riesgos",
+    "description": "Conoce el limitado uso quirúrgico de las sanguijuelas y por qué no respalda promesas de bienestar en el embarazo ni justifica sus riesgos."
+  },
+  "newborn/leech-therapy-and-breastfeeding": {
+    "title": "Sanguijuelas y lactancia: usos médicos y afirmaciones",
+    "description": "El uso supervisado de sanguijuelas en cirugía reconstructiva no valida promesas de bienestar durante la lactancia. Conoce sus límites y riesgos."
+  },
+  "baby-and-child/when-baby-teeth-fall-out": {
+    "description": "Entiende cuándo suelen caer los dientes de leche, cómo cuidar un diente flojo y qué diferencias del calendario conviene revisar con el dentista."
+  },
+  "newborn/acetaminophen-for-teething-pain": {
+    "title": "Acetaminofén para la dentición: dosis y precauciones",
+    "description": "Conoce cuándo un analgésico puede ayudar con la dentición, cómo comprobar el medicamento y por qué no toda inquietud se explica por los dientes."
+  },
+  "newborn/helping-a-teething-baby-settle-at-night": {
+    "description": "Revisa formas seguras de calmar a un bebé con dentición por la noche, con precauciones de frío, medicamentos y sueño y señales para consultar."
+  },
+  "baby-and-child/miralax-and-childhood-constipation": {
+    "description": "Entiende cómo se prescribe PEG 3350 a niños, las etapas y efectos del tratamiento y el papel de las rutinas de alimentación y baño."
+  },
+  "baby-and-child/when-stool-gets-stuck-constipation-and-impaction": {
+    "description": "Reconoce el estreñimiento y la posible impactación cuando un niño no puede expulsar heces duras, y conoce la evaluación y el tratamiento seguros."
+  },
+  "baby-and-child/toddlers-diarrhoea-food-and-drink-changes": {
+    "title": "Diarrea del niño pequeño: alimentación y señales de alarma",
+    "description": "Revisa cambios de comidas, zumos y fibra que pueden ayudar con diarrea funcional en un niño que crece bien, y cuándo necesita reevaluación."
+  },
+  "pregnancy/double-uterus-and-pregnancy": {
+    "description": "Un útero doble no impide necesariamente un embarazo saludable. Conoce cómo el diagnóstico orienta la vigilancia y la planificación del parto."
+  },
+  "family-health/breast-tenderness-causes-and-relief": {
+    "description": "Explora causas de sensibilidad mamaria, desde cambios hormonales o sujetadores hasta mastitis y quistes, y cómo buscar alivio según el problema."
+  },
+  "pregnancy/how-to-know-if-your-baby-is-head-down": {
+    "title": "¿Está el bebé cabeza abajo? Comprobación y parto",
+    "description": "Las patadas no confirman la posición fetal. Entiende cómo se comprueba, qué implica la versión externa y cómo se planifican las opciones de parto."
+  },
+  "newborn/returning-to-sex-after-a-cesarean": {
+    "description": "Después de una cesárea importan comodidad, recuperación y sentirse preparada. Revisa cómo reconectar, tratar la sequedad y pedir ayuda por dolor."
+  },
+  "pregnancy/how-long-labour-epidural-lasts": {
+    "description": "Conoce cómo se coloca y ajusta una epidural en el parto, qué puede sentirse durante la recuperación y qué síntomas necesitan revisión rápida."
+  },
+  "pregnancy/muscle-rubs-and-pain-patches-during-pregnancy": {
+    "description": "Revisa el principio activo de cremas y parches musculares antes de usarlos en el embarazo, porque las precauciones cambian según la formulación."
+  },
+  "newborn/endometriosis-in-a-cesarean-scar": {
+    "title": "Bulto doloroso en la cicatriz de cesárea: posibles causas",
+    "description": "La endometriosis puede causar un bulto doloroso en una cicatriz de cesárea, aunque es poco frecuente. Conoce otras causas y cómo se evalúa."
+  },
+  "trying-to-conceive/pregnancy-before-during-or-after-a-period": {
+    "description": "Entiende la ventana fértil y por qué la menstruación no garantiza días seguros, junto con los límites del seguimiento del ciclo y las pruebas."
+  },
+  "baby-and-child/seven-simple-ways-to-play-and-learn-together": {
+    "description": "Descubre formas sencillas de jugar, conversar y moverse con bebés y niños pequeños, sin clases caras ni equipos especiales para aprender juntos."
+  },
+  "pregnancy/upper-abdominal-pain-during-pregnancy": {
+    "title": "Dolor en el abdomen superior durante el embarazo",
+    "description": "Distingue molestias digestivas de señales que requieren atención en el embarazo, como dolor intenso o síntomas de complicaciones obstétricas."
+  },
+  "family-health/covid-or-a-sinus-infection": {
+    "description": "Sinusitis y COVID-19 comparten síntomas. Conoce qué aportan las pruebas y cuándo bastan cuidados en casa o se necesita evaluación urgente."
+  },
+  "pregnancy/epsom-salt-baths-during-pregnancy": {
+    "description": "Un baño templado puede relajar en el embarazo, pero la sal de Epsom no trata la falta de magnesio ni las complicaciones. Conoce sus límites."
+  },
+  "pregnancy/saunas-hot-tubs-and-overheating": {
+    "description": "El calor intenso puede causar deshidratación o desmayo en el embarazo. Revisa riesgos de saunas y jacuzzis y opciones para relajarte sin sobrecalentarte."
+  },
+  "pregnancy/phenylephrine-and-nasal-congestion": {
+    "description": "Entiende los límites de la fenilefrina oral para congestión y por qué conviene revisar los ingredientes y consejos específicos del embarazo."
+  },
+  "pregnancy/when-abdominal-pain-needs-urgent-help": {
+    "description": "El dolor leve puede aparecer en el embarazo, pero el dolor intenso o acompañado de otros síntomas necesita evaluación. Conoce cuándo pedir ayuda."
+  },
+  "family-health/understanding-covid-tests": {
+    "description": "Compara pruebas moleculares, de antígenos y anticuerpos de COVID-19, comprende sus límites y qué hacer según el momento y el resultado."
+  },
+  "family-health/what-to-do-if-a-condom-breaks": {
+    "description": "Si se rompe un preservativo, conoce los plazos para anticoncepción urgente, atención por VIH y pruebas, además de cómo planificar el seguimiento."
+  },
+  "family-health/dry-eyes-and-covid": {
+    "description": "Los ojos secos por sí solos no identifican COVID-19. Conoce medidas de alivio y qué cambios oculares necesitan atención médica urgente."
+  },
+  "newborn/vitamin-c-for-babies": {
+    "description": "Entiende cómo los bebés obtienen vitamina C de su alimentación y por qué una cantidad recomendada de ingesta no equivale a una dosis de suplemento."
+  },
+  "newborn/a-new-abdominal-bulge-after-birth": {
+    "description": "Reconoce una posible hernia posparto, cómo difiere de la separación abdominal y qué pueden implicar la vigilancia, la cirugía y futuros embarazos."
+  },
+  "newborn/hernia-near-a-cesarean-scar": {
+    "title": "Hernia junto a la cicatriz de cesárea: síntomas y reparación",
+    "description": "Conoce los síntomas de una hernia incisional tras cesárea, qué requiere urgencias y cómo se planifican su reparación y un posible embarazo futuro."
+  },
+  "newborn/rest-and-movement-after-birth": {
+    "description": "Descanso y apoyo ayudan a recuperarse del parto, pero el reposo prolongado en cama no es habitual. Conoce cómo adaptar el plan a tus síntomas."
+  },
+  "trying-to-conceive/when-a-period-lasts-longer-than-usual": {
+    "description": "Revisa posibles causas de menstruación prolongada, qué puede incluir la evaluación y qué cantidad de sangrado o síntomas requieren urgencias."
+  },
+  "trying-to-conceive/stringy-period-blood-and-clots": {
+    "description": "La sangre menstrual puede variar en textura y color. Conoce por qué importan más la cantidad, el dolor, un posible embarazo y el patrón habitual."
+  },
+  "family-health/why-covid-vaccine-doses-are-updated": {
+    "description": "La protección frente a COVID-19 cambia con el tiempo. Entiende por qué pueden recomendarse dosis actualizadas según las guías y el riesgo personal."
+  },
+  "pregnancy/heart-attack-warning-signs-during-and-after-pregnancy": {
+    "description": "Un infarto es raro durante o después del embarazo, pero sus síntomas requieren urgencias incluso en personas jóvenes sin cardiopatía conocida."
+  },
+  "newborn/blue-or-grey-lips-in-a-baby": {
+    "description": "Los labios azules o grises de un bebé son una señal de alarma, no un diagnóstico. Conoce por qué requieren evaluación rápida y atención."
+  },
+  "pregnancy/more-belly-hair-during-pregnancy": {
+    "description": "El embarazo puede aumentar el vello corporal. Conoce cuándo es un cambio habitual y por qué el vello grueso repentino con otros síntomas se revisa."
+  },
+  "trying-to-conceive/why-periods-happen": {
+    "description": "Entiende por qué se desprende el revestimiento uterino, cómo contar el ciclo y cuándo consultar por cambios en la cantidad o frecuencia menstrual."
+  },
+  "newborn/spicy-foods-while-breastfeeding": {
+    "description": "Revisa qué se sabe de comidas picantes y cambios de sabor de la leche, y cuándo los síntomas del bebé necesitan consejo en lugar de restricciones."
+  },
+  "trying-to-conceive/heavy-periods-causes-and-treatment-options": {
+    "description": "Reconoce el sangrado menstrual abundante, sus posibles causas y las opciones de tratamiento según tu salud y planes de embarazo."
+  },
+  "trying-to-conceive/bowel-changes-around-your-period": {
+    "description": "La menstruación puede cambiar las heces o su frecuencia. Conoce cómo observar el patrón, aliviar síntomas leves y reconocer cuándo consultar."
+  },
+  "newborn/vitamin-a-during-breastfeeding": {
+    "title": "Vitamina A en la lactancia: alimentos y precauciones",
+    "description": "Entiende el papel de la vitamina A en la lactancia y por qué los suplementos de dosis altas y los retinoides para la piel necesitan consejos distintos."
+  },
+  "family-health/does-psoriasis-run-in-families": {
+    "description": "Los genes influyen en la psoriasis, pero no permiten predecirla de forma simple. Conoce también el papel de la inmunidad y el ambiente."
+  },
+  "baby-and-child/covid-vaccination-and-future-fertility": {
+    "title": "Vacunas contra COVID-19 y fertilidad: preguntas frecuentes",
+    "description": "Revisa los estudios sobre vacunas y fertilidad y por qué los cambios menstruales no son infertilidad, con preguntas sobre recomendaciones y riesgos reales."
+  },
+  "family-health/covid-after-vaccination-and-long-covid": {
+    "title": "COVID-19 tras vacunarse y síntomas persistentes",
+    "description": "Entiende por qué puede ocurrir COVID-19 después de vacunarse, los límites de estudios tempranos y cuándo consultar por síntomas nuevos o persistentes."
+  },
+  "family-health/masturbation-hair-loss-and-common-myths": {
+    "description": "La masturbación no causa ceguera ni infertilidad. Distingue mitos sobre el cabello y otros problemas de los síntomas que merecen evaluación."
+  },
+  "family-health/penis-size-genetics-and-development": {
+    "description": "Conoce cómo genes, hormonas y pubertad influyen en el desarrollo del pene, los límites de promedios adultos y cuándo revisar el crecimiento."
+  },
+  "family-health/sexual-confidence-and-concerns-about-penis-size": {
+    "description": "Revisa cómo abordar la intimidad y la comunicación cuando preocupa el tamaño del pene, y cuándo buscar apoyo por malestar o síntomas persistentes."
+  },
+  "newborn/baby-wakes-crying-or-screaming": {
+    "description": "Conoce posibles motivos por los que un bebé despierta llorando, cómo revisar su alimentación y comodidad y cuándo la enfermedad requiere ayuda."
+  },
+  "newborn/sucking-reflex-and-feeding-readiness": {
+    "description": "Entiende cómo los reflejos de succión y búsqueda ayudan a alimentarse y por qué los bebés prematuros pueden necesitar apoyo especializado."
+  },
+  "newborn/why-babies-shake-or-turn-their-heads": {
+    "description": "Algunos movimientos de cabeza son normales en bebés, pero las series repentinas o los cambios de conciencia y desarrollo necesitan evaluación rápida."
+  },
+  "family-health/cervical-cancer-surgery-options": {
+    "description": "Conoce los procedimientos del cáncer cervical, las opciones que preservan fertilidad y qué puede implicar la evaluación de ganglios y la recuperación."
+  },
+  "family-health/cervical-dysplasia-results-and-treatment": {
+    "description": "Entiende el VPH, los grados de displasia cervical y por qué algunos cambios se vigilan mientras otros necesitan tratamiento o seguimiento estrecho."
+  },
+  "newborn/necrotising-enterocolitis-signs-and-treatment": {
+    "description": "La enterocolitis necrosante es grave en recién nacidos. Reconoce las señales urgentes y cómo los equipos neonatales la investigan y tratan."
+  },
+  "family-health/oestrogen-testing-what-results-can-tell-you": {
+    "description": "Conoce por qué se solicitan análisis de estrógenos, cómo influye el momento de la muestra y qué límites tienen los paneles hormonales caseros."
+  },
+  "baby-and-child/covid-vaccine-side-effects-in-children": {
+    "title": "Vacunas contra COVID-19 en niños: efectos secundarios",
+    "description": "Revisa reacciones habituales y complicaciones raras de las vacunas contra COVID-19 en niños, junto con medidas de alivio y preguntas para su equipo."
+  },
+  "newborn/preventing-abusive-head-trauma-and-getting-help": {
+    "title": "Llanto del bebé: prevenir el traumatismo por maltrato",
+    "description": "Conoce señales de traumatismo craneal por maltrato y cómo preparar un plan seguro si el llanto del bebé desborda a quienes lo cuidan."
+  },
+  "newborn/choanal-atresia-in-babies": {
+    "description": "Entiende la atresia de coanas en uno o ambos lados, qué dificultades respiratorias son urgentes y cómo se realizan la cirugía y el seguimiento."
+  },
+  "newborn/sore-cracked-or-crusted-nipples": {
+    "description": "El dolor o las costras del pezón pueden deberse a tomas, extracción o piel. Conoce por qué la ayuda temprana permite identificar y tratar la causa."
+  },
+  "family-health/diarrhoea-around-your-period": {
+    "description": "Conoce medidas para la diarrea alrededor de la menstruación y cuándo el dolor, el sangrado o la deshidratación requieren atención médica."
+  },
+  "newborn/bumps-on-the-nipple-or-areola": {
+    "description": "Conoce posibles causas de bultitos en pezón o areola, desde glándulas normales hasta infecciones, y cuándo revisarlos sin manipularlos."
+  },
+  "family-health/why-your-period-is-lighter-than-usual": {
+    "description": "Revisa causas de una menstruación más ligera, como anticonceptivos, lactancia o cambios hormonales, y cuándo hacer pruebas o buscar evaluación."
+  },
+  "family-health/when-period-length-changes": {
+    "description": "Entiende cambios en la duración de la regla y el ritmo del ciclo, desde etapas de la vida hasta embarazo o medicamentos, y cuándo consultar."
+  },
+  "newborn/tingling-or-burning-breasts-during-feeding": {
+    "description": "Distingue sensaciones de eyección de leche del dolor por agarre, inflamación o vasoespasmo y conoce cuándo el ardor mamario necesita revisión."
+  },
+  "family-health/baking-soda-and-vulval-itching": {
+    "description": "Revisa los límites de baños externos diluidos con bicarbonato para el picor vulvar y por qué no curan infecciones vaginales ni urinarias."
+  },
+  "pregnancy/dating-pregnancy-after-embryo-transfer": {
+    "description": "Aprende cómo se calcula la edad del embarazo tras una transferencia embrionaria y qué papel tienen la edad del embrión, las pruebas y la ecografía."
+  },
+  "family-health/vinegar-and-vaginal-itching": {
+    "description": "Examina las afirmaciones sobre vinagre y otros remedios para el picor vaginal, con cuidados suaves y orientación para obtener el diagnóstico adecuado."
+  },
+  "pregnancy/dreams-fruit-and-your-babys-sex": {
+    "description": "Los sueños del embarazo pueden ser intensos, pero no predicen el sexo fetal. Distingue el folclore de lo que pueden mostrar las pruebas prenatales."
+  },
+  "family-health/breast-pain-around-menopause": {
+    "description": "Entiende cómo puede cambiar el dolor mamario en la perimenopausia, qué ayuda al confort y qué síntomas nuevos requieren valoración."
+  },
+  "family-health/clitoral-enlargement-and-swelling": {
+    "description": "Los cambios del clítoris con la excitación difieren de su aumento persistente. Conoce cuándo revisar irritación, exposición hormonal u otras causas."
+  },
+  "newborn/when-your-baby-refuses-the-breast": {
+    "description": "Conoce por qué un bebé puede rechazar el pecho y cómo proteger su ingesta mientras recibes ayuda con agarre, distracción o una huelga de lactancia."
+  },
+  "family-health/spotting-while-taking-the-pill": {
+    "description": "Entiende el manchado al tomar la píldora, las instrucciones ante olvidos y cuándo valorar una prueba de embarazo o cambiar el plan con tu equipo."
+  },
+  "newborn/ibuprofen-while-breastfeeding": {
+    "description": "Revisa cómo se usa ibuprofeno durante la lactancia, por qué importa el producto y cómo difiere de otros analgésicos o del tratamiento del bebé."
+  },
+  "newborn/ondansetron-while-breastfeeding": {
+    "description": "Los datos humanos sobre ondansetrón durante la lactancia son tranquilizadores. Conoce cuándo puede usarse y por qué investigar las náuseas sigue importando."
+  },
+  "family-health/semen-leakage-and-penile-discharge": {
+    "description": "Distingue líquidos de excitación, emisiones nocturnas y secreción anormal del pene, y conoce cuándo los cambios urinarios necesitan evaluación."
+  },
+  "family-health/understanding-delayed-ejaculation": {
+    "description": "La eyaculación retardada puede implicar medicamentos, sensibilidad o ansiedad. Conoce cómo se evalúa la experiencia sin imponer un tiempo fijo."
+  },
+  "family-health/migraine-around-your-period": {
+    "description": "Reconoce un patrón de migraña menstrual y cómo aura, anticoncepción o embarazo influyen al elegir tratamiento de crisis y prevención."
+  },
+  "newborn/constipation-in-breastfed-babies": {
+    "description": "En un bebé amamantado importan más las heces duras y dolorosas que un día sin defecar. Conoce cuándo revisar alimentación o pedir asesoramiento."
+  },
+  "newborn/moving-between-breast-and-bottle": {
+    "description": "Ayuda al bebé a alternar pecho y biberón observando sus señales y protegiendo la ingesta, sin atribuir toda dificultad a la confusión del pezón."
+  },
+  "pregnancy/pelvic-pain-in-early-pregnancy": {
+    "description": "Conoce causas del dolor pélvico al inicio del embarazo, cómo se evalúan y cuándo podría indicar un embarazo ectópico u otra urgencia."
+  },
+  "family-health/vaginal-wetness-and-discharge": {
+    "description": "Entiende la humedad por flujo, sudor o pérdidas urinarias y cuándo necesita evaluación, incluida una posible pérdida de líquido en el embarazo."
+  },
+  "family-health/testosterone-and-healthy-habits": {
+    "description": "Sueño, actividad y nutrición apoyan la salud, pero no garantizan más testosterona. Conoce por qué los síntomas persistentes necesitan evaluación."
+  },
+  "family-health/wrinkled-nipples-and-texture-changes": {
+    "description": "Revisa pliegues y otros cambios de textura del pezón, incluidos los de lactancia, y qué cambios nuevos de pezón o mama requieren evaluación."
+  },
+  "newborn/foods-and-drinks-while-breastfeeding": {
+    "description": "Revisa pescado, cafeína, alcohol y productos herbales durante la lactancia, con una dieta variada y restricciones solo cuando están justificadas."
+  },
+  "newborn/breastfeeding-with-psoriasis": {
+    "description": "La psoriasis no es contagiosa y suele permitir amamantar. Conoce cómo un plan para cada medicamento cuida tu piel y limita la exposición del bebé."
+  },
+  "newborn/recognising-cows-milk-protein-allergy": {
+    "title": "Alergia a la leche de vaca: diagnóstico y alimentación",
+    "description": "La alergia a la leche puede dar síntomas inmediatos o tardíos. Conoce cómo el diagnóstico orienta la alimentación sin restricciones innecesarias."
+  },
+  "pregnancy/waters-break-without-contractions": {
+    "description": "Llama a maternidad si sospechas que has roto aguas. Conoce la evaluación y por qué el plan cambia según las semanas y los signos de alarma."
+  },
+  "newborn/when-milk-volume-is-slow-to-increase": {
+    "description": "Si la leche tarda en aumentar tras el parto, pide revisar las tomas y un plan que apoye la producción mientras mantiene bien alimentado al bebé."
+  },
+  "newborn/understanding-neonatal-lupus": {
+    "title": "Lupus neonatal: síntomas y atención especializada",
+    "description": "Entiende cómo difiere el lupus neonatal del adulto, qué cambios pueden resolverse y por qué el bloqueo cardíaco requiere atención específica."
+  },
+  "family-health/psoriasis-around-the-anus": {
+    "description": "La psoriasis puede causar una erupción anal, pero otras afecciones se parecen. Conoce por qué esta piel sensible necesita diagnóstico y cuidado adecuado."
+  },
+  "pregnancy/planning-care-for-psoriasis": {
+    "description": "Muchas personas con psoriasis tienen embarazos saludables. Revisa pronto los medicamentos y planifica atención, síntomas y alimentación tras el parto."
+  },
+  "pregnancy/psoriasis-creams-and-skin-care": {
+    "description": "Al elegir cremas para psoriasis en el embarazo importan ingrediente, potencia, cantidad y zona tratada. Prepara un plan específico con tu equipo."
+  },
+  "family-health/abdominal-changes-around-menopause": {
+    "description": "Distingue hinchazón de cambios de composición corporal en la menopausia y revisa nutrición, movimiento y límites de suplementos o procedimientos."
+  },
+  "family-health/vaginal-ph-and-everyday-care": {
+    "description": "El pH vaginal cambia con hormonas y otros factores. Conoce por qué síntomas y pruebas importan más que perseguir una cifra con limpiadores."
+  },
+  "trying-to-conceive/spotting-period-or-early-pregnancy": {
+    "description": "El color y el momento del manchado no confirman implantación. Conoce cuándo hacer una prueba de embarazo y qué síntomas requieren atención."
+  },
+  "family-health/discharge-during-or-after-sex": {
+    "title": "Secreciones durante el sexo: cambios y cuándo consultar",
+    "description": "Distingue secreciones vaginales y del pene de síntomas urinarios, y conoce qué cambios necesitan pruebas de infección o atención urgente."
+  },
+  "family-health/understanding-monophasic-combined-pills": {
+    "description": "Entiende cómo funcionan las píldoras combinadas monofásicas, las diferencias de envase y qué revisar sobre olvidos, efectos y adecuación."
+  },
+  "newborn/breast-milk-jaundice-and-feeding": {
+    "description": "La ictericia por leche materna puede persistir en un bebé que crece bien, pero la mala alimentación o somnolencia inusual necesitan evaluación."
+  },
+  "newborn/can-you-increase-milk-supply-in-one-day": {
+    "description": "Conoce qué puede apoyar hoy la producción de leche, cómo valorar si es baja y los límites de alimentos, extracción intensiva y soluciones rápidas."
+  },
+  "pregnancy/low-hcg-results-and-miscarriage": {
+    "description": "Un resultado bajo de hCG no explica por sí solo el embarazo. Entiende cómo la evolución, la ecografía y los síntomas orientan el seguimiento."
+  },
+  "family-health/penile-numbness-causes-and-when-to-get-help": {
+    "description": "Conoce posibles causas del entumecimiento del pene, desde presión hasta problemas nerviosos, y qué síntomas requieren atención urgente."
+  },
+  "family-health/menopause-and-insomnia": {
+    "description": "Revisa cómo la menopausia puede alterar el sueño, cuándo investigar otras causas y qué pueden aportar la terapia cognitiva y el tratamiento individual."
+  },
+  "family-health/low-mood-around-your-period": {
+    "title": "Ánimo bajo antes de la regla: SPM, TDPM y otras causas",
+    "description": "Registra cómo cambia el ánimo con el ciclo y distingue SPM, TDPM y empeoramiento de otras afecciones para hablar de tratamiento y apoyo."
+  },
+  "family-health/symptoms-after-your-period": {
+    "title": "Síntomas después de la regla: cuándo buscar evaluación",
+    "description": "El síndrome posmenstrual es una etiqueta informal. Conoce cómo registrar los síntomas y buscar una evaluación dirigida en lugar de asumir su causa."
+  },
+  "pregnancy/spotting-after-sex-or-orgasm": {
+    "description": "El sangrado tras sexo u orgasmo en el embarazo necesita consejo profesional. Que ocurra después del contacto no confirma la causa."
+  },
+  "family-health/penile-pain-causes-and-when-to-get-help": {
+    "description": "El dolor del pene puede deberse a irritación, infección o lesión. Conoce qué patrones necesitan urgencias en lugar de una crema o cita rutinaria."
+  },
+  "family-health/burning-nipple-pain-and-its-causes": {
+    "description": "Entiende causas del ardor del pezón, cómo obtener apoyo para las tomas y qué cambios necesitan evaluación sin recurrir a remedios perjudiciales."
+  },
+  "pregnancy/grape-dreams-and-pregnancy-predictions": {
+    "description": "Explora el simbolismo tradicional de soñar con uvas en el embarazo sin convertir colores o acciones en predicciones sobre la salud del bebé."
+  },
+  "pregnancy/pomegranate-dreams-and-birth-predictions": {
+    "title": "Soñar con granadas en el embarazo: tradición y límites",
+    "description": "Conoce interpretaciones tradicionales de sueños con granadas y distingue su simbolismo personal de la información real sobre embarazo y parto."
+  },
+  "family-health/breast-cancer-in-men-signs-and-assessment": {
+    "description": "Reconoce cambios de mama, pezón o piel en hombres y entiende qué pueden implicar la evaluación, el tratamiento y el asesoramiento genético."
+  },
+  "family-health/menstrual-clots-and-heavy-bleeding": {
+    "description": "Entiende los coágulos menstruales, sus posibles causas y qué sangrado abundante requiere ayuda, junto con las opciones de evaluación y tratamiento."
+  },
+  "trying-to-conceive/implantation-timing-and-pregnancy-testing": {
+    "description": "Una calculadora de implantación solo estima fechas. Conoce sus límites y cómo elegir un momento más útil para hacer una prueba de embarazo."
+  },
+  "pregnancy/dreaming-of-twins-what-it-can-and-cannot-tell-you": {
+    "description": "Soñar con gemelos puede tener significado personal, pero no predice un embarazo gemelar. Conoce cuándo las pesadillas o sueños intensos necesitan apoyo."
+  },
+  "family-health/nipple-discharge-in-men": {
+    "description": "La secreción del pezón en un hombre necesita valoración, aunque puede tener causas benignas. Conoce por qué el color no identifica el origen."
+  },
+  "family-health/cauda-equina-syndrome-emergency-symptoms": {
+    "description": "Reconoce cambios urgentes de vejiga, intestino o sensibilidad del síndrome de cauda equina y comprende las pruebas, cirugía y apoyo posterior."
+  },
+  "newborn/white-spots-on-the-nipple-and-milk-blebs": {
+    "description": "Distingue posibles causas de puntos blancos en el pezón, incluidas perlas de leche y glándulas normales, y cuándo buscar ayuda durante la lactancia."
+  },
+  "family-health/hemochromatosis-causes-tests-and-treatment": {
+    "description": "Entiende cómo se acumula hierro en la hemocromatosis, qué aportan las pruebas de sangre y genéticas y cómo se organizan tratamiento y cuidados."
+  },
+  "trying-to-conceive/understanding-unexplained-infertility": {
+    "description": "Conoce qué significa infertilidad inexplicada, los límites de la evaluación habitual y cómo hablar de pruebas adicionales y un plan realista."
+  },
+  "trying-to-conceive/understanding-fertility-injections": {
+    "title": "Inyecciones de fertilidad: elegir y vigilar el tratamiento",
+    "description": "Entiende las funciones de las inyecciones de fertilidad y por qué la opción más potente no siempre conviene, junto con vigilancia y síntomas urgentes."
+  },
+  "trying-to-conceive/follitropin-alfa-treatment-guide": {
+    "title": "Folitropina alfa: tratamiento de fertilidad y vigilancia",
+    "description": "Conoce qué hace la folitropina alfa, cómo se supervisa y qué preguntar sobre inyecciones, conservación y efectos adversos al equipo de fertilidad."
+  },
+  "baby-and-child/genital-development-and-puberty-concerns": {
+    "description": "Entiende la variación del crecimiento genital en la pubertad y por qué las comparaciones por edad pueden engañar, respetando la privacidad del joven."
+  },
+  "trying-to-conceive/lubricants-when-trying-to-conceive": {
+    "description": "Revisa las afirmaciones sobre lubricantes compatibles con espermatozoides y los límites de pruebas de laboratorio frente a resultados de fertilidad."
+  },
+  "baby-and-child/growth-hormone-and-height-after-puberty": {
+    "title": "Hormona de crecimiento después de la pubertad: límites",
+    "description": "Conoce cuándo se trata una deficiencia real de hormona de crecimiento y por qué las inyecciones no alargan huesos con placas ya cerradas."
+  },
+  "baby-and-child/healthy-habits-and-height-after-puberty": {
+    "title": "Crecer después de la pubertad: posibilidades y límites",
+    "description": "Entiende el papel de las placas de crecimiento y la pubertad, y lo que alimentación, sueño, ejercicio y postura pueden o no cambiar en la estatura."
+  },
+  "baby-and-child/can-exercise-increase-height-after-puberty": {
+    "title": "Ejercicio y estatura: qué pueden aportar los movimientos",
+    "description": "El ejercicio puede apoyar postura y condición física, pero no alarga huesos con placas cerradas. Conoce los límites de sus promesas de altura."
+  },
+  "baby-and-child/growth-and-puberty-in-girls": {
+    "title": "Crecimiento y pubertad en niñas: cuándo consultar",
+    "description": "Entiende cómo cambia el crecimiento antes y después de la primera regla y cuándo el momento de la pubertad o la evolución de la altura merece revisión."
+  },
+  "baby-and-child/talking-with-your-daughter-about-puberty": {
+    "description": "Prepara conversaciones tranquilas sobre pubertad y primera regla, con apoyo si tu hija se desarrolla antes o después que otras niñas."
+  },
+  "trying-to-conceive/symptoms-after-embryo-transfer": {
+    "title": "Síntomas después de transferir embriones: límites y pruebas",
+    "description": "Conoce qué pueden y no pueden indicar manchado, cólicos y otros síntomas tras una transferencia embrionaria y cuándo hacer pruebas o pedir ayuda."
+  },
+  "baby-and-child/what-teenagers-need-from-parents": {
+    "description": "Explora formas de apoyar independencia, privacidad, identidad y pertenencia de los adolescentes, manteniendo afecto y límites claros en casa."
+  },
+  "trying-to-conceive/reading-a-positive-ovulation-test": {
+    "title": "Prueba de ovulación positiva: cómo interpretarla",
+    "description": "Aprende a leer una prueba de ovulación según el kit y entiende por qué un aumento de LH puede predecir ovulación, pero no demostrar que ocurrió."
+  },
+  "pregnancy/tuna-and-mercury-during-pregnancy": {
+    "description": "El tipo y la cantidad de atún importan durante el embarazo. Conoce cómo valorar el mercurio y elegir pescado sin depender solo de si viene en lata."
+  },
+  "trying-to-conceive/planning-pregnancy-after-postpartum-depression": {
+    "description": "Planifica otro embarazo tras depresión posparto con revisión previa, apoyo práctico y un plan de terapia o medicación y señales tempranas de ayuda."
+  },
+  "pregnancy/food-choices-with-gestational-diabetes": {
+    "description": "Revisa porciones, combinaciones y preparación de alimentos tras diabetes gestacional, sin eliminar todos los carbohidratos ni depender de trucos."
+  },
+  "trying-to-conceive/what-to-do-after-sex-when-trying": {
+    "description": "No necesitas elevar las piernas ni acostarte después del sexo para concebir. Revisa el momento fértil, la comodidad y los cuidados preconcepcionales."
+  },
+  "trying-to-conceive/understanding-vaginismus-symptoms": {
+    "description": "Entiende cómo la contracción involuntaria del suelo pélvico afecta a la penetración y cómo dolor, experiencias o miedo pueden contribuir sin culpa."
+  },
+  "trying-to-conceive/emotional-support-during-fertility-treatment": {
+    "title": "Apoyo emocional durante el tratamiento de fertilidad",
+    "description": "Conoce cómo el tratamiento de fertilidad puede afectar al ánimo y las relaciones, y qué apoyo práctico pueden ofrecer allegados y profesionales."
+  },
+  "trying-to-conceive/understanding-ovarian-cancer": {
+    "title": "Cáncer de ovario: síntomas, diagnóstico y tratamiento",
+    "description": "Entiende los tipos de cáncer de ovario, qué síntomas persistentes se evalúan y los límites del cribado, junto con tratamiento y opciones de fertilidad."
+  },
+  "trying-to-conceive/weight-and-gestational-diabetes-risk": {
+    "title": "Peso antes del embarazo y riesgo de diabetes gestacional",
+    "description": "Los cambios previos al embarazo pueden reducir riesgo de diabetes gestacional en algunas personas. Conoce por qué el consejo debe ser individual."
+  },
+  "pregnancy/blood-pressure-cannot-choose-baby-sex": {
+    "description": "La presión arterial antes del embarazo no predice con fiabilidad el sexo del bebé. Una asociación observada no justifica modificarla con ese fin.",
+    "title": "Presión arterial y sexo del bebé: límites de la evidencia"
+  },
+  "family-health/glaucoma-symptoms-diagnosis-treatment": {
+    "description": "Conoce los tipos de glaucoma y por qué una visión o presión normales no lo descartan, junto con las pruebas y tratamientos para proteger la vista."
+  },
+  "baby-and-child/dextrocardia-right-sided-heart": {
+    "description": "Entiende qué significa un corazón orientado a la derecha y por qué otros hallazgos cardíacos u orgánicos cambian la evaluación y el seguimiento."
+  },
+  "pregnancy/pregnancy-dreams-and-their-meaning": {
+    "description": "Explora sueños habituales sobre embarazo, los límites de la investigación y cuándo los sueños perturbadores merecen apoyo para descansar mejor."
+  },
+  "pregnancy/peach-dreams-in-pregnancy": {
+    "description": "Conoce el folclore de los sueños con melocotones en el embarazo y por qué no predice la salud ni el sexo del bebé, aunque tenga significado personal."
+  },
+  "pregnancy/parrot-dreams-in-pregnancy": {
+    "title": "Soñar con loros en el embarazo: simbolismo y límites",
+    "description": "Explora historias sobre colores y jaulas en sueños con loros, distinguiendo el simbolismo de las predicciones sobre el bebé o acontecimientos futuros."
+  },
+  "pregnancy/apple-dreams-colours-and-pregnancy": {
+    "title": "Soñar con manzanas en el embarazo: tradición y realidad",
+    "description": "Los colores de manzanas en sueños tienen muchos significados populares, pero no son pruebas sobre el embarazo. Conoce los límites de estas historias."
+  },
+  "pregnancy/sleep-disturbances-and-groaning": {
+    "description": "Distingue gemidos y ronquidos del sueño en el embarazo y cuándo revisar reflujo, piernas inquietas o apnea si el descanso está alterado."
+  },
+  "family-health/testicular-cancer-diagnosis-treatment-and-fertility": {
+    "description": "Conoce cómo se investiga un bulto testicular, qué aportan imágenes y marcadores y cómo el tipo de cáncer orienta tratamiento y fertilidad.",
+    "title": "Cáncer testicular: diagnóstico, tratamiento y fertilidad"
+  },
+  "family-health/vaginal-buzzing-or-vibration-sensations": {
+    "description": "Aprende a describir una vibración o zumbido pélvico y conoce por qué los síntomas musculares o nerviosos persistentes necesitan evaluación individual."
+  },
+  "family-health/burn-scars-healing-treatment-and-support": {
+    "description": "Distingue el cuidado de una quemadura del tratamiento de su cicatriz y conoce cuándo se consideran rehabilitación, compresión o cirugía."
+  },
+  "pregnancy/masturbation-and-orgasm-during-pregnancy": {
+    "description": "Revisa la estimulación y el orgasmo en un embarazo sin complicaciones, las señales para consultar y cómo aclarar una restricción sexual individual."
+  },
+  "trying-to-conceive/covid-vaccination-when-planning-pregnancy": {
+    "description": "Conoce qué indican los estudios sobre vacunas contra COVID-19 y fertilidad y por qué su momento debe seguir las recomendaciones locales actuales."
+  },
+  "trying-to-conceive/implantation-symptoms-and-testing": {
+    "description": "Entiende los límites del manchado y otros supuestos síntomas de implantación, y cómo elegir un momento más útil para la prueba de embarazo."
+  },
+  "pregnancy/superfetation-pregnancy-during-pregnancy": {
+    "description": "La superfetación se describe en informes raros. Conoce por qué diferencias de tamaño fetal no la demuestran y qué implican para la atención prenatal."
+  },
+  "pregnancy/what-determines-babys-hair-colour": {
+    "description": "Los genes influyen en el color del pelo del bebé, pero las predicciones simples fallan. Los alimentos del embarazo no pueden garantizar pelo rubio."
+  },
+  "baby-and-child/partridge-meat-for-children": {
+    "description": "Conoce cómo valorar origen, cocción y textura de la perdiz para niños, con precauciones sobre plomo, atragantamiento y promesas de salud."
+  },
+  "pregnancy/partridge-meat-in-pregnancy": {
+    "description": "Revisa la seguridad de comer perdiz en el embarazo, incluida la caza con plomo y la cocción, sin asumir beneficios medicinales especiales."
+  },
+  "pregnancy/ostrich-liver-in-pregnancy": {
+    "title": "Hígado de avestruz en el embarazo: riesgos y alternativas",
+    "description": "El hígado de avestruz contiene nutrientes, pero se aconseja evitar el hígado en el embarazo. Conoce el riesgo de vitamina A y alternativas de hierro."
+  },
+  "baby-and-child/ostrich-meat-for-children": {
+    "description": "La carne de avestruz puede aportar proteínas a los niños. Conoce cómo adaptar textura y cocción y reducir atragantamiento y riesgos alimentarios."
+  },
+  "pregnancy/ostrich-meat-in-pregnancy": {
+    "title": "Carne de avestruz en el embarazo: nutrición y seguridad",
+    "description": "Revisa nutrientes y preparación segura de la carne de avestruz en el embarazo, los límites de sus beneficios y por qué el hígado requiere otro consejo."
+  },
+  "newborn/gripe-water-safety-for-babies": {
+    "description": "Examina los ingredientes y la evidencia del agua de gripe para bebés, las alternativas para calmar el cólico y las señales que necesitan ayuda médica."
+  },
+  "newborn/newborn-sneezing": {
+    "description": "Los estornudos del recién nacido pueden ser normales. Conoce qué síntomas importan y por qué este reflejo solo no diagnostica enfermedad ni abstinencia."
+  },
+  "newborn/snoring-and-noisy-breathing-in-babies": {
+    "description": "Distingue ruidos nasales, ronquidos y estridor en bebés, y conoce qué cambios al alimentarse o respirar requieren atención urgente."
+  },
+  "newborn/stickler-syndrome": {
+    "description": "Entiende los signos variables del síndrome de Stickler y la atención de retina, audición, articulaciones, alimentación y crecimiento."
+  },
+  "family-health/enlarged-uterus": {
+    "description": "Conoce causas de un útero aumentado, como miomas o adenomiosis, qué síntomas se evalúan y cómo tus objetivos influyen en el tratamiento."
+  },
+  "family-health/endometrial-cancer": {
+    "description": "Entiende los síntomas y pruebas del cáncer de endometrio, cómo se determina el estadio y qué papel tienen los tratamientos y el riesgo hereditario."
+  },
+  "newborn/torticollis-causes-and-care": {
+    "description": "Conoce la tortícolis en bebés, niños y adultos, las señales de alarma y cómo se adapta la fisioterapia o atención especializada al diagnóstico."
+  },
+  "family-health": {
+    "title": "Salud familiar: síntomas y cuidados",
+    "description": "Explora síntomas, pruebas, tratamientos y bienestar sexual en la vida adulta, con información para preparar preguntas a tu equipo de salud."
+  }
+}

@@ -19,6 +19,34 @@ The site is generated into `dist/` and is designed to be hosted at:
 
 The English policy pages are the official public copy until reviewed translations are available.
 
+## Part 1 article delivery
+
+The first editorial delivery adds 663 articles in all seven languages, alongside
+the existing 190 articles. Its explicit website snapshot lives in
+`src/articles/part-01/`, with the reviewed responsive WebPs in
+`public/assets/content/part-01/`. General adult-health articles appear in the
+localized Family Health category. Article pages, navigation, category listings,
+search indexes, RSS feeds, sitemaps and language alternates use the shared hub
+registry.
+
+The locale-specific `seo-*.json` files contain independently edited search titles
+and descriptions. They do not shorten the reader-facing article bodies or
+summaries. Run `node scripts/audit-part1-metadata.mjs` to check their budgets,
+then `npm run build` and `npm run validate` to check the generated site.
+For an isolated feed-rendering change after a complete build,
+`node scripts/build.mjs --feeds-only` refreshes the eight RSS files using the
+same renderer. New articles use their recorded editorial/evidence dates when
+the legacy article date is absent; the build clock is never a publication date.
+
+The import receipt, original preparation files, social drafts and QA screenshots
+are archived outside the project at
+`C:/WorkSpace/Practice/bemama-archive/2026-10-09-part-01/`.
+`scripts/import-part1.mjs --from <external editorial directory>` copies an
+explicit completed delivery into website source and verifies existing asset
+hashes. Ordinary builds and tests do not read or recreate preparation folders.
+The original preparation snapshots remain historical records. Website
+integration does not record clinician or native-language approval or deploy the site.
+
 ## Search metadata
 
 All seven locales (`en`, `fa`, `ar`, `fr`, `tr`, `es`, `pt`) are checked by the SEO audit.
@@ -50,7 +78,7 @@ node scripts/indexnow.mjs --submit
 ```
 
 Dry-run is the default and sends nothing. Submission first checks the live key
-file and all 1,393 deployed page titles, descriptions and canonicals against the
+file and all active deployed page titles, descriptions and canonicals against the
 local build. Stale, missing, redirected or noindex pages stop the submission.
 The batch contains only public main-site routes, never app/API/account URLs.
 Alternatively, use Ahrefs' manual Submit to IndexNow action after deployment;
@@ -138,7 +166,7 @@ node scripts/verify-indexing-live.mjs --all --bypass-cache
 ```
 
 Default mode checks 91 representative URLs across all seven languages; `--all`
-checks all 1,393. Both also verify the eight sitemap files. The command detects
+checks every active public page. Both also verify the eight sitemap files. The command detects
 date/schema mismatches, missing email links, Cloudflare-injected utility links,
 stale asset references, bad status codes, metadata mismatches and noindex. It
 does not purge, submit URLs, call Search Console or prove Google indexing.

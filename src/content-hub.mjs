@@ -26,9 +26,11 @@ import { hubTranslations } from './articles/i18n/index.mjs';
 import { applyWebsiteGaps } from './website-gap-content.mjs';
 import { configureGapTools } from './website-gap-tools.mjs';
 import { applyContentDepth } from './content-depth.mjs';
+import { part1Articles, part1Categories } from './articles/part-01.mjs';
 
 // --- Categories (drive the navigation menu and the category landing pages) ---
 export const categories = [
+  ...part1Categories,
   {
     id: 'ttc',
     slug: 'trying-to-conceive',
@@ -456,7 +458,8 @@ export const articles = [
   ...questionArticles,
   ...careTools,
   ...appArticles,
-  ...routineArticles
+  ...routineArticles,
+  ...part1Articles
 ];
 
 // Merge per-language translations into each article's i18n map. Section images

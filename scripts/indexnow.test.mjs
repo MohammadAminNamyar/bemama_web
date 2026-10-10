@@ -4,7 +4,7 @@ import { submissionPayload, pageSignature, activePageUrls } from './indexnow.mjs
 
 test('default IndexNow URL selection excludes explicitly retired noindex tools', () => {
   const urls=activePageUrls();
-  assert.equal(urls.length,1407); // Includes the author/editorial page in seven languages.
+  assert.equal(urls.length,6055); // Part1 adds663 articles and one category in all seven languages.
   assert.ok(urls.includes('https://bemamas.com/editorial/'));
   assert.ok(urls.includes('https://bemamas.com/ar/editorial/'));
   for(const id of ['milestone-tracker','solids-planner','toddler-activity-picker']) assert.ok(urls.every(url=>!url.includes(`/tools/${id}/`)));

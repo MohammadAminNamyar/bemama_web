@@ -1,0 +1,16 @@
+{
+  "part": 1,
+  "articles": 663,
+  "languages": [
+    "en",
+    "fa",
+    "ar",
+    "fr",
+    "tr",
+    "es",
+    "pt"
+  ],
+  "assetCount": 3320,
+  "assetsSha256": "ecc2f06e3f326d5e7530a1ddc1eaaa5085a9b6939adb6b0331d64fb47c8dfdb5",
+  "articleSnapshotSha256": "43eca155a697a2318cdc60e071d48f2f455cac3aaf9d6d2b2aa773de1fcda808"
+}

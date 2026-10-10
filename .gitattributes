@@ -1,2 +1,4 @@
 # Preserve the retained reference table's checksum across Windows and Unix checkouts.
 docs/tools-completion-2026-09-12/data/ssa-2020-2025.json text eol=lf
+# The completed article snapshot is checked against its original byte checksum.
+src/articles/part-01/articles.json text eol=lf

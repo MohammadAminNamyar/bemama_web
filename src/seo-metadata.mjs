@@ -1,4 +1,5 @@
 import { homeRollout } from './home-rollout.mjs';
+import { part1SearchOverrides } from './articles/part-01/seo.mjs';
 import { englishDescriptions } from './seo-descriptions-en.mjs';
 import { persianDescriptions } from './seo-descriptions-fa.mjs';
 import { arabicDescriptions } from './seo-descriptions-ar.mjs';
@@ -138,7 +139,8 @@ export const metadataOverrides = {
   'pt/trying-to-conceive/shettles-method': {
     title: 'Método Shettles: teoria e evidências | BeMama',
     description: 'O método Shettles pode influenciar o sexo do bebê? Conheça suas hipóteses sobre o momento da relação, seus limites e as evidências.'
-  }
+  },
+  ...part1SearchOverrides
 };
 
 export function normalizeMetadata(value) {
