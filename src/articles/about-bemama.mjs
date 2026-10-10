@@ -73,7 +73,7 @@ export const appArticles = [
           }
         ],
         "updatedIso": "2026-09-12",
-        "byline": "Product guide by {name}, founder of BeMama.",
+        "byline": "Product guide by {name}.",
         "linkLabels": {
           "https://app.bemamas.com/": "Open the BeMama app",
           "https://bemamas.com/tools/": "Free pregnancy and parenting tools",
@@ -166,7 +166,7 @@ export const appArticles = [
           }
         ],
         "updatedIso": "2026-09-12",
-        "byline": "Product guide by {name}, founder of BeMama.",
+        "byline": "Product guide by {name}.",
         "linkLabels": {
           "https://app.bemamas.com/": "Open the BeMama app",
           "https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client": "BeMama on Google Play",
@@ -347,7 +347,7 @@ export const appArticles = [
           }
         ],
         "updatedIso": "2026-09-12",
-        "byline": "Product guide by {name}, founder of BeMama.",
+        "byline": "Product guide by {name}.",
         "linkLabels": {
           "https://bemamas.com/tools/": "Free pregnancy and parenting tools",
           "https://bemamas.com/about-bemama/premium/": "Free and Premium feature access",
@@ -422,7 +422,7 @@ export const appArticles = [
           }
         ],
         "updatedIso": "2026-09-12",
-        "byline": "Product guide by {name}, founder of BeMama.",
+        "byline": "Product guide by {name}.",
         "linkLabels": {
           "https://bemamas.com/tools/": "Free pregnancy and parenting tools",
           "https://bemamas.com/about-bemama/daily-journey/": "Pregnancy tracker and Daily Journey setup",
@@ -654,7 +654,7 @@ export const appArticles = [
           }
         ],
         "updatedIso": "2026-09-12",
-        "byline": "Product guide by {name}, founder of BeMama.",
+        "byline": "Product guide by {name}.",
         "linkLabels": {
           "https://app.bemamas.com/": "Open the BeMama app",
           "https://bemamas.com/": "BeMama website",

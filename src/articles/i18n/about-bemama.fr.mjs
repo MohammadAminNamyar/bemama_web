@@ -78,7 +78,7 @@ export const translations = {
         "a": "Oui. Configurez l’étape bébé avec sa date de naissance, puis utilisez son profil pour noter tétées, biberons, sommeil et changes. Vérifiez le profil sélectionné avant d’enregistrer."
       }
     ],
-    "byline": "Guide du produit par {name}, fondateur de BeMama.",
+    "byline": "Guide du produit par {name}.",
     "linkLabels": {
       "https://app.bemamas.com/": "Ouvrir l’application BeMama",
       "https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client": "BeMama sur Google Play",

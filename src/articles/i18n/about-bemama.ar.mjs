@@ -78,7 +78,7 @@ export const translations = {
         "a": "نعم. أعدّي مرحلة الرضيع بتاريخ ميلاده، ثم استخدمي ملفه لتسجيل الرضاعة والتغذية بالزجاجة والنوم والحفاضات. راجعي الملف المختار قبل حفظ السجلات."
       }
     ],
-    "byline": "دليل المنتج من إعداد {name}، مؤسس BeMama.",
+    "byline": "دليل المنتج من إعداد {name}.",
     "linkLabels": {
       "https://app.bemamas.com/": "فتح تطبيق BeMama",
       "https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client": "BeMama على Google Play",

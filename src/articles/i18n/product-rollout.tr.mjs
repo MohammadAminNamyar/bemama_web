@@ -1,5 +1,5 @@
 import { productRollout } from './product-rollout.mjs';
-export const translations = productRollout('tr', 'BeMama’nın kurucusu {name} tarafından hazırlanan ürün rehberi.', {
+export const translations = productRollout('tr', '{name} tarafından hazırlanan ürün rehberi.', {
   daily: 'Gebelik takibini kurma', tracking: 'Beslenme, uyku ve bez kayıtları', premium: 'Ücretsiz ve Premium özellikler', start: 'BeMama’ya başlarken', tools: 'Ücretsiz gebelik ve bakım araçları', privacy: 'Gizlilik ve veri dışa aktarma', terms: 'Abonelik koşulları', contact: 'Destek ile iletişim', website: 'BeMama web sitesi', app: 'BeMama uygulamasını aç'
 }, {
   'why-bemama': {

@@ -1,5 +1,5 @@
 import { productRollout } from './product-rollout.mjs';
-export const translations = productRollout('fa', 'راهنمای محصول به قلم {name}، بنیان‌گذار BeMama.', {
+export const translations = productRollout('fa', 'راهنمای محصول به قلم {name}.', {
   daily: 'راه‌اندازی پیگیری بارداری', tracking: 'ثبت شیر خوردن، خواب و تعویض پوشک', premium: 'امکانات رایگان و پریمیوم', start: 'شروع کار با BeMama', tools: 'ابزارهای رایگان بارداری و مراقبت', privacy: 'حریم خصوصی و دریافت خروجی داده‌ها', terms: 'شرایط اشتراک', contact: 'ارتباط با پشتیبانی', website: 'وب‌سایت BeMama', app: 'باز کردن اپلیکیشن BeMama'
 }, {
   'why-bemama': {

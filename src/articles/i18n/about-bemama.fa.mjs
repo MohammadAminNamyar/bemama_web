@@ -78,7 +78,7 @@ export const translations = {
         "a": "بله. مرحلهٔ نوزاد را با تاریخ تولد تنظیم کنید و در پروفایل کودک، شیردهی، تغذیه با شیشه، خواب و پوشک را ثبت کنید. پیش از ذخیره، پروفایل انتخابی را بررسی کنید."
       }
     ],
-    "byline": "راهنمای محصول از {name}، بنیان‌گذار BeMama.",
+    "byline": "راهنمای محصول از {name}.",
     "linkLabels": {
       "https://app.bemamas.com/": "باز کردن برنامهٔ BeMama",
       "https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client": "BeMama در Google Play",

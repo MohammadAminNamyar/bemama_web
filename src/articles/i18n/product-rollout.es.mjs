@@ -1,5 +1,5 @@
 import { productRollout } from './product-rollout.mjs';
-export const translations = productRollout('es', 'Guía del producto de {name}, fundador de BeMama.', {
+export const translations = productRollout('es', 'Guía del producto de {name}.', {
   daily: 'Configurar el seguimiento del embarazo', tracking: 'Registrar tomas, sueño y pañales', premium: 'Funciones gratuitas y Premium', start: 'Primeros pasos con BeMama', tools: 'Herramientas gratuitas para embarazo y crianza', privacy: 'Privacidad y exportación de datos', terms: 'Condiciones de suscripción', contact: 'Contactar con soporte', website: 'Sitio web de BeMama', app: 'Abrir la app de BeMama'
 }, {
   'why-bemama': {

@@ -357,12 +357,7 @@ const badgeSmallLabels = {
   pt: { ios: 'Baixe na', android: 'Disponível no' }
 };
 
-// Editorial accountability.
-//
-// This is health-adjacent (YMYL) content, where Google's quality guidance asks
-// a simple question: which identifiable human stands behind this page? An
-// anonymous "editorial team" is the weakest possible answer and is a plausible
-// reason 1,204 URLs sit at "Discovered - currently not indexed".
+// Editorial attribution uses the publisher's requested author credit.
 //
 // Change `editorialAuthor` in one place to re-attribute every article in every
 // locale.
@@ -385,13 +380,13 @@ const medicalReviewer = null;
 // published guidance from recognized health organizations, and every article
 // carries its sources.
 const bylineLabels = {
-  en: 'Written and edited by {name}, founder of BeMama — checked against published guidance from recognized health organizations.',
-  fa: 'نوشته و ویرایش‌شده توسط {name}، بنیان‌گذار BeMama — مطابق با راهنمای منتشرشدهٔ نهادهای معتبر سلامت بازبینی شده است.',
-  ar: 'كتابة وتحرير {name}، مؤسس BeMama — تمت مراجعته وفق الإرشادات المنشورة من هيئات صحية معترف بها.',
-  fr: 'Écrit et édité par {name}, fondateur de BeMama — vérifié au regard des recommandations publiées par des organismes de santé reconnus.',
-  tr: '{name} tarafından yazılıp düzenlenmiştir, BeMama kurucusu — tanınmış sağlık kuruluşlarının yayımlanmış rehberleri esas alınarak gözden geçirilmiştir.',
-  es: 'Escrito y editado por {name}, fundador de BeMama — revisado según las guías publicadas por organismos de salud reconocidos.',
-  pt: 'Escrito e editado por {name}, fundador do BeMama — revisado com base nas diretrizes publicadas por organizações de saúde reconhecidas.'
+  en: 'Written and edited by {name} — checked against published guidance from recognized health organizations.',
+  fa: 'نوشته و ویرایش‌شده توسط {name} — مطابق با راهنمای منتشرشدهٔ نهادهای معتبر سلامت بازبینی شده است.',
+  ar: 'كتابة وتحرير {name} — تمت مراجعته وفق الإرشادات المنشورة من هيئات صحية معترف بها.',
+  fr: 'Écrit et édité par {name} — vérifié au regard des recommandations publiées par des organismes de santé reconnus.',
+  tr: '{name} tarafından yazılıp düzenlenmiştir — tanınmış sağlık kuruluşlarının yayımlanmış rehberleri esas alınarak gözden geçirilmiştir.',
+  es: 'Escrito y editado por {name} — revisado según las guías publicadas por organismos de salud reconocidos.',
+  pt: 'Escrito e editado por {name} — revisado com base nas diretrizes publicadas por organizações de saúde reconhecidas.'
 };
 
 // Reviewer line, only ever rendered when medicalReviewer is a real person.
@@ -408,16 +403,16 @@ const reviewerLabels = {
 /// The byline with the author's name as a real, followable link. Everything
 /// around the name is escaped; only the anchor is markup.
 function bylineHtml(lang, customTemplate) {
-  const template = customTemplate ?? bylineLabels[lang] ?? bylineLabels.en;
+  const template = normalizeEditorialPunctuation(customTemplate ?? bylineLabels[lang] ?? bylineLabels.en);
   const [before, after = ''] = template.split('{name}');
-  const link = `<a href="${localizedPath(lang, 'editorial')}" rel="author">${escapeHtml(editorialAuthor.name)}</a>`;
+  const link = `<a href="${localizedPath(lang, 'editorial')}" rel="author"><bdi>${escapeHtml(editorialAuthor.name)}</bdi></a>`;
   let reviewer = '';
   if (medicalReviewer) {
     const label = reviewerLabels[lang] ?? reviewerLabels.en;
     reviewer = ` ${escapeHtml(label.replace('{reviewer}', medicalReviewer.name))}`;
   }
-  const customSpacing = customTemplate && /\s$/.test(before) ? ' ' : '';
-  const customSuffixSpacing = customTemplate && /^\s/.test(after) ? ' ' : '';
+  const customSpacing = /\s$/.test(before) ? ' ' : '';
+  const customSuffixSpacing = /^\s/.test(after) ? ' ' : '';
   return `${escapeHtml(before)}${customSpacing}${link}${customSuffixSpacing}${escapeHtml(after)}${reviewer}`;
 }
 
@@ -1777,9 +1772,8 @@ function renderArticleJsonLd(language, slug, article, data) {
       image: `${site.origin}/assets/${article.hero}`,
       inLanguage: lang,
       mainEntityOfPage: url,
-      // A named Person, not an anonymous team: for YMYL content search engines
-      // want an identifiable human who is accountable for the page.
-      author: { '@type': 'Person', name: editorialAuthor.name, url: `${site.origin}${localizedPath(language.code, 'editorial')}` },
+      // Keep the author entity consistent with the visible team byline.
+      author: { '@type': 'Organization', name: editorialAuthor.name, url: `${site.origin}${localizedPath(language.code, 'editorial')}` },
       ...(medicalReviewer
         ? {
             reviewedBy: {

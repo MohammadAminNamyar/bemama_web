@@ -1,5 +1,5 @@
 import { productRollout } from './product-rollout.mjs';
-export const translations = productRollout('ar', 'دليل المنتج بقلم {name}، مؤسس BeMama.', {
+export const translations = productRollout('ar', 'دليل المنتج بقلم {name}.', {
   daily: 'إعداد متابعة الحمل', tracking: 'تسجيل الرضاعة والنوم والحفاضات', premium: 'الميزات المجانية وPremium', start: 'البدء مع BeMama', tools: 'أدوات مجانية للحمل والرعاية', privacy: 'الخصوصية وتصدير البيانات', terms: 'شروط الاشتراك', contact: 'التواصل مع الدعم', website: 'موقع BeMama', app: 'فتح تطبيق BeMama'
 }, {
   'why-bemama': {

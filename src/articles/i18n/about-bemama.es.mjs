@@ -78,7 +78,7 @@ export const translations = {
         "a": "Sí. Configura la etapa de bebé con su fecha de nacimiento y usa su perfil para registrar lactancia, biberones, sueño y pañales. Revisa el perfil seleccionado antes de guardar."
       }
     ],
-    "byline": "Guía del producto de {name}, fundador de BeMama.",
+    "byline": "Guía del producto de {name}.",
     "linkLabels": {
       "https://app.bemamas.com/": "Abrir la app BeMama",
       "https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client": "BeMama en Google Play",

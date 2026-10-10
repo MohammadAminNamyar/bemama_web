@@ -78,7 +78,7 @@ export const translations = {
         "a": "Evet. Doğum tarihiyle bebek aşamasını kurun; bebeğin profilinde emzirme, biberon, uyku ve bez kayıtlarını tutun. Kaydetmeden önce seçili profili kontrol edin."
       }
     ],
-    "byline": "BeMama’nın kurucusu {name} tarafından hazırlanan ürün rehberi.",
+    "byline": "{name} tarafından hazırlanan ürün rehberi.",
     "linkLabels": {
       "https://app.bemamas.com/": "BeMama uygulamasını açın",
       "https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client": "Google Play’de BeMama",

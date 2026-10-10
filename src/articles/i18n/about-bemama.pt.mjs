@@ -78,7 +78,7 @@ export const translations = {
         "a": "Sim. Configure a fase do bebê com a data de nascimento e use o perfil dele para registrar amamentação, mamadeiras, sono e fraldas. Confira o perfil selecionado antes de salvar."
       }
     ],
-    "byline": "Guia do produto por {name}, fundador do BeMama.",
+    "byline": "Guia do produto por {name}.",
     "linkLabels": {
       "https://app.bemamas.com/": "Abrir o aplicativo BeMama",
       "https://play.google.com/store/apps/details?id=com.bemama.client.bemama_client": "BeMama no Google Play",
