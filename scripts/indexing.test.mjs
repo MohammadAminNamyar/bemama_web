@@ -49,8 +49,11 @@ for (const { code: lang } of languages) {
       }
       graph.set(route, links);
 
-      for (const match of html.matchAll(/\/assets\/[^\s"'<>?]+\?v=([a-f0-9]+)/g)) {
+      // References may link to another publisher's /assets/ URL. Its version
+      // parameter is not a cache key for a file in our own build.
+      for (const match of html.matchAll(/(?:(?:https?:)?\/\/[^\s"'<>?]+|\/assets\/[^\s"'<>?]+)\?v=([a-f0-9]+)/g)) {
         const url = new URL(match[0], site.origin);
+        if (url.origin !== site.origin || !url.pathname.startsWith('/assets/')) continue;
         const assetPath = decodeURIComponent(url.pathname).slice(1);
         if (!assetHashes.has(assetPath)) {
           const bytes = await readFile(path.join(dist, assetPath));

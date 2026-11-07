@@ -1,0 +1,1640 @@
+{
+  "sourceId": "6868",
+  "article": {
+    "slug": "family-health/cephalosporin-antibiotics-uses-safety",
+    "category": "family-health",
+    "i18n": {
+      "en": {
+        "title": "Cephalosporin antibiotics: uses, generations and safe treatment",
+        "description": "Understand how cephalosporins differ, when they treat bacterial infections, allergy assessment, side effects and pregnancy or breastfeeding decisions.",
+        "intro": "Cephalosporins are prescription antibiotics in the beta-lactam family. They can treat selected bacterial infections, but the right medicine depends on the infection, bacterial susceptibility and the person receiving it. A later generation is not automatically better, and penicillin allergy or breastfeeding does not create the same rule for every cephalosporin.",
+        "sections": [
+          {
+            "heading": "What cephalosporins treat and how they work",
+            "paragraphs": [
+              "These medicines interfere with bacterial cell-wall construction. Gram-positive bacteria have a thicker peptidoglycan wall; Gram-negative bacteria have a thinner layer and an additional outer membrane. These differences help explain antibiotic spectra, but laboratory susceptibility and local resistance still matter. Cephalosporins do not treat viruses, including colds and flu; many coughs, sore throats and ear infections do not need an antibiotic.",
+              "Depending on the particular drug, uses include skin and soft-tissue infections, urinary infections, selected bacterial throat, ear, sinus and lung infections, meningitis, bloodstream infections, gonorrhoea or prevention around surgery. Some are oral; others are intravenous or intramuscular, depending on the formulation. Severe illness may need hospital treatment, but an injection is not automatically better for every infection."
+            ]
+          },
+          {
+            "heading": "First and second generations",
+            "paragraphs": [
+              "First-generation examples include cefalexin, cefadroxil, cefradine and injectable cefazolin. They commonly cover susceptible streptococci and methicillin-sensitive staphylococci, with some Gram-negative activity. Cefazolin is also used for selected surgical infection prevention. These examples do not make every medicine suitable for every skin, ear or urinary infection.",
+              "Second-generation examples include cefuroxime, cefaclor and cefprozil. Their spectra differ, often extending coverage of some Gram-negative organisms. A clinician may select cefuroxime for particular bacterial respiratory, urinary or skin infections. Ordinary viral bronchitis is not a reason to prescribe it, and second-generation drugs are not a universal treatment for gonorrhoea, meningitis or sepsis."
+            ]
+          },
+          {
+            "heading": "Third-generation medicines and important exceptions",
+            "paragraphs": [
+              "Examples include oral cefixime, cefpodoxime and ceftibuten, and injectable ceftriaxone, cefotaxime and ceftazidime. Selected agents treat serious infections, including some cases of meningitis, pneumonia or bloodstream infection. They are not interchangeable: for gonorrhoea, CDC guidance prefers ceftriaxone; cefixime is a limited alternative when ceftriaxone is unavailable, while oral cefuroxime and cefpodoxime are not recommended.",
+              "Ceftazidime can treat susceptible Pseudomonas infections, but not every third-generation cephalosporin has that activity. A positive culture, infection site and local resistance guide selection. Hot-tub folliculitis is a different situation: it usually settles without antibiotics, so its association with Pseudomonas does not justify routine ceftazidime treatment."
+            ]
+          },
+          {
+            "heading": "Fourth generation and newer anti-MRSA options",
+            "paragraphs": [
+              "Cefepime is a fourth-generation medicine used for selected serious infections, including pneumonia, complicated urinary infection and suspected bacterial infection with fever in a person with low neutrophils. Additional antibiotics may be needed for organisms outside its spectrum. Kidney function affects dosing; confusion, hallucinations, jerking movements or seizures during treatment need immediate medical assessment because neurotoxicity can occur, particularly with renal impairment.",
+              "Ceftaroline is often described as a fifth-generation cephalosporin. Ceftaroline and ceftobiprole are newer cephalosporins with activity against some resistant staphylococci, including MRSA. Ceftaroline has specific skin-infection and community-acquired-pneumonia indications. FDA approved ceftobiprole in April 2024 for defined bloodstream, skin and pneumonia settings, with age and infection restrictions. Neither is a universal treatment for resistant bacteria, and availability and approved uses vary by country."
+            ]
+          },
+          {
+            "heading": "Penicillin allergy needs an individual assessment",
+            "paragraphs": [
+              "Tell the prescriber the exact medicine, symptoms, timing and treatment of any previous reaction, including anaphylaxis, blistering rash or organ injury. Cross-reactions depend substantially on chemical side chains rather than simply sharing the beta-lactam name. A penicillin-allergy label does not automatically exclude every cephalosporin; cefazolin, for example, has a distinct side-chain pattern.",
+              "This does not mean choosing or testing a substitute at home. Specialist guidance distinguishes unverified mild reactions, anaphylaxis and severe delayed reactions. Product labels can impose stricter contraindications, which the treating team must consider. A past severe skin reaction or organ injury needs particular specialist care; do not deliberately re-expose yourself or use another person’s antibiotic."
+            ]
+          },
+          {
+            "heading": "Digestive effects and C. diff diarrhoea",
+            "paragraphs": [
+              "Nausea, vomiting, loose stools, thrush and sometimes dizziness or injection-site discomfort can occur, depending on the drug. Ask about troublesome effects. Simple meals and fluids may help when tolerated, but food instructions are product-specific; for example, cefuroxime axetil tablets are taken after food. Do not assume that all cephalosporins should be taken on an empty stomach.",
+              "Antibiotics can disturb gut bacteria and allow Clostridioides difficile infection during or after treatment, even without a long course. New diarrhoea warrants advice; severe or persistent watery diarrhoea, blood or mucus, fever, abdominal pain or dehydration needs urgent assessment. Do not self-treat suspected antibiotic-associated colitis with medicines that slow the bowel. Probiotics do not guarantee prevention or replace assessment; discuss supplements first if immunity is weakened."
+            ]
+          },
+          {
+            "heading": "Pregnancy and breastfeeding",
+            "paragraphs": [
+              "A bacterial infection that needs treatment should be treated during pregnancy. Data for commonly used cephalosporins are generally reassuring, but the drug, infection and available evidence determine the benefit–risk decision; this is not a class-wide guarantee of zero risk. BUMPS does not recommend extra birth-defect monitoring solely because of cephalosporin exposure. Newer agents may have less pregnancy information.",
+              "Breastfeeding is not automatically prohibited. Cefalexin is generally compatible with breastfeeding, with low milk levels; other medicines require their own assessment. Watch the baby for poor feeding, diarrhoea, thrush or rash and seek advice if these occur. Premature, unwell or especially vulnerable infants need individualized professional guidance. Do not automatically stop breastfeeding or an essential antibiotic without discussing the plan."
+            ]
+          },
+          {
+            "heading": "Kidneys, other medicines and contraception",
+            "paragraphs": [
+              "Report kidney disease, previous C. diff, pregnancy or breastfeeding and all prescription, non-prescription, herbal and vitamin products. Some cephalosporins need renal dose adjustment. Warfarin or similar anticoagulants may require monitoring, while probenecid, kidney-harming medicines or acid-reducing drugs can interact with particular products. The pharmacist should check the exact combination rather than assuming one rule for the entire class.",
+              "Cephalosporins do not automatically make hormonal contraception ineffective. However, vomiting or severe diarrhoea can reduce absorption of an oral contraceptive; follow that pill’s instructions and ask about additional protection. Mention antibiotic treatment before blood or urine tests because some products interfere with particular laboratory methods. Avoid driving if dizzy, confused or otherwise impaired."
+            ]
+          },
+          {
+            "heading": "Following the prescription and reviewing progress",
+            "paragraphs": [
+              "Take the prescribed dose, spacing and duration, using the correct formulation and any food or storage instructions. Do not borrow, share or save antibiotics for a future illness. Follow the leaflet or pharmacist’s advice after a missed dose; do not double a dose to make up for it. A culture result or clinical reassessment may lead the clinician to shorten, stop or change treatment.",
+              "Do not stop merely because you feel better, and do not keep taking a medicine through a serious reaction just to finish a course. A new rash needs prompt advice before further doses; blistering, peeling or mouth/eye sores need immediate emergency assessment. Worsening infection or lack of expected improvement needs review, following the condition-specific timeframe rather than waiting for the pack to run out."
+            ]
+          },
+          {
+            "heading": "When to seek urgent or emergency help",
+            "paragraphs": [
+              "Stop taking the suspected medicine and call emergency services for swelling of the lips, tongue or throat, breathing difficulty, fainting or loss of consciousness, or rapidly worsening allergic symptoms. Blistering or peeling skin, mouth/eye sores, a seizure, severe new confusion or inability to wake also need immediate emergency help. Do not drive yourself. Tell emergency staff which medicine was taken.",
+              "Seek urgent same-day advice for severe diarrhoea, blood or mucus in stools, fever with abdominal pain, dehydration, jaundice, unexplained bruising or a worsening infection. Severe abdominal pain with marked illness, faintness, confusion or very little urine warrants emergency assessment. A new rash should be assessed before another dose; do not dismiss it as an ordinary side effect or wait for several warning signs together. Abdominal pain that starts suddenly and is severe also needs immediate emergency care on its own; do not wait for another warning sign."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Cephalosporins treat selected bacterial infections, not viruses; drug and route depend on the infection and susceptibility.",
+          "Generation numbers describe broad differences, not a ranking of strength or a list of interchangeable prescriptions.",
+          "Penicillin allergy requires reaction-history and side-chain assessment; do not test an alternative yourself.",
+          "Pregnancy and breastfeeding decisions are drug-specific. A blanket breastfeeding ban is incorrect.",
+          "Follow the current treatment plan, but act immediately on serious allergy, skin, neurological or diarrhoeal warnings."
+        ],
+        "faq": [
+          {
+            "q": "What is the difference between first and second generations?",
+            "a": "First-generation drugs often cover susceptible streptococci and methicillin-sensitive staphylococci. Some second-generation drugs extend selected Gram-negative coverage. Individual spectra and approved uses differ; later does not automatically mean better."
+          },
+          {
+            "q": "Can I take a cephalosporin if I have penicillin allergy?",
+            "a": "Sometimes, after a clinician reviews the exact reaction, side-chain relationships and the specific product label. Anaphylaxis or a severe delayed skin or organ reaction requires special care. Do not take a test dose or choose a substitute yourself."
+          },
+          {
+            "q": "What side effects can occur?",
+            "a": "Digestive upset, diarrhoea, thrush or dizziness can occur. A new rash needs advice before further doses. Breathing difficulty, swelling, fainting, blistering skin, mouth/eye sores, seizures or severe confusion need emergency help."
+          },
+          {
+            "q": "Are all cephalosporins safe in pregnancy and breastfeeding?",
+            "a": "There is no universal zero-risk rule. Commonly used options have reassuring pregnancy data, and cefalexin is generally compatible with breastfeeding. The exact drug and infant’s health matter; premature or unwell babies need individual advice."
+          },
+          {
+            "q": "Does a higher generation work against every resistant infection?",
+            "a": "No. Ceftazidime has selected Pseudomonas activity, while newer anti-MRSA medicines have specific indications. No generation treats all bacteria, and resistance, infection site and local guidance determine the choice."
+          },
+          {
+            "q": "Should I take probiotics for antibiotic diarrhoea?",
+            "a": "They do not guarantee prevention or treatment and should not delay assessment. Discuss them first if you have an existing illness or weakened immunity. Severe or persistent diarrhoea, fever, pain, blood or dehydration needs prompt medical advice."
+          },
+          {
+            "q": "Should I finish the course even if I develop a reaction?",
+            "a": "Follow the current prescription and do not stop simply because you feel better. However, serious reactions require immediate action, not continued dosing. Seek advice before another dose for a new rash; the clinician may appropriately change or stop treatment."
+          },
+          {
+            "q": "When is immediate emergency care needed?",
+            "a": "Call emergency services for breathing difficulty, lip/tongue/throat swelling, fainting or loss of consciousness, blistering or peeling skin or mouth/eye sores, seizures, severe confusion or inability to wake. Severe abdominal illness or dehydration with faintness, confusion or very little urine also needs emergency assessment. Abdominal pain that starts suddenly and is severe also needs immediate emergency care on its own; do not wait for another warning sign."
+          }
+        ],
+        "evidence": {
+          "updated": "Reviewed 12 October 2026",
+          "updatedIso": "2026-10-12",
+          "guidance": [
+            "Product information and infection-specific guidance distinguish drug spectra, routes, indications, renal adjustment and interactions. FDA approved ceftobiprole in April 2024 for defined infection settings; it and ceftaroline have specific uses, and availability varies by country.",
+            "The AAAAI/ACAAI allergy parameter uses reaction severity and side-chain relationships. Specific product-label contraindications and severe delayed reactions still require clinical consideration; this is not permission for a home challenge.",
+            "Pregnancy and lactation resources support individual prescribing and reject an automatic breastfeeding ban. CDC information emphasizes assessment of diarrhoea during or after antibiotics, while probiotic products and evidence vary."
+          ],
+          "bemama": "BeMama can help record medicine names, dose schedules, previous reactions and questions for the prescriber. It cannot diagnose a bacterial infection, choose an antibiotic, assess allergy safety or replace urgent care. The pharmacy image does not identify a specific medicine or dose.",
+          "safety": "Breathing difficulty, lip/tongue/throat swelling, fainting or loss of consciousness, blistering or peeling skin, mouth/eye sores, seizures, severe confusion or inability to wake need immediate emergency help. Stop the suspected medicine in a serious allergic reaction. A new rash needs advice before more doses. Severe or persistent diarrhoea, blood or mucus, fever, abdominal pain or dehydration needs urgent assessment during or after treatment; severe illness with faintness, confusion or very little urine needs emergency care. Do not choose, challenge, share or change antibiotics yourself. Abdominal pain that starts suddenly and is severe also needs immediate emergency care on its own; do not wait for another warning sign.",
+          "sources": [
+            {
+              "organization": "NHS",
+              "title": "Antibiotics: appropriate use and following the prescription",
+              "url": "https://www.nhs.uk/medicines/antibiotics/"
+            },
+            {
+              "organization": "Sandoz, electronic Medicines Compendium (emc)",
+              "title": "Cefuroxime tablets: indications, interactions and precautions, October 2025",
+              "url": "https://www.medicines.org.uk/emc/product/426/smpc"
+            },
+            {
+              "organization": "Hameln Pharma, emc",
+              "title": "Ceftazidime: third-generation spectrum and clinical indications, March 2026",
+              "url": "https://www.medicines.org.uk/emc/product/101952/smpc"
+            },
+            {
+              "organization": "Renascience Pharma, emc",
+              "title": "Renapime (cefepime): prescribing information, September 2025",
+              "url": "https://www.medicines.org.uk/emc/product/9672/smpc"
+            },
+            {
+              "organization": "European Medicines Agency (EMA)",
+              "title": "Zinforo (ceftaroline): approved uses and restrictions",
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zinforo"
+            },
+            {
+              "organization": "US Food and Drug Administration (FDA)",
+              "title": "Ceftobiprole approved for three infection settings, April 2024",
+              "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-new-antibiotic-three-different-uses"
+            },
+            {
+              "organization": "American Academy/College of Allergy, Asthma and Immunology (AAAAI/ACAAI)",
+              "title": "Drug allergy practice parameter: reaction history and side-chain assessment, 2022",
+              "url": "https://www.aaaai.org/Aaaai/media/Media-Library-PDFs/Allergist%20Resources/Statements%20and%20Practice%20Parameters/Drug-Allergy-2022.pdf"
+            },
+            {
+              "organization": "US Centers for Disease Control and Prevention (CDC)",
+              "title": "Gonococcal infections: specific antibiotic regimens",
+              "url": "https://www.cdc.gov/std/treatment-guidelines/gonorrhea-adults.htm"
+            },
+            {
+              "organization": "CDC",
+              "title": "About C. diff: antibiotic-associated diarrhoea and assessment, May 2026",
+              "url": "https://www.cdc.gov/c-diff/about/"
+            },
+            {
+              "organization": "UK Teratology Information Service, BUMPS",
+              "title": "Cephalosporins in pregnancy, August 2022",
+              "url": "https://www.medicinesinpregnancy.org/leaflets-a-z/cephalosporins/"
+            },
+            {
+              "organization": "NHS",
+              "title": "Cefalexin in pregnancy and breastfeeding, April 2023",
+              "url": "https://www.nhs.uk/medicines/cefalexin/pregnancy-breastfeeding-and-fertility-while-taking-cefalexin/"
+            },
+            {
+              "organization": "LactMed, US National Library of Medicine",
+              "title": "Cephalexin: milk levels and breastfeeding, November 2024",
+              "url": "https://www.ncbi.nlm.nih.gov/books/NBK501487/"
+            },
+            {
+              "organization": "NHS",
+              "title": "Cefalexin: side effects and serious reactions, April 2023",
+              "url": "https://www.nhs.uk/medicines/cefalexin/side-effects-of-cefalexin/"
+            },
+            {
+              "organization": "NHS",
+              "title": "Probiotics: variable evidence and immune-system precautions, November 2022",
+              "url": "https://www.nhs.uk/tests-and-treatments/probiotics/"
+            },
+            {
+              "organization": "CDC Yellow Book",
+              "title": "Post-travel skin conditions: hot-tub folliculitis",
+              "url": "https://www.cdc.gov/yellow-book/hcp/post-travel-evaluation/post-travel-dermatologic-conditions.html"
+            },
+            {
+              "organization": "Hikma, DailyMed/US National Library of Medicine",
+              "title": "Cefazolin: bacterial infections and surgical prevention, December 2024",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6c7761d3-c154-4802-9876-627cd42913f0"
+            },
+            {
+              "organization": "US National Cancer Institute (NCI)",
+              "title": "Ceftaroline fosamil: fifth-generation terminology and cell-wall action",
+              "url": "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ceftaroline-fosamil"
+            },
+            {
+              "organization": "NHS",
+              "title": "Cefalexin: contraception and treatment questions, April 2023",
+              "url": "https://www.nhs.uk/medicines/cefalexin/common-questions-about-cefalexin/"
+            },
+            {
+              "organization": "NHS",
+              "title": "Stomach ache: sudden severe pain and emergency assessment, October 2026",
+              "url": "https://www.nhs.uk/symptoms/stomach-ache/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "آنتی‌بیوتیک‌های سفالوسپورین: کاربرد، نسل‌ها و درمان ایمن",
+        "description": "با تفاوت سفالوسپورین‌ها، کاربرد آن‌ها در عفونت باکتریایی، ارزیابی حساسیت، عوارض و تصمیم‌گیری در بارداری و شیردهی آشنا شوید.",
+        "intro": "سفالوسپورین‌ها آنتی‌بیوتیک‌های نسخه‌ای از خانواده بتالاکتام هستند. آن‌ها برخی عفونت‌های باکتریایی را درمان می‌کنند، اما انتخاب دارو به نوع عفونت، حساسیت باکتری به دارو و وضعیت فرد بستگی دارد. نسل بالاتر الزاماً بهتر نیست و حساسیت به پنی‌سیلین یا شیردهی برای همه سفالوسپورین‌ها یک حکم یکسان ایجاد نمی‌کند.",
+        "sections": [
+          {
+            "heading": "سفالوسپورین‌ها چه چیزی را درمان می‌کنند و چگونه اثر می‌کنند؟",
+            "paragraphs": [
+              "این داروها ساخت دیواره سلولی باکتری را مختل می‌کنند. باکتری‌های گرم‌مثبت دیواره پپتیدوگلیکان ضخیم‌تری دارند؛ گرم‌منفی‌ها لایه نازک‌تری به‌همراه یک غشای خارجی اضافی دارند. این تفاوت‌ها بخشی از طیف اثر آنتی‌بیوتیک‌ها را توضیح می‌دهد، اما نتیجه آزمایش حساسیت و مقاومت محلی نیز مهم است. سفالوسپورین‌ها ویروس‌ها، از جمله سرماخوردگی و آنفلوانزا را درمان نمی‌کنند؛ بسیاری از سرفه‌ها، گلودردها و عفونت‌های گوش به آنتی‌بیوتیک نیاز ندارند.",
+              "بسته به داروی مشخص، کاربردها شامل عفونت پوست و بافت نرم، عفونت ادراری، برخی عفونت‌های باکتریایی گلو، گوش، سینوس و ریه، مننژیت، عفونت خون، سوزاک یا پیشگیری از عفونت هنگام جراحی است. بعضی خوراکی‌اند و بعضی بسته به فرآورده از راه وریدی یا عضلانی داده می‌شوند. بیماری شدید ممکن است نیازمند درمان بیمارستانی باشد، اما تزریق برای هر عفونتی الزاماً بهتر نیست."
+            ]
+          },
+          {
+            "heading": "نسل اول و دوم",
+            "paragraphs": [
+              "نمونه‌های نسل اول شامل سفالکسین، سفادروکسیل، سفرادین و سفازولین تزریقی است. این داروها معمولاً بر استرپتوکوک‌های حساس و استافیلوکوک‌های حساس به متی‌سیلین، همراه با برخی باکتری‌های گرم‌منفی اثر دارند. سفازولین برای پیشگیری از عفونت در بعضی جراحی‌ها نیز استفاده می‌شود. این مثال‌ها به‌معنای مناسب بودن هر دارو برای هر عفونت پوستی، گوش یا ادراری نیست.",
+              "نمونه‌های نسل دوم شامل سفوروکسیم، سفاکلور و سفپروزیل است. طیف اثر آن‌ها متفاوت است و اغلب برخی گرم‌منفی‌های بیشتری را پوشش می‌دهد. پزشک ممکن است سفوروکسیم را برای عفونت باکتریایی مشخص تنفسی، ادراری یا پوستی انتخاب کند. برونشیت معمول ویروسی دلیل تجویز آن نیست و نسل دوم درمان همگانی سوزاک، مننژیت یا سپسیس نیست."
+            ]
+          },
+          {
+            "heading": "داروهای نسل سوم و استثناهای مهم",
+            "paragraphs": [
+              "نمونه‌ها شامل سفیکسیم، سفپودوکسیم و سفتی‌بوتن خوراکی و سفتریاکسون، سفوتاکسیم و سفتازیدیم تزریقی است. برخی از این داروها عفونت‌های جدی، از جمله بعضی موارد مننژیت، ذات‌الریه یا عفونت خون را درمان می‌کنند. جایگزین یکدیگر نیستند: در سوزاک، راهنمای CDC سفتریاکسون را ترجیح می‌دهد؛ سفیکسیم فقط جایگزینی محدود هنگام در دسترس نبودن سفتریاکسون است و سفوروکسیم و سفپودوکسیم خوراکی توصیه نمی‌شوند.",
+              "سفتازیدیم می‌تواند عفونت سودوموناس حساس را درمان کند، اما همه سفالوسپورین‌های نسل سوم چنین اثری ندارند. کشت، محل عفونت و مقاومت محلی انتخاب را هدایت می‌کند. فولیکولیت ناشی از جکوزی وضعیت متفاوتی است: معمولاً بدون آنتی‌بیوتیک بهبود می‌یابد؛ ارتباط آن با سودوموناس، درمان معمول با سفتازیدیم را توجیه نمی‌کند."
+            ]
+          },
+          {
+            "heading": "نسل چهارم و گزینه‌های جدیدتر ضد MRSA",
+            "paragraphs": [
+              "سفپیم داروی نسل چهارم برای بعضی عفونت‌های جدی، از جمله ذات‌الریه، عفونت ادراری پیچیده و عفونت باکتریایی مشکوک همراه تب در فرد دارای نوتروفیل پایین است. برای میکروب‌های خارج از طیف آن ممکن است آنتی‌بیوتیک دیگری لازم باشد. عملکرد کلیه بر دوز اثر دارد؛ گیجی، توهم، حرکات پرشی عضلات یا تشنج حین درمان نیازمند ارزیابی فوری پزشکی است، زیرا مسمومیت عصبی، به‌ویژه با اختلال کلیه، ممکن است رخ دهد.",
+              "سفتارولین اغلب سفالوسپورین نسل پنجم نامیده می‌شود. سفتارولین و سفتوبیپرول سفالوسپورین‌های جدیدتر با اثر بر برخی استافیلوکوک‌های مقاوم، از جمله MRSA هستند. سفتارولین کاربردهای مشخصی در عفونت پوست و ذات‌الریه اکتسابی از جامعه دارد. FDA در آوریل ۲۰۲۴ سفتوبیپرول را برای شرایط مشخص عفونت خون، پوست و ذات‌الریه با محدودیت سن و نوع عفونت تأیید کرد. هیچ‌یک درمان همه باکتری‌های مقاوم نیست و دسترسی و کاربرد تأییدشده میان کشورها فرق دارد."
+            ]
+          },
+          {
+            "heading": "حساسیت به پنی‌سیلین نیازمند ارزیابی فردی است",
+            "paragraphs": [
+              "نام دقیق دارو، نشانه‌ها، زمان شروع و درمان هر واکنش قبلی، از جمله آنافیلاکسی، بثورات تاولی یا آسیب اندام را به پزشک بگویید. واکنش متقاطع تا حد زیادی به زنجیره‌های جانبی شیمیایی بستگی دارد، نه صرفاً مشترک بودن نام بتالاکتام. برچسب حساسیت به پنی‌سیلین به‌طور خودکار همه سفالوسپورین‌ها را ممنوع نمی‌کند؛ برای مثال سفازولین الگوی زنجیره جانبی متمایزی دارد.",
+              "این به‌معنای انتخاب یا آزمایش جایگزین در خانه نیست. راهنمای تخصصی میان واکنش خفیف تأییدنشده، آنافیلاکسی و واکنش تأخیری شدید تفاوت می‌گذارد. برچسب فرآورده ممکن است منع مصرف سخت‌گیرانه‌تری داشته باشد که تیم درمان باید لحاظ کند. سابقه واکنش شدید پوستی یا آسیب اندام به توجه ویژه متخصص نیاز دارد؛ عمداً دوباره خود را در معرض دارو قرار ندهید و از آنتی‌بیوتیک فرد دیگری استفاده نکنید."
+            ]
+          },
+          {
+            "heading": "عوارض گوارشی و اسهال سی‌دیف",
+            "paragraphs": [
+              "تهوع، استفراغ، مدفوع شل، برفک و گاهی سرگیجه یا ناراحتی محل تزریق، بسته به دارو ممکن است رخ دهد. درباره عوارض آزاردهنده مشورت کنید. غذای ساده و مایعات در صورت تحمل کمک‌کننده است، اما دستور غذا برای هر فرآورده فرق دارد؛ مثلاً قرص سفوروکسیم آکستیل بعد از غذا مصرف می‌شود. فرض نکنید همه سفالوسپورین‌ها باید با معده خالی خورده شوند.",
+              "آنتی‌بیوتیک می‌تواند باکتری‌های روده را تغییر دهد و عفونت کلستریدیوئیدس دیفیسیل را حین درمان یا بعد از آن، حتی بدون دوره طولانی، ممکن سازد. برای اسهال جدید مشورت کنید؛ اسهال آبکی شدید یا مداوم، خون یا مخاط، تب، درد شکم یا کم‌آبی نیازمند ارزیابی فوری است. کولیت مشکوک مرتبط با آنتی‌بیوتیک را با داروهای کندکننده حرکت روده خوددرمانی نکنید. پروبیوتیک پیشگیری را تضمین نمی‌کند و جای ارزیابی نیست؛ در ضعف ایمنی پیش از مصرف مکمل مشورت کنید."
+            ]
+          },
+          {
+            "heading": "بارداری و شیردهی",
+            "paragraphs": [
+              "عفونت باکتریایی نیازمند درمان در بارداری باید درمان شود. داده‌های سفالوسپورین‌های رایج عموماً اطمینان‌بخش است، اما دارو، عفونت و شواهد موجود تصمیم سود و خطر را تعیین می‌کند؛ این تضمین بی‌خطری مطلق برای کل گروه نیست. BUMPS صرفاً به‌دلیل مصرف سفالوسپورین، پایش اضافی نقایص مادرزادی توصیه نمی‌کند. اطلاعات بارداری داروهای جدیدتر ممکن است کمتر باشد.",
+              "شیردهی به‌طور خودکار ممنوع نیست. سفالکسین معمولاً با شیردهی سازگار است و سطح کمی در شیر دارد؛ سایر داروها ارزیابی خود را می‌خواهند. کم‌شدن تغذیه، اسهال، برفک یا بثورات نوزاد را زیر نظر بگیرید و در صورت بروز مشورت کنید. نوزاد نارس، بیمار یا بسیار آسیب‌پذیر نیازمند راهنمایی حرفه‌ای فردی است. بدون گفت‌وگو درباره برنامه، شیردهی یا آنتی‌بیوتیک ضروری را خودکار قطع نکنید."
+            ]
+          },
+          {
+            "heading": "کلیه، داروهای دیگر و پیشگیری از بارداری",
+            "paragraphs": [
+              "بیماری کلیه، سابقه سی‌دیف، بارداری یا شیردهی و همه داروهای نسخه‌ای، بدون نسخه، گیاهی و ویتامین‌ها را اعلام کنید. بعضی سفالوسپورین‌ها به تنظیم دوز کلیوی نیاز دارند. وارفارین یا داروی ضدانعقاد مشابه ممکن است نیازمند پایش باشد و پروبنسید، داروهای آسیب‌رسان به کلیه یا کاهنده اسید معده با بعضی فرآورده‌ها تداخل دارند. داروساز باید ترکیب دقیق را بررسی کند، نه اینکه برای کل گروه یک حکم بدهد.",
+              "سفالوسپورین‌ها به‌طور خودکار پیشگیری هورمونی را بی‌اثر نمی‌کنند. اما استفراغ یا اسهال شدید می‌تواند جذب قرص جلوگیری را کم کند؛ دستور همان قرص را دنبال کنید و درباره روش محافظتی اضافی بپرسید. پیش از آزمایش خون یا ادرار، درمان آنتی‌بیوتیکی را اطلاع دهید، زیرا بعضی فرآورده‌ها در برخی روش‌های آزمایشگاهی اختلال ایجاد می‌کنند. در سرگیجه، گیجی یا اختلال توانایی رانندگی نکنید."
+            ]
+          },
+          {
+            "heading": "پیروی از نسخه و بررسی روند بهبود",
+            "paragraphs": [
+              "دوز، فاصله و مدت تجویزشده را با فرآورده درست و دستور غذا یا نگهداری رعایت کنید. آنتی‌بیوتیک قرض نگیرید، به دیگری ندهید و برای بیماری آینده نگه ندارید. پس از فراموشی دوز، بروشور یا توصیه داروساز را دنبال کنید؛ برای جبران دوز را دوبرابر نکنید. نتیجه کشت یا ارزیابی دوباره ممکن است پزشک را به کوتاه‌کردن، قطع یا تغییر درمان برساند.",
+              "صرفاً به‌دلیل بهترشدن دارو را قطع نکنید و برای تمام‌کردن دوره، مصرف دارو را با وجود واکنش جدی ادامه ندهید. بثورات جدید نیازمند مشورت سریع پیش از دوز بعدی است؛ تاول، پوسته‌ریزی یا زخم دهان یا چشم نیازمند ارزیابی اورژانسی فوری است. بدترشدن عفونت یا نبود بهبود مورد انتظار، طبق زمان‌بندی همان بیماری نیازمند بررسی است؛ منتظر تمام‌شدن بسته نمانید."
+            ]
+          },
+          {
+            "heading": "چه زمانی کمک فوری یا اورژانسی لازم است؟",
+            "paragraphs": [
+              "در تورم لب، زبان یا گلو، دشواری تنفس، غش یا از دست‌دادن هوشیاری، یا نشانه‌های حساسیتی که سریع بدتر می‌شوند، داروی مشکوک را قطع کنید و فوراً با اورژانس تماس بگیرید. تاول یا پوسته‌ریزی پوست، زخم دهان یا چشم، تشنج، گیجی شدید جدید یا بیدارنشدن نیز نیازمند کمک اورژانسی فوری است. خودتان رانندگی نکنید و نام داروی مصرف‌شده را به اورژانس بگویید.",
+              "برای اسهال شدید، خون یا مخاط مدفوع، تب همراه درد شکم، کم‌آبی، زردی، کبودی بی‌توضیح یا بدترشدن عفونت همان روز مشورت فوری بگیرید. درد شدید شکم همراه بدحالی واضح، احساس غش، گیجی یا ادرار بسیار کم نیازمند ارزیابی اورژانسی است. بثورات جدید باید پیش از دوز بعدی ارزیابی شود؛ آن را عارضه عادی فرض نکنید و منتظر چند علامت هم‌زمان نمانید. درد شکمی که ناگهان شروع می‌شود و شدید است، به‌تنهایی نیز به مراقبت اورژانسی فوری نیاز دارد؛ منتظر علامت هشدار دیگری نمانید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "سفالوسپورین‌ها برخی عفونت‌های باکتریایی را درمان می‌کنند، نه ویروس‌ها؛ دارو و راه مصرف به عفونت و حساسیت میکروب بستگی دارد.",
+          "شماره نسل بیانگر تفاوت‌های کلی است، نه رتبه قدرت یا فهرست نسخه‌های قابل جایگزینی.",
+          "حساسیت به پنی‌سیلین نیازمند بررسی سابقه واکنش و زنجیره جانبی است؛ جایگزین را خودتان آزمایش نکنید.",
+          "تصمیم بارداری و شیردهی دارومحور است. ممنوعیت همگانی شیردهی نادرست است.",
+          "برنامه فعلی درمان را دنبال کنید، اما در هشدار جدی حساسیتی، پوستی، عصبی یا اسهال فوراً اقدام کنید."
+        ],
+        "faq": [
+          {
+            "q": "نسل اول و دوم چه فرقی دارند؟",
+            "a": "نسل اول اغلب بر استرپتوکوک‌های حساس و استافیلوکوک‌های حساس به متی‌سیلین اثر دارد. بعضی داروهای نسل دوم پوشش برخی گرم‌منفی‌ها را بیشتر می‌کنند. طیف و کاربرد تأییدشده هر دارو فرق دارد؛ نسل بالاتر الزاماً بهتر نیست."
+          },
+          {
+            "q": "با حساسیت به پنی‌سیلین می‌توانم سفالوسپورین مصرف کنم؟",
+            "a": "گاهی، پس از بررسی دقیق واکنش، رابطه زنجیره‌های جانبی و برچسب فرآورده توسط پزشک. آنافیلاکسی یا واکنش تأخیری شدید پوستی یا اندامی نیازمند توجه ویژه است. خودتان دوز آزمایشی نخورید و جایگزین انتخاب نکنید."
+          },
+          {
+            "q": "چه عوارضی ممکن است رخ دهد؟",
+            "a": "ناراحتی گوارشی، اسهال، برفک یا سرگیجه ممکن است رخ دهد. بثورات جدید نیازمند مشورت پیش از دوز بعدی است. مشکل تنفس، تورم، غش، تاول پوست، زخم دهان یا چشم، تشنج یا گیجی شدید به کمک اورژانسی نیاز دارد."
+          },
+          {
+            "q": "آیا همه سفالوسپورین‌ها در بارداری و شیردهی بی‌خطرند؟",
+            "a": "حکم همگانیِ خطر صفر وجود ندارد. گزینه‌های رایج داده‌های بارداری اطمینان‌بخش دارند و سفالکسین معمولاً با شیردهی سازگار است. داروی دقیق و سلامت نوزاد مهم است؛ نوزاد نارس یا بیمار به مشورت فردی نیاز دارد."
+          },
+          {
+            "q": "آیا نسل بالاتر همه عفونت‌های مقاوم را درمان می‌کند؟",
+            "a": "خیر. سفتازیدیم بر بعضی سودوموناس‌ها اثر دارد و داروهای جدید ضد MRSA کاربرد مشخص دارند. هیچ نسلی همه باکتری‌ها را درمان نمی‌کند؛ مقاومت، محل عفونت و راهنمای محلی انتخاب را تعیین می‌کند."
+          },
+          {
+            "q": "برای اسهال آنتی‌بیوتیکی پروبیوتیک مصرف کنم؟",
+            "a": "پیشگیری یا درمان را تضمین نمی‌کند و نباید ارزیابی را عقب بیندازد. با بیماری زمینه‌ای یا ضعف ایمنی ابتدا مشورت کنید. اسهال شدید یا مداوم، تب، درد، خون یا کم‌آبی نیازمند مشورت سریع پزشکی است."
+          },
+          {
+            "q": "اگر واکنش ایجاد شد باز هم دوره را تمام کنم؟",
+            "a": "نسخه فعلی را دنبال کنید و صرفاً به‌دلیل بهترشدن قطع نکنید. اما واکنش جدی نیازمند اقدام فوری است، نه ادامه مصرف. برای بثورات جدید پیش از دوز بعدی مشورت کنید؛ پزشک ممکن است به‌درستی درمان را تغییر دهد یا قطع کند."
+          },
+          {
+            "q": "چه زمانی مراقبت اورژانسی فوری لازم است؟",
+            "a": "برای مشکل تنفس، تورم لب، زبان یا گلو، غش یا از دست‌دادن هوشیاری، تاول یا پوسته‌ریزی پوست یا زخم دهان یا چشم، تشنج، گیجی شدید یا بیدارنشدن با اورژانس تماس بگیرید. بیماری شدید شکمی یا کم‌آبی همراه احساس غش، گیجی یا ادرار بسیار کم نیز نیازمند ارزیابی اورژانسی است. درد شکمی که ناگهان شروع می‌شود و شدید است، به‌تنهایی نیز به مراقبت اورژانسی فوری نیاز دارد؛ منتظر علامت هشدار دیگری نمانید."
+          }
+        ],
+        "evidence": {
+          "updated": "بازبینی ۱۲ اکتبر ۲۰۲۶",
+          "updatedIso": "2026-10-12",
+          "guidance": [
+            "اطلاعات فرآورده و راهنمای اختصاصی عفونت، طیف، راه مصرف، کاربرد، تنظیم کلیوی و تداخل داروها را تفکیک می‌کند. FDA در آوریل ۲۰۲۴ سفتوبیپرول را برای وضعیت‌های عفونی مشخص تأیید کرد؛ آن و سفتارولین کاربردهای مشخص دارند و دسترسی میان کشورها متفاوت است.",
+            "راهنمای حساسیت AAAAI/ACAAI از شدت واکنش و رابطه زنجیره‌های جانبی استفاده می‌کند. منع مصرف برچسب فرآورده و واکنش تأخیری شدید همچنان نیازمند توجه بالینی است؛ این مجوز آزمایش دارو در خانه نیست.",
+            "منابع بارداری و شیردهی از تجویز فردی حمایت می‌کنند و ممنوعیت خودکار شیردهی را رد می‌کنند. CDC بر ارزیابی اسهال حین یا پس از آنتی‌بیوتیک تأکید دارد و فرآورده‌ها و شواهد پروبیوتیک متفاوت‌اند."
+          ],
+          "bemama": "BeMama می‌تواند به ثبت نام دارو، زمان‌بندی دوز، واکنش قبلی و پرسش از پزشک کمک کند. عفونت باکتریایی را تشخیص نمی‌دهد، آنتی‌بیوتیک انتخاب نمی‌کند، ایمنی حساسیت را ارزیابی نمی‌کند و جای مراقبت فوری نیست. تصویر داروخانه دارو یا دوز مشخصی را معرفی نمی‌کند.",
+          "safety": "مشکل تنفس، تورم لب، زبان یا گلو، غش یا از دست‌دادن هوشیاری، تاول یا پوسته‌ریزی پوست، زخم دهان یا چشم، تشنج، گیجی شدید یا بیدارنشدن نیازمند کمک اورژانسی فوری است. در واکنش حساسیتی جدی داروی مشکوک را قطع کنید. برای بثورات جدید پیش از دوز بعدی مشورت کنید. اسهال شدید یا مداوم، خون یا مخاط، تب، درد شکم یا کم‌آبی حین یا پس از درمان به ارزیابی فوری نیاز دارد؛ بدحالی شدید همراه احساس غش، گیجی یا ادرار بسیار کم اورژانسی است. خودسرانه آنتی‌بیوتیک انتخاب یا آزمایش نکنید، به دیگری ندهید و تغییر ندهید. درد شکمی که ناگهان شروع می‌شود و شدید است، به‌تنهایی نیز به مراقبت اورژانسی فوری نیاز دارد؛ منتظر علامت هشدار دیگری نمانید.",
+          "sources": [
+            {
+              "organization": "سرویس سلامت ملی بریتانیا (NHS)",
+              "title": "آنتی‌بیوتیک‌ها: کاربرد مناسب و پیروی از نسخه",
+              "url": "https://www.nhs.uk/medicines/antibiotics/"
+            },
+            {
+              "organization": "ساندوز، پایگاه دارویی emc",
+              "title": "قرص سفوروکسیم: کاربرد، تداخل و احتیاط‌ها، اکتبر ۲۰۲۵",
+              "url": "https://www.medicines.org.uk/emc/product/426/smpc"
+            },
+            {
+              "organization": "هاملن فارما، emc",
+              "title": "سفتازیدیم: طیف نسل سوم و کاربرد بالینی، مارس ۲۰۲۶",
+              "url": "https://www.medicines.org.uk/emc/product/101952/smpc"
+            },
+            {
+              "organization": "رنا ساینس فارما، emc",
+              "title": "رناپیم (سفپیم): اطلاعات تجویز، سپتامبر ۲۰۲۵",
+              "url": "https://www.medicines.org.uk/emc/product/9672/smpc"
+            },
+            {
+              "organization": "آژانس دارویی اروپا (EMA)",
+              "title": "زینفورو (سفتارولین): کاربرد تأییدشده و محدودیت‌ها",
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zinforo"
+            },
+            {
+              "organization": "سازمان غذا و داروی آمریکا (FDA)",
+              "title": "تأیید سفتوبیپرول برای سه وضعیت عفونی، آوریل ۲۰۲۴",
+              "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-new-antibiotic-three-different-uses"
+            },
+            {
+              "organization": "آکادمی و کالج آمریکایی آلرژی، آسم و ایمنی‌شناسی (AAAAI/ACAAI)",
+              "title": "راهنمای حساسیت دارویی: سابقه واکنش و بررسی زنجیره جانبی، ۲۰۲۲",
+              "url": "https://www.aaaai.org/Aaaai/media/Media-Library-PDFs/Allergist%20Resources/Statements%20and%20Practice%20Parameters/Drug-Allergy-2022.pdf"
+            },
+            {
+              "organization": "مرکز کنترل و پیشگیری از بیماری‌های آمریکا (CDC)",
+              "title": "عفونت سوزاک: رژیم‌های آنتی‌بیوتیکی مشخص",
+              "url": "https://www.cdc.gov/std/treatment-guidelines/gonorrhea-adults.htm"
+            },
+            {
+              "organization": "CDC",
+              "title": "سی‌دیف: اسهال مرتبط با آنتی‌بیوتیک و ارزیابی، مه ۲۰۲۶",
+              "url": "https://www.cdc.gov/c-diff/about/"
+            },
+            {
+              "organization": "سرویس اطلاعات تراتولوژی بریتانیا، BUMPS",
+              "title": "سفالوسپورین‌ها در بارداری، اوت ۲۰۲۲",
+              "url": "https://www.medicinesinpregnancy.org/leaflets-a-z/cephalosporins/"
+            },
+            {
+              "organization": "NHS",
+              "title": "سفالکسین در بارداری و شیردهی، آوریل ۲۰۲۳",
+              "url": "https://www.nhs.uk/medicines/cefalexin/pregnancy-breastfeeding-and-fertility-while-taking-cefalexin/"
+            },
+            {
+              "organization": "LactMed، کتابخانه ملی پزشکی آمریکا",
+              "title": "سفالکسین: سطح شیر و شیردهی، نوامبر ۲۰۲۴",
+              "url": "https://www.ncbi.nlm.nih.gov/books/NBK501487/"
+            },
+            {
+              "organization": "NHS",
+              "title": "سفالکسین: عوارض و واکنش جدی، آوریل ۲۰۲۳",
+              "url": "https://www.nhs.uk/medicines/cefalexin/side-effects-of-cefalexin/"
+            },
+            {
+              "organization": "NHS",
+              "title": "پروبیوتیک‌ها: تفاوت شواهد و احتیاط ایمنی، نوامبر ۲۰۲۲",
+              "url": "https://www.nhs.uk/tests-and-treatments/probiotics/"
+            },
+            {
+              "organization": "کتاب زرد CDC",
+              "title": "بیماری پوستی پس از سفر: فولیکولیت جکوزی",
+              "url": "https://www.cdc.gov/yellow-book/hcp/post-travel-evaluation/post-travel-dermatologic-conditions.html"
+            },
+            {
+              "organization": "حکما، DailyMed/کتابخانه ملی پزشکی آمریکا",
+              "title": "سفازولین: عفونت باکتریایی و پیشگیری جراحی، دسامبر ۲۰۲۴",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6c7761d3-c154-4802-9876-627cd42913f0"
+            },
+            {
+              "organization": "مؤسسه ملی سرطان آمریکا (NCI)",
+              "title": "سفتارولین فوزامیل: اصطلاح نسل پنجم و اثر بر دیواره سلول",
+              "url": "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ceftaroline-fosamil"
+            },
+            {
+              "organization": "NHS",
+              "title": "سفالکسین: پیشگیری از بارداری و پرسش‌های درمان، آوریل ۲۰۲۳",
+              "url": "https://www.nhs.uk/medicines/cefalexin/common-questions-about-cefalexin/"
+            },
+            {
+              "organization": "NHS",
+              "title": "درد شکم: درد ناگهانی شدید و ارزیابی اورژانسی، اکتبر ۲۰۲۶",
+              "url": "https://www.nhs.uk/symptoms/stomach-ache/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "مضادات السيفالوسبورين: الاستعمالات والأجيال والعلاج الآمن",
+        "description": "تعرّف إلى اختلاف السيفالوسبورينات، ومتى تعالج العدوى البكتيرية، وتقييم الحساسية والآثار الجانبية وقرارات الحمل والرضاعة.",
+        "intro": "السيفالوسبورينات مضادات حيوية بوصفة من عائلة بيتا لاكتام. تعالج أنواعًا محددة من العدوى البكتيرية، لكن اختيار الدواء يعتمد على العدوى وحساسية البكتيريا وحالة المريض. الجيل الأحدث ليس أفضل تلقائيًا، وحساسية البنسلين أو الرضاعة لا تعني قاعدة واحدة لجميع السيفالوسبورينات.",
+        "sections": [
+          {
+            "heading": "ما الذي تعالجه وكيف تعمل؟",
+            "paragraphs": [
+              "تعيق هذه الأدوية بناء جدار الخلية البكتيرية. للبكتيريا موجبة الغرام جدار ببتيدوغليكان أسمك، بينما للسالبة طبقة أرق وغشاء خارجي إضافي. تفسر هذه الفروق بعض اختلاف الطيف، لكن اختبار الحساسية والمقاومة المحلية يظلان مهمين. لا تعالج السيفالوسبورينات الفيروسات، ومنها الزكام والإنفلونزا؛ وكثير من حالات السعال والتهاب الحلق والأذن لا يحتاج إلى مضاد حيوي.",
+              "بحسب الدواء، تشمل الاستعمالات عدوى الجلد والأنسجة الرخوة والمسالك البولية، وبعض العدوى البكتيرية بالحلق والأذن والجيوب والرئة، والتهاب السحايا وعدوى الدم والسيلان أو الوقاية حول الجراحة. بعضها فموي وبعضها وريدي أو عضلي بحسب المستحضر. قد يحتاج المرض الشديد إلى المستشفى، لكن الحقن ليس أفضل تلقائيًا لكل عدوى."
+            ]
+          },
+          {
+            "heading": "الجيلان الأول والثاني",
+            "paragraphs": [
+              "من أمثلة الجيل الأول سيفالكسين وسيفادروكسيل وسيفرادين وسيفازولين الحقني. تغطي عادة العقديات الحساسة والمكورات العنقودية الحساسة للميثيسيلين، مع نشاط تجاه بعض سالبة الغرام. يُستخدم سيفازولين أيضًا للوقاية من العدوى في جراحات مختارة. لا تجعل هذه الأمثلة كل دواء مناسبًا لكل عدوى جلدية أو أذنية أو بولية.",
+              "تشمل أمثلة الجيل الثاني سيفوروكسيم وسيفاكلور وسيفبروزيل. تختلف أطيافها، وقد تتسع لتشمل بعض سالبة الغرام. قد يختار الطبيب سيفوروكسيم لعدوى بكتيرية معينة تنفسية أو بولية أو جلدية. التهاب القصبات الفيروسي المعتاد ليس سببًا لوصفه، وأدوية الجيل الثاني ليست علاجًا شاملًا للسيلان أو التهاب السحايا أو الإنتان."
+            ]
+          },
+          {
+            "heading": "أدوية الجيل الثالث والاستثناءات المهمة",
+            "paragraphs": [
+              "تشمل الأمثلة سيفيكسيم وسيفبودوكسيم وسيفتيبوتين الفموية، وسيفترياكسون وسيفوتاكسيم وسيفتازيديم الحقنية. تعالج أدوية مختارة عدوى خطيرة، منها بعض حالات التهاب السحايا والرئة وعدوى الدم. ليست قابلة للاستبدال: في السيلان تفضل إرشادات CDC سيفترياكسون؛ وسيفيكسيم بديل محدود عند تعذره، بينما لا يُنصح بسيفوروكسيم أو سيفبودوكسيم الفمويين.",
+              "يمكن لسيفتازيديم علاج عدوى الزائفة الزنجارية الحساسة، لكن ليس كل سيفالوسبورين من الجيل الثالث فعالًا ضدها. يوجه الاختيارَ الزرعُ ومكان العدوى والمقاومة المحلية. التهاب الجريبات المرتبط بأحواض المياه الساخنة حالة مختلفة: غالبًا يتحسن دون مضاد، فلا تبرر علاقته بالزائفة علاجًا روتينيًا بسيفتازيديم."
+            ]
+          },
+          {
+            "heading": "الجيل الرابع والخيارات الأحدث المضادة لـMRSA",
+            "paragraphs": [
+              "سيفيبيم دواء من الجيل الرابع لعدوى خطيرة مختارة، منها التهاب الرئة والعدوى البولية المعقدة والعدوى البكتيرية المشتبه بها مع الحمى لدى من لديهم نقص العدلات. قد تُضاف مضادات لتغطية كائنات خارج طيفه. تؤثر وظيفة الكلى في الجرعة؛ ويحتاج التشوش أو الهلوسة أو النفضات العضلية أو الاختلاجات أثناء العلاج إلى تقييم طبي فوري لاحتمال السمية العصبية، خاصة مع قصور الكلى.",
+              "يوصف سيفتارولين غالبًا بأنه سيفالوسبورين من الجيل الخامس. سيفتارولين وسيفتوبيبرول سيفالوسبورينان أحدث لهما نشاط ضد بعض العنقوديات المقاومة، ومنها MRSA. لسيفتارولين استطبابات محددة لعدوى الجلد والتهاب الرئة المكتسب من المجتمع. وافقت FDA في أبريل 2024 على سيفتوبيبرول لظروف محددة من عدوى الدم والجلد والرئة مع قيود العمر ونوع العدوى. لا يعالج أي منهما كل البكتيريا المقاومة، ويختلف التوافر والاستعمال المرخص حسب البلد."
+            ]
+          },
+          {
+            "heading": "حساسية البنسلين تحتاج إلى تقييم فردي",
+            "paragraphs": [
+              "اذكر للطبيب اسم الدواء الدقيق وأعراض أي تفاعل سابق وتوقيته وعلاجه، بما فيه التأق أو الطفح المتقرح أو أذية الأعضاء. تعتمد التفاعلات المتصالبة بدرجة كبيرة على السلاسل الجانبية الكيميائية، لا مجرد الاشتراك في اسم بيتا لاكتام. لا تستبعد بطاقة حساسية البنسلين كل السيفالوسبورينات تلقائيًا؛ فللسيفازولين مثلًا نمط سلسلة جانبية مميز.",
+              "لا يعني ذلك اختيار بديل أو اختباره في المنزل. تفرق الإرشادات التخصصية بين التفاعلات الخفيفة غير المؤكدة والتأق والتفاعلات المتأخرة الشديدة. قد تفرض نشرة المستحضر موانع أشد يجب أن يراعيها الفريق المعالج. يحتاج تاريخ تفاعل جلدي شديد أو أذية عضو إلى عناية تخصصية خاصة؛ لا تتعمد إعادة التعرض ولا تستخدم مضاد شخص آخر."
+            ]
+          },
+          {
+            "heading": "الأعراض الهضمية وإسهال المطثية العسيرة",
+            "paragraphs": [
+              "قد يحدث غثيان أو قيء أو براز رخو أو قلاع، وأحيانًا دوار أو ألم موضع الحقن بحسب الدواء. اسأل عن الآثار المزعجة. قد تساعد وجبات بسيطة وسوائل عند تحملها، لكن تعليمات الطعام خاصة بالمستحضر؛ فأقراص سيفوروكسيم أكسيتيل مثلًا تؤخذ بعد الطعام. لا تفترض أن كل السيفالوسبورينات تؤخذ على معدة فارغة.",
+              "قد تغير المضادات بكتيريا الأمعاء وتتيح عدوى المطثية العسيرة أثناء العلاج أو بعده، حتى دون دورة طويلة. يستدعي الإسهال الجديد المشورة؛ والإسهال المائي الشديد أو المستمر أو الدم أو المخاط أو الحمى أو ألم البطن أو الجفاف يحتاج إلى تقييم عاجل. لا تعالج التهاب القولون المشتبه المرتبط بالمضاد بأدوية تبطئ الأمعاء بنفسك. لا تضمن البروبيوتيك الوقاية ولا تحل محل التقييم؛ ناقش المكمل أولًا مع ضعف المناعة."
+            ]
+          },
+          {
+            "heading": "الحمل والرضاعة",
+            "paragraphs": [
+              "يجب علاج العدوى البكتيرية التي تستلزم علاجًا أثناء الحمل. بيانات السيفالوسبورينات الشائعة مطمئنة عمومًا، لكن الدواء والعدوى والأدلة المتاحة تحدد موازنة الفائدة والمخاطر؛ وليس ذلك ضمانًا لانعدام الخطر في الفئة كلها. لا توصي BUMPS بمراقبة إضافية للتشوهات لمجرد التعرض للسيفالوسبورين. قد تكون معلومات الحمل للأدوية الأحدث أقل.",
+              "الرضاعة ليست محظورة تلقائيًا. سيفالكسين متوافق معها عمومًا بمستويات منخفضة في الحليب؛ أما غيره فيحتاج إلى تقييمه الخاص. راقب ضعف الرضاعة أو الإسهال أو القلاع أو الطفح لدى الرضيع واطلب المشورة إذا ظهرت. يحتاج الخديج أو المريض أو شديد الهشاشة إلى إرشاد مهني فردي. لا توقف الرضاعة أو مضادًا ضروريًا تلقائيًا دون مناقشة الخطة."
+            ]
+          },
+          {
+            "heading": "الكلى والأدوية الأخرى ومنع الحمل",
+            "paragraphs": [
+              "أبلغ عن مرض الكلى وعدوى المطثية العسيرة السابقة والحمل أو الرضاعة، وعن جميع الأدوية الموصوفة وغير الموصوفة والأعشاب والفيتامينات. تحتاج بعض السيفالوسبورينات إلى تعديل الجرعة بحسب الكلى. قد تستلزم مضادات التخثر مثل الوارفارين مراقبة، وقد يتداخل البروبينسيد أو الأدوية المؤذية للكلى أو الخافضة لحموضة المعدة مع مستحضرات معينة. على الصيدلي مراجعة التركيبة المحددة بدل افتراض قاعدة للفئة كلها.",
+              "لا تجعل السيفالوسبورينات منع الحمل الهرموني غير فعال تلقائيًا. لكن القيء أو الإسهال الشديد قد يقلل امتصاص حبوب المنع؛ اتبع تعليمات الحبوب نفسها واسأل عن حماية إضافية. اذكر العلاج بالمضاد قبل تحليل الدم أو البول لأن بعض المستحضرات تؤثر في طرق مخبرية معينة. تجنب القيادة عند الدوار أو التشوش أو ضعف القدرة."
+            ]
+          },
+          {
+            "heading": "اتباع الوصفة ومراجعة التحسن",
+            "paragraphs": [
+              "التزم بالجرعة والفواصل والمدة الموصوفة وبالمستحضر الصحيح وتعليمات الطعام والتخزين. لا تستعر المضاد ولا تشاركه ولا تحفظه لمرض لاحق. اتبع النشرة أو الصيدلي عند نسيان جرعة؛ ولا تضاعفها للتعويض. قد تدفع نتيجة الزرع أو إعادة التقييم الطبيب إلى تقصير العلاج أو إيقافه أو تغييره.",
+              "لا توقف الدواء لمجرد التحسن، ولا تواصل تناوله رغم تفاعل خطير بهدف إكمال الدورة. يحتاج طفح جديد إلى مشورة سريعة قبل مزيد من الجرعات؛ وبثور الجلد أو تقشره أو تقرحات الفم أو العينين تستدعي تقييمًا طارئًا فوريًا. يستدعي تفاقم العدوى أو غياب التحسن المتوقع مراجعة ضمن مهلة الحالة المحددة، لا انتظار نفاد العبوة."
+            ]
+          },
+          {
+            "heading": "متى تحتاج إلى مساعدة عاجلة أو طارئة؟",
+            "paragraphs": [
+              "أوقف الدواء المشتبه واتصل بالطوارئ فورًا عند تورم الشفتين أو اللسان أو الحلق، أو صعوبة التنفس، أو الإغماء أو فقدان الوعي، أو أعراض تحسس تتفاقم بسرعة. تحتاج أيضًا بثور الجلد أو تقشره أو تقرحات الفم أو العينين أو الاختلاج أو التشوش الشديد الجديد أو تعذر الإيقاظ إلى طوارئ فورية. لا تقد بنفسك، وأخبر المسعفين باسم الدواء.",
+              "اطلب مشورة عاجلة في اليوم نفسه للإسهال الشديد أو الدم أو المخاط بالبراز أو الحمى مع ألم البطن أو الجفاف أو اليرقان أو الكدمات غير المفسرة أو تفاقم العدوى. يستلزم ألم البطن الشديد مع مرض واضح أو الشعور بقرب الإغماء أو التشوش أو قلة البول الشديدة تقييمًا طارئًا. يجب تقييم الطفح الجديد قبل الجرعة التالية؛ لا تعتبره أثرًا عاديًا ولا تنتظر عدة علامات معًا. ألم البطن الذي يبدأ فجأة ويكون شديدًا يستلزم أيضًا رعاية طارئة فورية بمفرده؛ لا تنتظر علامة إنذار أخرى."
+            ]
+          }
+        ],
+        "takeaways": [
+          "تعالج السيفالوسبورينات عدوى بكتيرية مختارة لا الفيروسات؛ ويعتمد الدواء وطريقه على العدوى والحساسية.",
+          "تصف أرقام الأجيال فروقًا عامة، لا ترتيب قوة أو وصفات قابلة للاستبدال.",
+          "حساسية البنسلين تحتاج إلى تاريخ التفاعل والسلاسل الجانبية؛ لا تختبر بديلًا بنفسك.",
+          "قرارات الحمل والرضاعة خاصة بالدواء. منع الرضاعة الشامل غير صحيح.",
+          "اتبع الخطة الحالية، لكن تصرف فورًا عند إنذارات الحساسية أو الجلد أو الأعصاب أو الإسهال الخطيرة."
+        ],
+        "faq": [
+          {
+            "q": "ما الفرق بين الجيل الأول والثاني؟",
+            "a": "يغطي الأول غالبًا العقديات الحساسة والعنقوديات الحساسة للميثيسيلين. توسع بعض أدوية الثاني تغطية بعض سالبة الغرام. تختلف الأطياف والاستعمالات المرخصة، والأحدث ليس أفضل تلقائيًا."
+          },
+          {
+            "q": "هل أتناول سيفالوسبورين مع حساسية البنسلين؟",
+            "a": "أحيانًا، بعد مراجعة الطبيب للتفاعل الدقيق والسلاسل الجانبية ونشرة المستحضر. التأق أو تفاعل جلدي أو عضوي متأخر شديد يحتاج إلى عناية خاصة. لا تأخذ جرعة اختبار أو تختَر بديلًا بنفسك."
+          },
+          {
+            "q": "ما الآثار الجانبية الممكنة؟",
+            "a": "قد يحدث اضطراب هضمي أو إسهال أو قلاع أو دوار. يحتاج الطفح الجديد إلى مشورة قبل جرعات أخرى. صعوبة التنفس أو التورم أو الإغماء أو بثور الجلد أو تقرحات الفم أو العينين أو الاختلاجات أو التشوش الشديد تحتاج إلى الطوارئ."
+          },
+          {
+            "q": "هل كلها آمنة في الحمل والرضاعة؟",
+            "a": "لا توجد قاعدة عامة بانعدام الخطر. بيانات الحمل للخيارات الشائعة مطمئنة، وسيفالكسين متوافق مع الرضاعة عمومًا. يهم الدواء المحدد وصحة الرضيع؛ والخديج أو المريض يحتاج إلى مشورة فردية."
+          },
+          {
+            "q": "هل يعالج الجيل الأعلى كل عدوى مقاومة؟",
+            "a": "لا. لسيفتازيديم نشاط محدد ضد الزائفة وللأدوية الأحدث المضادة لـMRSA استطبابات معينة. لا يعالج أي جيل كل البكتيريا؛ وتحدد المقاومة ومكان العدوى والإرشادات المحلية الاختيار."
+          },
+          {
+            "q": "هل أتناول البروبيوتيك لإسهال المضاد؟",
+            "a": "لا تضمن الوقاية أو العلاج ولا ينبغي أن تؤخر التقييم. ناقشها أولًا عند وجود مرض أو ضعف مناعة. الإسهال الشديد أو المستمر أو الحمى أو الألم أو الدم أو الجفاف يحتاج إلى مشورة طبية سريعة."
+          },
+          {
+            "q": "هل أكمل الدورة رغم حدوث تفاعل؟",
+            "a": "اتبع الوصفة الحالية ولا تتوقف لمجرد التحسن. لكن التفاعلات الخطيرة تحتاج إلى تصرف فوري لا استمرار الجرعات. استشر قبل الجرعة التالية عند طفح جديد؛ وقد يغير الطبيب العلاج أو يوقفه على نحو مناسب."
+          },
+          {
+            "q": "متى تلزم الطوارئ فورًا؟",
+            "a": "اتصل بالطوارئ لصعوبة التنفس أو تورم الشفتين أو اللسان أو الحلق أو الإغماء أو فقدان الوعي أو بثور الجلد أو تقشره أو تقرحات الفم أو العينين أو الاختلاجات أو التشوش الشديد أو تعذر الإيقاظ. المرض البطني الشديد أو الجفاف مع قرب الإغماء أو التشوش أو قلة البول الشديدة يستلزم أيضًا تقييمًا طارئًا. ألم البطن الذي يبدأ فجأة ويكون شديدًا يستلزم أيضًا رعاية طارئة فورية بمفرده؛ لا تنتظر علامة إنذار أخرى."
+          }
+        ],
+        "evidence": {
+          "updated": "مراجعة 12 أكتوبر 2026",
+          "updatedIso": "2026-10-12",
+          "guidance": [
+            "تميز معلومات المستحضر وإرشادات العدوى بين الأطياف والطرق والاستطبابات وتعديل الجرعة الكلوي والتداخلات. وافقت FDA على سيفتوبيبرول في أبريل 2024 لسياقات عدوى محددة؛ وله ولسيفتارولين استعمالات خاصة، ويختلف التوافر بين البلدان.",
+            "يستخدم معيار الحساسية AAAAI/ACAAI شدة التفاعل وعلاقات السلاسل الجانبية. تبقى موانع نشرة المستحضر والتفاعلات المتأخرة الشديدة بحاجة إلى نظر سريري؛ وليس هذا إذنًا لاختبار الدواء في المنزل.",
+            "تدعم مصادر الحمل والرضاعة الوصف الفردي وترفض الحظر التلقائي للرضاعة. تؤكد CDC تقييم الإسهال أثناء المضادات أو بعدها، وتختلف مستحضرات البروبيوتيك وأدلتها."
+          ],
+          "bemama": "يساعد BeMama في تسجيل أسماء الأدوية ومواعيد الجرعات والتفاعلات السابقة وأسئلة الطبيب. لا يشخص العدوى البكتيرية، ولا يختار المضاد، ولا يقيم أمان الحساسية، ولا يستبدل الرعاية العاجلة. لا تحدد صورة الصيدلية دواء أو جرعة بعينهما.",
+          "safety": "صعوبة التنفس أو تورم الشفتين أو اللسان أو الحلق أو الإغماء أو فقدان الوعي أو بثور الجلد أو تقشره أو تقرحات الفم أو العينين أو الاختلاجات أو التشوش الشديد أو تعذر الإيقاظ تحتاج إلى طوارئ فورية. أوقف الدواء المشتبه عند تفاعل تحسسي خطير. يحتاج الطفح الجديد إلى مشورة قبل جرعات أخرى. الإسهال الشديد أو المستمر أو الدم أو المخاط أو الحمى أو ألم البطن أو الجفاف يستدعي تقييمًا عاجلًا أثناء العلاج أو بعده؛ والمرض الشديد مع قرب الإغماء أو التشوش أو قلة البول الشديدة يستدعي الطوارئ. لا تختَر مضادًا ولا تختبره ولا تشاركه ولا تغيره بنفسك. ألم البطن الذي يبدأ فجأة ويكون شديدًا يستلزم أيضًا رعاية طارئة فورية بمفرده؛ لا تنتظر علامة إنذار أخرى.",
+          "sources": [
+            {
+              "organization": "الخدمة الصحية الوطنية البريطانية (NHS)",
+              "title": "المضادات الحيوية: الاستخدام المناسب واتباع الوصفة",
+              "url": "https://www.nhs.uk/medicines/antibiotics/"
+            },
+            {
+              "organization": "ساندوز، دليل الأدوية emc",
+              "title": "أقراص سيفوروكسيم: الاستطبابات والتداخلات والاحتياطات، أكتوبر 2025",
+              "url": "https://www.medicines.org.uk/emc/product/426/smpc"
+            },
+            {
+              "organization": "هاملن فارما، emc",
+              "title": "سيفتازيديم: طيف الجيل الثالث والاستطبابات، مارس 2026",
+              "url": "https://www.medicines.org.uk/emc/product/101952/smpc"
+            },
+            {
+              "organization": "ريناساينس فارما، emc",
+              "title": "رينابيم (سيفيبيم): معلومات الوصف، سبتمبر 2025",
+              "url": "https://www.medicines.org.uk/emc/product/9672/smpc"
+            },
+            {
+              "organization": "وكالة الأدوية الأوروبية (EMA)",
+              "title": "زينفورو (سيفتارولين): الاستعمالات المرخصة والقيود",
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zinforo"
+            },
+            {
+              "organization": "إدارة الغذاء والدواء الأمريكية (FDA)",
+              "title": "اعتماد سيفتوبيبرول لثلاثة سياقات عدوى، أبريل 2024",
+              "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-new-antibiotic-three-different-uses"
+            },
+            {
+              "organization": "الأكاديمية والكلية الأمريكيتان للحساسية والربو والمناعة (AAAAI/ACAAI)",
+              "title": "معيار حساسية الأدوية: تاريخ التفاعل والسلاسل الجانبية، 2022",
+              "url": "https://www.aaaai.org/Aaaai/media/Media-Library-PDFs/Allergist%20Resources/Statements%20and%20Practice%20Parameters/Drug-Allergy-2022.pdf"
+            },
+            {
+              "organization": "المراكز الأمريكية لمكافحة الأمراض والوقاية منها (CDC)",
+              "title": "عدوى السيلان: أنظمة مضادات محددة",
+              "url": "https://www.cdc.gov/std/treatment-guidelines/gonorrhea-adults.htm"
+            },
+            {
+              "organization": "CDC",
+              "title": "المطثية العسيرة: الإسهال المرتبط بالمضاد والتقييم، مايو 2026",
+              "url": "https://www.cdc.gov/c-diff/about/"
+            },
+            {
+              "organization": "خدمة معلومات علم المسخ البريطانية، BUMPS",
+              "title": "السيفالوسبورينات أثناء الحمل، أغسطس 2022",
+              "url": "https://www.medicinesinpregnancy.org/leaflets-a-z/cephalosporins/"
+            },
+            {
+              "organization": "NHS",
+              "title": "سيفالكسين في الحمل والرضاعة، أبريل 2023",
+              "url": "https://www.nhs.uk/medicines/cefalexin/pregnancy-breastfeeding-and-fertility-while-taking-cefalexin/"
+            },
+            {
+              "organization": "LactMed، المكتبة الوطنية الأمريكية للطب",
+              "title": "سيفالكسين: مستوياته في الحليب والرضاعة، نوفمبر 2024",
+              "url": "https://www.ncbi.nlm.nih.gov/books/NBK501487/"
+            },
+            {
+              "organization": "NHS",
+              "title": "سيفالكسين: الآثار الجانبية والتفاعلات الخطيرة، أبريل 2023",
+              "url": "https://www.nhs.uk/medicines/cefalexin/side-effects-of-cefalexin/"
+            },
+            {
+              "organization": "NHS",
+              "title": "البروبيوتيك: تفاوت الأدلة واحتياطات المناعة، نوفمبر 2022",
+              "url": "https://www.nhs.uk/tests-and-treatments/probiotics/"
+            },
+            {
+              "organization": "الكتاب الأصفر CDC",
+              "title": "حالات الجلد بعد السفر: التهاب جريبات أحواض المياه الساخنة",
+              "url": "https://www.cdc.gov/yellow-book/hcp/post-travel-evaluation/post-travel-dermatologic-conditions.html"
+            },
+            {
+              "organization": "حكمة، DailyMed/المكتبة الوطنية الأمريكية للطب",
+              "title": "سيفازولين: العدوى البكتيرية والوقاية الجراحية، ديسمبر 2024",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6c7761d3-c154-4802-9876-627cd42913f0"
+            },
+            {
+              "organization": "المعهد الوطني الأمريكي للسرطان (NCI)",
+              "title": "سيفتارولين فوساميل: مصطلح الجيل الخامس وتأثير الجدار الخلوي",
+              "url": "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ceftaroline-fosamil"
+            },
+            {
+              "organization": "NHS",
+              "title": "سيفالكسين: منع الحمل وأسئلة العلاج، أبريل 2023",
+              "url": "https://www.nhs.uk/medicines/cefalexin/common-questions-about-cefalexin/"
+            },
+            {
+              "organization": "NHS",
+              "title": "ألم البطن: الألم المفاجئ الشديد والتقييم الطارئ، أكتوبر 2026",
+              "url": "https://www.nhs.uk/symptoms/stomach-ache/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Céphalosporines : usages, générations et traitement sûr",
+        "description": "Comprendre les différences entre céphalosporines, leurs indications bactériennes, les allergies, les effets indésirables et les décisions pendant la grossesse ou l’allaitement.",
+        "intro": "Les céphalosporines sont des antibiotiques sur ordonnance de la famille des bêta-lactamines. Elles traitent certaines infections bactériennes, mais le choix dépend de l’infection, de la sensibilité bactérienne et de la personne. Une génération plus récente n’est pas automatiquement meilleure, et une allergie à la pénicilline ou l’allaitement n’impose pas la même règle pour toutes.",
+        "sections": [
+          {
+            "heading": "Ce qu’elles traitent et leur mécanisme",
+            "paragraphs": [
+              "Ces médicaments perturbent la construction de la paroi bactérienne. Les bactéries à Gram positif ont une paroi de peptidoglycane plus épaisse ; les Gram négatif ont une couche plus fine et une membrane externe supplémentaire. Ces différences expliquent en partie les spectres, mais les tests de sensibilité et les résistances locales restent importants. Les céphalosporines ne traitent pas les virus, dont ceux du rhume et de la grippe ; beaucoup de toux, maux de gorge et otites ne nécessitent pas d’antibiotique.",
+              "Selon le médicament, les usages comprennent les infections cutanées et des tissus mous, urinaires, certaines infections bactériennes de la gorge, de l’oreille, des sinus ou du poumon, les méningites, infections sanguines, la gonorrhée ou la prévention autour d’une opération. Certaines sont orales, d’autres intraveineuses ou intramusculaires selon la présentation. Une maladie grave peut nécessiter l’hôpital, mais une injection n’est pas automatiquement préférable pour toute infection."
+            ]
+          },
+          {
+            "heading": "Première et deuxième générations",
+            "paragraphs": [
+              "La première génération comprend notamment céfalexine, céfadroxil, céfradine et céfazoline injectable. Elles couvrent souvent les streptocoques sensibles et staphylocoques sensibles à la méticilline, ainsi que certaines bactéries à Gram négatif. La céfazoline sert aussi à prévenir certaines infections chirurgicales. Ces exemples ne rendent pas chaque médicament adapté à toute infection cutanée, auriculaire ou urinaire.",
+              "La deuxième génération comprend céfuroxime, céfaclor et céfprozil. Leurs spectres diffèrent, avec souvent une couverture élargie de certains Gram négatif. Le médecin peut choisir le céfuroxime pour une infection bactérienne respiratoire, urinaire ou cutanée précise. Une bronchite virale ordinaire ne justifie pas sa prescription, et cette génération ne traite pas universellement gonorrhée, méningite ou sepsis."
+            ]
+          },
+          {
+            "heading": "Troisième génération et exceptions importantes",
+            "paragraphs": [
+              "On y trouve céfixime, cefpodoxime et ceftibutène oraux, ainsi que ceftriaxone, céfotaxime et ceftazidime injectables. Certains traitent des infections graves, dont certaines méningites, pneumonies ou infections sanguines. Ils ne sont pas interchangeables : pour la gonorrhée, les CDC privilégient la ceftriaxone ; le céfixime est une solution limitée si elle est indisponible, tandis que céfuroxime et cefpodoxime oraux ne sont pas recommandés.",
+              "La ceftazidime peut traiter des infections à Pseudomonas sensible, mais cette activité ne concerne pas toutes les céphalosporines de troisième génération. Culture, localisation et résistance locale guident le choix. La folliculite liée aux bains à remous est différente : elle guérit généralement sans antibiotique ; son lien avec Pseudomonas ne justifie donc pas un traitement systématique par ceftazidime."
+            ]
+          },
+          {
+            "heading": "Quatrième génération et options anti-SARM plus récentes",
+            "paragraphs": [
+              "Le céfépime, de quatrième génération, est utilisé pour certaines infections graves, dont pneumonies, infections urinaires compliquées et infections bactériennes suspectées avec fièvre chez une personne ayant peu de neutrophiles. D’autres antibiotiques peuvent être nécessaires hors de son spectre. La fonction rénale influe sur la dose ; confusion, hallucinations, secousses musculaires ou convulsions pendant le traitement nécessitent une évaluation médicale immédiate, car une neurotoxicité peut survenir, surtout en cas d’insuffisance rénale.",
+              "La ceftaroline est souvent décrite comme une céphalosporine de cinquième génération. Ceftaroline et ceftobiprole sont des céphalosporines plus récentes actives contre certains staphylocoques résistants, dont le SARM/MRSA. La ceftaroline a des indications précises dans les infections cutanées et pneumonies communautaires. La FDA a autorisé le ceftobiprole en avril 2024 dans des situations définies d’infection sanguine, cutanée et pulmonaire, avec restrictions d’âge et d’infection. Aucun ne traite universellement les bactéries résistantes ; disponibilité et indications autorisées varient selon les pays."
+            ]
+          },
+          {
+            "heading": "Une allergie à la pénicilline demande une évaluation individuelle",
+            "paragraphs": [
+              "Indiquez au prescripteur le médicament exact, les symptômes, le délai et le traitement de toute réaction antérieure, notamment anaphylaxie, éruption avec cloques ou atteinte d’organe. Les réactions croisées dépendent largement des chaînes latérales chimiques plutôt que du seul nom bêta-lactamine. Une étiquette d’allergie à la pénicilline n’exclut pas automatiquement toute céphalosporine ; la céfazoline possède, par exemple, un profil de chaîne latérale distinct.",
+              "Cela n’autorise pas à choisir ou tester un substitut chez soi. Les recommandations spécialisées distinguent réaction légère non confirmée, anaphylaxie et réaction retardée grave. La notice peut imposer des contre-indications plus strictes que l’équipe doit considérer. Un antécédent de réaction cutanée grave ou d’atteinte d’organe nécessite une attention spécialisée ; ne vous réexposez pas délibérément et ne prenez pas l’antibiotique d’une autre personne."
+            ]
+          },
+          {
+            "heading": "Effets digestifs et diarrhée à C. difficile",
+            "paragraphs": [
+              "Nausées, vomissements, selles molles, candidose et parfois vertiges ou gêne au point d’injection peuvent survenir selon le médicament. Demandez conseil pour les effets gênants. Des repas simples et des liquides peuvent aider s’ils sont tolérés, mais les consignes alimentaires sont propres au produit ; les comprimés de céfuroxime axétil se prennent, par exemple, après un repas. Ne supposez pas que toutes les céphalosporines se prennent à jeun.",
+              "Les antibiotiques peuvent perturber les bactéries intestinales et permettre une infection à Clostridioides difficile pendant ou après le traitement, même sans cure longue. Une nouvelle diarrhée mérite conseil ; diarrhée aqueuse sévère ou persistante, sang ou mucus, fièvre, douleur abdominale ou déshydratation nécessitent une évaluation urgente. Ne traitez pas vous-même une colite suspectée liée aux antibiotiques par un ralentisseur du transit. Les probiotiques ne garantissent pas la prévention et ne remplacent pas l’évaluation ; demandez conseil avant un complément si l’immunité est affaiblie."
+            ]
+          },
+          {
+            "heading": "Grossesse et allaitement",
+            "paragraphs": [
+              "Une infection bactérienne nécessitant un traitement pendant la grossesse doit être traitée. Les données des céphalosporines courantes sont généralement rassurantes, mais le médicament, l’infection et les preuves disponibles déterminent le rapport bénéfice–risque ; ce n’est pas une garantie de risque nul pour toute la classe. BUMPS ne recommande pas de surveillance supplémentaire des malformations pour la seule exposition à une céphalosporine. Les molécules récentes peuvent avoir moins de données pendant la grossesse.",
+              "L’allaitement n’est pas automatiquement interdit. La céfalexine est généralement compatible, avec de faibles concentrations dans le lait ; les autres médicaments exigent leur propre évaluation. Surveillez mauvaise alimentation, diarrhée, candidose ou éruption chez le bébé et demandez conseil si elles surviennent. Un bébé prématuré, malade ou particulièrement vulnérable nécessite un avis professionnel individuel. N’arrêtez pas automatiquement l’allaitement ou un antibiotique essentiel sans discuter du plan."
+            ]
+          },
+          {
+            "heading": "Reins, autres médicaments et contraception",
+            "paragraphs": [
+              "Signalez maladie rénale, antécédent de C. difficile, grossesse ou allaitement et tous les médicaments, avec ou sans ordonnance, plantes et vitamines. Certaines céphalosporines nécessitent un ajustement rénal. Warfarine ou anticoagulants similaires peuvent demander une surveillance ; probénécide, médicaments néphrotoxiques ou réduisant l’acidité gastrique peuvent interagir avec certains produits. Le pharmacien doit vérifier l’association précise plutôt qu’appliquer une règle à toute la classe.",
+              "Les céphalosporines ne rendent pas automatiquement la contraception hormonale inefficace. Cependant, vomissements ou diarrhée sévère peuvent réduire l’absorption d’une pilule contraceptive ; suivez sa notice et renseignez-vous sur une protection supplémentaire. Signalez l’antibiotique avant des analyses sanguines ou urinaires, car certains produits perturbent des méthodes de laboratoire. Ne conduisez pas en cas de vertiges, confusion ou capacités altérées."
+            ]
+          },
+          {
+            "heading": "Suivre la prescription et réévaluer l’évolution",
+            "paragraphs": [
+              "Respectez dose, intervalles et durée prescrits, avec la bonne présentation et les consignes alimentaires ou de conservation. N’empruntez pas, ne partagez pas et ne gardez pas d’antibiotique pour une future maladie. Après un oubli, suivez la notice ou le pharmacien ; ne doublez pas la dose. Une culture ou une réévaluation peut conduire le médecin à raccourcir, arrêter ou modifier le traitement.",
+              "N’arrêtez pas uniquement parce que vous allez mieux et ne poursuivez pas malgré une réaction grave pour terminer la cure. Une nouvelle éruption exige un avis rapide avant d’autres doses ; cloques, décollement cutané ou lésions de la bouche ou des yeux nécessitent immédiatement les urgences. Aggravation de l’infection ou absence d’amélioration attendue nécessitent une réévaluation selon le délai propre à la maladie, sans attendre la fin de la boîte."
+            ]
+          },
+          {
+            "heading": "Quand demander une aide urgente ou les secours ?",
+            "paragraphs": [
+              "Arrêtez le médicament suspect et appelez immédiatement les secours pour gonflement des lèvres, langue ou gorge, difficulté respiratoire, évanouissement ou perte de connaissance, ou allergie qui s’aggrave rapidement. Cloques ou décollement cutané, lésions de la bouche ou des yeux, convulsion, confusion nouvelle sévère ou impossibilité de réveiller nécessitent aussi les secours immédiatement. Ne conduisez pas vous-même. Indiquez le médicament pris.",
+              "Demandez un avis urgent le jour même pour diarrhée sévère, sang ou mucus dans les selles, fièvre avec douleur abdominale, déshydratation, jaunisse, ecchymoses inexpliquées ou infection qui s’aggrave. Une douleur abdominale intense avec état général très altéré, sensation de perdre connaissance, confusion ou très peu d’urines nécessite les urgences. Une nouvelle éruption doit être évaluée avant la dose suivante ; ne la banalisez pas et n’attendez pas plusieurs signes simultanés. Une douleur abdominale qui débute soudainement et qui est intense nécessite aussi, à elle seule, de contacter immédiatement les urgences ; n’attendez pas un autre signe d’alerte."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Les céphalosporines traitent certaines infections bactériennes, pas les virus ; médicament et voie dépendent de l’infection et de la sensibilité.",
+          "Les générations décrivent des différences générales, pas un classement de puissance ni des prescriptions interchangeables.",
+          "L’allergie à la pénicilline demande l’histoire de la réaction et l’analyse des chaînes latérales ; ne testez pas un substitut vous-même.",
+          "Grossesse et allaitement nécessitent une décision propre au médicament. Une interdiction générale d’allaiter est incorrecte.",
+          "Suivez le plan actuel, mais réagissez immédiatement aux alertes allergiques, cutanées, neurologiques ou diarrhéiques graves."
+        ],
+        "faq": [
+          {
+            "q": "Quelle différence entre première et deuxième générations ?",
+            "a": "La première couvre souvent streptocoques sensibles et staphylocoques sensibles à la méticilline. Certaines molécules de deuxième génération élargissent la couverture de certains Gram négatif. Spectres et indications diffèrent ; plus récent ne signifie pas automatiquement meilleur."
+          },
+          {
+            "q": "Puis-je en prendre avec une allergie à la pénicilline ?",
+            "a": "Parfois, après évaluation de la réaction précise, des chaînes latérales et de la notice par un médecin. Anaphylaxie ou réaction retardée cutanée ou d’organe grave exigent une attention particulière. Ne prenez pas de dose test et ne choisissez pas un substitut vous-même."
+          },
+          {
+            "q": "Quels effets indésirables sont possibles ?",
+            "a": "Troubles digestifs, diarrhée, candidose ou vertiges peuvent survenir. Une nouvelle éruption nécessite un avis avant d’autres doses. Difficulté respiratoire, gonflement, évanouissement, cloques, lésions buccales ou oculaires, convulsions ou confusion sévère nécessitent les secours."
+          },
+          {
+            "q": "Sont-elles toutes sûres pendant la grossesse et l’allaitement ?",
+            "a": "Il n’existe pas de règle universelle de risque nul. Les options courantes ont des données de grossesse rassurantes et la céfalexine est généralement compatible avec l’allaitement. Le médicament et la santé du bébé comptent ; prématurité ou maladie nécessitent un avis individuel."
+          },
+          {
+            "q": "Une génération plus élevée traite-t-elle toute infection résistante ?",
+            "a": "Non. La ceftazidime a une activité contre certains Pseudomonas, tandis que les molécules anti-SARM récentes ont des indications précises. Aucune génération ne traite toutes les bactéries ; résistance, localisation et recommandations locales guident le choix."
+          },
+          {
+            "q": "Faut-il des probiotiques contre la diarrhée liée aux antibiotiques ?",
+            "a": "Ils ne garantissent ni prévention ni traitement et ne doivent pas retarder l’évaluation. Demandez d’abord conseil en cas de maladie ou d’immunité affaiblie. Diarrhée sévère ou persistante, fièvre, douleur, sang ou déshydratation nécessitent rapidement un avis médical."
+          },
+          {
+            "q": "Faut-il terminer la cure malgré une réaction ?",
+            "a": "Suivez la prescription actuelle et n’arrêtez pas seulement parce que vous allez mieux. Une réaction grave exige toutefois une action immédiate plutôt que continuer les doses. Demandez conseil avant la dose suivante pour une nouvelle éruption ; le médecin peut légitimement modifier ou arrêter le traitement."
+          },
+          {
+            "q": "Quand faut-il immédiatement les secours ?",
+            "a": "Appelez pour difficulté respiratoire, gonflement des lèvres, langue ou gorge, évanouissement ou perte de connaissance, cloques ou décollement cutané, lésions buccales ou oculaires, convulsions, confusion sévère ou impossibilité de réveiller. Une affection abdominale grave ou déshydratation avec sensation de perdre connaissance, confusion ou très peu d’urines nécessite aussi les urgences. Une douleur abdominale qui débute soudainement et qui est intense nécessite aussi, à elle seule, de contacter immédiatement les urgences ; n’attendez pas un autre signe d’alerte."
+          }
+        ],
+        "evidence": {
+          "updated": "Révisé le 12 octobre 2026",
+          "updatedIso": "2026-10-12",
+          "guidance": [
+            "Les informations des produits et les recommandations par infection distinguent spectres, voies, indications, adaptation rénale et interactions. La FDA a autorisé le ceftobiprole en avril 2024 dans des contextes infectieux définis ; lui et la ceftaroline ont des usages précis, et la disponibilité varie selon les pays.",
+            "Le paramètre AAAAI/ACAAI tient compte de la gravité de la réaction et des chaînes latérales. Les contre-indications propres à la notice et les réactions retardées graves restent à considérer cliniquement ; ce n’est pas une autorisation de test à domicile.",
+            "Les ressources de grossesse et d’allaitement soutiennent une prescription individuelle et rejettent une interdiction automatique d’allaiter. Les CDC soulignent l’évaluation de la diarrhée pendant ou après les antibiotiques ; produits probiotiques et preuves varient."
+          ],
+          "bemama": "BeMama aide à noter noms de médicaments, horaires, réactions antérieures et questions au prescripteur. Il ne diagnostique pas une infection bactérienne, ne choisit pas un antibiotique, n’évalue pas la sécurité allergique et ne remplace pas les soins urgents. La photo de pharmacie n’identifie ni médicament précis ni dose.",
+          "safety": "Difficulté respiratoire, gonflement des lèvres, langue ou gorge, évanouissement ou perte de connaissance, cloques ou décollement cutané, lésions buccales ou oculaires, convulsions, confusion sévère ou impossibilité de réveiller nécessitent immédiatement les secours. Arrêtez le médicament suspect lors d’une réaction allergique grave. Une nouvelle éruption exige un avis avant d’autres doses. Diarrhée sévère ou persistante, sang ou mucus, fièvre, douleur abdominale ou déshydratation nécessitent une évaluation urgente pendant ou après le traitement ; un état grave avec sensation de perdre connaissance, confusion ou très peu d’urines relève des urgences. Ne choisissez pas, ne testez pas, ne partagez pas et ne modifiez pas un antibiotique vous-même. Une douleur abdominale qui débute soudainement et qui est intense nécessite aussi, à elle seule, de contacter immédiatement les urgences ; n’attendez pas un autre signe d’alerte.",
+          "sources": [
+            {
+              "organization": "Service national de santé britannique (NHS)",
+              "title": "Antibiotiques : usage approprié et respect de la prescription",
+              "url": "https://www.nhs.uk/medicines/antibiotics/"
+            },
+            {
+              "organization": "Sandoz, répertoire des médicaments emc",
+              "title": "Comprimés de céfuroxime : indications, interactions et précautions, octobre 2025",
+              "url": "https://www.medicines.org.uk/emc/product/426/smpc"
+            },
+            {
+              "organization": "Hameln Pharma, emc",
+              "title": "Ceftazidime : spectre de troisième génération et indications, mars 2026",
+              "url": "https://www.medicines.org.uk/emc/product/101952/smpc"
+            },
+            {
+              "organization": "Renascience Pharma, emc",
+              "title": "Renapime (céfépime) : informations de prescription, septembre 2025",
+              "url": "https://www.medicines.org.uk/emc/product/9672/smpc"
+            },
+            {
+              "organization": "Agence européenne des médicaments (EMA)",
+              "title": "Zinforo (ceftaroline) : indications autorisées et restrictions",
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zinforo"
+            },
+            {
+              "organization": "Agence américaine des produits alimentaires et médicamenteux (FDA)",
+              "title": "Autorisation du ceftobiprole dans trois contextes infectieux, avril 2024",
+              "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-new-antibiotic-three-different-uses"
+            },
+            {
+              "organization": "Académie et Collège américains d’allergie, asthme et immunologie (AAAAI/ACAAI)",
+              "title": "Recommandations sur l’allergie médicamenteuse : histoire et chaînes latérales, 2022",
+              "url": "https://www.aaaai.org/Aaaai/media/Media-Library-PDFs/Allergist%20Resources/Statements%20and%20Practice%20Parameters/Drug-Allergy-2022.pdf"
+            },
+            {
+              "organization": "Centres américains de contrôle et de prévention des maladies (CDC)",
+              "title": "Infections gonococciques : schémas antibiotiques spécifiques",
+              "url": "https://www.cdc.gov/std/treatment-guidelines/gonorrhea-adults.htm"
+            },
+            {
+              "organization": "CDC",
+              "title": "C. difficile : diarrhée associée aux antibiotiques et évaluation, mai 2026",
+              "url": "https://www.cdc.gov/c-diff/about/"
+            },
+            {
+              "organization": "Service britannique d’information en tératologie, BUMPS",
+              "title": "Céphalosporines pendant la grossesse, août 2022",
+              "url": "https://www.medicinesinpregnancy.org/leaflets-a-z/cephalosporins/"
+            },
+            {
+              "organization": "NHS",
+              "title": "Céfalexine pendant la grossesse et l’allaitement, avril 2023",
+              "url": "https://www.nhs.uk/medicines/cefalexin/pregnancy-breastfeeding-and-fertility-while-taking-cefalexin/"
+            },
+            {
+              "organization": "LactMed, Bibliothèque nationale américaine de médecine",
+              "title": "Céfalexine : concentrations dans le lait et allaitement, novembre 2024",
+              "url": "https://www.ncbi.nlm.nih.gov/books/NBK501487/"
+            },
+            {
+              "organization": "NHS",
+              "title": "Céfalexine : effets indésirables et réactions graves, avril 2023",
+              "url": "https://www.nhs.uk/medicines/cefalexin/side-effects-of-cefalexin/"
+            },
+            {
+              "organization": "NHS",
+              "title": "Probiotiques : preuves variables et précautions immunitaires, novembre 2022",
+              "url": "https://www.nhs.uk/tests-and-treatments/probiotics/"
+            },
+            {
+              "organization": "Livre jaune des CDC",
+              "title": "Affections cutanées après un voyage : folliculite des bains à remous",
+              "url": "https://www.cdc.gov/yellow-book/hcp/post-travel-evaluation/post-travel-dermatologic-conditions.html"
+            },
+            {
+              "organization": "Hikma, DailyMed/Bibliothèque nationale américaine de médecine",
+              "title": "Céfazoline : infections bactériennes et prévention chirurgicale, décembre 2024",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6c7761d3-c154-4802-9876-627cd42913f0"
+            },
+            {
+              "organization": "Institut national américain du cancer (NCI)",
+              "title": "Ceftaroline fosamil : terme de cinquième génération et action sur la paroi",
+              "url": "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ceftaroline-fosamil"
+            },
+            {
+              "organization": "NHS",
+              "title": "Céfalexine : contraception et questions de traitement, avril 2023",
+              "url": "https://www.nhs.uk/medicines/cefalexin/common-questions-about-cefalexin/"
+            },
+            {
+              "organization": "NHS",
+              "title": "Douleur abdominale : douleur soudaine intense et évaluation aux urgences, octobre 2026",
+              "url": "https://www.nhs.uk/symptoms/stomach-ache/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Sefalosporin antibiyotikler: kullanım, kuşaklar ve güvenli tedavi",
+        "description": "Sefalosporinlerin farklarını, bakteriyel enfeksiyonlarda kullanımını, alerji değerlendirmesini, yan etkileri ve gebelik-emzirme kararlarını öğrenin.",
+        "intro": "Sefalosporinler beta-laktam ailesinden reçeteli antibiyotiklerdir. Belirli bakteriyel enfeksiyonları tedavi edebilirler; uygun ilaç enfeksiyona, bakterinin duyarlılığına ve hastanın durumuna bağlıdır. Daha yeni kuşak otomatik olarak daha iyi değildir; penisilin alerjisi veya emzirme bütün sefalosporinler için aynı kuralı doğurmaz.",
+        "sections": [
+          {
+            "heading": "Neyi tedavi eder ve nasıl etki ederler?",
+            "paragraphs": [
+              "Bu ilaçlar bakterinin hücre duvarı yapımını bozar. Gram-pozitif bakterilerin peptidoglikan duvarı daha kalındır; Gram-negatiflerde daha ince bir tabaka ve ek dış zar bulunur. Bu farklar etki spektrumunu kısmen açıklar, ancak duyarlılık testleri ve yerel direnç de önemlidir. Sefalosporinler soğuk algınlığı ve grip dahil virüsleri tedavi etmez; birçok öksürük, boğaz ağrısı ve kulak enfeksiyonu antibiyotik gerektirmez.",
+              "İlaca göre deri ve yumuşak doku, idrar yolu, belirli bakteriyel boğaz, kulak, sinüs ve akciğer enfeksiyonları, menenjit, kan dolaşımı enfeksiyonları, gonore veya ameliyat çevresinde korunma için kullanılabilirler. Bazıları ağızdan, bazıları ürüne göre damar ya da kas içine verilir. Ağır hastalık hastane tedavisi gerektirebilir, fakat iğne her enfeksiyonda otomatik olarak daha iyi değildir."
+            ]
+          },
+          {
+            "heading": "Birinci ve ikinci kuşak",
+            "paragraphs": [
+              "Birinci kuşak örnekleri sefaleksin, sefadroksil, sefradin ve enjeksiyonluk sefazolindir. Genellikle duyarlı streptokokları ve metisiline duyarlı stafilokokları, ayrıca bazı Gram-negatifleri kapsarlar. Sefazolin seçilmiş ameliyatlarda enfeksiyon önleme amacıyla da kullanılır. Bu örnekler her ilacı her deri, kulak veya idrar yolu enfeksiyonuna uygun yapmaz.",
+              "İkinci kuşağa sefuroksim, sefaklor ve sefprozil örnektir. Spektrumları farklıdır ve bazı Gram-negatiflere karşı kapsamları daha geniş olabilir. Hekim belirli bakteriyel solunum, idrar yolu veya deri enfeksiyonlarında sefuroksimi seçebilir. Sıradan viral bronşit reçete nedeni değildir; ikinci kuşak gonore, menenjit veya sepsisin evrensel tedavisi değildir."
+            ]
+          },
+          {
+            "heading": "Üçüncü kuşak ve önemli istisnalar",
+            "paragraphs": [
+              "Ağızdan sefiksim, sefpodoksim ve seftibuten; enjeksiyonla seftriakson, sefotaksim ve seftazidim örnektir. Seçilmiş ilaçlar bazı menenjit, zatürre ve kan dolaşımı enfeksiyonları dahil ciddi enfeksiyonları tedavi eder. Birbirlerinin yerine geçmezler: gonorede CDC seftriaksonu tercih eder; sefiksim yalnızca seftriakson bulunamadığında sınırlı bir alternatiftir, ağızdan sefuroksim ve sefpodoksim önerilmez.",
+              "Seftazidim duyarlı Pseudomonas enfeksiyonlarını tedavi edebilir, ancak bütün üçüncü kuşak sefalosporinler bu etkiye sahip değildir. Kültür, enfeksiyon yeri ve yerel direnç seçimi yönlendirir. Sıcak havuz foliküliti farklıdır: genellikle antibiyotiksiz iyileşir; Pseudomonas ile ilişkili olması rutin seftazidim tedavisini haklı çıkarmaz."
+            ]
+          },
+          {
+            "heading": "Dördüncü kuşak ve daha yeni MRSA seçenekleri",
+            "paragraphs": [
+              "Sefepim, zatürre, komplike idrar yolu enfeksiyonu ve nötrofil sayısı düşük kişide ateşle birlikte şüpheli bakteriyel enfeksiyon gibi seçilmiş ciddi durumlarda kullanılan dördüncü kuşak ilaçtır. Spektrumu dışındaki mikroplar için başka antibiyotikler gerekebilir. Böbrek işlevi dozu etkiler; tedavi sırasında kafa karışıklığı, halüsinasyon, kas sıçramaları veya nöbet hemen tıbbi değerlendirme gerektirir; özellikle böbrek bozukluğunda sinir sistemi toksisitesi olabilir.",
+              "Seftarolin sıklıkla beşinci kuşak sefalosporin olarak tanımlanır. Seftarolin ve seftobiprol, MRSA dahil bazı dirençli stafilokoklara etkili daha yeni sefalosporinlerdir. Seftarolinin belirli deri enfeksiyonu ve toplum kökenli zatürre endikasyonları vardır. FDA, seftobiprolü Nisan 2024’te yaş ve enfeksiyon kısıtlamalarıyla tanımlı kan dolaşımı, deri ve zatürre durumları için onayladı. Hiçbiri tüm dirençli bakterileri tedavi etmez; bulunabilirlik ve onaylı kullanım ülkeden ülkeye değişir."
+            ]
+          },
+          {
+            "heading": "Penisilin alerjisi kişisel değerlendirme gerektirir",
+            "paragraphs": [
+              "Anafilaksi, kabarcıklı döküntü veya organ hasarı dahil önceki tepkilerin tam ilaç adını, belirtilerini, zamanını ve tedavisini hekime bildirin. Çapraz tepkiler büyük ölçüde kimyasal yan zincirlere bağlıdır; yalnızca beta-laktam adını paylaşmak belirleyici değildir. Penisilin alerjisi kaydı bütün sefalosporinleri otomatik olarak dışlamaz; örneğin sefazolinin farklı bir yan zincir yapısı vardır.",
+              "Bu, evde alternatif seçmek veya denemek demek değildir. Uzman rehberleri doğrulanmamış hafif tepkiyi, anafilaksiyi ve ağır gecikmiş tepkileri ayırır. Ürün bilgisi, tedavi ekibinin dikkate alması gereken daha katı kontrendikasyonlar içerebilir. Geçmiş ağır deri tepkisi veya organ hasarı özel uzman değerlendirmesi gerektirir; kendinizi kasten yeniden maruz bırakmayın ve başkasının antibiyotiğini kullanmayın."
+            ]
+          },
+          {
+            "heading": "Sindirim etkileri ve C. difficile ishali",
+            "paragraphs": [
+              "İlaca göre bulantı, kusma, gevşek dışkı, pamukçuk ve bazen baş dönmesi veya enjeksiyon yerinde rahatsızlık olabilir. Rahatsız edici etkileri danışın. Tolere edilebiliyorsa sade yemek ve sıvı yardımcı olabilir, fakat yemek talimatı ürüne özeldir; örneğin sefuroksim aksetil tabletleri yemekten sonra alınır. Tüm sefalosporinlerin aç karnına alınacağını varsaymayın.",
+              "Antibiyotikler bağırsak bakterilerini bozarak uzun kür olmadan da tedavi sırasında veya sonrasında Clostridioides difficile enfeksiyonuna zemin hazırlayabilir. Yeni ishal için danışın; ağır veya kalıcı sulu ishal, kan veya mukus, ateş, karın ağrısı ya da vücudun susuz kalması acil değerlendirme gerektirir. Antibiyotiğe bağlı kolit şüphesinde bağırsak hareketini yavaşlatan ilaçları kendi başınıza almayın. Probiyotikler korunmayı garanti etmez ve değerlendirme yerine geçmez; bağışıklığınız zayıfsa takviye öncesinde danışın."
+            ]
+          },
+          {
+            "heading": "Gebelik ve emzirme",
+            "paragraphs": [
+              "Gebelikte tedavi gerektiren bakteriyel enfeksiyon tedavi edilmelidir. Sık kullanılan sefalosporinlerin verileri genellikle güven vericidir; ancak ilaç, enfeksiyon ve mevcut kanıt yarar-risk kararını belirler. Bu, tüm sınıf için sıfır risk garantisi değildir. BUMPS yalnızca sefalosporin maruziyeti nedeniyle doğum kusurları için ek izlem önermez. Daha yeni ilaçların gebelik bilgisi daha sınırlı olabilir.",
+              "Emzirme otomatik olarak yasak değildir. Sefaleksin, süte düşük düzeyde geçmesiyle genellikle emzirmeyle uyumludur; diğer ilaçlar ayrı değerlendirilmelidir. Bebekte yetersiz beslenme, ishal, pamukçuk veya döküntü olup olmadığını izleyin ve olursa danışın. Prematüre, hasta veya özellikle hassas bebekler kişiye özel profesyonel öneri gerektirir. Planı konuşmadan emzirmeyi veya gerekli antibiyotiği otomatik kesmeyin."
+            ]
+          },
+          {
+            "heading": "Böbrekler, başka ilaçlar ve gebelikten korunma",
+            "paragraphs": [
+              "Böbrek hastalığı, geçirilmiş C. difficile, gebelik veya emzirmeyi ve reçeteli-reçetesiz tüm ilaçları, bitkisel ürünleri, vitaminleri bildirin. Bazı sefalosporinlerde böbreğe göre doz ayarlanır. Varfarin ve benzeri antikoagülanlar izlem gerektirebilir; probenesid, böbreğe zarar verebilen ilaçlar veya mide asidini azaltan ilaçlar belirli ürünlerle etkileşebilir. Eczacı tüm sınıfa tek kural uygulamak yerine tam kombinasyonu kontrol etmelidir.",
+              "Sefalosporinler hormonal korunmayı otomatik olarak etkisizleştirmez. Ancak kusma veya ağır ishal doğum kontrol hapının emilimini azaltabilir; o hapın talimatını izleyip ek korunmayı sorun. Bazı ürünler belirli laboratuvar yöntemlerini etkilediğinden kan veya idrar tahlili öncesi antibiyotiği bildirin. Baş dönmesi, kafa karışıklığı veya başka bir beceri bozukluğunda araç kullanmayın."
+            ]
+          },
+          {
+            "heading": "Reçeteyi izlemek ve ilerlemeyi değerlendirmek",
+            "paragraphs": [
+              "Doğru ürünle reçeteli doz, aralık ve süreye, yemek ve saklama talimatlarına uyun. Antibiyotik ödünç almayın, paylaşmayın veya gelecekteki hastalığa saklamayın. Unutulan dozda kullanma talimatını veya eczacı önerisini izleyin; telafi için çift doz almayın. Kültür sonucu veya tekrar değerlendirme hekimin tedaviyi kısaltmasına, durdurmasına veya değiştirmesine yol açabilir.",
+              "Sırf iyi hissettiğiniz için bırakmayın; ciddi tepkiye rağmen kürü bitirmek amacıyla kullanmaya devam etmeyin. Yeni döküntüde başka dozdan önce hızla danışın; kabarcık, deri soyulması veya ağız/göz yaraları hemen acil değerlendirme gerektirir. Kötüleşen enfeksiyon veya beklenen iyileşmenin olmaması, kutunun bitmesini beklemek yerine hastalığa özgü zamanda değerlendirilmelidir."
+            ]
+          },
+          {
+            "heading": "Ne zaman acil yardım gerekir?",
+            "paragraphs": [
+              "Dudak, dil veya boğaz şişmesi, nefes güçlüğü, bayılma veya bilinç kaybı ya da hızla kötüleşen alerji belirtilerinde şüpheli ilacı bırakıp hemen acil yardım çağırın. Deride kabarcık veya soyulma, ağız/göz yaraları, nöbet, yeni ağır kafa karışıklığı veya uyandırılamama da hemen acil yardım gerektirir. Kendiniz araç kullanmayın. Alınan ilacı acil ekibine söyleyin.",
+              "Ağır ishal, dışkıda kan veya mukus, karın ağrısıyla ateş, vücudun susuz kalması, sarılık, açıklanamayan morarma veya kötüleşen enfeksiyon için aynı gün gecikmeden danışın. Şiddetli karın ağrısıyla belirgin hastalık, bayılacak gibi olma, kafa karışıklığı veya çok az idrar acil servis değerlendirmesi gerektirir. Yeni döküntü bir sonraki dozdan önce değerlendirilmeli; sıradan yan etki diye geçiştirmeyin ve birden fazla uyarının birlikte olmasını beklemeyin. Aniden başlayan ve şiddetli olan karın ağrısı da tek başına hemen acil yardım gerektirir; başka bir uyarı belirtisini beklemeyin."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Sefalosporinler belirli bakteriyel enfeksiyonları tedavi eder, virüsleri değil; ilaç ve yol enfeksiyona ve duyarlılığa bağlıdır.",
+          "Kuşak numaraları genel farkları anlatır; güç sıralaması veya birbirinin yerine geçen reçeteler değildir.",
+          "Penisilin alerjisi tepki geçmişi ve yan zincir değerlendirmesi gerektirir; alternatifi kendiniz denemeyin.",
+          "Gebelik ve emzirme kararı ilaca özeldir. Herkese emzirme yasağı doğru değildir.",
+          "Güncel planı izleyin, ancak ağır alerji, deri, sinir sistemi veya ishal uyarılarında hemen harekete geçin."
+        ],
+        "faq": [
+          {
+            "q": "Birinci ve ikinci kuşak farkı nedir?",
+            "a": "Birinci kuşak çoğunlukla duyarlı streptokok ve metisiline duyarlı stafilokokları kapsar. Bazı ikinci kuşak ilaçlar belirli Gram-negatif kapsamını genişletir. Her ilacın spektrumu ve onaylı kullanımı farklıdır; yeni otomatik olarak iyi demek değildir."
+          },
+          {
+            "q": "Penisilin alerjisiyle sefalosporin alabilir miyim?",
+            "a": "Bazen, hekim tam tepkiyi, yan zincir ilişkisini ve ürün bilgisini değerlendirdikten sonra. Anafilaksi veya ağır gecikmiş deri/organ tepkisi özel dikkat ister. Deneme dozu almayın veya alternatifi kendiniz seçmeyin."
+          },
+          {
+            "q": "Hangi yan etkiler olabilir?",
+            "a": "Sindirim rahatsızlığı, ishal, pamukçuk veya baş dönmesi olabilir. Yeni döküntüde başka dozdan önce danışılmalıdır. Nefes güçlüğü, şişme, bayılma, deride kabarcık, ağız/göz yaraları, nöbet veya ağır kafa karışıklığı acil yardım gerektirir."
+          },
+          {
+            "q": "Hepsi gebelik ve emzirmede güvenli midir?",
+            "a": "Evrensel sıfır risk kuralı yoktur. Yaygın seçeneklerin gebelik verileri güven vericidir ve sefaleksin genellikle emzirmeyle uyumludur. Tam ilaç ve bebeğin sağlığı önemlidir; prematüre veya hasta bebekler bireysel öneri gerektirir."
+          },
+          {
+            "q": "Yüksek kuşak her dirençli enfeksiyonu tedavi eder mi?",
+            "a": "Hayır. Seftazidimin belirli Pseudomonas etkisi, yeni MRSA ilaçlarının özel endikasyonları vardır. Hiçbir kuşak bütün bakterileri tedavi etmez; direnç, enfeksiyon yeri ve yerel rehber seçimi belirler."
+          },
+          {
+            "q": "Antibiyotik ishali için probiyotik almalı mıyım?",
+            "a": "Korunma veya tedaviyi garanti etmez ve değerlendirmeyi geciktirmemelidir. Hastalık veya zayıf bağışıklık varsa önce danışın. Ağır veya kalıcı ishal, ateş, ağrı, kan veya vücudun susuz kalması hızlı tıbbi öneri gerektirir."
+          },
+          {
+            "q": "Tepki gelişirse de kürü bitirmeli miyim?",
+            "a": "Güncel reçeteyi izleyin ve sırf iyi hissettiğiniz için kesmeyin. Ancak ciddi tepkide dozlara devam etmek yerine hemen harekete geçilmelidir. Yeni döküntüde sonraki dozdan önce danışın; hekim uygun biçimde tedaviyi değiştirebilir veya durdurabilir."
+          },
+          {
+            "q": "Ne zaman hemen acil servis gerekir?",
+            "a": "Nefes güçlüğü, dudak/dil/boğaz şişmesi, bayılma veya bilinç kaybı, deri kabarcığı veya soyulması, ağız/göz yaraları, nöbet, ağır kafa karışıklığı ya da uyandırılamama için acil yardım çağırın. Ağır karın hastalığı veya sıvı kaybıyla bayılacak gibi olma, kafa karışıklığı ya da çok az idrar da acil değerlendirme gerektirir. Aniden başlayan ve şiddetli olan karın ağrısı da tek başına hemen acil yardım gerektirir; başka bir uyarı belirtisini beklemeyin."
+          }
+        ],
+        "evidence": {
+          "updated": "12 Ekim 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-10-12",
+          "guidance": [
+            "Ürün bilgileri ve enfeksiyona özgü rehberler spektrum, yol, endikasyon, böbrek ayarı ve etkileşimleri ayırır. FDA seftobiprolü Nisan 2024’te tanımlı enfeksiyon durumlarında onayladı; onun ve seftarolinin özel kullanımları vardır, bulunabilirlik ülkeye göre değişir.",
+            "AAAAI/ACAAI alerji parametresi tepkinin ağırlığı ve yan zincir ilişkilerini kullanır. Ürüne özel kontrendikasyonlar ve ağır gecikmiş tepkiler yine klinik değerlendirme gerektirir; bu evde ilaç denemesi izni değildir.",
+            "Gebelik ve emzirme kaynakları bireysel reçetelemeyi destekler, otomatik emzirme yasağını reddeder. CDC antibiyotik sırasında veya sonrasında ishalin değerlendirilmesini vurgular; probiyotik ürünler ve kanıtlar farklıdır."
+          ],
+          "bemama": "BeMama ilaç adlarını, doz saatlerini, önceki tepkileri ve hekime soruları kaydetmeye yardım eder. Bakteriyel enfeksiyon tanısı koymaz, antibiyotik seçmez, alerji güvenliğini değerlendirmez ve acil bakımın yerine geçmez. Eczane görseli belirli ilaç veya doz göstermez.",
+          "safety": "Nefes güçlüğü, dudak/dil/boğaz şişmesi, bayılma veya bilinç kaybı, deride kabarcık veya soyulma, ağız/göz yaraları, nöbet, ağır kafa karışıklığı veya uyandırılamama hemen acil yardım gerektirir. Ciddi alerjik tepkide şüpheli ilacı bırakın. Yeni döküntüde başka dozdan önce danışın. Ağır veya kalıcı ishal, kan veya mukus, ateş, karın ağrısı ya da vücudun susuz kalması tedavi sırasında veya sonrasında gecikmeden değerlendirilmelidir; ağır hastalıkla bayılacak gibi olma, kafa karışıklığı veya çok az idrar acil servis gerektirir. Antibiyotiği kendiniz seçmeyin, denemeyin, paylaşmayın veya değiştirmeyin. Aniden başlayan ve şiddetli olan karın ağrısı da tek başına hemen acil yardım gerektirir; başka bir uyarı belirtisini beklemeyin.",
+          "sources": [
+            {
+              "organization": "Birleşik Krallık Ulusal Sağlık Hizmeti (NHS)",
+              "title": "Antibiyotikler: uygun kullanım ve reçeteye uyma",
+              "url": "https://www.nhs.uk/medicines/antibiotics/"
+            },
+            {
+              "organization": "Sandoz, ilaç bilgi derlemi emc",
+              "title": "Sefuroksim tablet: endikasyon, etkileşim ve önlemler, Ekim 2025",
+              "url": "https://www.medicines.org.uk/emc/product/426/smpc"
+            },
+            {
+              "organization": "Hameln Pharma, emc",
+              "title": "Seftazidim: üçüncü kuşak spektrum ve klinik kullanım, Mart 2026",
+              "url": "https://www.medicines.org.uk/emc/product/101952/smpc"
+            },
+            {
+              "organization": "Renascience Pharma, emc",
+              "title": "Renapime (sefepim): reçeteleme bilgileri, Eylül 2025",
+              "url": "https://www.medicines.org.uk/emc/product/9672/smpc"
+            },
+            {
+              "organization": "Avrupa İlaç Ajansı (EMA)",
+              "title": "Zinforo (seftarolin): onaylı kullanım ve kısıtlamalar",
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zinforo"
+            },
+            {
+              "organization": "ABD Gıda ve İlaç Dairesi (FDA)",
+              "title": "Seftobiprolün üç enfeksiyon alanında onayı, Nisan 2024",
+              "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-new-antibiotic-three-different-uses"
+            },
+            {
+              "organization": "Amerikan Alerji, Astım ve İmmünoloji Akademisi/Koleji (AAAAI/ACAAI)",
+              "title": "İlaç alerjisi parametresi: tepki geçmişi ve yan zincir değerlendirmesi, 2022",
+              "url": "https://www.aaaai.org/Aaaai/media/Media-Library-PDFs/Allergist%20Resources/Statements%20and%20Practice%20Parameters/Drug-Allergy-2022.pdf"
+            },
+            {
+              "organization": "ABD Hastalık Kontrol ve Önleme Merkezleri (CDC)",
+              "title": "Gonokok enfeksiyonları: özel antibiyotik rejimleri",
+              "url": "https://www.cdc.gov/std/treatment-guidelines/gonorrhea-adults.htm"
+            },
+            {
+              "organization": "CDC",
+              "title": "C. difficile: antibiyotik ishali ve değerlendirme, Mayıs 2026",
+              "url": "https://www.cdc.gov/c-diff/about/"
+            },
+            {
+              "organization": "Birleşik Krallık Teratoloji Bilgi Servisi, BUMPS",
+              "title": "Gebelikte sefalosporinler, Ağustos 2022",
+              "url": "https://www.medicinesinpregnancy.org/leaflets-a-z/cephalosporins/"
+            },
+            {
+              "organization": "NHS",
+              "title": "Gebelik ve emzirmede sefaleksin, Nisan 2023",
+              "url": "https://www.nhs.uk/medicines/cefalexin/pregnancy-breastfeeding-and-fertility-while-taking-cefalexin/"
+            },
+            {
+              "organization": "LactMed, ABD Ulusal Tıp Kütüphanesi",
+              "title": "Sefaleksin: süt düzeyleri ve emzirme, Kasım 2024",
+              "url": "https://www.ncbi.nlm.nih.gov/books/NBK501487/"
+            },
+            {
+              "organization": "NHS",
+              "title": "Sefaleksin: yan etkiler ve ciddi tepkiler, Nisan 2023",
+              "url": "https://www.nhs.uk/medicines/cefalexin/side-effects-of-cefalexin/"
+            },
+            {
+              "organization": "NHS",
+              "title": "Probiyotikler: değişken kanıt ve bağışıklık önlemleri, Kasım 2022",
+              "url": "https://www.nhs.uk/tests-and-treatments/probiotics/"
+            },
+            {
+              "organization": "CDC Sarı Kitap",
+              "title": "Seyahat sonrası deri hastalıkları: sıcak havuz foliküliti",
+              "url": "https://www.cdc.gov/yellow-book/hcp/post-travel-evaluation/post-travel-dermatologic-conditions.html"
+            },
+            {
+              "organization": "Hikma, DailyMed/ABD Ulusal Tıp Kütüphanesi",
+              "title": "Sefazolin: bakteriyel enfeksiyon ve cerrahi korunma, Aralık 2024",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6c7761d3-c154-4802-9876-627cd42913f0"
+            },
+            {
+              "organization": "ABD Ulusal Kanser Enstitüsü (NCI)",
+              "title": "Seftarolin fosamil: beşinci kuşak terimi ve hücre duvarı etkisi",
+              "url": "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ceftaroline-fosamil"
+            },
+            {
+              "organization": "NHS",
+              "title": "Sefaleksin: korunma ve tedavi soruları, Nisan 2023",
+              "url": "https://www.nhs.uk/medicines/cefalexin/common-questions-about-cefalexin/"
+            },
+            {
+              "organization": "NHS",
+              "title": "Karın ağrısı: ani şiddetli ağrı ve acil değerlendirme, Ekim 2026",
+              "url": "https://www.nhs.uk/symptoms/stomach-ache/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Antibióticos cefalosporínicos: usos, generaciones y tratamiento seguro",
+        "description": "Conoce las diferencias entre cefalosporinas, sus usos bacterianos, la evaluación de alergias, los efectos adversos y las decisiones en embarazo y lactancia.",
+        "intro": "Las cefalosporinas son antibióticos con receta de la familia de los betalactámicos. Tratan determinadas infecciones bacterianas, pero la elección depende de la infección, la sensibilidad bacteriana y la persona. Una generación posterior no es automáticamente mejor, y la alergia a penicilina o la lactancia no imponen la misma regla a todas las cefalosporinas.",
+        "sections": [
+          {
+            "heading": "Qué tratan y cómo actúan",
+            "paragraphs": [
+              "Estos medicamentos interfieren en la construcción de la pared celular bacteriana. Las bacterias grampositivas tienen una pared de peptidoglucano más gruesa; las gramnegativas, una capa más fina y una membrana externa adicional. Las diferencias explican parte del espectro antibiótico, pero importan las pruebas de sensibilidad y la resistencia local. Las cefalosporinas no tratan virus, incluidos los del resfriado y la gripe; muchas toses, dolores de garganta y otitis no necesitan antibiótico.",
+              "Según el fármaco, se usan para infecciones de piel y tejidos blandos, urinarias, ciertas infecciones bacterianas de garganta, oído, senos paranasales o pulmón, meningitis, infecciones sanguíneas, gonorrea o prevención alrededor de una operación. Algunas son orales; otras, intravenosas o intramusculares según la presentación. Una enfermedad grave puede requerir hospital, pero una inyección no es automáticamente mejor para cada infección."
+            ]
+          },
+          {
+            "heading": "Primera y segunda generaciones",
+            "paragraphs": [
+              "Ejemplos de primera generación son cefalexina, cefadroxilo, cefradina y cefazolina inyectable. Suelen cubrir estreptococos sensibles y estafilococos sensibles a meticilina, además de algunas bacterias gramnegativas. La cefazolina también previene infecciones en determinadas operaciones. Estos ejemplos no hacen que cada fármaco sirva para toda infección de piel, oído o vías urinarias.",
+              "La segunda generación incluye cefuroxima, cefaclor y cefprozil. Sus espectros difieren y a menudo amplían la cobertura de ciertos gramnegativos. El médico puede elegir cefuroxima para infecciones bacterianas respiratorias, urinarias o cutáneas concretas. La bronquitis viral habitual no justifica recetarla, y esta generación no es un tratamiento universal de gonorrea, meningitis o sepsis."
+            ]
+          },
+          {
+            "heading": "Tercera generación y excepciones importantes",
+            "paragraphs": [
+              "Incluye cefixima, cefpodoxima y ceftibuteno orales, y ceftriaxona, cefotaxima y ceftazidima inyectables. Algunos tratan infecciones graves, como determinadas meningitis, neumonías o infecciones sanguíneas. No son intercambiables: para gonorrea, CDC prefiere ceftriaxona; cefixima es una alternativa limitada cuando no está disponible, y no recomienda cefuroxima ni cefpodoxima orales.",
+              "La ceftazidima puede tratar Pseudomonas sensible, pero no toda cefalosporina de tercera generación tiene esa actividad. Cultivo, localización y resistencia local guían la selección. La foliculitis de jacuzzi es distinta: suele resolverse sin antibióticos, por lo que su relación con Pseudomonas no justifica ceftazidima sistemática."
+            ]
+          },
+          {
+            "heading": "Cuarta generación y opciones más nuevas contra SARM",
+            "paragraphs": [
+              "La cefepima, de cuarta generación, se usa en determinadas infecciones graves, como neumonía, infección urinaria complicada y sospecha de infección bacteriana con fiebre en personas con pocos neutrófilos. Pueden hacer falta otros antibióticos para microorganismos fuera de su espectro. La función renal afecta a la dosis; confusión, alucinaciones, sacudidas musculares o convulsiones durante el tratamiento necesitan valoración médica inmediata por posible neurotoxicidad, especialmente con deterioro renal.",
+              "La ceftarolina suele describirse como cefalosporina de quinta generación. Ceftarolina y ceftobiprol son cefalosporinas más nuevas activas frente a algunos estafilococos resistentes, incluido SARM/MRSA. La ceftarolina tiene indicaciones concretas en infecciones cutáneas y neumonía adquirida en la comunidad. FDA aprobó ceftobiprol en abril de 2024 para contextos definidos de infección sanguínea, cutánea y neumonía, con restricciones de edad e infección. Ninguno trata universalmente las bacterias resistentes; disponibilidad e indicaciones autorizadas varían según el país."
+            ]
+          },
+          {
+            "heading": "La alergia a penicilina exige evaluación individual",
+            "paragraphs": [
+              "Informa al prescriptor del fármaco exacto, síntomas, momento y tratamiento de cualquier reacción previa, incluida anafilaxia, erupción ampollosa o daño orgánico. Las reacciones cruzadas dependen mucho de las cadenas laterales químicas, no solo de compartir el nombre betalactámico. La etiqueta de alergia a penicilina no excluye automáticamente todas las cefalosporinas; por ejemplo, cefazolina tiene un patrón de cadena lateral distinto.",
+              "Esto no permite elegir ni probar un sustituto en casa. Las guías especializadas distinguen reacciones leves no confirmadas, anafilaxia y reacciones tardías graves. La ficha del producto puede imponer contraindicaciones más estrictas que el equipo debe considerar. Una reacción cutánea grave o daño orgánico previos requieren atención especializada; no te expongas de nuevo deliberadamente ni uses el antibiótico de otra persona."
+            ]
+          },
+          {
+            "heading": "Efectos digestivos y diarrea por C. difficile",
+            "paragraphs": [
+              "Según el fármaco pueden aparecer náuseas, vómitos, heces blandas, candidiasis y, a veces, mareo o molestia en la inyección. Consulta los efectos molestos. Comidas sencillas y líquidos pueden ayudar si se toleran, pero las instrucciones de alimentación dependen del producto; por ejemplo, los comprimidos de cefuroxima axetilo se toman después de comer. No supongas que todas las cefalosporinas se toman en ayunas.",
+              "Los antibióticos pueden alterar las bacterias intestinales y permitir infección por Clostridioides difficile durante o después del tratamiento, incluso sin un ciclo largo. Consulta una diarrea nueva; diarrea acuosa intensa o persistente, sangre o moco, fiebre, dolor abdominal o deshidratación necesitan valoración urgente. No te automediques una posible colitis asociada al antibiótico con fármacos que frenen el intestino. Los probióticos no garantizan prevención ni sustituyen la valoración; consulta antes de suplementos si tienes inmunidad debilitada."
+            ]
+          },
+          {
+            "heading": "Embarazo y lactancia",
+            "paragraphs": [
+              "Una infección bacteriana que necesita tratamiento en el embarazo debe tratarse. Los datos de las cefalosporinas habituales son generalmente tranquilizadores, pero el fármaco, la infección y la evidencia disponible determinan el balance beneficio-riesgo; no es una garantía de riesgo cero para toda la clase. BUMPS no recomienda vigilancia adicional de malformaciones solo por exposición a cefalosporinas. Puede haber menos información de embarazo para agentes nuevos.",
+              "La lactancia no está prohibida automáticamente. La cefalexina suele ser compatible, con niveles bajos en leche; otros fármacos requieren su propia evaluación. Vigila mala alimentación, diarrea, candidiasis o erupción en el bebé y consulta si aparecen. Los bebés prematuros, enfermos o especialmente vulnerables necesitan orientación profesional individual. No suspendas automáticamente la lactancia ni un antibiótico esencial sin comentar el plan."
+            ]
+          },
+          {
+            "heading": "Riñones, otros medicamentos y anticoncepción",
+            "paragraphs": [
+              "Informa de enfermedad renal, C. difficile previo, embarazo o lactancia y de todos los medicamentos con o sin receta, hierbas y vitaminas. Algunas cefalosporinas requieren ajustar la dosis renal. Warfarina o anticoagulantes similares pueden precisar seguimiento; probenecid, medicamentos nefrotóxicos o reductores de acidez pueden interactuar con productos concretos. El farmacéutico debe revisar la combinación exacta, no aplicar una regla a toda la clase.",
+              "Las cefalosporinas no anulan automáticamente la anticoncepción hormonal. Sin embargo, vómitos o diarrea intensa pueden reducir la absorción de una píldora anticonceptiva; sigue sus instrucciones y pregunta por protección adicional. Menciona el antibiótico antes de análisis de sangre u orina porque algunos productos interfieren con métodos concretos. Evita conducir si tienes mareo, confusión u otra alteración de la capacidad."
+            ]
+          },
+          {
+            "heading": "Seguir la receta y revisar la evolución",
+            "paragraphs": [
+              "Respeta dosis, intervalos y duración recetados, con la presentación correcta y las instrucciones de comida y conservación. No pidas prestados, compartas ni guardes antibióticos para otra enfermedad. Tras olvidar una dosis, sigue el prospecto o al farmacéutico; no dupliques para compensar. Un cultivo o una nueva valoración pueden llevar al médico a acortar, suspender o cambiar el tratamiento.",
+              "No suspendas solo porque te encuentres mejor, ni sigas tomando un medicamento pese a una reacción grave para terminar el ciclo. Una erupción nueva necesita consejo rápido antes de más dosis; ampollas, descamación o llagas en boca u ojos requieren emergencia inmediata. El empeoramiento o la falta de mejoría esperada necesitan revisión según el plazo de esa infección, sin esperar a que se acabe la caja."
+            ]
+          },
+          {
+            "heading": "Cuándo pedir atención urgente o de emergencia",
+            "paragraphs": [
+              "Suspende el medicamento sospechoso y llama inmediatamente a emergencias ante hinchazón de labios, lengua o garganta, dificultad respiratoria, desmayo o pérdida de conocimiento, o síntomas alérgicos que empeoran rápido. Ampollas o descamación, llagas en boca u ojos, convulsión, confusión nueva intensa o imposibilidad de despertar también requieren emergencia inmediata. No conduzcas tú e informa del fármaco tomado.",
+              "Busca consejo urgente el mismo día por diarrea intensa, sangre o moco en heces, fiebre con dolor abdominal, deshidratación, ictericia, hematomas inexplicados o infección que empeora. Dolor abdominal intenso con gran malestar, sensación de desmayo, confusión o muy poca orina requiere valoración de emergencia. Una erupción nueva debe valorarse antes de otra dosis; no la consideres un efecto habitual ni esperes varias señales juntas. El dolor abdominal que empieza de repente y es intenso también requiere atención de emergencia inmediata por sí solo; no esperes otra señal de alarma."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Las cefalosporinas tratan ciertas infecciones bacterianas, no virus; fármaco y vía dependen de la infección y la sensibilidad.",
+          "Las generaciones describen diferencias generales, no una clasificación de potencia ni recetas intercambiables.",
+          "La alergia a penicilina requiere historia de la reacción y cadenas laterales; no pruebes alternativas por tu cuenta.",
+          "Las decisiones en embarazo y lactancia dependen del fármaco. Una prohibición general de lactancia es incorrecta.",
+          "Sigue el plan actual, pero actúa inmediatamente ante alertas graves alérgicas, cutáneas, neurológicas o de diarrea."
+        ],
+        "faq": [
+          {
+            "q": "¿Qué diferencia hay entre primera y segunda generaciones?",
+            "a": "La primera suele cubrir estreptococos sensibles y estafilococos sensibles a meticilina. Algunos fármacos de la segunda amplían cobertura de ciertos gramnegativos. Espectros e indicaciones difieren; más nuevo no significa automáticamente mejor."
+          },
+          {
+            "q": "¿Puedo tomarlas con alergia a penicilina?",
+            "a": "A veces, tras revisar un médico la reacción exacta, las cadenas laterales y la ficha del producto. Anafilaxia o reacción tardía grave cutánea u orgánica exigen especial atención. No tomes una dosis de prueba ni elijas un sustituto por tu cuenta."
+          },
+          {
+            "q": "¿Qué efectos adversos pueden aparecer?",
+            "a": "Malestar digestivo, diarrea, candidiasis o mareo. Una erupción nueva necesita consejo antes de más dosis. Dificultad respiratoria, hinchazón, desmayo, ampollas, llagas en boca u ojos, convulsiones o confusión intensa requieren emergencias."
+          },
+          {
+            "q": "¿Todas son seguras en embarazo y lactancia?",
+            "a": "No existe una regla universal de riesgo cero. Las opciones habituales tienen datos tranquilizadores de embarazo y cefalexina suele ser compatible con lactancia. Importan el fármaco y la salud del bebé; prematuros o enfermos necesitan consejo individual."
+          },
+          {
+            "q": "¿Una generación superior trata cualquier infección resistente?",
+            "a": "No. Ceftazidima tiene actividad frente a ciertos Pseudomonas, y los agentes nuevos contra SARM tienen indicaciones concretas. Ninguna generación trata todas las bacterias; resistencia, localización y guías locales determinan la elección."
+          },
+          {
+            "q": "¿Debo tomar probióticos para la diarrea del antibiótico?",
+            "a": "No garantizan prevención ni tratamiento y no deben retrasar la valoración. Consulta antes si tienes enfermedad previa o inmunidad debilitada. Diarrea intensa o persistente, fiebre, dolor, sangre o deshidratación necesitan consejo médico rápido."
+          },
+          {
+            "q": "¿Debo acabar el ciclo si tengo una reacción?",
+            "a": "Sigue la receta actual y no suspendas solo por encontrarte mejor. Pero las reacciones graves requieren actuar inmediatamente, no continuar las dosis. Consulta antes de otra dosis si aparece erupción; el médico puede cambiar o suspender apropiadamente el tratamiento."
+          },
+          {
+            "q": "¿Cuándo se necesita emergencia inmediata?",
+            "a": "Llama por dificultad respiratoria, hinchazón de labios, lengua o garganta, desmayo o pérdida de conocimiento, ampollas o descamación, llagas en boca u ojos, convulsiones, confusión intensa o imposibilidad de despertar. Enfermedad abdominal grave o deshidratación con sensación de desmayo, confusión o muy poca orina también requiere emergencia. El dolor abdominal que empieza de repente y es intenso también requiere atención de emergencia inmediata por sí solo; no esperes otra señal de alarma."
+          }
+        ],
+        "evidence": {
+          "updated": "Revisado el 12 de octubre de 2026",
+          "updatedIso": "2026-10-12",
+          "guidance": [
+            "Las fichas de producto y guías de cada infección distinguen espectros, vías, indicaciones, ajustes renales e interacciones. FDA aprobó ceftobiprol en abril de 2024 para contextos de infección definidos; este y ceftarolina tienen usos específicos, y la disponibilidad varía según el país.",
+            "El parámetro AAAAI/ACAAI usa gravedad de la reacción y relaciones de cadenas laterales. Las contraindicaciones específicas de la ficha y las reacciones tardías graves siguen requiriendo consideración clínica; no autoriza una prueba en casa.",
+            "Los recursos de embarazo y lactancia respaldan prescripción individual y rechazan una prohibición automática de amamantar. CDC destaca evaluar diarrea durante o después de antibióticos, mientras productos y evidencia de probióticos varían."
+          ],
+          "bemama": "BeMama ayuda a registrar nombres, horarios, reacciones previas y preguntas al prescriptor. No diagnostica una infección bacteriana, no elige un antibiótico, no evalúa seguridad alérgica ni sustituye atención urgente. La imagen de farmacia no identifica un medicamento o dosis concretos.",
+          "safety": "Dificultad respiratoria, hinchazón de labios, lengua o garganta, desmayo o pérdida de conocimiento, ampollas o descamación, llagas en boca u ojos, convulsiones, confusión intensa o imposibilidad de despertar requieren emergencia inmediata. Suspende el medicamento sospechoso ante reacción alérgica grave. Una erupción nueva necesita consejo antes de más dosis. Diarrea intensa o persistente, sangre o moco, fiebre, dolor abdominal o deshidratación necesitan valoración urgente durante o después del tratamiento; enfermedad grave con sensación de desmayo, confusión o muy poca orina requiere emergencia. No elijas, pruebes, compartas ni cambies antibióticos por tu cuenta. El dolor abdominal que empieza de repente y es intenso también requiere atención de emergencia inmediata por sí solo; no esperes otra señal de alarma.",
+          "sources": [
+            {
+              "organization": "Servicio Nacional de Salud británico (NHS)",
+              "title": "Antibióticos: uso apropiado y seguimiento de la receta",
+              "url": "https://www.nhs.uk/medicines/antibiotics/"
+            },
+            {
+              "organization": "Sandoz, compendio de medicamentos emc",
+              "title": "Comprimidos de cefuroxima: indicaciones, interacciones y precauciones, octubre de 2025",
+              "url": "https://www.medicines.org.uk/emc/product/426/smpc"
+            },
+            {
+              "organization": "Hameln Pharma, emc",
+              "title": "Ceftazidima: espectro de tercera generación e indicaciones, marzo de 2026",
+              "url": "https://www.medicines.org.uk/emc/product/101952/smpc"
+            },
+            {
+              "organization": "Renascience Pharma, emc",
+              "title": "Renapime (cefepima): información de prescripción, septiembre de 2025",
+              "url": "https://www.medicines.org.uk/emc/product/9672/smpc"
+            },
+            {
+              "organization": "Agencia Europea de Medicamentos (EMA)",
+              "title": "Zinforo (ceftarolina): usos autorizados y restricciones",
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zinforo"
+            },
+            {
+              "organization": "Administración de Alimentos y Medicamentos de Estados Unidos (FDA)",
+              "title": "Aprobación de ceftobiprol para tres contextos de infección, abril de 2024",
+              "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-new-antibiotic-three-different-uses"
+            },
+            {
+              "organization": "Academia/Colegio estadounidenses de Alergia, Asma e Inmunología (AAAAI/ACAAI)",
+              "title": "Parámetro de alergia a medicamentos: historia y cadenas laterales, 2022",
+              "url": "https://www.aaaai.org/Aaaai/media/Media-Library-PDFs/Allergist%20Resources/Statements%20and%20Practice%20Parameters/Drug-Allergy-2022.pdf"
+            },
+            {
+              "organization": "Centros estadounidenses para el Control y la Prevención de Enfermedades (CDC)",
+              "title": "Infecciones gonocócicas: regímenes antibióticos específicos",
+              "url": "https://www.cdc.gov/std/treatment-guidelines/gonorrhea-adults.htm"
+            },
+            {
+              "organization": "CDC",
+              "title": "C. difficile: diarrea asociada a antibióticos y evaluación, mayo de 2026",
+              "url": "https://www.cdc.gov/c-diff/about/"
+            },
+            {
+              "organization": "Servicio de Información Teratológica del Reino Unido, BUMPS",
+              "title": "Cefalosporinas en el embarazo, agosto de 2022",
+              "url": "https://www.medicinesinpregnancy.org/leaflets-a-z/cephalosporins/"
+            },
+            {
+              "organization": "NHS",
+              "title": "Cefalexina en embarazo y lactancia, abril de 2023",
+              "url": "https://www.nhs.uk/medicines/cefalexin/pregnancy-breastfeeding-and-fertility-while-taking-cefalexin/"
+            },
+            {
+              "organization": "LactMed, Biblioteca Nacional de Medicina de Estados Unidos",
+              "title": "Cefalexina: niveles en leche y lactancia, noviembre de 2024",
+              "url": "https://www.ncbi.nlm.nih.gov/books/NBK501487/"
+            },
+            {
+              "organization": "NHS",
+              "title": "Cefalexina: efectos adversos y reacciones graves, abril de 2023",
+              "url": "https://www.nhs.uk/medicines/cefalexin/side-effects-of-cefalexin/"
+            },
+            {
+              "organization": "NHS",
+              "title": "Probióticos: evidencia variable y precauciones inmunitarias, noviembre de 2022",
+              "url": "https://www.nhs.uk/tests-and-treatments/probiotics/"
+            },
+            {
+              "organization": "Libro Amarillo de CDC",
+              "title": "Afecciones cutáneas tras viajar: foliculitis de jacuzzi",
+              "url": "https://www.cdc.gov/yellow-book/hcp/post-travel-evaluation/post-travel-dermatologic-conditions.html"
+            },
+            {
+              "organization": "Hikma, DailyMed/Biblioteca Nacional de Medicina de Estados Unidos",
+              "title": "Cefazolina: infecciones bacterianas y prevención quirúrgica, diciembre de 2024",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6c7761d3-c154-4802-9876-627cd42913f0"
+            },
+            {
+              "organization": "Instituto Nacional del Cáncer de Estados Unidos (NCI)",
+              "title": "Ceftarolina fosamilo: término de quinta generación y acción en la pared",
+              "url": "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ceftaroline-fosamil"
+            },
+            {
+              "organization": "NHS",
+              "title": "Cefalexina: anticoncepción y preguntas de tratamiento, abril de 2023",
+              "url": "https://www.nhs.uk/medicines/cefalexin/common-questions-about-cefalexin/"
+            },
+            {
+              "organization": "NHS",
+              "title": "Dolor abdominal: dolor repentino intenso y valoración de emergencia, octubre de 2026",
+              "url": "https://www.nhs.uk/symptoms/stomach-ache/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Antibióticos cefalosporínicos: usos, gerações e tratamento seguro",
+        "description": "Compreenda as diferenças entre cefalosporinas, os usos bacterianos, a avaliação de alergias, os efeitos adversos e as decisões na gravidez e amamentação.",
+        "intro": "As cefalosporinas são antibióticos de prescrição da família dos beta-lactâmicos. Tratam determinadas infeções bacterianas, mas a escolha depende da infeção, da sensibilidade bacteriana e da pessoa. Uma geração posterior não é automaticamente melhor, e alergia à penicilina ou amamentação não impõem a mesma regra a todas as cefalosporinas.",
+        "sections": [
+          {
+            "heading": "O que tratam e como atuam",
+            "paragraphs": [
+              "Estes medicamentos interferem na construção da parede celular bacteriana. As bactérias Gram-positivas têm uma parede de peptidoglicano mais espessa; as Gram-negativas têm uma camada mais fina e uma membrana externa adicional. Estas diferenças explicam parte do espetro, mas os testes de sensibilidade e a resistência local continuam importantes. As cefalosporinas não tratam vírus, incluindo constipação e gripe; muitas tosses, dores de garganta e otites não precisam de antibiótico.",
+              "Consoante o fármaco, os usos incluem infeções da pele e tecidos moles, urinárias, certas infeções bacterianas da garganta, ouvido, seios perinasais ou pulmão, meningite, infeções sanguíneas, gonorreia ou prevenção em torno de cirurgia. Algumas são orais; outras intravenosas ou intramusculares conforme a apresentação. Doença grave pode precisar de hospital, mas uma injeção não é automaticamente melhor para cada infeção."
+            ]
+          },
+          {
+            "heading": "Primeira e segunda gerações",
+            "paragraphs": [
+              "Exemplos da primeira geração incluem cefalexina, cefadroxilo, cefradina e cefazolina injetável. Costumam cobrir estreptococos sensíveis e estafilococos sensíveis à meticilina, além de algumas bactérias Gram-negativas. A cefazolina também previne infeções em determinadas cirurgias. Estes exemplos não tornam cada fármaco adequado para toda infeção cutânea, do ouvido ou urinária.",
+              "A segunda geração inclui cefuroxima, cefaclor e cefprozil. Os espetros diferem, alargando frequentemente a cobertura de alguns Gram-negativos. O médico pode escolher cefuroxima para infeções bacterianas respiratórias, urinárias ou cutâneas específicas. A bronquite viral habitual não justifica prescrevê-la, e esta geração não trata universalmente gonorreia, meningite ou sépsis."
+            ]
+          },
+          {
+            "heading": "Terceira geração e exceções importantes",
+            "paragraphs": [
+              "Inclui cefixima, cefpodoxima e ceftibuteno orais e ceftriaxona, cefotaxima e ceftazidima injetáveis. Alguns tratam infeções graves, incluindo certas meningites, pneumonias ou infeções sanguíneas. Não são intercambiáveis: para gonorreia, os CDC preferem ceftriaxona; cefixima é alternativa limitada quando aquela está indisponível, e cefuroxima e cefpodoxima orais não são recomendadas.",
+              "A ceftazidima pode tratar Pseudomonas sensível, mas nem toda cefalosporina da terceira geração tem essa atividade. Cultura, localização e resistência local orientam a escolha. A foliculite de jacuzzi é diferente: costuma resolver sem antibióticos, pelo que a relação com Pseudomonas não justifica ceftazidima de rotina."
+            ]
+          },
+          {
+            "heading": "Quarta geração e opções anti-MRSA mais recentes",
+            "paragraphs": [
+              "A cefepima, de quarta geração, é usada em infeções graves selecionadas, como pneumonia, infeção urinária complicada e suspeita de infeção bacteriana com febre em pessoas com poucos neutrófilos. Podem ser necessários outros antibióticos para organismos fora do seu espetro. A função renal afeta a dose; confusão, alucinações, abalos musculares ou convulsões durante o tratamento precisam de avaliação médica imediata por possível neurotoxicidade, especialmente com insuficiência renal.",
+              "A ceftarolina é frequentemente descrita como cefalosporina de quinta geração. Ceftarolina e ceftobiprol são cefalosporinas mais recentes ativas contra alguns estafilococos resistentes, incluindo MRSA. A ceftarolina tem indicações específicas em infeções cutâneas e pneumonia adquirida na comunidade. A FDA aprovou ceftobiprol em abril de 2024 para contextos definidos de infeção sanguínea, cutânea e pneumonia, com restrições de idade e infeção. Nenhum trata universalmente bactérias resistentes; disponibilidade e usos autorizados variam entre países."
+            ]
+          },
+          {
+            "heading": "A alergia à penicilina exige avaliação individual",
+            "paragraphs": [
+              "Informe o prescritor do fármaco exato, sintomas, momento e tratamento de qualquer reação anterior, incluindo anafilaxia, erupção com bolhas ou lesão de órgão. As reações cruzadas dependem bastante das cadeias laterais químicas, não só do nome beta-lactâmico. Um registo de alergia à penicilina não exclui automaticamente todas as cefalosporinas; por exemplo, a cefazolina tem um padrão de cadeia lateral distinto.",
+              "Isto não permite escolher ou testar um substituto em casa. As orientações especializadas distinguem reações ligeiras não confirmadas, anafilaxia e reações tardias graves. A informação do produto pode impor contraindicações mais estritas que a equipa deve considerar. Antecedentes de reação cutânea grave ou lesão de órgão exigem atenção especializada; não se reexponha deliberadamente nem use o antibiótico de outra pessoa."
+            ]
+          },
+          {
+            "heading": "Efeitos digestivos e diarreia por C. difficile",
+            "paragraphs": [
+              "Consoante o fármaco, podem ocorrer náuseas, vómitos, fezes moles, candidíase e, por vezes, tonturas ou desconforto na injeção. Consulte sobre efeitos incómodos. Refeições simples e líquidos podem ajudar se tolerados, mas as instruções de alimentação são específicas do produto; por exemplo, comprimidos de cefuroxima axetil tomam-se após comer. Não suponha que todas as cefalosporinas se tomam em jejum.",
+              "Os antibióticos podem alterar as bactérias intestinais e permitir infeção por Clostridioides difficile durante ou após o tratamento, mesmo sem um curso longo. Diarreia nova merece aconselhamento; diarreia aquosa intensa ou persistente, sangue ou muco, febre, dor abdominal ou desidratação precisam de avaliação urgente. Não trate uma possível colite associada ao antibiótico com medicamentos que abrandem o intestino por sua conta. Os probióticos não garantem prevenção nem substituem avaliação; consulte antes de suplementos se a imunidade estiver enfraquecida."
+            ]
+          },
+          {
+            "heading": "Gravidez e amamentação",
+            "paragraphs": [
+              "Uma infeção bacteriana que necessita de tratamento na gravidez deve ser tratada. Os dados das cefalosporinas habituais são geralmente tranquilizadores, mas o fármaco, a infeção e a evidência disponível determinam o balanço benefício-risco; não é uma garantia de risco zero para toda a classe. BUMPS não recomenda vigilância adicional de malformações apenas pela exposição à cefalosporina. Pode haver menos informação de gravidez para agentes recentes.",
+              "A amamentação não está automaticamente proibida. A cefalexina é geralmente compatível, com níveis baixos no leite; os outros fármacos precisam de avaliação própria. Vigie má alimentação, diarreia, candidíase ou erupção no bebé e consulte se ocorrerem. Bebés prematuros, doentes ou particularmente vulneráveis precisam de orientação profissional individual. Não suspenda automaticamente a amamentação nem um antibiótico essencial sem discutir o plano."
+            ]
+          },
+          {
+            "heading": "Rins, outros medicamentos e contraceção",
+            "paragraphs": [
+              "Informe sobre doença renal, C. difficile anterior, gravidez ou amamentação e todos os medicamentos com ou sem receita, ervas e vitaminas. Algumas cefalosporinas exigem ajuste renal. Varfarina ou anticoagulantes semelhantes podem precisar de monitorização; probenecida, medicamentos nefrotóxicos ou redutores da acidez podem interagir com produtos concretos. O farmacêutico deve verificar a combinação exata em vez de aplicar uma regra a toda a classe.",
+              "As cefalosporinas não tornam automaticamente a contraceção hormonal ineficaz. Contudo, vómitos ou diarreia intensa podem reduzir a absorção de uma pílula contracetiva; siga as suas instruções e pergunte sobre proteção adicional. Refira o antibiótico antes de análises sanguíneas ou urinárias, pois alguns produtos interferem com métodos específicos. Evite conduzir com tonturas, confusão ou capacidade alterada."
+            ]
+          },
+          {
+            "heading": "Seguir a receita e rever a evolução",
+            "paragraphs": [
+              "Respeite dose, intervalos e duração prescritos, com a apresentação correta e instruções de comida e conservação. Não peça emprestado, não partilhe nem guarde antibióticos para outra doença. Após esquecer uma dose, siga o folheto ou o farmacêutico; não duplique para compensar. Uma cultura ou reavaliação pode levar o médico a encurtar, suspender ou alterar o tratamento.",
+              "Não suspenda só porque se sente melhor, nem continue um medicamento apesar de reação grave para acabar o curso. Uma erupção nova precisa de aconselhamento rápido antes de mais doses; bolhas, descamação ou feridas na boca ou olhos exigem emergência imediata. Agravamento da infeção ou ausência da melhoria esperada precisam de revisão no prazo específico da doença, sem esperar pelo fim da embalagem."
+            ]
+          },
+          {
+            "heading": "Quando procurar ajuda urgente ou emergência",
+            "paragraphs": [
+              "Suspenda o medicamento suspeito e chame imediatamente a emergência para inchaço dos lábios, língua ou garganta, dificuldade respiratória, desmaio ou perda de consciência, ou sintomas alérgicos que pioram rapidamente. Bolhas ou descamação da pele, feridas na boca ou olhos, convulsão, confusão nova intensa ou impossibilidade de acordar também exigem emergência imediata. Não conduza e informe o medicamento tomado.",
+              "Procure aconselhamento urgente no próprio dia para diarreia intensa, sangue ou muco nas fezes, febre com dor abdominal, desidratação, icterícia, nódoas negras inexplicadas ou infeção que piora. Dor abdominal intensa com doença marcada, sensação de desmaio, confusão ou muito pouca urina exige avaliação de emergência. Uma erupção nova deve ser avaliada antes de outra dose; não a considere efeito habitual nem espere por vários sinais juntos. Dor abdominal que começa subitamente e é intensa também exige cuidados de emergência imediatos por si só; não espere por outro sinal de alarme."
+            ]
+          }
+        ],
+        "takeaways": [
+          "As cefalosporinas tratam certas infeções bacterianas, não vírus; fármaco e via dependem da infeção e sensibilidade.",
+          "As gerações descrevem diferenças gerais, não uma classificação de potência nem receitas intercambiáveis.",
+          "A alergia à penicilina exige história da reação e cadeias laterais; não teste uma alternativa sozinho.",
+          "As decisões na gravidez e amamentação são específicas do fármaco. Uma proibição geral de amamentar é incorreta.",
+          "Siga o plano atual, mas atue imediatamente perante alertas graves alérgicos, cutâneos, neurológicos ou de diarreia."
+        ],
+        "faq": [
+          {
+            "q": "Qual a diferença entre primeira e segunda gerações?",
+            "a": "A primeira costuma cobrir estreptococos sensíveis e estafilococos sensíveis à meticilina. Alguns fármacos da segunda alargam cobertura de determinados Gram-negativos. Espetros e usos autorizados diferem; mais novo não significa automaticamente melhor."
+          },
+          {
+            "q": "Posso tomá-las com alergia à penicilina?",
+            "a": "Por vezes, após o médico avaliar a reação exata, cadeias laterais e informação do produto. Anafilaxia ou reação tardia grave cutânea ou de órgão exigem atenção especial. Não tome uma dose de teste nem escolha um substituto por sua conta."
+          },
+          {
+            "q": "Que efeitos adversos podem ocorrer?",
+            "a": "Mal-estar digestivo, diarreia, candidíase ou tonturas. Uma erupção nova precisa de aconselhamento antes de mais doses. Dificuldade respiratória, inchaço, desmaio, bolhas, feridas na boca ou olhos, convulsões ou confusão intensa exigem emergência."
+          },
+          {
+            "q": "São todas seguras na gravidez e amamentação?",
+            "a": "Não existe regra universal de risco zero. As opções habituais têm dados de gravidez tranquilizadores e cefalexina é geralmente compatível com amamentação. Importam o fármaco e a saúde do bebé; prematuros ou doentes precisam de aconselhamento individual."
+          },
+          {
+            "q": "Uma geração superior trata qualquer infeção resistente?",
+            "a": "Não. A ceftazidima tem atividade contra certos Pseudomonas e os agentes recentes anti-MRSA têm indicações específicas. Nenhuma geração trata todas as bactérias; resistência, localização e orientações locais determinam a escolha."
+          },
+          {
+            "q": "Devo tomar probióticos para diarreia do antibiótico?",
+            "a": "Não garantem prevenção nem tratamento e não devem atrasar a avaliação. Consulte primeiro se tiver doença ou imunidade enfraquecida. Diarreia intensa ou persistente, febre, dor, sangue ou desidratação precisam de aconselhamento médico rápido."
+          },
+          {
+            "q": "Devo acabar o curso apesar de reação?",
+            "a": "Siga a receita atual e não suspenda apenas por se sentir melhor. Mas reações graves exigem ação imediata, não continuar doses. Consulte antes de outra dose se surgir erupção; o médico pode adequadamente alterar ou suspender o tratamento."
+          },
+          {
+            "q": "Quando é necessária emergência imediata?",
+            "a": "Chame para dificuldade respiratória, inchaço dos lábios, língua ou garganta, desmaio ou perda de consciência, bolhas ou descamação, feridas na boca ou olhos, convulsões, confusão intensa ou impossibilidade de acordar. Doença abdominal grave ou desidratação com sensação de desmaio, confusão ou muito pouca urina também exige emergência. Dor abdominal que começa subitamente e é intensa também exige cuidados de emergência imediatos por si só; não espere por outro sinal de alarme."
+          }
+        ],
+        "evidence": {
+          "updated": "Revisto em 12 de outubro de 2026",
+          "updatedIso": "2026-10-12",
+          "guidance": [
+            "As informações dos produtos e orientações por infeção distinguem espetros, vias, indicações, ajustes renais e interações. A FDA aprovou ceftobiprol em abril de 2024 para contextos de infeção definidos; este e ceftarolina têm usos específicos, e a disponibilidade varia entre países.",
+            "O parâmetro AAAAI/ACAAI usa gravidade da reação e relações de cadeias laterais. As contraindicações específicas do produto e reações tardias graves continuam a exigir consideração clínica; não autoriza um teste em casa.",
+            "Os recursos de gravidez e amamentação apoiam prescrição individual e rejeitam proibição automática de amamentar. Os CDC salientam avaliar diarreia durante ou após antibióticos; produtos e evidência de probióticos variam."
+          ],
+          "bemama": "BeMama ajuda a registar nomes, horários, reações anteriores e perguntas ao prescritor. Não diagnostica infeção bacteriana, não escolhe antibiótico, não avalia segurança alérgica nem substitui cuidados urgentes. A imagem de farmácia não identifica medicamento ou dose específicos.",
+          "safety": "Dificuldade respiratória, inchaço dos lábios, língua ou garganta, desmaio ou perda de consciência, bolhas ou descamação, feridas na boca ou olhos, convulsões, confusão intensa ou impossibilidade de acordar exigem emergência imediata. Suspenda o medicamento suspeito perante reação alérgica grave. Uma erupção nova precisa de aconselhamento antes de mais doses. Diarreia intensa ou persistente, sangue ou muco, febre, dor abdominal ou desidratação precisam de avaliação urgente durante ou após tratamento; doença grave com sensação de desmaio, confusão ou muito pouca urina exige emergência. Não escolha, não teste, não partilhe nem altere antibióticos por sua conta. Dor abdominal que começa subitamente e é intensa também exige cuidados de emergência imediatos por si só; não espere por outro sinal de alarme.",
+          "sources": [
+            {
+              "organization": "Serviço Nacional de Saúde britânico (NHS)",
+              "title": "Antibióticos: uso adequado e cumprimento da receita",
+              "url": "https://www.nhs.uk/medicines/antibiotics/"
+            },
+            {
+              "organization": "Sandoz, compêndio de medicamentos emc",
+              "title": "Comprimidos de cefuroxima: indicações, interações e precauções, outubro de 2025",
+              "url": "https://www.medicines.org.uk/emc/product/426/smpc"
+            },
+            {
+              "organization": "Hameln Pharma, emc",
+              "title": "Ceftazidima: espetro da terceira geração e indicações, março de 2026",
+              "url": "https://www.medicines.org.uk/emc/product/101952/smpc"
+            },
+            {
+              "organization": "Renascience Pharma, emc",
+              "title": "Renapime (cefepima): informação de prescrição, setembro de 2025",
+              "url": "https://www.medicines.org.uk/emc/product/9672/smpc"
+            },
+            {
+              "organization": "Agência Europeia de Medicamentos (EMA)",
+              "title": "Zinforo (ceftarolina): usos autorizados e restrições",
+              "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zinforo"
+            },
+            {
+              "organization": "Agência dos Alimentos e Medicamentos dos Estados Unidos (FDA)",
+              "title": "Aprovação de ceftobiprol para três contextos de infeção, abril de 2024",
+              "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-new-antibiotic-three-different-uses"
+            },
+            {
+              "organization": "Academia/Colégio americanos de Alergia, Asma e Imunologia (AAAAI/ACAAI)",
+              "title": "Parâmetro de alergia a medicamentos: história e cadeias laterais, 2022",
+              "url": "https://www.aaaai.org/Aaaai/media/Media-Library-PDFs/Allergist%20Resources/Statements%20and%20Practice%20Parameters/Drug-Allergy-2022.pdf"
+            },
+            {
+              "organization": "Centros americanos de Controlo e Prevenção de Doenças (CDC)",
+              "title": "Infeções gonocócicas: regimes antibióticos específicos",
+              "url": "https://www.cdc.gov/std/treatment-guidelines/gonorrhea-adults.htm"
+            },
+            {
+              "organization": "CDC",
+              "title": "C. difficile: diarreia associada a antibióticos e avaliação, maio de 2026",
+              "url": "https://www.cdc.gov/c-diff/about/"
+            },
+            {
+              "organization": "Serviço de Informação Teratológica do Reino Unido, BUMPS",
+              "title": "Cefalosporinas na gravidez, agosto de 2022",
+              "url": "https://www.medicinesinpregnancy.org/leaflets-a-z/cephalosporins/"
+            },
+            {
+              "organization": "NHS",
+              "title": "Cefalexina na gravidez e amamentação, abril de 2023",
+              "url": "https://www.nhs.uk/medicines/cefalexin/pregnancy-breastfeeding-and-fertility-while-taking-cefalexin/"
+            },
+            {
+              "organization": "LactMed, Biblioteca Nacional de Medicina dos Estados Unidos",
+              "title": "Cefalexina: níveis no leite e amamentação, novembro de 2024",
+              "url": "https://www.ncbi.nlm.nih.gov/books/NBK501487/"
+            },
+            {
+              "organization": "NHS",
+              "title": "Cefalexina: efeitos adversos e reações graves, abril de 2023",
+              "url": "https://www.nhs.uk/medicines/cefalexin/side-effects-of-cefalexin/"
+            },
+            {
+              "organization": "NHS",
+              "title": "Probióticos: evidência variável e precauções imunitárias, novembro de 2022",
+              "url": "https://www.nhs.uk/tests-and-treatments/probiotics/"
+            },
+            {
+              "organization": "Livro Amarelo dos CDC",
+              "title": "Problemas cutâneos após viagem: foliculite de jacuzzi",
+              "url": "https://www.cdc.gov/yellow-book/hcp/post-travel-evaluation/post-travel-dermatologic-conditions.html"
+            },
+            {
+              "organization": "Hikma, DailyMed/Biblioteca Nacional de Medicina dos Estados Unidos",
+              "title": "Cefazolina: infeções bacterianas e prevenção cirúrgica, dezembro de 2024",
+              "url": "https://dailymed.nlm.nih.gov/dailymed/lookup.cfm?setid=6c7761d3-c154-4802-9876-627cd42913f0"
+            },
+            {
+              "organization": "Instituto Nacional do Cancro dos Estados Unidos (NCI)",
+              "title": "Ceftarolina fosamilo: termo de quinta geração e ação na parede",
+              "url": "https://www.cancer.gov/publications/dictionaries/cancer-drug/def/ceftaroline-fosamil"
+            },
+            {
+              "organization": "NHS",
+              "title": "Cefalexina: contraceção e perguntas de tratamento, abril de 2023",
+              "url": "https://www.nhs.uk/medicines/cefalexin/common-questions-about-cefalexin/"
+            },
+            {
+              "organization": "NHS",
+              "title": "Dor abdominal: dor súbita intensa e avaliação de emergência, outubro de 2026",
+              "url": "https://www.nhs.uk/symptoms/stomach-ache/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-02/6868.webp",
+    "heroAlt": {
+      "en": "Packaged capsules and sealed medicine vials on a pharmacy tray.",
+      "fa": "کپسول‌های بسته‌بندی‌شده و ویال‌های دارویی دربسته روی سینی داروخانه.",
+      "ar": "كبسولات مغلفة وقوارير دواء مختومة على صينية صيدلية.",
+      "fr": "Capsules sous emballage et flacons de médicament scellés sur un plateau de pharmacie.",
+      "tr": "Eczane tepsisinde ambalajlı kapsüller ve kapalı ilaç flakonları.",
+      "es": "Cápsulas envasadas y viales de medicamento sellados sobre una bandeja de farmacia.",
+      "pt": "Cápsulas embaladas e frascos de medicamento selados num tabuleiro de farmácia."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "Cephalosporin antibiotics: uses and safety | BeMama",
+      "description": "Understand cephalosporin generations, bacterial uses, allergy assessment, side effects and individual pregnancy or breastfeeding decisions."
+    },
+    "fa": {
+      "title": "سفالوسپورین: کاربرد و ایمنی آنتی‌بیوتیک | BeMama",
+      "description": "نسل‌های سفالوسپورین، کاربرد باکتریایی، ارزیابی حساسیت، عوارض و تصمیم فردی در بارداری و شیردهی را بشناسید."
+    },
+    "ar": {
+      "title": "السيفالوسبورينات: الاستعمالات والأمان | BeMama",
+      "description": "افهم أجيال السيفالوسبورينات واستعمالاتها البكتيرية وتقييم الحساسية والآثار الجانبية وقرارات الحمل والرضاعة الفردية."
+    },
+    "fr": {
+      "title": "Céphalosporines : usages et sécurité | BeMama",
+      "description": "Comprendre générations, indications bactériennes, allergies, effets indésirables et décisions individuelles pendant la grossesse ou l’allaitement."
+    },
+    "tr": {
+      "title": "Sefalosporin antibiyotikler: kullanım ve güvenlik | BeMama",
+      "description": "Sefalosporin kuşakları, bakteriyel kullanım, alerji değerlendirmesi, yan etkiler ve kişisel gebelik-emzirme kararları hakkında bilgi edinin."
+    },
+    "es": {
+      "title": "Cefalosporinas: usos y seguridad | BeMama",
+      "description": "Conoce generaciones, usos bacterianos, evaluación de alergias, efectos adversos y decisiones individuales en embarazo y lactancia."
+    },
+    "pt": {
+      "title": "Cefalosporinas: usos e segurança | BeMama",
+      "description": "Compreenda gerações, usos bacterianos, avaliação de alergias, efeitos adversos e decisões individuais na gravidez e amamentação."
+    }
+  }
+}

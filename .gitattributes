@@ -2,3 +2,7 @@
 docs/tools-completion-2026-09-12/data/ssa-2020-2025.json text eol=lf
 # The completed article snapshot is checked against its original byte checksum.
 src/articles/part-01/articles.json text eol=lf
+
+# Part 2 release manifests bind the exact source JSON bytes across platforms.
+src/articles/part-02/*.json text eol=lf
+scripts/part2-membership-fixture.json text eol=lf

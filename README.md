@@ -170,3 +170,23 @@ checks every active public page. Both also verify the eight sitemap files. The c
 date/schema mismatches, missing email links, Cloudflare-injected utility links,
 stale asset references, bad status codes, metadata mismatches and noindex. It
 does not purge, submit URLs, call Search Console or prove Google indexing.
+
+## Part 2 first ready release
+
+This release adds 322 reviewed articles in all seven languages (2,254 localized
+article pages) and 1,610 responsive WebP assets. The original 853 articles,
+including all 663 Part 1 articles, remain intact.
+
+Each complete article has its own JSON snapshot in `src/articles/part-02/`.
+The release manifest records exact membership, source and review hashes, final
+localized search metadata, image checksums and the preservation baseline.
+Ordinary builds require no external preparation directory.
+
+This is a partial release of the original 697-ID assignment: 156 sources are
+excluded and 219 eligible sources remain outside this release. Excluded and
+incomplete drafts are not registered. The independent preparation records and
+masters remain in `C:/WorkSpace/Practice/PART2/` for continuation.
+
+Run `npm run build` and `npm run validate` before deployment. The Part 2 tests
+check exact payloads, all seven full rendered bodies, image bytes, dates, team
+bylines, search, RSS, sitemaps and preservation of the existing library.

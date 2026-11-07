@@ -1,10 +1,11 @@
 import assert from 'node:assert/strict';
 import { test } from 'node:test';
 import { submissionPayload, pageSignature, activePageUrls } from './indexnow.mjs';
+import part2Release from '../src/articles/part-02/manifest.json' with { type: 'json' };
 
 test('default IndexNow URL selection excludes explicitly retired noindex tools', () => {
   const urls=activePageUrls();
-  assert.equal(urls.length,6055); // Part1 adds663 articles and one category in all seven languages.
+  assert.equal(urls.length,6055 + part2Release.articleCount * part2Release.languages.length);
   assert.ok(urls.includes('https://bemamas.com/editorial/'));
   assert.ok(urls.includes('https://bemamas.com/ar/editorial/'));
   for(const id of ['milestone-tracker','solids-planner','toddler-activity-picker']) assert.ok(urls.every(url=>!url.includes(`/tools/${id}/`)));

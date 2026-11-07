@@ -1,0 +1,1542 @@
+{
+  "sourceId": "6295",
+  "article": {
+    "slug": "pregnancy/x-rays-pregnancy-dose-timing-decisions",
+    "category": "pregnancy",
+    "i18n": {
+      "en": {
+        "title": "X-rays during pregnancy: dose, timing and decisions",
+        "description": "Understand necessary or unexpected X-ray exposure in pregnancy, fetal dose, timing, CT and dental imaging, shielding, and when to request an individual assessment.",
+        "intro": "A needed X-ray can help diagnose an injury or illness during pregnancy. An examination performed before you knew you were pregnant does not automatically mean the baby has been harmed. The useful questions are what examination was done, which body area was exposed, the estimated dose reaching the pregnancy and its stage. Most diagnostic examinations use doses well below those associated with developmental harm, but a general reassurance cannot replace assessment of an unusual or substantial exposure.",
+        "sections": [
+          {
+            "heading": "Start with the reason for the examination",
+            "paragraphs": [
+              "A fracture, dental infection or serious illness may need imaging so that treatment is not delayed. The clinician weighs the consequences of missing the diagnosis against the exposure involved. Pregnancy is a reason to choose and optimize the examination carefully; it is not an automatic reason to refuse necessary imaging.",
+              "Tell the referring clinician and radiographer that you are pregnant, might be pregnant or are trying to conceive. Give your estimated pregnancy dates and mention recent related examinations. If an urgent injury or illness is being assessed, tell the team promptly rather than postponing care while you seek an online risk calculation."
+            ]
+          },
+          {
+            "heading": "The body area matters",
+            "paragraphs": [
+              "A dental, limb, head or chest examination usually keeps the pregnancy outside the direct X-ray beam. Radiation reaching it is much lower than when the abdomen or pelvis is directly examined. The name of the test alone still cannot establish an individual's dose: the technique, number of images, scan coverage and patient characteristics matter.",
+              "An abdominal or pelvic examination is not automatically prohibited. It needs a clear clinical reason and a protocol that obtains the necessary information with appropriate exposure. A plain radiograph, a CT scan and a prolonged image-guided procedure can involve very different doses. Do not use the number of appointments as a substitute for the actual examination record."
+            ]
+          },
+          {
+            "heading": "What rad, gray and milligray mean",
+            "paragraphs": [
+              "Absorbed dose describes energy deposited in tissue. For this discussion, the relevant quantity is the dose reaching the embryo or fetus, usually expressed in milligray, or mGy. One rad equals 10 mGy: 5 rad is 50 mGy and 10 rad is 100 mGy. These conversions do not tell you how much radiation your baby received.",
+              "An adult imaging chart may instead show effective dose in millisieverts, or mSv. That is a different measure used to describe overall radiation risk. It cannot simply be substituted for fetal mGy. Likewise, a dose number on a CT report may be a scanner output measure rather than a fetal dose. A radiologist or medical physicist can explain which number you have."
+            ]
+          },
+          {
+            "heading": "Why 5 or 10 rad is not a personal safety rule",
+            "paragraphs": [
+              "ACOG describes no reported fetal anomalies, growth restriction or pregnancy loss below 50 mGy. UKTIS states that exposure below this level would not usually itself justify termination or extra fetal monitoring. These statements concern particular outcomes and clinical decisions; they do not promise that every possible risk is zero. Most individual diagnostic studies are below this level.",
+              "IAEA guidance, drawing on ICRP, says a fetal dose below 100 mGy does not justify termination on radiation grounds alone. This is not permission to aim for that dose, nor does crossing it mean harm is certain or termination is required. Higher or uncertain exposures require specialist assessment of dose, timing and circumstances, with counselling about the available choices."
+            ]
+          },
+          {
+            "heading": "Pregnancy weeks and developmental timing",
+            "paragraphs": [
+              "Radiation references may count weeks after conception, whereas maternity records usually date pregnancy from the last menstrual period, roughly two weeks earlier. Mixing the two can place an exposure in the wrong developmental period. The first weeks after conception, organ formation and later brain development have different sensitivities at sufficiently high doses.",
+              "Statements such as “safe at 3–4 weeks”, “harm above 10 rad at 5–10 weeks” or “brain damage at 11–17 weeks” are too blunt for an individual decision. CDC identifies roughly 8–15 weeks after conception as especially sensitive for intellectual effects from high-dose exposure. Such high-dose observations should not be presented as the expected outcome of a routine dental or limb X-ray."
+            ]
+          },
+          {
+            "heading": "Later pregnancy is not a no-risk window",
+            "paragraphs": [
+              "At 18–27 weeks of pregnancy, developmental sensitivity differs from earlier pregnancy, but the exposure and the outcome being considered still matter. After 28 weeks, it is misleading to say that the fetus simply has the same risk as the mother. Some developmental effects become less likely later, while a large exposure can still be important.",
+              "Cancer risk is a separate question from malformations or effects on brain development. Its size at low diagnostic doses is uncertain, and there is no dependable pregnancy week after which it can be declared absent. This is why neither a gestational-age label nor the absence of a measurable developmental effect proves that an exposure has absolutely no risk."
+            ]
+          },
+          {
+            "heading": "CT, alternatives and whether to wait",
+            "paragraphs": [
+              "Ultrasound and MRI do not use ionizing X-rays and may answer the clinical question. They are not interchangeable with every radiograph or CT examination, and availability or speed can matter. If they cannot provide the needed information in time, CT may be the appropriate choice. A necessary scan should not be deferred automatically until 20 weeks or after birth.",
+              "Ask what the result will change and what could happen if the examination is delayed. The team can decide whether it is genuinely elective or needed now, including after trauma. Contrast material is a separate part of that decision: tell the team about previous contrast reactions and ask why it is required. Iodinated CT contrast crosses the placenta, so its use should have a clinical purpose rather than being treated as identical to a scan without contrast."
+            ]
+          },
+          {
+            "heading": "Dental imaging and treatment",
+            "paragraphs": [
+              "A painful tooth or dental infection should be assessed during pregnancy. Necessary dental radiographs can be taken at any stage, and delaying urgent treatment can make the problem more complicated. Tell the dentist about the pregnancy and any maternity concerns so that imaging and treatment can be planned together.",
+              "Current ADA guidance does not recommend routine abdominal or thyroid shielding for the pregnant dental patient. An absent lead apron therefore does not, by itself, mean unsafe care. Ask the team to explain the indication and its radiation-protection approach; do not avoid needed dental care solely because older advice said every pregnant patient must be shielded."
+            ]
+          },
+          {
+            "heading": "Why routine patient shielding has changed",
+            "paragraphs": [
+              "A shield on the abdomen does little to block radiation scattered inside the body from the area being examined. If it moves into the image or affects automatic exposure control, it can hide information, lead to another image or increase exposure. AAPM therefore advises against routine patient gonadal and fetal shielding during diagnostic X-ray imaging.",
+              "This does not abolish radiation protection. Appropriate examination choice, beam restriction, suitable technique and avoiding unnecessary repeats remain important. Protective barriers and aprons for staff or people assisting during an exposure serve a different purpose. Follow the department's instructions rather than putting a shield in place yourself or assuming every setting uses the same protocol."
+            ]
+          },
+          {
+            "heading": "If imaging happened before you knew",
+            "paragraphs": [
+              "Contact your maternity clinician and the imaging department with the examination date, body area, type of test and number of examinations. Include any prolonged procedure or radiation treatment, and the best available pregnancy dates. The team can determine whether ordinary reassurance is enough or whether a medical physicist should estimate fetal exposure from the actual records.",
+              "An individual calculation is especially useful when substantial abdominal or pelvic exposure is possible, or when several exposures need to be considered together. It is not a sign that damage has already been found. Do not make a pregnancy decision from a generic online dose table. Further monitoring, if indicated, depends on the assessment and any other pregnancy concerns; extra scans are not automatically required after every X-ray."
+            ]
+          },
+          {
+            "heading": "Before conception and after the examination",
+            "paragraphs": [
+              "Ordinary X-rays and CT do not leave radioactive material in your body. A past diagnostic examination is therefore different from an ongoing source of radiation. Evidence does not support predicting infertility or harm to a future child from an ordinary diagnostic X-ray, but this reassurance should not be extended to high-dose cancer treatment.",
+              "If pregnancy may already have begun, disclose that possibility before the examination. Nuclear-medicine tests and radioactive treatments involve different substances and instructions, so ask about the exact procedure rather than using advice about a plain X-ray. Follow any procedure-specific advice about conception; do not invent a universal waiting interval from an online article."
+            ]
+          },
+          {
+            "heading": "Accompanying a child and working around radiation",
+            "paragraphs": [
+              "You can tell the department that your child needs support and that you are pregnant or might be. Do not hold the child during an X-ray exposure; ask staff to arrange another helper or appropriate support. Follow instructions about where to wait. If you already helped without realizing you were pregnant, report what happened so the department can assess the circumstances rather than assuming the child's dose was also your dose.",
+              "If radiation is part of your work, discuss pregnancy with the appropriate supervisor, occupational-health service or radiation safety officer. Review your tasks, monitoring and protective measures under local rules. Continuing work, modifying tasks or changing duties depends on the actual exposure assessment. Patient-dose counselling thresholds are not workplace limits, and advice to stop routine patient shielding does not remove staff protective requirements."
+            ]
+          },
+          {
+            "heading": "Questions to take to the appointment",
+            "paragraphs": [
+              "Ask: What diagnosis are we checking? Will the result change treatment? Can ultrasound or MRI answer the same question soon enough? What is the risk of waiting? Will the pregnancy be in the direct beam? Does this examination need a fetal-dose estimate? If you were already exposed, ask who will review the records and when you will receive an explanation.",
+              "Keep the examination report, dates and the agreed follow-up plan together. If the explanation is unclear or anxiety persists, request a discussion with the radiology or maternity team. Necessary emergency treatment should proceed while the teams coordinate; waiting for a retrospective radiation estimate must not delay assessment of a serious current illness or injury."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Necessary imaging can protect health during pregnancy; discuss the clinical question and the consequences of delay.",
+          "Body area, technique, fetal absorbed dose and developmental timing matter more than the label “X-ray”.",
+          "Neither 5 or 10 rad nor a particular pregnancy week is a universal zero-risk or certain-harm boundary.",
+          "Routine patient shielding is different from protective measures for workers and helpers.",
+          "Unexpected exposure should be assessed from actual records, with specialist counselling when needed."
+        ],
+        "faq": [
+          {
+            "q": "Is an X-ray at 5–10 weeks always dangerous?",
+            "a": "No. The body area and actual fetal dose matter, as does whether the weeks are counted from the last period or conception. Early development is sensitive to sufficiently high doses, but this does not make an ordinary dental or limb radiograph equivalent to a high-dose exposure. Ask the imaging team to assess the actual examination."
+          },
+          {
+            "q": "Does exposure at 11–17 weeks mean brain damage?",
+            "a": "No. High-dose research identifies a period of greater brain-development sensitivity, often stated as 8–15 weeks after conception. It cannot predict damage from the pregnancy week alone. A specialist needs the examination details, fetal-dose estimate when indicated and accurate pregnancy dating."
+          },
+          {
+            "q": "Is imaging risk-free at 18–27 weeks or after 28 weeks?",
+            "a": "No pregnancy week is a blanket zero-risk boundary. Developmental sensitivity changes, but dose and type of effect remain important. Later pregnancy should not be described simply as having the mother's radiation risk, and uncertainty about cancer risk is different from the risk of a developmental abnormality."
+          },
+          {
+            "q": "What determines the risk, and what do 5 and 10 rad mean?",
+            "a": "The important factors include fetal absorbed dose, body area, technique, exposure pattern and developmental timing. Five rad equals 50 mGy and 10 rad equals 100 mGy. These are not the same as adult effective-dose figures in mSv, and neither is an automatic safe-or-harmful cutoff for an individual pregnancy."
+          },
+          {
+            "q": "Should I cancel a necessary CT or dental X-ray?",
+            "a": "Discuss the need with the clinical team rather than cancelling because of pregnancy alone. An alternative is useful if it answers the question in time; delaying urgent diagnosis or dental treatment can cause harm. Tell staff about the pregnancy so that they can choose and optimize the examination."
+          },
+          {
+            "q": "What if I had an X-ray before a positive pregnancy test?",
+            "a": "Give your maternity clinician and the imaging department the date, examination and body area. Most diagnostic exposures are reassuring, but substantial or uncertain exposure may need an individual fetal-dose assessment. Diagnostic exposure alone is not an automatic reason to end a pregnancy or arrange extra monitoring."
+          },
+          {
+            "q": "Does no lead apron mean the baby was unprotected?",
+            "a": "No. Routine patient fetal shielding is no longer recommended by major medical-physics guidance, and dental guidance also advises against it. An apron does not stop internal scatter and can interfere with imaging. Staff barriers and protective equipment for people assisting during exposure are a different issue."
+          },
+          {
+            "q": "Can I hold my child for an X-ray or keep working in radiology?",
+            "a": "Do not hold a child during exposure if you are pregnant or might be; tell staff so they can arrange support. Work decisions need an occupational radiation assessment and local precautions, not an automatic ban or a patient-dose threshold. Report any unexpected exposure with its details for advice."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence checked 6 November 2026",
+          "guidance": [
+            "Tell the imaging team about pregnancy or its possibility, your dates, and recent relevant examinations before the test.",
+            "Ask whether an alternative can answer the question in time and what the consequences of delaying necessary care would be.",
+            "For unexpected exposure, keep the actual reports and dates and ask whether radiology or medical-physics review is needed."
+          ],
+          "bemama": "BeMama helps you organize examination dates, reports, pregnancy dates and questions for the maternity and imaging teams. It cannot calculate fetal radiation dose, interpret an image, predict an individual outcome or decide whether you should have a test or continue a pregnancy.",
+          "safety": "Do not delay assessment of a serious illness or injury because of radiation fears. Tell staff about pregnancy and follow the agreed imaging and treatment plan. Do not calculate fetal risk from adult dose charts, assume a missed apron caused harm, or make a pregnancy decision from a rad threshold alone. Substantial or uncertain exposure requires individualized clinical advice.",
+          "sources": [
+            {
+              "organization": "ACOG",
+              "title": "Diagnostic imaging during pregnancy and lactation: Committee Opinion 723, 2017",
+              "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/10/guidelines-for-diagnostic-imaging-during-pregnancy-and-lactation"
+            },
+            {
+              "organization": "IAEA",
+              "title": "Pregnant women: patient exposure, dose assessment and occupational questions",
+              "url": "https://www.iaea.org/resources/rpop/health-professionals/radiology/pregnant-women"
+            },
+            {
+              "organization": "UKTIS",
+              "title": "Exposure to ionising radiation in pregnancy: public summary, May 2025",
+              "url": "https://uktis.org/monographs/exposure-to-ionising-radiation-in-pregnancy/"
+            },
+            {
+              "organization": "CDC",
+              "title": "Radiation and pregnancy: information for clinicians, January 2025",
+              "url": "https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/pregnancy.html"
+            },
+            {
+              "organization": "ACR / RSNA / RadiologyInfo",
+              "title": "Radiation dose: adult effective-dose measures and limitations, April 2025",
+              "url": "https://www.radiologyinfo.org/en/info/safety-xray"
+            },
+            {
+              "organization": "ACR / RSNA / RadiologyInfo",
+              "title": "CT safety during pregnancy, March 2025",
+              "url": "https://www.radiologyinfo.org/en/info/safety-ct-pregnancy"
+            },
+            {
+              "organization": "American Dental Association",
+              "title": "Pregnancy: dental care and radiographs",
+              "url": "https://www.ada.org/resources/ada-library/oral-health-topics/pregnancy"
+            },
+            {
+              "organization": "AAPM",
+              "title": "Patient gonadal and fetal shielding: active position statement PS 8-A",
+              "url": "https://www.aapm.org/org/policies/details.asp?id=2552"
+            },
+            {
+              "organization": "AAPM",
+              "title": "Patient shielding in diagnostic imaging: professional and patient questions",
+              "url": "https://www.aapm.org/org/policies/documents/CARES_FAQs_Patient_Shielding.pdf"
+            },
+            {
+              "organization": "FDA",
+              "title": "X-rays, pregnancy and you: patient brochure",
+              "url": "https://www.fda.gov/radiation-emitting-products/medical-x-ray-imaging/x-rays-pregnancy-and-you"
+            },
+            {
+              "organization": "CDC / NIOSH",
+              "title": "Ionizing radiation and reproductive health: updated October 2026",
+              "url": "https://www.cdc.gov/niosh/reproductive-health/prevention/ionizing-radiation.html"
+            },
+            {
+              "organization": "AAPM",
+              "title": "Medical imaging communication guide: radioactivity after imaging, March 2022",
+              "url": "https://www.aapm.org/pubs/reports/AAPMRadiationandMedicalImagingCommunicationGuide.pdf"
+            }
+          ],
+          "updatedIso": "2026-11-06"
+        }
+      },
+      "fa": {
+        "title": "اشعه ایکس در بارداری: دوز، زمان و تصمیم‌گیری",
+        "description": "درباره تصویربرداری ضروری یا ناخواسته با اشعه ایکس در بارداری، دوز جنین، زمان مواجهه، سی‌تی و عکس دندان، حفاظ و ارزیابی فردی بخوانید.",
+        "intro": "عکس ضروری با اشعه ایکس می‌تواند به تشخیص آسیب یا بیماری در بارداری کمک کند. انجام تصویربرداری پیش از آگاهی از بارداری، خودبه‌خود به معنی آسیب دیدن جنین نیست. پرسش‌های مهم این است که چه بررسی‌ای انجام شده، کدام ناحیه بدن در معرض پرتو بوده، دوز برآوردشده‌ای که به جنین رسیده چقدر است و بارداری در چه مرحله‌ای بوده است. دوز بیشتر بررسی‌های تشخیصی بسیار کمتر از دوزهای مرتبط با آسیب تکاملی است؛ بااین‌حال، اطمینان‌بخشی کلی جای ارزیابی مواجهه غیرمعمول یا قابل‌توجه را نمی‌گیرد.",
+        "sections": [
+          {
+            "heading": "از علت درخواست تصویربرداری شروع کنید",
+            "paragraphs": [
+              "شکستگی، عفونت دندان یا بیماری جدی ممکن است برای جلوگیری از تأخیر درمان به تصویربرداری نیاز داشته باشد. پزشک پیامدهای تشخیص ندادن بیماری را در برابر مواجهه با پرتو می‌سنجد. بارداری دلیلی برای انتخاب دقیق و بهینه‌سازی بررسی است، نه دلیلی خودکار برای رد تصویربرداری ضروری.",
+              "به پزشک درخواست‌کننده و کارشناس رادیولوژی بگویید باردارید، احتمال بارداری وجود دارد یا برای بارداری اقدام می‌کنید. زمان تخمینی بارداری و بررسی‌های مرتبط اخیر را بیان کنید. هنگام ارزیابی آسیب یا بیماری فوری، زود به تیم اطلاع دهید و برای یافتن محاسبه خطر در اینترنت، رسیدگی را عقب نیندازید."
+            ]
+          },
+          {
+            "heading": "ناحیه بدن اهمیت دارد",
+            "paragraphs": [
+              "در عکس دندان، اندام، سر یا قفسه سینه، معمولاً جنین خارج از مسیر مستقیم پرتو ایکس قرار دارد. پرتویی که به آن می‌رسد بسیار کمتر از زمانی است که شکم یا لگن مستقیماً بررسی شود. بااین‌حال، نام آزمون به‌تنهایی دوز فرد را مشخص نمی‌کند: روش تصویربرداری، تعداد تصاویر، محدوده اسکن و ویژگی‌های بیمار مهم‌اند.",
+              "تصویربرداری شکم یا لگن خودبه‌خود ممنوع نیست. باید دلیل بالینی روشن و روشی داشته باشد که اطلاعات لازم را با مواجهه مناسب به دست آورد. عکس ساده، سی‌تی‌اسکن و اقدام طولانی با هدایت تصویربرداری می‌توانند دوزهای بسیار متفاوتی داشته باشند. تعداد نوبت‌های مراجعه را جایگزین گزارش واقعی بررسی نکنید."
+            ]
+          },
+          {
+            "heading": "راد، گری و میلی‌گری چه معنایی دارند؟",
+            "paragraphs": [
+              "دوز جذب‌شده بیانگر مقدار انرژی جذب‌شده در بافت است. در این بحث، مقدار مهم دوزی است که به رویان یا جنین می‌رسد و معمولاً با میلی‌گری یا mGy بیان می‌شود. یک راد برابر ۱۰ میلی‌گری است: ۵ راد برابر ۵۰ میلی‌گری و ۱۰ راد برابر ۱۰۰ میلی‌گری است. این تبدیل واحدها نمی‌گوید جنین شما چه مقدار پرتو دریافت کرده است.",
+              "جدول تصویربرداری بزرگسالان ممکن است به‌جای آن، دوز مؤثر را با میلی‌سیورت یا mSv نشان دهد. این شاخص متفاوت برای توصیف خطر کلی پرتو به کار می‌رود و نمی‌توان آن را به‌سادگی جای میلی‌گری جنین گذاشت. همچنین عدد دوز در گزارش سی‌تی ممکن است شاخص خروجی دستگاه باشد، نه دوز جنین. متخصص رادیولوژی یا فیزیک پزشکی می‌تواند معنای عدد موجود را توضیح دهد."
+            ]
+          },
+          {
+            "heading": "چرا ۵ یا ۱۰ راد قانون شخصی ایمنی نیست؟",
+            "paragraphs": [
+              "ACOG توضیح می‌دهد که در دوزهای کمتر از ۵۰ میلی‌گری، ناهنجاری جنینی، محدودیت رشد یا از دست رفتن بارداری گزارش نشده است. UKTIS می‌گوید مواجهه کمتر از این مقدار معمولاً به‌تنهایی توجیهی برای ختم بارداری یا پایش اضافه جنین نیست. این گفته‌ها درباره پیامدها و تصمیم‌های بالینی مشخص‌اند؛ تضمین نمی‌کنند که هر خطر احتمالی صفر است. بیشتر بررسی‌های تشخیصی منفرد پایین‌تر از این مقدارند.",
+              "راهنمای IAEA با اتکا به ICRP می‌گوید دوز جنینی کمتر از ۱۰۰ میلی‌گری، ختم بارداری را صرفاً به دلیل پرتو توجیه نمی‌کند. این به معنی مجاز بودن هدف‌گذاری چنین دوزی نیست؛ عبور از آن نیز به معنی قطعی بودن آسیب یا ضرورت ختم بارداری نیست. مواجهه بالاتر یا نامشخص به ارزیابی تخصصی دوز، زمان و شرایط، همراه با مشاوره درباره انتخاب‌های موجود نیاز دارد."
+            ]
+          },
+          {
+            "heading": "هفته‌های بارداری و زمان تکامل",
+            "paragraphs": [
+              "منابع علمی مربوط به پرتو ممکن است هفته‌ها را از لقاح بشمارند، درحالی‌که پرونده بارداری معمولاً از آخرین قاعدگی، یعنی حدود دو هفته زودتر، تاریخ‌گذاری می‌شود. اشتباه گرفتن این دو می‌تواند مواجهه را در مرحله تکاملی نادرستی قرار دهد. هفته‌های نخست پس از لقاح، تشکیل اندام‌ها و رشد بعدی مغز در دوزهای به‌اندازه کافی بالا حساسیت‌های متفاوتی دارند.",
+              "عبارت‌هایی مانند «در هفته ۳ تا ۴ بی‌خطر است»، «بیش از ۱۰ راد در هفته ۵ تا ۱۰ آسیب می‌زند» یا «در هفته ۱۱ تا ۱۷ آسیب مغزی می‌دهد» برای تصمیم فردی بیش‌ازحد کلی‌اند. CDC حدود هفته‌های ۸ تا ۱۵ پس از لقاح را از نظر اثر بر توانایی‌های ذهنی در مواجهه با دوز بالا، به‌ویژه حساس می‌داند. این مشاهدات دوز بالا نباید به‌عنوان پیامد مورد انتظار عکس معمول دندان یا اندام معرفی شوند."
+            ]
+          },
+          {
+            "heading": "اواخر بارداری بازه بدون خطر نیست",
+            "paragraphs": [
+              "در هفته‌های ۱۸ تا ۲۷ بارداری، حساسیت تکاملی با اوایل بارداری فرق دارد، اما نوع مواجهه و پیامد مورد بررسی همچنان مهم‌اند. پس از هفته ۲۸، اینکه خطر جنین را صرفاً همان خطر مادر بدانیم گمراه‌کننده است. احتمال بعضی اثرهای تکاملی در مراحل دیرتر کمتر می‌شود، ولی مواجهه زیاد همچنان می‌تواند اهمیت داشته باشد.",
+              "خطر سرطان پرسشی جدا از ناهنجاری‌ها یا اثر بر رشد مغز است. اندازه این خطر در دوزهای کم تشخیصی نامطمئن است و هفته مشخص و قابل‌اتکایی وجود ندارد که پس از آن بتوان نبود این خطر را اعلام کرد. بنابراین نه نام یک سن بارداری و نه نبود اثر تکاملی قابل‌اندازه‌گیری، بی‌خطری مطلق مواجهه را ثابت نمی‌کند."
+            ]
+          },
+          {
+            "heading": "سی‌تی، روش‌های جایگزین و تصمیم درباره صبر کردن",
+            "paragraphs": [
+              "سونوگرافی و ام‌آر‌آی از پرتو ایکس یون‌ساز استفاده نمی‌کنند و ممکن است پاسخ پرسش بالینی را بدهند. اما جایگزین یکسانی برای هر عکس یا سی‌تی نیستند و دسترسی یا سرعت می‌تواند مهم باشد. اگر اطلاعات لازم را به‌موقع فراهم نکنند، سی‌تی ممکن است انتخاب مناسب باشد. اسکن ضروری نباید خودکار تا هفته ۲۰ یا پس از زایمان عقب بیفتد.",
+              "بپرسید نتیجه چه تغییری در رسیدگی ایجاد می‌کند و تأخیر چه پیامدی دارد. تیم می‌تواند مشخص کند بررسی واقعاً قابل‌تعویق است یا اکنون لازم است، از جمله پس از ضربه. ماده حاجب بخش جداگانه‌ای از این تصمیم است: واکنش قبلی به آن را اطلاع دهید و علت نیاز به آن را بپرسید. ماده حاجب یددار سی‌تی از جفت عبور می‌کند، بنابراین استفاده از آن باید هدف بالینی داشته باشد و نباید معادل اسکن بدون حاجب تلقی شود."
+            ]
+          },
+          {
+            "heading": "تصویربرداری و درمان دندان",
+            "paragraphs": [
+              "دندان دردناک یا عفونت دندان باید در بارداری ارزیابی شود. عکس ضروری دندان را می‌توان در هر مرحله گرفت و تأخیر درمان فوری ممکن است مشکل را پیچیده‌تر کند. بارداری و نگرانی‌های مرتبط با آن را به دندان‌پزشک بگویید تا تصویربرداری و درمان هماهنگ برنامه‌ریزی شوند.",
+              "راهنمای فعلی انجمن دندان‌پزشکی آمریکا، ADA، استفاده روتین از حفاظ شکم یا تیروئید را برای بیمار باردار توصیه نمی‌کند. بنابراین نبود پیش‌بند سربی به‌تنهایی به معنی مراقبت ناایمن نیست. از تیم بخواهید دلیل تصویربرداری و روش حفاظت پرتویی را توضیح دهد؛ صرفاً به دلیل توصیه قدیمی مبنی بر ضرورت حفاظ برای همه زنان باردار، از درمان لازم دندان پرهیز نکنید."
+            ]
+          },
+          {
+            "heading": "چرا توصیه حفاظ روتین بیمار تغییر کرده است؟",
+            "paragraphs": [
+              "حفاظ روی شکم اثر کمی بر پرتویی دارد که از ناحیه بررسی‌شده درون بدن پراکنده می‌شود. اگر وارد تصویر شود یا کنترل خودکار تابش را تحت‌تأثیر قرار دهد، ممکن است اطلاعات را بپوشاند، به تکرار تصویر بینجامد یا مواجهه را افزایش دهد. به همین دلیل AAPM استفاده روتین از حفاظ اندام‌های تناسلی و جنین را در تصویربرداری تشخیصی با اشعه ایکس توصیه نمی‌کند.",
+              "این تغییر به معنی کنار گذاشتن حفاظت پرتویی نیست. انتخاب درست بررسی، محدود کردن میدان پرتو، روش مناسب و جلوگیری از تکرار غیرضروری همچنان مهم‌اند. موانع و پیش‌بندهای محافظ کارکنان یا افرادی که هنگام تابش کمک می‌کنند هدف دیگری دارند. از دستور بخش پیروی کنید؛ خودتان حفاظ نگذارید و تصور نکنید همه محیط‌ها روش یکسانی دارند."
+            ]
+          },
+          {
+            "heading": "اگر پیش از آگاهی از بارداری تصویربرداری انجام شده باشد",
+            "paragraphs": [
+              "تاریخ بررسی، ناحیه بدن، نوع آزمون و تعداد بررسی‌ها را به پزشک مراقبت بارداری و بخش تصویربرداری اطلاع دهید. اقدام طولانی یا پرتودرمانی و دقیق‌ترین تاریخ‌های موجود بارداری را نیز ذکر کنید. تیم می‌تواند تعیین کند اطمینان‌بخشی معمول کافی است یا متخصص فیزیک پزشکی باید از روی مدارک واقعی، مواجهه جنین را برآورد کند.",
+              "محاسبه فردی به‌ویژه زمانی مفید است که مواجهه قابل‌توجه شکم یا لگن محتمل باشد یا لازم باشد چند مواجهه با هم بررسی شوند. درخواست این محاسبه نشانه کشف آسیب نیست. بر اساس جدول دوز عمومی اینترنتی درباره بارداری تصمیم نگیرید. پایش بیشتر، اگر لازم باشد، به ارزیابی و سایر نگرانی‌های بارداری بستگی دارد؛ پس از هر عکس ایکس خودکار به اسکن اضافه نیاز نیست."
+            ]
+          },
+          {
+            "heading": "پیش از لقاح و پس از تصویربرداری",
+            "paragraphs": [
+              "عکس معمول با اشعه ایکس و سی‌تی، ماده رادیواکتیو در بدن باقی نمی‌گذارند. بنابراین بررسی تشخیصی گذشته با منبع پرتوزایی مداوم فرق دارد. شواهد از پیش‌بینی ناباروری یا آسیب به فرزند آینده بر اثر عکس معمول تشخیصی پشتیبانی نمی‌کنند، اما این اطمینان‌بخشی نباید به درمان سرطان با دوز بالا تعمیم داده شود.",
+              "اگر ممکن است بارداری شروع شده باشد، پیش از بررسی این احتمال را بیان کنید. آزمون‌های پزشکی هسته‌ای و درمان‌های رادیواکتیو مواد و دستورهای متفاوتی دارند؛ درباره همان اقدام دقیق سؤال کنید و توصیه عکس ساده را به آن تعمیم ندهید. از توصیه اختصاصی اقدام درباره زمان لقاح پیروی کنید و از یک مطلب اینترنتی، فاصله انتظار همگانی نسازید."
+            ]
+          },
+          {
+            "heading": "همراهی کودک و کار در محیط دارای پرتو",
+            "paragraphs": [
+              "به بخش بگویید کودکتان به حمایت نیاز دارد و شما باردارید یا احتمال بارداری دارید. هنگام تابش اشعه ایکس کودک را نگه ندارید؛ از کارکنان بخواهید کمک فرد دیگری یا حمایت مناسب را فراهم کنند. درباره محل انتظار از دستورها پیروی کنید. اگر پیش‌تر بدون آگاهی از بارداری کمک کرده‌اید، آنچه رخ داده را گزارش کنید تا بخش شرایط را بررسی کند؛ فرض نکنید دوز کودک همان دوز شما بوده است.",
+              "اگر پرتو بخشی از کارتان است، بارداری را با سرپرست مربوط، بهداشت حرفه‌ای یا مسئول ایمنی پرتویی مطرح کنید. وظایف، پایش و اقدامات حفاظتی را بر اساس مقررات محل مرور کنید. ادامه کار، تعدیل وظایف یا تغییر مسئولیت به ارزیابی واقعی مواجهه بستگی دارد. آستانه‌های مشاوره دوز بیمار، حدود شغلی نیستند و کنار گذاشتن حفاظ روتین بیمار، الزام حفاظت کارکنان را حذف نمی‌کند."
+            ]
+          },
+          {
+            "heading": "پرسش‌هایی برای وقت مراجعه",
+            "paragraphs": [
+              "بپرسید: دنبال چه تشخیصی هستیم؟ آیا نتیجه درمان را تغییر می‌دهد؟ آیا سونوگرافی یا ام‌آر‌آی همان پرسش را به‌موقع پاسخ می‌دهد؟ خطر صبر کردن چیست؟ آیا جنین در مسیر مستقیم پرتو قرار می‌گیرد؟ آیا این بررسی به برآورد دوز جنین نیاز دارد؟ اگر مواجهه قبلاً رخ داده، بپرسید چه کسی مدارک را مرور می‌کند و چه زمانی توضیح دریافت می‌کنید.",
+              "گزارش بررسی، تاریخ‌ها و برنامه پیگیری توافق‌شده را کنار هم نگه دارید. اگر توضیح روشن نیست یا اضطراب ادامه دارد، گفت‌وگو با تیم رادیولوژی یا مراقبت بارداری بخواهید. درمان اورژانسی لازم باید هم‌زمان با هماهنگی تیم‌ها پیش برود؛ انتظار برای برآورد گذشته‌نگر پرتو نباید ارزیابی بیماری یا آسیب جدی فعلی را عقب بیندازد."
+            ]
+          }
+        ],
+        "takeaways": [
+          "تصویربرداری ضروری می‌تواند از سلامت در بارداری محافظت کند؛ پرسش بالینی و پیامد تأخیر را مطرح کنید.",
+          "ناحیه بدن، روش، دوز جذب‌شده جنین و زمان تکامل مهم‌تر از عنوان «اشعه ایکس» هستند.",
+          "نه ۵ یا ۱۰ راد و نه یک هفته خاص بارداری، مرز همگانی خطر صفر یا آسیب قطعی نیست.",
+          "حفاظ روتین بیمار با اقدامات حفاظتی کارکنان و افراد کمک‌کننده تفاوت دارد.",
+          "مواجهه ناخواسته باید از روی مدارک واقعی و در صورت نیاز با مشاوره تخصصی ارزیابی شود."
+        ],
+        "faq": [
+          {
+            "q": "آیا عکس ایکس در هفته‌های ۵ تا ۱۰ همیشه خطرناک است؟",
+            "a": "خیر. ناحیه بدن و دوز واقعی جنین مهم است؛ همچنین اینکه هفته‌ها از آخرین قاعدگی شمرده شده‌اند یا لقاح. تکامل اولیه به دوزهای به‌اندازه کافی بالا حساس است، اما عکس معمول دندان یا اندام را معادل مواجهه با دوز بالا نمی‌کند. از تیم تصویربرداری بخواهید همان بررسی واقعی را ارزیابی کند."
+          },
+          {
+            "q": "آیا مواجهه در هفته‌های ۱۱ تا ۱۷ به معنی آسیب مغزی است؟",
+            "a": "خیر. پژوهش‌های دوز بالا بازه حساسیت بیشتر رشد مغز را نشان می‌دهند که اغلب هفته‌های ۸ تا ۱۵ پس از لقاح بیان می‌شود. از هفته بارداری به‌تنهایی نمی‌توان آسیب را پیش‌بینی کرد. متخصص به جزئیات بررسی، برآورد دوز جنین در صورت لزوم و تاریخ‌گذاری دقیق بارداری نیاز دارد."
+          },
+          {
+            "q": "آیا تصویربرداری در هفته‌های ۱۸ تا ۲۷ یا پس از هفته ۲۸ بی‌خطر است؟",
+            "a": "هیچ هفته‌ای مرز همگانی خطر صفر نیست. حساسیت تکاملی تغییر می‌کند، اما دوز و نوع اثر همچنان مهم‌اند. خطر پرتوی جنین در اواخر بارداری را نباید صرفاً همان خطر مادر دانست؛ نامطمئن بودن خطر سرطان نیز با خطر ناهنجاری تکاملی فرق دارد."
+          },
+          {
+            "q": "چه چیزی خطر را تعیین می‌کند و ۵ و ۱۰ راد چه معنایی دارند؟",
+            "a": "عوامل مهم شامل دوز جذب‌شده جنین، ناحیه بدن، روش، الگوی مواجهه و زمان تکامل است. پنج راد برابر ۵۰ میلی‌گری و ۱۰ راد برابر ۱۰۰ میلی‌گری است. این اعداد با دوز مؤثر بزرگسالان بر حسب میلی‌سیورت یکسان نیستند و هیچ‌کدام مرز خودکار بی‌خطری یا آسیب برای یک بارداری مشخص نیست."
+          },
+          {
+            "q": "آیا سی‌تی یا عکس ضروری دندان را لغو کنم؟",
+            "a": "به‌جای لغو صرفاً به دلیل بارداری، نیاز به بررسی را با تیم بالینی مطرح کنید. روش جایگزین وقتی مفید است که به‌موقع پاسخ دهد؛ تأخیر تشخیص فوری یا درمان دندان می‌تواند آسیب‌زا باشد. بارداری را اطلاع دهید تا بررسی مناسب انتخاب و بهینه شود."
+          },
+          {
+            "q": "اگر پیش از مثبت شدن تست بارداری عکس گرفته باشم چه؟",
+            "a": "تاریخ، نوع بررسی و ناحیه بدن را به پزشک مراقبت بارداری و بخش تصویربرداری بدهید. بیشتر مواجهه‌های تشخیصی اطمینان‌بخش‌اند، اما مواجهه قابل‌توجه یا نامشخص ممکن است به ارزیابی فردی دوز جنین نیاز داشته باشد. مواجهه تشخیصی به‌تنهایی دلیل خودکار ختم بارداری یا پایش اضافه نیست."
+          },
+          {
+            "q": "آیا نبود پیش‌بند سربی یعنی جنین محافظت نشده است؟",
+            "a": "خیر. راهنماهای عمده فیزیک پزشکی دیگر حفاظ روتین جنین برای بیمار را توصیه نمی‌کنند و راهنمای دندان‌پزشکی نیز علیه استفاده روتین آن است. پیش‌بند جلوی پراکندگی درون بدن را نمی‌گیرد و ممکن است در تصویربرداری اختلال ایجاد کند. موانع کارکنان و تجهیزات محافظ افراد کمک‌کننده هنگام تابش موضوع دیگری است."
+          },
+          {
+            "q": "آیا می‌توانم کودک را هنگام عکس نگه دارم یا در رادیولوژی به کار ادامه دهم؟",
+            "a": "اگر باردارید یا احتمال آن وجود دارد، هنگام تابش کودک را نگه ندارید؛ به کارکنان بگویید تا حمایت مناسب فراهم کنند. تصمیم شغلی به ارزیابی مواجهه حرفه‌ای و احتیاط‌های محل نیاز دارد، نه ممنوعیت خودکار یا آستانه دوز بیمار. هر مواجهه ناخواسته را با جزئیات گزارش کنید و راهنمایی بخواهید."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۶ نوامبر ۲۰۲۶ بررسی شد",
+          "guidance": [
+            "پیش از بررسی، بارداری یا احتمال آن، تاریخ‌ها و بررسی‌های مرتبط اخیر را به تیم تصویربرداری بگویید.",
+            "بپرسید آیا روش جایگزین به‌موقع پاسخ می‌دهد و تأخیر مراقبت ضروری چه پیامدی دارد.",
+            "در مواجهه ناخواسته، گزارش‌ها و تاریخ‌های واقعی را نگه دارید و بپرسید آیا مرور رادیولوژی یا فیزیک پزشکی لازم است."
+          ],
+          "bemama": "BeMama کمک می‌کند تاریخ تصویربرداری‌ها، گزارش‌ها، زمان بارداری و پرسش‌های تیم مراقبت بارداری و تصویربرداری را مرتب کنید. نمی‌تواند دوز پرتوی جنین را محاسبه کند، تصویر را تفسیر کند، پیامد فردی را پیش‌بینی کند یا درباره انجام آزمون یا ادامه بارداری شما تصمیم بگیرد.",
+          "safety": "به دلیل ترس از پرتو، ارزیابی بیماری یا آسیب جدی را به تأخیر نیندازید. بارداری را اطلاع دهید و برنامه توافق‌شده تصویربرداری و درمان را دنبال کنید. خطر جنین را از جدول دوز بزرگسالان محاسبه نکنید، نبود پیش‌بند را دلیل آسیب ندانید و تنها از روی آستانه راد درباره بارداری تصمیم نگیرید. مواجهه قابل‌توجه یا نامشخص به توصیه بالینی فردی نیاز دارد.",
+          "sources": [
+            {
+              "organization": "ACOG",
+              "title": "تصویربرداری تشخیصی در بارداری و شیردهی: نظر کمیته ۷۲۳، ۲۰۱۷",
+              "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/10/guidelines-for-diagnostic-imaging-during-pregnancy-and-lactation"
+            },
+            {
+              "organization": "IAEA",
+              "title": "زنان باردار: مواجهه بیمار، ارزیابی دوز و پرسش‌های شغلی",
+              "url": "https://www.iaea.org/resources/rpop/health-professionals/radiology/pregnant-women"
+            },
+            {
+              "organization": "UKTIS",
+              "title": "مواجهه با پرتو یون‌ساز در بارداری: خلاصه عمومی، مه ۲۰۲۵",
+              "url": "https://uktis.org/monographs/exposure-to-ionising-radiation-in-pregnancy/"
+            },
+            {
+              "organization": "CDC",
+              "title": "پرتو و بارداری: اطلاعات برای پزشکان، ژانویه ۲۰۲۵",
+              "url": "https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/pregnancy.html"
+            },
+            {
+              "organization": "ACR / RSNA / RadiologyInfo",
+              "title": "دوز پرتو: شاخص‌های دوز مؤثر بزرگسالان و محدودیت‌ها، آوریل ۲۰۲۵",
+              "url": "https://www.radiologyinfo.org/en/info/safety-xray"
+            },
+            {
+              "organization": "ACR / RSNA / RadiologyInfo",
+              "title": "ایمنی سی‌تی در بارداری، مارس ۲۰۲۵",
+              "url": "https://www.radiologyinfo.org/en/info/safety-ct-pregnancy"
+            },
+            {
+              "organization": "انجمن دندان‌پزشکی آمریکا",
+              "title": "بارداری: مراقبت دندان و رادیوگرافی",
+              "url": "https://www.ada.org/resources/ada-library/oral-health-topics/pregnancy"
+            },
+            {
+              "organization": "AAPM",
+              "title": "حفاظ اندام‌های تناسلی و جنین بیمار: بیانیه فعال PS 8-A",
+              "url": "https://www.aapm.org/org/policies/details.asp?id=2552"
+            },
+            {
+              "organization": "AAPM",
+              "title": "حفاظ بیمار در تصویربرداری تشخیصی: پرسش‌های حرفه‌ای و بیمار",
+              "url": "https://www.aapm.org/org/policies/documents/CARES_FAQs_Patient_Shielding.pdf"
+            },
+            {
+              "organization": "FDA",
+              "title": "اشعه ایکس، بارداری و شما: بروشور بیمار",
+              "url": "https://www.fda.gov/radiation-emitting-products/medical-x-ray-imaging/x-rays-pregnancy-and-you"
+            },
+            {
+              "organization": "CDC / NIOSH",
+              "title": "پرتو یون‌ساز و سلامت باروری: به‌روزرسانی اکتبر ۲۰۲۶",
+              "url": "https://www.cdc.gov/niosh/reproductive-health/prevention/ionizing-radiation.html"
+            },
+            {
+              "organization": "AAPM",
+              "title": "راهنمای گفت‌وگو درباره تصویربرداری پزشکی: پرتوزایی پس از تصویربرداری، مارس ۲۰۲۲",
+              "url": "https://www.aapm.org/pubs/reports/AAPMRadiationandMedicalImagingCommunicationGuide.pdf"
+            }
+          ],
+          "updatedIso": "2026-11-06"
+        }
+      },
+      "ar": {
+        "title": "الأشعة السينية أثناء الحمل: الجرعة والتوقيت والقرارات",
+        "description": "فهم التصوير الضروري أو التعرض غير المتوقع للأشعة السينية في الحمل، وجرعة الجنين وتوقيتها، والتصوير المقطعي والأسنان والدروع والتقييم الفردي.",
+        "intro": "قد تساعد صورة أشعة سينية ضرورية على تشخيص إصابة أو مرض أثناء الحمل. وإجراء فحص قبل معرفة الحمل لا يعني تلقائياً أن الجنين تضرر. الأسئلة المفيدة هي: ما الفحص الذي أُجري، وأي منطقة تعرضت للإشعاع، وما الجرعة المقدرة التي وصلت إلى الحمل، وفي أي مرحلة كان؟ تستخدم معظم الفحوص التشخيصية جرعات أدنى بكثير من المرتبطة بأذى النمو، لكن الطمأنة العامة لا تحل محل تقييم تعرض غير معتاد أو كبير.",
+        "sections": [
+          {
+            "heading": "ابدئي بسبب طلب الفحص",
+            "paragraphs": [
+              "قد يستلزم كسر أو التهاب أسنان أو مرض خطير تصويراً لتجنب تأخير العلاج. يوازن الطبيب بين عواقب عدم اكتشاف التشخيص والتعرض الناتج عن الفحص. الحمل سبب لاختيار الفحص وتحسينه بعناية، وليس سبباً تلقائياً لرفض التصوير الضروري.",
+              "أخبري الطبيب المحيل وفني الأشعة بأنك حامل أو قد تكونين حاملاً أو تحاولين الإنجاب. اذكري تواريخ الحمل المقدرة والفحوص المرتبطة الحديثة. عند تقييم إصابة أو مرض عاجل، أبلغي الفريق سريعاً بدلاً من تأجيل الرعاية للبحث عن حساب للخطر عبر الإنترنت."
+            ]
+          },
+          {
+            "heading": "منطقة الجسم مهمة",
+            "paragraphs": [
+              "في تصوير الأسنان أو الأطراف أو الرأس أو الصدر، يكون الحمل عادة خارج حزمة الأشعة المباشرة. والإشعاع الذي يصل إليه أقل بكثير مما يحدث عند فحص البطن أو الحوض مباشرة. ومع ذلك، لا يحدد اسم الفحص وحده جرعة شخص معين؛ فالتقنية وعدد الصور ونطاق المسح وخصائص المريضة مهمة.",
+              "تصوير البطن أو الحوض ليس ممنوعاً تلقائياً. يحتاج إلى سبب سريري واضح وبروتوكول يوفر المعلومات اللازمة بتعرض مناسب. وقد تختلف الجرعات كثيراً بين الصورة البسيطة والتصوير المقطعي والإجراء الطويل الموجّه بالتصوير. لا تستخدمي عدد المواعيد بديلاً عن السجل الفعلي للفحص."
+            ]
+          },
+          {
+            "heading": "معنى الراد والغراي والميلي غراي",
+            "paragraphs": [
+              "تصف الجرعة الممتصة الطاقة المترسبة في النسيج. والمقدار المعني هنا هو الجرعة التي تصل إلى المضغة أو الجنين، ويُعبّر عنها عادة بالميلي غراي، mGy. الراد الواحد يساوي 10 ميلي غراي: 5 راد تساوي 50 ميلي غراي و10 راد تساوي 100 ميلي غراي. لا تخبرك هذه التحويلات بمقدار ما تلقاه جنينك فعلياً.",
+              "قد يعرض جدول تصوير البالغين بدلاً من ذلك الجرعة الفعالة بالميلي سيفرت، mSv. وهذا مقياس مختلف لوصف الخطر الإشعاعي الكلي، ولا يمكن استبداله ببساطة بجرعة الجنين بالميلي غراي. كذلك قد يكون رقم الجرعة في تقرير التصوير المقطعي مقياساً لخرج الجهاز وليس جرعة الجنين. يستطيع اختصاصي الأشعة أو الفيزياء الطبية شرح معنى الرقم لديك."
+            ]
+          },
+          {
+            "heading": "لماذا ليست 5 أو 10 راد قاعدة شخصية للسلامة؟",
+            "paragraphs": [
+              "توضح ACOG أنه لم تُبلّغ تشوهات جنينية أو تقييد للنمو أو فقد للحمل عند جرعات أقل من 50 ميلي غراي. وتذكر UKTIS أن التعرض دون هذا المستوى لا يبرر عادة بمفرده إنهاء الحمل أو مراقبة إضافية للجنين. تتعلق هذه العبارات بنتائج وقرارات سريرية محددة؛ ولا تضمن أن كل خطر محتمل يساوي صفراً. معظم الفحوص التشخيصية المنفردة أقل من هذا المستوى.",
+              "تذكر إرشادات الوكالة الدولية للطاقة الذرية، IAEA، المستندة إلى ICRP، أن جرعة جنينية دون 100 ميلي غراي لا تبرر إنهاء الحمل لأسباب إشعاعية وحدها. هذا ليس تصريحاً باستهداف تلك الجرعة، كما أن تجاوزها لا يعني حتمية الضرر أو وجوب إنهاء الحمل. التعرض الأعلى أو غير المؤكد يحتاج إلى تقييم متخصص للجرعة والتوقيت والظروف، مع مشورة بشأن الخيارات المتاحة."
+            ]
+          },
+          {
+            "heading": "أسابيع الحمل وتوقيت النمو",
+            "paragraphs": [
+              "قد تحسب المراجع الإشعاعية الأسابيع من الإخصاب، بينما تؤرخ سجلات الحمل عادة من آخر دورة شهرية، أي قبل ذلك بنحو أسبوعين. والخلط بينهما قد يضع التعرض في مرحلة نمو غير صحيحة. تختلف حساسية الأسابيع الأولى بعد الإخصاب وتكوّن الأعضاء ونمو الدماغ لاحقاً عند الجرعات المرتفعة بما يكفي.",
+              "عبارات مثل «آمن في الأسبوع 3–4» أو «ضرر فوق 10 راد في الأسبوع 5–10» أو «تلف دماغي في الأسبوع 11–17» مبسطة أكثر من اللازم لاتخاذ قرار فردي. تحدد CDC نحو الأسابيع 8–15 بعد الإخصاب بوصفها أكثر حساسية للتأثيرات على القدرات الذهنية مع التعرض لجرعة عالية. ولا ينبغي عرض ملاحظات الجرعات العالية هذه كنتيجة متوقعة لصورة أسنان أو طرف روتينية."
+            ]
+          },
+          {
+            "heading": "أواخر الحمل ليست فترة خالية من المخاطر",
+            "paragraphs": [
+              "في الأسابيع 18–27 من الحمل تختلف حساسية النمو عن المراحل المبكرة، لكن التعرض والنتيجة موضع النظر يظلان مهمين. وبعد الأسبوع 28، من المضلل القول إن الجنين يحمل ببساطة الخطر نفسه الذي تحمله الأم. تصبح بعض آثار النمو أقل احتمالاً لاحقاً، لكن التعرض الكبير قد يظل مهماً.",
+              "خطر السرطان مسألة منفصلة عن التشوهات أو التأثيرات على نمو الدماغ. حجمه عند الجرعات التشخيصية المنخفضة غير مؤكد، ولا يوجد أسبوع حمل موثوق يمكن بعده إعلان غيابه. لذلك لا يثبت اسم مرحلة الحمل، ولا غياب أثر نمو قابل للقياس، أن التعرض خالٍ تماماً من الخطر."
+            ]
+          },
+          {
+            "heading": "التصوير المقطعي والبدائل وإمكانية الانتظار",
+            "paragraphs": [
+              "لا تستخدم الموجات فوق الصوتية أو الرنين المغناطيسي أشعة سينية مؤينة، وقد تجيب عن السؤال السريري. لكنها ليست بدائل متكافئة لكل صورة أشعة أو فحص مقطعي، وقد يهم توفرها وسرعتها. إذا لم توفر المعلومات المطلوبة في الوقت المناسب، فقد يكون التصوير المقطعي هو الاختيار الملائم. لا ينبغي تأجيل فحص ضروري تلقائياً إلى الأسبوع 20 أو إلى ما بعد الولادة.",
+              "اسألي عما ستغيره النتيجة وما قد يحدث إن تأخر الفحص. يستطيع الفريق تحديد ما إذا كان اختيارياً حقاً أو مطلوباً الآن، بما في ذلك بعد الرضوض. مادة التباين جانب منفصل من القرار: اذكري أي تفاعل سابق معها واسألي لماذا تلزم. تعبر مادة التباين اليودية المستخدمة في التصوير المقطعي المشيمة، لذا ينبغي أن يكون لاستخدامها غرض سريري، لا أن يُعد الفحص بها مماثلاً تماماً للفحص دونها."
+            ]
+          },
+          {
+            "heading": "تصوير الأسنان وعلاجها",
+            "paragraphs": [
+              "يجب تقييم ألم السن أو عدواه أثناء الحمل. يمكن إجراء صور الأسنان الضرورية في أي مرحلة، وقد يزيد تأخير العلاج العاجل المشكلة تعقيداً. أخبري طبيب الأسنان بالحمل وأي مخاوف متعلقة به ليُخطَّط للتصوير والعلاج معاً.",
+              "لا توصي إرشادات جمعية طب الأسنان الأمريكية، ADA، الحالية بالتدريع الروتيني للبطن أو الغدة الدرقية للمريضة الحامل. لذا لا يعني غياب المئزر الرصاصي وحده رعاية غير آمنة. اطلبي من الفريق شرح سبب الفحص ونهجه للحماية الإشعاعية؛ ولا تتجنبي رعاية أسنان ضرورية لمجرد أن نصيحة قديمة قالت إن كل حامل تحتاج إلى درع."
+            ]
+          },
+          {
+            "heading": "لماذا تغيرت توصية التدريع الروتيني للمريضة؟",
+            "paragraphs": [
+              "لا يحجب الدرع فوق البطن إلا القليل من الإشعاع المتشتت داخل الجسم من المنطقة المفحوصة. وإذا دخل الصورة أو أثر في التحكم التلقائي بالتعرض، فقد يخفي معلومات أو يؤدي إلى صورة إضافية أو يزيد التعرض. لذلك توصي AAPM بعدم الاستخدام الروتيني لدروع الغدد التناسلية والجنين للمريض أثناء التصوير التشخيصي بالأشعة السينية.",
+              "هذا لا يلغي الحماية من الإشعاع. يظل اختيار الفحص المناسب وتحديد الحزمة والتقنية الملائمة وتجنب الإعادة غير الضرورية أموراً مهمة. أما الحواجز والمآزر الواقية للعاملين أو المساعدين أثناء التعرض فلها غرض مختلف. اتبعي تعليمات القسم بدلاً من وضع درع بنفسك أو افتراض أن كل مكان يستخدم البروتوكول نفسه."
+            ]
+          },
+          {
+            "heading": "إذا حدث التصوير قبل معرفة الحمل",
+            "paragraphs": [
+              "تواصلي مع طبيب متابعة الحمل وقسم التصوير مع تاريخ الفحص ومنطقة الجسم ونوعه وعدد الفحوص. اذكري أي إجراء طويل أو علاج إشعاعي وأدق تواريخ الحمل المتاحة. يمكن للفريق تحديد ما إذا كانت الطمأنة المعتادة كافية أو إن كان اختصاصي الفيزياء الطبية يحتاج إلى تقدير تعرض الجنين من السجلات الفعلية.",
+              "يفيد الحساب الفردي خصوصاً إذا احتُمل تعرض كبير للبطن أو الحوض، أو لزم جمع عدة تعرضات في تقييم واحد. طلب الحساب ليس علامة على اكتشاف ضرر بالفعل. لا تتخذي قراراً بشأن الحمل من جدول جرعات عام عبر الإنترنت. المراقبة الإضافية، إن لزمت، تعتمد على التقييم وأي مخاوف أخرى تخص الحمل؛ ولا تُطلب صور إضافية تلقائياً بعد كل أشعة سينية."
+            ]
+          },
+          {
+            "heading": "قبل الإخصاب وبعد الفحص",
+            "paragraphs": [
+              "لا تترك الأشعة السينية العادية أو التصوير المقطعي مادة مشعة في الجسم. لذلك يختلف فحص تشخيصي سابق عن مصدر إشعاعي مستمر. لا تدعم الأدلة التنبؤ بالعقم أو الضرر لطفل مستقبلي بسبب صورة أشعة تشخيصية عادية، لكن لا يجوز تعميم هذه الطمأنة على علاج السرطان بجرعات عالية.",
+              "إذا كان من الممكن أن يكون الحمل قد بدأ بالفعل، فأفصحي عن هذا الاحتمال قبل الفحص. تستخدم فحوص الطب النووي والعلاجات المشعة مواد وتعليمات مختلفة، لذا اسألي عن الإجراء المحدد بدلاً من تطبيق نصيحة الأشعة البسيطة عليه. اتبعي أي نصيحة خاصة بالإجراء بشأن الإخصاب، ولا تستنبطي فترة انتظار موحدة من مقال عبر الإنترنت."
+            ]
+          },
+          {
+            "heading": "مرافقة طفل والعمل قرب الإشعاع",
+            "paragraphs": [
+              "يمكنك إبلاغ القسم بأن طفلك يحتاج إلى الدعم وأنك حامل أو قد تكونين كذلك. لا تمسكي الطفل أثناء التعرض للأشعة؛ اطلبي من الموظفين ترتيب مساعد آخر أو دعم مناسب. اتبعي التعليمات بشأن مكان الانتظار. وإذا ساعدتِ من قبل دون معرفة الحمل، أبلغي بما حدث ليقيّم القسم الظروف، بدلاً من افتراض أن جرعة طفلك كانت جرعتك أيضاً.",
+              "إذا كان الإشعاع جزءاً من عملك، ناقشي الحمل مع المشرف المختص أو الصحة المهنية أو مسؤول السلامة الإشعاعية. راجعي المهام والمراقبة والتدابير الواقية وفق القواعد المحلية. يعتمد استمرار العمل أو تعديل المهام أو تغييرها على تقييم التعرض الفعلي. عتبات مشورة جرعة المريضة ليست حدوداً مهنية، وإيقاف التدريع الروتيني للمريض لا يلغي متطلبات حماية العاملين."
+            ]
+          },
+          {
+            "heading": "أسئلة للموعد",
+            "paragraphs": [
+              "اسألي: ما التشخيص الذي نتحقق منه؟ هل ستغير النتيجة العلاج؟ هل تستطيع الموجات فوق الصوتية أو الرنين الإجابة عن السؤال نفسه في الوقت المناسب؟ ما خطر الانتظار؟ هل سيكون الحمل داخل الحزمة المباشرة؟ هل يحتاج هذا الفحص إلى تقدير جرعة الجنين؟ وإن حدث التعرض سابقاً، فاسألي من سيراجع السجلات ومتى ستتلقين الشرح.",
+              "احتفظي بتقرير الفحص والتواريخ وخطة المتابعة المتفق عليها معاً. إذا لم يكن الشرح واضحاً أو استمر القلق، اطلبي مناقشة مع فريق الأشعة أو الحمل. ينبغي أن يمضي العلاج الطارئ اللازم أثناء تنسيق الفرق؛ ولا يجوز أن يؤخر انتظار تقدير الإشعاع السابق تقييم مرض أو إصابة خطيرة حالية."
+            ]
+          }
+        ],
+        "takeaways": [
+          "قد يحمي التصوير الضروري الصحة أثناء الحمل؛ ناقشي السؤال السريري وعواقب التأخير.",
+          "منطقة الجسم والتقنية وجرعة الجنين الممتصة وتوقيت النمو أهم من مجرد تسمية «أشعة سينية».",
+          "ليست 5 أو 10 راد ولا أسبوع حمل معين حدوداً موحدة لخطر صفري أو ضرر مؤكد.",
+          "التدريع الروتيني للمريض يختلف عن حماية العاملين والمساعدين.",
+          "يُقيَّم التعرض غير المتوقع من السجلات الفعلية، مع مشورة متخصصة عند الحاجة."
+        ],
+        "faq": [
+          {
+            "q": "هل الأشعة في الأسابيع 5–10 خطيرة دائماً؟",
+            "a": "لا. تهم منطقة الجسم وجرعة الجنين الفعلية، وكذلك حساب الأسابيع من آخر دورة أو من الإخصاب. النمو المبكر حساس لجرعات مرتفعة بما يكفي، لكن هذا لا يجعل صورة الأسنان أو الطرف العادية مساوية لتعرض عالي الجرعة. اطلبي من فريق التصوير تقييم الفحص الفعلي."
+          },
+          {
+            "q": "هل التعرض في الأسابيع 11–17 يعني تلفاً دماغياً؟",
+            "a": "لا. تحدد أبحاث الجرعات العالية فترة حساسية أكبر لنمو الدماغ، وغالباً ما تُذكر بوصفها الأسابيع 8–15 بعد الإخصاب. ولا تتنبأ بالضرر من أسبوع الحمل وحده. يحتاج الاختصاصي إلى تفاصيل الفحص وتقدير جرعة الجنين عند اللزوم وتأريخ الحمل بدقة."
+          },
+          {
+            "q": "هل التصوير بلا خطر في الأسابيع 18–27 أو بعد الأسبوع 28؟",
+            "a": "لا يوجد أسبوع حمل يمثل حداً شاملاً لانعدام الخطر. تتغير حساسية النمو، لكن الجرعة ونوع الأثر يظلان مهمين. لا ينبغي وصف الحمل المتأخر بأنه يحمل ببساطة خطر الأم الإشعاعي، وعدم اليقين حول خطر السرطان مختلف عن خطر خلل النمو."
+          },
+          {
+            "q": "ما الذي يحدد الخطر وما معنى 5 و10 راد؟",
+            "a": "تشمل العوامل المهمة جرعة الجنين الممتصة ومنطقة الجسم والتقنية ونمط التعرض وتوقيت النمو. خمسة راد تساوي 50 ميلي غراي و10 راد تساوي 100 ميلي غراي. لا تساوي هذه أرقام الجرعة الفعالة للبالغين بالميلي سيفرت، ولا يمثل أي منها فاصلاً تلقائياً بين الأمان والضرر لحمل معين."
+          },
+          {
+            "q": "هل ألغي تصويراً مقطعياً أو صورة أسنان ضرورية؟",
+            "a": "ناقشي الحاجة مع الفريق السريري بدلاً من الإلغاء بسبب الحمل وحده. يفيد البديل إذا أجاب في الوقت المناسب؛ وقد يضر تأخير التشخيص العاجل أو علاج الأسنان. أخبري الفريق بالحمل ليختار الفحص ويحسنه."
+          },
+          {
+            "q": "ماذا إن أجريت الأشعة قبل نتيجة حمل إيجابية؟",
+            "a": "أعطي طبيب الحمل وقسم التصوير التاريخ والفحص ومنطقة الجسم. معظم التعرضات التشخيصية مطمئنة، لكن التعرض الكبير أو غير المؤكد قد يحتاج إلى تقييم فردي لجرعة الجنين. التعرض التشخيصي وحده ليس سبباً تلقائياً لإنهاء الحمل أو ترتيب مراقبة إضافية."
+          },
+          {
+            "q": "هل غياب المئزر الرصاصي يعني أن الجنين لم يكن محمياً؟",
+            "a": "لا. لم تعد إرشادات الفيزياء الطبية الرئيسية توصي بالتدريع الروتيني للجنين لدى المريضة، وتنصح إرشادات الأسنان أيضاً بعدم استخدامه روتينياً. لا يوقف المئزر التشتت الداخلي وقد يعوق التصوير. حواجز العاملين ومعدات حماية المساعدين أثناء التعرض مسألة مختلفة."
+          },
+          {
+            "q": "هل أمسك طفلي للأشعة أو أستمر بالعمل في الأشعة؟",
+            "a": "لا تمسكي الطفل أثناء التعرض إذا كنت حاملاً أو قد تكونين كذلك؛ أبلغي الموظفين ليرتبوا الدعم. تحتاج قرارات العمل إلى تقييم إشعاعي مهني واحتياطات محلية، لا حظر تلقائي أو عتبة جرعة المريضة. أبلغي عن أي تعرض غير متوقع بتفاصيله للحصول على المشورة."
+          }
+        ],
+        "evidence": {
+          "updated": "تم التحقق من الأدلة في 6 نوفمبر 2026",
+          "guidance": [
+            "أخبري فريق التصوير بالحمل أو احتماله والتواريخ والفحوص المرتبطة الحديثة قبل الإجراء.",
+            "اسألي إن كان البديل يجيب في الوقت المناسب وما عواقب تأخير الرعاية الضرورية.",
+            "عند تعرض غير متوقع، احتفظي بالتقارير والتواريخ الفعلية واسألي إن كانت مراجعة الأشعة أو الفيزياء الطبية مطلوبة."
+          ],
+          "bemama": "يساعدك BeMama على تنظيم تواريخ الفحوص والتقارير وتواريخ الحمل والأسئلة لفريقي الحمل والتصوير. لا يستطيع حساب جرعة إشعاع الجنين أو تفسير صورة أو توقع نتيجة فردية أو تقرير ما إذا كان عليك إجراء فحص أو الاستمرار في الحمل.",
+          "safety": "لا تؤخري تقييم مرض أو إصابة خطيرة بسبب الخوف من الإشعاع. أخبري الموظفين بالحمل واتبعي خطة التصوير والعلاج المتفق عليها. لا تحسبي خطر الجنين من جداول جرعات البالغين، ولا تفترضي أن غياب المئزر سبب ضرراً، ولا تتخذي قراراً بشأن الحمل من عتبة راد وحدها. التعرض الكبير أو غير المؤكد يحتاج إلى مشورة سريرية فردية.",
+          "sources": [
+            {
+              "organization": "ACOG",
+              "title": "التصوير التشخيصي أثناء الحمل والرضاعة: رأي اللجنة 723، 2017",
+              "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/10/guidelines-for-diagnostic-imaging-during-pregnancy-and-lactation"
+            },
+            {
+              "organization": "IAEA",
+              "title": "الحوامل: تعرض المريضة وتقييم الجرعة والأسئلة المهنية",
+              "url": "https://www.iaea.org/resources/rpop/health-professionals/radiology/pregnant-women"
+            },
+            {
+              "organization": "UKTIS",
+              "title": "التعرض للإشعاع المؤين في الحمل: ملخص عام، مايو 2025",
+              "url": "https://uktis.org/monographs/exposure-to-ionising-radiation-in-pregnancy/"
+            },
+            {
+              "organization": "CDC",
+              "title": "الإشعاع والحمل: معلومات للأطباء، يناير 2025",
+              "url": "https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/pregnancy.html"
+            },
+            {
+              "organization": "ACR / RSNA / RadiologyInfo",
+              "title": "جرعة الإشعاع: مقاييس الجرعة الفعالة للبالغين وحدودها، أبريل 2025",
+              "url": "https://www.radiologyinfo.org/en/info/safety-xray"
+            },
+            {
+              "organization": "ACR / RSNA / RadiologyInfo",
+              "title": "سلامة التصوير المقطعي أثناء الحمل، مارس 2025",
+              "url": "https://www.radiologyinfo.org/en/info/safety-ct-pregnancy"
+            },
+            {
+              "organization": "جمعية طب الأسنان الأمريكية",
+              "title": "الحمل: رعاية الأسنان وصور الأشعة",
+              "url": "https://www.ada.org/resources/ada-library/oral-health-topics/pregnancy"
+            },
+            {
+              "organization": "AAPM",
+              "title": "تدريع الغدد التناسلية والجنين للمريض: بيان الموقف الساري PS 8-A",
+              "url": "https://www.aapm.org/org/policies/details.asp?id=2552"
+            },
+            {
+              "organization": "AAPM",
+              "title": "تدريع المريض في التصوير التشخيصي: أسئلة المهنيين والمرضى",
+              "url": "https://www.aapm.org/org/policies/documents/CARES_FAQs_Patient_Shielding.pdf"
+            },
+            {
+              "organization": "FDA",
+              "title": "الأشعة السينية والحمل وأنت: كتيب للمريضة",
+              "url": "https://www.fda.gov/radiation-emitting-products/medical-x-ray-imaging/x-rays-pregnancy-and-you"
+            },
+            {
+              "organization": "CDC / NIOSH",
+              "title": "الإشعاع المؤين والصحة الإنجابية: تحديث أكتوبر 2026",
+              "url": "https://www.cdc.gov/niosh/reproductive-health/prevention/ionizing-radiation.html"
+            },
+            {
+              "organization": "AAPM",
+              "title": "دليل التواصل حول التصوير الطبي: النشاط الإشعاعي بعد التصوير، مارس 2022",
+              "url": "https://www.aapm.org/pubs/reports/AAPMRadiationandMedicalImagingCommunicationGuide.pdf"
+            }
+          ],
+          "updatedIso": "2026-11-06"
+        }
+      },
+      "fr": {
+        "title": "Rayons X pendant la grossesse : dose, moment et décisions",
+        "description": "Comprendre une exposition nécessaire ou imprévue aux rayons X pendant la grossesse : dose fœtale, stade, scanner, soins dentaires, protections et bilan individuel.",
+        "intro": "Une radiographie nécessaire peut aider à diagnostiquer une blessure ou une maladie pendant la grossesse. Un examen réalisé avant de savoir que vous étiez enceinte ne signifie pas automatiquement que le bébé a été lésé. Les questions utiles concernent l’examen effectué, la région exposée, la dose estimée atteignant la grossesse et son stade. La plupart des examens diagnostiques utilisent des doses bien inférieures à celles associées à des atteintes du développement, mais une réassurance générale ne remplace pas l’évaluation d’une exposition inhabituelle ou importante.",
+        "sections": [
+          {
+            "heading": "Commencer par la raison de l’examen",
+            "paragraphs": [
+              "Une fracture, une infection dentaire ou une maladie grave peut nécessiter une imagerie afin de ne pas retarder le traitement. Le clinicien met en balance les conséquences d’un diagnostic manqué et l’exposition liée à l’examen. La grossesse justifie de choisir et d’optimiser soigneusement l’examen ; elle ne justifie pas automatiquement de refuser une imagerie nécessaire.",
+              "Dites au prescripteur et au manipulateur en radiologie que vous êtes enceinte, pourriez l’être ou essayez de concevoir. Précisez les dates estimées de grossesse et les examens récents pertinents. Lors d’une évaluation urgente pour une blessure ou une maladie, informez rapidement l’équipe plutôt que de différer les soins en cherchant un calcul du risque en ligne."
+            ]
+          },
+          {
+            "heading": "La région du corps compte",
+            "paragraphs": [
+              "Lors d’un examen dentaire, d’un membre, de la tête ou du thorax, la grossesse se trouve généralement hors du faisceau direct. Le rayonnement qui l’atteint est bien moindre que lorsque l’abdomen ou le bassin est examiné directement. Le seul nom de l’examen ne détermine cependant pas la dose individuelle : technique, nombre d’images, étendue du scanner et caractéristiques de la patiente comptent.",
+              "Un examen abdominal ou pelvien n’est pas automatiquement interdit. Il exige une indication clinique claire et un protocole fournissant l’information nécessaire avec une exposition adaptée. Une radiographie simple, un scanner et une intervention prolongée guidée par imagerie peuvent délivrer des doses très différentes. Le nombre de rendez-vous ne remplace pas le compte rendu réel de l’examen."
+            ]
+          },
+          {
+            "heading": "Que signifient rad, gray et milligray ?",
+            "paragraphs": [
+              "La dose absorbée décrit l’énergie déposée dans un tissu. Ici, la quantité pertinente est la dose atteignant l’embryon ou le fœtus, généralement exprimée en milligrays, ou mGy. Un rad vaut 10 mGy : 5 rad correspondent à 50 mGy et 10 rad à 100 mGy. Ces conversions n’indiquent pas la quantité réellement reçue par votre bébé.",
+              "Un tableau d’imagerie pour adultes peut plutôt indiquer une dose efficace en millisieverts, ou mSv. Il s’agit d’une autre mesure, utilisée pour décrire le risque radiologique global, et non d’un substitut direct aux mGy fœtaux. De même, un chiffre de dose dans un compte rendu de scanner peut mesurer la sortie de l’appareil plutôt que la dose fœtale. Un radiologue ou un physicien médical peut expliquer le chiffre dont vous disposez."
+            ]
+          },
+          {
+            "heading": "Pourquoi 5 ou 10 rad ne sont pas une règle personnelle de sécurité",
+            "paragraphs": [
+              "L’ACOG indique qu’aucune anomalie fœtale, restriction de croissance ou perte de grossesse n’a été rapportée sous 50 mGy. Selon UKTIS, une exposition sous ce niveau ne justifierait habituellement pas, à elle seule, une interruption de grossesse ou une surveillance fœtale supplémentaire. Ces affirmations concernent des effets et décisions cliniques précis ; elles ne promettent pas que tout risque possible est nul. La plupart des examens diagnostiques isolés restent sous ce niveau.",
+              "Les recommandations de l’AIEA, fondées sur la CIPR, indiquent qu’une dose fœtale inférieure à 100 mGy ne justifie pas une interruption pour le seul motif radiologique. Cela n’autorise pas à viser cette dose ; la dépasser ne signifie pas non plus que des lésions sont certaines ou qu’une interruption est obligatoire. Une exposition plus élevée ou incertaine exige un bilan spécialisé de la dose, du moment et des circonstances, avec un échange sur les choix possibles."
+            ]
+          },
+          {
+            "heading": "Semaines de grossesse et étapes du développement",
+            "paragraphs": [
+              "Les références radiologiques peuvent compter les semaines depuis la conception, tandis que les dossiers obstétricaux datent habituellement la grossesse depuis les dernières règles, environ deux semaines auparavant. Confondre ces repères peut situer l’exposition dans la mauvaise période du développement. Les premières semaines après la conception, la formation des organes et le développement cérébral ultérieur ont des sensibilités différentes à des doses suffisamment élevées.",
+              "Des formules comme « sans risque à 3–4 semaines », « nocif au-delà de 10 rad à 5–10 semaines » ou « lésions cérébrales à 11–17 semaines » sont trop sommaires pour une décision individuelle. Le CDC identifie environ 8–15 semaines après la conception comme une période particulièrement sensible aux effets intellectuels d’une forte exposition. Ces observations à haute dose ne doivent pas être présentées comme l’effet attendu d’une radiographie courante des dents ou d’un membre."
+            ]
+          },
+          {
+            "heading": "La fin de grossesse n’est pas une période sans risque",
+            "paragraphs": [
+              "À 18–27 semaines de grossesse, la sensibilité du développement diffère de celle du début, mais l’exposition et l’effet considéré restent importants. Après 28 semaines, dire que le fœtus a simplement le même risque que la mère est trompeur. Certains effets développementaux deviennent moins probables plus tard, mais une forte exposition peut toujours compter.",
+              "Le risque de cancer est une question distincte des malformations ou des effets sur le développement cérébral. Son ampleur aux faibles doses diagnostiques est incertaine, et aucune semaine fiable ne permet d’affirmer qu’il disparaît ensuite. Ni une catégorie d’âge gestationnel ni l’absence d’effet développemental mesurable ne prouvent donc qu’une exposition est absolument sans risque."
+            ]
+          },
+          {
+            "heading": "Scanner, alternatives et possibilité d’attendre",
+            "paragraphs": [
+              "L’échographie et l’IRM n’utilisent pas de rayons X ionisants et peuvent répondre à la question clinique. Elles ne sont pas interchangeables avec toute radiographie ou tout scanner ; disponibilité et rapidité peuvent compter. Si elles ne donnent pas l’information nécessaire à temps, le scanner peut être le bon choix. Un examen nécessaire ne doit pas être reporté automatiquement à 20 semaines ou après la naissance.",
+              "Demandez ce que le résultat changera et ce qui pourrait arriver en cas de retard. L’équipe peut déterminer si l’examen est réellement différable ou nécessaire maintenant, notamment après un traumatisme. Le produit de contraste fait l’objet d’une décision distincte : signalez toute réaction antérieure et demandez pourquoi il est nécessaire. Le contraste iodé du scanner traverse le placenta ; son utilisation doit donc avoir un objectif clinique, sans être assimilée à un examen sans contraste."
+            ]
+          },
+          {
+            "heading": "Imagerie et soins dentaires",
+            "paragraphs": [
+              "Une dent douloureuse ou une infection dentaire doit être évaluée pendant la grossesse. Les radiographies dentaires nécessaires peuvent être réalisées à n’importe quel stade, et retarder un traitement urgent peut compliquer le problème. Informez le dentiste de la grossesse et des éventuelles préoccupations obstétricales afin de planifier ensemble imagerie et traitement.",
+              "Les recommandations actuelles de l’Association dentaire américaine, ADA, ne préconisent pas de protection abdominale ou thyroïdienne systématique pour la patiente enceinte. L’absence de tablier plombé ne signifie donc pas, à elle seule, que les soins sont dangereux. Demandez à l’équipe d’expliquer l’indication et sa démarche de radioprotection ; ne renoncez pas à des soins nécessaires uniquement parce qu’un ancien conseil imposait une protection à toute femme enceinte."
+            ]
+          },
+          {
+            "heading": "Pourquoi les protections systématiques ont changé",
+            "paragraphs": [
+              "Une protection sur l’abdomen bloque peu le rayonnement diffusé à l’intérieur du corps depuis la région examinée. Si elle entre dans l’image ou perturbe le réglage automatique de l’exposition, elle peut masquer des informations, imposer une nouvelle image ou augmenter l’exposition. L’AAPM déconseille donc les protections gonadiques et fœtales systématiques du patient pendant l’imagerie diagnostique par rayons X.",
+              "Cela ne supprime pas la radioprotection. Le bon choix d’examen, la limitation du faisceau, une technique adaptée et l’évitement de répétitions inutiles restent importants. Les barrières et tabliers destinés au personnel ou aux personnes aidant pendant une exposition ont un autre rôle. Suivez les consignes du service plutôt que de placer vous-même une protection ou de supposer que tous les lieux appliquent le même protocole."
+            ]
+          },
+          {
+            "heading": "Si l’imagerie a précédé la découverte de la grossesse",
+            "paragraphs": [
+              "Contactez le professionnel qui suit la grossesse et le service d’imagerie avec la date, la région du corps, le type et le nombre d’examens. Mentionnez toute intervention prolongée ou radiothérapie, ainsi que les dates de grossesse les plus fiables. L’équipe peut déterminer si une réassurance habituelle suffit ou si un physicien médical doit estimer l’exposition fœtale à partir des dossiers réels.",
+              "Un calcul individuel est particulièrement utile lorsqu’une exposition abdominale ou pelvienne importante est possible, ou lorsque plusieurs expositions doivent être considérées ensemble. Sa demande ne signifie pas qu’une lésion a déjà été constatée. Ne prenez pas de décision concernant la grossesse à partir d’un tableau générique en ligne. Une surveillance supplémentaire, si elle est indiquée, dépend du bilan et des autres préoccupations obstétricales ; des examens supplémentaires ne sont pas automatiquement nécessaires après chaque radiographie."
+            ]
+          },
+          {
+            "heading": "Avant la conception et après l’examen",
+            "paragraphs": [
+              "Les radiographies ordinaires et le scanner ne laissent pas de substance radioactive dans le corps. Un examen diagnostique passé diffère donc d’une source persistante de rayonnement. Les données ne permettent pas de prédire une infertilité ou un dommage à un futur enfant après une radiographie diagnostique ordinaire, mais cette réassurance ne doit pas être étendue aux traitements anticancéreux à forte dose.",
+              "Si une grossesse a pu commencer, signalez cette possibilité avant l’examen. Les examens de médecine nucléaire et les traitements radioactifs utilisent d’autres substances et consignes ; interrogez l’équipe sur la procédure exacte plutôt que d’appliquer les conseils d’une radiographie simple. Respectez les recommandations propres à la procédure concernant la conception, sans inventer un délai universel à partir d’un article en ligne."
+            ]
+          },
+          {
+            "heading": "Accompagner un enfant et travailler près des rayonnements",
+            "paragraphs": [
+              "Dites au service que votre enfant a besoin d’aide et que vous êtes enceinte ou pourriez l’être. Ne tenez pas l’enfant pendant l’exposition aux rayons X ; demandez au personnel de prévoir un autre accompagnant ou un soutien approprié. Respectez le lieu d’attente indiqué. Si vous avez déjà aidé sans connaître la grossesse, signalez les faits afin que le service examine les circonstances, sans supposer que la dose de l’enfant était aussi la vôtre.",
+              "Si votre travail implique des rayonnements, discutez de la grossesse avec le responsable concerné, la médecine du travail ou la personne chargée de la radioprotection. Revoyez les tâches, la surveillance et les protections selon les règles locales. Poursuivre le travail, adapter les tâches ou changer de fonction dépend du bilan réel d’exposition. Les seuils utilisés pour conseiller une patiente ne sont pas des limites professionnelles, et l’abandon d’une protection systématique du patient n’annule pas les protections du personnel."
+            ]
+          },
+          {
+            "heading": "Questions à poser au rendez-vous",
+            "paragraphs": [
+              "Demandez : Quel diagnostic recherche-t-on ? Le résultat modifiera-t-il le traitement ? Une échographie ou une IRM peut-elle répondre à temps à la même question ? Quel est le risque d’attendre ? La grossesse sera-t-elle dans le faisceau direct ? Faut-il estimer la dose fœtale pour cet examen ? Si l’exposition a déjà eu lieu, demandez qui étudiera le dossier et quand vous recevrez une explication.",
+              "Conservez ensemble le compte rendu, les dates et le suivi convenu. Si l’explication reste floue ou l’anxiété persiste, demandez un échange avec l’équipe de radiologie ou de maternité. Le traitement urgent nécessaire doit avancer pendant que les équipes se coordonnent ; attendre une estimation rétrospective du rayonnement ne doit pas retarder l’évaluation d’une maladie ou d’une blessure grave actuelle."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Une imagerie nécessaire peut protéger la santé pendant la grossesse : discutez de la question clinique et des conséquences d’un retard.",
+          "La région, la technique, la dose fœtale absorbée et le stade du développement comptent davantage que l’étiquette « rayons X ».",
+          "Ni une dose de 5 ou de 10 rad ni une semaine particulière ne constituent une frontière universelle entre risque nul et dommage certain.",
+          "La protection systématique du patient diffère des mesures destinées aux travailleurs et aux accompagnants.",
+          "Une exposition imprévue s’évalue sur les dossiers réels, avec une consultation spécialisée si nécessaire."
+        ],
+        "faq": [
+          {
+            "q": "Une radiographie à 5–10 semaines est-elle toujours dangereuse ?",
+            "a": "Non. La région du corps et la dose fœtale réelle comptent, tout comme le calcul des semaines depuis les dernières règles ou la conception. Le développement précoce est sensible à des doses suffisamment fortes, mais cela ne rend pas une radiographie ordinaire des dents ou d’un membre équivalente à une forte exposition. Demandez l’évaluation de l’examen réel."
+          },
+          {
+            "q": "Une exposition à 11–17 semaines signifie-t-elle une lésion cérébrale ?",
+            "a": "Non. Les recherches à forte dose identifient une période de sensibilité accrue du développement cérébral, souvent située à 8–15 semaines après la conception. Elles ne prédisent pas un dommage à partir de la seule semaine de grossesse. Le spécialiste a besoin des détails de l’examen, d’une estimation de dose fœtale si indiquée et d’une datation précise."
+          },
+          {
+            "q": "L’imagerie est-elle sans risque à 18–27 semaines ou après 28 semaines ?",
+            "a": "Aucune semaine de grossesse n’est une limite générale de risque nul. La sensibilité du développement change, mais la dose et le type d’effet restent importants. La fin de grossesse ne doit pas être décrite comme ayant simplement le risque radiologique maternel ; l’incertitude sur le cancer diffère du risque d’anomalie du développement."
+          },
+          {
+            "q": "Qu’est-ce qui détermine le risque et que valent 5 et 10 rad ?",
+            "a": "Les facteurs importants sont notamment la dose fœtale absorbée, la région, la technique, le schéma d’exposition et le stade du développement. Cinq rad valent 50 mGy et 10 rad valent 100 mGy. Ces chiffres ne sont pas des doses efficaces adultes en mSv, et aucun n’est un seuil automatique de sécurité ou de dommage pour une grossesse donnée."
+          },
+          {
+            "q": "Faut-il annuler un scanner ou une radiographie dentaire nécessaire ?",
+            "a": "Discutez de la nécessité avec l’équipe plutôt que d’annuler pour la seule raison de la grossesse. Une alternative est utile si elle répond à temps ; retarder un diagnostic urgent ou des soins dentaires peut nuire. Signalez la grossesse pour permettre le choix et l’optimisation de l’examen."
+          },
+          {
+            "q": "Et si la radiographie a précédé un test de grossesse positif ?",
+            "a": "Transmettez au professionnel de la grossesse et au service d’imagerie la date, l’examen et la région du corps. La plupart des expositions diagnostiques sont rassurantes, mais une exposition importante ou incertaine peut nécessiter un bilan individuel de dose fœtale. L’exposition diagnostique seule ne justifie pas automatiquement une interruption de grossesse ou une surveillance supplémentaire."
+          },
+          {
+            "q": "L’absence de tablier plombé signifie-t-elle que le bébé n’était pas protégé ?",
+            "a": "Non. Les grandes recommandations de physique médicale ne préconisent plus la protection fœtale systématique du patient, et les recommandations dentaires la déconseillent aussi. Un tablier n’arrête pas la diffusion interne et peut gêner l’imagerie. Les barrières du personnel et les équipements des accompagnants pendant l’exposition sont une autre question."
+          },
+          {
+            "q": "Puis-je tenir mon enfant pour sa radiographie ou continuer à travailler en radiologie ?",
+            "a": "Ne tenez pas un enfant pendant l’exposition si vous êtes ou pourriez être enceinte ; prévenez le personnel pour qu’il organise l’aide. Les décisions professionnelles nécessitent une évaluation de l’exposition professionnelle aux rayonnements et des précautions locales, non une interdiction automatique ou un seuil destiné aux patientes. Signalez toute exposition imprévue avec ses détails pour obtenir un conseil."
+          }
+        ],
+        "evidence": {
+          "updated": "Données vérifiées le 6 novembre 2026",
+          "guidance": [
+            "Avant l’examen, signalez à l’équipe une grossesse possible ou confirmée, vos dates et les examens récents pertinents.",
+            "Demandez si une alternative peut répondre à temps et quelles seraient les conséquences d’un retard de soins nécessaires.",
+            "Après une exposition imprévue, conservez les comptes rendus et dates réels et demandez si une revue en radiologie ou en physique médicale est nécessaire."
+          ],
+          "bemama": "BeMama vous aide à organiser les dates d’examens, les comptes rendus, les dates de grossesse et les questions pour les équipes de maternité et d’imagerie. Il ne peut pas calculer la dose fœtale, interpréter une image, prédire un résultat individuel ni décider si vous devez passer un examen ou poursuivre une grossesse.",
+          "safety": "Ne retardez pas l’évaluation d’une maladie ou d’une blessure grave par peur des rayonnements. Signalez la grossesse et suivez le plan d’imagerie et de traitement convenu. Ne calculez pas le risque fœtal avec des tableaux adultes, ne supposez pas qu’un tablier absent a causé un dommage et ne décidez pas de la grossesse sur un seuil en rad seul. Une exposition importante ou incertaine nécessite un avis clinique individuel.",
+          "sources": [
+            {
+              "organization": "ACOG",
+              "title": "Imagerie diagnostique pendant la grossesse et l’allaitement : avis du comité 723, 2017",
+              "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/10/guidelines-for-diagnostic-imaging-during-pregnancy-and-lactation"
+            },
+            {
+              "organization": "AIEA",
+              "title": "Femmes enceintes : exposition de la patiente, estimation de dose et questions professionnelles",
+              "url": "https://www.iaea.org/resources/rpop/health-professionals/radiology/pregnant-women"
+            },
+            {
+              "organization": "UKTIS",
+              "title": "Exposition aux rayonnements ionisants pendant la grossesse : résumé public, mai 2025",
+              "url": "https://uktis.org/monographs/exposure-to-ionising-radiation-in-pregnancy/"
+            },
+            {
+              "organization": "CDC",
+              "title": "Rayonnements et grossesse : informations aux cliniciens, janvier 2025",
+              "url": "https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/pregnancy.html"
+            },
+            {
+              "organization": "ACR / RSNA / RadiologyInfo",
+              "title": "Dose de rayonnement : mesures de dose efficace adulte et limites, avril 2025",
+              "url": "https://www.radiologyinfo.org/en/info/safety-xray"
+            },
+            {
+              "organization": "ACR / RSNA / RadiologyInfo",
+              "title": "Sécurité du scanner pendant la grossesse, mars 2025",
+              "url": "https://www.radiologyinfo.org/en/info/safety-ct-pregnancy"
+            },
+            {
+              "organization": "Association dentaire américaine",
+              "title": "Grossesse : soins dentaires et radiographies",
+              "url": "https://www.ada.org/resources/ada-library/oral-health-topics/pregnancy"
+            },
+            {
+              "organization": "AAPM",
+              "title": "Protection gonadique et fœtale du patient : position en vigueur PS 8-A",
+              "url": "https://www.aapm.org/org/policies/details.asp?id=2552"
+            },
+            {
+              "organization": "AAPM",
+              "title": "Protection du patient en imagerie diagnostique : questions professionnelles et des patients",
+              "url": "https://www.aapm.org/org/policies/documents/CARES_FAQs_Patient_Shielding.pdf"
+            },
+            {
+              "organization": "FDA",
+              "title": "Rayons X, grossesse et vous : brochure destinée aux patientes",
+              "url": "https://www.fda.gov/radiation-emitting-products/medical-x-ray-imaging/x-rays-pregnancy-and-you"
+            },
+            {
+              "organization": "CDC / NIOSH",
+              "title": "Rayonnements ionisants et santé reproductive : mise à jour d’octobre 2026",
+              "url": "https://www.cdc.gov/niosh/reproductive-health/prevention/ionizing-radiation.html"
+            },
+            {
+              "organization": "AAPM",
+              "title": "Guide de communication en imagerie médicale : radioactivité après l’imagerie, mars 2022",
+              "url": "https://www.aapm.org/pubs/reports/AAPMRadiationandMedicalImagingCommunicationGuide.pdf"
+            }
+          ],
+          "updatedIso": "2026-11-06"
+        }
+      },
+      "tr": {
+        "title": "Gebelikte röntgen: doz, zamanlama ve kararlar",
+        "description": "Gebelikte gerekli veya beklenmedik röntgen maruziyetini, fetüs dozunu, zamanlamayı, BT ve diş görüntülemesini, koruyucuları ve kişisel değerlendirmeyi anlayın.",
+        "intro": "Gerekli bir röntgen, gebelik sırasında yaralanma veya hastalığın tanısına yardımcı olabilir. Gebe olduğunuzu öğrenmeden yapılan bir inceleme, bebeğin otomatik olarak zarar gördüğü anlamına gelmez. Önemli sorular hangi incelemenin yapıldığı, hangi bölgenin ışınlandığı, gebeliğe ulaşan tahmini doz ve gebeliğin hangi aşamada olduğudur. Çoğu tanısal incelemenin dozu, gelişimsel zararla ilişkilendirilen düzeylerden çok düşüktür; ancak genel bir güvence, olağandışı veya önemli bir maruziyetin değerlendirilmesinin yerini tutmaz.",
+        "sections": [
+          {
+            "heading": "Önce incelemenin nedenini öğrenin",
+            "paragraphs": [
+              "Kırık, diş enfeksiyonu veya ciddi hastalık, tedavinin gecikmemesi için görüntüleme gerektirebilir. Hekim, tanının atlanmasının sonuçlarını incelemenin getirdiği maruziyetle birlikte değerlendirir. Gebelik, incelemeyi dikkatle seçmek ve uygun biçimde optimize etmek için bir nedendir; gerekli görüntülemeyi otomatik olarak reddetme nedeni değildir.",
+              "İncelemeyi isteyen hekime ve radyoloji teknikerine gebe olduğunuzu, olabileceğinizi veya gebe kalmaya çalıştığınızı söyleyin. Tahmini gebelik tarihlerinizi ve yakın zamanda yapılan ilgili incelemeleri bildirin. Acil yaralanma veya hastalık değerlendirilirken internette risk hesabı aramak için bakımı ertelemek yerine ekibe hemen bilgi verin."
+            ]
+          },
+          {
+            "heading": "Vücut bölgesi önemlidir",
+            "paragraphs": [
+              "Diş, kol veya bacak, baş ya da göğüs incelemesinde gebelik genellikle doğrudan X-ışını demetinin dışında kalır. Ulaşan radyasyon, karın veya pelvis doğrudan incelendiğindekinden çok daha azdır. Yine de yalnızca tetkikin adı kişisel dozu belirlemez: teknik, görüntü sayısı, tarama alanı ve hastanın özellikleri önemlidir.",
+              "Karın veya pelvis incelemesi otomatik olarak yasak değildir. Açık bir klinik gerekçe ve gerekli bilgiyi uygun maruziyetle sağlayan bir protokol gerekir. Düz radyografi, bilgisayarlı tomografi (BT) ve görüntüleme eşliğinde yapılan uzun bir işlem çok farklı dozlar içerebilir. Randevu sayısını gerçek inceleme kaydının yerine koymayın."
+            ]
+          },
+          {
+            "heading": "Rad, gray ve miligray ne demektir?",
+            "paragraphs": [
+              "Soğurulan doz, dokuda bırakılan enerjiyi tanımlar. Burada önemli olan, embriyo veya fetüse ulaşan ve genellikle miligray, yani mGy ile belirtilen dozdur. Bir rad 10 mGy'ye eşittir: 5 rad 50 mGy, 10 rad ise 100 mGy'dir. Bu dönüşümler, bebeğinizin gerçekte ne kadar radyasyon aldığını söylemez.",
+              "Yetişkin görüntüleme tablosu bunun yerine milisievert, yani mSv cinsinden etkin doz gösterebilir. Bu, genel radyasyon riskini tanımlamak için kullanılan farklı bir ölçüdür; fetüse ait mGy değerinin yerine doğrudan konamaz. Benzer şekilde BT raporundaki bir doz sayısı, fetüs dozu değil cihazın çıkış ölçüsü olabilir. Radyolog veya medikal fizik uzmanı elinizdeki sayının neyi ifade ettiğini açıklayabilir."
+            ]
+          },
+          {
+            "heading": "Neden 5 veya 10 rad kişisel güvenlik kuralı değildir?",
+            "paragraphs": [
+              "ACOG, 50 mGy altında fetal anomali, büyüme kısıtlılığı veya gebelik kaybı bildirilmediğini belirtir. UKTIS, bu düzeyin altındaki maruziyetin genellikle tek başına gebeliği sonlandırmayı veya ek fetüs izlemini gerekçelendirmeyeceğini söyler. Bu ifadeler belirli sonuçlar ve klinik kararlarla ilgilidir; olası her riskin sıfır olduğunu garanti etmez. Tek başına yapılan tanısal incelemelerin çoğu bu düzeyin altındadır.",
+              "ICRP'ye dayanan IAEA rehberi, 100 mGy altındaki fetüs dozunun yalnızca radyasyon gerekçesiyle gebeliğin sonlandırılmasını haklı kılmadığını belirtir. Bu, o dozu hedefleme izni değildir; aşılması da zararın kesin veya sonlandırmanın zorunlu olduğu anlamına gelmez. Daha yüksek ya da belirsiz maruziyetlerde doz, zamanlama ve koşullar uzmanlarca değerlendirilerek mevcut seçenekler hakkında danışmanlık verilmelidir."
+            ]
+          },
+          {
+            "heading": "Gebelik haftaları ve gelişim dönemleri",
+            "paragraphs": [
+              "Radyasyonla ilgili bilimsel kaynaklar haftaları döllenmeden itibaren sayabilirken gebelik kayıtları genellikle yaklaşık iki hafta daha erken olan son âdet tarihini esas alır. Bu iki hesabı karıştırmak, maruziyeti yanlış gelişim dönemine yerleştirebilir. Döllenme sonrası ilk haftalar, organ oluşumu ve daha sonraki beyin gelişimi, yeterince yüksek dozlarda farklı duyarlılıklar gösterir.",
+              "“3–4 haftada güvenli”, “5–10 haftada 10 rad üzerinde zarar verir” veya “11–17 haftada beyin hasarı olur” gibi ifadeler kişisel karar için fazla kabadır. CDC, döllenmeden yaklaşık 8–15 hafta sonrasını yüksek doz maruziyetinin zihinsel işlevler üzerindeki etkilerine özellikle duyarlı dönem olarak tanımlar. Yüksek doz gözlemleri, sıradan bir diş veya uzuv röntgeninin beklenen sonucu olarak sunulmamalıdır."
+            ]
+          },
+          {
+            "heading": "İleri gebelik risksiz bir dönem değildir",
+            "paragraphs": [
+              "Gebeliğin 18–27. haftalarında gelişimsel duyarlılık erken dönemden farklıdır; yine de maruziyet ve incelenen sonuç önemlidir. 28. haftadan sonra fetüsün riskinin yalnızca anneyle aynı olduğunu söylemek yanıltıcıdır. Bazı gelişimsel etkiler daha ileri dönemde daha az olası hâle gelirken büyük bir maruziyet yine önemli olabilir.",
+              "Kanser riski, yapısal anomalilerden veya beyin gelişimi üzerindeki etkilerden ayrı bir sorudur. Düşük tanısal dozlarda büyüklüğü belirsizdir ve sonrasında yok olduğu söylenebilecek güvenilir bir gebelik haftası bulunmaz. Bu nedenle ne bir gebelik haftası etiketi ne de ölçülebilir gelişimsel etkinin görülmemesi, maruziyetin kesinlikle risksiz olduğunu kanıtlar."
+            ]
+          },
+          {
+            "heading": "BT, alternatifler ve bekleme kararı",
+            "paragraphs": [
+              "Ultrason ve MR iyonlaştırıcı X-ışını kullanmaz ve klinik soruyu yanıtlayabilir. Ancak her radyografinin veya BT'nin eşdeğer alternatifi değildir; erişim ve hız önemli olabilir. Gereken bilgiyi zamanında sağlayamıyorlarsa BT uygun seçim olabilir. Gerekli tarama otomatik olarak 20. haftaya veya doğum sonrasına ertelenmemelidir.",
+              "Sonucun neyi değiştireceğini ve gecikmenin neye yol açabileceğini sorun. Ekip, travma sonrasında da incelemenin gerçekten ertelenebilir mi yoksa hemen gerekli mi olduğunu belirleyebilir. Kontrast madde bu kararın ayrı bir parçasıdır: geçmişteki kontrast reaksiyonlarını bildirin ve neden gerektiğini sorun. BT'deki iyotlu kontrast plasentayı geçer; bu nedenle kullanımı klinik amaç taşımalı, kontrastsız incelemeyle aynı kabul edilmemelidir."
+            ]
+          },
+          {
+            "heading": "Diş görüntülemesi ve tedavisi",
+            "paragraphs": [
+              "Ağrılı diş veya diş enfeksiyonu gebelik sırasında değerlendirilmelidir. Gerekli diş radyografileri her dönemde çekilebilir; acil tedavinin gecikmesi sorunu karmaşıklaştırabilir. Görüntüleme ve tedavinin birlikte planlanabilmesi için diş hekimine gebeliği ve gebelikle ilgili kaygıları bildirin.",
+              "Amerikan Diş Hekimleri Birliğinin (ADA) güncel rehberi, gebe diş hastasında rutin karın veya tiroit koruyucusu önermez. Bu yüzden kurşun önlük bulunmaması tek başına güvensiz bakım anlamına gelmez. Ekipten gerekçeyi ve radyasyondan korunma yaklaşımını açıklamasını isteyin; eski tavsiyeler her gebeye koruyucu şart dedi diye gerekli diş bakımından kaçınmayın."
+            ]
+          },
+          {
+            "heading": "Rutin hasta koruyucuları neden değişti?",
+            "paragraphs": [
+              "Karın üzerine konan koruyucu, incelenen bölgeden vücudun içinde saçılan radyasyonu çok az engeller. Görüntü alanına girerse veya otomatik pozlama kontrolünü etkilerse bilgiyi örtebilir, ek görüntü gerektirebilir ya da maruziyeti artırabilir. Bu nedenle AAPM, tanısal X-ışını görüntülemesinde hastaya rutin gonad ve fetüs koruyucusu kullanılmamasını önerir.",
+              "Bu, radyasyondan korunmayı ortadan kaldırmaz. Uygun inceleme seçimi, ışın alanının sınırlandırılması, doğru teknik ve gereksiz tekrarların önlenmesi önemini korur. Çalışanlar veya maruziyet sırasında yardım eden kişiler için bariyer ve önlüklerin amacı farklıdır. Kendiniz koruyucu yerleştirmek ya da her yerde aynı protokolü varsaymak yerine bölümün talimatlarına uyun."
+            ]
+          },
+          {
+            "heading": "Gebe olduğunuzu öğrenmeden görüntüleme yapıldıysa",
+            "paragraphs": [
+              "Gebelik hekiminize ve görüntüleme bölümüne incelemenin tarihini, vücut bölgesini, türünü ve inceleme sayısını bildirin. Uzun bir işlem veya radyoterapiyi ve mevcut en doğru gebelik tarihlerini de belirtin. Ekip, olağan güvence vermenin yeterli olup olmadığını veya medikal fizik uzmanının gerçek kayıtlardan fetüs maruziyetini hesaplamasının gerekip gerekmediğini belirleyebilir.",
+              "Önemli karın veya pelvis maruziyeti olasılığında ya da birkaç maruziyetin birlikte ele alınması gerektiğinde kişisel hesap özellikle yararlıdır. Böyle bir hesap istenmesi, hasar bulunduğu anlamına gelmez. Genel internet doz tablosundan gebelik kararı çıkarmayın. Gerekirse ek izlem, değerlendirmeye ve diğer gebelik kaygılarına bağlıdır; her röntgenden sonra otomatik olarak ek tarama gerekmez."
+            ]
+          },
+          {
+            "heading": "Döllenme öncesi ve inceleme sonrası",
+            "paragraphs": [
+              "Sıradan röntgen ve BT vücutta radyoaktif madde bırakmaz. Dolayısıyla geçmiş bir tanısal inceleme, sürekli bir radyasyon kaynağından farklıdır. Kanıtlar, sıradan tanısal röntgenden dolayı kısırlık veya gelecekteki çocuğa zarar öngörmeyi desteklemez; ancak bu güvence yüksek dozlu kanser tedavisine genişletilmemelidir.",
+              "Gebeliğin başlamış olma olasılığı varsa inceleme öncesinde söyleyin. Nükleer tıp tetkikleri ve radyoaktif tedaviler farklı maddeler ve talimatlar içerir; düz röntgen tavsiyesini kullanmak yerine tam olarak yapılacak işlemi sorun. Döllenme konusunda işleme özel önerilere uyun; bir internet yazısından herkes için geçerli bekleme süresi çıkarmayın."
+            ]
+          },
+          {
+            "heading": "Çocuğa eşlik etmek ve radyasyonla çalışmak",
+            "paragraphs": [
+              "Bölüme çocuğunuzun desteğe ihtiyacı olduğunu ve gebe olduğunuzu veya olabileceğinizi söyleyebilirsiniz. X-ışını verilirken çocuğu tutmayın; başka bir yardımcı veya uygun destek ayarlanmasını isteyin. Nerede bekleyeceğinize ilişkin talimatlara uyun. Gebeliği bilmeden daha önce yardım ettiyseniz olayı bildirin; çocuğun dozunun sizin dozunuz olduğunu varsaymak yerine bölümün koşulları değerlendirmesini sağlayın.",
+              "İşiniz radyasyon içeriyorsa gebeliği ilgili yönetici, iş sağlığı birimi veya radyasyon güvenliği sorumlusuyla konuşun. Görevlerinizi, izlem ve korunma önlemlerini yerel kurallara göre gözden geçirin. Çalışmaya devam etmek, görevleri uyarlamak veya değiştirmek gerçek maruziyet değerlendirmesine bağlıdır. Hasta dozu danışmanlığındaki eşikler işyeri sınırları değildir; rutin hasta koruyucusundan vazgeçilmesi çalışanların korunma gerekliliklerini kaldırmaz."
+            ]
+          },
+          {
+            "heading": "Randevuda sorulabilecek sorular",
+            "paragraphs": [
+              "Şunları sorun: Hangi tanıyı araştırıyoruz? Sonuç tedaviyi değiştirecek mi? Ultrason veya MR aynı soruyu zamanında yanıtlayabilir mi? Beklemenin riski nedir? Gebelik doğrudan ışın demetinde mi olacak? Bu incelemede fetüs dozu tahmini gerekir mi? Zaten maruz kaldıysanız kayıtları kimin inceleyeceğini ve açıklamayı ne zaman alacağınızı sorun.",
+              "İnceleme raporunu, tarihleri ve kararlaştırılan takip planını birlikte saklayın. Açıklama net değilse veya kaygı sürüyorsa radyoloji ya da gebelik ekibiyle görüşme isteyin. Ekipler koordinasyon sağlarken gerekli acil tedavi sürmelidir; geçmiş radyasyon dozunun tahminini beklemek, mevcut ciddi hastalık veya yaralanmanın değerlendirilmesini geciktirmemelidir."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Gerekli görüntüleme gebelikte sağlığı koruyabilir; klinik soruyu ve gecikmenin sonuçlarını konuşun.",
+          "Vücut bölgesi, teknik, fetüsün soğurduğu doz ve gelişim dönemi, yalnızca “röntgen” adından daha önemlidir.",
+          "Ne 5 veya 10 rad ne de belirli bir gebelik haftası evrensel sıfır risk veya kesin zarar sınırıdır.",
+          "Rutin hasta koruyucusu ile çalışanlar ve yardımcıların korunma önlemleri farklıdır.",
+          "Beklenmedik maruziyet gerçek kayıtlardan değerlendirilmeli, gerektiğinde uzman danışmanlığı alınmalıdır."
+        ],
+        "faq": [
+          {
+            "q": "5–10. haftalarda röntgen her zaman tehlikeli midir?",
+            "a": "Hayır. Vücut bölgesi ve gerçek fetüs dozu, ayrıca haftaların son âdetten mi döllenmeden mi sayıldığı önemlidir. Erken gelişim yeterince yüksek dozlara duyarlıdır; fakat bu, sıradan diş veya uzuv radyografisini yüksek doz maruziyetiyle aynı yapmaz. Görüntüleme ekibinden gerçek incelemeyi değerlendirmesini isteyin."
+          },
+          {
+            "q": "11–17. haftalarda maruziyet beyin hasarı demek midir?",
+            "a": "Hayır. Yüksek doz araştırmaları, beyin gelişiminin daha duyarlı olduğu bir dönem belirler; bu sıklıkla döllenmeden 8–15 hafta sonrası olarak verilir. Yalnızca gebelik haftasından hasar öngörülemez. Uzman, inceleme ayrıntılarına, gerekliyse fetüs dozu tahminine ve doğru gebelik tarihlemesine ihtiyaç duyar."
+          },
+          {
+            "q": "18–27. haftalarda veya 28. haftadan sonra görüntüleme risksiz midir?",
+            "a": "Hiçbir gebelik haftası genel sıfır risk sınırı değildir. Gelişimsel duyarlılık değişir ama doz ve etki türü önemli kalır. İleri gebelik, yalnızca annenin radyasyon riskiyle aynı diye tanımlanmamalıdır; kanser riski konusundaki belirsizlik gelişimsel anomali riskinden farklıdır."
+          },
+          {
+            "q": "Riski ne belirler, 5 ve 10 rad ne anlama gelir?",
+            "a": "Fetüsün soğurduğu doz, vücut bölgesi, teknik, maruziyet düzeni ve gelişim zamanı önemli etkenlerdir. Beş rad 50 mGy, 10 rad 100 mGy eder. Bunlar yetişkin etkin dozunun mSv değerleriyle aynı değildir; hiçbiri kişisel gebelik için otomatik güvenli veya zararlı eşiği değildir."
+          },
+          {
+            "q": "Gerekli BT veya diş röntgenini iptal etmeli miyim?",
+            "a": "Yalnızca gebelik nedeniyle iptal etmek yerine gerekliliği klinik ekiple konuşun. Alternatif, soruyu zamanında yanıtlarsa yararlıdır; acil tanıyı veya diş tedavisini geciktirmek zarar verebilir. Uygun incelemenin seçilip optimize edilmesi için gebeliği bildirin."
+          },
+          {
+            "q": "Pozitif gebelik testinden önce röntgen çekildiyse ne olur?",
+            "a": "Gebelik hekiminize ve görüntüleme bölümüne tarihi, incelemeyi ve vücut bölgesini bildirin. Çoğu tanısal maruziyet güven vericidir, fakat önemli veya belirsiz maruziyet kişisel fetüs dozu değerlendirmesi gerektirebilir. Tanısal maruziyet tek başına gebeliği sonlandırma veya ek izlem için otomatik gerekçe değildir."
+          },
+          {
+            "q": "Kurşun önlük olmaması bebeğin korunmadığı anlamına mı gelir?",
+            "a": "Hayır. Önde gelen medikal fizik rehberleri hastaya rutin fetüs koruyucusu artık önermez; diş rehberleri de rutin kullanıma karşıdır. Önlük iç saçılmayı durdurmaz ve görüntülemeyi etkileyebilir. Çalışan bariyerleri ve maruziyet sırasında yardım edenlerin koruyucu ekipmanı ayrı konudur."
+          },
+          {
+            "q": "Röntgende çocuğumu tutabilir veya radyolojide çalışmaya devam edebilir miyim?",
+            "a": "Gebeyseniz veya gebe olma olasılığınız varsa ışınlama sırasında çocuğu tutmayın; destek ayarlamaları için personele söyleyin. İş kararları otomatik yasak veya hasta dozu eşiği yerine mesleki radyasyon değerlendirmesi ve yerel önlemler gerektirir. Beklenmedik maruziyeti ayrıntılarıyla bildirerek tavsiye alın."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 6 Kasım 2026 tarihinde kontrol edildi",
+          "guidance": [
+            "İncelemeden önce görüntüleme ekibine gebeliği veya olasılığını, tarihlerinizi ve yakın tarihli ilgili tetkikleri söyleyin.",
+            "Bir alternatifin zamanında yanıt verip veremeyeceğini ve gerekli bakımı geciktirmenin sonuçlarını sorun.",
+            "Beklenmedik maruziyette gerçek raporları ve tarihleri saklayın; radyoloji veya medikal fizik incelemesinin gerekip gerekmediğini sorun."
+          ],
+          "bemama": "BeMama inceleme tarihlerini, raporları, gebelik tarihlerini ve gebelik ile görüntüleme ekiplerine sorularınızı düzenlemenize yardımcı olur. Fetüsün radyasyon dozunu hesaplayamaz, görüntü yorumlayamaz, kişisel sonucu öngöremez veya tetkik yaptırmanız ya da gebeliği sürdürmeniz konusunda karar veremez.",
+          "safety": "Radyasyon korkusu nedeniyle ciddi hastalık veya yaralanmanın değerlendirilmesini geciktirmeyin. Gebeliği bildirin ve kararlaştırılan görüntüleme ile tedavi planına uyun. Yetişkin doz tablolarından fetüs riski hesaplamayın, önlük olmamasının zarar verdiğini varsaymayın veya yalnızca rad eşiğinden gebelik kararı çıkarmayın. Önemli veya belirsiz maruziyet kişiye özel klinik danışmanlık gerektirir.",
+          "sources": [
+            {
+              "organization": "ACOG",
+              "title": "Gebelik ve emzirmede tanısal görüntüleme: Komite Görüşü 723, 2017",
+              "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/10/guidelines-for-diagnostic-imaging-during-pregnancy-and-lactation"
+            },
+            {
+              "organization": "IAEA",
+              "title": "Gebe kadınlar: hasta maruziyeti, doz değerlendirmesi ve mesleki sorular",
+              "url": "https://www.iaea.org/resources/rpop/health-professionals/radiology/pregnant-women"
+            },
+            {
+              "organization": "UKTIS",
+              "title": "Gebelikte iyonlaştırıcı radyasyona maruziyet: halka açık özet, Mayıs 2025",
+              "url": "https://uktis.org/monographs/exposure-to-ionising-radiation-in-pregnancy/"
+            },
+            {
+              "organization": "CDC",
+              "title": "Radyasyon ve gebelik: klinisyenler için bilgi, Ocak 2025",
+              "url": "https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/pregnancy.html"
+            },
+            {
+              "organization": "ACR / RSNA / RadiologyInfo",
+              "title": "Radyasyon dozu: yetişkin etkin doz ölçüleri ve sınırlamalar, Nisan 2025",
+              "url": "https://www.radiologyinfo.org/en/info/safety-xray"
+            },
+            {
+              "organization": "ACR / RSNA / RadiologyInfo",
+              "title": "Gebelikte BT güvenliği, Mart 2025",
+              "url": "https://www.radiologyinfo.org/en/info/safety-ct-pregnancy"
+            },
+            {
+              "organization": "Amerikan Diş Hekimleri Birliği",
+              "title": "Gebelik: diş bakımı ve radyografiler",
+              "url": "https://www.ada.org/resources/ada-library/oral-health-topics/pregnancy"
+            },
+            {
+              "organization": "AAPM",
+              "title": "Hastada gonad ve fetüs koruyucuları: yürürlükteki PS 8-A görüş bildirisi",
+              "url": "https://www.aapm.org/org/policies/details.asp?id=2552"
+            },
+            {
+              "organization": "AAPM",
+              "title": "Tanısal görüntülemede hasta koruyucuları: meslek ve hasta soruları",
+              "url": "https://www.aapm.org/org/policies/documents/CARES_FAQs_Patient_Shielding.pdf"
+            },
+            {
+              "organization": "FDA",
+              "title": "Röntgen, gebelik ve siz: hasta broşürü",
+              "url": "https://www.fda.gov/radiation-emitting-products/medical-x-ray-imaging/x-rays-pregnancy-and-you"
+            },
+            {
+              "organization": "CDC / NIOSH",
+              "title": "İyonlaştırıcı radyasyon ve üreme sağlığı: Ekim 2026 güncellemesi",
+              "url": "https://www.cdc.gov/niosh/reproductive-health/prevention/ionizing-radiation.html"
+            },
+            {
+              "organization": "AAPM",
+              "title": "Tıbbi görüntüleme iletişim rehberi: görüntüleme sonrası radyoaktivite, Mart 2022",
+              "url": "https://www.aapm.org/pubs/reports/AAPMRadiationandMedicalImagingCommunicationGuide.pdf"
+            }
+          ],
+          "updatedIso": "2026-11-06"
+        }
+      },
+      "es": {
+        "title": "Rayos X durante el embarazo: dosis, momento y decisiones",
+        "description": "Comprende la exposición necesaria o imprevista a rayos X en el embarazo: dosis fetal, momento, TC, radiografías dentales, protectores y valoración individual.",
+        "intro": "Una radiografía necesaria puede ayudar a diagnosticar una lesión o enfermedad durante el embarazo. Una prueba realizada antes de saber que estabas embarazada no significa automáticamente que el bebé haya sufrido daño. Las preguntas útiles son qué examen se hizo, qué zona estuvo expuesta, la dosis estimada que llegó al embarazo y en qué etapa se encontraba. La mayoría de las pruebas diagnósticas utilizan dosis muy inferiores a las relacionadas con daños del desarrollo, pero una tranquilidad general no sustituye la valoración de una exposición inusual o importante.",
+        "sections": [
+          {
+            "heading": "Empieza por el motivo de la prueba",
+            "paragraphs": [
+              "Una fractura, una infección dental o una enfermedad grave pueden requerir imágenes para no retrasar el tratamiento. El profesional sopesa las consecuencias de no detectar el diagnóstico frente a la exposición de la prueba. El embarazo es motivo para elegir y optimizar cuidadosamente el examen, no para rechazar automáticamente una exploración necesaria.",
+              "Informa al profesional que solicita la prueba y al técnico de radiología si estás embarazada, podrías estarlo o estás intentando concebir. Indica las fechas estimadas del embarazo y las pruebas relacionadas recientes. Ante una lesión o enfermedad urgente, avisa enseguida al equipo en lugar de posponer la atención mientras buscas un cálculo del riesgo en internet."
+            ]
+          },
+          {
+            "heading": "La zona del cuerpo importa",
+            "paragraphs": [
+              "En una exploración dental, de una extremidad, de la cabeza o del tórax, el embarazo suele quedar fuera del haz directo de rayos X. La radiación que le llega es mucho menor que cuando se examinan directamente el abdomen o la pelvis. Aun así, el nombre de la prueba no determina por sí solo la dosis individual: importan la técnica, el número de imágenes, la extensión de la exploración y las características de la paciente.",
+              "Una prueba abdominal o pélvica no está automáticamente prohibida. Necesita una razón clínica clara y un protocolo que obtenga la información necesaria con una exposición adecuada. Una radiografía simple, una tomografía computarizada (TC) y un procedimiento prolongado guiado por imágenes pueden implicar dosis muy diferentes. No sustituyas el registro real del examen por el número de citas."
+            ]
+          },
+          {
+            "heading": "Qué significan rad, gray y miligray",
+            "paragraphs": [
+              "La dosis absorbida describe la energía depositada en el tejido. Aquí importa la dosis que alcanza al embrión o al feto, normalmente expresada en miligray, o mGy. Un rad equivale a 10 mGy: 5 rad son 50 mGy y 10 rad son 100 mGy. Estas conversiones no indican cuánta radiación recibió tu bebé.",
+              "Una tabla de imágenes para adultos puede mostrar, en cambio, la dosis efectiva en milisievert, o mSv. Es otra medida, empleada para describir el riesgo radiológico global, y no se puede sustituir sin más por los mGy fetales. Del mismo modo, la cifra de dosis de un informe de TC puede medir la salida del equipo y no la dosis fetal. Un radiólogo o especialista en física médica puede explicar qué representa tu cifra."
+            ]
+          },
+          {
+            "heading": "Por qué 5 o 10 rad no son una regla personal de seguridad",
+            "paragraphs": [
+              "ACOG indica que no se han comunicado anomalías fetales, restricción del crecimiento ni pérdida del embarazo por debajo de 50 mGy. UKTIS señala que una exposición inferior normalmente no justificaría, por sí sola, interrumpir el embarazo ni añadir vigilancia fetal. Estas afirmaciones se refieren a resultados y decisiones clínicas concretos; no prometen que todo riesgo posible sea cero. La mayoría de las pruebas diagnósticas individuales quedan por debajo de ese nivel.",
+              "La orientación del OIEA, basada en la ICRP, señala que una dosis fetal inferior a 100 mGy no justifica una interrupción únicamente por motivos radiológicos. No es permiso para buscar esa dosis, ni superarla significa que el daño sea seguro o la interrupción obligatoria. Las exposiciones mayores o inciertas requieren una valoración especializada de la dosis, el momento y las circunstancias, con asesoramiento sobre las opciones."
+            ]
+          },
+          {
+            "heading": "Semanas de embarazo y etapas del desarrollo",
+            "paragraphs": [
+              "Las referencias sobre radiación pueden contar las semanas desde la concepción, mientras que la historia obstétrica suele fechar el embarazo desde la última menstruación, aproximadamente dos semanas antes. Confundir ambos sistemas puede situar la exposición en una etapa incorrecta. Las primeras semanas tras la concepción, la formación de órganos y el desarrollo cerebral posterior tienen sensibilidades diferentes ante dosis suficientemente altas.",
+              "Frases como «seguro a las 3–4 semanas», «daño por encima de 10 rad a las 5–10 semanas» o «daño cerebral a las 11–17 semanas» son demasiado simplistas para una decisión individual. Los CDC identifican aproximadamente las semanas 8–15 después de la concepción como especialmente sensibles a efectos intelectuales por dosis altas. Estas observaciones no deben presentarse como el resultado esperado de una radiografía habitual de los dientes o de una extremidad."
+            ]
+          },
+          {
+            "heading": "La etapa avanzada no es un periodo sin riesgo",
+            "paragraphs": [
+              "Entre las semanas 18 y 27 del embarazo, la sensibilidad del desarrollo cambia respecto al inicio, pero siguen importando la exposición y el efecto considerado. Después de la semana 28, es engañoso decir que el feto tiene simplemente el mismo riesgo que la madre. Algunos efectos del desarrollo son menos probables más adelante, aunque una exposición grande aún puede ser importante.",
+              "El riesgo de cáncer es una cuestión distinta de las malformaciones o los efectos sobre el desarrollo cerebral. Su magnitud con dosis diagnósticas bajas es incierta y no existe una semana fiable a partir de la cual pueda declararse ausente. Por eso, ni una etiqueta de edad gestacional ni la ausencia de un efecto del desarrollo medible prueban que la exposición carezca de todo riesgo."
+            ]
+          },
+          {
+            "heading": "TC, alternativas y posibilidad de esperar",
+            "paragraphs": [
+              "La ecografía y la resonancia magnética no utilizan rayos X ionizantes y pueden responder a la pregunta clínica. No son intercambiables con cualquier radiografía o TC, y la disponibilidad o rapidez pueden importar. Si no aportan a tiempo la información necesaria, la TC puede ser la elección adecuada. Una prueba necesaria no debe posponerse automáticamente hasta la semana 20 o después del parto.",
+              "Pregunta qué cambiará el resultado y qué podría ocurrir si se retrasa el examen. El equipo puede decidir si es realmente aplazable o necesario ahora, también tras un traumatismo. El contraste es una parte separada de la decisión: comunica reacciones previas y pregunta por qué hace falta. El contraste yodado de la TC atraviesa la placenta, por lo que su uso debe tener una finalidad clínica y no tratarse como idéntico a una prueba sin contraste."
+            ]
+          },
+          {
+            "heading": "Radiografías y tratamiento dental",
+            "paragraphs": [
+              "Un diente doloroso o una infección dental deben evaluarse durante el embarazo. Las radiografías dentales necesarias pueden hacerse en cualquier etapa, y retrasar un tratamiento urgente puede complicar el problema. Informa al dentista del embarazo y de las preocupaciones obstétricas para planificar conjuntamente las imágenes y el tratamiento.",
+              "La orientación actual de la Asociación Dental Americana, ADA, no recomienda protección abdominal o tiroidea rutinaria para la paciente embarazada. La ausencia de un delantal plomado no significa, por sí sola, atención insegura. Pide al equipo que explique la indicación y su enfoque de protección radiológica; no evites cuidados dentales necesarios solo porque un consejo antiguo exigía protección para toda embarazada."
+            ]
+          },
+          {
+            "heading": "Por qué ha cambiado la protección rutinaria de la paciente",
+            "paragraphs": [
+              "Un protector sobre el abdomen apenas bloquea la radiación dispersada dentro del cuerpo desde la zona examinada. Si entra en la imagen o afecta al control automático de exposición, puede ocultar información, obligar a repetirla o aumentar la exposición. Por eso, AAPM desaconseja el uso rutinario de protectores gonadales y fetales del paciente durante las pruebas diagnósticas con rayos X.",
+              "Esto no elimina la protección radiológica. Siguen siendo importantes elegir bien la prueba, limitar el haz, usar una técnica adecuada y evitar repeticiones innecesarias. Las barreras y delantales del personal o de quienes ayudan durante una exposición tienen otra finalidad. Sigue las instrucciones del servicio en lugar de colocar tú misma un protector o suponer que todos los centros usan el mismo protocolo."
+            ]
+          },
+          {
+            "heading": "Si te hicieron la prueba antes de saberlo",
+            "paragraphs": [
+              "Contacta con el profesional que sigue el embarazo y con radiología indicando la fecha, la zona, el tipo de prueba y el número de exploraciones. Incluye cualquier procedimiento prolongado o radioterapia, y las fechas de embarazo más fiables. El equipo puede decidir si basta la tranquilidad habitual o si un especialista en física médica debe estimar la exposición fetal con los registros reales.",
+              "Un cálculo individual resulta especialmente útil si pudo haber una exposición abdominal o pélvica importante, o si hay que considerar varias exposiciones conjuntamente. Solicitarlo no significa que ya se haya encontrado daño. No tomes una decisión sobre el embarazo a partir de una tabla genérica en internet. El seguimiento adicional, cuando esté indicado, depende de la evaluación y de otras preocupaciones obstétricas; no se necesitan pruebas extra automáticamente tras cada radiografía."
+            ]
+          },
+          {
+            "heading": "Antes de concebir y después de la prueba",
+            "paragraphs": [
+              "Las radiografías ordinarias y la TC no dejan material radiactivo en el cuerpo. Una exploración diagnóstica pasada es diferente de una fuente continua de radiación. La evidencia no permite predecir infertilidad o daño a un futuro hijo por una radiografía diagnóstica ordinaria, pero esta tranquilidad no debe extenderse al tratamiento del cáncer con dosis altas.",
+              "Si el embarazo pudiera haber comenzado, comunícalo antes del examen. Las pruebas de medicina nuclear y los tratamientos radiactivos utilizan otras sustancias e instrucciones; pregunta por el procedimiento concreto en vez de aplicar consejos sobre una radiografía simple. Sigue las recomendaciones específicas sobre concepción y no deduzcas un intervalo universal de espera a partir de un artículo en internet."
+            ]
+          },
+          {
+            "heading": "Acompañar a un niño y trabajar con radiación",
+            "paragraphs": [
+              "Puedes informar al servicio de que tu hijo necesita apoyo y de que estás o podrías estar embarazada. No lo sujetes durante la exposición a rayos X; pide al personal que organice otro acompañante o apoyo adecuado. Sigue las instrucciones sobre dónde esperar. Si ya ayudaste sin conocer el embarazo, explica lo ocurrido para que el servicio valore las circunstancias, sin asumir que la dosis del niño fue también la tuya.",
+              "Si tu trabajo incluye radiación, habla del embarazo con el supervisor correspondiente, salud laboral o el responsable de seguridad radiológica. Revisa tareas, control y medidas protectoras según las normas locales. Continuar trabajando, adaptar tareas o cambiarlas depende de la evaluación real de exposición. Los umbrales de asesoramiento sobre dosis a pacientes no son límites laborales, y dejar de usar protección rutinaria del paciente no elimina los requisitos del personal."
+            ]
+          },
+          {
+            "heading": "Preguntas para la consulta",
+            "paragraphs": [
+              "Pregunta: ¿Qué diagnóstico buscamos? ¿Cambiará el tratamiento según el resultado? ¿La ecografía o la resonancia responderían a tiempo a la misma pregunta? ¿Qué riesgo tiene esperar? ¿Estará el embarazo dentro del haz directo? ¿Hace falta estimar la dosis fetal? Si ya hubo exposición, pregunta quién revisará los registros y cuándo recibirás una explicación.",
+              "Guarda juntos el informe, las fechas y el seguimiento acordado. Si la explicación no está clara o persiste la ansiedad, solicita hablar con radiología o el equipo de maternidad. El tratamiento urgente necesario debe continuar mientras se coordinan los equipos; esperar una estimación retrospectiva de radiación no debe retrasar la evaluación de una enfermedad o lesión grave actual."
+            ]
+          }
+        ],
+        "takeaways": [
+          "La imagen necesaria puede proteger la salud durante el embarazo: comenta la pregunta clínica y las consecuencias del retraso.",
+          "Zona, técnica, dosis fetal absorbida y etapa del desarrollo importan más que la etiqueta «rayos X».",
+          "Ni 5 o 10 rad ni una semana concreta son una frontera universal de riesgo cero o daño seguro.",
+          "La protección rutinaria del paciente difiere de las medidas para trabajadores y acompañantes.",
+          "La exposición imprevista debe evaluarse con los registros reales y asesoramiento especializado cuando haga falta."
+        ],
+        "faq": [
+          {
+            "q": "¿Una radiografía a las 5–10 semanas siempre es peligrosa?",
+            "a": "No. Importan la zona y la dosis fetal real, además de si las semanas se cuentan desde la última menstruación o la concepción. El desarrollo temprano es sensible a dosis suficientemente altas, pero eso no equipara una radiografía ordinaria de los dientes o de una extremidad a una exposición alta. Pide al equipo que valore la prueba real."
+          },
+          {
+            "q": "¿La exposición a las 11–17 semanas implica daño cerebral?",
+            "a": "No. Los estudios de dosis altas identifican un periodo de mayor sensibilidad cerebral, a menudo situado entre 8 y 15 semanas después de la concepción. No permiten predecir daño por la semana de embarazo sola. El especialista necesita los detalles de la prueba, una estimación de dosis fetal cuando proceda y una datación precisa."
+          },
+          {
+            "q": "¿No hay riesgo a las 18–27 semanas o después de las 28?",
+            "a": "Ninguna semana es una frontera general de riesgo cero. La sensibilidad del desarrollo cambia, pero la dosis y el tipo de efecto siguen siendo importantes. La etapa avanzada no debe describirse simplemente con el riesgo radiológico de la madre, y la incertidumbre sobre cáncer difiere del riesgo de una anomalía del desarrollo."
+          },
+          {
+            "q": "¿Qué determina el riesgo y qué significan 5 y 10 rad?",
+            "a": "Los factores importantes incluyen dosis fetal absorbida, zona, técnica, patrón de exposición y momento del desarrollo. Cinco rad equivalen a 50 mGy y 10 rad a 100 mGy. No son cifras de dosis efectiva adulta en mSv ni límites automáticos entre seguridad y daño para un embarazo individual."
+          },
+          {
+            "q": "¿Debo cancelar una TC o radiografía dental necesaria?",
+            "a": "Habla de la necesidad con el equipo en lugar de cancelar por el embarazo solamente. Una alternativa sirve si responde a tiempo; retrasar un diagnóstico urgente o tratamiento dental puede causar daño. Informa del embarazo para que elijan y optimicen la prueba."
+          },
+          {
+            "q": "¿Y si me hicieron rayos X antes de una prueba de embarazo positiva?",
+            "a": "Indica al profesional del embarazo y a radiología la fecha, la prueba y la zona. La mayoría de las exposiciones diagnósticas son tranquilizadoras, pero una exposición importante o incierta puede requerir una evaluación individual de dosis fetal. La exposición diagnóstica sola no obliga automáticamente a interrumpir el embarazo o añadir vigilancia."
+          },
+          {
+            "q": "¿Sin delantal plomado el bebé quedó desprotegido?",
+            "a": "No. Las principales recomendaciones de física médica ya no aconsejan protección fetal rutinaria del paciente, y las dentales también la desaconsejan. El delantal no detiene la dispersión interna y puede interferir en la imagen. Las barreras del personal y el equipo de quienes ayudan durante la exposición son otra cuestión."
+          },
+          {
+            "q": "¿Puedo sujetar a mi hijo para una radiografía o seguir trabajando en radiología?",
+            "a": "No sujetes al niño durante la exposición si estás o podrías estar embarazada; avisa para que organicen apoyo. Las decisiones laborales requieren una evaluación radiológica ocupacional y precauciones locales, no una prohibición automática o un umbral para pacientes. Informa de cualquier exposición imprevista con sus detalles para recibir orientación."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 6 de noviembre de 2026",
+          "guidance": [
+            "Antes de la prueba, informa al equipo del embarazo o su posibilidad, las fechas y las exploraciones recientes pertinentes.",
+            "Pregunta si una alternativa respondería a tiempo y qué consecuencias tendría retrasar la atención necesaria.",
+            "Ante una exposición imprevista, conserva informes y fechas reales y pregunta si hace falta una revisión de radiología o física médica."
+          ],
+          "bemama": "BeMama te ayuda a organizar fechas de pruebas, informes, fechas del embarazo y preguntas para maternidad y radiología. No puede calcular la dosis fetal, interpretar una imagen, predecir un resultado individual ni decidir si debes hacerte una prueba o continuar un embarazo.",
+          "safety": "No retrases la evaluación de una enfermedad o lesión grave por miedo a la radiación. Informa del embarazo y sigue el plan acordado de imagen y tratamiento. No calcules riesgo fetal con tablas adultas, no asumas que faltar un delantal causó daño ni decidas sobre el embarazo basándote únicamente en un umbral en rad. Una exposición importante o incierta exige consejo clínico individual.",
+          "sources": [
+            {
+              "organization": "ACOG",
+              "title": "Imagen diagnóstica durante el embarazo y la lactancia: opinión del comité 723, 2017",
+              "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/10/guidelines-for-diagnostic-imaging-during-pregnancy-and-lactation"
+            },
+            {
+              "organization": "OIEA",
+              "title": "Embarazadas: exposición de la paciente, evaluación de dosis y preguntas laborales",
+              "url": "https://www.iaea.org/resources/rpop/health-professionals/radiology/pregnant-women"
+            },
+            {
+              "organization": "UKTIS",
+              "title": "Exposición a radiación ionizante en el embarazo: resumen público, mayo de 2025",
+              "url": "https://uktis.org/monographs/exposure-to-ionising-radiation-in-pregnancy/"
+            },
+            {
+              "organization": "CDC",
+              "title": "Radiación y embarazo: información para profesionales, enero de 2025",
+              "url": "https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/pregnancy.html"
+            },
+            {
+              "organization": "ACR / RSNA / RadiologyInfo",
+              "title": "Dosis de radiación: medidas de dosis efectiva adulta y limitaciones, abril de 2025",
+              "url": "https://www.radiologyinfo.org/en/info/safety-xray"
+            },
+            {
+              "organization": "ACR / RSNA / RadiologyInfo",
+              "title": "Seguridad de la TC durante el embarazo, marzo de 2025",
+              "url": "https://www.radiologyinfo.org/en/info/safety-ct-pregnancy"
+            },
+            {
+              "organization": "Asociación Dental Americana",
+              "title": "Embarazo: atención dental y radiografías",
+              "url": "https://www.ada.org/resources/ada-library/oral-health-topics/pregnancy"
+            },
+            {
+              "organization": "AAPM",
+              "title": "Protección gonadal y fetal del paciente: declaración vigente PS 8-A",
+              "url": "https://www.aapm.org/org/policies/details.asp?id=2552"
+            },
+            {
+              "organization": "AAPM",
+              "title": "Protección del paciente en imagen diagnóstica: preguntas profesionales y de pacientes",
+              "url": "https://www.aapm.org/org/policies/documents/CARES_FAQs_Patient_Shielding.pdf"
+            },
+            {
+              "organization": "FDA",
+              "title": "Rayos X, embarazo y tú: folleto para pacientes",
+              "url": "https://www.fda.gov/radiation-emitting-products/medical-x-ray-imaging/x-rays-pregnancy-and-you"
+            },
+            {
+              "organization": "CDC / NIOSH",
+              "title": "Radiación ionizante y salud reproductiva: actualización de octubre de 2026",
+              "url": "https://www.cdc.gov/niosh/reproductive-health/prevention/ionizing-radiation.html"
+            },
+            {
+              "organization": "AAPM",
+              "title": "Guía de comunicación en imagen médica: radiactividad tras las pruebas, marzo de 2022",
+              "url": "https://www.aapm.org/pubs/reports/AAPMRadiationandMedicalImagingCommunicationGuide.pdf"
+            }
+          ],
+          "updatedIso": "2026-11-06"
+        }
+      },
+      "pt": {
+        "title": "Raios X na gravidez: dose, momento e decisões",
+        "description": "Compreenda a exposição necessária ou inesperada a raios X na gravidez: dose fetal, momento, TC, radiografias dentárias, proteção e avaliação individual.",
+        "intro": "Uma radiografia necessária pode ajudar a diagnosticar uma lesão ou doença durante a gravidez. Um exame feito antes de saber que estava grávida não significa automaticamente que o bebé sofreu danos. As perguntas úteis são qual foi o exame, que região foi exposta, qual a dose estimada que atingiu a gravidez e em que fase esta se encontrava. A maioria dos exames de diagnóstico usa doses muito inferiores às associadas a danos no desenvolvimento, mas uma tranquilização geral não substitui a avaliação de uma exposição invulgar ou importante.",
+        "sections": [
+          {
+            "heading": "Comece pelo motivo do exame",
+            "paragraphs": [
+              "Uma fratura, infeção dentária ou doença grave pode exigir imagiologia para não atrasar o tratamento. O profissional pondera as consequências de falhar o diagnóstico face à exposição envolvida. A gravidez é motivo para escolher e otimizar cuidadosamente o exame, não para recusar automaticamente uma avaliação necessária.",
+              "Diga ao profissional que pede o exame e ao técnico de radiologia que está grávida, pode estar ou está a tentar engravidar. Indique as datas estimadas da gravidez e exames recentes relacionados. Na avaliação de uma lesão ou doença urgente, informe rapidamente a equipa em vez de adiar os cuidados enquanto procura um cálculo do risco na internet."
+            ]
+          },
+          {
+            "heading": "A região do corpo importa",
+            "paragraphs": [
+              "Num exame dentário, de um membro, da cabeça ou do tórax, a gravidez fica geralmente fora do feixe direto de raios X. A radiação que a atinge é muito menor do que quando o abdómen ou a bacia são examinados diretamente. Ainda assim, o nome do exame não determina a dose individual: contam a técnica, o número de imagens, a extensão da aquisição e as características da paciente.",
+              "Um exame abdominal ou pélvico não é automaticamente proibido. Exige uma razão clínica clara e um protocolo que obtenha a informação necessária com exposição adequada. Uma radiografia simples, uma tomografia computorizada (TC) e um procedimento prolongado guiado por imagem podem envolver doses muito diferentes. O número de consultas não substitui o registo real do exame."
+            ]
+          },
+          {
+            "heading": "O significado de rad, gray e miligray",
+            "paragraphs": [
+              "A dose absorvida descreve a energia depositada no tecido. Aqui, a quantidade relevante é a dose que atinge o embrião ou o feto, habitualmente expressa em miligray, ou mGy. Um rad equivale a 10 mGy: 5 rad são 50 mGy e 10 rad são 100 mGy. Estas conversões não dizem quanta radiação o seu bebé recebeu.",
+              "Uma tabela de exames em adultos pode mostrar, em alternativa, a dose efetiva em milisievert, ou mSv. É uma medida diferente, usada para descrever o risco radiológico global, que não substitui diretamente os mGy fetais. Também um valor de dose num relatório de TC pode medir a saída do aparelho em vez da dose fetal. Um radiologista ou especialista em física médica pode explicar o valor que tem."
+            ]
+          },
+          {
+            "heading": "Porque 5 ou 10 rad não são uma regra pessoal de segurança",
+            "paragraphs": [
+              "A ACOG refere que não foram comunicadas anomalias fetais, restrição do crescimento ou perda da gravidez abaixo de 50 mGy. A UKTIS indica que uma exposição inferior não justificaria habitualmente, por si só, interromper a gravidez ou acrescentar vigilância fetal. Estas afirmações dizem respeito a resultados e decisões clínicas específicos; não prometem que todos os riscos possíveis sejam nulos. A maioria dos exames de diagnóstico isolados fica abaixo deste nível.",
+              "A orientação da AIEA, baseada na ICRP, afirma que uma dose fetal inferior a 100 mGy não justifica a interrupção apenas por razões radiológicas. Isto não autoriza a procurar essa dose; ultrapassá-la também não significa dano certo ou interrupção obrigatória. Exposições mais elevadas ou incertas exigem avaliação especializada da dose, do momento e das circunstâncias, com aconselhamento sobre as opções disponíveis."
+            ]
+          },
+          {
+            "heading": "Semanas de gravidez e fases do desenvolvimento",
+            "paragraphs": [
+              "As referências científicas sobre radiação podem contar as semanas desde a conceção, enquanto os registos obstétricos costumam datar a gravidez a partir da última menstruação, cerca de duas semanas antes. Confundir os dois métodos pode colocar a exposição na fase errada do desenvolvimento. As primeiras semanas após a conceção, a formação dos órgãos e o desenvolvimento cerebral posterior têm sensibilidades distintas a doses suficientemente altas.",
+              "Frases como «seguro às 3–4 semanas», «dano acima de 10 rad às 5–10 semanas» ou «lesão cerebral às 11–17 semanas» são demasiado simplistas para uma decisão individual. Os CDC identificam aproximadamente as semanas 8–15 após a conceção como particularmente sensíveis a efeitos intelectuais de doses elevadas. Estas observações não devem ser apresentadas como o resultado esperado de uma radiografia habitual dos dentes ou de um membro."
+            ]
+          },
+          {
+            "heading": "O final da gravidez não é um período sem risco",
+            "paragraphs": [
+              "Às 18–27 semanas de gravidez, a sensibilidade do desenvolvimento difere da fase inicial, mas a exposição e o efeito em análise continuam a importar. Depois das 28 semanas, é enganador dizer que o feto tem simplesmente o mesmo risco que a mãe. Alguns efeitos do desenvolvimento tornam-se menos prováveis mais tarde, mas uma exposição grande pode continuar a ser importante.",
+              "O risco de cancro é uma questão separada das malformações ou dos efeitos no desenvolvimento cerebral. A sua dimensão com doses baixas de diagnóstico é incerta e não existe uma semana fiável a partir da qual se possa afirmar que desaparece. Assim, nem uma classificação da idade gestacional nem a ausência de um efeito mensurável no desenvolvimento demonstram que a exposição é absolutamente isenta de risco."
+            ]
+          },
+          {
+            "heading": "TC, alternativas e possibilidade de esperar",
+            "paragraphs": [
+              "A ecografia e a ressonância magnética não usam raios X ionizantes e podem responder à questão clínica. Não são alternativas equivalentes a qualquer radiografia ou TC; a disponibilidade e a rapidez podem ser importantes. Se não fornecerem a informação necessária a tempo, a TC pode ser a escolha adequada. Um exame necessário não deve ser automaticamente adiado até às 20 semanas ou para depois do parto.",
+              "Pergunte o que o resultado vai mudar e o que poderá acontecer se o exame for adiado. A equipa pode decidir se é realmente adiável ou necessário agora, incluindo após um traumatismo. O contraste é uma parte separada dessa decisão: comunique reações anteriores e pergunte porque é necessário. O contraste iodado da TC atravessa a placenta, pelo que deve ter um objetivo clínico e não ser tratado como idêntico a um exame sem contraste."
+            ]
+          },
+          {
+            "heading": "Imagens e tratamento dentário",
+            "paragraphs": [
+              "Um dente doloroso ou uma infeção dentária devem ser avaliados durante a gravidez. As radiografias dentárias necessárias podem ser feitas em qualquer fase, e adiar tratamento urgente pode complicar o problema. Informe o dentista da gravidez e de eventuais preocupações obstétricas, para planear em conjunto a imagem e o tratamento.",
+              "A orientação atual da Associação Dentária Americana, ADA, não recomenda proteção abdominal ou da tiroide de rotina para a paciente grávida. A ausência de avental de chumbo não significa, por si só, cuidados inseguros. Peça à equipa que explique a indicação e a abordagem de proteção radiológica; não evite cuidados necessários só porque uma recomendação antiga exigia proteção para todas as grávidas."
+            ]
+          },
+          {
+            "heading": "Porque mudou a proteção de rotina da paciente",
+            "paragraphs": [
+              "Uma proteção sobre o abdómen pouco bloqueia a radiação dispersa dentro do corpo a partir da região examinada. Se entrar na imagem ou afetar o controlo automático de exposição, pode ocultar informação, exigir outra imagem ou aumentar a exposição. Por isso, a AAPM desaconselha a proteção gonadal e fetal de rotina do paciente durante exames de diagnóstico com raios X.",
+              "Isto não elimina a proteção radiológica. Continuam a importar a escolha adequada do exame, a limitação do feixe, a técnica apropriada e evitar repetições desnecessárias. Barreiras e aventais para profissionais ou pessoas que ajudam durante a exposição têm outra finalidade. Siga as instruções do serviço em vez de colocar uma proteção por iniciativa própria ou assumir que todos os locais seguem o mesmo protocolo."
+            ]
+          },
+          {
+            "heading": "Se o exame aconteceu antes de saber da gravidez",
+            "paragraphs": [
+              "Contacte o profissional que acompanha a gravidez e o serviço de imagiologia com a data, região do corpo, tipo e número de exames. Inclua qualquer procedimento prolongado ou radioterapia e as datas de gravidez mais fiáveis disponíveis. A equipa pode determinar se basta a tranquilização habitual ou se um especialista em física médica deve estimar a exposição fetal a partir dos registos reais.",
+              "Um cálculo individual é especialmente útil se puder ter havido exposição abdominal ou pélvica importante, ou se várias exposições precisarem de ser consideradas em conjunto. Pedi-lo não significa que já tenha sido encontrado dano. Não tome uma decisão sobre a gravidez a partir de uma tabela genérica na internet. A vigilância adicional, se indicada, depende da avaliação e de outras preocupações da gravidez; não são automaticamente necessários exames extra após cada radiografia."
+            ]
+          },
+          {
+            "heading": "Antes da conceção e depois do exame",
+            "paragraphs": [
+              "Radiografias comuns e TC não deixam material radioativo no corpo. Um exame de diagnóstico passado é, portanto, diferente de uma fonte contínua de radiação. A evidência não sustenta prever infertilidade ou dano num futuro filho devido a uma radiografia de diagnóstico comum, mas esta tranquilização não deve ser alargada ao tratamento do cancro com doses altas.",
+              "Se a gravidez puder já ter começado, informe dessa possibilidade antes do exame. Os exames de medicina nuclear e tratamentos radioativos envolvem substâncias e instruções diferentes; pergunte pelo procedimento exato em vez de aplicar conselhos sobre uma radiografia simples. Siga a orientação específica sobre conceção e não deduza um intervalo universal de espera a partir de um artigo na internet."
+            ]
+          },
+          {
+            "heading": "Acompanhar uma criança e trabalhar com radiação",
+            "paragraphs": [
+              "Pode dizer ao serviço que o seu filho precisa de apoio e que está ou pode estar grávida. Não segure a criança durante a exposição aos raios X; peça que organizem outro acompanhante ou apoio adequado. Siga as instruções sobre onde esperar. Se já ajudou sem saber da gravidez, relate o que aconteceu para o serviço avaliar as circunstâncias, em vez de assumir que a dose da criança foi também a sua.",
+              "Se o seu trabalho envolve radiação, discuta a gravidez com o responsável adequado, a saúde ocupacional ou o responsável pela segurança radiológica. Reveja tarefas, monitorização e medidas de proteção segundo as regras locais. Continuar a trabalhar, adaptar tarefas ou mudar de funções depende da avaliação real da exposição. Os limiares usados no aconselhamento da dose a pacientes não são limites profissionais, e deixar a proteção de rotina do paciente não elimina os requisitos do pessoal."
+            ]
+          },
+          {
+            "heading": "Perguntas para levar à consulta",
+            "paragraphs": [
+              "Pergunte: Que diagnóstico procuramos? O resultado vai alterar o tratamento? A ecografia ou a ressonância respondem à mesma pergunta a tempo? Qual é o risco de esperar? A gravidez ficará no feixe direto? É necessário estimar a dose fetal deste exame? Se já houve exposição, pergunte quem vai rever os registos e quando receberá uma explicação.",
+              "Guarde juntos o relatório, as datas e o plano de seguimento acordado. Se a explicação não for clara ou a ansiedade persistir, peça uma conversa com a equipa de radiologia ou maternidade. O tratamento urgente necessário deve avançar enquanto as equipas se coordenam; esperar uma estimativa retrospetiva da radiação não deve atrasar a avaliação de uma doença ou lesão grave atual."
+            ]
+          }
+        ],
+        "takeaways": [
+          "A imagem necessária pode proteger a saúde na gravidez: discuta a questão clínica e as consequências de adiar.",
+          "A região, técnica, dose fetal absorvida e fase do desenvolvimento importam mais do que a designação «raios X».",
+          "Nem uma dose de 5 ou 10 rad nem uma semana específica são uma fronteira universal de risco nulo ou dano certo.",
+          "A proteção de rotina do paciente é diferente das medidas para trabalhadores e acompanhantes.",
+          "A exposição inesperada deve ser avaliada pelos registos reais, com aconselhamento especializado quando necessário."
+        ],
+        "faq": [
+          {
+            "q": "Uma radiografia às 5–10 semanas é sempre perigosa?",
+            "a": "Não. Importam a região e a dose fetal real, bem como contar as semanas desde a última menstruação ou desde a conceção. O desenvolvimento inicial é sensível a doses suficientemente altas, mas isso não torna uma radiografia comum dos dentes ou de um membro equivalente a uma exposição elevada. Peça à equipa que avalie o exame real."
+          },
+          {
+            "q": "A exposição às 11–17 semanas significa lesão cerebral?",
+            "a": "Não. A investigação com doses altas identifica uma fase de maior sensibilidade cerebral, muitas vezes descrita como 8–15 semanas após a conceção. Não prevê dano pela semana de gravidez isoladamente. O especialista precisa dos detalhes do exame, de uma estimativa da dose fetal quando indicada e de datação correta."
+          },
+          {
+            "q": "A imagem é isenta de risco às 18–27 semanas ou após as 28?",
+            "a": "Nenhuma semana representa um limite geral de risco zero. A sensibilidade muda, mas a dose e o tipo de efeito continuam a importar. A gravidez avançada não deve ser descrita simplesmente como tendo o risco radiológico da mãe, e a incerteza sobre cancro difere do risco de anomalia do desenvolvimento."
+          },
+          {
+            "q": "O que determina o risco e o que significam 5 e 10 rad?",
+            "a": "Os fatores importantes incluem a dose fetal absorvida, a região, técnica, padrão de exposição e fase do desenvolvimento. Cinco rad equivalem a 50 mGy e 10 rad a 100 mGy. Não são os mesmos valores de dose efetiva adulta em mSv, nem limites automáticos de segurança ou dano para uma gravidez individual."
+          },
+          {
+            "q": "Devo cancelar uma TC ou radiografia dentária necessária?",
+            "a": "Discuta a necessidade com a equipa em vez de cancelar só por causa da gravidez. Uma alternativa é útil se responder a tempo; adiar um diagnóstico urgente ou tratamento dentário pode causar dano. Informe da gravidez para que escolham e otimizem o exame."
+          },
+          {
+            "q": "E se fiz uma radiografia antes de um teste de gravidez positivo?",
+            "a": "Dê ao profissional da gravidez e ao serviço de imagiologia a data, o exame e a região. A maioria das exposições de diagnóstico é tranquilizadora, mas uma exposição importante ou incerta pode exigir uma avaliação individual da dose fetal. A exposição de diagnóstico, por si só, não é motivo automático para interromper a gravidez ou acrescentar vigilância."
+          },
+          {
+            "q": "A falta de avental de chumbo significa que o bebé ficou desprotegido?",
+            "a": "Não. As principais recomendações de física médica já não aconselham proteção fetal de rotina do paciente, e a orientação dentária também a desaconselha. O avental não impede a dispersão interna e pode interferir na imagem. Barreiras do pessoal e equipamento de quem ajuda durante a exposição são outra questão."
+          },
+          {
+            "q": "Posso segurar o meu filho para a radiografia ou continuar a trabalhar em radiologia?",
+            "a": "Não segure a criança durante a exposição se está ou pode estar grávida; avise o pessoal para organizar apoio. As decisões laborais requerem avaliação radiológica ocupacional e precauções locais, não uma proibição automática ou um limiar de dose para pacientes. Relate qualquer exposição inesperada com os detalhes para obter orientação."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidência verificada em 6 de novembro de 2026",
+          "guidance": [
+            "Antes do exame, informe a equipa da gravidez ou da possibilidade, das datas e dos exames recentes relevantes.",
+            "Pergunte se uma alternativa responde a tempo e quais seriam as consequências de adiar cuidados necessários.",
+            "Perante exposição inesperada, guarde relatórios e datas reais e pergunte se é necessária revisão pela radiologia ou física médica."
+          ],
+          "bemama": "O BeMama ajuda a organizar datas de exames, relatórios, datas da gravidez e perguntas para as equipas de maternidade e imagiologia. Não pode calcular a dose fetal, interpretar uma imagem, prever um resultado individual nem decidir se deve fazer um exame ou continuar uma gravidez.",
+          "safety": "Não adie a avaliação de uma doença ou lesão grave por receio da radiação. Informe da gravidez e siga o plano acordado de imagem e tratamento. Não calcule o risco fetal com tabelas para adultos, não assuma que a falta de avental causou dano nem tome decisões sobre a gravidez apenas com base num limiar em rad. Exposição importante ou incerta exige aconselhamento clínico individual.",
+          "sources": [
+            {
+              "organization": "ACOG",
+              "title": "Imagiologia de diagnóstico na gravidez e amamentação: parecer do comité 723, 2017",
+              "url": "https://www.acog.org/clinical/clinical-guidance/committee-opinion/articles/2017/10/guidelines-for-diagnostic-imaging-during-pregnancy-and-lactation"
+            },
+            {
+              "organization": "AIEA",
+              "title": "Grávidas: exposição da paciente, avaliação da dose e questões profissionais",
+              "url": "https://www.iaea.org/resources/rpop/health-professionals/radiology/pregnant-women"
+            },
+            {
+              "organization": "UKTIS",
+              "title": "Exposição a radiação ionizante na gravidez: resumo público, maio de 2025",
+              "url": "https://uktis.org/monographs/exposure-to-ionising-radiation-in-pregnancy/"
+            },
+            {
+              "organization": "CDC",
+              "title": "Radiação e gravidez: informação para clínicos, janeiro de 2025",
+              "url": "https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/pregnancy.html"
+            },
+            {
+              "organization": "ACR / RSNA / RadiologyInfo",
+              "title": "Dose de radiação: medidas de dose efetiva adulta e limitações, abril de 2025",
+              "url": "https://www.radiologyinfo.org/en/info/safety-xray"
+            },
+            {
+              "organization": "ACR / RSNA / RadiologyInfo",
+              "title": "Segurança da TC durante a gravidez, março de 2025",
+              "url": "https://www.radiologyinfo.org/en/info/safety-ct-pregnancy"
+            },
+            {
+              "organization": "Associação Dentária Americana",
+              "title": "Gravidez: cuidados dentários e radiografias",
+              "url": "https://www.ada.org/resources/ada-library/oral-health-topics/pregnancy"
+            },
+            {
+              "organization": "AAPM",
+              "title": "Proteção gonadal e fetal do paciente: declaração em vigor PS 8-A",
+              "url": "https://www.aapm.org/org/policies/details.asp?id=2552"
+            },
+            {
+              "organization": "AAPM",
+              "title": "Proteção do paciente em imagiologia de diagnóstico: perguntas de profissionais e pacientes",
+              "url": "https://www.aapm.org/org/policies/documents/CARES_FAQs_Patient_Shielding.pdf"
+            },
+            {
+              "organization": "FDA",
+              "title": "Raios X, gravidez e a paciente: folheto informativo",
+              "url": "https://www.fda.gov/radiation-emitting-products/medical-x-ray-imaging/x-rays-pregnancy-and-you"
+            },
+            {
+              "organization": "CDC / NIOSH",
+              "title": "Radiação ionizante e saúde reprodutiva: atualização de outubro de 2026",
+              "url": "https://www.cdc.gov/niosh/reproductive-health/prevention/ionizing-radiation.html"
+            },
+            {
+              "organization": "AAPM",
+              "title": "Guia de comunicação em imagiologia médica: radioatividade após o exame, março de 2022",
+              "url": "https://www.aapm.org/pubs/reports/AAPMRadiationandMedicalImagingCommunicationGuide.pdf"
+            }
+          ],
+          "updatedIso": "2026-11-06"
+        }
+      }
+    },
+    "hero": "content/part-02/6295.webp",
+    "heroAlt": {
+      "en": "An empty radiography room with an X-ray tube above an examination table and an upright detector.",
+      "fa": "اتاق خالی رادیوگرافی با تیوب اشعه ایکس بالای تخت معاینه و آشکارساز ایستاده.",
+      "ar": "غرفة أشعة خالية فيها أنبوب أشعة سينية فوق طاولة الفحص وكاشف قائم.",
+      "fr": "Une salle de radiographie vide avec un tube à rayons X au-dessus de la table d’examen et un détecteur vertical.",
+      "tr": "Muayene masasının üzerinde röntgen tüpü ve dikey dedektör bulunan boş bir radyografi odası.",
+      "es": "Una sala de radiografía vacía con un tubo de rayos X sobre la mesa de exploración y un detector vertical.",
+      "pt": "Uma sala de radiografia vazia com um tubo de raios X sobre a mesa de exame e um detetor vertical."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "X-rays in pregnancy: dose, timing and safety | BeMama",
+      "description": "Understand X-ray exposure in pregnancy, fetal dose and timing, CT and dental imaging, shielding and when an individual assessment is needed."
+    },
+    "fa": {
+      "title": "اشعه ایکس در بارداری: دوز، زمان و ایمنی | BeMama",
+      "description": "درباره تصویربرداری ضروری یا ناخواسته با اشعه ایکس در بارداری، دوز جنین، زمان مواجهه، سی‌تی و عکس دندان، حفاظ و ارزیابی فردی بخوانید."
+    },
+    "ar": {
+      "title": "الأشعة السينية في الحمل: الجرعة والتوقيت والسلامة | BeMama",
+      "description": "فهم التصوير الضروري أو التعرض غير المتوقع للأشعة السينية في الحمل، وجرعة الجنين وتوقيتها، والتصوير المقطعي والأسنان والدروع والتقييم الفردي."
+    },
+    "fr": {
+      "title": "Rayons X et grossesse : dose, moment et sécurité | BeMama",
+      "description": "Rayons X pendant la grossesse : comprendre la dose fœtale, le stade, les examens dentaires ou le scanner et le besoin d’un bilan individuel."
+    },
+    "tr": {
+      "title": "Gebelikte röntgen: doz, zamanlama ve güvenlik | BeMama",
+      "description": "Gebelikte gerekli veya beklenmedik röntgen maruziyetini, fetüs dozunu, zamanlamayı, BT ve diş görüntülemesini, koruyucuları ve kişisel değerlendirmeyi anlayın."
+    },
+    "es": {
+      "title": "Rayos X en el embarazo: dosis, momento y seguridad | BeMama",
+      "description": "Comprende la exposición necesaria o imprevista a rayos X en el embarazo: dosis fetal, momento, TC, radiografías dentales, protectores y valoración individual."
+    },
+    "pt": {
+      "title": "Raios X na gravidez: dose, momento e segurança | BeMama",
+      "description": "Compreenda a exposição necessária ou inesperada a raios X na gravidez: dose fetal, momento, TC, radiografias dentárias, proteção e avaliação individual."
+    }
+  }
+}

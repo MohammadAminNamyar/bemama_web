@@ -27,6 +27,7 @@ import { applyWebsiteGaps } from './website-gap-content.mjs';
 import { configureGapTools } from './website-gap-tools.mjs';
 import { applyContentDepth } from './content-depth.mjs';
 import { part1Articles, part1Categories } from './articles/part-01.mjs';
+import { part2Articles } from './articles/part-02.mjs';
 
 // --- Categories (drive the navigation menu and the category landing pages) ---
 export const categories = [
@@ -459,7 +460,8 @@ export const articles = [
   ...careTools,
   ...appArticles,
   ...routineArticles,
-  ...part1Articles
+  ...part1Articles,
+  ...part2Articles
 ];
 
 // Merge per-language translations into each article's i18n map. Section images
