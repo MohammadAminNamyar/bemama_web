@@ -1,6 +1,7 @@
 import { homeRollout } from './home-rollout.mjs';
 import { part1SearchOverrides } from './articles/part-01/seo.mjs';
 import { part2SearchOverrides } from './articles/part-02.mjs';
+import { part3SearchOverrides } from './articles/part-03.mjs';
 import { englishDescriptions } from './seo-descriptions-en.mjs';
 import { persianDescriptions } from './seo-descriptions-fa.mjs';
 import { arabicDescriptions } from './seo-descriptions-ar.mjs';
@@ -142,7 +143,8 @@ export const metadataOverrides = {
     description: 'O método Shettles pode influenciar o sexo do bebê? Conheça suas hipóteses sobre o momento da relação, seus limites e as evidências.'
   },
   ...part1SearchOverrides,
-  ...part2SearchOverrides
+  ...part2SearchOverrides,
+  ...part3SearchOverrides
 };
 
 export function normalizeMetadata(value) {

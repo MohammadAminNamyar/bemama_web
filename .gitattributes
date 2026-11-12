@@ -6,3 +6,7 @@ src/articles/part-01/articles.json text eol=lf
 # Part 2 release manifests bind the exact source JSON bytes across platforms.
 src/articles/part-02/*.json text eol=lf
 scripts/part2-membership-fixture.json text eol=lf
+
+# Part 3 reviewed release byte bindings.
+src/articles/part-03/*.json text eol=lf
+scripts/part3-membership-fixture.json text eol=lf

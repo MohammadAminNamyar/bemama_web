@@ -190,3 +190,20 @@ masters remain in `C:/WorkSpace/Practice/PART2/` for continuation.
 Run `npm run build` and `npm run validate` before deployment. The Part 2 tests
 check exact payloads, all seven full rendered bodies, image bytes, dates, team
 bylines, search, RSS, sitemaps and preservation of the existing library.
+
+## Part 3 first ready release
+
+This release adds exactly 69 independently reviewed articles in seven languages
+(483 localized article pages), with 345 responsive WebP assets. All 1,175
+previous articles, including Parts 1 and 2, remain unchanged.
+
+Reviewed snapshots and checksums live in `src/articles/part-03/`; the shared
+registry supplies category discovery, search, RSS, sitemaps and language links.
+The tests pin the exact released subset of the original first 200 Part 3 IDs.
+Of those 200, 99 are excluded and 32 remain outside this release (30 unfinished
+accepted articles and two unresolved sources). That remaining work is paused.
+Preparation evidence and unique masters remain outside the application in
+`C:/WorkSpace/Practice/PART3/`. Builds do not depend on that directory.
+
+Run `npm run build` and `npm run validate` before publication. The Part 3 tests
+verify all 483 full rendered bodies, metadata, images, discovery and preservation.
