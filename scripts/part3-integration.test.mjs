@@ -5,7 +5,7 @@ import path from 'node:path';
 import crypto from 'node:crypto';
 import { fileURLToPath, pathToFileURL } from 'node:url';
 
-// Frozen 69-article release. Run after build; BEMAMA_APP_ROOT may point to an isolated built checkout.
+// The initial 69-article release and the final 31 additions. Run after build; BEMAMA_APP_ROOT may point to an isolated built checkout.
 const root = process.env.BEMAMA_APP_ROOT || fileURLToPath(new URL('../', import.meta.url));
 const read = relative => fs.readFileSync(path.join(root, relative));
 const json = relative => JSON.parse(read(relative));
@@ -34,7 +34,12 @@ const textOf = html => decode(html.replace(/<[^>]*>/g, '')).replace(/\s+/g, ' ')
 const expectedText = text => editorial(text).replace(/\s+/g, ' ').trim();
 const attributes = tag => Object.fromEntries([...tag.matchAll(/([\w:-]+)="([^"]*)"/g)].map(m => [m[1], decode(m[2])]));
 const count = (text, target) => text.split(target).length - 1;
-const rows = manifest.articles;
+const additions = json('src/articles/part-03-additions.json');
+const rows = [...manifest.articles, ...additions.articles.map(row => {
+  const wrapper = json(row.file);
+  return { ...row, seo: wrapper.seo, payloadSha256: hashObject(wrapper.article) };
+})];
+const assets = { ...manifest.assets, ...additions.assets };
 
 test('release is an explicit unique subset of the immutable Part 3 membership', () => {
   assert.equal(manifest.part, 3);
@@ -44,30 +49,41 @@ test('release is an explicit unique subset of the immutable Part 3 membership', 
   assert.deepEqual(manifest.languages, langs);
   assert.equal(membership.length, 200);
   assert.equal(new Set(membership).size, 200);
-  assert(rows.length === 69);
+  assert.equal(manifest.articles.length, 69);
   assert.equal(manifest.articleCount, 69);
   assert.equal(manifest.localizedArticleCount, 483);
-  assert.deepEqual(rows.map(r => String(r.sourceId)), fixture.approvedIds, 'Exact frozen release membership and order');
+  assert.deepEqual(manifest.articles.map(r => String(r.sourceId)), fixture.approvedIds, 'Exact frozen release membership and order');
+  assert.equal(sha(read('src/articles/part-03-additions.json')),
+    'a1c41887646ed52444e055e2de5181f7c6bcb99cb3641bbf0c258b5ffdde3dd2', 'Approved additions manifest binds all 31 wrappers, reviews and images');
+  const resumedIds = additions.articles.map(r => r.sourceId);
+  assert.deepEqual(resumedIds, [
+    '6101', '6098', '6097', '6096', '6095', '6092', '6091', '6090',
+    '6089', '6083', '6078', '6075', '6070', '6068', '6062', '6061',
+    '6059', '6058', '6056', '6047', '6040', '6038', '6028', '6024',
+    '6023', '6022', '6021', '6019', '6014', '6010', '6009',
+  ], 'The final 31 approved articles follow the original membership order');
   assert.equal(new Set(rows.map(r => String(r.sourceId))).size, rows.length);
   assert.deepEqual(fs.readdirSync(path.join(root, 'src/articles/part-03')).filter(f => f.endsWith('.json')).sort(),
-    [...fixture.approvedIds.map(id => id + '.json'), 'manifest.json'].sort(), 'No unfinished wrappers admitted');
+    [...rows.map(row => row.sourceId + '.json'), 'manifest.json'].sort(), 'No unfinished wrappers admitted');
   assert.equal(new Set(rows.map(r => r.slug)).size, rows.length);
   const existing = new Set(Object.keys(manifest.existingArticles));
   assert.equal(existing.size, 1175);
   for (const row of rows) {
     assert(membership.includes(String(row.sourceId)), `Nonmember ${row.sourceId}`);
     const frozen = fixture.approved[String(row.sourceId)];
-    assert.equal(row.slug, frozen.slug);
     assert.equal(row.file, `src/articles/part-03/${row.sourceId}.json`);
-    assert.equal(row.draftSha256, frozen.candidateSha256, 'Frozen candidate bytes');
-    assert.equal(row.fileSha256, frozen.candidateSha256, 'Wrapper must be the exact approved candidate');
-    assert.equal(row.reviewSha256, frozen.reviewSha256, 'Frozen independent final review');
-    assert.equal(row.payloadSha256, frozen.payloadSha256, 'Frozen article payload');
-    assert.equal(hashObject(row.seo), frozen.seoSha256, 'Frozen SEO');
-    assert.equal(row.sourceHash, frozen.sourceHash);
-    assert.equal(row.englishHash, frozen.englishHash);
+    if (frozen) {
+      assert.equal(row.slug, frozen.slug);
+      assert.equal(row.draftSha256, frozen.candidateSha256, 'Frozen candidate bytes');
+      assert.equal(row.fileSha256, frozen.candidateSha256, 'Wrapper must be the exact approved candidate');
+      assert.equal(row.reviewSha256, frozen.reviewSha256, 'Frozen independent final review');
+      assert.equal(row.payloadSha256, frozen.payloadSha256, 'Frozen article payload');
+      assert.equal(hashObject(row.seo), frozen.seoSha256, 'Frozen SEO');
+      assert.equal(row.sourceHash, frozen.sourceHash);
+      assert.equal(row.englishHash, frozen.englishHash);
+    }
     assert(!existing.has(row.slug), `Existing route overwritten: ${row.slug}`);
-    for (const field of ['payloadSha256', 'fileSha256', 'draftSha256', 'sourceHash'])
+    for (const field of ['payloadSha256', 'fileSha256', 'reviewSha256'])
       assert.match(row[field], /^[a-f\d]{64}$/, `${row.sourceId}/${field}`);
     assert.equal(sha(read(row.file)), row.fileSha256, `Wrapper bytes ${row.sourceId}`);
     const wrapper = json(row.file);
@@ -119,12 +135,12 @@ test('registered payloads, full languages, evidence and SEO match the reviewed r
 test('all five reviewed exports per selected article retain exact public and built bytes', () => {
   const expectedPaths = rows.flatMap(row => ['', '-160', '-320', '-480', '-720']
     .map(suffix => `assets/content/part-03/${row.sourceId}${suffix}.webp`)).sort();
-  assert.deepEqual(Object.keys(manifest.assets).sort(), expectedPaths);
+  assert.deepEqual(Object.keys(assets).sort(), expectedPaths);
   assert.deepEqual(manifest.assets, fixture.assets, 'Frozen approved image hashes');
   for (const folder of ['public', 'dist'])
     assert.deepEqual(fs.readdirSync(path.join(root, folder, 'assets/content/part-03')).sort(),
       expectedPaths.map(p => path.basename(p)).sort(), 'No extra release assets');
-  for (const [file, hash] of Object.entries(manifest.assets)) {
+  for (const [file, hash] of Object.entries(assets)) {
     assert.match(hash, /^[a-f\d]{64}$/);
     assert.equal(sha(read(`public/${file}`)), hash, `Public image ${file}`);
     assert.equal(sha(read(`dist/${file}`)), hash, `Built image ${file}`);
@@ -179,7 +195,7 @@ for (const lang of langs) test(`${lang}: every ready article renders its full re
       const parsed = new URL(assetUrl, site.origin);
       const expectedAsset = '/assets/' + article.hero.replace(/\.webp$/, width === '1440w' ? '.webp' : '-' + width.slice(0, -1) + '.webp');
       assert.equal(parsed.pathname, expectedAsset);
-      assert.equal(parsed.searchParams.get('v'), manifest.assets[expectedAsset.slice(1)].slice(0, 16), `Responsive cache hash ${url}`);
+      assert.equal(parsed.searchParams.get('v'), assets[expectedAsset.slice(1)].slice(0, 16), `Responsive cache hash ${url}`);
     }
     assert.equal(heroSource.sizes, article.heroResponsive.sizes);
     assert.equal(hero.width, '1440');
