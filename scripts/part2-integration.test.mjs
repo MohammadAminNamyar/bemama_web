@@ -61,7 +61,8 @@ test('release is an explicit unique subset of the immutable Part 2 membership', 
 
 test('all 853 existing article objects and Part 1 snapshot remain unchanged', () => {
   assert.equal(articles.length, 853 + rows.length + json('src/articles/part-03/manifest.json').articleCount
-    + json('src/articles/part-03-additions.json').articles.length);
+    + json('src/articles/part-03-additions.json').articles.length
+    + json('src/articles/part-03-batch2/manifest.json').articles.length);
   assert.equal(new Set(articles.map(a => a.slug)).size, articles.length);
   for (const [slug, hash] of Object.entries(manifest.existingArticles))
     assert.equal(sha(JSON.stringify(articleBySlug.get(slug))), hash, `Existing article changed: ${slug}`);

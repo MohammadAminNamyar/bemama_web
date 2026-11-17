@@ -1,0 +1,611 @@
+{
+  "sourceId": "5885",
+  "article": {
+    "slug": "baby-and-child/when-a-child-repeatedly-hurts-others-or-damages-property",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "When a child repeatedly hurts others or damages property",
+        "description": "Learn what a conduct disorder assessment involves, how to keep everyone safe after a serious incident, and how family and school can support change.",
+        "intro": "The school calls again. This time another child was hurt and a bicycle was deliberately damaged. First ask whether anyone needs medical care and how the children are being kept safe. Later, ask for an account of what happened before, during and after the incident. That is more useful at an appointment than a label such as “troublemaker”.",
+        "sections": [
+          {
+            "heading": "Take serious incidents seriously",
+            "paragraphs": [
+              "Conduct disorder is a persistent pattern in which a child or young person violates other people’s basic rights or repeatedly breaks major rules for their age. Patterns may involve aggression toward people or animals, deliberate damage, deceit or theft, or serious rule violations. An argument over bedtime, taking something once or one playground fight does not establish a diagnosis. Even a single dangerous act needs a safety response.",
+              "If someone is being threatened with a weapon, has been seriously injured or faces immediate harm, move to safety if you can and call emergency services. Do not try to take a weapon away yourself. When the danger has passed, arrange prompt clinical advice for repeated threats or harm. Tell the clinician if the child is being hurt, coerced or exploited."
+            ]
+          },
+          {
+            "heading": "What the assessment looks at",
+            "paragraphs": [
+              "Bring a few dated examples from home and school, including who was affected and what helped stop the incident. The specialist listens to the young person’s account and may speak with them privately. They ask when the pattern began, how often it happens, how much harm it causes and where the child manages well. Timing and severity help guide care. No brief checklist or single incident settles the diagnosis.",
+              "The clinician may ask about learning and communication, ADHD, mood, substance use, stressful experiences and the safety of the home or school. Difficulties can have several contributors. You cannot identify the cause from a child’s gender, income, neighbourhood or family history. Ask how the needs of people who were harmed will also be addressed."
+            ]
+          },
+          {
+            "heading": "Build a plan with home and school",
+            "paragraphs": [
+              "A plan might include coaching for caregivers in clear instructions and consistent responses, practice solving problems with the child, or work with family, peers and school for a teenager. Choose one observable goal and decide who will check it, such as arriving at a supervised place when conflict starts. Medicines are not routine treatment for the behaviour itself. A specialist may address another condition or, in selected severe cases, consider medicine with monitoring.",
+              "In a UK controlled study, 141 children aged 3 to 8 referred for serious behaviour problems were allocated to a parenting group or a waiting list. The parenting group showed greater improvement in behaviour at five to seven months. The study concerned referred young children and did not predict adult outcomes. Review the safety plan and progress over time, even after an incident-free week."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Attend to immediate danger and injuries before asking for accounts.",
+          "Describe repeated acts, their setting and their effects without labelling the child.",
+          "Agree on a safety plan, a practical goal and a follow-up date."
+        ],
+        "faq": [
+          {
+            "q": "How is conduct disorder diagnosed?",
+            "a": "A qualified professional assesses the pattern, its duration and impact, hears the child and caregivers and considers other explanations. School observations can help."
+          },
+          {
+            "q": "What treatment can help?",
+            "a": "Age and circumstances guide the choice. Options include caregiver training, child problem-solving and coordinated family and school support. Ask what the team will monitor."
+          },
+          {
+            "q": "Is it important to seek help?",
+            "a": "Yes. Repeated harmful acts can place the child and others at risk and disrupt school and relationships. You can ask for help before anyone has a diagnosis. Immediate danger needs emergency help."
+          },
+          {
+            "q": "What does this mean for the child’s future?",
+            "a": "Outcomes vary. Severity, other difficulties and access to support matter, and children can improve. A diagnosis does not determine a future job, relationship or involvement with the law."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 17, 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Put safety first and record an account of serious incidents.",
+            "Ask for an assessment involving the child and the people who care for them.",
+            "Set a goal with family and school and review it alongside the safety plan."
+          ],
+          "bemama": "BeMama suggests asking school for one example of a difficult incident and one example of the child handling a disagreement safely. Both can guide the plan.",
+          "safety": "Call emergency services for an immediate threat, serious injury or danger involving a weapon. Move to safety if possible. Seek prompt professional advice after repeated threats or harm, including harm to the child.",
+          "sources": [
+            {
+              "organization": "American Academy of Child and Adolescent Psychiatry",
+              "title": "Conduct disorder in children and adolescents",
+              "url": "https://www.aacap.org/aacap/families_and_youth/facts_for_families/fff-guide/Conduct-Disorder-033.aspx"
+            },
+            {
+              "organization": "National Institute for Health and Care Excellence",
+              "title": "Assessment and care for conduct disorders in children and young people",
+              "url": "https://www.nice.org.uk/guidance/cg158/chapter/Recommendations"
+            },
+            {
+              "organization": "Scott and colleagues, BMJ",
+              "title": "Controlled trial of parenting groups for childhood antisocial behaviour",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/11473908/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "وقتی کودک بارها به دیگران یا وسایل آسیب می‌زند",
+        "description": "ببینید اختلال سلوک چگونه ارزیابی می‌شود، پس از اتفاقی جدی چطور امنیت افراد را حفظ کنید و خانواده و مدرسه چه نقشی در تغییر رفتار کودک دارند.",
+        "intro": "مدرسه دوباره تماس می‌گیرد. این بار کودکی آسیب دیده و یک دوچرخه عمداً خراب شده است. اول بپرسید کسی به مراقبت پزشکی نیاز دارد یا نه و امنیت بچه‌ها چطور تأمین شده است. بعد بخواهید برایتان بگویند پیش از اتفاق، هنگام آن و بعد از آن چه گذشت. این شرح در جلسه ارزیابی از برچسب «دردسرساز» به‌دردبخورتر است.",
+        "sections": [
+          {
+            "heading": "اتفاق جدی را جدی بگیرید",
+            "paragraphs": [
+              "اختلال سلوک الگویی پایدار است که در آن کودک یا نوجوان حقوق اساسی دیگران را زیر پا می‌گذارد یا بارها قواعد مهم متناسب با سن خود را نقض می‌کند. الگو ممکن است شامل خشونت علیه انسان یا حیوان، تخریب عمدی، فریب یا دزدی یا زیر پا گذاشتن قواعد جدی باشد. بحث بر سر ساعت خواب، یک بار برداشتن وسیله دیگری یا یک دعوا در حیاط مدرسه برای تشخیص کافی نیست. با این حال حتی یک عمل خطرناک هم نیاز به محافظت از افراد دارد.",
+              "اگر کسی با سلاح تهدید شده، به‌شدت آسیب دیده یا در خطر فوری است، اگر می‌توانید به جای امن بروید و با اورژانس تماس بگیرید. خودتان برای گرفتن سلاح اقدام نکنید. پس از برطرف شدن خطر، برای تهدید یا آسیب تکرارشونده زود از متخصص راهنمایی بخواهید. اگر خود کودک آزار می‌بیند، تحت اجبار است یا از او سوءاستفاده می‌شود، به متخصص بگویید."
+            ]
+          },
+          {
+            "heading": "در ارزیابی چه بررسی می‌شود؟",
+            "paragraphs": [
+              "چند مثال تاریخ‌دار از خانه و مدرسه بیاورید. بنویسید چه کسی آسیب دید و چه چیزی به توقف اتفاق کمک کرد. متخصص روایت کودک را می‌شنود و ممکن است در خلوت با او صحبت کند. می‌پرسد الگو چه وقت آغاز شد، چند وقت یک‌بار پیش می‌آید، چه آسیبی می‌زند و کودک در چه جاهایی عملکرد خوبی دارد. زمان شروع و شدت، راهنمای انتخاب حمایت‌اند. یک فهرست کوتاه یا یک اتفاق به‌تنهایی تشخیص نمی‌دهد.",
+              "ممکن است متخصص درباره یادگیری و ارتباط، کم‌توجهی‌ـ‌بیش‌فعالی، خلق، مصرف مواد، تجربه‌های پراسترس و امنیت خانه و مدرسه بپرسد. چند عامل می‌توانند دخیل باشند. از روی جنسیت کودک، درآمد، محله یا سابقه خانوادگی نمی‌توان علت را تعیین کرد. بپرسید نیاز کسانی که آسیب دیده‌اند هم چگونه پیگیری می‌شود."
+            ]
+          },
+          {
+            "heading": "با خانه و مدرسه برنامه بریزید",
+            "paragraphs": [
+              "برنامه ممکن است شامل آموزش دادن دستور روشن و واکنش باثبات به مراقبان، تمرین حل مسئله با کودک یا در نوجوانی همکاری با خانواده، همسالان و مدرسه باشد. هدفی قابل مشاهده انتخاب کنید، مثلاً وقتی تعارض آغاز می‌شود کودک به محلی برود که بزرگسالی بر آن نظارت دارد. مشخص کنید چه کسی پیگیر می‌شود. دارو درمان معمول خود رفتار نیست. متخصص ممکن است مشکل همراه را درمان کند یا در موارد شدید و منتخب با نظارت دارو در نظر بگیرد.",
+              "در یک پژوهش کنترل‌شده در بریتانیا، ۱۴۱ کودک ۳ تا ۸ ساله که برای مشکلات رفتاری جدی ارجاع شده بودند به برنامه گروهی والدین یا فهرست انتظار اختصاص یافتند. پس از پنج تا هفت ماه، بهبود رفتار در گروه برنامه والدین بیشتر بود. این پژوهش درباره کودکان کم‌سن ارجاع‌شده بود و آینده بزرگسالی آنان را پیش‌بینی نکرد. حتی پس از یک هفته بدون حادثه هم برنامه ایمنی و روند پیشرفت را بازبینی کنید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "پیش از گرفتن شرح اتفاق، به خطر فوری و آسیب‌دیدگی رسیدگی کنید.",
+          "کارهای تکرارشده، شرایط و اثرشان را شرح دهید و به کودک برچسب نزنید.",
+          "برای امنیت، هدفی عملی و زمان پیگیری توافق کنید."
+        ],
+        "faq": [
+          {
+            "q": "اختلال سلوک چگونه تشخیص داده می‌شود؟",
+            "a": "متخصص واجد صلاحیت الگو، مدت و اثر آن را بررسی می‌کند، حرف کودک و مراقبانش را می‌شنود و علت‌های دیگر را می‌سنجد. مشاهدات مدرسه کمک‌کننده است."
+          },
+          {
+            "q": "چه درمانی می‌تواند کمک کند؟",
+            "a": "سن و شرایط راهنمای انتخاب‌اند. آموزش مراقبان، تمرین حل مسئله با کودک و حمایت هماهنگ خانواده و مدرسه از گزینه‌ها هستند. بپرسید تیم درمان چه چیزی را پیگیری می‌کند."
+          },
+          {
+            "q": "آیا کمک گرفتن مهم است؟",
+            "a": "بله. رفتار آسیب‌زای تکراری ممکن است کودک و دیگران را به خطر بیندازد و مدرسه و روابط را مختل کند. برای درخواست کمک لازم نیست منتظر تشخیص بمانید. خطر فوری به کمک اورژانسی نیاز دارد."
+          },
+          {
+            "q": "این تشخیص برای آینده کودک چه معنایی دارد؟",
+            "a": "مسیر کودکان متفاوت است. شدت، مشکلات دیگر و دسترسی به حمایت اثر دارند و بهبود ممکن است. تشخیص اختلال، شغل و رابطه‌های آینده یا درگیر شدن کودک با قانون را تعیین نمی‌کند."
+          }
+        ],
+        "evidence": {
+          "updated": "بازبینی در ۱۷ نوامبر ۲۰۲۶",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "امنیت را در اولویت بگذارید و شرح اتفاق‌های جدی را ثبت کنید.",
+            "ارزیابی‌ای بخواهید که کودک و مراقبانش در آن مشارکت کنند.",
+            "با خانواده و مدرسه هدفی تعیین کنید و آن را همراه با برنامه ایمنی مرور کنید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند از مدرسه هم مثالی از یک حادثه دشوار بخواهید و هم مثالی که کودک اختلافی را به‌طور امن حل کرده است. هر دو می‌توانند به برنامه جهت بدهند.",
+          "safety": "برای تهدید فوری، آسیب جدی یا خطر ناشی از سلاح با اورژانس تماس بگیرید و در صورت امکان به جای امن بروید. پس از تهدید یا آسیب تکراری، از جمله آسیب وارد به خود کودک، زود راهنمایی تخصصی بگیرید.",
+          "sources": [
+            {
+              "organization": "آکادمی روان‌پزشکی کودک و نوجوان آمریکا",
+              "title": "اختلال سلوک در کودکان و نوجوانان",
+              "url": "https://www.aacap.org/aacap/families_and_youth/facts_for_families/fff-guide/Conduct-Disorder-033.aspx"
+            },
+            {
+              "organization": "مؤسسه ملی تعالی سلامت و مراقبت بریتانیا",
+              "title": "ارزیابی و مراقبت در اختلال‌های سلوک کودکان و نوجوانان",
+              "url": "https://www.nice.org.uk/guidance/cg158/chapter/Recommendations"
+            },
+            {
+              "organization": "اسکات و همکاران، مجله پزشکی بریتانیا",
+              "title": "پژوهش کنترل‌شده گروه‌های والدین برای رفتار ضداجتماعی دوران کودکی",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/11473908/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "عندما يؤذي الطفل الآخرين أو يتلف ممتلكاتهم مرارًا",
+        "description": "تعرّف إلى كيفية تقييم اضطراب المسلك، والخطوات اللازمة لحماية الجميع بعد حادث خطير، وكيف يمكن للأسرة والمدرسة أن تعملا معًا لدعم تغير السلوك.",
+        "intro": "تتصل المدرسة من جديد. هذه المرة أصيب طفل آخر وأُتلفت دراجة عمدًا. اسأل أولًا إن كان أحد يحتاج إلى عناية طبية وكيف يحافظ العاملون على سلامة الأطفال. اطلب بعد ذلك وصف ما جرى قبل الحادث وأثناءه وبعده. هذا الوصف يفيد في الموعد أكثر من نعت الطفل بأنه «مثير للمتاعب».",
+        "sections": [
+          {
+            "heading": "تعامل بجدية مع الوقائع الخطرة",
+            "paragraphs": [
+              "اضطراب المسلك نمط مستمر ينتهك فيه الطفل أو اليافع حقوقًا أساسية للآخرين أو يخرق مرارًا قواعد مهمة مناسبة لسنه. قد يشمل العدوان على أشخاص أو حيوانات، أو التخريب المتعمد، أو الخداع والسرقة، أو مخالفات جسيمة للقواعد. لا يكفي جدال حول النوم أو أخذ شيء مرة أو شجار واحد في الملعب لتشخيصه. لكن حتى الفعل الخطير المنفرد يتطلب حماية المتأثرين.",
+              "إذا هُدّد شخص بسلاح أو أصيب إصابة خطيرة أو واجه خطرًا مباشرًا، فانتقل إلى مكان آمن إن استطعت واتصل بالطوارئ. لا تحاول انتزاع السلاح بنفسك. بعد زوال الخطر اطلب سريعًا مشورة مهنية بشأن تكرار التهديد أو الإيذاء. أخبر المختص إذا كان الطفل نفسه يتعرض لأذى أو إكراه أو استغلال."
+            ]
+          },
+          {
+            "heading": "ماذا يشمل التقييم؟",
+            "paragraphs": [
+              "أحضر أمثلة مؤرخة من البيت والمدرسة تتضمن من تأثر وما الذي ساعد على إيقاف الحادث. يستمع المختص إلى رواية اليافع وقد يحادثه على انفراد. يسأل متى بدأ النمط، وكم يتكرر، ومقدار الأذى الذي يسببه، وفي أي مواقف يحسن الطفل التصرف. يوجّه وقت البداية وشدة الأفعال خطة الرعاية. لا تحسم قائمة قصيرة ولا واقعة واحدة التشخيص.",
+              "قد يستفسر المختص عن التعلم والتواصل واضطراب فرط الحركة وتشتت الانتباه والمزاج وتعاطي المواد والتجارب الضاغطة والسلامة في البيت والمدرسة. وقد تجتمع عدة عوامل. لا يُستدل على السبب من جنس الطفل أو الدخل أو الحي أو التاريخ العائلي. اسأل كيف ستُلبى أيضًا احتياجات من تعرضوا للأذى."
+            ]
+          },
+          {
+            "heading": "ابنوا خطة بالتعاون بين البيت والمدرسة",
+            "paragraphs": [
+              "قد تشمل الخطة تدريب مقدمي الرعاية على إعطاء تعليمات واضحة والاستجابة بصورة متسقة، أو ممارسة حل المشكلات مع الطفل، أو العمل مع الأسرة والأقران والمدرسة في حالة المراهق. حددوا هدفًا قابلًا للملاحظة، كالذهاب إلى مكان يشرف عليه شخص بالغ عند بدء النزاع، واتفقوا على من سيتابعه. الدواء ليس علاجًا اعتياديًا للسلوك نفسه. قد يعالج المختص حالة مصاحبة أو ينظر في دواء تحت المراقبة في حالات شديدة مختارة.",
+              "في دراسة مضبوطة في بريطانيا، وُزّع 141 طفلًا أعمارهم بين 3 و8 سنوات أُحيلوا بسبب مشكلات سلوكية خطيرة بين برنامج مجموعات للوالدين وقائمة انتظار. وبعد خمسة إلى سبعة أشهر كان تحسن السلوك أكبر في مجموعة البرنامج. تناولت الدراسة أطفالًا صغارًا أُحيلوا للرعاية ولم تتنبأ بمآلهم في سن الرشد. راجعوا خطة السلامة والتقدم مع الوقت حتى بعد أسبوع بلا حوادث."
+            ]
+          }
+        ],
+        "takeaways": [
+          "تعامل مع الخطر المباشر والإصابات قبل طلب روايات عمّا جرى.",
+          "صِف الأفعال المتكررة وظروفها وآثارها دون إطلاق صفة على الطفل.",
+          "اتفقوا على خطة أمان وهدف عملي وموعد للمتابعة."
+        ],
+        "faq": [
+          {
+            "q": "كيف يُشخّص اضطراب المسلك؟",
+            "a": "يقيّم مختص مؤهل النمط ومدته وأثره، ويستمع إلى الطفل ومن يرعونه ويدرس تفسيرات أخرى. قد تساعد ملاحظات المدرسة."
+          },
+          {
+            "q": "ما العلاج الذي قد يفيد؟",
+            "a": "يحدد العمر والظروف الخيارات المناسبة. تشمل الخيارات تدريب مقدمي الرعاية وتدريب الطفل على حل المشكلات ودعمًا منسقًا بين الأسرة والمدرسة. اسأل عمّا سيتابعه الفريق."
+          },
+          {
+            "q": "هل من المهم طلب المساعدة؟",
+            "a": "نعم. قد تعرّض الأفعال المؤذية المتكررة الطفل والآخرين للخطر وتعطل الدراسة والعلاقات. يمكن طلب المساعدة قبل التشخيص. والخطر المباشر يستدعي مساعدة الطوارئ."
+          },
+          {
+            "q": "ماذا يعني هذا لمستقبل الطفل؟",
+            "a": "تختلف المسارات. تؤثر شدة المشكلة والصعوبات الأخرى وإمكانية الحصول على الدعم، ويمكن أن يتحسن الأطفال. لا يحدد التشخيص مستقبل الوظيفة أو العلاقات أو التعامل مع نظام العدالة."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجع في 17 نوفمبر 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "قدّم السلامة وسجّل وصفًا للحوادث الخطيرة.",
+            "اطلب تقييمًا يشارك فيه الطفل والأشخاص الذين يرعونه.",
+            "حدد هدفًا مع الأسرة والمدرسة وراجعه مع خطة السلامة."
+          ],
+          "bemama": "تقترح بي ماما أن تطلب من المدرسة مثالًا لحادث صعب وآخر لخلاف تعامل معه الطفل بأمان. كلاهما يمكن أن يساعد على رسم الخطة.",
+          "safety": "اتصل بالطوارئ عند تهديد مباشر أو إصابة خطيرة أو خطر مرتبط بسلاح. انتقل إلى مكان آمن إن أمكن. اطلب مشورة مختص سريعًا عند تكرار التهديد أو الأذى، بما فيه الأذى الواقع على الطفل نفسه.",
+          "sources": [
+            {
+              "organization": "الأكاديمية الأمريكية للطب النفسي للأطفال والمراهقين",
+              "title": "اضطراب المسلك لدى الأطفال والمراهقين",
+              "url": "https://www.aacap.org/aacap/families_and_youth/facts_for_families/fff-guide/Conduct-Disorder-033.aspx"
+            },
+            {
+              "organization": "المعهد الوطني البريطاني للتميز في الصحة والرعاية",
+              "title": "تقييم اضطرابات المسلك ورعايتها لدى الأطفال واليافعين",
+              "url": "https://www.nice.org.uk/guidance/cg158/chapter/Recommendations"
+            },
+            {
+              "organization": "سكوت وزملاؤه، المجلة الطبية البريطانية",
+              "title": "دراسة مضبوطة لمجموعات الوالدين في مواجهة السلوك المعادي للمجتمع في الطفولة",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/11473908/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Quand un enfant blesse les autres ou dégrade des biens à répétition",
+        "description": "Découvrez comment se déroule l’évaluation d’un trouble des conduites, comment protéger chacun après un incident grave et bâtir un plan avec l’école.",
+        "intro": "L’école vous appelle de nouveau. Cette fois, un autre enfant a été blessé et un vélo a été dégradé volontairement. Demandez d’abord si quelqu’un a besoin de soins et comment la sécurité des enfants est assurée. Ensuite, demandez ce qui s’est passé avant, pendant et après l’incident. Ce récit sera plus utile en consultation que de qualifier l’enfant de « fauteur de troubles ».",
+        "sections": [
+          {
+            "heading": "Réagir aux actes graves",
+            "paragraphs": [
+              "Le trouble des conduites se manifeste par des atteintes persistantes aux droits fondamentaux d’autrui ou des transgressions répétées de règles importantes pour l’âge. Il peut s’agir d’agressions envers des personnes ou des animaux, de dégradations délibérées, de tromperies, de vols ou de violations graves des règles. Une dispute au coucher, un objet pris une fois ou une bagarre isolée ne suffisent pas au diagnostic. Un seul acte dangereux exige déjà de protéger les personnes concernées.",
+              "Si quelqu’un est menacé avec une arme, grièvement blessé ou en danger immédiat, mettez-vous à l’abri si possible et appelez les secours. N’essayez pas de retirer l’arme vous-même. Une fois le danger passé, demandez rapidement un avis professionnel en cas de menaces ou d’actes blessants répétés. Signalez aussi si l’enfant subit des violences, des pressions ou une exploitation."
+            ]
+          },
+          {
+            "heading": "Ce que cherche à comprendre le spécialiste",
+            "paragraphs": [
+              "Apportez quelques exemples datés à la maison et à l’école. Précisez qui a été touché et ce qui a aidé à arrêter l’incident. Le spécialiste écoute la version du jeune et peut lui parler en privé. Il demande quand les actes ont commencé, à quelle fréquence ils se produisent, quels torts ils causent et dans quelles situations l’enfant s’en sort bien. Le moment d’apparition et la gravité orientent les soins. Un court questionnaire ou un seul incident ne suffit pas.",
+              "Le professionnel peut s’enquérir des apprentissages, de la communication, d’un TDAH, de l’humeur, de la consommation de substances, d’expériences stressantes et de la sécurité à la maison ou à l’école. Plusieurs facteurs peuvent intervenir. Le genre, le revenu, le quartier ou les antécédents familiaux ne permettent pas d’établir une cause. Demandez comment les personnes lésées seront également aidées."
+            ]
+          },
+          {
+            "heading": "Construire un plan avec la famille et l’école",
+            "paragraphs": [
+              "Le plan peut comporter un accompagnement des adultes pour donner des consignes claires et réagir avec constance, des exercices de résolution de problèmes avec l’enfant ou, à l’adolescence, un travail avec la famille, les pairs et l’école. Fixez un objectif observable, par exemple rejoindre un lieu surveillé quand le conflit démarre, et convenez qui en fera le suivi. Les médicaments ne traitent pas systématiquement la conduite elle-même. Un spécialiste peut soigner un autre trouble ou, dans certains cas graves, envisager un médicament avec surveillance.",
+              "Dans une étude contrôlée au Royaume-Uni, 141 enfants de 3 à 8 ans adressés pour des difficultés graves de comportement ont été répartis entre un programme de groupe pour les parents et une liste d’attente. Après cinq à sept mois, le comportement s’était davantage amélioré dans le groupe du programme. L’étude portait sur de jeunes enfants adressés en consultation et ne prédisait pas leur devenir adulte. Revoyez le plan de sécurité et les progrès au fil du temps, même après une semaine sans incident."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Occupez-vous du danger immédiat et des blessures avant de demander un récit.",
+          "Décrivez les actes répétés, leurs circonstances et leurs effets sans coller d’étiquette à l’enfant.",
+          "Convenez d’un plan de sécurité, d’un objectif pratique et d’une date de suivi."
+        ],
+        "faq": [
+          {
+            "q": "Comment le trouble des conduites est-il diagnostiqué ?",
+            "a": "Un professionnel qualifié évalue les actes, leur durée et leurs répercussions, écoute l’enfant et ses proches et envisage d’autres explications. Les observations de l’école sont utiles."
+          },
+          {
+            "q": "Quels traitements peuvent aider ?",
+            "a": "L’âge et les circonstances guident le choix. Les possibilités comprennent la formation des parents, la résolution de problèmes avec l’enfant et un accompagnement coordonné de la famille et de l’école. Demandez ce que l’équipe suivra."
+          },
+          {
+            "q": "Est-il important de demander de l’aide ?",
+            "a": "Oui. Des actes nuisibles répétés mettent l’enfant et les autres en danger et peuvent perturber la scolarité et les relations. On peut demander du soutien avant le diagnostic. En cas de danger immédiat, appelez les secours."
+          },
+          {
+            "q": "Quelles conséquences pour son avenir ?",
+            "a": "Les parcours varient. La gravité, les autres difficultés et l’accès au soutien comptent, et les enfants peuvent progresser. Un diagnostic ne détermine pas leur futur emploi, leurs relations ou leurs rapports avec la justice."
+          }
+        ],
+        "evidence": {
+          "updated": "Revu le 17 novembre 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Protégez d’abord les personnes et consignez les incidents graves.",
+            "Demandez une évaluation qui fasse participer l’enfant et les personnes qui s’en occupent.",
+            "Fixez un objectif avec la famille et l’école et réexaminez-le en même temps que le plan de sécurité."
+          ],
+          "bemama": "BeMama propose de demander à l’école un exemple d’incident difficile et un exemple de désaccord que l’enfant a géré sans danger. Les deux peuvent guider le plan.",
+          "safety": "Menace immédiate, blessure grave ou danger lié à une arme : appelez les secours. Mettez-vous à l’abri si possible. Demandez rapidement un avis professionnel si les menaces ou les violences se répètent, y compris celles subies par l’enfant.",
+          "sources": [
+            {
+              "organization": "Académie américaine de psychiatrie de l’enfant et de l’adolescent",
+              "title": "Le trouble des conduites chez l’enfant et l’adolescent",
+              "url": "https://www.aacap.org/aacap/families_and_youth/facts_for_families/fff-guide/Conduct-Disorder-033.aspx"
+            },
+            {
+              "organization": "Institut national britannique pour l’excellence en santé et en soins",
+              "title": "Évaluation et prise en charge des troubles des conduites chez les jeunes",
+              "url": "https://www.nice.org.uk/guidance/cg158/chapter/Recommendations"
+            },
+            {
+              "organization": "Scott et collègues, BMJ",
+              "title": "Étude contrôlée de groupes de parents face aux conduites antisociales dans l’enfance",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/11473908/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Çocuk başkalarına veya eşyalara tekrar tekrar zarar verdiğinde",
+        "description": "Davranım bozukluğunun nasıl değerlendirildiğini, olaydan sonra güvenliği nasıl sağlayabileceğinizi ve aileyle okulun nasıl destek olabileceğini öğrenin.",
+        "intro": "Okul tekrar arıyor. Bu kez başka bir çocuk yaralanmış ve bir bisiklete bilerek zarar verilmiş. Önce birinin tıbbi yardıma ihtiyacı olup olmadığını ve çocukların nasıl korunduğunu sorun. Sonrasında olaydan önce, olay sırasında ve sonrasında neler yaşandığını öğrenin. Böyle bir anlatım, randevuda “baş belası” gibi bir etiketten daha yararlıdır.",
+        "sections": [
+          {
+            "heading": "Ciddi olaylarda önce güvenliği sağlayın",
+            "paragraphs": [
+              "Davranım bozukluğu, başkalarının temel haklarının ya da yaşa uygun önemli kuralların tekrar tekrar ihlal edildiği kalıcı bir örüntüdür. İnsanlara veya hayvanlara saldırganlık, kasten zarar verme, aldatma veya hırsızlık ya da ciddi kural ihlalleri görülebilir. Yatma saati konusunda tartışmak, bir kez başkasının eşyasını almak ya da tek bir okul kavgası tanı koydurmaz. Tehlikeli bir davranış bir kez bile olsa güvenlik için adım atmak gerekir.",
+              "Biri silahla tehdit ediliyorsa, ciddi şekilde yaralanmışsa veya yakın tehlikedeyse mümkünse güvenli bir yere geçin ve acil yardım çağırın. Silahı kendiniz almaya çalışmayın. Tehlike geçtikten sonra tekrarlayan tehditler veya zarar veren davranışlar için gecikmeden uzmana danışın. Çocuğa zarar veriliyor, baskı yapılıyor ya da çocuk istismar ediliyorsa bunu da uzmana söyleyin."
+            ]
+          },
+          {
+            "heading": "Değerlendirmede nelere bakılır?",
+            "paragraphs": [
+              "Evden ve okuldan tarihlerini belirttiğiniz birkaç örnek götürün. Kimlerin etkilendiğini ve olayın durmasına neyin yardım ettiğini anlatın. Uzman gencin anlatımını dinler ve onunla yalnız görüşebilir. Davranışların ne zaman başladığını, sıklığını, verdiği zararı ve çocuğun hangi ortamlarda iyi işlev gördüğünü sorar. Başlangıç zamanı ve şiddet bakım planına yön verir. Kısa bir kontrol listesi veya tek bir olay tanıyı belirlemez.",
+              "Uzman öğrenme ve iletişim, DEHB, duygu durumu, madde kullanımı, stresli deneyimler, ev ve okul güvenliği hakkında sorabilir. Birden fazla etken rol oynayabilir. Çocuğun cinsiyetinden, ailesinin gelirinden, semtinden ya da aile öyküsünden neden çıkarılamaz. Zarar gören kişilerin ihtiyaçlarının nasıl karşılanacağını da sorun."
+            ]
+          },
+          {
+            "heading": "Ev ve okulla birlikte plan yapın",
+            "paragraphs": [
+              "Bakım verenlere açık yönerge verme ve tutarlı tepki gösterme konusunda destek, çocukla problem çözme alıştırmaları veya ergen için ailesi, akranları ve okulla ortak çalışma planlanabilir. Çatışma başladığında bir yetişkinin bulunduğu alana gitmek gibi gözlenebilir bir hedef seçin. Kimin takip edeceğini belirleyin. İlaç davranışın kendisi için rutin tedavi değildir. Uzman başka bir durumu tedavi edebilir veya seçilmiş ağır vakalarda izlemle ilaç düşünebilir.",
+              "Birleşik Krallık’ta bir kontrollü çalışmada ciddi davranış sorunları nedeniyle uzmana yönlendirilmiş 3–8 yaşlarında 141 çocuk, ebeveyn grup programına ya da bekleme listesine ayrıldı. Beş ila yedi ay sonra programa katılan ailelerin çocuklarında davranış daha fazla düzeldi. Çalışma yönlendirilmiş küçük çocuklarla ilgiliydi ve yetişkinlik sonuçlarını öngörmedi. Olay yaşanmayan bir haftadan sonra da güvenlik planını ve ilerlemeyi düzenli gözden geçirin."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Olayı anlatmalarını istemeden önce yakın tehlike ve yaralanmalarla ilgilenin.",
+          "Çocuğu etiketlemeden tekrar eden davranışları, ortamı ve etkilerini anlatın.",
+          "Bir güvenlik planı, somut bir hedef ve izlem zamanı kararlaştırın."
+        ],
+        "faq": [
+          {
+            "q": "Davranım bozukluğu tanısı nasıl konur?",
+            "a": "Yetkin bir uzman örüntüyü, süresini ve etkisini değerlendirir, çocuğu ve bakım verenleri dinler ve diğer açıklamaları ele alır. Okul gözlemleri de yardımcı olabilir."
+          },
+          {
+            "q": "Hangi tedaviler yararlı olabilir?",
+            "a": "Seçim yaşa ve koşullara bağlıdır. Bakım veren eğitimi, çocukla problem çözme ve aile ile okul arasında eşgüdümlü destek seçenekler arasındadır. Ekibin neyi izleyeceğini sorun."
+          },
+          {
+            "q": "Yardım istemek önemli mi?",
+            "a": "Evet. Tekrarlayan zarar verici davranışlar çocuğu ve başkalarını tehlikeye atabilir, okulu ve ilişkileri aksatabilir. Yardım istemek için tanı beklemeniz gerekmez. Yakın tehlike acil yardım gerektirir."
+          },
+          {
+            "q": "Çocuğun geleceği açısından ne anlama gelir?",
+            "a": "Sonuçlar değişir. Şiddet, eşlik eden güçlükler ve desteğe erişim önemlidir. Çocuklar iyileşebilir. Bir tanı ilerideki mesleği, ilişkileri veya adalet sistemiyle karşılaşıp karşılaşmayacağını belirlemez."
+          }
+        ],
+        "evidence": {
+          "updated": "17 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Önce güvenliği sağlayın ve ciddi olaylarda neler yaşandığını kaydedin.",
+            "Çocuğu ve bakım verenleri içeren bir değerlendirme isteyin.",
+            "Aile ve okulla hedef belirleyip güvenlik planıyla birlikte gözden geçirin."
+          ],
+          "bemama": "BeMama okuldan zor bir olaya ve çocuğun anlaşmazlığı güvenli biçimde çözdüğü bir duruma birer örnek istemenizi önerir. İkisi de plana yön verebilir.",
+          "safety": "Yakın tehdit, ciddi yaralanma veya silahlı tehlikede acil yardım çağırın. Mümkünse güvenli bir yere geçin. Çocuğa yönelik olanlar dahil, tekrarlayan tehditler veya zarar verici davranışlar için gecikmeden uzman desteği alın.",
+          "sources": [
+            {
+              "organization": "Amerikan Çocuk ve Ergen Psikiyatrisi Akademisi",
+              "title": "Çocuklarda ve ergenlerde davranım bozukluğu",
+              "url": "https://www.aacap.org/aacap/families_and_youth/facts_for_families/fff-guide/Conduct-Disorder-033.aspx"
+            },
+            {
+              "organization": "Birleşik Krallık Ulusal Sağlık ve Bakım Mükemmelliği Enstitüsü",
+              "title": "Çocuk ve gençlerde davranım bozukluğunun değerlendirilmesi ve bakımı",
+              "url": "https://www.nice.org.uk/guidance/cg158/chapter/Recommendations"
+            },
+            {
+              "organization": "Scott ve çalışma arkadaşları, BMJ",
+              "title": "Çocuklukta antisosyal davranış için ebeveyn gruplarının kontrollü çalışması",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/11473908/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Cuando un niño hiere a otros o daña objetos repetidamente",
+        "description": "Conoce en qué consiste la evaluación del trastorno de conducta, cómo proteger a todos tras un incidente grave y cómo pueden colaborar la familia y la escuela.",
+        "intro": "Vuelven a llamarte de la escuela. Esta vez otro niño ha resultado herido y alguien ha dañado una bicicleta a propósito. Pregunta primero si alguien necesita atención médica y cómo están protegiendo a los niños. Después pide que te cuenten qué pasó antes, durante y después del incidente. Ese relato ayuda más en la consulta que llamar al niño «problemático».",
+        "sections": [
+          {
+            "heading": "Cómo responder ante incidentes graves",
+            "paragraphs": [
+              "El trastorno de conducta implica un patrón persistente de vulneración de derechos básicos de otras personas o infracciones reiteradas de normas importantes para la edad. Puede haber agresiones a personas o animales, daños deliberados, engaños o robos, o infracciones graves de las normas. Una discusión a la hora de acostarse, tomar algo ajeno una vez o una pelea aislada no establecen un diagnóstico. Incluso un único acto peligroso exige proteger a las personas afectadas.",
+              "Si alguien recibe amenazas con un arma, ha sufrido una lesión grave o corre peligro inmediato, ponte a salvo si puedes y llama a emergencias. No intentes quitarle el arma a nadie. Pasado el peligro, pide cuanto antes orientación profesional si hay amenazas o daños repetidos. Avisa también si el niño está sufriendo maltrato, coacción o explotación."
+            ]
+          },
+          {
+            "heading": "Qué se tiene en cuenta en la evaluación",
+            "paragraphs": [
+              "Lleva algunos ejemplos fechados de casa y de la escuela, con quién se vio afectado y qué ayudó a detener el incidente. El especialista escucha al niño o adolescente y puede hablar en privado con él. Pregunta cuándo empezó el patrón, con qué frecuencia ocurre, qué daño causa y en qué contextos se desenvuelve bien. El momento de aparición y la gravedad orientan la atención. No basta un cuestionario breve ni un incidente aislado.",
+              "El profesional puede preguntar por el aprendizaje, la comunicación, el TDAH, el ánimo, el consumo de sustancias, experiencias estresantes y la seguridad en el hogar o la escuela. Puede haber varios factores. El género del niño, los ingresos familiares, el barrio o los antecedentes no permiten identificar la causa. Pregunta cómo se atenderán también las necesidades de las personas que sufrieron daños."
+            ]
+          },
+          {
+            "heading": "Un plan entre la familia y la escuela",
+            "paragraphs": [
+              "El plan puede incluir formación para los cuidadores en instrucciones claras y respuestas coherentes, práctica de resolución de problemas con el niño o, en adolescentes, trabajo con la familia, los compañeros y la escuela. Elijan una meta observable, como ir a un lugar supervisado cuando empieza un conflicto, y quién comprobará si funciona. La medicación no es el tratamiento habitual de la conducta en sí. Un especialista puede tratar otro trastorno o, en determinados casos graves, valorar medicamentos con seguimiento.",
+              "En un estudio controlado del Reino Unido, 141 niños de 3 a 8 años derivados por problemas de conducta graves fueron asignados a un programa grupal para sus padres o a una lista de espera. A los cinco a siete meses, la conducta mejoró más en el grupo del programa. El estudio incluyó niños pequeños derivados a consulta y no predijo su evolución en la edad adulta. Revisen el plan de seguridad y el progreso a lo largo del tiempo, incluso después de una semana sin incidentes."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Atiende primero al peligro inmediato y las lesiones, antes de pedir explicaciones.",
+          "Describe los actos repetidos, dónde ocurren y sus consecuencias sin etiquetar al niño.",
+          "Acuerda un plan de seguridad, una meta práctica y una fecha de seguimiento."
+        ],
+        "faq": [
+          {
+            "q": "¿Cómo se diagnostica el trastorno de conducta?",
+            "a": "Un profesional cualificado evalúa el patrón, su duración y su repercusión, escucha al niño y a quienes lo cuidan y considera otras explicaciones. Las observaciones escolares pueden ayudar."
+          },
+          {
+            "q": "¿Qué tratamiento puede ayudar?",
+            "a": "Depende de la edad y las circunstancias. Hay programas para cuidadores, práctica de resolución de problemas y apoyo coordinado entre familia y escuela. Pregunta qué aspectos seguirá el equipo."
+          },
+          {
+            "q": "¿Es importante buscar ayuda?",
+            "a": "Sí. Los actos dañinos repetidos ponen en riesgo al niño y a otros y pueden afectar a la escuela y las relaciones. Puedes pedir ayuda antes de que haya un diagnóstico. El peligro inmediato requiere ayuda de emergencias."
+          },
+          {
+            "q": "¿Qué significa para el futuro del niño?",
+            "a": "La evolución varía. Influyen la gravedad, otras dificultades y el acceso al apoyo, y es posible mejorar. El diagnóstico no determina sus empleos, relaciones o posibles conflictos con la ley."
+          }
+        ],
+        "evidence": {
+          "updated": "Revisado el 17 de noviembre de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Prioriza la seguridad y registra lo ocurrido en los incidentes graves.",
+            "Solicita una evaluación que incluya al niño y a quienes lo cuidan.",
+            "Acuerda una meta con la familia y la escuela y revísala junto con el plan de seguridad."
+          ],
+          "bemama": "BeMama sugiere pedir a la escuela un ejemplo de un incidente difícil y otro en que el niño resolvió un desacuerdo sin peligro. Ambos pueden orientar el plan.",
+          "safety": "Llama a emergencias ante una amenaza inmediata, una lesión grave o peligro con un arma. Ponte a salvo si es posible. Pide pronto orientación profesional si se repiten las amenazas o los daños, incluidos los que sufre el propio niño.",
+          "sources": [
+            {
+              "organization": "Academia Americana de Psiquiatría Infantil y Adolescente",
+              "title": "Trastorno de conducta en niños y adolescentes",
+              "url": "https://www.aacap.org/aacap/families_and_youth/facts_for_families/fff-guide/Conduct-Disorder-033.aspx"
+            },
+            {
+              "organization": "Instituto Nacional para la Excelencia en la Salud y la Atención del Reino Unido",
+              "title": "Evaluación y atención del trastorno de conducta en niños y jóvenes",
+              "url": "https://www.nice.org.uk/guidance/cg158/chapter/Recommendations"
+            },
+            {
+              "organization": "Scott y colaboradores, BMJ",
+              "title": "Estudio controlado de grupos para padres ante conductas antisociales en la infancia",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/11473908/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Quando uma criança machuca os outros ou danifica objetos repetidamente",
+        "description": "Entenda a avaliação do transtorno de conduta, como manter todos em segurança após um incidente grave e como a família e a escola podem apoiar mudanças.",
+        "intro": "A escola liga de novo. Desta vez outra criança se machucou e uma bicicleta foi danificada de propósito. Pergunte primeiro se alguém precisa de atendimento médico e como estão protegendo as crianças. Depois peça um relato do que houve antes, durante e depois do incidente. Isso ajuda mais na consulta do que um rótulo como “criança problemática”.",
+        "sections": [
+          {
+            "heading": "Leve os incidentes graves a sério",
+            "paragraphs": [
+              "O transtorno de conduta envolve um padrão persistente de desrespeito aos direitos básicos de outras pessoas ou de violações repetidas de regras importantes para a idade. Pode haver agressão a pessoas ou animais, danos intencionais, enganos ou furtos, ou violações graves de regras. Uma discussão na hora de dormir, pegar algo alheio uma vez ou uma briga isolada não estabelecem diagnóstico. Mesmo um único ato perigoso exige proteção.",
+              "Se alguém estiver sob ameaça com uma arma, sofrer ferimento grave ou correr perigo imediato, vá para um lugar seguro se puder e chame a emergência. Não tente tirar a arma da pessoa. Passado o perigo, procure orientação profissional prontamente se houver ameaças ou danos repetidos. Informe se a própria criança estiver sendo ferida, coagida ou explorada."
+            ]
+          },
+          {
+            "heading": "O que se avalia na consulta",
+            "paragraphs": [
+              "Leve exemplos datados de casa e da escola, incluindo quem foi afetado e o que ajudou a interromper o incidente. O especialista escuta a versão do jovem e pode falar com ele em particular. Pergunta quando o padrão começou, com que frequência ocorre, que prejuízos causa e em que ambientes a criança se sai bem. O momento de início e a gravidade orientam o cuidado. Uma lista breve ou um incidente isolado não fecham o diagnóstico.",
+              "O profissional pode perguntar sobre aprendizagem, comunicação, TDAH, humor, uso de substâncias, experiências estressantes e segurança em casa ou na escola. Vários fatores podem contribuir. O gênero, a renda, o bairro ou o histórico familiar da criança não revelam a causa. Pergunte como também serão atendidas as pessoas que sofreram danos."
+            ]
+          },
+          {
+            "heading": "Monte um plano com a família e a escola",
+            "paragraphs": [
+              "O plano pode incluir orientação aos cuidadores sobre instruções claras e respostas consistentes, prática de resolução de problemas com a criança ou, na adolescência, trabalho com família, colegas e escola. Escolham um objetivo observável, como ir a um local supervisionado quando começa um conflito, e quem acompanhará o resultado. A medicação não é o tratamento habitual do comportamento em si. O especialista pode tratar outra condição ou, em casos graves selecionados, considerar medicamento com monitoramento.",
+              "Em um estudo controlado no Reino Unido, 141 crianças de 3 a 8 anos encaminhadas por problemas graves de comportamento foram alocadas a um programa de grupos para os pais ou a uma lista de espera. Entre cinco e sete meses depois, o comportamento melhorou mais no grupo do programa. O estudo era sobre crianças pequenas encaminhadas para atendimento e não previu resultados na vida adulta. Revejam o plano de segurança e o progresso ao longo do tempo, mesmo após uma semana sem incidentes."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Cuide do perigo imediato e dos ferimentos antes de pedir explicações.",
+          "Descreva os atos repetidos, o contexto e os efeitos sem rotular a criança.",
+          "Combinem um plano de segurança, uma meta prática e uma data para acompanhamento."
+        ],
+        "faq": [
+          {
+            "q": "Como se diagnostica o transtorno de conduta?",
+            "a": "Um profissional qualificado avalia o padrão, a duração e o impacto, ouve a criança e quem cuida dela e considera outras explicações. Observações da escola podem ajudar."
+          },
+          {
+            "q": "Que tratamento pode ajudar?",
+            "a": "A idade e as circunstâncias orientam a escolha. Há treinamento para cuidadores, prática de resolução de problemas com a criança e apoio coordenado entre família e escola. Pergunte o que a equipe vai acompanhar."
+          },
+          {
+            "q": "É importante procurar ajuda?",
+            "a": "Sim. Atos prejudiciais repetidos podem colocar a criança e os outros em risco e atrapalhar a escola e as relações. É possível pedir ajuda antes de um diagnóstico. Perigo imediato exige atendimento de emergência."
+          },
+          {
+            "q": "O que isso significa para o futuro da criança?",
+            "a": "A evolução varia. Gravidade, dificuldades associadas e acesso a apoio fazem diferença, e as crianças podem melhorar. Um diagnóstico não determina emprego, relacionamentos ou envolvimento futuro com a justiça."
+          }
+        ],
+        "evidence": {
+          "updated": "Revisado em 17 de novembro de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Priorize a segurança e registre o que aconteceu nos incidentes graves.",
+            "Solicite uma avaliação com participação da criança e de quem cuida dela.",
+            "Estabeleça uma meta com a família e a escola e reveja-a junto com o plano de segurança."
+          ],
+          "bemama": "A BeMama sugere pedir à escola um exemplo de incidente difícil e outro de uma situação em que a criança lidou com um desentendimento de forma segura. Ambos podem orientar o plano.",
+          "safety": "Chame a emergência diante de ameaça imediata, ferimento grave ou perigo com uma arma. Vá para um local seguro se possível. Procure orientação rapidamente se ameaças ou danos se repetirem, inclusive se a própria criança for atingida.",
+          "sources": [
+            {
+              "organization": "Academia Americana de Psiquiatria da Infância e da Adolescência",
+              "title": "Transtorno de conduta em crianças e adolescentes",
+              "url": "https://www.aacap.org/aacap/families_and_youth/facts_for_families/fff-guide/Conduct-Disorder-033.aspx"
+            },
+            {
+              "organization": "Instituto Nacional de Excelência em Saúde e Cuidados do Reino Unido",
+              "title": "Avaliação e cuidado de transtornos de conduta em crianças e jovens",
+              "url": "https://www.nice.org.uk/guidance/cg158/chapter/Recommendations"
+            },
+            {
+              "organization": "Scott e colaboradores, BMJ",
+              "title": "Estudo controlado de grupos para pais diante de comportamento antissocial infantil",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/11473908/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5885.webp",
+    "heroAlt": {
+      "en": "A child and an adult set a wooden planter upright together beside spilled soil.",
+      "es": "Una niña y un adulto colocan juntos una jardinera de madera junto a la tierra derramada.",
+      "fr": "Une enfant et un adulte remettent une jardinière en bois en place près de la terre renversée.",
+      "pt": "Uma criança e um adulto colocam uma jardineira de madeira no lugar ao lado da terra derramada.",
+      "tr": "Bir çocuk ve bir yetişkin, dökülen toprağın yanında ahşap bir saksıyı birlikte yerine koyuyor.",
+      "fa": "یک کودک و یک بزرگسال کنار خاک ریخته، جعبه چوبی گل‌ها را با هم سر جایش می‌گذارند.",
+      "ar": "طفلة وشخص بالغ يعيدان حوض زرع خشبيًا إلى مكانه بجانب التراب المنثور."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "When a child repeatedly hurts others or damages property",
+      "description": "Learn what a conduct disorder assessment involves, how to keep everyone safe after a serious incident, and how family and school can support change."
+    },
+    "fa": {
+      "title": "وقتی کودک بارها به دیگران یا وسایل آسیب می‌زند",
+      "description": "ببینید اختلال سلوک چگونه ارزیابی می‌شود، پس از اتفاقی جدی چطور امنیت افراد را حفظ کنید و خانواده و مدرسه چه نقشی در تغییر رفتار کودک دارند."
+    },
+    "ar": {
+      "title": "عندما يؤذي الطفل الآخرين أو يتلف ممتلكاتهم مرارًا",
+      "description": "تعرّف إلى كيفية تقييم اضطراب المسلك، والخطوات اللازمة لحماية الجميع بعد حادث خطير، وكيف يمكن للأسرة والمدرسة أن تعملا معًا لدعم تغير السلوك."
+    },
+    "fr": {
+      "title": "Quand un enfant blesse les autres ou dégrade des biens à répétition",
+      "description": "Découvrez comment se déroule l’évaluation d’un trouble des conduites, comment protéger chacun après un incident grave et bâtir un plan avec l’école."
+    },
+    "tr": {
+      "title": "Çocuk başkalarına veya eşyalara tekrar tekrar zarar verdiğinde",
+      "description": "Davranım bozukluğunun nasıl değerlendirildiğini, olaydan sonra güvenliği nasıl sağlayabileceğinizi ve aileyle okulun nasıl destek olabileceğini öğrenin."
+    },
+    "es": {
+      "title": "Cuando un niño hiere a otros o daña objetos repetidamente",
+      "description": "Conoce en qué consiste la evaluación del trastorno de conducta, cómo proteger a todos tras un incidente grave y cómo pueden colaborar la familia y la escuela."
+    },
+    "pt": {
+      "title": "Quando uma criança machuca os outros ou danifica objetos repetidamente",
+      "description": "Entenda a avaliação do transtorno de conduta, como manter todos em segurança após um incidente grave e como a família e a escola podem apoiar mudanças."
+    }
+  }
+}

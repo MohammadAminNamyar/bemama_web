@@ -1,0 +1,646 @@
+{
+  "sourceId": "5774",
+  "article": {
+    "slug": "overstimulated-baby-child-quiet-break",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "When a busy room becomes too much for your child",
+        "description": "Recognize when a baby or older child needs a quieter break, how to change the surroundings, and which signs of illness need medical attention.",
+        "intro": "At a family gathering, the baby looks away each time someone brings the musical toy close. Turning it up is unlikely to help. Try switching it off, taking the baby somewhere quieter and watching what happens when there is less to take in.",
+        "sections": [
+          {
+            "heading": "Start with the child’s cues",
+            "paragraphs": [
+              "Noise, bright activity, touch and several changes in a row can overwhelm a child, particularly when they are tired. A baby may turn away, tense up, kick or cry. A preschooler may cover their ears, stop answering or drop to the floor. An older child may ask to go home or become irritable after a full day. Each of these behaviours can have other explanations.",
+              "Check for hunger, discomfort, pain or illness first. Offer a feed if your baby shows feeding cues. Move away from the crowd, lower your voice and pause before offering another activity. Hold the baby if that helps. Keep their face and airway clear, and leave the pram uncovered so air can circulate."
+            ]
+          },
+          {
+            "heading": "Make a break fit the child",
+            "paragraphs": [
+              "With a toddler, try turning off the television and sitting nearby with one familiar toy. A child who wants space can play quietly while you stay available. With a school-age child, agree on a signal for a break, then talk later about which activity they would like to keep and when they need time to come home and rest.",
+              "In a supervised play study, 36 toddlers each had a session with four toys and another with sixteen. With four, they played longer with an individual toy and used toys in more varied ways. The researchers observed play. They did not test a treatment for distress or establish an ideal number of toys for every home."
+            ]
+          },
+          {
+            "heading": "When quiet is not enough",
+            "paragraphs": [
+              "Notice whether your child returns to their usual self once rested. If distress repeatedly disrupts meals, school or daily routines, or you notice a change in hearing, development or behaviour, discuss examples with their clinician. A new, persistent or unusual cry, poor feeding or signs of pain also deserve medical advice.",
+              "If an infant gets sleepy, place them on their back on a firm, flat, clear sleep surface. Swaddling is optional. Never use a weighted swaddle. Keep the face clear, allow the chest and hips to move and stop swaddling as soon as the baby shows signs of trying to roll. A baby under three months with a temperature of 38°C (100.4°F) or higher needs urgent medical assessment. Serious breathing difficulty or a child who is very difficult to wake needs emergency help."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Try reducing noise and activity, then watch the response.",
+          "Give older children a way to ask for a break.",
+          "Check for illness or pain when distress persists or seems unusual."
+        ],
+        "faq": [
+          {
+            "q": "Can I swaddle a baby to calm them?",
+            "a": "Some babies settle when swaddled. Use no weights, keep the face clear, allow the hips and chest to move, and always place the baby on their back for sleep. Stop when they first show signs of trying to roll."
+          },
+          {
+            "q": "What causes overstimulation?",
+            "a": "More sound, touch, activity or change than a child can manage at that moment can make them feel overwhelmed. Their tolerance can vary with tiredness, hunger and the setting."
+          },
+          {
+            "q": "How might a baby show they need a break?",
+            "a": "A baby may look away, tense their limbs, kick or cry. Check their basic needs and health, then try a quieter setting and notice whether they settle."
+          },
+          {
+            "q": "How might an older child show it?",
+            "a": "A toddler may cry or struggle to use words. A school-age child may withdraw or ask to leave. Offer a break and ask later what would make the next outing easier."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 17, 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Follow the child’s response rather than setting a fixed activity limit.",
+            "Offer one quiet option and time to respond.",
+            "Get medical advice for persistent or unusual distress or poor feeding."
+          ],
+          "bemama": "BeMama suggests noting what happened just before your child turned away and which small change helped them rejoin the activity.",
+          "safety": "Seek urgent medical assessment for fever of 38°C (100.4°F) or higher in a baby under three months. Get emergency help for serious trouble breathing or great difficulty waking. Never cover a pram to block out light or use a weighted swaddle.",
+          "sources": [
+            {
+              "organization": "Raising Children Network",
+              "title": "Overstimulation in babies, toddlers and children",
+              "url": "https://raisingchildren.net.au/babies/behaviour/common-concerns/overstimulation"
+            },
+            {
+              "organization": "American Academy of Pediatrics",
+              "title": "Swaddling safety and when to stop",
+              "url": "https://www.healthychildren.org/English/ages-stages/baby/diapers-clothing/Pages/Swaddling-Is-it-Safe.aspx"
+            },
+            {
+              "organization": "Dauch and colleagues, Infant Behavior and Development",
+              "title": "Number of toys and toddlers’ supervised play",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/29190457/"
+            },
+            {
+              "organization": "NHS",
+              "title": "High temperature in children and urgent symptoms",
+              "url": "https://www.nhs.uk/symptoms/fever-in-children/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "وقتی شلوغی محیط برای فرزندتان بیش از حد می‌شود",
+        "description": "ببینید نوزاد یا کودک بزرگ‌تر چه زمانی به استراحت در محیط آرام نیاز دارد، چطور محیط را تغییر دهید و کدام نشانه‌های بیماری به ارزیابی پزشکی نیاز دارند.",
+        "intro": "در مهمانی، هر بار کسی اسباب‌بازی موزیکال را نزدیک می‌آورد، نوزادتان نگاهش را برمی‌گرداند. بعید است بلندتر کردن صدا کمک کند. اسباب‌بازی را خاموش کنید، نوزاد را به جای آرام‌تری ببرید و ببینید وقتی محرک‌ها کمتر می‌شوند چه واکنشی دارد.",
+        "sections": [
+          {
+            "heading": "از نشانه‌های خود کودک شروع کنید",
+            "paragraphs": [
+              "سر و صدا، جنب‌وجوش و نور زیاد، تماس بدنی و چند تغییر پی‌درپی، به‌ویژه هنگام خستگی، ممکن است برای کودک بیش از تحملش باشد. نوزاد ممکن است رویش را برگرداند، بدنش را سفت کند، پا بزند یا گریه کند. کودک پیش‌دبستانی ممکن است گوش‌هایش را بگیرد، دیگر پاسخ ندهد یا خودش را روی زمین بیندازد. کودک بزرگ‌تر شاید بخواهد به خانه برگردد یا پس از روزی شلوغ کج‌خلق شود. هر یک از این رفتارها می‌تواند علت دیگری هم داشته باشد.",
+              "ابتدا گرسنگی، ناراحتی جسمی، درد یا بیماری را بررسی کنید. اگر نوزاد نشانه گرسنگی دارد، به او شیر بدهید. از جمع فاصله بگیرید، آرام‌تر حرف بزنید و پیش از پیشنهاد فعالیت بعدی کمی صبر کنید. اگر بغل کردن کمک می‌کند، او را در آغوش بگیرید. صورت و راه تنفسش را آزاد بگذارید. روی کالسکه را نپوشانید تا هوا جریان داشته باشد."
+            ]
+          },
+          {
+            "heading": "استراحت را با نیاز کودک هماهنگ کنید",
+            "paragraphs": [
+              "برای کودک نوپا می‌توانید تلویزیون را خاموش کنید و با یک اسباب‌بازی آشنا کنارش بنشینید. اگر فضای بیشتری می‌خواهد، بگذارید آرام بازی کند و شما در دسترس باشید. با کودک مدرسه‌ای برای درخواست استراحت نشانه‌ای تعیین کنید. بعداً درباره فعالیتی که می‌خواهد ادامه دهد و زمانی که لازم دارد برای استراحت به خانه برگردد صحبت کنید.",
+              "در یک پژوهش بازی با نظارت، هر یک از ۳۶ کودک نوپا یک نوبت با چهار اسباب‌بازی و نوبتی دیگر با شانزده اسباب‌بازی بازی کردند. وقتی چهار اسباب‌بازی بود، با هر کدام مدت بیشتری بازی کردند و استفاده‌های متنوع‌تری داشتند. پژوهشگران بازی را مشاهده کردند. این مطالعه روش درمان ناراحتی کودک را نیازمود و تعداد مطلوب اسباب‌بازی را برای همه خانه‌ها تعیین نکرد."
+            ]
+          },
+          {
+            "heading": "وقتی آرامش محیط کافی نیست",
+            "paragraphs": [
+              "ببینید کودک پس از استراحت به حال همیشگی‌اش برمی‌گردد یا نه. اگر ناراحتی‌اش مرتب در غذا خوردن، مدرسه یا کارهای روزانه اختلال ایجاد می‌کند یا تغییری در شنوایی، رشد یا رفتارش می‌بینید، نمونه‌هایی را با پزشک در میان بگذارید. گریه تازه، مداوم یا غیرعادی، خوب شیر یا غذا نخوردن و نشانه‌های درد هم نیاز به مشورت پزشکی دارند.",
+              "اگر شیرخوار خواب‌آلود شد، برای خواب او را به پشت روی سطحی سفت، صاف و عاری از وسایل اضافی بگذارید. قنداق کردن اختیاری است. هرگز از قنداق وزنه‌دار استفاده نکنید. صورت را آزاد بگذارید و برای حرکت قفسه سینه و لگن جا بگذارید. با اولین نشانه تلاش برای غلت زدن، قنداق را کنار بگذارید. دمای ۳۸ درجه سانتی‌گراد (۱۰۰٫۴ فارنهایت) یا بالاتر در شیرخوار زیر سه ماه نیاز به ارزیابی فوری پزشکی دارد. برای دشواری شدید تنفس یا کودکی که به‌سختی می‌توان بیدارش کرد، کمک اورژانسی بخواهید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "صدا و فعالیت را کمتر کنید و بعد واکنش کودک را ببینید.",
+          "به کودک بزرگ‌تر راهی برای درخواست استراحت بدهید.",
+          "اگر ناراحتی ماندگار یا غیرمعمول است، بیماری یا درد را بررسی کنید."
+        ],
+        "faq": [
+          {
+            "q": "آیا می‌توانم برای آرام کردن نوزاد او را قنداق کنم؟",
+            "a": "برخی نوزادان با قنداق آرام می‌شوند. از وزنه استفاده نکنید، صورت را باز بگذارید، امکان حرکت لگن و قفسه سینه را بدهید و برای خواب همیشه نوزاد را به پشت بگذارید. به محض دیدن تلاش برای غلت زدن، دیگر قنداق نکنید."
+          },
+          {
+            "q": "چه چیزی باعث تحریک بیش از حد کودک می‌شود؟",
+            "a": "صدا، تماس، فعالیت یا تغییر بیش از توان کودک در آن لحظه می‌تواند او را کلافه کند. تحمل او با خستگی، گرسنگی و محیط تغییر می‌کند."
+          },
+          {
+            "q": "نوزاد چگونه نشان می‌دهد به استراحت نیاز دارد؟",
+            "a": "ممکن است نگاهش را برگرداند، دست و پا را سفت کند، پا بزند یا گریه کند. نیازهای اولیه و سلامتی او را بررسی کنید، سپس در محیط آرام‌تری ببینید آرام می‌شود یا نه."
+          },
+          {
+            "q": "کودک بزرگ‌تر چگونه این نیاز را نشان می‌دهد؟",
+            "a": "کودک نوپا شاید گریه کند یا نتواند منظورش را بگوید. کودک مدرسه‌ای ممکن است از جمع کنار بکشد یا درخواست رفتن کند. فرصت استراحت بدهید و بعداً بپرسید چه چیزی بیرون رفتن بعدی را آسان‌تر می‌کند."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۷ نوامبر ۲۰۲۶ بررسی شد",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "مدت فعالیت را با توجه به واکنش کودک تنظیم کنید.",
+            "یک فعالیت آرام پیشنهاد دهید و برای پاسخ دادن فرصت بگذارید.",
+            "برای ناراحتی ماندگار یا غیرعادی و خوب شیر یا غذا نخوردن مشورت پزشکی بگیرید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند یادداشت کنید درست پیش از روی برگرداندن کودک چه شد و کدام تغییر کوچک کمک کرد دوباره به فعالیت برگردد.",
+          "safety": "تب ۳۸ درجه سانتی‌گراد (۱۰۰٫۴ فارنهایت) یا بیشتر در شیرخوار زیر سه ماه نیاز به ارزیابی فوری پزشکی دارد. برای مشکل شدید تنفس یا دشواری زیاد در بیدار کردن کودک، کمک اورژانسی بگیرید. برای جلوگیری از نور روی کالسکه را نپوشانید و از قنداق وزنه‌دار استفاده نکنید.",
+          "sources": [
+            {
+              "organization": "شبکه پرورش کودکان",
+              "title": "تحریک بیش از حد در شیرخواران، نوپایان و کودکان",
+              "url": "https://raisingchildren.net.au/babies/behaviour/common-concerns/overstimulation"
+            },
+            {
+              "organization": "آکادمی طب کودکان آمریکا",
+              "title": "ایمنی قنداق و زمان کنار گذاشتن آن",
+              "url": "https://www.healthychildren.org/English/ages-stages/baby/diapers-clothing/Pages/Swaddling-Is-it-Safe.aspx"
+            },
+            {
+              "organization": "داوک و همکاران، مجله رفتار و رشد شیرخوار",
+              "title": "تعداد اسباب‌بازی‌ها و بازی نوپایان با نظارت",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/29190457/"
+            },
+            {
+              "organization": "خدمات سلامت همگانی بریتانیا",
+              "title": "تب در کودکان و نشانه‌های نیازمند رسیدگی فوری",
+              "url": "https://www.nhs.uk/symptoms/fever-in-children/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "حين يصبح صخب المكان أكثر مما يحتمله طفلك",
+        "description": "تعرّف إلى علامات حاجة الرضيع أو الطفل الأكبر إلى استراحة هادئة، وكيفية تكييف المكان معه، وأعراض المرض التي تستدعي رعاية طبية.",
+        "intro": "في لقاء عائلي يصرف رضيعك نظره كلما قرّب أحدهم منه لعبة موسيقية. رفع الصوت لن يساعده على الأرجح. جرّب إطفاء اللعبة والانتقال بالرضيع إلى مكان أهدأ، ثم راقب ما يحدث عندما يقل ما حوله من منبهات.",
+        "sections": [
+          {
+            "heading": "ابدأ بما يظهر على الطفل",
+            "paragraphs": [
+              "قد يفوق الضجيج والحركة البصرية الكثيفة واللمس والتغييرات المتلاحقة قدرة الطفل على الاحتمال، خصوصاً عند التعب. قد يدير الرضيع وجهه أو يشد جسمه أو يرفس أو يبكي. وقد يسد طفل ما قبل المدرسة أذنيه أو يكف عن الإجابة أو يلقي بنفسه على الأرض. وقد يطلب الطفل الأكبر العودة إلى البيت أو يتعكر مزاجه بعد يوم حافل. لكل من هذه التصرفات أسباب أخرى محتملة.",
+              "تحقق أولاً من الجوع والانزعاج والألم أو المرض. اعرض رضعة إذا أظهر الرضيع علامات الجوع. ابتعد عن الزحام واخفض صوتك وانتظر قبل تقديم نشاط آخر. احمله إذا ساعده ذلك. أبق وجهه ومجرى تنفسه مكشوفين واترك عربة الطفل بلا غطاء كي يدور الهواء."
+            ]
+          },
+          {
+            "heading": "اجعل الاستراحة مناسبة لطفلك",
+            "paragraphs": [
+              "مع الطفل الدارج جرّب إطفاء التلفاز والجلوس قربه مع لعبة مألوفة واحدة. إذا رغب في بعض المساحة يمكنه أن يلعب بهدوء مع بقائك متاحاً له. اتفق مع الطفل في سن المدرسة على إشارة لطلب استراحة. تحدثا لاحقاً عن النشاط الذي يود الاستمرار فيه والوقت الذي يحتاج فيه إلى العودة للبيت والراحة.",
+              "في دراسة للعب تحت الإشراف شارك كل واحد من ٣٦ طفلاً دارجاً في جلسة فيها أربع ألعاب وأخرى فيها ست عشرة لعبة. حين كانت الألعاب أربعاً أمضوا وقتاً أطول مع اللعبة الواحدة واستخدموا الألعاب بطرق أكثر تنوعاً. راقب الباحثون اللعب، ولم يختبروا علاجاً للضيق أو يحددوا عدداً مثالياً من الألعاب لكل منزل."
+            ]
+          },
+          {
+            "heading": "حين لا يكفي الهدوء",
+            "paragraphs": [
+              "لاحظ إن عاد طفلك إلى حاله المعتادة بعد الراحة. إذا كان الضيق يعطل مراراً الوجبات أو المدرسة أو الروتين، أو لاحظت تغيراً في السمع أو التطور أو السلوك، فناقش أمثلة مع طبيب الطفل. واستشر أيضاً بشأن بكاء جديد أو مستمر أو غير مألوف، أو ضعف الرضاعة أو الأكل، أو علامات الألم.",
+              "إذا نعس الرضيع، فضعه على ظهره للنوم على سطح ثابت ومستوٍ وخالٍ من الأغراض. التقميط اختياري. لا تستخدم قماطاً مثقلاً. اترك الوجه مكشوفاً ودع الصدر والوركين يتحركان. أوقف التقميط عند أول علامة على محاولة التقلب. يحتاج الرضيع دون ثلاثة أشهر إلى تقييم طبي عاجل إذا بلغت حرارته ٣٨ درجة مئوية (١٠٠٫٤ فهرنهايت) أو أكثر. اطلب الإسعاف لصعوبة شديدة في التنفس أو إذا كان إيقاظ الطفل صعباً جداً."
+            ]
+          }
+        ],
+        "takeaways": [
+          "جرّب تقليل الضجيج والنشاط وراقب الاستجابة.",
+          "أعطِ الأطفال الأكبر وسيلة لطلب استراحة.",
+          "تحرَّ المرض أو الألم إذا استمر الضيق أو بدا غير معتاد."
+        ],
+        "faq": [
+          {
+            "q": "هل أستطيع تقميط رضيعي لتهدئته؟",
+            "a": "يهدأ بعض الرضع بالتقميط. لا تستخدم أثقالاً وأبقِ الوجه مكشوفاً واترك مساحة لحركة الصدر والوركين. ضع الرضيع دائماً على ظهره للنوم وأوقف التقميط عند أول علامة على محاولة التقلب."
+          },
+          {
+            "q": "ما الذي يسبب فرط التحفيز؟",
+            "a": "قد تفوق الأصوات أو اللمس أو الأنشطة أو التغيرات ما يحتمله الطفل في لحظة معينة. وقد تتفاوت قدرته على الاحتمال بحسب التعب والجوع والمكان."
+          },
+          {
+            "q": "كيف يُظهر الرضيع حاجته إلى استراحة؟",
+            "a": "قد يصرف نظره أو يشد أطرافه أو يرفس أو يبكي. تحقق من حاجاته الأساسية وصحته، ثم جرّب مكاناً أهدأ وراقب هل يستقر."
+          },
+          {
+            "q": "كيف يُظهر الطفل الأكبر ذلك؟",
+            "a": "قد يبكي الطفل الدارج أو يصعب عليه التعبير بالكلمات. وقد ينسحب طفل المدرسة أو يطلب المغادرة. اعرض استراحة واسأله لاحقاً ما الذي يسهّل النزهة التالية."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٧ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "اضبط مدة النشاط بحسب استجابة الطفل.",
+            "قدّم خياراً هادئاً واحداً واترك وقتاً للاستجابة.",
+            "اطلب المشورة الطبية للضيق المستمر أو غير المعتاد أو لضعف الرضاعة أو الأكل."
+          ],
+          "bemama": "تقترح بي ماما تدوين ما حدث قبل أن يصرف طفلك نظره مباشرة، وما التغيير البسيط الذي ساعده على العودة إلى النشاط.",
+          "safety": "اطلب تقييماً طبياً عاجلاً لرضيع دون ثلاثة أشهر بحرارة ٣٨ درجة مئوية (١٠٠٫٤ فهرنهايت) أو أكثر. اطلب الإسعاف لصعوبة التنفس الشديدة أو الصعوبة الكبيرة في الإيقاظ. لا تغط عربة الطفل لحجب الضوء ولا تستخدم قماطاً مثقلاً.",
+          "sources": [
+            {
+              "organization": "شبكة تربية الأطفال",
+              "title": "فرط التحفيز لدى الرضع والأطفال الدارجين والأكبر سناً",
+              "url": "https://raisingchildren.net.au/babies/behaviour/common-concerns/overstimulation"
+            },
+            {
+              "organization": "الأكاديمية الأمريكية لطب الأطفال",
+              "title": "أمان التقميط ومتى ينبغي إيقافه",
+              "url": "https://www.healthychildren.org/English/ages-stages/baby/diapers-clothing/Pages/Swaddling-Is-it-Safe.aspx"
+            },
+            {
+              "organization": "داوخ وزملاؤه، دورية سلوك الرضيع وتطوره",
+              "title": "عدد الألعاب ولعب الأطفال الدارجين تحت الإشراف",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/29190457/"
+            },
+            {
+              "organization": "الخدمة الصحية الوطنية البريطانية",
+              "title": "الحرارة المرتفعة لدى الأطفال والأعراض العاجلة",
+              "url": "https://www.nhs.uk/symptoms/fever-in-children/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Quand l’agitation devient trop intense pour votre enfant",
+        "description": "Repérez quand un bébé ou un enfant plus grand a besoin de calme, comment adapter son environnement et quels signes de maladie nécessitent un avis médical.",
+        "intro": "Lors d’une réunion de famille, votre bébé détourne les yeux chaque fois qu’on approche le jouet musical. Augmenter le volume risque de ne rien arranger. Éteignez le jouet, emmenez votre bébé dans un lieu plus calme et observez sa réaction lorsque les sollicitations diminuent.",
+        "sections": [
+          {
+            "heading": "Partir de ce que montre l’enfant",
+            "paragraphs": [
+              "Le bruit, l’agitation visuelle, les contacts physiques et plusieurs changements successifs peuvent submerger un enfant, surtout s’il est fatigué. Un bébé peut détourner la tête, se raidir, agiter les jambes ou pleurer. Un enfant de maternelle peut se couvrir les oreilles, ne plus répondre ou se laisser tomber au sol. Un plus grand peut demander à rentrer ou s’irriter après une journée chargée. Chacun de ces comportements peut aussi avoir d’autres explications.",
+              "Vérifiez d’abord s’il a faim, s’il est mal installé, malade ou s’il a mal. Proposez une tétée ou un biberon si votre bébé montre des signes de faim. Éloignez-vous du groupe, baissez la voix et attendez un peu avant de proposer une autre activité. Prenez-le dans les bras si cela l’aide. Gardez son visage et ses voies respiratoires dégagés et ne couvrez pas la poussette afin que l’air circule."
+            ]
+          },
+          {
+            "heading": "Adapter la pause à l’enfant",
+            "paragraphs": [
+              "Avec un tout-petit, essayez d’éteindre la télévision et de vous asseoir à proximité avec un jouet familier. S’il a besoin d’espace, il peut jouer tranquillement en vous sachant disponible. Avec un enfant d’âge scolaire, convenez d’un signe pour demander une pause. Parlez plus tard des activités qu’il souhaite garder et du moment où il veut rentrer se reposer.",
+              "Dans une étude de jeu supervisé, chacun des 36 tout-petits a joué lors d’une séance avec quatre jouets et lors d’une autre avec seize. Avec quatre jouets, les enfants ont joué plus longtemps avec chaque jouet et lui ont trouvé des usages plus variés. Les chercheurs ont observé le jeu. Ils n’ont ni testé un traitement du mal-être ni établi un nombre idéal de jouets pour chaque foyer."
+            ]
+          },
+          {
+            "heading": "Quand le calme ne suffit pas",
+            "paragraphs": [
+              "Voyez si votre enfant retrouve son état habituel après du repos. Si son malaise perturbe régulièrement les repas, l’école ou les habitudes, ou si vous remarquez un changement dans son audition, son développement ou son comportement, donnez des exemples à son médecin. Des pleurs nouveaux, persistants ou inhabituels, des difficultés à se nourrir ou des signes de douleur méritent aussi un avis.",
+              "Si un nourrisson s’assoupit, couchez-le sur le dos sur une surface ferme, plane et dégagée. L’emmaillotage est facultatif. N’utilisez jamais d’emmaillotage lesté. Laissez le visage dégagé et la poitrine et les hanches libres de bouger. Cessez dès les premiers signes de tentative de retournement. Un bébé de moins de trois mois dont la température atteint 38 °C (100,4 °F) ou plus doit être évalué d’urgence. Appelez les secours pour une difficulté respiratoire importante ou si l’enfant est très difficile à réveiller."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Réduisez le bruit et l’agitation, puis observez sa réaction.",
+          "Donnez aux plus grands un moyen de demander une pause.",
+          "Recherchez une maladie ou une douleur si le malaise persiste ou semble inhabituel."
+        ],
+        "faq": [
+          {
+            "q": "Puis-je emmailloter mon bébé pour le calmer ?",
+            "a": "Certains bébés s’apaisent ainsi. N’utilisez pas de poids, dégagez le visage, laissez bouger les hanches et la poitrine et couchez toujours le bébé sur le dos. Arrêtez dès les premiers signes qu’il essaie de se retourner."
+          },
+          {
+            "q": "Qu’est-ce qui provoque la surstimulation ?",
+            "a": "Les sons, le toucher, les activités ou les changements peuvent dépasser ce que l’enfant supporte à un moment donné. Sa tolérance varie avec la fatigue, la faim et le contexte."
+          },
+          {
+            "q": "Comment un bébé montre-t-il qu’il a besoin d’une pause ?",
+            "a": "Il peut détourner le regard, raidir les membres, agiter les jambes ou pleurer. Vérifiez ses besoins et son état de santé, puis essayez un lieu plus calme et observez s’il s’apaise."
+          },
+          {
+            "q": "Comment un enfant plus grand peut-il le manifester ?",
+            "a": "Un tout-petit peut pleurer ou peiner à trouver ses mots. Un enfant d’âge scolaire peut s’isoler ou demander à partir. Proposez une pause. Demandez-lui plus tard ce qui faciliterait la prochaine sortie."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 17 novembre 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Ajustez la durée d’activité aux réactions de l’enfant.",
+            "Proposez une activité calme et laissez-lui le temps de réagir.",
+            "Demandez un avis médical en cas de malaise persistant ou inhabituel ou de difficultés à se nourrir."
+          ],
+          "bemama": "BeMama suggère de noter ce qui s’est passé juste avant que votre enfant détourne le regard et quel petit changement l’a aidé à reprendre l’activité.",
+          "safety": "Un bébé de moins de trois mois avec une fièvre de 38 °C (100,4 °F) ou plus doit être évalué d’urgence. Appelez les secours si l’enfant respire très difficilement ou est très difficile à réveiller. Ne couvrez jamais une poussette pour masquer la lumière et n’utilisez pas d’emmaillotage lesté.",
+          "sources": [
+            {
+              "organization": "Raising Children Network",
+              "title": "Surstimulation chez les bébés, les tout-petits et les enfants",
+              "url": "https://raisingchildren.net.au/babies/behaviour/common-concerns/overstimulation"
+            },
+            {
+              "organization": "Académie américaine de pédiatrie",
+              "title": "Emmailloter en sécurité et savoir quand arrêter",
+              "url": "https://www.healthychildren.org/English/ages-stages/baby/diapers-clothing/Pages/Swaddling-Is-it-Safe.aspx"
+            },
+            {
+              "organization": "Dauch et collègues, Infant Behavior and Development",
+              "title": "Nombre de jouets et jeu supervisé chez les tout-petits",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/29190457/"
+            },
+            {
+              "organization": "Service national de santé britannique",
+              "title": "Fièvre de l’enfant et symptômes nécessitant des soins urgents",
+              "url": "https://www.nhs.uk/symptoms/fever-in-children/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Kalabalık bir ortam çocuğunuza fazla geldiğinde",
+        "description": "Çocuğunuzun sakin bir molaya ihtiyaç duyduğunu nasıl anlayacağınızı, ortamı nasıl düzenleyeceğinizi ve hangi hastalık belirtilerinde yardım alacağınızı öğrenin.",
+        "intro": "Aile buluşmasında biri müzikli oyuncağı yaklaştırdığında bebeğiniz her defasında başını çeviriyor. Sesi yükseltmek pek işe yaramayabilir. Oyuncağı kapatıp bebeği daha sakin bir yere götürün ve uyaranlar azalınca ne yaptığına bakın.",
+        "sections": [
+          {
+            "heading": "Önce çocuğun verdiği işaretlere bakın",
+            "paragraphs": [
+              "Gürültü, yoğun görsel hareketlilik, dokunulma ve art arda gelen değişiklikler özellikle yorgunken çocuğa fazla gelebilir. Bebek başını çevirebilir, gerilebilir, tekme atabilir veya ağlayabilir. Okul öncesi çocuk kulaklarını kapatabilir, yanıt vermeyi bırakabilir veya kendini yere bırakabilir. Daha büyük bir çocuk eve dönmek isteyebilir ya da yoğun bir günün ardından huzursuz olabilir. Bu davranışların her birinin başka açıklamaları da olabilir.",
+              "Önce açlık, rahatsızlık, ağrı veya hastalık olup olmadığını kontrol edin. Bebek açlık belirtileri gösteriyorsa besleyin. Kalabalıktan uzaklaşın, sesinizi alçaltın ve başka bir etkinlik önermeden önce bekleyin. İyi geliyorsa kucağınıza alın. Yüzü ve solunum yolu açık kalsın. Havanın dolaşabilmesi için bebek arabasının üzerini örtmeyin."
+            ]
+          },
+          {
+            "heading": "Molayı çocuğa göre ayarlayın",
+            "paragraphs": [
+              "Küçük bir çocukla televizyonu kapatıp tanıdığı tek bir oyuncakla yanında oturmayı deneyin. Biraz alan istiyorsa ihtiyaç duyduğunda ulaşabileceği bir yerde durarak sakin oynamasına izin verin. Okul çağındaki çocuğunuzla mola istemek için bir işaret belirleyin. Daha sonra hangi etkinliğe devam etmek istediğini ve ne zaman eve dönüp dinlenmeye ihtiyaç duyduğunu konuşun.",
+              "Gözetim altında yapılan bir oyun çalışmasında 36 küçük çocuğun her biri bir oturumda dört, diğerinde on altı oyuncakla oynadı. Dört oyuncak varken tek bir oyuncakla daha uzun süre oynadılar ve oyuncakları daha çeşitli şekillerde kullandılar. Araştırmacılar oyunu gözlemledi. Sıkıntıyı gideren bir tedaviyi sınamadılar ve her ev için ideal oyuncak sayısını belirlemediler."
+            ]
+          },
+          {
+            "heading": "Sakin bir yer yeterli olmadığında",
+            "paragraphs": [
+              "Dinlenince olağan haline dönüp dönmediğini gözleyin. Sıkıntısı sık sık öğünleri, okulu veya günlük düzeni aksatıyorsa ya da işitmesinde, gelişiminde veya davranışında bir değişiklik fark ediyorsanız örnekleri hekimiyle paylaşın. Yeni, sürekli veya alışılmadık ağlama, iyi beslenememe ya da ağrı belirtileri için de tıbbi görüş alın.",
+              "Bebek uykuluysa sert, düz ve boş bir uyku yüzeyine sırtüstü yatırın. Kundaklamak isteğe bağlıdır. Ağırlıklı kundak kullanmayın. Yüzü açık kalsın, göğüs kafesi ve kalçaları hareket edebilsin. Dönmeye çalıştığına dair ilk belirtide kundaklamayı bırakın. Üç aydan küçük bebekte 38 °C (100,4 °F) veya üzeri ateş acil tıbbi değerlendirme gerektirir. Ciddi solunum güçlüğü veya çocuğu uyandırmakta büyük güçlük varsa acil yardım çağırın."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Gürültüyü ve hareketliliği azaltıp çocuğun tepkisini gözleyin.",
+          "Daha büyük çocuklara mola istemenin bir yolunu sunun.",
+          "Sıkıntı sürüyorsa veya alışılmadık görünüyorsa hastalık ya da ağrı olasılığını değerlendirin."
+        ],
+        "faq": [
+          {
+            "q": "Sakinleştirmek için bebeğimi kundaklayabilir miyim?",
+            "a": "Bazı bebekler kundakla sakinleşir. Ağırlık kullanmayın, yüzünü açık bırakın, kalçaları ve göğüs kafesi hareket edebilsin. Uyuması için hep sırtüstü yatırın. Dönmeye çalıştığına dair ilk işarette kundaklamayı bırakın."
+          },
+          {
+            "q": "Aşırı uyarılma neden olur?",
+            "a": "O anda kaldırabileceğinden fazla ses, dokunma, etkinlik veya değişiklik çocuğa ağır gelebilir. Toleransı yorgunluk, açlık ve ortama göre değişebilir."
+          },
+          {
+            "q": "Bir bebek molaya ihtiyacı olduğunu nasıl gösterir?",
+            "a": "Bakışını kaçırabilir, kol ve bacaklarını gerebilir, tekme atabilir veya ağlayabilir. Önce temel ihtiyaçlarını ve sağlığını kontrol edin, sonra daha sakin bir ortamda yatışıp yatışmadığına bakın."
+          },
+          {
+            "q": "Daha büyük bir çocuk bunu nasıl gösterebilir?",
+            "a": "Küçük bir çocuk ağlayabilir ya da sözle ifade etmekte zorlanabilir. Okul çağındaki çocuk içine kapanabilir veya gitmek isteyebilir. Mola sunun. Sonra bir sonraki gezide neyin işini kolaylaştıracağını sorun."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 17 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Sabit bir etkinlik süresi koymak yerine çocuğun tepkisini izleyin.",
+            "Sakin bir seçenek sunun ve yanıt vermesi için zaman tanıyın.",
+            "Sürekli ya da alışılmadık sıkıntı veya yetersiz beslenme için tıbbi görüş alın."
+          ],
+          "bemama": "BeMama, çocuğunuz başını çevirmeden hemen önce ne olduğunu ve hangi küçük değişikliğin etkinliğe dönmesini kolaylaştırdığını not etmenizi önerir.",
+          "safety": "Üç aydan küçük bebekte 38 °C (100,4 °F) veya üzeri ateş için gecikmeden tıbbi değerlendirme alın. Ciddi solunum güçlüğünde veya çocuğu uyandırmak çok güçse acil yardım çağırın. Işığı kesmek için bebek arabasının üzerini örtmeyin ve ağırlıklı kundak kullanmayın.",
+          "sources": [
+            {
+              "organization": "Raising Children Network",
+              "title": "Bebeklerde ve çocuklarda aşırı uyarılma",
+              "url": "https://raisingchildren.net.au/babies/behaviour/common-concerns/overstimulation"
+            },
+            {
+              "organization": "Amerikan Pediatri Akademisi",
+              "title": "Güvenli kundaklama ve ne zaman bırakılacağı",
+              "url": "https://www.healthychildren.org/English/ages-stages/baby/diapers-clothing/Pages/Swaddling-Is-it-Safe.aspx"
+            },
+            {
+              "organization": "Dauch ve çalışma arkadaşları, Infant Behavior and Development",
+              "title": "Küçük çocukların gözetimli oyununda oyuncak sayısı",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/29190457/"
+            },
+            {
+              "organization": "Birleşik Krallık Ulusal Sağlık Hizmeti",
+              "title": "Çocuklarda yüksek ateş ve acil belirtiler",
+              "url": "https://www.nhs.uk/symptoms/fever-in-children/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Cuando un ambiente ajetreado abruma a tu hijo",
+        "description": "Aprende a reconocer cuándo un bebé o un niño mayor necesita una pausa tranquila, cómo cambiar el entorno y qué señales de enfermedad requieren atención médica.",
+        "intro": "En una reunión familiar, el bebé aparta la mirada cada vez que alguien le acerca el juguete musical. Subir el volumen difícilmente ayudará. Prueba a apagarlo, lleva al bebé a un lugar más tranquilo y observa qué ocurre cuando recibe menos estímulos.",
+        "sections": [
+          {
+            "heading": "Empieza por las señales del niño",
+            "paragraphs": [
+              "El ruido, la actividad intensa y llamativa, el contacto físico y varios cambios seguidos pueden abrumar a un niño, en especial si está cansado. Un bebé puede girar la cara, tensarse, patalear o llorar. Un preescolar puede taparse los oídos, dejar de responder o tirarse al suelo. Un niño mayor tal vez pida volver a casa o esté irritable después de un día ajetreado. Cada conducta puede tener otras explicaciones.",
+              "Comprueba primero si tiene hambre, está incómodo, siente dolor o está enfermo. Ofrécele una toma si muestra señales de hambre. Aléjense del grupo, baja la voz y espera un poco antes de ofrecerle otra actividad. Tómalo en brazos si le ayuda. Deja libres la cara y las vías respiratorias y no cubras el cochecito para que circule el aire."
+            ]
+          },
+          {
+            "heading": "Adapta la pausa a su edad y preferencias",
+            "paragraphs": [
+              "Con un niño pequeño, prueba a apagar el televisor y sentarte cerca con un juguete conocido. Si quiere espacio, puede jugar tranquilamente mientras sigues disponible. Con un escolar, acuerden una señal para pedir una pausa. Más tarde pueden hablar de qué actividad quiere conservar y cuándo necesita volver a casa a descansar.",
+              "En un estudio de juego supervisado, 36 niños pequeños tuvieron cada uno una sesión con cuatro juguetes y otra con dieciséis. Con cuatro, dedicaron más tiempo a cada juguete y les dieron usos más variados. Los investigadores observaron el juego. No estudiaron un tratamiento para el malestar ni establecieron un número ideal de juguetes para cada hogar."
+            ]
+          },
+          {
+            "heading": "Cuando la tranquilidad no basta",
+            "paragraphs": [
+              "Observa si tu hijo vuelve a estar como siempre después de descansar. Si el malestar interfiere repetidamente con las comidas, la escuela o las rutinas, o si notas cambios en la audición, el desarrollo o la conducta, comenta ejemplos con su profesional de salud. Un llanto nuevo, persistente o poco habitual, las dificultades para alimentarse o las señales de dolor también merecen consulta.",
+              "Si al bebé le entra sueño, acuéstalo boca arriba sobre una superficie firme, plana y despejada. Envolverlo es opcional. Nunca uses una envoltura con peso. Deja la cara libre y espacio para mover el pecho y las caderas. Deja de envolverlo a la primera señal de que intenta darse la vuelta. Un bebé menor de tres meses con temperatura de 38 °C (100,4 °F) o más necesita valoración médica urgente. Busca ayuda de emergencia si respira con mucha dificultad o cuesta mucho despertarlo."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Reduce el ruido y la actividad y observa cómo responde.",
+          "Ofrece a los niños mayores una forma de pedir una pausa.",
+          "Comprueba si hay enfermedad o dolor si el malestar persiste o parece poco habitual."
+        ],
+        "faq": [
+          {
+            "q": "¿Puedo envolver al bebé para calmarlo?",
+            "a": "Algunos bebés se tranquilizan al envolverlos. Evita las envolturas con peso, deja libres la cara y el movimiento de las caderas y el pecho, y acuéstalo siempre boca arriba para dormir. Deja de envolverlo en cuanto intente darse la vuelta."
+          },
+          {
+            "q": "¿Qué causa la sobreestimulación?",
+            "a": "Más sonido, contacto, actividad o cambios de los que puede manejar en ese momento pueden abrumarlo. Su tolerancia puede variar con el cansancio, el hambre y el entorno."
+          },
+          {
+            "q": "¿Cómo muestra un bebé que necesita una pausa?",
+            "a": "Puede apartar la mirada, tensar las extremidades, patalear o llorar. Comprueba sus necesidades básicas y su salud. Después prueba un entorno más tranquilo y observa si se calma."
+          },
+          {
+            "q": "¿Cómo puede mostrarlo un niño mayor?",
+            "a": "Un niño pequeño puede llorar o no encontrar las palabras. Un escolar puede apartarse o pedir irse. Ofrécele una pausa y pregúntale más tarde qué facilitaría la próxima salida."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 17 de noviembre de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Guíate por la respuesta de tu hijo para decidir cuánto tiempo dedicar a una actividad.",
+            "Ofrécele una opción tranquila y tiempo para responder.",
+            "Consulta por malestar persistente o inusual o por dificultades para alimentarse."
+          ],
+          "bemama": "BeMama sugiere anotar qué ocurrió justo antes de que tu hijo apartara la mirada y qué pequeño cambio le ayudó a retomar la actividad.",
+          "safety": "Un bebé menor de tres meses con fiebre de 38 °C (100,4 °F) o más necesita valoración médica urgente. Busca ayuda de emergencia ante dificultades respiratorias graves o si cuesta mucho despertarlo. Nunca tapes el cochecito para bloquear la luz ni uses una envoltura con peso.",
+          "sources": [
+            {
+              "organization": "Raising Children Network",
+              "title": "Sobreestimulación en bebés y niños de distintas edades",
+              "url": "https://raisingchildren.net.au/babies/behaviour/common-concerns/overstimulation"
+            },
+            {
+              "organization": "Academia Estadounidense de Pediatría",
+              "title": "Seguridad al envolver al bebé y cuándo dejar de hacerlo",
+              "url": "https://www.healthychildren.org/English/ages-stages/baby/diapers-clothing/Pages/Swaddling-Is-it-Safe.aspx"
+            },
+            {
+              "organization": "Dauch y colaboradores, Infant Behavior and Development",
+              "title": "Cantidad de juguetes y juego supervisado en niños pequeños",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/29190457/"
+            },
+            {
+              "organization": "Servicio Nacional de Salud del Reino Unido",
+              "title": "Temperatura alta en niños y síntomas urgentes",
+              "url": "https://www.nhs.uk/symptoms/fever-in-children/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Quando um ambiente agitado é demais para seu filho",
+        "description": "Reconheça quando um bebê ou uma criança maior precisa de uma pausa tranquila, como mudar o ambiente e que sinais de doença exigem atenção médica.",
+        "intro": "Em uma reunião de família, o bebê desvia o olhar toda vez que alguém aproxima o brinquedo musical. Aumentar o volume dificilmente vai ajudar. Experimente desligar o brinquedo, levar o bebê a um lugar mais calmo e observar como ele reage com menos estímulos.",
+        "sections": [
+          {
+            "heading": "Comece pelos sinais da criança",
+            "paragraphs": [
+              "Barulho, agitação visual, toques e várias mudanças seguidas podem sobrecarregar uma criança, principalmente se ela estiver cansada. Um bebê pode virar o rosto, ficar tenso, chutar ou chorar. Na pré-escola, a criança pode tapar os ouvidos, parar de responder ou se jogar no chão. Uma criança maior pode pedir para ir embora ou ficar irritada após um dia cheio. Cada um desses comportamentos também pode ter outras explicações.",
+              "Verifique primeiro se há fome, desconforto, dor ou doença. Ofereça uma mamada se o bebê der sinais de fome. Afaste-se do grupo, fale mais baixo e faça uma pausa antes de oferecer outra atividade. Pegue-o no colo se isso ajudar. Mantenha o rosto e as vias aéreas livres e deixe o carrinho descoberto para o ar circular."
+            ]
+          },
+          {
+            "heading": "Adapte a pausa à criança",
+            "paragraphs": [
+              "Com uma criança pequena, experimente desligar a televisão e se sentar por perto com um brinquedo conhecido. Se ela quiser espaço, pode brincar sossegada enquanto você continua disponível. Com uma criança em idade escolar, combinem um sinal para pedir uma pausa. Mais tarde conversem sobre qual atividade ela quer manter e quando precisa voltar para casa para descansar.",
+              "Em um estudo de brincadeira supervisionada, cada uma das 36 crianças pequenas participou de uma sessão com quatro brinquedos e de outra com dezesseis. Com quatro, passaram mais tempo usando cada brinquedo e descobriram usos mais variados. Os pesquisadores observaram a brincadeira. Não testaram um tratamento para o sofrimento nem estabeleceram um número ideal de brinquedos para toda casa."
+            ]
+          },
+          {
+            "heading": "Quando o sossego não basta",
+            "paragraphs": [
+              "Observe se seu filho volta a se comportar como de costume depois do descanso. Se o sofrimento atrapalha repetidamente as refeições, a escola ou a rotina, ou se você perceber uma mudança na audição, no desenvolvimento ou no comportamento, conte exemplos ao profissional que o acompanha. Choro novo, persistente ou incomum, dificuldade para se alimentar ou sinais de dor também merecem orientação médica.",
+              "Se o bebê ficar sonolento, coloque-o de barriga para cima numa superfície firme, plana e livre de objetos para dormir. Enrolá-lo em um cueiro é opcional. Nunca use um cueiro com peso. Deixe o rosto livre e permita que o peito e os quadris se movimentem. Pare de enrolá-lo ao primeiro sinal de que tenta rolar. Temperatura de 38 °C (100,4 °F) ou mais em bebê com menos de três meses exige avaliação médica urgente. Dificuldade grave para respirar ou muita dificuldade para acordar a criança exigem ajuda de emergência."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Reduza o barulho e a atividade e observe a resposta.",
+          "Dê às crianças maiores uma maneira de pedir uma pausa.",
+          "Verifique se há doença ou dor quando o sofrimento persiste ou parece incomum."
+        ],
+        "faq": [
+          {
+            "q": "Posso enrolar meu bebê para acalmá-lo?",
+            "a": "Alguns bebês se acalmam assim. Não use pesos, mantenha o rosto livre, deixe os quadris e o peito se movimentarem e coloque o bebê sempre de barriga para cima para dormir. Pare assim que perceber que ele tenta rolar."
+          },
+          {
+            "q": "O que causa a sobrecarga de estímulos?",
+            "a": "Mais som, contato, atividades ou mudanças do que a criança consegue processar naquele momento podem deixá-la sobrecarregada. A tolerância varia com o cansaço, a fome e o ambiente."
+          },
+          {
+            "q": "Como o bebê mostra que precisa de uma pausa?",
+            "a": "Ele pode desviar o olhar, tensionar os braços e as pernas, chutar ou chorar. Veja se suas necessidades básicas estão atendidas e se está bem de saúde. Depois, experimente um lugar mais tranquilo e observe se ele se acalma."
+          },
+          {
+            "q": "Como uma criança maior pode mostrar isso?",
+            "a": "Uma criança pequena pode chorar ou ter dificuldade para se expressar. Uma em idade escolar pode se afastar ou pedir para ir embora. Ofereça uma pausa e pergunte depois o que facilitaria o próximo passeio."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 17 de novembro de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Ajuste o tempo de atividade à resposta da criança.",
+            "Ofereça uma opção tranquila e dê tempo para ela responder.",
+            "Busque orientação médica se o sofrimento for persistente ou incomum ou se houver dificuldade para se alimentar."
+          ],
+          "bemama": "A BeMama sugere anotar o que aconteceu logo antes de seu filho desviar o olhar e que pequena mudança o ajudou a retomar a atividade.",
+          "safety": "Procure avaliação médica urgente se um bebê com menos de três meses tiver febre de 38 °C (100,4 °F) ou mais. Acione a emergência se houver dificuldade grave para respirar ou muita dificuldade para despertar a criança. Nunca cubra o carrinho para bloquear a luz nem use um cueiro com peso.",
+          "sources": [
+            {
+              "organization": "Raising Children Network",
+              "title": "Excesso de estímulos em bebês e crianças de diferentes idades",
+              "url": "https://raisingchildren.net.au/babies/behaviour/common-concerns/overstimulation"
+            },
+            {
+              "organization": "Academia Americana de Pediatria",
+              "title": "Segurança ao usar o cueiro e quando deixar de enrolar o bebê",
+              "url": "https://www.healthychildren.org/English/ages-stages/baby/diapers-clothing/Pages/Swaddling-Is-it-Safe.aspx"
+            },
+            {
+              "organization": "Dauch e colaboradores, Infant Behavior and Development",
+              "title": "Número de brinquedos e brincadeira supervisionada em crianças pequenas",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/29190457/"
+            },
+            {
+              "organization": "Serviço Nacional de Saúde do Reino Unido",
+              "title": "Febre em crianças e sintomas que exigem atendimento urgente",
+              "url": "https://www.nhs.uk/symptoms/fever-in-children/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5774.webp",
+    "heroAlt": {
+      "en": "A child sits by a window holding a toy fox, with party decorations in the next room.",
+      "es": "Una niña se sienta junto a la ventana con un zorro de peluche y adornos de fiesta en la habitación contigua.",
+      "fr": "Une enfant tient un renard en peluche près d’une fenêtre, avec des décorations de fête dans la pièce voisine.",
+      "pt": "Uma criança sentada à janela segura uma raposa de pelúcia, com enfeites de festa no cômodo ao lado.",
+      "tr": "Pencere kenarında oturan bir çocuk pelüş tilkisini tutuyor; yan odada parti süsleri görünüyor.",
+      "fa": "کودکی کنار پنجره روباه عروسکی‌اش را در آغوش دارد و در اتاق کناری تزیینات جشن دیده می‌شود.",
+      "ar": "طفلة تجلس قرب النافذة وتمسك بثعلب محشو وتظهر زينة الحفل في الغرفة المجاورة."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "When a busy room becomes too much for your child",
+      "description": "Recognize when a baby or older child needs a quieter break, how to change the surroundings, and which signs of illness need medical attention."
+    },
+    "fa": {
+      "title": "وقتی شلوغی محیط برای فرزندتان بیش از حد می‌شود",
+      "description": "ببینید نوزاد یا کودک بزرگ‌تر چه زمانی به استراحت در محیط آرام نیاز دارد، چطور محیط را تغییر دهید و کدام نشانه‌های بیماری به ارزیابی پزشکی نیاز دارند."
+    },
+    "ar": {
+      "title": "حين يصبح صخب المكان أكثر مما يحتمله طفلك",
+      "description": "تعرّف إلى علامات حاجة الرضيع أو الطفل الأكبر إلى استراحة هادئة، وكيفية تكييف المكان معه، وأعراض المرض التي تستدعي رعاية طبية."
+    },
+    "fr": {
+      "title": "Quand l’agitation devient trop intense pour votre enfant",
+      "description": "Repérez quand un bébé ou un enfant plus grand a besoin de calme, comment adapter son environnement et quels signes de maladie nécessitent un avis médical."
+    },
+    "tr": {
+      "title": "Kalabalık bir ortam çocuğunuza fazla geldiğinde",
+      "description": "Çocuğunuzun sakin bir molaya ihtiyaç duyduğunu nasıl anlayacağınızı, ortamı nasıl düzenleyeceğinizi ve hangi hastalık belirtilerinde yardım alacağınızı öğrenin."
+    },
+    "es": {
+      "title": "Cuando un ambiente ajetreado abruma a tu hijo",
+      "description": "Aprende a reconocer cuándo un bebé o un niño mayor necesita una pausa tranquila, cómo cambiar el entorno y qué señales de enfermedad requieren atención médica."
+    },
+    "pt": {
+      "title": "Quando um ambiente agitado é demais para seu filho",
+      "description": "Reconheça quando um bebê ou uma criança maior precisa de uma pausa tranquila, como mudar o ambiente e que sinais de doença exigem atenção médica."
+    }
+  }
+}

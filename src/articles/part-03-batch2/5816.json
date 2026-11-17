@@ -1,0 +1,758 @@
+{
+  "sourceId": "5816",
+  "article": {
+    "slug": "family-health/covid-and-grocery-packaging",
+    "category": "family-health",
+    "i18n": {
+      "en": {
+        "title": "Can a family catch COVID-19 from groceries or takeout?",
+        "description": "Find out how COVID-19 spreads while shopping, how to rinse produce, when to chill deliveries and whether you need to clean food packaging or treat tap water.",
+        "intro": "The milk, apples and a bag of takeaway food have just come through the door. Put the cold food away first. There is no need to leave groceries outside or disinfect the packaging to prevent COVID-19. What matters at the checkout and what matters at the kitchen sink are different.",
+        "sections": [
+          {
+            "heading": "Where the exposure happens",
+            "paragraphs": [
+              "COVID-19 spreads mainly through the air when someone who is infected breathes, speaks or coughs. In a crowded indoor shop or a restaurant, the time you spend sharing poorly ventilated air is more relevant than handling a carton or eating the meal. Going at a quieter time or wearing a well-fitting mask can reduce respiratory exposure. A delivery or outdoor pickup is another option if someone at home is ill.",
+              "Investigators swabbed high-touch surfaces in four Ontario food stores 957 times over a month. They detected no SARS-CoV-2 RNA in those samples. The stores were using hygiene procedures, and the research did not follow individual shoppers for infections. It cannot tell us every surface everywhere was virus-free. Food safety authorities have found no evidence that food or its packaging is a usual transmission route."
+            ]
+          },
+          {
+            "heading": "Unpack and wash the food",
+            "paragraphs": [
+              "Wash hands with soap and water for at least 20 seconds before preparing or eating food and after handling raw meat. Rinse fresh fruit and vegetables under clean running water before cutting or eating them. Rub the surface gently and use a clean produce brush for firm items such as a melon. Soap, bleach and surface disinfectants do not belong on food. There is no need to spray the groceries or their wrappers.",
+              "Keep uncooked meat and seafood separate from food that is ready to eat. Put leaking packets in a second container. Wash the board, utensils and work surface after preparing raw food. Use a food thermometer to check the safe cooking temperature for what you are preparing. These steps help prevent ordinary foodborne infections, including when no one at home has COVID-19."
+            ]
+          },
+          {
+            "heading": "Put away deliveries and leftovers",
+            "paragraphs": [
+              "Bring chilled groceries inside promptly. Keep the refrigerator at 4°C (40°F) or colder. For a long journey home, carry meat, dairy and other perishables in an insulated bag with ice packs. Refrigerate perishable groceries and cooked leftovers within two hours, or within one hour if the temperature is above 32°C (90°F). Waiting for germs on a package to disappear can leave the food warm for too long.",
+              "If a delivery that should have stayed cold arrives warm and you cannot verify how long it has been unrefrigerated, do not eat or taste it to check. Contact the supplier. Clean reusable bags when soiled, especially if raw juices have spilled. Follow the instructions on any kitchen surface cleaner, including a rinse if the label requires one."
+            ]
+          },
+          {
+            "heading": "What about the water?",
+            "paragraphs": [
+              "Properly treated drinking water is not an established route of COVID-19 transmission. If the local supply is safe to drink, it can also be used for rinsing produce. A boil-water or do-not-drink notice is a separate matter. Follow the local water authority’s instructions for that notice, including what water to use for food preparation."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Put perishable groceries away as soon as you get home.",
+          "Wash hands and rinse produce under drinking-quality water. Keep household chemicals away from food.",
+          "Consider shared indoor air when choosing how to shop or collect a meal."
+        ],
+        "faq": [
+          {
+            "q": "Can eating food give my family COVID-19?",
+            "a": "Eating food is not an established way of catching COVID-19. Think about shared air with other people and follow ordinary food safety steps for preparing and storing a meal."
+          },
+          {
+            "q": "How can I lower my risk while shopping?",
+            "a": "Choose a less crowded time, especially in a poorly ventilated store, and consider a well-fitting mask. Wash your hands before preparing or eating food when you return."
+          },
+          {
+            "q": "Do packaged food and takeaway containers need disinfecting?",
+            "a": "No special disinfection is needed for COVID-19. Put cold food away, wash your hands and clean up any raw food leaks. Keep bleach and other household cleaners off food and packages."
+          },
+          {
+            "q": "Can COVID-19 spread through drinking water?",
+            "a": "Treated tap water from a safe supply is suitable for drinking and cooking. You do not need to boil it just because someone has COVID-19. Follow a local advisory if the water supplier issues one."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Keep perishable foods cold during travel and refrigerate deliveries promptly.",
+            "Wash produce with clean running water and use soap for your hands.",
+            "Consider ventilation when shopping indoors or eating with other people."
+          ],
+          "bemama": "BeMama suggests clearing a refrigerator shelf before a large delivery so cold groceries can go straight in while you sort the rest.",
+          "safety": "Never wash food with cleaning chemicals. Discard perishable food that has spent too long unrefrigerated or that arrived warm with an unknown storage history. Follow local drinking-water advisories.",
+          "sources": [
+            {
+              "organization": "World Health Organization",
+              "title": "COVID-19 and food safety for consumers",
+              "url": "https://www.who.int/news-room/questions-and-answers/item/coronavirus-disease-covid-19-food-safety-for-consumers"
+            },
+            {
+              "organization": "US Centers for Disease Control and Prevention",
+              "title": "How COVID-19 spreads in shared indoor air",
+              "url": "https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/covid-19.html"
+            },
+            {
+              "organization": "Current Research in Food Science",
+              "title": "Surface sampling in four Ontario grocery stores",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8406517/"
+            },
+            {
+              "organization": "US Food and Drug Administration",
+              "title": "Selecting, rinsing and serving fresh produce",
+              "url": "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely"
+            },
+            {
+              "organization": "US Centers for Disease Control and Prevention",
+              "title": "Cleaning, separating, cooking and chilling food",
+              "url": "https://www.cdc.gov/food-safety/prevention/index.html"
+            },
+            {
+              "organization": "US Environmental Protection Agency",
+              "title": "Drinking water treatment and COVID-19",
+              "url": "https://www.epa.gov/sdwa/water-utility-resources-covid-19-pandemic"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "آیا ممکن است از خریدهای خانه یا غذای بیرون کرونا بگیریم؟",
+        "description": "ببینید کرونا هنگام خرید چطور منتقل می‌شود، میوه و سبزی را با چه آبی بشویید، خریدهای یخچالی را چه زمانی کنار بگذارید و با بسته‌بندی غذا چه کنید.",
+        "intro": "شیر، سیب‌ها و غذای بیرون‌بر را تازه به خانه آورده‌اید. اول مواد غذایی سرد را در یخچال بگذارید. برای پیشگیری از کووید ۱۹ لازم نیست خریدها را بیرون نگه دارید یا بسته‌ها را ضدعفونی کنید. در صف صندوق و کنار سینک آشپزخانه، عوامل متفاوتی اهمیت دارند.",
+        "sections": [
+          {
+            "heading": "چه زمانی در معرض ویروس قرار می‌گیرید؟",
+            "paragraphs": [
+              "راه اصلی انتقال کووید ۱۹ هوایی است که فرد مبتلا هنگام نفس کشیدن، صحبت یا سرفه بیرون می‌دهد. در فروشگاه یا رستوران شلوغ، مدت تنفس در فضای مشترکی که تهویه ضعیفی دارد از دست زدن به جعبه یا خوردن غذا مهم‌تر است. خرید در ساعت خلوت یا استفاده از ماسکی که به‌خوبی روی صورت می‌نشیند، می‌تواند مواجهه تنفسی را کمتر کند. اگر کسی در خانه بیمار است، تحویل در منزل یا گرفتن سفارش در فضای باز هم امکان دارد.",
+              "پژوهشگران طی یک ماه از سطوح پرتماس چهار فروشگاه مواد غذایی در انتاریو ۹۵۷ نمونه گرفتند. در این نمونه‌ها آران‌ای ویروس عامل کووید ۱۹ یافت نشد. فروشگاه‌ها شیوه‌های بهداشتی را رعایت می‌کردند و پژوهشگران مشتریان را از نظر ابتلا پیگیری نکردند. نمی‌توان نتیجه گرفت که همه سطوح در هر جایی عاری از ویروس بوده‌اند. نهادهای ایمنی غذا شواهدی نیافته‌اند که غذا یا بسته‌بندی آن راه معمول انتقال باشد."
+            ]
+          },
+          {
+            "heading": "باز کردن بسته‌ها و شستن مواد غذایی",
+            "paragraphs": [
+              "پیش از آماده کردن غذا یا خوردن آن و پس از دست زدن به گوشت خام، دست‌ها را دست‌کم ۲۰ ثانیه با آب و صابون بشویید. پیش از بریدن یا خوردن میوه و سبزی تازه، آن را زیر جریان آب آشامیدنی بشویید. سطحش را آرام با دست بمالید و برای محصولی با پوست سفت، مثل طالبی، از برس تمیز مخصوص سبزی استفاده کنید. صابون، سفیدکننده و ضدعفونی‌کننده سطوح را روی غذا نزنید. نیازی به اسپری کردن خریدها یا لفاف آن‌ها هم نیست.",
+              "گوشت و خوراک‌های دریایی خام را از غذاهای آماده خوردن جدا نگه دارید. بسته‌ای را که چکه می‌کند در ظرف دیگری بگذارید. پس از آماده کردن مواد خام، تخته، ابزار و سطح کار را بشویید. با دماسنج مواد غذایی مطمئن شوید غذایی که می‌پزید به دمای مناسب خودش رسیده است. این کارها حتی وقتی هیچ‌کس در خانه کرونا ندارد، به پیشگیری از عفونت‌های شایع ناشی از غذا کمک می‌کنند."
+            ]
+          },
+          {
+            "heading": "نگهداری سفارش‌ها و غذای اضافه",
+            "paragraphs": [
+              "خریدهای یخچالی را زود به داخل بیاورید. دمای یخچال باید ۴ درجه سانتی‌گراد (۴۰ درجه فارنهایت) یا کمتر باشد. اگر راه خانه طولانی است، گوشت، لبنیات و مواد فسادپذیر را در کیف عایق همراه با بسته‌های یخ حمل کنید. مواد فسادپذیر و باقیمانده غذای پخته را حداکثر تا دو ساعت در یخچال بگذارید. اگر دمای محیط بالاتر از ۳۲ درجه سانتی‌گراد (۹۰ درجه فارنهایت) است، این مهلت یک ساعت است. منتظر ماندن برای از بین رفتن میکروب‌های روی بسته می‌تواند غذا را مدت زیادی در گرما نگه دارد.",
+              "اگر سفارشی که باید سرد می‌ماند ولرم به دستتان رسیده و نمی‌دانید چقدر بیرون یخچال بوده است، آن را نخورید و برای امتحان هم نچشید. با فروشنده تماس بگیرید. کیف خرید چندبارمصرف را هر وقت کثیف شد تمیز کنید، به‌ویژه اگر آب گوشت خام در آن ریخته است. برای پاک‌کننده سطوح آشپزخانه به برچسب توجه کنید و اگر آبکشی خواسته شده آن را انجام دهید."
+            ]
+          },
+          {
+            "heading": "آب آشامیدنی چطور؟",
+            "paragraphs": [
+              "آب آشامیدنی که درست تصفیه شده باشد راه شناخته‌شده انتقال کووید ۱۹ نیست. اگر آب شبکه محلی برای نوشیدن مناسب است، می‌توانید میوه و سبزی را نیز با آن بشویید. هشدار محلی درباره جوشاندن آب یا ممنوعیت نوشیدن آن موضوع دیگری است. دستور مرجع آب محلی، از جمله درباره آب مورد استفاده در تهیه غذا، را رعایت کنید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "مواد فسادپذیر را به محض رسیدن به خانه در یخچال بگذارید.",
+          "دست‌ها را بشویید و میوه و سبزی را زیر آب آشامیدنی بگیرید. مواد شیمیایی پاک‌کننده را از غذا دور نگه دارید.",
+          "هنگام انتخاب شیوه خرید یا تحویل گرفتن غذا به هوایی که در فضای بسته با دیگران تنفس می‌کنید توجه کنید."
+        ],
+        "faq": [
+          {
+            "q": "آیا خوردن غذا می‌تواند خانواده‌ام را به کووید ۱۹ مبتلا کند؟",
+            "a": "خوردن غذا راه شناخته‌شده ابتلا به کووید ۱۹ نیست. به تهویه فضای مشترک با دیگران توجه کنید و هنگام آماده کردن و نگهداری غذا همان اصول معمول ایمنی غذا را رعایت کنید."
+          },
+          {
+            "q": "چطور خطر ابتلا هنگام خرید را کمتر کنم؟",
+            "a": "ساعتی خلوت‌تر را انتخاب کنید، به‌خصوص اگر فروشگاه تهویه ضعیفی دارد. می‌توانید ماسکی بزنید که خوب روی صورت بنشیند. پس از بازگشت و پیش از آشپزی یا صرف غذا دست‌ها را بشویید."
+          },
+          {
+            "q": "آیا باید بسته‌بندی مواد غذایی و ظرف غذای بیرون‌بر را ضدعفونی کرد؟",
+            "a": "برای پیشگیری از کووید ۱۹ به ضدعفونی ویژه نیازی نیست. مواد یخچالی را سر جایشان بگذارید، دست‌ها را بشویید و هر جا آب مواد غذایی خام ریخته تمیز کنید. سفیدکننده و دیگر پاک‌کننده‌های خانگی را روی غذا یا بسته‌بندی آن نزنید."
+          },
+          {
+            "q": "آیا کرونا از آب آشامیدنی منتقل می‌شود؟",
+            "a": "آب تصفیه‌شده شبکه‌ای که سالم اعلام شده برای آشامیدن و آشپزی مناسب است. تنها به‌دلیل اینکه کسی کرونا دارد نیازی به جوشاندن آن نیست. اگر شرکت آب محلی هشدار داده، همان دستور را رعایت کنید."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۶ نوامبر ۲۰۲۶ بررسی شد",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "مواد فسادپذیر را در راه سرد نگه دارید و سفارش را سریع در یخچال بگذارید.",
+            "میوه و سبزی را زیر جریان آب آشامیدنی بشویید و صابون را برای شستن دست‌ها به کار ببرید.",
+            "هنگام خرید در فضای بسته یا غذا خوردن با دیگران به تهویه توجه کنید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند پیش از رسیدن سفارش بزرگ، یک طبقه یخچال را خالی کنید تا هنگام مرتب کردن بقیه خریدها، مواد سرد مستقیم در یخچال قرار بگیرند.",
+          "safety": "هیچ‌گاه غذا را با مواد شیمیایی پاک‌کننده نشویید. مواد فسادپذیری را که مدت زیادی بیرون یخچال مانده‌اند یا ولرم رسیده‌اند و سابقه نگهداری‌شان معلوم نیست دور بریزید. هشدارهای محلی درباره آب آشامیدنی را رعایت کنید.",
+          "sources": [
+            {
+              "organization": "سازمان جهانی بهداشت",
+              "title": "کووید ۱۹ و ایمنی غذا برای مصرف‌کنندگان",
+              "url": "https://www.who.int/news-room/questions-and-answers/item/coronavirus-disease-covid-19-food-safety-for-consumers"
+            },
+            {
+              "organization": "مرکز کنترل و پیشگیری از بیماری‌های آمریکا",
+              "title": "شیوه انتشار کووید ۱۹ در هوای مشترک فضاهای بسته",
+              "url": "https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/covid-19.html"
+            },
+            {
+              "organization": "مجله پژوهش‌های جاری در علوم غذایی",
+              "title": "نمونه‌برداری از سطوح در چهار فروشگاه مواد غذایی انتاریو",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8406517/"
+            },
+            {
+              "organization": "سازمان غذا و داروی آمریکا",
+              "title": "انتخاب، شستن و سرو میوه و سبزی تازه",
+              "url": "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely"
+            },
+            {
+              "organization": "مرکز کنترل و پیشگیری از بیماری‌های آمریکا",
+              "title": "تمیز کردن، جدا نگه داشتن، پختن و سرد کردن غذا",
+              "url": "https://www.cdc.gov/food-safety/prevention/index.html"
+            },
+            {
+              "organization": "سازمان حفاظت محیط زیست آمریکا",
+              "title": "تصفیه آب آشامیدنی و کووید ۱۹",
+              "url": "https://www.epa.gov/sdwa/water-utility-resources-covid-19-pandemic"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "هل ينتقل كوفيد-19 عبر المشتريات أو الطعام الجاهز؟",
+        "description": "اعرف كيف ينتقل الفيروس أثناء التسوق، وكيف تغسل الفاكهة وتحفظ الطلبات الباردة، وما إذا كانت عبوات الطعام تحتاج إلى تعقيم أو مياه الشرب إلى غلي.",
+        "intro": "عدت إلى البيت ومعك الحليب والتفاح ووجبة من المطعم. ضع ما يحتاج إلى البرودة في الثلاجة أولًا. لا داعي لترك المشتريات في الخارج أو تعقيم أغلفتها اتقاءً لكوفيد-19. فما يستحق انتباهك عند صندوق الدفع يختلف عما يهم عند تحضير الطعام.",
+        "sections": [
+          {
+            "heading": "أين قد تتعرض للفيروس؟",
+            "paragraphs": [
+              "ينتشر كوفيد-19 أساسًا عبر الهواء الذي يخرجه المصاب عندما يتنفس أو يتكلم أو يسعل. في متجر مزدحم أو مطعم، مدة بقائك مع الآخرين في هواء ضعيف التهوية أهم من لمس علبة أو أكل الوجبة. قد يقلل اختيار وقت هادئ أو ارتداء كمامة محكمة من التعرض عن طريق التنفس. وإذا كان أحد أفراد الأسرة مريضًا، يمكن طلب التوصيل أو استلام الطلب في الهواء الطلق.",
+              "أخذ باحثون 957 مسحة من أسطح كثيرة اللمس في أربعة متاجر أغذية في أونتاريو خلال شهر. لم يجدوا الحمض النووي الريبي لفيروس سارس-كوف-2 في هذه العينات. وكانت المتاجر تتبع إجراءات نظافة، ولم تتبع الدراسة المتسوقين لمعرفة من أصيب منهم. لا يعني ذلك أن كل الأسطح في كل الأماكن كانت خالية من الفيروس. لم تجد سلطات سلامة الغذاء دليلًا على أن الطعام أو تغليفه طريق معتاد للعدوى."
+            ]
+          },
+          {
+            "heading": "عند فتح العبوات وغسل الطعام",
+            "paragraphs": [
+              "اغسل يديك بالماء والصابون لمدة 20 ثانية على الأقل قبل تحضير الطعام أو أكله وبعد لمس اللحم النيئ. اشطف الفواكه والخضراوات الطازجة بماء جارٍ صالح للشرب قبل تقطيعها أو تناولها. افرك السطح بلطف واستخدم فرشاة خضراوات نظيفة للثمار الصلبة القشرة مثل الشمام. لا تضع صابونًا أو مبيّضًا أو مطهر أسطح على الطعام. ولا حاجة إلى رش المشتريات أو أغلفتها.",
+              "أبعد اللحم والمأكولات البحرية النيئة عن الطعام الجاهز للأكل، وضع أي عبوة يتسرب منها سائل في وعاء ثانٍ. اغسل لوح التقطيع والأدوات وسطح العمل بعد إعداد المواد النيئة. تحقق بمقياس حرارة الطعام من بلوغ درجة الطهي الآمنة لما تحضّره. تساعد هذه الخطوات على الوقاية من العدوى المعتادة المنقولة بالغذاء حتى إن لم يكن في المنزل مصاب بكوفيد-19."
+            ]
+          },
+          {
+            "heading": "تبريد الطلبات وبقايا الطعام",
+            "paragraphs": [
+              "أدخل المشتريات المبردة إلى البيت سريعًا. اضبط الثلاجة على 4 درجات مئوية (40 فهرنهايت) أو أقل. إذا كان الطريق طويلًا، فاحمل اللحم والحليب ومشتقاته وغير ذلك من الأطعمة سريعة التلف في حقيبة عازلة مع عبوات ثلج. ضع الأطعمة سريعة التلف وبقايا الطعام المطهو في الثلاجة في غضون ساعتين، أو خلال ساعة إذا تجاوزت حرارة الجو 32 درجة مئوية (90 فهرنهايت). قد يُبقي انتظار زوال الجراثيم عن العبوة الطعام دافئًا وقتًا طويلًا.",
+              "إذا وصل طلب كان ينبغي أن يظل باردًا وهو فاتر، ولم تستطع معرفة المدة التي قضاها خارج التبريد، فلا تأكله ولا تتذوقه لتختبره. تواصل مع المورّد. نظّف أكياس التسوق القابلة لإعادة الاستخدام عند اتساخها، خصوصًا إذا تسرب إليها سائل من لحم نيئ. اتبع تعليمات منظف أسطح المطبخ واشطف السطح إذا نصّ الملصق على ذلك."
+            ]
+          },
+          {
+            "heading": "وماذا عن الماء؟",
+            "paragraphs": [
+              "ماء الشرب المعالج بالطريقة الصحيحة ليس طريقًا معروفًا لانتقال كوفيد-19. إذا كان ماء الشبكة المحلية مأمونًا للشرب، فيمكن استخدامه أيضًا لشطف الفاكهة والخضراوات. أما إذا صدر تنبيه بغلي الماء أو عدم شربه، فاتبع التعليمات الخاصة بهذا التنبيه من الجهة المحلية المسؤولة، بما فيها نوع الماء المستخدم لتحضير الطعام."
+            ]
+          }
+        ],
+        "takeaways": [
+          "احفظ المشتريات سريعة التلف في الثلاجة فور عودتك.",
+          "اغسل يديك واشطف الفاكهة والخضراوات بماء صالح للشرب. أبعد مواد التنظيف المنزلية عن الطعام.",
+          "فكّر في الهواء الذي تتشاركه مع الآخرين عند اختيار مكان التسوق أو استلام الوجبة."
+        ],
+        "faq": [
+          {
+            "q": "هل يمكن أن تصاب أسرتي بكوفيد-19 بسبب أكل طعام ما؟",
+            "a": "تناول الطعام ليس طريقًا معروفًا للعدوى. انتبه إلى الهواء المشترك مع الآخرين واتبع قواعد سلامة الغذاء المعتادة عند إعداد الوجبات وحفظها."
+          },
+          {
+            "q": "كيف أقلل المخاطر أثناء التسوق؟",
+            "a": "اختر وقتًا أقل ازدحامًا، خصوصًا في متجر ضعيف التهوية، وفكر في ارتداء كمامة محكمة. اغسل يديك بعد العودة وقبل إعداد الطعام أو أكله."
+          },
+          {
+            "q": "هل تحتاج عبوات الطعام وعلب الوجبات الجاهزة إلى تعقيم؟",
+            "a": "لا يتطلب كوفيد-19 تعقيمًا خاصًا لها. ضع الطعام البارد في الثلاجة واغسل يديك ونظف أي سائل تسرب من المواد النيئة. لا تضع المبيّض أو المنظفات المنزلية على الطعام أو أغلفته."
+          },
+          {
+            "q": "هل ينتقل كوفيد-19 عبر ماء الشرب؟",
+            "a": "ماء الصنبور المعالج من مصدر مأمون مناسب للشرب والطهي. لا حاجة إلى غليه لمجرد أن شخصًا مصاب بكوفيد-19. التزم بأي تنبيه تصدره جهة المياه المحلية."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في 16 نوفمبر 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "حافظ على برودة الأطعمة سريعة التلف في الطريق وضع الطلبات المبردة في الثلاجة سريعًا.",
+            "اشطف الفاكهة والخضراوات بماء جارٍ صالح للشرب واستخدم الصابون ليديك.",
+            "راعِ التهوية عند التسوق في الداخل أو تناول الطعام مع الآخرين."
+          ],
+          "bemama": "تقترح بي ماما إخلاء رف في الثلاجة قبل وصول طلب كبير، لتضع فيه المشتريات الباردة مباشرة بينما ترتب البقية.",
+          "safety": "لا تغسل الطعام أبدًا بمواد التنظيف الكيميائية. تخلّص من الطعام سريع التلف إذا بقي خارج التبريد مدة طويلة، أو وصل فاترًا ولا تعرف كيف حُفظ. التزم بتنبيهات مياه الشرب المحلية.",
+          "sources": [
+            {
+              "organization": "منظمة الصحة العالمية",
+              "title": "كوفيد-19 وسلامة الأغذية للمستهلكين",
+              "url": "https://www.who.int/news-room/questions-and-answers/item/coronavirus-disease-covid-19-food-safety-for-consumers"
+            },
+            {
+              "organization": "المراكز الأمريكية لمكافحة الأمراض والوقاية منها",
+              "title": "كيف ينتشر كوفيد-19 عبر الهواء المشترك في الأماكن المغلقة",
+              "url": "https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/covid-19.html"
+            },
+            {
+              "organization": "مجلة البحوث الراهنة في علوم الأغذية",
+              "title": "أخذ عينات من الأسطح في أربعة متاجر أغذية في أونتاريو",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8406517/"
+            },
+            {
+              "organization": "إدارة الغذاء والدواء الأمريكية",
+              "title": "اختيار الفواكه والخضراوات الطازجة وشطفها وتقديمها",
+              "url": "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely"
+            },
+            {
+              "organization": "المراكز الأمريكية لمكافحة الأمراض والوقاية منها",
+              "title": "تنظيف الأطعمة وفصلها وطهوها وتبريدها",
+              "url": "https://www.cdc.gov/food-safety/prevention/index.html"
+            },
+            {
+              "organization": "وكالة حماية البيئة الأمريكية",
+              "title": "معالجة مياه الشرب وكوفيد-19",
+              "url": "https://www.epa.gov/sdwa/water-utility-resources-covid-19-pandemic"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "COVID-19 : peut-on être contaminé par les courses ou un plat livré ?",
+        "description": "Comment le virus se transmet-il en magasin ? Voyez comment rincer les fruits, ranger les livraisons et utiliser l’eau et les emballages en toute sécurité.",
+        "intro": "Le lait, les pommes et le repas à emporter viennent d’arriver. Rangez d’abord les produits frais. Pour prévenir la COVID-19, inutile de laisser les courses dehors ou de désinfecter les emballages. À la caisse, le risque n’est pas le même que lors de la préparation des repas.",
+        "sections": [
+          {
+            "heading": "Où se produit l’exposition au virus ?",
+            "paragraphs": [
+              "La COVID-19 se transmet surtout par l’air qu’expire une personne infectée lorsqu’elle respire, parle ou tousse. Dans un magasin ou un restaurant fréquenté, le temps passé à partager un air peu renouvelé compte davantage que le fait de toucher une boîte ou de manger. Choisir une heure calme ou porter un masque bien ajusté peut réduire l’exposition respiratoire. Si quelqu’un est malade chez vous, vous pouvez aussi choisir la livraison ou le retrait en plein air.",
+              "Pendant un mois, des chercheurs ont effectué 957 prélèvements sur des surfaces souvent touchées dans quatre magasins d’alimentation de l’Ontario. Aucun ne contenait d’ARN détectable du SARS-CoV-2. Les magasins appliquaient des mesures d’hygiène et l’étude n’a pas suivi les clients pour rechercher des infections. Cela ne prouve pas l’absence du virus sur toutes les surfaces. Les autorités de sécurité alimentaire n’ont pas trouvé de preuves que les aliments ou leurs emballages constituent une voie habituelle de transmission."
+            ]
+          },
+          {
+            "heading": "En déballant et en lavant les aliments",
+            "paragraphs": [
+              "Lavez-vous les mains au savon pendant au moins 20 secondes avant de préparer un repas ou de manger, ainsi qu’après avoir manipulé de la viande crue. Rincez les fruits et légumes à l’eau potable courante avant de les couper ou de les manger. Frottez-les doucement et utilisez une brosse à légumes propre pour une peau ferme comme celle du melon. Ne mettez ni savon, ni eau de Javel, ni désinfectant sur les aliments. Inutile de pulvériser un produit sur les courses ou leurs emballages.",
+              "Séparez la viande et les produits de la mer crus des aliments prêts à consommer. Placez tout paquet qui fuit dans un second récipient. Après avoir préparé des aliments crus, lavez la planche, les ustensiles et le plan de travail. Vérifiez avec un thermomètre alimentaire que la température de cuisson recommandée est atteinte. Ces gestes préviennent des infections alimentaires courantes, même quand personne à la maison n’a la COVID-19."
+            ]
+          },
+          {
+            "heading": "Ranger les livraisons et les restes",
+            "paragraphs": [
+              "Rentrez rapidement les achats réfrigérés. Maintenez le réfrigérateur à 4 °C (40 °F) ou moins. Pour un long trajet, transportez viande, laitages et autres denrées périssables dans un sac isotherme avec des blocs réfrigérants. Réfrigérez les denrées périssables et les restes cuits dans les deux heures, ou dans l’heure si la température dépasse 32 °C (90 °F). Attendre que les microbes disparaissent d’un emballage peut laisser l’aliment trop longtemps au chaud.",
+              "Si un produit devant rester froid arrive tiède et que vous ignorez combien de temps il est resté hors du froid, ne le consommez pas et ne le goûtez pas pour vérifier. Contactez le fournisseur. Nettoyez les sacs réutilisables quand ils sont sales, notamment après une fuite de jus de viande crue. Respectez l’étiquette des nettoyants pour surfaces, y compris le rinçage si elle le demande."
+            ]
+          },
+          {
+            "heading": "Qu’en est-il de l’eau ?",
+            "paragraphs": [
+              "L’eau potable correctement traitée n’est pas une voie établie de transmission de la COVID-19. Si l’eau du réseau est potable, elle convient aussi pour rincer les fruits et légumes. En cas d’avis local demandant de faire bouillir l’eau ou de ne pas la boire, suivez précisément les consignes du service des eaux, y compris pour la préparation des repas."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Rangez les produits périssables dès votre arrivée.",
+          "Lavez-vous les mains et rincez les fruits et légumes à l’eau potable. Gardez les produits ménagers loin des aliments.",
+          "Tenez compte de l’air partagé en magasin ou lors du retrait d’un repas."
+        ],
+        "faq": [
+          {
+            "q": "Ma famille peut-elle contracter la COVID-19 en mangeant un aliment ?",
+            "a": "La consommation d’aliments n’est pas une voie établie de contamination. Tenez compte de l’air partagé et suivez les règles habituelles d’hygiène et de conservation des repas."
+          },
+          {
+            "q": "Comment réduire le risque pendant les courses ?",
+            "a": "Choisissez un moment moins fréquenté, surtout si le magasin est mal ventilé, et envisagez un masque bien ajusté. De retour chez vous, lavez-vous les mains avant de cuisiner ou de manger."
+          },
+          {
+            "q": "Faut-il désinfecter les emballages et les boîtes de plats à emporter ?",
+            "a": "La COVID-19 ne nécessite pas de désinfection particulière. Rangez les produits frais, lavez-vous les mains et nettoyez les traces laissées par les aliments crus. N’appliquez ni eau de Javel ni autre produit ménager sur les aliments ou leurs emballages."
+          },
+          {
+            "q": "Peut-on contracter la COVID-19 en buvant de l’eau ?",
+            "a": "L’eau du robinet traitée d’un réseau sûr convient pour boire et cuisiner. Il est inutile de la faire bouillir parce qu’un proche a la COVID-19. Respectez tout avis émis par le service local des eaux."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Gardez les denrées périssables au froid pendant le trajet et réfrigérez rapidement les livraisons.",
+            "Rincez les fruits et légumes à l’eau potable courante et réservez le savon aux mains.",
+            "Pensez à l’aération lorsque vous faites des courses à l’intérieur ou mangez avec d’autres personnes."
+          ],
+          "bemama": "BeMama vous suggère de libérer une étagère du réfrigérateur avant une grosse livraison pour y ranger aussitôt les produits frais.",
+          "safety": "Ne lavez jamais les aliments avec des produits ménagers. Jetez les denrées périssables restées trop longtemps hors du froid ou arrivées tièdes dans des conditions de conservation inconnues. Respectez les avis locaux concernant l’eau potable.",
+          "sources": [
+            {
+              "organization": "Organisation mondiale de la Santé",
+              "title": "COVID-19 et sécurité des aliments pour les consommateurs",
+              "url": "https://www.who.int/news-room/questions-and-answers/item/coronavirus-disease-covid-19-food-safety-for-consumers"
+            },
+            {
+              "organization": "Centres américains de contrôle et de prévention des maladies",
+              "title": "Transmission de la COVID-19 dans l’air partagé en intérieur",
+              "url": "https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/covid-19.html"
+            },
+            {
+              "organization": "Current Research in Food Science",
+              "title": "Prélèvements de surface dans quatre magasins de l’Ontario",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8406517/"
+            },
+            {
+              "organization": "Agence américaine des produits alimentaires et médicamenteux",
+              "title": "Choisir, rincer et servir des fruits et légumes frais",
+              "url": "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely"
+            },
+            {
+              "organization": "Centres américains de contrôle et de prévention des maladies",
+              "title": "Nettoyer, séparer, cuire et réfrigérer les aliments",
+              "url": "https://www.cdc.gov/food-safety/prevention/index.html"
+            },
+            {
+              "organization": "Agence américaine de protection de l’environnement",
+              "title": "Traitement de l’eau potable et COVID-19",
+              "url": "https://www.epa.gov/sdwa/water-utility-resources-covid-19-pandemic"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Market alışverişinden veya paket yemekten COVID-19 bulaşır mı?",
+        "description": "Virüs markette nasıl yayılır? Meyve ve sebzeleri nasıl yıkayacağınızı, soğuk ürünleri ne zaman kaldıracağınızı ve hangi suyu kullanacağınızı öğrenin.",
+        "intro": "Sütü, elmaları ve dışarıdan aldığınız yemeği eve getirdiniz. Önce soğukta saklanması gerekenleri kaldırın. COVID-19’dan korunmak için alışveriş poşetlerini dışarıda bekletmeye veya ambalajları dezenfekte etmeye gerek yoktur. Kasa sırasında dikkat edileceklerle mutfakta alınacak önlemler farklıdır.",
+        "sections": [
+          {
+            "heading": "Virüse nerede maruz kalabilirsiniz?",
+            "paragraphs": [
+              "COVID-19 başlıca enfekte bir kişinin nefes alıp verirken, konuşurken veya öksürürken dışarı verdiği hava yoluyla yayılır. Kalabalık bir markette ya da restoranda iyi havalanmayan bir ortamı başkalarıyla ne kadar süre paylaştığınız, bir kutuya dokunmanızdan veya yemeği yemenizden daha önemlidir. Sakin bir saatte gitmek veya yüzünüze iyi oturan bir maske takmak solunum yoluyla maruz kalmayı azaltabilir. Evde biri hastaysa eve teslimatı veya açık havada teslim almayı seçebilirsiniz.",
+              "Araştırmacılar Ontario’daki dört gıda mağazasında sık dokunulan yüzeylerden bir ay içinde 957 örnek aldı. Bu örneklerde SARS-CoV-2 RNA’sı saptanmadı. Mağazalarda hijyen önlemleri uygulanıyordu ve müşteriler enfeksiyon açısından izlenmedi. Çalışma her yerdeki her yüzeyin virüssüz olduğunu göstermez. Gıda güvenliği kurumları gıdaların veya ambalajlarının olağan bir bulaş yolu olduğuna dair kanıt bulmamıştır."
+            ]
+          },
+          {
+            "heading": "Alışverişi açarken ve yiyecekleri yıkarken",
+            "paragraphs": [
+              "Yemek hazırlamadan veya yemeden önce ve çiğ ete dokunduktan sonra ellerinizi su ve sabunla en az 20 saniye yıkayın. Taze meyve ve sebzeleri kesmeden ya da yemeden önce akan temiz içme suyunda durulayın. Yüzeylerini hafifçe ovalayın. Kavun gibi sert kabuklular için temiz bir sebze fırçası kullanabilirsiniz. Gıdalarda sabun, çamaşır suyu veya yüzey dezenfektanı kullanmayın. Alışverişin ya da ambalajların üzerine herhangi bir ürün püskürtmeye gerek yoktur.",
+              "Çiğ et ve deniz ürünlerini yenmeye hazır yiyeceklerden ayırın. Sızdıran paketleri ikinci bir kaba koyun. Çiğ gıdaları hazırladıktan sonra kesme tahtasını, araçları ve tezgâhı yıkayın. Pişirdiğiniz gıda için güvenli sıcaklığa ulaşıldığını gıda termometresiyle kontrol edin. Evde kimse COVID-19 olmasa bile bu adımlar sık görülen gıda kaynaklı enfeksiyonları önlemeye yardımcı olur."
+            ]
+          },
+          {
+            "heading": "Teslimatları ve artan yemekleri saklarken",
+            "paragraphs": [
+              "Soğutulmuş ürünleri gecikmeden içeri alın. Buzdolabını 4 °C (40 °F) veya altında tutun. Yol uzunsa eti, süt ürünlerini ve diğer çabuk bozulan ürünleri buz aküleriyle birlikte ısı yalıtımlı bir çantada taşıyın. Çabuk bozulan yiyecekleri ve artan pişmiş yemekleri en geç iki saat, ortam 32 °C’nin (90 °F) üzerindeyse en geç bir saat içinde buzdolabına koyun. Ambalajdaki mikropların kaybolmasını beklemek yiyeceğin gereğinden uzun süre sıcak kalmasına neden olabilir.",
+              "Soğuk gelmesi gereken bir sipariş ılık geldiyse ve ne kadar süre soğutulmadan kaldığı bilinmiyorsa yemeyin, kontrol etmek için tadına da bakmayın. Satıcıyla iletişime geçin. Tekrar kullanılan çantaları kirlenince, özellikle çiğ et suyu döküldüyse temizleyin. Mutfak yüzeyleri için kullandığınız temizleyicinin etiketini izleyin, durulama gerekiyorsa durulayın."
+            ]
+          },
+          {
+            "heading": "İçme suyu için ne yapmalı?",
+            "paragraphs": [
+              "Uygun şekilde arıtılmış içme suyu COVID-19’un bilinen bir bulaş yolu değildir. Şebeke suyu içmek için güvenliyse meyve ve sebzeleri yıkamak için de uygundur. Suyun kaynatılması veya içilmemesi gerektiğine dair yerel bir uyarı varsa yemek hazırlamada hangi suyun kullanılacağı dahil, su idaresinin o uyarıya özel talimatlarına uyun."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Çabuk bozulan yiyecekleri eve gelir gelmez kaldırın.",
+          "Ellerinizi yıkayın, meyve ve sebzeleri akan içme suyunda durulayın. Temizlik kimyasallarını gıdalardan uzak tutun.",
+          "Alışverişe giderken veya yemek teslim alırken başkalarıyla paylaştığınız havayı dikkate alın."
+        ],
+        "faq": [
+          {
+            "q": "Ailem bir yiyeceği yiyerek COVID-19’a yakalanabilir mi?",
+            "a": "Gıda tüketmek COVID-19’un bilinen bir bulaş yolu değildir. Başkalarıyla paylaştığınız havaya dikkat edin, yemeği hazırlarken ve saklarken olağan gıda güvenliği önlemlerini uygulayın."
+          },
+          {
+            "q": "Alışveriş sırasında riskimi nasıl azaltabilirim?",
+            "a": "Özellikle iyi havalanmayan mağazalarda daha sakin bir saati tercih edin, yüzünüze iyi oturan bir maske kullanmayı düşünün. Dönünce yemek hazırlamadan ya da yemeden önce ellerinizi yıkayın."
+          },
+          {
+            "q": "Paketli yiyecekleri ve yemek kaplarını dezenfekte etmeli miyim?",
+            "a": "COVID-19 için özel dezenfeksiyon gerekmez. Soğuk ürünleri kaldırın, ellerinizi yıkayın ve çiğ gıdalardan sızan sıvıları temizleyin. Gıdalar veya ambalajlar üzerinde çamaşır suyu ya da ev tipi temizleyiciler kullanmayın."
+          },
+          {
+            "q": "COVID-19 içme suyundan bulaşır mı?",
+            "a": "Güvenli bir şebekeden gelen arıtılmış su içmek ve yemek pişirmek için uygundur. Evde biri COVID-19 diye suyu kaynatmanız gerekmez. Yerel su idaresi uyarı yayımlarsa talimatlarına uyun."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026 tarihinde incelendi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Taşırken çabuk bozulan ürünleri soğuk tutun ve teslimatı gecikmeden buzdolabına yerleştirin.",
+            "Meyve ve sebzeleri akan temiz içme suyuyla durulayın, sabunu elleriniz için kullanın.",
+            "Kapalı alanda alışveriş yaparken veya başkalarıyla yemek yerken havalandırmayı dikkate alın."
+          ],
+          "bemama": "BeMama, büyük bir sipariş gelmeden önce buzdolabında bir raf boşaltmanızı önerir. Böylece diğerlerini yerleştirirken soğuk ürünleri hemen kaldırabilirsiniz.",
+          "safety": "Gıdaları temizlik kimyasallarıyla asla yıkamayın. Uzun süre soğutulmadan kalmış ya da nasıl saklandığı bilinmeden ılık teslim edilmiş çabuk bozulan yiyecekleri atın. İçme suyu hakkındaki yerel uyarılara uyun.",
+          "sources": [
+            {
+              "organization": "Dünya Sağlık Örgütü",
+              "title": "Tüketiciler için COVID-19 ve gıda güvenliği",
+              "url": "https://www.who.int/news-room/questions-and-answers/item/coronavirus-disease-covid-19-food-safety-for-consumers"
+            },
+            {
+              "organization": "ABD Hastalık Kontrol ve Önleme Merkezleri",
+              "title": "COVID-19 ortak kapalı alan havasında nasıl yayılır?",
+              "url": "https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/covid-19.html"
+            },
+            {
+              "organization": "Current Research in Food Science",
+              "title": "Ontario’daki dört gıda mağazasında yüzeylerden örnek alınması",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8406517/"
+            },
+            {
+              "organization": "ABD Gıda ve İlaç Dairesi",
+              "title": "Taze meyve ve sebzelerin seçimi, yıkanması ve sunumu",
+              "url": "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely"
+            },
+            {
+              "organization": "ABD Hastalık Kontrol ve Önleme Merkezleri",
+              "title": "Gıdaları temizleme, ayırma, pişirme ve soğutma",
+              "url": "https://www.cdc.gov/food-safety/prevention/index.html"
+            },
+            {
+              "organization": "ABD Çevre Koruma Ajansı",
+              "title": "İçme suyunun arıtılması ve COVID-19",
+              "url": "https://www.epa.gov/sdwa/water-utility-resources-covid-19-pandemic"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "¿Puede contagiarse la COVID-19 a través de la compra o la comida?",
+        "description": "Descubre cómo se transmite la COVID-19 al hacer la compra, cómo lavar la fruta y guardar los pedidos y si hace falta limpiar los envases o hervir el agua.",
+        "intro": "Acabas de llegar con leche, manzanas y comida para llevar. Guarda primero los alimentos que necesitan frío. Para prevenir la COVID-19 no hace falta dejar la compra fuera ni desinfectar los envases. En la cola de la caja y al preparar la comida importan cosas distintas.",
+        "sections": [
+          {
+            "heading": "Dónde se produce la exposición",
+            "paragraphs": [
+              "La COVID-19 se transmite principalmente por el aire que expulsa una persona infectada al respirar, hablar o toser. En una tienda o un restaurante concurridos, pasar tiempo en un espacio mal ventilado importa más que tocar un envase o comer el plato. Ir a una hora tranquila o usar una mascarilla bien ajustada puede reducir la exposición respiratoria. Si hay alguien enfermo en casa, puedes pedir entrega a domicilio o recoger el pedido al aire libre.",
+              "Durante un mes se tomaron 957 muestras de superficies de contacto frecuente en cuatro tiendas de alimentación de Ontario. En ninguna se detectó ARN del SARS-CoV-2. Las tiendas seguían protocolos de higiene y los investigadores no estudiaron si cada cliente se infectó. El resultado no permite afirmar que todas las superficies de cualquier tienda estuvieran libres de virus. Las autoridades alimentarias no han encontrado pruebas de que los alimentos o sus envases sean una vía habitual de transmisión."
+            ]
+          },
+          {
+            "heading": "Al desembalar y lavar la compra",
+            "paragraphs": [
+              "Lávate las manos con agua y jabón durante al menos 20 segundos antes de preparar alimentos o comer y después de tocar carne cruda. Enjuaga las frutas y verduras con agua potable corriente antes de cortarlas o comerlas. Frota con suavidad y usa un cepillo limpio para vegetales de corteza firme, como el melón. No apliques jabón, lejía ni desinfectantes a los alimentos. Tampoco hace falta pulverizar la compra o los envoltorios.",
+              "Separa la carne y el marisco crudos de los alimentos listos para comer. Mete los envases que goteen en otro recipiente. Lava la tabla, los utensilios y la encimera después de preparar alimentos crudos. Usa un termómetro para comprobar que alcanzas la temperatura de cocción segura para ese alimento. Estas medidas previenen infecciones transmitidas por alimentos incluso si nadie en casa tiene COVID-19."
+            ]
+          },
+          {
+            "heading": "Cómo guardar los pedidos y las sobras",
+            "paragraphs": [
+              "Mete pronto en casa la compra refrigerada. Mantén el frigorífico a 4 °C (40 °F) o menos. Si el trayecto es largo, lleva carne, lácteos y otros perecederos en una bolsa isotérmica con acumuladores de frío. Refrigera los perecederos y las sobras cocinadas en un máximo de dos horas, o de una hora si la temperatura supera los 32 °C (90 °F). Esperar a que desaparezcan los microbios de un envase puede dejar el alimento demasiado tiempo sin frío.",
+              "Si un pedido que debía llegar frío llega templado y no sabes cuánto tiempo ha estado sin refrigeración, no lo comas ni lo pruebes para comprobar su estado. Contacta con el proveedor. Limpia las bolsas reutilizables cuando se ensucien, especialmente si se han derramado jugos de carne cruda. Sigue la etiqueta del limpiador de superficies, incluido el aclarado si lo indica."
+            ]
+          },
+          {
+            "heading": "¿Y el agua?",
+            "paragraphs": [
+              "El agua potable tratada adecuadamente no es una vía reconocida de transmisión de la COVID-19. Si el agua de la red es potable, sirve también para lavar verduras y frutas. Si existe un aviso local de hervir el agua o no beberla, sigue las indicaciones de la autoridad responsable, también en cuanto al agua para preparar alimentos."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Guarda los perecederos en cuanto llegues a casa.",
+          "Lávate las manos y enjuaga los vegetales con agua potable. Mantén los productos de limpieza lejos de los alimentos.",
+          "Ten en cuenta el aire que compartes con otras personas al hacer la compra o recoger comida."
+        ],
+        "faq": [
+          {
+            "q": "¿Podemos contraer la COVID-19 al comer un alimento?",
+            "a": "Comer no es una vía reconocida de contagio de la COVID-19. Ten en cuenta el aire compartido y sigue las medidas habituales de seguridad alimentaria al preparar y guardar la comida."
+          },
+          {
+            "q": "¿Cómo puedo reducir el riesgo al hacer la compra?",
+            "a": "Elige una hora con menos gente, especialmente si la tienda está mal ventilada, y plantéate usar una mascarilla bien ajustada. Al volver, lávate las manos antes de preparar alimentos o comer."
+          },
+          {
+            "q": "¿Hay que desinfectar los envases y los recipientes de comida para llevar?",
+            "a": "La COVID-19 no requiere una desinfección especial. Guarda los productos fríos, lávate las manos y limpia los derrames de alimentos crudos. No pongas lejía ni otros limpiadores domésticos en los alimentos ni en los envases."
+          },
+          {
+            "q": "¿Se transmite la COVID-19 a través del agua potable?",
+            "a": "El agua tratada de una red segura sirve para beber y cocinar. Que alguien tenga COVID-19 no obliga a hervirla. Sigue cualquier aviso emitido por el proveedor de agua local."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Conserva el frío durante el trayecto y refrigera los pedidos enseguida.",
+            "Lava las frutas y verduras con agua potable corriente y usa jabón para las manos.",
+            "Ten en cuenta la ventilación al comprar en interiores o al comer con otras personas."
+          ],
+          "bemama": "BeMama sugiere despejar una balda del frigorífico antes de recibir un pedido grande para guardar lo que necesita frío mientras organizas el resto.",
+          "safety": "Nunca laves la comida con productos de limpieza. Desecha los perecederos que hayan pasado demasiado tiempo sin refrigeración o que lleguen templados sin que puedas comprobar cómo se conservaron. Sigue los avisos locales sobre el agua potable.",
+          "sources": [
+            {
+              "organization": "Organización Mundial de la Salud",
+              "title": "COVID-19 y seguridad alimentaria para los consumidores",
+              "url": "https://www.who.int/news-room/questions-and-answers/item/coronavirus-disease-covid-19-food-safety-for-consumers"
+            },
+            {
+              "organization": "Centros para el Control y la Prevención de Enfermedades de Estados Unidos",
+              "title": "Cómo se transmite la COVID-19 al compartir el aire en interiores",
+              "url": "https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/covid-19.html"
+            },
+            {
+              "organization": "Current Research in Food Science",
+              "title": "Muestreo de superficies en cuatro tiendas de alimentación de Ontario",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8406517/"
+            },
+            {
+              "organization": "Administración de Alimentos y Medicamentos de Estados Unidos",
+              "title": "Cómo elegir, lavar y servir frutas y verduras frescas",
+              "url": "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely"
+            },
+            {
+              "organization": "Centros para el Control y la Prevención de Enfermedades de Estados Unidos",
+              "title": "Limpiar, separar, cocinar y refrigerar los alimentos",
+              "url": "https://www.cdc.gov/food-safety/prevention/index.html"
+            },
+            {
+              "organization": "Agencia de Protección Ambiental de Estados Unidos",
+              "title": "Tratamiento del agua potable y COVID-19",
+              "url": "https://www.epa.gov/sdwa/water-utility-resources-covid-19-pandemic"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "É possível pegar covid-19 pelas compras ou pela comida entregue?",
+        "description": "Saiba como ocorre a transmissão ao fazer compras, como lavar frutas e guardar as entregas e quais cuidados tomar com as embalagens e a água da torneira.",
+        "intro": "O leite, as maçãs e o jantar que você trouxe do restaurante acabam de chegar. Guarde primeiro os alimentos refrigerados. Para prevenir a covid-19, não é preciso deixar as compras do lado de fora nem desinfetar as embalagens. Na fila do caixa e na cozinha, os cuidados são diferentes.",
+        "sections": [
+          {
+            "heading": "Onde ocorre a exposição",
+            "paragraphs": [
+              "A covid-19 se transmite principalmente pelo ar que uma pessoa infectada exala ao respirar, falar ou tossir. Em um mercado ou restaurante cheio, o tempo que você passa respirando o mesmo ar em um ambiente mal ventilado importa mais do que tocar uma caixa ou comer a refeição. Ir em um horário mais tranquilo ou usar uma máscara bem ajustada pode diminuir a exposição respiratória. Se alguém em casa estiver doente, uma opção é pedir entrega ou retirar a compra ao ar livre.",
+              "Pesquisadores fizeram 957 coletas em superfícies tocadas com frequência em quatro mercados de Ontário ao longo de um mês. Não detectaram RNA do SARS-CoV-2 nessas amostras. Os estabelecimentos seguiam procedimentos de higiene e o estudo não acompanhou os clientes para saber quem se infectou. Isso não mostra que todas as superfícies em qualquer lugar estavam livres do vírus. Autoridades de segurança dos alimentos não encontraram evidência de que a comida ou a embalagem seja uma via habitual de transmissão."
+            ]
+          },
+          {
+            "heading": "Como desembalar e lavar os alimentos",
+            "paragraphs": [
+              "Lave as mãos com água e sabonete por pelo menos 20 segundos antes de preparar alimentos ou comer e depois de manusear carne crua. Enxágue frutas, legumes e verduras em água potável corrente antes de cortar ou comer. Esfregue delicadamente e use uma escova limpa própria para alimentos de casca firme, como o melão. Não use sabonete, água sanitária nem desinfetante de superfícies nos alimentos. Tampouco é necessário borrifar produtos nas compras ou nos invólucros.",
+              "Mantenha carnes e frutos do mar crus separados dos alimentos prontos para consumo. Coloque pacotes que vazam em outro recipiente. Depois de preparar alimentos crus, lave a tábua, os utensílios e a bancada. Use um termômetro culinário para conferir a temperatura de cozimento segura para o alimento. Essas medidas ajudam a prevenir infecções alimentares comuns mesmo quando ninguém em casa está com covid-19."
+            ]
+          },
+          {
+            "heading": "Entregas e sobras",
+            "paragraphs": [
+              "Leve logo para dentro as compras refrigeradas. Mantenha a geladeira a 4 °C (40 °F) ou menos. Se o trajeto for longo, transporte carnes, laticínios e outros perecíveis em bolsa térmica com gelo reutilizável. Guarde os perecíveis e as sobras cozidas na geladeira em até duas horas, ou em até uma hora se a temperatura estiver acima de 32 °C (90 °F). Esperar que os microrganismos desapareçam de uma embalagem pode deixar a comida tempo demais fora da geladeira.",
+              "Se uma entrega que deveria estar fria chegar morna e não der para saber quanto tempo passou fora da geladeira, não coma nem prove para conferir. Entre em contato com o fornecedor. Limpe as sacolas reutilizáveis quando estiverem sujas, principalmente após vazamento de líquido de carne crua. Siga o rótulo do produto usado nas superfícies, inclusive quanto ao enxágue quando indicado."
+            ]
+          },
+          {
+            "heading": "E a água?",
+            "paragraphs": [
+              "A água potável devidamente tratada não é uma via comprovada de transmissão da covid-19. Se a água da rede local é própria para beber, também serve para enxaguar frutas e verduras. Um alerta para ferver a água ou não bebê-la exige outros cuidados. Siga as orientações da autoridade local, inclusive sobre a água para o preparo dos alimentos."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Guarde os perecíveis assim que chegar.",
+          "Lave as mãos e enxágue frutas e verduras com água potável. Mantenha produtos de limpeza longe da comida.",
+          "Ao escolher como fazer a compra ou retirar uma refeição, considere o ar compartilhado com outras pessoas."
+        ],
+        "faq": [
+          {
+            "q": "Podemos pegar covid-19 comendo um alimento?",
+            "a": "Comer não é uma via comprovada de transmissão. Considere o ar que você compartilha com outras pessoas e adote os cuidados habituais para preparar e guardar os alimentos."
+          },
+          {
+            "q": "Como reduzir o risco ao fazer compras?",
+            "a": "Escolha um horário menos movimentado, sobretudo em lojas mal ventiladas, e considere usar uma máscara bem ajustada. Quando voltar, lave as mãos antes de preparar alimentos ou comer."
+          },
+          {
+            "q": "É preciso desinfetar as embalagens e os recipientes de comida pronta?",
+            "a": "A covid-19 não exige desinfecção especial. Guarde os produtos refrigerados, lave as mãos e limpe eventuais vazamentos de alimentos crus. Não use água sanitária nem outros produtos de limpeza doméstica em alimentos ou embalagens."
+          },
+          {
+            "q": "A covid-19 pode ser transmitida pela água potável?",
+            "a": "A água tratada de uma rede segura serve para beber e cozinhar. Não é preciso fervê-la apenas porque alguém está com covid-19. Se houver um alerta do serviço local de abastecimento, siga as orientações."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Mantenha os perecíveis refrigerados no trajeto e guarde as entregas prontamente.",
+            "Enxágue frutas e verduras em água potável corrente e lave as mãos com sabonete.",
+            "Pense na ventilação ao fazer compras em ambientes fechados ou comer com outras pessoas."
+          ],
+          "bemama": "A BeMama sugere liberar uma prateleira da geladeira antes da chegada de um pedido grande para guardar primeiro os alimentos refrigerados.",
+          "safety": "Nunca lave alimentos com produtos de limpeza. Descarte perecíveis que ficaram tempo demais fora da geladeira ou chegaram mornos sem que se saiba como foram conservados. Siga os avisos locais sobre a água potável.",
+          "sources": [
+            {
+              "organization": "Organização Mundial da Saúde",
+              "title": "Covid-19 e segurança dos alimentos para os consumidores",
+              "url": "https://www.who.int/news-room/questions-and-answers/item/coronavirus-disease-covid-19-food-safety-for-consumers"
+            },
+            {
+              "organization": "Centros de Controle e Prevenção de Doenças dos Estados Unidos",
+              "title": "Como a covid-19 se transmite pelo ar em ambientes fechados",
+              "url": "https://www.cdc.gov/yellow-book/hcp/travel-associated-infections-diseases/covid-19.html"
+            },
+            {
+              "organization": "Current Research in Food Science",
+              "title": "Coletas em superfícies de quatro mercados de Ontário",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8406517/"
+            },
+            {
+              "organization": "Administração de Alimentos e Medicamentos dos Estados Unidos",
+              "title": "Como escolher, enxaguar e servir frutas e verduras frescas",
+              "url": "https://www.fda.gov/food/buy-store-serve-safe-food/selecting-and-serving-produce-safely"
+            },
+            {
+              "organization": "Centros de Controle e Prevenção de Doenças dos Estados Unidos",
+              "title": "Limpar, separar, cozinhar e refrigerar alimentos",
+              "url": "https://www.cdc.gov/food-safety/prevention/index.html"
+            },
+            {
+              "organization": "Agência de Proteção Ambiental dos Estados Unidos",
+              "title": "Tratamento da água potável e covid-19",
+              "url": "https://www.epa.gov/sdwa/water-utility-resources-covid-19-pandemic"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5816.webp",
+    "heroAlt": {
+      "en": "Hands rinse a red apple under a running kitchen tap beside other groceries.",
+      "es": "Unas manos lavan una manzana roja bajo el grifo de la cocina junto a la compra.",
+      "fr": "Des mains rincent une pomme rouge sous le robinet près des courses.",
+      "pt": "Mãos enxáguam uma maçã vermelha sob a torneira da cozinha, ao lado das compras.",
+      "fa": "دست‌ها یک سیب قرمز را کنار میوه‌های خریداری‌شده زیر شیر آب آشپزخانه می‌شویند.",
+      "ar": "يدان تغسلان تفاحة حمراء تحت صنبور المطبخ بجانب المشتريات.",
+      "tr": "Alışverişten gelen kırmızı bir elma mutfak musluğunun altında yıkanıyor."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "Can a family catch COVID-19 from groceries or takeout?",
+      "description": "Find out how COVID-19 spreads while shopping, how to rinse produce, when to chill deliveries and whether you need to clean food packaging or treat tap water."
+    },
+    "fa": {
+      "title": "آیا ممکن است از خریدهای خانه یا غذای بیرون کرونا بگیریم؟",
+      "description": "ببینید کرونا هنگام خرید چطور منتقل می‌شود، میوه و سبزی را با چه آبی بشویید، خریدهای یخچالی را چه زمانی کنار بگذارید و با بسته‌بندی غذا چه کنید."
+    },
+    "ar": {
+      "title": "هل ينتقل كوفيد-19 عبر المشتريات أو الطعام الجاهز؟",
+      "description": "اعرف كيف ينتقل الفيروس أثناء التسوق، وكيف تغسل الفاكهة وتحفظ الطلبات الباردة، وما إذا كانت عبوات الطعام تحتاج إلى تعقيم أو مياه الشرب إلى غلي."
+    },
+    "fr": {
+      "title": "COVID-19 : peut-on être contaminé par les courses ou un plat livré ?",
+      "description": "Comment le virus se transmet-il en magasin ? Voyez comment rincer les fruits, ranger les livraisons et utiliser l’eau et les emballages en toute sécurité."
+    },
+    "tr": {
+      "title": "Market alışverişinden veya paket yemekten COVID-19 bulaşır mı?",
+      "description": "Virüs markette nasıl yayılır? Meyve ve sebzeleri nasıl yıkayacağınızı, soğuk ürünleri ne zaman kaldıracağınızı ve hangi suyu kullanacağınızı öğrenin."
+    },
+    "es": {
+      "title": "¿Puede contagiarse la COVID-19 a través de la compra o la comida?",
+      "description": "Descubre cómo se transmite la COVID-19 al hacer la compra, cómo lavar la fruta y guardar los pedidos y si hace falta limpiar los envases o hervir el agua."
+    },
+    "pt": {
+      "title": "É possível pegar covid-19 pelas compras ou pela comida entregue?",
+      "description": "Saiba como ocorre a transmissão ao fazer compras, como lavar frutas e guardar as entregas e quais cuidados tomar com as embalagens e a água da torneira."
+    }
+  }
+}

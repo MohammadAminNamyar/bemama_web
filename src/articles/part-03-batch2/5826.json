@@ -1,0 +1,730 @@
+{
+  "sourceId": "5826",
+  "article": {
+    "slug": "baby-and-child/red-eye-in-children-pain-discharge-and-care",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "A red eye in a child: which signs need urgent care?",
+        "description": "Find out what a sticky, itchy or watery red eye can mean in a child, when antibiotic drops may help, and which changes in pain or vision need urgent care.",
+        "intro": "A child wakes up with crust on the eyelashes. Once it is gently wiped away, can they see normally? Does the eye feel gritty, or does it really hurt when they look at the light? Those details, the child’s age and any recent injury are more useful when calling for advice than the colour of the discharge alone.",
+        "sections": [
+          {
+            "heading": "Look beyond the redness",
+            "paragraphs": [
+              "Conjunctivitis is inflammation of the thin lining over the white of the eye and inside the eyelids. A cold can come with watery discharge and a gritty feeling. Bacterial infection can produce thick discharge that sticks the lids together. Allergies often make both eyes itch and water. These patterns overlap, and redness can also follow irritation, an injury or a problem with the clear front surface of the eye.",
+              "Check whether redness began in one eye or both, when it started, and whether there was a splash, impact or contact lens use. A child with a red eye who wears contact lenses should take them out and get urgent same-day advice because an infection of the cornea can threaten sight. Keep lenses out until an eye professional advises restarting."
+            ]
+          },
+          {
+            "heading": "When the eye needs urgent assessment",
+            "paragraphs": [
+              "Get urgent eye care for significant pain, trouble looking at light, intense redness or blurred vision that persists after discharge is wiped away. Sudden loss of vision or a possible penetrating injury needs emergency care now. Do not press on the eye or try to remove an object stuck in it. If a cleaning chemical splashes into the eye, start rinsing immediately with plenty of clean lukewarm water while someone calls for emergency or poison advice.",
+              "A newborn with redness or discharge from the eye needs immediate medical assessment. A baby under three months with a temperature of 38°C or above needs urgent medical care as well. Seek advice promptly if the child seems unwell, has fever or a rash with the red eye, has a weakened immune system, or symptoms keep returning, worsen or fail to improve."
+            ]
+          },
+          {
+            "heading": "Would antibiotic drops help?",
+            "paragraphs": [
+              "Antibiotics do not treat viral or allergic conjunctivitis. Some bacterial cases clear without them, while others benefit from prescribed drops or ointment. The clinician weighs the child’s age, examination, amount of discharge and risk factors. Avoid sharing drops or using a leftover prescription.",
+              "In a UK trial, 326 children aged six months to twelve years with suspected infective conjunctivitis in general practice were assigned antibiotic or placebo drops. Among children with follow-up, about 86% using the antibiotic and 83% using placebo had recovered by day seven. The trial found no clear difference at that point. Its results concern those primary-care patients and do not guide treatment for a newborn, contact lens infection or injured eye."
+            ]
+          },
+          {
+            "heading": "Comfort and preventing spread",
+            "paragraphs": [
+              "Wash your hands before and after cleaning the eyelids. Gently wipe dried discharge from the inner corner outward with a clean, damp pad. Use a fresh pad for the next wipe and for the other eye. A clean cool compress may ease irritation. Help your child wash their hands after touching their eyes. Use separate towels, pillowcases and washcloths.",
+              "Viral and bacterial causes can spread on hands or objects that contact eye secretions. Some respiratory viruses also spread with coughs or sneezes. Allergic conjunctivitis is not contagious. For school or childcare, ask about local attendance rules and consider whether the child is feverish, feels well enough to participate and can manage hygiene. A return date alone does not tell you whether a child needs medicine."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Check pain, light sensitivity and vision as well as crust or discharge.",
+          "Arrange immediate assessment for a newborn with a red or discharging eye.",
+          "Keep hands and cleaning pads clean and use prescribed drops only for the child they were prescribed for."
+        ],
+        "faq": [
+          {
+            "q": "How can we keep a red eye from spreading?",
+            "a": "For infectious causes, wash hands, clean discharge with a fresh pad each time and avoid sharing towels or drops. Help the child avoid rubbing the eyes. Allergies do not spread to another person."
+          },
+          {
+            "q": "When should I contact a clinician?",
+            "a": "Contact a clinician promptly for worsening or recurrent symptoms, fever or rash, a child who feels ill, or poor immunity. Seek immediate assessment for a newborn with symptoms and urgent care for pain, light sensitivity or persistent blurry vision."
+          },
+          {
+            "q": "Does sticky discharge mean my child needs antibiotics?",
+            "a": "It can occur with bacterial infection, but appearance alone is not conclusive. The clinician can decide whether antibiotic drops or ointment would help. Antibiotics will not shorten a viral infection."
+          },
+          {
+            "q": "When is a red eye an emergency?",
+            "a": "Sudden sight loss, a suspected penetrating injury or a serious chemical splash is an emergency. Begin rinsing a chemical splash immediately with plenty of clean water and get emergency advice. Do not remove an object embedded in the eye."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Tell the clinician about the child’s age, injury or splash, contact lenses, pain and any change in sight.",
+            "Use a fresh pad for each wipe and wash hands before and afterward.",
+            "Ask when to have the eye rechecked if improvement does not occur."
+          ],
+          "bemama": "BeMama suggests noting what the child can see after the lashes are clean and whether light hurts, then reporting those findings alongside any discharge.",
+          "safety": "Seek urgent eye assessment for pain, light sensitivity or persistent blurred vision. Seek emergency care now for sudden sight loss or a possible penetrating injury. Irrigate a chemical splash immediately while getting emergency advice. A newborn with a red or discharging eye needs immediate medical assessment.",
+          "sources": [
+            {
+              "organization": "Royal Children’s Hospital Melbourne",
+              "title": "Acute red eye in children",
+              "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acute_red_eye/"
+            },
+            {
+              "organization": "Centers for Disease Control and Prevention",
+              "title": "When and how to treat conjunctivitis",
+              "url": "https://www.cdc.gov/conjunctivitis/treatment/"
+            },
+            {
+              "organization": "Rose and colleagues, The Lancet",
+              "title": "Antibiotic versus placebo eye drops for children in primary care",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/15993231/"
+            },
+            {
+              "organization": "Royal Children’s Hospital Melbourne",
+              "title": "Urgent care for acute eye injury",
+              "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acute_eye_injury/"
+            },
+            {
+              "organization": "American Academy of Pediatrics",
+              "title": "School and childcare attendance when a child has pink eye",
+              "url": "https://www.healthychildren.org/English/tips-tools/ask-the-pediatrician/Pages/Do-I-need-to-keep-my-son-home-if-he-has-pinkeye.aspx"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "قرمزی چشم کودک چه زمانی به بررسی فوری نیاز دارد؟",
+        "description": "ببینید خارش، اشک‌ریزش یا ترشح چشم کودک چه علت‌هایی دارد، قطرهٔ آنتی‌بیوتیک چه وقت کمک می‌کند و چه تغییری در درد یا بینایی نیازمند بررسی فوری است.",
+        "intro": "کودکتان از خواب بیدار شده و ترشح خشک‌شده به مژه‌هایش چسبیده است. بعد از اینکه به‌آرامی آن را پاک کردید، مثل همیشه می‌بیند؟ حس می‌کند شن در چشمش رفته یا نگاه کردن به نور واقعاً درد دارد؟ وقتی برای راهنمایی تماس می‌گیرید، توضیح این جزئیات، سن کودک و هر آسیب تازه به چشم بیشتر از رنگ ترشح به‌تنهایی کمک می‌کند.",
+        "sections": [
+          {
+            "heading": "همراه قرمزی چه علامت‌های دیگری وجود دارد؟",
+            "paragraphs": [
+              "ورم ملتحمه یعنی التهاب پردهٔ نازکی که سفیدی چشم و داخل پلک‌ها را می‌پوشاند. هنگام سرماخوردگی ممکن است چشم آب بیندازد و کودک احساس کند در آن شن رفته است. عفونت باکتریایی می‌تواند ترشح غلیظی ایجاد کند که پلک‌ها را به هم می‌چسباند. در حساسیت، معمولاً هر دو چشم می‌خارند و اشک می‌ریزند. این علامت‌ها ممکن است شبیه هم باشند. تحریک، آسیب یا مشکلی در قرنیه، یعنی بخش شفاف جلوی چشم، هم می‌تواند باعث قرمزی شود.",
+              "ببینید قرمزی چه زمانی و در یک چشم یا هر دو شروع شده است. آیا چیزی به چشم پاشیده، ضربه‌ای وارد شده یا کودک لنز تماسی دارد؟ اگر از لنز استفاده می‌کند و چشمش قرمز شده، لنزها را خارج کنید و همان روز برای ارزیابی فوری اقدام کنید. عفونت قرنیه می‌تواند بینایی را به خطر بیندازد. تا زمانی که متخصص چشم اجازه نداده دوباره لنز نگذارید."
+            ]
+          },
+          {
+            "heading": "چه زمانی معاینهٔ فوری لازم است؟",
+            "paragraphs": [
+              "درد قابل‌توجه، دشواری نگاه کردن به نور، قرمزی شدید یا تاری دیدی که پس از پاک کردن ترشح ادامه دارد، نیاز به معاینهٔ فوری چشم دارد. اگر دید ناگهان از بین رفته یا احتمال می‌دهید جسمی چشم را سوراخ کرده، همین حالا به اورژانس مراجعه کنید. به چشم فشار نیاورید و جسم فرورفته در آن را بیرون نکشید. اگر مادهٔ شوینده به چشم پاشیده، فوراً شست‌وشو با مقدار زیادی آب تمیز و ولرم را شروع کنید و هم‌زمان از کسی بخواهید با اورژانس یا مرکز اطلاع‌رسانی مسمومیت تماس بگیرد.",
+              "نوزادی که چشمش قرمز شده یا ترشح دارد باید بلافاصله معاینه شود. شیرخوار زیر سه ماه با دمای بدن ۳۸ درجهٔ سانتی‌گراد یا بالاتر هم به رسیدگی فوری نیاز دارد. اگر کودک بدحال است، همراه قرمزی چشم تب یا بثورات پوستی دارد، دستگاه ایمنی‌اش ضعیف است، یا علامت‌ها مدام برمی‌گردند، بدتر می‌شوند یا بهبود نمی‌یابند، سریع راهنمایی پزشکی بگیرید."
+            ]
+          },
+          {
+            "heading": "قطرهٔ آنتی‌بیوتیک چه زمانی کمک می‌کند؟",
+            "paragraphs": [
+              "آنتی‌بیوتیک ورم ملتحمهٔ ویروسی یا آلرژیک را درمان نمی‌کند. بعضی عفونت‌های باکتریایی خودبه‌خود برطرف می‌شوند و برای بعضی دیگر قطره یا پماد تجویزی سودمند است. پزشک سن کودک، یافته‌های معاینه، مقدار ترشح و عوامل خطر را در نظر می‌گیرد. قطره را با دیگران شریک نشوید و داروی باقی‌مانده از نسخهٔ قبلی را مصرف نکنید.",
+              "در کارآزمایی‌ای در بریتانیا، ۳۲۶ کودک شش‌ماهه تا دوازده‌ساله که با احتمال ورم ملتحمهٔ عفونی به پزشک عمومی مراجعه کرده بودند، قطرهٔ آنتی‌بیوتیک یا دارونما دریافت کردند. از میان کودکانی که نتیجهٔ پیگیری‌شان مشخص بود، تا روز هفتم حدود ۸۶ درصد گروه آنتی‌بیوتیک و ۸۳ درصد گروه دارونما بهبود یافته بودند. در آن زمان تفاوت روشنی میان دو گروه دیده نشد. نتیجه دربارهٔ همین مراجعان مراقبت اولیه است و درمان نوزاد، عفونت ناشی از لنز یا آسیب چشم را تعیین نمی‌کند."
+            ]
+          },
+          {
+            "heading": "چطور ناراحتی و احتمال انتقال را کمتر کنیم؟",
+            "paragraphs": [
+              "قبل و بعد از تمیز کردن پلک‌ها دست‌هایتان را بشویید. ترشحات خشک را با پدی تمیز و مرطوب به‌آرامی از گوشهٔ داخلی چشم به بیرون پاک کنید. برای هر بار کشیدن روی پلک و برای چشم دیگر پد تازه‌ای بردارید. کمپرس تمیز و خنک ممکن است تحریک را کمتر کند. کمک کنید کودک بعد از لمس چشم دست‌هایش را بشوید. حوله، روبالشی و دستمال صورت را جدا کنید.",
+              "عامل‌های ویروسی و باکتریایی می‌توانند با دست‌ها یا وسایلی که به ترشحات چشم خورده‌اند منتقل شوند. بعضی ویروس‌های تنفسی با سرفه یا عطسه هم پخش می‌شوند. ورم ملتحمهٔ آلرژیک مسری نیست. دربارهٔ مقررات حضور در مهد یا مدرسه همان‌جا سؤال کنید. در نظر بگیرید کودک تب دارد یا نه، برای شرکت در فعالیت‌ها حالش چطور است و آیا می‌تواند بهداشت را رعایت کند. تاریخ بازگشت به‌تنهایی تعیین نمی‌کند که دارو لازم است یا نه."
+            ]
+          }
+        ],
+        "takeaways": [
+          "علاوه بر ترشح و چسبیدن مژه‌ها، دربارهٔ درد، حساسیت به نور و دید کودک سؤال کنید.",
+          "نوزاد با چشم قرمز یا دارای ترشح به معاینهٔ بلافاصله نیاز دارد.",
+          "دست‌ها و پدها را تمیز نگه دارید و قطرهٔ تجویزی را فقط برای کودکی استفاده کنید که نسخه به نام اوست."
+        ],
+        "faq": [
+          {
+            "q": "چطور از انتقال قرمزی چشم به دیگران جلوگیری کنیم؟",
+            "a": "در موارد عفونی دست‌ها را بشویید، هر بار ترشح را با پدی تازه پاک کنید و حوله یا قطره را مشترک استفاده نکنید. کمک کنید کودک چشم‌هایش را نمالد. حساسیت به فرد دیگر منتقل نمی‌شود."
+          },
+          {
+            "q": "چه زمانی با پزشک تماس بگیرم؟",
+            "a": "اگر علامت‌ها بدتر می‌شوند یا برمی‌گردند، کودک تب یا بثورات پوستی دارد، بدحال است یا ایمنی ضعیفی دارد، زود تماس بگیرید. نوزاد علامت‌دار به معاینهٔ بلافاصله و کودک دچار درد، حساسیت به نور یا تاری دید ماندگار به رسیدگی فوری نیاز دارد."
+          },
+          {
+            "q": "آیا ترشح چسبناک یعنی کودک آنتی‌بیوتیک لازم دارد؟",
+            "a": "ترشح چسبناک ممکن است در عفونت باکتریایی دیده شود، اما ظاهر آن به‌تنهایی تعیین‌کننده نیست. پزشک می‌تواند مشخص کند قطره یا پماد آنتی‌بیوتیک کمک می‌کند یا نه. آنتی‌بیوتیک دورهٔ عفونت ویروسی را کوتاه نمی‌کند."
+          },
+          {
+            "q": "قرمزی چشم چه زمانی اورژانسی است؟",
+            "a": "از دست رفتن ناگهانی دید، احتمال آسیب نافذ یا پاشیدن مادهٔ شیمیایی با آسیب جدی از موارد اورژانسی هستند. اگر مادهٔ شیمیایی پاشیده، بی‌درنگ شست‌وشو با آب تمیز فراوان را شروع کنید و کمک اورژانسی بخواهید. جسم فرورفته در چشم را بیرون نیاورید."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۶ نوامبر ۲۰۲۶ بازبینی شد",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "سن کودک، هرگونه ضربه یا پاشیدن مواد، استفاده از لنز، درد و تغییر دید را به پزشک بگویید.",
+            "هر بار پد تازه‌ای بردارید و قبل و بعد از پاک کردن چشم دست‌ها را بشویید.",
+            "اگر چشم بهتر نشد، بپرسید چه وقت باید دوباره معاینه شود."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند بعد از تمیز شدن مژه‌ها ببینید کودک چقدر واضح می‌بیند و آیا نور باعث درد می‌شود. این موارد را همراه توضیح ترشح گزارش کنید.",
+          "safety": "برای درد، حساسیت به نور یا تاری دید پایدار ارزیابی فوری چشم لازم است. برای از دست رفتن ناگهانی دید یا احتمال آسیب نافذ، همین حالا به اورژانس مراجعه کنید. اگر مادهٔ شیمیایی پاشیده، هم‌زمان با گرفتن کمک اورژانسی فوراً شست‌وشو را شروع کنید. نوزادی که چشمش قرمز است یا ترشح دارد باید بلافاصله معاینه شود.",
+          "sources": [
+            {
+              "organization": "بیمارستان سلطنتی کودکان ملبورن",
+              "title": "قرمزی حاد چشم در کودکان",
+              "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acute_red_eye/"
+            },
+            {
+              "organization": "مراکز کنترل و پیشگیری از بیماری‌های آمریکا",
+              "title": "چه زمانی و چگونه ورم ملتحمه را درمان کنیم",
+              "url": "https://www.cdc.gov/conjunctivitis/treatment/"
+            },
+            {
+              "organization": "رز و همکاران، لنست",
+              "title": "مقایسهٔ قطرهٔ آنتی‌بیوتیک و دارونما در کودکان مراجعه‌کننده به مراقبت اولیه",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/15993231/"
+            },
+            {
+              "organization": "بیمارستان سلطنتی کودکان ملبورن",
+              "title": "مراقبت فوری از آسیب حاد چشم",
+              "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acute_eye_injury/"
+            },
+            {
+              "organization": "آکادمی پزشکی کودکان آمریکا",
+              "title": "حضور کودک مبتلا به ورم ملتحمه در مدرسه یا مهدکودک",
+              "url": "https://www.healthychildren.org/English/tips-tools/ask-the-pediatrician/Pages/Do-I-need-to-keep-my-son-home-if-he-has-pinkeye.aspx"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "احمرار عين الطفل: متى يحتاج إلى فحص عاجل؟",
+        "description": "تعرّف إلى أسباب الحكة والدموع والإفرازات في عين الطفل، ومتى تفيد قطرة المضاد الحيوي، وأي تغيّر في الألم أو الرؤية يستدعي فحصًا عاجلًا للعين.",
+        "intro": "استيقظ طفلك وعلى رموشه قشور من إفرازات جافة. هل يرى بوضوح بعد أن تزيلها برفق؟ هل يشكو من إحساس بالرمل داخل عينه أم إن النظر إلى الضوء يؤلمه فعلًا؟ عندما تتصل طلبًا للمشورة، اذكر هذه التفاصيل وعمر الطفل وأي إصابة حديثة للعين. فهي تفيد أكثر من وصف لون الإفرازات وحده.",
+        "sections": [
+          {
+            "heading": "انتبه إلى ما يرافق الاحمرار",
+            "paragraphs": [
+              "التهاب الملتحمة هو التهاب الغشاء الرقيق الذي يغطي بياض العين ويبطن الجفنين. قد يرافق الزكام إفراز مائي وإحساس بالرمل في العين. وقد تؤدي العدوى البكتيرية إلى إفرازات سميكة تُلصق الجفنين. أما الحساسية فغالبًا ما تسبب حكة ودموعًا في كلتا العينين. تتداخل هذه الأنماط، ويمكن أن يحدث الاحمرار أيضًا بسبب تهيج أو إصابة أو مشكلة في القرنية، أي السطح الشفاف في مقدمة العين.",
+              "لاحظ متى بدأ الاحمرار وهل أصاب عينًا واحدة أم كلتيهما، واسأل عن أي رذاذ أو ضربة وعن استعمال العدسات اللاصقة. إذا احمرّت عين طفل يرتدي عدسات لاصقة، فانزع العدسات والتمس مشورة عاجلة في اليوم نفسه، إذ قد تهدد عدوى القرنية البصر. انتظر موافقة اختصاصي العيون قبل إعادة استعمال العدسات."
+            ]
+          },
+          {
+            "heading": "متى تحتاج العين إلى تقييم عاجل؟",
+            "paragraphs": [
+              "اطلب فحصًا عاجلًا للعين عند وجود ألم ملحوظ، أو صعوبة في النظر إلى الضوء، أو احمرار شديد، أو رؤية ضبابية تستمر بعد مسح الإفرازات. يستدعي فقدان البصر المفاجئ أو احتمال وجود إصابة اخترقت العين رعاية طارئة فورًا. تجنب الضغط على العين أو محاولة سحب جسم منغرس فيها. إذا تناثر منظف كيميائي داخلها، فابدأ فورًا بغسلها بكمية وافرة من الماء النظيف الفاتر بينما يتصل شخص آخر بالطوارئ أو بمركز السموم.",
+              "يحتاج المولود الحديث الذي احمرّت عينه أو خرجت منها إفرازات إلى فحص طبي فوري. كذلك يحتاج الرضيع دون ثلاثة أشهر إلى رعاية عاجلة إذا بلغت حرارته ٣٨ درجة مئوية أو أكثر. اطلب المشورة سريعًا إذا بدا الطفل مريضًا، أو رافق الاحمرار حمى أو طفح جلدي، أو كانت مناعته ضعيفة، أو تكررت الأعراض أو ساءت أو استمرت دون تحسن."
+            ]
+          },
+          {
+            "heading": "هل تساعد قطرة المضاد الحيوي؟",
+            "paragraphs": [
+              "لا تعالج المضادات الحيوية التهاب الملتحمة الناجم عن فيروس أو حساسية. وتتحسن بعض الحالات البكتيرية تلقائيًا فيما تستفيد حالات أخرى من قطرة أو مرهم بوصفة طبية. يراعي الطبيب عمر الطفل ونتيجة الفحص وكمية الإفرازات وعوامل الخطر. لا تتشارك القطرات مع غيرك ولا تستخدم ما تبقى من وصفة قديمة.",
+              "في تجربة بريطانية تلقى ٣٢٦ طفلًا بين ستة أشهر واثنتي عشرة سنة قطرة مضاد حيوي أو قطرة وهمية، بعد أن راجعوا عيادات الرعاية الأولية للاشتباه في التهاب ملتحمة معدٍ. ومن بين الأطفال الذين توفرت بيانات متابعتهم، كان نحو ٨٦٪ ممن استعملوا المضاد و٨٣٪ ممن استعملوا القطرة الوهمية قد تعافوا بحلول اليوم السابع. لم يظهر فرق واضح في ذلك الوقت. تخص النتائج هؤلاء المراجعين ولا تحدد علاج مولود حديث أو عدوى مرتبطة بالعدسات اللاصقة أو إصابة في العين."
+            ]
+          },
+          {
+            "heading": "تخفيف الانزعاج والحد من انتقال العدوى",
+            "paragraphs": [
+              "اغسل يديك قبل تنظيف الجفنين وبعده. امسح الإفراز الجاف برفق من الزاوية الداخلية للعين إلى الخارج بقطعة قطن نظيفة ورطبة. استخدم قطعة جديدة لكل مسحة وأخرى عند الانتقال إلى العين الثانية. قد تخفف كمادة نظيفة باردة التهيج. ساعد الطفل على غسل يديه بعد لمس عينيه، وخصّص له مناشف وأغطية وسائد وقطع قماش لغسل الوجه.",
+              "قد تنتقل الفيروسات والبكتيريا عبر الأيدي أو الأغراض التي لامست إفرازات العين. وبعض فيروسات الجهاز التنفسي تنتقل أيضًا مع السعال أو العطاس. أما التهاب الملتحمة التحسسي فغير معدٍ. اسأل عن قواعد الحضور في المدرسة أو الحضانة. راعِ وجود الحمى وقدرة الطفل على المشاركة في الأنشطة والاهتمام بالنظافة. موعد العودة وحده لا يحدد الحاجة إلى الدواء."
+            ]
+          }
+        ],
+        "takeaways": [
+          "تحقق من الألم والحساسية للضوء والرؤية إلى جانب القشور أو الإفرازات.",
+          "اطلب فحصًا فوريًا لمولود حديث احمرّت عينه أو خرجت منها إفرازات.",
+          "حافظ على نظافة اليدين وقطع التنظيف، واستخدم القطرة الموصوفة فقط للطفل الذي وُصفت له."
+        ],
+        "faq": [
+          {
+            "q": "كيف نمنع انتقال العدوى من العين الحمراء؟",
+            "a": "إذا كان السبب عدوى، فاغسلوا أيديكم وامسحوا الإفرازات بقطعة جديدة كل مرة وتجنبوا مشاركة المناشف أو القطرات. ساعدوا الطفل على تجنب فرك عينيه. الحساسية لا تنتقل إلى شخص آخر."
+          },
+          {
+            "q": "متى أتصل بالطبيب؟",
+            "a": "اطلب المشورة سريعًا إذا ساءت الأعراض أو تكررت، أو ظهرت حمى أو طفح، أو شعر الطفل بالمرض أو كانت مناعته ضعيفة. يحتاج المولود الحديث الذي تظهر عليه أعراض عينية إلى فحص فوري. ويستدعي الألم أو الحساسية للضوء أو استمرار تشوش الرؤية رعاية عاجلة."
+          },
+          {
+            "q": "هل تعني الإفرازات اللزجة أن طفلي يحتاج مضادًا حيويًا؟",
+            "a": "قد تظهر في العدوى البكتيرية، لكن مظهرها وحده لا يحسم السبب. يستطيع الطبيب تقدير فائدة قطرة أو مرهم يحتوي على مضاد حيوي. لا يقصّر المضاد الحيوي مدة العدوى الفيروسية."
+          },
+          {
+            "q": "متى يكون احمرار العين حالة طارئة؟",
+            "a": "فقدان البصر المفاجئ والاشتباه في إصابة اخترقت العين والتعرض لرذاذ كيميائي خطير حالات طارئة. إذا دخلت مادة كيميائية العين، فابدأ فورًا بغسلها بكمية وافرة من الماء النظيف واحصل على مساعدة طارئة. لا تخرج جسمًا منغرسًا في العين."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "اذكر للطبيب عمر الطفل، وأي إصابة أو رذاذ، واستخدام العدسات اللاصقة، والألم، وأي تغير في النظر.",
+            "استخدم قطعة جديدة لكل مسحة واغسل يديك قبل التنظيف وبعده.",
+            "اسأل متى يلزم فحص العين مجددًا إذا لم تتحسن."
+          ],
+          "bemama": "تقترح بي ماما ملاحظة ما يستطيع الطفل رؤيته بعد تنظيف الرموش، وهل يؤلمه الضوء، ثم نقل هذه المعلومات إلى الطبيب عند وصف الإفرازات.",
+          "safety": "اطلب تقييمًا عاجلًا للعين في حال الألم أو الحساسية للضوء أو استمرار ضبابية الرؤية. اطلب الرعاية الطارئة فورًا عند فقدان البصر فجأة أو احتمال إصابة اخترقت العين. إذا تناثرت مادة كيميائية في العين، فابدأ غسلها فورًا بالتزامن مع طلب مساعدة طارئة. يحتاج المولود الحديث الذي احمرّت عينه أو خرجت منها إفرازات إلى فحص طبي فوري.",
+          "sources": [
+            {
+              "organization": "مستشفى الأطفال الملكي في ملبورن",
+              "title": "احمرار العين الحاد عند الأطفال",
+              "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acute_red_eye/"
+            },
+            {
+              "organization": "المراكز الأمريكية لمكافحة الأمراض والوقاية منها",
+              "title": "متى وكيف يُعالج التهاب الملتحمة؟",
+              "url": "https://www.cdc.gov/conjunctivitis/treatment/"
+            },
+            {
+              "organization": "روز وزملاؤه، مجلة ذا لانسيت",
+              "title": "قطرات المضاد الحيوي مقارنة بالقطرات الوهمية للأطفال في الرعاية الأولية",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/15993231/"
+            },
+            {
+              "organization": "مستشفى الأطفال الملكي في ملبورن",
+              "title": "الرعاية العاجلة لإصابات العين الحادة",
+              "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acute_eye_injury/"
+            },
+            {
+              "organization": "الأكاديمية الأمريكية لطب الأطفال",
+              "title": "الحضور إلى المدرسة أو الحضانة عند إصابة الطفل بالتهاب الملتحمة",
+              "url": "https://www.healthychildren.org/English/tips-tools/ask-the-pediatrician/Pages/Do-I-need-to-keep-my-son-home-if-he-has-pinkeye.aspx"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Œil rouge chez l’enfant : quels signes sont urgents ?",
+        "description": "Que peut indiquer un œil rouge qui colle, gratte ou pleure chez l’enfant ? Voyez quand des gouttes antibiotiques sont utiles et quels signes sont urgents.",
+        "intro": "Votre enfant se réveille avec des croûtes sur les cils. Après un nettoyage doux, voit-il normalement ? A-t-il une sensation de grains de sable, ou la lumière lui fait-elle vraiment mal ? Au téléphone, ces précisions, son âge et une éventuelle blessure récente sont plus utiles que la seule couleur des sécrétions.",
+        "sections": [
+          {
+            "heading": "Regarder au-delà de la rougeur",
+            "paragraphs": [
+              "La conjonctivite est une inflammation de la fine membrane qui recouvre le blanc de l’œil et l’intérieur des paupières. Un rhume peut s’accompagner de larmoiement et d’une sensation de sable. Une infection bactérienne peut produire des sécrétions épaisses qui collent les paupières. Une allergie fait souvent démanger et pleurer les deux yeux. Ces manifestations peuvent se ressembler. Une irritation, une blessure ou une affection de la surface transparente à l’avant de l’œil peuvent aussi le faire rougir.",
+              "Notez si la rougeur a commencé d’un côté ou des deux, depuis quand, s’il y a eu un choc ou une projection et si l’enfant porte des lentilles. En cas d’œil rouge chez un porteur de lentilles, retirez-les et demandez un avis urgent le jour même, car une infection de la cornée peut menacer la vision. Ne les remettez qu’après avis d’un professionnel de la vue."
+            ]
+          },
+          {
+            "heading": "Quand faire évaluer l’œil en urgence ?",
+            "paragraphs": [
+              "Demandez un avis ophtalmologique urgent en cas de douleur importante, de difficulté à supporter la lumière, de rougeur intense ou de vision floue qui persiste après avoir essuyé les sécrétions. Une perte brutale de la vue ou une possible plaie pénétrante nécessite des soins d’urgence immédiats. N’appuyez pas sur l’œil et n’essayez pas de retirer un objet planté dedans. En cas de projection de produit ménager chimique, commencez tout de suite à rincer abondamment à l’eau propre tiède pendant qu’une autre personne appelle les secours ou le centre antipoison.",
+              "Une rougeur ou des sécrétions oculaires chez un nouveau-né nécessitent une évaluation médicale immédiate. Un nourrisson de moins de trois mois qui a une température de 38 °C ou plus doit également être vu en urgence. Demandez rapidement conseil si l’enfant paraît malade, a de la fièvre ou une éruption cutanée avec l’œil rouge, si ses défenses immunitaires sont affaiblies ou si les symptômes reviennent, s’aggravent ou ne s’améliorent pas."
+            ]
+          },
+          {
+            "heading": "Un collyre antibiotique pourrait-il aider ?",
+            "paragraphs": [
+              "Les antibiotiques ne traitent pas une conjonctivite virale ou allergique. Certaines infections bactériennes guérissent sans eux, tandis que d’autres peuvent bénéficier d’un collyre ou d’une pommade prescrits. Le soignant tient compte de l’âge, de l’examen, de l’abondance des sécrétions et des facteurs de risque. Ne partagez pas les gouttes et ne réutilisez pas une ancienne ordonnance.",
+              "Dans un essai britannique, 326 enfants de six mois à douze ans vus en médecine générale pour une suspicion de conjonctivite infectieuse ont reçu par tirage au sort des gouttes antibiotiques ou un placebo. Parmi les participants suivis, environ 86 % du groupe antibiotique et 83 % du groupe placebo étaient guéris au septième jour. L’étude n’a pas mis en évidence de différence nette à cette date. Ces résultats concernent ces enfants suivis en médecine générale et ne guident pas le traitement d’un nouveau-né, d’une infection liée aux lentilles ou d’un traumatisme oculaire."
+            ]
+          },
+          {
+            "heading": "Soulager l’inconfort et limiter les transmissions",
+            "paragraphs": [
+              "Lavez-vous les mains avant et après le nettoyage des paupières. Enlevez doucement les sécrétions séchées avec une compresse propre et humide, du coin interne vers l’extérieur. Prenez une compresse neuve à chaque passage et pour l’autre œil. Une compresse fraîche et propre peut apaiser l’irritation. Aidez l’enfant à se laver les mains après avoir touché ses yeux. Utilisez des serviettes, gants de toilette et taies d’oreiller individuels.",
+              "Les causes virales ou bactériennes peuvent se transmettre par les mains ou les objets souillés de sécrétions oculaires. Certains virus respiratoires circulent aussi avec la toux ou les éternuements. La conjonctivite allergique n’est pas contagieuse. Pour l’école ou la crèche, vérifiez les consignes locales et tenez compte d’une éventuelle fièvre, de la capacité de l’enfant à participer et à respecter les gestes d’hygiène. Une date de retour ne permet pas à elle seule de décider d’un traitement."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Vérifiez la douleur, la sensibilité à la lumière et la vision en plus des croûtes ou des sécrétions.",
+          "Faites évaluer immédiatement un nouveau-né dont l’œil est rouge ou présente des sécrétions.",
+          "Gardez les mains et les compresses propres et réservez le collyre à l’enfant pour qui il a été prescrit."
+        ],
+        "faq": [
+          {
+            "q": "Comment éviter de transmettre l’infection ?",
+            "a": "Si la cause est infectieuse, lavez les mains, prenez une compresse neuve à chaque passage et évitez de partager serviettes ou collyres. Aidez l’enfant à ne pas se frotter les yeux. Une allergie ne se transmet pas."
+          },
+          {
+            "q": "Quand contacter un soignant ?",
+            "a": "Demandez rapidement conseil si les symptômes empirent ou reviennent, s’il y a fièvre ou éruption, si l’enfant paraît malade ou si son immunité est affaiblie. Un nouveau-né présentant des symptômes doit être vu immédiatement. Douleur, sensibilité à la lumière ou vision qui reste floue nécessitent une évaluation urgente."
+          },
+          {
+            "q": "Des sécrétions collantes indiquent-elles un besoin d’antibiotiques ?",
+            "a": "Elles peuvent accompagner une infection bactérienne, mais leur aspect seul ne suffit pas à conclure. Le soignant peut décider si des gouttes ou une pommade antibiotiques seraient utiles. Les antibiotiques ne raccourcissent pas une infection virale."
+          },
+          {
+            "q": "Dans quel cas faut-il aller aux urgences ?",
+            "a": "Une perte brutale de la vue, une possible plaie pénétrante ou une projection chimique importante sont des urgences. Rincez immédiatement toute projection chimique avec beaucoup d’eau propre tout en demandant de l’aide en urgence. Laissez en place tout objet planté dans l’œil."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Indiquez l’âge de l’enfant, un choc ou une projection, le port de lentilles, la douleur et toute modification de la vision.",
+            "Utilisez une compresse neuve à chaque passage et lavez vos mains avant et après.",
+            "Demandez quand faire contrôler l’œil si les symptômes persistent."
+          ],
+          "bemama": "BeMama propose de noter ce que voit l’enfant une fois ses cils nettoyés et si la lumière lui fait mal, puis de préciser ces points en décrivant les sécrétions.",
+          "safety": "Demandez un avis ophtalmologique urgent en cas de douleur, de sensibilité à la lumière ou de vision floue persistante. Une perte brutale de la vue ou une possible plaie pénétrante relève des urgences. Rincez immédiatement une projection chimique pendant que vous demandez de l’aide. Un œil rouge ou présentant des sécrétions chez un nouveau-né nécessite une évaluation immédiate.",
+          "sources": [
+            {
+              "organization": "Hôpital royal pour enfants de Melbourne",
+              "title": "Œil rouge aigu de l’enfant",
+              "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acute_red_eye/"
+            },
+            {
+              "organization": "Centres américains de contrôle et de prévention des maladies",
+              "title": "Quand et comment traiter la conjonctivite",
+              "url": "https://www.cdc.gov/conjunctivitis/treatment/"
+            },
+            {
+              "organization": "Rose et ses collègues, The Lancet",
+              "title": "Collyre antibiotique ou placebo chez les enfants suivis en médecine générale",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/15993231/"
+            },
+            {
+              "organization": "Hôpital royal pour enfants de Melbourne",
+              "title": "Prise en charge urgente d’un traumatisme oculaire aigu",
+              "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acute_eye_injury/"
+            },
+            {
+              "organization": "Académie américaine de pédiatrie",
+              "title": "École et accueil de la petite enfance en cas de conjonctivite",
+              "url": "https://www.healthychildren.org/English/tips-tools/ask-the-pediatrician/Pages/Do-I-need-to-keep-my-son-home-if-he-has-pinkeye.aspx"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Çocuklarda göz kızarıklığı ne zaman acil değerlendirme gerektirir?",
+        "description": "Çocuğun gözünde kaşıntı, sulanma veya çapak neden olur? Antibiyotikli damlanın ne zaman işe yaradığını ve hangi belirtilerde acil yardım gerektiğini öğrenin.",
+        "intro": "Çocuğunuz sabah kirpikleri çapaklanmış olarak uyandı. Kirpiklerini nazikçe temizledikten sonra normal görebiliyor mu? Gözüne kum kaçmış gibi mi hissediyor, yoksa ışığa bakmak gerçekten canını mı yakıyor? Sağlık ekibini ararken bunları, çocuğun yaşını ve yakın zamanda gözüne bir darbe alıp almadığını anlatmanız, yalnızca akıntının rengini söylemekten daha yararlıdır.",
+        "sections": [
+          {
+            "heading": "Kızarıklığa eşlik eden belirtilere bakın",
+            "paragraphs": [
+              "Konjonktivit, gözün beyaz kısmını ve göz kapaklarının içini örten ince zarın iltihaplanmasıdır. Soğuk algınlığında gözde sulu akıntı ve batma olabilir. Bakteriyel enfeksiyonda koyu kıvamlı akıntı kapakları birbirine yapıştırabilir. Alerjide çoğunlukla iki göz de kaşınır ve sulanır. Bu belirtiler birbirine benzeyebilir. Tahriş, yaralanma veya gözün önündeki saydam tabakada bir sorun da kızarıklık yapabilir.",
+              "Kızarıklığın ne zaman, tek gözde mi iki gözde mi başladığına dikkat edin. Göze bir şey sıçradı mı, darbe oldu mu, çocuk kontakt lens kullanıyor mu? Kontakt lens kullanan çocukta göz kızarırsa lensleri çıkarın ve aynı gün acilen bir sağlık uzmanına danışın. Kornea enfeksiyonu görmeyi tehdit edebilir. Göz sağlığı uzmanı yeniden kullanabileceğini söyleyene kadar lensleri takmayın."
+            ]
+          },
+          {
+            "heading": "Hangi belirtilerde beklememeli?",
+            "paragraphs": [
+              "Belirgin ağrı, ışığa bakmakta güçlük, yoğun kızarıklık veya akıntıyı sildikten sonra süren bulanık görme varsa acilen göz muayenesi gerekir. Görme aniden kaybolursa veya gözü delen bir yaralanmadan şüpheleniyorsanız hemen acil yardım alın. Göze bastırmayın, göze saplanmış bir cismi çıkarmaya çalışmayın. Göze bir temizlik maddesi sıçrarsa, başka biri acil yardım veya zehir danışma merkezini ararken gözü derhal bol, temiz ve ılık suyla yıkamaya başlayın.",
+              "Yenidoğanda göz kızarıklığı veya akıntısı derhal tıbbi değerlendirme gerektirir. Üç aydan küçük bir bebekte ateş 38 °C veya üzerindeyse de acilen tıbbi yardım alın. Çocuk hasta görünüyorsa, göz kızarıklığına ateş veya döküntü eşlik ediyorsa, bağışıklığı zayıfsa ya da belirtiler tekrarlıyor, kötüleşiyor veya düzelmiyorsa gecikmeden sağlık ekibine danışın."
+            ]
+          },
+          {
+            "heading": "Antibiyotikli damlanın yararı olur mu?",
+            "paragraphs": [
+              "Antibiyotikler virüse veya alerjiye bağlı konjonktiviti tedavi etmez. Bazı bakteriyel enfeksiyonlar kendiliğinden düzelirken bazılarında reçeteli damla veya merhem işe yarayabilir. Hekim çocuğun yaşını, muayene bulgularını, akıntının miktarını ve risk etkenlerini değerlendirir. Başkasının damlasını veya eski bir reçeteden kalan ilacı kullanmayın.",
+              "Birleşik Krallık’ta aile hekimliğine enfeksiyöz konjonktivit şüphesiyle başvuran, altı ay ile on iki yaş arasındaki 326 çocuğa bir araştırmada antibiyotikli damla veya plasebo verildi. İzlem bilgisi bulunan çocuklar arasında yedinci günde iyileşenlerin oranı antibiyotik grubunda yaklaşık %86, plasebo grubunda %83’tü. Çalışma bu tarihte net bir fark göstermedi. Sonuçlar bu birinci basamak hastalarıyla ilgilidir. Yenidoğanların, kontakt lensle ilişkili enfeksiyonların veya göz yaralanmalarının tedavisini belirlemez."
+            ]
+          },
+          {
+            "heading": "Rahatlatmak ve bulaşmayı azaltmak için",
+            "paragraphs": [
+              "Göz kapaklarını temizlemeden önce ve sonra ellerinizi yıkayın. Kurumuş akıntıyı temiz, nemli bir pedle gözün iç köşesinden dışarı doğru nazikçe silin. Her silmede ve diğer göze geçerken yeni bir ped kullanın. Temiz ve serin bir kompres tahrişi hafifletebilir. Çocuğa gözlerine dokunduktan sonra ellerini yıkamasında yardımcı olun. Havluları, yastık kılıflarını ve yüz bezlerini ayırın.",
+              "Virüsler ve bakteriler göz salgısına temas eden eller veya eşyalarla yayılabilir. Bazı solunum yolu virüsleri öksürük ve hapşırıkla da yayılır. Alerjik konjonktivit bulaşıcı değildir. Okul veya kreşin devam kurallarını öğrenin. Çocuğun ateşi var mı, etkinliklere katılabilecek kadar iyi mi ve temizliğine dikkat edebiliyor mu, bunları göz önünde bulundurun. Tek başına okula dönüş tarihi ilaç gerekip gerekmediğini belirlemez."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Çapak ve akıntının yanı sıra ağrıyı, ışığa duyarlılığı ve görmeyi kontrol edin.",
+          "Yenidoğanda göz kızarıklığı veya akıntısı varsa derhal tıbbi değerlendirme sağlayın.",
+          "Ellerinizi ve kullandığınız pedleri temiz tutun. Reçeteli damlayı yalnızca adına reçete edilen çocukta kullanın."
+        ],
+        "faq": [
+          {
+            "q": "Gözdeki enfeksiyonun yayılmasını nasıl önleyebiliriz?",
+            "a": "Neden enfeksiyonsa ellerinizi yıkayın, akıntıyı her defasında yeni bir pedle silin ve havluları veya damlaları paylaşmayın. Çocuğa gözlerini ovuşturmaması için yardımcı olun. Alerji başkasına bulaşmaz."
+          },
+          {
+            "q": "Ne zaman bir sağlık uzmanına başvurmalıyım?",
+            "a": "Belirtiler kötüleşiyor veya tekrarlıyorsa, ateş veya döküntü varsa, çocuk kendini hasta hissediyorsa ya da bağışıklığı zayıfsa gecikmeden danışın. Yenidoğanda belirti varsa derhal değerlendirme gerekir. Ağrı, ışığa duyarlılık veya geçmeyen bulanık görme için acil muayene gerekir."
+          },
+          {
+            "q": "Yapışkan akıntı çocuğumun antibiyotiğe ihtiyacı olduğunu mu gösterir?",
+            "a": "Bakteriyel enfeksiyonda görülebilir, ancak tek başına görünüm nedeni kesinleştirmez. Hekim antibiyotikli damla veya merhemin işe yarayıp yaramayacağına karar verebilir. Antibiyotik virüs kaynaklı enfeksiyonun süresini kısaltmaz."
+          },
+          {
+            "q": "Göz kızarıklığı hangi durumda acildir?",
+            "a": "Ani görme kaybı, gözde delinme şüphesi veya ciddi bir kimyasal sıçrama acil durumdur. Kimyasal sıçradığında acil yardım isterken gözü hemen bol temiz suyla yıkamaya başlayın. Göze saplanmış cismi çıkarmayın."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtların gözden geçirilme tarihi 16 Kasım 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Sağlık uzmanına çocuğun yaşını, darbe veya sıçrama olup olmadığını, kontakt lens kullanımını, ağrıyı ve görme değişikliklerini anlatın.",
+            "Her silmede yeni bir ped kullanın. İşlemden önce ve sonra ellerinizi yıkayın.",
+            "Göz düzelmezse ne zaman yeniden muayene gerektiğini sorun."
+          ],
+          "bemama": "BeMama, kirpikler temizlendikten sonra çocuğun ne kadar net görebildiğini ve ışığın ağrı yapıp yapmadığını gözlemlemenizi, akıntıyı tarif ederken bu bilgileri de paylaşmanızı önerir.",
+          "safety": "Ağrı, ışığa duyarlılık veya geçmeyen bulanık görme için acilen göz muayenesi gerekir. Ani görme kaybı veya gözü delen yaralanma şüphesinde hemen acil yardım alın. Kimyasal sıçrarsa acil yardım isterken yıkamaya hemen başlayın. Yenidoğanda kızarıklık veya akıntı derhal tıbbi değerlendirme gerektirir.",
+          "sources": [
+            {
+              "organization": "Melbourne Kraliyet Çocuk Hastanesi",
+              "title": "Çocuklarda akut göz kızarıklığı",
+              "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acute_red_eye/"
+            },
+            {
+              "organization": "ABD Hastalık Kontrol ve Önleme Merkezleri",
+              "title": "Konjonktivit ne zaman ve nasıl tedavi edilir?",
+              "url": "https://www.cdc.gov/conjunctivitis/treatment/"
+            },
+            {
+              "organization": "Rose ve çalışma arkadaşları, The Lancet",
+              "title": "Birinci basamakta çocuklara verilen antibiyotikli ve plasebo göz damlalarının karşılaştırılması",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/15993231/"
+            },
+            {
+              "organization": "Melbourne Kraliyet Çocuk Hastanesi",
+              "title": "Akut göz yaralanmalarında acil bakım",
+              "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acute_eye_injury/"
+            },
+            {
+              "organization": "Amerikan Pediatri Akademisi",
+              "title": "Konjonktiviti olan çocuklarda okula veya kreşe devam",
+              "url": "https://www.healthychildren.org/English/tips-tools/ask-the-pediatrician/Pages/Do-I-need-to-keep-my-son-home-if-he-has-pinkeye.aspx"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Ojo rojo en un niño: qué señales necesitan atención urgente",
+        "description": "Qué puede significar un ojo rojo con legañas, picor o lagrimeo en un niño, cuándo ayudan los antibióticos y qué cambios de dolor o visión requieren atención.",
+        "intro": "Un niño se despierta con costras en las pestañas. Una vez que las limpias con suavidad, ¿ve bien? ¿Nota arenilla o le duele de verdad mirar hacia la luz? Al pedir consejo, esos detalles, la edad del niño y cualquier lesión reciente son más útiles que el color de la secreción por sí solo.",
+        "sections": [
+          {
+            "heading": "Observa algo más que el color",
+            "paragraphs": [
+              "La conjuntivitis es la inflamación de la membrana fina que cubre la parte blanca del ojo y el interior de los párpados. Un resfriado puede acompañarse de lagrimeo y sensación de arenilla. Una infección bacteriana puede producir secreción espesa que pega los párpados. Las alergias suelen causar picor y lagrimeo en ambos ojos. Estos patrones se solapan. También puede haber enrojecimiento por irritación, una lesión o un problema de la superficie transparente de la parte delantera del ojo.",
+              "Comprueba si empezó en un ojo o en ambos, cuándo fue y si hubo una salpicadura, un golpe o uso de lentes de contacto. Un niño con ojo rojo que usa lentes de contacto debe quitárselas y recibir consejo urgente ese mismo día, pues una infección de la córnea puede amenazar la vista. Deja de usarlas hasta que un profesional de la visión indique que puede retomarlas."
+            ]
+          },
+          {
+            "heading": "Cuándo necesita valoración urgente",
+            "paragraphs": [
+              "Busca atención oftalmológica urgente si hay dolor importante, molestia intensa con la luz, enrojecimiento intenso o visión borrosa que persiste tras limpiar la secreción. La pérdida súbita de visión o una posible lesión penetrante requiere atención de emergencia inmediata. No presiones el ojo ni intentes extraer un objeto clavado. Si salpica un producto químico de limpieza, empieza a enjuagar enseguida con abundante agua limpia templada mientras otra persona llama a emergencias o a toxicología.",
+              "Un recién nacido con enrojecimiento o secreción ocular necesita valoración médica inmediata. Un bebé menor de tres meses con una temperatura de 38 °C o más también necesita atención urgente. Consulta pronto si el niño parece enfermo, tiene fiebre o sarpullido junto con el ojo rojo, tiene las defensas bajas o los síntomas reaparecen, empeoran o no mejoran."
+            ]
+          },
+          {
+            "heading": "¿Cuándo pueden ayudar unas gotas antibióticas?",
+            "paragraphs": [
+              "Los antibióticos no tratan una conjuntivitis viral o alérgica. Algunas conjuntivitis bacterianas se resuelven sin ellos y en otras ayudan unas gotas o una pomada recetadas. El profesional valora la edad, la exploración, la cantidad de secreción y los factores de riesgo. No compartas colirios ni uses restos de una receta anterior.",
+              "En un ensayo británico se asignaron gotas antibióticas o placebo a 326 niños de entre seis meses y doce años atendidos en atención primaria por sospecha de conjuntivitis infecciosa. Entre quienes completaron el seguimiento, alrededor del 86 % de los que recibieron antibiótico y el 83 % de los que recibieron placebo se habían recuperado al séptimo día. No se observó una diferencia clara en ese momento. Esos resultados se refieren a los niños del estudio y no determinan el tratamiento de un recién nacido, de una infección relacionada con lentes de contacto o de una lesión ocular."
+            ]
+          },
+          {
+            "heading": "Aliviar las molestias y reducir el contagio",
+            "paragraphs": [
+              "Lávate las manos antes y después de limpiar los párpados. Pasa con suavidad una gasa limpia humedecida desde el ángulo interno hacia fuera para retirar la secreción seca. Usa una gasa nueva en cada pasada y para el otro ojo. Una compresa limpia y fresca puede aliviar la irritación. Ayuda al niño a lavarse las manos después de tocarse los ojos. Usad toallas, fundas de almohada y paños separados.",
+              "Los virus y bacterias pueden pasar de una persona a otra por las manos o por objetos que tocan las secreciones. Algunos virus respiratorios se propagan también con la tos o los estornudos. La conjuntivitis alérgica no se contagia. Para la escuela o la guardería, consulta las normas locales y ten en cuenta si el niño tiene fiebre, si se encuentra en condiciones de participar y si puede mantener la higiene. Una fecha de regreso no determina por sí sola la necesidad de medicación."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Además de las costras o la secreción, comprueba si hay dolor, sensibilidad a la luz o cambios en la visión.",
+          "Solicita valoración inmediata si un recién nacido tiene el ojo rojo o con secreción.",
+          "Mantén limpias las manos y las gasas y usa las gotas recetadas solo en el niño para quien se indicaron."
+        ],
+        "faq": [
+          {
+            "q": "¿Cómo evitamos que se contagie?",
+            "a": "Si la causa es infecciosa, lavaos las manos, limpia con una gasa nueva en cada pasada y evita compartir toallas o gotas. Ayuda al niño a no frotarse los ojos. La alergia no se transmite."
+          },
+          {
+            "q": "¿Cuándo debo contactar con un profesional?",
+            "a": "Consulta pronto ante síntomas que empeoran o reaparecen, fiebre o sarpullido, mal estado general o defensas bajas. Un recién nacido con síntomas requiere valoración inmediata. El dolor, la sensibilidad a la luz o la visión borrosa persistente necesitan atención urgente."
+          },
+          {
+            "q": "¿Las legañas pegajosas significan que necesita antibióticos?",
+            "a": "Pueden aparecer con una infección bacteriana, pero su aspecto no basta para identificarla. El profesional decidirá si convienen unas gotas o una pomada antibióticas. Los antibióticos no acortan una infección viral."
+          },
+          {
+            "q": "¿Cuándo es una emergencia un ojo rojo?",
+            "a": "La pérdida súbita de visión, una posible lesión penetrante o una salpicadura química importante son emergencias. Empieza a enjuagar la salpicadura de inmediato con abundante agua limpia mientras pides atención de emergencia. No saques un objeto clavado en el ojo."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Di la edad del niño y si hubo un golpe o salpicadura, uso de lentes de contacto, dolor o cambios en la visión.",
+            "Usa una gasa nueva cada vez y lávate las manos antes y después.",
+            "Pregunta cuándo hay que revisar el ojo si no mejora."
+          ],
+          "bemama": "BeMama sugiere comprobar qué ve el niño tras limpiar las pestañas y si le molesta la luz, y contarlo junto con las características de la secreción.",
+          "safety": "Busca atención ocular urgente por dolor, sensibilidad a la luz o visión borrosa persistente. Solicita atención de emergencia por pérdida súbita de visión o posible lesión penetrante. Enjuaga una salpicadura química de inmediato mientras pides ayuda de emergencia. Un recién nacido con ojo rojo o secreción necesita valoración inmediata.",
+          "sources": [
+            {
+              "organization": "Hospital Infantil Real de Melbourne",
+              "title": "Ojo rojo agudo en niños",
+              "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acute_red_eye/"
+            },
+            {
+              "organization": "Centros para el Control y la Prevención de Enfermedades",
+              "title": "Cuándo y cómo tratar la conjuntivitis",
+              "url": "https://www.cdc.gov/conjunctivitis/treatment/"
+            },
+            {
+              "organization": "Rose y colaboradores, The Lancet",
+              "title": "Colirio antibiótico frente a placebo en niños atendidos en atención primaria",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/15993231/"
+            },
+            {
+              "organization": "Hospital Infantil Real de Melbourne",
+              "title": "Atención urgente de las lesiones oculares agudas",
+              "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acute_eye_injury/"
+            },
+            {
+              "organization": "Academia Estadounidense de Pediatría",
+              "title": "Asistencia a la escuela o guardería de un niño con conjuntivitis",
+              "url": "https://www.healthychildren.org/English/tips-tools/ask-the-pediatrician/Pages/Do-I-need-to-keep-my-son-home-if-he-has-pinkeye.aspx"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Olho vermelho na criança: quando procurar atendimento urgente?",
+        "description": "Saiba o que pode causar coceira, secreção ou lacrimejamento no olho da criança, quando o colírio antibiótico ajuda e quais sinais exigem atendimento urgente.",
+        "intro": "Seu filho acordou com crostas nos cílios. Depois de limpá-las com cuidado, ele enxerga normalmente? Sente uma irritação, como se houvesse areia no olho, ou sente dor de verdade ao olhar para a luz? Ao pedir orientação, informe esses detalhes, a idade da criança e se houve alguma lesão recente. A cor da secreção, sozinha, diz pouco.",
+        "sections": [
+          {
+            "heading": "Observe outros sinais além da vermelhidão",
+            "paragraphs": [
+              "A conjuntivite é uma inflamação da membrana fina que recobre a parte branca do olho e o interior das pálpebras. Um resfriado pode vir acompanhado de secreção aquosa e sensação de areia. Infecções bacterianas podem produzir secreção espessa que gruda as pálpebras. Nas alergias, os dois olhos costumam coçar e lacrimejar. Os sintomas se confundem. Irritação, lesão ou um problema na córnea, a parte transparente da frente do olho, também podem causar vermelhidão.",
+              "Observe quando começou, se atingiu um ou ambos os olhos e se houve uma pancada, respingo ou uso de lentes de contato. Se a criança usa lentes e está com o olho vermelho, retire as lentes e procure orientação urgente ainda hoje. Uma infecção na córnea pode comprometer a visão. Aguarde a liberação de um profissional de saúde ocular para voltar a usá-las."
+            ]
+          },
+          {
+            "heading": "Quando procurar avaliação urgente",
+            "paragraphs": [
+              "Procure atendimento ocular urgente se houver dor importante, incômodo intenso com a luz, vermelhidão intensa ou visão embaçada que continua depois de limpar a secreção. Perda súbita da visão ou suspeita de lesão que perfurou o olho exige atendimento de emergência imediato. Evite pressionar o olho ou tentar retirar um objeto encravado. Se um produto de limpeza atingir o olho, comece a lavá-lo imediatamente com bastante água limpa e morna enquanto outra pessoa liga para a emergência ou o centro de intoxicações.",
+              "Um recém-nascido com vermelhidão ou secreção no olho precisa de avaliação médica imediata. Um bebê com menos de três meses e temperatura de 38 °C ou mais também precisa de atendimento urgente. Peça orientação prontamente se a criança parecer doente, tiver febre ou manchas na pele junto com o olho vermelho, tiver a imunidade comprometida ou se os sintomas voltarem, piorarem ou persistirem sem melhora."
+            ]
+          },
+          {
+            "heading": "O colírio antibiótico ajudaria?",
+            "paragraphs": [
+              "Antibióticos não tratam conjuntivite viral ou alérgica. Algumas conjuntivites bacterianas melhoram sozinhas. Em outras, o médico pode indicar colírio ou pomada antibiótica. A decisão depende da idade, do exame, da quantidade de secreção e dos fatores de risco. Não compartilhe colírios nem use sobras de receitas anteriores.",
+              "Em um ensaio britânico, 326 crianças de seis meses a doze anos com suspeita de conjuntivite infecciosa atendidas na atenção primária receberam colírio antibiótico ou placebo. Entre as crianças acompanhadas, cerca de 86% das que usaram antibiótico e 83% das que usaram placebo tinham se recuperado no sétimo dia. Nesse momento, o estudo não encontrou diferença clara entre os grupos. Esses resultados se referem às crianças estudadas e não orientam o tratamento de recém-nascidos, infecções associadas a lentes de contato ou lesões no olho."
+            ]
+          },
+          {
+            "heading": "Como aliviar o desconforto e evitar a transmissão",
+            "paragraphs": [
+              "Lave as mãos antes e depois de limpar as pálpebras. Com uma compressa limpa e úmida, retire delicadamente a secreção seca do canto interno para fora. Use uma compressa nova a cada passada e ao trocar de olho. Uma compressa limpa e fria pode aliviar a irritação. Ajude a criança a lavar as mãos depois de tocar nos olhos. Separe toalhas, fronhas e panos de rosto.",
+              "Vírus e bactérias podem passar pelas mãos ou por objetos que entram em contato com a secreção. Alguns vírus respiratórios também se espalham pela tosse ou pelos espirros. A conjuntivite alérgica não é contagiosa. Consulte as regras locais da creche ou da escola. Veja se a criança tem febre, se está disposta para participar e se consegue cuidar da higiene. A data de retorno, por si só, não define se ela precisa de medicamento."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Além das crostas ou da secreção, verifique se há dor, sensibilidade à luz ou alteração da visão.",
+          "Procure avaliação imediata para um recém-nascido com olho vermelho ou secreção ocular.",
+          "Mantenha mãos e compressas limpas e use o colírio prescrito apenas na criança para quem ele foi indicado."
+        ],
+        "faq": [
+          {
+            "q": "Como evitar que outras pessoas peguem conjuntivite?",
+            "a": "Nos casos infecciosos, lave as mãos, use uma compressa nova a cada passada e evite compartilhar toalhas ou colírios. Ajude a criança a não esfregar os olhos. As alergias não passam de uma pessoa para outra."
+          },
+          {
+            "q": "Quando devo falar com um profissional de saúde?",
+            "a": "Peça orientação prontamente se os sintomas piorarem ou voltarem, se houver febre ou manchas na pele, se a criança parecer doente ou tiver baixa imunidade. Um recém-nascido com sintomas precisa de avaliação imediata. Dor, sensibilidade à luz ou visão embaçada persistente exigem atendimento urgente."
+          },
+          {
+            "q": "Se a secreção gruda, meu filho precisa de antibiótico?",
+            "a": "Isso pode acontecer em uma infecção bacteriana, mas só a aparência não define a causa. O profissional que examinar a criança poderá avaliar se vale a pena usar colírio ou pomada antibiótica. Antibióticos não encurtam uma infecção viral."
+          },
+          {
+            "q": "Quando o olho vermelho é uma emergência?",
+            "a": "Perda súbita da visão, suspeita de perfuração ou um respingo químico grave exigem atendimento de emergência. Quando um produto químico atingir o olho, comece imediatamente a lavar com bastante água limpa enquanto busca orientação de emergência. Não retire um objeto encravado no olho."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Informe a idade da criança, lesões ou respingos, uso de lentes de contato, dor e alterações na visão.",
+            "Use uma compressa nova a cada passada e lave as mãos antes e depois.",
+            "Pergunte quando voltar para reavaliação se o olho não melhorar."
+          ],
+          "bemama": "A BeMama sugere observar o que a criança consegue enxergar depois da limpeza dos cílios e se a luz causa dor. Relate essas informações junto com as características da secreção.",
+          "safety": "Procure avaliação ocular urgente em caso de dor, sensibilidade à luz ou visão embaçada persistente. Perda súbita da visão ou suspeita de perfuração exige atendimento de emergência imediato. Se um produto químico respingar no olho, comece a lavar imediatamente enquanto busca orientação de emergência. Um recém-nascido com olho vermelho ou secreção precisa de avaliação médica imediata.",
+          "sources": [
+            {
+              "organization": "Hospital Real da Criança de Melbourne",
+              "title": "Olho vermelho agudo em crianças",
+              "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acute_red_eye/"
+            },
+            {
+              "organization": "Centros de Controle e Prevenção de Doenças dos Estados Unidos",
+              "title": "Quando e como tratar a conjuntivite",
+              "url": "https://www.cdc.gov/conjunctivitis/treatment/"
+            },
+            {
+              "organization": "Rose e colaboradores, The Lancet",
+              "title": "Colírio antibiótico ou placebo para crianças atendidas na atenção primária",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/15993231/"
+            },
+            {
+              "organization": "Hospital Real da Criança de Melbourne",
+              "title": "Atendimento urgente de lesões oculares agudas",
+              "url": "https://www.rch.org.au/clinicalguide/guideline_index/Acute_eye_injury/"
+            },
+            {
+              "organization": "Academia Americana de Pediatria",
+              "title": "Frequência à escola ou creche quando a criança tem conjuntivite",
+              "url": "https://www.healthychildren.org/English/tips-tools/ask-the-pediatrician/Pages/Do-I-need-to-keep-my-son-home-if-he-has-pinkeye.aspx"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5826.webp",
+    "heroAlt": {
+      "en": "Blue trial frames, a penlight and wrapped gauze pads on a tray in a children's eye clinic.",
+      "es": "Montura de prueba azul, linterna y gasas envueltas en una bandeja de una consulta de oftalmología infantil.",
+      "fr": "Monture d’essai bleue, lampe de poche médicale et compresses emballées sur un plateau en consultation d’ophtalmologie pédiatrique.",
+      "pt": "Armação de prova azul, lanterna clínica e gazes embaladas em uma bandeja de um consultório de oftalmologia infantil.",
+      "tr": "Çocuk göz kliniğinde bir tepside mavi deneme gözlüğü, muayene feneri ve paketli gazlı bezler.",
+      "fa": "فریم آبی آزمایش بینایی، چراغ معاینه و گازهای بسته‌بندی‌شده روی سینی در مطب چشم‌پزشکی کودکان.",
+      "ar": "إطار تجريبي أزرق لفحص النظر ومصباح فحص وضمادات شاش مغلفة على صينية في عيادة عيون الأطفال."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "A red eye in a child: which signs need urgent care?",
+      "description": "Find out what a sticky, itchy or watery red eye can mean in a child, when antibiotic drops may help, and which changes in pain or vision need urgent care."
+    },
+    "fa": {
+      "title": "قرمزی چشم کودک چه زمانی به بررسی فوری نیاز دارد؟",
+      "description": "ببینید خارش، اشک‌ریزش یا ترشح چشم کودک چه علت‌هایی دارد، قطرهٔ آنتی‌بیوتیک چه وقت کمک می‌کند و چه تغییری در درد یا بینایی نیازمند بررسی فوری است."
+    },
+    "ar": {
+      "title": "احمرار عين الطفل: متى يحتاج إلى فحص عاجل؟",
+      "description": "تعرّف إلى أسباب الحكة والدموع والإفرازات في عين الطفل، ومتى تفيد قطرة المضاد الحيوي، وأي تغيّر في الألم أو الرؤية يستدعي فحصًا عاجلًا للعين."
+    },
+    "fr": {
+      "title": "Œil rouge chez l’enfant : quels signes sont urgents ?",
+      "description": "Que peut indiquer un œil rouge qui colle, gratte ou pleure chez l’enfant ? Voyez quand des gouttes antibiotiques sont utiles et quels signes sont urgents."
+    },
+    "tr": {
+      "title": "Çocuklarda göz kızarıklığı ne zaman acil değerlendirme gerektirir?",
+      "description": "Çocuğun gözünde kaşıntı, sulanma veya çapak neden olur? Antibiyotikli damlanın ne zaman işe yaradığını ve hangi belirtilerde acil yardım gerektiğini öğrenin."
+    },
+    "es": {
+      "title": "Ojo rojo en un niño: qué señales necesitan atención urgente",
+      "description": "Qué puede significar un ojo rojo con legañas, picor o lagrimeo en un niño, cuándo ayudan los antibióticos y qué cambios de dolor o visión requieren atención."
+    },
+    "pt": {
+      "title": "Olho vermelho na criança: quando procurar atendimento urgente?",
+      "description": "Saiba o que pode causar coceira, secreção ou lacrimejamento no olho da criança, quando o colírio antibiótico ajuda e quais sinais exigem atendimento urgente."
+    }
+  }
+}

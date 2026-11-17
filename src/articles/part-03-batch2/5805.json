@@ -1,0 +1,681 @@
+{
+  "sourceId": "5805",
+  "article": {
+    "slug": "baby-and-child/unexplained-symptoms-in-children-when-to-get-checked",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "Unexplained symptoms in children: when to get checked",
+        "description": "Learn which changes in a child need prompt assessment, what to bring to the appointment, and how testing symptoms differs from routine cancer screening.",
+        "intro": "Your child has been unusually tired and pale. This week you also notice bruises you cannot explain. Call their clinician today and describe both changes. Many childhood illnesses cause tiredness, and most bruises have an ordinary cause, but the combination deserves an examination.",
+        "sections": [
+          {
+            "heading": "Which changes should I report?",
+            "paragraphs": [
+              "Tell the clinician about persistent unexplained fever or tiredness, an enlarging lump, unintentional weight loss, or pain in one spot that keeps returning or causes a limp. Repeated headaches with vomiting, a new problem with balance or vision, or a white reflection in a child's pupil also need prompt medical advice. Describe how the change affects play, walking, sleep or school.",
+              "Ask for urgent advice today about unexplained bruising, bleeding or striking paleness. Unexplained pinprick spots that do not fade with pressure need immediate medical assessment. If a child is unwell with this rash, struggles to breathe, is very difficult to wake, or has heavy bleeding that will not stop, seek emergency help now. Serious infections and other illnesses can also cause these signs."
+            ]
+          },
+          {
+            "heading": "What a symptom can tell you",
+            "paragraphs": [
+              "Researchers compared UK primary-care records for 1,267 children aged 0–14 diagnosed with cancer with those of 15,318 children without cancer. Paleness, bruising and lumps were among the features more often recorded before a cancer diagnosis. Even when a single feature was present, the estimated likelihood of cancer was low. These were patterns in past records, not a checklist for diagnosing an individual child.",
+              "If something persists after an earlier visit, go back. Bring a short timeline, the site of pain or swelling, and any changes in energy, appetite or activity. A photograph may help if a change comes and goes. Ask when you should expect improvement and which changes mean you should call sooner."
+            ]
+          },
+          {
+            "heading": "Which tests might come next?",
+            "paragraphs": [
+              "A clinician starts with the history and examination. Depending on the findings, they may arrange a blood count, imaging or a specialist appointment. If there is a suspicious mass, a specialist may plan a biopsy to examine a sample of tissue. The right investigation depends on what is found. A reassuring first visit or test does not remove the need to return if symptoms persist or worsen.",
+              "Screening means testing people who feel well. Routine cancer screening tests are not recommended for children at average risk. Some inherited conditions call for specialist surveillance with specific tests at set intervals. If such a condition runs in your family, ask the child's care team which plan applies. Whatever their risk, new symptoms still warrant assessment."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Report unexplained changes that persist, progress or disturb everyday activities.",
+          "Get urgent advice about unexplained bruising, bleeding or marked paleness.",
+          "Ask when to return and who will contact you about planned tests."
+        ],
+        "faq": [
+          {
+            "q": "Does my healthy child need screening tests for cancer?",
+            "a": "Children at average risk do not usually need routine cancer screening. Children with certain inherited conditions may have a specialist surveillance plan. Testing a child because of symptoms serves a different purpose."
+          },
+          {
+            "q": "When should I contact a clinician?",
+            "a": "Call promptly for an unusual change that persists, recurs or worsens, and today for unexplained bleeding, bruising or marked paleness. Seek immediate assessment for unexplained pinprick spots that do not fade with pressure, and emergency care if the child is unwell with that rash."
+          },
+          {
+            "q": "Which symptoms can occur in childhood cancer?",
+            "a": "A growing lump, persistent fever, unexplained weight loss, local pain or limp, repeated headaches with vomiting, or a new eye or vision change can occur. Many other conditions cause these symptoms. A clinician can decide what needs investigating."
+          },
+          {
+            "q": "How do doctors make a diagnosis?",
+            "a": "The clinician asks about symptoms, examines the child and chooses tests such as blood work or imaging as indicated. A specialist may use a biopsy to identify an abnormal mass. Ask how you will receive results and what to do if the symptoms change."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Give examples of when you first noticed a symptom and how it is changing.",
+            "Ask how quickly a new sign needs examination and what should prompt emergency care.",
+            "Arrange another assessment if symptoms continue after an initially reassuring visit."
+          ],
+          "bemama": "BeMama suggests noting what your child could do comfortably last week and what is different today. Bring that example to the appointment.",
+          "safety": "Seek immediate assessment for unexplained pinpoint spots that do not fade when pressed. Get emergency help for an unwell child with a non-fading rash, serious breathing difficulty, great difficulty waking or heavy bleeding that will not stop.",
+          "sources": [
+            {
+              "organization": "American Cancer Society",
+              "title": "Finding and diagnosing cancer in children",
+              "url": "https://www.cancer.org/cancer/childhood-cancer/signs-symptoms-diagnosis.html"
+            },
+            {
+              "organization": "National Institute for Health and Care Excellence",
+              "title": "Suspected cancer in children: symptoms and referral",
+              "url": "https://www.nice.org.uk/guidance/ng12/chapter/recommended-actions-organised-by-symptom-and-findings-of-primary-care-investigations"
+            },
+            {
+              "organization": "Dommett and colleagues, British Journal of General Practice",
+              "title": "Risk of childhood cancer with symptoms in primary care",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3529289/"
+            },
+            {
+              "organization": "NHS",
+              "title": "Rashes in babies and children and when to seek emergency care",
+              "url": "https://www.nhs.uk/symptoms/rashes-babies-and-children/"
+            },
+            {
+              "organization": "NHS",
+              "title": "Eye changes that need assessment for retinoblastoma",
+              "url": "https://www.nhs.uk/conditions/retinoblastoma/symptoms/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "علائم بی‌علت مشخص در کودکان را چه زمانی باید بررسی کرد؟",
+        "description": "ببینید کدام تغییرات در کودک نیاز به بررسی سریع دارد، برای ویزیت چه اطلاعاتی ببرید و بررسی علائم چه تفاوتی با غربالگری معمول سرطان دارد.",
+        "intro": "فرزندتان برخلاف معمول خسته و رنگ‌پریده است. این هفته کبودی‌هایی هم می‌بینید که علتشان را نمی‌دانید. همین امروز با پزشک کودک تماس بگیرید و هر دو تغییر را توضیح دهید. بسیاری از بیماری‌های کودکان خستگی ایجاد می‌کنند و بیشتر کبودی‌ها علت ساده‌ای دارند، اما همراه شدن این دو نشانه به معاینه نیاز دارد.",
+        "sections": [
+          {
+            "heading": "چه تغییراتی را به پزشک بگویم؟",
+            "paragraphs": [
+              "تب یا خستگی مداوم بی‌علت مشخص، توده‌ای که بزرگ‌تر می‌شود، کاهش وزن ناخواسته یا دردی که مرتب در یک نقطه برمی‌گردد یا باعث لنگیدن می‌شود را گزارش کنید. سردردهای تکرارشونده همراه با استفراغ، مشکل تازه در تعادل یا بینایی یا بازتاب سفید در مردمک چشم هم نیاز به مشورت سریع پزشکی دارند. بگویید بازی، راه رفتن، خواب یا مدرسه رفتن کودک چه تغییری کرده است.",
+              "برای کبودی، خونریزی یا رنگ‌پریدگی چشمگیر بی‌علت، همین امروز فوری مشورت کنید. نقطه‌های ریز به اندازه نوک سوزن که علتشان معلوم نیست و با فشار کمرنگ نمی‌شوند به ارزیابی فوری نیاز دارند. اگر کودک همراه با این دانه‌ها بدحال است، به‌سختی نفس می‌کشد، به‌سختی می‌توان بیدارش کرد یا خونریزی شدیدی دارد که قطع نمی‌شود، همین حالا از اورژانس کمک بگیرید. عفونت‌های جدی و بیماری‌های دیگر هم ممکن است این نشانه‌ها را ایجاد کنند."
+            ]
+          },
+          {
+            "heading": "یک علامت چه چیزی را نشان می‌دهد؟",
+            "paragraphs": [
+              "پژوهشگران در بریتانیا پرونده‌های مراقبت اولیه ۱٬۲۶۷ کودک صفر تا ۱۴ ساله با تشخیص سرطان را با پرونده‌های ۱۵٬۳۱۸ کودک بدون سرطان مقایسه کردند. رنگ‌پریدگی، کبودی و توده از جمله یافته‌هایی بودند که پیش از تشخیص سرطان بیشتر ثبت شده بودند. حتی در حضور یک علامت منفرد هم احتمال برآوردشده سرطان کم بود. این الگوهای ثبت‌شده در گذشته راهی برای تشخیص سرطان در یک کودک مشخص نیستند.",
+              "اگر علامتی بعد از ویزیت قبلی همچنان وجود دارد، دوباره مراجعه کنید. زمان شروع و تغییرات، محل درد یا ورم و هر تغییری در انرژی، اشتها یا فعالیت را یادداشت کنید. اگر علامت می‌آید و می‌رود، عکس آن می‌تواند کمک کند. بپرسید انتظار می‌رود چه زمانی بهتر شود و با دیدن چه تغییری باید زودتر تماس بگیرید."
+            ]
+          },
+          {
+            "heading": "ممکن است چه بررسی‌هایی لازم شود؟",
+            "paragraphs": [
+              "پزشک ابتدا شرح حال را می‌گیرد و کودک را معاینه می‌کند. بر اساس یافته‌ها ممکن است شمارش سلول‌های خون، تصویربرداری یا ویزیت متخصص را درخواست کند. اگر توده مشکوکی وجود داشته باشد، متخصص ممکن است برای بررسی نمونه بافت، نمونه‌برداری را برنامه‌ریزی کند. انتخاب بررسی به یافته‌ها بستگی دارد. اگر علائم ادامه یافت یا بدتر شد، حتی پس از معاینه یا آزمایش اولیه اطمینان‌بخش دوباره مراجعه کنید.",
+              "غربالگری یعنی آزمایش افرادی که احساس سلامت می‌کنند. برای کودکان با خطر متوسط، غربالگری معمول سرطان توصیه نمی‌شود. بعضی بیماری‌های ارثی نیازمند پیگیری تخصصی با آزمایش‌های مشخص در فاصله‌های معین‌اند. اگر چنین بیماری‌ای در خانواده دارید، از تیم درمان بپرسید کدام برنامه برای کودک مناسب است. در هر سطحی از خطر، علامت تازه نیاز به بررسی دارد."
+            ]
+          }
+        ],
+        "takeaways": [
+          "تغییرات بی‌علتی را که ادامه دارند، پیشرفت می‌کنند یا فعالیت‌های روزمره را مختل می‌کنند گزارش کنید.",
+          "برای کبودی، خونریزی یا رنگ‌پریدگی شدید بی‌علت سریع مشورت کنید.",
+          "بپرسید چه زمانی برگردید و چه کسی درباره آزمایش‌های برنامه‌ریزی‌شده با شما تماس می‌گیرد."
+        ],
+        "faq": [
+          {
+            "q": "آیا کودک سالم من به آزمایش غربالگری سرطان نیاز دارد؟",
+            "a": "کودکان با خطر متوسط معمولاً به غربالگری منظم نیاز ندارند. برای بعضی کودکان مبتلا به بیماری‌های ارثی ممکن است برنامه مراقبت تخصصی وجود داشته باشد. آزمایش به‌دلیل بروز علامت، هدف دیگری دارد."
+          },
+          {
+            "q": "چه زمانی با پزشک تماس بگیرم؟",
+            "a": "برای تغییر غیرعادی که ادامه دارد، برمی‌گردد یا بدتر می‌شود سریع تماس بگیرید. برای کبودی، خونریزی یا رنگ‌پریدگی شدید بی‌علت، همین امروز تماس بگیرید. نقطه‌های ریز بی‌علتی که با فشار کمرنگ نمی‌شوند به ارزیابی فوری نیاز دارند و اگر کودک همراه با این دانه‌ها بدحال است، باید از اورژانس کمک گرفت."
+          },
+          {
+            "q": "چه علائمی ممکن است در سرطان دوران کودکی دیده شود؟",
+            "a": "توده در حال رشد، تب مداوم، کاهش وزن بی‌علت، درد موضعی یا لنگیدن، سردردهای مکرر با استفراغ یا تغییر تازه در چشم یا دید ممکن است دیده شود. بسیاری از بیماری‌های دیگر هم این علائم را ایجاد می‌کنند. پزشک تصمیم می‌گیرد چه چیزی را بررسی کند."
+          },
+          {
+            "q": "پزشکان چطور تشخیص می‌دهند؟",
+            "a": "پزشک درباره علائم می‌پرسد، کودک را معاینه می‌کند و بر اساس یافته‌ها آزمایش خون یا تصویربرداری را انتخاب می‌کند. متخصص ممکن است برای شناخت ماهیت یک توده غیرطبیعی از بافت آن نمونه بردارد. بپرسید نتیجه را چطور دریافت می‌کنید و در صورت تغییر علائم چه کنید."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۶ نوامبر ۲۰۲۶ مرور شد",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "مثال بزنید که اولین بار چه زمانی علامت را دیدید و از آن زمان چه تغییری کرده است.",
+            "بپرسید علامت تازه چه زمانی باید معاینه شود و چه نشانه‌ای نیاز به کمک اورژانسی دارد.",
+            "اگر علائم پس از ویزیت اولیه اطمینان‌بخش ادامه داشت، برای ارزیابی دوباره وقت بگیرید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند بنویسید فرزندتان هفته پیش چه کاری را به‌راحتی انجام می‌داد و امروز چه چیزی فرق کرده است. این مثال را به ویزیت ببرید.",
+          "safety": "برای نقطه‌های ریز بی‌علتی که با فشار کمرنگ نمی‌شوند فوراً ارزیابی پزشکی بخواهید. اگر کودک همراه با این دانه‌ها بدحال است، تنفس برایش بسیار دشوار است، به‌سختی بیدار می‌شود یا خونریزی شدید و قطع‌نشدنی دارد، از اورژانس کمک بگیرید.",
+          "sources": [
+            {
+              "organization": "انجمن سرطان آمریکا",
+              "title": "یافتن و تشخیص سرطان در کودکان",
+              "url": "https://www.cancer.org/cancer/childhood-cancer/signs-symptoms-diagnosis.html"
+            },
+            {
+              "organization": "مؤسسه ملی تعالی سلامت و مراقبت بریتانیا",
+              "title": "علائم سرطان مشکوک در کودکان و ارجاع برای بررسی",
+              "url": "https://www.nice.org.uk/guidance/ng12/chapter/recommended-actions-organised-by-symptom-and-findings-of-primary-care-investigations"
+            },
+            {
+              "organization": "دامت و همکاران، مجله پزشکی عمومی بریتانیا",
+              "title": "خطر سرطان کودکان بر اساس علائم ثبت‌شده در مراقبت اولیه",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3529289/"
+            },
+            {
+              "organization": "خدمات ملی سلامت بریتانیا",
+              "title": "بثورات در نوزادان و کودکان و زمان مراجعه اورژانسی",
+              "url": "https://www.nhs.uk/symptoms/rashes-babies-and-children/"
+            },
+            {
+              "organization": "خدمات ملی سلامت بریتانیا",
+              "title": "تغییرات چشمی که نیاز به بررسی رتینوبلاستوما دارند",
+              "url": "https://www.nhs.uk/conditions/retinoblastoma/symptoms/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "أعراض غير مفسّرة عند الطفل ومتى تحتاج إلى فحص",
+        "description": "تعرّف إلى التغيّرات التي تستدعي تقييم الطفل سريعًا، والمعلومات المفيدة في الموعد، والفرق بين فحوص الأعراض والتحري الروتيني عن السرطان.",
+        "intro": "يبدو طفلك متعبًا وشاحبًا على غير عادته. وهذا الأسبوع لاحظت على جلده كدمات لا تعرف سببها. اتصل اليوم بالطبيب الذي يتابعه واشرح التغيّرين معًا. يسبب كثير من أمراض الطفولة التعب، ولأغلب الكدمات سبب عادي، لكن اجتماع الأمرين يستحق الفحص.",
+        "sections": [
+          {
+            "heading": "ما التغيّرات التي ينبغي إبلاغ الطبيب بها؟",
+            "paragraphs": [
+              "أبلغ الطبيب عن حمى أو تعب مستمرين بلا سبب واضح، أو كتلة تكبر، أو فقدان غير مقصود للوزن، أو ألم يتكرر في الموضع نفسه أو يجعل الطفل يعرج. كذلك يحتاج الصداع المتكرر مع القيء، أو اضطراب جديد في التوازن أو الرؤية، أو انعكاس أبيض في حدقة العين إلى مشورة طبية سريعة. صف أثر التغير في اللعب أو المشي أو النوم أو المدرسة.",
+              "اطلب مشورة عاجلة اليوم عند وجود كدمات أو نزف أو شحوب ملحوظ دون تفسير. وتحتاج النقاط الدقيقة بحجم رأس الدبوس التي لا تبهت بالضغط ولا يُعرف سببها إلى تقييم طبي فوري. إذا بدا الطفل مريضًا مع هذا الطفح، أو كان يجد صعوبة في التنفس، أو يصعب جدًا إيقاظه، أو كان لديه نزف غزير لا يتوقف، فاطلب مساعدة الطوارئ الآن. قد تسبب العدوى الخطيرة وأمراض أخرى هذه العلامات أيضًا."
+            ]
+          },
+          {
+            "heading": "ماذا يدل عليه وجود عرض؟",
+            "paragraphs": [
+              "قارن باحثون في بريطانيا سجلات الرعاية الأولية لـ ١٢٦٧ طفلًا أعمارهم من الولادة إلى ١٤ سنة شُخّصوا بالسرطان بسجلات ١٥٣١٨ طفلًا دون سرطان. كان الشحوب والكدمات والكتل من العلامات التي سُجلت بوتيرة أعلى قبل التشخيص. حتى مع وجود علامة واحدة، ظل الاحتمال التقديري للإصابة بالسرطان منخفضًا. تصف النتائج أنماطًا في سجلات سابقة ولا تشخّص طفلًا بعينه.",
+              "إذا استمر التغير بعد زيارة سابقة، فارجع إلى الطبيب. دوّن تسلسلًا زمنيًا موجزًا وموضع الألم أو التورم وأي تغير في الطاقة أو الشهية أو النشاط. قد تفيد صورة إذا كانت العلامة تظهر وتختفي. اسأل متى يُتوقع التحسن وما التغيّرات التي تستدعي الاتصال قبل الموعد."
+            ]
+          },
+          {
+            "heading": "ما الفحوص التي قد تلي ذلك؟",
+            "paragraphs": [
+              "يبدأ الطبيب بسماع القصة وفحص الطفل. وبحسب ما يجد قد يطلب تعداد الدم أو تصويرًا أو إحالة إلى اختصاصي. إذا وُجدت كتلة مشتبه بها فقد يخطط الاختصاصي لأخذ خزعة لفحص عيّنة من النسيج. تحدد نتائج المعاينة نوع الفحص المناسب. وإذا استمرت الأعراض أو ساءت فارجع إلى الطبيب حتى لو كانت الزيارة أو الفحوص الأولى مطمئنة.",
+              "التحرّي هو فحص أشخاص يشعرون بأنهم بخير. لا يُنصح بالتحري الروتيني عن السرطان لدى الأطفال متوسطي الخطورة. وتحتاج بعض الحالات الوراثية إلى متابعة اختصاصية بفحوص محددة على فترات معينة. إذا وُجدت حالة من هذا النوع في العائلة، فاسأل الفريق عن الخطة الملائمة لطفلك. وأيًّا كانت درجة الخطورة، فإن الأعراض الجديدة تستحق التقييم."
+            ]
+          }
+        ],
+        "takeaways": [
+          "أبلغ عن التغيرات غير المفسّرة التي تستمر أو تزداد أو تعطل النشاط المعتاد.",
+          "اطلب مشورة عاجلة عند وجود كدمات أو نزف أو شحوب واضح دون تفسير.",
+          "اسأل متى تعود ومن سيتصل بك بشأن الفحوص المقررة."
+        ],
+        "faq": [
+          {
+            "q": "هل يحتاج طفلي السليم إلى فحوص للتحري عن السرطان؟",
+            "a": "لا يحتاج الطفل متوسط الخطورة عادة إلى التحري الروتيني. وقد تكون للأطفال المصابين بحالات وراثية معينة خطة مراقبة لدى اختصاصي. أما الفحص بسبب أعراض ظهرت بالفعل فله غرض مختلف."
+          },
+          {
+            "q": "متى أتواصل مع الطبيب؟",
+            "a": "اتصل سريعًا عند حدوث تغير غير معتاد يستمر أو يعود أو يزداد، واتصل اليوم عند وجود نزف أو كدمات أو شحوب ملحوظ دون تفسير. اطلب تقييمًا فوريًا لنقاط دقيقة غير مفسرة لا تبهت بالضغط، واطلب مساعدة الطوارئ إذا بدا الطفل مريضًا مع هذا الطفح."
+          },
+          {
+            "q": "ما الأعراض التي قد ترافق سرطان الطفولة؟",
+            "a": "قد تظهر كتلة تكبر أو حمى مستمرة أو خسارة وزن غير مفسرة أو ألم موضعي أو عرج أو صداع متكرر مع القيء أو تغير جديد في العين أو الرؤية. تسبب حالات كثيرة أخرى هذه الأعراض. يستطيع الطبيب تحديد ما يحتاج إلى استقصاء."
+          },
+          {
+            "q": "كيف يتوصل الأطباء إلى التشخيص؟",
+            "a": "يسأل الطبيب عن الأعراض ويفحص الطفل ثم يختار تحليل الدم أو التصوير وفق الحاجة. وقد يأخذ الاختصاصي خزعة لتحديد طبيعة كتلة غير طبيعية. اسأل كيف ستصلك النتائج وماذا تفعل إن تغيرت الأعراض."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "اذكر أمثلة تبيّن متى لاحظت العرض أول مرة وكيف تغير منذ ذلك الحين.",
+            "اسأل عن سرعة فحص العلامة الجديدة ومتى ينبغي طلب الطوارئ.",
+            "رتّب تقييمًا آخر إذا استمرت الأعراض بعد زيارة أولى مطمئنة."
+          ],
+          "bemama": "تقترح بي ماما أن تسجّل ما كان طفلك يفعله بسهولة الأسبوع الماضي وما اختلف اليوم. خذ هذا المثال إلى الموعد.",
+          "safety": "اطلب تقييمًا فوريًا لنقاط دقيقة غير مفسرة لا تبهت عند الضغط. اطلب مساعدة الطوارئ إذا بدا الطفل مريضًا مع هذا الطفح، أو كان يعاني صعوبة شديدة في التنفس، أو كان يصعب جدًا إيقاظه أو لديه نزف غزير لا يتوقف.",
+          "sources": [
+            {
+              "organization": "الجمعية الأمريكية للسرطان",
+              "title": "الكشف عن السرطان وتشخيصه لدى الأطفال",
+              "url": "https://www.cancer.org/cancer/childhood-cancer/signs-symptoms-diagnosis.html"
+            },
+            {
+              "organization": "المعهد الوطني البريطاني للتميّز في الصحة والرعاية",
+              "title": "الاشتباه بالسرطان عند الأطفال والأعراض والإحالة",
+              "url": "https://www.nice.org.uk/guidance/ng12/chapter/recommended-actions-organised-by-symptom-and-findings-of-primary-care-investigations"
+            },
+            {
+              "organization": "دوميت وزملاؤه، المجلة البريطانية للممارسة العامة",
+              "title": "احتمال سرطان الطفولة عند ظهور أعراض في الرعاية الأولية",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3529289/"
+            },
+            {
+              "organization": "هيئة الخدمات الصحية الوطنية البريطانية",
+              "title": "الطفح عند الرضع والأطفال ومتى تُطلب الرعاية الطارئة",
+              "url": "https://www.nhs.uk/symptoms/rashes-babies-and-children/"
+            },
+            {
+              "organization": "هيئة الخدمات الصحية الوطنية البريطانية",
+              "title": "تغيّرات العين التي تتطلب تقييمًا لاحتمال الورم الأرومي الشبكي",
+              "url": "https://www.nhs.uk/conditions/retinoblastoma/symptoms/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Symptômes inexpliqués chez l’enfant et motifs de consultation",
+        "description": "Quels changements chez un enfant demandent un avis rapide ? Voyez comment préparer la consultation et distinguer les examens pour symptômes du dépistage.",
+        "intro": "Votre enfant est fatigué et pâle de façon inhabituelle. Cette semaine, vous remarquez aussi des bleus que vous ne vous expliquez pas. Appelez aujourd’hui le professionnel qui le suit et décrivez ces deux changements. Bien des maladies de l’enfance fatiguent et la plupart des bleus ont une cause banale, mais leur association mérite un examen.",
+        "sections": [
+          {
+            "heading": "Quels changements signaler ?",
+            "paragraphs": [
+              "Signalez une fièvre ou une fatigue persistante inexpliquée, une grosseur qui augmente, une perte de poids involontaire ou une douleur qui revient au même endroit ou fait boiter. Des maux de tête répétés accompagnés de vomissements, un nouveau trouble de l’équilibre ou de la vue ou un reflet blanc dans une pupille nécessitent aussi un avis rapide. Précisez ce qui change dans les jeux, la marche, le sommeil ou à l’école.",
+              "Demandez un avis urgent aujourd’hui pour des bleus, un saignement ou une pâleur marquée sans explication. De minuscules points inexpliqués qui ne s’effacent pas à la pression nécessitent une évaluation immédiate. Si l’enfant semble malade avec cette éruption, peine à respirer, est très difficile à réveiller ou saigne abondamment sans que le saignement s’arrête, appelez les secours maintenant. Une infection grave ou une autre maladie peut aussi provoquer ces signes."
+            ]
+          },
+          {
+            "heading": "Que peut indiquer un symptôme ?",
+            "paragraphs": [
+              "Au Royaume-Uni, des chercheurs ont comparé les dossiers de médecine générale de 1 267 enfants de 0 à 14 ans ayant reçu un diagnostic de cancer à ceux de 15 318 enfants sans cancer. La pâleur, les bleus et les grosseurs figuraient parmi les signes signalés plus souvent avant un diagnostic de cancer. Même en présence d’un signe isolé, la probabilité estimée de cancer restait faible. Ces observations dans d’anciens dossiers ne permettent pas de poser le diagnostic chez un enfant en particulier.",
+              "Si quelque chose persiste après une première consultation, retournez consulter. Notez les dates, l’endroit douloureux ou gonflé et tout changement d’énergie, d’appétit ou d’activité. Une photo peut être utile quand un signe va et vient. Demandez sous quel délai une amélioration est attendue et quels changements doivent vous faire rappeler plus tôt."
+            ]
+          },
+          {
+            "heading": "Quels examens peut-on proposer ?",
+            "paragraphs": [
+              "Le professionnel commence par vous écouter et examiner l’enfant. Selon ses constatations, il peut demander une numération sanguine, un examen d’imagerie ou un avis spécialisé. En cas de masse suspecte, le spécialiste peut prévoir une biopsie pour analyser un prélèvement de tissu. Les constatations guident les examens. Même si le premier avis ou résultat est rassurant, consultez à nouveau si les symptômes persistent ou s’aggravent.",
+              "Le dépistage consiste à tester des personnes qui se sentent bien. Le dépistage systématique du cancer n’est pas recommandé chez les enfants présentant un risque moyen. Certaines maladies héréditaires justifient une surveillance spécialisée avec des examens précis à intervalles définis. Si votre famille est concernée, demandez à l’équipe quel suivi convient. Quel que soit le niveau de risque, tout nouveau symptôme mérite une évaluation."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Signalez les changements inexpliqués qui persistent, progressent ou gênent les activités habituelles.",
+          "Demandez un avis urgent pour des bleus, un saignement ou une pâleur marquée sans explication.",
+          "Demandez quand revenir et qui vous contactera au sujet des examens prévus."
+        ],
+        "faq": [
+          {
+            "q": "Mon enfant en bonne santé doit-il passer des examens de dépistage du cancer ?",
+            "a": "Les enfants présentant un risque moyen n’ont généralement pas besoin de dépistage systématique. Certaines maladies héréditaires peuvent justifier un suivi spécialisé. Des examens demandés pour expliquer des symptômes ont un autre objectif."
+          },
+          {
+            "q": "Quand prendre contact avec un professionnel ?",
+            "a": "Consultez rapidement pour un changement inhabituel qui persiste, revient ou s’aggrave, et dès aujourd’hui pour des saignements, des bleus ou une pâleur marquée inexpliqués. Des points minuscules inexpliqués qui ne s’effacent pas à la pression nécessitent une évaluation immédiate. Appelez les secours si l’enfant semble malade avec cette éruption."
+          },
+          {
+            "q": "Quels symptômes peuvent accompagner un cancer de l’enfant ?",
+            "a": "Une grosseur qui grossit, une fièvre persistante, une perte de poids inexpliquée, une douleur localisée ou une boiterie, des maux de tête répétés avec vomissements ou un changement de l’œil ou de la vue sont possibles. Beaucoup d’autres maladies donnent ces symptômes. Un professionnel peut décider quoi rechercher."
+          },
+          {
+            "q": "Comment le diagnostic est-il posé ?",
+            "a": "Le professionnel s’informe sur les symptômes, examine l’enfant et choisit les analyses ou examens d’imagerie adaptés. Un spécialiste peut utiliser une biopsie pour identifier une masse anormale. Demandez comment vous recevrez les résultats et quoi faire si les symptômes changent."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Donnez un exemple du moment où un symptôme est apparu et de la manière dont il évolue.",
+            "Demandez dans quel délai un nouveau signe doit être examiné et quand appeler les secours.",
+            "Prévoyez une autre évaluation si les symptômes persistent après une première consultation rassurante."
+          ],
+          "bemama": "BeMama vous suggère de noter ce que votre enfant faisait facilement la semaine dernière et ce qui est différent aujourd’hui. Apportez cet exemple à la consultation.",
+          "safety": "Faites évaluer immédiatement de minuscules points inexpliqués qui ne s’effacent pas à la pression. Appelez les secours si l’enfant semble malade avec une telle éruption, respire très difficilement, est très difficile à réveiller ou saigne abondamment sans arrêt.",
+          "sources": [
+            {
+              "organization": "Société américaine du cancer",
+              "title": "Détection et diagnostic du cancer chez l’enfant",
+              "url": "https://www.cancer.org/cancer/childhood-cancer/signs-symptoms-diagnosis.html"
+            },
+            {
+              "organization": "Institut national britannique pour l’excellence en santé et en soins",
+              "title": "Suspicion de cancer chez l’enfant, symptômes et orientation",
+              "url": "https://www.nice.org.uk/guidance/ng12/chapter/recommended-actions-organised-by-symptom-and-findings-of-primary-care-investigations"
+            },
+            {
+              "organization": "Dommett et ses collègues, British Journal of General Practice",
+              "title": "Risque de cancer de l’enfant selon les symptômes en médecine générale",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3529289/"
+            },
+            {
+              "organization": "Service national de santé britannique",
+              "title": "Éruptions chez les bébés et les enfants et motifs de recours aux urgences",
+              "url": "https://www.nhs.uk/symptoms/rashes-babies-and-children/"
+            },
+            {
+              "organization": "Service national de santé britannique",
+              "title": "Changements de l’œil justifiant un bilan de rétinoblastome",
+              "url": "https://www.nhs.uk/conditions/retinoblastoma/symptoms/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Çocuklarda açıklanamayan belirtiler için ne zaman başvurmalı?",
+        "description": "Çocuğunuzdaki hangi değişikliklerin hızla değerlendirilmesi gerektiğini, muayeneye ne götürebileceğinizi ve belirti araştırmasıyla taramanın farkını öğrenin.",
+        "intro": "Çocuğunuz alışılmadık ölçüde yorgun ve solgun. Bu hafta bir de nedenini bilmediğiniz morluklar fark ettiniz. Bugün çocuğu izleyen sağlık uzmanını arayıp iki değişikliği de anlatın. Çocukluk çağında birçok hastalık yorgunluk yapar ve çoğu morluğun sıradan bir nedeni vardır. Ancak ikisi birden görülünce çocuk muayene edilmelidir.",
+        "sections": [
+          {
+            "heading": "Hangi değişiklikleri bildirmeliyim?",
+            "paragraphs": [
+              "Nedeni açıklanamayan sürekli ateşi veya yorgunluğu, büyüyen bir şişliği, istemsiz kilo kaybını ya da aynı noktada tekrarlayan veya topallamaya neden olan ağrıyı anlatın. Kusmayla birlikte tekrarlayan baş ağrısı, yeni bir denge veya görme sorunu ya da göz bebeğinde beyaz yansıma için de gecikmeden tıbbi görüş alın. Oyunun, yürümenin, uykunun veya okul yaşamının nasıl etkilendiğini belirtin.",
+              "Açıklanamayan morarma, kanama veya belirgin solukluk için bugün acil tıbbi görüş alın. Üzerine bastırınca solmayan ve nedeni bilinmeyen toplu iğne ucu gibi noktalar hemen değerlendirilmelidir. Çocuk bu döküntüyle birlikte hasta görünüyorsa, nefes almakta zorlanıyorsa, çok güç uyanıyorsa veya durmayan yoğun kanaması varsa hemen acil yardım isteyin. Ciddi enfeksiyonlar ve başka hastalıklar da bu belirtilere yol açabilir."
+            ]
+          },
+          {
+            "heading": "Bir belirti bize ne anlatır?",
+            "paragraphs": [
+              "Araştırmacılar, Birleşik Krallık’ta kanser tanısı konmuş 0–14 yaşlarındaki 1.267 çocukla kanseri olmayan 15.318 çocuğun birinci basamak kayıtlarını karşılaştırdı. Solukluk, morarma ve kitle kanser tanısından önce daha sık kayda geçen bulgular arasındaydı. Tek bir bulgu görüldüğünde bile tahmin edilen kanser olasılığı düşüktü. Geçmiş kayıtlardaki bu örüntüler tek bir çocuğa tanı koydurmaz.",
+              "İlk başvurudan sonra belirti sürerse yeniden başvurun. Tarihleri, ağrının veya şişliğin yerini, enerjide, iştahta ya da hareketlilikte neyin değiştiğini not edin. Gelip geçen bir değişikliği fotoğraflamak yardımcı olabilir. Ne zaman iyileşme beklendiğini ve hangi değişiklikte daha erken aramanız gerektiğini sorun."
+            ]
+          },
+          {
+            "heading": "Sırada hangi tetkikler olabilir?",
+            "paragraphs": [
+              "Hekim önce öyküyü dinler ve çocuğu muayene eder. Bulgulara göre kan sayımı, görüntüleme veya uzman değerlendirmesi isteyebilir. Şüpheli bir kitle varsa uzman, doku örneğinin incelenmesi için biyopsi planlayabilir. Uygun tetkik bulunan bulgulara bağlıdır. İlk muayene ya da test rahatlatıcı olsa da belirtiler sürer veya kötüleşirse tekrar başvurun.",
+              "Tarama, kendini iyi hisseden kişilere test yapılmasıdır. Ortalama riskli çocuklara rutin kanser taraması önerilmez. Bazı kalıtsal durumlarda belirli aralıklarla özel testlerle uzman izlemi gerekir. Ailenizde böyle bir durum varsa hangi planın çocuğunuza uygun olduğunu sorun. Risk düzeyi ne olursa olsun yeni belirtiler değerlendirilmelidir."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Süren, ilerleyen veya günlük etkinlikleri bozan açıklanamayan değişiklikleri bildirin.",
+          "Nedeni bilinmeyen morarma, kanama veya belirgin solukluk için acil görüş alın.",
+          "Ne zaman geri dönmeniz gerektiğini ve planlanan testler için kimin size ulaşacağını sorun."
+        ],
+        "faq": [
+          {
+            "q": "Sağlıklı çocuğuma kanser taraması gerekiyor mu?",
+            "a": "Ortalama riskli çocuklara genellikle rutin tarama gerekmez. Bazı kalıtsal durumları olan çocuklar uzmanların hazırladığı bir izlem planına alınabilir. Belirti nedeniyle yapılan testin amacı farklıdır."
+          },
+          {
+            "q": "Ne zaman sağlık uzmanına başvurmalıyım?",
+            "a": "Olağandışı bir değişiklik sürer, tekrarlar veya kötüleşirse gecikmeden arayın. Açıklanamayan kanama, morarma veya belirgin solukluk için bugün başvurun. Üzerine basıldığında solmayan, açıklanamayan iğne ucu büyüklüğündeki noktalar hemen değerlendirilmelidir. Bu döküntüyle birlikte çocuk hasta görünüyorsa acil yardım isteyin."
+          },
+          {
+            "q": "Çocukluk çağı kanserlerinde hangi belirtiler görülebilir?",
+            "a": "Büyüyen kitle, süren ateş, açıklanamayan kilo kaybı, belirli bir yerde ağrı veya topallama, kusmayla birlikte tekrarlayan baş ağrıları, gözde veya görmede yeni bir değişiklik olabilir. Başka birçok hastalık da bu belirtilere yol açar. Hekim hangilerinin araştırılması gerektiğine karar verebilir."
+          },
+          {
+            "q": "Hekimler tanıyı nasıl koyar?",
+            "a": "Hekim belirtileri sorar, çocuğu muayene eder ve bulgulara göre kan testleri ya da görüntüleme gibi tetkikler seçer. Uzman, anormal bir kitlenin türünü belirlemek için biyopsi kullanabilir. Sonuçları nasıl alacağınızı ve belirtiler değişirse ne yapacağınızı sorun."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Belirtiyi ilk ne zaman fark ettiğinizi ve nasıl değiştiğini örneklerle anlatın.",
+            "Yeni bir bulgunun ne kadar hızlı incelenmesi gerektiğini ve ne zaman acil yardım isteneceğini sorun.",
+            "İlk değerlendirme rahatlatıcı olsa da belirtiler sürüyorsa yeniden muayene planlayın."
+          ],
+          "bemama": "BeMama, çocuğunuzun geçen hafta neyi rahatlıkla yapabildiğini ve bugün neyin farklı olduğunu not etmenizi önerir. Bu örneği muayenede anlatın.",
+          "safety": "Bastırılınca solmayan açıklanamayan noktasal döküntüler için hemen değerlendirme isteyin. Çocuk bu döküntüyle birlikte hasta görünüyorsa, nefes almakta ciddi güçlük çekiyorsa, çok güç uyanıyorsa veya durmayan yoğun kanaması varsa acil yardım çağırın.",
+          "sources": [
+            {
+              "organization": "Amerikan Kanser Derneği",
+              "title": "Çocuklarda kanserin saptanması ve tanısı",
+              "url": "https://www.cancer.org/cancer/childhood-cancer/signs-symptoms-diagnosis.html"
+            },
+            {
+              "organization": "Birleşik Krallık Ulusal Sağlık ve Bakım Mükemmelliği Enstitüsü",
+              "title": "Çocuklarda kanser şüphesi, belirtiler ve sevk",
+              "url": "https://www.nice.org.uk/guidance/ng12/chapter/recommended-actions-organised-by-symptom-and-findings-of-primary-care-investigations"
+            },
+            {
+              "organization": "Dommett ve çalışma arkadaşları, British Journal of General Practice",
+              "title": "Birinci basamakta belirtilere göre çocukluk çağı kanser riski",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3529289/"
+            },
+            {
+              "organization": "Birleşik Krallık Ulusal Sağlık Hizmeti",
+              "title": "Bebek ve çocuklarda döküntüler ve acil yardım gereken durumlar",
+              "url": "https://www.nhs.uk/symptoms/rashes-babies-and-children/"
+            },
+            {
+              "organization": "Birleşik Krallık Ulusal Sağlık Hizmeti",
+              "title": "Retinoblastom açısından değerlendirilmesi gereken göz değişiklikleri",
+              "url": "https://www.nhs.uk/conditions/retinoblastoma/symptoms/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Síntomas sin causa aparente en niños y cuándo consultar",
+        "description": "Aprende qué cambios en tu hijo requieren atención rápida, qué llevar a la consulta y en qué se diferencia investigar síntomas del cribado rutinario del cáncer.",
+        "intro": "Tu hijo está más cansado y pálido de lo habitual. Esta semana le han salido también moretones que no sabes explicar. Llama hoy al profesional que lo atiende y describe ambos cambios. Muchas enfermedades infantiles provocan cansancio y la mayoría de los moretones tiene una causa corriente, pero conviene explorar al niño cuando aparecen juntos.",
+        "sections": [
+          {
+            "heading": "¿Qué cambios conviene comunicar?",
+            "paragraphs": [
+              "Menciona la fiebre o el cansancio persistentes sin causa aparente, un bulto que crece, la pérdida involuntaria de peso o el dolor en un mismo sitio que reaparece o provoca cojera. Los dolores de cabeza repetidos con vómitos, los problemas nuevos de equilibrio o visión y el reflejo blanco en una pupila también requieren una consulta pronta. Explica cómo afectan al juego, al andar, al sueño o a la escuela.",
+              "Pide consejo urgente hoy si hay moretones, sangrado o palidez marcada sin explicación. Unos puntitos sin causa aparente que no desaparecen al presionarlos requieren valoración inmediata. Si el niño se encuentra mal con esa erupción, le cuesta respirar, cuesta mucho despertarlo o tiene una hemorragia abundante que no cesa, solicita ayuda de emergencias ahora. Las infecciones graves y otras enfermedades también pueden causar estos signos."
+            ]
+          },
+          {
+            "heading": "¿Qué indica un síntoma?",
+            "paragraphs": [
+              "Un estudio británico comparó las historias de atención primaria de 1.267 niños de 0 a 14 años con diagnóstico de cáncer y 15.318 niños sin cáncer. La palidez, los moretones y los bultos se habían registrado con mayor frecuencia antes de un diagnóstico de cáncer. Incluso en presencia de un signo aislado, la probabilidad estimada de cáncer era baja. Se observaron patrones en historias anteriores; no constituyen un método para diagnosticar a un niño concreto.",
+              "Si algo persiste después de una consulta, vuelve. Lleva una breve cronología, indica dónde hay dolor o hinchazón y anota los cambios de energía, apetito o actividad. Una foto puede ayudar si el signo aparece y desaparece. Pregunta cuándo debería empezar a mejorar y qué cambios requieren llamar antes."
+            ]
+          },
+          {
+            "heading": "¿Qué pruebas podrían hacerle?",
+            "paragraphs": [
+              "El profesional comienza por escuchar la historia y explorar al niño. Según lo que encuentre puede pedir un hemograma, pruebas de imagen o una consulta especializada. Ante una masa sospechosa, el especialista puede planificar una biopsia para estudiar una muestra de tejido. Las pruebas dependen de los hallazgos. Aunque la primera visita o prueba sea tranquilizadora, vuelve si los síntomas persisten o empeoran.",
+              "El cribado consiste en hacer pruebas a personas que se encuentran bien. No se recomiendan pruebas rutinarias de cribado del cáncer en niños con riesgo promedio. Algunas enfermedades hereditarias requieren vigilancia especializada con pruebas concretas a intervalos definidos. Si hay una de estas enfermedades en tu familia, pregunta qué plan corresponde a tu hijo. A cualquier nivel de riesgo conviene valorar los síntomas nuevos."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Comunica los cambios sin explicación que persisten, progresan o afectan a la vida diaria.",
+          "Pide consejo urgente ante moretones, sangrado o palidez marcada sin causa aparente.",
+          "Pregunta cuándo volver y quién te contactará para las pruebas previstas."
+        ],
+        "faq": [
+          {
+            "q": "¿Mi hijo sano necesita pruebas de cribado del cáncer?",
+            "a": "En general, los niños de riesgo promedio no necesitan cribado rutinario. Algunos niños con enfermedades hereditarias siguen un plan de vigilancia especializada. Hacer pruebas porque hay síntomas tiene otra finalidad."
+          },
+          {
+            "q": "¿Cuándo debo contactar con un profesional?",
+            "a": "Consulta pronto por cambios inusuales que persisten, reaparecen o empeoran, y hoy mismo ante sangrado, moretones o palidez marcada sin explicación. Solicita valoración inmediata ante puntitos inexplicables que no desaparecen al presionarlos y atención de emergencias si el niño se encuentra mal con esa erupción."
+          },
+          {
+            "q": "¿Qué síntomas pueden aparecer en el cáncer infantil?",
+            "a": "Puede haber un bulto que crece, fiebre persistente, pérdida inexplicable de peso, dolor localizado o cojera, cefaleas repetidas con vómitos o un cambio en el ojo o la visión. Muchas otras afecciones producen esos síntomas. Un profesional puede decidir qué investigar."
+          },
+          {
+            "q": "¿Cómo se llega al diagnóstico?",
+            "a": "El profesional pregunta por los síntomas, explora al niño y elige los análisis de sangre o las pruebas de imagen indicados. Un especialista puede recurrir a una biopsia para identificar una masa anormal. Pregunta cómo recibirás los resultados y qué hacer si cambian los síntomas."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Pon ejemplos de cuándo viste un síntoma por primera vez y cómo ha cambiado.",
+            "Pregunta con qué rapidez hay que explorar un signo nuevo y cuándo recurrir a emergencias.",
+            "Pide otra valoración si los síntomas continúan después de una primera visita tranquilizadora."
+          ],
+          "bemama": "BeMama sugiere anotar qué hacía tu hijo con comodidad la semana pasada y qué ha cambiado hoy. Lleva ese ejemplo a la consulta.",
+          "safety": "Busca valoración inmediata ante puntitos sin explicación que no desaparecen al presionarlos. Pide ayuda de emergencias si el niño se encuentra mal con esa erupción, le cuesta mucho respirar, cuesta mucho despertarlo o presenta una hemorragia abundante que no cesa.",
+          "sources": [
+            {
+              "organization": "Sociedad Americana Contra el Cáncer",
+              "title": "Detección y diagnóstico del cáncer en niños",
+              "url": "https://www.cancer.org/cancer/childhood-cancer/signs-symptoms-diagnosis.html"
+            },
+            {
+              "organization": "Instituto Nacional para la Excelencia en la Salud y la Atención",
+              "title": "Sospecha de cáncer en niños, síntomas y derivación",
+              "url": "https://www.nice.org.uk/guidance/ng12/chapter/recommended-actions-organised-by-symptom-and-findings-of-primary-care-investigations"
+            },
+            {
+              "organization": "Dommett y colaboradores, British Journal of General Practice",
+              "title": "Riesgo de cáncer infantil ante síntomas en atención primaria",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3529289/"
+            },
+            {
+              "organization": "Servicio Nacional de Salud británico",
+              "title": "Erupciones en bebés y niños y cuándo acudir a emergencias",
+              "url": "https://www.nhs.uk/symptoms/rashes-babies-and-children/"
+            },
+            {
+              "organization": "Servicio Nacional de Salud británico",
+              "title": "Cambios en el ojo que requieren valoración por posible retinoblastoma",
+              "url": "https://www.nhs.uk/conditions/retinoblastoma/symptoms/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Sintomas sem explicação na infância e quando buscar avaliação",
+        "description": "Saiba quais mudanças na criança pedem avaliação rápida, o que levar à consulta e como investigar sintomas difere do rastreamento de rotina para câncer.",
+        "intro": "Seu filho está mais cansado e pálido que de costume. Nesta semana, você também percebeu manchas roxas sem motivo aparente. Ligue hoje para o profissional que o acompanha e descreva as duas mudanças. Muitas doenças infantis causam cansaço e a maioria das manchas roxas tem uma causa comum, mas essa combinação merece um exame.",
+        "sections": [
+          {
+            "heading": "Que mudanças devo comunicar?",
+            "paragraphs": [
+              "Relate febre ou cansaço persistente sem explicação, um caroço que aumenta, perda de peso involuntária ou dor que volta no mesmo ponto ou faz a criança mancar. Dores de cabeça repetidas com vômitos, alteração recente de equilíbrio ou visão, ou um reflexo branco na pupila também pedem orientação rápida. Conte como a mudança afeta as brincadeiras, a marcha, o sono ou a escola.",
+              "Procure orientação urgente hoje se houver manchas roxas, sangramento ou palidez acentuada sem explicação. Pontinhos sem causa aparente que não somem quando pressionados precisam de avaliação imediata. Acione a emergência agora se a criança estiver passando mal com essas manchas, tiver dificuldade para respirar, for muito difícil de acordar ou tiver um sangramento intenso que não para. Infecções graves e outras doenças também podem causar esses sinais."
+            ]
+          },
+          {
+            "heading": "O que um sintoma pode indicar?",
+            "paragraphs": [
+              "Pesquisadores compararam prontuários da atenção primária do Reino Unido de 1.267 crianças de 0 a 14 anos diagnosticadas com câncer com os de 15.318 crianças sem câncer. Palidez, manchas roxas e caroços estavam entre os achados registrados mais vezes antes do diagnóstico. Mesmo diante de um sinal isolado, a probabilidade estimada de câncer era baixa. Esses padrões em registros anteriores não permitem diagnosticar uma criança individualmente.",
+              "Se algo persistir após uma consulta, volte. Leve uma breve sequência de datas, indique o local da dor ou do inchaço e registre alterações na disposição, no apetite ou nas atividades. Uma fotografia pode ajudar se o sinal aparece e desaparece. Pergunte quando se espera melhora e quais mudanças justificam ligar antes."
+            ]
+          },
+          {
+            "heading": "Que exames podem ser necessários?",
+            "paragraphs": [
+              "A avaliação começa pela história e pelo exame físico. Conforme os achados, o profissional pode solicitar hemograma, exame de imagem ou consulta com especialista. Diante de uma massa suspeita, o especialista pode planejar uma biópsia para examinar uma amostra de tecido. A investigação depende do que for encontrado. Mesmo após uma primeira avaliação ou um exame tranquilizador, volte se os sintomas persistirem ou piorarem.",
+              "Rastreamento é a realização de exames em quem se sente bem. Não se recomenda rastreamento rotineiro de câncer para crianças de risco habitual. Algumas condições hereditárias exigem acompanhamento especializado, com exames específicos em intervalos definidos. Se houver uma dessas condições na família, pergunte à equipe qual plano se aplica. Qualquer que seja o risco, sintomas novos merecem avaliação."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Relate mudanças inexplicadas que persistem, progridem ou prejudicam as atividades habituais.",
+          "Busque orientação urgente para manchas roxas, sangramento ou palidez acentuada sem explicação.",
+          "Pergunte quando voltar e quem entrará em contato sobre os exames planejados."
+        ],
+        "faq": [
+          {
+            "q": "Meu filho saudável precisa de rastreamento de câncer?",
+            "a": "Crianças de risco habitual geralmente não precisam de rastreamento de rotina. Crianças com certas condições hereditárias podem ter um plano de acompanhamento especializado. Exames solicitados por causa de sintomas têm outra finalidade."
+          },
+          {
+            "q": "Quando devo entrar em contato com um profissional?",
+            "a": "Procure orientação logo para uma mudança incomum que persiste, volta ou piora e ainda hoje para sangramento, manchas roxas ou palidez marcada sem explicação. Pontinhos inexplicados que não somem à pressão exigem avaliação imediata. Se a criança estiver passando mal com essa erupção, acione a emergência."
+          },
+          {
+            "q": "Quais sintomas podem ocorrer no câncer infantil?",
+            "a": "Pode haver caroço que cresce, febre persistente, perda de peso sem explicação, dor localizada ou dificuldade para andar sem mancar, dores de cabeça recorrentes com vômitos ou mudança recente no olho ou na visão. Diversas outras doenças causam esses sintomas. O profissional decide o que precisa ser investigado."
+          },
+          {
+            "q": "Como se faz o diagnóstico?",
+            "a": "O profissional pergunta sobre os sintomas, examina a criança e escolhe os exames de sangue ou de imagem indicados. Um especialista pode usar uma biópsia para identificar uma massa anormal. Pergunte como receberá os resultados e o que fazer se os sintomas mudarem."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Dê exemplos de quando percebeu o sintoma e de como ele vem mudando.",
+            "Pergunte em quanto tempo um novo sinal precisa ser examinado e quando recorrer à emergência.",
+            "Marque nova avaliação se os sintomas continuarem após uma primeira consulta tranquilizadora."
+          ],
+          "bemama": "A BeMama sugere anotar o que a criança fazia com facilidade na semana passada e o que mudou hoje. Leve esse exemplo à consulta.",
+          "safety": "Procure avaliação imediata para pontinhos inexplicados que não somem quando pressionados. Acione a emergência se a criança estiver passando mal com essa erupção, respirar com grande dificuldade, for muito difícil de acordar ou apresentar sangramento intenso que não para.",
+          "sources": [
+            {
+              "organization": "Sociedade Americana do Câncer",
+              "title": "Detecção e diagnóstico de câncer na infância",
+              "url": "https://www.cancer.org/cancer/childhood-cancer/signs-symptoms-diagnosis.html"
+            },
+            {
+              "organization": "Instituto Nacional de Excelência em Saúde e Cuidados do Reino Unido",
+              "title": "Suspeita de câncer infantil, sintomas e encaminhamento",
+              "url": "https://www.nice.org.uk/guidance/ng12/chapter/recommended-actions-organised-by-symptom-and-findings-of-primary-care-investigations"
+            },
+            {
+              "organization": "Dommett e colaboradores, British Journal of General Practice",
+              "title": "Risco de câncer infantil diante de sintomas na atenção primária",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3529289/"
+            },
+            {
+              "organization": "Serviço Nacional de Saúde do Reino Unido",
+              "title": "Erupções em bebês e crianças e quando recorrer à emergência",
+              "url": "https://www.nhs.uk/symptoms/rashes-babies-and-children/"
+            },
+            {
+              "organization": "Serviço Nacional de Saúde do Reino Unido",
+              "title": "Alterações nos olhos que exigem avaliação de possível retinoblastoma",
+              "url": "https://www.nhs.uk/conditions/retinoblastoma/symptoms/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5805.webp",
+    "heroAlt": {
+      "en": "A clinician examines two bruises on a child's forearm.",
+      "es": "Un profesional de salud examina dos hematomas en el antebrazo de un niño.",
+      "fr": "Un professionnel examine deux bleus sur l’avant-bras d’un enfant.",
+      "fa": "پزشک دو کبودی روی ساعد کودک را معاینه می‌کند.",
+      "ar": "يفحص مختص صحي كدمتين على ساعد طفل.",
+      "pt": "Um profissional de saúde examina dois hematomas no antebraço de uma criança.",
+      "tr": "Bir sağlık uzmanı çocuğun ön kolundaki iki morluğu inceliyor."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "Unexplained symptoms in children: when to get checked",
+      "description": "Learn which changes in a child need prompt assessment, what to bring to the appointment, and how testing symptoms differs from routine cancer screening."
+    },
+    "fa": {
+      "title": "علائم بی‌علت مشخص در کودکان را چه زمانی باید بررسی کرد؟",
+      "description": "ببینید کدام تغییرات در کودک نیاز به بررسی سریع دارد، برای ویزیت چه اطلاعاتی ببرید و بررسی علائم چه تفاوتی با غربالگری معمول سرطان دارد."
+    },
+    "ar": {
+      "title": "أعراض غير مفسّرة عند الطفل ومتى تحتاج إلى فحص",
+      "description": "تعرّف إلى التغيّرات التي تستدعي تقييم الطفل سريعًا، والمعلومات المفيدة في الموعد، والفرق بين فحوص الأعراض والتحري الروتيني عن السرطان."
+    },
+    "fr": {
+      "title": "Symptômes inexpliqués chez l’enfant et motifs de consultation",
+      "description": "Quels changements chez un enfant demandent un avis rapide ? Voyez comment préparer la consultation et distinguer les examens pour symptômes du dépistage."
+    },
+    "tr": {
+      "title": "Çocuklarda açıklanamayan belirtiler için ne zaman başvurmalı?",
+      "description": "Çocuğunuzdaki hangi değişikliklerin hızla değerlendirilmesi gerektiğini, muayeneye ne götürebileceğinizi ve belirti araştırmasıyla taramanın farkını öğrenin."
+    },
+    "es": {
+      "title": "Síntomas sin causa aparente en niños y cuándo consultar",
+      "description": "Aprende qué cambios en tu hijo requieren atención rápida, qué llevar a la consulta y en qué se diferencia investigar síntomas del cribado rutinario del cáncer."
+    },
+    "pt": {
+      "title": "Sintomas sem explicação na infância e quando buscar avaliação",
+      "description": "Saiba quais mudanças na criança pedem avaliação rápida, o que levar à consulta e como investigar sintomas difere do rastreamento de rotina para câncer."
+    }
+  }
+}

@@ -1,0 +1,660 @@
+{
+  "sourceId": "5947",
+  "article": {
+    "slug": "baby-and-child/getting-ready-for-the-first-day-of-school",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "Getting ready for the first day of school",
+        "description": "Practise the small steps of a school day, from opening lunch to asking for the toilet, and plan with the teacher for the support your child needs.",
+        "intro": "The lunch box is packed. Can your child open the lid, and do they know whom to ask if it sticks? A practice lunch on the kitchen table can tell you more about what the first day will feel like than a set of flashcards. Pick one part of the school day to try together.",
+        "sections": [
+          {
+            "heading": "Walk through an ordinary morning",
+            "paragraphs": [
+              "Ask the school what arrival will look like, where bags go and which adult will meet your child. If a visit is possible, try the route and find the classroom and toilet together. Explain who will pick them up in words they understand, such as “after the class has its afternoon story.” Use a routine the school actually follows.",
+              "Give them a turn with the things they will use. Can they open their lunch, put their coat on and manage their clothes in the toilet? Choose fastenings they can handle or tell the teacher where help is needed. A child who uses an assistive device or needs personal care can start with an agreed plan for that support."
+            ]
+          },
+          {
+            "heading": "Practise asking and taking turns",
+            "paragraphs": [
+              "Play a short game in which each of you takes a turn and waits. Then pretend the lunch lid is stuck. Your child can practise holding it up, pointing or saying “Can you help me open this?” Agree with the teacher how a child who communicates in another language or uses signs can ask for the toilet, help or a break.",
+              "Invite your child to name something they are looking forward to and something they wonder about. If they worry at the classroom door, acknowledge it and hand over to the adult you agreed on. Ask later how the rest of the morning went. That gives you a better picture than judging the day by the goodbye."
+            ]
+          },
+          {
+            "heading": "Make room for learning through play",
+            "paragraphs": [
+              "Read a story and pause for your child to describe a picture. Count the cups as you set the table, or look for the first letter of their name on a label. These activities let you notice interests and practise paying attention without turning the weeks before school into a test.",
+              "In an analysis of six longitudinal datasets, early number, reading and attention skills were associated with later reading and mathematics achievement. These were group-level links with particular academic outcomes. They do not tell you that a child must read before school, and they do not measure everything that helps a child participate in class. Ask the school which activities are helpful and what will be taught there."
+            ]
+          },
+          {
+            "heading": "Plan a quiet response to toilet accidents",
+            "paragraphs": [
+              "A child may miss the chance to go while absorbed in play or may not know how to ask in an unfamiliar classroom. Pack a spare change of clothes if the school allows it and agree where your child can change privately. Respond calmly. Daytime wetting has several possible causes, including holding urine or constipation.",
+              "If wetting starts again after a long dry period or keeps happening, discuss it with your child's clinician. Pain or burning when urinating, or fever with urinary symptoms, merits prompt medical advice. Tell the teacher how to help while you look into the cause."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Rehearse one small task using the actual things your child will bring.",
+          "Agree with the teacher how your child can request help, the toilet or a break.",
+          "Use play and conversation to prepare and make a plan for skills that still need support."
+        ],
+        "faq": [
+          {
+            "q": "Which practical skills are worth practising before school?",
+            "a": "Try the lunch container, coat and toilet clothing your child will use. Show them whom to ask if something is difficult. Arrange support with the school for tasks they cannot yet manage."
+          },
+          {
+            "q": "Does my child have to read or do sums before starting?",
+            "a": "There is no universal list of academic skills to master before the first day. Schools differ. Ask what the teacher expects to teach, and enjoy reading, counting and playing together at home."
+          },
+          {
+            "q": "Could starting school explain a wetting accident?",
+            "a": "An unfamiliar toilet or a busy activity can play a part. Avoid assuming it is anxiety. Keep a change of clothes available and seek medical advice if accidents recur or there are urinary symptoms."
+          },
+          {
+            "q": "If we practise one thing this week, what should it be?",
+            "a": "Choose a part of the day your child finds uncertain. Rehearse how to get an adult's attention and ask for help, using words, a sign or a gesture they can comfortably use."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Talk with the school about practical, social and communication support.",
+            "Keep practice short and use familiar activities and objects.",
+            "Treat wetting without blame and discuss recurring symptoms with a clinician."
+          ],
+          "bemama": "BeMama suggests packing the lunch your child will actually take and letting them try opening it before the first day.",
+          "safety": "Contact a healthcare professional promptly for pain or burning during urination or a fever with urinary symptoms. Ask about recurrent daytime accidents or wetting that returns after a long dry period.",
+          "sources": [
+            {
+              "organization": "American Academy of Pediatrics",
+              "title": "Preparing a preschooler for kindergarten",
+              "url": "https://www.healthychildren.org/english/ages-stages/preschool/pages/is-your-child-ready-for-school.aspx"
+            },
+            {
+              "organization": "Duncan and colleagues, Developmental Psychology",
+              "title": "School readiness and later achievement across six longitudinal datasets",
+              "url": "https://discovery.ucl.ac.uk/id/eprint/10005971/1/Duckworth2007SchoolReadiness1428.pdf"
+            },
+            {
+              "organization": "National Institute of Diabetes and Digestive and Kidney Diseases",
+              "title": "Symptoms and causes of bladder control problems in children",
+              "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems-bedwetting-children/symptoms-causes"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "آمادگی برای اولین روز مدرسه",
+        "description": "از باز کردن ظرف غذا تا گفتن اینکه دستشویی دارد، کارهای کوچک روز مدرسه را با فرزندتان تمرین کنید و برای کمک‌های موردنیازش با معلم هماهنگ شوید.",
+        "intro": "ظرف غذا آماده است. آیا فرزندتان می‌تواند درش را باز کند و اگر گیر کرد می‌داند از چه کسی کمک بخواهد؟ یک بار غذا خوردن با همان ظرف پشت میز آشپزخانه ممکن است بهتر از چند کارت آموزشی نشان دهد روز اول مدرسه برای او چگونه خواهد بود. یک بخش از روز را برای تمرین با هم انتخاب کنید.",
+        "sections": [
+          {
+            "heading": "یک صبح معمولی مدرسه را با هم مرور کنید",
+            "paragraphs": [
+              "از مدرسه بپرسید هنگام ورود چه می‌گذرد، کیف‌ها را کجا می‌گذارند و چه کسی از کودک استقبال می‌کند. اگر بازدید امکان دارد، مسیر را طی کنید و کلاس و دستشویی را پیدا کنید. با عبارتی آشنا بگویید چه کسی دنبالش می‌آید، مثلاً «بعد از اینکه معلم داستان عصر را خواند». به برنامه‌ای اشاره کنید که واقعاً در مدرسه انجام می‌شود.",
+              "بگذارید کودک با وسایل خودش تمرین کند. آیا می‌تواند ظرف غذا را باز کند، کاپشنش را بپوشد و در دستشویی لباسش را مرتب کند؟ بست‌هایی را انتخاب کنید که بتواند باز کند یا به معلم بگویید در چه بخشی کمک می‌خواهد. برای کودکی که وسیلهٔ کمکی دارد یا به مراقبت شخصی نیاز دارد، می‌توان پیش از شروع دربارهٔ حمایت لازم توافق کرد."
+            ]
+          },
+          {
+            "heading": "کمک خواستن و نوبت گرفتن را تمرین کنید",
+            "paragraphs": [
+              "بازی کوتاهی انجام دهید که در آن هر نفر منتظر نوبتش بماند. بعد وانمود کنید درِ ظرف غذا گیر کرده است. کودک می‌تواند ظرف را بالا بگیرد، اشاره کند یا بگوید «کمکم می‌کنید بازش کنم؟» با معلم دربارهٔ روش درخواست دستشویی، کمک یا استراحت برای کودکی که زبان دیگری دارد یا با اشاره ارتباط برقرار می‌کند توافق کنید.",
+              "بپرسید برای چه چیزی شوق دارد و دربارهٔ چه چیزی کنجکاو است. اگر دم در کلاس نگران شد، احساسش را بپذیرید و او را به بزرگ‌سالی که از قبل مشخص کرده‌اید بسپارید. بعد بپرسید باقی صبح چطور گذشته است. این اطلاعات تصویر کامل‌تری از حال او می‌دهد تا قضاوت از روی لحظهٔ خداحافظی."
+            ]
+          },
+          {
+            "heading": "در بازی فرصتی برای یادگیری بسازید",
+            "paragraphs": [
+              "داستانی بخوانید و مکث کنید تا کودک دربارهٔ تصویر حرف بزند. هنگام چیدن میز لیوان‌ها را بشمارید یا اولین حرف اسمش را روی یک برچسب پیدا کنید. می‌شود از علایقش باخبر شد و توجه کردن را تمرین کرد، بی‌آنکه هفته‌های پیش از مدرسه به امتحان تبدیل شوند.",
+              "در بررسی داده‌های شش مطالعهٔ طولی، مهارت‌های اولیهٔ عددی، خواندن و توجه با پیشرفت بعدی در خواندن و ریاضی ارتباط داشتند. این ارتباط در سطح گروه و برای پیامدهای درسی مشخص دیده شد. از آن نمی‌توان نتیجه گرفت که کودک باید قبل از مدرسه خواندن بداند؛ همهٔ آنچه به شرکت در کلاس کمک می‌کند نیز در این سنجه‌ها نیست. از مدرسه بپرسید کدام فعالیت مفید است و چه چیزهایی را آنجا یاد می‌دهند."
+            ]
+          },
+          {
+            "heading": "برای خیس شدن لباس، راهی آرام و خصوصی در نظر بگیرید",
+            "paragraphs": [
+              "کودک ممکن است هنگام بازی چنان سرگرم شود که فرصت دستشویی رفتن را از دست بدهد یا در کلاس ناآشنا نداند چطور اجازه بگیرد. اگر مدرسه اجازه می‌دهد یک دست لباس اضافه بگذارید و جایی برای عوض کردن لباس دور از نگاه دیگران مشخص کنید. آرام بمانید. خیس کردن لباس در روز علت‌های متفاوتی دارد، از جمله نگه داشتن ادرار یا یبوست.",
+              "اگر پس از مدتی طولانی که لباس کودک خشک می‌ماند دوباره خیس می‌شود یا اتفاق تکرار می‌شود، با پزشک کودک در میان بگذارید. درد یا سوزش هنگام ادرار یا تب همراه نشانه‌های ادراری به مشورت پزشکی سریع نیاز دارد. تا زمانی که علت را بررسی می‌کنید، به معلم بگویید چگونه می‌تواند کمک کند."
+            ]
+          }
+        ],
+        "takeaways": [
+          "یک کار کوچک را با همان وسایلی که کودک به مدرسه می‌برد تمرین کنید.",
+          "با معلم دربارهٔ نحوهٔ درخواست کمک، دستشویی یا استراحت توافق کنید.",
+          "با بازی و گفت‌وگو آماده شوید و برای مهارت‌هایی که هنوز به کمک نیاز دارند برنامه داشته باشید."
+        ],
+        "faq": [
+          {
+            "q": "کدام مهارت‌های عملی را پیش از مدرسه تمرین کنیم؟",
+            "a": "کار با ظرف غذا، کاپشن و لباسی را که در دستشویی استفاده می‌کند امتحان کنید. نشان دهید اگر کاری دشوار بود از چه کسی کمک بخواهد. برای کارهایی که هنوز نمی‌تواند انجام دهد با مدرسه هماهنگ کنید."
+          },
+          {
+            "q": "آیا پیش از مدرسه باید خواندن یا حساب کردن بداند؟",
+            "a": "فهرست درسی یکسانی برای همهٔ کودکان پیش از روز اول وجود ندارد. از معلم بپرسید چه چیزهایی را یاد خواهد داد و در خانه از داستان، شمارش و بازی با هم لذت ببرید."
+          },
+          {
+            "q": "آیا شروع مدرسه می‌تواند با خیس شدن لباس ارتباط داشته باشد؟",
+            "a": "دستشویی ناآشنا یا سرگرم بودن کودک می‌تواند نقش داشته باشد. علت را از پیش اضطراب فرض نکنید. لباس اضافه در دسترس بگذارید و اگر تکرار شد یا نشانهٔ ادراری وجود داشت با پزشک مشورت کنید."
+          },
+          {
+            "q": "اگر این هفته فقط یک کار تمرین کنیم، کدام باشد؟",
+            "a": "بخشی از روز را انتخاب کنید که کودک درباره‌اش مطمئن نیست. تمرین کنید چطور با کلمه، علامت یا اشاره‌ای که برایش راحت است توجه یک بزرگ‌سال را جلب کند و کمک بخواهد."
+          }
+        ],
+        "evidence": {
+          "updated": "بازبینی شواهد در ۱۶ نوامبر ۲۰۲۶",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "دربارهٔ حمایت در کارهای عملی، روابط اجتماعی و ارتباط با دیگران با مدرسه گفت‌وگو کنید.",
+            "تمرین کوتاه باشد و با کارها و وسایل آشنا انجام شود.",
+            "برای خیس شدن لباس کودک را سرزنش نکنید و نشانه‌های تکرارشونده را با پزشک در میان بگذارید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند همان غذایی را که کودک قرار است ببرد آماده کنید تا پیش از روز اول باز کردن ظرفش را تمرین کند.",
+          "safety": "برای درد یا سوزش ادرار یا تب همراه با نشانه‌های ادراری، سریع از پزشک راهنمایی بخواهید. دربارهٔ خیس شدن مکرر لباس در روز یا بازگشت آن پس از دوره‌ای طولانی از خشک ماندن نیز مشورت کنید.",
+          "sources": [
+            {
+              "organization": "آکادمی طب کودکان آمریکا",
+              "title": "آماده کردن کودک پیش‌دبستانی برای ورود به مدرسه",
+              "url": "https://www.healthychildren.org/english/ages-stages/preschool/pages/is-your-child-ready-for-school.aspx"
+            },
+            {
+              "organization": "دانکن و همکاران، مجلهٔ روان‌شناسی رشد",
+              "title": "آمادگی برای مدرسه و پیشرفت بعدی در شش مجموعه‌دادهٔ طولی",
+              "url": "https://discovery.ucl.ac.uk/id/eprint/10005971/1/Duckworth2007SchoolReadiness1428.pdf"
+            },
+            {
+              "organization": "مؤسسهٔ ملی دیابت و بیماری‌های گوارش و کلیه",
+              "title": "نشانه‌ها و علت‌های مشکلات کنترل مثانه در کودکان",
+              "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems-bedwetting-children/symptoms-causes"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "كيف يستعد طفلك ليومه الأول في المدرسة؟",
+        "description": "تدرّبا على الخطوات الصغيرة في يوم المدرسة، من فتح علبة الطعام إلى طلب الذهاب إلى الحمام، واتفقا مع المعلّم على المساعدة التي يحتاج إليها طفلك.",
+        "intro": "علبة الطعام جاهزة. هل يستطيع طفلك فتحها، وهل يعرف ممن يطلب المساعدة إذا علق الغطاء؟ قد يخبرك غداء تجريبي على طاولة المطبخ عن يومه الأول أكثر مما تخبرك بطاقات التدريب. اختارا جزءاً واحداً من اليوم لتجرّباه معاً.",
+        "sections": [
+          {
+            "heading": "تعرّفا إلى خطوات صباح عادي",
+            "paragraphs": [
+              "اسأل المدرسة عن إجراءات الوصول، وأين توضع الحقائب وأيّ شخص سيستقبل طفلك. إذا أمكن ترتيب زيارة، فجرّبا الطريق وابحثا عن الصف والحمام معاً. اشرح له من سيأتي ليأخذه بكلمات يفهمها، مثل «بعد أن تقرأ المعلّمة قصة بعد الظهر». اختر موعداً مرتبطاً بنشاط تقوم به المدرسة فعلاً.",
+              "أعطِ الطفل فرصة لتجربة أغراضه. هل يستطيع فتح علبة الطعام وارتداء معطفه والتعامل مع ملابسه في الحمام؟ اختر مثبتات يستطيع فتحها أو أخبر المعلّم أين يحتاج إلى العون. ويمكن الاتفاق مسبقاً على الدعم إذا استخدم الطفل وسيلة مساعدة أو احتاج إلى رعاية شخصية."
+            ]
+          },
+          {
+            "heading": "تدرّبا على طلب العون وتبادل الأدوار",
+            "paragraphs": [
+              "العبا لعبة قصيرة يأخذ فيها كل منكما دوره وينتظر الآخر، ثم تظاهرا بأن غطاء علبة الغداء عالق. يمكن للطفل رفع العلبة أو الإشارة إليها أو القول «هل تساعدني على فتحها؟». اتفق مع المعلّم كيف يستطيع الطفل الذي يتواصل بلغة أخرى أو بالإشارة أن يطلب الحمام أو المساعدة أو الاستراحة.",
+              "اسأله عمّا يتطلع إليه وعن شيء يتساءل بشأنه. إذا قلق عند باب الصف، فتفهّم شعوره وسلّمه إلى الشخص المتفق عليه. اسأل لاحقاً كيف مضت بقية الفترة الصباحية، حتى ترى صورة أوسع من لحظة الوداع."
+            ]
+          },
+          {
+            "heading": "افسح مجالاً للتعلّم من خلال اللعب",
+            "paragraphs": [
+              "اقرأ له قصة وتوقف حتى يصف إحدى الصور. عدّا الأكواب معاً عند ترتيب المائدة أو ابحثا عن الحرف الأول من اسمه على ملصق. تكتشف اهتماماته وتتدربان على الانتباه من دون تحويل الأسابيع السابقة للمدرسة إلى اختبار.",
+              "في تحليل لست مجموعات من البيانات الطولية، ارتبطت مهارات الأعداد والقراءة والانتباه المبكرة بالتحصيل اللاحق في القراءة والرياضيات. كانت هذه روابط على مستوى المجموعات تخص نتائج أكاديمية محددة. ولا تعني أن على الطفل القراءة قبل المدرسة أو أنها تقيس كل ما يساعده على المشاركة في الصف. اسأل المدرسة عن الأنشطة المفيدة وما سيُدرّس فيها."
+            ]
+          },
+          {
+            "heading": "خطّط للتعامل مع تبلّل الملابس بهدوء",
+            "paragraphs": [
+              "قد يفوّت الطفل فرصة الذهاب إلى الحمام لاندماجه في اللعب أو لأنه لا يعرف كيف يطلب ذلك في صف جديد. ضع ملابس إضافية في الحقيبة إن سمحت المدرسة واتفق على مكان خاص لتبديلها. استجب بهدوء. للتبلّل نهاراً أسباب متعددة، منها حبس البول أو الإمساك.",
+              "إذا عاد التبلّل بعد فترة طويلة من الجفاف أو استمر تكراره، فناقش الأمر مع الطبيب. الألم أو الحرقة عند التبوّل، أو الحمى مع أعراض بولية، تستدعي طلب المشورة الطبية سريعاً. أخبر المعلّم بكيفية المساعدة ريثما تتضح الأسباب."
+            ]
+          }
+        ],
+        "takeaways": [
+          "جرّبا مهمة صغيرة باستخدام الأغراض نفسها التي سيأخذها الطفل.",
+          "اتفق مع المعلّم على كيفية طلب المساعدة أو الحمام أو الاستراحة.",
+          "استعدّا باللعب والحديث وضَعا خطة لما لا يزال يحتاج إلى دعم."
+        ],
+        "faq": [
+          {
+            "q": "ما المهارات العملية التي تستحق التدريب قبل المدرسة؟",
+            "a": "جرّبا علبة الطعام والمعطف والملابس التي سيرتديها الطفل عند الذهاب إلى الحمام. أرِه ممن يطلب المساعدة إذا صعب عليه شيء. رتّب مع المدرسة الدعم للمهام التي لا يستطيع إنجازها بمفرده بعد."
+          },
+          {
+            "q": "هل يجب أن يقرأ طفلي أو يحسب قبل بدء المدرسة؟",
+            "a": "لا توجد قائمة دراسية موحّدة يجب إتقانها قبل اليوم الأول. تختلف المدارس، فاسأل عمّا يتوقع المعلّم تدريسه واستمتعا بالقراءة والعد واللعب في البيت."
+          },
+          {
+            "q": "هل يمكن أن يكون بدء المدرسة وراء تبلّل الملابس؟",
+            "a": "قد يسهم الحمام غير المألوف أو الانشغال بنشاط في ذلك. تجنب الجزم بأن السبب هو القلق. جهّز ملابس بديلة واطلب رأياً طبياً إذا تكررت الحوادث أو ظهرت أعراض بولية."
+          },
+          {
+            "q": "إذا تدرّبنا على شيء واحد هذا الأسبوع، فماذا نختار؟",
+            "a": "اختارا جزءاً من اليوم يشعر الطفل بعدم اليقين تجاهه. تدرّبا على لفت انتباه بالغ وطلب المساعدة بكلمات أو إشارة أو حركة مريحة له."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "ناقش مع المدرسة الدعم العملي والاجتماعي ووسائل التواصل.",
+            "اجعل التدريب قصيراً واستعن بأنشطة وأغراض مألوفة.",
+            "تعامل مع تبلّل الملابس من دون لوم وناقش الأعراض المتكررة مع الطبيب."
+          ],
+          "bemama": "تقترح بي ماما تجهيز الغداء الذي سيأخذه الطفل فعلاً وتركه يجرّب فتح علبته قبل اليوم الأول.",
+          "safety": "اتصل بمختص صحي سريعاً عند وجود ألم أو حرقة عند التبول أو حمى مع أعراض بولية. واستشره إذا تكرر التبلّل نهاراً أو عاد بعد فترة طويلة من الجفاف.",
+          "sources": [
+            {
+              "organization": "الأكاديمية الأمريكية لطب الأطفال",
+              "title": "إعداد طفل ما قبل المدرسة لدخول الروضة المدرسية",
+              "url": "https://www.healthychildren.org/english/ages-stages/preschool/pages/is-your-child-ready-for-school.aspx"
+            },
+            {
+              "organization": "دنكن وزملاؤه، مجلة علم النفس النمائي",
+              "title": "الاستعداد للمدرسة والتحصيل اللاحق في ست مجموعات بيانات طولية",
+              "url": "https://discovery.ucl.ac.uk/id/eprint/10005971/1/Duckworth2007SchoolReadiness1428.pdf"
+            },
+            {
+              "organization": "المعهد الوطني للسكري وأمراض الجهاز الهضمي والكلى",
+              "title": "أعراض مشكلات التحكم بالمثانة عند الأطفال وأسبابها",
+              "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems-bedwetting-children/symptoms-causes"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Préparer son enfant à son premier jour d’école",
+        "description": "Ouvrir sa boîte à déjeuner, demander les toilettes ou de l’aide : répétez les gestes du jour de rentrée et convenez avec l’école du soutien nécessaire.",
+        "intro": "Le déjeuner est prêt. Votre enfant peut-il ouvrir le couvercle et sait-il vers qui se tourner s’il résiste ? Un repas d’essai à la table de cuisine peut vous en apprendre davantage sur sa première journée qu’une série de cartes à mémoriser. Choisissez une étape de la journée à essayer ensemble.",
+        "sections": [
+          {
+            "heading": "Imaginez un matin ordinaire",
+            "paragraphs": [
+              "Demandez à l’école comment se passe l’arrivée, où déposer les sacs et quel adulte accueillera votre enfant. Si une visite est possible, faites le trajet et repérez ensemble la classe et les toilettes. Dites-lui qui viendra le chercher avec un repère qu’il comprend, comme « après l’histoire de l’après-midi ». Choisissez une activité qui figure bien au programme.",
+              "Laissez-le utiliser ses propres affaires. Peut-il ouvrir sa boîte, enfiler son manteau ou manipuler ses vêtements aux toilettes ? Choisissez des fermetures faciles pour lui ou indiquez à l’enseignant où il a besoin d’aide. Pour un enfant qui utilise une aide technique ou qui a besoin de soins personnels, convenez du soutien à mettre en place dès le premier jour."
+            ]
+          },
+          {
+            "heading": "S’entraîner à demander de l’aide et à attendre son tour",
+            "paragraphs": [
+              "Jouez quelques minutes à un jeu où chacun attend son tour. Faites ensuite semblant que le couvercle est coincé. Votre enfant peut le montrer, le désigner du doigt ou dire « Tu peux m’aider à l’ouvrir ? » Convenez avec l’école d’un moyen de demander les toilettes, de l’aide ou une pause si votre enfant s’exprime dans une autre langue ou par signes.",
+              "Demandez-lui ce qu’il attend avec plaisir et ce qu’il aimerait savoir. S’il s’inquiète à la porte, accueillez son émotion et confiez-le à l’adulte prévu. Demandez ensuite comment s’est passée la suite de la matinée. Vous aurez un aperçu plus complet qu’en vous fiant uniquement aux adieux."
+            ]
+          },
+          {
+            "heading": "Faire une place aux apprentissages par le jeu",
+            "paragraphs": [
+              "Lisez une histoire en laissant votre enfant décrire une image. Comptez les verres en mettant la table ou cherchez l’initiale de son prénom sur une étiquette. Vous découvrez ce qui l’intéresse et exercez son attention sans transformer les semaines qui précèdent la rentrée en examen.",
+              "Une analyse de six ensembles de données longitudinales a trouvé un lien entre les premières compétences en nombres, en lecture et en attention et les résultats ultérieurs en lecture et en mathématiques. Ces liens observés à l’échelle de groupes portaient sur des résultats scolaires précis. Ils n’imposent pas de savoir lire avant l’école et ne mesurent pas tout ce qui facilite la participation en classe. Demandez quelles activités l’école conseille et ce qu’elle enseignera."
+            ]
+          },
+          {
+            "heading": "Prévoir une solution discrète en cas d’accident aux toilettes",
+            "paragraphs": [
+              "Un enfant peut tarder à y aller parce qu’il joue ou parce qu’il ignore comment demander dans cette nouvelle classe. Glissez une tenue de rechange dans son sac si l’école le permet et convenez d’un endroit pour se changer en privé. Gardez votre calme. Se retenir ou être constipé fait partie des causes possibles des fuites urinaires en journée.",
+              "Si les accidents reprennent après une longue période sans fuite ou se répètent, parlez-en au médecin de l’enfant. Une douleur ou une brûlure en urinant, ou une fièvre accompagnée de symptômes urinaires, justifie de demander rapidement un avis médical. Indiquez à l’enseignant comment l’aider pendant que vous cherchez la cause."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Répétez une petite tâche avec les affaires qu’il emportera vraiment.",
+          "Convenez avec l’enseignant d’une façon de demander de l’aide, une pause ou les toilettes.",
+          "Préparez la rentrée par le jeu et la conversation et organisez du soutien pour les gestes encore difficiles."
+        ],
+        "faq": [
+          {
+            "q": "Quels gestes pratiques exercer avant l’école ?",
+            "a": "Essayez la boîte à déjeuner, le manteau et les vêtements qu’il devra manipuler aux toilettes. Montrez-lui à qui demander de l’aide et prévoyez avec l’école un soutien pour les gestes qu’il ne maîtrise pas encore."
+          },
+          {
+            "q": "Mon enfant doit-il savoir lire ou calculer avant la rentrée ?",
+            "a": "Il n’existe pas de liste universelle de compétences scolaires à maîtriser avant le premier jour. Demandez à l’enseignant ce qu’il prévoit d’apprendre aux enfants et prenez plaisir à lire, compter et jouer ensemble à la maison."
+          },
+          {
+            "q": "La rentrée peut-elle expliquer que mon enfant ait mouillé ses vêtements ?",
+            "a": "Des toilettes inconnues ou un jeu captivant peuvent y contribuer. Ne présumez pas que c’est de l’anxiété. Gardez une tenue de rechange et demandez un avis médical si les incidents se répètent ou si des symptômes urinaires apparaissent."
+          },
+          {
+            "q": "Si nous répétons une seule chose cette semaine, laquelle choisir ?",
+            "a": "Choisissez un moment qui lui paraît incertain. Entraînez-vous à attirer l’attention d’un adulte et à demander de l’aide par des mots, un signe ou un geste qui lui convient."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Parlez à l’école des soutiens pratiques, sociaux et à la communication.",
+            "Privilégiez de courts essais avec des activités et des objets familiers.",
+            "Réagissez sans reproche aux fuites urinaires et signalez au médecin les symptômes qui se répètent."
+          ],
+          "bemama": "BeMama propose de préparer le déjeuner que l’enfant emportera vraiment et de le laisser s’exercer à ouvrir sa boîte avant la rentrée.",
+          "safety": "Contactez rapidement un professionnel de santé en cas de douleur ou de brûlure en urinant ou de fièvre avec des symptômes urinaires. Signalez aussi les fuites diurnes répétées ou qui reprennent après une longue période sans accident.",
+          "sources": [
+            {
+              "organization": "Académie américaine de pédiatrie",
+              "title": "Préparer un enfant d’âge préscolaire à l’entrée à l’école",
+              "url": "https://www.healthychildren.org/english/ages-stages/preschool/pages/is-your-child-ready-for-school.aspx"
+            },
+            {
+              "organization": "Duncan et collègues, revue Developmental Psychology",
+              "title": "Aptitudes à la rentrée et résultats ultérieurs dans six ensembles de données longitudinales",
+              "url": "https://discovery.ucl.ac.uk/id/eprint/10005971/1/Duckworth2007SchoolReadiness1428.pdf"
+            },
+            {
+              "organization": "Institut national américain du diabète et des maladies digestives et rénales",
+              "title": "Symptômes et causes des troubles du contrôle de la vessie chez l’enfant",
+              "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems-bedwetting-children/symptoms-causes"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Okulun ilk gününe hazırlanmak",
+        "description": "Beslenme kutusunu açmaktan tuvalete gitmek için izin istemeye kadar okul gününün küçük adımlarını deneyin ve gerekli desteği öğretmenle planlayın.",
+        "intro": "Öğle yemeği hazır. Çocuğunuz kutunun kapağını açabiliyor mu? Takılırsa kimden yardım isteyeceğini biliyor mu? Mutfak masasında kendi kutusuyla yediği bir deneme öğünü, ilk günün nasıl hissettireceğini bir deste alıştırma kartından daha iyi gösterebilir. Günün bir bölümünü seçip birlikte deneyin.",
+        "sections": [
+          {
+            "heading": "Sıradan bir sabahın adımlarını gözden geçirin",
+            "paragraphs": [
+              "Okula girişin nasıl olacağını, çantaların nereye konacağını ve çocuğu hangi yetişkinin karşılayacağını sorun. Ziyaret mümkünse yolu birlikte yürüyüp sınıfı ve tuvaleti bulun. Onu kimin alacağını anlayacağı bir zaman işaretiyle anlatın; örneğin “öğleden sonra sınıfta öykü okunduktan sonra”. Okulun gerçekten uyguladığı bir rutini seçin.",
+              "Kullanacağı eşyaları kendisinin denemesine fırsat verin. Beslenme kutusunu açabiliyor, montunu giyebiliyor ve tuvalette giysilerini toparlayabiliyor mu? Kullanabileceği düğme veya fermuarları seçin ya da yardıma ihtiyaç duyduğu adımı öğretmene söyleyin. Yardımcı cihaz kullanan veya kişisel bakım desteği gereken çocuk için okulla önceden anlaşabilirsiniz."
+            ]
+          },
+          {
+            "heading": "Yardım istemeyi ve sıra beklemeyi çalışın",
+            "paragraphs": [
+              "Her birinizin sırasını beklediği kısa bir oyun oynayın. Ardından beslenme kutusunun kapağı takılmış gibi yapın. Çocuğunuz kutuyu kaldırmayı, işaret etmeyi veya “Bunu açmama yardım eder misin?” demeyi deneyebilir. Başka dilde veya işaretlerle iletişim kuruyorsa tuvaleti, yardımı ya da molayı nasıl isteyebileceğini öğretmenle kararlaştırın.",
+              "Heyecanla beklediği bir şeyi ve merak ettiği bir konuyu sorun. Sınıf kapısında kaygılanırsa duygusunu kabul edin ve onu kararlaştırdığınız yetişkine bırakın. Sonra sabahın geri kalanının nasıl geçtiğini sorun. Böylece günü yalnızca vedalaşma anına göre değerlendirmekten daha kapsamlı bir izlenim edinirsiniz."
+            ]
+          },
+          {
+            "heading": "Oyunla öğrenmeye yer açın",
+            "paragraphs": [
+              "Bir öykü okurken resmi anlatabilmesi için arada durun. Masayı kurarken bardakları sayın veya bir etikette adının ilk harfini arayın. Böylece ilgi alanlarını fark eder, okul öncesindeki haftaları sınava dönüştürmeden dikkatini kullanmasını desteklersiniz.",
+              "Altı uzunlamasına veri kümesinin incelendiği bir araştırmada okula girişteki sayı, okuma ve dikkat becerileriyle sonraki okuma ve matematik başarısı arasında ilişki bulundu. Bunlar belirli akademik sonuçlara ait grup düzeyindeki ilişkilerdir. Çocuğun okula başlamadan önce okuması gerektiğini göstermez ve sınıfa katılımını kolaylaştıran her şeyi ölçmez. Hangi etkinliklerin uygun olduğunu, hangilerinin okulda öğretileceğini sorun."
+            ]
+          },
+          {
+            "heading": "Altını ıslatırsa sakince ve mahremiyetine dikkat ederek yaklaşın",
+            "paragraphs": [
+              "Çocuk oyuna daldığı için tuvalete gitmeyi erteleyebilir veya yabancı bir sınıfta nasıl izin isteyeceğini bilemeyebilir. Okul uygunsa bir takım yedek giysi koyun ve özel olarak nerede üstünü değiştirebileceğini konuşun. Sakin olun. Gündüz idrar kaçırmanın idrarı tutma veya kabızlık gibi farklı nedenleri vardır.",
+              "Uzun süredir idrar kaçırmıyorken yeniden başlarsa veya sık sık olursa doktoruyla konuşun. İdrar yaparken ağrı veya yanma ya da idrar yakınmalarıyla birlikte ateş olursa gecikmeden tıbbi görüş alın. Nedenini araştırırken öğretmene nasıl yardımcı olabileceğini söyleyin."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Bir küçük görevi çocuğun gerçekten götüreceği eşya ile prova edin.",
+          "Nasıl yardım, tuvalet izni veya mola isteyebileceğini öğretmenle kararlaştırın.",
+          "Oyunla ve konuşarak hazırlanın; henüz yardıma ihtiyaç duyduğu beceriler için destek planlayın."
+        ],
+        "faq": [
+          {
+            "q": "Okuldan önce hangi günlük becerileri denemek yararlı?",
+            "a": "Beslenme kutusunu, montunu ve tuvalette kullanacağı giysileri deneyin. Zorlanırsa kimden yardım isteyeceğini gösterin. Tek başına yapamadığı işler için okulla desteği kararlaştırın."
+          },
+          {
+            "q": "Başlamadan önce okuması veya işlem yapması gerekiyor mu?",
+            "a": "İlk günden önce her çocuğun öğrenmiş olması gereken ortak bir akademik beceri listesi yoktur. Okullar farklıdır. Öğretmenin neleri öğreteceğini sorun, evde birlikte kitap okumaktan, saymaktan ve oyun oynamaktan keyif alın."
+          },
+          {
+            "q": "Okula başlamak altını ıslatmasını açıklayabilir mi?",
+            "a": "Yabancı bir tuvalet veya ilgisini çeken bir etkinlik etkili olabilir. Nedenin kaygı olduğunu varsaymayın. Yedek giysi hazır bulundurun; tekrarlarsa veya idrarla ilgili yakınmalar olursa tıbbi görüş alın."
+          },
+          {
+            "q": "Bu hafta tek bir şey çalışsak neyi seçelim?",
+            "a": "Günün çocuğa belirsiz gelen bir kısmını seçin. Rahatça kullanabildiği sözcük, işaret veya hareketle bir yetişkinin dikkatini çekip yardım istemesini prova edin."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Okulla günlük işler, sosyal ilişkiler ve iletişim için gereken desteği görüşün.",
+            "Alıştırmaları kısa tutun ve tanıdık etkinlikler ile eşyalar kullanın.",
+            "İdrar kaçırdığında çocuğu suçlamayın ve tekrarlayan belirtileri doktorla görüşün."
+          ],
+          "bemama": "BeMama, çocuğun okula götüreceği gerçek yemeği hazırlayıp ilk günden önce kutusunu açmasına fırsat vermenizi önerir.",
+          "safety": "İdrar yaparken ağrı veya yanma ya da idrar yakınmalarıyla birlikte ateş olursa gecikmeden sağlık uzmanına başvurun. Sık tekrarlayan gündüz idrar kaçırmasını ya da uzun bir kuru dönem sonrasında yeniden başlamasını da danışın.",
+          "sources": [
+            {
+              "organization": "Amerikan Pediatri Akademisi",
+              "title": "Okul öncesi çocuğun okula hazırlanması",
+              "url": "https://www.healthychildren.org/english/ages-stages/preschool/pages/is-your-child-ready-for-school.aspx"
+            },
+            {
+              "organization": "Duncan ve çalışma arkadaşları, Developmental Psychology dergisi",
+              "title": "Altı uzunlamasına veri kümesinde okula hazır oluş ve sonraki başarı",
+              "url": "https://discovery.ucl.ac.uk/id/eprint/10005971/1/Duckworth2007SchoolReadiness1428.pdf"
+            },
+            {
+              "organization": "Ulusal Diyabet, Sindirim ve Böbrek Hastalıkları Enstitüsü",
+              "title": "Çocuklarda mesane kontrolü sorunlarının belirtileri ve nedenleri",
+              "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems-bedwetting-children/symptoms-causes"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Cómo preparar a tu hijo para el primer día de escuela",
+        "description": "Practicad los pequeños pasos del día escolar, como abrir la fiambrera o pedir ir al baño, y acordad con el docente el apoyo que necesita tu hijo.",
+        "intro": "La comida está preparada. ¿Puede tu hijo abrir la tapa? ¿Sabe a quién pedir ayuda si se atasca? Comer un día en la mesa de la cocina con los mismos utensilios puede enseñar más sobre cómo se sentirá el primer día que una baraja de fichas. Elegid una parte de la jornada para ensayarla juntos.",
+        "sections": [
+          {
+            "heading": "Recorred los pasos de una mañana normal",
+            "paragraphs": [
+              "Pregunta en la escuela cómo será la llegada, dónde se dejarán las mochilas y qué adulto recibirá al niño. Si se puede hacer una visita, recorred el camino y localizad el aula y el baño. Explícale quién irá a recogerlo con palabras que entienda, como «después del cuento de la tarde». Usa una actividad que de verdad forme parte del horario.",
+              "Deja que pruebe sus cosas. ¿Puede abrir la fiambrera, ponerse el abrigo y manejar la ropa en el baño? Escoge cierres que pueda usar o di al docente qué le cuesta. Si utiliza un dispositivo de apoyo o necesita ayuda con el cuidado personal, acordad cómo recibirá ese apoyo desde el comienzo."
+            ]
+          },
+          {
+            "heading": "Ensayad pedir ayuda y esperar el turno",
+            "paragraphs": [
+              "Jugad a algo breve en lo que cada uno espera su turno. Luego fingid que la tapa del almuerzo está atascada. El niño puede levantarla, señalarla o decir «¿Me ayudas a abrirla?». Si se comunica en otra lengua o con signos, acordad con el docente cómo pedirá ir al baño, ayuda o un descanso.",
+              "Invítale a contar algo que espera con ilusión y algo que le intriga. Si se inquieta en la puerta del aula, reconoce su emoción y déjalo con el adulto acordado. Pregunta después cómo fue el resto de la mañana. Así conocerás más que si juzgas el día por la despedida."
+            ]
+          },
+          {
+            "heading": "Deja espacio al aprendizaje mediante el juego",
+            "paragraphs": [
+              "Lee un cuento y haz una pausa para que describa una ilustración. Contad los vasos al poner la mesa o buscad la inicial de su nombre en una etiqueta. Estas actividades permiten descubrir intereses y practicar la atención sin convertir las semanas previas en un examen.",
+              "Un análisis de seis conjuntos de datos longitudinales relacionó habilidades tempranas de cálculo, lectura y atención con el rendimiento posterior en matemáticas y lectura. Eran asociaciones de grupo con resultados académicos concretos. No exigen que el niño sepa leer de antemano ni miden todo lo que le ayudará a participar en clase. Pregunta a la escuela qué actividades recomienda y qué aprenderá allí."
+            ]
+          },
+          {
+            "heading": "Preparad una respuesta discreta si se moja la ropa",
+            "paragraphs": [
+              "Puede olvidarse de ir al baño mientras juega o no saber cómo pedir permiso en un aula nueva. Incluye una muda si la escuela lo permite y acordad dónde podrá cambiarse en privado. Responde con calma. Mojarse de día puede tener varias explicaciones, como retener la orina o el estreñimiento.",
+              "Si vuelve a mojarse tras un largo periodo sin escapes o sucede repetidamente, coméntalo con su pediatra. El dolor o escozor al orinar, o la fiebre acompañada de síntomas urinarios, requieren consulta médica pronta. Mientras se aclara la causa, explica al docente cómo ayudar."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Ensayad una tarea pequeña con el material que llevará de verdad.",
+          "Acordad cómo podrá pedir ayuda, una pausa o permiso para ir al baño.",
+          "Prepara el inicio con juegos y conversaciones y organiza apoyo para las habilidades en las que aún lo necesita."
+        ],
+        "faq": [
+          {
+            "q": "¿Qué habilidades prácticas conviene ensayar antes de empezar?",
+            "a": "Probad la fiambrera, el abrigo y la ropa que tendrá que manejar en el baño. Enséñale a quién dirigirse si algo cuesta. Organiza con la escuela el apoyo para las tareas que aún no haga solo."
+          },
+          {
+            "q": "¿Debe saber leer o hacer cuentas antes del primer día?",
+            "a": "No hay una lista universal de habilidades académicas que deba dominar antes de empezar. Cada escuela es distinta. Pregunta qué se enseñará allí y disfrutad leyendo, contando y jugando en casa."
+          },
+          {
+            "q": "¿Podría el inicio de las clases explicar que se moje?",
+            "a": "Un baño desconocido o estar absorto en una actividad pueden influir. Evita dar por hecho que sea ansiedad. Deja una muda a mano y consulta si los escapes se repiten o aparecen síntomas urinarios."
+          },
+          {
+            "q": "Si practicamos una sola cosa esta semana, ¿cuál elegimos?",
+            "a": "Escoged un momento que le genere incertidumbre. Ensayad cómo llamar la atención de un adulto y pedir ayuda con palabras, un signo o un gesto que le resulte cómodo."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Habla con la escuela de los apoyos prácticos, sociales y de comunicación.",
+            "Haz ensayos cortos con actividades y objetos familiares.",
+            "Evita culparlo por los escapes y consulta al pediatra si los síntomas se repiten."
+          ],
+          "bemama": "BeMama propone preparar la comida que llevará el niño y dejar que pruebe a abrir su recipiente antes del primer día.",
+          "safety": "Consulta pronto si hay dolor o escozor al orinar o fiebre con síntomas urinarios. Pregunta por los escapes diurnos que se repiten o que vuelven tras un largo periodo sin ellos.",
+          "sources": [
+            {
+              "organization": "Academia Estadounidense de Pediatría",
+              "title": "Cómo preparar a un niño de preescolar para el inicio de la escuela",
+              "url": "https://www.healthychildren.org/english/ages-stages/preschool/pages/is-your-child-ready-for-school.aspx"
+            },
+            {
+              "organization": "Duncan y colaboradores, revista Developmental Psychology",
+              "title": "Preparación escolar y rendimiento posterior en seis conjuntos de datos longitudinales",
+              "url": "https://discovery.ucl.ac.uk/id/eprint/10005971/1/Duckworth2007SchoolReadiness1428.pdf"
+            },
+            {
+              "organization": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales",
+              "title": "Síntomas y causas de los problemas de control de la vejiga en los niños",
+              "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems-bedwetting-children/symptoms-causes"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Como preparar a criança para o primeiro dia de escola",
+        "description": "Ensaiem os pequenos passos de um dia na escola, de abrir a lancheira a pedir para ir ao banheiro, e combinem com o professor o apoio necessário.",
+        "intro": "O lanche está pronto. Seu filho consegue abrir a tampa e sabe a quem pedir ajuda se ela emperrar? Uma refeição de ensaio na mesa da cozinha pode revelar mais sobre como será o primeiro dia do que um conjunto de cartões de estudo. Escolham uma parte da rotina para experimentar juntos.",
+        "sections": [
+          {
+            "heading": "Percorram as etapas de uma manhã comum",
+            "paragraphs": [
+              "Pergunte à escola como será a chegada, onde ficarão as mochilas e quem vai receber seu filho. Se puderem visitar, façam o trajeto e encontrem juntos a sala e o banheiro. Explique quem irá buscá-lo com uma referência que ele entenda, como “depois da história da tarde”. Escolha uma atividade que realmente faça parte da rotina da escola.",
+              "Deixe que ele experimente os próprios objetos. Consegue abrir a lancheira, vestir o casaco e ajeitar a roupa no banheiro? Escolha fechos que consiga usar ou informe ao professor em que precisa de ajuda. Se usa um dispositivo de apoio ou precisa de cuidados pessoais, é possível combinar a assistência antes de começar."
+            ]
+          },
+          {
+            "heading": "Treinem pedir ajuda e esperar a vez",
+            "paragraphs": [
+              "Façam um jogo curto em que cada um espera a vez. Depois, finjam que a tampa da lancheira ficou presa. A criança pode levantá-la, apontar ou dizer “Você me ajuda a abrir?”. Combinem com o professor como uma criança que se comunica em outra língua ou por sinais pode pedir para ir ao banheiro, solicitar ajuda ou fazer uma pausa.",
+              "Pergunte o que ela espera com alegria e o que gostaria de saber. Se ficar apreensiva na porta da sala, acolha o sentimento e deixe-a com o adulto combinado. Pergunte depois como foi o restante da manhã. Isso dá uma visão mais ampla do dia do que avaliar só a despedida."
+            ]
+          },
+          {
+            "heading": "Dê espaço para aprender brincando",
+            "paragraphs": [
+              "Leiam uma história e façam uma pausa para a criança descrever uma figura. Contem os copos ao pôr a mesa ou procurem a inicial do nome dela em um rótulo. São formas de conhecer seus interesses e exercitar a atenção sem transformar as semanas anteriores à escola em prova.",
+              "Uma análise de seis conjuntos de dados longitudinais encontrou associação entre habilidades iniciais de matemática, leitura e atenção e o desempenho posterior em leitura e matemática. Eram relações entre resultados acadêmicos específicos observados em grupos. Isso não estabelece que a criança precise ler antes de começar nem mede tudo o que facilita a participação em sala. Pergunte que atividades a escola recomenda e o que será ensinado lá."
+            ]
+          },
+          {
+            "heading": "Planeje uma resposta discreta para os escapes de urina",
+            "paragraphs": [
+              "A criança pode deixar passar a hora de ir ao banheiro por estar brincando ou por não saber como pedir em uma turma nova. Leve roupa extra se a escola permitir e combinem um lugar onde possa se trocar em particular. Reaja com calma. Escapes durante o dia podem ocorrer por vários motivos, como segurar o xixi ou ter intestino preso.",
+              "Converse com o pediatra se os escapes voltarem após um longo período sem acontecer ou se forem frequentes. Dor ou ardor ao urinar, ou febre acompanhada de sintomas urinários, justificam orientação médica sem demora. Diga ao professor como ajudar enquanto a causa é investigada."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Ensaiem uma tarefa pequena com os objetos que a criança levará para a escola.",
+          "Combinem como poderá pedir ajuda, uma pausa ou para ir ao banheiro.",
+          "Preparem-se com brincadeiras e conversa e planejem apoio para as habilidades que ainda precisa desenvolver."
+        ],
+        "faq": [
+          {
+            "q": "Quais habilidades práticas vale a pena treinar antes da escola?",
+            "a": "Experimentem a lancheira, o casaco e as roupas que ela vai usar no banheiro. Mostre a quem pedir ajuda se houver dificuldade. Combine com a escola o apoio para tarefas que ainda não consegue fazer sozinha."
+          },
+          {
+            "q": "Precisa saber ler ou fazer contas antes de começar?",
+            "a": "Não existe uma lista universal de habilidades escolares que toda criança deva dominar antes do primeiro dia. Pergunte o que o professor pretende ensinar e aproveitem a leitura, as contagens e as brincadeiras em casa."
+          },
+          {
+            "q": "A entrada na escola pode explicar um escape de urina?",
+            "a": "Um banheiro desconhecido ou uma atividade envolvente podem contribuir. Evite atribuir o escape à ansiedade de antemão. Deixe uma muda de roupa acessível e peça orientação se os escapes se repetirem ou surgirem sintomas urinários."
+          },
+          {
+            "q": "Se treinarmos uma coisa esta semana, o que escolher?",
+            "a": "Escolham uma parte do dia sobre a qual a criança tenha dúvidas. Treinem como chamar um adulto e pedir ajuda com palavras, um sinal ou um gesto que ela use com facilidade."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Converse com a escola sobre o apoio prático, social e de comunicação.",
+            "Faça ensaios breves com objetos e atividades familiares.",
+            "Responda aos escapes sem culpar a criança e converse com o pediatra sobre sintomas recorrentes."
+          ],
+          "bemama": "A BeMama sugere preparar o lanche que a criança vai levar e deixá-la praticar como abrir a embalagem antes do primeiro dia.",
+          "safety": "Procure orientação de um profissional de saúde sem demora se houver dor ou ardor ao urinar ou febre com sintomas urinários. Consulte também por escapes diurnos repetidos ou que voltam depois de um longo período sem ocorrer.",
+          "sources": [
+            {
+              "organization": "Academia Americana de Pediatria",
+              "title": "Como preparar a criança em idade pré-escolar para a entrada na escola",
+              "url": "https://www.healthychildren.org/english/ages-stages/preschool/pages/is-your-child-ready-for-school.aspx"
+            },
+            {
+              "organization": "Duncan e colaboradores, periódico Developmental Psychology",
+              "title": "Preparo para a escola e desempenho posterior em seis conjuntos de dados longitudinais",
+              "url": "https://discovery.ucl.ac.uk/id/eprint/10005971/1/Duckworth2007SchoolReadiness1428.pdf"
+            },
+            {
+              "organization": "Instituto Nacional de Diabetes e Doenças Digestivas e Renais",
+              "title": "Sintomas e causas dos problemas de controle da bexiga em crianças",
+              "url": "https://www.niddk.nih.gov/health-information/urologic-diseases/bladder-control-problems-bedwetting-children/symptoms-causes"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5947.webp",
+    "heroAlt": {
+      "en": "A child practises opening a green lunch box at the kitchen table beside a school backpack.",
+      "fa": "کودکی کنار کوله‌پشتی مدرسه‌اش پشت میز آشپزخانه باز کردن ظرف غذای سبزرنگ را تمرین می‌کند.",
+      "ar": "طفلة تتدرّب على فتح علبة طعام خضراء على طاولة المطبخ بجوار حقيبتها المدرسية.",
+      "fr": "Une enfant s’entraîne à ouvrir une boîte à déjeuner verte à la table de la cuisine, près de son cartable.",
+      "tr": "Bir çocuk mutfak masasında okul çantasının yanında yeşil beslenme kutusunu açmayı deniyor.",
+      "es": "Una niña practica cómo abrir una fiambrera verde en la mesa de la cocina junto a una mochila escolar.",
+      "pt": "Uma criança pratica abrir uma lancheira verde na mesa da cozinha ao lado de uma mochila escolar."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "Getting ready for the first day of school",
+      "description": "Practise the small steps of a school day, from opening lunch to asking for the toilet, and plan with the teacher for the support your child needs."
+    },
+    "fa": {
+      "title": "آمادگی برای اولین روز مدرسه",
+      "description": "از باز کردن ظرف غذا تا گفتن اینکه دستشویی دارد، کارهای کوچک روز مدرسه را با فرزندتان تمرین کنید و برای کمک‌های موردنیازش با معلم هماهنگ شوید."
+    },
+    "ar": {
+      "title": "كيف يستعد طفلك ليومه الأول في المدرسة؟",
+      "description": "تدرّبا على الخطوات الصغيرة في يوم المدرسة، من فتح علبة الطعام إلى طلب الذهاب إلى الحمام، واتفقا مع المعلّم على المساعدة التي يحتاج إليها طفلك."
+    },
+    "fr": {
+      "title": "Préparer son enfant à son premier jour d’école",
+      "description": "Ouvrir sa boîte à déjeuner, demander les toilettes ou de l’aide : répétez les gestes du jour de rentrée et convenez avec l’école du soutien nécessaire."
+    },
+    "tr": {
+      "title": "Okulun ilk gününe hazırlanmak",
+      "description": "Beslenme kutusunu açmaktan tuvalete gitmek için izin istemeye kadar okul gününün küçük adımlarını deneyin ve gerekli desteği öğretmenle planlayın."
+    },
+    "es": {
+      "title": "Cómo preparar a tu hijo para el primer día de escuela",
+      "description": "Practicad los pequeños pasos del día escolar, como abrir la fiambrera o pedir ir al baño, y acordad con el docente el apoyo que necesita tu hijo."
+    },
+    "pt": {
+      "title": "Como preparar a criança para o primeiro dia de escola",
+      "description": "Ensaiem os pequenos passos de um dia na escola, de abrir a lancheira a pedir para ir ao banheiro, e combinem com o professor o apoio necessário."
+    }
+  }
+}

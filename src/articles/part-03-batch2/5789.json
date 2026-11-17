@@ -1,0 +1,611 @@
+{
+  "sourceId": "5789",
+  "article": {
+    "slug": "childhood-ibs-pain-and-changing-bowel-habits",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "When a child has recurring belly pain and changing bowel habits",
+        "description": "Find out what clinicians look for in childhood irritable bowel syndrome, which symptoms need separate assessment, and what can help a child manage pain.",
+        "intro": "A child asks to use the toilet before school because their belly hurts. Some days the stool is hard; other days it is loose. Write down what happens before and after the toilet visit. That pattern can help the clinician decide whether irritable bowel syndrome, or IBS, fits.",
+        "sections": [
+          {
+            "heading": "Describe pain and bowel changes together",
+            "paragraphs": [
+              "IBS is a disorder of the way the gut and brain interact. The pain is real. It may occur with constipation, diarrhoea or both. Note whether passing stool eases the pain or makes it worse, and whether stool frequency or appearance changes. Stress or a meal may coincide with symptoms, but timing alone does not reveal the cause.",
+              "In children, a clinician may consider IBS when abdominal pain occurs on at least four days a month for at least two months and is related to passing stool, a change in its frequency or a change in its form. Other explanations must be considered. If treating constipation makes the pain disappear, constipation itself may better explain it. A family need not wait two months to ask for help."
+            ]
+          },
+          {
+            "heading": "What to bring to the appointment",
+            "paragraphs": [
+              "Record a few representative days, including stools, pain, meals, missed activities and anything that helped. The clinician will ask about symptoms, medicines and family history, examine the child and check growth. Blood or stool tests may be useful when another cause is possible. There is no single test that confirms IBS.",
+              "Tell the clinician promptly about persistent vomiting, diarrhoea that wakes the child, unexplained fever or weight loss, slower growth or pain repeatedly in the same spot. Seek urgent care for blood in the stool, black tarry stool, severe worsening pain or signs of dehydration. Do not assume a new symptom is part of an existing IBS diagnosis."
+            ]
+          },
+          {
+            "heading": "Choose a plan that fits the child",
+            "paragraphs": [
+              "Ask what can help the particular pattern of pain and stools. Regular meals, sleep, enough fluid and access to a school toilet are useful topics. Avoid cutting out several foods without a clinician or dietitian, especially while a child is growing. Cognitive behavioural therapy and gut-directed hypnotherapy can help some children manage pain; discussing stress does not mean they caused it.",
+              "In a six-week randomized study of psyllium fibre versus placebo in children with IBS, the psyllium group had a larger decrease in the number of pain episodes. Pain intensity did not differ between groups. Ask whether a soluble fibre supplement is appropriate for your child instead of choosing a dose from the study. Set a practical goal together, such as getting back to a favourite activity, and agree when to review it."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Track how pain relates to stool frequency, appearance and passing stool.",
+          "Ask about a diagnosis and a treatment plan based on your child’s pattern.",
+          "Report blood, nighttime diarrhoea, weight loss or persistent vomiting."
+        ],
+        "faq": [
+          {
+            "q": "What symptoms can childhood IBS cause?",
+            "a": "Recurring abdominal pain occurs with altered bowel habits. A child may pass hard stools, loose stools or both at different times."
+          },
+          {
+            "q": "When might symptoms show up?",
+            "a": "Some children notice them around meals, stressful days or toilet visits. Symptoms can also occur at other times. Describe the pattern without assuming a cause."
+          },
+          {
+            "q": "When might the clinician diagnose IBS?",
+            "a": "They look for a persistent pattern of pain linked to bowel movements or changes in stool and assess other explanations. Improvement after treating constipation helps guide the diagnosis."
+          },
+          {
+            "q": "How is it treated?",
+            "a": "The care team may address constipation or diarrhoea, discuss suitable fibre and offer a gut–brain therapy. Agree how to judge improvement and when to reassess."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 17, 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Describe the pain and bowel pattern to a clinician.",
+            "Review any restrictive diet or supplement before starting it.",
+            "Agree on steps at school and a date to review progress."
+          ],
+          "bemama": "BeMama suggests asking your child which part of the school day is hardest, then arranging one practical change such as easier bathroom access.",
+          "safety": "Seek urgent assessment for bloody or black tarry stools, severe worsening pain or dehydration. Contact a clinician for persistent vomiting, nighttime diarrhoea, fever, weight loss or slowed growth.",
+          "sources": [
+            {
+              "organization": "National Institute of Diabetes and Digestive and Kidney Diseases",
+              "title": "How doctors diagnose IBS in children",
+              "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome-children/diagnosis"
+            },
+            {
+              "organization": "ESPGHAN and NASPGHAN",
+              "title": "Joint guideline on treatment of childhood IBS and functional abdominal pain",
+              "url": "https://doi.org/10.1002/jpn3.70070"
+            },
+            {
+              "organization": "Shulman and colleagues, Clinical Gastroenterology and Hepatology",
+              "title": "Psyllium fibre and pain episodes in children with IBS",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/27080737/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "دل‌درد تکرارشونده کودک همراه با تغییر در دفع",
+        "description": "ببینید چه الگویی پزشک را به سندرم روده تحریک‌پذیر در کودک مشکوک می‌کند، کدام نشانه‌ها بررسی جداگانه می‌خواهند و چه چیزهایی به کنترل درد کمک می‌کنند.",
+        "intro": "کودک پیش از مدرسه دل‌درد دارد و می‌خواهد به دستشویی برود. بعضی روزها مدفوع سفت است و گاهی شل. آنچه پیش و پس از دفع اتفاق می‌افتد یادداشت کنید. این الگو کمک می‌کند پزشک احتمال سندرم روده تحریک‌پذیر را بررسی کند.",
+        "sections": [
+          {
+            "heading": "درد و تغییرات دفع را با هم توصیف کنید",
+            "paragraphs": [
+              "سندرم روده تحریک‌پذیر اختلالی در تعامل روده و مغز است. درد واقعی است و ممکن است همراه یبوست، اسهال یا هر دو باشد. ببینید دفع درد را بهتر یا بدتر می‌کند و آیا دفعات یا شکل مدفوع تغییر می‌کند. استرس یا یک وعده غذا شاید با نشانه‌ها هم‌زمان شود، اما زمان به‌تنهایی علت را نشان نمی‌دهد.",
+              "اگر دست‌کم دو ماه، در هر ماه حداقل چهار روز کودک دل‌درد داشته باشد و درد با دفع یا تغییر در دفعات یا شکل مدفوع مرتبط باشد، پزشک می‌تواند این سندرم را در نظر بگیرد. علت‌های دیگر هم باید بررسی شوند. اگر درمان یبوست درد را کاملاً از بین ببرد، خود یبوست شاید توضیح بهتری باشد. برای درخواست کمک لازم نیست دو ماه صبر کنید."
+            ]
+          },
+          {
+            "heading": "چه چیزی به مطب ببریم؟",
+            "paragraphs": [
+              "چند روز معمولی را یادداشت کنید و دفع، درد، وعده‌ها، فعالیت‌های ازدست‌رفته و آنچه کمک کرده بنویسید. پزشک درباره علائم، دارو و سابقه خانوادگی می‌پرسد، کودک را معاینه می‌کند و رشد را می‌سنجد. اگر علت دیگری محتمل باشد آزمایش خون یا مدفوع می‌تواند مفید باشد. یک آزمایش واحد برای تأیید این سندرم وجود ندارد.",
+              "استفراغ مداوم، اسهالی که شب کودک را بیدار می‌کند، تب یا کاهش وزن بی‌دلیل، کندی رشد یا دردی را که مرتب در یک نقطه تکرار می‌شود زود به پزشک بگویید. برای خون در مدفوع، مدفوع سیاه و قیری، درد شدید و رو به افزایش یا نشانه‌های کم‌آبی فوراً مراجعه کنید. هر علامت تازه را به سندرم قبلی نسبت ندهید."
+            ]
+          },
+          {
+            "heading": "برنامه‌ای متناسب با کودک انتخاب کنید",
+            "paragraphs": [
+              "بپرسید برای الگوی درد و دفع کودکتان چه چیزی کمک می‌کند. وعده‌های منظم، خواب، مایعات کافی و دسترسی به دستشویی مدرسه موضوعات مناسبی برای گفت‌وگو هستند. به‌ویژه در دوران رشد چند نوع غذا را بدون مشورت پزشک یا متخصص تغذیه حذف نکنید. درمان شناختی‌رفتاری و هیپنوتراپی متمرکز بر روده ممکن است به بعضی کودکان در مدیریت درد کمک کنند. صحبت از استرس یعنی بررسی یک عامل، نه مقصر دانستن کودک.",
+              "در یک کارآزمایی تصادفی شش‌هفته‌ای در کودکان مبتلا، تعداد نوبت‌های درد در گروهی که فیبر پسیلیوم دریافت کرد بیش از گروه دارونما کم شد. شدت درد بین دو گروه تفاوتی نداشت. به جای انتخاب مقدار مصرف از مطالعه، از پزشک بپرسید آیا مکمل فیبر محلول برای فرزندتان مناسب است. هدفی عملی مانند برگشتن به یک فعالیت موردعلاقه و زمانی برای بررسی پیشرفت تعیین کنید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "رابطه درد با دفع، دفعات و شکل مدفوع را پیگیری کنید.",
+          "درباره تشخیص و درمان مناسب الگوی کودکتان سؤال کنید.",
+          "خون در مدفوع، اسهال شبانه، کاهش وزن یا استفراغ پایدار را گزارش دهید."
+        ],
+        "faq": [
+          {
+            "q": "این سندرم در کودکان چه نشانه‌هایی دارد؟",
+            "a": "دل‌درد تکرارشونده با تغییر عادت دفع همراه می‌شود. کودک ممکن است مدفوع سفت، شل یا در زمان‌های مختلف هر دو را داشته باشد."
+          },
+          {
+            "q": "علائم چه زمانی ظاهر می‌شوند؟",
+            "a": "بعضی کودکان هنگام غذا، در روزهای پراسترس یا نزدیک رفتن به دستشویی متوجه می‌شوند. در زمان‌های دیگر هم ممکن است رخ دهند. بدون پیش‌داوری درباره علت، الگو را شرح دهید."
+          },
+          {
+            "q": "پزشک چه وقت ممکن است این سندرم را تشخیص دهد؟",
+            "a": "به دنبال الگویی مداوم از دل‌دردهای تکرارشونده در ارتباط با دفع یا تغییرات مدفوع می‌گردد و احتمال‌های دیگر را ارزیابی می‌کند. بهبود پس از درمان یبوست به تشخیص کمک می‌کند."
+          },
+          {
+            "q": "درمان چگونه است؟",
+            "a": "تیم درمان ممکن است یبوست یا اسهال را درمان کند، درباره فیبر مناسب توضیح دهد یا روشی متمرکز بر ارتباط روده و مغز پیشنهاد کند. درباره راه سنجش بهبود و زمان بررسی مجدد توافق کنید."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۷ نوامبر ۲۰۲۶ بررسی شدند",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "الگوی درد و دفع را برای پزشک شرح دهید.",
+            "درباره هر رژیم محدودکننده یا مکمل پیش از شروع مشورت کنید.",
+            "برای حمایت در مدرسه و زمان بررسی پیشرفت توافق کنید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند بپرسید کدام بخش روز مدرسه برای کودک سخت‌تر است و بعد تغییری عملی، مثل دسترسی آسان‌تر به دستشویی، ترتیب دهید.",
+          "safety": "برای مدفوع خونی یا سیاه و قیری، درد شدید و رو به افزایش یا کم‌آبی فوراً مراجعه کنید. استفراغ مداوم، اسهال شبانه، تب، کاهش وزن یا کندی رشد را به پزشک اطلاع دهید.",
+          "sources": [
+            {
+              "organization": "مؤسسه ملی دیابت و بیماری‌های گوارشی و کلیوی آمریکا",
+              "title": "پزشکان چگونه سندرم روده تحریک‌پذیر کودکان را تشخیص می‌دهند؟",
+              "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome-children/diagnosis"
+            },
+            {
+              "organization": "انجمن‌های گوارش، کبد و تغذیه کودکان اروپا و آمریکای شمالی",
+              "title": "راهنمای مشترک درمان روده تحریک‌پذیر و درد شکمی عملکردی کودکان",
+              "url": "https://doi.org/10.1002/jpn3.70070"
+            },
+            {
+              "organization": "شولمن و همکاران، مجله گوارش و کبدشناسی بالینی",
+              "title": "فیبر پسیلیوم و نوبت‌های درد در کودکان مبتلا به سندرم روده تحریک‌پذیر",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/27080737/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "عندما يتكرر ألم البطن وتتغير عادات التبرز عند الطفل",
+        "description": "تعرّف إلى ما يبحث عنه الطبيب عند احتمال متلازمة القولون العصبي، والأعراض التي تستحق تقييمًا مختلفًا، وما يساعد طفلك على التعامل مع الألم.",
+        "intro": "قبل المدرسة يطلب طفلك الذهاب إلى الحمام لأن بطنه يؤلمه. يكون البراز قاسيًا بعض الأيام ورخوًا في غيرها. دوّن ما يحدث قبل التبرز وبعده. يساعد هذا النمط الطبيب على معرفة ما إذا كانت متلازمة القولون العصبي احتمالًا مناسبًا.",
+        "sections": [
+          {
+            "heading": "صِف الألم وتغيّر التبرز معًا",
+            "paragraphs": [
+              "متلازمة القولون العصبي اضطراب في التفاعل بين الأمعاء والدماغ. الألم حقيقي وقد يترافق مع الإمساك أو الإسهال أو كليهما. لاحظ هل يخف الألم أو يزداد بعد التبرز، وهل يتغير عدد المرات أو شكل البراز. قد يتزامن التوتر أو تناول وجبة مع الأعراض، لكن التوقيت وحده لا يحدد السبب.",
+              "قد يفكر الطبيب في القولون العصبي عند طفل يعاني ألم البطن أربعة أيام على الأقل في الشهر لمدة شهرين على الأقل، إذا ارتبط الألم بالتبرز أو تغير تواتر البراز أو شكله. يجب النظر أيضًا في تفسيرات أخرى. إذا زال الألم بعلاج الإمساك فقد يكون الإمساك نفسه التفسير الأقرب. لا تحتاج الأسرة إلى الانتظار شهرين قبل طلب المساعدة."
+            ]
+          },
+          {
+            "heading": "ما الذي تحضره إلى الموعد؟",
+            "paragraphs": [
+              "سجّل بضعة أيام ممثلة لما يحدث، بما فيها البراز والألم والوجبات والأنشطة التي فاتت الطفل وما ساعده. يسأل الطبيب عن الأعراض والأدوية والتاريخ العائلي ويفحص الطفل ويتابع النمو. قد تفيد تحاليل الدم أو البراز إذا كان هناك سبب آخر محتمل. لا يوجد فحص منفرد يؤكد القولون العصبي.",
+              "أخبر الطبيب دون تأخير عن القيء المستمر، أو إسهال يوقظ الطفل، أو حمى أو نقص وزن بلا تفسير، أو تباطؤ النمو أو ألم يتكرر في المكان نفسه. اطلب رعاية عاجلة إذا رأيت دمًا في البراز أو برازًا أسود قطرانيًا، أو كان الألم شديدًا ويزداد أو ظهرت علامات الجفاف. لا تفترض أن كل عرض جديد جزء من تشخيص سابق للقولون العصبي."
+            ]
+          },
+          {
+            "heading": "اختيار خطة تناسب طفلك",
+            "paragraphs": [
+              "اسأل عما يناسب نمط الألم والبراز لديه. من المفيد مناقشة انتظام الوجبات والنوم وكفاية السوائل وإمكانية استخدام حمام المدرسة. تجنب حذف عدة أطعمة دون طبيب أو اختصاصي تغذية، خصوصًا خلال النمو. قد يساعد العلاج المعرفي السلوكي والعلاج بالتنويم الإيحائي الموجّه للأمعاء بعض الأطفال على إدارة الألم. الحديث عن التوتر لا يعني أن الطفل سبب مرضه.",
+              "في دراسة عشوائية لمدة ستة أسابيع لدى أطفال بالقولون العصبي، انخفض عدد نوبات الألم أكثر في المجموعة التي تلقت ألياف السيليوم مقارنة بمجموعة الدواء الوهمي. لم تختلف شدة الألم بين المجموعتين. اسأل هل يناسب طفلك مكمّل ألياف ذائبة بدل اختيار جرعة من الدراسة. حدّدوا هدفًا عمليًا مثل العودة إلى نشاط محبوب وموعدًا للمراجعة."
+            ]
+          }
+        ],
+        "takeaways": [
+          "راقب علاقة الألم بالتبرز وتواتر البراز وشكله.",
+          "اسأل عن التشخيص وخطة تراعي نمط الأعراض عند طفلك.",
+          "أبلغ عن الدم أو الإسهال الليلي أو نقص الوزن أو القيء المستمر."
+        ],
+        "faq": [
+          {
+            "q": "ما أعراض القولون العصبي في الطفولة؟",
+            "a": "يترافق ألم البطن المتكرر مع تغير عادات التبرز. وقد يكون البراز قاسيًا أو رخوًا أو يتناوب الشكلان."
+          },
+          {
+            "q": "متى قد تظهر الأعراض؟",
+            "a": "يلاحظها بعض الأطفال عند الوجبات أو في يوم مرهق أو حول وقت التبرز. وقد تحدث في أوقات أخرى. صِف النمط من دون افتراض السبب."
+          },
+          {
+            "q": "متى قد يشخصه الطبيب؟",
+            "a": "يبحث عن نمط مستمر من الألم المرتبط بالتبرز أو تغير البراز، ويقيّم الأسباب الأخرى. تحسن الألم بعد علاج الإمساك يساعد في توجيه التشخيص."
+          },
+          {
+            "q": "كيف يُعالج؟",
+            "a": "قد يعالج الفريق الإمساك أو الإسهال ويناقش نوع الألياف المناسب ويعرض علاجًا يستهدف التفاعل بين الأمعاء والدماغ. اتفقوا على كيفية معرفة التحسن وموعد إعادة التقييم."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٧ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "صِف للطبيب نمط الألم والتبرز.",
+            "استشر قبل بدء حمية مقيّدة أو مكمّل.",
+            "اتفق على خطوات في المدرسة وموعد لمراجعة التقدم."
+          ],
+          "bemama": "تقترح بي ماما أن تسأل طفلك أي جزء من يومه الدراسي أصعب، ثم ترتب تغييرًا عمليًا مثل تسهيل استخدام الحمام.",
+          "safety": "اطلب تقييمًا عاجلًا للبراز الدموي أو الأسود القطراني، أو للألم الشديد المتزايد أو الجفاف. راجع الطبيب عند استمرار القيء أو الإسهال الليلي أو الحمى أو نقص الوزن أو تباطؤ النمو.",
+          "sources": [
+            {
+              "organization": "المعهد الوطني الأمريكي للسكري وأمراض الجهاز الهضمي والكلى",
+              "title": "كيف يشخص الأطباء القولون العصبي عند الأطفال",
+              "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome-children/diagnosis"
+            },
+            {
+              "organization": "الجمعيتان الأوروبية والأمريكية الشمالية لأمراض الجهاز الهضمي والكبد والتغذية لدى الأطفال",
+              "title": "دليل مشترك لعلاج القولون العصبي وألم البطن الوظيفي عند الأطفال",
+              "url": "https://doi.org/10.1002/jpn3.70070"
+            },
+            {
+              "organization": "شولمان وزملاؤه، مجلة أمراض الجهاز الهضمي والكبد السريرية",
+              "title": "ألياف السيليوم ونوبات الألم لدى أطفال مصابين بالقولون العصبي",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/27080737/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Douleurs de ventre répétées et changement des selles chez l’enfant",
+        "description": "Découvrez quels symptômes évoquent un intestin irritable chez l’enfant, quels signes demandent un autre bilan et comment aider un enfant à gérer les douleurs.",
+        "intro": "Avant l’école, votre enfant demande à aller aux toilettes parce qu’il a mal au ventre. Certains jours les selles sont dures, d’autres jours molles. Notez ce qui se passe avant et après le passage aux toilettes. Cela aide le professionnel à voir si un syndrome de l’intestin irritable, ou SII, est possible.",
+        "sections": [
+          {
+            "heading": "Décrire ensemble la douleur et les changements de transit",
+            "paragraphs": [
+              "Le SII concerne les échanges entre l’intestin et le cerveau. La douleur est réelle. Elle peut s’accompagner de constipation, de diarrhée ou des deux. Notez si l’émission des selles calme ou accentue la douleur et si leur fréquence ou leur aspect change. Le stress ou un repas peut coïncider avec les symptômes, sans que cela suffise à en établir la cause.",
+              "Chez l’enfant, le professionnel peut envisager un SII si la douleur abdominale survient au moins quatre jours par mois pendant au moins deux mois et qu’elle est liée à la défécation ou à un changement de fréquence ou de forme des selles. Il examine aussi les autres explications. Si traiter la constipation suffit à faire disparaître la douleur, la constipation peut mieux l’expliquer. Vous pouvez consulter bien avant deux mois."
+            ]
+          },
+          {
+            "heading": "Qu’apporter à la consultation ?",
+            "paragraphs": [
+              "Relevez quelques journées représentatives en notant selles, douleurs, repas, activités manquées et ce qui a aidé. Le professionnel se renseigne sur les symptômes, les médicaments et les antécédents familiaux, examine l’enfant et vérifie sa croissance. Des analyses de sang ou de selles peuvent aider à rechercher une autre cause. Aucun examen isolé ne confirme le SII.",
+              "Signalez rapidement des vomissements persistants, une diarrhée qui réveille l’enfant, une fièvre ou une perte de poids inexpliquée, un ralentissement de la croissance ou une douleur revenant au même endroit. Consultez en urgence en cas de sang dans les selles, de selles noires comme du goudron, de douleur intense qui augmente ou de signes de déshydratation. Un nouveau symptôme ne relève pas forcément d’un SII déjà diagnostiqué."
+            ]
+          },
+          {
+            "heading": "Choisir un programme adapté à l’enfant",
+            "paragraphs": [
+              "Demandez ce qui pourrait aider au vu des douleurs et du transit de votre enfant. Parlez du rythme des repas, du sommeil, des boissons et de l’accès aux toilettes de l’école. Évitez de supprimer plusieurs aliments sans l’avis d’un médecin ou d’un diététicien, surtout en pleine croissance. La thérapie cognitivo-comportementale et l’hypnothérapie dirigée vers l’intestin peuvent aider certains enfants à gérer la douleur. Parler du stress ne veut pas dire que l’enfant en est responsable.",
+              "Dans un essai randomisé de six semaines chez des enfants ayant un SII, le nombre d’épisodes douloureux a davantage diminué sous fibres de psyllium que sous placebo. L’intensité de la douleur ne différait pas entre les groupes. Demandez si un supplément de fibres solubles est adapté au lieu de choisir une dose tirée de l’étude. Fixez un objectif concret, comme reprendre une activité appréciée, et une date pour en reparler."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Notez les liens entre la douleur, le passage aux toilettes, la fréquence et l’aspect des selles.",
+          "Demandez un avis diagnostique et des soins adaptés aux symptômes de votre enfant.",
+          "Signalez du sang, une diarrhée nocturne, un amaigrissement ou des vomissements persistants."
+        ],
+        "faq": [
+          {
+            "q": "Quels symptômes le SII peut-il provoquer chez l’enfant ?",
+            "a": "Des douleurs de ventre récurrentes s’accompagnent de changements du transit. Les selles peuvent être dures ou molles, parfois en alternance."
+          },
+          {
+            "q": "À quels moments les symptômes apparaissent-ils ?",
+            "a": "Certains enfants les remarquent autour des repas, des jours de stress ou aux toilettes. Ils peuvent aussi survenir à d’autres moments. Décrivez ce que vous voyez sans présumer de la cause."
+          },
+          {
+            "q": "Quand le médecin peut-il diagnostiquer un SII ?",
+            "a": "Il recherche un ensemble durable de douleurs liées aux selles ou à des changements du transit et évalue d’autres causes. L’évolution de la douleur après traitement de la constipation aide à orienter le diagnostic."
+          },
+          {
+            "q": "Comment le traite-t-on ?",
+            "a": "L’équipe peut traiter la constipation ou la diarrhée, discuter de fibres adaptées et proposer une thérapie agissant sur les interactions intestin-cerveau. Convenez de la manière de suivre les progrès et du moment de réévaluer."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 17 novembre 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Décrivez à un professionnel les douleurs et le transit de l’enfant.",
+            "Discutez de tout régime restrictif ou supplément avant de commencer.",
+            "Convenez de mesures à l’école et d’une date de suivi."
+          ],
+          "bemama": "BeMama vous propose de demander à votre enfant quel moment de la journée de classe lui pose le plus de difficultés, puis de prévoir un changement concret, comme un accès facilité aux toilettes.",
+          "safety": "Consultez en urgence pour du sang dans les selles, des selles noires goudronneuses, une douleur intense qui s’aggrave ou une déshydratation. Contactez un professionnel pour des vomissements persistants, une diarrhée nocturne, une fièvre, une perte de poids ou un ralentissement de croissance.",
+          "sources": [
+            {
+              "organization": "Institut national américain du diabète et des maladies digestives et rénales",
+              "title": "Comment les médecins diagnostiquent le SII chez l’enfant",
+              "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome-children/diagnosis"
+            },
+            {
+              "organization": "ESPGHAN et NASPGHAN",
+              "title": "Recommandations communes pour traiter le SII et la douleur abdominale fonctionnelle de l’enfant",
+              "url": "https://doi.org/10.1002/jpn3.70070"
+            },
+            {
+              "organization": "Shulman et ses collègues, Clinical Gastroenterology and Hepatology",
+              "title": "Fibres de psyllium et épisodes douloureux chez des enfants ayant un SII",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/27080737/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Çocuklarda tekrarlayan karın ağrısı ve değişen dışkılama",
+        "description": "Çocuklarda irritabl bağırsak sendromunu düşündüren örüntüyü, ayrı değerlendirme gerektiren belirtileri ve ağrıyı yönetme yollarını öğrenin.",
+        "intro": "Çocuğunuz okuldan önce karnı ağrıdığı için tuvalete gitmek istiyor. Bazı günler dışkısı sert, bazı günler gevşek. Tuvaletten önce ve sonra ne olduğunu yazın. Bu örüntü, hekimin irritabl bağırsak sendromunu (İBS) değerlendirmesine yardımcı olabilir.",
+        "sections": [
+          {
+            "heading": "Ağrıyı ve dışkılama değişikliklerini birlikte anlatın",
+            "paragraphs": [
+              "İBS bağırsakla beyin arasındaki etkileşimle ilgili bir bozukluktur. Ağrı gerçektir. Kabızlık, ishal veya ikisiyle birlikte görülebilir. Dışkılamanın ağrıyı azaltıp artırmadığını, dışkının sıklığının ya da görünümünün değişip değişmediğini not edin. Stresli bir gün ya da bir öğün belirtilerle aynı zamana rastlayabilir. Zamanlama tek başına nedeni göstermez.",
+              "Çocuklarda en az iki ay boyunca ayda en az dört gün karın ağrısı oluyor ve ağrı dışkılamayla veya dışkının sıklığında ya da biçiminde bir değişiklikle ilişkiliyse hekim İBS olasılığını değerlendirebilir. Diğer açıklamalar da araştırılır. Kabızlık tedavi edilince ağrı kayboluyorsa nedeni daha çok kabızlığın kendisi olabilir. Yardım istemek için iki ay beklemeniz gerekmez."
+            ]
+          },
+          {
+            "heading": "Randevuya hangi bilgileri götürmeli?",
+            "paragraphs": [
+              "Birkaç tipik gün için dışkıyı, ağrıyı, öğünleri, kaçırılan etkinlikleri ve neyin yardımcı olduğunu not edin. Hekim belirtileri, ilaçları ve aile öyküsünü sorar, çocuğu muayene eder ve büyümeyi kontrol eder. Başka bir neden olasıysa kan veya dışkı testleri yararlı olabilir. İBS’yi doğrulayan tek bir test yoktur.",
+              "Geçmeyen kusma, çocuğu gece uyandıran ishal, açıklanamayan ateş veya kilo kaybı, büyümenin yavaşlaması ya da aynı noktada tekrarlayan ağrı varsa hekime gecikmeden bildirin. Dışkıda kan, siyah katran gibi dışkı, giderek artan şiddetli ağrı veya sıvı kaybı belirtileri için acilen sağlık hizmetine başvurun. Yeni her belirtiyi bilinen İBS’ye bağlamayın."
+            ]
+          },
+          {
+            "heading": "Çocuğunuza uygun planı seçin",
+            "paragraphs": [
+              "Ağrının ve dışkının özelliklerine göre nelerin yardımcı olacağını sorun. Düzenli öğünler, uyku, yeterli sıvı ve okul tuvaletine erişim konuşulabilir. Özellikle büyüme çağında, hekime veya diyetisyene danışmadan birkaç besini birden kesmeyin. Bilişsel davranışçı terapi ve bağırsak odaklı hipnoterapi bazı çocukların ağrıyla baş etmesine yardım edebilir. Stresi konuşmak ağrıya çocuğun neden olduğu anlamına gelmez.",
+              "İBS’li çocuklarda altı haftalık rastgele gruplu bir araştırmada, psilyum lifi verilen grupta ağrı ataklarının sayısı plasebo grubuna göre daha fazla azaldı. Ağrının şiddeti gruplar arasında farklı değildi. Araştırmadaki dozu seçmek yerine çözünür lif takviyesinin çocuğunuz için uygun olup olmadığını sorun. Sevdiği bir etkinliğe dönmek gibi somut bir hedef ve yeniden değerlendirme zamanı belirleyin."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Ağrının dışkılama, dışkı sıklığı ve görünümüyle ilişkisini takip edin.",
+          "Çocuğunuzun belirtilerine uygun tanı ve tedavi planını sorun.",
+          "Dışkıda kan, gece ishali, kilo kaybı veya sürekli kusmayı bildirin."
+        ],
+        "faq": [
+          {
+            "q": "İBS çocuklarda hangi belirtilere neden olabilir?",
+            "a": "Tekrarlayan karın ağrısına dışkılama alışkanlıklarında değişiklik eşlik eder. Dışkı sert veya gevşek olabilir ya da farklı zamanlarda ikisi de görülebilir."
+          },
+          {
+            "q": "Belirtiler ne zaman ortaya çıkabilir?",
+            "a": "Bazı çocuklar öğünlerde, stresli günlerde veya tuvalete gittiğinde fark eder. Başka zamanlarda da olabilir. Nedenini varsaymadan gözlediğiniz örüntüyü anlatın."
+          },
+          {
+            "q": "Hekim ne zaman İBS tanısı koyabilir?",
+            "a": "Dışkılamayla veya dışkı değişiklikleriyle bağlantılı süregelen bir ağrı örüntüsünü ve diğer olası nedenleri değerlendirir. Kabızlığı tedavi ettikten sonra ağrının düzelmesi tanıya yön verir."
+          },
+          {
+            "q": "Nasıl tedavi edilir?",
+            "a": "Ekip kabızlığı ya da ishali ele alabilir, uygun lif seçeneklerini görüşebilir ve bağırsak-beyin etkileşimine yönelik bir terapi önerebilir. İyileşmeyi nasıl değerlendireceğinizi ve ne zaman yeniden görüşeceğinizi kararlaştırın."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 17 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Ağrı ve dışkılama örüntüsünü hekime anlatın.",
+            "Kısıtlayıcı bir diyet veya takviyeye başlamadan önce görüş alın.",
+            "Okuldaki adımları ve gelişmeyi görüşeceğiniz tarihi belirleyin."
+          ],
+          "bemama": "BeMama, çocuğunuza okul gününün en zor kısmını sorup tuvalete erişimin kolaylaştırılması gibi somut bir değişiklik planlamanızı önerir.",
+          "safety": "Kanlı veya siyah katran gibi dışkı, artan şiddetli ağrı veya sıvı kaybı belirtilerinde acil değerlendirme alın. Sürekli kusma, gece ishali, ateş, kilo kaybı veya büyümede yavaşlama için hekime başvurun.",
+          "sources": [
+            {
+              "organization": "ABD Ulusal Diyabet, Sindirim ve Böbrek Hastalıkları Enstitüsü",
+              "title": "Çocuklarda İBS tanısı nasıl konur?",
+              "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome-children/diagnosis"
+            },
+            {
+              "organization": "ESPGHAN ve NASPGHAN",
+              "title": "Çocuklukta İBS ve fonksiyonel karın ağrısı tedavisi ortak kılavuzu",
+              "url": "https://doi.org/10.1002/jpn3.70070"
+            },
+            {
+              "organization": "Shulman ve çalışma arkadaşları, Clinical Gastroenterology and Hepatology",
+              "title": "İBS’li çocuklarda psilyum lifi ve ağrı atakları",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/27080737/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Dolor de barriga recurrente y cambios en las deposiciones",
+        "description": "Descubre qué patrón sugiere intestino irritable en niños, qué síntomas necesitan otra valoración y qué opciones ayudan a un niño a manejar el dolor.",
+        "intro": "Antes del colegio, tu hijo pide ir al baño porque le duele la barriga. Unos días las heces son duras y otros, blandas. Anota qué sucede antes y después de ir al baño. Ese patrón ayuda al profesional a valorar si encaja con el síndrome del intestino irritable o SII.",
+        "sections": [
+          {
+            "heading": "Describe juntos el dolor y los cambios en las heces",
+            "paragraphs": [
+              "El SII afecta a la interacción entre el intestino y el cerebro. El dolor es real. Puede haber estreñimiento, diarrea o ambos. Observa si evacuar alivia o empeora el dolor y si cambian la frecuencia o el aspecto de las heces. Una comida o un periodo de estrés pueden coincidir con los síntomas, pero el momento por sí solo no revela la causa.",
+              "En niños, el profesional puede considerar el SII si hay dolor abdominal al menos cuatro días al mes durante dos meses como mínimo y se relaciona con la evacuación o un cambio en la frecuencia o la forma de las heces. Debe valorar otras explicaciones. Si tratar el estreñimiento elimina el dolor, el propio estreñimiento podría explicarlo mejor. No es necesario esperar dos meses para pedir ayuda."
+            ]
+          },
+          {
+            "heading": "Qué llevar a la consulta",
+            "paragraphs": [
+              "Anota algunos días representativos, con las deposiciones, el dolor, las comidas, las actividades perdidas y qué ayudó. El profesional preguntará por los síntomas, los medicamentos y los antecedentes familiares, explorará al niño y comprobará su crecimiento. Si hay otra causa posible, pueden ser útiles análisis de sangre o de heces. Ninguna prueba confirma por sí sola el SII.",
+              "Informa sin demora si hay vómitos persistentes, diarrea que despierta al niño, fiebre o pérdida de peso inexplicadas, crecimiento más lento o dolor que vuelve al mismo sitio. Busca atención urgente por sangre en las heces, heces negras como alquitrán, dolor intenso que empeora o signos de deshidratación. Un síntoma nuevo merece atención aunque ya exista diagnóstico de SII."
+            ]
+          },
+          {
+            "heading": "Elige un plan que se adapte al niño",
+            "paragraphs": [
+              "Pregunta qué puede ayudar para su patrón de dolor y deposiciones. Hablad de comidas regulares, sueño, líquidos suficientes y acceso al baño en el colegio. Evita eliminar varios alimentos sin consultar con el médico o dietista, especialmente durante el crecimiento. La terapia cognitivo-conductual y la hipnoterapia dirigida al intestino pueden ayudar a algunos niños a manejar el dolor. Hablar del estrés no significa que el niño haya causado el problema.",
+              "En un ensayo aleatorizado de seis semanas con niños con SII, el grupo que recibió fibra de psilio tuvo una disminución mayor del número de episodios de dolor que el grupo placebo. La intensidad del dolor no difirió entre los grupos. Pregunta si conviene la fibra soluble para tu hijo sin copiar una dosis del estudio. Acordad un objetivo concreto, como retomar una actividad favorita, y cuándo revisarlo."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Anota cómo se relaciona el dolor con la frecuencia y el aspecto de las heces y con la evacuación.",
+          "Pregunta por el diagnóstico y un plan de tratamiento adecuado al patrón del niño.",
+          "Informa si hay sangre, diarrea nocturna, pérdida de peso o vómitos persistentes."
+        ],
+        "faq": [
+          {
+            "q": "¿Qué síntomas puede causar el SII infantil?",
+            "a": "El dolor abdominal recurrente se acompaña de cambios en el ritmo intestinal. Puede haber heces duras, blandas o ambas en diferentes momentos."
+          },
+          {
+            "q": "¿Cuándo pueden aparecer?",
+            "a": "Algunos niños los notan alrededor de las comidas, en días estresantes o al ir al baño. También pueden aparecer en otros momentos. Describe el patrón sin dar por supuesta una causa."
+          },
+          {
+            "q": "¿Cuándo puede diagnosticar SII el profesional?",
+            "a": "Busca un patrón persistente de dolor relacionado con la evacuación o con cambios en las heces y valora otras explicaciones. La respuesta al tratamiento del estreñimiento orienta el diagnóstico."
+          },
+          {
+            "q": "¿Cómo se trata?",
+            "a": "El equipo puede tratar el estreñimiento o la diarrea, hablar de la fibra adecuada y ofrecer una terapia dirigida a la interacción intestino-cerebro. Acordad cómo medir la mejoría y cuándo volver a consultar."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 17 de noviembre de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Describe el dolor y el patrón de las deposiciones al profesional.",
+            "Consulta antes de empezar una dieta restrictiva o un suplemento.",
+            "Acordad medidas para el colegio y una fecha para revisar los avances."
+          ],
+          "bemama": "BeMama sugiere preguntar al niño qué momento de la jornada escolar le cuesta más y concertar un cambio concreto, como facilitar el acceso al baño.",
+          "safety": "Busca atención urgente por heces con sangre o negras como alquitrán, dolor intenso que empeora o deshidratación. Consulta por vómitos persistentes, diarrea nocturna, fiebre, pérdida de peso o crecimiento más lento.",
+          "sources": [
+            {
+              "organization": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales de Estados Unidos",
+              "title": "Cómo se diagnostica el SII en niños",
+              "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome-children/diagnosis"
+            },
+            {
+              "organization": "ESPGHAN y NASPGHAN",
+              "title": "Guía conjunta para tratar el SII y el dolor abdominal funcional en la infancia",
+              "url": "https://doi.org/10.1002/jpn3.70070"
+            },
+            {
+              "organization": "Shulman y colaboradores, Clinical Gastroenterology and Hepatology",
+              "title": "Fibra de psilio y episodios de dolor en niños con SII",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/27080737/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Dor de barriga recorrente e mudanças nas fezes da criança",
+        "description": "Entenda o que sugere síndrome do intestino irritável na infância, quais sintomas precisam de outra avaliação e o que pode ajudar a criança a lidar com a dor.",
+        "intro": "Antes da escola, seu filho pede para ir ao banheiro porque a barriga dói. Em alguns dias as fezes são duras, em outros são amolecidas. Anote o que acontece antes e depois de evacuar. Esse padrão ajuda o profissional a avaliar se pode ser síndrome do intestino irritável, ou SII.",
+        "sections": [
+          {
+            "heading": "Descreva a dor e o funcionamento do intestino",
+            "paragraphs": [
+              "A SII é um distúrbio da interação entre intestino e cérebro. A dor é real. Pode ocorrer com prisão de ventre, diarreia ou ambas. Observe se evacuar alivia ou piora a dor e se a frequência ou o aspecto das fezes muda. Estresse ou uma refeição podem coincidir com os sintomas sem que o momento revele a causa.",
+              "O profissional pode considerar SII quando a criança tem dor abdominal pelo menos quatro dias ao mês por pelo menos dois meses e há relação com a evacuação, com mudança na frequência ou na forma das fezes. É necessário considerar outras explicações. Se a dor desaparece com o tratamento da prisão de ventre, a própria constipação pode explicá-la melhor. A família não precisa esperar dois meses para consultar."
+            ]
+          },
+          {
+            "heading": "O que levar à consulta",
+            "paragraphs": [
+              "Registre alguns dias representativos, incluindo fezes, dor, refeições, atividades perdidas e o que ajudou. O profissional perguntará sobre sintomas, medicamentos e histórico familiar, examinará a criança e acompanhará o crescimento. Exames de sangue ou de fezes podem ajudar se houver outra causa possível. Não existe um único teste que confirme SII.",
+              "Avise o profissional prontamente sobre vômitos persistentes, diarreia que acorda a criança, febre ou emagrecimento sem explicação, crescimento mais lento ou dor frequente no mesmo ponto. Procure atendimento urgente por sangue nas fezes, fezes pretas como piche, dor intensa que piora ou sinais de desidratação. Não atribua automaticamente um sintoma novo à SII já diagnosticada."
+            ]
+          },
+          {
+            "heading": "Escolha um plano adequado à criança",
+            "paragraphs": [
+              "Pergunte o que pode ajudar para o padrão de dor e fezes. Refeições regulares, sono, líquidos suficientes e acesso ao banheiro na escola são assuntos úteis. Evite cortar vários alimentos sem orientação médica ou nutricional, principalmente durante o crescimento. A terapia cognitivo-comportamental e a hipnoterapia direcionada ao intestino podem ajudar algumas crianças a lidar com a dor. Conversar sobre estresse não significa que a criança tenha causado a dor.",
+              "Em um estudo randomizado de seis semanas com crianças com SII, o grupo que recebeu fibra de psyllium teve maior redução no número de episódios de dor que o grupo placebo. A intensidade da dor não diferiu entre os grupos. Pergunte se um suplemento de fibra solúvel é apropriado em vez de escolher uma dose do estudo. Combinem uma meta prática, como retomar uma atividade preferida, e quando vão reavaliá-la."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Observe a relação entre dor, evacuação, frequência e aspecto das fezes.",
+          "Pergunte sobre o diagnóstico e um plano de tratamento para o padrão da criança.",
+          "Informe sangue nas fezes, diarreia noturna, perda de peso ou vômitos persistentes."
+        ],
+        "faq": [
+          {
+            "q": "Quais sintomas a SII pode causar em crianças?",
+            "a": "A dor abdominal recorrente acompanha alterações do hábito intestinal. As fezes podem ser duras ou amolecidas, ou alternar entre as duas formas."
+          },
+          {
+            "q": "Quando os sintomas podem aparecer?",
+            "a": "Algumas crianças os percebem nas refeições, em dias estressantes ou nas idas ao banheiro. Podem ocorrer em outros momentos. Descreva o padrão sem presumir a causa."
+          },
+          {
+            "q": "Quando o profissional pode diagnosticar SII?",
+            "a": "Ele procura dor persistente relacionada à evacuação ou a mudanças nas fezes e avalia outras explicações. A melhora da dor após tratar a constipação orienta o diagnóstico."
+          },
+          {
+            "q": "Como é tratada?",
+            "a": "A equipe pode tratar a constipação ou a diarreia, discutir fibras adequadas e oferecer uma terapia voltada à relação intestino-cérebro. Combinem como reconhecer a melhora e quando reavaliar."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 17 de novembro de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Conte ao profissional como são as dores e as fezes.",
+            "Converse antes de iniciar qualquer dieta restritiva ou suplemento.",
+            "Combine medidas para a escola e uma data para revisar o progresso."
+          ],
+          "bemama": "A BeMama sugere perguntar qual parte do dia na escola é mais difícil e combinar uma mudança prática, como facilitar o acesso ao banheiro.",
+          "safety": "Procure atendimento urgente por fezes com sangue ou pretas como piche, dor intensa que piora ou desidratação. Fale com o profissional sobre vômitos persistentes, diarreia noturna, febre, perda de peso ou crescimento lento.",
+          "sources": [
+            {
+              "organization": "Instituto Nacional de Diabetes e Doenças Digestivas e Renais dos EUA",
+              "title": "Como os profissionais diagnosticam SII em crianças",
+              "url": "https://www.niddk.nih.gov/health-information/digestive-diseases/irritable-bowel-syndrome-children/diagnosis"
+            },
+            {
+              "organization": "ESPGHAN e NASPGHAN",
+              "title": "Diretriz conjunta de tratamento da SII e da dor abdominal funcional na infância",
+              "url": "https://doi.org/10.1002/jpn3.70070"
+            },
+            {
+              "organization": "Shulman e colaboradores, Clinical Gastroenterology and Hepatology",
+              "title": "Fibra de psyllium e episódios de dor em crianças com SII",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/27080737/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5789.webp",
+    "heroAlt": {
+      "en": "A child marks a diary at the kitchen table while resting a hand on their belly",
+      "es": "Una niña marca un diario en la mesa de la cocina con una mano sobre el abdomen",
+      "fr": "Une enfant remplit un carnet à la table de la cuisine, une main sur le ventre",
+      "pt": "Uma criança faz uma anotação à mesa da cozinha com a outra mão na barriga",
+      "tr": "Bir çocuk mutfak masasında bir elini karnına koyup günlüğüne işaret ekliyor",
+      "fa": "کودکی پشت میز آشپزخانه با یک دست روی شکم در دفترش علامت می‌زند",
+      "ar": "طفلة تسجل علامة في دفترها على مائدة المطبخ فيما تضع يدها الأخرى على بطنها"
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "When a child has recurring belly pain and changing bowel habits",
+      "description": "Find out what clinicians look for in childhood irritable bowel syndrome, which symptoms need separate assessment, and what can help a child manage pain."
+    },
+    "fa": {
+      "title": "دل‌درد تکرارشونده کودک همراه با تغییر در دفع",
+      "description": "ببینید چه الگویی پزشک را به سندرم روده تحریک‌پذیر در کودک مشکوک می‌کند، کدام نشانه‌ها بررسی جداگانه می‌خواهند و چه چیزهایی به کنترل درد کمک می‌کنند."
+    },
+    "ar": {
+      "title": "عندما يتكرر ألم البطن وتتغير عادات التبرز عند الطفل",
+      "description": "تعرّف إلى ما يبحث عنه الطبيب عند احتمال متلازمة القولون العصبي، والأعراض التي تستحق تقييمًا مختلفًا، وما يساعد طفلك على التعامل مع الألم."
+    },
+    "fr": {
+      "title": "Douleurs de ventre répétées et changement des selles chez l’enfant",
+      "description": "Découvrez quels symptômes évoquent un intestin irritable chez l’enfant, quels signes demandent un autre bilan et comment aider un enfant à gérer les douleurs."
+    },
+    "tr": {
+      "title": "Çocuklarda tekrarlayan karın ağrısı ve değişen dışkılama",
+      "description": "Çocuklarda irritabl bağırsak sendromunu düşündüren örüntüyü, ayrı değerlendirme gerektiren belirtileri ve ağrıyı yönetme yollarını öğrenin."
+    },
+    "es": {
+      "title": "Dolor de barriga recurrente y cambios en las deposiciones",
+      "description": "Descubre qué patrón sugiere intestino irritable en niños, qué síntomas necesitan otra valoración y qué opciones ayudan a un niño a manejar el dolor."
+    },
+    "pt": {
+      "title": "Dor de barriga recorrente e mudanças nas fezes da criança",
+      "description": "Entenda o que sugere síndrome do intestino irritável na infância, quais sintomas precisam de outra avaliação e o que pode ajudar a criança a lidar com a dor."
+    }
+  }
+}

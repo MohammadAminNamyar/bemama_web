@@ -1,0 +1,660 @@
+{
+  "sourceId": "5915",
+  "article": {
+    "slug": "baby-and-child/vitamin-e-deficiency-in-children",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "Vitamin E deficiency in children: who needs a check?",
+        "description": "Learn why some children have trouble absorbing vitamin E, which changes in movement or vision to report, and how treatment differs from everyday food needs.",
+        "intro": "The label on the cereal says it contains vitamin E, but your child’s liver team still wants a blood test. The label describes what goes into the bowl. The test helps the team assess what the body has been able to use. This distinction matters most for children with conditions that interfere with fat absorption.",
+        "sections": [
+          {
+            "heading": "When can a child run low?",
+            "paragraphs": [
+              "Vitamin E protects cells from oxidative damage and supports normal nerve, muscle and immune function. Deficiency is rare in healthy children. When bile does not reach the intestine normally, or when pancreatic disease, cystic fibrosis or a shortened bowel limits fat absorption, vitamin E can be difficult to absorb even from a varied diet.",
+              "A rare inherited condition can affect how the body handles vitamin E and cause problems with balance and coordination. Most childhood balance problems have other explanations. Tell the clinician about a diagnosed digestive or liver condition, medicines and supplements, and any changes in movement or eyesight."
+            ]
+          },
+          {
+            "heading": "Which symptoms need attention?",
+            "paragraphs": [
+              "Deficiency can affect nerves, muscles or the retina, the light-sensitive tissue at the back of the eye. A child may develop weakness, reduced coordination or problems with vision. The symptoms do not identify the cause by themselves. Note when you first saw the change and what the child used to manage comfortably.",
+              "Seek immediate medical assessment for a newly abnormal way of walking or sudden weakness. A child who suddenly cannot move one side of their face or body needs emergency help. Do not wait for a vitamin test or use a supplement to see whether these changes go away."
+            ]
+          },
+          {
+            "heading": "Food needs and treatment are different",
+            "paragraphs": [
+              "The US recommended daily intake is 6 mg of alpha-tocopherol at ages one to three, 7 mg at four to eight, 11 mg at nine to thirteen and 15 mg at fourteen to eighteen. These are amounts for usual intake in healthy children. Vegetable oils, nuts, seeds and some fortified foods supply vitamin E. For a young child who tolerates them, a small amount of smooth nut or seed butter stirred into a soft food is easier to eat safely than whole nuts or a thick spoonful.",
+              "If a child has poor absorption, confirm the care plan before buying extra supplements. The clinician may check blood vitamin E, consider blood fat levels when interpreting it and investigate the underlying condition. Tell the team exactly which preparation the child takes. High amounts from supplements can increase bleeding risk, particularly with medicines that affect clotting."
+            ]
+          },
+          {
+            "heading": "Why the preparation and follow-up matter",
+            "paragraphs": [
+              "In a study at eight centres, 60 children with deficiency and chronic impairment of bile flow had not responded to other oral vitamin E. Their vitamin E status normalised with a specialised oral preparation. The children were selected for this specific problem. It does not follow that another child with weakness needs the same preparation or dose.",
+              "For confirmed deficiency, ask when the team will repeat tests and check movement, strength or vision. Some nerve problems can persist if treatment is delayed. If giving the prescribed product is difficult or the pharmacy offers a substitute, check with the clinical team before changing it."
+            ]
+          }
+        ],
+        "takeaways": [
+          "A child may eat vitamin E but absorb too little if bile flow or fat digestion is impaired.",
+          "Report changes in vision, strength or coordination. A new walking abnormality needs immediate assessment.",
+          "Daily food targets do not determine a treatment dose for a child with deficiency."
+        ],
+        "faq": [
+          {
+            "q": "What symptoms can vitamin E deficiency cause?",
+            "a": "Nerve or muscle problems can affect strength and coordination. Vision can also be affected. These signs have many possible causes. Seek immediate assessment for new difficulty walking or sudden weakness."
+          },
+          {
+            "q": "How is vitamin E deficiency treated?",
+            "a": "The clinician confirms the problem, considers why the child cannot absorb or use the vitamin and chooses a suitable preparation and follow-up. Food can support everyday intake, but children with significant malabsorption may need a specially prescribed form."
+          },
+          {
+            "q": "How much vitamin E does a child usually need?",
+            "a": "US daily reference amounts for healthy children are 6 mg at one to three years, 7 mg at four to eight, 11 mg at nine to thirteen and 15 mg at fourteen to eighteen. These totals refer to alpha-tocopherol and are not instructions for giving supplements."
+          },
+          {
+            "q": "Does a confirmed deficiency need treatment?",
+            "a": "Yes. Persistent deficiency can injure nerves and affect movement or vision. Arrange treatment and monitoring with the specialist caring for the underlying condition. Do not increase a dose yourself when a test result is low."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Discuss risk with the child’s team if an illness limits fat absorption.",
+            "Get new changes in walking or sudden weakness evaluated immediately.",
+            "Use the prescribed product and ask when the response will be checked."
+          ],
+          "bemama": "BeMama uses a fortified cereal label to explain why the vitamin in a meal and the amount a child absorbs can be different.",
+          "safety": "Seek emergency help for sudden one-sided facial or limb weakness. Get immediate medical assessment for a new abnormal gait. High-dose vitamin E supplements can increase bleeding risk and should be managed by the child’s clinician.",
+          "sources": [
+            {
+              "organization": "National Institutes of Health Office of Dietary Supplements",
+              "title": "Vitamin E sources, age-based intake, deficiency and supplement risks",
+              "url": "https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/"
+            },
+            {
+              "organization": "Sokol and colleagues, Gastroenterology",
+              "title": "Specialised oral vitamin E for children with chronic cholestasis",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/8500733/"
+            },
+            {
+              "organization": "National Institute for Health and Care Excellence",
+              "title": "Referral for new gait changes and sudden weakness in children",
+              "url": "https://www.nice.org.uk/guidance/ng127/chapter/Recommendations-for-children-aged-under-16"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "کمبود ویتامین E در کودکان؛ چه زمانی بررسی لازم است؟",
+        "description": "ببینید کدام کودکان ممکن است ویتامین E را خوب جذب نکنند، چه تغییری در حرکت یا بینایی نیاز به پیگیری دارد و مقدار مورد نیاز در غذا چه تفاوتی با درمان دارد.",
+        "intro": "روی بستهٔ غلات صبحانه نوشته شده که ویتامین E دارد، اما تیمی که بیماری کبد فرزندتان را پیگیری می‌کند باز هم آزمایش خون می‌خواهد. برچسب مقدار ویتامین موجود در غذا را نشان می‌دهد. آزمایش کمک می‌کند بفهمیم بدن چقدر توانسته از آن استفاده کند. این تفاوت به‌ویژه برای کودکی مهم است که در جذب چربی مشکل دارد.",
+        "sections": [
+          {
+            "heading": "چه کودکانی ممکن است دچار کمبود شوند؟",
+            "paragraphs": [
+              "ویتامین E از سلول‌ها در برابر آسیب اکسیداتیو محافظت می‌کند و برای کارکرد طبیعی عصب‌ها، ماهیچه‌ها و دستگاه ایمنی لازم است. کمبود آن در کودکان سالم نادر است. اگر صفرا به‌خوبی به روده نرسد یا بیماری لوزالمعده، فیبروز کیستیک یا کوتاهی روده جذب چربی را محدود کند، حتی با غذای متنوع هم ممکن است ویتامین E کافی جذب نشود.",
+              "یک بیماری ارثی نادر می‌تواند نحوهٔ استفادهٔ بدن از این ویتامین را تغییر دهد و در تعادل و هماهنگی حرکت مشکل ایجاد کند. بیشتر اختلال‌های تعادل در کودکی علت دیگری دارند. بیماری‌های شناخته‌شدهٔ کبدی یا گوارشی، داروها و مکمل‌ها و هر تغییری در حرکت یا بینایی کودک را به پزشک بگویید."
+            ]
+          },
+          {
+            "heading": "کدام نشانه‌ها نیاز به توجه دارند؟",
+            "paragraphs": [
+              "کمبود این ویتامین می‌تواند بر عصب‌ها، ماهیچه‌ها یا شبکیه، یعنی بافت حساس به نور در پشت چشم، اثر بگذارد. کودک ممکن است دچار ضعف، کاهش هماهنگی حرکت یا مشکل بینایی شود. این علائم به‌تنهایی علت را مشخص نمی‌کنند. یادداشت کنید چه زمانی متوجه تغییر شدید و چه کاری پیش از آن برای کودک آسان بود.",
+              "اختلال تازه در راه رفتن یا ضعف ناگهانی نیاز به ارزیابی فوری پزشکی دارد. اگر کودک ناگهان نمی‌تواند یک طرف صورت یا بدن را حرکت دهد، با اورژانس تماس بگیرید. منتظر آزمایش ویتامین نمانید و برای امتحان کردن اینکه علائم بهتر می‌شوند یا نه، مکمل ندهید."
+            ]
+          },
+          {
+            "heading": "نیاز غذایی و درمان کمبود",
+            "paragraphs": [
+              "در ایالات متحده مقدار توصیه‌شدهٔ روزانهٔ آلفا توکوفرول برای کودکان سالم در یک تا سه سالگی ۶، چهار تا هشت سالگی ۷، نه تا سیزده سالگی ۱۱ و چهارده تا هجده سالگی ۱۵ میلی‌گرم است. این ارقام به دریافت معمول از غذا مربوط‌اند. روغن‌های گیاهی، مغزها، دانه‌ها و برخی غذاهای غنی‌شده ویتامین E دارند. برای کودک کم‌سالی که این مواد را تحمل می‌کند، کمی کرهٔ نرم و یکدست مغز یا دانه در غذای نرم ایمن‌تر از مغز کامل یا یک قاشق کرهٔ غلیظ است.",
+              "اگر کودک مشکل جذب دارد، پیش از خرید مکمل با پزشک دربارهٔ برنامهٔ مراقبت صحبت کنید. پزشک ممکن است ویتامین E خون را بسنجد، برای تفسیر نتیجه مقدار چربی خون را هم در نظر بگیرد و علت زمینه‌ای را بررسی کند. نام دقیق فرآوردهٔ مصرفی را بگویید. مقدار زیاد ویتامین E در مکمل می‌تواند به‌ویژه همراه داروهای مؤثر بر انعقاد، احتمال خونریزی را بالا ببرد."
+            ]
+          },
+          {
+            "heading": "چرا نوع فرآورده و پیگیری مهم است؟",
+            "paragraphs": [
+              "در پژوهشی در هشت مرکز، ۶۰ کودک مبتلا به کمبود ویتامین E و اختلال مزمن جریان صفرا به دیگر فرآورده‌های خوراکی این ویتامین پاسخ نداده بودند. با نوع خوراکی ویژه‌ای، وضعیت ویتامین E آن‌ها به محدودهٔ طبیعی رسید. کودکان به‌دلیل همین مشکل خاص انتخاب شده بودند. کودک دیگری که ضعف دارد لزوماً به همان فرآورده یا همان مقدار نیاز ندارد.",
+              "اگر کمبود تأیید شده است، بپرسید چه وقت آزمایش تکرار می‌شود و حرکت، قدرت عضلات یا بینایی بررسی خواهد شد. اگر درمان دیر آغاز شود، بعضی مشکلات عصبی ممکن است باقی بمانند. اگر دادن فرآورده دشوار است یا داروخانه جایگزینی پیشنهاد کرده است، پیش از تغییر با تیم درمان مشورت کنید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "اگر جریان صفرا یا هضم چربی مختل باشد، ممکن است کودک ویتامین E بخورد اما مقدار کمی از آن را جذب کند.",
+          "تغییر در بینایی، قدرت یا هماهنگی را گزارش کنید. اختلال جدید راه رفتن نیازمند ارزیابی فوری است.",
+          "مقدار مورد نیاز روزانه در غذا، دوز درمان کمبود را تعیین نمی‌کند."
+        ],
+        "faq": [
+          {
+            "q": "کمبود ویتامین E چه نشانه‌هایی دارد؟",
+            "a": "مشکلات عصبی یا عضلانی می‌توانند بر قدرت و هماهنگی اثر بگذارند. بینایی هم ممکن است تغییر کند. این نشانه‌ها علت‌های گوناگون دارند. برای دشواری تازه در راه رفتن یا ضعف ناگهانی، فوری برای ارزیابی پزشکی اقدام کنید."
+          },
+          {
+            "q": "کمبود ویتامین E چگونه درمان می‌شود؟",
+            "a": "پزشک نخست کمبود و علت مشکل در جذب یا استفاده از ویتامین را بررسی می‌کند، سپس فرآورده و برنامهٔ پیگیری مناسب را انتخاب می‌کند. غذا به تأمین نیاز معمول کمک می‌کند، اما کودکی که سوءجذب قابل‌توجه دارد ممکن است به نوع ویژه‌ای با تجویز پزشک نیاز داشته باشد."
+          },
+          {
+            "q": "کودک معمولاً به چه مقدار ویتامین E نیاز دارد؟",
+            "a": "در ایالات متحده مقدار مرجع روزانه برای کودکان سالم یک تا سه سال ۶، چهار تا هشت سال ۷، نه تا سیزده سال ۱۱ و چهارده تا هجده سال ۱۵ میلی‌گرم است. این ارقام کل آلفا توکوفرول دریافتی را نشان می‌دهند و دستور مصرف مکمل نیستند."
+          },
+          {
+            "q": "آیا کمبود تأییدشده باید درمان شود؟",
+            "a": "بله. ادامهٔ کمبود می‌تواند به عصب‌ها آسیب بزند و بر حرکت یا بینایی اثر بگذارد. درمان و پایش را با متخصص بیماری زمینه‌ای برنامه‌ریزی کنید. اگر نتیجهٔ آزمایش پایین است، خودتان مقدار مصرف را افزایش ندهید."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۶ نوامبر ۲۰۲۶ بازبینی شد",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "اگر بیماری جذب چربی را محدود کرده است، دربارهٔ خطر کمبود با تیم درمان صحبت کنید.",
+            "برای اختلال جدید راه رفتن یا ضعف ناگهانی فوری ارزیابی پزشکی بگیرید.",
+            "فرآوردهٔ تجویزشده را استفاده کنید و بپرسید پاسخ به درمان چه زمانی سنجیده می‌شود."
+          ],
+          "bemama": "بی‌ماما با مثال برچسب غلات غنی‌شده نشان می‌دهد چرا مقدار ویتامین موجود در غذا ممکن است با مقداری که کودک جذب می‌کند فرق کند.",
+          "safety": "برای ضعف ناگهانی یک طرف صورت یا بدن با اورژانس تماس بگیرید. اختلال جدید راه رفتن نیاز به ارزیابی فوری دارد. مکمل ویتامین E با دوز بالا می‌تواند خطر خونریزی را بیشتر کند و مصرف آن باید زیر نظر پزشک کودک باشد.",
+          "sources": [
+            {
+              "organization": "دفتر مکمل‌های غذایی مؤسسه‌های ملی سلامت ایالات متحده",
+              "title": "منابع ویتامین E، نیاز سنی، کمبود و خطرهای مصرف مکمل",
+              "url": "https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/"
+            },
+            {
+              "organization": "سوکول و همکاران، مجلهٔ Gastroenterology",
+              "title": "فرآوردهٔ خوراکی ویژهٔ ویتامین E برای کودکان مبتلا به کلستاز مزمن",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/8500733/"
+            },
+            {
+              "organization": "مؤسسهٔ ملی تعالی سلامت و مراقبت بریتانیا",
+              "title": "ارجاع کودکان با تغییر تازه در راه رفتن یا ضعف ناگهانی",
+              "url": "https://www.nice.org.uk/guidance/ng127/chapter/Recommendations-for-children-aged-under-16"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "نقص فيتامين هـ عند الأطفال: متى يحتاج الطفل إلى فحص؟",
+        "description": "تعرّف إلى أسباب ضعف امتصاص فيتامين هـ عند بعض الأطفال، وتغيّرات الحركة أو البصر التي تستدعي التقييم، والفرق بين الاحتياجات الغذائية وعلاج النقص المثبت.",
+        "intro": "تذكر عبوة حبوب الإفطار أنها تحتوي على فيتامين هـ، لكن الفريق الذي يتابع مرض الكبد لدى طفلك ما زال يطلب تحليل الدم. تخبرك العبوة بما في الوعاء، ويساعد التحليل على معرفة مقدار ما استطاع الجسم الاستفادة منه. ولهذا الفرق أهمية خاصة حين يجد الطفل صعوبة في امتصاص الدهون.",
+        "sections": [
+          {
+            "heading": "من هم الأطفال المعرّضون للنقص؟",
+            "paragraphs": [
+              "يحمي فيتامين هـ الخلايا من الضرر التأكسدي ويدعم عمل الأعصاب والعضلات وجهاز المناعة. ونقصه نادر لدى الأطفال الأصحاء. إذا لم تصل الصفراء إلى الأمعاء كالمعتاد، أو أعاق مرض في البنكرياس أو التليّف الكيسي أو قِصر الأمعاء امتصاص الدهون، فقد يصعب امتصاص الفيتامين حتى مع تنوع الطعام.",
+              "وقد يغيّر مرض وراثي نادر طريقة تعامل الجسم مع الفيتامين، فيؤثر في التوازن وتناسق الحركة. ولمعظم مشكلات التوازن في الطفولة أسباب أخرى. أخبر الطبيب بأي مرض كبدي أو هضمي مشخص، وبالأدوية والمكملات، وبأي تغير في حركة الطفل أو بصره."
+            ]
+          },
+          {
+            "heading": "ما العلامات التي تحتاج إلى تقييم؟",
+            "paragraphs": [
+              "يمكن أن يؤثر النقص في الأعصاب أو العضلات أو الشبكية، وهي النسيج الحساس للضوء في مؤخرة العين. وقد يظهر ضعف أو خلل في تناسق الحركة أو مشكلة في الرؤية. ولا تكشف الأعراض وحدها السبب. دوّن متى لاحظت التغير وما كان الطفل يستطيع فعله بسهولة قبل ذلك.",
+              "اطلب تقييمًا طبيًا فوريًا إذا تغيرت مشية الطفل حديثًا أو ظهر ضعف مفاجئ. واتصل بالإسعاف إذا فقد فجأة القدرة على تحريك أحد جانبي الوجه أو الجسم. لا تنتظر نتيجة تحليل الفيتامين ولا تجرّب مكمّلًا لترى هل يزول التغير."
+            ]
+          },
+          {
+            "heading": "الاحتياج الغذائي وعلاج النقص",
+            "paragraphs": [
+              "في الولايات المتحدة، الكمية اليومية الموصى بها من ألفا توكوفيرول للأطفال الأصحاء هي ٦ ملغ من عمر سنة إلى ثلاث سنوات، و٧ ملغ من أربع إلى ثماني سنوات، و١١ ملغ من تسع إلى ثلاث عشرة سنة، و١٥ ملغ من أربع عشرة إلى ثماني عشرة سنة. وهي كميات الاستهلاك المعتاد. وتحتوي الزيوت النباتية والمكسرات والبذور وبعض الأطعمة المدعّمة على فيتامين هـ. وللطفل الصغير الذي يتحملها، يُفضّل خلط قليل من زبدة المكسرات أو البذور الناعمة بطعام طري لتسهيل البلع بأمان، بدلًا من إعطائه حبات كاملة أو ملعقة كثيفة من الزبدة.",
+              "إذا كان الامتصاص ضعيفًا، فراجع خطة الرعاية قبل شراء المكمّلات. قد يقيس الطبيب فيتامين هـ في الدم ويراعي مستويات دهون الدم عند تفسير النتيجة ويبحث عن المرض المسبب. أخبر الفريق بالمنتج الذي يتناوله الطفل تحديدًا. وقد تزيد الكميات العالية في المكمّلات خطر النزف، خصوصًا مع الأدوية التي تؤثر في التخثر."
+            ]
+          },
+          {
+            "heading": "لماذا يهم نوع المستحضر والمتابعة؟",
+            "paragraphs": [
+              "شملت دراسة في ثمانية مراكز ٦٠ طفلًا لديهم نقص فيتامين هـ واضطراب مزمن في تدفق الصفراء ولم يستجيبوا لمستحضرات فموية أخرى من الفيتامين. وعادت مستويات الفيتامين لديهم إلى المجال الطبيعي مع مستحضر فموي خاص. اختير هؤلاء الأطفال لهذه المشكلة تحديدًا. ولا يلزم من ذلك أن طفلًا آخر يعاني ضعفًا يحتاج إلى المستحضر نفسه أو جرعته.",
+              "إذا تأكد النقص، فاسأل عن موعد تكرار الفحوص وتقييم الحركة والقوة أو البصر. وقد تستمر بعض مشكلات الأعصاب إذا تأخر العلاج. راجع الفريق قبل تغيير المستحضر إذا صعب على الطفل تناوله أو عرضت الصيدلية بديلًا."
+            ]
+          }
+        ],
+        "takeaways": [
+          "قد يحصل الطفل على فيتامين هـ من الطعام ويمتص منه قليلًا إذا اختل تدفق الصفراء أو هضم الدهون.",
+          "أبلغ عن تغير الرؤية أو القوة أو التناسق. وأي تغير حديث في المشية يحتاج إلى تقييم فوري.",
+          "لا تحدد الأهداف الغذائية اليومية جرعة علاج نقص الفيتامين."
+        ],
+        "faq": [
+          {
+            "q": "ما الأعراض التي يمكن أن يسببها نقص فيتامين هـ؟",
+            "a": "قد تؤثر مشكلات الأعصاب أو العضلات في القوة وتناسق الحركة، وقد يتأثر البصر أيضًا. ولهذه العلامات أسباب عديدة. اطلب تقييمًا فوريًا لصعوبة حديثة في المشي أو ضعف مفاجئ."
+          },
+          {
+            "q": "كيف يُعالج نقص فيتامين هـ؟",
+            "a": "يتحقق الطبيب من وجود النقص ويبحث عن سبب صعوبة امتصاص الفيتامين أو استخدامه، ثم يختار المستحضر والمتابعة المناسبين. يدعم الطعام الاحتياج اليومي، لكن الطفل المصاب بسوء امتصاص ملحوظ قد يحتاج إلى مستحضر خاص بوصفة طبية."
+          },
+          {
+            "q": "كم يحتاج الطفل عادةً من فيتامين هـ؟",
+            "a": "القيم اليومية المرجعية الأمريكية للأطفال الأصحاء هي ٦ ملغ من سنة إلى ثلاث سنوات، و٧ ملغ من أربع إلى ثمانٍ، و١١ ملغ من تسع إلى ثلاث عشرة، و١٥ ملغ من أربع عشرة إلى ثماني عشرة سنة. وهذه قيم لمجموع ألفا توكوفيرول وليست تعليمات لإعطاء المكمّلات."
+          },
+          {
+            "q": "هل يجب علاج النقص المؤكد؟",
+            "a": "نعم. قد يضر النقص المستمر بالأعصاب ويؤثر في الحركة أو البصر. رتّب العلاج والمتابعة مع الاختصاصي المسؤول عن المرض الأساسي. لا ترفع الجرعة من تلقاء نفسك إذا أظهر التحليل قيمة منخفضة."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "ناقش خطر النقص مع فريق الطفل إذا كان لديه مرض يحد من امتصاص الدهون.",
+            "اطلب تقييمًا فوريًا لتغير حديث في المشية أو ضعف مفاجئ.",
+            "استخدم المستحضر الموصوف واسأل عن موعد التحقق من الاستجابة."
+          ],
+          "bemama": "تستعين بي ماما بمثال عبوة حبوب إفطار مدعّمة لتوضيح كيف تختلف كمية الفيتامين في الوجبة عن الكمية التي يمتصها الطفل.",
+          "safety": "اتصل بالإسعاف عند ضعف مفاجئ في أحد جانبي الوجه أو الجسم. واطلب تقييمًا طبيًا فوريًا لمشية أصبحت غير طبيعية. قد تزيد مكمّلات فيتامين هـ العالية الجرعة خطر النزف، ويجب أن يشرف عليها طبيب الطفل.",
+          "sources": [
+            {
+              "organization": "مكتب المكمّلات الغذائية في معاهد الصحة الوطنية الأمريكية",
+              "title": "مصادر فيتامين هـ والاحتياج بحسب العمر والنقص ومخاطر المكمّلات",
+              "url": "https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/"
+            },
+            {
+              "organization": "سوكول وزملاؤه، مجلة Gastroenterology",
+              "title": "مستحضر فموي خاص من فيتامين هـ للأطفال المصابين بركود صفراوي مزمن",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/8500733/"
+            },
+            {
+              "organization": "المعهد الوطني للتميّز في الصحة والرعاية في المملكة المتحدة",
+              "title": "إحالة الأطفال عند تغير المشية حديثًا أو ظهور ضعف مفاجئ",
+              "url": "https://www.nice.org.uk/guidance/ng127/chapter/Recommendations-for-children-aged-under-16"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Carence en vitamine E chez l’enfant : quand la rechercher ?",
+        "description": "Découvrez quels enfants absorbent mal la vitamine E, quels changements de motricité ou de vision signaler et comment distinguer apports usuels et traitement.",
+        "intro": "L’étiquette des céréales indique qu’elles contiennent de la vitamine E. Pourtant, l’équipe qui suit votre enfant pour une maladie du foie demande une prise de sang. L’étiquette renseigne sur le contenu du bol. Le dosage aide à savoir ce que son organisme a pu utiliser. Cette différence compte surtout quand une maladie limite l’absorption des graisses.",
+        "sections": [
+          {
+            "heading": "Quels enfants risquent de manquer de vitamine E ?",
+            "paragraphs": [
+              "La vitamine E protège les cellules du stress oxydatif et contribue au fonctionnement des nerfs, des muscles et des défenses immunitaires. La carence est rare chez un enfant en bonne santé. Si la bile arrive mal dans l’intestin, ou si une maladie du pancréas, une mucoviscidose ou un intestin court limite l’absorption des graisses, l’enfant peut mal absorber cette vitamine même avec une alimentation variée.",
+              "Une maladie héréditaire rare perturbe l’utilisation de la vitamine E et peut altérer l’équilibre et la coordination. Les troubles de l’équilibre chez l’enfant ont généralement d’autres causes. Signalez toute maladie digestive ou hépatique connue, les médicaments et compléments pris et tout changement de la vue ou des mouvements."
+            ]
+          },
+          {
+            "heading": "Quels signes doivent faire consulter ?",
+            "paragraphs": [
+              "La carence peut toucher les nerfs, les muscles ou la rétine, le tissu sensible à la lumière au fond de l’œil. Une faiblesse, des difficultés de coordination ou des troubles visuels peuvent apparaître. Ces signes ont de nombreuses causes. Notez depuis quand ils sont présents et ce que votre enfant faisait auparavant sans difficulté.",
+              "Une démarche qui devient anormale ou une faiblesse soudaine nécessite une évaluation immédiate. Si votre enfant ne peut soudain plus bouger un côté du visage ou du corps, appelez les secours. N’attendez pas un dosage et n’essayez pas un complément pour voir si le trouble passe."
+            ]
+          },
+          {
+            "heading": "Les apports alimentaires et le traitement",
+            "paragraphs": [
+              "Aux États-Unis, les apports journaliers recommandés en alpha-tocophérol sont de 6 mg de 1 à 3 ans, 7 mg de 4 à 8 ans, 11 mg de 9 à 13 ans et 15 mg de 14 à 18 ans. Ils concernent les besoins courants des enfants en bonne santé. Les huiles végétales, fruits à coque, graines et certains aliments enrichis apportent de la vitamine E. Pour un jeune enfant qui les tolère, un peu de purée lisse de graines ou de fruits à coque mélangée à un aliment mou est plus facile à manger sans s’étouffer que des noix entières ou une grosse cuillerée de purée épaisse.",
+              "En cas de malabsorption, vérifiez le plan de soins avant d’acheter un complément. Le médecin peut doser la vitamine E dans le sang, tenir compte du taux de lipides pour interpréter le résultat et rechercher la cause. Précisez le produit pris par votre enfant. À forte dose, les compléments peuvent augmenter le risque de saignement, surtout avec des médicaments agissant sur la coagulation."
+            ]
+          },
+          {
+            "heading": "Pourquoi le choix de la préparation et le suivi comptent",
+            "paragraphs": [
+              "Dans une étude menée dans huit centres, 60 enfants carencés présentant un trouble chronique de l’écoulement de la bile n’avaient pas répondu à d’autres formes orales de vitamine E. Leur taux s’est normalisé avec une préparation orale particulière. Ces enfants avaient été sélectionnés pour ce problème précis. Un autre enfant présentant une faiblesse n’a pas nécessairement besoin du même produit ni de la même dose.",
+              "En cas de carence confirmée, demandez quand auront lieu les prochains dosages et examens de la motricité, de la force ou de la vision. Certaines atteintes nerveuses peuvent persister si le traitement tarde. Si l’enfant prend difficilement le produit prescrit ou si la pharmacie propose un remplacement, consultez l’équipe avant tout changement."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Un enfant peut consommer de la vitamine E et en absorber trop peu quand la bile s’écoule mal ou que les graisses sont mal digérées.",
+          "Signalez les changements de vue, de force ou de coordination. Une démarche nouvellement anormale demande une évaluation immédiate.",
+          "Les apports alimentaires habituels ne déterminent pas la dose utilisée pour traiter une carence."
+        ],
+        "faq": [
+          {
+            "q": "Quels symptômes une carence en vitamine E peut-elle provoquer ?",
+            "a": "Une atteinte des nerfs ou des muscles peut modifier la force ou la coordination. La vision peut aussi changer. De nombreuses causes sont possibles. Faites évaluer immédiatement une nouvelle difficulté à marcher ou une faiblesse soudaine."
+          },
+          {
+            "q": "Comment traite-t-on une carence en vitamine E ?",
+            "a": "Le médecin confirme la carence, recherche pourquoi l’enfant absorbe ou utilise mal la vitamine et choisit le produit et le suivi adaptés. L’alimentation contribue aux apports courants, mais une malabsorption importante peut nécessiter une préparation spéciale sur prescription."
+          },
+          {
+            "q": "De combien de vitamine E un enfant a-t-il habituellement besoin ?",
+            "a": "Aux États-Unis, les repères quotidiens pour un enfant en bonne santé sont de 6 mg de 1 à 3 ans, 7 mg de 4 à 8 ans, 11 mg de 9 à 13 ans et 15 mg de 14 à 18 ans. Ils portent sur l’apport total en alpha-tocophérol et ne constituent pas des doses de complément à administrer."
+          },
+          {
+            "q": "Une carence confirmée doit-elle être traitée ?",
+            "a": "Oui. Une carence prolongée peut léser les nerfs et nuire à la motricité ou à la vision. Organisez le traitement et le suivi avec le spécialiste chargé de la maladie sous-jacente. N’augmentez pas la dose de vous-même à la lecture d’un résultat bas."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Discutez du risque avec l’équipe si une maladie limite l’absorption des graisses.",
+            "Faites évaluer immédiatement une démarche qui change ou une faiblesse soudaine.",
+            "Utilisez la préparation prescrite et demandez quand sa réponse sera contrôlée."
+          ],
+          "bemama": "BeMama prend l’exemple d’une étiquette de céréales enrichies pour expliquer la différence entre la vitamine présente dans un repas et la quantité absorbée.",
+          "safety": "Appelez les secours en cas de faiblesse soudaine d’un côté du visage ou du corps. Une démarche nouvellement anormale impose une évaluation immédiate. Les fortes doses de vitamine E en complément peuvent augmenter le risque de saignement et nécessitent un suivi médical.",
+          "sources": [
+            {
+              "organization": "Office des compléments alimentaires des Instituts nationaux de la santé des États-Unis",
+              "title": "Sources de vitamine E, apports par âge, carence et risques des compléments",
+              "url": "https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/"
+            },
+            {
+              "organization": "Sokol et ses collègues, Gastroenterology",
+              "title": "Une forme orale particulière de vitamine E chez des enfants atteints de cholestase chronique",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/8500733/"
+            },
+            {
+              "organization": "Institut britannique pour l’excellence en santé et en soins",
+              "title": "Orientation des enfants en cas de modification récente de la marche ou de faiblesse soudaine",
+              "url": "https://www.nice.org.uk/guidance/ng127/chapter/Recommendations-for-children-aged-under-16"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Çocuklarda E vitamini eksikliği ne zaman araştırılır?",
+        "description": "Bazı çocukların E vitaminini neden yeterince ememediğini, yürüme ve görmede hangi değişiklikleri bildireceğinizi ve beslenmenin tedavideki yerini öğrenin.",
+        "intro": "Kahvaltılık gevreğin ambalajında E vitamini içerdiği yazıyor, ama çocuğunuzun karaciğer hastalığını takip eden ekip kan tahlili istiyor. Etiket kâseye ne girdiğini gösterir. Tahlil ise vücudun ne kadarından yararlanabildiğini değerlendirmeye yardımcı olur. Bu ayrım özellikle yağ emilimi bozulduğunda önem taşır.",
+        "sections": [
+          {
+            "heading": "Hangi çocuklarda eksiklik görülebilir?",
+            "paragraphs": [
+              "E vitamini hücreleri oksidatif hasardan korur, sinirlerin, kasların ve bağışıklık sisteminin çalışmasına katkıda bulunur. Sağlıklı çocuklarda eksikliği nadirdir. Safra bağırsağa yeterince ulaşmıyorsa ya da pankreas hastalığı, kistik fibrozis veya kısa bağırsak nedeniyle yağ emilimi bozulmuşsa çocuk çeşitli gıdalar yese bile yeterince E vitamini ememeyebilir.",
+              "Nadir görülen kalıtsal bir hastalık, vücudun E vitaminini kullanma biçimini etkileyerek denge ve koordinasyon sorunlarına yol açabilir. Çocuklardaki denge sorunlarının çoğunun başka nedenleri vardır. Doktora bilinen sindirim sistemi ve karaciğer hastalıklarını, kullanılan ilaç ve takviyeleri, hareketlerde veya görmede fark ettiğiniz değişiklikleri anlatın."
+            ]
+          },
+          {
+            "heading": "Hangi belirtiler değerlendirilmelidir?",
+            "paragraphs": [
+              "Eksiklik sinirleri, kasları veya gözün arkasındaki ışığa duyarlı doku olan retinayı etkileyebilir. Güçsüzlük, hareketleri koordine etmede zorluk veya görme sorunları gelişebilir. Bu belirtiler tek başına nedeni göstermez. Değişikliği ilk ne zaman gördüğünüzü ve çocuğun daha önce neleri rahatça yapabildiğini not edin.",
+              "Yeni başlayan yürüme bozukluğunda veya ani güçsüzlükte hemen tıbbi değerlendirme gerekir. Çocuk aniden yüzünün ya da vücudunun bir tarafını hareket ettiremiyorsa acil yardım çağırın. Vitamin tahlilini beklemeyin ve geçer mi diye takviye denemeyin."
+            ]
+          },
+          {
+            "heading": "Beslenme ihtiyacı ve tedavi",
+            "paragraphs": [
+              "ABD’de sağlıklı çocuklar için günlük alfa-tokoferol alım önerisi 1–3 yaşta 6 mg, 4–8 yaşta 7 mg, 9–13 yaşta 11 mg ve 14–18 yaşta 15 mg’dır. Bunlar günlük beslenme değerleridir. Bitkisel yağlar, sert kabuklu yemişler, yağlı tohumlar ve bazı zenginleştirilmiş gıdalar E vitamini sağlar. Bunları tolere eden küçük çocuklar için az miktarda pürüzsüz yemiş veya tohum ezmesini yumuşak yiyeceğe karıştırmak, bütün yemiş ya da bir kaşık koyu ezme vermekten daha güvenlidir.",
+              "Yağ emilimi bozuksa ek takviye almadan önce bakım planını teyit edin. Doktor kandaki E vitaminini ölçebilir, sonucu yorumlarken kan yağlarına bakabilir ve altta yatan hastalığı araştırabilir. Çocuğun tam olarak hangi ürünü aldığını belirtin. Takviyelerle alınan yüksek miktarlar, özellikle pıhtılaşmayı etkileyen ilaçlarla birlikte kanama riskini artırabilir."
+            ]
+          },
+          {
+            "heading": "Ürün ve izlem neden önemlidir?",
+            "paragraphs": [
+              "Sekiz merkezli bir çalışmada, safra akışı uzun süredir bozuk olan ve E vitamini eksikliği bulunan 60 çocuk diğer ağızdan alınan E vitamini ürünlerine yanıt vermemişti. Özel bir ağızdan tedavi ile E vitamini düzeyleri normale döndü. Çocuklar bu özel durum nedeniyle seçilmişti. Güçsüzlüğü olan başka bir çocuk aynı ürüne veya doza ihtiyaç duymayabilir.",
+              "Eksiklik doğrulanırsa tahlillerin ne zaman tekrarlanacağını, hareketin, gücün ve görmenin ne zaman değerlendirileceğini sorun. Tedavi gecikirse bazı sinir sorunları kalıcı olabilir. Çocuk ürünü almakta zorlanıyorsa ya da eczane başka ürün önerirse değişiklik yapmadan önce ekibe danışın."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Safra akışı veya yağ sindirimi bozuksa çocuk E vitamini yese de yeterince ememeyebilir.",
+          "Görme, güç veya koordinasyondaki değişiklikleri bildirin. Yeni yürüme bozukluğu hemen değerlendirilmelidir.",
+          "Günlük beslenme hedefleri eksiklik tedavisinde kullanılacak dozu belirlemez."
+        ],
+        "faq": [
+          {
+            "q": "E vitamini eksikliği hangi belirtilere yol açabilir?",
+            "a": "Sinir veya kas sorunları gücü ve koordinasyonu etkileyebilir. Görme de etkilenebilir. Bu belirtilerin birçok nedeni vardır. Yeni yürüme güçlüğü veya ani güçsüzlükte hemen değerlendirme isteyin."
+          },
+          {
+            "q": "E vitamini eksikliği nasıl tedavi edilir?",
+            "a": "Doktor eksikliği doğrular, çocuğun vitamini neden yeterince ememediğini veya kullanamadığını araştırır ve uygun ürünü ve izlemi seçer. Beslenme günlük ihtiyacı destekler. Belirgin emilim bozukluğu olan bir çocuk için özel bir ürün reçete edilmesi gerekebilir."
+          },
+          {
+            "q": "Bir çocuğun günlük E vitamini ihtiyacı ne kadardır?",
+            "a": "ABD’de sağlıklı çocuklar için günlük referans miktarları 1–3 yaşta 6 mg, 4–8 yaşta 7 mg, 9–13 yaşta 11 mg ve 14–18 yaşta 15 mg’dır. Bunlar toplam alfa-tokoferol alımı içindir ve takviye dozu değildir."
+          },
+          {
+            "q": "Doğrulanmış eksikliği tedavi etmek gerekir mi?",
+            "a": "Evet. Süregelen eksiklik sinirlere zarar verebilir, hareketi veya görmeyi etkileyebilir. Tedaviyi ve takibi altta yatan hastalığı izleyen uzmanla planlayın. Tahlil sonucu düşük diye dozu kendiniz artırmayın."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026 tarihinde değerlendirildi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Bir hastalık yağ emilimini sınırlıyorsa riski çocuğun ekibiyle görüşün.",
+            "Yürümede yeni değişiklik veya ani güçsüzlükte hemen tıbbi değerlendirme isteyin.",
+            "Reçete edilen ürünü kullanın ve yanıtın ne zaman kontrol edileceğini sorun."
+          ],
+          "bemama": "BeMama, bir öğündeki vitamin miktarıyla çocuğun emdiği miktarın neden farklı olabileceğini zenginleştirilmiş kahvaltılık gevrek etiketi üzerinden anlatıyor.",
+          "safety": "Yüzün veya vücudun bir tarafında ani güçsüzlük için acil yardım çağırın. Yeni başlayan yürüme bozukluğu hemen değerlendirilmelidir. Yüksek doz E vitamini takviyeleri kanama riskini artırabilir ve doktor gözetimi gerektirir.",
+          "sources": [
+            {
+              "organization": "ABD Ulusal Sağlık Enstitüleri Besin Takviyeleri Birimi",
+              "title": "E vitamini kaynakları, yaşa göre alım, eksiklik ve takviyelerin riskleri",
+              "url": "https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/"
+            },
+            {
+              "organization": "Sokol ve çalışma arkadaşları, Gastroenterology",
+              "title": "Kronik kolestazlı çocuklarda ağızdan verilen özel bir E vitamini ürünü",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/8500733/"
+            },
+            {
+              "organization": "Birleşik Krallık Ulusal Sağlık ve Bakım Mükemmelliği Enstitüsü",
+              "title": "Çocuklarda yeni yürüme bozukluğu ve ani güçsüzlük için sevk",
+              "url": "https://www.nice.org.uk/guidance/ng127/chapter/Recommendations-for-children-aged-under-16"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Déficit de vitamina E en niños: ¿quién necesita una evaluación?",
+        "description": "Descubre qué niños pueden absorber poca vitamina E, qué cambios de visión o movimiento conviene comunicar y por qué la dieta y el tratamiento son distintos.",
+        "intro": "En la caja de cereales pone que contienen vitamina E, pero el equipo que atiende a tu hijo por una enfermedad hepática pide un análisis. La etiqueta indica qué hay en el plato. El análisis ayuda a averiguar cuánto ha podido aprovechar el organismo. Esta diferencia importa especialmente cuando hay problemas para absorber las grasas.",
+        "sections": [
+          {
+            "heading": "¿Cuándo puede faltar vitamina E?",
+            "paragraphs": [
+              "La vitamina E protege las células del daño oxidativo y contribuye al funcionamiento de nervios, músculos y defensas. La carencia es rara en niños sanos. Si llega poca bilis al intestino, o si una enfermedad pancreática, la fibrosis quística o un intestino corto dificultan absorber grasas, incluso una dieta variada puede aportar más vitamina E de la que el cuerpo logra aprovechar.",
+              "Una enfermedad hereditaria poco frecuente altera el manejo de esta vitamina y puede afectar al equilibrio y la coordinación. La mayoría de los problemas de equilibrio infantiles tienen otras causas. Comenta las enfermedades digestivas o hepáticas diagnosticadas, los medicamentos y suplementos, y cualquier cambio en la vista o la forma de moverse."
+            ]
+          },
+          {
+            "heading": "¿Qué síntomas conviene consultar?",
+            "paragraphs": [
+              "La carencia puede afectar a los nervios, los músculos o la retina, el tejido sensible a la luz en el fondo del ojo. Pueden aparecer debilidad, problemas de coordinación o alteraciones visuales. Estos síntomas por sí solos no revelan la causa. Anota cuándo los observaste y qué hacía antes el niño con facilidad.",
+              "Una alteración nueva de la marcha o una debilidad repentina requieren valoración médica inmediata. Si de repente no puede mover un lado de la cara o del cuerpo, llama a emergencias. No esperes a un análisis ni pruebes un suplemento para ver si mejora."
+            ]
+          },
+          {
+            "heading": "Las necesidades alimentarias y el tratamiento",
+            "paragraphs": [
+              "En Estados Unidos se recomiendan 6 mg diarios de alfa-tocoferol entre uno y tres años, 7 mg entre cuatro y ocho, 11 mg entre nueve y trece y 15 mg entre catorce y dieciocho. Son cantidades alimentarias habituales para niños sanos. Los aceites vegetales, frutos secos, semillas y algunos alimentos enriquecidos aportan vitamina E. Si un niño pequeño los tolera, es más seguro mezclar un poco de crema suave de semillas o frutos secos con un alimento blando que ofrecer frutos secos enteros o una cucharada espesa.",
+              "Si tu hijo absorbe mal las grasas, consulta el plan antes de comprar un suplemento. El equipo puede medir la vitamina E en sangre, tener en cuenta los lípidos sanguíneos al interpretar la cifra e investigar la causa. Indica qué preparado toma exactamente. Las cantidades altas en suplementos pueden aumentar el riesgo de sangrado, sobre todo con medicamentos que afectan a la coagulación."
+            ]
+          },
+          {
+            "heading": "Por qué importan el preparado y los controles",
+            "paragraphs": [
+              "Un estudio en ocho centros incluyó a 60 niños con carencia de vitamina E y una alteración crónica del flujo de bilis. No habían respondido a otras formas orales de esta vitamina. Sus niveles se normalizaron con un preparado oral especial. El grupo tenía un problema concreto. Otro niño con debilidad puede necesitar un abordaje diferente.",
+              "Si se confirma la carencia, pregunta cuándo repetirán los análisis y cómo vigilarán el movimiento, la fuerza o la vista. Algunos problemas nerviosos persisten si se retrasa el tratamiento. Consulta antes de cambiar el preparado, incluso si a tu hijo le cuesta tomarlo o la farmacia propone un sustituto."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Un niño puede ingerir vitamina E y absorber poca si están alterados el flujo de bilis o la digestión de grasas.",
+          "Comunica cambios de visión, fuerza o coordinación. Una alteración nueva de la marcha requiere valoración inmediata.",
+          "Las recomendaciones dietéticas no determinan la dosis para tratar una carencia."
+        ],
+        "faq": [
+          {
+            "q": "¿Qué síntomas puede producir la falta de vitamina E?",
+            "a": "Los problemas nerviosos o musculares afectan a la fuerza y la coordinación. También puede alterarse la vista. Hay muchas causas posibles. Busca valoración inmediata ante una dificultad nueva para caminar o debilidad repentina."
+          },
+          {
+            "q": "¿Cómo se trata la carencia de vitamina E?",
+            "a": "El equipo confirma el problema, investiga por qué el niño no absorbe o utiliza bien la vitamina y elige un preparado y un seguimiento adecuados. La dieta ayuda a cubrir las necesidades habituales, pero una malabsorción importante puede exigir una forma especial prescrita por el equipo."
+          },
+          {
+            "q": "¿Cuánta vitamina E necesita normalmente un niño?",
+            "a": "Las referencias diarias estadounidenses para niños sanos son 6 mg de uno a tres años, 7 mg de cuatro a ocho, 11 mg de nueve a trece y 15 mg de catorce a dieciocho. Se refieren al total de alfa-tocoferol y no son instrucciones para dar suplementos."
+          },
+          {
+            "q": "¿Hay que tratar un déficit confirmado?",
+            "a": "Sí. Una carencia persistente puede lesionar los nervios y alterar el movimiento o la visión. Acuerda el tratamiento y los controles con el especialista que atiende la enfermedad de base. No aumentes la dosis por tu cuenta si un resultado es bajo."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Consulta el riesgo con el equipo si una enfermedad dificulta la absorción de grasas.",
+            "Busca valoración inmediata por cambios nuevos en la marcha o debilidad repentina.",
+            "Usa el preparado indicado y pregunta cuándo comprobarán la respuesta."
+          ],
+          "bemama": "BeMama usa la etiqueta de unos cereales enriquecidos para explicar la diferencia entre la vitamina presente en una comida y la cantidad que un niño absorbe.",
+          "safety": "Llama a emergencias por debilidad repentina de un lado de la cara o del cuerpo. Una alteración nueva de la marcha requiere valoración inmediata. Los suplementos de vitamina E en dosis altas elevan el riesgo de sangrado y deben estar supervisados por el equipo médico.",
+          "sources": [
+            {
+              "organization": "Oficina de Suplementos Dietéticos de los Institutos Nacionales de Salud de Estados Unidos",
+              "title": "Fuentes de vitamina E, aportes por edad, carencia y riesgos de los suplementos",
+              "url": "https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/"
+            },
+            {
+              "organization": "Sokol y colaboradores, Gastroenterology",
+              "title": "Vitamina E oral especial para niños con colestasis crónica",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/8500733/"
+            },
+            {
+              "organization": "Instituto Nacional para la Excelencia en la Salud y la Atención del Reino Unido",
+              "title": "Derivación por cambios recientes en la marcha y debilidad repentina en niños",
+              "url": "https://www.nice.org.uk/guidance/ng127/chapter/Recommendations-for-children-aged-under-16"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Deficiência de vitamina E em crianças: quando investigar?",
+        "description": "Saiba quais crianças podem absorver pouca vitamina E, que mudanças na visão ou nos movimentos merecem atenção e como a alimentação difere do tratamento.",
+        "intro": "O rótulo dos cereais diz que contêm vitamina E. Mesmo assim, a equipa que acompanha o fígado do seu filho pede uma análise. O rótulo descreve o que vai para a tigela. A análise ajuda a perceber quanto o organismo conseguiu aproveitar. A diferença é particularmente importante quando uma doença limita a absorção de gorduras.",
+        "sections": [
+          {
+            "heading": "Em que situações pode faltar vitamina E?",
+            "paragraphs": [
+              "A vitamina E protege as células dos danos oxidativos e contribui para o funcionamento dos nervos, dos músculos e do sistema imunitário. A deficiência é rara em crianças saudáveis. Se a bílis não chegar normalmente ao intestino, ou se uma doença do pâncreas, a fibrose quística ou um intestino curto dificultar a absorção de gorduras, mesmo uma criança com alimentação variada pode absorver pouca vitamina E.",
+              "Uma doença hereditária rara altera o modo como o organismo utiliza esta vitamina e pode afetar o equilíbrio e a coordenação. A maioria dos problemas de equilíbrio na infância tem outras causas. Informe o médico sobre doenças digestivas ou hepáticas diagnosticadas, medicamentos e suplementos e qualquer alteração na visão ou nos movimentos."
+            ]
+          },
+          {
+            "heading": "Que sinais precisam de atenção?",
+            "paragraphs": [
+              "A deficiência pode afetar os nervos, os músculos ou a retina, o tecido sensível à luz no fundo do olho. Pode haver fraqueza, falta de coordenação ou alterações da visão. Estes sinais por si só não explicam a causa. Anote quando começaram e o que a criança conseguia fazer antes sem esforço.",
+              "Uma alteração recente da marcha ou fraqueza súbita exige avaliação médica imediata. Se a criança deixar subitamente de conseguir mover um lado da face ou do corpo, chame a emergência médica. Não espere por uma análise nem experimente um suplemento para ver se passa."
+            ]
+          },
+          {
+            "heading": "As necessidades alimentares e o tratamento",
+            "paragraphs": [
+              "Nos Estados Unidos, a ingestão diária recomendada de alfa-tocoferol é de 6 mg dos 1 aos 3 anos, 7 mg dos 4 aos 8, 11 mg dos 9 aos 13 e 15 mg dos 14 aos 18. São valores para a alimentação habitual de crianças saudáveis. Óleos vegetais, frutos de casca rija, sementes e alguns alimentos enriquecidos fornecem vitamina E. Para uma criança pequena que os tolere, é mais seguro misturar um pouco de pasta lisa de sementes ou frutos de casca rija num alimento macio do que oferecer frutos inteiros ou uma colherada espessa de pasta.",
+              "Quando existe má absorção, confirme o plano de cuidados antes de comprar suplementos. O médico pode dosear a vitamina E no sangue, considerar os níveis de lípidos na interpretação do resultado e investigar a causa. Indique a preparação exata que a criança toma. Doses elevadas em suplementos podem aumentar o risco de hemorragia, sobretudo com medicamentos que interferem na coagulação."
+            ]
+          },
+          {
+            "heading": "Por que razão a preparação e o seguimento importam?",
+            "paragraphs": [
+              "Num estudo em oito centros, 60 crianças com deficiência e alteração crónica do fluxo biliar não tinham respondido a outras formas orais de vitamina E. Os seus níveis normalizaram com uma preparação oral específica. O grupo foi selecionado por esse problema. Outra criança com fraqueza pode precisar de uma abordagem diferente.",
+              "Se a deficiência estiver confirmada, pergunte quando serão repetidas as análises e avaliadas a força, a mobilidade ou a visão. Alguns problemas dos nervos podem persistir se o tratamento for tardio. Se for difícil dar o produto ou a farmácia propuser um substituto, consulte a equipa antes de o trocar."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Uma criança pode comer alimentos com vitamina E mas absorvê-la mal se o fluxo biliar ou a digestão de gorduras estiverem afetados.",
+          "Comunique alterações da visão, da força ou da coordenação. Uma alteração recente da marcha exige avaliação imediata.",
+          "Os valores de referência alimentares não determinam a dose para tratar uma deficiência."
+        ],
+        "faq": [
+          {
+            "q": "Que sintomas pode provocar a deficiência de vitamina E?",
+            "a": "As alterações dos nervos ou músculos podem afetar a força e a coordenação. A visão também pode mudar. Estes sinais têm várias causas possíveis. Procure avaliação imediata para uma dificuldade nova em andar ou uma fraqueza súbita."
+          },
+          {
+            "q": "Como se trata a deficiência de vitamina E?",
+            "a": "O médico confirma o problema, procura a causa da má absorção ou utilização da vitamina e escolhe uma preparação e um seguimento adequados. A alimentação contribui para as necessidades habituais, mas uma má absorção importante pode exigir uma preparação específica prescrita."
+          },
+          {
+            "q": "De quanta vitamina E precisa habitualmente uma criança?",
+            "a": "Nos Estados Unidos, os valores diários para crianças saudáveis são 6 mg dos 1 aos 3 anos, 7 mg dos 4 aos 8, 11 mg dos 9 aos 13 e 15 mg dos 14 aos 18. Referem-se ao total de alfa-tocoferol ingerido e não são instruções para dar suplementos."
+          },
+          {
+            "q": "É preciso tratar uma deficiência confirmada?",
+            "a": "Sim. Uma deficiência persistente pode lesar nervos e afetar o movimento ou a visão. Combine o tratamento e o acompanhamento com o especialista da doença de base. Não aumente a dose por iniciativa própria perante um resultado baixo."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidência revista em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Converse com a equipa sobre o risco se uma doença limitar a absorção de gorduras.",
+            "Procure avaliação imediata perante uma alteração nova da marcha ou fraqueza súbita.",
+            "Use o produto prescrito e pergunte quando será avaliada a resposta."
+          ],
+          "bemama": "A BeMama usa o exemplo do rótulo de cereais enriquecidos para explicar por que motivo a quantidade de vitamina numa refeição pode diferir da que a criança absorve.",
+          "safety": "Chame a emergência médica por fraqueza súbita de um lado da face ou do corpo. Uma nova alteração da marcha exige avaliação imediata. Doses elevadas de suplementos de vitamina E podem aumentar o risco de hemorragia e requerem supervisão médica.",
+          "sources": [
+            {
+              "organization": "Gabinete de Suplementos Alimentares dos Institutos Nacionais de Saúde dos Estados Unidos",
+              "title": "Fontes de vitamina E, ingestão por idade, deficiência e riscos dos suplementos",
+              "url": "https://ods.od.nih.gov/factsheets/VitaminE-HealthProfessional/"
+            },
+            {
+              "organization": "Sokol e colaboradores, Gastroenterology",
+              "title": "Preparação oral especial de vitamina E em crianças com colestase crónica",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/8500733/"
+            },
+            {
+              "organization": "Instituto Nacional para a Excelência em Saúde e Cuidados do Reino Unido",
+              "title": "Encaminhamento por alterações recentes da marcha e fraqueza súbita na infância",
+              "url": "https://www.nice.org.uk/guidance/ng127/chapter/Recommendations-for-children-aged-under-16"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5915.webp",
+    "heroAlt": {
+      "en": "A spoon stirs sunflower seed butter into oatmeal beside a cup and a dish of spinach.",
+      "es": "Una cuchara mezcla crema de semillas de girasol con avena junto a una taza y un cuenco de espinacas.",
+      "fr": "Une cuillère mélange de la purée de graines de tournesol au porridge, près d’une tasse et d’un bol d’épinards.",
+      "pt": "Uma colher mistura pasta de sementes de girassol na papa de aveia junto de uma chávena e de uma tigela de espinafres.",
+      "tr": "Bir kaşık, bir bardak ve bir kâse ıspanağın yanında yulaf lapasına ay çekirdeği ezmesi karıştırıyor.",
+      "fa": "کنار یک فنجان و کاسه‌ای اسفناج، قاشقی کرهٔ تخمهٔ آفتابگردان را با حریرهٔ جو دوسر مخلوط می‌کند.",
+      "ar": "ملعقة تمزج زبدة بذور دوار الشمس بعصيدة الشوفان بجانب كوب وطبق من السبانخ."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "Vitamin E deficiency in children: who needs a check?",
+      "description": "Learn why some children have trouble absorbing vitamin E, which changes in movement or vision to report, and how treatment differs from everyday food needs."
+    },
+    "fa": {
+      "title": "کمبود ویتامین E در کودکان؛ چه زمانی بررسی لازم است؟",
+      "description": "ببینید کدام کودکان ممکن است ویتامین E را خوب جذب نکنند، چه تغییری در حرکت یا بینایی نیاز به پیگیری دارد و مقدار مورد نیاز در غذا چه تفاوتی با درمان دارد."
+    },
+    "ar": {
+      "title": "نقص فيتامين هـ عند الأطفال: متى يحتاج الطفل إلى فحص؟",
+      "description": "تعرّف إلى أسباب ضعف امتصاص فيتامين هـ عند بعض الأطفال، وتغيّرات الحركة أو البصر التي تستدعي التقييم، والفرق بين الاحتياجات الغذائية وعلاج النقص المثبت."
+    },
+    "fr": {
+      "title": "Carence en vitamine E chez l’enfant : quand la rechercher ?",
+      "description": "Découvrez quels enfants absorbent mal la vitamine E, quels changements de motricité ou de vision signaler et comment distinguer apports usuels et traitement."
+    },
+    "tr": {
+      "title": "Çocuklarda E vitamini eksikliği ne zaman araştırılır?",
+      "description": "Bazı çocukların E vitaminini neden yeterince ememediğini, yürüme ve görmede hangi değişiklikleri bildireceğinizi ve beslenmenin tedavideki yerini öğrenin."
+    },
+    "es": {
+      "title": "Déficit de vitamina E en niños: ¿quién necesita una evaluación?",
+      "description": "Descubre qué niños pueden absorber poca vitamina E, qué cambios de visión o movimiento conviene comunicar y por qué la dieta y el tratamiento son distintos."
+    },
+    "pt": {
+      "title": "Deficiência de vitamina E em crianças: quando investigar?",
+      "description": "Saiba quais crianças podem absorver pouca vitamina E, que mudanças na visão ou nos movimentos merecem atenção e como a alimentação difere do tratamento."
+    }
+  }
+}

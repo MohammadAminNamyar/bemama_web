@@ -1,0 +1,646 @@
+{
+  "sourceId": "5965",
+  "article": {
+    "slug": "baby-and-child/when-a-child-takes-someone-elses-belongings",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "When your child takes something that belongs to someone else",
+        "description": "A toy comes home in your child’s bag. Learn how to find out what happened, help your child return it and decide when repeated taking needs more support.",
+        "intro": "A wooden train turns up in your child's coat after a playdate. You recognize it from the other family's toy box. Before deciding why it is there, ask how it came home. A mix-up, a loan and taking something without permission call for different responses.",
+        "sections": [
+          {
+            "heading": "Start with what you know",
+            "paragraphs": [
+              "Speak privately. You might say, “I remember playing with this train at Sam's house. Did Sam say you could bring it home?” Listen to the answer. If nobody remembers agreeing to a loan, contact the other family and arrange to bring the train back.",
+              "A preschooler can understand that a toy belongs to a friend and still need help remembering to ask before taking it outside. In experiments using stories, three- and four-year-olds often identified the person who had a toy first as its owner. In a different study, many four- and five-year-olds recognized that the owner could decide who used it. These tasks tell us how young children reason about ownership. They cannot tell us what one child intended."
+            ]
+          },
+          {
+            "heading": "Help the item find its way back",
+            "paragraphs": [
+              "Once you know your child took it without permission, state the rule briefly. Then make the repair manageable. Your child might carry the train to the door while you explain why you have come, or tell their friend, “I brought this home. Here it is.” A private return gives the other child their toy back without making an audience part of the consequence.",
+              "If something has been used, damaged or lost, contact the owner and agree on a fair way to put it right. A child who spent a sibling's money can help make a plan to repay it. For a shop item, an adult can contact the shop and accompany the child. Thank a child who tells you the truth, follow through on the return, and let the matter rest once it is settled."
+            ]
+          },
+          {
+            "heading": "Practise the moment before taking",
+            "paragraphs": [
+              "Use a real object at home. Ask to borrow your child's favourite pencil, wait for an answer and return it where you found it. Give your child a turn asking you. Include what to do if the answer is no. Before the next playdate, choose a place by the door to set borrowed toys down before you leave.",
+              "With an older child, ask what was happening just before they took the item. A friend might have dared them, or they might have needed something they felt embarrassed to ask for. Rehearse a response that fits their answer, such as leaving the shop together or finding an adult who can help with a school supply."
+            ]
+          },
+          {
+            "heading": "If it keeps happening",
+            "paragraphs": [
+              "Note a few examples of when and where it happens, what was taken and what followed. If the pattern continues despite clear rules and opportunities to make amends, or you also notice distress or problems with friends or at school, discuss it with a pediatrician or child mental health professional. Those examples can guide a conversation about what your child needs."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Check whether the item was borrowed or brought home accidentally.",
+          "Help your child return or replace what they took and practise asking next time.",
+          "Seek advice if taking persists or comes with other changes that concern you."
+        ],
+        "faq": [
+          {
+            "q": "What if my child admits taking it?",
+            "a": "Thank them for telling you. Ask them to help decide how and when to return it. You can recognize their honesty while following through on the repair."
+          },
+          {
+            "q": "How can we prevent this happening again?",
+            "a": "Practise asking permission and accepting the answer during ordinary play. Before leaving a friend's house, check together which things belong there."
+          },
+          {
+            "q": "What should I do if I see my child taking something?",
+            "a": "Intervene calmly, have them put it back and explain the rule privately. If you discover it after leaving, contact the owner and help your child return it."
+          },
+          {
+            "q": "Does taking things mean my child has a behavior disorder?",
+            "a": "A single incident cannot establish a diagnosis. If taking recurs or other changes worry you, bring concrete examples to a pediatrician or child mental health professional."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Ask about permission before assuming intent.",
+            "Arrange a return or replacement and give your child a fresh start afterward."
+          ],
+          "bemama": "BeMama suggests rehearsing one short phrase your child can use before borrowing a friend's belongings.",
+          "safety": "If someone is threatening your child or pressuring them to take things, make sure they are safe and involve a trusted adult who can help address the threat.",
+          "sources": [
+            {
+              "organization": "American Academy of Child and Adolescent Psychiatry",
+              "title": "Stealing in children and adolescents",
+              "url": "https://www.aacap.org/AACAP/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Children-Who-Steal-012.aspx"
+            },
+            {
+              "organization": "Friedman and Neary, Cognition",
+              "title": "How children infer who owns an object from first possession",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/18243169/"
+            },
+            {
+              "organization": "Neary and colleagues, Developmental Psychology",
+              "title": "Preschoolers' understanding of permission and ownership",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/19413438/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "وقتی کودک وسیله‌ای را که مال دیگری است برمی‌دارد",
+        "description": "اسباب‌بازی دوست فرزندتان در جیب او پیدا شده است. چطور بفهمید چه اتفاقی افتاده، کمکش کنید آن را برگرداند و برای تکرار این رفتار کمک بگیرید؟",
+        "intro": "بعد از بازی در خانهٔ دوست فرزندتان، قطار چوبی آشنایی را در جیب کاپشنش می‌بینید. پیش از حدس زدن علت، بپرسید قطار چطور به خانه آمده است. اشتباه برداشتن، امانت گرفتن و بی‌اجازه برداشتن هر کدام پاسخ متفاوتی می‌خواهد.",
+        "sections": [
+          {
+            "heading": "از آنچه می‌دانید شروع کنید",
+            "paragraphs": [
+              "در خلوت بگویید «یادم هست در خانهٔ سام با این قطار بازی کردیم. سام گفت می‌توانی آن را به خانه بیاوری؟» پاسخ کودک را بشنوید. اگر کسی به یاد ندارد که قرار بوده قطار امانت داده شود، با خانوادهٔ دوستش برای برگرداندن آن هماهنگ کنید.",
+              "کودک پیش‌دبستانی ممکن است بداند اسباب‌بازی مال دوستش است و باز هم برای اجازه گرفتن قبل از بیرون بردن آن به یادآوری نیاز داشته باشد. در آزمایش‌هایی با داستان، کودکان سه و چهارساله اغلب کسی را که اول اسباب‌بازی را در دست داشت صاحب آن دانستند. در پژوهشی دیگر، بسیاری از کودکان چهار و پنج‌ساله فهمیدند صاحب وسیله می‌تواند تصمیم بگیرد چه کسی با آن بازی کند. این پژوهش‌ها دربارهٔ فهم مالکیت هستند و قصد فرزند شما را مشخص نمی‌کنند."
+            ]
+          },
+          {
+            "heading": "برای برگرداندن وسیله همراهش باشید",
+            "paragraphs": [
+              "وقتی روشن شد که کودک اجازه نداشته، قانون را کوتاه توضیح دهید و راهی برای جبران پیدا کنید که از عهده‌اش بربیاید. می‌تواند قطار را تا خانهٔ دوستش ببرد و شما توضیح دهید یا خودش بگوید «این را آوردم خانه. بفرما.» وسیله در خلوت به دست صاحبش می‌رسد و کودک جلوی جمع شرمنده نمی‌شود.",
+              "اگر وسیله مصرف، خراب یا گم شده است، با صاحبش دربارهٔ جبران منصفانه توافق کنید. کودکی که پول خواهرش را خرج کرده می‌تواند در برنامهٔ پس دادن آن سهیم شود. اگر چیزی از مغازه آمده، بزرگ‌تر می‌تواند با مغازه تماس بگیرد و همراه کودک برود. از راست‌گویی او تشکر کنید، جبران را پیگیری کنید و بعد از حل شدن موضوع دوباره آن را پیش نکشید."
+            ]
+          },
+          {
+            "heading": "لحظهٔ پیش از برداشتن را تمرین کنید",
+            "paragraphs": [
+              "در خانه برای امانت گرفتن مداد محبوب فرزندتان اجازه بگیرید، منتظر پاسخ بمانید و آن را سر جایش بگذارید. سپس نوبت اوست که از شما اجازه بگیرد. پاسخ به «نه» را هم تمرین کنید. دفعهٔ بعد که مهمان هستید جایی نزدیک در مشخص کنید تا پیش از رفتن، اسباب‌بازی‌های امانتی را آنجا بگذارید.",
+              "از فرزند بزرگ‌تر بپرسید درست پیش از برداشتن وسیله چه اتفاقی افتاد. شاید دوستی او را تحریک کرده یا از درخواست چیزی که لازم داشته خجالت کشیده است. متناسب با پاسخ او تمرین کنید؛ مثلاً چگونه از فروشگاه بیرون بیاید یا برای تهیهٔ لوازم مدرسه از یک بزرگ‌تر کمک بگیرد."
+            ]
+          },
+          {
+            "heading": "اگر این رفتار تکرار شد",
+            "paragraphs": [
+              "چند نمونه یادداشت کنید؛ کجا و چه زمانی اتفاق افتاد، چه چیزی برداشته شد و بعد چه شد. اگر با وجود قانون روشن و فرصت جبران رفتار ادامه دارد، یا کودک ناراحت است و با دوستان یا مدرسه مشکل دارد، با پزشک کودک یا متخصص سلامت روان کودک صحبت کنید. نمونه‌های واقعی به تشخیص نیاز فرزندتان کمک می‌کنند."
+            ]
+          }
+        ],
+        "takeaways": [
+          "بررسی کنید که آیا وسیله امانت بوده یا اشتباهی به خانه آمده است.",
+          "در برگرداندن یا جبران وسیله همراه کودک باشید و اجازه گرفتن را تمرین کنید.",
+          "اگر رفتار ادامه دارد یا هم‌زمان تغییرات نگران‌کننده‌ای می‌بینید، مشورت بگیرید."
+        ],
+        "faq": [
+          {
+            "q": "اگر فرزندم خودش گفت وسیله را برداشته، چه کنم؟",
+            "a": "از اینکه حقیقت را گفته تشکر کنید. از او بخواهید برای زمان و شیوهٔ برگرداندن وسیله نظر بدهد. می‌توانید راست‌گویی را قدر بدانید و جبران را هم پیگیری کنید."
+          },
+          {
+            "q": "چگونه از تکرار این اتفاق پیشگیری کنیم؟",
+            "a": "در بازی‌های روزمره اجازه گرفتن و پذیرفتن پاسخ را تمرین کنید. پیش از ترک خانهٔ دوستش، با هم ببینید کدام وسایل باید همان‌جا بمانند."
+          },
+          {
+            "q": "اگر دیدم فرزندم وسیله‌ای برمی‌دارد، چه کنم؟",
+            "a": "آرام وارد عمل شوید، از او بخواهید وسیله را سر جایش بگذارد و در خلوت قانون را توضیح دهید. اگر بعد از رفتن متوجه شدید، با صاحب وسیله تماس بگیرید و به کودک کمک کنید آن را برگرداند."
+          },
+          {
+            "q": "آیا برداشتن وسایل دیگران نشانهٔ اختلال رفتاری است؟",
+            "a": "از یک اتفاق نمی‌توان تشخیص گذاشت. اگر رفتار تکرار می‌شود یا تغییرات دیگری شما را نگران کرده، نمونه‌های مشخص را با پزشک یا متخصص سلامت روان کودک در میان بگذارید."
+          }
+        ],
+        "evidence": {
+          "updated": "بازبینی شواهد در ۱۶ نوامبر ۲۰۲۶",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "پیش از قضاوت دربارهٔ قصد کودک، بپرسید آیا اجازه گرفته است.",
+            "برای پس دادن یا جایگزینی وسیله اقدام کنید و پس از جبران، به کودک فرصت شروع دوباره بدهید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند یک جملهٔ کوتاه برای اجازه گرفتن پیش از امانت گرفتن وسایل دوستش تمرین کنید.",
+          "safety": "اگر کسی فرزندتان را تهدید می‌کند یا برای برداشتن وسایل به او فشار می‌آورد، اول او را به جای امنی ببرید و از بزرگ‌سال مورد اعتمادی برای رسیدگی به تهدید کمک بگیرید.",
+          "sources": [
+            {
+              "organization": "آکادمی روان‌پزشکی کودک و نوجوان آمریکا",
+              "title": "برداشتن وسایل دیگران در کودکان و نوجوانان",
+              "url": "https://www.aacap.org/AACAP/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Children-Who-Steal-012.aspx"
+            },
+            {
+              "organization": "فریدمن و نیری، مجلهٔ شناخت",
+              "title": "چگونه کودکان از روی نخستین تصرف، صاحب وسیله را تشخیص می‌دهند",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/18243169/"
+            },
+            {
+              "organization": "نیری و همکاران، مجلهٔ روان‌شناسی رشد",
+              "title": "برداشت کودکان پیش‌دبستانی از اجازه و مالکیت",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/19413438/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "عندما يأخذ طفلك شيئاً يخصّ شخصاً آخر",
+        "description": "وجدت لعبة صديق طفلك في جيبه بعد الزيارة؟ تعرّف إلى ما حدث وساعده على إعادتها، واعرف متى يستدعي تكرار أخذ الأشياء طلب المشورة.",
+        "intro": "بعد زيارة صديق طفلك تجد في جيب معطفه قطاراً خشبياً مألوفاً من صندوق ألعاب الصديق. اسأل كيف وصل القطار إلى البيت قبل أن تخمّن السبب. فالخلط بين لعبتين واستعارة لعبة وأخذها من دون إذن مواقف يستدعي كل منها تصرّفاً مختلفاً.",
+        "sections": [
+          {
+            "heading": "ابدأ بما تعرفه",
+            "paragraphs": [
+              "تحدث مع طفلك على انفراد. يمكنك أن تقول «أتذكّر أننا لعبنا بهذا القطار في بيت سام. هل قال لك سام إن بإمكانك أخذه إلى بيتنا؟» استمع إلى جوابه. إذا لم يتذكّر أحد أن هناك اتفاقاً على إعارته، فاتصل بالأسرة ورتّب إعادته.",
+              "قد يعرف طفل الروضة أن اللعبة تخصّ صديقه ويظل بحاجة إلى تذكير بأن يستأذن قبل إخراجها. في تجارب استُخدمت فيها قصص، كثيراً ما اختار الأطفال في سن الثالثة والرابعة الشخص الذي أمسك اللعبة أولاً على أنه مالكها. وفي دراسة أخرى، أدرك كثير من الأطفال في سن الرابعة والخامسة أن المالك يستطيع تحديد من يستخدمها. توضح هذه التجارب كيف يفهم الصغار الملكية، لكنّها لا تكشف نية طفل بعينه."
+            ]
+          },
+          {
+            "heading": "ساعد الطفل على ردّ الشيء إلى صاحبه",
+            "paragraphs": [
+              "متى اتضح أن الطفل أخذه من دون إذن، اشرح القاعدة باختصار وساعده على جبر الضرر بخطوة يستطيع القيام بها. يمكنه أن يحمل القطار حتى باب صديقه وتتولى أنت الشرح، أو يقول «أخذت القطار معي إلى البيت. تفضّل». تعيد اللعبة إلى صاحبها على انفراد من دون إحراج الطفل أمام الآخرين.",
+              "إذا استُهلك الشيء أو تضرّر أو ضاع، فاتفق مع صاحبه على تعويض عادل. الطفل الذي أنفق مال أخته يستطيع المشاركة في وضع خطة لردّه. وإذا كانت السلعة من متجر، يمكن للبالغ الاتصال بالمتجر ومرافقة الطفل. اشكره عندما يصدقك القول، وتابع التعويض، ثم اترك الموضوع بعد تسويته."
+            ]
+          },
+          {
+            "heading": "تدرّبا على ما يسبق أخذ الشيء",
+            "paragraphs": [
+              "اطلب استعارة قلم طفلك المفضّل في البيت، وانتظر جوابه ثم أعد القلم إلى مكانه. اجعله يجرّب الاستئذان منك أيضاً، بما في ذلك تقبّل الرفض. وقبل الزيارة المقبلة اختارا مكاناً قرب الباب لوضع الألعاب المستعارة قبل المغادرة.",
+              "اسأل الطفل الأكبر عمّا كان يحدث قبل أخذ الشيء مباشرة. ربما تحدّاه صديق، أو كان يحتاج غرضاً وخجل من طلبه. تدرّبا على تصرّف يناسب ما رواه، مثل مغادرة المتجر معاً أو الاستعانة بشخص بالغ لتأمين أحد لوازم المدرسة."
+            ]
+          },
+          {
+            "heading": "إذا تكرّر الأمر",
+            "paragraphs": [
+              "دوّن بضعة أمثلة تشمل المكان والوقت والشيء الذي أُخذ وما حدث بعده. إذا استمر الأمر رغم وضوح القواعد وإتاحة فرص للتعويض، أو ظهر على طفلك ضيق أو واجه مشكلات مع أصدقائه أو في المدرسة، فتحدث مع طبيب الأطفال أو اختصاصي الصحة النفسية للأطفال. تساعد الأمثلة على فهم احتياجات طفلك."
+            ]
+          }
+        ],
+        "takeaways": [
+          "تحقّق مما إذا كان الشيء مستعاراً أو أُحضر إلى البيت بالخطأ.",
+          "ساعد طفلك على ردّ الشيء أو تعويضه وتمرّن معه على الاستئذان.",
+          "اطلب المشورة إذا استمر أخذ الأشياء أو صاحَبَه تغيّر آخر يقلقك."
+        ],
+        "faq": [
+          {
+            "q": "ماذا لو أخبرني طفلي بنفسه أنه أخذ الشيء؟",
+            "a": "اشكره على صدقه واطلب منه المشاركة في تحديد كيف يعيده ومتى. يمكنك تقدير صدقه ومتابعة إصلاح ما حدث معاً."
+          },
+          {
+            "q": "كيف نساعده على تجنّب تكرار ذلك؟",
+            "a": "تدرّب معه أثناء اللعب على طلب الإذن وتقبّل الجواب. وقبل مغادرة بيت صديقه تحقّقا معاً من الأشياء التي ينبغي أن تبقى هناك."
+          },
+          {
+            "q": "ما العمل إن رأيته يأخذ شيئاً؟",
+            "a": "تدخّل بهدوء واطلب منه إعادته إلى مكانه، ثم اشرح القاعدة على انفراد. إذا عرفت بالأمر بعد المغادرة، فاتصل بصاحب الشيء وساعد طفلك على ردّه."
+          },
+          {
+            "q": "هل يعني أخذ الأشياء أن لدى طفلي اضطراباً سلوكياً؟",
+            "a": "حادثة واحدة لا تكفي للتشخيص. إذا تكرر الأمر أو لاحظت تغيرات أخرى تقلقك، فناقش أمثلة محدّدة مع طبيب الأطفال أو اختصاصي الصحة النفسية للأطفال."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "اسأل إن كان الطفل قد استأذن قبل افتراض قصده.",
+            "رتّب إعادة الشيء أو تعويضه وأعطِ طفلك فرصة لبداية جديدة بعدها."
+          ],
+          "bemama": "تقترح بي ماما التدرّب على عبارة قصيرة يستطيع طفلك استخدامها قبل استعارة شيء من صديقه.",
+          "safety": "إذا كان أحد يهدّد طفلك أو يضغط عليه ليأخذ أشياء، فاحرص على سلامته واستعن بشخص بالغ موثوق يستطيع التعامل مع التهديد.",
+          "sources": [
+            {
+              "organization": "الأكاديمية الأمريكية للطب النفسي للأطفال والمراهقين",
+              "title": "أخذ الأشياء دون إذن عند الأطفال والمراهقين",
+              "url": "https://www.aacap.org/AACAP/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Children-Who-Steal-012.aspx"
+            },
+            {
+              "organization": "فريدمان ونيري، مجلة الإدراك",
+              "title": "كيف يستدل الأطفال على ملكية الشيء ممّن أمسكه أولاً",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/18243169/"
+            },
+            {
+              "organization": "نيري وزملاؤها، مجلة علم النفس النمائي",
+              "title": "فهم أطفال الروضة للإذن والملكية",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/19413438/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Quand votre enfant prend un objet sans permission",
+        "description": "Un jouet emprunté ou pris sans permission ? Découvrez ce qui s’est passé, aidez votre enfant à le rendre et sachez quand demander de l’aide.",
+        "intro": "En rentrant de chez un ami, vous trouvez dans le manteau de votre enfant un petit train en bois que vous reconnaissez. Avant d’en conclure quoi que ce soit, demandez-lui comment il est arrivé là. Un objet emporté par erreur, un prêt et un objet pris sans autorisation appellent des réponses différentes.",
+        "sections": [
+          {
+            "heading": "Partez de ce que vous savez",
+            "paragraphs": [
+              "Parlez-lui en tête à tête. Vous pourriez dire « Je me souviens de ce train chez Sam. Est-ce que Sam t’a dit que tu pouvais l’emporter ? » Écoutez sa réponse. Si personne ne se souvient d’un accord, contactez l’autre famille pour organiser le retour du train.",
+              "À la maternelle, un enfant peut savoir qu’un jouet est à son ami et avoir encore besoin qu’on lui rappelle de demander avant de l’emporter. Dans des expériences fondées sur des histoires, les enfants de trois et quatre ans désignaient souvent comme propriétaire la première personne qui avait tenu le jouet. Dans une autre étude, de nombreux enfants de quatre et cinq ans comprenaient que le propriétaire pouvait décider qui l’utiliserait. Ces travaux éclairent la compréhension de la propriété, sans révéler l’intention d’un enfant en particulier."
+            ]
+          },
+          {
+            "heading": "Accompagnez votre enfant pour rendre l’objet",
+            "paragraphs": [
+              "Une fois établi que l’objet a été pris sans permission, rappelez brièvement la règle. Proposez une réparation à sa portée. Votre enfant peut porter le train jusqu’à la porte pendant que vous expliquez votre visite, ou dire à son ami « Je l’ai emporté chez moi. Le voici. » Une restitution en privé permet à l’ami de récupérer son jouet sans exposer votre enfant aux regards.",
+              "Si l’objet a été consommé, abîmé ou perdu, convenez d’une réparation équitable avec son propriétaire. Un enfant qui a dépensé l’argent de sa sœur peut participer au choix d’une façon de la rembourser. Pour un article de magasin, un adulte peut prendre contact et accompagner l’enfant. Remerciez-le d’avoir dit la vérité, veillez à la réparation, puis laissez l’incident derrière vous."
+            ]
+          },
+          {
+            "heading": "Entraînez-vous au moment qui précède l’emprunt",
+            "paragraphs": [
+              "Demandez à votre enfant de vous prêter son crayon préféré, attendez sa réponse et remettez-le à sa place. Inversez ensuite les rôles et entraînez-vous aussi à accepter un refus. Avant la prochaine visite, choisissez un endroit près de la porte où déposer les jouets empruntés au moment du départ.",
+              "Avec un enfant plus grand, demandez ce qui se passait juste avant. Peut-être qu’un ami lui a lancé un défi ou qu’il n’osait pas demander quelque chose dont il avait besoin. Exercez-vous à une réponse adaptée, par exemple quitter le magasin ensemble ou demander à un adulte de l’aider à obtenir une fourniture scolaire."
+            ]
+          },
+          {
+            "heading": "Si les incidents se répètent",
+            "paragraphs": [
+              "Notez quelques exemples en précisant le lieu, le moment, l’objet pris et la suite des événements. Si le comportement persiste malgré une règle claire et des occasions de réparer, ou si vous observez aussi une détresse ou des difficultés à l’école ou avec les amis, parlez-en au pédiatre ou à un professionnel de la santé mentale des enfants. Ces exemples aideront à comprendre ses besoins."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Vérifiez si l’objet a été prêté ou emporté par erreur.",
+          "Aidez votre enfant à rendre ou à remplacer l’objet et à demander la prochaine fois.",
+          "Demandez conseil si les incidents persistent ou si d’autres changements vous inquiètent."
+        ],
+        "faq": [
+          {
+            "q": "Et si mon enfant me dit qu’il a pris l’objet ?",
+            "a": "Remerciez-le de vous le dire. Demandez-lui de participer au choix du moment et de la manière de le rendre. Vous pouvez reconnaître sa franchise tout en l’accompagnant dans la réparation."
+          },
+          {
+            "q": "Comment éviter que cela se reproduise ?",
+            "a": "Pendant les jeux, entraînez-vous à demander la permission et à accepter la réponse. Avant de partir de chez un ami, vérifiez ensemble ce qui doit rester sur place."
+          },
+          {
+            "q": "Que faire si je le vois prendre quelque chose ?",
+            "a": "Intervenez calmement, faites-lui remettre l’objet à sa place et rappelez la règle en privé. Si vous vous en apercevez après le départ, contactez le propriétaire et aidez votre enfant à lui rendre l’objet."
+          },
+          {
+            "q": "Prendre des objets signifie-t-il que mon enfant a un trouble du comportement ?",
+            "a": "Un incident isolé ne permet aucun diagnostic. Si cela se reproduit ou si d’autres changements vous inquiètent, apportez des exemples précis au pédiatre ou à un professionnel de la santé mentale des enfants."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Demandez si l’enfant avait la permission avant de lui prêter une intention.",
+            "Organisez la restitution ou le remplacement, puis donnez-lui la possibilité de repartir sur de nouvelles bases."
+          ],
+          "bemama": "BeMama suggère de répéter une courte phrase que votre enfant pourra employer pour demander à emprunter les affaires d’un ami.",
+          "safety": "Si quelqu’un menace votre enfant ou fait pression sur lui pour qu’il prenne des objets, mettez-le en sécurité et faites intervenir un adulte de confiance capable de l’aider.",
+          "sources": [
+            {
+              "organization": "Académie américaine de psychiatrie de l’enfant et de l’adolescent",
+              "title": "Le vol chez l’enfant et l’adolescent",
+              "url": "https://www.aacap.org/AACAP/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Children-Who-Steal-012.aspx"
+            },
+            {
+              "organization": "Friedman et Neary, revue Cognition",
+              "title": "Comment les enfants attribuent la propriété d’un objet à la première personne qui l’a tenu",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/18243169/"
+            },
+            {
+              "organization": "Neary et collègues, revue Developmental Psychology",
+              "title": "La compréhension de la permission et de la propriété à l’âge préscolaire",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/19413438/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Çocuğunuz başkasına ait bir eşyayı aldığında",
+        "description": "Çocuğunuzun cebinde arkadaşının oyuncağı mı çıktı? Ne olduğunu öğrenin, geri vermesine yardım edin ve tekrarında ne zaman destek isteyeceğinizi bilin.",
+        "intro": "Arkadaş ziyaretinden sonra çocuğunuzun montunun cebinde tanıdık bir tahta tren buluyorsunuz. Diğer ailenin oyuncak kutusundaki treni hatırlıyorsunuz. Nedeni hakkında tahminde bulunmadan önce eve nasıl geldiğini sorun. Yanlışlıkla çantaya giren, ödünç verilen ve izinsiz alınan eşyalara farklı yaklaşmak gerekir.",
+        "sections": [
+          {
+            "heading": "Bildiklerinizden başlayın",
+            "paragraphs": [
+              "Baş başayken “Sam’in evinde bu trenle oynamıştık. Eve götürebileceğini söyledi mi?” diye sorabilirsiniz. Cevabını dinleyin. Kimse ödünç vermek konusunda anlaştıklarını hatırlamıyorsa aileyle görüşüp treni geri götürmek için bir zaman belirleyin.",
+              "Okul öncesi çağdaki çocuk, oyuncağın arkadaşına ait olduğunu bilebilir ve yine de onu dışarı çıkarmadan önce izin istemeyi hatırlamak için yardıma ihtiyaç duyabilir. Öykülerle yapılan deneylerde üç ve dört yaşındaki çocuklar oyuncağı ilk tutan kişiyi çoğu kez sahibi olarak gösterdi. Başka bir çalışmada dört ve beş yaşındaki pek çok çocuk, oyuncağı kimin kullanacağına sahibinin karar verebildiğini anladı. Bu çalışmalar mülkiyetin nasıl anlaşıldığını inceler. Belirli bir çocuğun ne amaçladığını göstermez."
+            ]
+          },
+          {
+            "heading": "Eşyayı geri vermesine yardım edin",
+            "paragraphs": [
+              "Çocuğunuzun eşyayı izinsiz aldığı anlaşıldığında kuralı kısaca belirtin. Yapabileceği bir telafi yolu seçin. Siz neden geldiğinizi anlatırken treni arkadaşının kapısına kadar taşıyabilir ya da “Bunu eve götürmüştüm. Geri getirdim” diyebilir. Özel bir ortamda iade etmek, çocuk başkalarının önünde mahcup olmadan oyuncağın sahibine ulaşmasını sağlar.",
+              "Eşya tüketilmiş, hasar görmüş veya kaybolmuşsa sahibiyle adil bir telafi yolu belirleyin. Kardeşinin parasını harcayan çocuk geri ödeme planına katılabilir. Bir mağazadan alınan ürün için yetişkin mağazayla iletişim kurabilir ve çocuğa eşlik edebilir. Doğruyu anlattığı için teşekkür edin, telafiyi takip edin ve mesele çözüldüğünde tekrar tekrar gündeme getirmeyin."
+            ]
+          },
+          {
+            "heading": "Eşyayı almadan önceki anı prova edin",
+            "paragraphs": [
+              "Evde çocuğunuzun sevdiği kalemi ödünç isteyin, cevabını bekleyin ve kalemi yerine bırakın. Ardından sıra ona gelsin. Cevap hayır olduğunda ne yapacağını da çalışın. Bir sonraki ziyaretten önce kapıya yakın bir yer belirleyin ki ayrılmadan önce ödünç oyuncakları oraya bırakabilesiniz.",
+              "Daha büyük bir çocuğa eşyayı almadan hemen önce ne olduğunu sorun. Bir arkadaşı onu cesaretini kanıtlamaya zorlamış ya da ihtiyaç duyduğu bir şeyi istemeye utanmış olabilir. Anlattığı duruma uygun bir karşılığı prova edin. Örneğin mağazadan birlikte çıkabilir veya okul malzemesi için yardım edebilecek bir yetişkin bulabilirsiniz."
+            ]
+          },
+          {
+            "heading": "Tekrarlıyorsa",
+            "paragraphs": [
+              "Nerede, ne zaman olduğunu, neyin alındığını ve ardından ne yaşandığını birkaç örnekle kaydedin. Açık kurallara ve telafi fırsatlarına rağmen davranış sürerse ya da çocuğunuzda sıkıntı, arkadaşlık veya okul sorunları da görürseniz çocuk doktoru ya da çocuk ruh sağlığı uzmanıyla görüşün. Örnekler çocuğunuzun ihtiyacını anlamaya yardımcı olur."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Eşyanın ödünç alınıp alınmadığını veya yanlışlıkla eve gelip gelmediğini öğrenin.",
+          "Alınanı geri vermesine ya da yerine koymasına yardım edin ve izin istemeyi çalışın.",
+          "Davranış sürüyorsa veya yanında endişe verici başka değişiklikler varsa danışın."
+        ],
+        "faq": [
+          {
+            "q": "Çocuğum aldığını kendisi söylerse ne yapmalıyım?",
+            "a": "Anlattığı için teşekkür edin. Eşyayı nasıl ve ne zaman geri vereceğinize birlikte karar verin. Dürüstlüğünü takdir ederken zararı gidermesini de sağlayabilirsiniz."
+          },
+          {
+            "q": "Tekrarlanmasını nasıl önleyebiliriz?",
+            "a": "Günlük oyun sırasında izin istemeyi ve cevabı kabul etmeyi çalışın. Arkadaşının evinden ayrılırken nelerin orada kalması gerektiğini birlikte kontrol edin."
+          },
+          {
+            "q": "Bir şeyi alırken görürsem ne yapmalıyım?",
+            "a": "Sakince müdahale edin, eşyayı yerine bırakmasını sağlayın ve kuralı baş başayken açıklayın. Ayrıldıktan sonra fark ettiyseniz sahibine ulaşıp çocuğun eşyayı geri vermesine yardım edin."
+          },
+          {
+            "q": "Başkasının eşyasını almak davranış bozukluğu anlamına gelir mi?",
+            "a": "Tek bir olayla tanı konamaz. Tekrarlıyorsa veya başka değişikliklerden kaygı duyuyorsanız çocuk doktoruna ya da çocuk ruh sağlığı uzmanına somut örnekler götürün."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Niyeti hakkında sonuca varmadan önce izin alıp almadığını sorun.",
+            "İade ya da telafiyi planlayın ve sonrasında çocuğa yeni bir başlangıç fırsatı verin."
+          ],
+          "bemama": "BeMama, arkadaşından bir şey ödünç istemeden önce kullanabileceği kısa bir cümleyi çocuğunuzla çalışmanızı önerir.",
+          "safety": "Biri çocuğunuzu tehdit ediyor veya eşya alması için baskı yapıyorsa güvenliğini sağlayın ve tehdide karşı yardımcı olabilecek güvenilir bir yetişkini sürece dahil edin.",
+          "sources": [
+            {
+              "organization": "Amerikan Çocuk ve Ergen Psikiyatrisi Akademisi",
+              "title": "Çocuklarda ve ergenlerde izinsiz eşya alma",
+              "url": "https://www.aacap.org/AACAP/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Children-Who-Steal-012.aspx"
+            },
+            {
+              "organization": "Friedman ve Neary, Cognition dergisi",
+              "title": "Çocukların eşyayı ilk kimin tuttuğuna bakarak sahibini belirlemesi",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/18243169/"
+            },
+            {
+              "organization": "Neary ve çalışma arkadaşları, Developmental Psychology dergisi",
+              "title": "Okul öncesi çocukların izin ve mülkiyet anlayışı",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/19413438/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Qué hacer si tu hijo toma algo que pertenece a otra persona",
+        "description": "Encuentras en el bolsillo de tu hijo un juguete de un amigo. Averigua qué pasó, ayúdale a devolverlo y aprende a reconocer cuándo conviene pedir apoyo.",
+        "intro": "Después de jugar en casa de un amigo, aparece en el abrigo de tu hijo un tren de madera que reconoces de la caja de juguetes de la otra familia. Antes de sacar conclusiones, pregunta cómo llegó a casa. Una confusión, un préstamo y llevarse algo sin permiso requieren respuestas distintas.",
+        "sections": [
+          {
+            "heading": "Empieza por lo que sabes",
+            "paragraphs": [
+              "Habla en privado. Puedes decir: «Recuerdo que jugamos con este tren en casa de Sam. ¿Te dijo que podías traerlo?» Escucha la respuesta. Si nadie recuerda haber acordado el préstamo, llama a la familia para organizar la devolución.",
+              "Un niño de preescolar puede saber que el juguete es de su amigo y aun así necesitar un recordatorio para pedirlo antes de llevárselo. En experimentos con relatos, los niños de tres y cuatro años a menudo identificaban como dueño a quien había tenido primero un juguete. En otro estudio, muchos niños de cuatro y cinco años reconocían que el dueño podía decidir quién lo usaba. Esas tareas exploran cómo se entiende la propiedad, pero no revelan las intenciones de un niño concreto."
+            ]
+          },
+          {
+            "heading": "Ayúdale a devolverlo",
+            "paragraphs": [
+              "Una vez que sepas que lo tomó sin permiso, explica la regla con pocas palabras. Elige una forma de repararlo que esté a su alcance. Puede llevar el tren hasta la puerta mientras tú das la explicación, o decirle a su amigo: «Me lo llevé a casa. Aquí lo tienes». Devolverlo en privado permite que el amigo recupere su juguete sin exponer al niño a la vergüenza pública.",
+              "Si el artículo se ha consumido, roto o perdido, acuerda con su dueño una forma justa de compensarlo. Si gastó el dinero de su hermana, puede participar en un plan para devolvérselo. Si viene de una tienda, un adulto puede llamar y acompañarlo. Agradece que te diga la verdad, comprueba que el daño se repare y da el asunto por cerrado."
+            ]
+          },
+          {
+            "heading": "Ensayad qué hacer antes de tomar algo",
+            "paragraphs": [
+              "Pide prestado su lápiz favorito, espera la respuesta y devuélvelo a su sitio. Después le toca a él pedirte algo. Incluye la posibilidad de que la respuesta sea que no. Antes de la próxima visita, elegid un lugar junto a la puerta para dejar los juguetes prestados al salir.",
+              "Con un niño mayor, pregunta qué pasó justo antes de tomar el objeto. Tal vez un amigo lo retó o necesitaba algo que le daba vergüenza pedir. Ensayad una respuesta que encaje con lo que cuenta, como salir juntos de la tienda o pedir ayuda a un adulto para conseguir material escolar."
+            ]
+          },
+          {
+            "heading": "Si vuelve a ocurrir",
+            "paragraphs": [
+              "Anota algunos ejemplos con el lugar, el momento, qué tomó y qué pasó después. Si continúa a pesar de que las reglas son claras y ha tenido ocasiones para reparar el daño, o si también notas malestar o problemas en la escuela o con amigos, háblalo con su pediatra o con un profesional de salud mental infantil. Los ejemplos ayudan a entender qué apoyo necesita."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Comprueba si era un préstamo o si llegó a casa por error.",
+          "Ayuda a tu hijo a devolver o reponer lo que tomó y a practicar cómo pedir permiso.",
+          "Consulta si el patrón persiste o si aparecen otros cambios que te preocupen."
+        ],
+        "faq": [
+          {
+            "q": "¿Y si mi hijo reconoce que lo tomó?",
+            "a": "Agradécele que te lo diga. Pídele que participe en decidir cómo y cuándo devolverlo. Puedes valorar su sinceridad y mantener el compromiso de reparar el daño."
+          },
+          {
+            "q": "¿Cómo podemos evitar que vuelva a pasar?",
+            "a": "Practicad pedir permiso y aceptar la respuesta durante el juego. Antes de salir de casa de un amigo, comprobad juntos qué cosas deben quedarse allí."
+          },
+          {
+            "q": "¿Qué hago si lo veo tomar algo?",
+            "a": "Intervén con calma, pídele que lo devuelva a su sitio y explica la regla en privado. Si lo descubres después, contacta con el dueño y acompaña a tu hijo en la devolución."
+          },
+          {
+            "q": "¿Tomar cosas ajenas indica un trastorno de conducta?",
+            "a": "Un episodio aislado no permite diagnosticarlo. Si se repite o te preocupan otros cambios, lleva ejemplos concretos al pediatra o a un profesional de salud mental infantil."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Pregunta si tenía permiso antes de atribuirle una intención.",
+            "Organiza la devolución o reposición y deja que tu hijo empiece de nuevo."
+          ],
+          "bemama": "BeMama propone ensayar una frase breve que tu hijo pueda usar antes de pedir prestado algo de un amigo.",
+          "safety": "Si alguien amenaza a tu hijo o lo presiona para que tome cosas, ponlo a salvo e involucra a un adulto de confianza que pueda ayudar a resolver la situación.",
+          "sources": [
+            {
+              "organization": "Academia Estadounidense de Psiquiatría Infantil y Adolescente",
+              "title": "El robo en la infancia y la adolescencia",
+              "url": "https://www.aacap.org/AACAP/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Children-Who-Steal-012.aspx"
+            },
+            {
+              "organization": "Friedman y Neary, revista Cognition",
+              "title": "Cómo infieren los niños quién es el dueño a partir de quién tuvo primero el objeto",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/18243169/"
+            },
+            {
+              "organization": "Neary y colaboradores, revista Developmental Psychology",
+              "title": "Cómo entienden el permiso y la propiedad los niños de preescolar",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/19413438/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Quando seu filho pega algo que pertence a outra pessoa",
+        "description": "Um brinquedo de um amigo apareceu no bolso do seu filho. Descubra o que aconteceu, ajude a devolvê-lo e saiba quando procurar apoio se isso se repetir.",
+        "intro": "Depois de brincar na casa de um amigo, seu filho volta com um trem de madeira no bolso do casaco. Você reconhece o brinquedo da outra família. Antes de imaginar o motivo, pergunte como ele veio parar ali. Uma troca por engano, um empréstimo e pegar algo sem autorização pedem respostas diferentes.",
+        "sections": [
+          {
+            "heading": "Comece pelo que você sabe",
+            "paragraphs": [
+              "Converse em particular. Você pode dizer “Lembro que brincamos com esse trem na casa do Sam. Ele disse que você podia trazer o trem para casa?” Escute a resposta. Se ninguém se lembra de ter combinado o empréstimo, fale com a família para acertar a devolução.",
+              "Uma criança em idade pré-escolar pode saber que o brinquedo é do amigo e ainda precisar de ajuda para lembrar de pedir antes de levá-lo embora. Em experimentos com histórias, crianças de três e quatro anos costumavam identificar como dono quem tinha ficado com o brinquedo primeiro. Em outro estudo, muitas crianças de quatro e cinco anos reconheceram que o dono podia decidir quem usaria o objeto. Essas tarefas mostram como as crianças entendem a propriedade, mas não revelam a intenção de uma criança em particular."
+            ]
+          },
+          {
+            "heading": "Ajude o objeto a voltar às mãos do dono",
+            "paragraphs": [
+              "Quando souber que seu filho pegou o objeto sem permissão, explique a regra em poucas palavras. Ajude-o a reparar o que aconteceu de uma forma que consiga realizar. Ele pode levar o trem até a porta enquanto você explica o motivo da visita ou dizer ao amigo “Eu levei para casa. Aqui está”. A devolução em particular permite que o amigo recupere o brinquedo sem expor a criança diante de outras pessoas.",
+              "Se o objeto foi consumido, estragou ou se perdeu, combine com o dono uma forma justa de compensá-lo. Se a criança gastou o dinheiro da irmã, pode ajudar a planejar como devolver o valor. Se o produto veio de uma loja, um adulto pode entrar em contato e acompanhá-la. Agradeça a sinceridade, acompanhe a reparação e encerre o assunto depois de resolvido."
+            ]
+          },
+          {
+            "heading": "Treinem o que fazer antes de pegar algo",
+            "paragraphs": [
+              "Peça emprestado o lápis favorito do seu filho, espere pela resposta e devolva-o ao lugar de onde veio. Depois, deixe que ele peça algo a você, inclusive para praticar como aceitar um não. Antes da próxima visita, escolham perto da porta um lugar para deixar os brinquedos emprestados na hora de ir embora.",
+              "Com uma criança mais velha, pergunte o que estava acontecendo logo antes. Talvez um amigo tenha lançado um desafio ou ela tenha ficado com vergonha de pedir algo de que precisava. Pratiquem uma resposta adequada ao que ela contar, como sair juntos da loja ou procurar um adulto que possa ajudar a conseguir um material escolar."
+            ]
+          },
+          {
+            "heading": "Se voltar a acontecer",
+            "paragraphs": [
+              "Anote alguns exemplos, incluindo quando, onde, o que a criança pegou e o que aconteceu depois. Se continuar apesar de regras claras e oportunidades para reparar o dano, ou se perceber sofrimento ou dificuldades com amigos ou na escola, converse com o pediatra ou com um profissional de saúde mental infantil. Os exemplos ajudam a entender do que seu filho precisa."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Confira se o objeto foi emprestado ou veio para casa por engano.",
+          "Ajude a criança a devolver ou repor o que pegou e a ensaiar como pedir permissão.",
+          "Procure orientação se isso continuar ou se houver outras mudanças que preocupem você."
+        ],
+        "faq": [
+          {
+            "q": "E se meu filho admitir que pegou o objeto?",
+            "a": "Agradeça por ele ter contado. Peça sua ajuda para decidir como e quando devolver o objeto. Você pode valorizar a sinceridade e manter o combinado de reparar o dano."
+          },
+          {
+            "q": "Como evitar que aconteça de novo?",
+            "a": "Durante as brincadeiras, treinem pedir permissão e aceitar a resposta. Antes de sair da casa de um amigo, confiram juntos o que precisa ficar lá."
+          },
+          {
+            "q": "O que faço se vir meu filho pegando algo?",
+            "a": "Intervenha com calma, peça que coloque o objeto de volta e explique a regra em particular. Se só descobrir depois da saída, entre em contato com o dono e ajude na devolução."
+          },
+          {
+            "q": "Pegar coisas dos outros significa que meu filho tem um transtorno de comportamento?",
+            "a": "Um episódio isolado não permite fazer um diagnóstico. Se o comportamento se repetir ou você notar outras mudanças preocupantes, leve exemplos concretos ao pediatra ou a um profissional de saúde mental infantil."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Pergunte se houve permissão antes de tirar uma conclusão sobre a intenção.",
+            "Combine a devolução ou reposição e dê à criança a chance de recomeçar depois."
+          ],
+          "bemama": "A BeMama sugere treinar uma frase curta que seu filho possa usar para pedir algo emprestado a um amigo.",
+          "safety": "Se alguém estiver ameaçando seu filho ou pressionando-o a pegar coisas, garanta sua segurança e envolva um adulto de confiança que possa ajudar a lidar com a ameaça.",
+          "sources": [
+            {
+              "organization": "Academia Americana de Psiquiatria da Infância e da Adolescência",
+              "title": "Furto na infância e na adolescência",
+              "url": "https://www.aacap.org/AACAP/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Children-Who-Steal-012.aspx"
+            },
+            {
+              "organization": "Friedman e Neary, revista Cognition",
+              "title": "Como as crianças identificam o dono a partir de quem teve o objeto primeiro",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/18243169/"
+            },
+            {
+              "organization": "Neary e colaboradores, revista Developmental Psychology",
+              "title": "Como crianças em idade pré-escolar entendem permissão e propriedade",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/19413438/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5965.webp",
+    "heroAlt": {
+      "en": "A child in a blue coat places a red wooden locomotive on a toy track.",
+      "fa": "کودکی با بارانی آبی یک لوکوموتیو چوبی قرمز را روی ریل اسباب‌بازی می‌گذارد.",
+      "ar": "طفل يرتدي معطفاً أزرق يضع قاطرة خشبية حمراء على سكة لعب.",
+      "fr": "Un enfant en manteau bleu pose une locomotive en bois rouge sur un rail de jeu.",
+      "tr": "Mavi montlu bir çocuk kırmızı ahşap lokomotifi oyuncak raya koyuyor.",
+      "es": "Un niño con abrigo azul coloca una locomotora roja de madera sobre una vía de juguete.",
+      "pt": "Uma criança de casaco azul coloca uma locomotiva vermelha de madeira no trilho de brinquedo."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "When your child takes something that belongs to someone else",
+      "description": "A toy comes home in your child’s bag. Learn how to find out what happened, help your child return it and decide when repeated taking needs more support."
+    },
+    "fa": {
+      "title": "وقتی کودک وسیله‌ای را که مال دیگری است برمی‌دارد",
+      "description": "اسباب‌بازی دوست فرزندتان در جیب او پیدا شده است. چطور بفهمید چه اتفاقی افتاده، کمکش کنید آن را برگرداند و برای تکرار این رفتار کمک بگیرید؟"
+    },
+    "ar": {
+      "title": "عندما يأخذ طفلك شيئاً يخصّ شخصاً آخر",
+      "description": "وجدت لعبة صديق طفلك في جيبه بعد الزيارة؟ تعرّف إلى ما حدث وساعده على إعادتها، واعرف متى يستدعي تكرار أخذ الأشياء طلب المشورة."
+    },
+    "fr": {
+      "title": "Quand votre enfant prend un objet sans permission",
+      "description": "Un jouet emprunté ou pris sans permission ? Découvrez ce qui s’est passé, aidez votre enfant à le rendre et sachez quand demander de l’aide."
+    },
+    "tr": {
+      "title": "Çocuğunuz başkasına ait bir eşyayı aldığında",
+      "description": "Çocuğunuzun cebinde arkadaşının oyuncağı mı çıktı? Ne olduğunu öğrenin, geri vermesine yardım edin ve tekrarında ne zaman destek isteyeceğinizi bilin."
+    },
+    "es": {
+      "title": "Qué hacer si tu hijo toma algo que pertenece a otra persona",
+      "description": "Encuentras en el bolsillo de tu hijo un juguete de un amigo. Averigua qué pasó, ayúdale a devolverlo y aprende a reconocer cuándo conviene pedir apoyo."
+    },
+    "pt": {
+      "title": "Quando seu filho pega algo que pertence a outra pessoa",
+      "description": "Um brinquedo de um amigo apareceu no bolso do seu filho. Descubra o que aconteceu, ajude a devolvê-lo e saiba quando procurar apoio se isso se repetir."
+    }
+  }
+}

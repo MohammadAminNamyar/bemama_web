@@ -1,0 +1,660 @@
+{
+  "sourceId": "5961",
+  "article": {
+    "slug": "when-a-toddler-wants-your-coffee",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "When a toddler wants your coffee",
+        "description": "Learn what to offer a toddler who wants coffee, where caffeine can hide, and what to do if a child drinks from your cup or takes a concentrated product.",
+        "intro": "Your toddler reaches for the mug you use every morning. They might want to stir something and sit beside you as much as they want what you are drinking. Set the hot cup out of reach and give them their own cup. If they have already had some, first find out what the drink was and how much may be missing.",
+        "sections": [
+          {
+            "heading": "Give the morning ritual a different drink",
+            "paragraphs": [
+              "Water or plain milk appropriate for your toddler can share the table with an adult’s coffee. Give the child a small cup they can hold and let them help pour water. Keep hot drinks well back from the edge of the table. Coffee, caffeinated tea and energy drinks are poor choices for a regular toddler drink.",
+              "One Boston study asked families about coffee in early childhood. In a cohort of 315 mother-child pairs, families reported coffee use in 2.5% of children at one year and 15.2% at two years. The study described feeding practices in that group. It did not test whether coffee was safe, establish a suitable serving or show that a child who tried it would develop a health problem."
+            ]
+          },
+          {
+            "heading": "Why children can feel the effects",
+            "paragraphs": [
+              "Caffeine is a stimulant. It can cause restlessness, shaky hands, an upset stomach, a faster or irregular heartbeat and lost sleep. A child has a much smaller body than an adult, and the amount of caffeine in coffee varies with how it is made and the size of the serving. A cup is a poor measure of dose.",
+              "A caffeinated drink may also take the place of a snack, meal or more nourishing drink. If your child eats less, consider what they drink, how much and when, alongside all the other reasons appetite changes. A small accidental taste does not establish that caffeine has damaged a child’s growth or brain. Speak with the child’s clinician if poor appetite, sleep problems or growth concerns persist."
+            ]
+          },
+          {
+            "heading": "Look beyond the coffee cup",
+            "paragraphs": [
+              "Tea, cola and chocolate can contain caffeine. Some energy drinks, powders, tablets, pouches and medicines contain concentrated amounts. Read the ingredients and any caffeine amount per serving. Check how many servings are in the package. Decaffeinated coffee generally contains a little caffeine. Store tablets, powders and energy products where children cannot reach them.",
+              "For an older child asking when they can start, a birthday does not create a need for caffeine or make an adult serving appropriate. The American Academy of Pediatrics advises children to avoid caffeine. If a child already relies on caffeinated drinks to stay awake, talk about their sleep and routine with their clinician."
+            ]
+          },
+          {
+            "heading": "If the child already swallowed some",
+            "paragraphs": [
+              "Move the drink or product away. Note the child’s age and approximate weight, the product and strength if known, the amount that could be missing, the time and any symptoms. An accidental taste of ordinary coffee and swallowing a caffeine tablet are different exposures. If the amount is unclear, a concentrated product may have been swallowed, or the child has symptoms, contact your local poison centre promptly for case-specific advice. Do not make the child vomit.",
+              "Call emergency services immediately for a seizure, collapse, trouble breathing or a child you cannot wake. A racing or irregular heartbeat or marked shaking after a large intake also needs immediate medical attention. Keep the container for the clinician or poison specialist. You can ask for advice even before symptoms appear."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Offer a toddler water or age-appropriate plain milk in a cup of their own.",
+          "Count caffeine from the actual product and serving, including concentrated powders or tablets.",
+          "For uncertain or concentrated exposures, contact a poison centre promptly with the product and time."
+        ],
+        "faq": [
+          {
+            "q": "How might coffee affect a young child?",
+            "a": "Caffeine can interfere with sleep and cause restlessness, stomach upset or a rapid heartbeat. Effects depend on the amount, the child’s size and individual sensitivity. A large exposure can cause serious poisoning."
+          },
+          {
+            "q": "Can coffee reduce my child’s appetite?",
+            "a": "A drink can fill a small stomach and leave less room for food. Restlessness or nausea can also disrupt eating. If poor appetite persists, ask the child’s clinician about the whole pattern rather than assuming coffee explains it."
+          },
+          {
+            "q": "At what age can children start drinking coffee?",
+            "a": "Children do not need caffeine, and the American Academy of Pediatrics advises avoiding it. Offer toddlers water or age-appropriate plain milk. Energy drinks and concentrated caffeine products are especially unsuitable."
+          },
+          {
+            "q": "Does one accidental sip cause lasting harm?",
+            "a": "A small taste of ordinary coffee is different from a large or concentrated exposure. One sip alone does not show long-term harm. If you are unsure how much your child had, symptoms develop or a concentrate was involved, contact a poison centre promptly."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Use a separate cup with an age-appropriate drink for a toddler.",
+            "Keep caffeine products and hot drinks out of the child’s reach.",
+            "Seek individual poisoning advice for uncertain amounts, concentrated caffeine or symptoms."
+          ],
+          "bemama": "BeMama suggests keeping a child-sized cup beside the breakfast plates so your toddler can join the routine without sharing the coffee.",
+          "safety": "Call emergency services for a seizure, collapse, trouble breathing or inability to wake. Seek immediate medical care for a racing or irregular heartbeat or marked shaking after a large caffeine exposure. For other uncertain exposures contact a poison centre promptly and do not induce vomiting.",
+          "sources": [
+            {
+              "organization": "American Academy of Pediatrics",
+              "title": "How caffeine affects children",
+              "url": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/the-effects-of-caffeine-on-kids-a-parents-guide.aspx"
+            },
+            {
+              "organization": "Burnham and colleagues, Journal of Human Lactation",
+              "title": "Coffee consumption in children younger than two in Boston",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25678326/"
+            },
+            {
+              "organization": "National Capital Poison Center",
+              "title": "Caffeine sources, overdose symptoms and poison advice",
+              "url": "https://www.poison.org/articles/caffeine"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "وقتی کودک نوپا از شما قهوه می‌خواهد",
+        "description": "بخوانید به کودک نوپایی که قهوه می‌خواهد چه بدهید، چه محصولاتی کافئین دارند و اگر کودک از فنجان شما نوشید یا کافئین غلیظ خورد چه کنید.",
+        "intro": "کودک نوپا دستش را به سوی فنجان هر روز صبح شما دراز می‌کند. شاید هم زدن یک نوشیدنی و نشستن کنار شما برایش به اندازه چشیدن آن جالب باشد. فنجان داغ را دور از دسترس بگذارید و لیوان خودش را به او بدهید. اگر قبلاً نوشیده، اول مشخص کنید چه چیزی در فنجان بوده و ممکن است چه مقدار کم شده باشد.",
+        "sections": [
+          {
+            "heading": "همان دورهمی صبحانه با یک نوشیدنی دیگر",
+            "paragraphs": [
+              "کودک می‌تواند هنگام قهوه خوردن بزرگ‌ترها کنار سفره آب یا شیر ساده مناسب سنش بنوشد. به او یک لیوان کوچک بدهید که بتواند نگه دارد و بگذارید در ریختن آب کمک کند. نوشیدنی داغ را با فاصله از لبه میز بگذارید. قهوه، چای کافئین‌دار و نوشیدنی انرژی‌زا انتخاب‌های مناسبی برای مصرف همیشگی کودک نوپا نیستند.",
+              "در یک پژوهش در بوستون، از خانواده‌ها درباره مصرف قهوه در اوایل کودکی پرسیدند. در گروهی شامل ۳۱۵ مادر و فرزند، خانواده‌ها گزارش کردند که ۲٫۵ درصد کودکان در یک‌سالگی و ۱۵٫۲ درصد در دوسالگی قهوه می‌نوشیدند. مطالعه عادت غذایی همان گروه را توصیف کرد. ایمنی قهوه یا اندازه مناسب هر وعده را تعیین نکرد و نشان نداد که چشیدن قهوه به بروز بیماری منجر می‌شود."
+            ]
+          },
+          {
+            "heading": "کافئین چه اثری بر کودک می‌گذارد؟",
+            "paragraphs": [
+              "کافئین ماده‌ای محرک است. می‌تواند سبب بی‌قراری، لرزش دست، ناراحتی معده، تند یا نامنظم شدن ضربان قلب و کم‌خوابی شود. جثه کودک بسیار کوچک‌تر از بزرگسال است و مقدار کافئین قهوه بسته به روش تهیه و حجم نوشیدنی فرق می‌کند. یک فنجان معیار دقیقی برای مقدار کافئین نیست.",
+              "نوشیدنی کافئین‌دار ممکن است جای میان‌وعده، غذا یا نوشیدنی مغذی‌تری را بگیرد. اگر فرزندتان کمتر غذا می‌خورد، در کنار علت‌های دیگر تغییر اشتها، ببینید چه می‌نوشد، چه مقدار و چه زمانی. یک بار چشیدن اتفاقی مقدار کمی قهوه به معنی آسیب دیدن رشد یا مغز کودک نیست. اگر بی‌اشتهایی، بدخوابی یا نگرانی درباره رشد ادامه دارد، با پزشک کودک صحبت کنید."
+            ]
+          },
+          {
+            "heading": "منابع کافئین به فنجان قهوه محدود نمی‌شوند",
+            "paragraphs": [
+              "چای، نوشابه کولا و شکلات ممکن است کافئین داشته باشند. بعضی از نوشیدنی‌های انرژی‌زا، پودرها، قرص‌ها، کیسه‌های کوچک مخصوص داخل دهان و داروها حاوی کافئین غلیظ‌اند. فهرست ترکیبات و مقدار کافئین در هر وعده را اگر درج شده بخوانید. ببینید در هر بسته چند وعده وجود دارد. قهوه بدون کافئین هم معمولاً کمی کافئین دارد. قرص‌ها، پودرها و محصولات انرژی‌زا را دور از دسترس کودک نگه دارید.",
+              "اگر کودک بزرگ‌تر می‌پرسد از چه سنی می‌تواند قهوه بنوشد، رسیدن به یک سن مشخص نیازی به کافئین ایجاد نمی‌کند و یک وعده بزرگسال را هم مناسب او نمی‌کند. آکادمی متخصصان کودکان آمریکا پرهیز از کافئین را برای کودکان توصیه می‌کند. اگر کودک برای بیدار ماندن به این نوشیدنی‌ها وابسته شده، درباره خواب و برنامه روزانه‌اش با پزشک صحبت کنید."
+            ]
+          },
+          {
+            "heading": "اگر کودک مقداری خورده یا نوشیده است",
+            "paragraphs": [
+              "محصول را از دسترسش بردارید. سن و وزن تقریبی، نام محصول و غلظت آن اگر معلوم است، مقدار احتمالی کم‌شده، زمان مصرف و هر نشانه‌ای را یادداشت کنید. چشیدن قهوه معمولی با بلعیدن قرص کافئین فرق دارد. اگر مقدار روشن نیست، احتمال دارد کودک فرآورده غلیظی خورده باشد یا نشانه‌ای دارد، برای راهنمایی متناسب با شرایط او بی‌درنگ با مرکز اطلاع‌رسانی مسمومیت محل زندگی خود تماس بگیرید. کودک را وادار به استفراغ نکنید.",
+              "اگر کودک تشنج کرد، از حال رفت، به‌سختی نفس کشید یا نتوانستید بیدارش کنید، فوری با اورژانس تماس بگیرید. تپش بسیار تند یا نامنظم قلب یا لرزش شدید پس از مصرف مقدار زیاد نیز به رسیدگی پزشکی فوری نیاز دارد. بسته را برای پزشک یا کارشناس مسمومیت نگه دارید. حتی پیش از شروع علائم می‌توانید مشورت بگیرید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "در لیوان خود کودک آب یا شیر ساده مناسب سنش بریزید.",
+          "نام محصول و حجم واقعی مصرف را در نظر بگیرید، از جمله پودرها یا قرص‌های غلیظ کافئین.",
+          "اگر مقدار نامشخص بوده یا محصول غلیظ است، فوراً با مرکز مسمومیت تماس بگیرید و زمان و نام محصول را بگویید."
+        ],
+        "faq": [
+          {
+            "q": "قهوه چه اثری می‌تواند بر کودک کم‌سن بگذارد؟",
+            "a": "کافئین ممکن است خواب را مختل کند و موجب بی‌قراری، ناراحتی معده یا تند شدن ضربان قلب شود. مقدار مصرف، جثه کودک و حساسیت فردی در اثر آن نقش دارد. مصرف زیاد می‌تواند مسمومیت جدی ایجاد کند."
+          },
+          {
+            "q": "آیا قهوه اشتهای کودکم را کم می‌کند؟",
+            "a": "یک نوشیدنی می‌تواند معده کوچک کودک را پر کند و جای کمتری برای غذا بگذارد. تهوع و بی‌قراری هم ممکن است غذا خوردن را دشوار کنند. اگر بی‌اشتهایی ادامه دارد، همه جنبه‌های وضعیت را با پزشک مرور کنید."
+          },
+          {
+            "q": "کودکان از چه سنی می‌توانند قهوه بنوشند؟",
+            "a": "کودکان به کافئین نیاز ندارند و آکادمی متخصصان کودکان آمریکا پرهیز از آن را توصیه می‌کند. برای کودک نوپا آب یا شیر ساده مناسب سنش انتخاب کنید. نوشیدنی‌های انرژی‌زا و فرآورده‌های غلیظ کافئین به‌ویژه نامناسب‌اند."
+          },
+          {
+            "q": "آیا یک جرعه اتفاقی آسیب ماندگار ایجاد می‌کند؟",
+            "a": "چشیدن مقدار کم قهوه معمولی با مصرف مقدار زیاد یا کافئین غلیظ متفاوت است. یک جرعه به‌تنهایی نشان‌دهنده آسیب ماندگار نیست. اگر نمی‌دانید کودک چه مقدار خورده، نشانه‌ای پیدا کرده یا محصول غلیظ بوده، بی‌درنگ با مرکز مسمومیت تماس بگیرید."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۶ نوامبر ۲۰۲۶ بازبینی شد",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "برای کودک نوپا یک لیوان جداگانه با نوشیدنی مناسب سنش در نظر بگیرید.",
+            "نوشیدنی‌های داغ و محصولات کافئین‌دار را از دسترس کودک دور کنید.",
+            "برای مقدار نامعلوم، کافئین غلیظ یا وجود نشانه‌ها راهنمایی اختصاصی مسمومیت بگیرید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند کنار بشقاب‌های صبحانه لیوانی کودکانه بگذارید تا فرزندتان بدون شریک شدن در قهوه شما همراهتان باشد.",
+          "safety": "در صورت تشنج، از حال رفتن، دشواری تنفس یا ناتوانی در بیدار کردن کودک، با اورژانس تماس بگیرید. ضربان بسیار تند یا نامنظم قلب یا لرزش شدید پس از مصرف مقدار زیاد کافئین به مراقبت پزشکی فوری نیاز دارد. برای مقدار نامعلوم سریع با مرکز مسمومیت تماس بگیرید و کودک را وادار به استفراغ نکنید.",
+          "sources": [
+            {
+              "organization": "آکادمی متخصصان کودکان آمریکا",
+              "title": "اثرات کافئین بر کودکان",
+              "url": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/the-effects-of-caffeine-on-kids-a-parents-guide.aspx"
+            },
+            {
+              "organization": "برنهام و همکاران، مجله شیردهی انسان",
+              "title": "مصرف قهوه در کودکان زیر دو سال در بوستون",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25678326/"
+            },
+            {
+              "organization": "مرکز ملی مسمومیت پایتخت ایالات متحده",
+              "title": "منابع کافئین، نشانه‌های مصرف بیش از حد و راهنمایی مسمومیت",
+              "url": "https://www.poison.org/articles/caffeine"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "حين يريد طفلك الصغير أن يشرب من قهوتك",
+        "description": "ما الذي يمكنك تقديمه بدل القهوة لطفلك، وأين قد يوجد الكافيين، وماذا تفعلين إذا شرب من فنجانك أو ابتلع منتجًا يحتوي على كافيين مركز؟",
+        "intro": "يمد طفلك يده إلى الفنجان الذي تستعملينه كل صباح. ربما يرغب في تحريك الشراب والجلوس إلى جانبك بقدر رغبته في تذوقه. ضعي الفنجان الساخن بعيدًا عن متناوله وقدمي له كوبه الخاص. وإذا كان قد شرب بالفعل، فتحققي أولًا مما كان في الفنجان ومن الكمية التي ربما نقصت منه.",
+        "sections": [
+          {
+            "heading": "مشروب مختلف في جلسة الصباح نفسها",
+            "paragraphs": [
+              "يمكن لطفلك أن يشرب الماء أو الحليب السادة المناسب لعمره بينما يشرب الكبار القهوة. أعطيه كوبًا صغيرًا يستطيع إمساكه ودعيه يساعدك في سكب الماء. أبعدي المشروبات الساخنة عن حافة الطاولة. القهوة والشاي المحتوي على الكافيين ومشروبات الطاقة خيارات غير مناسبة كمشروبات يومية لطفل صغير.",
+              "سأل باحثون في بوسطن أسرًا عن تناول القهوة في الطفولة المبكرة. شملت الدراسة ٣١٥ أمًا وأطفالهن، وأفادت الأسر بأن ٢٫٥٪ من الأطفال تناولوا القهوة في عمر سنة، و١٥٫٢٪ في عمر سنتين. وصفت الدراسة عادات تلك المجموعة. لم تختبر سلامة القهوة أو تحدد حصة مناسبة، ولم تُظهر أن الطفل الذي يذوقها سيصاب بمشكلة صحية."
+            ]
+          },
+          {
+            "heading": "كيف يتأثر الطفل بالكافيين؟",
+            "paragraphs": [
+              "الكافيين مادة منبهة. وقد يسبب التململ ورجفة اليدين واضطراب المعدة وسرعة ضربات القلب أو عدم انتظامها وفقدان النوم. جسم الطفل أصغر بكثير من جسم البالغ، وتختلف كمية الكافيين في القهوة بحسب طريقة إعدادها وحجم الحصة. لذلك لا يكفي عدد الأكواب لتقدير الجرعة.",
+              "كذلك قد يحل المشروب المحتوي على الكافيين محل وجبة أو وجبة خفيفة أو مشروب أغنى غذائيًا. إذا كان طفلك يأكل أقل، فانظري إلى ما يشربه وكميته وتوقيته ضمن الأسباب الأخرى لتغير الشهية. تذوق كمية صغيرة عن طريق الخطأ لا يثبت تضرر نمو الطفل أو دماغه. ناقشي الطبيب إذا استمر ضعف الشهية أو اضطراب النوم أو القلق بشأن النمو."
+            ]
+          },
+          {
+            "heading": "مصادر أخرى غير فنجان القهوة",
+            "paragraphs": [
+              "قد يحتوي الشاي والكولا والشوكولاتة على الكافيين. وتحتوي بعض مشروبات الطاقة والمساحيق والأقراص والأكياس الصغيرة التي توضع في الفم والأدوية على كميات مركزة. اقرئي المكونات وكمية الكافيين في الحصة إن ذُكرت، وتحققي من عدد الحصص في العبوة. عادةً يبقى بعض الكافيين في القهوة المنزوعة الكافيين. احفظي الأقراص والمساحيق ومنتجات الطاقة بعيدًا عن متناول الأطفال.",
+              "إذا سأل طفل أكبر متى يمكنه البدء، فلا ينشأ احتياج إلى الكافيين بمجرد بلوغ سن معينة، ولا تصبح حصة البالغ مناسبة له تلقائيًا. تنصح الأكاديمية الأمريكية لطب الأطفال بأن يتجنب الأطفال الكافيين. إذا كان طفلك يعتمد بالفعل على هذه المشروبات ليظل مستيقظًا، فتحدثي مع طبيبه عن نومه وروتينه."
+            ]
+          },
+          {
+            "heading": "إذا كان الطفل قد ابتلع شيئًا بالفعل",
+            "paragraphs": [
+              "أبعدي المنتج. دوّني عمر الطفل ووزنه التقريبي واسم المنتج وتركيزه إن عُرف، والكمية التي يُحتمل أنها نقصت ووقت تناولها وأي أعراض. تختلف رشفة من قهوة عادية عن ابتلاع قرص كافيين. إذا كانت الكمية غير واضحة، أو ربما ابتلع منتجًا مركزًا، أو ظهرت أعراض، فاتصلي سريعًا بمركز السموم المحلي للحصول على إرشادات تخص حالته. لا تحاولي إحداث القيء.",
+              "اتصلي بالإسعاف فورًا إذا حدثت نوبة تشنج أو انهار الطفل أو عانى صعوبة في التنفس أو لم تستطيعي إيقاظه. وتسارع القلب الشديد أو عدم انتظام ضرباته أو الرجفة الواضحة بعد كمية كبيرة يتطلب أيضًا عناية طبية فورية. احتفظي بالعبوة لتريها للطبيب أو اختصاصي السموم. يمكنك طلب المشورة حتى قبل أن تظهر الأعراض."
+            ]
+          }
+        ],
+        "takeaways": [
+          "قدمي لطفلك الماء أو الحليب السادة المناسب لعمره في كوبه الخاص.",
+          "قدّري الكافيين استنادًا إلى المنتج والحصة الفعلية، بما في ذلك المساحيق أو الأقراص المركزة.",
+          "اتصلي سريعًا بمركز السموم إذا لم تتضح الكمية أو كان المنتج مركزًا، واذكري المنتج ووقت تناوله."
+        ],
+        "faq": [
+          {
+            "q": "كيف قد تؤثر القهوة في الطفل الصغير؟",
+            "a": "قد يضطرب النوم ويظهر التململ أو اضطراب المعدة أو تسارع القلب. يعتمد الأثر على الكمية وحجم جسم الطفل وحساسيته. وقد تسبب كمية كبيرة تسممًا خطيرًا."
+          },
+          {
+            "q": "هل تقلل القهوة شهية طفلي؟",
+            "a": "قد يملأ المشروب معدة صغيرة ويترك مساحة أقل للطعام. وقد يعرقل التململ أو الغثيان الأكل. إذا استمر ضعف الشهية، فراجعي النمط كاملًا مع الطبيب بدل افتراض أن القهوة تفسره."
+          },
+          {
+            "q": "في أي عمر يمكن للأطفال البدء بشرب القهوة؟",
+            "a": "لا يحتاج الأطفال إلى الكافيين وتنصح الأكاديمية الأمريكية لطب الأطفال بتجنبه. قدمي للصغير ماء أو حليبًا سادة مناسبًا لعمره. ومشروبات الطاقة ومنتجات الكافيين المركزة غير مناسبة على نحو خاص."
+          },
+          {
+            "q": "هل تُحدث رشفة عرضية ضررًا دائمًا؟",
+            "a": "تذوق قليل من القهوة العادية يختلف عن كمية كبيرة أو منتج مركز. لا تثبت رشفة واحدة ضررًا بعيد المدى. إن لم تتأكدي من الكمية أو ظهرت أعراض أو كان المنتج مركزًا، فاتصلي بمركز السموم فورًا."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "اختاري كوبًا خاصًا للطفل ومشروبًا مناسبًا لعمره.",
+            "احفظي المشروبات الساخنة والمنتجات المحتوية على الكافيين بعيدًا عن متناوله.",
+            "اطلبي مشورة سموم خاصة بالحالة إذا لم تعرفي الكمية أو كان الكافيين مركزًا أو ظهرت أعراض."
+          ],
+          "bemama": "تقترح بي ماما وضع كوب صغير بجانب أطباق الفطور ليشارك الطفل في جلسة الصباح من دون أن يشرب من قهوتك.",
+          "safety": "اتصلي بالإسعاف لنوبة تشنج أو انهيار أو صعوبة تنفس أو تعذر إيقاظ الطفل. اطلبي عناية طبية فورية لتسارع القلب الشديد أو عدم انتظامه أو الرجفة الواضحة بعد كمية كبيرة. وفي التعرض غير الواضح اتصلي سريعًا بمركز السموم ولا تحاولي إحداث القيء.",
+          "sources": [
+            {
+              "organization": "الأكاديمية الأمريكية لطب الأطفال",
+              "title": "تأثير الكافيين في الأطفال",
+              "url": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/the-effects-of-caffeine-on-kids-a-parents-guide.aspx"
+            },
+            {
+              "organization": "بيرنهام وزملاؤها، مجلة الرضاعة البشرية",
+              "title": "استهلاك القهوة لدى الأطفال دون السنتين في بوسطن",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25678326/"
+            },
+            {
+              "organization": "مركز السموم الوطني في منطقة العاصمة الأمريكية",
+              "title": "مصادر الكافيين وأعراض الجرعة المفرطة والمشورة بشأن التسمم",
+              "url": "https://www.poison.org/articles/caffeine"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Quand un tout-petit veut goûter votre café",
+        "description": "Découvrez quoi proposer à un tout-petit qui réclame du café, où se cache la caféine et que faire s’il boit dans votre tasse ou avale un produit concentré.",
+        "intro": "Votre tout-petit tend la main vers votre tasse du matin. Remuer une boisson et s’asseoir avec vous l’intéresse peut-être autant que le café. Mettez la tasse chaude hors de portée et donnez-lui la sienne. S’il a déjà bu, vérifiez d’abord de quelle boisson il s’agit et quelle quantité pourrait manquer.",
+        "sections": [
+          {
+            "heading": "Une autre boisson pour le même rituel",
+            "paragraphs": [
+              "De l’eau ou du lait nature adapté à l’âge de votre enfant peut accompagner votre café à table. Donnez-lui un petit gobelet facile à tenir et laissez-le vous aider à verser de l’eau. Éloignez les boissons chaudes du bord de la table. Le café, le thé caféiné et les boissons énergisantes ne conviennent pas comme boissons habituelles aux tout-petits.",
+              "Une étude à Boston a interrogé des familles sur la consommation de café pendant la petite enfance. Parmi 315 duos mère-enfant, les familles ont déclaré que 2,5 % des enfants en buvaient à un an et 15,2 % à deux ans. Cette étude décrit les habitudes de ce groupe. Elle n’a établi ni l’innocuité du café ni une portion appropriée ni la survenue d’un problème de santé chez un enfant qui y goûte."
+            ]
+          },
+          {
+            "heading": "Pourquoi un enfant peut en ressentir les effets",
+            "paragraphs": [
+              "La caféine est un stimulant. Elle peut provoquer agitation, tremblements des mains, maux d’estomac, battements cardiaques rapides ou irréguliers et manque de sommeil. Le corps d’un enfant est bien plus petit que celui d’un adulte, et la teneur en caféine varie selon la préparation et le volume servi. Une tasse ne mesure pas bien la dose.",
+              "Une boisson caféinée peut prendre la place d’un goûter, d’un repas ou d’une boisson plus nourrissante. Si votre enfant mange moins, notez ce qu’il boit, combien et à quel moment, en gardant à l’esprit les autres causes possibles de perte d’appétit. Une petite gorgée accidentelle ne démontre pas une atteinte de la croissance ou du cerveau. Si le manque d’appétit, les problèmes de sommeil ou vos inquiétudes sur la croissance persistent, consultez."
+            ]
+          },
+          {
+            "heading": "Bien au-delà de la tasse de café",
+            "paragraphs": [
+              "Le thé, les sodas au cola et le chocolat peuvent contenir de la caféine. Certaines boissons énergisantes, poudres, pastilles, sachets à placer dans la bouche et certains médicaments en contiennent sous forme concentrée. Lisez les ingrédients, la teneur par portion si elle est indiquée et le nombre de portions dans l’emballage. Le café décaféiné conserve généralement un peu de caféine. Rangez comprimés, poudres et produits énergisants hors de portée.",
+              "À un enfant plus grand qui demande quand il pourra commencer, expliquez qu’un anniversaire ne crée pas un besoin de caféine et ne rend pas une portion d’adulte appropriée. L’Académie américaine de pédiatrie conseille aux enfants d’éviter la caféine. Si votre enfant compte déjà sur ces boissons pour rester éveillé, parlez avec son médecin de son sommeil et de ses habitudes."
+            ]
+          },
+          {
+            "heading": "Si votre enfant en a déjà avalé",
+            "paragraphs": [
+              "Éloignez le produit. Notez l’âge et le poids approximatif de l’enfant, le produit et sa concentration si elle est connue, la quantité qui pourrait manquer, l’heure et les symptômes éventuels. Goûter un café ordinaire diffère d’avaler un comprimé de caféine. Si la quantité est incertaine, qu’il a pu avaler un produit concentré ou qu’il présente des symptômes, appelez rapidement le centre antipoison pour un avis personnalisé. Ne le faites pas vomir.",
+              "Appelez immédiatement les secours si l’enfant convulse, s’effondre, a du mal à respirer ou si vous n’arrivez pas à le réveiller. Un cœur qui bat très vite ou irrégulièrement, ou des tremblements marqués après une ingestion importante, nécessitent aussi des soins immédiats. Gardez l’emballage pour les soignants. Vous pouvez demander conseil avant même l’apparition de symptômes."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Proposez de l’eau ou du lait nature adapté à l’âge du tout-petit dans son propre gobelet.",
+          "Évaluez la caféine à partir du produit et de la portion réels, y compris les poudres ou comprimés concentrés.",
+          "Si la quantité est incertaine ou le produit concentré, appelez rapidement un centre antipoison en précisant le produit et l’heure."
+        ],
+        "faq": [
+          {
+            "q": "Quels effets le café peut-il avoir chez un jeune enfant ?",
+            "a": "La caféine peut gêner le sommeil et provoquer agitation, maux d’estomac ou accélération du cœur. Les effets dépendent de la quantité, de la taille de l’enfant et de sa sensibilité. Une exposition importante peut causer une intoxication grave."
+          },
+          {
+            "q": "Le café peut-il diminuer son appétit ?",
+            "a": "Une boisson peut remplir un petit estomac et laisser moins de place aux aliments. L’agitation et les nausées peuvent aussi perturber les repas. Si le manque d’appétit persiste, faites le point avec son médecin sur l’ensemble de la situation."
+          },
+          {
+            "q": "À quel âge un enfant peut-il commencer à boire du café ?",
+            "a": "Les enfants n’ont pas besoin de caféine et l’Académie américaine de pédiatrie leur conseille de l’éviter. Proposez aux tout-petits de l’eau ou du lait nature adapté à leur âge. Les boissons énergisantes et la caféine concentrée sont particulièrement inadaptées."
+          },
+          {
+            "q": "Une gorgée accidentelle a-t-elle des conséquences durables ?",
+            "a": "Une petite gorgée de café ordinaire diffère d’une forte quantité ou d’un produit concentré. Elle ne démontre pas à elle seule un dommage durable. Si la quantité est inconnue, qu’il y a des symptômes ou qu’un concentré est en cause, appelez rapidement un centre antipoison."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Donnez au tout-petit son propre gobelet avec une boisson adaptée à son âge.",
+            "Tenez les boissons chaudes et les produits contenant de la caféine hors de portée.",
+            "Demandez un avis antipoison personnalisé si la quantité est incertaine, le produit concentré ou que des symptômes apparaissent."
+          ],
+          "bemama": "BeMama vous suggère de garder un gobelet d’enfant près des assiettes du petit déjeuner pour que votre enfant participe au rituel sans partager votre café.",
+          "safety": "Appelez les secours en cas de convulsion, d’effondrement, de difficulté respiratoire ou si l’enfant ne se réveille pas. Après une forte ingestion, des battements très rapides ou irréguliers ou des tremblements marqués nécessitent des soins immédiats. Pour une exposition incertaine, appelez rapidement le centre antipoison et ne faites pas vomir l’enfant.",
+          "sources": [
+            {
+              "organization": "Académie américaine de pédiatrie",
+              "title": "Les effets de la caféine chez l’enfant",
+              "url": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/the-effects-of-caffeine-on-kids-a-parents-guide.aspx"
+            },
+            {
+              "organization": "Burnham et ses collègues, Journal of Human Lactation",
+              "title": "Consommation de café chez les enfants de moins de deux ans à Boston",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25678326/"
+            },
+            {
+              "organization": "Centre antipoison de la région de la capitale des États-Unis",
+              "title": "Sources de caféine, symptômes de surdosage et conseils antipoison",
+              "url": "https://www.poison.org/articles/caffeine"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Küçük çocuğunuz kahvenizden içmek istediğinde",
+        "description": "Kahve isteyen çocuğunuza ne sunabileceğinizi, hangi ürünlerde kafein bulunduğunu ve fincanınızdan içerse ya da yoğun kafein alırsa ne yapacağınızı öğrenin.",
+        "intro": "Küçük çocuğunuz her sabah kullandığınız kupaya uzanıyor. Belki de bir şeyi karıştırmak ve yanınızda oturmak en az içeceğin tadına bakmak kadar ilgisini çekiyor. Sıcak kupayı erişemeyeceği yere koyup ona kendi bardağını verin. Zaten içtiyse önce ne içtiğini ve ne kadarının eksilmiş olabileceğini öğrenin.",
+        "sections": [
+          {
+            "heading": "Sabah alışkanlığına başka bir içecekle katılsın",
+            "paragraphs": [
+              "Yetişkinler kahve içerken küçük çocuğunuz sofrada su veya yaşına uygun sade süt içebilir. Tutabileceği küçük bir bardak seçin ve su doldururken size yardım etmesine izin verin. Sıcak içecekleri masanın kenarından uzakta tutun. Kahve, kafeinli çay ve enerji içecekleri küçük çocukların günlük içeceği olmaya uygun değildir.",
+              "Boston’da yapılan bir araştırmada 315 anne-çocuk çiftinin beslenme alışkanlıkları incelendi. Aileler bir yaşındaki çocukların %2,5’inin, iki yaşındakilerin ise %15,2’sinin kahve içtiğini bildirdi. Araştırma o grubun alışkanlıklarını tanımlıyordu. Kahvenin güvenliğini test etmedi, uygun bir porsiyon belirlemedi ve kahveyi deneyen çocukta sağlık sorunu gelişeceğini göstermedi."
+            ]
+          },
+          {
+            "heading": "Çocuklar kafeinden nasıl etkilenebilir?",
+            "paragraphs": [
+              "Kafein bir uyarıcıdır. Huzursuzluk, ellerde titreme, mide rahatsızlığı, hızlı veya düzensiz kalp atışı ve uyku kaybı yapabilir. Çocuğun vücudu yetişkininkinden çok daha küçüktür. Kahvenin içerdiği kafein de hazırlanma biçimine ve içilen miktara göre değişir. Bir fincan, dozu ölçmek için yeterli bilgi vermez.",
+              "Kafeinli bir içecek öğünün, ara öğünün veya daha besleyici bir içeceğin yerini alabilir. Çocuğunuz daha az yiyorsa iştahı etkileyen diğer nedenlerin yanı sıra ne içtiğini, ne kadar ve ne zaman içtiğini düşünün. Yanlışlıkla az miktarda tatmış olması büyümesine veya beynine zarar geldiğini göstermez. İştahsızlık, uyku sorunları veya büyümeyle ilgili kaygılar sürüyorsa hekimine danışın."
+            ]
+          },
+          {
+            "heading": "Fincanın dışındaki kaynaklar",
+            "paragraphs": [
+              "Çay, kola ve çikolata kafein içerebilir. Bazı enerji içeceklerinde, tozlarda, tabletlerde, ağız içinde kullanılan küçük keselerde ve ilaçlarda yoğun miktarda kafein bulunur. İçindekiler listesini, yazıyorsa porsiyon başına kafeini ve pakette kaç porsiyon olduğunu kontrol edin. Kafeinsiz kahvede bile genellikle az miktarda kafein kalır. Tablet, toz ve enerji ürünlerini çocukların erişemeyeceği yerde saklayın.",
+              "Daha büyük bir çocuk ne zaman başlayabileceğini sorarsa, yaş gününün kafeine ihtiyaç doğurmadığını ve yetişkin porsiyonunu uygun hale getirmediğini anlatabilirsiniz. Amerikan Pediatri Akademisi çocukların kafeinden kaçınmasını önerir. Çocuk uyanık kalmak için bu içeceklere ihtiyaç duyuyorsa uykusunu ve günlük düzenini hekimiyle konuşun."
+            ]
+          },
+          {
+            "heading": "Çocuk bir miktar yuttuysa",
+            "paragraphs": [
+              "Ürünü uzaklaştırın. Çocuğun yaşını ve yaklaşık kilosunu, ürünün adını ve biliniyorsa yoğunluğunu, eksilmiş olabilecek miktarı, zamanı ve belirtileri not edin. Sıradan kahveden bir yudum almakla bir kafein tableti yutmak farklı durumlardır. Miktar belirsizse, yoğun kafeinli bir ürün yutmuş olabilirse veya belirti varsa size özel yönlendirme için vakit kaybetmeden yerel zehir danışma merkezine başvurun. Çocuğu kusturmayın.",
+              "Nöbet geçirirse, yığılırsa, solunum güçlüğü çekerse ya da uyandıramıyorsanız hemen acil yardım çağırın. Yüksek miktarda alımdan sonra çok hızlı veya düzensiz kalp atışı ya da belirgin titreme de derhal tıbbi değerlendirme gerektirir. Ambalajı sağlık ekibine göstermek için saklayın. Belirtiler başlamadan da danışabilirsiniz."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Küçük çocuğunuza kendi bardağında su veya yaşına uygun sade süt sunun.",
+          "Yoğun kafeinli tablet ve tozlar dahil, ürünü ve gerçekten alınan miktarı dikkate alın.",
+          "Katı veya sıvı yoğun kafein ya da belirsiz miktarda alımda ürünü ve saati bildirerek zehir danışma merkezine gecikmeden başvurun."
+        ],
+        "faq": [
+          {
+            "q": "Kahve küçük bir çocuğu nasıl etkileyebilir?",
+            "a": "Kafein uykuyu bozabilir, huzursuzluk, mide şikâyeti veya hızlı kalp atışı yapabilir. Etki alınan miktara, çocuğun vücut büyüklüğüne ve duyarlılığına göre değişir. Yüksek miktarlar ciddi zehirlenmeye yol açabilir."
+          },
+          {
+            "q": "Kahve çocuğumun iştahını azaltabilir mi?",
+            "a": "İçecek küçük bir mideyi doldurup yemeğe daha az yer bırakabilir. Huzursuzluk ve bulantı da yemeyi güçleştirebilir. İştah azlığı sürüyorsa sebebi kahve saymak yerine genel durumu çocuk hekimiyle değerlendirin."
+          },
+          {
+            "q": "Çocuklar kaç yaşında kahve içmeye başlayabilir?",
+            "a": "Çocukların kafeine ihtiyacı yoktur ve Amerikan Pediatri Akademisi kafeinden kaçınmalarını önerir. Küçük çocuklara su veya yaşlarına uygun sade süt sunun. Enerji içecekleri ve yoğun kafein ürünleri özellikle uygun değildir."
+          },
+          {
+            "q": "Yanlışlıkla bir yudum almak kalıcı zarara yol açar mı?",
+            "a": "Normal kahveden biraz tatmak, çok miktarda veya yoğun kafein almaktan farklıdır. Tek bir yudum tek başına kalıcı zararı göstermez. Ne kadar aldığını bilmiyorsanız, belirtiler ortaya çıkarsa veya yoğun ürün söz konusuysa hemen zehir danışma merkezine başvurun."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Küçük çocuğa ayrı bir bardakta yaşına uygun bir içecek verin.",
+            "Kafeinli ürünleri ve sıcak içecekleri erişemeyeceği yerde tutun.",
+            "Belirsiz miktar, yoğun kafein veya belirtiler söz konusuysa zehirlenme konusunda kişisel danışmanlık alın."
+          ],
+          "bemama": "BeMama, küçük çocuğunuz kahveyi paylaşmadan sabah sofrasına katılabilsin diye kahvaltı tabaklarının yanına bir çocuk bardağı koymayı önerir.",
+          "safety": "Nöbet, yığılma, solunum güçlüğü veya çocuğu uyandıramama durumunda acil yardım çağırın. Yüksek kafein alımı sonrası çok hızlı veya düzensiz kalp atışı ya da belirgin titreme gecikmeden tıbbi yardım gerektirir. Diğer belirsiz alımlarda zehir danışma merkezine hızla ulaşın ve çocuğu kusturmayın.",
+          "sources": [
+            {
+              "organization": "Amerikan Pediatri Akademisi",
+              "title": "Kafeinin çocuklar üzerindeki etkileri",
+              "url": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/the-effects-of-caffeine-on-kids-a-parents-guide.aspx"
+            },
+            {
+              "organization": "Burnham ve çalışma arkadaşları, Journal of Human Lactation",
+              "title": "Boston’da iki yaşından küçük çocuklarda kahve tüketimi",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25678326/"
+            },
+            {
+              "organization": "ABD Ulusal Başkent Zehir Danışma Merkezi",
+              "title": "Kafein kaynakları, aşırı alım belirtileri ve zehir danışmanlığı",
+              "url": "https://www.poison.org/articles/caffeine"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Cuando tu hijo pequeño quiere probar tu café",
+        "description": "Descubre qué ofrecerle si quiere café, qué productos pueden contener cafeína y qué hacer si bebe de tu taza o toma un producto concentrado.",
+        "intro": "Tu hijo intenta alcanzar la taza que usas cada mañana. Quizás lo que quiere es remover algo y sentarse contigo tanto como probar la bebida. Aparta la taza caliente y dale la suya. Si ya ha bebido, averigua primero qué contenía y cuánto podría faltar.",
+        "sections": [
+          {
+            "heading": "Otra bebida para el mismo desayuno",
+            "paragraphs": [
+              "El agua o la leche sin sabor adecuada para su edad pueden acompañar el café de los adultos en la mesa. Dale una taza pequeña que pueda sujetar y deja que te ayude a servir el agua. Coloca las bebidas calientes lejos del borde de la mesa. El café, el té con cafeína y las bebidas energéticas son malas opciones para el consumo habitual de un niño pequeño.",
+              "En un estudio de Boston sobre 315 parejas de madres e hijos, las familias comunicaron que el 2,5 % de los niños tomaba café al año de edad y el 15,2 % a los dos años. El estudio describió prácticas alimentarias de ese grupo. No evaluó la seguridad del café, no estableció una ración apropiada ni demostró que probarlo causara un problema de salud."
+            ]
+          },
+          {
+            "heading": "Cómo puede afectar a un niño",
+            "paragraphs": [
+              "La cafeína es un estimulante. Puede causar inquietud, temblor de manos, malestar estomacal, latidos rápidos o irregulares y pérdida de sueño. El cuerpo de un niño es mucho más pequeño que el de un adulto y el contenido de cafeína depende de la preparación y del tamaño de la ración. Una taza no es una buena medida de la dosis.",
+              "Una bebida con cafeína puede ocupar el lugar de una comida, una merienda u otra bebida más nutritiva. Si tu hijo come menos, fíjate en qué bebe, cuánto y cuándo, sin perder de vista otras causas del cambio de apetito. Probar por accidente un poco de café no demuestra un daño en el crecimiento o el cerebro. Consulta si la falta de apetito, los problemas de sueño o las dudas sobre el crecimiento persisten."
+            ]
+          },
+          {
+            "heading": "La cafeína no está solo en el café",
+            "paragraphs": [
+              "El té, las bebidas de cola y el chocolate pueden contener cafeína. Algunas bebidas energéticas, polvos, comprimidos, bolsitas de uso oral y medicamentos la contienen en forma concentrada. Lee la lista de ingredientes y la cantidad por ración si figura. Comprueba cuántas raciones hay en el envase. El café descafeinado suele conservar algo de cafeína. Guarda los comprimidos, polvos y productos energéticos fuera del alcance infantil.",
+              "Si un niño mayor pregunta cuándo podrá empezar, cumplir años no crea una necesidad de cafeína ni convierte una ración de adulto en una cantidad apropiada. La Academia Americana de Pediatría aconseja que los niños la eviten. Si ya depende de estas bebidas para mantenerse despierto, comenta su sueño y sus rutinas con el pediatra."
+            ]
+          },
+          {
+            "heading": "Si ya tomó un poco",
+            "paragraphs": [
+              "Retira el producto. Anota la edad y el peso aproximado del niño, el producto y su concentración si la sabes, cuánto podría faltar, a qué hora pasó y si hay síntomas. Probar un sorbo de café corriente es distinto de tragarse un comprimido de cafeína. Si la cantidad no está clara, pudo tomar un concentrado o hay síntomas, contacta cuanto antes con el centro de toxicología de tu zona para recibir instrucciones. No provoques el vómito.",
+              "Llama inmediatamente a emergencias si el niño tiene una convulsión, se desploma, tiene dificultad para respirar o no puedes despertarlo. Los latidos muy rápidos o irregulares o un temblor intenso tras una cantidad elevada también requieren atención médica inmediata. Conserva el envase para el equipo. Puedes pedir orientación incluso antes de que aparezcan síntomas."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Ofrece al niño agua o leche sin sabor adecuada para su edad en su propia taza.",
+          "Calcula la exposición según el producto y la cantidad, incluidos los polvos o comprimidos concentrados.",
+          "Si pudo tomar un concentrado o no sabes cuánto ingirió, consulta cuanto antes con toxicología e indica el producto y la hora."
+        ],
+        "faq": [
+          {
+            "q": "¿Cómo puede afectar el café a un niño pequeño?",
+            "a": "La cafeína puede dificultar el sueño y provocar inquietud, malestar estomacal o latidos rápidos. Influyen la cantidad, el tamaño del niño y su sensibilidad. Una exposición elevada puede causar una intoxicación grave."
+          },
+          {
+            "q": "¿Puede el café quitarle el apetito?",
+            "a": "Una bebida puede llenar un estómago pequeño y dejar menos espacio para los alimentos. Las náuseas o la inquietud también interfieren. Si come poco de forma persistente, revisa el conjunto de la situación con su pediatra."
+          },
+          {
+            "q": "¿A qué edad pueden empezar a tomar café los niños?",
+            "a": "Los niños no necesitan cafeína y la Academia Americana de Pediatría aconseja evitarla. Ofrece agua o leche sin sabor apropiada para su edad. Las bebidas energéticas y los productos de cafeína concentrada son especialmente inadecuados."
+          },
+          {
+            "q": "¿Un sorbo accidental causa daños duraderos?",
+            "a": "Una pequeña prueba de café corriente difiere de ingerir una cantidad grande o un producto concentrado. Un sorbo aislado no demuestra un daño a largo plazo. Ante una cantidad desconocida, síntomas o un concentrado, consulta cuanto antes con toxicología."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Dale una taza propia con una bebida adecuada para su edad.",
+            "Mantén los productos con cafeína y las bebidas calientes fuera de su alcance.",
+            "Pide orientación individual si la cantidad es incierta, hay síntomas o se trata de cafeína concentrada."
+          ],
+          "bemama": "BeMama sugiere guardar una taza infantil junto a los platos del desayuno para que tu hijo participe sin compartir tu café.",
+          "safety": "Llama a emergencias por convulsión, colapso, dificultad para respirar o imposibilidad de despertar al niño. Los latidos muy rápidos o irregulares o el temblor intenso tras una cantidad elevada requieren atención médica inmediata. Si la exposición es incierta, consulta pronto con toxicología y no provoques el vómito.",
+          "sources": [
+            {
+              "organization": "Academia Americana de Pediatría",
+              "title": "Cómo afecta la cafeína a los niños",
+              "url": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/the-effects-of-caffeine-on-kids-a-parents-guide.aspx"
+            },
+            {
+              "organization": "Burnham y colaboradores, Journal of Human Lactation",
+              "title": "Consumo de café en menores de dos años en Boston",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25678326/"
+            },
+            {
+              "organization": "Centro Nacional de Toxicología de la Capital de Estados Unidos",
+              "title": "Fuentes de cafeína, síntomas de sobredosis y orientación toxicológica",
+              "url": "https://www.poison.org/articles/caffeine"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Quando a criança pequena quer provar o seu café",
+        "description": "Veja o que oferecer no lugar do café, quais produtos podem conter cafeína e como agir se a criança beber da sua caneca ou ingerir um produto concentrado.",
+        "intro": "Seu filho estende a mão para a caneca de todas as manhãs. Talvez queira mexer uma bebida e sentar com você tanto quanto provar o café. Tire a caneca quente do alcance e dê a ele seu próprio copo. Se já bebeu, descubra primeiro qual era a bebida e quanto pode estar faltando.",
+        "sections": [
+          {
+            "heading": "Outra bebida para o mesmo ritual",
+            "paragraphs": [
+              "Água ou leite puro adequado à idade da criança podem acompanhar o café dos adultos à mesa. Ofereça um copo pequeno que ela consiga segurar e deixe que ajude a servir água. Mantenha bebidas quentes bem longe da borda da mesa. Café, chá com cafeína e energéticos são escolhas inadequadas para o dia a dia de uma criança pequena.",
+              "Um estudo em Boston acompanhou 315 duplas de mães e filhos. As famílias relataram consumo de café em 2,5% das crianças com um ano e 15,2% com dois anos. O estudo descreveu os hábitos daquele grupo. Não avaliou a segurança do café, não definiu uma porção adequada nem mostrou que uma criança teria problemas de saúde por prová-lo."
+            ]
+          },
+          {
+            "heading": "Por que a criança pode sentir os efeitos",
+            "paragraphs": [
+              "A cafeína é um estimulante. Pode causar inquietação, tremor nas mãos, desconforto no estômago, batimentos rápidos ou irregulares e perda de sono. O corpo da criança é muito menor que o do adulto e a quantidade de cafeína varia conforme o preparo e o volume servido. Uma xícara não é uma boa medida da dose.",
+              "Uma bebida com cafeína também pode tomar o lugar de um lanche, uma refeição ou uma bebida mais nutritiva. Se seu filho está comendo menos, observe o que bebe, quanto e quando, além de outras causas de mudança no apetite. Provar um pouquinho por acidente não demonstra dano ao crescimento ou ao cérebro. Converse com o pediatra se persistirem a falta de apetite, o sono ruim ou preocupações com o crescimento."
+            ]
+          },
+          {
+            "heading": "Olhe além da xícara",
+            "paragraphs": [
+              "Chá, refrigerante de cola e chocolate podem conter cafeína. Alguns energéticos, pós, comprimidos, sachês de uso oral e medicamentos contêm quantidades concentradas. Leia os ingredientes e o teor de cafeína por porção, quando informado. Verifique quantas porções há na embalagem. Até o café descafeinado costuma ter um pouco de cafeína. Guarde comprimidos, pós e produtos energéticos fora do alcance.",
+              "Quando uma criança maior pergunta a partir de que idade pode tomar, explique que fazer aniversário não cria necessidade de cafeína nem torna adequada uma porção de adulto. A Academia Americana de Pediatria aconselha as crianças a evitar cafeína. Se a criança já depende dessas bebidas para ficar acordada, converse com o profissional que a acompanha sobre o sono e a rotina dela."
+            ]
+          },
+          {
+            "heading": "Se a criança já ingeriu o produto",
+            "paragraphs": [
+              "Afaste a bebida ou o produto. Anote idade, peso aproximado, nome e concentração do produto, se conhecidos, quantidade que pode estar faltando, horário e sintomas. Provar um gole de café comum é diferente de engolir um comprimido de cafeína. Se não souber a quantidade, se pode ter havido ingestão de produto concentrado ou se surgirem sintomas, contate prontamente um centro de informação toxicológica para obter orientação. Não provoque vômito.",
+              "Acione a emergência imediatamente em caso de convulsão, colapso, dificuldade para respirar ou se não conseguir acordar a criança. Batimentos muito rápidos ou irregulares ou tremores intensos após uma ingestão elevada também exigem atendimento médico imediato. Guarde a embalagem para mostrar à equipe. É possível pedir orientação antes mesmo de aparecerem sintomas."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Ofereça à criança pequena água ou leite puro apropriado à idade no próprio copo.",
+          "Considere o produto e a porção reais, inclusive pós e comprimidos concentrados.",
+          "Em caso de quantidade incerta ou produto concentrado, contate prontamente um centro toxicológico e informe o produto e o horário."
+        ],
+        "faq": [
+          {
+            "q": "Que efeitos o café pode causar em uma criança pequena?",
+            "a": "A cafeína pode afetar o sono e causar inquietação, desconforto no estômago ou batimentos acelerados. Os efeitos dependem da quantidade, do tamanho da criança e da sensibilidade individual. Uma exposição elevada pode causar intoxicação grave."
+          },
+          {
+            "q": "O café pode diminuir o apetite?",
+            "a": "Uma bebida pode encher um estômago pequeno e deixar menos espaço para a comida. Enjoo ou agitação também podem atrapalhar as refeições. Se a falta de apetite persistir, converse com o pediatra sobre o conjunto da situação."
+          },
+          {
+            "q": "Com que idade a criança pode começar a tomar café?",
+            "a": "Crianças não precisam de cafeína e a Academia Americana de Pediatria recomenda evitá-la. Ofereça água ou leite puro adequado à idade. Energéticos e produtos com cafeína concentrada são especialmente inadequados."
+          },
+          {
+            "q": "Um gole acidental causa danos duradouros?",
+            "a": "Provar um pouco de café comum é diferente de ingerir uma grande quantidade ou um concentrado. Um gole por si só não demonstra dano duradouro. Em caso de dúvida sobre a quantidade, sintomas ou produto concentrado, procure orientação toxicológica prontamente."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Dê à criança um copo próprio com bebida adequada à sua idade.",
+            "Mantenha produtos com cafeína e bebidas quentes fora do alcance.",
+            "Peça orientação individualizada em caso de quantidade incerta, cafeína concentrada ou sintomas."
+          ],
+          "bemama": "A BeMama sugere guardar um copo infantil perto dos pratos do café da manhã para a criança participar do ritual sem dividir o café.",
+          "safety": "Acione a emergência em caso de convulsão, colapso, dificuldade respiratória ou se não conseguir acordar a criança. Batimentos muito rápidos ou irregulares ou tremores intensos após alta exposição exigem atendimento médico imediato. Se a quantidade for incerta, contate prontamente um centro toxicológico e não provoque vômito.",
+          "sources": [
+            {
+              "organization": "Academia Americana de Pediatria",
+              "title": "Efeitos da cafeína em crianças",
+              "url": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/the-effects-of-caffeine-on-kids-a-parents-guide.aspx"
+            },
+            {
+              "organization": "Burnham e colaboradores, Journal of Human Lactation",
+              "title": "Consumo de café em menores de dois anos em Boston",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25678326/"
+            },
+            {
+              "organization": "Centro Nacional de Informações Toxicológicas da Capital dos Estados Unidos",
+              "title": "Fontes de cafeína, sintomas de superdosagem e orientações toxicológicas",
+              "url": "https://www.poison.org/articles/caffeine"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5961.webp",
+    "heroAlt": {
+      "en": "A small water cup with two handles sits on a breakfast table, with a mug of coffee on a higher counter.",
+      "es": "Una taza de agua con dos asas en la mesa del desayuno y una taza de café sobre una encimera más alta.",
+      "fr": "Un gobelet d’eau à deux anses est posé sur la table du petit déjeuner, le café sur un plan de travail plus haut.",
+      "pt": "Um copo de água com duas alças na mesa do café da manhã e uma caneca de café na bancada mais alta.",
+      "tr": "Kahvaltı masasında iki kulplu bir su bardağı, daha yüksek mutfak tezgâhında ise bir fincan kahve duruyor.",
+      "fa": "یک لیوان آب دو دسته روی میز صبحانه قرار دارد و فنجانی قهوه روی پیشخوان بلندتر دیده می‌شود.",
+      "ar": "كوب ماء صغير بمقبضين على طاولة الفطور، وفنجان قهوة على سطح المطبخ الأعلى."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "When a toddler wants your coffee",
+      "description": "Learn what to offer a toddler who wants coffee, where caffeine can hide, and what to do if a child drinks from your cup or takes a concentrated product."
+    },
+    "fa": {
+      "title": "وقتی کودک نوپا از شما قهوه می‌خواهد",
+      "description": "بخوانید به کودک نوپایی که قهوه می‌خواهد چه بدهید، چه محصولاتی کافئین دارند و اگر کودک از فنجان شما نوشید یا کافئین غلیظ خورد چه کنید."
+    },
+    "ar": {
+      "title": "حين يريد طفلك الصغير أن يشرب من قهوتك",
+      "description": "ما الذي يمكنك تقديمه بدل القهوة لطفلك، وأين قد يوجد الكافيين، وماذا تفعلين إذا شرب من فنجانك أو ابتلع منتجًا يحتوي على كافيين مركز؟"
+    },
+    "fr": {
+      "title": "Quand un tout-petit veut goûter votre café",
+      "description": "Découvrez quoi proposer à un tout-petit qui réclame du café, où se cache la caféine et que faire s’il boit dans votre tasse ou avale un produit concentré."
+    },
+    "tr": {
+      "title": "Küçük çocuğunuz kahvenizden içmek istediğinde",
+      "description": "Kahve isteyen çocuğunuza ne sunabileceğinizi, hangi ürünlerde kafein bulunduğunu ve fincanınızdan içerse ya da yoğun kafein alırsa ne yapacağınızı öğrenin."
+    },
+    "es": {
+      "title": "Cuando tu hijo pequeño quiere probar tu café",
+      "description": "Descubre qué ofrecerle si quiere café, qué productos pueden contener cafeína y qué hacer si bebe de tu taza o toma un producto concentrado."
+    },
+    "pt": {
+      "title": "Quando a criança pequena quer provar o seu café",
+      "description": "Veja o que oferecer no lugar do café, quais produtos podem conter cafeína e como agir se a criança beber da sua caneca ou ingerir um produto concentrado."
+    }
+  }
+}

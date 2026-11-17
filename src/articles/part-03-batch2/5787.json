@@ -1,0 +1,646 @@
+{
+  "sourceId": "5787",
+  "article": {
+    "slug": "food-poisoning-in-pregnancy-after-a-meal-or-recall",
+    "category": "pregnancy",
+    "i18n": {
+      "en": {
+        "title": "Food poisoning in pregnancy after a meal or food recall",
+        "description": "Know what to do after a food recall in pregnancy, which symptoms need a call today, and what to tell your maternity team if you cannot keep fluids down.",
+        "intro": "A recall notice names a food you ate last week. Check the brand, lot and dates, then ask a different question: do you feel well, or do you now have fever, aches, vomiting or diarrhoea? Tell the maternity team about both the food and the symptoms.",
+        "sections": [
+          {
+            "heading": "If a recalled food has already been eaten",
+            "paragraphs": [
+              "Stop eating the product and follow the recall instructions. Keep a photo of its label. For an otherwise well pregnant person who ate a food recalled for Listeria, routine tests and preventive antibiotics are generally not advised. Follow specific advice from your maternity team or public health service. If you develop symptoms within two months of that exposure, tell the clinician about it.",
+              "Listeria can cause fever, muscle aches and tiredness in pregnancy even without severe stomach symptoms. Contact maternity care promptly if you develop fever or flu-like symptoms after a possible exposure. Other foodborne infections commonly cause vomiting, diarrhoea and cramps. Symptoms can start hours or days after a meal; the last food eaten is not necessarily the source."
+            ]
+          },
+          {
+            "heading": "If you are ill now",
+            "paragraphs": [
+              "Take small, frequent sips of fluid if you can. Ask about oral rehydration solution. Contact the maternity team promptly for fever, bloody diarrhoea, vomiting that prevents drinking, very little urine, dizziness or worsening pain. Contact maternity triage immediately for reduced or changed usual fetal movements, vaginal bleeding or leaking fluid. Call emergency services for collapse, confusion or severe breathing difficulty.",
+              "Tell the clinician when the illness began, what you ate, whether anyone else is ill, your temperature and whether you can drink and urinate. They will decide whether you need a test, fluids or antibiotics. Do not start leftover antibiotics or an antidiarrhoeal medicine without pregnancy-specific advice."
+            ]
+          },
+          {
+            "heading": "What the risk means for this pregnancy",
+            "paragraphs": [
+              "Foodborne illnesses differ. Dehydration can need treatment, and some infections can affect the pregnancy or newborn. In a French study of confirmed listeriosis, 26 of 107 maternal–newborn cases involved fetal loss. That figure concerns diagnosed infections, not everyone who ate recalled food. It cannot be used to estimate the chance that a particular meal harmed a pregnancy.",
+              "For future meals, wash hands and produce, keep raw meat separate, cook food thoroughly and refrigerate perishables promptly. Choose pasteurized milk and heat deli meats until steaming hot. Follow specific recalls even when a product looks and smells normal."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Check the exact food and lot against the recall.",
+          "Contact maternity care promptly if illness develops, and mention any known exposure.",
+          "Use safe food handling and ask before taking medicine."
+        ],
+        "faq": [
+          {
+            "q": "What complications are possible?",
+            "a": "Fluid loss can cause dehydration. Some infections, particularly invasive listeriosis, can cause pregnancy loss, preterm birth or severe newborn infection. Exposure alone does not establish infection."
+          },
+          {
+            "q": "How can I prevent another episode?",
+            "a": "Wash hands and produce, separate raw and cooked food, cook thoroughly and chill promptly. Use pasteurized dairy and follow recall instructions."
+          },
+          {
+            "q": "Do I need a specialist?",
+            "a": "Start with your maternity team or another clinician. Fever, blood in stool, trouble retaining fluids or dehydration needs prompt advice. If you feel well after a Listeria recall, routine testing is generally unnecessary."
+          },
+          {
+            "q": "Which symptoms should I report?",
+            "a": "Report fever, muscle aches, diarrhoea, cramps, nausea or vomiting, their timing and any known recalled product. Tell maternity triage immediately about a change in fetal movements, bleeding or leaking fluid."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 17, 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Tell the care team what you ate and when.",
+            "Track fluid intake, urination and temperature while seeking advice.",
+            "Follow local recall instructions and return for care if symptoms develop."
+          ],
+          "bemama": "BeMama suggests saving a photo of the label and noting when you ate the food so the maternity team can compare it with the recall.",
+          "safety": "Contact maternity care urgently for fever after a possible Listeria exposure, bloody diarrhoea or inability to keep liquids down. Call maternity triage immediately for reduced movements, bleeding or leaking fluid. Collapse, confusion or severe breathing difficulty requires emergency help.",
+          "sources": [
+            {
+              "organization": "US Centers for Disease Control and Prevention",
+              "title": "Care after exposure to a recalled food containing Listeria",
+              "url": "https://www.cdc.gov/listeria/hcp/clinical-care/"
+            },
+            {
+              "organization": "US Centers for Disease Control and Prevention",
+              "title": "Food poisoning symptoms and when to seek help",
+              "url": "https://www.cdc.gov/food-safety/signs-symptoms/"
+            },
+            {
+              "organization": "US Centers for Disease Control and Prevention",
+              "title": "Safer food choices during pregnancy",
+              "url": "https://www.cdc.gov/food-safety/foods/pregnant-women.html"
+            },
+            {
+              "organization": "Charlier and colleagues, The Lancet Infectious Diseases",
+              "title": "Maternal and neonatal cases in the MONALISA prospective cohort",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/28139432/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "مسمومیت غذایی در بارداری پس از خوردن یک غذا یا اعلام فراخوان",
+        "description": "اگر در بارداری غذایی خورده‌اید که بعداً فراخوان شده است، بدانید چه علائمی را همان روز گزارش دهید و چه زمانی فوراً با واحد ارزیابی بارداری تماس بگیرید.",
+        "intro": "در اطلاعیه‌ای نام غذایی را می‌بینید که هفته پیش خورده‌اید. نام تجاری، شماره سری ساخت و تاریخ‌ها را بررسی کنید. حالا چه حالی دارید؟ تب، بدن‌درد، استفراغ یا اسهال دارید یا حالتان خوب است؟ هم درباره غذا و هم درباره نشانه‌ها با تیم مراقبت بارداری صحبت کنید.",
+        "sections": [
+          {
+            "heading": "اگر از محصول فراخوان‌شده خورده‌اید",
+            "paragraphs": [
+              "دیگر از آن محصول نخورید و دستور اطلاعیه را دنبال کنید. از برچسبش عکس بگیرید. اگر در بارداری از محصولی خورده‌اید که به دلیل احتمال آلودگی به لیستریا فراخوان شده است و حالتان خوب است، معمولاً آزمایش روتین یا آنتی‌بیوتیک پیشگیرانه توصیه نمی‌شود. دستور اختصاصی تیم درمان یا مرکز بهداشت را دنبال کنید. اگر تا دو ماه پس از مصرف علائمی پیدا کردید، هنگام مراجعه از آن محصول نام ببرید.",
+              "عفونت لیستریا در بارداری حتی بدون ناراحتی شدید گوارشی می‌تواند تب، درد عضلانی و خستگی ایجاد کند. اگر پس از تماس احتمالی تب یا علائم شبیه آنفلوانزا پیدا کردید، بدون تأخیر با تیم مراقبت بارداری تماس بگیرید. عفونت‌های غذایی دیگر اغلب با استفراغ، اسهال و دل‌پیچه همراه‌اند. علائم ممکن است چند ساعت یا چند روز بعد از غذا شروع شوند. آخرین غذایی که خورده‌اید لزوماً علت بیماری نیست."
+            ]
+          },
+          {
+            "heading": "اگر همین حالا بیمارید",
+            "paragraphs": [
+              "اگر می‌توانید، مایعات را در فواصل کوتاه و جرعه‌جرعه بنوشید. درباره محلول خوراکی جبران آب و املاح سؤال کنید. برای تب، اسهال خونی، استفراغی که مانع نوشیدن می‌شود، کاهش شدید ادرار، سرگیجه یا دردی که بدتر می‌شود، سریع با تیم مراقبت بارداری تماس بگیرید. در صورت کاهش یا تغییر حرکات معمول جنین، خونریزی واژینال یا خروج مایع از واژن، فوراً با واحد اورژانس مامایی تماس بگیرید. در صورت از حال رفتن، گیجی یا دشواری شدید تنفس، اورژانس را خبر کنید.",
+              "بگویید بیماری چه زمانی شروع شد، چه خوردید، آیا فرد دیگری هم بیمار است، دمای بدنتان چقدر است و آیا می‌توانید مایعات بنوشید و ادرار کنید. کادر درمان درباره نیاز به آزمایش، مایع‌درمانی یا آنتی‌بیوتیک تصمیم می‌گیرد. بدون گرفتن نظر درمانی متناسب با بارداری، آنتی‌بیوتیک باقی‌مانده یا داروی ضداسهال مصرف نکنید."
+            ]
+          },
+          {
+            "heading": "این خطر برای بارداری من چه معنایی دارد؟",
+            "paragraphs": [
+              "بیماری‌های ناشی از غذا یکسان نیستند. کم‌آبی گاهی به درمان نیاز دارد و برخی عفونت‌ها می‌توانند بر بارداری یا نوزاد اثر بگذارند. در یک مطالعه فرانسوی روی موارد تأییدشده لیستریوز، از ۱۰۷ مورد مربوط به مادر و نوزاد، ۲۶ مورد با از دست رفتن جنین همراه بود. این آمار به عفونت تشخیص‌داده‌شده مربوط است و همه افرادی را که غذای فراخوان‌شده خورده‌اند در بر نمی‌گیرد. از آن نمی‌توان احتمال آسیب یک وعده خاص به بارداری را به دست آورد.",
+              "برای وعده‌های بعد، دست‌ها، میوه‌ها و سبزی‌ها را بشویید. گوشت خام را جدا نگه دارید، غذا را کامل بپزید و مواد فسادپذیر را سریع در یخچال بگذارید. شیر پاستوریزه انتخاب کنید و فرآورده‌های گوشتی ورقه‌شده و آماده مصرف را تا جایی گرم کنید که از آن‌ها بخار بلند شود. فراخوان محصول را حتی اگر بو و ظاهرش طبیعی باشد جدی بگیرید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "نام دقیق محصول و شماره سری ساخت را با اطلاعیه مطابقت دهید.",
+          "اگر بیمار شدید، سریع با تیم مراقبت بارداری تماس بگیرید و تماس احتمالی با محصول را بگویید.",
+          "اصول ایمنی غذا را رعایت کنید و پیش از مصرف دارو مشورت کنید."
+        ],
+        "faq": [
+          {
+            "q": "چه عوارضی ممکن است پیش بیاید؟",
+            "a": "از دست دادن مایعات می‌تواند بدن را کم‌آب کند. برخی عفونت‌ها، به‌ویژه لیستریوز مهاجم، می‌توانند به از دست رفتن بارداری، زایمان زودرس یا عفونت شدید نوزاد بینجامند. خوردن محصول به‌تنهایی نشانه ابتلا نیست."
+          },
+          {
+            "q": "چطور از تکرار آن جلوگیری کنم؟",
+            "a": "دست‌ها و میوه و سبزی را بشویید. غذای خام و پخته را جدا نگه دارید، غذا را کامل بپزید و سریع در یخچال بگذارید. لبنیات پاستوریزه بخرید و دستور فراخوان‌ها را دنبال کنید."
+          },
+          {
+            "q": "آیا باید به متخصص مراجعه کنم؟",
+            "a": "ابتدا با تیم مراقبت بارداری یا یک پزشک تماس بگیرید. تب، خون در مدفوع، ناتوانی در نگه داشتن مایعات یا علائم کم‌آبی به مشورت سریع نیاز دارد. اگر پس از خوردن محصول فراخوان‌شده به علت لیستریا حالتان خوب است، معمولاً آزمایش روتین لازم نیست."
+          },
+          {
+            "q": "چه علائمی را گزارش کنم؟",
+            "a": "تب، درد عضلانی، اسهال، دل‌پیچه، تهوع یا استفراغ و زمان شروع آن‌ها را بگویید و محصول فراخوان‌شده‌ای را که خوردید نام ببرید. هر تغییر در حرکات جنین، خونریزی یا خروج مایع از واژن را فوراً به واحد اورژانس مامایی گزارش دهید."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۷ نوامبر ۲۰۲۶ بررسی شد",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "بگویید چه غذایی را در چه زمانی خورده‌اید.",
+            "هنگام درخواست راهنمایی، میزان نوشیدن مایعات، دفع ادرار و دمای بدنتان را پیگیری کنید.",
+            "دستور فراخوان محلی را دنبال کنید و اگر علائمی ظاهر شد دوباره مراجعه کنید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند از برچسب محصول عکس بگیرید و زمان مصرف آن را یادداشت کنید تا تیم مراقبت بارداری بتواند اطلاعات را با اطلاعیه تطبیق دهد.",
+          "safety": "برای تب پس از تماس احتمالی با لیستریا، اسهال خونی یا ناتوانی در نگه داشتن مایعات سریع با تیم مراقبت بارداری تماس بگیرید. کاهش حرکات جنین، خونریزی یا خروج مایع از واژن را فوراً به اورژانس مامایی اطلاع دهید. از حال رفتن، گیجی یا دشواری شدید تنفس نیاز به کمک اورژانسی دارد.",
+          "sources": [
+            {
+              "organization": "مراکز کنترل و پیشگیری از بیماری‌های ایالات متحده",
+              "title": "مراقبت پس از مصرف غذای فراخوان‌شده به علت لیستریا",
+              "url": "https://www.cdc.gov/listeria/hcp/clinical-care/"
+            },
+            {
+              "organization": "مراکز کنترل و پیشگیری از بیماری‌های ایالات متحده",
+              "title": "علائم مسمومیت غذایی و زمان درخواست کمک",
+              "url": "https://www.cdc.gov/food-safety/signs-symptoms/"
+            },
+            {
+              "organization": "مراکز کنترل و پیشگیری از بیماری‌های ایالات متحده",
+              "title": "انتخاب‌های غذایی ایمن‌تر در بارداری",
+              "url": "https://www.cdc.gov/food-safety/foods/pregnant-women.html"
+            },
+            {
+              "organization": "شارلیه و همکاران، لنست اینفکشس دیزیز",
+              "title": "موارد مربوط به مادران و نوزادان در مطالعه آینده‌نگر مونالیزا",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/28139432/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "التسمم الغذائي في الحمل بعد وجبة أو إعلان سحب منتج",
+        "description": "ماذا تفعلين إذا أكلت طعاماً سُحب من الأسواق أثناء الحمل؟ تعرّفي إلى الأعراض التي تستدعي الاتصال اليوم ومتى ينبغي الاتصال فوراً بطوارئ الولادة.",
+        "intro": "يشير إعلان سحب منتج إلى طعام أكلت منه الأسبوع الماضي. تحققي من العلامة التجارية ورقم التشغيلة والتواريخ. هل تشعرين بأنك بخير الآن أم ظهرت حمى أو آلام عضلية أو قيء أو إسهال؟ أخبري فريق متابعة الحمل عن الطعام وعن الأعراض معاً.",
+        "sections": [
+          {
+            "heading": "إذا أكلت بالفعل من الطعام المسحوب",
+            "paragraphs": [
+              "توقفي عن تناول المنتج واتبعي تعليمات السحب. احتفظي بصورة لملصقه. إذا تناولت أثناء الحمل طعاماً سُحب بسبب الليستيريا وكنت تشعرين بأنك بخير، فلا يُنصح عادة بفحوص روتينية أو مضادات حيوية وقائية. اتبعي التعليمات الخاصة التي يقدمها فريق متابعة الحمل أو جهة الصحة العامة. إذا ظهرت أعراض خلال الشهرين التاليين لتناول المنتج، أخبري الطبيب بذلك.",
+              "قد تسبب عدوى الليستيريا أثناء الحمل حمى وألماً في العضلات وتعباً حتى دون أعراض هضمية شديدة. اتصلي سريعاً بفريق متابعة الحمل إذا أصبت بالحمى أو بأعراض شبيهة بالإنفلونزا بعد تعرض محتمل. وتُسبب عدوى غذائية أخرى القيء والإسهال والمغص غالباً. قد تبدأ الأعراض بعد ساعات أو أيام من تناول الطعام، وقد لا يكون آخر طعام أكلته هو السبب."
+            ]
+          },
+          {
+            "heading": "إذا كنت مريضة الآن",
+            "paragraphs": [
+              "تناولي رشفات صغيرة متكررة من السوائل إن استطعت. اسألي عن محلول الإماهة الفموي. تواصلي سريعاً مع فريق متابعة الحمل للحمى أو الإسهال الدموي أو القيء الذي يمنعك من الشرب أو قلة البول الشديدة أو الدوار أو الألم المتزايد. اتصلي فوراً بطوارئ الولادة إذا قلت حركات الجنين المعتادة أو تغيرت، أو حدث نزف مهبلي أو تسرب سائل من المهبل. اطلبي الإسعاف إذا أصبت بانهيار أو تشوش في الوعي أو صعوبة شديدة في التنفس.",
+              "اذكري متى بدأ المرض، وماذا أكلت، وهل مرض غيرك، وكم بلغت حرارتك، وهل تستطيعين الشرب والتبول. يقرر الطبيب إن كنت تحتاجين إلى فحص أو تعويض السوائل أو مضاد حيوي. لا تتناولي مضاداً حيوياً متبقياً أو دواءً مضاداً للإسهال دون استشارة تراعي الحمل."
+            ]
+          },
+          {
+            "heading": "ماذا يعني الخطر بالنسبة إلى حملك؟",
+            "paragraphs": [
+              "تختلف الأمراض المنقولة بالغذاء. قد يتطلب الجفاف علاجاً، ويمكن أن تؤثر بعض أنواع العدوى في الحمل أو المولود. في دراسة فرنسية لحالات مؤكدة من داء الليستريات، حدث فقد للجنين في ٢٦ من أصل ١٠٧ حالات شملت الأمهات والمواليد. هذه النسبة تخص الإصابات المشخّصة ولا تشمل كل من تناولت طعاماً مسحوباً. ولا يمكن استخدامها لتقدير احتمال ضرر وجبة بعينها على الحمل.",
+              "في الوجبات التالية اغسلي يديك والخضار والفواكه، وافصلي اللحوم النيئة واطهي الطعام جيداً وبرّدي الأطعمة سريعة التلف دون تأخير. اختاري الحليب المبستر وسخّني شرائح اللحوم الجاهزة للأكل حتى يتصاعد منها البخار. اتبعي تعليمات السحب حتى لو بدا المنتج طبيعياً وكانت رائحته عادية."
+            ]
+          }
+        ],
+        "takeaways": [
+          "قارني اسم الطعام ورقم التشغيلة بما ورد في إعلان السحب.",
+          "إذا مرضت فاتصلي سريعاً بفريق متابعة الحمل واذكري أي تعرض معروف.",
+          "اتبعي وسائل تحضير الطعام الآمن واسألي قبل تناول أي دواء."
+        ],
+        "faq": [
+          {
+            "q": "ما المضاعفات المحتملة؟",
+            "a": "يمكن أن يؤدي فقد السوائل إلى الجفاف. وقد تتسبب بعض أنواع العدوى، خصوصاً داء الليستريات الغازي، في فقد الحمل أو الولادة المبكرة أو عدوى شديدة لدى المولود. مجرد التعرض لا يؤكد الإصابة."
+          },
+          {
+            "q": "كيف أمنع تكرار الحالة؟",
+            "a": "اغسلي يديك والخضار والفواكه، وافصلي النيئ عن المطهو، واطهي الطعام جيداً وبرّديه سريعاً. استخدمي منتجات الألبان المبسترة واتبعي تعليمات السحب."
+          },
+          {
+            "q": "هل أحتاج إلى اختصاصي؟",
+            "a": "ابدئي بفريق متابعة الحمل أو أحد مقدمي الرعاية. تتطلب الحمى أو وجود دم في البراز أو صعوبة الاحتفاظ بالسوائل أو الجفاف استشارة سريعة. إذا كنت بخير بعد تناول طعام سُحب بسبب الليستيريا، فلا حاجة عادة إلى فحوص روتينية."
+          },
+          {
+            "q": "ما الأعراض التي ينبغي الإبلاغ عنها؟",
+            "a": "اذكري الحمى والآلام العضلية والإسهال والمغص والغثيان أو القيء ووقت ظهورها وأي منتج مسحوب تناولته. أخبري طوارئ الولادة فوراً بأي تغير في حركة الجنين أو نزف أو تسرب سائل من المهبل."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٧ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "أخبري الفريق ماذا أكلت ومتى.",
+            "أثناء طلب المشورة تابعي ما تشربينه وكمية البول ودرجة الحرارة.",
+            "اتبعي تعليمات السحب المحلية وراجعي الفريق مجدداً إذا ظهرت أعراض."
+          ],
+          "bemama": "تقترح بي ماما الاحتفاظ بصورة الملصق وكتابة موعد تناول الطعام حتى يتمكن فريق متابعة الحمل من مقارنة المعلومات بإعلان السحب.",
+          "safety": "تواصلي على وجه السرعة مع فريق متابعة الحمل للحمى بعد تعرض محتمل لليستيريا، أو الإسهال الدموي، أو عدم القدرة على الاحتفاظ بالسوائل. اتصلي فوراً بطوارئ الولادة إذا قلت حركات الجنين أو حدث نزف أو تسرب سائل من المهبل. يحتاج الانهيار أو تشوش الوعي أو صعوبة التنفس الشديدة إلى إسعاف عاجل.",
+          "sources": [
+            {
+              "organization": "المراكز الأمريكية لمكافحة الأمراض والوقاية منها",
+              "title": "الرعاية بعد تناول غذاء سُحب بسبب الليستيريا",
+              "url": "https://www.cdc.gov/listeria/hcp/clinical-care/"
+            },
+            {
+              "organization": "المراكز الأمريكية لمكافحة الأمراض والوقاية منها",
+              "title": "أعراض التسمم الغذائي ومتى ينبغي طلب المساعدة",
+              "url": "https://www.cdc.gov/food-safety/signs-symptoms/"
+            },
+            {
+              "organization": "المراكز الأمريكية لمكافحة الأمراض والوقاية منها",
+              "title": "اختيارات غذائية أكثر أماناً خلال الحمل",
+              "url": "https://www.cdc.gov/food-safety/foods/pregnant-women.html"
+            },
+            {
+              "organization": "شارلييه وزملاؤها، ذا لانسيت للأمراض المعدية",
+              "title": "حالات الأمهات والمواليد في دراسة موناليزا الأترابية الاستباقية",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/28139432/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Grossesse et intoxication alimentaire après un repas ou un rappel",
+        "description": "Que faire si vous avez mangé un aliment rappelé pendant la grossesse, quels symptômes signaler aujourd’hui et quand joindre immédiatement la maternité ?",
+        "intro": "Un avis de rappel concerne un aliment que vous avez mangé la semaine dernière. Vérifiez la marque, le lot et les dates. Vous sentez-vous bien ou avez-vous maintenant de la fièvre, des courbatures, des vomissements ou de la diarrhée ? Signalez à la maternité l’aliment consommé et les symptômes.",
+        "sections": [
+          {
+            "heading": "Si vous avez déjà mangé l’aliment rappelé",
+            "paragraphs": [
+              "N’en mangez plus et suivez les consignes du rappel. Gardez une photo de l’étiquette. Si vous êtes enceinte, que vous avez consommé un produit rappelé pour Listeria et que vous vous sentez bien, on ne recommande généralement ni dépistage systématique ni antibiotiques préventifs. Suivez les consignes particulières de votre maternité ou de l’autorité sanitaire. Si des symptômes apparaissent dans les deux mois suivant l’exposition, signalez-la lors de la consultation.",
+              "Pendant la grossesse, la listériose peut entraîner fièvre, courbatures et fatigue même sans troubles digestifs importants. Contactez rapidement la maternité si vous avez de la fièvre ou des symptômes grippaux après une exposition possible. D’autres infections alimentaires provoquent souvent vomissements, diarrhée et crampes. Les signes peuvent apparaître des heures ou des jours après un repas. Le dernier aliment consommé n’est pas forcément en cause."
+            ]
+          },
+          {
+            "heading": "Si vous êtes malade en ce moment",
+            "paragraphs": [
+              "Si vous le pouvez, buvez souvent par petites gorgées. Demandez conseil sur les solutions de réhydratation orale. Contactez rapidement la maternité en cas de fièvre, de diarrhée sanglante, de vomissements empêchant de boire, d’urines très rares, de vertiges ou de douleur croissante. Appelez immédiatement les urgences obstétricales si les mouvements habituels du bébé diminuent ou changent, en cas de saignement vaginal ou de perte de liquide par le vagin. En cas de malaise avec effondrement, de confusion ou de difficulté majeure à respirer, appelez les secours.",
+              "Précisez l’heure ou le jour du début des symptômes, ce que vous avez mangé, si d’autres personnes sont malades, votre température et si vous arrivez à boire et à uriner. L’équipe déterminera si vous avez besoin d’analyses, d’une réhydratation ou d’antibiotiques. Ne prenez ni reste d’antibiotiques ni médicament contre la diarrhée sans avis adapté à votre grossesse."
+            ]
+          },
+          {
+            "heading": "Ce que le risque signifie pour votre grossesse",
+            "paragraphs": [
+              "Les maladies d’origine alimentaire sont diverses. La déshydratation peut nécessiter un traitement, et certaines infections peuvent toucher la grossesse ou le nouveau-né. Dans une étude française de listérioses confirmées, 26 des 107 cas maternels et néonataux se sont accompagnés d’une perte fœtale. Ce chiffre concerne des infections diagnostiquées. Il ne représente pas toutes les personnes ayant mangé un produit rappelé et ne permet pas de savoir si un repas précis a nui à la grossesse.",
+              "Pour les prochains repas, lavez-vous les mains, lavez les fruits et légumes, séparez les viandes crues, faites bien cuire les aliments et réfrigérez vite les denrées périssables. Choisissez du lait pasteurisé et réchauffez les charcuteries tranchées jusqu’à ce qu’elles dégagent de la vapeur. Respectez le rappel même si l’aspect et l’odeur sont normaux."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Vérifiez le produit et le lot précis indiqués dans l’avis de rappel.",
+          "Si vous tombez malade, contactez rapidement la maternité en mentionnant toute exposition connue.",
+          "Respectez les précautions de préparation des aliments et demandez conseil avant de prendre un médicament."
+        ],
+        "faq": [
+          {
+            "q": "Quelles sont les complications possibles ?",
+            "a": "La perte de liquide peut entraîner une déshydratation. Certaines infections, en particulier la listériose invasive, peuvent provoquer une perte de grossesse, une naissance prématurée ou une infection grave du nouveau-né. L’exposition seule ne prouve pas une infection."
+          },
+          {
+            "q": "Comment prévenir un autre épisode ?",
+            "a": "Lavez-vous les mains, lavez les fruits et légumes, séparez le cru du cuit, faites bien cuire et réfrigérez rapidement les aliments. Choisissez les produits laitiers pasteurisés et suivez les consignes de rappel."
+          },
+          {
+            "q": "Faut-il consulter un spécialiste ?",
+            "a": "Contactez d’abord la maternité ou un professionnel de santé. Fièvre, sang dans les selles, difficulté à garder les liquides ou déshydratation justifient un avis rapide. Si vous vous sentez bien après avoir mangé un produit rappelé pour Listeria, un dépistage systématique est rarement nécessaire."
+          },
+          {
+            "q": "Quels symptômes dois-je signaler ?",
+            "a": "Signalez fièvre, courbatures, diarrhée, crampes, nausées ou vomissements, leur date de début et tout produit rappelé consommé. Appelez immédiatement les urgences obstétricales pour un changement des mouvements du bébé, des saignements ou une perte de liquide par le vagin."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 17 novembre 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Indiquez à l’équipe ce que vous avez mangé et à quel moment.",
+            "En demandant conseil, surveillez ce que vous buvez, vos urines et votre température.",
+            "Suivez les consignes locales de rappel et consultez à nouveau si des symptômes apparaissent."
+          ],
+          "bemama": "BeMama suggère de photographier l’étiquette et de noter quand vous avez mangé le produit pour que la maternité puisse comparer ces renseignements avec l’avis de rappel.",
+          "safety": "Contactez la maternité en urgence pour une fièvre après une exposition possible à Listeria, une diarrhée sanglante ou une impossibilité de garder les liquides. Appelez immédiatement les urgences obstétricales si le bébé bouge moins, si vous saignez ou perdez du liquide par le vagin. Un malaise avec effondrement, une confusion ou une difficulté majeure à respirer nécessite l’intervention des secours.",
+          "sources": [
+            {
+              "organization": "Centres américains de contrôle et de prévention des maladies",
+              "title": "Prise en charge après consommation d’un aliment rappelé pour Listeria",
+              "url": "https://www.cdc.gov/listeria/hcp/clinical-care/"
+            },
+            {
+              "organization": "Centres américains de contrôle et de prévention des maladies",
+              "title": "Intoxication alimentaire, symptômes et motifs de consultation",
+              "url": "https://www.cdc.gov/food-safety/signs-symptoms/"
+            },
+            {
+              "organization": "Centres américains de contrôle et de prévention des maladies",
+              "title": "Choix alimentaires plus sûrs pendant la grossesse",
+              "url": "https://www.cdc.gov/food-safety/foods/pregnant-women.html"
+            },
+            {
+              "organization": "Charlier et collègues, The Lancet Infectious Diseases",
+              "title": "Cas maternels et néonataux de la cohorte prospective MONALISA",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/28139432/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Gebelikte bir öğün veya gıda geri çağırması sonrası zehirlenme",
+        "description": "Gebelikte geri çağrılan bir ürünü yediyseniz hangi belirtileri bugün bildirmeniz gerektiğini ve ne zaman hemen doğum birimini arayacağınızı öğrenin.",
+        "intro": "Geçen hafta yediğiniz bir ürün için geri çağırma duyurusu yayımlandı. Markayı, parti numarasını ve tarihleri kontrol edin. Şimdi kendinizi nasıl hissediyorsunuz? Ateş, kas ağrısı, kusma ya da ishal var mı? Gebeliğinizi izleyen ekibe hem üründen hem de belirtilerinizden söz edin.",
+        "sections": [
+          {
+            "heading": "Geri çağrılan gıdayı zaten yediyseniz",
+            "paragraphs": [
+              "Ürünü tüketmeyi bırakın ve duyurudaki talimatları izleyin. Etiketinin fotoğrafını saklayın. Gebelikte Listeria nedeniyle geri çağrılan bir ürünü yediyseniz ve kendinizi iyi hissediyorsanız genellikle rutin test ya da koruyucu antibiyotik önerilmez. Doğum ekibinin veya halk sağlığı biriminin size özel önerilerini izleyin. Maruziyetten sonraki iki ay içinde belirti gelişirse ürünü yediğinizi hekime bildirin.",
+              "Listeria, gebelikte belirgin mide bağırsak şikâyeti olmasa bile ateş, kas ağrısı ve yorgunluk yapabilir. Olası temastan sonra ateş veya grip benzeri belirtiler gelişirse gecikmeden doğum ekibiyle görüşün. Diğer gıda kaynaklı enfeksiyonlarda kusma, ishal ve karın krampları sık görülür. Belirtiler yemekten saatler veya günler sonra başlayabilir. Kaynak her zaman en son yediğiniz gıda değildir."
+            ]
+          },
+          {
+            "heading": "Şu anda hastaysanız",
+            "paragraphs": [
+              "İçebiliyorsanız sık sık küçük yudumlarla sıvı alın. Ağızdan sıvı ve tuz desteği için eczanede satılan rehidrasyon çözeltisini sorun. Ateş, kanlı ishal, içmenizi engelleyen kusma, idrarın çok azalması, baş dönmesi veya artan ağrı için gecikmeden doğum ekibine başvurun. Bebeğinizin alışılmış hareketleri azalır ya da değişirse, vajinal kanama olursa veya su gelirse doğum acil birimini hemen arayın. Yığılıp kalma, bilinç bulanıklığı veya ağır solunum güçlüğünde acil yardım çağırın.",
+              "Hastalığın ne zaman başladığını, ne yediğinizi, başkalarının da hastalanıp hastalanmadığını, ateşinizi, sıvı içip idrar yapabildiğinizi bildirin. Sağlık uzmanı test, sıvı desteği veya antibiyotik gerekip gerekmediğine karar verir. Gebeliğinize uygun olup olmadığını sormadan evde kalan antibiyotiği ya da ishal ilacını kullanmayın."
+            ]
+          },
+          {
+            "heading": "Bu risk gebeliğiniz için ne anlama gelir?",
+            "paragraphs": [
+              "Gıdayla bulaşan hastalıklar birbirinden farklıdır. Sıvı kaybı tedavi gerektirebilir. Bazı enfeksiyonlar gebeliği ya da yenidoğanı etkileyebilir. Fransa’da doğrulanmış listeriyoz vakalarını inceleyen bir çalışmada, gebeyi ve bebeği ilgilendiren 107 vakanın 26’sında cenin kaybı yaşandı. Bu sayı tanı konmuş enfeksiyonlara aittir. Geri çağrılan gıdayı yiyen herkesi kapsamaz ve belli bir öğünün gebeliğe zarar verme olasılığını göstermez.",
+              "Sonraki öğünlerde ellerinizi, sebze ve meyveleri yıkayın, çiğ eti ayrı tutun, yiyecekleri iyice pişirin ve çabuk bozulanları gecikmeden buzdolabına koyun. Pastörize süt seçin; dilimlenmiş şarküteri etlerini dumanı tütecek kadar ısıtın. Kokusu ve görünüşü normal olsa da geri çağırma talimatına uyun."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Ürünün adı ve parti numarasını duyurudaki bilgilerle karşılaştırın.",
+          "Hastalanırsanız gecikmeden doğum ekibine ulaşın ve bilinen maruziyeti belirtin.",
+          "Gıda güvenliği kurallarına uyun ve ilaç almadan önce görüş alın."
+        ],
+        "faq": [
+          {
+            "q": "Hangi komplikasyonlar olabilir?",
+            "a": "Kusma ve ishal vücudun susuz kalmasına yol açabilir. Özellikle invaziv listeriyoz gibi bazı enfeksiyonlar gebelik kaybına, erken doğuma veya yenidoğanda ağır enfeksiyona neden olabilir. Bir ürünü tüketmiş olmak tek başına enfeksiyonu göstermez."
+          },
+          {
+            "q": "Tekrarını nasıl önleyebilirim?",
+            "a": "Elleri, meyve ve sebzeleri yıkayın. Çiğ ve pişmiş yiyecekleri ayrı tutun, iyice pişirin ve geciktirmeden soğutun. Pastörize süt ürünleri kullanın ve geri çağırma duyurularını izleyin."
+          },
+          {
+            "q": "Bir uzmana gitmem gerekir mi?",
+            "a": "Önce gebeliğinizi izleyen ekip veya başka bir sağlık uzmanıyla görüşün. Ateş, dışkıda kan, sıvı tutamama veya sıvı kaybı belirtileri gecikmeden danışmayı gerektirir. Listeria nedeniyle geri çağrılan bir ürünü yedikten sonra kendinizi iyi hissediyorsanız genellikle rutin test gerekmez."
+          },
+          {
+            "q": "Hangi belirtileri bildirmeliyim?",
+            "a": "Ateş, kas ağrısı, ishal, kramp, bulantı ve kusmayı, ne zaman başladıklarını ve tükettiğiniz geri çağrılan ürünü bildirin. Bebeğin hareketleri değişir, vajinal kanama olur ya da su gelirse doğum acil birimini hemen arayın."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 17 Kasım 2026 tarihinde incelendi",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Ekibe neyi ne zaman yediğinizi anlatın.",
+            "Görüş isterken sıvı alımınızı, idrarınızı ve ateşinizi takip edin.",
+            "Yerel geri çağırma talimatlarını izleyin ve belirtiler gelişirse yeniden başvurun."
+          ],
+          "bemama": "BeMama, doğum ekibinin geri çağırma duyurusuyla karşılaştırabilmesi için etiketin fotoğrafını çekmenizi ve ürünü ne zaman tükettiğinizi not etmenizi önerir.",
+          "safety": "Olası Listeria maruziyeti sonrası ateş, kanlı ishal veya sıvıları tutamama durumunda acilen doğum ekibine başvurun. Bebek hareketlerinde azalma, kanama veya su gelmesi için doğum acil birimini hemen arayın. Yığılıp kalma, bilinç bulanıklığı veya ağır solunum güçlüğünde acil yardım çağırın.",
+          "sources": [
+            {
+              "organization": "ABD Hastalık Kontrol ve Önleme Merkezleri",
+              "title": "Listeria nedeniyle geri çağrılan gıda tüketildikten sonra izlenecek yol",
+              "url": "https://www.cdc.gov/listeria/hcp/clinical-care/"
+            },
+            {
+              "organization": "ABD Hastalık Kontrol ve Önleme Merkezleri",
+              "title": "Gıda zehirlenmesinin belirtileri ve ne zaman yardım alınmalı?",
+              "url": "https://www.cdc.gov/food-safety/signs-symptoms/"
+            },
+            {
+              "organization": "ABD Hastalık Kontrol ve Önleme Merkezleri",
+              "title": "Gebelikte daha güvenli gıda seçimleri",
+              "url": "https://www.cdc.gov/food-safety/foods/pregnant-women.html"
+            },
+            {
+              "organization": "Charlier ve çalışma arkadaşları, The Lancet Infectious Diseases",
+              "title": "İleriye dönük MONALISA çalışmasında anne ve yenidoğan vakaları",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/28139432/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Intoxicación alimentaria en el embarazo tras una comida o una alerta",
+        "description": "Qué hacer si comiste un alimento retirado durante el embarazo, qué síntomas debes comunicar hoy y cuándo llamar de inmediato al equipo de maternidad.",
+        "intro": "Una alerta indica que se ha retirado un alimento que comiste la semana pasada. Revisa la marca, el lote y las fechas. ¿Te encuentras bien o ahora tienes fiebre, dolores musculares, vómitos o diarrea? Informa al equipo de maternidad tanto del alimento como de los síntomas.",
+        "sections": [
+          {
+            "heading": "Si ya comiste el alimento retirado",
+            "paragraphs": [
+              "Deja de consumirlo y sigue las instrucciones de la alerta. Guarda una foto de la etiqueta. Si estás embarazada, comiste un alimento retirado por Listeria y te encuentras bien, por lo general no se recomiendan pruebas rutinarias ni antibióticos preventivos. Sigue las indicaciones particulares del equipo de maternidad o de salud pública. Si aparecen síntomas en los dos meses siguientes, menciona la exposición al consultar.",
+              "En el embarazo, la listeriosis puede causar fiebre, dolores musculares y cansancio incluso sin molestias digestivas importantes. Si aparecen fiebre o síntomas gripales tras una posible exposición, contacta cuanto antes con maternidad. Otras infecciones alimentarias suelen provocar vómitos, diarrea y retortijones. Los síntomas pueden comenzar horas o días después de una comida. El último alimento que tomaste no siempre es el responsable."
+            ]
+          },
+          {
+            "heading": "Si tienes síntomas ahora",
+            "paragraphs": [
+              "Si puedes, bebe a sorbos pequeños y frecuentes. Pregunta por la solución de rehidratación oral. Contacta pronto con maternidad si tienes fiebre, diarrea con sangre, vómitos que te impiden beber, orinas muy poco, te mareas o el dolor empeora. Llama de inmediato a urgencias obstétricas si se reducen o cambian los movimientos habituales del bebé, si sangras por la vagina o si pierdes líquido vaginal. Ante un desvanecimiento, confusión o dificultad respiratoria intensa, llama a emergencias.",
+              "Explica cuándo empezó el malestar, qué comiste, si hay otras personas enfermas, tu temperatura y si puedes beber y orinar. El profesional valorará si necesitas pruebas, líquidos o antibióticos. No tomes antibióticos que te hayan sobrado ni un antidiarreico sin consultar si son adecuados para tu embarazo."
+            ]
+          },
+          {
+            "heading": "Qué significa el riesgo para tu embarazo",
+            "paragraphs": [
+              "Hay distintas enfermedades transmitidas por alimentos. La deshidratación puede requerir tratamiento y ciertas infecciones pueden afectar al embarazo o al recién nacido. En un estudio francés de listeriosis confirmada, hubo pérdida fetal en 26 de 107 casos maternos y neonatales. La cifra corresponde a infecciones diagnosticadas. No permite estimar el riesgo para cualquiera que haya comido un alimento retirado ni determinar si una comida concreta afectó al embarazo.",
+              "En adelante, lávate las manos, lava las frutas y verduras, separa las carnes crudas, cocina bien los alimentos y refrigera pronto los perecederos. Elige leche pasteurizada y calienta los fiambres hasta que desprendan vapor. Sigue las alertas aunque el aspecto y el olor sean normales."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Comprueba el producto y el lote exactos en el aviso de retirada.",
+          "Si aparecen síntomas, contacta pronto con maternidad y menciona cualquier exposición conocida.",
+          "Manipula los alimentos con higiene y consulta antes de tomar medicamentos."
+        ],
+        "faq": [
+          {
+            "q": "¿Qué complicaciones puede haber?",
+            "a": "La pérdida de líquidos puede causar deshidratación. Algunas infecciones, en particular la listeriosis invasiva, pueden ocasionar pérdida del embarazo, parto prematuro o una infección grave en el recién nacido. La exposición por sí sola no confirma infección."
+          },
+          {
+            "q": "¿Cómo puedo evitar otro episodio?",
+            "a": "Lávate las manos, lava frutas y verduras, separa alimentos crudos y cocinados, cocina bien y refrigera pronto. Usa lácteos pasteurizados y sigue las instrucciones de las alertas."
+          },
+          {
+            "q": "¿Necesito un especialista?",
+            "a": "Empieza por el equipo de maternidad u otro profesional sanitario. La fiebre, la sangre en las heces, la dificultad para retener líquidos o la deshidratación requieren una consulta pronta. Si te encuentras bien tras comer un producto retirado por Listeria, normalmente no necesitas pruebas rutinarias."
+          },
+          {
+            "q": "¿Qué síntomas debo comunicar?",
+            "a": "Indica si tienes fiebre, dolores musculares, diarrea, retortijones, náuseas o vómitos, cuándo comenzaron y si comiste un producto retirado. Llama de inmediato a urgencias obstétricas si cambian los movimientos del bebé, sangras o pierdes líquido vaginal."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 17 de noviembre de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Comunica qué comiste y cuándo.",
+            "Mientras pides consejo, anota cuánto bebes, si orinas y tu temperatura.",
+            "Sigue las instrucciones locales sobre la retirada y vuelve a consultar si aparecen síntomas."
+          ],
+          "bemama": "BeMama sugiere guardar una foto de la etiqueta y anotar cuándo comiste el alimento para que el equipo de maternidad pueda cotejar los datos con la alerta.",
+          "safety": "Contacta urgentemente con maternidad si tienes fiebre tras una posible exposición a Listeria, diarrea con sangre o vómitos que te impiden retener líquidos. Llama de inmediato a urgencias obstétricas si disminuyen los movimientos del bebé, sangras o pierdes líquido vaginal. Ante desvanecimiento, confusión o dificultad respiratoria intensa, llama a emergencias.",
+          "sources": [
+            {
+              "organization": "Centros para el Control y la Prevención de Enfermedades de Estados Unidos",
+              "title": "Atención tras consumir un alimento retirado por Listeria",
+              "url": "https://www.cdc.gov/listeria/hcp/clinical-care/"
+            },
+            {
+              "organization": "Centros para el Control y la Prevención de Enfermedades de Estados Unidos",
+              "title": "Síntomas de intoxicación alimentaria y cuándo consultar",
+              "url": "https://www.cdc.gov/food-safety/signs-symptoms/"
+            },
+            {
+              "organization": "Centros para el Control y la Prevención de Enfermedades de Estados Unidos",
+              "title": "Opciones alimentarias más seguras durante el embarazo",
+              "url": "https://www.cdc.gov/food-safety/foods/pregnant-women.html"
+            },
+            {
+              "organization": "Charlier y colaboradores, The Lancet Infectious Diseases",
+              "title": "Casos maternos y neonatales en la cohorte prospectiva MONALISA",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/28139432/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Intoxicação alimentar na gravidez após uma refeição ou um alerta",
+        "description": "Saiba o que fazer se comeu um alimento recolhido durante a gravidez, quais sintomas comunicar hoje e quando ligar imediatamente para a maternidade.",
+        "intro": "Um aviso de recolhimento cita um alimento que você comeu na semana passada. Confira a marca, o lote e as datas. Como você está agora? Há febre, dores no corpo, vômitos ou diarreia? Conte à equipe da maternidade tanto o que comeu quanto o que está sentindo.",
+        "sections": [
+          {
+            "heading": "Se já comeu o alimento recolhido",
+            "paragraphs": [
+              "Pare de consumir o produto e siga as instruções do aviso. Guarde uma foto do rótulo. Para uma gestante que comeu um alimento recolhido por Listeria e está se sentindo bem, em geral não se indicam exames de rotina nem antibióticos preventivos. Siga as instruções específicas da equipe da maternidade ou do serviço de saúde pública. Se surgirem sintomas nos dois meses após a exposição, mencione-a na consulta.",
+              "Na gravidez, a listeriose pode causar febre, dores musculares e cansaço mesmo sem sintomas digestivos intensos. Entre em contato rapidamente com a maternidade se tiver febre ou sintomas semelhantes aos da gripe após uma possível exposição. Outras infecções transmitidas por alimentos costumam causar vômitos, diarreia e cólicas. Os sintomas podem começar horas ou dias depois de uma refeição. O último alimento consumido nem sempre é o responsável."
+            ]
+          },
+          {
+            "heading": "Se já apresenta sintomas",
+            "paragraphs": [
+              "Se conseguir, beba pequenos goles com frequência. Pergunte sobre a solução de reidratação oral. Procure a maternidade prontamente se tiver febre, diarreia com sangue, vômitos que impedem a ingestão de líquidos, urinar muito pouco, sentir tontura ou se a dor piorar. Ligue imediatamente para a urgência obstétrica se os movimentos habituais do bebê diminuírem ou mudarem, se houver sangramento vaginal ou saída de líquido pela vagina. Em caso de desmaio, confusão ou dificuldade intensa para respirar, acione a emergência.",
+              "Informe quando começou o mal-estar, o que comeu, se outras pessoas adoeceram, sua temperatura e se consegue beber e urinar. O profissional avaliará se precisa de exames, líquidos ou antibióticos. Não use sobras de antibióticos nem remédios para diarreia sem orientação específica para a gravidez."
+            ]
+          },
+          {
+            "heading": "O que esse risco significa para sua gravidez",
+            "paragraphs": [
+              "As doenças transmitidas por alimentos são diferentes entre si. A desidratação pode precisar de tratamento, e algumas infecções podem afetar a gestação ou o recém-nascido. Em um estudo francês de listeriose confirmada, houve perda fetal em 26 dos 107 casos maternos e neonatais. Esse número descreve infecções diagnosticadas. Não representa todas as pessoas que consumiram o produto recolhido e não permite estimar se uma refeição específica prejudicou a gestação.",
+              "Nas próximas refeições, lave as mãos, frutas e hortaliças, separe carnes cruas, cozinhe bem os alimentos e refrigere logo os perecíveis. Escolha leite pasteurizado e aqueça os frios fatiados até soltarem vapor. Siga os avisos de recolhimento mesmo que a aparência e o cheiro pareçam normais."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Confira o produto e o lote exatos no aviso de recolhimento.",
+          "Se adoecer, procure rapidamente a maternidade e mencione qualquer exposição conhecida.",
+          "Prepare os alimentos com higiene e peça orientação antes de tomar remédios."
+        ],
+        "faq": [
+          {
+            "q": "Que complicações podem ocorrer?",
+            "a": "A perda de líquidos pode causar desidratação. Algumas infecções, sobretudo a listeriose invasiva, podem provocar perda gestacional, parto prematuro ou infecção grave no recém-nascido. Apenas ter consumido o alimento não confirma infecção."
+          },
+          {
+            "q": "Como evitar outro episódio?",
+            "a": "Lave as mãos, frutas e hortaliças. Separe alimentos crus e cozidos, cozinhe bem e refrigere logo. Use laticínios pasteurizados e siga as instruções de recolhimento."
+          },
+          {
+            "q": "Preciso de um especialista?",
+            "a": "Comece pela equipe da maternidade ou por um profissional de saúde. Febre, sangue nas fezes, dificuldade para reter líquidos ou desidratação pedem orientação rápida. Se você está bem após consumir um alimento recolhido por Listeria, em geral não precisa de exames de rotina."
+          },
+          {
+            "q": "Que sintomas devo comunicar?",
+            "a": "Informe febre, dores musculares, diarreia, cólicas, náuseas ou vômitos, quando começaram e se comeu um produto recolhido. Avise imediatamente a urgência obstétrica sobre mudanças nos movimentos do bebê, sangramento ou perda de líquido pela vagina."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 17 de novembro de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Conte à equipe o que comeu e quando.",
+            "Enquanto busca orientação, observe a ingestão de líquidos, a quantidade de urina e a temperatura.",
+            "Siga as instruções locais de recolhimento e volte ao serviço se surgirem sintomas."
+          ],
+          "bemama": "A BeMama sugere fotografar o rótulo e anotar quando consumiu o produto para que a equipe da maternidade possa comparar os dados com o aviso.",
+          "safety": "Procure a maternidade com urgência se houver febre após possível exposição a Listeria, diarreia com sangue ou incapacidade de reter líquidos. Ligue imediatamente para a urgência obstétrica se os movimentos diminuírem, houver sangramento ou perda vaginal de líquido. Desmaio, confusão ou dificuldade intensa para respirar exigem ajuda de emergência.",
+          "sources": [
+            {
+              "organization": "Centros de Controle e Prevenção de Doenças dos Estados Unidos",
+              "title": "Atendimento após consumir um alimento recolhido por Listeria",
+              "url": "https://www.cdc.gov/listeria/hcp/clinical-care/"
+            },
+            {
+              "organization": "Centros de Controle e Prevenção de Doenças dos Estados Unidos",
+              "title": "Sintomas de intoxicação alimentar e quando procurar ajuda",
+              "url": "https://www.cdc.gov/food-safety/signs-symptoms/"
+            },
+            {
+              "organization": "Centros de Controle e Prevenção de Doenças dos Estados Unidos",
+              "title": "Escolhas alimentares mais seguras durante a gravidez",
+              "url": "https://www.cdc.gov/food-safety/foods/pregnant-women.html"
+            },
+            {
+              "organization": "Charlier e colaboradores, The Lancet Infectious Diseases",
+              "title": "Casos maternos e neonatais na coorte prospectiva MONALISA",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/28139432/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5787.webp",
+    "heroAlt": {
+      "en": "A pregnant woman checks a food packet and her phone in the kitchen",
+      "es": "Una embarazada consulta el teléfono y un envase de comida en la cocina",
+      "fr": "Une femme enceinte consulte son téléphone en tenant un emballage alimentaire",
+      "pt": "Uma gestante consulta o celular enquanto segura uma embalagem de alimento",
+      "tr": "Hamile bir kadın mutfakta telefonunu ve gıda paketini kontrol ediyor",
+      "fa": "زن بارداری در آشپزخانه تلفن و بسته مواد غذایی را بررسی می‌کند",
+      "ar": "حامل تنظر إلى هاتفها وتتحقق من عبوة طعام في المطبخ"
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "Food poisoning in pregnancy after a meal or food recall",
+      "description": "Know what to do after a food recall in pregnancy, which symptoms need a call today, and what to tell your maternity team if you cannot keep fluids down."
+    },
+    "fa": {
+      "title": "مسمومیت غذایی در بارداری پس از خوردن یک غذا یا اعلام فراخوان",
+      "description": "اگر در بارداری غذایی خورده‌اید که بعداً فراخوان شده است، بدانید چه علائمی را همان روز گزارش دهید و چه زمانی فوراً با واحد ارزیابی بارداری تماس بگیرید."
+    },
+    "ar": {
+      "title": "التسمم الغذائي في الحمل بعد وجبة أو إعلان سحب منتج",
+      "description": "ماذا تفعلين إذا أكلت طعاماً سُحب من الأسواق أثناء الحمل؟ تعرّفي إلى الأعراض التي تستدعي الاتصال اليوم ومتى ينبغي الاتصال فوراً بطوارئ الولادة."
+    },
+    "fr": {
+      "title": "Grossesse et intoxication alimentaire après un repas ou un rappel",
+      "description": "Que faire si vous avez mangé un aliment rappelé pendant la grossesse, quels symptômes signaler aujourd’hui et quand joindre immédiatement la maternité ?"
+    },
+    "tr": {
+      "title": "Gebelikte bir öğün veya gıda geri çağırması sonrası zehirlenme",
+      "description": "Gebelikte geri çağrılan bir ürünü yediyseniz hangi belirtileri bugün bildirmeniz gerektiğini ve ne zaman hemen doğum birimini arayacağınızı öğrenin."
+    },
+    "es": {
+      "title": "Intoxicación alimentaria en el embarazo tras una comida o una alerta",
+      "description": "Qué hacer si comiste un alimento retirado durante el embarazo, qué síntomas debes comunicar hoy y cuándo llamar de inmediato al equipo de maternidad."
+    },
+    "pt": {
+      "title": "Intoxicação alimentar na gravidez após uma refeição ou um alerta",
+      "description": "Saiba o que fazer se comeu um alimento recolhido durante a gravidez, quais sintomas comunicar hoje e quando ligar imediatamente para a maternidade."
+    }
+  }
+}

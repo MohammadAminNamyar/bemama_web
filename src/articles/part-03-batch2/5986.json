@@ -1,0 +1,681 @@
+{
+  "sourceId": "5986",
+  "article": {
+    "slug": "newborn/vaginal-discharge-and-spotting-after-birth",
+    "category": "newborn",
+    "i18n": {
+      "en": {
+        "title": "Vaginal discharge and spotting in a newborn’s diaper",
+        "description": "White mucus or a few pink spots can appear after birth. Learn how to clean your newborn gently and when bleeding, discharge or fever needs medical care.",
+        "intro": "A faint pink streak in a newborn’s diaper can be startling. A little white mucus or brief spotting can come from the vagina in the first days after birth. Notice when it appeared, how much there is and how your baby is behaving. If you cannot tell where blood came from, call your baby’s healthcare team.",
+        "sections": [
+          {
+            "heading": "Why mucus or a little blood can appear",
+            "paragraphs": [
+              "During pregnancy, estrogen from the pregnant parent crosses the placenta. After birth the level falls. The labia, the soft folds around the vaginal opening, may look puffy. Some babies have whitish mucus. A little spotting can also appear as the uterine lining responds to the change in hormones.",
+              "The timing and amount help your clinician interpret the mark. Seattle Children’s describes normal newborn spotting as starting between the second and tenth day of life and lasting up to three or four days. This refers to light spots. Call if the amount increases, bleeding lasts longer, or it stops and comes back."
+            ]
+          },
+          {
+            "heading": "How to clean the area during a change",
+            "paragraphs": [
+              "Wash your hands and use a clean soft cloth with warm water. Wipe from front to back, using a clean part of the cloth for each pass. If stool gets between the outer folds, gently part them just enough to clean the visible skin. Pat dry and put on a fresh diaper.",
+              "Leave the vaginal opening alone. Repeated wiping to remove every trace of mucus can irritate the skin. Keep soap, perfumed wipes and cotton swabs out of the opening. If the folds look stuck together, ask your baby’s clinician to examine them. Forcing them apart can injure the skin."
+            ]
+          },
+          {
+            "heading": "When to call about discharge or bleeding",
+            "paragraphs": [
+              "Contact the healthcare team promptly if there is more than light spotting, an unpleasant smell, increasing redness, tenderness or swelling. Call if blood appears to come from the urine or stool or you cannot tell where it came from. A diaper saved from the change can help show the team what you saw.",
+              "A newborn with a temperature of 38°C (100.4°F) or higher needs immediate medical assessment. Seek urgent help if your baby is difficult to wake, looks very unwell or has heavy ongoing bleeding. A change in feeding or fewer wet diapers is important information to share when you call."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Minor mucus or light spotting can follow hormone changes after birth.",
+          "Wipe the visible outer folds gently with warm water, working from front to back.",
+          "Increasing, recurring or persistent bleeding needs medical advice."
+        ],
+        "faq": [
+          {
+            "q": "Why is there white discharge in the diaper?",
+            "a": "A small amount of whitish mucus can appear after hormone exposure before birth. It usually fades. Contact your clinician about a persistent or changing discharge, especially if there is an unusual smell or irritation."
+          },
+          {
+            "q": "Can a pink streak be normal?",
+            "a": "A few spots can occur in the first days as hormone levels fall. More than a small amount, continued or returning bleeding, or blood of uncertain origin needs medical advice."
+          },
+          {
+            "q": "Should I clean inside the vaginal opening?",
+            "a": "No. Gently clean the visible skin and the outer folds from front to back. Mucus in the opening does not need to be removed."
+          },
+          {
+            "q": "Why do the outer folds look swollen?",
+            "a": "Hormonal changes can temporarily make the labia puffy. Increasing swelling, redness or tenderness or a baby who seems unwell deserves assessment."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Note when the mark first appeared and whether it is fading or increasing.",
+            "Use a soft cloth and water on the external skin.",
+            "Seek immediate assessment for fever in a newborn."
+          ],
+          "bemama": "BeMama suggests describing what you actually saw during the change. A faint streak, repeated spots and blood that is still flowing give the clinician different information.",
+          "safety": "A newborn with a temperature of 38°C (100.4°F) or higher, ongoing heavy bleeding or marked difficulty waking needs urgent medical attention.",
+          "sources": [
+            {
+              "organization": "NHS",
+              "title": "How to change a newborn’s diaper",
+              "url": "https://www.nhs.uk/baby/caring-for-a-newborn/how-to-change-your-babys-nappy/"
+            },
+            {
+              "organization": "Seattle Children’s",
+              "title": "Vaginal bleeding in newborns and children",
+              "url": "https://www.seattlechildrens.org/conditions/a-z/vaginal-bleeding/"
+            },
+            {
+              "organization": "HealthLink BC",
+              "title": "Tips for diapering a newborn baby",
+              "url": "https://www.healthlinkbc.ca/living-well/parenting/parenting-babies-0-12-months/baby-care/tips-diapering-newborn-baby"
+            },
+            {
+              "organization": "American Academy of Pediatrics",
+              "title": "Fever in young infants",
+              "url": "https://www.healthychildren.org/English/health-issues/conditions/fever/Pages/Fever-and-Your-Baby.aspx"
+            },
+            {
+              "organization": "MedlinePlus",
+              "title": "Hormonal effects in newborns",
+              "url": "https://medlineplus.gov/ency/article/001911.htm"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "ترشح واژن و لکه‌بینی در پوشک نوزاد دختر",
+        "description": "در روزهای نخست تولد ممکن است کمی ترشح سفید یا چند لکهٔ صورتی ببینید. با روش شست‌وشوی ملایم و زمان مراجعه برای خونریزی، ترشح یا تب آشنا شوید.",
+        "intro": "دیدن یک رگهٔ صورتی در پوشک نوزاد ممکن است شما را نگران کند. گاهی در چند روز اول، کمی مخاط سفید یا مقدار اندکی خون از واژن خارج می‌شود. به زمان شروع، مقدار ترشح و حال عمومی نوزاد توجه کنید. اگر نمی‌دانید خون از کجا آمده است، با تیم مراقبت از نوزاد تماس بگیرید.",
+        "sections": [
+          {
+            "heading": "چرا ممکن است مخاط یا مقدار کمی خون دیده شود؟",
+            "paragraphs": [
+              "در دوران بارداری، استروژن از راه جفت از بدن مادر به جنین می‌رسد. پس از تولد سطح آن پایین می‌آید. ممکن است لب‌های فرج، یعنی چین‌های نرم پوست دور دهانهٔ واژن، کمی پف‌کرده به نظر برسند. بعضی نوزادان ترشح سفیدرنگ دارند. گاهی هم با واکنش لایهٔ داخلی رحم به تغییر هورمون‌ها، چند لکهٔ خون دیده می‌شود.",
+              "زمان شروع و مقدار خون به پزشک کمک می‌کند علت لکه را بررسی کند. بیمارستان کودکان سیاتل توضیح می‌دهد که لکه‌بینی طبیعی نوزاد ممکن است بین روز دوم تا دهم زندگی آغاز شود و حداکثر سه تا چهار روز طول بکشد. منظور فقط چند لکهٔ کوچک است. اگر مقدار خون بیشتر شد، خونریزی طولانی‌تر شد یا پس از قطع شدن برگشت، تماس بگیرید."
+            ]
+          },
+          {
+            "heading": "هنگام تعویض پوشک چگونه ناحیه را تمیز کنیم؟",
+            "paragraphs": [
+              "دست‌هایتان را بشویید و از پارچه‌ای نرم و تمیز با آب ولرم استفاده کنید. از جلو به عقب پاک کنید و برای هر بار پاک کردن، بخش تمیزی از پارچه را به کار ببرید. اگر مدفوع بین چین‌های بیرونی قرار گرفته، آنها را به‌آرامی فقط به اندازه‌ای کنار بزنید که پوست قابل مشاهده را تمیز کنید. پوست را با ضربه‌های آرام خشک کنید و پوشک تمیز ببندید.",
+              "داخل دهانهٔ واژن را پاک نکنید. مالش مکرر برای از بین بردن کوچک‌ترین اثر مخاط می‌تواند پوست را تحریک کند. صابون، دستمال معطر یا گوش‌پاک‌کن را وارد دهانه نکنید. اگر به نظر می‌رسد چین‌ها به هم چسبیده‌اند، از پزشک نوزاد بخواهید آنها را معاینه کند. جدا کردن با فشار ممکن است پوست را زخمی کند."
+            ]
+          },
+          {
+            "heading": "چه زمانی برای ترشح یا خونریزی تماس بگیریم؟",
+            "paragraphs": [
+              "اگر خون بیشتر از چند لکهٔ کوچک است، ترشح بوی ناخوشایندی دارد یا قرمزی، حساسیت به لمس یا تورم در حال افزایش است، زود با تیم درمان تماس بگیرید. اگر گمان می‌کنید خون از ادرار یا مدفوع است یا منبع آن مشخص نیست، تماس بگیرید. نگه داشتن پوشک برای نشان دادن آنچه دیده‌اید می‌تواند کمک‌کننده باشد.",
+              "نوزادی که دمای بدنش ۳۸ درجهٔ سانتی‌گراد (۱۰۰٫۴ درجهٔ فارنهایت) یا بالاتر است، باید فوراً ارزیابی پزشکی شود. اگر به‌سختی بیدار می‌شود، بسیار بدحال به نظر می‌رسد یا خونریزی شدیدش ادامه دارد، کمک پزشکی فوری بگیرید. هنگام تماس از تغییر در شیر خوردن یا کمتر شدن تعداد پوشک‌های خیس نیز بگویید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "با تغییر سطح هورمون‌ها پس از تولد ممکن است کمی مخاط یا لکه‌بینی خفیف دیده شود.",
+          "چین‌های بیرونی قابل مشاهده را به‌آرامی با آب ولرم از جلو به عقب تمیز کنید.",
+          "اگر خونریزی زیادتر شد، برگشت یا ادامه یافت، با پزشک مشورت کنید."
+        ],
+        "faq": [
+          {
+            "q": "چرا در پوشک نوزاد ترشح سفید می‌بینم؟",
+            "a": "تماس با هورمون‌ها پیش از تولد می‌تواند به خروج مقدار کمی مخاط سفیدرنگ منجر شود. این ترشح معمولاً به‌تدریج از بین می‌رود. دربارهٔ ترشح ماندگار یا تغییرکرده، به‌ویژه اگر همراه با بوی غیرعادی یا تحریک پوست است، با پزشک صحبت کنید."
+          },
+          {
+            "q": "آیا یک رگهٔ صورتی می‌تواند طبیعی باشد؟",
+            "a": "در روزهای نخست با پایین آمدن سطح هورمون‌ها ممکن است چند لکه ظاهر شود. اگر مقدار خون بیش از چند لکه است، خونریزی ادامه دارد یا بازگشته، یا معلوم نیست خون از کجا آمده، از پزشک راهنمایی بگیرید."
+          },
+          {
+            "q": "آیا باید داخل دهانهٔ واژن را تمیز کنم؟",
+            "a": "خیر. پوست قابل مشاهده و چین‌های بیرونی را به‌آرامی از جلو به عقب تمیز کنید. لازم نیست مخاط داخل دهانه را بردارید."
+          },
+          {
+            "q": "چرا چین‌های بیرونی متورم به نظر می‌رسند؟",
+            "a": "تغییرات هورمونی می‌توانند به‌طور موقت لب‌های فرج را پف‌کرده نشان دهند. اگر تورم، قرمزی یا حساسیت بیشتر می‌شود یا نوزاد بدحال به نظر می‌رسد، باید معاینه شود."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۶ نوامبر ۲۰۲۶ بررسی شد",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "زمان اولین لکه و کمتر یا بیشتر شدن آن را یادداشت کنید.",
+            "برای پوست بیرونی از آب و پارچه‌ای نرم استفاده کنید.",
+            "نوزاد تب‌دار باید فوراً ارزیابی پزشکی شود."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند هنگام تماس، آنچه در پوشک دیده‌اید دقیق توصیف کنید. یک رگهٔ کم‌رنگ، لکه‌های تکرارشونده و خونی که همچنان جاری است، اطلاعات متفاوتی به پزشک می‌دهند.",
+          "safety": "دمای ۳۸ درجهٔ سانتی‌گراد (۱۰۰٫۴ درجهٔ فارنهایت) یا بالاتر، خونریزی شدید مداوم یا دشواری قابل توجه در بیدار کردن نوزاد نیاز به رسیدگی پزشکی فوری دارد.",
+          "sources": [
+            {
+              "organization": "خدمات ملی سلامت بریتانیا",
+              "title": "روش تعویض پوشک نوزاد",
+              "url": "https://www.nhs.uk/baby/caring-for-a-newborn/how-to-change-your-babys-nappy/"
+            },
+            {
+              "organization": "بیمارستان کودکان سیاتل",
+              "title": "خونریزی واژینال در نوزادان و کودکان",
+              "url": "https://www.seattlechildrens.org/conditions/a-z/vaginal-bleeding/"
+            },
+            {
+              "organization": "هلث‌لینک بریتیش کلمبیا",
+              "title": "نکاتی دربارهٔ تعویض پوشک نوزاد",
+              "url": "https://www.healthlinkbc.ca/living-well/parenting/parenting-babies-0-12-months/baby-care/tips-diapering-newborn-baby"
+            },
+            {
+              "organization": "آکادمی پزشکی کودکان آمریکا",
+              "title": "تب در شیرخواران کم‌سن",
+              "url": "https://www.healthychildren.org/English/health-issues/conditions/fever/Pages/Fever-and-Your-Baby.aspx"
+            },
+            {
+              "organization": "مدلاین‌پلاس",
+              "title": "اثر هورمون‌ها در نوزادان",
+              "url": "https://medlineplus.gov/ency/article/001911.htm"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "الإفرازات المهبلية وبقع الدم في حفاض المولودة",
+        "description": "قد يظهر مخاط أبيض أو بضع بقع وردية بعد الولادة. تعرّفي إلى طريقة تنظيف المنطقة بلطف، ومتى يستدعي النزف أو تغير الإفرازات أو الحمى تقييماً طبياً.",
+        "intro": "قد يفاجئك ظهور خط وردي خفيف في حفاض المولودة. ففي الأيام الأولى قد يخرج من المهبل قليل من المخاط الأبيض أو الدم. انتبهي إلى وقت ظهوره وكميته وحال طفلتك. إذا لم تستطيعي تحديد مصدر الدم، فاتصلي بالفريق الذي يتابعها.",
+        "sections": [
+          {
+            "heading": "لماذا يظهر المخاط أو القليل من الدم؟",
+            "paragraphs": [
+              "يعبر هرمون الإستروجين من الأم إلى الجنين عبر المشيمة أثناء الحمل، ثم ينخفض مستواه بعد الولادة. وقد يبدو الشفران، وهما طيتا الجلد اللين المحيطتان بفتحة المهبل، منتفخين بعض الشيء. ويظهر لدى بعض المولودات مخاط مائل إلى البياض. وقد تظهر بقع دم خفيفة مع استجابة بطانة الرحم لهذا التغير الهرموني.",
+              "يساعد وقت ظهور البقعة وكميتها الطبيب في تقييمها. يوضح مستشفى سياتل للأطفال أن التبقع الطبيعي لدى المولودة قد يبدأ ما بين اليوم الثاني والعاشر من العمر ويستمر حتى ثلاثة أو أربعة أيام. والمقصود بضع بقع صغيرة. اتصلي بالطبيب إذا زادت الكمية أو استمر النزف مدة أطول أو عاد بعد توقفه."
+            ]
+          },
+          {
+            "heading": "كيف أنظف المنطقة عند تغيير الحفاض؟",
+            "paragraphs": [
+              "اغسلي يديك واستخدمي قطعة قماش ناعمة ونظيفة وماءً فاتراً. امسحي من الأمام إلى الخلف بجزء نظيف من القماش في كل مرة. إذا وجدتِ برازاً بين الطيات الخارجية، فباعدي بينها بلطف بالقدر الذي يسمح بتنظيف الجلد الظاهر. جففي بالتربيت ثم ضعي حفاضاً نظيفاً.",
+              "اتركي فتحة المهبل من الداخل وشأنها. فتكرار المسح لإزالة كل أثر للمخاط قد يهيج الجلد. لا تُدخلي الصابون أو المناديل المعطرة أو الأعواد القطنية في الفتحة. إذا بدت الطيات ملتصقة، فاطلبي من الطبيب فحصها. قد يؤدي فصلها بالقوة إلى جرح الجلد."
+            ]
+          },
+          {
+            "heading": "متى أطلب المساعدة بسبب الإفرازات أو الدم؟",
+            "paragraphs": [
+              "اتصلي بالفريق الصحي سريعاً إذا زادت الكمية على مجرد بقع خفيفة، أو ظهرت رائحة كريهة، أو زاد الاحمرار أو الألم عند اللمس أو الانتفاخ. اتصلي أيضاً إذا بدا الدم مختلطاً بالبول أو البراز، أو لم تعرفي مصدره. قد يفيد الاحتفاظ بالحفاض ليرى الفريق ما رأيتِ.",
+              "تحتاج المولودة التي تبلغ حرارتها ٣٨ درجة مئوية (١٠٠٫٤ درجة فهرنهايت) أو أكثر إلى تقييم طبي فوري. اطلبي مساعدة عاجلة إذا صعب إيقاظها أو بدت مريضة جداً أو استمر نزف غزير. وأخبري الفريق عند الاتصال بأي تغير في الرضاعة أو نقص في عدد الحفاضات المبللة."
+            ]
+          }
+        ],
+        "takeaways": [
+          "قد يظهر قليل من المخاط أو تبقع خفيف مع تغير مستويات الهرمونات بعد الولادة.",
+          "نظفي الطيات الخارجية الظاهرة بلطف بماء فاتر، من الأمام إلى الخلف.",
+          "اطلبي المشورة الطبية إذا ازداد النزف أو عاد أو استمر."
+        ],
+        "faq": [
+          {
+            "q": "لماذا تظهر إفرازات بيضاء في الحفاض؟",
+            "a": "قد يخرج قليل من المخاط الأبيض نتيجة التعرض للهرمونات قبل الولادة. ويقل عادةً مع الوقت. استشيري الطبيب إذا استمرت الإفرازات أو تغيرت، خصوصاً إذا صاحبها تهيج أو رائحة غير معتادة."
+          },
+          {
+            "q": "هل يمكن أن يكون الخط الوردي طبيعياً؟",
+            "a": "قد تظهر بضع بقع في الأيام الأولى مع انخفاض مستويات الهرمونات. وإذا زاد الدم على كمية قليلة أو استمر أو عاد، أو كان مصدره غير واضح، فاطلبي المشورة الطبية."
+          },
+          {
+            "q": "هل ينبغي تنظيف فتحة المهبل من الداخل؟",
+            "a": "لا. يكفي تنظيف الجلد الظاهر والطيات الخارجية برفق من الأمام إلى الخلف. ولا حاجة إلى إزالة المخاط الموجود في الفتحة."
+          },
+          {
+            "q": "لماذا تبدو الطيات الخارجية منتفخة؟",
+            "a": "قد تسبب التغيرات الهرمونية انتفاخ الشفرين مؤقتاً. إذا ازداد الانتفاخ أو الاحمرار أو الألم عند اللمس، أو بدت الطفلة مريضة، فينبغي فحصها."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "دوّني متى ظهرت أول بقعة وهل تقل أم تزداد.",
+            "استخدمي الماء وقطعة قماش ناعمة على الجلد الخارجي.",
+            "اطلبي تقييماً فورياً إذا أصيبت المولودة بالحمى."
+          ],
+          "bemama": "تقترح بي ماما وصف ما رأيتِ عند تغيير الحفاض بدقة. فالخط الباهت والبقع المتكررة والدم المستمر في الخروج تعطي الطبيب معلومات مختلفة.",
+          "safety": "تحتاج المولودة إلى عناية طبية عاجلة إذا بلغت حرارتها ٣٨ درجة مئوية (١٠٠٫٤ درجة فهرنهايت) أو أكثر، أو استمر نزف غزير أو كان إيقاظها صعباً جداً.",
+          "sources": [
+            {
+              "organization": "هيئة الخدمات الصحية الوطنية البريطانية",
+              "title": "كيفية تغيير حفاض المولود",
+              "url": "https://www.nhs.uk/baby/caring-for-a-newborn/how-to-change-your-babys-nappy/"
+            },
+            {
+              "organization": "مستشفى سياتل للأطفال",
+              "title": "النزف المهبلي عند المولودات والأطفال",
+              "url": "https://www.seattlechildrens.org/conditions/a-z/vaginal-bleeding/"
+            },
+            {
+              "organization": "خدمة هيلث لينك في كولومبيا البريطانية",
+              "title": "نصائح لتغيير حفاض المولود",
+              "url": "https://www.healthlinkbc.ca/living-well/parenting/parenting-babies-0-12-months/baby-care/tips-diapering-newborn-baby"
+            },
+            {
+              "organization": "الأكاديمية الأمريكية لطب الأطفال",
+              "title": "الحمى عند الرضع الصغار",
+              "url": "https://www.healthychildren.org/English/health-issues/conditions/fever/Pages/Fever-and-Your-Baby.aspx"
+            },
+            {
+              "organization": "مدلاين بلس",
+              "title": "تأثيرات الهرمونات عند المواليد",
+              "url": "https://medlineplus.gov/ency/article/001911.htm"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Pertes vaginales et traces de sang chez le nouveau-né",
+        "description": "Du mucus blanc ou quelques traces roses peuvent apparaître après la naissance. Comment faire la toilette et quand consulter pour un saignement ou de la fièvre ?",
+        "intro": "Une petite trace rose dans la couche peut surprendre. Les premiers jours, un peu de mucus blanc ou quelques gouttes de sang peuvent provenir du vagin. Notez le moment où vous les avez vus, la quantité et l’état de votre bébé. Si vous ignorez d’où vient le sang, appelez l’équipe qui suit votre enfant.",
+        "sections": [
+          {
+            "heading": "Pourquoi du mucus ou un peu de sang peut apparaître",
+            "paragraphs": [
+              "Pendant la grossesse, les œstrogènes de la mère traversent le placenta. Leur taux baisse après la naissance. Les lèvres de la vulve, ces plis souples qui entourent l’entrée du vagin, peuvent paraître gonflées. Certains bébés ont des pertes blanchâtres. La réaction de la muqueuse de l’utérus au changement hormonal peut aussi provoquer un léger saignement.",
+              "Le moment d’apparition et la quantité aident le professionnel à interpréter la trace. Selon l’hôpital Seattle Children’s, un léger saignement normal peut débuter entre le deuxième et le dixième jour de vie et durer jusqu’à trois ou quatre jours. Il s’agit de petites traces. Appelez si le sang devient plus abondant, si le saignement se prolonge ou s’il reprend après avoir cessé."
+            ]
+          },
+          {
+            "heading": "Faire une toilette douce au moment du change",
+            "paragraphs": [
+              "Lavez-vous les mains. Utilisez un linge propre et doux avec de l’eau tiède. Essuyez de l’avant vers l’arrière avec une partie propre du linge à chaque passage. Si des selles se trouvent entre les plis externes, écartez-les délicatement juste assez pour nettoyer la peau visible. Séchez en tamponnant et mettez une couche propre.",
+              "Laissez l’entrée du vagin tranquille. Des passages répétés pour enlever toute trace de mucus risquent d’irriter la peau. N’introduisez ni savon, ni lingette parfumée, ni coton-tige dans l’orifice. Si les plis paraissent collés, demandez à un professionnel de les examiner. Les écarter de force peut blesser la peau."
+            ]
+          },
+          {
+            "heading": "Quand appeler pour des pertes ou un saignement",
+            "paragraphs": [
+              "Prenez rapidement un avis médical si vous voyez davantage que quelques traces de sang, si les pertes sentent mauvais ou si la rougeur, la sensibilité ou le gonflement augmentent. Appelez si le sang semble venir des urines ou des selles, ou si son origine n’est pas claire. Garder la couche peut vous aider à montrer ce que vous avez vu.",
+              "Un nouveau-né dont la température atteint ou dépasse 38 °C (100,4 °F) doit être examiné immédiatement. Demandez une aide médicale urgente si votre bébé est difficile à réveiller, semble très malade ou présente un saignement abondant qui continue. À l’appel, signalez tout changement dans les prises de lait ou une diminution du nombre de couches mouillées."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Un peu de mucus ou quelques traces de sang peuvent accompagner les changements hormonaux après la naissance.",
+          "Nettoyez doucement les plis externes visibles à l’eau tiède, de l’avant vers l’arrière.",
+          "Consultez si le saignement augmente, revient ou persiste."
+        ],
+        "faq": [
+          {
+            "q": "Pourquoi y a-t-il des pertes blanches dans la couche ?",
+            "a": "Une petite quantité de mucus blanchâtre peut apparaître après l’exposition aux hormones avant la naissance. Elle disparaît généralement. Parlez à un professionnel de pertes qui persistent ou qui changent, surtout en cas d’odeur inhabituelle ou d’irritation."
+          },
+          {
+            "q": "Une petite trace rose peut-elle être normale ?",
+            "a": "Oui, quelques traces peuvent apparaître les premiers jours lorsque le taux d’hormones baisse. Un saignement plus abondant, prolongé ou qui reprend, ou du sang dont l’origine est incertaine, nécessite un avis médical."
+          },
+          {
+            "q": "Faut-il nettoyer l’intérieur du vagin ?",
+            "a": "Non. Nettoyez doucement la peau visible et les plis externes de l’avant vers l’arrière. Il est inutile d’enlever le mucus à l’entrée du vagin."
+          },
+          {
+            "q": "Pourquoi les plis externes paraissent-ils gonflés ?",
+            "a": "Les changements hormonaux peuvent faire gonfler temporairement les lèvres de la vulve. Une augmentation du gonflement, de la rougeur ou de la sensibilité, ou un bébé qui semble malade, justifie un examen."
+          }
+        ],
+        "evidence": {
+          "updated": "Données vérifiées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Notez quand la trace est apparue et si elle diminue ou augmente.",
+            "Utilisez de l’eau et un linge doux pour la peau externe.",
+            "Demandez un examen immédiat en cas de fièvre chez un nouveau-né."
+          ],
+          "bemama": "BeMama conseille de décrire précisément ce que vous avez vu au change. Un fin trait rose, plusieurs taches et du sang qui continue de couler apportent des renseignements différents.",
+          "safety": "Un nouveau-né qui a une température de 38 °C (100,4 °F) ou plus, qui saigne abondamment sans que cela cesse ou qu’on a beaucoup de mal à réveiller a besoin de soins urgents.",
+          "sources": [
+            {
+              "organization": "Service national de santé britannique",
+              "title": "Changer la couche d’un nouveau-né",
+              "url": "https://www.nhs.uk/baby/caring-for-a-newborn/how-to-change-your-babys-nappy/"
+            },
+            {
+              "organization": "Hôpital pour enfants de Seattle",
+              "title": "Saignement vaginal chez le nouveau-né et l’enfant",
+              "url": "https://www.seattlechildrens.org/conditions/a-z/vaginal-bleeding/"
+            },
+            {
+              "organization": "Service HealthLink de Colombie-Britannique",
+              "title": "Conseils pour changer la couche d’un nouveau-né",
+              "url": "https://www.healthlinkbc.ca/living-well/parenting/parenting-babies-0-12-months/baby-care/tips-diapering-newborn-baby"
+            },
+            {
+              "organization": "Académie américaine de pédiatrie",
+              "title": "La fièvre chez le jeune nourrisson",
+              "url": "https://www.healthychildren.org/English/health-issues/conditions/fever/Pages/Fever-and-Your-Baby.aspx"
+            },
+            {
+              "organization": "MedlinePlus",
+              "title": "Effets hormonaux chez le nouveau-né",
+              "url": "https://medlineplus.gov/ency/article/001911.htm"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Yenidoğan kız bebeğin bezinde vajinal akıntı ve lekelenme",
+        "description": "Doğumdan sonra beyaz mukus veya pembe lekeler görülebilir. Bölgeyi nasıl temizleyeceğinizi, kanama, akıntı veya ateşte ne zaman yardım alacağınızı öğrenin.",
+        "intro": "Yenidoğan bebeğinizin bezinde ince pembe bir çizgi görmek sizi kaygılandırabilir. İlk günlerde vajinadan biraz beyaz mukus veya az miktarda kan gelebilir. Ne zaman başladığını, miktarını ve bebeğinizin genel durumunu gözlemleyin. Kanın nereden geldiğini anlayamıyorsanız bebeğinizi izleyen sağlık ekibini arayın.",
+        "sections": [
+          {
+            "heading": "Mukus veya az miktarda kan neden görülebilir?",
+            "paragraphs": [
+              "Gebelik sırasında östrojen anneden plasenta yoluyla bebeğe geçer. Doğumdan sonra hormon düzeyi düşer. Vajina girişini çevreleyen yumuşak deri kıvrımları, yani vulva dudakları, hafif şiş görünebilir. Bazı bebeklerde beyazımsı mukus olur. Rahmin iç tabakası hormon değişimine yanıt verirken hafif lekelenme de görülebilir.",
+              "Lekenin ne zaman başladığı ve miktarı, hekimin durumu değerlendirmesine yardımcı olur. Seattle Çocuk Hastanesi, olağan yenidoğan lekelenmesinin yaşamın ikinci ile onuncu günü arasında başlayabileceğini ve en fazla üç dört gün sürebileceğini belirtir. Burada kastedilen birkaç küçük lekedir. Miktar artarsa, kanama daha uzun sürerse veya durduktan sonra yeniden başlarsa sağlık ekibini arayın."
+            ]
+          },
+          {
+            "heading": "Bez değiştirirken bölge nasıl temizlenir?",
+            "paragraphs": [
+              "Ellerinizi yıkayın. Temiz ve yumuşak bir bezi ılık suyla ıslatın. Her seferinde bezin temiz bir kısmını kullanarak önden arkaya doğru silin. Dış kıvrımların arasına dışkı bulaşmışsa kıvrımları yalnızca görünen cildi temizlemeye yetecek kadar nazikçe aralayın. Hafif dokunuşlarla kurulayın ve temiz bir bebek bezi bağlayın.",
+              "Vajina girişinin içini temizlemeye çalışmayın. Mukusun her izini çıkarmak için tekrar tekrar silmek cildi tahriş edebilir. Sabunu, parfümlü mendili veya pamuklu çubuğu girişin içine sokmayın. Kıvrımlar yapışmış gibi görünüyorsa hekime gösterin. Zorlayarak ayırmak cildi zedeleyebilir."
+            ]
+          },
+          {
+            "heading": "Akıntı veya kanama için ne zaman yardım alınmalı?",
+            "paragraphs": [
+              "Birkaç hafif lekeden daha fazla kan, kötü koku veya giderek artan kızarıklık, dokunmakla hassasiyet ya da şişlik varsa sağlık ekibine gecikmeden ulaşın. Kan idrar veya dışkıdan geliyor gibi görünüyorsa ya da kaynağını ayırt edemiyorsanız da arayın. Gördüğünüzü göstermek üzere bezi saklamak yardımcı olabilir.",
+              "Vücut sıcaklığı 38 °C (100,4 °F) veya üzerinde olan bir yenidoğanın hemen tıbbi değerlendirmeye alınması gerekir. Bebek zor uyanıyorsa, çok hasta görünüyorsa veya yoğun kanama sürüyorsa acil yardım alın. Aradığınızda bebeğin beslenmesindeki değişikliği veya ıslak bez sayısındaki azalmayı da bildirin."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Doğumdan sonraki hormon değişimleriyle biraz mukus veya hafif lekelenme olabilir.",
+          "Görünen dış kıvrımları ılık suyla önden arkaya doğru nazikçe temizleyin.",
+          "Artan, tekrarlayan veya süren kanamada tıbbi görüş alın."
+        ],
+        "faq": [
+          {
+            "q": "Bebeğimin bezinde neden beyaz akıntı var?",
+            "a": "Doğumdan önce hormonlara maruz kalmak az miktarda beyazımsı mukusa yol açabilir. Genellikle kendiliğinden azalır. Özellikle olağandışı koku ya da tahriş varsa süren veya değişen akıntıyı bebeğinizin hekimine danışın."
+          },
+          {
+            "q": "Pembe bir çizgi normal olabilir mi?",
+            "a": "Hormon düzeyleri düşerken ilk günlerde birkaç leke görülebilir. Az miktarı aşan, süren veya yeniden başlayan kanama ya da kaynağı belirsiz kan için tıbbi görüş alın."
+          },
+          {
+            "q": "Vajina girişinin içini temizlemeli miyim?",
+            "a": "Hayır. Görünen cildi ve dış kıvrımları önden arkaya doğru nazikçe temizleyin. Girişteki mukusu çıkarmaya gerek yoktur."
+          },
+          {
+            "q": "Dış kıvrımlar neden şiş görünüyor?",
+            "a": "Hormon değişimleri vulva dudaklarını geçici olarak şiş gösterebilir. Şişlik, kızarıklık veya hassasiyet artıyorsa ya da bebek hasta görünüyorsa değerlendirme gerekir."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "İlk lekeyi ne zaman gördüğünüzü ve azalıp artmadığını not edin.",
+            "Dış cildi su ve yumuşak bir bezle temizleyin.",
+            "Yenidoğanda ateş varsa hemen tıbbi değerlendirme isteyin."
+          ],
+          "bemama": "BeMama, bezi değiştirirken tam olarak ne gördüğünüzü anlatmanızı önerir. Soluk bir çizgi, yeniden beliren lekeler ve akmaya devam eden kan hekime farklı bilgiler verir.",
+          "safety": "Vücut sıcaklığı 38 °C (100,4 °F) veya daha yüksek olan, yoğun kanaması süren ya da uyandırılması çok güç olan bir yenidoğanın acil tıbbi yardıma ihtiyacı vardır.",
+          "sources": [
+            {
+              "organization": "Birleşik Krallık Ulusal Sağlık Hizmeti",
+              "title": "Yenidoğanın bezi nasıl değiştirilir?",
+              "url": "https://www.nhs.uk/baby/caring-for-a-newborn/how-to-change-your-babys-nappy/"
+            },
+            {
+              "organization": "Seattle Çocuk Hastanesi",
+              "title": "Yenidoğanlarda ve çocuklarda vajinal kanama",
+              "url": "https://www.seattlechildrens.org/conditions/a-z/vaginal-bleeding/"
+            },
+            {
+              "organization": "Britanya Kolumbiyası HealthLink hizmeti",
+              "title": "Yenidoğanın bezini değiştirme önerileri",
+              "url": "https://www.healthlinkbc.ca/living-well/parenting/parenting-babies-0-12-months/baby-care/tips-diapering-newborn-baby"
+            },
+            {
+              "organization": "Amerikan Pediatri Akademisi",
+              "title": "Küçük bebeklerde ateş",
+              "url": "https://www.healthychildren.org/English/health-issues/conditions/fever/Pages/Fever-and-Your-Baby.aspx"
+            },
+            {
+              "organization": "MedlinePlus",
+              "title": "Yenidoğanda hormonların etkileri",
+              "url": "https://medlineplus.gov/ency/article/001911.htm"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Flujo vaginal y manchado en el pañal de una recién nacida",
+        "description": "En los primeros días puede aparecer moco blanco o alguna mancha rosada. Aprende a limpiar la zona y cuándo consultar por sangrado, flujo o fiebre.",
+        "intro": "Una raya rosa en el pañal puede asustar. En los primeros días de vida, a veces sale de la vagina un poco de moco blanco o una pequeña cantidad de sangre. Fíjate en cuándo apareció, en la cantidad y en cómo se encuentra tu bebé. Si no tienes claro de dónde viene la sangre, llama a su equipo de salud.",
+        "sections": [
+          {
+            "heading": "Por qué puede aparecer moco o un poco de sangre",
+            "paragraphs": [
+              "Durante el embarazo, los estrógenos de la madre pasan al bebé a través de la placenta. Su concentración baja tras el parto. Los labios de la vulva, los pliegues blandos que rodean la entrada de la vagina, pueden verse hinchados. Algunas bebés tienen moco blanquecino. También puede haber un manchado leve mientras el revestimiento del útero responde al cambio hormonal.",
+              "El momento y la cantidad orientan al profesional. Según el hospital Seattle Children’s, el manchado normal puede comenzar entre el segundo y el décimo día de vida y durar hasta tres o cuatro días. Se trata de manchas pequeñas. Llama si la cantidad aumenta, si el sangrado dura más tiempo o si reaparece después de haber cesado."
+            ]
+          },
+          {
+            "heading": "Cómo limpiar la zona al cambiar el pañal",
+            "paragraphs": [
+              "Lávate las manos y usa un paño suave y limpio con agua tibia. Limpia de delante hacia atrás con una parte limpia del paño en cada pasada. Si hay heces entre los pliegues externos, sepáralos con suavidad lo justo para limpiar la piel visible. Seca con toques suaves y pon un pañal limpio.",
+              "Deja en paz la entrada de la vagina. Frotar varias veces para quitar todo el moco puede irritar la piel. Evita introducir jabón, toallitas perfumadas o bastoncillos de algodón. Si parece que los pliegues están adheridos, pide que los examine un profesional. Forzarlos puede lesionar la piel."
+            ]
+          },
+          {
+            "heading": "Cuándo llamar por el flujo o el sangrado",
+            "paragraphs": [
+              "Contacta pronto con el equipo de atención si ves más que un manchado leve, si notas mal olor o si aumentan el enrojecimiento, la sensibilidad o la hinchazón. Llama si parece que la sangre viene de la orina o de las heces, o si no sabes de dónde viene. Puedes guardar el pañal para enseñar lo que viste.",
+              "Una recién nacida con una temperatura de 38 °C (100,4 °F) o más necesita una valoración médica inmediata. Busca atención urgente si cuesta despertarla, parece muy enferma o tiene un sangrado abundante que continúa. Cuando llames, menciona si ha cambiado su manera de alimentarse o moja menos pañales."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Puede haber algo de moco o un manchado leve por los cambios hormonales después de nacer.",
+          "Limpia con suavidad los pliegues externos visibles con agua tibia, de delante hacia atrás.",
+          "Consulta si el sangrado aumenta, reaparece o se prolonga."
+        ],
+        "faq": [
+          {
+            "q": "¿Por qué hay flujo blanco en el pañal?",
+            "a": "Puede aparecer un poco de moco blanquecino por la exposición a hormonas antes de nacer. Suele desaparecer. Consulta si el flujo persiste o cambia, especialmente si tiene un olor inusual o hay irritación."
+          },
+          {
+            "q": "¿Puede ser normal una raya rosada?",
+            "a": "En los primeros días, el descenso de las hormonas puede causar unas pequeñas manchas. Si hay más sangre, el sangrado continúa o reaparece, o no sabes de dónde procede, consulta al equipo de salud."
+          },
+          {
+            "q": "¿Debo limpiar por dentro de la entrada vaginal?",
+            "a": "No. Limpia suavemente la piel visible y los pliegues externos de delante hacia atrás. No es necesario retirar el moco de la entrada vaginal."
+          },
+          {
+            "q": "¿Por qué se ven hinchados los pliegues externos?",
+            "a": "Los cambios hormonales pueden hinchar temporalmente los labios de la vulva. Si aumentan la hinchazón, el enrojecimiento o el dolor al tocar la zona, o si la bebé parece enferma, necesita valoración."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Anota cuándo apareció la mancha y si disminuye o aumenta.",
+            "Usa un paño suave y agua para limpiar la piel externa.",
+            "Busca atención inmediata si una recién nacida tiene fiebre."
+          ],
+          "bemama": "BeMama sugiere explicar qué viste al cambiar el pañal. Una pequeña raya, varias manchas y sangre que sigue saliendo dan pistas distintas al profesional.",
+          "safety": "Una recién nacida con una temperatura de 38 °C (100,4 °F) o más, sangrado abundante que no cesa o gran dificultad para despertarse necesita atención médica urgente.",
+          "sources": [
+            {
+              "organization": "Servicio Nacional de Salud del Reino Unido",
+              "title": "Cómo cambiar el pañal de un recién nacido",
+              "url": "https://www.nhs.uk/baby/caring-for-a-newborn/how-to-change-your-babys-nappy/"
+            },
+            {
+              "organization": "Hospital Infantil de Seattle",
+              "title": "Sangrado vaginal en recién nacidas y niñas",
+              "url": "https://www.seattlechildrens.org/conditions/a-z/vaginal-bleeding/"
+            },
+            {
+              "organization": "HealthLink de Columbia Británica",
+              "title": "Consejos para cambiar el pañal de un recién nacido",
+              "url": "https://www.healthlinkbc.ca/living-well/parenting/parenting-babies-0-12-months/baby-care/tips-diapering-newborn-baby"
+            },
+            {
+              "organization": "Academia Estadounidense de Pediatría",
+              "title": "La fiebre en lactantes pequeños",
+              "url": "https://www.healthychildren.org/English/health-issues/conditions/fever/Pages/Fever-and-Your-Baby.aspx"
+            },
+            {
+              "organization": "MedlinePlus",
+              "title": "Efectos hormonales en recién nacidos",
+              "url": "https://medlineplus.gov/ency/article/001911.htm"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Corrimento vaginal e manchas de sangue na fralda da recém-nascida",
+        "description": "Muco branco ou pequenas manchas rosadas podem aparecer logo após o parto. Saiba como limpar a região e quando procurar ajuda por sangramento ou febre.",
+        "intro": "Um risco rosado na fralda pode assustar. Nos primeiros dias de vida, pode sair da vagina um pouco de muco branco ou uma pequena quantidade de sangue. Observe quando apareceu, a quantidade e como a bebê está se comportando. Se não souber de onde veio o sangue, ligue para a equipe que acompanha sua filha.",
+        "sections": [
+          {
+            "heading": "Por que pode aparecer muco ou um pouco de sangue",
+            "paragraphs": [
+              "Durante a gravidez, o estrogênio da gestante passa pela placenta. Após o nascimento, o nível desse hormônio diminui. Os lábios da vulva, as dobras macias ao redor da entrada da vagina, podem parecer inchados. Algumas bebês apresentam muco esbranquiçado. Também podem aparecer pequenas manchas de sangue enquanto o revestimento do útero responde à mudança hormonal.",
+              "A quantidade e o momento em que as manchas surgem ajudam o profissional a avaliá-las. Segundo o hospital Seattle Children’s, o pequeno sangramento normal da recém-nascida pode começar entre o segundo e o décimo dia de vida e durar até três ou quatro dias. Trata-se de poucas manchas. Ligue se a quantidade aumentar, se o sangramento durar mais tempo ou se voltar depois de ter parado."
+            ]
+          },
+          {
+            "heading": "Como limpar a região na troca de fralda",
+            "paragraphs": [
+              "Lave as mãos e use um pano macio e limpo com água morna. Limpe da frente para trás usando uma parte limpa do pano a cada passada. Se houver fezes entre as dobras externas, afaste-as delicadamente apenas o suficiente para limpar a pele visível. Seque encostando o pano, sem esfregar, e coloque uma fralda limpa.",
+              "Deixe a entrada da vagina em paz. Esfregar várias vezes para retirar todo o muco pode irritar a pele. Não introduza sabonete, lenços perfumados ou hastes de algodão na abertura. Se as dobras parecerem grudadas, peça que um profissional examine a bebê. Tentar separá-las à força pode machucar a pele."
+            ]
+          },
+          {
+            "heading": "Quando procurar ajuda por corrimento ou sangramento",
+            "paragraphs": [
+              "Entre em contato com a equipe de saúde sem demora se houver mais do que algumas manchas, mau cheiro, ou aumento da vermelhidão, da sensibilidade ou do inchaço. Ligue se o sangue parecer vir da urina ou das fezes ou se a origem for incerta. Você pode guardar a fralda para mostrar o que viu.",
+              "Uma recém-nascida com temperatura de 38 °C (100,4 °F) ou mais precisa de avaliação médica imediata. Procure ajuda urgente se for difícil acordá-la, se parecer muito doente ou se o sangramento for intenso e continuar. Ao ligar, informe também qualquer mudança nas mamadas ou diminuição do número de fraldas molhadas."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Um pouco de muco ou um sangramento discreto pode surgir com as mudanças hormonais após o parto.",
+          "Limpe as dobras externas visíveis com delicadeza e água morna, da frente para trás.",
+          "Converse com a equipe de saúde se o sangramento aumentar, voltar ou persistir."
+        ],
+        "faq": [
+          {
+            "q": "Por que há corrimento branco na fralda?",
+            "a": "A exposição aos hormônios antes do nascimento pode causar uma pequena quantidade de muco esbranquiçado. Ele costuma desaparecer aos poucos. Procure orientação se o corrimento persistir ou mudar, principalmente se houver cheiro diferente ou irritação."
+          },
+          {
+            "q": "Um risquinho rosado pode ser normal?",
+            "a": "Pequenas manchas podem aparecer nos primeiros dias com a queda dos níveis hormonais. Sangue em maior quantidade, sangramento que persiste ou volta, ou sangue de origem incerta precisa de avaliação."
+          },
+          {
+            "q": "Preciso limpar por dentro da abertura vaginal?",
+            "a": "Não. Limpe suavemente a pele visível e as dobras externas da frente para trás. Não é preciso remover o muco que está na entrada da vagina."
+          },
+          {
+            "q": "Por que as dobras externas parecem inchadas?",
+            "a": "As mudanças hormonais podem deixar os lábios da vulva temporariamente inchados. Se aumentar o inchaço, a vermelhidão ou a sensibilidade, ou se a bebê parecer doente, procure avaliação."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revistas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Anote quando a mancha apareceu e se está diminuindo ou aumentando.",
+            "Use um pano macio e água para limpar a pele externa.",
+            "Procure avaliação imediata em caso de febre na recém-nascida."
+          ],
+          "bemama": "A BeMama sugere descrever exatamente o que você viu na troca. Um risco tênue, manchas que se repetem e sangue que continua saindo dão informações diferentes ao profissional.",
+          "safety": "Uma recém-nascida com temperatura de 38 °C (100,4 °F) ou mais, sangramento intenso que continua ou grande dificuldade para acordar precisa de atendimento médico urgente.",
+          "sources": [
+            {
+              "organization": "Serviço Nacional de Saúde do Reino Unido",
+              "title": "Como trocar a fralda de um recém-nascido",
+              "url": "https://www.nhs.uk/baby/caring-for-a-newborn/how-to-change-your-babys-nappy/"
+            },
+            {
+              "organization": "Hospital Infantil de Seattle",
+              "title": "Sangramento vaginal em recém-nascidas e crianças",
+              "url": "https://www.seattlechildrens.org/conditions/a-z/vaginal-bleeding/"
+            },
+            {
+              "organization": "Serviço HealthLink da Colúmbia Britânica",
+              "title": "Orientações para trocar a fralda de um recém-nascido",
+              "url": "https://www.healthlinkbc.ca/living-well/parenting/parenting-babies-0-12-months/baby-care/tips-diapering-newborn-baby"
+            },
+            {
+              "organization": "Academia Americana de Pediatria",
+              "title": "Febre em bebês pequenos",
+              "url": "https://www.healthychildren.org/English/health-issues/conditions/fever/Pages/Fever-and-Your-Baby.aspx"
+            },
+            {
+              "organization": "MedlinePlus",
+              "title": "Efeitos hormonais em recém-nascidos",
+              "url": "https://medlineplus.gov/ency/article/001911.htm"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5986.webp",
+    "heroAlt": {
+      "en": "Hands open a clean newborn diaper on a changing mat beside a washcloth and a bowl of water.",
+      "fa": "دو دست پوشک تمیز نوزاد را روی زیرانداز تعویض، کنار یک پارچه و کاسهٔ آب باز می‌کنند.",
+      "ar": "يدان تفتحان حفاضاً نظيفاً لحديث الولادة على بساط تغيير بجانب قطعة قماش ووعاء ماء.",
+      "fr": "Deux mains ouvrent une couche propre sur un matelas à langer, près d’un gant de toilette et d’un bol d’eau.",
+      "tr": "Bir çift el, bez değiştirme örtüsünde bir yıkama bezi ve su kâsesinin yanında temiz bir yenidoğan bezi açıyor.",
+      "es": "Unas manos abren un pañal limpio de recién nacido sobre un cambiador, junto a un paño y un cuenco de agua.",
+      "pt": "Duas mãos abrem uma fralda limpa de recém-nascido sobre um trocador ao lado de um pano macio e de uma tigela de água."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "Vaginal discharge and spotting in a newborn’s diaper",
+      "description": "White mucus or a few pink spots can appear after birth. Learn how to clean your newborn gently and when bleeding, discharge or fever needs medical care."
+    },
+    "fa": {
+      "title": "ترشح واژن و لکه‌بینی در پوشک نوزاد دختر",
+      "description": "در روزهای نخست تولد ممکن است کمی ترشح سفید یا چند لکهٔ صورتی ببینید. با روش شست‌وشوی ملایم و زمان مراجعه برای خونریزی، ترشح یا تب آشنا شوید."
+    },
+    "ar": {
+      "title": "الإفرازات المهبلية وبقع الدم في حفاض المولودة",
+      "description": "قد يظهر مخاط أبيض أو بضع بقع وردية بعد الولادة. تعرّفي إلى طريقة تنظيف المنطقة بلطف، ومتى يستدعي النزف أو تغير الإفرازات أو الحمى تقييماً طبياً."
+    },
+    "fr": {
+      "title": "Pertes vaginales et traces de sang chez le nouveau-né",
+      "description": "Du mucus blanc ou quelques traces roses peuvent apparaître après la naissance. Comment faire la toilette et quand consulter pour un saignement ou de la fièvre ?"
+    },
+    "tr": {
+      "title": "Yenidoğan kız bebeğin bezinde vajinal akıntı ve lekelenme",
+      "description": "Doğumdan sonra beyaz mukus veya pembe lekeler görülebilir. Bölgeyi nasıl temizleyeceğinizi, kanama, akıntı veya ateşte ne zaman yardım alacağınızı öğrenin."
+    },
+    "es": {
+      "title": "Flujo vaginal y manchado en el pañal de una recién nacida",
+      "description": "En los primeros días puede aparecer moco blanco o alguna mancha rosada. Aprende a limpiar la zona y cuándo consultar por sangrado, flujo o fiebre."
+    },
+    "pt": {
+      "title": "Corrimento vaginal e manchas de sangue na fralda da recém-nascida",
+      "description": "Muco branco ou pequenas manchas rosadas podem aparecer logo após o parto. Saiba como limpar a região e quando procurar ajuda por sangramento ou febre."
+    }
+  }
+}

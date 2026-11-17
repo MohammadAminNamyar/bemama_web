@@ -1,0 +1,639 @@
+{
+  "sourceId": "5859",
+  "article": {
+    "slug": "everyday-drinks-juice-smoothies-and-milk-for-children",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "What to pour when your child asks for a drink",
+        "description": "Choose everyday drinks for a growing child, compare fruit drinks with 100% juice, and check how much juice fits at different ages.",
+        "intro": "A lunchbox-sized carton shows a big orange on the front. Turn it around. It might contain pasteurized orange juice, a sweetened fruit drink or flavoured water. The picture tells you little about what your child will drink.",
+        "sections": [
+          {
+            "heading": "Start with thirst and the rest of the meal",
+            "paragraphs": [
+              "Before about six months, breast milk or infant formula provides the fluids a baby needs. From around six months, offer small sips of water with solid foods. Offer older children plain water for thirst. From the first birthday, plain pasteurized cow’s milk can be part of meals. Before age one, breast milk or infant formula is the main drink. Large quantities of milk can leave a toddler too full for food. If your family avoids dairy or your child has an allergy, ask about an unsweetened fortified alternative that provides suitable protein, calcium and vitamin D. Products differ."
+            ]
+          },
+          {
+            "heading": "Compare the juice with the fruit",
+            "paragraphs": [
+              "Choose whole fruit most often. If you offer juice, choose pasteurized 100% juice and serve a small amount in a cup with a meal. A fruit drink can contain added sugar and only a little juice. A homemade smoothie made with whole fruit and plain yoghurt retains some fibre and can be part of a meal. Choose water between meals instead of letting a child sip juice or smoothie throughout the day.",
+              "The American Academy of Pediatrics advises no routine juice before age one. Its upper daily limits for 100% juice are about 120 mL (4 US fl oz) at ages one to three, 120–180 mL (4–6 fl oz) at four to six, and 240 mL (8 fl oz) at seven to eighteen. Children do not need to drink juice to meet a target."
+            ]
+          },
+          {
+            "heading": "Check what makes a drink sweet or stimulating",
+            "paragraphs": [
+              "Sweetened soda, fruit drinks, sports drinks and flavoured milk can add sugar. Check the ingredients for caffeine as well, particularly in cola, iced tea and energy drinks. Caffeine content varies by product; a fruit flavour does not tell you whether it is present. Avoid energy drinks for children. Water and plain milk work as everyday choices without relying on drinks sweetened with sugar substitutes.",
+              "In a randomized trial, 641 children received either a sugary drink or a similar artificially sweetened drink, 250 mL daily for 18 months. The main analysis found less weight and fat gain in the sugar-free group. About a quarter stopped taking the study drinks, and a secondary analysis showed a less clear difference in the BMI measure. The study did not compare water with juice or establish a need for diet drinks."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Offer water for thirst and plain milk with meals when appropriate for age and diet.",
+          "Prefer whole fruit. If offering juice, use a small cup with a meal.",
+          "Compare ingredients and the percentage of juice before choosing a carton."
+        ],
+        "faq": [
+          {
+            "q": "How much 100% juice can my child drink?",
+            "a": "Juice is optional. The US paediatric upper limits are about 120 mL daily at ages one to three, 120–180 mL at four to six, and 240 mL at seven to eighteen. Do not routinely offer any before age one."
+          },
+          {
+            "q": "Can a smoothie have a place?",
+            "a": "A small smoothie made with whole fruit and plain yoghurt can go with a meal. Water is still the usual choice for thirst."
+          },
+          {
+            "q": "Is packaged juice unsuitable?",
+            "a": "Look at what is in the package. Pasteurized 100% juice can be offered within the age limit. A sweetened fruit drink is a different product, even with a similar picture."
+          },
+          {
+            "q": "Does every soda contain caffeine?",
+            "a": "No. Check the label. Caffeine can disturb sleep and make a child feel jittery. Caffeinated soda, tea and energy drinks are unsuitable routine drinks for children. A caffeine-free soda may still contain added sugar."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 17, 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Keep plain water easy to reach.",
+            "Choose age-appropriate milk, and ask about substitutions when needed.",
+            "Count actual juice rather than treating a carton size as a serving."
+          ],
+          "bemama": "BeMama suggests putting two cartons next to each other and finding the percentage of juice and the ingredients with your child.",
+          "safety": "Use pasteurized products. Do not replace breast milk or infant formula with cow’s milk or plant drinks before age one. Ask for individual advice about milk allergy or restricted diets.",
+          "sources": [
+            {
+              "organization": "American Academy of Pediatrics",
+              "title": "Juice recommendations by age",
+              "url": "https://doi.org/10.1542/peds.2017-0967"
+            },
+            {
+              "organization": "Healthy Eating Research expert panel",
+              "title": "Healthy beverages for school-age children and adolescents",
+              "url": "https://healthyeatingresearch.org/wp-content/uploads/2025/01/Technical-Report-FINAL.pdf"
+            },
+            {
+              "organization": "NHS",
+              "title": "Drinks and cups for babies and young children",
+              "url": "https://www.nhs.uk/baby/weaning-and-feeding/drinks-and-cups-for-babies-and-young-children/"
+            },
+            {
+              "organization": "de Ruyter and colleagues, New England Journal of Medicine",
+              "title": "Trial of sugar-free or sugar-sweetened beverages in children",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22998340/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "وقتی کودک نوشیدنی می‌خواهد چه به او بدهیم؟",
+        "description": "برای مصرف روزمره نوشیدنی مناسب انتخاب کنید، آب‌میوه صددرصد را از نوشیدنی میوه‌ای تشخیص دهید و ببینید حداکثر مقدار آب‌میوه در هر سن چقدر است.",
+        "intro": "روی پاکت کوچکی که در ظرف غذای کودک جا می‌شود، تصویر یک پرتقال بزرگ نقش بسته است. پاکت را برگردانید. ممکن است داخلش آب پرتقال پاستوریزه، نوشیدنی میوه‌ای شیرین‌شده یا آب طعم‌دار باشد. تصویر به شما نمی‌گوید کودک دقیقاً چه می‌نوشد.",
+        "sections": [
+          {
+            "heading": "تشنگی و بقیه وعده غذایی را در نظر بگیرید",
+            "paragraphs": [
+              "تا حدود شش‌ماهگی شیر مادر یا شیر خشک مخصوص شیرخوار، مایعات مورد نیاز کودک را تأمین می‌کند. از حدود شش‌ماهگی همراه غذای کمکی کمی آب برای نوشیدن جرعه‌جرعه بدهید. برای رفع تشنگی کودکان بزرگ‌تر آب آشامیدنی ساده پیشنهاد کنید. از یک‌سالگی شیر گاو ساده و پاستوریزه می‌تواند بخشی از وعده غذایی باشد. پیش از یک‌سالگی نوشیدنی اصلی شیر مادر یا شیر خشک مخصوص شیرخوار است. شیر زیاد ممکن است جایی برای غذای کودک نوپا نگذارد. اگر خانواده لبنیات مصرف نمی‌کند یا کودک حساسیت دارد، درباره جایگزینی غنی‌شده و بدون شکر افزوده که پروتئین، کلسیم و ویتامین دی مناسب داشته باشد مشورت کنید. ترکیب محصولات با هم فرق دارد."
+            ]
+          },
+          {
+            "heading": "آب‌میوه را با خود میوه مقایسه کنید",
+            "paragraphs": [
+              "بیشتر وقت‌ها خود میوه را انتخاب کنید. اگر آب‌میوه می‌دهید، نوع صددرصد پاستوریزه را انتخاب کنید و مقدار کمی با غذا در لیوان بریزید. نوشیدنی میوه‌ای ممکن است شکر افزوده داشته باشد ولی آب‌میوه کمی در آن باشد. اسموتی خانگی با میوه کامل و ماست ساده بخشی از فیبر را حفظ می‌کند و می‌تواند بخشی از وعده باشد. بین وعده‌ها آب بدهید تا کودک در طول روز مدام جرعه‌های آب‌میوه یا اسموتی ننوشد.",
+              "آکادمی اطفال آمریکا آب‌میوه را به‌طور معمول پیش از یک‌سالگی توصیه نمی‌کند. سقف روزانه آن برای آب‌میوه صددرصد حدود ۱۲۰ میلی‌لیتر (۴ اونس مایع آمریکایی) در یک تا سه سالگی، ۱۲۰ تا ۱۸۰ میلی‌لیتر (۴ تا ۶ اونس) در چهار تا شش سالگی و ۲۴۰ میلی‌لیتر (۸ اونس) در هفت تا هجده سالگی است. کودک لازم نیست برای رسیدن به عددی مشخص آب‌میوه بنوشد."
+            ]
+          },
+          {
+            "heading": "شیرین‌کننده و ماده محرک را از روی ترکیبات بشناسید",
+            "paragraphs": [
+              "نوشابه شیرین، نوشیدنی میوه‌ای، نوشیدنی ورزشی و شیر طعم‌دار ممکن است شکر افزوده داشته باشند. وجود کافئین را هم بررسی کنید، به‌ویژه در نوشابه کولا، چای سرد و نوشیدنی انرژی‌زا. مقدار کافئین به محصول بستگی دارد و میوه‌ای بودن طعم، وجود یا نبود آن را نشان نمی‌دهد. به کودکان نوشیدنی انرژی‌زا ندهید. آب و شیر ساده انتخاب‌های روزمره‌ای هستند که نیازی به نوشیدنی با جایگزین‌های شکر باقی نمی‌گذارند.",
+              "در یک کارآزمایی تصادفی، ۶۴۱ کودک به مدت ۱۸ ماه روزانه ۲۵۰ میلی‌لیتر نوشیدنی شیرین‌شده با شکر یا نوشیدنی مشابهی با شیرین‌کننده مصنوعی دریافت کردند. در تحلیل اصلی مشخص شد گروه بدون شکر افزایش وزن و چربی کمتری داشت. حدود یک‌چهارم شرکت‌کنندگان مصرف نوشیدنی‌های پژوهش را کنار گذاشتند و در تحلیلی دیگر تفاوت شاخص توده بدنی کمتر روشن بود. در این مطالعه آب و آب‌میوه مقایسه نشدند و نیازی به مصرف نوشیدنی رژیمی اثبات نشد."
+            ]
+          }
+        ],
+        "takeaways": [
+          "برای تشنگی آب بدهید و اگر با سن و رژیم کودک سازگار است، همراه وعده شیر ساده پیشنهاد کنید.",
+          "خود میوه را در اولویت بگذارید. اگر آب‌میوه می‌دهید، در لیوان کوچک و همراه غذا باشد.",
+          "پیش از انتخاب پاکت، مواد تشکیل‌دهنده و درصد آب‌میوه را مقایسه کنید."
+        ],
+        "faq": [
+          {
+            "q": "کودک چه مقدار آب‌میوه صددرصد می‌تواند بنوشد؟",
+            "a": "آب‌میوه اختیاری است. سقف روزانه در توصیه‌های اطفال آمریکا حدود ۱۲۰ میلی‌لیتر برای یک تا سه سال، ۱۲۰ تا ۱۸۰ برای چهار تا شش سال و ۲۴۰ برای هفت تا هجده سال است. پیش از یک‌سالگی به‌طور معمول آب‌میوه ندهید."
+          },
+          {
+            "q": "اسموتی می‌تواند بخشی از غذا باشد؟",
+            "a": "مقداری اسموتی با میوه کامل و ماست ساده می‌تواند همراه وعده باشد. آب همچنان انتخاب معمول برای رفع تشنگی است."
+          },
+          {
+            "q": "آیا آب‌میوه بسته‌بندی نامناسب است؟",
+            "a": "محتویات بسته را ببینید. آب‌میوه صددرصد پاستوریزه را می‌توان تا سقف متناسب با سن کودک داد. نوشیدنی میوه‌ای شیرین‌شده محصول متفاوتی است، حتی اگر تصویر روی آن شبیه باشد."
+          },
+          {
+            "q": "آیا همه نوشابه‌ها کافئین دارند؟",
+            "a": "خیر. برچسب را بخوانید. کافئین می‌تواند خواب را مختل و کودک را بی‌قرار کند. نوشابه کافئین‌دار، چای کافئین‌دار و نوشیدنی انرژی‌زا نوشیدنی روزمره مناسبی برای کودکان نیستند. نوشابه بدون کافئین هم ممکن است شکر افزوده داشته باشد."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۷ نوامبر ۲۰۲۶ بررسی شدند",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "آب ساده را در دسترس بگذارید.",
+            "شیر مناسب سن کودک انتخاب کنید و در صورت نیاز به جایگزین مشورت کنید.",
+            "به مقدار واقعی آب‌میوه توجه کنید و یک پاکت را خودبه‌خود یک سهم حساب نکنید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند دو پاکت نوشیدنی را کنار هم بگذارید و با فرزندتان درصد آب‌میوه و فهرست مواد تشکیل‌دهنده آن‌ها را پیدا کنید.",
+          "safety": "محصولات پاستوریزه استفاده کنید. پیش از یک‌سالگی شیر مادر یا شیر خشک مخصوص شیرخوار را با شیر گاو یا نوشیدنی گیاهی جایگزین نکنید. درباره حساسیت به شیر یا رژیم‌های محدود با توجه به شرایط کودک مشورت کنید.",
+          "sources": [
+            {
+              "organization": "آکادمی اطفال آمریکا",
+              "title": "توصیه‌های مصرف آب‌میوه بر اساس سن",
+              "url": "https://doi.org/10.1542/peds.2017-0967"
+            },
+            {
+              "organization": "گروه متخصصان پژوهش تغذیه سالم",
+              "title": "نوشیدنی‌های مناسب برای کودکان مدرسه‌ای و نوجوانان",
+              "url": "https://healthyeatingresearch.org/wp-content/uploads/2025/01/Technical-Report-FINAL.pdf"
+            },
+            {
+              "organization": "خدمات ملی سلامت بریتانیا",
+              "title": "نوشیدنی‌ها و لیوان‌های مناسب شیرخواران و کودکان کم‌سن",
+              "url": "https://www.nhs.uk/baby/weaning-and-feeding/drinks-and-cups-for-babies-and-young-children/"
+            },
+            {
+              "organization": "د رویتر و همکاران، مجله پزشکی نیوانگلند",
+              "title": "کارآزمایی نوشیدنی‌های دارای شکر و بدون شکر در کودکان",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22998340/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "ماذا تقدم لطفلك عندما يطلب شرابًا؟",
+        "description": "اختر ما يناسب طفلك من مشروبات يومية، وميّز بين العصير الخالص وشراب الفاكهة، وتعرّف إلى الحد الأقصى لكمية العصير بحسب العمر.",
+        "intro": "على واجهة علبة صغيرة تصلح لحقيبة الطعام صورة برتقالة كبيرة. اقلب العلبة. قد تحتوي عصير برتقال مبسترًا أو شراب فاكهة محلى أو ماءً منكهًا. لا تخبرك الصورة كثيرًا عما سيشربه طفلك.",
+        "sections": [
+          {
+            "heading": "ابدأ بالعطش وبقية الوجبة",
+            "paragraphs": [
+              "قبل عمر ستة أشهر تقريبًا، يوفّر حليب الأم أو تركيبة الرضع السوائل التي يحتاجها الرضيع. ومن نحو ستة أشهر، قدّم رشفات صغيرة من الماء مع الطعام الصلب. وللأطفال الأكبر سنًا قدّم ماء شرب عاديًا للعطش. بعد بلوغ سنة، يمكن أن يدخل حليب البقر السادة المبستر ضمن الوجبات. قبل السنة يظل حليب الأم أو تركيبة الرضع الشراب الأساسي. قد يشبع الطفل الصغير من كثرة الحليب فلا يبقى لديه مجال للطعام. إذا كانت أسرتك تتجنب الألبان أو لدى طفلك حساسية، فاسأل عن بديل مدعّم غير محلى يوفر ما يناسبه من البروتين والكالسيوم وفيتامين د. تختلف المنتجات في تركيبها."
+            ]
+          },
+          {
+            "heading": "قارن العصير بالثمرة",
+            "paragraphs": [
+              "اختر الفاكهة الكاملة في أغلب الأحيان. إذا قدّمت عصيرًا، فاختر عصيرًا خالصًا مبسترًا وضع كمية صغيرة في كوب مع الوجبة. قد يحتوي شراب الفاكهة على سكر مضاف وقليل فقط من العصير. يحتفظ مخفوق منزلي من الفاكهة الكاملة والزبادي السادة ببعض الألياف ويمكن أن يكون جزءًا من وجبة. قدّم الماء بين الوجبات بدل ترك الطفل يرتشف العصير أو مخفوق الفاكهة طوال اليوم.",
+              "لا توصي الأكاديمية الأمريكية لطب الأطفال بتقديم العصير بصورة معتادة قبل السنة. والحدود القصوى اليومية للعصير الخالص تقارب ١٢٠ مل (٤ أونصات سائلة أمريكية) من عمر سنة إلى ثلاث سنوات، و١٢٠–١٨٠ مل (٤–٦ أونصات) من أربع إلى ست، و٢٤٠ مل (٨ أونصات) من سبع إلى ثماني عشرة سنة. لا يحتاج الطفل إلى شرب العصير للوصول إلى مقدار معين."
+            ]
+          },
+          {
+            "heading": "تحقّق مما يحلّي الشراب أو ينبه",
+            "paragraphs": [
+              "يمكن أن تضيف المشروبات الغازية المحلاة وشراب الفاكهة والمشروبات الرياضية والحليب المنكّه سكرًا إلى الغذاء. راجع أيضًا وجود الكافيين بين المكونات، خاصة في الكولا والشاي المثلج ومشروبات الطاقة. تختلف كميته بحسب المنتج، ولا يدل طعم الفاكهة على وجوده أو غيابه. تجنب مشروبات الطاقة للأطفال. يكفي الماء والحليب السادة خيارين يوميين من دون الاعتماد على مشروبات محلاة ببدائل السكر.",
+              "في تجربة عشوائية، تلقى ٦٤١ طفلًا يوميًا لمدة ١٨ شهرًا ٢٥٠ مل من شراب محلى بالسكر أو آخر مماثل بمحلٍّ صناعي. أظهر التحليل الرئيسي زيادة أقل في الوزن والدهون لدى مجموعة الشراب الخالي من السكر. توقف نحو الربع عن تناول مشروبات الدراسة، وأظهر تحليل ثانوي فرقًا أقل وضوحًا في مقياس مؤشر كتلة الجسم. لم تقارن الدراسة الماء بالعصير ولم تثبت أن الأطفال يحتاجون إلى مشروبات الحمية."
+            ]
+          }
+        ],
+        "takeaways": [
+          "قدّم الماء للعطش والحليب السادة مع الوجبة متى ناسب عمر الطفل وغذاءه.",
+          "فضّل الفاكهة الكاملة، وإذا قدّمت عصيرًا فضعه في كوب صغير مع الوجبة.",
+          "قارن المكونات ونسبة العصير قبل اختيار العلبة."
+        ],
+        "faq": [
+          {
+            "q": "كم يمكن لطفلي أن يشرب من العصير الخالص؟",
+            "a": "العصير اختياري. الحدود اليومية في التوصيات الأمريكية تقارب ١٢٠ مل من سنة إلى ثلاث، و١٢٠–١٨٠ مل من أربع إلى ست، و٢٤٠ مل من سبع إلى ثماني عشرة سنة. تجنب تقديمه بانتظام قبل سنة."
+          },
+          {
+            "q": "هل لمخفوق الفاكهة مكان؟",
+            "a": "يمكن أن يرافق الوجبة كوب صغير من الفاكهة الكاملة المخفوقة مع الزبادي السادة. يبقى الماء الخيار المعتاد للعطش."
+          },
+          {
+            "q": "هل العصير المعبأ غير مناسب؟",
+            "a": "انظر إلى محتوى العبوة. يمكن تقديم العصير الخالص المبستر ضمن حد العمر المناسب. أما شراب الفاكهة المحلى فمنتج مختلف مهما تشابهت الصور."
+          },
+          {
+            "q": "هل تحتوي كل المشروبات الغازية على الكافيين؟",
+            "a": "لا. اقرأ الملصق. قد يزعج الكافيين النوم ويجعل الطفل متوترًا. لا تناسب المشروبات الغازية المحتوية على الكافيين أو الشاي المحتوي عليه أو مشروبات الطاقة الاستخدام اليومي للأطفال. وقد يبقى السكر المضاف موجودًا في شراب غازي خالٍ من الكافيين."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٧ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "اجعل ماء الشرب العادي في المتناول.",
+            "اختر حليبًا مناسبًا للعمر واسأل عن البدائل عند الحاجة.",
+            "احسب كمية العصير الفعلية ولا تعتبر كل علبة حصة بالضرورة."
+          ],
+          "bemama": "تقترح بي ماما أن تضع علبتين جنبًا إلى جنب وتبحث مع طفلك عن نسبة العصير وقائمة المكونات.",
+          "safety": "استخدم منتجات مبسترة. لا تستبدل حليب الأم أو تركيبة الرضع بحليب البقر أو المشروبات النباتية قبل عمر سنة. اطلب مشورة فردية عند حساسية الحليب أو وجود قيود غذائية.",
+          "sources": [
+            {
+              "organization": "الأكاديمية الأمريكية لطب الأطفال",
+              "title": "توصيات العصير بحسب العمر",
+              "url": "https://doi.org/10.1542/peds.2017-0967"
+            },
+            {
+              "organization": "لجنة خبراء أبحاث التغذية الصحية",
+              "title": "المشروبات الصحية لأطفال المدرسة والمراهقين",
+              "url": "https://healthyeatingresearch.org/wp-content/uploads/2025/01/Technical-Report-FINAL.pdf"
+            },
+            {
+              "organization": "هيئة الخدمات الصحية الوطنية البريطانية",
+              "title": "المشروبات والأكواب للرضع والأطفال الصغار",
+              "url": "https://www.nhs.uk/baby/weaning-and-feeding/drinks-and-cups-for-babies-and-young-children/"
+            },
+            {
+              "organization": "دي رويتر وزملاؤه، مجلة نيو إنغلاند للطب",
+              "title": "تجربة المشروبات الخالية من السكر والمحلاة بالسكر لدى الأطفال",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22998340/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Que servir quand votre enfant demande à boire ?",
+        "description": "Choisissez les boissons du quotidien, distinguez un pur jus d’une boisson aux fruits et découvrez les quantités maximales de jus conseillées selon l’âge.",
+        "intro": "Une petite brique porte l’image d’une grosse orange. Retournez-la. Elle peut contenir du pur jus d’orange pasteurisé, une boisson aux fruits sucrée ou une eau aromatisée. L’illustration ne dit pas grand-chose de ce que va boire votre enfant.",
+        "sections": [
+          {
+            "heading": "Tenir compte de la soif et du reste du repas",
+            "paragraphs": [
+              "Avant six mois environ, le lait maternel ou la préparation pour nourrissons couvre les besoins en liquides. Vers six mois, proposez quelques gorgées d’eau avec les premiers aliments solides. Pour la soif des enfants plus grands, proposez de l’eau potable nature. Dès le premier anniversaire, le lait de vache nature pasteurisé peut accompagner les repas. Avant un an, le lait maternel ou la préparation pour nourrissons reste la boisson principale. Beaucoup de lait peut couper l’appétit d’un tout-petit. Si votre famille évite les produits laitiers ou si votre enfant est allergique, demandez conseil pour choisir un substitut enrichi non sucré adapté à ses besoins en protéines, calcium et vitamine D. Les produits diffèrent."
+            ]
+          },
+          {
+            "heading": "Comparer le jus et le fruit",
+            "paragraphs": [
+              "Privilégiez le fruit entier. Si vous proposez du jus, choisissez un pur jus pasteurisé et servez-en un peu dans un verre au repas. Une boisson aux fruits peut contenir du sucre ajouté et très peu de jus. Un smoothie maison à base de fruits entiers et de yaourt nature garde une partie des fibres et peut accompagner le repas. Entre les repas, servez de l’eau plutôt que de laisser l’enfant siroter du jus ou un smoothie toute la journée.",
+              "L’Académie américaine de pédiatrie déconseille le jus en routine avant un an. Pour le pur jus, ses plafonds quotidiens sont d’environ 120 ml (4 onces liquides américaines) de un à trois ans, de 120 à 180 ml (4 à 6 onces) de quatre à six ans et de 240 ml (8 onces) de sept à dix-huit ans. Les enfants n’ont aucune quantité minimale de jus à boire."
+            ]
+          },
+          {
+            "heading": "Vérifier les sucres et les stimulants",
+            "paragraphs": [
+              "Les sodas sucrés, les boissons aux fruits ou pour sportifs et les laits aromatisés peuvent apporter du sucre ajouté. Vérifiez aussi la présence de caféine, surtout dans les colas, thés glacés et boissons énergisantes. Sa teneur varie selon les produits. Un parfum de fruit ne dit pas si une boisson en contient. Évitez les boissons énergisantes chez l’enfant. Au quotidien, l’eau et le lait nature conviennent sans qu’il soit nécessaire de recourir aux boissons avec édulcorants.",
+              "Dans un essai randomisé, 641 enfants ont reçu 250 ml par jour pendant 18 mois d’une boisson sucrée ou d’une boisson comparable avec édulcorant artificiel. L’analyse principale a montré une prise de poids et de masse grasse moindre dans le groupe sans sucre. Environ un quart des enfants ont cessé de boire les produits étudiés et une analyse secondaire a montré une différence moins nette pour la mesure de l’IMC. L’étude n’a pas comparé l’eau au jus et n’a pas démontré que les enfants avaient besoin de boissons allégées."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Proposez de l’eau pour la soif et du lait nature au repas quand il convient à l’âge et à l’alimentation.",
+          "Privilégiez le fruit entier. Si vous servez du jus, choisissez un petit verre au repas.",
+          "Comparez les ingrédients et le pourcentage de jus avant de choisir une brique."
+        ],
+        "faq": [
+          {
+            "q": "Quelle quantité de pur jus mon enfant peut-il boire ?",
+            "a": "Le jus est facultatif. Les plafonds indiqués par les pédiatres américains sont d’environ 120 ml par jour de un à trois ans, 120 à 180 ml de quatre à six ans et 240 ml de sept à dix-huit ans. Évitez d’en proposer en routine avant un an."
+          },
+          {
+            "q": "Un smoothie a-t-il sa place ?",
+            "a": "Un petit smoothie aux fruits entiers et au yaourt nature peut accompagner un repas. L’eau reste la boisson habituelle pour la soif."
+          },
+          {
+            "q": "Faut-il éviter le jus en brique ?",
+            "a": "Regardez le contenu. Un pur jus pasteurisé peut être servi dans la limite conseillée pour l’âge. Une boisson aux fruits sucrée est un autre produit, même si l’image est semblable."
+          },
+          {
+            "q": "Tous les sodas contiennent-ils de la caféine ?",
+            "a": "Non. Lisez l’étiquette. La caféine peut perturber le sommeil et rendre un enfant nerveux. Les sodas caféinés, le thé caféiné et les boissons énergisantes ne conviennent pas au quotidien. Un soda sans caféine peut tout de même contenir du sucre ajouté."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 17 novembre 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Gardez de l’eau nature à portée de main.",
+            "Choisissez un lait adapté à l’âge et demandez conseil si un substitut est nécessaire.",
+            "Tenez compte de la quantité de jus réellement servie plutôt que de prendre une brique entière pour une portion."
+          ],
+          "bemama": "BeMama vous suggère de poser deux briques côte à côte pour chercher avec votre enfant le pourcentage de jus et la liste des ingrédients.",
+          "safety": "Choisissez des produits pasteurisés. Avant un an, ne remplacez pas le lait maternel ou la préparation pour nourrissons par du lait de vache ou une boisson végétale. Demandez un avis adapté en cas d’allergie au lait ou d’alimentation restrictive.",
+          "sources": [
+            {
+              "organization": "Académie américaine de pédiatrie",
+              "title": "Recommandations sur le jus de fruits selon l’âge",
+              "url": "https://doi.org/10.1542/peds.2017-0967"
+            },
+            {
+              "organization": "Groupe d’experts de Healthy Eating Research",
+              "title": "Boissons conseillées aux enfants d’âge scolaire et aux adolescents",
+              "url": "https://healthyeatingresearch.org/wp-content/uploads/2025/01/Technical-Report-FINAL.pdf"
+            },
+            {
+              "organization": "NHS",
+              "title": "Boissons et gobelets pour les bébés et les jeunes enfants",
+              "url": "https://www.nhs.uk/baby/weaning-and-feeding/drinks-and-cups-for-babies-and-young-children/"
+            },
+            {
+              "organization": "De Ruyter et ses collègues, New England Journal of Medicine",
+              "title": "Essai de boissons avec ou sans sucre chez l’enfant",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22998340/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Çocuğunuz içecek istediğinde ne sunabilirsiniz?",
+        "description": "Günlük içecekleri seçerken yüzde yüz meyve suyu ile meyveli içecekleri ayırt edin. Yaşına göre çocuğunuza en fazla ne kadar meyve suyu sunabileceğinizi öğrenin.",
+        "intro": "Küçük bir içecek kutusunun önünde kocaman bir portakal resmi var. Kutuyu çevirin. İçinde pastörize portakal suyu, şekerli meyveli içecek ya da aromalı su olabilir. Resim çocuğunuzun ne içeceğini pek anlatmaz.",
+        "sections": [
+          {
+            "heading": "Susamayı ve öğünün geri kalanını düşünün",
+            "paragraphs": [
+              "Yaklaşık altı aya kadar bebeğin sıvı ihtiyacını anne sütü veya bebek formülü karşılar. Yaklaşık altıncı aydan itibaren ek gıdaların yanında küçük yudumlarla su sunun. Daha büyük çocuklara susadıklarında sade içme suyu verin. Bir yaşından itibaren sade pastörize inek sütü öğünlerin bir parçası olabilir. Bir yaşından önce temel içecek anne sütü veya bebek formülüdür. Fazla süt küçük çocuğu doyurup yemeğe yer bırakmayabilir. Süt ürünleri tüketmiyorsanız veya çocuğunuzun alerjisi varsa yeterli protein, kalsiyum ve D vitamini sağlayan, şeker eklenmemiş zenginleştirilmiş bir alternatif hakkında danışın. Ürünler farklıdır."
+            ]
+          },
+          {
+            "heading": "Meyve suyuyla meyveyi karşılaştırın",
+            "paragraphs": [
+              "Çoğu zaman meyvenin kendisini seçin. Meyve suyu sunuyorsanız pastörize, yüzde yüz meyve suyu seçip öğünde küçük bir bardakta az miktarda verin. Meyveli içeceklerde eklenmiş şeker ve az miktarda meyve suyu bulunabilir. Bütün meyve ve sade yoğurtla evde hazırlanan bir smoothie lifin bir kısmını korur ve öğüne eşlik edebilir. Çocuğun gün boyu meyve suyu veya smoothie yudumlaması yerine öğün aralarında su sunun.",
+              "Amerikan Pediatri Akademisi bir yaşından önce rutin olarak meyve suyu önermiyor. Yüzde yüz meyve suyu için günlük üst sınırlar bir ila üç yaşta yaklaşık 120 mL (4 ABD sıvı onsu), dört ila altı yaşta 120–180 mL (4–6 ons), yedi ila on sekiz yaşta 240 mL’dir (8 ons). Çocuğun ulaşması gereken bir meyve suyu hedefi yoktur."
+            ]
+          },
+          {
+            "heading": "Tatlandırıcıları ve uyarıcıları kontrol edin",
+            "paragraphs": [
+              "Şekerli gazlı içecekler, meyveli içecekler, sporcu içecekleri ve aromalı sütler ilave şeker içerebilir. Özellikle kola, soğuk çay veya enerji içeceklerinde kafein olup olmadığına da bakın. Kafein ürüne göre değişir; meyve aroması kafein bulunup bulunmadığını göstermez. Çocuklara enerji içeceği vermeyin. Günlük kullanımda şeker yerine tatlandırıcı katılmış içeceklere ihtiyaç duymadan su ve sade süt sunabilirsiniz.",
+              "Rastgele gruplara ayrılan 641 çocuk 18 ay boyunca günde 250 mL şekerli bir içecek veya yapay tatlandırıcılı benzer bir içecek aldı. Ana analizde, şekersiz grupta kilo ve yağ artışı daha azdı. Yaklaşık dörtte biri çalışma içeceklerini içmeyi bıraktı ve ikincil analizde beden kütle indeksi ölçümündeki fark daha belirsizdi. Bu çalışmada su ile meyve suyu karşılaştırılmadı ve diyet içeceklerin gerekli olduğu gösterilmedi."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Susuzluk için su, çocuğun yaşına ve beslenmesine uygunsa öğünlerde sade süt sunun.",
+          "Meyvenin kendisini tercih edin. Meyve suyu verecekseniz küçük bardakta, öğünle birlikte verin.",
+          "Kutu seçmeden önce içindekileri ve meyve suyu oranını karşılaştırın."
+        ],
+        "faq": [
+          {
+            "q": "Çocuğum ne kadar yüzde yüz meyve suyu içebilir?",
+            "a": "Meyve suyu isteğe bağlıdır. ABD çocuk sağlığı önerilerindeki günlük üst sınır bir ila üç yaşta yaklaşık 120 mL, dört ila altıda 120–180 mL ve yedi ila on sekizde 240 mL’dir. Bir yaşından önce rutin olarak sunmayın."
+          },
+          {
+            "q": "Smoothie verilebilir mi?",
+            "a": "Bütün meyve ve sade yoğurtla hazırlanmış küçük bir smoothie öğüne eşlik edebilir. Susuzluk için günlük içecek yine sudur."
+          },
+          {
+            "q": "Kutu meyve suyu uygun değil mi?",
+            "a": "Kutunun içinde ne olduğuna bakın. Pastörize yüzde yüz meyve suyu yaşa uygun sınırlar içinde sunulabilir. Benzer bir resmi olsa bile şekerli meyveli içecek farklı bir üründür."
+          },
+          {
+            "q": "Her gazlı içecekte kafein var mı?",
+            "a": "Hayır. Etiketi okuyun. Kafein uykuyu bozabilir ve çocuğu huzursuz hissettirebilir. Kafeinli gazlı içecekler, kafeinli çay ve enerji içecekleri çocukların günlük içeceği olmaya uygun değildir. Kafeinsiz bir gazlı içecek de ilave şeker içerebilir."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 17 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Sade içme suyunu kolay ulaşılır tutun.",
+            "Yaşa uygun süt seçin ve başka bir ürünle değiştirmek gerekirse danışın.",
+            "Kutu boyunu bir porsiyon saymak yerine gerçekten sunulan meyve suyunu hesaba katın."
+          ],
+          "bemama": "BeMama, iki içecek kutusunu yan yana koyup çocuğunuzla birlikte meyve suyu yüzdesini ve içindekileri bulmanızı önerir.",
+          "safety": "Pastörize ürün kullanın. Bir yaşından önce anne sütü veya bebek formülünün yerine inek sütü ya da bitkisel içecek vermeyin. Süt alerjisi veya kısıtlı beslenmede çocuğunuza özel öneri alın.",
+          "sources": [
+            {
+              "organization": "Amerikan Pediatri Akademisi",
+              "title": "Yaşa göre meyve suyu önerileri",
+              "url": "https://doi.org/10.1542/peds.2017-0967"
+            },
+            {
+              "organization": "Healthy Eating Research uzman kurulu",
+              "title": "Okul çağındaki çocuklar ve ergenler için sağlıklı içecekler",
+              "url": "https://healthyeatingresearch.org/wp-content/uploads/2025/01/Technical-Report-FINAL.pdf"
+            },
+            {
+              "organization": "NHS",
+              "title": "Bebek ve küçük çocuklar için içecekler ve bardaklar",
+              "url": "https://www.nhs.uk/baby/weaning-and-feeding/drinks-and-cups-for-babies-and-young-children/"
+            },
+            {
+              "organization": "De Ruyter ve çalışma arkadaşları, New England Journal of Medicine",
+              "title": "Çocuklarda şekerli ve şekersiz içecek çalışması",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22998340/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Qué ofrecerle de beber a un niño",
+        "description": "Elige bebidas para el día a día, distingue un zumo 100 % de una bebida de frutas y averigua qué cantidad de zumo se aconseja como máximo a cada edad.",
+        "intro": "Un envase pequeño lleva una naranja enorme en la parte delantera. Dale la vuelta. Puede contener zumo de naranja pasteurizado, una bebida de frutas azucarada o agua con sabor. La imagen dice poco sobre lo que va a beber tu hijo.",
+        "sections": [
+          {
+            "heading": "Empieza por la sed y el resto de la comida",
+            "paragraphs": [
+              "Hasta aproximadamente los seis meses, la leche materna o la fórmula infantil aportan los líquidos que necesita el bebé. Desde alrededor de los seis meses puedes ofrecer sorbitos de agua con los alimentos sólidos. Para la sed de un niño mayor, ofrece agua potable. A partir del primer cumpleaños, la leche de vaca natural pasteurizada puede formar parte de las comidas. Antes del año, la bebida principal es la leche materna o la fórmula infantil. Beber mucha leche puede dejar al niño pequeño demasiado lleno para comer. Si en casa evitáis los lácteos o hay alergia, consulta qué alternativa enriquecida y sin azúcar aporta proteínas, calcio y vitamina D en cantidades adecuadas. Los productos varían."
+            ]
+          },
+          {
+            "heading": "Compara el zumo con la fruta",
+            "paragraphs": [
+              "Elige fruta entera la mayoría de las veces. Si ofreces zumo, que sea 100 % y pasteurizado, y sirve un poco en un vaso durante una comida. Una bebida de frutas puede llevar azúcar añadido y muy poco zumo. Un batido casero de fruta entera y yogur natural conserva parte de la fibra y puede acompañar una comida. Entre horas ofrece agua en vez de que el niño vaya dando sorbos de zumo o batido todo el día.",
+              "La Academia Estadounidense de Pediatría desaconseja dar zumo habitualmente antes del año. Sus límites máximos diarios de zumo 100 % son unos 120 ml (4 onzas líquidas estadounidenses) de uno a tres años, 120–180 ml (4–6 onzas) de cuatro a seis, y 240 ml (8 onzas) de siete a dieciocho. No hay que beber zumo para cumplir una meta."
+            ]
+          },
+          {
+            "heading": "Mira qué endulza o estimula",
+            "paragraphs": [
+              "Los refrescos azucarados, bebidas de frutas, bebidas deportivas y leches con sabor pueden añadir azúcar. Comprueba también si hay cafeína, sobre todo en colas, tés fríos y bebidas energéticas. La cantidad varía de un producto a otro y el sabor a fruta no indica si contiene cafeína. Evita dar bebidas energéticas a los niños. El agua y la leche natural sirven a diario sin tener que recurrir a bebidas con edulcorantes.",
+              "En un ensayo aleatorizado, 641 niños recibieron cada día durante 18 meses 250 ml de una bebida azucarada o de otra similar con edulcorante artificial. En el análisis principal, el grupo sin azúcar ganó menos peso y grasa. Cerca de una cuarta parte dejó de tomar las bebidas del estudio y un análisis secundario mostró una diferencia menos clara en la medida del IMC. No se comparó el agua con el zumo ni se demostró que los niños necesiten refrescos sin azúcar."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Ofrece agua para la sed y leche natural con las comidas cuando sea adecuada para la edad y la alimentación.",
+          "Da preferencia a la fruta entera. Si ofreces zumo, sírvelo en un vaso pequeño con la comida.",
+          "Compara los ingredientes y el porcentaje de zumo antes de elegir un envase."
+        ],
+        "faq": [
+          {
+            "q": "¿Cuánto zumo 100 % puede beber mi hijo?",
+            "a": "El zumo es opcional. Los máximos pediátricos estadounidenses son unos 120 ml al día de uno a tres años, 120–180 ml de cuatro a seis y 240 ml de siete a dieciocho. Evita ofrecerlo de forma habitual antes del año."
+          },
+          {
+            "q": "¿Puede tomar un batido?",
+            "a": "Un batido pequeño con fruta entera y yogur natural puede acompañar una comida. El agua sigue siendo la bebida habitual para la sed."
+          },
+          {
+            "q": "¿Es inadecuado el zumo envasado?",
+            "a": "Mira qué contiene. Se puede ofrecer zumo 100 % pasteurizado dentro del límite de edad correspondiente. Una bebida de frutas azucarada es un producto diferente aunque el dibujo se parezca."
+          },
+          {
+            "q": "¿Todos los refrescos llevan cafeína?",
+            "a": "No. Lee la etiqueta. La cafeína puede alterar el sueño y provocar nerviosismo. Los refrescos con cafeína, el té con cafeína y las bebidas energéticas no son bebidas habituales apropiadas para niños. Un refresco sin cafeína puede llevar azúcar añadido."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 17 de noviembre de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Deja agua potable al alcance del niño.",
+            "Elige una leche apropiada para la edad y consulta si necesitas sustituirla.",
+            "Cuenta la cantidad real de zumo que sirves en vez de considerar cada envase una ración."
+          ],
+          "bemama": "BeMama sugiere colocar dos envases juntos y buscar con tu hijo el porcentaje de zumo y los ingredientes.",
+          "safety": "Usa productos pasteurizados. Antes del año, no sustituyas la leche materna o la fórmula infantil por leche de vaca o bebidas vegetales. Consulta si hay alergia a la leche o restricciones alimentarias.",
+          "sources": [
+            {
+              "organization": "Academia Estadounidense de Pediatría",
+              "title": "Recomendaciones sobre el zumo según la edad",
+              "url": "https://doi.org/10.1542/peds.2017-0967"
+            },
+            {
+              "organization": "Panel de especialistas de Healthy Eating Research",
+              "title": "Bebidas saludables para niños en edad escolar y adolescentes",
+              "url": "https://healthyeatingresearch.org/wp-content/uploads/2025/01/Technical-Report-FINAL.pdf"
+            },
+            {
+              "organization": "NHS",
+              "title": "Bebidas y vasos para bebés y niños pequeños",
+              "url": "https://www.nhs.uk/baby/weaning-and-feeding/drinks-and-cups-for-babies-and-young-children/"
+            },
+            {
+              "organization": "De Ruyter y colaboradores, New England Journal of Medicine",
+              "title": "Ensayo de bebidas con y sin azúcar en niños",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22998340/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "O que oferecer quando a criança pede algo para beber?",
+        "description": "Escolha bebidas para o dia a dia, diferencie suco 100% de bebida de fruta e veja quais são os limites de suco recomendados para cada idade.",
+        "intro": "Uma caixinha de lanche traz uma laranja enorme na frente. Vire a embalagem. Ela pode conter suco de laranja pasteurizado, bebida de fruta adoçada ou água aromatizada. O desenho diz pouco sobre o que a criança vai beber.",
+        "sections": [
+          {
+            "heading": "Pense na sede e no restante da refeição",
+            "paragraphs": [
+              "Até cerca de seis meses, o leite materno ou a fórmula infantil fornece o líquido de que o bebê precisa. Por volta dos seis meses, ofereça pequenos goles de água com os primeiros alimentos sólidos. Para a sede das crianças maiores, ofereça água potável. A partir de um ano, o leite de vaca puro e pasteurizado pode fazer parte das refeições. Antes de um ano, a bebida principal é o leite materno ou a fórmula infantil. Muito leite pode deixar uma criança pequena sem apetite para a comida. Se a família não consome laticínios ou há alergia, pergunte sobre uma alternativa fortificada sem açúcar que forneça quantidades adequadas de proteína, cálcio e vitamina D. Os produtos variam."
+            ]
+          },
+          {
+            "heading": "Compare o suco com a fruta",
+            "paragraphs": [
+              "Prefira a fruta inteira na maioria das vezes. Se oferecer suco, escolha o 100% pasteurizado e sirva uma pequena quantidade no copo junto da refeição. Bebidas de fruta podem conter açúcar adicionado e pouco suco. Uma vitamina caseira de fruta inteira com iogurte natural mantém parte das fibras e pode compor uma refeição. Entre as refeições, ofereça água em vez de deixar a criança tomar goles de suco ou de vitamina o dia todo.",
+              "A Academia Americana de Pediatria orienta não oferecer suco de rotina antes de um ano. Os limites diários de suco 100% são cerca de 120 ml (4 onças líquidas americanas) de um a três anos, 120–180 ml (4–6 onças) dos quatro aos seis, e 240 ml (8 onças) dos sete aos dezoito. Não existe uma meta de suco que a criança precise atingir."
+            ]
+          },
+          {
+            "heading": "Confira o que adoça ou estimula",
+            "paragraphs": [
+              "Refrigerantes açucarados, bebidas de fruta, bebidas esportivas e leites aromatizados podem acrescentar açúcar. Veja também se há cafeína nos ingredientes, especialmente em refrigerantes de cola, chás gelados e energéticos. O teor varia conforme o produto. Sabor de fruta não indica se há cafeína. Evite energéticos para crianças. Água e leite puro atendem ao dia a dia sem precisar de bebidas com adoçantes.",
+              "Em um ensaio randomizado, 641 crianças receberam 250 ml por dia de uma bebida açucarada ou de uma parecida com adoçante artificial durante 18 meses. A análise principal encontrou menor ganho de peso e gordura no grupo sem açúcar. Cerca de um quarto deixou de tomar as bebidas do estudo, e uma análise secundária mostrou diferença menos clara na medida de IMC. O estudo não comparou água com suco nem mostrou que bebidas dietéticas sejam necessárias."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Ofereça água para a sede e leite puro nas refeições, quando adequado à idade e à alimentação.",
+          "Prefira a fruta inteira. Se oferecer suco, sirva em um copo pequeno com a refeição.",
+          "Compare os ingredientes e a porcentagem de suco antes de escolher uma caixinha."
+        ],
+        "faq": [
+          {
+            "q": "Quanto suco 100% meu filho pode tomar?",
+            "a": "Suco é opcional. Os limites diários pediátricos americanos são cerca de 120 ml de um a três anos, 120–180 ml de quatro a seis e 240 ml de sete a dezoito. Não ofereça suco rotineiramente antes de um ano."
+          },
+          {
+            "q": "Uma vitamina pode fazer parte da alimentação?",
+            "a": "Uma pequena vitamina de fruta inteira com iogurte natural pode acompanhar uma refeição. A água continua sendo a escolha habitual para a sede."
+          },
+          {
+            "q": "Suco de caixinha é inadequado?",
+            "a": "Confira o conteúdo. É possível oferecer suco 100% pasteurizado dentro do limite para a idade. Uma bebida de fruta adoçada é diferente, ainda que a embalagem mostre a mesma fruta."
+          },
+          {
+            "q": "Todo refrigerante tem cafeína?",
+            "a": "Não. Leia o rótulo. A cafeína pode atrapalhar o sono e deixar a criança agitada. Refrigerantes com cafeína, chás com cafeína e energéticos não são bebidas adequadas para o dia a dia. Um refrigerante sem cafeína ainda pode conter açúcar adicionado."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 17 de novembro de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Deixe água potável ao alcance da criança.",
+            "Escolha leite adequado à idade e peça orientação se precisar substituí-lo.",
+            "Considere a quantidade de suco efetivamente servida em vez de contar cada embalagem como uma porção."
+          ],
+          "bemama": "A BeMama sugere colocar duas caixinhas lado a lado e procurar com a criança a porcentagem de suco e a lista de ingredientes.",
+          "safety": "Use produtos pasteurizados. Antes de um ano, não substitua o leite materno ou a fórmula infantil por leite de vaca nem por bebidas vegetais. Peça orientação individual para alergia ao leite ou restrições na alimentação.",
+          "sources": [
+            {
+              "organization": "Academia Americana de Pediatria",
+              "title": "Recomendações sobre suco por idade",
+              "url": "https://doi.org/10.1542/peds.2017-0967"
+            },
+            {
+              "organization": "Painel de especialistas da Healthy Eating Research",
+              "title": "Bebidas saudáveis para crianças em idade escolar e adolescentes",
+              "url": "https://healthyeatingresearch.org/wp-content/uploads/2025/01/Technical-Report-FINAL.pdf"
+            },
+            {
+              "organization": "NHS",
+              "title": "Bebidas e copos para bebês e crianças pequenas",
+              "url": "https://www.nhs.uk/baby/weaning-and-feeding/drinks-and-cups-for-babies-and-young-children/"
+            },
+            {
+              "organization": "De Ruyter e colaboradores, New England Journal of Medicine",
+              "title": "Ensaio de bebidas com e sem açúcar em crianças",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22998340/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5859.webp",
+    "heroAlt": {
+      "en": "Water and plain milk beside an open lunchbox with whole fruit and toast",
+      "es": "Agua y leche junto a una fiambrera abierta con fruta y tostadas",
+      "fr": "Eau et lait nature à côté d’une boîte à repas avec des fruits et du pain grillé",
+      "pt": "Água e leite ao lado de uma lancheira com frutas e torradas",
+      "tr": "Meyve ve kızarmış ekmek içeren beslenme kutusunun yanında su ve sade süt",
+      "fa": "آب و شیر ساده کنار ظرف غذای حاوی میوه و نان برشته",
+      "ar": "ماء وحليب سادة بجوار علبة طعام فيها فاكهة وخبز محمص"
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "What to pour when your child asks for a drink",
+      "description": "Choose everyday drinks for a growing child, compare fruit drinks with 100% juice, and check how much juice fits at different ages."
+    },
+    "fa": {
+      "title": "وقتی کودک نوشیدنی می‌خواهد چه به او بدهیم؟",
+      "description": "برای مصرف روزمره نوشیدنی مناسب انتخاب کنید، آب‌میوه صددرصد را از نوشیدنی میوه‌ای تشخیص دهید و ببینید حداکثر مقدار آب‌میوه در هر سن چقدر است."
+    },
+    "ar": {
+      "title": "ماذا تقدم لطفلك عندما يطلب شرابًا؟",
+      "description": "اختر ما يناسب طفلك من مشروبات يومية، وميّز بين العصير الخالص وشراب الفاكهة، وتعرّف إلى الحد الأقصى لكمية العصير بحسب العمر."
+    },
+    "fr": {
+      "title": "Que servir quand votre enfant demande à boire ?",
+      "description": "Choisissez les boissons du quotidien, distinguez un pur jus d’une boisson aux fruits et découvrez les quantités maximales de jus conseillées selon l’âge."
+    },
+    "tr": {
+      "title": "Çocuğunuz içecek istediğinde ne sunabilirsiniz?",
+      "description": "Günlük içecekleri seçerken yüzde yüz meyve suyu ile meyveli içecekleri ayırt edin. Yaşına göre çocuğunuza en fazla ne kadar meyve suyu sunabileceğinizi öğrenin."
+    },
+    "es": {
+      "title": "Qué ofrecerle de beber a un niño",
+      "description": "Elige bebidas para el día a día, distingue un zumo 100 % de una bebida de frutas y averigua qué cantidad de zumo se aconseja como máximo a cada edad."
+    },
+    "pt": {
+      "title": "O que oferecer quando a criança pede algo para beber?",
+      "description": "Escolha bebidas para o dia a dia, diferencie suco 100% de bebida de fruta e veja quais são os limites de suco recomendados para cada idade."
+    }
+  }
+}

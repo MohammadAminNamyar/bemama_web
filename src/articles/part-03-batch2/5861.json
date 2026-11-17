@@ -1,0 +1,814 @@
+{
+  "sourceId": "5861",
+  "article": {
+    "slug": "baby-and-child/choosing-and-caring-for-a-family-pet",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "Is your family ready for a pet?",
+        "description": "Think through what your child hopes for from a pet, which jobs an adult will take on, how to keep contact safe and how to talk about a pet’s death.",
+        "intro": "Before bringing an animal home, picture an ordinary Tuesday. Your child has a fever, you are late for work, and the water bowl is empty. Who fills it? The answer matters more to the animal than a promise made on the day you meet. It also gives your family a place to start talking about what life with a pet would really be like.",
+        "sections": [
+          {
+            "heading": "Find out what your child is hoping for",
+            "paragraphs": [
+              "Ask your child to describe an afternoon with the animal they have in mind. One child imagines a dog that greets them after school. Another wants to watch a fish explore a tank. Someone who likes the idea of a cat may feel nervous when one actually comes close. Listen to those differences. Offer a supervised visit with a suitable animal and let your child watch from a distance if they prefer.",
+              "A relationship with a pet can give a particular child comfort, pleasure and chances to practise being gentle. Families sometimes hope it will also lift persistent low mood. A UK study that followed children over time found little evidence of a link between pet ownership and better emotional health after accounting for differences between families. If your child is struggling, seek help for that difficulty on its own terms. Adoption is a separate family decision."
+            ]
+          },
+          {
+            "heading": "Give the child a real job and the adult a backup plan",
+            "paragraphs": [
+              "Choose one task you can do together. A child might help fill the water bowl while an adult checks that fresh water is always available. An older child might help a caregiver note what the pet ate, or tell them when an animal is hiding more than usual. A chart can show who did a job and when. It works best when everyone knows which adult will check it.",
+              "If your child forgets, meet the animal’s need straight away. Talk later about what made the job hard. Was the food stored too high? Did an evening activity change the routine? You can shorten the task or make it a shared job again. Adults remain responsible for feeding, a safe home, hygiene, veterinary care and arranging cover during illness or travel."
+            ]
+          },
+          {
+            "heading": "Choose an animal your household can actually care for",
+            "paragraphs": [
+              "Consider space, housing rules, costs, noise, lifespan and the animal’s daily needs. A small animal can require specialist equipment and years of care. Ask a veterinarian or an experienced shelter worker about the individual animal’s temperament and handling needs. Give every member of the household a chance to voice fears or concerns about allergies before deciding.",
+              "Age and health affect the choice. Reptiles and amphibians, including turtles and frogs, can carry Salmonella even when they look healthy. CDC advises families with children under five or people with weakened immune systems to choose a different pet. A tank adds surfaces and water that can carry germs. An adult should assess these needs before bringing an animal home."
+            ]
+          },
+          {
+            "heading": "Teach the child to notice when the animal wants space",
+            "paragraphs": [
+              "Watch a calm animal together. If it walks away or hides, help your child let it go. Give a pet a resting place where a child will leave it alone. An adult should be close enough to intervene when a young child is with an animal, even a familiar one. Children can enjoy watching an animal without picking it up, hugging it or bringing their face close.",
+              "Wash hands with soap and running water after touching the pet, its food, bowl or habitat. Help a younger child do this well. Keep animal supplies away from areas where the family prepares food. Ask a veterinarian how to clean the animal’s space safely and which tasks an adult should handle. These habits belong in the plan from day one."
+            ]
+          },
+          {
+            "heading": "Talk honestly when a pet is sick or dies",
+            "paragraphs": [
+              "Tell a child what has happened in simple words. For example, “Milo died today. His body stopped working, and he can’t come home.” Pause for the child’s question. A young child may ask tomorrow if the pet is coming back. Answer gently again. If the child wonders whether missing one routine caused the death, explain what you know and address the guilt directly.",
+              "A child might want to draw a favourite moment, share a photograph, sit quietly with you or play as usual for a while. Make room for those different responses. Before discussing another pet, ask what your child misses about this one. If grief is overwhelming or keeps a child from sleeping, attending school or managing everyday life, contact their healthcare professional."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Name the adult responsible for each essential care task before choosing a pet.",
+          "Offer a child a small supervised role and adjust it as their skills develop.",
+          "Consider the specific animal, the youngest household member and anyone at higher risk from infection.",
+          "Use direct, gentle words when a pet dies and make room for repeated questions."
+        ],
+        "faq": [
+          {
+            "q": "Can a pet improve my child’s mental health?",
+            "a": "A child may find companionship with an animal meaningful. Research has not shown that simply adopting a pet reliably improves children’s emotional health. Discuss persistent sadness, withdrawal or anxiety with a healthcare professional, whether or not the family has a pet."
+          },
+          {
+            "q": "What can my child learn by caring for an animal?",
+            "a": "A modest job gives your child a chance to pay attention to another living thing. Filling a water bowl alongside an adult, noticing when a pet needs space or remembering a shared routine can all be useful. An adult checks that the care actually happens."
+          },
+          {
+            "q": "Which pet is best for a child?",
+            "a": "Start with your child’s interest, then investigate what the whole household can provide. Consider temperament, lifespan, costs, supervision and health risks. A small size does not guarantee simple care. Families with children under five should avoid reptiles and amphibians."
+          },
+          {
+            "q": "What if my child wants an animal but we cannot keep one?",
+            "a": "A supervised visit with a familiar, suitable animal can help you learn what your child enjoys. Some children prefer drawing animals or observing them from a distance. It is reasonable to wait until an adult has the time and resources for the animal’s full care."
+          },
+          {
+            "q": "How can I help my child after our pet dies?",
+            "a": "Say plainly that the animal died, answer questions and offer chances to remember it in the child’s own way. A child may return to a question after a day of ordinary play. Seek support if grief is making everyday activities consistently difficult."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Have an adult plan for every essential task, including veterinary care and travel cover.",
+            "Supervise children around pets and build handwashing into the routine.",
+            "Persistent emotional distress deserves attention regardless of pet ownership."
+          ],
+          "bemama": "BeMama suggests planning one ordinary day with the animal so a family can weigh the child’s wishes alongside the animal’s long-term needs.",
+          "safety": "A healthy-looking animal can carry germs. Ask a veterinarian about a suitable pet and speak with your clinician about household allergies or a weakened immune system.",
+          "sources": [
+            {
+              "organization": "BMC Pediatrics",
+              "title": "Companion animals and childhood development in a UK birth cohort",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11395694/"
+            },
+            {
+              "organization": "Centers for Disease Control and Prevention",
+              "title": "Staying healthy around animals",
+              "url": "https://www.cdc.gov/healthy-pets/about/index.html"
+            },
+            {
+              "organization": "Centers for Disease Control and Prevention",
+              "title": "Health considerations for reptiles and amphibians",
+              "url": "https://www.cdc.gov/healthy-pets/about/reptiles-and-amphibians.html"
+            },
+            {
+              "organization": "American Academy of Child and Adolescent Psychiatry",
+              "title": "Pets and children",
+              "url": "https://www.aacap.org/App_Themes/AACAP/docs/facts_for_families/75_pets_and_children.pdf"
+            },
+            {
+              "organization": "American Academy of Child and Adolescent Psychiatry",
+              "title": "Talking to children when a pet dies",
+              "url": "https://aacap.org/AACAP/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/When-A-Pet-Dies-078.aspx"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "آیا خانواده‌تان برای نگهداری از حیوان خانگی آماده است؟",
+        "description": "دربارهٔ انتظار کودکتان از داشتن حیوان خانگی، مسئولیت مراقبت از آن، تماس ایمن با حیوان و شیوهٔ گفت‌وگو با کودک پس از مرگ حیوان فکر کنید.",
+        "intro": "پیش از آنکه حیوانی به خانه بیاورید، صبح یک روز عادی را تصور کنید. کودکتان تب دارد، شما برای رفتن به محل کار دیرتان شده و ظرف آب حیوان خالی است. چه کسی آن را پر می‌کند؟ برای حیوان، پاسخ این پرسش از قولی که روز اول می‌دهید مهم‌تر است. همین پرسش می‌تواند آغاز گفت‌وگویی خانوادگی دربارهٔ زندگی روزمره با حیوان باشد.",
+        "sections": [
+          {
+            "heading": "بپرسید کودکتان از داشتن حیوان چه انتظاری دارد",
+            "paragraphs": [
+              "از کودک بخواهید یک بعدازظهر را با حیوانی که در ذهن دارد توصیف کند. شاید دلش بخواهد وقتی از مدرسه برمی‌گردد سگی به استقبالش بیاید. کودک دیگری ممکن است بخواهد گردش ماهی در آکواریوم را تماشا کند. شاید کودکی از فکر داشتن گربه خوشش بیاید، ولی وقتی گربه نزدیکش می‌شود بترسد. به این تفاوت‌ها توجه کنید. می‌توانید با هم و زیر نظر یک بزرگسال، حیوانی مناسب را از نزدیک ببینید. اگر کودک ترجیح می‌دهد از دور تماشا کند، بگذارید خودش فاصله را انتخاب کند.",
+              "رابطه با حیوان ممکن است برای کودک آرامش‌بخش و لذت‌بخش باشد و فرصتی برای تمرین مهربانی فراهم کند. گاهی خانواده‌ها امیدوارند که حیوان خانگی حال کودکی را که مدت‌هاست غمگین است هم بهتر کند. در پژوهشی در بریتانیا که کودکان را در گذر زمان دنبال کرد، پس از در نظر گرفتن تفاوت‌های خانواده‌ها، شواهد چندانی از ارتباط میان داشتن حیوان خانگی و سلامت عاطفی بهتر کودکان دیده نشد. اگر کودکتان با مشکلی روبه‌روست، برای همان مشکل کمک بگیرید. آوردن حیوان به خانه تصمیم جداگانه‌ای است که باید خانوادگی بگیرید."
+            ]
+          },
+          {
+            "heading": "به کودک کار مشخصی بسپارید و برای روزی که نتواند آن را انجام دهد آماده باشید",
+            "paragraphs": [
+              "کاری را انتخاب کنید که بتوانید با هم انجام دهید. مثلاً کودک می‌تواند در پر کردن ظرف آب کمک کند و بزرگسالی مطمئن شود که حیوان همیشه آب تازه دارد. کودک بزرگ‌تر می‌تواند به شما در یادداشت کردن آنچه حیوان خورده کمک کند یا بگوید که حیوان بیشتر از همیشه پنهان می‌شود. در یک جدول می‌توان نوشت هرکس چه کاری را چه زمانی انجام داده است. بهتر است از پیش مشخص باشد که کدام بزرگسال جدول را بررسی می‌کند.",
+              "اگر کودک کارش را فراموش کرد، همان موقع نیاز حیوان را برطرف کنید. بعداً صحبت کنید و ببینید چه چیزی کار را سخت کرده بود. آیا غذا دور از دسترسش بود؟ آیا برنامهٔ عصر عوض شده بود؟ می‌توانید کار کوچک‌تری به او بسپارید یا دوباره آن را با هم انجام دهید. مسئولیت غذا، جای امن، بهداشت، مراقبت دامپزشکی و پیدا کردن مراقب در زمان بیماری یا سفر بر عهدهٔ بزرگسالان است."
+            ]
+          },
+          {
+            "heading": "حیوانی انتخاب کنید که خانواده بتواند از آن مراقبت کند",
+            "paragraphs": [
+              "فضای خانه، مقررات محل سکونت، هزینه‌ها، سروصدا، طول عمر و نیازهای روزانهٔ حیوان را در نظر بگیرید. حتی یک حیوان کوچک ممکن است به وسایل ویژه و سال‌ها مراقبت احتیاج داشته باشد. از دامپزشک یا فردی باتجربه در پناهگاه حیوانات دربارهٔ خلق‌وخوی همان حیوان و نحوهٔ برخورد با آن بپرسید. پیش از تصمیم‌گیری، به همهٔ اعضای خانواده فرصت دهید دربارهٔ ترس یا نگرانی خود از حساسیت حرف بزنند.",
+              "سن و سلامت اعضای خانواده هم در انتخاب اثر دارد. خزندگانی مانند لاک‌پشت و دوزیستانی مانند قورباغه ممکن است حتی وقتی سالم به نظر می‌رسند حامل باکتری سالمونلا باشند. مرکز کنترل و پیشگیری از بیماری‌های آمریکا توصیه می‌کند اگر در خانه کودک زیر پنج سال یا کسی با سیستم ایمنی ضعیف زندگی می‌کند، خانواده حیوان دیگری انتخاب کند. آب و سطوح داخل محفظهٔ نگهداری هم ممکن است آلوده باشند. یک بزرگسال باید پیش از آوردن حیوان به خانه این شرایط را بررسی کند."
+            ]
+          },
+          {
+            "heading": "به کودک نشان دهید چه وقت حیوان می‌خواهد تنها بماند",
+            "paragraphs": [
+              "با هم حیوان آرامی را تماشا کنید. اگر دور می‌شود یا پنهان می‌شود، به کودک کمک کنید بگذارد حیوان به راهش برود. جایی برای استراحت حیوان در نظر بگیرید که کودک در آن مزاحمش نشود. وقتی کودک خردسال کنار حیوان است، حتی اگر حیوان را خوب می‌شناسد، بزرگسالی باید آن‌قدر نزدیک باشد که بتواند به‌موقع دخالت کند. کودک می‌تواند بدون بغل کردن حیوان، بلند کردن آن یا نزدیک بردن صورتش، از تماشای آن لذت ببرد.",
+              "پس از دست زدن به حیوان، غذا، ظرف یا محل زندگی‌اش، دست‌ها را با آب جاری و صابون بشویید. به کودک خردسال کمک کنید این کار را درست انجام دهد. وسایل حیوان را از محل آماده کردن غذای خانواده دور نگه دارید. از دامپزشک بپرسید چگونه محل زندگی حیوان را با رعایت ایمنی تمیز کنید و کدام کارها بر عهدهٔ بزرگسال است. از همان روز اول برای این عادت‌ها برنامه داشته باشید."
+            ]
+          },
+          {
+            "heading": "وقتی حیوان بیمار می‌شود یا می‌میرد با کودک صادقانه حرف بزنید",
+            "paragraphs": [
+              "با کلمات ساده بگویید چه اتفاقی افتاده است. مثلاً بگویید «میلو امروز مرد. بدنش دیگر کار نمی‌کند و نمی‌تواند به خانه برگردد.» کمی صبر کنید تا کودک سؤالش را بپرسد. ممکن است کودک خردسال فردا دوباره بپرسد که حیوان کی برمی‌گردد. باز هم با مهربانی پاسخ دهید. اگر کودک فکر می‌کند حیوان به این دلیل مرده که او یکی از کارهای روزانه‌اش را فراموش کرده، آنچه را می‌دانید برایش توضیح دهید و دربارهٔ احساس تقصیرش حرف بزنید.",
+              "شاید کودک بخواهد خاطره‌ای را نقاشی کند، عکسی نشان دهد، در سکوت کنارتان بنشیند یا مدتی مثل همیشه بازی کند. برای هر یک از این واکنش‌ها جا بگذارید. پیش از صحبت دربارهٔ حیوان دیگری، از کودک بپرسید بیشتر دلتنگ چه چیزی در حیوانش است. اگر اندوه برایش طاقت‌فرساست یا خواب، مدرسه رفتن یا زندگی روزمره‌اش را مختل کرده است، با پزشک یا مراقب سلامت کودک تماس بگیرید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "پیش از انتخاب حیوان، مشخص کنید مسئولیت هر کار ضروری با کدام بزرگسال است.",
+          "کار کوچکی زیر نظر بزرگسال به کودک بسپارید و آن را با رشد توانایی‌اش تغییر دهید.",
+          "ویژگی‌های همان حیوان، سن کوچک‌ترین عضو خانه و وضعیت افرادی را که در معرض خطر بیشتر عفونت‌اند در نظر بگیرید.",
+          "وقتی حیوان می‌میرد، ساده و مهربان حرف بزنید و به کودک فرصت دهید پرسش‌هایش را تکرار کند."
+        ],
+        "faq": [
+          {
+            "q": "آیا حیوان خانگی می‌تواند به سلامت روان کودکم کمک کند؟",
+            "a": "همراهی با حیوان ممکن است برای کودک ارزشمند باشد. پژوهش‌ها نشان نداده‌اند که صرفِ آوردن حیوان به خانه به‌طور قابل اتکا سلامت عاطفی کودکان را بهتر می‌کند. اگر غمگینی، گوشه‌گیری یا اضطراب کودک ادامه دارد، چه حیوانی داشته باشید چه نداشته باشید، با پزشک یا مراقب سلامت او مشورت کنید."
+          },
+          {
+            "q": "کودک از مراقبت از حیوان چه چیزی یاد می‌گیرد؟",
+            "a": "یک کار کوچک به کودک فرصت می‌دهد به نیازهای موجود زندهٔ دیگری توجه کند. می‌تواند کنار بزرگسال ظرف آب را پر کند، متوجه شود حیوان به خلوت نیاز دارد یا کاری مشترک را به یاد بیاورد. یک بزرگسال بررسی می‌کند که نیاز حیوان واقعاً برطرف شده باشد."
+          },
+          {
+            "q": "کدام حیوان برای کودک مناسب‌تر است؟",
+            "a": "اول ببینید کودک به چه چیزی علاقه دارد و بعد بررسی کنید خانواده چه امکاناتی دارد. خلق‌وخو و طول عمر حیوان، هزینه‌ها، نیاز به نظارت و خطرهای احتمالی برای سلامت را بسنجید. کوچک بودن حیوان لزوماً به معنی آسان بودن نگهداری از آن نیست. خانواده‌هایی که کودک زیر پنج سال دارند بهتر است از نگهداری خزندگان و دوزیستان خودداری کنند."
+          },
+          {
+            "q": "اگر کودکم حیوانی می‌خواهد ولی نمی‌توانیم در خانه از آن نگهداری کنیم، چه کنیم؟",
+            "a": "دیدار با یک حیوان آشنا و مناسب، زیر نظر بزرگسال، به شما کمک می‌کند بفهمید کودک از چه چیزی خوشش می‌آید. بعضی کودکان ترجیح می‌دهند حیوانی را نقاشی کنند یا از دور ببینند. می‌توانید تا زمانی که یک بزرگسال وقت و امکانات کافی برای همهٔ نیازهای حیوان داشته باشد صبر کنید."
+          },
+          {
+            "q": "بعد از مرگ حیوان خانگی چگونه به کودکم کمک کنم؟",
+            "a": "روشن بگویید حیوان مرده است، به پرسش‌ها پاسخ دهید و بگذارید کودک به شیوهٔ خودش یاد حیوان را زنده نگه دارد. شاید پس از یک روز بازی معمولی، دوباره همان پرسش را مطرح کند. اگر اندوه به‌طور مداوم فعالیت‌های روزمره‌اش را دشوار کرده، کمک بگیرید."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۶ نوامبر ۲۰۲۶ بررسی شد",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "یک بزرگسال برای هر نیاز ضروری، از جمله مراقبت دامپزشکی و نگهداری در زمان سفر، برنامه‌ریزی کند.",
+            "بر تماس کودکان با حیوان نظارت کنید و شستن دست‌ها را وارد برنامهٔ روزانه کنید.",
+            "اگر ناراحتی عاطفی کودک ادامه دارد، چه حیوان خانگی داشته باشید چه نداشته باشید، آن را پیگیری کنید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند یک روز عادی با حیوان را تصور کنید تا خانواده بتواند خواستهٔ کودک و نیازهای درازمدت حیوان را کنار هم بسنجد.",
+          "safety": "حیوانی که سالم به نظر می‌رسد هم ممکن است حامل میکروب باشد. دربارهٔ انتخاب حیوان مناسب با دامپزشک و دربارهٔ حساسیت یا ضعف سیستم ایمنی اعضای خانواده با پزشک خود مشورت کنید.",
+          "sources": [
+            {
+              "organization": "مجلهٔ بی‌ام‌سی پدیاتریکس",
+              "title": "حیوانات خانگی و رشد کودکان در یک مطالعهٔ هم‌گروهی تولد در بریتانیا",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11395694/"
+            },
+            {
+              "organization": "مرکز کنترل و پیشگیری از بیماری‌های آمریکا",
+              "title": "حفظ سلامت در تماس با حیوانات",
+              "url": "https://www.cdc.gov/healthy-pets/about/index.html"
+            },
+            {
+              "organization": "مرکز کنترل و پیشگیری از بیماری‌های آمریکا",
+              "title": "ملاحظات بهداشتی دربارهٔ خزندگان و دوزیستان",
+              "url": "https://www.cdc.gov/healthy-pets/about/reptiles-and-amphibians.html"
+            },
+            {
+              "organization": "آکادمی روان‌پزشکی کودکان و نوجوانان آمریکا",
+              "title": "حیوانات خانگی و کودکان",
+              "url": "https://www.aacap.org/App_Themes/AACAP/docs/facts_for_families/75_pets_and_children.pdf"
+            },
+            {
+              "organization": "آکادمی روان‌پزشکی کودکان و نوجوانان آمریکا",
+              "title": "گفت‌وگو با کودکان پس از مرگ حیوان خانگی",
+              "url": "https://aacap.org/AACAP/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/When-A-Pet-Dies-078.aspx"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "هل أسرتكم مستعدة لتربية حيوان أليف؟",
+        "description": "تحدثوا عمّا يأمله طفلكم من وجود حيوان أليف في البيت، ومن سيتولى رعايته، وكيف تجعلون التعامل معه آمنًا، وكيف تجيبون عن أسئلة الطفل إذا مات الحيوان.",
+        "intro": "قبل إحضار حيوان إلى البيت، تخيّلوا صباح ثلاثاء عاديًا. طفلكم مصاب بالحمى، وقد تأخرتم عن العمل، ووعاء الماء فارغ. من سيملؤه؟ ما يهم الحيوان فعليًا هو وجود من يفعل ذلك، أكثر من الوعود التي تقطعونها يوم تلتقون به. ومن هذا السؤال يمكن للأسرة أن تبدأ الحديث عن شكل الحياة معه.",
+        "sections": [
+          {
+            "heading": "اكتشفوا ما الذي يتمناه الطفل",
+            "paragraphs": [
+              "اطلبوا من الطفل أن يصف فترة بعد الظهر مع الحيوان الذي يفكر فيه. قد يتخيل أحد الأطفال كلبًا يستقبله بعد المدرسة، وقد يستمتع آخر بمراقبة سمكة تسبح في حوضها. وقد يعجب طفل بفكرة تربية قطة، ثم يشعر بالتوتر عندما تقترب منه قطة بالفعل. استمعوا إلى هذه الاختلافات. يمكن ترتيب زيارة بإشراف شخص بالغ لحيوان مناسب، وترك الطفل يراقبه من بعيد إذا أحب.",
+              "قد يجد طفل بعينه في صحبة حيوان أليف متعة وراحة وفرصة للتدرب على الرفق. وتأمل بعض الأسر أن يساعد وجود الحيوان أيضًا في تخفيف الحزن المستمر. لكن دراسة بريطانية تابعت أطفالًا على مدى سنوات وجدت أدلة محدودة على ارتباط تربية حيوان أليف بتحسن الصحة النفسية بعد أخذ الاختلافات بين الأسر في الحسبان. إذا كان طفلكم يعاني من صعوبة، فاطلبوا المساعدة بشأنها. أما تبنّي حيوان فهو قرار أسري مستقل."
+            ]
+          },
+          {
+            "heading": "أوكلوا إلى الطفل مهمة حقيقية وحددوا من يتولاها عند الحاجة",
+            "paragraphs": [
+              "اختاروا مهمة واحدة تؤدونها معًا. يمكن للطفل أن يساعد في ملء وعاء الماء، فيما يتأكد شخص بالغ من توفر ماء نظيف باستمرار. ويمكن لطفل أكبر سنًا مساعدة من يرعى الحيوان على تدوين ما أكله، أو إخباره إذا لاحظ أنه يختبئ أكثر من المعتاد. وقد يوضح جدول بسيط من أنجز المهمة ومتى، خصوصًا إذا عرف الجميع أيّ شخص بالغ سيتابعه.",
+              "إذا نسي الطفل، فلبّوا حاجة الحيوان فورًا. ثم تحدثوا لاحقًا عمّا جعل المهمة صعبة. هل كان الطعام محفوظًا على رف عالٍ؟ هل غيّر نشاط مسائي الروتين؟ يمكن تبسيط المهمة أو العودة إلى أدائها معًا. وتبقى التغذية والسكن الآمن والنظافة والرعاية البيطرية وترتيب من ينوب عن الأسرة في المرض أو السفر مسؤولية البالغين."
+            ]
+          },
+          {
+            "heading": "اختاروا حيوانًا تستطيع الأسرة رعايته فعلاً",
+            "paragraphs": [
+              "ضعوا في الحسبان المساحة المتاحة وقواعد السكن والتكاليف والضوضاء والعمر المتوقع للحيوان واحتياجاته اليومية. فقد يحتاج حيوان صغير الحجم إلى تجهيزات خاصة ورعاية لسنوات. اسألوا طبيبًا بيطريًا أو شخصًا ذا خبرة يعمل في مأوى للحيوانات عن طبع الحيوان الذي تفكرون فيه وكيفية التعامل معه. وأتيحوا لكل فرد في المنزل أن يتحدث عن مخاوفه أو عن حساسية محتملة قبل اتخاذ القرار.",
+              "يؤثر العمر والحالة الصحية في الاختيار. فالزواحف والبرمائيات، ومنها السلاحف والضفادع، قد تحمل بكتيريا السالمونيلا حتى إن بدت سليمة. وتنصح المراكز الأمريكية لمكافحة الأمراض والوقاية منها الأسر التي تضم طفلاً دون الخامسة أو شخصًا ضعيف المناعة باختيار حيوان آخر. كذلك يمكن أن تحمل أسطح الحوض وماؤه الجراثيم. من المهم أن يقيّم شخص بالغ هذه الاحتياجات قبل إحضار الحيوان إلى البيت."
+            ]
+          },
+          {
+            "heading": "ساعدوا الطفل على ملاحظة رغبة الحيوان في الابتعاد",
+            "paragraphs": [
+              "راقبوا معًا حيوانًا هادئًا. إذا ابتعد أو اختبأ، فساعدوا الطفل على تركه وشأنه. خصصوا للحيوان مكانًا يرتاح فيه دون أن يزعجه الطفل. ويجب أن يبقى البالغ قريبًا بما يكفي للتدخل حين يكون طفل صغير مع حيوان، حتى إن كان الحيوان مألوفًا. يستطيع الطفل أن يستمتع بالمشاهدة دون حمل الحيوان أو احتضانه أو تقريب وجهه منه.",
+              "اغسلوا أيديكم بالماء الجاري والصابون بعد لمس الحيوان أو طعامه أو وعائه أو المكان الذي يعيش فيه. ساعدوا الأطفال الصغار على غسل أيديهم جيدًا. وأبعدوا لوازم الحيوان عن أماكن إعداد طعام الأسرة. اسألوا الطبيب البيطري كيف تنظفون مكان الحيوان بأمان، وما الأعمال التي ينبغي أن يتولاها شخص بالغ. أدخلوا هذه العادات في الروتين من اليوم الأول."
+            ]
+          },
+          {
+            "heading": "تحدثوا بصدق عندما يمرض الحيوان أو يموت",
+            "paragraphs": [
+              "أخبروا الطفل بما حدث بكلمات بسيطة. يمكن القول: «مات ميلو اليوم. توقف جسمه عن العمل، ولن يعود إلى البيت». توقفوا قليلاً واتركوا المجال لسؤاله. وقد يسأل طفل صغير في اليوم التالي إن كان الحيوان سيعود. أجيبوه مجددًا برفق. وإذا تساءل عمّا إذا كان نسيانه إحدى المهام قد أدى إلى موت الحيوان، فاشرحوا له ما تعرفونه وتحدثوا بوضوح عن شعوره بالذنب.",
+              "قد يرغب الطفل في رسم ذكرى محببة أو مشاركة صورة أو الجلوس بهدوء معكم، وربما يعود إلى اللعب كالمعتاد لفترة. اتركوا مساحة لهذه الاستجابات المختلفة. قبل الحديث عن حيوان آخر، اسألوا الطفل عمّا يفتقده في هذا الحيوان بالذات. وإذا كان الحزن طاغيًا أو منعه من النوم أو الذهاب إلى المدرسة أو ممارسة حياته اليومية، فتواصلوا مع المختص الصحي الذي يتابعه."
+            ]
+          }
+        ],
+        "takeaways": [
+          "قبل اختيار الحيوان، حددوا الشخص البالغ المسؤول عن كل مهمة أساسية في رعايته.",
+          "أعطوا الطفل مهمة صغيرة بإشرافكم وعدّلوها مع نمو مهاراته.",
+          "راعوا احتياجات الحيوان نفسه وعمر أصغر فرد في المنزل ووجود أي شخص أكثر عرضة للعدوى.",
+          "حين يموت الحيوان، استخدموا كلمات واضحة ولطيفة واتركوا المجال لتكرار الأسئلة."
+        ],
+        "faq": [
+          {
+            "q": "هل يساعد الحيوان الأليف في تحسين صحة طفلي النفسية؟",
+            "a": "قد تكون صحبة الحيوان مصدرًا مهمًا للأنس للطفل، لكن الأبحاث لم تثبت أن مجرد تبنّي حيوان يحسّن الصحة النفسية للأطفال بصورة يمكن الاعتماد عليها. ناقشوا الحزن المستمر أو الانسحاب أو القلق مع مختص صحي، سواء كانت الأسرة ترعى حيوانًا أم لا."
+          },
+          {
+            "q": "ماذا يمكن أن يتعلم طفلي من رعاية حيوان؟",
+            "a": "تتيح مهمة بسيطة للطفل أن ينتبه إلى احتياجات كائن حي آخر. من الأمثلة ملء وعاء الماء مع شخص بالغ، أو ملاحظة أن الحيوان يريد الابتعاد، أو تذكر موعد مهمة مشتركة. ويتأكد شخص بالغ من أن الرعاية تمت فعلاً."
+          },
+          {
+            "q": "ما أفضل حيوان أليف لطفل؟",
+            "a": "ابدؤوا بما يثير اهتمام الطفل، ثم ابحثوا عمّا تستطيع الأسرة كلها توفيره. راعوا طبع الحيوان وعمره المتوقع والتكاليف والإشراف والمخاطر الصحية. وصغر الحجم لا يعني بالضرورة أن الرعاية سهلة. ينبغي للأسر التي تضم أطفالاً دون الخامسة تجنب الزواحف والبرمائيات."
+          },
+          {
+            "q": "ماذا لو رغب الطفل في حيوان لا نستطيع الاحتفاظ به؟",
+            "a": "قد تساعد زيارة بإشراف شخص بالغ لحيوان مألوف ومناسب في معرفة ما يستمتع به الطفل. ويفضّل بعض الأطفال رسم الحيوانات أو مراقبتها من بعيد. ومن المعقول الانتظار إلى أن يتوفر لشخص بالغ الوقت والإمكانات لتلبية جميع احتياجات الحيوان."
+          },
+          {
+            "q": "كيف أساند طفلي بعد موت حيواننا الأليف؟",
+            "a": "قولوا بوضوح إن الحيوان مات، وأجيبوا عن الأسئلة وأتيحوا للطفل أن يتذكره بطريقته. فقد يعود إلى السؤال بعد يوم لعب فيه كالمعتاد. اطلبوا الدعم إذا ظل الحزن يجعل الأنشطة اليومية صعبة عليه."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في 16 نوفمبر 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "ضعوا خطة يتولاها بالغ لكل مهمة أساسية، ومنها الرعاية البيطرية وترتيب من يرعى الحيوان أثناء السفر.",
+            "راقبوا الأطفال عند وجودهم مع الحيوانات، وأدخلوا غسل اليدين في الروتين.",
+            "يستحق الضيق النفسي المستمر الاهتمام سواء كانت الأسرة ترعى حيوانًا أم لا."
+          ],
+          "bemama": "تقترح BeMama تخيّل يوم عادي مع الحيوان، حتى تفكر الأسرة في رغبات الطفل إلى جانب احتياجات الحيوان على المدى الطويل.",
+          "safety": "قد يحمل حيوان يبدو سليمًا جراثيم. اسألوا الطبيب البيطري عن حيوان يناسب أسرتكم، واستشيروا مختصكم الصحي إذا كان أحد أفرادها يعاني حساسية أو ضعفًا في المناعة.",
+          "sources": [
+            {
+              "organization": "مجلة BMC Pediatrics لطب الأطفال",
+              "title": "الحيوانات الأليفة ونمو الأطفال في دراسة بريطانية تابعت مجموعة منذ الولادة",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11395694/"
+            },
+            {
+              "organization": "المراكز الأمريكية لمكافحة الأمراض والوقاية منها",
+              "title": "الحفاظ على الصحة عند التعامل مع الحيوانات",
+              "url": "https://www.cdc.gov/healthy-pets/about/index.html"
+            },
+            {
+              "organization": "المراكز الأمريكية لمكافحة الأمراض والوقاية منها",
+              "title": "اعتبارات صحية تتعلق بالزواحف والبرمائيات",
+              "url": "https://www.cdc.gov/healthy-pets/about/reptiles-and-amphibians.html"
+            },
+            {
+              "organization": "الأكاديمية الأمريكية للطب النفسي للأطفال والمراهقين",
+              "title": "الحيوانات الأليفة والأطفال",
+              "url": "https://www.aacap.org/App_Themes/AACAP/docs/facts_for_families/75_pets_and_children.pdf"
+            },
+            {
+              "organization": "الأكاديمية الأمريكية للطب النفسي للأطفال والمراهقين",
+              "title": "الحديث مع الأطفال عند موت حيوان أليف",
+              "url": "https://aacap.org/AACAP/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/When-A-Pet-Dies-078.aspx"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Votre famille est-elle prête à accueillir un animal ?",
+        "description": "Explorez les attentes de votre enfant, les soins à confier à un adulte, les gestes pour approcher un animal en sécurité et les mots pour parler de sa mort.",
+        "intro": "Avant d’accueillir un animal, imaginez un mardi ordinaire. Votre enfant a de la fièvre, vous êtes en retard au travail et le bol d’eau est vide. Qui le remplit ? Pour l’animal, la réponse compte davantage qu’une promesse faite le jour de la première rencontre. Cette question permet aussi d’imaginer en famille à quoi ressemblerait vraiment la vie avec lui.",
+        "sections": [
+          {
+            "heading": "Découvrez ce que votre enfant espère",
+            "paragraphs": [
+              "Demandez à votre enfant de décrire un après-midi avec l’animal qu’il imagine. L’un rêve d’un chien qui viendrait l’accueillir au retour de l’école. Un autre voudrait regarder un poisson explorer son aquarium. Un enfant qui aime l’idée d’avoir un chat peut être inquiet lorsqu’un chat s’approche de lui. Écoutez ces différences. Proposez une visite encadrée auprès d’un animal adapté et laissez votre enfant l’observer à distance s’il le préfère.",
+              "Une relation avec un animal peut apporter à un enfant du réconfort, du plaisir et l’occasion d’apprendre à faire preuve de douceur. Certaines familles espèrent aussi qu’elle soulagera une tristesse persistante. Une étude britannique qui a suivi des enfants dans le temps a trouvé peu d’éléments en faveur d’un lien entre la présence d’un animal et une meilleure santé émotionnelle, une fois prises en compte les différences entre les familles. Si votre enfant va mal, cherchez de l’aide pour cette difficulté. L’adoption est une décision familiale à part entière."
+            ]
+          },
+          {
+            "heading": "Confiez une vraie tâche à l’enfant et prévoyez un relais adulte",
+            "paragraphs": [
+              "Choisissez une tâche à faire ensemble. Un enfant peut aider à remplir le bol d’eau, tandis qu’un adulte s’assure que l’animal a toujours de l’eau fraîche. Un enfant plus âgé peut aider un adulte à noter ce que l’animal a mangé ou signaler qu’il se cache plus souvent que d’habitude. Un tableau permet de voir qui a fait quoi et quand. Il sera surtout utile si tout le monde sait quel adulte le vérifiera.",
+              "Si votre enfant oublie, répondez tout de suite au besoin de l’animal. Parlez plus tard de ce qui a rendu la tâche difficile. La nourriture était-elle rangée trop haut ? Une activité du soir a-t-elle changé la routine ? Vous pouvez réduire la tâche ou recommencer à la faire ensemble. Les adultes restent responsables de l’alimentation, de la sécurité du lieu de vie, de l’hygiène, des soins vétérinaires et de l’organisation d’un relais en cas de maladie ou de voyage."
+            ]
+          },
+          {
+            "heading": "Choisissez un animal dont votre foyer pourra s’occuper",
+            "paragraphs": [
+              "Tenez compte de l’espace disponible, des règles du logement, des dépenses, du bruit, de l’espérance de vie de l’animal et de ses besoins quotidiens. Même un petit animal peut demander un équipement spécialisé et des années de soins. Interrogez un vétérinaire ou une personne expérimentée travaillant dans un refuge sur le tempérament de l’animal envisagé et les précautions à prendre pour le manipuler. Laissez chacun exprimer ses craintes ou ses préoccupations concernant les allergies avant de décider.",
+              "L’âge et la santé des personnes du foyer orientent le choix. Les reptiles et les amphibiens, notamment les tortues et les grenouilles, peuvent porter la salmonelle même s’ils semblent en bonne santé. Les autorités sanitaires américaines conseillent aux familles ayant un enfant de moins de cinq ans ou une personne immunodéprimée de choisir un autre animal. L’eau et les parois de l’aquarium ou du terrarium peuvent aussi héberger des germes. Un adulte doit évaluer ces contraintes avant l’arrivée de l’animal."
+            ]
+          },
+          {
+            "heading": "Aidez l’enfant à voir quand l’animal a besoin d’espace",
+            "paragraphs": [
+              "Observez ensemble un animal calme. S’il s’éloigne ou se cache, aidez votre enfant à le laisser partir. Prévoyez un lieu de repos où l’enfant le laissera tranquille. Un adulte doit rester assez près pour intervenir quand un jeune enfant est avec un animal, même familier. Un enfant peut prendre plaisir à l’observer sans le soulever, le serrer dans ses bras ni approcher son visage.",
+              "Lavez-vous les mains au savon et à l’eau courante après avoir touché l’animal, sa nourriture, son bol ou son habitat. Aidez les plus petits à le faire correctement. Gardez le matériel de l’animal à l’écart des surfaces où vous préparez les repas. Demandez au vétérinaire comment nettoyer l’espace de vie sans risque et quelles tâches doivent être réservées à un adulte. Prévoyez ces habitudes dès le premier jour."
+            ]
+          },
+          {
+            "heading": "Parlez avec sincérité quand l’animal est malade ou qu’il meurt",
+            "paragraphs": [
+              "Expliquez ce qui s’est passé avec des mots simples. Par exemple : « Milo est mort aujourd’hui. Son corps a cessé de fonctionner et il ne pourra pas revenir à la maison. » Faites une pause pour laisser venir la question de l’enfant. Un jeune enfant peut redemander dès le lendemain si l’animal va revenir. Répondez de nouveau avec douceur. S’il se demande si l’oubli d’une tâche a causé la mort, expliquez ce que vous savez et abordez directement ce sentiment de culpabilité.",
+              "Votre enfant pourrait avoir envie de dessiner un souvenir heureux, de partager une photo, de rester en silence près de vous ou de jouer un moment comme à son habitude. Accueillez ces différentes réactions. Avant d’envisager un autre animal, demandez à votre enfant ce qui lui manque chez celui-ci. Si le chagrin le submerge ou l’empêche de dormir, d’aller à l’école ou de vivre son quotidien, contactez le professionnel de santé qui le suit."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Avant de choisir un animal, désignez l’adulte responsable de chaque soin essentiel.",
+          "Donnez à votre enfant un petit rôle sous surveillance et adaptez-le à mesure qu’il gagne en savoir-faire.",
+          "Tenez compte de l’animal lui-même, de la personne la plus jeune du foyer et des personnes plus vulnérables aux infections.",
+          "À la mort de l’animal, employez des mots directs et doux et laissez l’enfant revenir sur ses questions."
+        ],
+        "faq": [
+          {
+            "q": "Un animal peut-il améliorer la santé mentale de mon enfant ?",
+            "a": "La compagnie d’un animal peut avoir beaucoup de valeur pour un enfant. Les recherches n’ont pas montré que la seule adoption d’un animal améliore de façon prévisible la santé émotionnelle des enfants. Parlez d’une tristesse persistante, d’un repli sur soi ou d’anxiété à un professionnel de santé, que votre famille ait un animal ou non."
+          },
+          {
+            "q": "Que peut apprendre mon enfant en s’occupant d’un animal ?",
+            "a": "Une petite tâche lui donne l’occasion de prêter attention à un autre être vivant. Remplir la gamelle d’eau avec un adulte, voir quand l’animal souhaite qu’on le laisse tranquille ou penser à une habitude commune peuvent l’y aider. Un adulte s’assure que le soin a bien eu lieu."
+          },
+          {
+            "q": "Quel animal convient le mieux à un enfant ?",
+            "a": "Partez de ses centres d’intérêt puis renseignez-vous sur ce que tout le foyer sera en mesure d’assurer. Pensez au tempérament, à l’espérance de vie, aux frais, à la surveillance et aux risques pour la santé. Petite taille ne veut pas toujours dire entretien facile. Les familles avec des enfants de moins de cinq ans devraient éviter les reptiles et les amphibiens."
+          },
+          {
+            "q": "Et si mon enfant veut un animal alors que nous ne pouvons pas en avoir ?",
+            "a": "Une visite encadrée auprès d’un animal familier qui s’y prête pourra vous aider à découvrir ce qui plaît à votre enfant. Certains préfèrent dessiner les animaux ou les observer de loin. Vous pouvez attendre qu’un adulte ait le temps et les moyens de prendre en charge l’ensemble des soins."
+          },
+          {
+            "q": "Que faire pour mon enfant après la mort de notre animal ?",
+            "a": "Dites-lui clairement que l’animal est mort, répondez à ses questions et laissez-le se souvenir à sa manière. Il peut revenir sur une question après une journée passée à jouer comme d’habitude. Cherchez du soutien si son chagrin entrave durablement ses activités quotidiennes."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Prévoyez un adulte pour chaque tâche essentielle, y compris les soins vétérinaires et la garde pendant les voyages.",
+            "Surveillez les enfants en présence d’animaux et intégrez le lavage des mains aux habitudes quotidiennes.",
+            "Une souffrance émotionnelle persistante mérite de l’attention, qu’il y ait ou non un animal au foyer."
+          ],
+          "bemama": "BeMama propose d’imaginer une journée ordinaire avec l’animal pour mettre en regard les souhaits de l’enfant et les besoins à long terme de l’animal.",
+          "safety": "Un animal qui paraît en bonne santé peut être porteur de germes. Demandez à un vétérinaire quel animal pourrait convenir et parlez avec votre professionnel de santé des allergies ou d’une immunité affaiblie dans votre foyer.",
+          "sources": [
+            {
+              "organization": "BMC Pediatrics",
+              "title": "Animaux de compagnie et développement de l’enfant dans une cohorte britannique suivie depuis la naissance",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11395694/"
+            },
+            {
+              "organization": "Centres américains de contrôle et de prévention des maladies",
+              "title": "Préserver sa santé au contact des animaux",
+              "url": "https://www.cdc.gov/healthy-pets/about/index.html"
+            },
+            {
+              "organization": "Centres américains de contrôle et de prévention des maladies",
+              "title": "Précautions sanitaires au contact des reptiles et des amphibiens",
+              "url": "https://www.cdc.gov/healthy-pets/about/reptiles-and-amphibians.html"
+            },
+            {
+              "organization": "Académie américaine de psychiatrie de l’enfant et de l’adolescent",
+              "title": "Les enfants et les animaux de compagnie",
+              "url": "https://www.aacap.org/App_Themes/AACAP/docs/facts_for_families/75_pets_and_children.pdf"
+            },
+            {
+              "organization": "Académie américaine de psychiatrie de l’enfant et de l’adolescent",
+              "title": "Parler aux enfants quand un animal de compagnie meurt",
+              "url": "https://aacap.org/AACAP/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/When-A-Pet-Dies-078.aspx"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Aileniz bir evcil hayvana bakmaya hazır mı?",
+        "description": "Çocuğunuzun bir evcil hayvandan ne beklediğini, bakımı kimin üstleneceğini, güvenli teması ve hayvanın ölümünü çocuğunuzla nasıl konuşabileceğinizi düşünün.",
+        "intro": "Eve bir hayvan getirmeden önce sıradan bir salı sabahını gözünüzde canlandırın. Çocuğunuz ateşli, siz işe geç kalıyorsunuz ve su kabı boş. Kabı kim dolduracak? Hayvanın iyiliği açısından bu sorunun yanıtı, onunla tanıştığınız gün verilen sözden daha önemlidir. Ailece bir hayvanla yaşamanın nasıl olacağını konuşmaya da buradan başlayabilirsiniz.",
+        "sections": [
+          {
+            "heading": "Çocuğunuzun ne umduğunu öğrenin",
+            "paragraphs": [
+              "Aklındaki hayvanla geçireceği bir öğleden sonrayı çocuğunuzdan anlatmasını isteyin. Biri okuldan gelince kendisini karşılayan bir köpek hayal eder. Bir başkası akvaryumda gezinen balığı izlemek ister. Kedi fikri hoşuna giden bir çocuk, bir kedi gerçekten yaklaştığında tedirgin olabilir. Bu farklara kulak verin. Uygun bir hayvanı sizin gözetiminizde ziyaret etmeyi önerin. Çocuğunuz uzaktan izlemeyi tercih ederse buna izin verin.",
+              "Bir hayvanla kurduğu bağ çocuğa huzur ve keyif verebilir, nazik davranmayı öğrenmesine yardımcı olabilir. Bazen aileler bir hayvan sahiplenmenin uzun süren mutsuzluğa da iyi geleceğini umar. Birleşik Krallık’ta çocukları yıllar boyunca izleyen bir araştırmada, aileler arasındaki farklar hesaba katıldığında, hayvan beslemekle çocukların duygusal açıdan daha iyi olması arasında bir ilişki olduğuna dair çok az kanıt bulundu. Çocuğunuz sıkıntı yaşıyorsa bu konuda ayrıca yardım isteyin. Hayvan sahiplenmeyi aileniz için ayrı bir karar olarak ele alın."
+            ]
+          },
+          {
+            "heading": "Çocuğa yapabileceği bir iş verin, gerekirse yetişkin devralsın",
+            "paragraphs": [
+              "Birlikte yapabileceğiniz bir iş seçin. Örneğin çocuk su kabını doldurmaya yardım edebilir, bir yetişkin de hayvanın her zaman taze suyu olup olmadığını kontrol eder. Daha büyük bir çocuk, hayvanın yediklerini not ederken size yardım edebilir veya onun her zamankinden daha sık saklandığını söyleyebilir. Bir çizelge kimin hangi işi ne zaman yaptığını gösterir. Hangi yetişkinin bunu kontrol edeceği belliyse çizelge daha iyi işler.",
+              "Çocuğunuz unutursa hayvanın ihtiyacını hemen karşılayın. İşi neyin zorlaştırdığını sonra konuşun. Mama ulaşamayacağı bir yerde miydi? Akşam başka bir etkinlik olduğu için mi düzen değişti? İşi küçültebilir veya yeniden birlikte yapabilirsiniz. Beslenme, güvenli bir yuva, temizlik, veteriner bakımı ve hastalıkta ya da yolculukta bakımın sürmesini sağlama sorumluluğu yetişkinlerdedir."
+            ]
+          },
+          {
+            "heading": "Evinizde bakımını üstlenebileceğiniz bir hayvan seçin",
+            "paragraphs": [
+              "Evdeki alanı, konut kurallarını, masrafları, sesi, hayvanın yaşam süresini ve günlük ihtiyaçlarını düşünün. Küçük bir hayvan bile özel donanım ve yıllarca bakım gerektirebilir. Bir veteriner hekime veya deneyimli bir barınak görevlisine o hayvanın mizacını ve ona nasıl yaklaşılması gerektiğini sorun. Karar vermeden önce evdeki herkes korkularını ya da alerjiyle ilgili kaygılarını dile getirebilsin.",
+              "Evdekilerin yaşı ve sağlığı da seçimde önemlidir. Kaplumbağa gibi sürüngenler ve kurbağa gibi iki yaşamlılar sağlıklı görünseler bile Salmonella bakterisi taşıyabilir. ABD Hastalık Kontrol ve Önleme Merkezleri (CDC), evde beş yaşından küçük bir çocuk veya bağışıklık sistemi zayıflamış biri varsa başka bir hayvan seçilmesini önerir. Akvaryumun yüzeyleri ve suyu da mikrop taşıyabilir. Hayvan eve gelmeden önce bunları bir yetişkin değerlendirmelidir."
+            ]
+          },
+          {
+            "heading": "Hayvanın ne zaman yalnız kalmak istediğini gösterin",
+            "paragraphs": [
+              "Sakin bir hayvanı birlikte izleyin. Uzaklaşır veya saklanırsa çocuğunuzun onu rahat bırakmasına yardımcı olun. Hayvanın, çocuğun onu rahatsız etmeyeceği bir dinlenme yeri olsun. Küçük bir çocuk bir hayvanla birlikteyken, hayvanı iyi tanısa bile, bir yetişkin gerektiğinde müdahale edebilecek kadar yakın durmalıdır. Çocuk hayvanı kucağına almadan, ona sarılmadan veya yüzünü yaklaştırmadan da onu izlemekten keyif alabilir.",
+              "Hayvana, mamasına, kabına veya yaşadığı ortama dokunduktan sonra ellerinizi sabun ve akan suyla yıkayın. Küçük çocuklara bu konuda yardım edin. Hayvana ait malzemeleri aile için yemek hazırlanan yerlerden uzak tutun. Bir veteriner hekime hayvanın yaşadığı alanın güvenle nasıl temizleneceğini ve hangi işleri bir yetişkinin yapması gerektiğini sorun. Bu alışkanlıkları ilk günden planlayın."
+            ]
+          },
+          {
+            "heading": "Hayvan hastalandığında veya öldüğünde açık konuşun",
+            "paragraphs": [
+              "Ne olduğunu basit sözcüklerle anlatın. Örneğin şöyle diyebilirsiniz. “Milo bugün öldü. Vücudu artık çalışmıyor ve eve geri gelemeyecek.” Durup çocuğun sorusunu bekleyin. Küçük bir çocuk ertesi gün hayvanın geri gelip gelmeyeceğini sorabilir. Yine şefkatle yanıt verin. Çocuk bir işi unuttuğu için hayvanın öldüğünü düşünüyorsa bildiklerinizi açıklayın ve bu suçluluk duygusu hakkında açıkça konuşun.",
+              "Çocuğunuz güzel bir anının resmini yapmak, bir fotoğraf paylaşmak, sizinle sessizce oturmak veya bir süre her zamanki gibi oyun oynamak isteyebilir. Bu farklı tepkilere yer açın. Başka bir hayvanı konuşmadan önce kaybettiği hayvanın en çok neyini özlediğini sorun. Yas çocuğu bunaltıyorsa veya uyumasını, okula gitmesini ya da günlük işlerini sürdürmesini engelliyorsa çocuğunuzun sağlık uzmanına başvurun."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Hayvanı seçmeden önce her temel bakım işinden hangi yetişkinin sorumlu olduğunu belirleyin.",
+          "Çocuğa gözetim altında küçük bir görev verin ve becerileri geliştikçe görevi uyarlayın.",
+          "Hayvanın özelliklerini, evdeki en küçük çocuğu ve enfeksiyon açısından daha yüksek risk taşıyan kişileri düşünün.",
+          "Hayvan öldüğünde açık ve şefkatli sözcükler kullanın. Çocuğun aynı soruya yeniden dönmesine fırsat verin."
+        ],
+        "faq": [
+          {
+            "q": "Evcil bir hayvan çocuğumun ruh sağlığına iyi gelir mi?",
+            "a": "Bir hayvanın arkadaşlığı çocuk için anlamlı olabilir. Araştırmalar, yalnızca evcil hayvan sahiplenmenin çocukların duygusal sağlığını güvenilir biçimde iyileştirdiğini göstermiyor. Ailenizde hayvan olsun ya da olmasın, süren mutsuzluğu, içe kapanmayı veya kaygıyı bir sağlık uzmanıyla görüşün."
+          },
+          {
+            "q": "Bir hayvanın bakımına katılmak çocuğuma ne öğretebilir?",
+            "a": "Küçük bir görev çocuğunuza başka bir canlının ihtiyaçlarına dikkat etme fırsatı verir. Bir yetişkinle su kabını doldurmak, hayvanın ne zaman yalnız kalmak istediğini anlamak veya birlikte yaptığınız bir işi hatırlamak işe yarayabilir. Bakımın gerçekten yapıldığını bir yetişkin kontrol eder."
+          },
+          {
+            "q": "Bir çocuk için en uygun hayvan hangisidir?",
+            "a": "Önce çocuğunuzun ilgisini öğrenin, sonra ailece neleri karşılayabileceğinizi araştırın. Mizacı, yaşam süresini, masrafları, gözetimi ve sağlık risklerini düşünün. Küçük olması bakımının kolay olacağını göstermez. Beş yaşından küçük çocukların yaşadığı evlerde sürüngen ve iki yaşamlı hayvanlardan kaçınılmalıdır."
+          },
+          {
+            "q": "Çocuğum hayvan istiyor ama evde bakamıyoruz. Ne yapabiliriz?",
+            "a": "Tanıdığınız ve çocukla karşılaşmaya uygun bir hayvanı birlikte ziyaret ederek çocuğunuzun nelerden hoşlandığını öğrenebilirsiniz. Bazı çocuklar hayvanların resmini yapmayı veya onları uzaktan izlemeyi tercih eder. Bir yetişkinin hayvanın tüm bakımını karşılayacak zamanı ve imkânı olana kadar beklemek makuldür."
+          },
+          {
+            "q": "Hayvanımız öldükten sonra çocuğuma nasıl destek olabilirim?",
+            "a": "Hayvanın öldüğünü açıkça söyleyin, soruları yanıtlayın ve çocuğun onu kendi istediği şekilde anmasına fırsat verin. Bir gün her zamanki gibi oyun oynadıktan sonra yeniden aynı soruyu sorabilir. Yas günlük yaşamını sürekli zorlaştırıyorsa destek alın."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtların gözden geçirildiği tarih 16 Kasım 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Veteriner bakımı ve yolculuk sırasında bakımın sürmesi dâhil her temel iş için bir yetişkin plan yapsın.",
+            "Çocukları hayvanların yanında gözetin ve el yıkamayı günlük düzenin bir parçası yapın.",
+            "Çocuğun duygusal sıkıntısı sürüyorsa evde hayvan olup olmamasından bağımsız olarak bunu ele alın."
+          ],
+          "bemama": "BeMama, çocuğun istekleri ile hayvanın uzun vadeli ihtiyaçlarını birlikte tartmak için hayvanla geçireceğiniz sıradan bir günü planlamanızı önerir.",
+          "safety": "Sağlıklı görünen bir hayvan mikrop taşıyabilir. Evinize uygun hayvan konusunda veteriner hekime, evdeki alerjiler veya bağışıklık sisteminin zayıflığı konusunda kendi sağlık uzmanınıza danışın.",
+          "sources": [
+            {
+              "organization": "BMC Pediatrics",
+              "title": "Birleşik Krallık doğum kohortunda evcil hayvanlar ve çocuk gelişimi",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11395694/"
+            },
+            {
+              "organization": "ABD Hastalık Kontrol ve Önleme Merkezleri",
+              "title": "Hayvanların yanında sağlığı koruma",
+              "url": "https://www.cdc.gov/healthy-pets/about/index.html"
+            },
+            {
+              "organization": "ABD Hastalık Kontrol ve Önleme Merkezleri",
+              "title": "Sürüngenler ve iki yaşamlılarla ilgili sağlık önlemleri",
+              "url": "https://www.cdc.gov/healthy-pets/about/reptiles-and-amphibians.html"
+            },
+            {
+              "organization": "Amerikan Çocuk ve Ergen Psikiyatrisi Akademisi",
+              "title": "Evcil hayvanlar ve çocuklar",
+              "url": "https://www.aacap.org/App_Themes/AACAP/docs/facts_for_families/75_pets_and_children.pdf"
+            },
+            {
+              "organization": "Amerikan Çocuk ve Ergen Psikiyatrisi Akademisi",
+              "title": "Bir evcil hayvanın ölümü hakkında çocuklarla konuşmak",
+              "url": "https://aacap.org/AACAP/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/When-A-Pet-Dies-078.aspx"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "¿Está preparada tu familia para tener una mascota?",
+        "description": "Piensa en lo que tu hijo espera de una mascota, qué tareas asumirá un adulto, cómo cuidar el contacto con el animal y cómo hablar de su muerte.",
+        "intro": "Antes de llevar un animal a casa, imagina un martes cualquiera. Tu hijo tiene fiebre, llegas tarde al trabajo y el cuenco del agua está vacío. ¿Quién lo llena? Para el animal, la respuesta importa más que una promesa hecha el día en que lo conocisteis. También os da un punto de partida para hablar en familia de lo que supondría convivir con él.",
+        "sections": [
+          {
+            "heading": "Averigua qué espera tu hijo de la mascota",
+            "paragraphs": [
+              "Pídele que describa una tarde con el animal que tiene en mente. Un niño imagina un perro que lo recibe al salir de la escuela. Otro quiere observar cómo explora un pez su acuario. A quien le ilusiona tener un gato quizá le dé algo de miedo cuando uno se le acerca de verdad. Escucha esas diferencias. Ofrécele una visita supervisada con un animal adecuado y deja que lo observe desde cierta distancia si lo prefiere.",
+              "Un vínculo con una mascota puede aportar a un niño en particular consuelo, disfrute y ocasiones para aprender a tratar a otro ser con delicadeza. Algunas familias esperan que también alivie un estado de ánimo bajo persistente. En un estudio británico que siguió a niños a lo largo del tiempo, se encontró poca evidencia de que tener mascota se asociara con una mejor salud emocional tras tener en cuenta las diferencias entre familias. Si tu hijo lo está pasando mal, busca ayuda para esa dificultad. La adopción es una decisión familiar aparte."
+            ]
+          },
+          {
+            "heading": "Dale al niño una tarea real y acuerda quién la cubrirá",
+            "paragraphs": [
+              "Elige una tarea que podáis hacer juntos. El niño podría ayudar a llenar el cuenco mientras un adulto comprueba que siempre haya agua fresca. Uno algo mayor podría ayudar a anotar qué ha comido la mascota o avisar si pasa más tiempo escondida de lo habitual. Una tabla puede servir para registrar quién hizo cada tarea y cuándo. Funciona mejor si todos saben qué adulto se encargará de revisarla.",
+              "Si tu hijo se olvida, atiende enseguida la necesidad del animal. Hablad después de lo que le dificultó cumplir con la tarea. ¿Estaba la comida en una balda demasiado alta? ¿Cambió la rutina a causa de una actividad de la tarde? Puedes acortar la tarea o volver a hacerla juntos. La alimentación, un hogar seguro, la higiene, la atención veterinaria y organizar quién atenderá al animal durante una enfermedad o un viaje siguen siendo responsabilidad de los adultos."
+            ]
+          },
+          {
+            "heading": "Elige un animal al que realmente podáis cuidar en casa",
+            "paragraphs": [
+              "Considera el espacio, las normas de la vivienda, los gastos, el ruido, la esperanza de vida y las necesidades diarias. Un animal pequeño puede necesitar equipo especializado y muchos años de cuidados. Pregunta a un veterinario o a alguien con experiencia en un centro de acogida por el carácter de ese animal en particular y la mejor manera de manejarlo. Antes de decidir, da a todos en casa la oportunidad de expresar sus temores o dudas sobre posibles alergias.",
+              "La edad y la salud de quienes viven en casa influyen en la elección. Reptiles y anfibios como las tortugas y las ranas pueden portar salmonela incluso si parecen sanos. Los Centros para el Control y la Prevención de Enfermedades de Estados Unidos aconsejan elegir otro tipo de mascota a las familias con menores de cinco años o personas con las defensas debilitadas. El agua y las superficies del acuario o terrario también pueden albergar microbios. Un adulto debe valorar estas necesidades antes de llevar el animal a casa."
+            ]
+          },
+          {
+            "heading": "Enséñale a reconocer cuándo el animal necesita espacio",
+            "paragraphs": [
+              "Observad juntos a un animal tranquilo. Si se aleja o se esconde, ayuda a tu hijo a dejarlo ir. Prepara un lugar de descanso donde el niño lo deje en paz. Cuando un niño pequeño está con un animal, aunque lo conozca, un adulto debe permanecer lo bastante cerca para intervenir. También se puede disfrutar observándolo sin cogerlo, abrazarlo ni acercarle la cara.",
+              "Lavaos las manos con jabón y agua corriente después de tocar al animal, su comida, su cuenco o el lugar donde vive. Ayuda a los más pequeños a hacerlo bien. Mantén los utensilios de la mascota lejos de las zonas donde se preparan los alimentos familiares. Pregunta al veterinario cómo limpiar el espacio del animal de manera segura y qué tareas debe asumir un adulto. Incluid estos hábitos en la rutina desde el primer día."
+            ]
+          },
+          {
+            "heading": "Habla con sinceridad si la mascota enferma o muere",
+            "paragraphs": [
+              "Cuenta lo ocurrido con palabras sencillas. Por ejemplo: «Milo murió hoy. Su cuerpo dejó de funcionar y ya no puede volver a casa». Haz una pausa y escucha su pregunta. Tal vez mañana un niño pequeño vuelva a preguntar si la mascota va a regresar. Vuelve a responder con cariño. Si cree que el animal murió porque se le olvidó una tarea, explícale lo que sabes y habla directamente de esa culpa.",
+              "Tu hijo quizá quiera dibujar un momento favorito, enseñar una foto, sentarse contigo en silencio o jugar como siempre durante un rato. Da cabida a esas distintas reacciones. Antes de hablar de otra mascota, pregúntale qué echa de menos de esta. Si la pena lo desborda o le impide dormir, ir a la escuela o desenvolverse en el día a día, contacta con el profesional que atiende su salud."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Antes de elegir una mascota, decidid qué adulto se hará cargo de cada cuidado esencial.",
+          "Ofrece a tu hijo una tarea pequeña y supervisada y adáptala a medida que aprenda.",
+          "Ten en cuenta al animal concreto, al miembro más joven de la familia y a quien corra mayor riesgo de infección.",
+          "Cuando muera la mascota, habla de forma clara y cariñosa, y deja que el niño vuelva a preguntar."
+        ],
+        "faq": [
+          {
+            "q": "¿Puede una mascota mejorar la salud mental de mi hijo?",
+            "a": "La compañía de un animal puede ser importante para un niño. Las investigaciones no han demostrado que adoptar una mascota por sí solo mejore de forma predecible la salud emocional infantil. Si observas tristeza persistente, aislamiento o ansiedad, consúltalo con un profesional de salud, haya o no una mascota en casa."
+          },
+          {
+            "q": "¿Qué puede aprender mi hijo al cuidar a un animal?",
+            "a": "Una pequeña tarea le da la oportunidad de prestar atención a otro ser vivo. Llenar el cuenco de agua con un adulto, notar cuándo el animal necesita espacio o recordar una rutina compartida pueden ser buenas formas de practicarlo. Un adulto comprueba que los cuidados se lleven a cabo."
+          },
+          {
+            "q": "¿Qué mascota es la mejor para un niño?",
+            "a": "Parte del interés de tu hijo e investiga qué puede ofrecer toda la familia. Valora el carácter, la esperanza de vida, los gastos, la supervisión y los riesgos para la salud. Un tamaño pequeño no garantiza que el cuidado sea sencillo. Las familias con menores de cinco años deben evitar los reptiles y los anfibios."
+          },
+          {
+            "q": "¿Y si mi hijo quiere un animal pero no podemos tenerlo?",
+            "a": "Una visita supervisada con un animal conocido y adecuado puede ayudarte a descubrir qué le gusta. Algunos niños prefieren dibujar animales u observarlos de lejos. Podéis esperar hasta que un adulto disponga del tiempo y los recursos para hacerse cargo de todos sus cuidados."
+          },
+          {
+            "q": "¿Cómo ayudo a mi hijo después de la muerte de la mascota?",
+            "a": "Dile con claridad que el animal murió, responde a sus preguntas y ofrécele distintas formas de recordarlo a su manera. Puede volver con la misma pregunta después de pasar un día jugando como de costumbre. Pide apoyo si la pena dificulta de manera persistente sus actividades diarias."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Acordad qué adulto cubrirá cada tarea esencial, incluida la atención veterinaria y el cuidado durante los viajes.",
+            "Supervisa al niño cuando esté con la mascota e incorpora el lavado de manos a la rutina.",
+            "El malestar emocional persistente merece atención, tanto si hay una mascota en casa como si no."
+          ],
+          "bemama": "BeMama propone imaginar un día corriente con el animal para que la familia tenga en cuenta los deseos del niño y los cuidados que necesitará la mascota a largo plazo.",
+          "safety": "Un animal de aspecto sano puede portar microbios. Pregunta al veterinario qué mascota sería adecuada y consulta con tu profesional de salud si en casa alguien tiene alergias o las defensas debilitadas.",
+          "sources": [
+            {
+              "organization": "BMC Pediatrics",
+              "title": "Los animales de compañía y el desarrollo infantil en una cohorte británica seguida desde el nacimiento",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11395694/"
+            },
+            {
+              "organization": "Centros para el Control y la Prevención de Enfermedades de Estados Unidos",
+              "title": "Cómo cuidar la salud en el contacto con animales",
+              "url": "https://www.cdc.gov/healthy-pets/about/index.html"
+            },
+            {
+              "organization": "Centros para el Control y la Prevención de Enfermedades de Estados Unidos",
+              "title": "Consideraciones de salud sobre los reptiles y los anfibios",
+              "url": "https://www.cdc.gov/healthy-pets/about/reptiles-and-amphibians.html"
+            },
+            {
+              "organization": "Academia Estadounidense de Psiquiatría Infantil y Adolescente",
+              "title": "Las mascotas y los niños",
+              "url": "https://www.aacap.org/App_Themes/AACAP/docs/facts_for_families/75_pets_and_children.pdf"
+            },
+            {
+              "organization": "Academia Estadounidense de Psiquiatría Infantil y Adolescente",
+              "title": "Cómo hablar con los niños cuando muere una mascota",
+              "url": "https://aacap.org/AACAP/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/When-A-Pet-Dies-078.aspx"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Sua família está pronta para ter um animal de estimação?",
+        "description": "Conversem sobre o que a criança espera de um animal de estimação, quem cuidará dele, como conviver com segurança e o que dizer se o animal morrer.",
+        "intro": "Antes de levar um animal para casa, imagine uma terça-feira qualquer. Seu filho está com febre, você está atrasado para o trabalho e a tigela de água está vazia. Quem vai enchê-la? Para o animal, essa resposta vale mais do que uma promessa feita no dia em que vocês o conheceram. A pergunta também ajuda a família a conversar sobre como seria, de fato, a vida com ele.",
+        "sections": [
+          {
+            "heading": "Descubra o que a criança espera dessa convivência",
+            "paragraphs": [
+              "Peça que a criança imagine uma tarde com o animal que gostaria de ter. Uma pode sonhar com um cachorro que a recebe na volta da escola. Outra quer observar um peixe explorando o aquário. Quem gosta da ideia de ter um gato talvez fique receoso quando um gato de verdade se aproxima. Escute essas diferenças. Proponha uma visita supervisionada a um animal adequado e deixe a criança observar de longe se preferir.",
+              "A companhia de um animal pode trazer conforto e alegria a uma criança e dar oportunidades para praticar o cuidado e a delicadeza. Algumas famílias também esperam que ela ajude a aliviar uma tristeza persistente. Um estudo britânico que acompanhou crianças ao longo do tempo encontrou pouca evidência de uma associação entre ter um animal e apresentar melhor saúde emocional depois de levar em conta as diferenças entre as famílias. Se seu filho está sofrendo, busque ajuda para a dificuldade que ele enfrenta. Adotar um animal é outra decisão da família."
+            ]
+          },
+          {
+            "heading": "Dê à criança uma tarefa de verdade e combine quem assume se for preciso",
+            "paragraphs": [
+              "Escolham uma tarefa que possam fazer juntos. A criança pode ajudar a encher a tigela enquanto um adulto verifica se há sempre água fresca. Uma criança mais velha pode ajudar a anotar o que o animal comeu ou avisar se ele está se escondendo mais do que de costume. Um quadro pode indicar quem fez cada tarefa e quando. Funciona melhor se todos souberem qual adulto vai acompanhá-lo.",
+              "Se a criança esquecer, atenda à necessidade do animal na mesma hora. Depois, conversem sobre o que dificultou a tarefa. A comida estava numa prateleira alta demais? Uma atividade à noite mudou a rotina? Vocês podem simplificar a tarefa ou voltar a fazê-la juntos. Os adultos continuam responsáveis pela alimentação, por um lugar seguro, pela higiene, pelo atendimento veterinário e por combinar quem vai cuidar do animal em caso de doença ou viagem."
+            ]
+          },
+          {
+            "heading": "Escolham um animal de que a família possa cuidar",
+            "paragraphs": [
+              "Considerem o espaço, as regras da moradia, o custo, o barulho, a expectativa de vida e os cuidados diários. Mesmo um animal pequeno pode precisar de equipamentos específicos e de cuidados durante muitos anos. Perguntem a um veterinário ou a alguém com experiência num abrigo sobre o temperamento daquele animal e como lidar com ele. Antes de decidir, deem a todas as pessoas da casa a oportunidade de falar sobre medos ou preocupações com alergias.",
+              "A idade e a saúde de quem vive na casa influenciam a escolha. Répteis e anfíbios, como tartarugas e rãs, podem ser portadores da bactéria Salmonella mesmo quando parecem saudáveis. Os Centros de Controle e Prevenção de Doenças dos Estados Unidos orientam famílias com crianças menores de cinco anos ou pessoas com o sistema imunológico enfraquecido a escolher outro tipo de animal. A água e as superfícies do aquário também podem abrigar microrganismos. Um adulto deve avaliar essas necessidades antes de levar o animal para casa."
+            ]
+          },
+          {
+            "heading": "Ensine a criança a perceber quando o animal quer espaço",
+            "paragraphs": [
+              "Observem juntos um animal tranquilo. Se ele sair de perto ou se esconder, ajude a criança a respeitar sua vontade de se afastar. Reserve para o animal um lugar onde possa descansar sem ser incomodado. Quando uma criança pequena está com um animal, mesmo conhecido, um adulto deve ficar perto o suficiente para intervir. Observar pode ser divertido sem que seja preciso pegá-lo no colo, abraçá-lo ou aproximar o rosto.",
+              "Lavem as mãos com água corrente e sabão depois de tocar no animal, na comida, na tigela ou no espaço em que ele vive. Ajude a criança pequena a lavar bem as mãos. Mantenha os utensílios do animal longe dos lugares onde a família prepara alimentos. Pergunte ao veterinário como limpar o ambiente com segurança e quais tarefas devem ficar com um adulto. Inclua esses cuidados no planejamento desde o primeiro dia."
+            ]
+          },
+          {
+            "heading": "Fale com sinceridade quando o animal adoecer ou morrer",
+            "paragraphs": [
+              "Conte o que aconteceu em palavras simples. Por exemplo: “O Milo morreu hoje. O corpo dele parou de funcionar e ele não vai voltar para casa”. Faça uma pausa para escutar a pergunta da criança. Amanhã, uma criança pequena talvez pergunte se ele está voltando. Responda de novo com carinho. Se achar que o animal morreu porque ela se esqueceu de uma tarefa, explique o que vocês sabem e converse diretamente sobre esse sentimento de culpa.",
+              "Talvez a criança queira desenhar uma lembrança boa, mostrar uma fotografia, ficar quieta ao seu lado ou voltar a brincar como de costume por algum tempo. Dê espaço a essas reações. Antes de falar sobre outro animal, pergunte do que ela sente falta neste. Se o luto for intenso demais ou estiver impedindo a criança de dormir, ir à escola ou realizar suas atividades do dia a dia, fale com o profissional de saúde que a acompanha."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Antes de escolher o animal, definam qual adulto será responsável por cada cuidado essencial.",
+          "Ofereça à criança uma tarefa pequena e supervisionada e ajuste-a conforme ela desenvolver suas habilidades.",
+          "Considerem o animal em questão, a pessoa mais nova da casa e quem tem maior risco de infecção.",
+          "Quando um animal morrer, use palavras claras e gentis e acolha perguntas que se repetem."
+        ],
+        "faq": [
+          {
+            "q": "Um animal de estimação pode melhorar a saúde mental de meu filho?",
+            "a": "A companhia de um animal pode ter muito significado para a criança. As pesquisas não mostraram que a adoção, por si só, melhore de forma consistente a saúde emocional das crianças. Converse com um profissional de saúde se houver tristeza, retraimento ou ansiedade persistentes, independentemente de a família ter um animal."
+          },
+          {
+            "q": "O que a criança pode aprender ao cuidar de um animal?",
+            "a": "Uma tarefa pequena permite prestar atenção a outro ser vivo. Encher a tigela de água ao lado de um adulto, perceber quando o animal quer espaço ou lembrar uma rotina compartilhada são bons exemplos. Um adulto verifica se o cuidado realmente aconteceu."
+          },
+          {
+            "q": "Qual é o melhor animal para uma criança?",
+            "a": "Comecem pelo interesse da criança e investiguem o que toda a casa pode oferecer. Considerem temperamento, expectativa de vida, custos, supervisão e riscos para a saúde. O tamanho pequeno não garante que os cuidados sejam simples. Famílias com crianças menores de cinco anos devem evitar répteis e anfíbios."
+          },
+          {
+            "q": "E se a criança quiser um animal e não pudermos ter um?",
+            "a": "Uma visita supervisionada a um animal conhecido e adequado pode mostrar o que ela aprecia. Algumas crianças preferem desenhar animais ou observá-los de longe. É razoável esperar até que um adulto tenha tempo e recursos para cuidar de todas as necessidades do animal."
+          },
+          {
+            "q": "Como posso ajudar meu filho após a morte do nosso animal?",
+            "a": "Diga claramente que o animal morreu, responda às perguntas e deixe a criança lembrar dele à sua maneira. Ela pode retomar uma pergunta depois de passar um dia brincando normalmente. Procure apoio se o luto estiver dificultando de maneira persistente as atividades cotidianas."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Um adulto deve planejar todos os cuidados essenciais, inclusive o atendimento veterinário e quem ficará com o animal durante viagens.",
+            "Supervisione as crianças perto dos animais e inclua a lavagem das mãos na rotina.",
+            "O sofrimento emocional persistente merece atenção, independentemente de a família ter um animal."
+          ],
+          "bemama": "A BeMama sugere imaginar um dia comum com o animal para que a família considere os desejos da criança e as necessidades que ele terá ao longo da vida.",
+          "safety": "Um animal de aparência saudável pode carregar microrganismos que causam doenças. Peça a um veterinário orientação sobre a escolha do animal e converse com seu profissional de saúde sobre alergias ou baixa imunidade de alguém da casa.",
+          "sources": [
+            {
+              "organization": "BMC Pediatrics",
+              "title": "Animais de companhia e desenvolvimento infantil em uma coorte de nascimentos do Reino Unido",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11395694/"
+            },
+            {
+              "organization": "Centros de Controle e Prevenção de Doenças dos Estados Unidos",
+              "title": "Como proteger a saúde na convivência com animais",
+              "url": "https://www.cdc.gov/healthy-pets/about/index.html"
+            },
+            {
+              "organization": "Centros de Controle e Prevenção de Doenças dos Estados Unidos",
+              "title": "Cuidados de saúde no contato com répteis e anfíbios",
+              "url": "https://www.cdc.gov/healthy-pets/about/reptiles-and-amphibians.html"
+            },
+            {
+              "organization": "Academia Americana de Psiquiatria da Infância e da Adolescência",
+              "title": "Animais de estimação e crianças",
+              "url": "https://www.aacap.org/App_Themes/AACAP/docs/facts_for_families/75_pets_and_children.pdf"
+            },
+            {
+              "organization": "Academia Americana de Psiquiatria da Infância e da Adolescência",
+              "title": "Como conversar com a criança quando um animal de estimação morre",
+              "url": "https://aacap.org/AACAP/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/When-A-Pet-Dies-078.aspx"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5861.webp",
+    "heroAlt": {
+      "en": "A tabby cat watches a child set a ceramic water bowl on the kitchen floor.",
+      "fa": "یک گربهٔ راه‌راه نگاه می‌کند که کودکی کاسهٔ سرامیکی آب را روی کف آشپزخانه می‌گذارد.",
+      "ar": "تراقب قطة مخططة طفلاً يضع وعاء ماء خزفياً على أرضية المطبخ.",
+      "fr": "Un chat tigré regarde un enfant poser un bol d’eau en céramique sur le sol de la cuisine.",
+      "tr": "Tekir bir kedi, mutfak zeminine seramik bir su kabı bırakan çocuğu izliyor.",
+      "es": "Un gato atigrado observa cómo un niño coloca un cuenco de cerámica con agua en el suelo de la cocina.",
+      "pt": "Um gato tigrado observa uma criança colocar uma tigela de cerâmica com água no chão da cozinha."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "Is your family ready for a pet?",
+      "description": "Think through what your child hopes for from a pet, which jobs an adult will take on, how to keep contact safe and how to talk about a pet’s death."
+    },
+    "fa": {
+      "title": "آیا خانواده‌تان برای نگهداری از حیوان خانگی آماده است؟",
+      "description": "دربارهٔ انتظار کودکتان از داشتن حیوان خانگی، مسئولیت مراقبت از آن، تماس ایمن با حیوان و شیوهٔ گفت‌وگو با کودک پس از مرگ حیوان فکر کنید."
+    },
+    "ar": {
+      "title": "هل أسرتكم مستعدة لتربية حيوان أليف؟",
+      "description": "تحدثوا عمّا يأمله طفلكم من وجود حيوان أليف في البيت، ومن سيتولى رعايته، وكيف تجعلون التعامل معه آمنًا، وكيف تجيبون عن أسئلة الطفل إذا مات الحيوان."
+    },
+    "fr": {
+      "title": "Votre famille est-elle prête à accueillir un animal ?",
+      "description": "Explorez les attentes de votre enfant, les soins à confier à un adulte, les gestes pour approcher un animal en sécurité et les mots pour parler de sa mort."
+    },
+    "tr": {
+      "title": "Aileniz bir evcil hayvana bakmaya hazır mı?",
+      "description": "Çocuğunuzun bir evcil hayvandan ne beklediğini, bakımı kimin üstleneceğini, güvenli teması ve hayvanın ölümünü çocuğunuzla nasıl konuşabileceğinizi düşünün."
+    },
+    "es": {
+      "title": "¿Está preparada tu familia para tener una mascota?",
+      "description": "Piensa en lo que tu hijo espera de una mascota, qué tareas asumirá un adulto, cómo cuidar el contacto con el animal y cómo hablar de su muerte."
+    },
+    "pt": {
+      "title": "Sua família está pronta para ter um animal de estimação?",
+      "description": "Conversem sobre o que a criança espera de um animal de estimação, quem cuidará dele, como conviver com segurança e o que dizer se o animal morrer."
+    }
+  }
+}

@@ -1,0 +1,646 @@
+{
+  "sourceId": "5887",
+  "article": {
+    "slug": "baby-and-child/when-worries-keep-a-child-from-joining-in",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "When worries keep a child from joining in",
+        "description": "Learn to recognise when worry is disrupting your child’s life, what happens in an anxiety assessment, and how to plan a manageable step back into an activity.",
+        "intro": "Your child wants to learn to swim. On the way to lessons they ask again and again whether you will stay, and by the changing room their stomach hurts. Start with what is happening at the pool. Ask whether someone has frightened them, whether a task feels unsafe or whether the worry begins even before they reach the water.",
+        "sections": [
+          {
+            "heading": "Look at what worry is costing your child",
+            "paragraphs": [
+              "Worry before something new is common. It becomes a reason to seek help when it keeps returning, feels hard to manage and gets in the way of sleep, school, friendships or activities the child wants to do. You do not need to wait a set number of months before asking for advice. Fear of separation, worry about being judged and worry across many situations can look different.",
+              "You might notice repeated requests for reassurance, tearfulness, irritability, tense muscles, a racing heart or a stomach ache. Some children avoid the feared situation so successfully that adults rarely see them distressed. Ask what they have begun to miss. Listen for a real safety issue, such as bullying or a frightening incident, and address that first."
+            ]
+          },
+          {
+            "heading": "What happens in an assessment",
+            "paragraphs": [
+              "Bring an example from home and one from school or another setting. The clinician asks what the child fears, how often it happens, what they avoid and how their body feels. A questionnaire may help the conversation. There is no blood test that diagnoses an anxiety disorder. Physical symptoms sometimes need examination or tests for other causes. A clinician can also ask about low mood, sleep and, with a teenager, alcohol or other substances.",
+              "A panic attack is a sudden surge of intense fear or discomfort. A pounding heart, dizziness, shaking, rapid breathing or feeling that things are unreal may accompany it. A first unexplained episode needs medical assessment. Severe trouble breathing, blue or grey lips, collapse or failure to respond needs emergency help. Do not assume these are signs of anxiety."
+            ]
+          },
+          {
+            "heading": "Choose a small, supported step",
+            "paragraphs": [
+              "Acknowledge the fear and ask what the child would like to do again. If the pool is safe and the instructor agrees, a first step might be visiting at a quiet time to watch a lesson together. Decide on a next step the child can practise with support. Avoid surprising or forcing a frightened child into the water. Regular sleep, meals and activity are useful background support; no particular food cures an anxiety disorder.",
+              "Cognitive behavioural therapy helps children recognise anxious predictions and practise approaching safe situations gradually. A clinician may consider medicine for some children and monitor its effects. In a trial of 488 young people aged 7 to 17 with separation anxiety, generalized anxiety or social anxiety, about 81% receiving cognitive behavioural therapy with sertraline and 60% receiving therapy alone were rated much or very much improved after 12 weeks. These outcomes are not a prescription for an individual child and do not apply to every form of anxiety."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Notice what your child has stopped doing as well as what they say they fear.",
+          "Ask for assessment when anxiety limits ordinary life, and have new physical symptoms assessed.",
+          "Agree on a small, safe step with the child and their care team."
+        ],
+        "faq": [
+          {
+            "q": "What is an anxiety disorder?",
+            "a": "A pattern of fear or worry that is excessive for the situation, causes distress or disrupts daily life may be an anxiety disorder. The clinician considers the child’s age, context and the whole pattern."
+          },
+          {
+            "q": "What signs are common?",
+            "a": "Children may repeatedly seek reassurance, avoid activities, become irritable or sleep poorly. Some have stomach aches, tense muscles or a racing heart. Ask where the symptoms occur and how they affect the child."
+          },
+          {
+            "q": "Is there a test for anxiety?",
+            "a": "An interview with the child and caregiver and sometimes a questionnaire help the clinician assess the pattern. Tests may be needed to investigate physical symptoms, but no single laboratory test diagnoses anxiety."
+          },
+          {
+            "q": "What might a panic attack feel like?",
+            "a": "Fear may surge suddenly with shaking, dizziness, a pounding heart, fast breathing or a sense that things are unreal. Ask for medical advice for a first unexplained episode. Severe breathing difficulty, collapse, blue lips or unresponsiveness are emergencies."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 17, 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Listen to the child’s explanation and investigate any real threat.",
+            "Ask a professional about persistent distress or avoidance affecting home or school.",
+            "Plan small achievable steps and review what helped."
+          ],
+          "bemama": "BeMama suggests asking “What would you like to be able to do again?” and taking that example to the appointment. It gives the child a say in what support should help them achieve.",
+          "safety": "Get emergency help for severe breathing difficulty, blue or grey lips, collapse or an unresponsive child. A first unexplained panic-like episode needs medical assessment.",
+          "sources": [
+            {
+              "organization": "NHS",
+              "title": "Recognising and treating anxiety disorders in children",
+              "url": "https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/anxiety-disorders-in-children/"
+            },
+            {
+              "organization": "American Academy of Child and Adolescent Psychiatry",
+              "title": "Panic disorder and the need for a medical evaluation",
+              "url": "https://aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Panic-Disorder-In-Children-And-Adolescents-050.aspx"
+            },
+            {
+              "organization": "Walkup and colleagues, New England Journal of Medicine",
+              "title": "Trial of cognitive behavioural therapy, sertraline or both for childhood anxiety",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/18974308/"
+            },
+            {
+              "organization": "NHS",
+              "title": "Breathing difficulties in children requiring emergency help",
+              "url": "https://www.nhs.uk/symptoms/shortness-of-breath/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "وقتی نگرانی نمی‌گذارد کودک در فعالیتی که دوست دارد شرکت کند",
+        "description": "ببینید چه زمانی نگرانی زندگی روزمره کودک را مختل می‌کند، در ارزیابی اضطراب چه می‌پرسند و چگونه برای بازگشت به یک فعالیت، گامی کوچک و امن انتخاب کنید.",
+        "intro": "فرزندتان می‌خواهد شنا یاد بگیرد. در راه کلاس چندین بار می‌پرسد که آیا کنارش می‌مانید و وقتی به رختکن می‌رسید دل‌درد می‌گیرد. اول بپرسید در استخر چه می‌گذرد. آیا کسی او را ترسانده؟ انجام حرکتی برایش امن نیست؟ یا نگرانی از قبل از رسیدن به آب شروع می‌شود؟",
+        "sections": [
+          {
+            "heading": "ببینید کودک به دلیل نگرانی چه چیزهایی را از دست می‌دهد",
+            "paragraphs": [
+              "نگرانی پیش از یک تجربه تازه رایج است. اگر مرتب برمی‌گردد، مهار آن دشوار است و خواب، مدرسه، دوستی‌ها یا فعالیتی را که کودک دوست دارد مختل می‌کند، وقت کمک گرفتن است. لازم نیست برای مشورت تعداد مشخصی ماه صبر کنید. ترس از جدایی، نگرانی از قضاوت دیگران و نگرانی در موقعیت‌های گوناگون ممکن است نمودهای متفاوتی داشته باشند.",
+              "شاید کودک مدام از شما اطمینان بخواهد، گریه کند، زودرنج شود یا گرفتگی عضلات، تپش قلب یا دل‌درد داشته باشد. بعضی کودکان آن‌قدر خوب از موقعیت ترسناک دوری می‌کنند که بزرگ‌ترها به‌ندرت آشفتگی‌شان را می‌بینند. بپرسید دیگر در چه چیزهایی شرکت نمی‌کند. اگر مشکلی واقعی مثل زورگویی یا اتفاقی ترسناک پیش آمده، ابتدا به همان رسیدگی کنید."
+            ]
+          },
+          {
+            "heading": "در ارزیابی چه می‌گذرد؟",
+            "paragraphs": [
+              "یک مثال از خانه و یکی از مدرسه یا جای دیگری همراه ببرید. متخصص می‌پرسد کودک از چه می‌ترسد، هر چند وقت این اتفاق می‌افتد، از چه چیز دوری می‌کند و در بدنش چه حسی دارد. پرسشنامه گاهی به گفت‌وگو کمک می‌کند. برای تشخیص اختلال اضطرابی آزمایش خون وجود ندارد. علائم جسمی گاهی برای بررسی علت‌های دیگر به معاینه یا آزمایش نیاز دارند. ممکن است متخصص درباره افت خلق، خواب و در نوجوانان درباره مصرف الکل یا مواد دیگر هم بپرسد.",
+              "حمله پانیک یا وحشت‌زدگی یعنی ترس یا ناراحتی شدید به‌طور ناگهانی اوج می‌گیرد. ممکن است با تپش قلب، سرگیجه، لرزش، تنفس سریع یا احساس غیرواقعی بودن محیط همراه باشد. نخستین حمله‌ای که علتش معلوم نیست نیاز به ارزیابی پزشکی دارد. اگر کودک به‌شدت مشکل تنفس دارد، لب‌هایش آبی یا خاکستری می‌شود، از حال می‌رود یا پاسخ نمی‌دهد، از اورژانس کمک بگیرید. این نشانه‌ها را به حساب اضطراب نگذارید."
+            ]
+          },
+          {
+            "heading": "گام کوچکی انتخاب کنید که بتوانید همراهی‌اش کنید",
+            "paragraphs": [
+              "ترسش را جدی بگیرید و بپرسید دوست دارد دوباره چه کاری انجام دهد. اگر استخر امن است و مربی موافق است، شاید اولین گام این باشد که در ساعتی خلوت با هم به تماشای یک کلاس بروید. بعد درباره گام دیگری که با حمایت شما می‌تواند تمرین کند توافق کنید. کودک ترسیده را غافلگیر نکنید و به زور وارد آب نکنید. خواب، وعده‌های غذایی و فعالیت منظم کمک‌کننده‌اند. هیچ غذای خاصی اختلال اضطرابی را درمان نمی‌کند.",
+              "درمان شناختی‌رفتاری کمک می‌کند کودک پیش‌بینی‌های اضطراب‌آورش را بشناسد و رویارویی تدریجی با موقعیت‌های امن را تمرین کند. ممکن است پزشک برای بعضی کودکان دارو را در نظر بگیرد و اثر آن را پیگیری کند. در پژوهشی روی ۴۸۸ کودک و نوجوان ۷ تا ۱۷ ساله با اضطراب جدایی، اضطراب فراگیر یا اضطراب اجتماعی، پس از ۱۲ هفته حدود ۸۱ درصد از کسانی که درمان شناختی‌رفتاری و سرترالین را با هم گرفتند و ۶۰ درصد از کسانی که فقط روان‌درمانی گرفتند به ارزیابی پژوهشگران بهبودی زیاد یا بسیار زیاد داشتند. این نتیجه برای یک کودک نسخه تجویز نمی‌کند و درباره همه انواع اضطراب صدق نمی‌کند."
+            ]
+          }
+        ],
+        "takeaways": [
+          "در کنار آنچه کودک می‌گوید از آن می‌ترسد، ببینید چه کارهایی را کنار گذاشته است.",
+          "اگر اضطراب زندگی روزانه را محدود کرده درخواست ارزیابی کنید و برای علائم جسمی تازه مشورت پزشکی بگیرید.",
+          "با کودک و تیم مراقبتش درباره گامی کوچک و امن توافق کنید."
+        ],
+        "faq": [
+          {
+            "q": "اختلال اضطرابی چیست؟",
+            "a": "ترس یا نگرانی‌ای که نسبت به موقعیت بیش از اندازه است، کودک را آزار می‌دهد یا زندگی روزمره را مختل می‌کند ممکن است نشانه اختلال اضطرابی باشد. متخصص سن، شرایط و مجموعه علائم کودک را در نظر می‌گیرد."
+          },
+          {
+            "q": "نشانه‌های رایج کدام‌اند؟",
+            "a": "ممکن است کودک پی‌درپی اطمینان بخواهد، از فعالیت‌ها دوری کند، زودرنج شود یا خوب نخوابد. بعضی کودکان دل‌درد، گرفتگی عضلات یا تپش قلب دارند. بپرسید نشانه‌ها کجا رخ می‌دهند و چه اثری بر کودک دارند."
+          },
+          {
+            "q": "آیا برای اضطراب آزمایشی وجود دارد؟",
+            "a": "گفت‌وگو با کودک و مراقب او و گاهی یک پرسشنامه به ارزیابی کمک می‌کند. گاهی برای پیدا کردن علت علائم جسمی آزمایش لازم است، اما هیچ آزمایش واحدی اختلال اضطرابی را تشخیص نمی‌دهد."
+          },
+          {
+            "q": "حمله پانیک چه حسی دارد؟",
+            "a": "ترس ممکن است ناگهان شدید شود و با لرزش، سرگیجه، تپش قلب، تنفس سریع یا حس غیرواقعی بودن محیط همراه باشد. برای نخستین حمله بی‌علت معلوم راهنمایی پزشکی بگیرید. مشکل شدید تنفس، از حال رفتن، آبی شدن لب‌ها یا پاسخ ندادن وضعیت اورژانسی است."
+          }
+        ],
+        "evidence": {
+          "updated": "بازبینی در ۱۷ نوامبر ۲۰۲۶",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "توضیح کودک را بشنوید و هر تهدید واقعی را بررسی کنید.",
+            "برای ناراحتی یا اجتناب مداومی که بر خانه یا مدرسه اثر می‌گذارد با متخصص مشورت کنید.",
+            "گام‌های کوچک و شدنی تعیین کنید و ببینید چه چیزی کمک کرده است."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند بپرسید «دوست داری دوباره بتونی چه کاری بکنی؟» و همان مثال را در جلسه مشاوره مطرح کنید. این‌گونه خود کودک هم در تعیین هدف کمک سهم دارد.",
+          "safety": "برای مشکل شدید تنفس، آبی یا خاکستری شدن لب‌ها، از حال رفتن یا پاسخ ندادن کودک از اورژانس کمک بگیرید. اولین حمله شبیه پانیک که علتی برایش معلوم نیست نیاز به ارزیابی پزشکی دارد.",
+          "sources": [
+            {
+              "organization": "خدمات ملی سلامت بریتانیا",
+              "title": "شناخت و درمان اختلال‌های اضطرابی کودکان",
+              "url": "https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/anxiety-disorders-in-children/"
+            },
+            {
+              "organization": "آکادمی روان‌پزشکی کودک و نوجوان آمریکا",
+              "title": "اختلال پانیک و ضرورت ارزیابی پزشکی",
+              "url": "https://aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Panic-Disorder-In-Children-And-Adolescents-050.aspx"
+            },
+            {
+              "organization": "واکاپ و همکاران، مجله پزشکی نیوانگلند",
+              "title": "مطالعه درمان شناختی‌رفتاری، سرترالین یا ترکیب آن‌ها برای اضطراب کودکان",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/18974308/"
+            },
+            {
+              "organization": "خدمات ملی سلامت بریتانیا",
+              "title": "مشکلات تنفسی کودکان که کمک اورژانسی لازم دارند",
+              "url": "https://www.nhs.uk/symptoms/shortness-of-breath/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "عندما يمنع القلق طفلك من نشاط يرغب فيه",
+        "description": "تعرّف إلى العلامات التي تدل على أن القلق يعطّل حياة طفلك، وما يسأل عنه المختص أثناء التقييم، وكيف تختاران خطوة صغيرة وآمنة للعودة إلى نشاط يحبه.",
+        "intro": "يريد طفلك تعلّم السباحة. وفي الطريق إلى الدرس يسألك مرارًا إن كنت ستبقى، ثم تؤلمه بطنه عند الوصول إلى غرفة تبديل الملابس. ابدأ بما يحدث في المسبح. هل أخافه أحد؟ هل يشعر أن تمرينًا معينًا غير آمن؟ أم يبدأ القلق قبل أن يصل إلى الماء؟",
+        "sections": [
+          {
+            "heading": "لاحظ ما يفوّت الطفل بسبب القلق",
+            "paragraphs": [
+              "من المألوف أن يقلق الطفل قبل تجربة جديدة. اطلب المساعدة حين يتكرر القلق ويصعب التعامل معه ويعطل النوم أو المدرسة أو الصداقات أو الأنشطة التي يريدها الطفل. لا يلزم انتظار عدد معين من الأشهر قبل طلب المشورة. وقد يختلف شكل الخوف من الانفصال عن القلق من حكم الآخرين أو القلق في مواقف كثيرة.",
+              "قد يطلب الطفل الطمأنة مرارًا، أو يبكي أو يتهيج، أو يشعر بشد عضلي أو خفقان أو ألم في البطن. وينجح بعض الأطفال في تجنب ما يخيفهم إلى درجة أن الكبار نادرًا ما يلاحظون ضيقهم. اسأل عمّا توقف عن المشاركة فيه. إذا كان هناك خطر حقيقي مثل التنمر أو حادث مخيف، فتعامل معه أولًا."
+            ]
+          },
+          {
+            "heading": "ماذا يحدث في التقييم؟",
+            "paragraphs": [
+              "خُذ معك مثالًا من البيت وآخر من المدرسة أو مكان مختلف. يسأل المختص عمّا يخيف الطفل، وعدد مرات حدوث ذلك، وما يتجنبه وما يشعر به في جسمه. وقد يساعد استبيان في توجيه الحديث. لا يوجد تحليل دم يشخّص اضطراب القلق. وقد تحتاج الأعراض الجسدية إلى فحص أو تحاليل للبحث عن أسباب أخرى. قد يسأل المختص أيضًا عن المزاج المنخفض والنوم، ويسأل المراهق عن الكحول أو غيره من المواد.",
+              "نوبة الهلع موجة مفاجئة من الخوف الشديد أو الانزعاج. وقد يصحبها خفقان أو دوار أو ارتجاف أو سرعة التنفس أو شعور بأن المحيط غير حقيقي. تستدعي النوبة الأولى غير المفسّرة تقييمًا طبيًا. اطلب مساعدة طارئة إذا واجه الطفل صعوبة شديدة في التنفس، أو ازرقت شفتاه أو مالتا إلى الرمادي، أو انهار أو توقف عن الاستجابة. لا تفترض أن هذه العلامات من القلق."
+            ]
+          },
+          {
+            "heading": "اختارا خطوة صغيرة يستطيع تجربتها بدعمك",
+            "paragraphs": [
+              "تقبّل خوفه واسأل عمّا يريد العودة إلى فعله. إذا كان المسبح آمنًا ووافق المدرّب، فقد تكون البداية أن تزوراه في وقت هادئ لمشاهدة درس معًا. ثم اتفقا على خطوة تالية يتدرّب عليها بمساندتك. تجنّب مفاجأة الطفل الخائف أو إجباره على دخول الماء. انتظام النوم والوجبات والنشاط يسانده في حياته اليومية، ولا يوجد طعام بعينه يشفي اضطراب القلق.",
+              "يساعد العلاج السلوكي المعرفي الطفل على ملاحظة التوقعات التي تقلقه والتدرّب على الاقتراب من المواقف الآمنة تدريجيًا. قد ينظر الطبيب في الدواء لبعض الأطفال ويتابع آثاره. شملت تجربة 488 طفلًا ويافعًا من عمر 7 إلى 17 سنة لديهم قلق الانفصال أو القلق المعمم أو الاجتماعي. بعد 12 أسبوعًا، قيّم الباحثون نحو 81% ممن تلقوا العلاج السلوكي المعرفي مع السيرترالين و60% ممن تلقوا العلاج النفسي وحده على أنهم تحسنوا كثيرًا أو تحسنوا كثيرًا جدًا. لا تحدد هذه النتائج وصفة لطفل بعينه ولا تنطبق على كل أشكال القلق."
+            ]
+          }
+        ],
+        "takeaways": [
+          "لاحظ ما توقف الطفل عن فعله إلى جانب ما يقول إنه يخافه.",
+          "اطلب تقييمًا حين يقيّد القلق الحياة اليومية، واستشر الطبيب بشأن الأعراض الجسدية الجديدة.",
+          "اتفق مع الطفل وفريق الرعاية على خطوة صغيرة وآمنة."
+        ],
+        "faq": [
+          {
+            "q": "ما اضطراب القلق؟",
+            "a": "قد يكون الخوف أو الانشغال المفرط بالنسبة إلى الموقف، إذا سبّب ضيقًا أو عطّل الحياة اليومية، علامة على اضطراب قلق. يراعي المختص عمر الطفل وظروفه ونمط الأعراض بكامله."
+          },
+          {
+            "q": "ما العلامات الشائعة؟",
+            "a": "قد يكرر الطفل طلب الطمأنة أو يتجنب أنشطة أو يصبح سريع الانفعال أو ينام بصورة سيئة. وقد يشعر بألم في البطن أو شد عضلي أو خفقان. اسأل أين تظهر الأعراض وما أثرها عليه."
+          },
+          {
+            "q": "هل يوجد فحص للقلق؟",
+            "a": "يساعد الحديث مع الطفل ومن يرعاه، وأحيانًا استبيان، المختص على تقييم النمط. قد تلزم تحاليل لاستقصاء أعراض جسدية، لكن لا يوجد تحليل مخبري واحد يشخّص القلق."
+          },
+          {
+            "q": "بماذا يشعر الطفل في نوبة الهلع؟",
+            "a": "قد يشتد الخوف فجأة مع رجفة أو دوخة أو خفقان أو تنفس سريع أو إحساس بأن الأمور غير حقيقية. اطلب مشورة طبية عند أول نوبة غير مفسّرة. صعوبة التنفس الشديدة أو الانهيار أو ازرقاق الشفتين أو غياب الاستجابة حالات طارئة."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجع في 17 نوفمبر 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "استمع إلى تفسير الطفل وتحقق من وجود أي تهديد حقيقي.",
+            "استشر مختصًا إذا استمر الضيق أو التجنب وأثر في البيت أو المدرسة.",
+            "خططا لخطوات صغيرة قابلة للتحقيق وراجعا ما أفاد الطفل."
+          ],
+          "bemama": "تقترح بي ماما أن تسأل «ما الذي تتمنى أن تستطيع فعله من جديد؟» وأن تذكر هذا المثال في الموعد. بهذه الطريقة يكون للطفل رأي في الهدف الذي يريد تحقيقه بالمساندة.",
+          "safety": "اطلب المساعدة الطارئة لصعوبة التنفس الشديدة أو ازرقاق الشفتين أو تحولهما إلى الرمادي أو الانهيار أو عدم استجابة الطفل. تحتاج النوبة الأولى المشابهة للهلع والتي لا تفسير لها إلى تقييم طبي.",
+          "sources": [
+            {
+              "organization": "هيئة الخدمات الصحية الوطنية البريطانية",
+              "title": "التعرّف إلى اضطرابات القلق لدى الأطفال وعلاجها",
+              "url": "https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/anxiety-disorders-in-children/"
+            },
+            {
+              "organization": "الأكاديمية الأمريكية للطب النفسي للأطفال والمراهقين",
+              "title": "اضطراب الهلع والحاجة إلى تقييم طبي",
+              "url": "https://aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Panic-Disorder-In-Children-And-Adolescents-050.aspx"
+            },
+            {
+              "organization": "ووكَب وزملاؤه، مجلة نيو إنغلاند للطب",
+              "title": "تجربة العلاج السلوكي المعرفي والسيرترالين والجمع بينهما في قلق الطفولة",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/18974308/"
+            },
+            {
+              "organization": "هيئة الخدمات الصحية الوطنية البريطانية",
+              "title": "صعوبات التنفس التي تستدعي المساعدة الطارئة لدى الأطفال",
+              "url": "https://www.nhs.uk/symptoms/shortness-of-breath/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Quand les inquiétudes empêchent votre enfant de participer",
+        "description": "Repérez quand l’inquiétude gêne votre enfant au quotidien, comment se déroule une évaluation de l’anxiété et comment l’aider à reprendre une activité pas à pas.",
+        "intro": "Votre enfant veut apprendre à nager. Sur le chemin de la piscine, il vous demande sans cesse si vous resterez et, dans le vestiaire, il a mal au ventre. Commencez par comprendre ce qui s’y passe. Quelqu’un lui a-t-il fait peur ? Un exercice lui semble-t-il dangereux ? L’inquiétude commence-t-elle avant même d’arriver au bord de l’eau ?",
+        "sections": [
+          {
+            "heading": "Regardez ce que l’inquiétude l’empêche de faire",
+            "paragraphs": [
+              "Il est courant de s’inquiéter devant la nouveauté. Demandez de l’aide si la peur revient, paraît difficile à surmonter et gêne le sommeil, l’école, les amitiés ou des activités que l’enfant aimerait faire. N’attendez pas qu’un nombre précis de mois se soit écoulé. La peur d’une séparation, la crainte d’être jugé et l’inquiétude dans de nombreuses situations peuvent s’exprimer différemment.",
+              "L’enfant peut sans cesse demander à être rassuré, pleurer, s’irriter, se crisper, sentir son cœur battre vite ou avoir mal au ventre. Certains évitent si bien ce qui les inquiète que les adultes les voient rarement en détresse. Demandez ce qu’ils ont cessé de faire. S’il existe un réel problème de sécurité, comme du harcèlement ou un incident effrayant, occupez-vous-en d’abord."
+            ]
+          },
+          {
+            "heading": "Comment se déroule l’évaluation ?",
+            "paragraphs": [
+              "Apportez un exemple de la maison et un autre de l’école ou d’ailleurs. Le professionnel demande ce que l’enfant redoute, à quelle fréquence, ce qu’il évite et ce qu’il ressent dans son corps. Un questionnaire peut faciliter la discussion. Aucune analyse sanguine ne diagnostique un trouble anxieux. Certains symptômes physiques nécessitent un examen ou des tests pour rechercher une autre cause. Le professionnel peut aussi poser des questions sur le moral, le sommeil et, à l’adolescence, l’alcool ou d’autres substances.",
+              "Une attaque de panique est une poussée soudaine de peur ou de malaise intense. Palpitations, vertiges, tremblements, respiration rapide ou impression d’irréalité peuvent l’accompagner. Faites évaluer un premier épisode inexpliqué. Une grande difficulté à respirer, des lèvres bleues ou grises, un effondrement ou une absence de réponse nécessitent les secours. Ne les attribuez pas d’emblée à l’anxiété."
+            ]
+          },
+          {
+            "heading": "Choisissez une petite étape avec du soutien",
+            "paragraphs": [
+              "Reconnaissez la peur et demandez ce que l’enfant aimerait pouvoir refaire. Si la piscine est sûre et que le maître-nageur est d’accord, la première étape pourrait être de venir regarder une leçon ensemble à une heure calme. Convenez d’une étape suivante que l’enfant pourra essayer accompagné. Évitez de le surprendre ou de le forcer à entrer dans l’eau alors qu’il a peur. Un rythme régulier pour le sommeil, les repas et l’activité est un appui au quotidien. Aucun aliment particulier ne guérit un trouble anxieux.",
+              "La thérapie cognitivo-comportementale aide l’enfant à repérer les scénarios qu’il redoute et à aborder progressivement des situations sûres. Chez certains enfants, un professionnel peut envisager un médicament et en surveiller les effets. Un essai a porté sur 488 jeunes de 7 à 17 ans présentant une anxiété de séparation, un trouble anxieux généralisé ou une anxiété sociale. Après douze semaines, environ 81 % de ceux recevant la thérapie avec la sertraline et 60 % de ceux recevant la thérapie seule étaient considérés comme nettement ou très nettement améliorés. Ces résultats ne déterminent pas le traitement d’un enfant en particulier et ne concernent pas toutes les formes d’anxiété."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Regardez ce que votre enfant a cessé de faire, en plus de ce qu’il vous dit craindre.",
+          "Demandez une évaluation si l’anxiété limite le quotidien et faites examiner les nouveaux symptômes physiques.",
+          "Choisissez avec l’enfant et l’équipe une petite étape qu’il peut aborder en sécurité."
+        ],
+        "faq": [
+          {
+            "q": "Qu’est-ce qu’un trouble anxieux ?",
+            "a": "Une peur ou une inquiétude excessive par rapport à la situation, qui provoque une détresse ou perturbe le quotidien, peut correspondre à un trouble anxieux. Le professionnel considère l’âge de l’enfant, le contexte et l’ensemble des manifestations."
+          },
+          {
+            "q": "Quels signes observe-t-on souvent ?",
+            "a": "L’enfant peut réclamer sans cesse d’être rassuré, éviter certaines activités, s’irriter ou mal dormir. Certains ont mal au ventre, ont les muscles tendus ou sentent leur cœur s’emballer. Demandez dans quelles situations cela arrive et quelles sont les conséquences."
+          },
+          {
+            "q": "Existe-t-il un test pour l’anxiété ?",
+            "a": "Un entretien avec l’enfant et son parent et parfois un questionnaire aident à comprendre la situation. Des examens peuvent être utiles pour explorer des symptômes physiques mais aucune analyse ne diagnostique à elle seule l’anxiété."
+          },
+          {
+            "q": "Que peut-on ressentir lors d’une attaque de panique ?",
+            "a": "La peur peut monter brusquement avec tremblements, vertiges, palpitations, respiration rapide ou impression d’irréalité. Demandez un avis médical pour un premier épisode inexpliqué. Une grande gêne respiratoire, un effondrement, des lèvres bleues ou une absence de réponse constituent des urgences."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 17 novembre 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Écoutez l’explication de l’enfant et vérifiez s’il existe un danger réel.",
+            "Consultez si la détresse ou l’évitement persiste et gêne l’école ou la maison.",
+            "Prévoyez des étapes courtes et accessibles, puis revoyez ce qui a aidé."
+          ],
+          "bemama": "BeMama propose de demander « Qu’aimerais-tu pouvoir refaire ? » et d’apporter cet exemple en consultation. L’enfant participe ainsi au choix de ce que l’accompagnement doit l’aider à retrouver.",
+          "safety": "Appelez les secours si l’enfant respire très difficilement, si ses lèvres sont bleues ou grises, s’il s’effondre ou ne répond pas. Un premier épisode inexpliqué ressemblant à une attaque de panique nécessite un avis médical.",
+          "sources": [
+            {
+              "organization": "Service national de santé britannique",
+              "title": "Reconnaître et traiter les troubles anxieux chez l’enfant",
+              "url": "https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/anxiety-disorders-in-children/"
+            },
+            {
+              "organization": "Académie américaine de psychiatrie de l’enfant et de l’adolescent",
+              "title": "Trouble panique et nécessité d’une évaluation médicale",
+              "url": "https://aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Panic-Disorder-In-Children-And-Adolescents-050.aspx"
+            },
+            {
+              "organization": "Walkup et collaborateurs, New England Journal of Medicine",
+              "title": "Essai comparant la thérapie cognitivo-comportementale, la sertraline et leur association dans l’anxiété de l’enfant",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/18974308/"
+            },
+            {
+              "organization": "Service national de santé britannique",
+              "title": "Difficultés respiratoires de l’enfant nécessitant des secours immédiats",
+              "url": "https://www.nhs.uk/symptoms/shortness-of-breath/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Kaygı çocuğun istediği etkinliğe katılmasını engellediğinde",
+        "description": "Kaygının çocuğun günlük yaşamını nasıl etkilediğini, değerlendirmede neler sorulduğunu ve etkinliğe dönmek için küçük bir adımı nasıl seçeceğinizi öğrenin.",
+        "intro": "Çocuğunuz yüzme öğrenmek istiyor. Derse giderken yanında kalıp kalmayacağınızı tekrar tekrar soruyor. Soyunma odasına gelince karnı ağrıyor. Önce havuzda neler olduğunu sorun. Biri onu korkutmuş mu? Bir hareket ona güvensiz mi geliyor? Yoksa daha suyu görmeden mi kaygılanmaya başlıyor?",
+        "sections": [
+          {
+            "heading": "Kaygı yüzünden neleri kaçırdığına bakın",
+            "paragraphs": [
+              "Yeni bir şey denemeden önce endişelenmek yaygındır. Kaygı sık sık geri dönüyor, yönetilmesi güçleşiyor ve uykuyu, okulu, arkadaşlıkları veya çocuğun yapmak istediği etkinlikleri engelliyorsa yardım istemek yerinde olur. Danışmak için belirli sayıda ay beklemeniz gerekmez. Ayrılık korkusu, başkalarının yargılamasından çekinme ve birçok durumda kaygılanma farklı görünebilir.",
+              "Çocuk tekrar tekrar güvence isteyebilir, ağlayabilir, çabuk öfkelenebilir veya kas gerginliği, çarpıntı ya da karın ağrısı yaşayabilir. Bazı çocuklar korktukları durumdan öyle iyi kaçınır ki yetişkinler sıkıntılarını nadiren görür. Nelerden uzak kaldığını sorun. Zorbalık veya ürkütücü bir olay gibi gerçek bir güvenlik sorunu varsa önce onu ele alın."
+            ]
+          },
+          {
+            "heading": "Değerlendirmede neler sorulur?",
+            "paragraphs": [
+              "Evden bir örnek ve okuldan ya da başka bir ortamdan bir örnek götürün. Uzman nelerden korktuğunu, bunun ne sıklıkta olduğunu, nelerden kaçındığını ve bedeninde neler hissettiğini sorar. Bir soru formu görüşmeye yardımcı olabilir. Kaygı bozukluğu tanısı koyan bir kan testi yoktur. Bedensel belirtilerin başka nedenlerini araştırmak için bazen muayene veya test gerekir. Uzman ayrıca çökkünlük ve uyku hakkında, ergenlere de alkol veya başka maddeler hakkında sorular sorabilir.",
+              "Panik atak, yoğun korku veya sıkıntının aniden yükselmesidir. Çarpıntı, baş dönmesi, titreme, hızlı nefes alma veya çevrenin gerçek dışı olduğu hissi eşlik edebilir. Nedeni bilinmeyen ilk atakta tıbbi değerlendirme gerekir. Nefes almada ciddi güçlük, dudaklarda morarma veya grileşme, bayılma ya da tepki vermeme durumunda acil yardım isteyin. Bu belirtileri kaygıya bağlamayın."
+            ]
+          },
+          {
+            "heading": "Destekle atabileceği küçük bir adım bulun",
+            "paragraphs": [
+              "Korkusunu kabul edin ve yeniden ne yapmak istediğini sorun. Havuz güvenliyse ve eğitmen de uygun buluyorsa ilk adım sakin bir saatte gidip birlikte bir dersi izlemek olabilir. Sonra destekle deneyebileceği bir sonraki adımı belirleyin. Korkan çocuğu hazırlıksız yakalayıp suya sokmayın, zorlamayın. Düzenli uyku, öğünler ve hareket destek sağlar. Kaygı bozukluğunu iyileştiren belirli bir yiyecek yoktur.",
+              "Bilişsel davranışçı terapi, kaygılı beklentileri fark etmeyi ve güvenli durumlara yavaş yavaş yaklaşmayı öğretir. Hekim bazı çocuklar için ilaç düşünebilir ve etkilerini izler. Ayrılık kaygısı, yaygın kaygı veya sosyal kaygı bozukluğu olan 7–17 yaş arası 488 gencin katıldığı bir çalışmada, 12 hafta sonunda bilişsel davranışçı terapiyle birlikte sertralin alanların yaklaşık %81’i ve yalnız terapi alanların %60’ı belirgin ya da çok belirgin iyileşme göstermiş olarak değerlendirildi. Bu sonuçlar bir çocuk için reçete oluşturmaz ve her kaygı türüne genellenemez."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Çocuğun nelerden korktuğu kadar neleri yapmayı bıraktığına da bakın.",
+          "Kaygı günlük yaşamı sınırlıyorsa değerlendirme isteyin, yeni bedensel belirtileri hekime danışın.",
+          "Çocukla ve bakım ekibiyle birlikte küçük ve güvenli bir adım seçin."
+        ],
+        "faq": [
+          {
+            "q": "Kaygı bozukluğu nedir?",
+            "a": "Duruma göre aşırı olan, sıkıntı yaratan veya günlük yaşamı aksatan korku ve endişeler bir kaygı bozukluğuna işaret edebilir. Uzman çocuğun yaşını, koşullarını ve belirtilerin tümünü dikkate alır."
+          },
+          {
+            "q": "Hangi belirtiler sık görülür?",
+            "a": "Çocuk tekrar tekrar güvence isteyebilir, etkinliklerden kaçınabilir, huzursuz olabilir veya iyi uyuyamayabilir. Karın ağrısı, kas gerginliği ve çarpıntı da görülebilir. Belirtilerin nerede ortaya çıktığını ve çocuğu nasıl etkilediğini sorun."
+          },
+          {
+            "q": "Kaygı için bir test var mı?",
+            "a": "Uzman çocuk ve bakım verenle görüşerek ve bazen bir soru formu kullanarak belirtileri değerlendirir. Bedensel belirtilerin nedenini araştırmak için test gerekebilir; tek bir laboratuvar testi kaygı tanısı koymaz."
+          },
+          {
+            "q": "Panik atak sırasında çocuk neler hissedebilir?",
+            "a": "Korku aniden artabilir; titreme, baş dönmesi, çarpıntı, hızlı nefes alma veya gerçek dışılık hissi eşlik edebilir. İlk kez yaşanan ve açıklanamayan atak için hekime başvurun. Ağır solunum güçlüğü, bayılma, dudaklarda morarma veya tepki vermeme acil durumlardır."
+          }
+        ],
+        "evidence": {
+          "updated": "17 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Çocuğun anlatımını dinleyin ve gerçek bir tehdit varsa araştırın.",
+            "Ev ya da okul yaşamını etkileyen ve süren sıkıntı veya kaçınma için bir uzmana danışın.",
+            "Küçük, ulaşılabilir adımlar planlayın ve neyin yardımcı olduğuna bakın."
+          ],
+          "bemama": "BeMama, “Yeniden ne yapabilmek istersin?” diye sormanızı ve o örneği randevuya götürmenizi önerir. Böylece çocuk, aldığı desteğin amacını belirlemede söz sahibi olur.",
+          "safety": "Ağır solunum güçlüğü, dudaklarda morarma veya grileşme, bayılma ya da çocuğun tepki vermemesi halinde acil yardım isteyin. Panik atağa benzeyen, açıklanamayan ilk olay tıbbi değerlendirme gerektirir.",
+          "sources": [
+            {
+              "organization": "Birleşik Krallık Ulusal Sağlık Servisi (NHS)",
+              "title": "Çocuklarda kaygı bozukluklarının tanınması ve tedavisi",
+              "url": "https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/anxiety-disorders-in-children/"
+            },
+            {
+              "organization": "Amerikan Çocuk ve Ergen Psikiyatrisi Akademisi",
+              "title": "Panik bozukluk ve tıbbi değerlendirme gereksinimi",
+              "url": "https://aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Panic-Disorder-In-Children-And-Adolescents-050.aspx"
+            },
+            {
+              "organization": "Walkup ve çalışma arkadaşları, New England Journal of Medicine",
+              "title": "Çocukluk çağı kaygısı için bilişsel davranışçı terapi, sertralin veya ikisinin birlikte kullanıldığı çalışma",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/18974308/"
+            },
+            {
+              "organization": "Birleşik Krallık Ulusal Sağlık Servisi (NHS)",
+              "title": "Çocuklarda acil yardım gerektiren solunum güçlüğü",
+              "url": "https://www.nhs.uk/symptoms/shortness-of-breath/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Cuando las preocupaciones impiden a tu hijo participar",
+        "description": "Reconoce cuándo la preocupación limita la vida de tu hijo, cómo se evalúa la ansiedad y cómo ayudarlo a dar un paso seguro para retomar una actividad.",
+        "intro": "Tu hijo quiere aprender a nadar. De camino a la clase te pregunta una y otra vez si te quedarás y al llegar al vestuario le duele la barriga. Empieza por averiguar qué sucede en la piscina. Pregunta si alguien le ha dado miedo, si un ejercicio le parece inseguro o si la preocupación empieza antes de llegar al agua.",
+        "sections": [
+          {
+            "heading": "Observa lo que se está perdiendo",
+            "paragraphs": [
+              "Es frecuente preocuparse ante algo nuevo. Conviene pedir ayuda si la preocupación vuelve a menudo, parece difícil de manejar y afecta al sueño, al colegio, a las amistades o a actividades que el niño quiere hacer. No hace falta esperar un número fijo de meses para consultar. El miedo a separarse, a que otros lo juzguen o la preocupación en muchas situaciones pueden manifestarse de forma distinta.",
+              "Tal vez pida tranquilidad repetidamente, llore, se irrite o note músculos tensos, palpitaciones o dolor de barriga. Algunos niños consiguen evitar lo que temen hasta el punto de que los adultos casi nunca los ven angustiados. Pregunta a qué han dejado de acudir. Si hay un peligro real, como acoso o un hecho que les ha asustado, atiéndelo primero."
+            ]
+          },
+          {
+            "heading": "Qué ocurre en la evaluación",
+            "paragraphs": [
+              "Lleva un ejemplo de casa y otro del colegio o de otro entorno. El profesional pregunta qué teme el niño, con qué frecuencia, qué evita y qué siente en el cuerpo. Un cuestionario puede ayudar a conversar. No hay un análisis de sangre que diagnostique un trastorno de ansiedad. Los síntomas físicos a veces necesitan exploración o pruebas para buscar otras causas. También pueden preguntar por el ánimo, el sueño y, en adolescentes, el alcohol y otras sustancias.",
+              "Un ataque de pánico es una oleada repentina de miedo o malestar intensos. Puede acompañarse de palpitaciones, mareo, temblores, respiración rápida o sensación de que las cosas son irreales. Un primer episodio sin explicación necesita valoración médica. Si el niño tiene serias dificultades para respirar, labios azules o grises, se desploma o no responde, busca ayuda de emergencia. No des por hecho que se debe a la ansiedad."
+            ]
+          },
+          {
+            "heading": "Elegid un paso pequeño con apoyo",
+            "paragraphs": [
+              "Reconoce su miedo y pregunta qué le gustaría volver a hacer. Si la piscina es segura y el instructor está de acuerdo, el primer paso podría ser ir juntos a una hora tranquila a observar una clase. Acordad un paso siguiente que pueda practicar con apoyo. No lo sorprendas ni lo fuerces a entrar al agua asustado. El sueño, las comidas y la actividad regulares ayudan como parte de la rutina. Ningún alimento en particular cura un trastorno de ansiedad.",
+              "La terapia cognitivo-conductual ayuda a reconocer lo que el niño teme que ocurra y a practicar un acercamiento gradual a situaciones seguras. En algunos casos, un profesional puede valorar medicación y vigilar sus efectos. En un ensayo con 488 jóvenes de 7 a 17 años con ansiedad de separación, ansiedad generalizada o ansiedad social, tras doce semanas se observó mucha o muchísima mejoría en cerca del 81 % con terapia cognitivo-conductual y sertralina y en el 60 % con terapia sola. Estos resultados no determinan el tratamiento de un niño concreto ni se aplican a todas las formas de ansiedad."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Observa qué ha dejado de hacer tu hijo, además de lo que dice temer.",
+          "Pide evaluación si la ansiedad limita su vida y consulta por síntomas físicos nuevos.",
+          "Acordad con el niño y el equipo un paso pequeño y seguro."
+        ],
+        "faq": [
+          {
+            "q": "¿Qué es un trastorno de ansiedad?",
+            "a": "Un patrón de miedo o preocupación excesivos para la situación que provoca malestar o altera la vida diaria puede ser un trastorno de ansiedad. El profesional tiene en cuenta la edad, el contexto y el patrón completo."
+          },
+          {
+            "q": "¿Qué señales son frecuentes?",
+            "a": "El niño puede pedir confirmación repetidamente, evitar actividades, irritarse o dormir mal. Algunos tienen dolor de barriga, tensión muscular o palpitaciones. Pregunta en qué situaciones aparece y cómo le afecta."
+          },
+          {
+            "q": "¿Hay alguna prueba para la ansiedad?",
+            "a": "La entrevista con el niño y sus cuidadores y, a veces, un cuestionario permiten valorar el patrón. Pueden hacer falta pruebas por los síntomas físicos, pero ningún análisis de laboratorio por sí solo diagnostica ansiedad."
+          },
+          {
+            "q": "¿Qué se siente en un ataque de pánico?",
+            "a": "El miedo puede surgir de repente con temblores, mareo, palpitaciones, respiración rápida o sensación de irrealidad. Pide orientación médica ante un primer episodio sin explicación. Si hay dificultad respiratoria intensa, desmayo con desplome, labios azules o falta de respuesta, es una emergencia."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 17 de noviembre de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Escucha la explicación del niño e investiga cualquier amenaza real.",
+            "Consulta si el malestar o la evitación persisten y afectan a la casa o al colegio.",
+            "Planificad pasos pequeños y posibles y repasad qué le ayudó."
+          ],
+          "bemama": "BeMama propone preguntar «¿Qué te gustaría poder hacer de nuevo?» y llevar el ejemplo a la consulta. Así el niño puede decir qué le gustaría conseguir con el apoyo.",
+          "safety": "Busca ayuda de emergencia si tiene dificultad intensa para respirar, labios azules o grises, se desploma o no responde. Un primer episodio parecido al pánico que no tenga explicación requiere valoración médica.",
+          "sources": [
+            {
+              "organization": "Servicio Nacional de Salud británico",
+              "title": "Reconocer y tratar los trastornos de ansiedad en niños",
+              "url": "https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/anxiety-disorders-in-children/"
+            },
+            {
+              "organization": "Academia Americana de Psiquiatría Infantil y Adolescente",
+              "title": "Trastorno de pánico y necesidad de evaluación médica",
+              "url": "https://aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Panic-Disorder-In-Children-And-Adolescents-050.aspx"
+            },
+            {
+              "organization": "Walkup y colaboradores, New England Journal of Medicine",
+              "title": "Ensayo de terapia cognitivo-conductual, sertralina o su combinación en la ansiedad infantil",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/18974308/"
+            },
+            {
+              "organization": "Servicio Nacional de Salud británico",
+              "title": "Dificultades respiratorias infantiles que necesitan ayuda de emergencia",
+              "url": "https://www.nhs.uk/symptoms/shortness-of-breath/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Quando a preocupação impede a criança de participar",
+        "description": "Saiba reconhecer quando a ansiedade interfere no dia a dia da criança, como é a avaliação e como planejar um pequeno passo para retomar uma atividade.",
+        "intro": "Seu filho quer aprender a nadar. No caminho da aula, pergunta várias vezes se você vai ficar. No vestiário, começa a sentir dor de barriga. Pergunte o que acontece na piscina. Alguém lhe deu um susto? Algum exercício parece inseguro? Ou a preocupação começa antes mesmo de chegar perto da água?",
+        "sections": [
+          {
+            "heading": "Observe do que a criança está abrindo mão",
+            "paragraphs": [
+              "Sentir preocupação diante de uma novidade é comum. Vale pedir ajuda quando o medo volta com frequência, é difícil de manejar e atrapalha o sono, a escola, as amizades ou atividades que a criança quer fazer. Não é preciso esperar um número mínimo de meses para buscar orientação. O medo da separação, o receio do julgamento dos outros e as preocupações em diversas situações podem se manifestar de maneiras diferentes.",
+              "A criança pode pedir repetidamente que você garanta que tudo vai ficar bem, chorar, ficar irritada, ter tensão muscular, palpitações ou dor de barriga. Algumas evitam tão bem o que temem que os adultos raramente percebem sua aflição. Pergunte a que ela deixou de ir. Se houver um risco concreto, como intimidação ou um episódio assustador, cuide disso primeiro."
+            ]
+          },
+          {
+            "heading": "O que acontece na avaliação",
+            "paragraphs": [
+              "Leve um exemplo de casa e outro da escola ou de um ambiente diferente. O profissional pergunta o que a criança teme, com que frequência, o que evita e o que sente no corpo. Um questionário pode orientar a conversa. Nenhum exame de sangue diagnostica um transtorno de ansiedade. Sintomas físicos às vezes exigem exame clínico ou testes para investigar outras causas. O profissional também pode perguntar sobre tristeza, sono e, no caso de adolescentes, álcool ou outras substâncias.",
+              "Uma crise de pânico é uma onda súbita de medo ou desconforto intenso. Pode vir com coração acelerado, tontura, tremor, respiração rápida ou sensação de que as coisas não são reais. Um primeiro episódio sem explicação precisa de avaliação médica. Se a criança tiver muita dificuldade para respirar, lábios azulados ou acinzentados, desmaiar ou deixar de responder, procure ajuda de emergência. Evite atribuir esses sinais à ansiedade."
+            ]
+          },
+          {
+            "heading": "Escolham um pequeno passo com apoio",
+            "paragraphs": [
+              "Acolha o medo e pergunte o que a criança gostaria de voltar a fazer. Se a piscina for segura e o instrutor concordar, o primeiro passo pode ser ir num horário tranquilo e assistir juntos a uma aula. Combinem então o que poderá praticar com apoio. Evite surpreender ou forçar uma criança assustada a entrar na água. Sono, refeições e atividade regulares dão suporte à rotina. Nenhum alimento específico cura um transtorno de ansiedade.",
+              "A terapia cognitivo-comportamental ajuda a criança a reconhecer o que teme que aconteça e a enfrentar gradualmente situações seguras. Para algumas crianças o médico pode considerar medicação e acompanhar seus efeitos. Em um estudo com 488 jovens de 7 a 17 anos com ansiedade de separação, generalizada ou social, cerca de 81% dos que fizeram terapia cognitivo-comportamental com sertralina e 60% dos que fizeram apenas terapia foram avaliados como tendo melhorado muito ou muitíssimo após 12 semanas. Esses resultados não indicam uma prescrição individual nem se aplicam a toda forma de ansiedade."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Observe o que a criança deixou de fazer e o que diz temer.",
+          "Peça avaliação se a ansiedade limita o cotidiano e busque orientação para novos sintomas físicos.",
+          "Combine com a criança e a equipe um passo pequeno e seguro."
+        ],
+        "faq": [
+          {
+            "q": "O que é um transtorno de ansiedade?",
+            "a": "Medos ou preocupações excessivos para a situação, que causam sofrimento ou atrapalham o cotidiano, podem fazer parte de um transtorno de ansiedade. O profissional considera a idade, o contexto e o conjunto dos sintomas."
+          },
+          {
+            "q": "Quais sinais são comuns?",
+            "a": "A criança pode pedir garantias repetidas vezes, evitar atividades, ficar irritada ou dormir mal. Algumas sentem dor de barriga, tensão muscular ou palpitações. Observe onde surgem os sintomas e como afetam a criança."
+          },
+          {
+            "q": "Existe exame para ansiedade?",
+            "a": "A conversa com a criança e o responsável, às vezes com um questionário, orienta a avaliação. Pode ser necessário investigar sintomas físicos, mas nenhum exame laboratorial isolado diagnostica ansiedade."
+          },
+          {
+            "q": "Como a criança pode se sentir numa crise de pânico?",
+            "a": "O medo pode surgir de repente com tremor, tontura, palpitações, respiração rápida ou sensação de irrealidade. Um primeiro episódio sem explicação exige orientação médica. Dificuldade intensa para respirar, desmaio, lábios azulados ou falta de resposta são emergências."
+          }
+        ],
+        "evidence": {
+          "updated": "Revisado em 17 de novembro de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Ouça a explicação da criança e investigue qualquer ameaça real.",
+            "Consulte um profissional se o sofrimento ou a evitação persistirem e afetarem a casa ou a escola.",
+            "Planejem passos pequenos e possíveis e conversem sobre o que ajudou."
+          ],
+          "bemama": "A BeMama sugere perguntar “O que você gostaria de conseguir fazer de novo?” e levar esse exemplo à consulta. Assim a criança participa da escolha do objetivo do apoio.",
+          "safety": "Procure ajuda de emergência em caso de dificuldade intensa para respirar, lábios azulados ou acinzentados, desmaio ou se a criança não responder. Um primeiro episódio parecido com pânico e sem explicação precisa de avaliação médica.",
+          "sources": [
+            {
+              "organization": "Serviço Nacional de Saúde britânico (NHS)",
+              "title": "Reconhecimento e tratamento dos transtornos de ansiedade em crianças",
+              "url": "https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/anxiety-disorders-in-children/"
+            },
+            {
+              "organization": "Academia Americana de Psiquiatria da Infância e da Adolescência",
+              "title": "Transtorno de pânico e necessidade de avaliação médica",
+              "url": "https://aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Panic-Disorder-In-Children-And-Adolescents-050.aspx"
+            },
+            {
+              "organization": "Walkup e colaboradores, New England Journal of Medicine",
+              "title": "Estudo sobre terapia cognitivo-comportamental, sertralina ou ambas na ansiedade infantil",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/18974308/"
+            },
+            {
+              "organization": "Serviço Nacional de Saúde britânico (NHS)",
+              "title": "Dificuldade respiratória infantil que exige socorro de emergência",
+              "url": "https://www.nhs.uk/symptoms/shortness-of-breath/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5887.webp",
+    "heroAlt": {
+      "en": "A child holds an orange swim cap beside an indoor pool with a lifeguard nearby.",
+      "es": "Un niño sostiene un gorro naranja junto a una piscina cubierta, con una socorrista cerca.",
+      "fr": "Un enfant tient un bonnet orange au bord d’une piscine couverte, près d’une surveillante.",
+      "pt": "Uma criança segura uma touca laranja ao lado de uma piscina coberta com uma salva-vidas por perto.",
+      "tr": "Bir çocuk kapalı havuzun yanında turuncu bonesini tutuyor, yakında bir cankurtaran var.",
+      "fa": "کودکی کنار استخر سرپوشیده کلاه شنای نارنجی به دست دارد و نجات‌غریق نزدیک اوست.",
+      "ar": "طفل يحمل قبعة سباحة برتقالية بجانب مسبح داخلي وبالقرب منه منقذة سباحة."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "When worries keep a child from joining in",
+      "description": "Learn to recognise when worry is disrupting your child’s life, what happens in an anxiety assessment, and how to plan a manageable step back into an activity."
+    },
+    "fa": {
+      "title": "وقتی نگرانی نمی‌گذارد کودک در فعالیتی که دوست دارد شرکت کند",
+      "description": "ببینید چه زمانی نگرانی زندگی روزمره کودک را مختل می‌کند، در ارزیابی اضطراب چه می‌پرسند و چگونه برای بازگشت به یک فعالیت، گامی کوچک و امن انتخاب کنید."
+    },
+    "ar": {
+      "title": "عندما يمنع القلق طفلك من نشاط يرغب فيه",
+      "description": "تعرّف إلى العلامات التي تدل على أن القلق يعطّل حياة طفلك، وما يسأل عنه المختص أثناء التقييم، وكيف تختاران خطوة صغيرة وآمنة للعودة إلى نشاط يحبه."
+    },
+    "fr": {
+      "title": "Quand les inquiétudes empêchent votre enfant de participer",
+      "description": "Repérez quand l’inquiétude gêne votre enfant au quotidien, comment se déroule une évaluation de l’anxiété et comment l’aider à reprendre une activité pas à pas."
+    },
+    "tr": {
+      "title": "Kaygı çocuğun istediği etkinliğe katılmasını engellediğinde",
+      "description": "Kaygının çocuğun günlük yaşamını nasıl etkilediğini, değerlendirmede neler sorulduğunu ve etkinliğe dönmek için küçük bir adımı nasıl seçeceğinizi öğrenin."
+    },
+    "es": {
+      "title": "Cuando las preocupaciones impiden a tu hijo participar",
+      "description": "Reconoce cuándo la preocupación limita la vida de tu hijo, cómo se evalúa la ansiedad y cómo ayudarlo a dar un paso seguro para retomar una actividad."
+    },
+    "pt": {
+      "title": "Quando a preocupação impede a criança de participar",
+      "description": "Saiba reconhecer quando a ansiedade interfere no dia a dia da criança, como é a avaliação e como planejar um pequeno passo para retomar uma atividade."
+    }
+  }
+}

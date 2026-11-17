@@ -1,0 +1,618 @@
+{
+  "sourceId": "5850",
+  "article": {
+    "slug": "baby-and-child/talkative-child-taking-turns-in-conversation",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "Helping a talkative child take turns in conversation",
+        "description": "Help a child who often interrupts share the floor, stay connected with classmates and keep their enthusiasm. Learn when a pattern deserves extra support.",
+        "intro": "Your child wants to describe every carriage on the train they saw. Their cousin starts to tell them about a different train, but never gets past the first word. You can enjoy the story and still help both children have a turn. Start with the moment the other child tried to join in.",
+        "sections": [
+          {
+            "heading": "When does a lot of talking get in the way?",
+            "paragraphs": [
+              "There is no daily word limit. A long story with a delighted listener is different from repeatedly missing someone’s attempt to join a game or ask for help. Notice the setting, what the child is excited or worried about and whether the people involved can participate in a way that works for them. Conversation styles also vary across families, languages and cultures.",
+              "Ask your child what they noticed. They may have been afraid they would forget their idea or assumed the listener wanted every detail. Notice strengths too: explaining a favourite subject, telling a funny story or inviting a quieter friend to play. Labelling the child a nuisance can make it harder to practise a new skill."
+            ]
+          },
+          {
+            "heading": "Show what a turn sounds like",
+            "paragraphs": [
+              "Try a small exchange about a shared object. Describe one detail, then pause: “My train has a blue engine. What did you notice about yours?” Wait long enough for an answer. Respond to the other person’s idea before adding your own. Let a child point, draw or show you something as part of their turn. Eye contact is not required to listen.",
+              "When the child interrupts, acknowledge the idea briefly and return the floor to the first speaker: “I want to hear about your tunnel. Let Sam finish the bridge part first.” Then actually return to the tunnel. If the thought is hard to hold, a sketch or one written word can keep it for later."
+            ]
+          },
+          {
+            "heading": "Make school support specific",
+            "paragraphs": [
+              "Ask the teacher for an example: does the difficulty occur in group work, on the playground or during long instructions? With the child, choose a discreet cue for pausing and a real opportunity to contribute afterward. Tell them when the cue will be used. Check later whether it helped them and their classmates take part.",
+              "A UK trial involved 88 school-age children already referred for persistent social communication difficulties. A specialist therapy programme improved some measures of conversation, including ratings by observers who did not know the treatment group. There was no significant improvement on the main measure of language structure compared with usual care. These children were selected for specific needs; the study does not mean an enthusiastic storyteller needs therapy."
+            ]
+          },
+          {
+            "heading": "When to ask for an assessment",
+            "paragraphs": [
+              "Frequent talking alone cannot diagnose ADHD, anxiety or a language condition. If a child repeatedly struggles to follow conversations, understand another point of view or take part in friendships and classroom activities, share concrete examples with their teacher and clinician. A speech-language professional can assess communication across familiar settings and languages. Seek advice promptly if previously acquired communication skills are lost."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Notice whether both people can contribute and how your child feels about the exchange.",
+          "Model one comment, a pause and a response to the other person’s idea.",
+          "Agree on a private cue with the child and teacher if interruptions affect school participation."
+        ],
+        "faq": [
+          {
+            "q": "How much talking counts as too much?",
+            "a": "There is no number of words that defines a problem. Look at the situation and whether the child or another person consistently struggles to take part."
+          },
+          {
+            "q": "Can talking a lot affect how my child feels?",
+            "a": "A child may feel left out if others regularly walk away, or embarrassed when corrected in public. Respond to the specific interruption and make room for the child to finish later. You can support turn-taking without criticising their personality."
+          },
+          {
+            "q": "Why do some children seem to talk without stopping?",
+            "a": "Excitement, worry, a favourite interest or difficulty noticing a pause can all matter. Ask what is happening in that situation. A single habit does not identify a diagnosis."
+          },
+          {
+            "q": "What can help at school?",
+            "a": "Ask the teacher when the interruptions happen, agree on one supportive cue and give the child a clear turn after waiting. If the problem persists across activities, discuss further support together."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Look at conversational participation across settings and languages.",
+            "Demonstrate pausing, listening and coming back to an idea.",
+            "Ask the child, family and teacher which situations they would like to make easier."
+          ],
+          "bemama": "BeMama suggests choosing one shared activity and practising a single exchange about it, then letting the game continue.",
+          "safety": "Seek professional advice for persistent difficulties that limit friendships, learning or everyday communication. Promptly report loss of previously acquired communication skills.",
+          "sources": [
+            {
+              "organization": "American Speech-Language-Hearing Association",
+              "title": "Social communication and conversational turn-taking",
+              "url": "https://www.asha.org/public/speech/social-communication/"
+            },
+            {
+              "organization": "Adams and colleagues, International Journal of Language & Communication Disorders",
+              "title": "Randomized trial of the Social Communication Intervention Project",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22512510/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "چطور به کودک پرحرف کمک کنیم در گفت‌وگو نوبت بدهد؟",
+        "description": "به کودکی که زیاد میان حرف دیگران می‌آید کمک کنید به دوستانش هم فرصت حرف زدن بدهد و شوقش را حفظ کند. ببینید چه وقت حمایت بیشتری لازم است.",
+        "intro": "فرزندتان می‌خواهد تک‌تک واگن‌های قطاری را که دیده توصیف کند. دخترخاله‌اش صحبت دربارهٔ قطار دیگری را شروع می‌کند، اما فرصت نمی‌کند حتی کلمهٔ اول را تمام کند. می‌توانید هم از داستان لذت ببرید و هم به هر دو کودک نوبت بدهید. از همان لحظه‌ای شروع کنید که کودک دیگر می‌خواست وارد گفت‌وگو شود.",
+        "sections": [
+          {
+            "heading": "چه زمانی زیاد حرف زدن مزاحم مشارکت می‌شود؟",
+            "paragraphs": [
+              "برای تعداد واژه‌ها در روز حدی وجود ندارد. داستانی طولانی برای شنونده‌ای مشتاق با بارها ندیدن تلاش کسی برای وارد شدن به بازی یا درخواست کمک فرق دارد. به موقعیت، چیزی که کودک را هیجان‌زده یا نگران کرده و امکان مشارکت هر کس به شیوهٔ مناسب خودش توجه کنید. سبک گفت‌وگو در خانواده‌ها، زبان‌ها و فرهنگ‌ها هم متفاوت است.",
+              "از فرزندتان بپرسید چه چیزی متوجه شد. شاید می‌ترسید حرفش را فراموش کند یا خیال می‌کرد شنونده همهٔ جزئیات را می‌خواهد. توانایی‌هایش را هم ببینید؛ شاید موضوع محبوبش را خوب توضیح می‌دهد، قصهٔ خنده‌داری تعریف می‌کند یا دوست کم‌حرفش را به بازی دعوت می‌کند. اگر به او برچسب مزاحم بزنید، تمرین یک مهارت تازه دشوارتر می‌شود."
+            ]
+          },
+          {
+            "heading": "نوبت دادن را در عمل نشان دهید",
+            "paragraphs": [
+              "دربارهٔ چیزی که هر دو به آن علاقه دارید گفت‌وگویی کوتاه را امتحان کنید. یک نکته بگویید و مکث کنید: «لوکوموتیو قطار من آبی است. تو در قطارت چه چیزی دیدی؟» برای پاسخ فرصت کافی بدهید. پیش از اضافه کردن نظر خودتان، دربارهٔ فکر او حرف بزنید. در نوبتش می‌تواند اشاره کند، نقاشی بکشد یا چیزی نشان دهد. گوش دادن الزاماً نیاز به تماس چشمی ندارد.",
+              "وقتی میان حرف می‌آید، کوتاه نشان دهید که حرفش را شنیده‌اید و به گویندهٔ اول برگردید: «می‌خواهم دربارهٔ تونلت بشنوم. بگذار اول سام حرفش را دربارهٔ پل تمام کند.» بعد واقعاً به تونل برگردید. اگر نگه داشتن فکر در ذهن دشوار است، یک طرح کوچک یا نوشتن یک واژه می‌تواند آن را برای بعد نگه دارد."
+            ]
+          },
+          {
+            "heading": "برای مدرسه حمایت مشخصی در نظر بگیرید",
+            "paragraphs": [
+              "از معلم نمونه بخواهید. آیا مشکل هنگام کار گروهی، در حیاط مدرسه یا وقت توضیح‌های طولانی رخ می‌دهد؟ با کودک نشانهٔ ظریفی برای مکث انتخاب کنید و بعد از آن فرصت واقعی برای شرکت در گفت‌وگو بدهید. از قبل بگویید این علامت چه وقت استفاده می‌شود. بعد بپرسید آیا برای مشارکت او و هم‌کلاسی‌ها مفید بوده است.",
+              "در یک کارآزمایی در بریتانیا ۸۸ کودک دبستانی شرکت کردند که به دلیل مشکلات مداوم ارتباط اجتماعی به متخصص ارجاع شده بودند. یک برنامهٔ درمانی تخصصی بعضی معیارهای گفت‌وگو، از جمله ارزیابی ناظرانی را که از گروه درمان خبر نداشتند، بهبود داد. در مقایسه با مراقبت معمول، بهبود معناداری در معیار اصلی ساختار زبان دیده نشد. این کودکان به دلیل نیازهای خاصشان انتخاب شده بودند. علاقهٔ زیاد به داستان گفتن به خودی خود نیاز به درمان را نشان نمی‌دهد."
+            ]
+          },
+          {
+            "heading": "چه زمانی ارزیابی بخواهیم؟",
+            "paragraphs": [
+              "زیاد حرف زدن به‌تنهایی برای تشخیص اختلال نقص توجه و بیش‌فعالی، اضطراب یا اختلال زبان کافی نیست. اگر دنبال کردن گفت‌وگو، درک دیدگاه دیگران یا مشارکت در دوستی‌ها و فعالیت‌های کلاس بارها برای کودک دشوار می‌شود، مثال‌های مشخصی را با معلم و پزشکش در میان بگذارید. گفتاردرمانگر می‌تواند ارتباط را در محیط‌های آشنا و زبان‌های کودک ارزیابی کند. اگر مهارتی ارتباطی را که پیش‌تر داشته از دست داد، بدون تأخیر نظر متخصص را بخواهید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "ببینید آیا هر دو نفر فرصت مشارکت دارند و کودک چه احساسی دربارهٔ گفت‌وگو دارد.",
+          "با یک نظر کوتاه، مکث و پاسخ به فکر طرف مقابل، نوبت دادن را نشان دهید.",
+          "اگر قطع کردن حرف‌ها به مشارکت در مدرسه آسیب می‌زند، با کودک و معلم بر سر نشانه‌ای خصوصی توافق کنید."
+        ],
+        "faq": [
+          {
+            "q": "چه اندازه حرف زدن زیاد است؟",
+            "a": "تعداد مشخصی واژه مشکل را تعریف نمی‌کند. به موقعیت نگاه کنید و ببینید آیا کودک یا طرف مقابل مرتب برای مشارکت مشکل دارد."
+          },
+          {
+            "q": "آیا زیاد حرف زدن بر احساس کودک اثر می‌گذارد؟",
+            "a": "اگر دیگران مرتب از کنارش بروند ممکن است احساس طرد شدن کند یا از تذکر در جمع خجالت بکشد. دربارهٔ همان قطع کردن مشخص حرف بزنید و بعد برای تمام کردن داستانش فرصت بدهید. می‌توانید بدون انتقاد از شخصیت کودک، نوبت گرفتن را تقویت کنید."
+          },
+          {
+            "q": "چرا بعضی کودکان انگار بی‌وقفه حرف می‌زنند؟",
+            "a": "هیجان، نگرانی، علاقه به موضوعی خاص یا سختی در تشخیص مکث می‌تواند نقش داشته باشد. بپرسید در آن موقعیت چه می‌گذرد. یک عادت به‌تنهایی تشخیص خاصی را نشان نمی‌دهد."
+          },
+          {
+            "q": "در مدرسه چه کاری کمک می‌کند؟",
+            "a": "از معلم بپرسید چه وقت کودک میان حرف می‌آید. یک نشانهٔ حمایت‌کننده تعیین کنید و بعد از انتظار به‌وضوح نوبت را به او بدهید. اگر مشکل در فعالیت‌های مختلف ادامه دارد، با هم دربارهٔ حمایت بیشتر صحبت کنید."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۶ نوامبر ۲۰۲۶ بررسی شد",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "مشارکت در گفت‌وگو را در محیط‌ها و زبان‌های گوناگون مشاهده کنید.",
+            "مکث، گوش دادن و برگشتن به یک فکر را نشان دهید.",
+            "از کودک، خانواده و معلم بپرسید دوست دارند کدام موقعیت‌ها برایشان آسان‌تر شود."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند یک فعالیت مشترک انتخاب کنید، یک بار درباره‌اش نوبتی حرف بزنید و بعد اجازه دهید بازی ادامه پیدا کند.",
+          "safety": "اگر مشکل مداوم، دوستی، یادگیری یا ارتباط روزمره را محدود کرده، مشورت تخصصی بگیرید. از دست رفتن مهارت‌های ارتباطی قبلی را بدون تأخیر اطلاع دهید.",
+          "sources": [
+            {
+              "organization": "انجمن گفتار، زبان و شنوایی آمریکا",
+              "title": "ارتباط اجتماعی و رعایت نوبت در گفت‌وگو",
+              "url": "https://www.asha.org/public/speech/social-communication/"
+            },
+            {
+              "organization": "آدامز و همکاران، مجلهٔ بین‌المللی اختلالات زبان و ارتباط",
+              "title": "کارآزمایی تصادفی پروژهٔ مداخله در ارتباط اجتماعی",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22512510/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "كيف تساعد طفلك كثير الكلام على تبادل الأدوار في الحديث؟",
+        "description": "ساعد طفلك الذي يقاطع كثيرًا على إفساح المجال لزملائه مع الحفاظ على حماسه. تعرّف إلى المواقف التي تستحق دعمًا إضافيًا في البيت أو المدرسة.",
+        "intro": "يريد طفلك وصف كل عربة من قطار رآه. تبدأ قريبته بالحديث عن قطار آخر لكنها لا تكاد تكمل أول كلمة. يمكنك الاستمتاع بالقصة ومساعدة الطفلين على أخذ دورهما. ابدأ من اللحظة التي حاولت فيها الطفلة الأخرى أن تشارك.",
+        "sections": [
+          {
+            "heading": "متى يصعّب الكلام الكثير المشاركة؟",
+            "paragraphs": [
+              "لا يوجد حد يومي لعدد الكلمات. تختلف القصة الطويلة التي يسعد المستمع بها عن تكرار عدم ملاحظة أن أحدًا يحاول الانضمام إلى لعبة أو طلب مساعدة. انتبه إلى المكان وما يثير حماس طفلك أو قلقه، وإلى قدرة كل طرف على المشاركة بطريقة تناسبه. كما تختلف أساليب الحوار بين الأسر واللغات والثقافات.",
+              "اسأل طفلك عما لاحظه. ربما خشي أن ينسى فكرته أو ظن أن المستمع يريد كل التفاصيل. لاحظ نقاط القوة أيضًا، مثل شرح موضوع يحبه أو سرد قصة مضحكة أو دعوة صديق هادئ للعب. وصفه بأنه مزعج قد يصعّب عليه التدريب على مهارة جديدة."
+            ]
+          },
+          {
+            "heading": "أرِه كيف ينتقل الدور بين المتحدثين",
+            "paragraphs": [
+              "جرّبا تبادلًا قصيرًا حول غرض يهمكما. صف تفصيلًا واحدًا ثم توقّف: «قاطرتي زرقاء. ماذا لاحظت في قطارك؟». أعطِه وقتًا كافيًا للجواب. علّق على فكرته قبل أن تضيف فكرتك. يمكنه أن يشير أو يرسم أو يريك شيئًا خلال دوره. ولا يُشترط التواصل البصري حتى يصغي.",
+              "إذا قاطع، فأشعره باختصار أنك سمعت فكرته ثم أعد الكلمة إلى المتحدث الأول: «أريد أن أسمع عن النفق. لندع سام يكمل الكلام عن الجسر أولًا». ثم عد فعلًا إلى موضوع النفق. إن صعب عليه تذكر فكرته فقد يساعد رسم صغير أو تدوين كلمة واحدة على حفظها لوقت لاحق."
+            ]
+          },
+          {
+            "heading": "حدّد الدعم الذي يحتاجه في المدرسة",
+            "paragraphs": [
+              "اطلب من المعلم مثالًا. هل يظهر الأمر في العمل الجماعي أم ساحة اللعب أم عند سماع تعليمات طويلة؟ اختر مع الطفل إشارة خفية للتوقف قليلًا ثم فرصة حقيقية للمشاركة. أخبره متى ستُستخدم الإشارة. اسأله لاحقًا إن ساعدته وساعدت زملاءه على المشاركة.",
+              "شملت تجربة بريطانية ٨٨ طفلًا في سن المدرسة سبق أن أُحيلوا بسبب صعوبات مستمرة في التواصل الاجتماعي. حسّن برنامج علاجي متخصص بعض مقاييس المحادثة، ومنها تقييم مراقبين لم يعرفوا مجموعة العلاج التي ينتمي إليها الطفل. لم يتحسن المقياس الأساسي لبنية اللغة تحسنًا ذا دلالة مقارنة بالرعاية المعتادة. اختير هؤلاء الأطفال لاحتياجات محددة. الحماس لرواية القصص وحده لا يعني أن الطفل يحتاج إلى علاج."
+            ]
+          },
+          {
+            "heading": "متى تطلب تقييمًا؟",
+            "paragraphs": [
+              "لا تكفي كثرة الكلام وحدها لتشخيص اضطراب فرط الحركة وتشتت الانتباه أو القلق أو اضطراب لغوي. إذا تكررت صعوبة متابعة المحادثات أو فهم وجهة نظر أخرى أو المشاركة مع الأصدقاء وفي الصف، فأعطِ المعلم والطبيب أمثلة محددة. يمكن لاختصاصي النطق واللغة تقييم التواصل في البيئات المألوفة وبلغات الطفل. اطلب المشورة دون تأخير إذا فقد مهارات تواصل سبق أن اكتسبها."
+            ]
+          }
+        ],
+        "takeaways": [
+          "لاحظ هل يستطيع الطرفان المشاركة وما شعور طفلك تجاه الحوار.",
+          "قدّم نموذجًا بتعليق واحد ثم وقفة ورد على فكرة الشخص الآخر.",
+          "اتفق مع الطفل والمعلم على إشارة خاصة إذا أثرت المقاطعات في المشاركة المدرسية."
+        ],
+        "faq": [
+          {
+            "q": "ما المقدار الذي يُعد كلامًا زائدًا؟",
+            "a": "لا يوجد عدد كلمات يحدد المشكلة. انظر إلى الموقف وهل يجد الطفل أو الطرف الآخر صعوبة متكررة في المشاركة."
+          },
+          {
+            "q": "هل يمكن أن تؤثر كثرة الكلام في مشاعر طفلي؟",
+            "a": "قد يشعر بأنه مستبعد إذا كان الآخرون يبتعدون باستمرار، أو بالإحراج إذا صُحح له أمامهم. تناول المقاطعة نفسها واترك له فرصة إكمال حديثه لاحقًا. يمكنك دعم تبادل الأدوار دون انتقاد شخصيته."
+          },
+          {
+            "q": "لماذا يبدو بعض الأطفال وكأنهم لا يتوقفون عن الكلام؟",
+            "a": "قد يكون للحماس أو القلق أو الاهتمام المفضل أو صعوبة ملاحظة الوقفة دور. اسأل عما يحدث في ذلك الموقف. عادة واحدة لا تكفي لتحديد تشخيص."
+          },
+          {
+            "q": "ما الذي يساعد في المدرسة؟",
+            "a": "اسأل المعلم متى تحدث المقاطعات، واتفقوا على إشارة داعمة ثم أعطوا الطفل دورًا واضحًا بعد الانتظار. إذا استمرت المشكلة في أنشطة مختلفة فتحدثوا معًا عن دعم إضافي."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "راقب المشاركة في الحوار في أماكن وبلغات مختلفة.",
+            "أرِ الطفل كيف يتوقف وينصت ثم يعود إلى فكرة سابقة.",
+            "اسأل الطفل والأسرة والمعلم عن المواقف التي يودون تيسيرها."
+          ],
+          "bemama": "تقترح بي ماما اختيار نشاط مشترك والتدرّب خلاله مرة واحدة على تبادل الحديث، ثم ترك اللعب يستمر.",
+          "safety": "اطلب مشورة مختص إذا حدّت الصعوبات المستمرة من الصداقات أو التعلم أو التواصل اليومي. أبلغ دون تأخير عن فقدان مهارات تواصل مكتسبة سابقًا.",
+          "sources": [
+            {
+              "organization": "الجمعية الأمريكية للنطق واللغة والسمع",
+              "title": "التواصل الاجتماعي وتبادل الأدوار في المحادثة",
+              "url": "https://www.asha.org/public/speech/social-communication/"
+            },
+            {
+              "organization": "آدامز وزملاؤه، المجلة الدولية لاضطرابات اللغة والتواصل",
+              "title": "تجربة عشوائية لمشروع التدخل في التواصل الاجتماعي",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22512510/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Aider un enfant bavard à laisser aux autres la parole",
+        "description": "Aidez votre enfant à laisser une place aux autres en classe et dans les jeux, tout en gardant son enthousiasme. Découvrez quand un soutien peut être indiqué.",
+        "intro": "Votre enfant veut décrire chaque wagon du train qu’il a vu. Sa cousine commence à lui parler d’un autre train, mais n’arrive jamais au deuxième mot. Vous pouvez apprécier le récit et donner à chacun son tour. Revenez au moment où sa cousine a essayé de prendre la parole.",
+        "sections": [
+          {
+            "heading": "À quel moment parler beaucoup devient-il gênant ?",
+            "paragraphs": [
+              "Il n’existe pas de quota de mots par jour. Un long récit qui enchante la personne qui écoute diffère d’une situation où l’on manque régulièrement les tentatives d’un autre enfant de se joindre au jeu ou d’obtenir de l’aide. Regardez le contexte, ce qui enthousiasme ou inquiète l’enfant et si chacun peut participer à sa manière. Les habitudes de conversation varient aussi selon les familles, les langues et les cultures.",
+              "Demandez à votre enfant ce qu’il a remarqué. Il craignait peut-être d’oublier son idée ou pensait que son auditrice voulait connaître chaque détail. Remarquez aussi ses points forts : expliquer sa passion, raconter une histoire drôle ou inviter un ami plus discret à jouer. Le traiter d’enquiquineur risque de freiner son envie d’apprendre."
+            ]
+          },
+          {
+            "heading": "Montrez comment se passe un tour de parole",
+            "paragraphs": [
+              "Échangez quelques mots à propos d’un objet commun. Décrivez un détail, puis faites une pause : « Ma locomotive est bleue. Qu’as-tu remarqué sur ton train ? » Laissez le temps de répondre. Rebondissez sur son idée avant d’ajouter la vôtre. Quand vient son tour, l’enfant peut aussi montrer, pointer ou dessiner. Écouter ne nécessite pas de regarder l’autre dans les yeux.",
+              "S’il coupe la parole, accueillez brièvement son idée et rendez la parole à la première personne : « J’ai envie d’entendre ton histoire de tunnel. Laissons d’abord Sam finir de parler du pont. » Puis revenez vraiment au tunnel. Un croquis ou un mot sur un papier peut l’aider à retrouver son idée."
+            ]
+          },
+          {
+            "heading": "Précisez l’aide à apporter en classe",
+            "paragraphs": [
+              "Demandez un exemple à l’enseignant. La difficulté apparaît-elle pendant les travaux de groupe, dans la cour ou lors de longues consignes ? Avec l’enfant, choisissez un signal discret pour l’inviter à faire une pause et prévoyez un moment où il pourra réellement contribuer. Dites-lui quand le signal sera utilisé. Voyez ensuite s’il a aidé chacun à participer.",
+              "Un essai britannique a porté sur 88 écoliers déjà orientés pour des difficultés persistantes de communication sociale. Un programme spécialisé a amélioré certains résultats en conversation, notamment selon des observateurs qui ignoraient le groupe de traitement. Le critère principal de structure du langage ne s’est pas amélioré de façon significative par rapport aux soins habituels. Ces enfants avaient des besoins particuliers. Aimer raconter des histoires ne justifie pas à lui seul une thérapie."
+            ]
+          },
+          {
+            "heading": "Quand demander une évaluation",
+            "paragraphs": [
+              "Parler souvent ne suffit pas à diagnostiquer un TDAH, de l’anxiété ou un trouble du langage. Si l’enfant peine régulièrement à suivre les conversations, à comprendre un autre point de vue ou à participer avec ses amis ou en classe, donnez des exemples à l’enseignant et au professionnel de santé. Un orthophoniste peut évaluer la communication dans les langues et les lieux familiers. Consultez rapidement en cas de perte de compétences de communication déjà acquises."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Regardez si chacun peut prendre part à l’échange et demandez à l’enfant comment il le vit.",
+          "Donnez l’exemple en faisant un commentaire, puis une pause, puis en répondant à l’idée de l’autre.",
+          "Si les interruptions gênent la participation scolaire, convenez d’un signal discret avec l’enfant et son enseignant."
+        ],
+        "faq": [
+          {
+            "q": "À partir de quand parle-t-on trop ?",
+            "a": "Aucun nombre de mots ne définit un problème. Regardez la situation et si l’enfant ou son interlocuteur peine régulièrement à trouver sa place."
+          },
+          {
+            "q": "Parler beaucoup peut-il peser sur le moral de mon enfant ?",
+            "a": "Il peut se sentir exclu si les autres s’éloignent souvent ou gêné si on le reprend en public. Intervenez sur l’interruption précise et laissez-le terminer plus tard. Il peut apprendre à attendre son tour sans qu’on critique sa personnalité."
+          },
+          {
+            "q": "Pourquoi certains enfants semblent-ils parler sans arrêt ?",
+            "a": "L’enthousiasme, une inquiétude, une passion ou la difficulté à repérer une pause peuvent intervenir. Demandez ce qui se passe à ce moment-là. Une seule habitude ne permet pas de poser un diagnostic."
+          },
+          {
+            "q": "Qu’est-ce qui peut aider à l’école ?",
+            "a": "Demandez à l’enseignant quand se produisent les interruptions, convenez d’un signal bienveillant et donnez à l’enfant un tour de parole après l’attente. Si les difficultés persistent dans plusieurs activités, discutez d’un soutien supplémentaire."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Observez la participation aux conversations dans différents lieux et différentes langues.",
+            "Montrez comment faire une pause, écouter, puis revenir à une idée.",
+            "Demandez à l’enfant, à ses proches et à l’enseignant quelles situations ils aimeraient faciliter."
+          ],
+          "bemama": "BeMama propose de choisir une activité commune et d’y pratiquer un seul échange avant de laisser le jeu reprendre.",
+          "safety": "Demandez conseil si des difficultés persistantes limitent les amitiés, les apprentissages ou la communication quotidienne. Signalez rapidement toute perte de compétences de communication déjà acquises.",
+          "sources": [
+            {
+              "organization": "Association américaine de la parole, du langage et de l’audition",
+              "title": "Communication sociale et tours de parole",
+              "url": "https://www.asha.org/public/speech/social-communication/"
+            },
+            {
+              "organization": "Adams et collaborateurs, International Journal of Language & Communication Disorders",
+              "title": "Essai randomisé du projet d’intervention en communication sociale",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22512510/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Konuşkan bir çocuğa sohbette sıra vermeyi öğretmek",
+        "description": "Sık sık söze giren çocuğunuzun heyecanını koruyarak arkadaşlarına da söz vermesine yardımcı olun. Hangi durumlarda ek destek isteyebileceğinizi öğrenin.",
+        "intro": "Çocuğunuz gördüğü trenin her vagonunu anlatmak istiyor. Kuzeni başka bir trenden bahsetmeye başlıyor ama ilk kelimeyi bile bitiremiyor. Hikâyeden keyif alırken her iki çocuğa da sıra gelmesine yardımcı olabilirsiniz. Kuzeninin sohbete katılmaya çalıştığı andan başlayın.",
+        "sections": [
+          {
+            "heading": "Çok konuşmak ne zaman katılımı zorlaştırır?",
+            "paragraphs": [
+              "Günlük bir sözcük sınırı yoktur. Keyifle dinleyen birine uzun bir hikâye anlatmakla, birinin oyuna girmeye veya yardım istemeye çalıştığını sürekli gözden kaçırmak farklıdır. Ortama, çocuğu neyin heyecanlandırdığına veya kaygılandırdığına ve herkesin kendine uygun biçimde katılıp katılamadığına bakın. Sohbet alışkanlıkları aileye, dile ve kültüre göre de değişir.",
+              "Çocuğunuza ne fark ettiğini sorun. Aklındakini unutmaktan korkmuş ya da dinleyenin bütün ayrıntıları istediğini sanmış olabilir. Sevdiği bir konuyu anlatma, komik bir hikâye paylaşma veya sessiz bir arkadaşını oyuna çağırma gibi güçlü yönlerini de görün. Ona rahatsızlık veren biri olduğunu söylemek yeni bir beceriyi denemesini zorlaştırabilir."
+            ]
+          },
+          {
+            "heading": "Sohbette sıranın nasıl değiştiğini gösterin",
+            "paragraphs": [
+              "İkinizin de ilgilendiği bir nesne hakkında kısa bir konuşma deneyin. Bir ayrıntı söyleyip durun: “Benim trenimin lokomotifi mavi. Sen kendi treninde ne fark ettin?” Yanıt için yeterince bekleyin. Kendi düşüncenizi eklemeden önce onun fikrine karşılık verin. Sırası geldiğinde işaret etmesine, çizmesine veya bir şey göstermesine izin verin. Dinlemek için göz teması şart değildir.",
+              "Sözü kestiğinde fikrini kısaca duyduğunuzu belirtip sözü ilk konuşana verin: “Tünelini merak ediyorum. Önce Sam köprüyle ilgili kısmı bitirsin.” Sonra gerçekten tünele dönün. Aklında tutmak zor geliyorsa kısa bir çizim ya da yazılmış tek sözcük fikri saklayabilir."
+            ]
+          },
+          {
+            "heading": "Okuldaki desteği somutlaştırın",
+            "paragraphs": [
+              "Öğretmenden bir örnek isteyin. Güçlük grup çalışmasında mı, bahçede mi, yoksa uzun yönergeleri dinlerken mi oluyor? Çocukla birlikte duraklamayı hatırlatan göze çarpmayan bir işaret ve sonrasında gerçekten söz alabileceği bir an belirleyin. İşaretin ne zaman kullanılacağını söyleyin. Ardından çocuğun ve arkadaşlarının katılmasına yarayıp yaramadığını sorun.",
+              "Birleşik Krallık’ta yapılan bir araştırmaya süregelen sosyal iletişim güçlükleri nedeniyle uzmana yönlendirilmiş okul çağında 88 çocuk katıldı. Uzmanların yürüttüğü bir terapi programı, çocuğun hangi grupta olduğunu bilmeyen gözlemcilerin değerlendirmeleri dahil, bazı sohbet ölçümlerini iyileştirdi. Dil yapısını ölçen ana değerlendirmede olağan bakıma göre anlamlı iyileşme bulunmadı. Bu çocuklar belirli ihtiyaçlar nedeniyle seçilmişti. Heyecanla hikâye anlatmak çocuğun terapiye ihtiyacı olduğunu göstermez."
+            ]
+          },
+          {
+            "heading": "Ne zaman değerlendirme istemeli?",
+            "paragraphs": [
+              "Sık konuşmak tek başına DEHB, kaygı bozukluğu veya bir dil bozukluğu tanısı koydurmaz. Çocuk konuşmayı takip etmekte, başka bir bakış açısını anlamakta, arkadaşlık kurmakta veya sınıfa katılmakta sürekli zorlanıyorsa öğretmene ve hekimine somut örnekler verin. Dil ve konuşma terapisti, çocuğun alışık olduğu ortamlarda ve kullandığı dillerde iletişimini değerlendirebilir. Önceden kazanılmış iletişim becerileri kaybolursa gecikmeden danışın."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Her iki kişinin de katılıp katılamadığına ve çocuğunuzun sohbet sırasında ne hissettiğine bakın.",
+          "Bir yorum yapmayı, beklemeyi ve diğer kişinin fikrine yanıt vermeyi gösterin.",
+          "Söz kesmeler okulda katılımı etkiliyorsa çocuk ve öğretmenle özel bir işaret kararlaştırın."
+        ],
+        "faq": [
+          {
+            "q": "Ne kadar konuşmak fazla sayılır?",
+            "a": "Sorunu tanımlayan bir sözcük sayısı yoktur. Duruma ve çocuğun veya başka birinin katılmakta sürekli zorlanıp zorlanmadığına bakın."
+          },
+          {
+            "q": "Çok konuşmak çocuğumun duygularını etkileyebilir mi?",
+            "a": "Başkaları sık sık uzaklaşırsa dışlanmış hissedebilir, herkesin önünde düzeltilirse utanabilir. Söz kestiği belirli ana odaklanın ve sonra bitirmesine yer açın. Kişiliğini eleştirmeden sıra almayı öğrenmesine destek olabilirsiniz."
+          },
+          {
+            "q": "Bazı çocuklar neden hiç durmadan konuşuyor gibi görünür?",
+            "a": "Heyecan, kaygı, sevilen bir konu veya duraklamayı fark etmede güçlük etkili olabilir. O durumda ne olduğunu sorun. Tek bir alışkanlık bir tanıyı belirlemez."
+          },
+          {
+            "q": "Okulda ne yardımcı olabilir?",
+            "a": "Öğretmene söz kesmelerin ne zaman olduğunu sorun, destekleyici bir işaret belirleyin ve bekledikten sonra çocuğa açıkça sıra verin. Sorun farklı etkinliklerde de sürüyorsa ek desteği birlikte görüşün."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026 tarihinde incelendi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Farklı ortamlarda ve dillerde sohbete katılımı gözleyin.",
+            "Duraklamayı, dinlemeyi ve bir fikre geri dönmeyi gösterin.",
+            "Çocuğa, aileye ve öğretmene hangi durumları kolaylaştırmak istediklerini sorun."
+          ],
+          "bemama": "BeMama, ortak bir etkinlik seçip onun hakkında bir kez karşılıklı konuşmayı denemenizi, ardından oyunun sürmesine izin vermenizi önerir.",
+          "safety": "Arkadaşlıkları, öğrenmeyi veya günlük iletişimi sınırlayan sürekli güçlüklerde uzmana danışın. Önceden kazanılmış iletişim becerilerinin kaybını gecikmeden bildirin.",
+          "sources": [
+            {
+              "organization": "Amerikan Konuşma, Dil ve İşitme Derneği",
+              "title": "Sosyal iletişim ve sohbette sıra alma",
+              "url": "https://www.asha.org/public/speech/social-communication/"
+            },
+            {
+              "organization": "Adams ve çalışma arkadaşları, International Journal of Language & Communication Disorders",
+              "title": "Sosyal İletişim Müdahale Projesi’nin rastgele gruplu çalışması",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22512510/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Cómo ayudar a un niño hablador a turnarse al conversar",
+        "description": "Ayuda a tu hijo a dejar espacio a otros en la conversación sin perder su entusiasmo. Descubre cuándo las interrupciones merecen apoyo en casa o en la escuela.",
+        "intro": "Tu hijo quiere describir cada vagón de un tren. Su prima intenta contarle algo de otro tren, pero ni siquiera llega a terminar la primera palabra. Puedes disfrutar de la historia y ayudar a ambos a tener su turno. Empieza por el momento en que ella intentó participar.",
+        "sections": [
+          {
+            "heading": "¿Cuándo dificulta la participación hablar mucho?",
+            "paragraphs": [
+              "No existe un límite diario de palabras. Contar una historia larga a alguien que disfruta escuchándola es distinto de pasar por alto una y otra vez que alguien quiere jugar o pedir ayuda. Fíjate en el entorno, en qué entusiasma o preocupa al niño y en si todos pueden participar cómodamente. Las formas de conversar también varían entre familias, lenguas y culturas.",
+              "Pregunta a tu hijo qué notó. Tal vez temía olvidar su idea o creía que su prima quería oír todos los detalles. Reconoce también lo que hace bien, como explicar algo que le encanta, contar una anécdota divertida o invitar a jugar a un amigo más callado. Decirle que es una molestia puede dificultarle el aprendizaje."
+            ]
+          },
+          {
+            "heading": "Muéstrale cómo suena un intercambio",
+            "paragraphs": [
+              "Prueba con un objeto que os interese a los dos. Describe un detalle y haz una pausa: «Mi tren tiene una locomotora azul. ¿En qué te fijaste tú?». Dale tiempo para responder. Recoge alguna de sus ideas antes de añadir la tuya. En su turno también puede señalar, dibujar o enseñarte algo. Para escuchar no hace falta mirar a los ojos.",
+              "Si interrumpe, reconoce su idea brevemente y devuelve la palabra a quien hablaba: «Quiero saber lo del túnel. Dejemos que Sam termine de contarnos lo del puente». Después, vuelve de verdad al túnel. Si teme olvidarse, puede hacer un dibujo o anotar una palabra para recordarlo."
+            ]
+          },
+          {
+            "heading": "Concreta el apoyo en la escuela",
+            "paragraphs": [
+              "Pide un ejemplo al docente. ¿Ocurre en trabajos en grupo, en el patio o al escuchar instrucciones largas? Acordad con el niño una señal discreta para hacer una pausa y un turno real para participar después. Explícale cuándo se usará la señal y preguntad más adelante si le sirvió a él y a sus compañeros.",
+              "En un ensayo británico participaron 88 escolares derivados a un especialista por dificultades persistentes de comunicación social. Un programa de terapia mejoró algunas medidas de conversación, incluidas las valoraciones de observadores que desconocían el grupo asignado. Frente a la atención habitual, no hubo una mejora significativa en la medida principal de estructura del lenguaje. Los participantes tenían necesidades específicas; disfrutar contando historias no implica necesitar terapia."
+            ]
+          },
+          {
+            "heading": "Cuándo solicitar una valoración",
+            "paragraphs": [
+              "Hablar mucho, por sí solo, no diagnostica TDAH, ansiedad ni un trastorno del lenguaje. Si tu hijo tiene dificultades reiteradas para seguir conversaciones, comprender otro punto de vista, hacer amigos o participar en clase, lleva ejemplos concretos al docente y al profesional de salud. Un especialista en lenguaje puede valorar la comunicación en sus entornos y lenguas habituales. Si pierde habilidades comunicativas que ya tenía, consulta sin demora."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Observa si ambas personas pueden participar y cómo se siente tu hijo durante el intercambio.",
+          "Enséñale a hacer un comentario, una pausa y una respuesta a la idea del otro.",
+          "Si las interrupciones afectan a la participación en clase, acordad una señal privada con el niño y el docente."
+        ],
+        "faq": [
+          {
+            "q": "¿Cuánto es hablar demasiado?",
+            "a": "Ningún número de palabras define un problema. Mira lo que ocurre en cada situación y si al niño o a otra persona le cuesta participar de forma repetida."
+          },
+          {
+            "q": "¿Hablar mucho puede afectar a cómo se siente mi hijo?",
+            "a": "Puede sentirse excluido si los demás se marchan a menudo o avergonzado si le corrigen en público. Aborda la interrupción concreta y deja que termine más tarde. Puede aprender a turnarse sin que critiques su personalidad."
+          },
+          {
+            "q": "¿Por qué parece que algunos niños hablan sin parar?",
+            "a": "Pueden influir el entusiasmo, la preocupación, un tema favorito o la dificultad para reconocer una pausa. Pregunta qué le pasa en esa situación. Un hábito aislado no permite hacer un diagnóstico."
+          },
+          {
+            "q": "¿Qué puede ayudar en la escuela?",
+            "a": "Pregunta cuándo interrumpe, acordad una señal que le ayude y dadle un turno claro tras la espera. Si ocurre en distintas actividades de forma persistente, hablad juntos de otras opciones de apoyo."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Observa cómo participa en conversaciones en sus distintos entornos e idiomas.",
+            "Muéstrale cómo hacer una pausa, escuchar y volver a una idea.",
+            "Pregunta al niño, a la familia y al docente qué situaciones les gustaría facilitar."
+          ],
+          "bemama": "BeMama propone elegir una actividad compartida, practicar un solo intercambio sobre ella y dejar que el juego continúe.",
+          "safety": "Consulta si las dificultades persistentes limitan las amistades, el aprendizaje o la comunicación cotidiana. Informa sin demora si se pierden habilidades comunicativas previamente adquiridas.",
+          "sources": [
+            {
+              "organization": "Asociación Estadounidense del Habla, el Lenguaje y la Audición",
+              "title": "Comunicación social y turnos de palabra",
+              "url": "https://www.asha.org/public/speech/social-communication/"
+            },
+            {
+              "organization": "Adams y colaboradores, International Journal of Language & Communication Disorders",
+              "title": "Ensayo aleatorizado del Proyecto de Intervención en Comunicación Social",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22512510/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Como ajudar uma criança falante a dar a vez na conversa",
+        "description": "Ajude a criança que interrompe com frequência a dividir a conversa com os colegas sem perder o entusiasmo. Veja quando vale buscar mais apoio.",
+        "intro": "Seu filho quer descrever cada vagão de um trem que viu. A prima tenta contar sobre outro trem, mas não consegue passar da primeira palavra. Você pode apreciar a história e ajudar os dois a ter sua vez. Comece pelo momento em que a prima tentou participar.",
+        "sections": [
+          {
+            "heading": "Quando falar muito atrapalha?",
+            "paragraphs": [
+              "Não existe um limite de palavras por dia. Uma história longa para quem está encantado com ela é diferente de não perceber repetidamente que alguém quer entrar no jogo ou pedir ajuda. Observe o contexto, o que anima ou preocupa a criança e se todos conseguem participar de uma forma que lhes faz bem. Os modos de conversar também variam entre famílias, línguas e culturas.",
+              "Pergunte o que seu filho percebeu. Talvez tivesse medo de esquecer a ideia ou achasse que a prima queria saber todos os detalhes. Observe também seus pontos fortes, como explicar algo de que gosta, contar uma história engraçada ou chamar um colega mais quieto para brincar. Rotular a criança como inconveniente pode dificultar a aprendizagem."
+            ]
+          },
+          {
+            "heading": "Mostre como alternar as falas",
+            "paragraphs": [
+              "Experimente uma troca breve sobre um objeto que interessa aos dois. Descreva um detalhe e faça uma pausa: “Meu trem tem uma locomotiva azul. O que você percebeu no seu?”. Dê tempo para a resposta. Comente a ideia do outro antes de acrescentar a sua. A criança também pode apontar, desenhar ou mostrar algo quando for sua vez. Olhar nos olhos não é requisito para escutar.",
+              "Se ela interromper, acolha a ideia em poucas palavras e devolva a vez a quem estava falando: “Quero ouvir sobre seu túnel. Vamos deixar o Sam terminar a parte da ponte primeiro”. Depois, volte mesmo ao túnel. Um desenho ou uma palavra anotada pode guardar a ideia até lá."
+            ]
+          },
+          {
+            "heading": "Combine um apoio concreto na escola",
+            "paragraphs": [
+              "Peça um exemplo ao professor. Isso acontece em trabalhos de grupo, no recreio ou durante instruções longas? Com a criança, escolham um sinal discreto para fazer uma pausa e uma oportunidade real de falar depois. Expliquem quando o sinal será usado. Perguntem mais tarde se ajudou a criança e os colegas a participar.",
+              "Um ensaio no Reino Unido envolveu 88 escolares já encaminhados por dificuldades persistentes de comunicação social. Um programa de terapia especializada melhorou algumas medidas de conversação, incluindo avaliações de observadores que desconheciam o grupo de tratamento. Não houve melhora significativa na medida principal de estrutura da linguagem em comparação aos cuidados habituais. As crianças foram selecionadas por necessidades específicas. Gostar de contar histórias não significa precisar de terapia."
+            ]
+          },
+          {
+            "heading": "Quando pedir uma avaliação",
+            "paragraphs": [
+              "Falar muito, por si só, não diagnostica TDAH, ansiedade nem um transtorno de linguagem. Se a criança tem dificuldade repetida para acompanhar conversas, entender outro ponto de vista ou participar com os amigos e na sala, leve exemplos ao professor e ao profissional de saúde. Um fonoaudiólogo pode avaliar a comunicação nos ambientes e nas línguas em que a criança convive. Procure orientação prontamente se ela perder habilidades de comunicação já adquiridas."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Observe se as duas pessoas conseguem participar e como a criança se sente na conversa.",
+          "Dê o exemplo fazendo um comentário, esperando e respondendo à ideia do outro.",
+          "Combine um sinal privado com a criança e o professor se as interrupções afetarem a participação na escola."
+        ],
+        "faq": [
+          {
+            "q": "Quanto é falar demais?",
+            "a": "Nenhum número de palavras define um problema. Observe a situação e se a criança ou outra pessoa tem dificuldade frequente para participar."
+          },
+          {
+            "q": "Falar bastante pode afetar os sentimentos do meu filho?",
+            "a": "Ele pode se sentir excluído se os outros se afastam repetidamente ou envergonhado quando o corrigem em público. Trate daquela interrupção específica e dê espaço para que termine depois. É possível apoiar a troca de turnos sem criticar sua personalidade."
+          },
+          {
+            "q": "Por que algumas crianças parecem falar sem parar?",
+            "a": "Entusiasmo, preocupação, um assunto preferido ou dificuldade para perceber uma pausa podem influenciar. Pergunte o que está acontecendo naquela situação. Um hábito isolado não determina um diagnóstico."
+          },
+          {
+            "q": "O que pode ajudar na escola?",
+            "a": "Pergunte ao professor quando acontecem as interrupções. Combinem um sinal acolhedor e uma vez clara de falar depois da espera. Se o problema persistir em diferentes atividades, conversem juntos sobre outros apoios."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Observe a participação em conversas em diferentes ambientes e línguas.",
+            "Mostre como fazer uma pausa, ouvir e voltar a uma ideia.",
+            "Pergunte à criança, à família e ao professor quais situações gostariam de facilitar."
+          ],
+          "bemama": "A BeMama sugere escolher uma atividade compartilhada, praticar uma troca breve sobre ela e deixar a brincadeira continuar.",
+          "safety": "Busque orientação profissional para dificuldades persistentes que limitam as amizades, a aprendizagem ou a comunicação cotidiana. Comunique prontamente a perda de habilidades de comunicação já adquiridas.",
+          "sources": [
+            {
+              "organization": "Associação Americana de Fala, Linguagem e Audição",
+              "title": "Comunicação social e alternância de turnos na conversa",
+              "url": "https://www.asha.org/public/speech/social-communication/"
+            },
+            {
+              "organization": "Adams e colaboradores, International Journal of Language & Communication Disorders",
+              "title": "Ensaio randomizado do Projeto de Intervenção em Comunicação Social",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22512510/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5850.webp",
+    "heroAlt": {
+      "en": "One child pushes a blue toy train toward a red bridge while another waits on the other side.",
+      "fa": "یک کودک قطار آبی را به‌سوی پل قرمز می‌راند و کودک دیگر در آن سوی پل منتظر است.",
+      "ar": "يدفع طفل قطارًا أزرق نحو جسر أحمر وينتظر طفل آخر في الجهة المقابلة.",
+      "tr": "Bir çocuk mavi oyuncak treni kırmızı köprüye doğru iterken diğeri karşı tarafta bekliyor.",
+      "pt": "Uma criança empurra um trem azul em direção à ponte vermelha enquanto outra espera do outro lado.",
+      "es": "Un niño empuja un tren azul hacia un puente rojo mientras otro espera al otro lado.",
+      "fr": "Un enfant pousse un train bleu vers un pont rouge tandis qu’un autre attend de l’autre côté."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "Helping a talkative child take turns in conversation",
+      "description": "Help a child who often interrupts share the floor, stay connected with classmates and keep their enthusiasm. Learn when a pattern deserves extra support."
+    },
+    "fa": {
+      "title": "چطور به کودک پرحرف کمک کنیم در گفت‌وگو نوبت بدهد؟",
+      "description": "به کودکی که زیاد میان حرف دیگران می‌آید کمک کنید به دوستانش هم فرصت حرف زدن بدهد و شوقش را حفظ کند. ببینید چه وقت حمایت بیشتری لازم است."
+    },
+    "ar": {
+      "title": "كيف تساعد طفلك كثير الكلام على تبادل الأدوار في الحديث؟",
+      "description": "ساعد طفلك الذي يقاطع كثيرًا على إفساح المجال لزملائه مع الحفاظ على حماسه. تعرّف إلى المواقف التي تستحق دعمًا إضافيًا في البيت أو المدرسة."
+    },
+    "fr": {
+      "title": "Aider un enfant bavard à laisser aux autres la parole",
+      "description": "Aidez votre enfant à laisser une place aux autres en classe et dans les jeux, tout en gardant son enthousiasme. Découvrez quand un soutien peut être indiqué."
+    },
+    "tr": {
+      "title": "Konuşkan bir çocuğa sohbette sıra vermeyi öğretmek",
+      "description": "Sık sık söze giren çocuğunuzun heyecanını koruyarak arkadaşlarına da söz vermesine yardımcı olun. Hangi durumlarda ek destek isteyebileceğinizi öğrenin."
+    },
+    "es": {
+      "title": "Cómo ayudar a un niño hablador a turnarse al conversar",
+      "description": "Ayuda a tu hijo a dejar espacio a otros en la conversación sin perder su entusiasmo. Descubre cuándo las interrupciones merecen apoyo en casa o en la escuela."
+    },
+    "pt": {
+      "title": "Como ajudar uma criança falante a dar a vez na conversa",
+      "description": "Ajude a criança que interrompe com frequência a dividir a conversa com os colegas sem perder o entusiasmo. Veja quando vale buscar mais apoio."
+    }
+  }
+}

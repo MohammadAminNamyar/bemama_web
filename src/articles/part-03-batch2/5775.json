@@ -1,0 +1,681 @@
+{
+  "sourceId": "5775",
+  "article": {
+    "slug": "collecting-child-urine-sample-for-testing",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "How to collect a urine sample for your child’s test",
+        "description": "Learn how to collect and label a child’s urine sample, what a culture can tell you, and how a 24-hour collection differs from a single specimen.",
+        "intro": "The clinic hands you a small specimen pot. Before you leave, ask which sample they need, when to collect it and where to take it. A culture for suspected infection and a timed collection for a kidney test need different instructions.",
+        "sections": [
+          {
+            "heading": "What is the test looking for?",
+            "paragraphs": [
+              "The kidneys filter the blood and make urine, which travels to the bladder. A urinalysis can look for blood, protein or signs of inflammation using a dipstick or microscope. A urine culture lets the laboratory see whether bacteria grow and which antibiotics may work. The clinician interprets the result with your child’s symptoms and how the sample was taken.",
+              "If infection is suspected, a sample is usually taken before antibiotics when possible. Never delay urgent assessment or prescribed urgent treatment to finish a collection. A baby under three months with a temperature of 38°C (100.4°F) or higher needs urgent medical assessment. Seek emergency help if a child is very difficult to wake or has serious breathing difficulty."
+            ]
+          },
+          {
+            "heading": "Collect the sample the team requested",
+            "paragraphs": [
+              "For a toilet-trained child, wash hands and follow the clinic’s cleaning instructions. Start the stream in the toilet, catch some of the middle in the supplied sterile pot without touching its inside or rim, then close it. For a baby, the team may recommend a clean catch or collect urine through a catheter. A bag can pick up skin bacteria and cannot reliably confirm infection by culture. Do not squeeze urine from a nappy.",
+              "One emergency-department trial studied infants aged one to twelve months. Of 344 infants analysed, 31% urinated within five minutes when staff used a cool, damp gauze technique on the lower abdomen, compared with 12% during ordinary clean catch. This measured how soon babies passed urine, not whether they had an infection. Ask staff to show you the collection method they want."
+            ]
+          },
+          {
+            "heading": "Label, deliver and follow up",
+            "paragraphs": [
+              "Label the pot with the identifiers requested and the collection time. Deliver it promptly. Ask the lab about refrigeration, any preservative and its deadline if delivery will be delayed. For a timed 24-hour test, empty the bladder and discard that first urine, note the start time, then collect every void including the last at the same time next day. Tell the lab if any urine is missed or spilled.",
+              "Ask who will explain the results and when to call if you have not heard. Mixed bacterial growth can mean contamination and a new specimen may be needed. If a clinician requests home dipstick monitoring for an existing condition, follow that specific plan. Contact the care team if symptoms persist or worsen while you wait."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Check whether you need a single sample, first-morning sample or timed collection.",
+          "Keep the inside of the pot clean and label the time of collection.",
+          "Ask how to store the sample and how to get the result."
+        ],
+        "faq": [
+          {
+            "q": "What do UA and UC mean?",
+            "a": "UA usually means urinalysis. UC usually means urine culture, which looks for bacterial growth. The clinician considers both the findings and the way the urine was collected."
+          },
+          {
+            "q": "What is a 24-hour urine collection?",
+            "a": "It measures all urine passed over a timed day and night. Discard the starting void, then save all the urine including the final void 24 hours later. Contact the lab if you miss one."
+          },
+          {
+            "q": "How long can I keep a baby’s sample?",
+            "a": "Deliver it promptly in the supplied, closed and labelled container. Storage depends on the test and container. Ask the receiving lab how to keep it and when it must arrive."
+          },
+          {
+            "q": "When should I collect the urine?",
+            "a": "Follow the order. Some tests require the first urine after waking; for others a fresh sample is enough. If the child is ill, get medical advice promptly without waiting for a morning sample."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 17, 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Confirm the specimen type and timing with the clinic.",
+            "Avoid touching the inside of the container or collecting urine squeezed from a nappy.",
+            "Follow the receiving laboratory’s instructions on storage and delivery."
+          ],
+          "bemama": "BeMama suggests writing the collection time and the laboratory phone number on your instructions before leaving the clinic.",
+          "safety": "A baby younger than three months with a temperature of 38°C (100.4°F) or higher needs urgent assessment. Seek emergency help if your child is very difficult to wake or has serious breathing difficulty. Do not wait for a urine sample.",
+          "sources": [
+            {
+              "organization": "National Institute for Health and Care Excellence",
+              "title": "Urinary tract infection in children: collecting and testing urine",
+              "url": "https://www.nice.org.uk/guidance/ng224/chapter/Recommendations"
+            },
+            {
+              "organization": "Royal Children’s Hospital Melbourne",
+              "title": "Urine tests for children and collection methods",
+              "url": "https://www.rch.org.au/kidsinfo/fact_sheets/urine_tests/"
+            },
+            {
+              "organization": "Nationwide Children’s Hospital",
+              "title": "How to collect a 24-hour urine specimen",
+              "url": "https://www.nationwidechildrens.org/family-resources-education/health-wellness-and-safety-resources/helping-hands/24-hour-urine-specimen-collection-guidelines"
+            },
+            {
+              "organization": "Kaufman and colleagues, BMJ",
+              "title": "Randomized trial of infant clean-catch urine collection",
+              "url": "https://www.bmj.com/content/357/bmj.j1341"
+            },
+            {
+              "organization": "NHS",
+              "title": "Fever in children and when to get urgent help",
+              "url": "https://www.nhs.uk/symptoms/fever-in-children/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "چگونه برای آزمایش فرزندتان نمونه ادرار بگیرید؟",
+        "description": "با روش گرفتن و برچسب زدن نمونه ادرار کودک، کاربرد کشت ادرار و تفاوت یک نمونه ساده با جمع‌آوری ادرار در یک دوره ۲۴ ساعته آشنا شوید.",
+        "intro": "در درمانگاه یک ظرف کوچک نمونه به شما می‌دهند. پیش از رفتن بپرسید چه نمونه‌ای می‌خواهند، چه وقت باید بگیرید و به کجا تحویل دهید. روش کشت برای بررسی عفونت با جمع‌آوری زمان‌دار برای آزمایش کلیه متفاوت است.",
+        "sections": [
+          {
+            "heading": "آزمایش چه چیزی را بررسی می‌کند؟",
+            "paragraphs": [
+              "کلیه‌ها خون را تصفیه می‌کنند و ادرار می‌سازند. ادرار به مثانه می‌رود. در آزمایش ادرار می‌توان با نوار آزمایش یا میکروسکوپ به دنبال خون، پروتئین یا نشانه‌های التهاب گشت. در کشت، آزمایشگاه می‌بیند آیا باکتری رشد می‌کند و کدام آنتی‌بیوتیک‌ها ممکن است مؤثر باشند. پزشک نتیجه را با توجه به علائم کودک و روش نمونه‌گیری تفسیر می‌کند.",
+              "اگر احتمال عفونت باشد، در صورت امکان پیش از شروع آنتی‌بیوتیک نمونه می‌گیرند. برای تکمیل نمونه‌گیری، ارزیابی فوری یا درمان فوریِ تجویزشده را به تأخیر نیندازید. دمای ۳۸ درجه سانتی‌گراد یا بالاتر در شیرخوار زیر سه ماه نیاز به ارزیابی فوری پزشکی دارد. اگر بیدار کردن کودک بسیار دشوار است یا مشکل شدید تنفسی دارد، اورژانس را خبر کنید."
+            ]
+          },
+          {
+            "heading": "نمونه درخواستی تیم درمان را بگیرید",
+            "paragraphs": [
+              "برای کودکی که از توالت استفاده می‌کند، دست‌ها را بشویید و دستور تمیز کردن محل را رعایت کنید. کودک ادرار را در توالت شروع کند. مقداری از میانه جریان را در ظرف استریل بگیرید و در آن را ببندید. داخل ظرف و لبه آن را لمس نکنید. برای شیرخوار ممکن است تیم توصیه کند ادرار را مستقیم در ظرف بگیرید یا خودش با سوند نمونه بگیرد. باکتری پوست می‌تواند وارد کیسه ادرار شود و کشت نمونه کیسه‌ای عفونت را با اطمینان تأیید نمی‌کند. پوشک را برای گرفتن ادرار نفشارید.",
+              "در یک کارآزمایی در اورژانس، شیرخواران ۱ تا ۱۲ ماهه بررسی شدند. از میان ۳۴۴ شیرخوار در تحلیل، در گروهی که کارکنان با گاز خنک و مرطوب پایین شکم را تحریک کردند ۳۱ درصد ظرف پنج دقیقه ادرار کردند. این مقدار با روش معمول گرفتن مستقیم ادرار ۱۲ درصد بود. پژوهش زمان ادرار کردن را سنجید، نه ابتلا به عفونت را. از کارکنان بخواهید روش موردنظرشان را نشان دهند."
+            ]
+          },
+          {
+            "heading": "برچسب بزنید، تحویل دهید و نتیجه را پیگیری کنید",
+            "paragraphs": [
+              "اطلاعات شناسایی خواسته‌شده و ساعت نمونه‌گیری را روی ظرف بنویسید و زود تحویل دهید. اگر تحویل عقب می‌افتد، از آزمایشگاه درباره دمای نگهداری، ماده نگهدارنده و مهلت تحویل بپرسید. برای آزمایش ۲۴ ساعته، ابتدا کودک مثانه را خالی کند و آن ادرار را دور بریزید. زمان شروع را بنویسید. سپس همه دفعات ادرار، از جمله آخرین نوبت در همان ساعت روز بعد، را جمع کنید. اگر بخشی فراموش شد یا ریخت به آزمایشگاه بگویید.",
+              "بپرسید چه کسی نتیجه را توضیح می‌دهد و اگر خبری نشد چه موقع تماس بگیرید. رشد چند نوع باکتری می‌تواند نشانه آلودگی نمونه باشد و شاید نمونه تازه لازم شود. اگر برای پیگیری بیماری شناخته‌شده استفاده از نوار آزمایش در خانه تجویز شده، طبق همان برنامه عمل کنید. اگر در زمان انتظار علائم ماندگار یا بدتر شد با تیم درمان تماس بگیرید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "مشخص کنید نمونه معمولی، اولین ادرار صبح یا جمع‌آوری زمان‌دار لازم است.",
+          "داخل ظرف را تمیز نگه دارید و زمان گرفتن نمونه را ثبت کنید.",
+          "روش نگهداری نمونه و دریافت نتیجه را بپرسید."
+        ],
+        "faq": [
+          {
+            "q": "UA و UC یعنی چه؟",
+            "a": "UA معمولاً مخفف آزمایش ادرار و UC مخفف کشت ادرار است. کشت، رشد باکتری را بررسی می‌کند. هم یافته‌ها و هم روش گرفتن نمونه در تفسیر اهمیت دارند."
+          },
+          {
+            "q": "جمع‌آوری ۲۴ ساعته ادرار چیست؟",
+            "a": "در یک شبانه‌روز، تمام ادرار پس از ساعت شروع جمع می‌شود. اولین ادرار را دور بریزید و همه نوبت‌های بعد، از جمله آخرین ادرار درست ۲۴ ساعت بعد، را نگه دارید. اگر نوبتی جا ماند با آزمایشگاه تماس بگیرید."
+          },
+          {
+            "q": "نمونه شیرخوار را چه مدت می‌توان نگه داشت؟",
+            "a": "نمونه را در ظرفی که به شما داده‌اند، دربسته و با برچسب، سریع تحویل دهید. شرایط نگهداری به آزمایش و ظرف بستگی دارد. مهلت تحویل و نحوه نگهداری را از آزمایشگاهی که نمونه را می‌گیرد بپرسید."
+          },
+          {
+            "q": "چه وقت ادرار را جمع کنم؟",
+            "a": "درخواست پزشک را دنبال کنید. برای برخی آزمایش‌ها اولین ادرار پس از بیدار شدن لازم است و برای بعضی یک نمونه تازه کافی است. اگر کودک بیمار است، برای مشورت منتظر ادرار صبح نمانید."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۷ نوامبر ۲۰۲۶ بررسی شد",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "نوع نمونه و زمان گرفتن آن را با درمانگاه بررسی کنید.",
+            "داخل ظرف را لمس نکنید و از پوشک فشرده نمونه نگیرید.",
+            "برای نگهداری و تحویل، دستور آزمایشگاه تحویل‌گیرنده را دنبال کنید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند پیش از ترک درمانگاه، زمان گرفتن نمونه و شماره تلفن آزمایشگاه را روی برگه راهنما بنویسید.",
+          "safety": "شیرخوار زیر سه ماه با دمای ۳۸ درجه سانتی‌گراد یا بالاتر به ارزیابی فوری نیاز دارد. برای دشواری شدید تنفس یا وقتی بیدار کردن کودک بسیار دشوار است، کمک اورژانسی بگیرید. منتظر نمونه ادرار نمانید.",
+          "sources": [
+            {
+              "organization": "مؤسسه ملی تعالی سلامت و مراقبت بریتانیا",
+              "title": "عفونت ادراری کودکان، گرفتن و بررسی نمونه ادرار",
+              "url": "https://www.nice.org.uk/guidance/ng224/chapter/Recommendations"
+            },
+            {
+              "organization": "بیمارستان سلطنتی کودکان ملبورن",
+              "title": "آزمایش ادرار در کودکان و روش‌های جمع‌آوری",
+              "url": "https://www.rch.org.au/kidsinfo/fact_sheets/urine_tests/"
+            },
+            {
+              "organization": "بیمارستان کودکان نیشن‌واید",
+              "title": "روش جمع‌آوری نمونه ادرار ۲۴ ساعته",
+              "url": "https://www.nationwidechildrens.org/family-resources-education/health-wellness-and-safety-resources/helping-hands/24-hour-urine-specimen-collection-guidelines"
+            },
+            {
+              "organization": "کافمن و همکاران، بی‌ام‌جی",
+              "title": "کارآزمایی تصادفی گرفتن مستقیم ادرار شیرخوار",
+              "url": "https://www.bmj.com/content/357/bmj.j1341"
+            },
+            {
+              "organization": "خدمات ملی سلامت بریتانیا",
+              "title": "تب در کودکان و زمان درخواست کمک فوری",
+              "url": "https://www.nhs.uk/symptoms/fever-in-children/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "كيف تجمع عينة بول طفلك للفحص؟",
+        "description": "تعرّف إلى طريقة جمع بول الطفل وكتابة بيانات العينة، وما الذي تكشفه الزراعة، وكيف يختلف جمع البول على مدار ٢٤ ساعة عن أخذ عينة واحدة.",
+        "intro": "تسلمك العيادة عبوة صغيرة. قبل المغادرة اسأل عن نوع العينة ومتى تجمعها وإلى أين تأخذها. فزراعة البول للاشتباه في عدوى تختلف تعليماتها عن جمع البول مدة محددة لتقييم الكلى.",
+        "sections": [
+          {
+            "heading": "عمّ يبحث الفحص؟",
+            "paragraphs": [
+              "ترشّح الكليتان الدم وتنتجان البول الذي ينتقل إلى المثانة. قد يكشف تحليل البول عن الدم أو البروتين أو مؤشرات الالتهاب باستخدام شريط اختبار أو مجهر. أما الزراعة فتُظهر ما إذا كانت البكتيريا تنمو وما المضادات الحيوية التي قد تنفع. يفسّر الطبيب النتيجة في ضوء الأعراض وطريقة أخذ العينة.",
+              "عند الاشتباه في عدوى، تؤخذ العينة قبل المضاد الحيوي إن أمكن. لا تؤخر تقييماً عاجلاً أو علاجاً عاجلاً وصفه الطبيب كي تنهي الجمع. الرضيع دون ثلاثة أشهر الذي تبلغ حرارته ٣٨ درجة مئوية أو أكثر يحتاج إلى تقييم طبي عاجل. اطلب الإسعاف إذا كان إيقاظ الطفل صعباً جداً أو كان يعاني صعوبة شديدة في التنفس."
+            ]
+          },
+          {
+            "heading": "اجمع العينة التي طلبها الفريق",
+            "paragraphs": [
+              "إذا كان الطفل يستعمل المرحاض، اغسلوا الأيدي واتبعوا تعليمات العيادة لتنظيف المنطقة. ليبدأ التبول في المرحاض ثم اجمع بعض منتصف المجرى في العبوة المعقمة المقدمة من دون لمس باطنها أو حافتها وأغلقها. للرضيع قد ينصح الفريق بالتقاط البول مباشرة في العبوة أو يأخذ عينة بقسطرة. يمكن أن تلوث بكتيريا الجلد كيس جمع البول، وزراعة عينة الكيس لا تؤكد العدوى بشكل موثوق. لا تعصر حفاضة للحصول على البول.",
+              "في تجربة بقسم الطوارئ شملت رضعاً من شهر إلى اثني عشر شهراً، دخل التحليل ٣٤٤ رضيعاً. تبوّل خلال خمس دقائق ٣١٪ في المجموعة التي استعمل الطاقم معها شاشاً رطباً بارداً لتحفيز أسفل البطن، مقابل ١٢٪ في مجموعة الالتقاط المباشر المعتاد. قاست الدراسة سرعة التبول ولم تفحص ما إذا كانت هذه الطريقة تكشف العدوى. اطلب من العاملين عرض الطريقة التي يريدونها."
+            ]
+          },
+          {
+            "heading": "اكتب البيانات وسلّم العينة وتابع النتيجة",
+            "paragraphs": [
+              "اكتب على العبوة بيانات التعريف المطلوبة ووقت الجمع وسلّمها سريعاً. إذا تأخر التسليم فاسأل المختبر عن التبريد وأي مادة حافظة والموعد النهائي. عند جمع بول ٢٤ ساعة يفرغ الطفل مثانته وتُرمى هذه المرة الأولى. دوّن وقتها ثم اجمع كل تبول لاحق بما فيه الأخير في الوقت نفسه من اليوم التالي. أخبر المختبر إذا فاتت كمية أو انسكبت.",
+              "اسأل من سيشرح النتيجة ومتى تتصل إن لم يصلك رد. نمو عدة أنواع من البكتيريا قد يدل على تلوث العينة وقد يستلزم عينة جديدة. إذا طلب الطبيب مراقبة منزلية بأشرطة الاختبار لحالة معروفة فاتبع خطتها الخاصة. اتصل بالفريق إذا استمرت الأعراض أو تفاقمت أثناء الانتظار."
+            ]
+          }
+        ],
+        "takeaways": [
+          "تحقق هل المطلوب عينة واحدة أم أول بول صباحي أم جمع لمدة محددة.",
+          "حافظ على نظافة باطن العبوة ودوّن وقت أخذ العينة.",
+          "اسأل عن طريقة الحفظ والحصول على النتيجة."
+        ],
+        "faq": [
+          {
+            "q": "ماذا يعني UA وUC؟",
+            "a": "يشير UA عادة إلى تحليل البول، ويشير UC إلى الزراعة التي تبحث عن نمو بكتيري. يراعي الطبيب نتائج الفحص والطريقة التي جُمعت بها العينة."
+          },
+          {
+            "q": "ما جمع البول لمدة ٢٤ ساعة؟",
+            "a": "يقيس كل البول الذي يُطرح خلال يوم وليلة محددين بالوقت. تخلّص من البول الأول وسجّل وقت البداية ثم اجمع كل البول بما فيه الأخير بعد ٢٤ ساعة. اتصل بالمختبر إذا فاتك جزء."
+          },
+          {
+            "q": "كم أستطيع الاحتفاظ بعينة الرضيع؟",
+            "a": "سلّمها سريعاً في العبوة المقدمة بعد إغلاقها وكتابة البيانات. يعتمد الحفظ على الفحص والعبوة. اسأل المختبر المستلم عن طريقة الحفظ ومتى يجب وصولها."
+          },
+          {
+            "q": "متى أجمع البول؟",
+            "a": "اتبع طلب الفحص. بعض الفحوص يحتاج إلى أول بول بعد الاستيقاظ، ويكفي بعضها عينة حديثة. إذا مرض الطفل فاطلب المشورة سريعاً ولا تنتظر عينة الصباح."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٧ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "تأكد من نوع العينة وتوقيت جمعها مع العيادة.",
+            "لا تلمس باطن العبوة ولا تعصر حفاضة لأخذ بول منها.",
+            "اتبع تعليمات المختبر المستلم بشأن الحفظ والتسليم."
+          ],
+          "bemama": "تقترح بي ماما كتابة موعد أخذ العينة ورقم هاتف المختبر على ورقة التعليمات قبل مغادرة العيادة.",
+          "safety": "يحتاج رضيع دون ثلاثة أشهر بحرارة ٣٨ درجة مئوية أو أعلى إلى تقييم عاجل. اطلب الإسعاف إذا كان إيقاظ الطفل صعباً جداً أو كان يتنفس بصعوبة شديدة. لا تنتظر جمع عينة بول.",
+          "sources": [
+            {
+              "organization": "المعهد الوطني البريطاني للتميز في الصحة والرعاية",
+              "title": "عدوى المسالك البولية لدى الأطفال وجمع البول وفحصه",
+              "url": "https://www.nice.org.uk/guidance/ng224/chapter/Recommendations"
+            },
+            {
+              "organization": "مستشفى الأطفال الملكي في ملبورن",
+              "title": "فحوص البول للأطفال وطرق أخذ العينات",
+              "url": "https://www.rch.org.au/kidsinfo/fact_sheets/urine_tests/"
+            },
+            {
+              "organization": "مستشفى نيشن وايد للأطفال",
+              "title": "تعليمات جمع بول ٢٤ ساعة",
+              "url": "https://www.nationwidechildrens.org/family-resources-education/health-wellness-and-safety-resources/helping-hands/24-hour-urine-specimen-collection-guidelines"
+            },
+            {
+              "organization": "كاوفمان وزملاؤه، المجلة الطبية البريطانية",
+              "title": "تجربة عشوائية حول التقاط بول الرضع مباشرة",
+              "url": "https://www.bmj.com/content/357/bmj.j1341"
+            },
+            {
+              "organization": "هيئة الخدمات الصحية الوطنية البريطانية",
+              "title": "حمى الأطفال ومتى تُطلب المساعدة العاجلة",
+              "url": "https://www.nhs.uk/symptoms/fever-in-children/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Comment recueillir un échantillon d’urine chez l’enfant",
+        "description": "Découvrez comment recueillir et étiqueter les urines de votre enfant, ce que montre la culture et ce qui distingue un prélèvement du recueil de 24 heures.",
+        "intro": "Le cabinet vous remet un petit pot. Avant de partir, demandez quelle urine recueillir, à quel moment et où la déposer. Une culture pour suspicion d’infection et un recueil chronométré pour explorer les reins demandent des consignes différentes.",
+        "sections": [
+          {
+            "heading": "Que recherche le laboratoire ?",
+            "paragraphs": [
+              "Les reins filtrent le sang et fabriquent l’urine, qui rejoint la vessie. L’analyse urinaire peut rechercher du sang, des protéines ou des signes d’inflammation à la bandelette ou au microscope. La culture montre si des bactéries se développent et quels antibiotiques pourraient agir. Le professionnel interprète le résultat en tenant compte des symptômes et du mode de prélèvement.",
+              "En cas de suspicion d’infection, on prélève si possible avant les antibiotiques. Ne retardez jamais une évaluation ou un traitement urgent prescrit pour terminer le recueil. Un bébé de moins de trois mois à 38 °C ou plus nécessite une évaluation médicale urgente. Appelez les secours si l’enfant est très difficile à réveiller ou présente une difficulté respiratoire importante."
+            ]
+          },
+          {
+            "heading": "Recueillez le type d’urine demandé",
+            "paragraphs": [
+              "Si l’enfant est propre, lavez-vous les mains et suivez les instructions de toilette. Faites-le commencer à uriner dans les toilettes puis récupérez un peu du milieu du jet dans le pot stérile fourni sans toucher l’intérieur ni le bord. Refermez-le. Chez un bébé, l’équipe peut conseiller un recueil direct au jet ou effectuer un sondage. Une poche peut recueillir des bactéries de la peau et sa culture ne suffit pas à confirmer l’infection. Ne pressez pas une couche pour en extraire l’urine.",
+              "Un essai aux urgences a étudié des nourrissons de 1 à 12 mois. Parmi les 344 analysés, 31 % ont uriné en cinq minutes avec une technique appliquant une compresse fraîche et humide sur le bas du ventre, contre 12 % lors d’un recueil direct ordinaire. Les chercheurs étudiaient le délai avant la miction et non la présence d’une infection. Demandez à l’équipe de vous montrer la méthode souhaitée."
+            ]
+          },
+          {
+            "heading": "Étiquetez, déposez et demandez les résultats",
+            "paragraphs": [
+              "Indiquez sur le pot l’identité demandée et l’heure du prélèvement. Apportez-le rapidement. En cas de délai, demandez au laboratoire s’il faut le réfrigérer, s’il contient un conservateur et quand il doit arriver. Pour un recueil de 24 heures, faites vider la vessie et jetez cette première urine. Notez l’heure, puis gardez toutes les urines suivantes, y compris la dernière à la même heure le lendemain. Signalez au laboratoire toute urine oubliée ou renversée.",
+              "Demandez qui expliquera les résultats et quand rappeler en l’absence de nouvelles. Plusieurs sortes de bactéries peuvent évoquer une contamination et nécessiter un nouveau prélèvement. Si des bandelettes vous sont prescrites à domicile pour le suivi d’une maladie connue, suivez le plan précis donné. Rappelez l’équipe si les symptômes persistent ou s’aggravent pendant l’attente."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Vérifiez si l’équipe demande un prélèvement unique, les premières urines du matin ou un recueil chronométré.",
+          "Gardez l’intérieur du pot propre et indiquez l’heure.",
+          "Demandez comment conserver l’échantillon et obtenir le résultat."
+        ],
+        "faq": [
+          {
+            "q": "Que signifient UA et UC ?",
+            "a": "Dans les documents en anglais, UA désigne généralement l’analyse d’urine et UC la culture, qui recherche la croissance de bactéries. Le professionnel tient compte des résultats et de la façon dont les urines ont été obtenues."
+          },
+          {
+            "q": "Qu’est-ce qu’un recueil de 24 heures ?",
+            "a": "Il mesure toutes les urines émises pendant une journée et une nuit chronométrées. Jetez la première miction, puis conservez toutes les suivantes, y compris la dernière 24 heures plus tard. Contactez le laboratoire en cas d’oubli."
+          },
+          {
+            "q": "Combien de temps garder l’urine d’un bébé ?",
+            "a": "Déposez-la rapidement dans le pot fourni, fermé et étiqueté. La conservation dépend du test et du récipient. Demandez au laboratoire comment la garder et quelle est l’heure limite."
+          },
+          {
+            "q": "Quand dois-je prélever l’urine ?",
+            "a": "Suivez la prescription. Certains examens demandent la première urine au réveil. Pour d’autres, une urine fraîche suffit. Si l’enfant est malade, demandez conseil sans attendre les urines du matin."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 17 novembre 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Confirmez la nature et le moment du prélèvement avec le cabinet.",
+            "Ne touchez pas l’intérieur du pot et ne recueillez pas d’urine en pressant une couche.",
+            "Suivez les instructions de conservation et de transport du laboratoire destinataire."
+          ],
+          "bemama": "BeMama suggère de noter sur vos consignes l’heure prévue du recueil et le numéro du laboratoire avant de quitter le cabinet.",
+          "safety": "Un bébé de moins de trois mois qui a 38 °C ou plus nécessite une évaluation urgente. Appelez les secours si l’enfant est très difficile à réveiller ou respire avec grande difficulté. N’attendez pas d’avoir un échantillon.",
+          "sources": [
+            {
+              "organization": "Institut national britannique pour l’excellence en santé et en soins",
+              "title": "Infection urinaire chez l’enfant, prélèvement et analyse",
+              "url": "https://www.nice.org.uk/guidance/ng224/chapter/Recommendations"
+            },
+            {
+              "organization": "Royal Children’s Hospital de Melbourne",
+              "title": "Analyses d’urine et méthodes de recueil chez l’enfant",
+              "url": "https://www.rch.org.au/kidsinfo/fact_sheets/urine_tests/"
+            },
+            {
+              "organization": "Nationwide Children’s Hospital",
+              "title": "Modalités du recueil des urines de 24 heures",
+              "url": "https://www.nationwidechildrens.org/family-resources-education/health-wellness-and-safety-resources/helping-hands/24-hour-urine-specimen-collection-guidelines"
+            },
+            {
+              "organization": "Kaufman et collègues, BMJ",
+              "title": "Essai randomisé du recueil direct des urines du nourrisson",
+              "url": "https://www.bmj.com/content/357/bmj.j1341"
+            },
+            {
+              "organization": "Service national de santé britannique",
+              "title": "Fièvre chez l’enfant et motifs de recours urgent",
+              "url": "https://www.nhs.uk/symptoms/fever-in-children/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Çocuğunuzun tahlili için idrar örneği nasıl alınır?",
+        "description": "Çocuğun idrar örneğini alıp etiketlemeyi, kültürün neyi gösterdiğini ve 24 saatlik idrar toplama işleminin tek örnekten farkını öğrenin.",
+        "intro": "Klinik size küçük bir numune kabı verdi. Ayrılmadan önce hangi örneğin gerektiğini, ne zaman alacağınızı ve nereye götüreceğinizi sorun. Enfeksiyon şüphesinde yapılan kültür ile böbrek değerlendirmesi için süreli toplamanın talimatları farklıdır.",
+        "sections": [
+          {
+            "heading": "Test neyi araştırır?",
+            "paragraphs": [
+              "Böbrekler kanı süzer ve mesaneye giden idrarı üretir. İdrar tahlilinde test şeridi veya mikroskopla kan, protein veya iltihap bulguları aranabilir. Kültür bakterinin üreyip üremediğini ve hangi antibiyotiklerin etkili olabileceğini gösterir. Hekim sonucu çocuğun belirtileri ve örneğin alınma yöntemiyle birlikte yorumlar.",
+              "Enfeksiyon düşünülüyorsa mümkün olduğunda antibiyotikten önce örnek alınır. Örnek toplamayı tamamlamak için acil değerlendirmeyi veya başlanması gereken acil tedaviyi geciktirmeyin. Üç aylıktan küçük bir bebeğin ateşi 38 °C veya üzeriyse acil tıbbi değerlendirme gerekir. Çocuk çok güç uyanıyorsa veya ciddi nefes alma güçlüğü varsa acil yardım çağırın."
+            ]
+          },
+          {
+            "heading": "Ekibin istediği örneği alın",
+            "paragraphs": [
+              "Tuvalet eğitimi olan çocukta elleri yıkayın ve ekibin temizlik talimatlarını uygulayın. Çocuk önce tuvalete idrarını yapmaya başlasın. Kabın içine veya kenarına dokunmadan orta akımdan bir miktar idrarı verilen steril kaba alın ve kapağı kapatın. Bebekte ekip idrarı doğrudan temiz yakalama yöntemiyle almanızı önerebilir veya sonda kullanabilir. İdrar torbasına ciltten bakteri bulaşabileceğinden torba kültürü enfeksiyonu güvenilir biçimde doğrulamaz. Bezi sıkarak idrar çıkarmayın.",
+              "Acil serviste yapılan bir çalışmada 1–12 aylık bebekler incelendi. Analize giren 344 bebeğin, alt karın bölgesine serin ve nemli gazlı bezle uyarı uygulanan grubunda %31’i, olağan temiz yakalama grubunda ise %12’si beş dakika içinde idrar yaptı. Ölçülen şey idrar yapma süresiydi, enfeksiyon varlığı değildi. Ekibin istediği yöntemi göstermesini isteyin."
+            ]
+          },
+          {
+            "heading": "Etiketleyin, teslim edin ve sonucu izleyin",
+            "paragraphs": [
+              "Kabın üzerine istenen kimlik bilgilerini ve örnek saatini yazın. Vakit kaybetmeden götürün. Teslim gecikecekse soğutma gerekip gerekmediğini, koruyucu madde talimatını ve süreyi laboratuvara sorun. 24 saatlik testte başlangıçta mesaneyi boşaltıp o idrarı atın ve saati kaydedin. Ertesi gün aynı saatteki son idrar dahil, sonrasında yapılan bütün idrarı biriktirin. Bir kısmı unutulur veya dökülürse laboratuvara söyleyin.",
+              "Sonucu kimin açıklayacağını ve haber gelmezse ne zaman arayacağınızı sorun. Birkaç tür bakterinin üremesi bulaşa işaret edebilir ve yeni örnek gerekebilir. Bilinen bir hastalık için evde şeritle izlem istendiyse o plana uyun. Beklerken belirtiler sürer veya kötüleşirse ekibe başvurun."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Tek örnek, ilk sabah idrarı veya süreli toplama mı gerektiğini netleştirin.",
+          "Kabın içini temiz tutun ve örneğin alınma saatini yazın.",
+          "Nasıl saklanacağını ve sonucu nasıl alacağınızı sorun."
+        ],
+        "faq": [
+          {
+            "q": "UA ve UC ne demektir?",
+            "a": "İngilizcede UA genellikle idrar tahlilini, UC bakteri üremesinin araştırıldığı idrar kültürünü belirtir. Hekim hem bulguları hem idrarın nasıl alındığını değerlendirir."
+          },
+          {
+            "q": "24 saatlik idrar toplama nedir?",
+            "a": "Bir gün ve gece boyunca belirli saatler arasında yapılan tüm idrarı ölçer. İlk idrarı atın, ardından 24 saat sonraki son idrar dahil hepsini biriktirin. Herhangi birini kaçırırsanız laboratuvara haber verin."
+          },
+          {
+            "q": "Bebeğin örneğini ne kadar saklayabilirim?",
+            "a": "Verilen kapta, kapağı kapalı ve etiketli olarak geciktirmeden götürün. Saklama koşulu teste ve kaba bağlıdır. Nasıl saklanacağını ve son teslim saatini çalışacak laboratuvara sorun."
+          },
+          {
+            "q": "İdrarı ne zaman almalıyım?",
+            "a": "Test istemine uyun. Bazı testlerde uyanınca yapılan ilk idrar, bazılarında taze bir örnek yeterlidir. Çocuk hastaysa sabah örneğini beklemeden tıbbi görüş alın."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 17 Kasım 2026 tarihinde incelendi",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Örnek türünü ve alınma zamanını klinikle doğrulayın.",
+            "Kabın iç yüzeyine dokunmayın veya bezi sıkarak örnek almayın.",
+            "Saklama ve taşıma için testi yapacak laboratuvarın talimatına uyun."
+          ],
+          "bemama": "BeMama, klinikten ayrılmadan önce talimat kâğıdına örnek alma saatini ve laboratuvarın telefonunu yazmanızı önerir.",
+          "safety": "Üç aydan küçük bir bebekte 38 °C veya daha yüksek ateş acil değerlendirme gerektirir. Çocuk çok güç uyanıyorsa veya nefes almakta ciddi güçlük çekiyorsa acil yardım çağırın. İdrar örneğini beklemeyin.",
+          "sources": [
+            {
+              "organization": "Birleşik Krallık Ulusal Sağlık ve Bakım Mükemmelliği Enstitüsü",
+              "title": "Çocuklarda idrar yolu enfeksiyonu, örnek toplama ve inceleme",
+              "url": "https://www.nice.org.uk/guidance/ng224/chapter/Recommendations"
+            },
+            {
+              "organization": "Melbourne Kraliyet Çocuk Hastanesi",
+              "title": "Çocuklarda idrar testleri ve örnek alma yöntemleri",
+              "url": "https://www.rch.org.au/kidsinfo/fact_sheets/urine_tests/"
+            },
+            {
+              "organization": "Nationwide Çocuk Hastanesi",
+              "title": "24 saatlik idrar örneği toplama talimatları",
+              "url": "https://www.nationwidechildrens.org/family-resources-education/health-wellness-and-safety-resources/helping-hands/24-hour-urine-specimen-collection-guidelines"
+            },
+            {
+              "organization": "Kaufman ve çalışma arkadaşları, BMJ",
+              "title": "Bebeklerde temiz yakalama yöntemiyle idrar toplamaya ilişkin rastgele atamalı çalışma",
+              "url": "https://www.bmj.com/content/357/bmj.j1341"
+            },
+            {
+              "organization": "Birleşik Krallık Ulusal Sağlık Hizmeti",
+              "title": "Çocuklarda ateş ve acil yardıma başvurma zamanı",
+              "url": "https://www.nhs.uk/symptoms/fever-in-children/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Cómo recoger una muestra de orina para los análisis de tu hijo",
+        "description": "Aprende a recoger y etiquetar la orina de un niño, qué información aporta el cultivo y cómo se distingue una muestra aislada de la recogida de 24 horas.",
+        "intro": "En la consulta te entregan un frasco pequeño. Antes de irte, pregunta qué muestra necesitan, cuándo recogerla y dónde llevarla. Un cultivo por sospecha de infección y una recogida cronometrada para estudiar el riñón requieren instrucciones diferentes.",
+        "sections": [
+          {
+            "heading": "¿Qué busca el análisis?",
+            "paragraphs": [
+              "Los riñones filtran la sangre y producen orina, que pasa a la vejiga. Un análisis de orina busca sangre, proteínas o signos de inflamación mediante una tira reactiva o al microscopio. Un cultivo permite ver si crecen bacterias y qué antibióticos podrían servir. El profesional interpreta el resultado junto con los síntomas y el método de recogida.",
+              "Cuando se sospecha infección, se intenta obtener la muestra antes de los antibióticos. No retrases una evaluación ni un tratamiento urgente indicado por intentar completar la recogida. Un bebé menor de tres meses con 38 °C o más necesita valoración médica urgente. Pide ayuda de emergencia si cuesta mucho despertar al niño o si tiene dificultad importante para respirar."
+            ]
+          },
+          {
+            "heading": "Recoge la muestra que ha pedido el equipo",
+            "paragraphs": [
+              "Si el niño ya usa el inodoro, lavaos las manos y sigue las instrucciones de higiene de la consulta. Que empiece a orinar en el inodoro. Recoge un poco del chorro medio en el frasco estéril sin tocar su interior ni el borde y ciérralo. Para un bebé, pueden recomendar recogida al vuelo en un recipiente limpio y estéril u obtener la muestra mediante una sonda. Las bolsas pueden recoger bacterias de la piel y su cultivo no confirma con fiabilidad una infección. No exprimas un pañal.",
+              "En un ensayo en urgencias con bebés de 1 a 12 meses, se analizaron 344. El 31 % orinó en cinco minutos cuando el personal aplicó una técnica con gasa fresca y húmeda en la parte baja del abdomen, frente al 12 % con la recogida habitual al vuelo. Se midió cuánto tardaron en orinar, no si tenían una infección. Pide al personal que te muestre el método indicado."
+            ]
+          },
+          {
+            "heading": "Etiqueta, lleva la muestra y pregunta por el resultado",
+            "paragraphs": [
+              "Escribe en el frasco los datos de identificación solicitados y la hora de recogida. Entrégalo pronto. Si va a haber demora, pregunta al laboratorio por la refrigeración, el conservante y el plazo. En la recogida de 24 horas, que el niño vacíe la vejiga y deseche esa primera orina. Apunta la hora y recoge todas las micciones siguientes, incluida la última a la misma hora del día siguiente. Avisa si se olvida o derrama alguna.",
+              "Pregunta quién explicará el resultado y cuándo llamar si no recibes noticias. La presencia de bacterias de varios tipos puede indicar contaminación y requerir otra muestra. Para controles con tira en casa por una enfermedad conocida, sigue el plan indicado. Si los síntomas continúan o empeoran mientras esperas, contacta con el equipo."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Aclara si hace falta una muestra aislada, la primera de la mañana o una recogida cronometrada.",
+          "Mantén limpio el interior del recipiente y anota la hora de recogida.",
+          "Pregunta cómo conservar la muestra y cómo recibirás el resultado."
+        ],
+        "faq": [
+          {
+            "q": "¿Qué significan UA y UC?",
+            "a": "UA suele ser la sigla inglesa de análisis de orina. UC suele significar cultivo de orina o urocultivo, que busca crecimiento bacteriano. Importan tanto los hallazgos como la forma de recogerla."
+          },
+          {
+            "q": "¿Qué es la recogida de orina de 24 horas?",
+            "a": "Se mide toda la orina emitida durante un día y una noche cronometrados. Desecha la micción inicial y guarda todas las posteriores, incluida la de la misma hora al día siguiente. Si falta alguna, llama al laboratorio."
+          },
+          {
+            "q": "¿Cuánto puedo guardar la muestra de un bebé?",
+            "a": "Entrégala pronto en el recipiente suministrado, cerrado y etiquetado. El almacenamiento depende de la prueba y del frasco. Pregunta al laboratorio cómo conservarla y cuándo debe llegar."
+          },
+          {
+            "q": "¿En qué momento debo recogerla?",
+            "a": "Sigue la indicación. A veces piden la primera orina de la mañana y en otros casos basta una muestra fresca. Si el niño está enfermo, pide consejo sin esperar a la mañana."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 17 de noviembre de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Confirma con la consulta el tipo de muestra y el momento de recogerla.",
+            "Evita tocar el interior del frasco o exprimir un pañal para recoger orina.",
+            "Sigue las instrucciones de conservación y entrega del laboratorio que recibirá la muestra."
+          ],
+          "bemama": "BeMama sugiere anotar la hora de recogida y el teléfono del laboratorio en las instrucciones antes de salir de la consulta.",
+          "safety": "Un bebé menor de tres meses con 38 °C o más necesita valoración urgente. Busca ayuda de emergencia si cuesta mucho despertar al niño o tiene dificultad respiratoria importante. No esperes a tener la muestra.",
+          "sources": [
+            {
+              "organization": "Instituto Nacional para la Excelencia en la Salud y la Atención del Reino Unido",
+              "title": "Infección urinaria infantil, recogida y análisis de orina",
+              "url": "https://www.nice.org.uk/guidance/ng224/chapter/Recommendations"
+            },
+            {
+              "organization": "Royal Children’s Hospital de Melbourne",
+              "title": "Análisis de orina y métodos de recogida en niños",
+              "url": "https://www.rch.org.au/kidsinfo/fact_sheets/urine_tests/"
+            },
+            {
+              "organization": "Nationwide Children’s Hospital",
+              "title": "Cómo recoger las muestras de orina de 24 horas",
+              "url": "https://www.nationwidechildrens.org/family-resources-education/health-wellness-and-safety-resources/helping-hands/24-hour-urine-specimen-collection-guidelines"
+            },
+            {
+              "organization": "Kaufman y colaboradores, BMJ",
+              "title": "Ensayo aleatorizado de recogida de orina al vuelo en lactantes",
+              "url": "https://www.bmj.com/content/357/bmj.j1341"
+            },
+            {
+              "organization": "Servicio Nacional de Salud del Reino Unido",
+              "title": "Fiebre en niños y cuándo buscar ayuda urgente",
+              "url": "https://www.nhs.uk/symptoms/fever-in-children/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Como coletar a urina do seu filho para um exame",
+        "description": "Veja como coletar e identificar a amostra de urina de uma criança, o que a cultura mostra e como a coleta de 24 horas difere de uma amostra isolada.",
+        "intro": "No consultório você recebe um pequeno frasco. Antes de sair, pergunte que amostra é necessária, quando colhê-la e onde entregá-la. A cultura para investigar infecção e a coleta cronometrada para avaliar os rins exigem instruções diferentes.",
+        "sections": [
+          {
+            "heading": "O que o exame procura?",
+            "paragraphs": [
+              "Os rins filtram o sangue e produzem urina, que segue para a bexiga. A análise de urina pode investigar sangue, proteína ou sinais de inflamação com uma fita reagente ou ao microscópio. A cultura verifica se há crescimento de bactérias e quais antibióticos podem funcionar. O profissional interpreta o resultado junto com os sintomas e o método de coleta.",
+              "Se houver suspeita de infecção, procura-se colher a urina antes do antibiótico quando possível. Não atrase avaliação urgente nem tratamento urgente prescrito para terminar a coleta. Um bebê com menos de três meses e temperatura de 38 °C ou mais precisa de avaliação médica urgente. Acione a emergência se a criança estiver muito difícil de acordar ou tiver dificuldade importante para respirar."
+            ]
+          },
+          {
+            "heading": "Colete a amostra pedida pela equipe",
+            "paragraphs": [
+              "Para a criança que já usa o vaso, lavem as mãos e sigam as instruções de higiene da equipe. Deixe-a começar a urinar no vaso. Colete parte do jato médio no frasco estéril fornecido, sem tocar dentro ou na borda, e feche. Para um bebê, a equipe pode sugerir coletar o jato diretamente ou obter a amostra por sonda. Um saco coletor pode recolher bactérias da pele e sua cultura não confirma infecção com segurança. Não esprema urina de uma fralda.",
+              "Um ensaio em pronto atendimento estudou bebês de 1 a 12 meses. Entre 344 analisados, 31% urinaram em cinco minutos quando a equipe usou uma técnica com gaze úmida e fria sobre a parte inferior do abdome, frente a 12% na coleta direta habitual. A pesquisa avaliou quanto tempo levavam para urinar, não se havia infecção. Peça à equipe para demonstrar o método indicado."
+            ]
+          },
+          {
+            "heading": "Identifique, entregue e acompanhe o resultado",
+            "paragraphs": [
+              "Coloque no frasco os dados de identificação solicitados e o horário da coleta. Entregue-o logo. Se houver atraso, pergunte ao laboratório sobre refrigeração, conservantes e prazo. Para coleta de 24 horas, peça à criança que esvazie a bexiga e descarte essa primeira urina. Anote o horário e guarde todas as micções seguintes, inclusive a última no mesmo horário do dia seguinte. Avise se houver perda ou derramamento.",
+              "Pergunte quem explicará o resultado e quando entrar em contato se não receber notícias. O crescimento de vários tipos de bactéria pode indicar contaminação e exigir outra amostra. Caso use fitas em casa para acompanhar uma doença já conhecida, siga o plano indicado para ela. Se os sintomas persistirem ou piorarem enquanto espera, avise a equipe."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Confirme se precisa de amostra isolada, da primeira urina da manhã ou de coleta cronometrada.",
+          "Mantenha limpo o interior do frasco e anote o horário.",
+          "Pergunte como conservar a amostra e receber o resultado."
+        ],
+        "faq": [
+          {
+            "q": "O que significam UA e UC?",
+            "a": "Em inglês, UA costuma indicar a análise de urina e UC a cultura de urina ou urocultura, que pesquisa crescimento bacteriano. Importam os achados e a forma de coleta."
+          },
+          {
+            "q": "O que é a coleta de urina de 24 horas?",
+            "a": "Ela reúne toda a urina eliminada em um dia e uma noite cronometrados. Descarte a micção inicial e guarde todas as seguintes, inclusive a de 24 horas depois. Se perder alguma, ligue para o laboratório."
+          },
+          {
+            "q": "Por quanto tempo posso guardar a amostra do bebê?",
+            "a": "Entregue-a logo no recipiente fornecido, fechado e identificado. A conservação depende do exame e do frasco. Confirme com o laboratório como armazenar e qual é o prazo de entrega."
+          },
+          {
+            "q": "Quando devo colher a urina?",
+            "a": "Siga o pedido. Alguns exames exigem a primeira urina ao acordar e em outros basta uma amostra recente. Se a criança estiver doente, procure orientação sem esperar pela manhã."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 17 de novembro de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Confirme com a equipe qual amostra colher e quando.",
+            "Evite tocar dentro do frasco ou coletar urina espremendo fralda.",
+            "Siga as orientações de conservação e entrega do laboratório que receberá a amostra."
+          ],
+          "bemama": "A BeMama sugere anotar nas instruções o horário previsto de coleta e o telefone do laboratório antes de sair da consulta.",
+          "safety": "Um bebê menor de três meses com 38 °C ou mais precisa de avaliação urgente. Acione a emergência se a criança estiver muito difícil de acordar ou tiver dificuldade importante para respirar. Não espere conseguir uma amostra.",
+          "sources": [
+            {
+              "organization": "Instituto Nacional para a Excelência em Saúde e Cuidados do Reino Unido",
+              "title": "Infecção urinária infantil, coleta e análise de urina",
+              "url": "https://www.nice.org.uk/guidance/ng224/chapter/Recommendations"
+            },
+            {
+              "organization": "Royal Children’s Hospital de Melbourne",
+              "title": "Exames de urina e métodos de coleta em crianças",
+              "url": "https://www.rch.org.au/kidsinfo/fact_sheets/urine_tests/"
+            },
+            {
+              "organization": "Nationwide Children’s Hospital",
+              "title": "Como coletar urina de 24 horas",
+              "url": "https://www.nationwidechildrens.org/family-resources-education/health-wellness-and-safety-resources/helping-hands/24-hour-urine-specimen-collection-guidelines"
+            },
+            {
+              "organization": "Kaufman e colaboradores, BMJ",
+              "title": "Ensaio randomizado sobre coleta direta da urina em bebês",
+              "url": "https://www.bmj.com/content/357/bmj.j1341"
+            },
+            {
+              "organization": "Serviço Nacional de Saúde do Reino Unido",
+              "title": "Febre infantil e quando procurar ajuda urgente",
+              "url": "https://www.nhs.uk/symptoms/fever-in-children/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5775.webp",
+    "heroAlt": {
+      "en": "A hand holds a pen against the label of an empty specimen cup with a blue lid.",
+      "es": "Una mano acerca un bolígrafo a la etiqueta de un recipiente de muestras vacío con tapa azul.",
+      "fr": "Une main pose un stylo sur l’étiquette d’un pot de prélèvement vide à couvercle bleu.",
+      "pt": "Uma mão encosta a caneta no rótulo de um pote de coleta vazio com tampa azul.",
+      "tr": "Bir el mavi kapaklı boş numune kabının etiketine kalem tutuyor.",
+      "fa": "دستی خودکار را روی برچسب یک ظرف نمونهٔ خالی با درِ آبی گذاشته است.",
+      "ar": "يد تضع قلماً على ملصق عبوة عينات فارغة ذات غطاء أزرق."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "How to collect a urine sample for your child’s test",
+      "description": "Learn how to collect and label a child’s urine sample, what a culture can tell you, and how a 24-hour collection differs from a single specimen."
+    },
+    "fa": {
+      "title": "چگونه برای آزمایش فرزندتان نمونه ادرار بگیرید؟",
+      "description": "با روش گرفتن و برچسب زدن نمونه ادرار کودک، کاربرد کشت ادرار و تفاوت یک نمونه ساده با جمع‌آوری ادرار در یک دوره ۲۴ ساعته آشنا شوید."
+    },
+    "ar": {
+      "title": "كيف تجمع عينة بول طفلك للفحص؟",
+      "description": "تعرّف إلى طريقة جمع بول الطفل وكتابة بيانات العينة، وما الذي تكشفه الزراعة، وكيف يختلف جمع البول على مدار ٢٤ ساعة عن أخذ عينة واحدة."
+    },
+    "fr": {
+      "title": "Comment recueillir un échantillon d’urine chez l’enfant",
+      "description": "Découvrez comment recueillir et étiqueter les urines de votre enfant, ce que montre la culture et ce qui distingue un prélèvement du recueil de 24 heures."
+    },
+    "tr": {
+      "title": "Çocuğunuzun tahlili için idrar örneği nasıl alınır?",
+      "description": "Çocuğun idrar örneğini alıp etiketlemeyi, kültürün neyi gösterdiğini ve 24 saatlik idrar toplama işleminin tek örnekten farkını öğrenin."
+    },
+    "es": {
+      "title": "Cómo recoger una muestra de orina para los análisis de tu hijo",
+      "description": "Aprende a recoger y etiquetar la orina de un niño, qué información aporta el cultivo y cómo se distingue una muestra aislada de la recogida de 24 horas."
+    },
+    "pt": {
+      "title": "Como coletar a urina do seu filho para um exame",
+      "description": "Veja como coletar e identificar a amostra de urina de uma criança, o que a cultura mostra e como a coleta de 24 horas difere de uma amostra isolada."
+    }
+  }
+}

@@ -1,0 +1,688 @@
+{
+  "sourceId": "5905",
+  "article": {
+    "slug": "pregnancy/energy-drinks-and-caffeine-labels-in-pregnancy",
+    "category": "pregnancy",
+    "i18n": {
+      "en": {
+        "title": "Energy drinks in pregnancy: what the label can tell you",
+        "description": "Learn why energy drinks are discouraged in pregnancy, how to count caffeine across a whole can and what to do if you have already had an energy drink.",
+        "intro": "Halfway through a shift, you pick up a can labelled “energy”. Before opening it, check what the label means by one serving. Then look for the total caffeine and any herbal ingredients. A small can or a sugar-free claim tells you little about the amount of stimulant inside.",
+        "sections": [
+          {
+            "heading": "Count the whole container",
+            "paragraphs": [
+              "Energy drinks can contain caffeine from added caffeine and ingredients such as guarana. A concentrated shot may be small but contain a substantial amount. If the label gives 80 mg per serving and the can holds two servings, the whole can provides 160 mg. If it lists caffeine per 100 mL, multiply by the number of 100 mL portions you drink.",
+              "The UK NHS advises no more than 200 mg of caffeine a day in pregnancy from all sources, including coffee, tea, cola and chocolate. Health Canada advises avoiding caffeinated energy drinks in pregnancy. Count any intake you have already had, but do not treat a daily caffeine limit as approval of a blend of stimulants."
+            ]
+          },
+          {
+            "heading": "What about the other ingredients?",
+            "paragraphs": [
+              "Products vary. They may contain sugar or sweeteners, taurine, added vitamins or herbal extracts. Guarana contributes caffeine. Asian ginseng, also called Panax ginseng, has limited pregnancy safety data and some evidence of possible harm. Discuss any herbal product with your maternity clinician or pharmacist before taking it.",
+              "A long list of ingredients does not tell you that each one causes harm. It also does not demonstrate that a particular combination and dose are safe in pregnancy. For ordinary thirst or a break at work, choose water or another caffeine-free drink without added stimulants."
+            ]
+          },
+          {
+            "heading": "What research can tell us",
+            "paragraphs": [
+              "A study drew on 7,304 pregnancies with information about energy drinks before pregnancy and 4,559 pregnancies with information on intake during pregnancy. Drinking them before pregnancy was associated with a higher risk of gestational hypertension. Few participants reported drinking them during pregnancy. The study could not establish that a drink caused high blood pressure or that a particular amount was safe."
+            ]
+          },
+          {
+            "heading": "If you already drank one",
+            "paragraphs": [
+              "Save the label or take a photo. Note how much you drank, when, other sources of caffeine that day and how you feel. A single exposure cannot establish that the baby was harmed. If the amount is large or unclear, you used a concentrated product, or you feel unwell, contact your maternity team or local poison centre promptly for individual advice.",
+              "Call emergency services for chest pain, severe difficulty breathing, a seizure or collapse. If tiredness keeps interfering with work or daily life, mention it at your maternity visit so the team can consider causes and offer support."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Look for caffeine per serving, the number of servings, and herbal sources such as guarana.",
+          "Choose a caffeine-free alternative to an energy drink during pregnancy.",
+          "Keep the package and ask for advice if you consumed a large or uncertain amount or develop symptoms."
+        ],
+        "faq": [
+          {
+            "q": "Are energy drinks harmful during pregnancy?",
+            "a": "Caffeinated energy drinks are discouraged because the amount of caffeine varies and the safety of added ingredients or combinations is uncertain. One drink does not prove harm to a pregnancy."
+          },
+          {
+            "q": "Why avoid them if I limit coffee?",
+            "a": "Caffeine adds up across the whole day. A concentrated drink can contain several servings, and its other ingredients are a separate consideration."
+          },
+          {
+            "q": "Which ingredients should I look for?",
+            "a": "Check the total caffeine, servings per container, guarana and other stimulants or extracts. Sugar-free does not mean caffeine-free. If the label is unclear, choose another drink."
+          },
+          {
+            "q": "Is ginseng suitable in pregnancy?",
+            "a": "Asian ginseng has limited safety evidence in pregnancy and some findings raise concern. Avoid starting a ginseng supplement or a drink that contains it without advice from a maternity clinician or pharmacist."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Check the caffeine in the whole container, including caffeine from guarana.",
+            "Use water or another caffeine-free choice for an ordinary drink.",
+            "Show the package to a clinician or poison centre after a concerning exposure."
+          ],
+          "bemama": "BeMama suggests using the serving size and the number of servings on your own can to estimate what you drank before calling.",
+          "safety": "Seek prompt advice for a large or uncertain amount, concentrated caffeine or feeling unwell. Call emergency services for chest pain, severe breathing difficulty, a seizure or collapse.",
+          "sources": [
+            {
+              "organization": "Health Canada",
+              "title": "Caffeinated energy drink labels and advice during pregnancy",
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/caffeinated-energy-drinks-what-you-should-know"
+            },
+            {
+              "organization": "National Health Service",
+              "title": "Foods and caffeine to limit during pregnancy",
+              "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/"
+            },
+            {
+              "organization": "Ding and colleagues, JAMA Network Open",
+              "title": "Energy drink intake before and during pregnancy in two prospective cohorts",
+              "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2812078"
+            },
+            {
+              "organization": "National Center for Complementary and Integrative Health",
+              "title": "Asian ginseng safety and pregnancy",
+              "url": "https://www.nccih.nih.gov/health/asian-ginseng"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "نوشیدنی انرژی‌زا در بارداری؛ از روی برچسب چه می‌توان فهمید؟",
+        "description": "ببینید چرا بهتر است در بارداری نوشیدنی انرژی‌زا نخورید، چطور مقدار کافئین یک قوطی کامل را حساب کنید و اگر قبلاً از آن نوشیده‌اید، چه زمانی مشورت بگیرید.",
+        "intro": "وسط کار قوطی نوشیدنی انرژی‌زا را برمی‌دارید. پیش از باز کردنش ببینید اندازهٔ یک وعده روی برچسب چقدر است. سپس مقدار کل کافئین و ترکیبات گیاهی آن را پیدا کنید. کوچکی قوطی یا عبارت «بدون قند» نشان نمی‌دهد چه مقدار مادهٔ محرک در آن است.",
+        "sections": [
+          {
+            "heading": "کافئین تمام قوطی را حساب کنید",
+            "paragraphs": [
+              "کافئین ممکن است هم جداگانه به نوشیدنی اضافه شده باشد و هم در ترکیباتی مثل گوارانا وجود داشته باشد. حتی شیشهٔ کوچکی از یک محصول غلیظ ممکن است مقدار زیادی کافئین داشته باشد. اگر هر وعده ۸۰ میلی‌گرم کافئین داشته باشد و قوطی دو وعده باشد، کل قوطی ۱۶۰ میلی‌گرم کافئین دارد. اگر مقدار به ازای هر ۱۰۰ میلی‌لیتر درج شده، آن را در تعداد واحدهای ۱۰۰ میلی‌لیتری که می‌نوشید ضرب کنید.",
+              "سرویس ملی سلامت بریتانیا توصیه می‌کند در بارداری مجموع کافئین دریافتی از همهٔ منابع، از جمله قهوه، چای، نوشابهٔ کولا و شکلات، از ۲۰۰ میلی‌گرم در روز بیشتر نشود. وزارت بهداشت کانادا توصیه می‌کند در بارداری از نوشیدنی‌های انرژی‌زای کافئین‌دار پرهیز کنید. کافئینی را که تا اینجا مصرف کرده‌اید حساب کنید. رعایت سقف روزانهٔ کافئین به معنای تأیید ایمنی ترکیب چند مادهٔ محرک نیست."
+            ]
+          },
+          {
+            "heading": "سایر ترکیبات چه اثری دارند؟",
+            "paragraphs": [
+              "ترکیب محصولات متفاوت است. ممکن است قند یا شیرین‌کننده، تائورین، ویتامین افزوده یا عصارهٔ گیاهی داشته باشند. گوارانا هم به کافئین دریافتی اضافه می‌کند. اطلاعات دربارهٔ ایمنی جینسینگ آسیایی که پاناکس جینسینگ نیز نام دارد در بارداری محدود است و بعضی یافته‌ها احتمال آسیب را مطرح می‌کنند. پیش از مصرف هر محصول گیاهی با پزشک یا مامای خود یا داروساز مشورت کنید.",
+              "فهرست طولانی مواد نه نشان می‌دهد که هر یک از آن‌ها مضر است و نه ایمنی آن مقدار و ترکیب را در بارداری ثابت می‌کند. برای رفع تشنگی یا استراحتی کوتاه در محل کار، آب یا نوشیدنی بدون کافئین و بدون محرک افزوده انتخاب کنید."
+            ]
+          },
+          {
+            "heading": "پژوهش‌ها چه یافته‌اند؟",
+            "paragraphs": [
+              "یک مطالعه داده‌های ۷٬۳۰۴ بارداری را دربارهٔ مصرف نوشیدنی انرژی‌زا پیش از بارداری و داده‌های ۴٬۵۵۹ بارداری را دربارهٔ مصرف در دوران بارداری بررسی کرد. مصرف پیش از بارداری با خطر بیشتر فشار خون بالای ناشی از بارداری همراه بود. افراد کمی گفتند که در دوران بارداری از این نوشیدنی‌ها مصرف می‌کردند. مطالعه نشان نمی‌دهد نوشیدنی علت فشار خون بالا بوده یا مقدار معینی از آن بی‌خطر است."
+            ]
+          },
+          {
+            "heading": "اگر قبلاً نوشیدنی انرژی‌زا خورده‌اید",
+            "paragraphs": [
+              "برچسب را نگه دارید یا از آن عکس بگیرید. مقدار مصرف، زمان آن، سایر منابع کافئینی که همان روز مصرف کرده‌اید و حال فعلی‌تان را یادداشت کنید. از یک بار مصرف نمی‌توان نتیجه گرفت که جنین آسیب دیده است. اگر مقدار زیاد یا نامشخص بوده، محصول غلیظ مصرف کرده‌اید یا حالتان خوب نیست، هرچه زودتر از تیم مراقبت بارداری یا مرکز اطلاع‌رسانی مسمومیت محل زندگی‌تان راهنمایی بگیرید.",
+              "در صورت درد قفسهٔ سینه، دشواری شدید تنفس، تشنج یا از حال رفتن با اورژانس تماس بگیرید. اگر خستگی همچنان در کار یا زندگی روزانه‌تان اختلال ایجاد می‌کند، در ویزیت بارداری مطرح کنید تا علت‌های احتمالی بررسی شود و برای آن کمک بگیرید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "کافئین هر وعده، تعداد وعده‌ها و منابع گیاهی کافئین مانند گوارانا را روی برچسب پیدا کنید.",
+          "در بارداری به جای نوشیدنی انرژی‌زا یک گزینهٔ بدون کافئین انتخاب کنید.",
+          "اگر مقدار زیاد یا نامعلومی مصرف کرده‌اید یا علائمی دارید، بسته‌بندی را نگه دارید و مشورت بگیرید."
+        ],
+        "faq": [
+          {
+            "q": "آیا نوشیدنی انرژی‌زا در بارداری زیان‌آور است؟",
+            "a": "توصیه می‌شود از نوع کافئین‌دار پرهیز کنید، چون مقدار کافئین متغیر است و ایمنی ترکیبات افزوده یا مخلوط آن‌ها مشخص نیست. یک بار مصرف به معنی آسیب قطعی به بارداری نیست."
+          },
+          {
+            "q": "اگر کم قهوه می‌خورم چرا باید از این نوشیدنی‌ها پرهیز کنم؟",
+            "a": "کافئین منابع مختلف در طول روز با هم جمع می‌شود. یک نوشیدنی غلیظ ممکن است چند وعده باشد و لازم است ترکیبات دیگر آن نیز جداگانه بررسی شوند."
+          },
+          {
+            "q": "روی برچسب دنبال چه موادی بگردم؟",
+            "a": "مقدار کل کافئین، تعداد وعده‌های قوطی، گوارانا و هر محرک یا عصارهٔ دیگر را بررسی کنید. محصول بدون قند می‌تواند کافئین داشته باشد. اگر برچسب روشن نیست، نوشیدنی دیگری بردارید."
+          },
+          {
+            "q": "آیا جینسینگ برای دوران بارداری مناسب است؟",
+            "a": "شواهد دربارهٔ ایمنی جینسینگ آسیایی در بارداری کم است و بعضی یافته‌ها نگران‌کننده‌اند. پیش از شروع مکمل جینسینگ یا نوشیدنی حاوی آن، با تیم مراقبت بارداری یا داروساز مشورت کنید."
+          }
+        ],
+        "evidence": {
+          "updated": "مرور شواهد در ۱۶ نوامبر ۲۰۲۶",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "کافئین کل بسته از جمله کافئین حاصل از گوارانا را بررسی کنید.",
+            "برای مصرف روزمره آب یا نوشیدنی بدون کافئین انتخاب کنید.",
+            "اگر دربارهٔ میزان مصرف نگران هستید، بسته را به پزشک، ماما یا مرکز اطلاع‌رسانی مسمومیت نشان دهید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند پیش از تماس، با توجه به اندازهٔ هر وعده و تعداد وعده‌های قوطی خودتان مقدار مصرف را تخمین بزنید.",
+          "safety": "اگر مقدار مصرف زیاد یا نامشخص بوده، کافئین غلیظ خورده‌اید یا احساس ناخوشی می‌کنید، زود راهنمایی بگیرید. در صورت درد قفسهٔ سینه، دشواری شدید تنفس، تشنج یا از حال رفتن با اورژانس تماس بگیرید.",
+          "sources": [
+            {
+              "organization": "وزارت بهداشت کانادا",
+              "title": "برچسب نوشیدنی‌های انرژی‌زای کافئین‌دار و توصیه‌های دوران بارداری",
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/caffeinated-energy-drinks-what-you-should-know"
+            },
+            {
+              "organization": "سرویس ملی سلامت بریتانیا",
+              "title": "خوراکی‌ها و کافئین در بارداری؛ چه چیزهایی را باید محدود کرد؟",
+              "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/"
+            },
+            {
+              "organization": "دینگ و همکاران، نشریهٔ جاما نتورک اوپن",
+              "title": "مصرف نوشیدنی انرژی‌زا پیش از بارداری و در دوران بارداری در دو مطالعهٔ هم‌گروهی آینده‌نگر",
+              "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2812078"
+            },
+            {
+              "organization": "مرکز ملی سلامت مکمل و یکپارچهٔ آمریکا",
+              "title": "ایمنی جینسینگ آسیایی در بارداری",
+              "url": "https://www.nccih.nih.gov/health/asian-ginseng"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "مشروبات الطاقة أثناء الحمل: كيف تقرئين الملصق؟",
+        "description": "تعرّفي إلى سبب التوصية بتجنّب مشروبات الطاقة أثناء الحمل، وكيف تحسبين كمية الكافيين في العبوة كاملة، ومتى تطلبين المشورة إذا كنت قد شربت منها بالفعل.",
+        "intro": "في منتصف الدوام تمتد يدك إلى علبة مشروب طاقة. قبل فتحها، ابحثي عمّا يقصده الملصق بالحصة الواحدة، ثم تحققي من كمية الكافيين والمكونات العشبية. لا يخبرك صغر حجم العلبة أو وصفها بأنها خالية من السكر بكمية المواد المنبهة داخلها.",
+        "sections": [
+          {
+            "heading": "احسبي كمية الكافيين في العبوة كاملة",
+            "paragraphs": [
+              "قد يأتي الكافيين من الكافيين المضاف ومن مكونات مثل الغوارانا. وقد تحتوي عبوة صغيرة من مشروب مركز على كمية كبيرة منه. إذا كانت الحصة الواحدة تحتوي على ٨٠ ملغ وكانت العلبة تضم حصتين، ففي العلبة كلها ١٦٠ ملغ من الكافيين. وإذا كان الرقم لكل ١٠٠ مل، فاضربيه في عدد وحدات الـ١٠٠ مل التي تشربينها.",
+              "توصي هيئة الخدمات الصحية الوطنية البريطانية بألّا يتجاوز مجموع الكافيين في الحمل ٢٠٠ ملغ في اليوم من جميع المصادر، ومنها القهوة والشاي ومشروبات الكولا والشوكولاتة. وتوصي وزارة الصحة الكندية بتجنّب مشروبات الطاقة المحتوية على الكافيين أثناء الحمل. احسبي ما تناولته بالفعل، وتذكّري أن الحد اليومي للكافيين لا يثبت سلامة مزيج من المنبهات."
+            ]
+          },
+          {
+            "heading": "ماذا عن المكونات الأخرى؟",
+            "paragraphs": [
+              "تختلف المنتجات، فقد تحتوي على السكر أو المحليات، أو التورين، أو فيتامينات مضافة أو مستخلصات عشبية. وتضيف الغوارانا كافيين إلى المجموع. المعلومات عن سلامة الجنسنغ الآسيوي، المعروف أيضًا باسم باناكس جنسِنغ، أثناء الحمل محدودة، وهناك بعض الأدلة على احتمال الضرر. استشيري فريق رعاية الحمل أو الصيدلي قبل تناول أي مستحضر عشبي.",
+              "وجود قائمة طويلة من المكونات لا يثبت أن كل واحد منها ضار، ولا يثبت أن هذا المزيج بهذه الجرعة آمن أثناء الحمل. لإرواء العطش أو عند أخذ استراحة في العمل، اختاري الماء أو مشروبًا آخر خاليًا من الكافيين والمنبهات المضافة."
+            ]
+          },
+          {
+            "heading": "ماذا تخبرنا الدراسات؟",
+            "paragraphs": [
+              "تناولت إحدى الدراسات بيانات عن شرب مشروبات الطاقة قبل الحمل في ٧٬٣٠٤ حالات حمل، وبيانات عن شربها خلال الحمل في ٤٬٥٥٩ حالة. ارتبط شربها قبل الحمل بزيادة خطر الإصابة بارتفاع ضغط الدم الحملي. وذكرت قلة من المشاركات أنهن شربنها خلال الحمل. لم تثبت الدراسة أن المشروب سبّب ارتفاع الضغط أو أن كمية محددة منه آمنة."
+            ]
+          },
+          {
+            "heading": "إذا كنت قد شربت منها بالفعل",
+            "paragraphs": [
+              "احتفظي بالملصق أو صوّريه. دوّني الكمية والوقت ومصادر الكافيين الأخرى التي تناولتها في اليوم نفسه، وكذلك ما تشعرين به. لا تكفي مرة واحدة للقول إن الجنين قد تضرر. إذا كانت الكمية كبيرة أو مجهولة، أو تناولت منتجًا مركزًا، أو شعرت بتوعّك، فبادري بالاتصال بفريق رعاية الحمل أو مركز السموم المحلي للحصول على مشورة تناسب حالتك.",
+              "اتصلي بالإسعاف عند حدوث ألم في الصدر أو صعوبة شديدة في التنفس أو نوبة تشنج أو انهيار مفاجئ. وإذا استمر التعب في التأثير في عملك أو حياتك اليومية، فاذكري ذلك في موعد متابعة الحمل حتى يبحث الفريق في الأسباب ويقدّم لك الدعم."
+            ]
+          }
+        ],
+        "takeaways": [
+          "ابحثي عن الكافيين في الحصة، وعدد الحصص، والمصادر النباتية للكافيين مثل الغوارانا.",
+          "اختاري بديلًا خاليًا من الكافيين لمشروبات الطاقة خلال الحمل.",
+          "احتفظي بالعبوة واطلبي المشورة إذا تناولت كمية كبيرة أو غير معلومة أو ظهرت عليك أعراض."
+        ],
+        "faq": [
+          {
+            "q": "هل تضرّ مشروبات الطاقة بالحمل؟",
+            "a": "يُنصح بتجنّب مشروبات الطاقة المحتوية على الكافيين لأن كميته تختلف ولأن سلامة المكونات الأخرى أو خلطها غير مؤكدة. شرب مشروب واحد لا يثبت تضرر الحمل."
+          },
+          {
+            "q": "لماذا أتجنبها إذا كنت أقلل القهوة؟",
+            "a": "تتراكم كمية الكافيين من مختلف المصادر على مدار اليوم. وقد تحتوي عبوة مشروب مركز على عدة حصص، هذا فضلًا عن ضرورة مراعاة مكوناته الأخرى."
+          },
+          {
+            "q": "ما المكونات التي أبحث عنها؟",
+            "a": "تحققي من إجمالي الكافيين، وعدد الحصص في العبوة، والغوارانا وأي منبهات أو مستخلصات أخرى. قد يحتوي المشروب الخالي من السكر على الكافيين. إذا لم يكن الملصق واضحًا، فاختاري مشروبًا آخر."
+          },
+          {
+            "q": "هل يناسب الجنسنغ فترة الحمل؟",
+            "a": "الأدلة على سلامة الجنسنغ الآسيوي أثناء الحمل محدودة، وتثير بعض النتائج القلق. استشيري فريق رعاية الحمل أو الصيدلي قبل البدء بمكمّل الجنسنغ أو بمشروب يحتوي عليه."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "تحقّقي من الكافيين في كامل العبوة، بما فيه الكافيين الآتي من الغوارانا.",
+            "اختاري الماء أو بديلًا خاليًا من الكافيين للشرب المعتاد.",
+            "اعرضي العبوة على مختص صحي أو على مركز السموم إذا كانت الكمية التي شربتها تثير القلق."
+          ],
+          "bemama": "تقترح بي ماما استخدام حجم الحصة وعدد الحصص المدونين على علبتك لتقدير ما شربته قبل الاتصال.",
+          "safety": "اطلبي المشورة سريعًا إذا كانت الكمية كبيرة أو مجهولة، أو كان الكافيين مركزًا، أو شعرت بتوعّك. اتصلي بالإسعاف في حال ألم الصدر أو صعوبة التنفس الشديدة أو نوبة تشنج أو انهيار مفاجئ.",
+          "sources": [
+            {
+              "organization": "وزارة الصحة الكندية",
+              "title": "ملصقات مشروبات الطاقة المحتوية على الكافيين والتوصيات أثناء الحمل",
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/caffeinated-energy-drinks-what-you-should-know"
+            },
+            {
+              "organization": "هيئة الخدمات الصحية الوطنية البريطانية",
+              "title": "الأطعمة والكافيين التي يُنصح بالحد منها خلال الحمل",
+              "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/"
+            },
+            {
+              "organization": "دينغ وزملاؤه، مجلة جاما نتورك أوبن",
+              "title": "استهلاك مشروبات الطاقة قبل الحمل وأثناءه في دراستين أترابيتين مستقبليتين",
+              "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2812078"
+            },
+            {
+              "organization": "المركز الوطني الأمريكي للصحة التكميلية والتكاملية",
+              "title": "سلامة الجنسنغ الآسيوي أثناء الحمل",
+              "url": "https://www.nccih.nih.gov/health/asian-ginseng"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Boissons énergisantes et grossesse : que dit l’étiquette ?",
+        "description": "Pourquoi éviter les boissons énergisantes pendant la grossesse ? Apprenez à calculer la caféine de la canette entière et à réagir si vous en avez déjà bu.",
+        "intro": "Au milieu de votre journée de travail, vous prenez une canette qui promet de l’énergie. Avant de l’ouvrir, vérifiez à quelle quantité correspond une portion. Cherchez ensuite la caféine totale et les ingrédients à base de plantes. Une petite canette ou la mention « sans sucre » ne renseigne guère sur la quantité de stimulant.",
+        "sections": [
+          {
+            "heading": "Comptez tout ce que contient la canette",
+            "paragraphs": [
+              "Une boisson énergisante peut contenir de la caféine ajoutée et de la caféine issue de plantes comme le guarana. Une petite dose concentrée peut en apporter beaucoup. Avec 80 mg par portion et deux portions dans la canette, le total atteint 160 mg. Si la teneur est indiquée pour 100 ml, multipliez-la par le nombre de portions de 100 ml que vous buvez.",
+              "Le NHS britannique recommande de ne pas dépasser 200 mg de caféine par jour pendant la grossesse, toutes sources confondues, dont le café, le thé, le cola et le chocolat. Santé Canada déconseille les boissons énergisantes caféinées pendant la grossesse. Tenez compte de votre consommation, sans prendre une limite de caféine pour une validation d’un mélange de stimulants."
+            ]
+          },
+          {
+            "heading": "Et les autres ingrédients ?",
+            "paragraphs": [
+              "Les formules varient : sucre ou édulcorants, taurine, vitamines ajoutées ou extraits de plantes peuvent figurer sur l’étiquette. Le guarana apporte de la caféine. La sécurité du ginseng asiatique, ou Panax ginseng, est mal connue pendant la grossesse et certains résultats suggèrent un risque. Avant de prendre un produit à base de plantes, demandez conseil à la maternité ou au pharmacien.",
+              "Une longue liste d’ingrédients ne signifie pas que chacun est dangereux. Elle ne montre pas non plus que l’association à cette dose est sûre pendant la grossesse. Pour étancher votre soif ou faire une pause au travail, choisissez de l’eau ou une autre boisson sans caféine ni stimulants ajoutés."
+            ]
+          },
+          {
+            "heading": "Ce que montrent les recherches",
+            "paragraphs": [
+              "Une étude a porté sur 7 304 grossesses avec des informations sur les boissons énergisantes consommées avant la grossesse et 4 559 avec des données sur la consommation pendant celle-ci. En boire avant la grossesse était associé à un risque plus élevé d’hypertension gestationnelle. Peu de participantes ont dit en boire pendant la grossesse. L’étude n’a établi ni qu’une boisson causait l’hypertension ni qu’une quantité donnée était sûre."
+            ]
+          },
+          {
+            "heading": "Si vous en avez déjà bu",
+            "paragraphs": [
+              "Gardez l’étiquette ou photographiez-la. Notez la quantité bue, l’heure, les autres sources de caféine de la journée et votre état. Une prise isolée ne prouve pas que le bébé a subi un dommage. Si la quantité est élevée ou incertaine, si le produit était concentré ou si vous vous sentez mal, contactez rapidement la maternité ou le centre antipoison local pour un conseil adapté.",
+              "Appelez les secours pour une douleur thoracique, de grandes difficultés à respirer, une convulsion ou un effondrement avec malaise. Si la fatigue gêne régulièrement votre travail ou votre quotidien, signalez-la lors du suivi de grossesse afin d’en rechercher les causes et de trouver du soutien."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Repérez la caféine par portion, le nombre de portions et les sources végétales comme le guarana.",
+          "Choisissez une boisson sans caféine à la place d’une boisson énergisante pendant la grossesse.",
+          "Gardez l’emballage et demandez conseil si la quantité était élevée ou incertaine ou si des symptômes apparaissent."
+        ],
+        "faq": [
+          {
+            "q": "Les boissons énergisantes sont-elles nocives pendant la grossesse ?",
+            "a": "Les boissons énergisantes caféinées sont déconseillées car la quantité de caféine varie et la sécurité des autres ingrédients ou de leur association est incertaine. Une boisson isolée ne prouve pas qu’il y a eu un dommage."
+          },
+          {
+            "q": "Pourquoi les éviter si je limite le café ?",
+            "a": "Les apports en caféine s’additionnent dans la journée. Une boisson concentrée peut contenir plusieurs portions et ses autres ingrédients posent une question distincte."
+          },
+          {
+            "q": "Quels ingrédients rechercher sur l’étiquette ?",
+            "a": "Vérifiez la caféine totale, les portions par emballage, le guarana et les autres stimulants ou extraits. Sans sucre ne signifie pas sans caféine. Si l’étiquette est ambiguë, choisissez une autre boisson."
+          },
+          {
+            "q": "Puis-je prendre du ginseng pendant la grossesse ?",
+            "a": "Les données sur la sécurité du ginseng asiatique sont limitées et certains résultats incitent à la prudence. Évitez de commencer un complément ou une boisson qui en contient sans conseil de la maternité ou du pharmacien."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Vérifiez la caféine de la canette entière, y compris celle issue du guarana.",
+            "Pour vous désaltérer, choisissez de l’eau ou une autre boisson sans caféine.",
+            "Montrez l’emballage au professionnel de santé ou au centre antipoison après une consommation préoccupante."
+          ],
+          "bemama": "BeMama vous suggère d’utiliser le volume d’une portion et le nombre de portions sur votre canette pour estimer la quantité consommée avant d’appeler.",
+          "safety": "Demandez rapidement conseil si la quantité est élevée ou incertaine, si la caféine est concentrée ou si vous vous sentez mal. Appelez les secours en cas de douleur thoracique, de détresse respiratoire, de convulsion ou de collapsus.",
+          "sources": [
+            {
+              "organization": "Santé Canada",
+              "title": "Étiquetage des boissons énergisantes caféinées et conseils pendant la grossesse",
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/caffeinated-energy-drinks-what-you-should-know"
+            },
+            {
+              "organization": "Service national de santé britannique",
+              "title": "Aliments et caféine à limiter pendant la grossesse",
+              "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/"
+            },
+            {
+              "organization": "Ding et ses collègues, JAMA Network Open",
+              "title": "Consommation de boissons énergisantes avant et pendant la grossesse dans deux cohortes prospectives",
+              "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2812078"
+            },
+            {
+              "organization": "Centre national américain de santé complémentaire et intégrative",
+              "title": "Sécurité du ginseng asiatique pendant la grossesse",
+              "url": "https://www.nccih.nih.gov/health/asian-ginseng"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Gebelikte enerji içecekleri: etikette nelere bakılır?",
+        "description": "Gebelikte enerji içeceklerinden neden kaçınılması önerilir? Kutunun tamamındaki kafeini nasıl hesaplayabileceğinizi ve içtiyseniz ne yapabileceğinizi öğrenin.",
+        "intro": "İş yerinde molaya çıktınız ve üzerinde “enerji” yazan bir kutu aldınız. Açmadan önce etikette bir porsiyonun ne kadar olduğuna bakın. Ardından toplam kafeini ve bitkisel içerikleri kontrol edin. Kutunun küçük olması ya da üzerinde “şekersiz” yazması, ne kadar uyarıcı içerdiğini göstermez.",
+        "sections": [
+          {
+            "heading": "Kutunun tamamını hesaba katın",
+            "paragraphs": [
+              "Enerji içeceklerinde eklenen kafeinin yanı sıra guarana gibi kafein içeren bitkiler bulunabilir. Küçük bir şişedeki konsantre ürün bile yüksek miktarda kafein içerebilir. Etikette porsiyon başına 80 mg kafein yazıyorsa ve kutuda iki porsiyon varsa kutunun tamamı 160 mg kafein içerir. Miktar 100 mL için verilmişse içtiğiniz miktarın kaç kez 100 mL ettiğini hesaplayıp bu sayıyla çarpın.",
+              "Birleşik Krallık Ulusal Sağlık Servisi gebelikte kahve, çay, kola ve çikolata dahil tüm kaynaklardan alınan kafeinin günde 200 mg'ı geçmemesini önerir. Kanada sağlık otoritesi gebelikte kafeinli enerji içeceklerinden kaçınılmasını tavsiye eder. Gün içinde aldığınız kafeini hesaba katın. Günlük kafein sınırı, farklı uyarıcıların karışımının güvenli olduğunu göstermez."
+            ]
+          },
+          {
+            "heading": "Diğer içerikler ne anlama gelir?",
+            "paragraphs": [
+              "Ürünlerde şeker veya tatlandırıcılar, taurin, ek vitaminler ya da bitkisel özler bulunabilir. Guarana da kafein kaynağıdır. Panax ginseng adıyla da bilinen Asya ginsenginin gebelikte güvenliği hakkında veriler sınırlıdır ve bazı bulgular zarar olasılığına işaret eder. Bitkisel bir ürün kullanmadan önce gebelik takibinizi yapan sağlık uzmanına ya da eczacınıza danışın.",
+              "İçindekiler listesinin uzun olması her bir maddenin zararlı olduğunu göstermez. Bu maddelerin o birleşimde ve o dozda gebelikte güvenli olduğu da listeden anlaşılamaz. Susadığınızda veya işte mola verdiğinizde su ya da ilave uyarıcı içermeyen kafeinsiz bir içecek seçebilirsiniz."
+            ]
+          },
+          {
+            "heading": "Araştırma ne gösteriyor?",
+            "paragraphs": [
+              "Bir araştırmada gebelik öncesinde enerji içeceği tüketimine ilişkin 7.304 gebeliğin, gebelik sırasındaki tüketime ilişkin ise 4.559 gebeliğin verileri incelendi. Gebelik öncesinde enerji içeceği tüketenlerde gebelik hipertansiyonu riski daha yüksek bulundu. Gebelik sırasında bu içecekleri tükettiğini bildiren az kişi vardı. Çalışma, içeceğin yüksek tansiyona yol açtığını veya belirli bir miktarın güvenli olduğunu gösteremedi."
+            ]
+          },
+          {
+            "heading": "Enerji içeceği içtiyseniz",
+            "paragraphs": [
+              "Etiketi saklayın ya da fotoğrafını çekin. Ne kadar ve ne zaman içtiğinizi, o gün başka hangi kaynaklardan kafein aldığınızı ve nasıl hissettiğinizi not edin. Bir kez içmek, bebeğin zarar gördüğünü göstermez. Miktar fazlaysa ya da belli değilse, konsantre ürün içtiyseniz veya kendinizi kötü hissediyorsanız gebelik takibinizi yapan ekibi ya da yerel zehir danışma merkezini gecikmeden arayın.",
+              "Göğüs ağrısı, ciddi nefes darlığı, nöbet veya yığılıp kalma durumunda acil yardım çağırın. Yorgunluk işinizi ya da günlük hayatınızı aksatmaya devam ediyorsa kontrolünüzde bundan söz edin. Ekibiniz olası nedenleri değerlendirip destek sunabilir."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Porsiyon başına kafeine, kutudaki porsiyon sayısına ve guarana gibi bitkisel kafein kaynaklarına bakın.",
+          "Gebelikte enerji içeceği yerine kafeinsiz bir seçenek tercih edin.",
+          "Fazla veya miktarı belirsiz bir içecek tükettiyseniz ya da belirtiler gelişirse ambalajı saklayıp danışın."
+        ],
+        "faq": [
+          {
+            "q": "Enerji içecekleri gebelikte zararlı mı?",
+            "a": "Kafein miktarı değiştiği ve eklenen diğer maddelerin tek başına veya birlikte güvenliği belirsiz olduğu için kafeinli enerji içecekleri önerilmez. Bir kez içmiş olmanız gebeliğin zarar gördüğünü kanıtlamaz."
+          },
+          {
+            "q": "Kahveyi zaten sınırlıyorsam neden kaçınmalıyım?",
+            "a": "Gün boyunca tüm kaynaklardan aldığınız kafein birbirine eklenir. Konsantre bir içecek birden çok porsiyon içerebilir. Diğer bileşenlerin güvenliği ayrıca değerlendirilir."
+          },
+          {
+            "q": "Etikette nelere bakmalıyım?",
+            "a": "Toplam kafeini, ambalajdaki porsiyon sayısını, guaranayı ve diğer uyarıcı veya bitki özlerini kontrol edin. Şekersiz bir ürün kafein içerebilir. Etiket anlaşılır değilse başka bir içecek seçin."
+          },
+          {
+            "q": "Ginseng gebelikte kullanılabilir mi?",
+            "a": "Asya ginsenginin gebelikte güvenli olduğuna dair kanıt azdır ve bazı bulgular kaygı vericidir. Ginseng takviyesine veya ginseng içeren bir içeceğe başlamadan önce gebelik takibinizi yapan uzmana ya da eczacınıza danışın."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Guaranadan gelen kafein dahil tüm kutudaki kafeini kontrol edin.",
+            "Günlük içecek olarak su veya başka bir kafeinsiz seçenek tercih edin.",
+            "Kaygı verici bir miktar aldıysanız ambalajı sağlık uzmanına ya da zehir danışma merkezine gösterin."
+          ],
+          "bemama": "BeMama, aramadan önce kutunuzdaki porsiyon miktarını ve sayısını kullanarak ne kadar içtiğinizi hesaplamanızı önerir.",
+          "safety": "Yüksek ya da belirsiz miktarda tüketim, konsantre kafein veya kendinizi kötü hissetme durumunda hemen danışın. Göğüs ağrısı, ciddi nefes darlığı, nöbet veya yığılıp kalma durumunda acil yardım çağırın.",
+          "sources": [
+            {
+              "organization": "Kanada Sağlık Bakanlığı",
+              "title": "Kafeinli enerji içeceği etiketleri ve gebelik önerileri",
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/caffeinated-energy-drinks-what-you-should-know"
+            },
+            {
+              "organization": "Birleşik Krallık Ulusal Sağlık Servisi",
+              "title": "Gebelikte sınırlanması önerilen yiyecekler ve kafein",
+              "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/"
+            },
+            {
+              "organization": "Ding ve çalışma arkadaşları, JAMA Network Open",
+              "title": "İki ileriye dönük kohortta gebelik öncesinde ve sırasında enerji içeceği tüketimi",
+              "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2812078"
+            },
+            {
+              "organization": "ABD Ulusal Tamamlayıcı ve Bütünleştirici Sağlık Merkezi",
+              "title": "Asya ginsenginin güvenliği ve gebelik",
+              "url": "https://www.nccih.nih.gov/health/asian-ginseng"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Bebidas energéticas en el embarazo: cómo leer la etiqueta",
+        "description": "Descubre por qué se desaconsejan las bebidas energéticas en el embarazo, cómo sumar la cafeína de toda la lata y qué hacer si ya has tomado una.",
+        "intro": "A mitad de la jornada coges una lata que dice «energía». Antes de abrirla, mira a qué cantidad llama una porción. Busca la cafeína total y los ingredientes herbales. Ni una lata pequeña ni la mención «sin azúcar» indican cuánto estimulante contiene.",
+        "sections": [
+          {
+            "heading": "Cuenta lo que contiene todo el envase",
+            "paragraphs": [
+              "Las bebidas energéticas pueden contener cafeína añadida y cafeína procedente de ingredientes como el guaraná. Un concentrado pequeño puede aportar una cantidad considerable. Si la etiqueta indica 80 mg por porción y la lata contiene dos porciones, toda la lata aporta 160 mg. Si indica cafeína por 100 ml, multiplica por el número de porciones de 100 ml que bebas.",
+              "El NHS británico aconseja no superar los 200 mg diarios de cafeína durante el embarazo, sumando café, té, bebidas de cola, chocolate y otras fuentes. El Ministerio de Salud de Canadá aconseja evitar las bebidas energéticas con cafeína durante el embarazo. Cuenta lo que ya hayas tomado. Un límite de cafeína diario no avala una mezcla de estimulantes."
+            ]
+          },
+          {
+            "heading": "¿Qué ocurre con los demás ingredientes?",
+            "paragraphs": [
+              "Las fórmulas varían. Pueden contener azúcar o edulcorantes, taurina, vitaminas añadidas o extractos vegetales. El guaraná aporta cafeína. Hay pocos datos sobre la seguridad del ginseng asiático, también llamado Panax ginseng, en el embarazo y algunos indicios de posibles riesgos. Antes de tomar un producto herbal, consulta al equipo de maternidad o al farmacéutico.",
+              "Una lista larga no significa que cada ingrediente sea dañino. Tampoco demuestra que la mezcla y su dosis sean seguras en el embarazo. Para calmar la sed o hacer una pausa en el trabajo, elige agua u otra bebida sin cafeína ni estimulantes añadidos."
+            ]
+          },
+          {
+            "heading": "Qué se ha investigado",
+            "paragraphs": [
+              "Un estudio analizó 7.304 embarazos con información sobre el consumo de bebidas energéticas antes del embarazo y 4.559 con datos sobre el consumo durante la gestación. El consumo antes del embarazo se asoció con mayor riesgo de hipertensión gestacional. Pocas participantes declararon beberlas durante el embarazo. El estudio no demostró que causaran hipertensión ni que una cantidad determinada fuera segura."
+            ]
+          },
+          {
+            "heading": "Si ya has tomado una",
+            "paragraphs": [
+              "Guarda la etiqueta o hazle una foto. Anota cuánto bebiste, a qué hora, las demás fuentes de cafeína del día y cómo te encuentras. Una sola exposición no demuestra que el bebé haya sufrido daño. Si la cantidad es elevada o incierta, has tomado un concentrado o te encuentras mal, contacta pronto con el equipo de maternidad o el centro de toxicología de tu zona para recibir asesoramiento individual.",
+              "Llama a emergencias si tienes dolor torácico, dificultad respiratoria intensa, una convulsión o un colapso. Si el cansancio afecta habitualmente a tu trabajo o tu vida diaria, coméntalo en la consulta prenatal para que el equipo estudie las posibles causas y te ayude."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Busca la cafeína por porción, las porciones del envase y las fuentes vegetales como el guaraná.",
+          "Elige una alternativa sin cafeína a las bebidas energéticas durante el embarazo.",
+          "Conserva el envase y pide orientación si la cantidad fue elevada o incierta o tienes síntomas."
+        ],
+        "faq": [
+          {
+            "q": "¿Son nocivas las bebidas energéticas durante el embarazo?",
+            "a": "Las bebidas energéticas con cafeína se desaconsejan porque la cantidad de cafeína varía y no está clara la seguridad de otros ingredientes o de sus mezclas. Una sola bebida no demuestra que el embarazo haya sufrido daño."
+          },
+          {
+            "q": "¿Por qué evitarlas si limito el café?",
+            "a": "La cafeína se suma a lo largo del día. Un concentrado puede contener varias porciones y sus otros ingredientes también merecen consideración."
+          },
+          {
+            "q": "¿En qué ingredientes debo fijarme?",
+            "a": "Revisa la cafeína total, las porciones por envase, el guaraná y otros estimulantes o extractos. Sin azúcar no significa sin cafeína. Si la etiqueta no está clara, elige otra bebida."
+          },
+          {
+            "q": "¿Es adecuado el ginseng en el embarazo?",
+            "a": "Hay pocos datos de seguridad sobre el ginseng asiático en el embarazo y algunos hallazgos son preocupantes. Evita iniciar un suplemento o una bebida que lo contenga sin asesorarte con el equipo de maternidad o un farmacéutico."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Comprueba la cafeína del envase entero, incluida la que procede del guaraná.",
+            "Elige agua u otra bebida sin cafeína para calmar la sed.",
+            "Muestra el envase al profesional sanitario o al centro de toxicología tras una exposición preocupante."
+          ],
+          "bemama": "BeMama sugiere usar el tamaño de la porción y el número de porciones de tu lata para calcular cuánto has tomado antes de llamar.",
+          "safety": "Pide orientación sin demora por cantidades elevadas o inciertas, cafeína concentrada o malestar. Llama a emergencias por dolor en el pecho, dificultad respiratoria intensa, convulsión o colapso.",
+          "sources": [
+            {
+              "organization": "Ministerio de Salud de Canadá",
+              "title": "Etiquetado de bebidas energéticas con cafeína y consejos durante el embarazo",
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/caffeinated-energy-drinks-what-you-should-know"
+            },
+            {
+              "organization": "Servicio Nacional de Salud del Reino Unido",
+              "title": "Alimentos y cafeína que conviene limitar durante el embarazo",
+              "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/"
+            },
+            {
+              "organization": "Ding y colaboradores, JAMA Network Open",
+              "title": "Consumo de bebidas energéticas antes y durante el embarazo en dos cohortes prospectivas",
+              "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2812078"
+            },
+            {
+              "organization": "Centro Nacional de Salud Complementaria e Integrativa de Estados Unidos",
+              "title": "Seguridad del ginseng asiático en el embarazo",
+              "url": "https://www.nccih.nih.gov/health/asian-ginseng"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Bebidas energéticas na gravidez: como ler o rótulo",
+        "description": "Saiba por que evitar energéticos na gravidez, como calcular a cafeína de uma lata inteira e o que fazer se já tomou uma bebida com estimulantes.",
+        "intro": "No meio do expediente, você pega uma lata que promete dar energia. Antes de abrir, veja o que o rótulo considera uma porção. Procure a quantidade total de cafeína e os ingredientes de origem vegetal. O tamanho da lata e a expressão “sem açúcar” dizem pouco sobre a quantidade de estimulantes.",
+        "sections": [
+          {
+            "heading": "Faça a conta para a embalagem inteira",
+            "paragraphs": [
+              "Além da cafeína adicionada, algumas bebidas contêm ingredientes como o guaraná, que também fornece cafeína. Uma dose concentrada pode ter bastante cafeína em pouco líquido. Se o rótulo informa 80 mg por porção e há duas porções na lata, a lata inteira contém 160 mg. Se o valor estiver expresso por 100 mL, multiplique pelo número de porções de 100 mL que você beber.",
+              "O serviço de saúde britânico NHS orienta limitar a cafeína a 200 mg por dia na gravidez, somando café, chá, refrigerantes de cola, chocolate e outras fontes. A autoridade de saúde do Canadá recomenda evitar energéticos com cafeína na gravidez. Some o que já consumiu. O limite diário de cafeína não atesta a segurança de uma mistura de estimulantes."
+            ]
+          },
+          {
+            "heading": "O que mais pode haver na bebida?",
+            "paragraphs": [
+              "A composição varia. Pode incluir açúcar ou adoçantes, taurina, vitaminas adicionadas e extratos vegetais. O guaraná entra na conta da cafeína. Há poucos dados sobre a segurança do ginseng asiático, também chamado Panax ginseng, na gravidez, e alguns resultados sugerem possíveis riscos. Consulte a equipe do pré-natal ou um farmacêutico antes de usar um produto à base de plantas.",
+              "Uma longa lista de ingredientes não demonstra que cada um faça mal. Tampouco comprova a segurança daquela combinação e dose na gravidez. Para matar a sede ou fazer uma pausa no trabalho, prefira água ou outra bebida sem cafeína nem estimulantes adicionados."
+            ]
+          },
+          {
+            "heading": "O que foi observado em estudos",
+            "paragraphs": [
+              "Um estudo reuniu dados de 7.304 gestações sobre o consumo de energéticos antes da gravidez e de 4.559 gestações sobre o consumo durante a gravidez. O consumo antes da gestação esteve associado a maior risco de hipertensão gestacional. Poucas participantes relataram beber energéticos durante a gravidez. O estudo não demonstrou que a bebida causou pressão alta nem identificou uma quantidade segura."
+            ]
+          },
+          {
+            "heading": "Se você já tomou uma bebida energética",
+            "paragraphs": [
+              "Guarde o rótulo ou tire uma foto. Anote quanto bebeu, o horário, outras fontes de cafeína que consumiu naquele dia e como se sente. Um episódio isolado não permite concluir que houve dano ao bebê. Se a quantidade foi grande ou incerta, se tomou um produto concentrado ou se está passando mal, entre logo em contato com a equipe do pré-natal ou o centro de informação toxicológica da sua região.",
+              "Chame o serviço de emergência em caso de dor no peito, dificuldade intensa para respirar, convulsão ou colapso. Se o cansaço continuar atrapalhando o trabalho ou a rotina, mencione isso na consulta de pré-natal para que a equipe avalie possíveis causas e ofereça apoio."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Confira a cafeína por porção, o número de porções na embalagem e fontes vegetais como o guaraná.",
+          "Durante a gravidez, escolha uma opção sem cafeína no lugar do energético.",
+          "Guarde a embalagem e procure orientação se tomou uma quantidade grande ou incerta ou se surgirem sintomas."
+        ],
+        "faq": [
+          {
+            "q": "As bebidas energéticas fazem mal na gravidez?",
+            "a": "Recomenda-se evitar energéticos com cafeína porque o teor varia e há dúvidas sobre a segurança de outros ingredientes e de suas combinações. Tomar uma bebida não prova que houve dano à gestação."
+          },
+          {
+            "q": "Por que evitá-las se já tomo pouco café?",
+            "a": "A cafeína de várias fontes se soma ao longo do dia. Uma bebida concentrada pode conter várias porções, e os demais ingredientes precisam ser considerados à parte."
+          },
+          {
+            "q": "Que ingredientes devo procurar?",
+            "a": "Veja a cafeína total, as porções por embalagem e a presença de guaraná, outros estimulantes ou extratos. Uma bebida sem açúcar pode conter cafeína. Se o rótulo for pouco claro, escolha outra."
+          },
+          {
+            "q": "Posso usar ginseng na gravidez?",
+            "a": "Há poucos dados de segurança sobre o ginseng asiático na gravidez e alguns achados preocupam. Antes de começar a tomar um suplemento ou uma bebida que o contenha, procure orientação da equipe do pré-natal ou de um farmacêutico."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Confira a cafeína de toda a embalagem, inclusive a que vem do guaraná.",
+            "Para o dia a dia, escolha água ou outra opção sem cafeína.",
+            "Mostre a embalagem à equipe de saúde ou ao centro de informação toxicológica se a exposição for preocupante."
+          ],
+          "bemama": "A BeMama sugere usar o volume de cada porção e o número de porções da sua lata para estimar quanto bebeu antes de telefonar.",
+          "safety": "Procure orientação rapidamente se a quantidade foi grande ou incerta, se ingeriu cafeína concentrada ou se está passando mal. Dor no peito, dificuldade intensa para respirar, convulsão ou colapso exigem o serviço de emergência.",
+          "sources": [
+            {
+              "organization": "Ministério da Saúde do Canadá",
+              "title": "Rótulos de energéticos com cafeína e orientações durante a gravidez",
+              "url": "https://recalls-rappels.canada.ca/en/alert-recall/caffeinated-energy-drinks-what-you-should-know"
+            },
+            {
+              "organization": "Serviço Nacional de Saúde do Reino Unido",
+              "title": "Alimentos e cafeína a limitar durante a gravidez",
+              "url": "https://www.nhs.uk/pregnancy/keeping-well/foods-to-avoid/"
+            },
+            {
+              "organization": "Ding e colaboradores, JAMA Network Open",
+              "title": "Consumo de energéticos antes e durante a gravidez em duas coortes prospectivas",
+              "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2812078"
+            },
+            {
+              "organization": "Centro Nacional de Saúde Complementar e Integrativa dos Estados Unidos",
+              "title": "Segurança do ginseng asiático na gravidez",
+              "url": "https://www.nccih.nih.gov/health/asian-ginseng"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5905.webp",
+    "heroAlt": {
+      "en": "A pregnant woman checks a drinks can label beside a glass and carafe of water.",
+      "es": "Una embarazada revisa la etiqueta de una lata junto a un vaso y una jarra de agua.",
+      "fr": "Une femme enceinte examine l’étiquette d’une canette près d’un verre et d’une carafe d’eau.",
+      "pt": "Uma grávida verifica o rótulo de uma lata junto de um copo e de um jarro de água.",
+      "tr": "Hamile bir kadın bir bardak ve su sürahisinin yanında içecek kutusunun etiketini inceliyor.",
+      "fa": "زنی باردار کنار یک لیوان و پارچ آب، برچسب قوطی نوشیدنی را بررسی می‌کند.",
+      "ar": "امرأة حامل تقرأ ملصق عبوة مشروب بجانب كأس وإبريق ماء."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "Energy drinks in pregnancy: what the label can tell you",
+      "description": "Learn why energy drinks are discouraged in pregnancy, how to count caffeine across a whole can and what to do if you have already had an energy drink."
+    },
+    "fa": {
+      "title": "نوشیدنی انرژی‌زا در بارداری؛ از روی برچسب چه می‌توان فهمید؟",
+      "description": "ببینید چرا بهتر است در بارداری نوشیدنی انرژی‌زا نخورید، چطور مقدار کافئین یک قوطی کامل را حساب کنید و اگر قبلاً از آن نوشیده‌اید، چه زمانی مشورت بگیرید."
+    },
+    "ar": {
+      "title": "مشروبات الطاقة أثناء الحمل: كيف تقرئين الملصق؟",
+      "description": "تعرّفي إلى سبب التوصية بتجنّب مشروبات الطاقة أثناء الحمل، وكيف تحسبين كمية الكافيين في العبوة كاملة، ومتى تطلبين المشورة إذا كنت قد شربت منها بالفعل."
+    },
+    "fr": {
+      "title": "Boissons énergisantes et grossesse : que dit l’étiquette ?",
+      "description": "Pourquoi éviter les boissons énergisantes pendant la grossesse ? Apprenez à calculer la caféine de la canette entière et à réagir si vous en avez déjà bu."
+    },
+    "tr": {
+      "title": "Gebelikte enerji içecekleri: etikette nelere bakılır?",
+      "description": "Gebelikte enerji içeceklerinden neden kaçınılması önerilir? Kutunun tamamındaki kafeini nasıl hesaplayabileceğinizi ve içtiyseniz ne yapabileceğinizi öğrenin."
+    },
+    "es": {
+      "title": "Bebidas energéticas en el embarazo: cómo leer la etiqueta",
+      "description": "Descubre por qué se desaconsejan las bebidas energéticas en el embarazo, cómo sumar la cafeína de toda la lata y qué hacer si ya has tomado una."
+    },
+    "pt": {
+      "title": "Bebidas energéticas na gravidez: como ler o rótulo",
+      "description": "Saiba por que evitar energéticos na gravidez, como calcular a cafeína de uma lata inteira e o que fazer se já tomou uma bebida com estimulantes."
+    }
+  }
+}

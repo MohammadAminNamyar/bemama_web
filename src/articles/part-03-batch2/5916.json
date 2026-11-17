@@ -1,0 +1,695 @@
+{
+  "sourceId": "5916",
+  "article": {
+    "slug": "baby-and-child/vitamin-k-deficiency-in-older-children",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "When vitamin K deficiency is a concern in an older child",
+        "description": "Learn how poor absorption and some medicines affect vitamin K, which changes in bleeding need urgent care, and what a clinician may check in an older child.",
+        "intro": "A child with a condition that affects the flow of bile has started bruising more easily. Their care team wants to know when it began, what medicines they take and whether they have had other bleeding. A vitamin K problem is one possible explanation. The same bruises in another child could have a different cause, so a new pattern deserves assessment.",
+        "sections": [
+          {
+            "heading": "What makes deficiency more likely?",
+            "paragraphs": [
+              "Vitamin K helps the body make proteins that allow blood to clot. Beyond infancy, clinically important deficiency is uncommon in otherwise healthy children eating a varied diet. Leafy green vegetables supply vitamin K1. Other forms are found in some foods and made by bacteria in the gut.",
+              "Vitamin K dissolves in fat. A child with impaired bile flow, cystic fibrosis with poor fat absorption or a shortened intestine may have trouble absorbing enough. A prolonged antibiotic course together with poor intake can also matter. A routine short course usually does not call for a vitamin supplement. If your child takes warfarin, keep their usual vitamin K intake consistent and speak with the prescribing team before changing foods, medicines or supplements."
+            ]
+          },
+          {
+            "heading": "Which bleeding needs attention?",
+            "paragraphs": [
+              "Tell the child’s clinician about new unexplained bruises, repeated bleeding from the gums or nose, or bleeding that lasts longer than usual after a minor injury. Include any blood in urine or stool. When a child takes a blood thinner or has known liver disease, use their care team’s plan for reporting bleeding.",
+              "Get emergency help for heavy or uncontrolled bleeding, vomiting blood, black tarry stools with weakness or faintness, or a child who is hard to wake. Black tarry stools need urgent medical assessment even if the child seems well. A photograph or medication list can help a clinician, but getting help comes first."
+            ]
+          },
+          {
+            "heading": "How the clinician investigates it",
+            "paragraphs": [
+              "An examination and questions about illness, diet, medicine and family bleeding history help narrow the possibilities. Tests may include a blood count, a prothrombin time or INR to assess clotting and tests of liver function. A prolonged clotting time has several possible explanations. A value from a home search cannot tell you which one applies.",
+              "In a study of children with chronic liver disease, some had normal routine prothrombin results but an abnormal specialised marker of vitamin K status. This was a selected group with liver disease. It does not justify screening every child with a bruise. The team chooses further tests according to the child’s symptoms and risks."
+            ]
+          },
+          {
+            "heading": "Treatment and follow-up",
+            "paragraphs": [
+              "If deficiency is suspected or confirmed, clinicians decide whether vitamin K is needed, how to give it and when to recheck the response. Active bleeding may also need urgent treatment in hospital. When absorption is impaired, adding greens to meals alone may not correct the problem. Ask which team will follow the underlying illness and repeat the tests.",
+              "Newborns have a separate risk. Little vitamin K crosses the placenta, breast milk contains small amounts and the early gut has few vitamin K-producing bacteria. The vitamin K injection at birth protects against infant vitamin K deficiency bleeding. Serious bleeding can occur without warning. If a baby missed the injection, contact their clinician promptly about protection."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Report a new pattern of spontaneous or prolonged bleeding and any relevant medicines.",
+          "Disorders that limit fat absorption can prevent a child from using vitamin K in food.",
+          "Keep prescribed medication and supplements unchanged until the treating team advises you."
+        ],
+        "faq": [
+          {
+            "q": "What signs of deficiency can appear in a baby?",
+            "a": "There may be no warning before severe bleeding. Bleeding from the umbilical area, unusual bruising or black tarry stool needs urgent assessment. A seizure, difficulty waking, vomiting blood or heavy bleeding needs emergency help."
+          },
+          {
+            "q": "What symptoms can an older child have?",
+            "a": "Easy bruising, prolonged bleeding or bleeding from the gums, nose or digestive tract can occur. Many other conditions can produce the same signs. Seek assessment for a new pattern and emergency help for heavy bleeding or a child who becomes very unwell."
+          },
+          {
+            "q": "What causes low vitamin K in an older child?",
+            "a": "Impaired fat absorption from some liver or intestinal conditions can reduce uptake. Prolonged antibiotics with poor intake may contribute. Warfarin interferes with vitamin K activity and requires careful monitoring. Ask about your child’s specific risk before giving a supplement."
+          },
+          {
+            "q": "Why are babies at risk even when they feed well?",
+            "a": "They start with small reserves because little vitamin K crosses the placenta. Breast milk contains relatively little, and newborn gut bacteria do not yet provide enough. The preventive injection at birth addresses this risk."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Take a medication list and describe when the bleeding pattern changed.",
+            "Ask what the clotting results mean in the context of the child’s condition.",
+            "Get urgent care for suspected internal bleeding and emergency help for severe bleeding or altered alertness."
+          ],
+          "bemama": "BeMama suggests bringing the names of prescribed medicines, vitamins and recent antibiotics to the visit. A change in treatment or absorption can matter even when meals have stayed much the same.",
+          "safety": "Heavy or uncontrolled bleeding, vomiting blood, a seizure or difficulty waking needs emergency help. Seek urgent assessment for black tarry stool. Do not use a supplement to treat unexplained bleeding at home.",
+          "sources": [
+            {
+              "organization": "National Institutes of Health Office of Dietary Supplements",
+              "title": "Vitamin K absorption, sources and medication interactions",
+              "url": "https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/"
+            },
+            {
+              "organization": "Mager and colleagues, Journal of Pediatric Gastroenterology and Nutrition",
+              "title": "Vitamin K status in children with chronic liver disease",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16385257/"
+            },
+            {
+              "organization": "Centers for Disease Control and Prevention",
+              "title": "Infant vitamin K deficiency bleeding and warning signs",
+              "url": "https://www.cdc.gov/vitamin-k-deficiency/about/index.html"
+            },
+            {
+              "organization": "Perth Children’s Hospital",
+              "title": "Assessment of children with unusual bruising or bleeding",
+              "url": "https://www.health.wa.gov.au/sitecore/content/Hospitals/PCH/Home/For-health-professionals/Referrals-to-PCH/Prereferral-guidelines/Bruising-or-bleeding"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "کمبود ویتامین K در کودکان بزرگ‌تر چه زمانی مطرح می‌شود؟",
+        "description": "ببینید اختلال جذب و بعضی داروها چطور بر ویتامین K اثر می‌گذارند، کدام تغییرات خونریزی به رسیدگی فوری نیاز دارند و پزشک در کودک بزرگ‌تر چه چیزی را بررسی می‌کند.",
+        "intro": "کودکی که دچار اختلال در جریان صفراست، به‌تازگی بدنش آسان‌تر کبود می‌شود. تیم درمان می‌پرسد این تغییر از کی شروع شده، چه داروهایی مصرف می‌کند و آیا جای دیگری هم خونریزی کرده است. مشکل ویتامین K یکی از توضیح‌های ممکن است. همین کبودی‌ها در کودکی دیگر شاید علت متفاوتی داشته باشند. تغییر تازه ارزش ارزیابی دارد.",
+        "sections": [
+          {
+            "heading": "چه چیزی احتمال کمبود را بیشتر می‌کند؟",
+            "paragraphs": [
+              "ویتامین K به بدن در ساخت پروتئین‌های لازم برای لخته شدن خون کمک می‌کند. پس از دوره شیرخوارگی، کمبودی که از نظر بالینی مهم باشد در کودکان سالم با تغذیه متنوع نادر است. سبزی‌های برگ‌سبز ویتامین K۱ دارند. شکل‌های دیگر در برخی غذاها پیدا می‌شوند و باکتری‌های روده هم بعضی از آن‌ها را می‌سازند.",
+              "ویتامین K محلول در چربی است. کودکی که جریان صفرایش مختل شده، به‌دلیل فیبروز کیستیک چربی را خوب جذب نمی‌کند یا روده‌اش کوتاه شده شاید مقدار کافی جذب نکند. مصرف طولانی‌مدت آنتی‌بیوتیک همراه با دریافت کم غذا هم می‌تواند مؤثر باشد. یک دوره کوتاه معمولی عموماً نیاز به مکمل ایجاد نمی‌کند. اگر کودکتان وارفارین می‌گیرد، میزان معمول ویتامین K دریافتی او را ثابت نگه دارید و پیش از تغییر غذا، دارو یا مکمل با تیم تجویزکننده صحبت کنید."
+            ]
+          },
+          {
+            "heading": "کدام خونریزی را باید جدی گرفت؟",
+            "paragraphs": [
+              "کبودی‌های تازه و بی‌علت مشخص، خونریزی مکرر لثه یا بینی یا خونی را که پس از یک آسیب کوچک دیرتر از معمول بند می‌آید به پزشک اطلاع دهید. خون در ادرار یا مدفوع را هم ذکر کنید. برای کودکی که داروی ضدانعقاد مصرف می‌کند یا بیماری کبدی شناخته‌شده دارد، برنامه تیم درمان برای گزارش خونریزی را دنبال کنید.",
+              "برای خونریزی شدید یا مهارنشدنی، استفراغ خونی، مدفوع سیاه و قیری همراه با ضعف یا احساس غش، یا کودکی که به سختی بیدار می‌شود کمک اورژانسی بگیرید. مدفوع سیاه و قیری حتی اگر حال کودک ظاهراً خوب باشد به ارزیابی فوری نیاز دارد. عکس یا فهرست داروها به پزشک کمک می‌کند، ولی اول کمک بخواهید."
+            ]
+          },
+          {
+            "heading": "پزشک چگونه علت را بررسی می‌کند؟",
+            "paragraphs": [
+              "معاینه و پرسش درباره بیماری، غذا، دارو و سابقه خانوادگی خونریزی به محدود کردن احتمال‌ها کمک می‌کند. ممکن است شمارش سلول‌های خون، زمان پروترومبین یا INR برای بررسی انعقاد و آزمایش‌های عملکرد کبد درخواست شود. طولانی شدن زمان انعقاد علت‌های متعددی دارد. عددی که در اینترنت پیدا می‌کنید نمی‌تواند علت را برای فرزندتان مشخص کند.",
+              "در پژوهشی روی کودکان مبتلا به بیماری مزمن کبد، در برخی کودکان نتیجه معمول پروترومبین طبیعی بود ولی یک نشانگر تخصصی وضعیت ویتامین K غیرطبیعی بود. این کودکان به‌دلیل بیماری کبدی انتخاب شده بودند. نتیجه به این معنا نیست که همه کودکانی که کبودی دارند نیازمند غربالگری هستند. تیم درمان با توجه به علائم و عوامل خطر درباره بررسی‌های بعدی تصمیم می‌گیرد."
+            ]
+          },
+          {
+            "heading": "درمان و پیگیری",
+            "paragraphs": [
+              "وقتی احتمال کمبود مطرح یا تشخیص تأیید شده، تیم درمان تعیین می‌کند که آیا به ویتامین K نیاز است، چگونه باید آن را داد و چه زمانی پاسخ را سنجید. خونریزی فعال ممکن است به درمان فوری در بیمارستان هم نیاز داشته باشد. وقتی جذب مختل است، اضافه کردن سبزی به غذا به‌تنهایی ممکن است کافی نباشد. بپرسید چه تیمی بیماری زمینه‌ای و آزمایش‌ها را پیگیری می‌کند.",
+              "نوزادان خطر متفاوتی دارند. مقدار کمی ویتامین K از جفت عبور می‌کند، شیر مادر مقدار کمی دارد و باکتری‌های سازنده این ویتامین در روده نوزاد هنوز کم هستند. تزریق ویتامین K هنگام تولد از خونریزی ناشی از کمبود آن در شیرخوار محافظت می‌کند. خونریزی شدید می‌تواند بدون نشانه قبلی آغاز شود. اگر نوزاد تزریق را دریافت نکرده است، زود درباره محافظت با پزشکش تماس بگیرید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "الگوی تازه خونریزی خودبه‌خود یا طولانی را همراه با نام داروهای مصرفی اطلاع دهید.",
+          "بیماری‌های مختل‌کننده جذب چربی می‌توانند مانع استفاده کودک از ویتامین K غذا شوند.",
+          "دارو و مکمل تجویزشده را تا زمانی که تیم درمان تغییری پیشنهاد نکرده، تغییر ندهید."
+        ],
+        "faq": [
+          {
+            "q": "کمبود در شیرخوار با چه نشانه‌هایی همراه است؟",
+            "a": "ممکن است پیش از خونریزی شدید هیچ هشداری دیده نشود. خونریزی ناحیه ناف، کبودی غیرمعمول یا مدفوع سیاه و قیری نیازمند ارزیابی فوری است. برای تشنج، دشواری بیدار کردن، استفراغ خونی یا خونریزی شدید کمک اورژانسی بگیرید."
+          },
+          {
+            "q": "کودک بزرگ‌تر چه نشانه‌هایی ممکن است داشته باشد؟",
+            "a": "کبودی آسان، طولانی شدن خونریزی یا خونریزی لثه، بینی یا دستگاه گوارش ممکن است رخ دهد. بسیاری از مشکلات دیگر هم همین علائم را ایجاد می‌کنند. الگوی تازه را برای ارزیابی مطرح کنید و برای خونریزی شدید یا بدحال شدن شدید کودک کمک اورژانسی بگیرید."
+          },
+          {
+            "q": "علت کمبود ویتامین K در کودک بزرگ‌تر چیست؟",
+            "a": "برخی بیماری‌های روده یا کبد جذب چربی و در نتیجه جذب ویتامین را کاهش می‌دهند. آنتی‌بیوتیک طولانی همراه با دریافت غذایی کم هم می‌تواند دخیل باشد. وارفارین در عملکرد ویتامین K تداخل ایجاد می‌کند و به پایش دقیق نیاز دارد. پیش از دادن مکمل درباره خطر مشخص فرزندتان بپرسید."
+          },
+          {
+            "q": "چرا حتی نوزادی که خوب شیر می‌خورد در معرض خطر است؟",
+            "a": "چون مقدار کمی ویتامین K از جفت عبور می‌کند، ذخیره نوزاد هنگام تولد کم است. شیر مادر مقدار نسبتاً کمی دارد و باکتری‌های روده نوزاد هنوز کافی تولید نمی‌کنند. تزریق پیشگیرانه هنگام تولد این خطر را کاهش می‌دهد."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۶ نوامبر ۲۰۲۶ بررسی شد",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "فهرست داروها را ببرید و بگویید الگوی خونریزی از چه زمانی تغییر کرده است.",
+            "بپرسید نتیجه آزمایش انعقاد در شرایط خاص کودکتان چه معنی دارد.",
+            "برای احتمال خونریزی داخلی ارزیابی فوری و برای خونریزی شدید یا تغییر سطح هوشیاری کمک اورژانسی بگیرید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند نام داروهای تجویزشده، ویتامین‌ها و آنتی‌بیوتیک‌های اخیر را به ویزیت ببرید. تغییر درمان یا جذب حتی وقتی غذاها تغییری نکرده‌اند ممکن است اهمیت داشته باشد.",
+          "safety": "خونریزی شدید یا مهارنشدنی، استفراغ خونی، تشنج یا به‌سختی بیدار شدن کودک به کمک اورژانسی نیاز دارد. برای مدفوع سیاه و قیری ارزیابی فوری بگیرید. خونریزی بدون علت معلوم را در خانه با مکمل درمان نکنید.",
+          "sources": [
+            {
+              "organization": "دفتر مکمل‌های غذایی مؤسسه‌های ملی سلامت آمریکا",
+              "title": "جذب، منابع و تداخل دارویی ویتامین K",
+              "url": "https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/"
+            },
+            {
+              "organization": "میگر و همکاران، مجله گوارش و تغذیه کودکان",
+              "title": "وضعیت ویتامین K در کودکان مبتلا به بیماری مزمن کبد",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16385257/"
+            },
+            {
+              "organization": "مراکز کنترل و پیشگیری از بیماری‌های آمریکا",
+              "title": "خونریزی ناشی از کمبود ویتامین K در شیرخواران و نشانه‌های هشدار",
+              "url": "https://www.cdc.gov/vitamin-k-deficiency/about/index.html"
+            },
+            {
+              "organization": "بیمارستان کودکان پرت",
+              "title": "ارزیابی کبودی یا خونریزی غیرمعمول در کودکان",
+              "url": "https://www.health.wa.gov.au/sitecore/content/Hospitals/PCH/Home/For-health-professionals/Referrals-to-PCH/Prereferral-guidelines/Bruising-or-bleeding"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "متى يُشتبه بنقص فيتامين ك لدى طفل أكبر سنّاً؟",
+        "description": "تعرّف إلى أثر سوء الامتصاص وبعض الأدوية في فيتامين ك، وإلى تغيّرات النزف التي تستدعي رعاية عاجلة والفحوص التي قد يطلبها الطبيب للطفل الأكبر سنّاً.",
+        "intro": "صار طفل لديه مرض يعوق جريان الصفراء يُصاب بالكدمات بسهولة أكبر. يسأل فريق الرعاية متى بدأ الأمر وأي أدوية يتناول وهل حدث نزف آخر. قد تكون المشكلة مرتبطة بفيتامين ك. لكن كدمات مشابهة عند طفل آخر قد تكون لها علة مختلفة، ولذلك يستحق التغيّر الجديد تقييماً.",
+        "sections": [
+          {
+            "heading": "ما الذي يزيد احتمال النقص؟",
+            "paragraphs": [
+              "يساعد فيتامين ك الجسم على صنع البروتينات التي تسمح للدم بالتخثّر. بعد مرحلة الرضاعة من العمر، يندر النقص ذو الأهمية السريرية لدى الأطفال الأصحاء الذين يتناولون غذاءً متنوّعاً. توفّر الخضراوات الورقية الخضراء فيتامين ك١. وتوجد أشكال أخرى في بعض الأطعمة وتصنع بكتيريا الأمعاء بعضها.",
+              "يذوب فيتامين ك في الدهون. قد لا يمتص الطفل ما يكفي منه إذا تعرقل جريان الصفراء أو تسبّب التليّف الكيسي في ضعف امتصاص الدهون أو قَصُرت أمعاؤه. كما قد يُسهم تناول المضادات الحيوية مدة طويلة بالتزامن مع قلة الطعام. لا يتطلب العلاج القصير المعتاد عادةً إعطاء مكمّل. إذا كان طفلك يتناول الوارفارين فحافظ على استقرار مدخوله المعتاد من فيتامين ك، وراجع الفريق الواصف قبل تغيير غذائه أو أدويته أو مكمّلاته."
+            ]
+          },
+          {
+            "heading": "أي نزف يستدعي الانتباه؟",
+            "paragraphs": [
+              "أبلغ مختص الطفل عن كدمات جديدة بلا سبب معروف، أو نزف متكرر من الأنف أو اللثة، أو نزف يستمر أطول من المعتاد بعد جرح بسيط. واذكر وجود دم في البول أو البراز. إذا كان الطفل يتناول مضاداً للتخثّر أو لديه مرض كبدي معروف، اتبع خطة فريقه الخاصة بالإبلاغ عن النزف.",
+              "اطلب مساعدة طارئة لنزف غزير أو لا يمكن السيطرة عليه، أو لقيء دموي، أو لبراز أسود قطراني مع ضعف أو شعور بقرب الإغماء، أو لصعوبة إيقاظ الطفل. يحتاج البراز الأسود القطراني إلى تقييم عاجل حتى لو بدا الطفل بخير. تفيد الصورة أو قائمة الأدوية، لكن الأولوية لطلب الرعاية."
+            ]
+          },
+          {
+            "heading": "كيف يبحث المختص عن السبب؟",
+            "paragraphs": [
+              "يساعد الفحص والأسئلة عن المرض والغذاء والأدوية والسوابق العائلية للنزف على تضييق الاحتمالات. وقد تشمل الفحوص تعداد الدم وزمن البروثرومبين أو النسبة المعيارية الدولية INR لتقييم التخثّر، وفحوص وظائف الكبد. لإطالة زمن التخثّر أسباب عدة. ولا يمكن لقيمة تجدها في الإنترنت أن تخبرك أيّ سبب ينطبق على الطفل.",
+              "في دراسة لأطفال مصابين بمرض كبدي مزمن، كانت نتائج البروثرومبين المعتادة طبيعية لدى بعضهم، رغم وجود اضطراب في مؤشر متخصّص لحالة فيتامين ك. شملت الدراسة مجموعة مختارة لمرضها الكبدي. ولا تعني نتائجها أن كل طفل لديه كدمة يحتاج إلى تحرٍّ. يختار الفريق الفحوص اللاحقة بحسب الأعراض وعوامل الخطورة."
+            ]
+          },
+          {
+            "heading": "العلاج والمتابعة",
+            "paragraphs": [
+              "عند الاشتباه في النقص أو تأكيده، يقرّر المختصون هل يحتاج الطفل إلى فيتامين ك وكيف يُعطى ومتى تُفحص الاستجابة مجدداً. وقد يتطلب النزف النشط علاجاً عاجلاً في المستشفى. إذا اختل الامتصاص فقد لا تكفي زيادة الخضراوات في الوجبات وحدها لتصحيح المشكلة. اسأل من سيتابع المرض الأساسي ويعيد الفحوص.",
+              "لحديث الولادة خطر مختلف. تعبر كمية قليلة من فيتامين ك المشيمة، ولا يحتوي حليب الأم إلا على مقدار صغير، ولا تزال البكتيريا المنتجة له قليلة في أمعاء المولود. تقي حقنة فيتامين ك عند الولادة من النزف الناتج عن نقصه لدى الرضيع. وقد يبدأ نزف خطير بلا إنذار. إن لم يتلقّ رضيعك الحقنة فاتصل سريعاً بمختصه لمناقشة الوقاية."
+            ]
+          }
+        ],
+        "takeaways": [
+          "أبلغ عن النمط الجديد من النزف العفوي أو المطوّل واذكر الأدوية التي يتناولها الطفل.",
+          "قد تمنع اضطرابات امتصاص الدهون الطفل من الاستفادة من فيتامين ك الموجود في الطعام.",
+          "اترك الأدوية والمكمّلات الموصوفة كما هي حتى يوجّهك الفريق المعالج."
+        ],
+        "faq": [
+          {
+            "q": "ما علامات النقص التي قد تظهر على الرضيع؟",
+            "a": "قد لا يسبق النزف الشديد أي إنذار. يستدعي نزف السرّة أو الكدمات غير المعتادة أو البراز الأسود القطراني تقييماً عاجلاً. اطلب مساعدة طارئة عند حدوث اختلاج أو صعوبة إيقاظ أو قيء دموي أو نزف غزير."
+          },
+          {
+            "q": "ما الأعراض المحتملة لدى طفل أكبر سنّاً؟",
+            "a": "قد تحدث سهولة التكدّم أو نزف مطوّل أو نزف من اللثة أو الأنف أو الجهاز الهضمي. وقد تؤدي حالات كثيرة أخرى إلى العلامات نفسها. اطلب تقييماً للنمط الجديد ومساعدة طارئة عند النزف الغزير أو التدهور الشديد في حال الطفل."
+          },
+          {
+            "q": "ما الذي يسبّب انخفاض فيتامين ك لدى الطفل الأكبر؟",
+            "a": "يمكن لبعض أمراض الكبد أو الأمعاء أن تعيق امتصاص الدهون فتقلّل امتصاص الفيتامين. كما قد تسهم المضادات الحيوية لفترة طويلة مع قلة المدخول الغذائي. ويعاكس الوارفارين نشاط فيتامين ك ويتطلب متابعة دقيقة. اسأل عن خطر طفلك بالتحديد قبل إعطائه مكمّلاً."
+          },
+          {
+            "q": "لماذا يبقى الرضيع في خطر حتى لو كان يتغذى جيداً؟",
+            "a": "يولد باحتياطي صغير لأن القليل من فيتامين ك يعبر المشيمة. ويحتوي حليب الأم على مقدار قليل نسبياً، ولا توفر بكتيريا أمعاء المولود ما يكفي بعد. تهدف الحقنة الوقائية عند الولادة إلى معالجة هذا الخطر."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "خذ قائمة بالأدوية واذكر متى تغيّر نمط النزف.",
+            "اسأل عمّا تعنيه نتائج التخثّر في ضوء حالة طفلك.",
+            "اطلب رعاية عاجلة عند الاشتباه بنزف داخلي ومساعدة طارئة عند النزف الشديد أو تغيّر درجة الوعي."
+          ],
+          "bemama": "تقترح بي ماما اصطحاب أسماء الأدوية الموصوفة والفيتامينات والمضادات الحيوية التي أُخذت مؤخراً. قد يكون لتغيّر العلاج أو الامتصاص أثر حتى عندما تبقى الوجبات كما كانت.",
+          "safety": "اطلب مساعدة طارئة عند نزف غزير أو مستعصٍ أو قيء دموي أو اختلاج أو صعوبة في الإيقاظ. اطلب تقييماً عاجلاً للبراز الأسود القطراني. لا تعالج نزفاً غير مفسّر في المنزل بمكمّل.",
+          "sources": [
+            {
+              "organization": "مكتب المكمّلات الغذائية بالمعاهد الوطنية الأمريكية للصحة",
+              "title": "امتصاص فيتامين ك ومصادره وتداخلاته الدوائية",
+              "url": "https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/"
+            },
+            {
+              "organization": "ميغر وزملاؤها، مجلة أمراض الجهاز الهضمي والتغذية لدى الأطفال",
+              "title": "حالة فيتامين ك لدى الأطفال المصابين بمرض كبدي مزمن",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16385257/"
+            },
+            {
+              "organization": "المراكز الأمريكية لمكافحة الأمراض والوقاية منها",
+              "title": "نزف الرضيع بسبب نقص فيتامين ك وعلامات الإنذار",
+              "url": "https://www.cdc.gov/vitamin-k-deficiency/about/index.html"
+            },
+            {
+              "organization": "مستشفى بيرث للأطفال",
+              "title": "تقييم الأطفال الذين يعانون كدمات أو نزفاً غير معتاد",
+              "url": "https://www.health.wa.gov.au/sitecore/content/Hospitals/PCH/Home/For-health-professionals/Referrals-to-PCH/Prereferral-guidelines/Bruising-or-bleeding"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Quand évoquer un manque de vitamine K chez un enfant ?",
+        "description": "Comprenez le rôle de l’absorption et des médicaments, les saignements à faire examiner sans attendre et les tests que le médecin peut proposer à votre enfant.",
+        "intro": "Un enfant atteint d’une maladie qui gêne l’écoulement de la bile a plus de bleus qu’auparavant. Son équipe souhaite savoir quand cela a commencé, quels médicaments il prend et s’il a saigné ailleurs. Un problème lié à la vitamine K est une possibilité. Chez un autre enfant, les mêmes bleus peuvent avoir une autre cause. Un changement de ce type mérite un examen.",
+        "sections": [
+          {
+            "heading": "Qu’est-ce qui rend la carence plus probable ?",
+            "paragraphs": [
+              "La vitamine K sert à fabriquer des protéines qui permettent au sang de coaguler. Après la période du nourrisson, une carence entraînant des symptômes est peu fréquente chez les enfants par ailleurs en bonne santé qui mangent varié. Les légumes verts à feuilles apportent de la vitamine K1. D’autres formes sont présentes dans certains aliments et produites par des bactéries de l’intestin.",
+              "La vitamine K est soluble dans les graisses. Si la bile s’écoule mal, si une mucoviscidose empêche de bien absorber les graisses ou si l’intestin a été raccourci, l’enfant peut en absorber trop peu. Une longue cure d’antibiotiques associée à de faibles apports peut aussi jouer. Une cure courte habituelle ne nécessite généralement pas de supplément. Si l’enfant prend de la warfarine, gardez un apport habituel stable en vitamine K et consultez l’équipe qui la prescrit avant de modifier alimentation, médicaments ou compléments."
+            ]
+          },
+          {
+            "heading": "Quels saignements nécessitent un avis ?",
+            "paragraphs": [
+              "Signalez de nouveaux bleus inexpliqués, des saignements répétés du nez ou des gencives, ou un saignement anormalement long après une petite blessure. Mentionnez toute présence de sang dans les urines ou les selles. Si votre enfant prend un anticoagulant ou a une maladie du foie connue, suivez le plan établi par son équipe pour signaler ces signes.",
+              "Appelez les secours si le saignement est abondant ou incontrôlable, si l’enfant vomit du sang, si des selles noires et goudronneuses s’accompagnent de faiblesse ou d’un malaise, ou s’il est difficile à réveiller. Des selles noires et goudronneuses nécessitent un avis urgent même si l’enfant semble aller bien. Une photo ou la liste des médicaments peuvent être utiles, mais l’appel à l’aide passe en premier."
+            ]
+          },
+          {
+            "heading": "Comment le médecin recherche la cause",
+            "paragraphs": [
+              "L’examen et les questions sur les maladies, l’alimentation, les traitements et les antécédents familiaux de saignement orientent le bilan. Celui-ci peut comprendre une numération sanguine, un temps de prothrombine ou un INR pour évaluer la coagulation, et des tests du foie. Un temps de coagulation allongé a plusieurs causes possibles. Une valeur trouvée sur Internet ne permet pas de trancher.",
+              "Dans une étude menée chez des enfants atteints d’une maladie chronique du foie, certains présentaient un résultat de prothrombine habituel normal et un marqueur spécialisé du statut en vitamine K anormal. Ces enfants avaient été sélectionnés en raison de leur maladie. Le résultat ne justifie pas de tester chaque enfant qui a un bleu. Les symptômes et les risques guident le choix des examens supplémentaires."
+            ]
+          },
+          {
+            "heading": "Traitement et suivi",
+            "paragraphs": [
+              "Si une carence est envisagée ou confirmée, les soignants décident s’il faut de la vitamine K, comment l’administrer et quand vérifier la réponse. Un saignement actif peut aussi nécessiter un traitement urgent à l’hôpital. Si l’absorption est en cause, ajouter des légumes verts aux repas peut ne pas suffire. Demandez quelle équipe suivra la maladie sous-jacente et les analyses.",
+              "Le nouveau-né présente un risque particulier. Peu de vitamine K traverse le placenta, le lait maternel en contient de faibles quantités et l’intestin du nouveau-né abrite peu de bactéries qui en fabriquent. L’injection à la naissance protège contre les hémorragies du nourrisson par carence en vitamine K. Un saignement grave peut survenir sans avertissement. Si votre bébé n’a pas reçu l’injection, contactez rapidement son professionnel de santé pour discuter de sa protection."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Signalez tout changement dans la fréquence des saignements spontanés ou prolongés et mentionnez les médicaments.",
+          "Une mauvaise absorption des graisses peut empêcher d’utiliser la vitamine K des aliments.",
+          "Gardez les médicaments et compléments prescrits tels quels jusqu’à l’avis de l’équipe."
+        ],
+        "faq": [
+          {
+            "q": "Quels signes peuvent apparaître chez un nourrisson ?",
+            "a": "Un saignement grave peut survenir sans signe avant-coureur. Un saignement de l’ombilic, des bleus inhabituels ou des selles noires et goudronneuses nécessitent un examen urgent. En cas de convulsion, de difficulté à réveiller le bébé, de vomissement de sang ou de forte hémorragie, appelez les secours."
+          },
+          {
+            "q": "Quels symptômes peut présenter un enfant plus grand ?",
+            "a": "Des bleus faciles, un saignement prolongé, des gencives, du nez ou du tube digestif sont possibles. Beaucoup d’autres affections donnent les mêmes signes. Faites examiner tout changement et appelez les secours si le saignement est important ou si l’état de l’enfant se dégrade fortement."
+          },
+          {
+            "q": "Pourquoi un enfant plus grand manque-t-il parfois de vitamine K ?",
+            "a": "Certaines maladies du foie ou de l’intestin réduisent l’absorption des graisses et donc celle de la vitamine. Des antibiotiques pris longtemps avec de faibles apports alimentaires peuvent contribuer. La warfarine agit contre l’activité de la vitamine K et exige un suivi. Avant tout complément, renseignez-vous sur le risque propre à l’enfant."
+          },
+          {
+            "q": "Pourquoi un bébé même bien nourri peut-il être à risque ?",
+            "a": "Ses réserves de départ sont faibles car peu de vitamine K traverse le placenta. Le lait maternel en apporte relativement peu et les bactéries intestinales du nouveau-né n’en fournissent pas encore assez. L’injection préventive à la naissance répond à ce risque."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Apportez la liste des traitements et précisez quand les saignements ont changé.",
+            "Demandez ce que les résultats de coagulation signifient dans la situation de votre enfant.",
+            "Faites évaluer en urgence tout soupçon de saignement interne et appelez les secours pour une hémorragie importante ou une baisse de vigilance."
+          ],
+          "bemama": "BeMama conseille d’apporter les noms des médicaments prescrits, des vitamines et des antibiotiques pris récemment. Le traitement ou l’absorption peuvent changer même si les repas sont les mêmes.",
+          "safety": "Une hémorragie importante ou incontrôlable, un vomissement de sang, une convulsion ou une difficulté à réveiller l’enfant nécessitent des secours immédiats. Des selles noires et goudronneuses exigent un avis urgent. Ne traitez pas vous-même un saignement inexpliqué par un complément.",
+          "sources": [
+            {
+              "organization": "Bureau des compléments alimentaires des Instituts nationaux de la santé des États-Unis",
+              "title": "Absorption, sources et interactions médicamenteuses de la vitamine K",
+              "url": "https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/"
+            },
+            {
+              "organization": "Mager et ses collègues, Journal of Pediatric Gastroenterology and Nutrition",
+              "title": "Statut en vitamine K chez les enfants atteints de maladie hépatique chronique",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16385257/"
+            },
+            {
+              "organization": "Centres américains de contrôle et de prévention des maladies",
+              "title": "Hémorragies par carence en vitamine K du nourrisson et signes d’alerte",
+              "url": "https://www.cdc.gov/vitamin-k-deficiency/about/index.html"
+            },
+            {
+              "organization": "Hôpital pédiatrique de Perth",
+              "title": "Évaluation des bleus et saignements inhabituels chez l’enfant",
+              "url": "https://www.health.wa.gov.au/sitecore/content/Hospitals/PCH/Home/For-health-professionals/Referrals-to-PCH/Prereferral-guidelines/Bruising-or-bleeding"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Büyük çocuklarda K vitamini eksikliği ne zaman düşünülür?",
+        "description": "Emilim güçlükleri ve bazı ilaçların K vitaminini nasıl etkilediğini, hangi kanamaların acil olduğunu ve sağlık ekibinin çocukta neleri araştırdığını öğrenin.",
+        "intro": "Safra akışını etkileyen bir hastalığı olan çocuğun vücudu eskisinden daha kolay morarıyor. Sağlık ekibi bunun ne zaman başladığını, hangi ilaçları kullandığını ve başka bir kanama olup olmadığını bilmek istiyor. K vitaminiyle ilgili bir sorun olası açıklamalardan biridir. Başka bir çocukta benzer morlukların başka bir nedeni olabilir. Yeni bir değişiklik değerlendirilmelidir.",
+        "sections": [
+          {
+            "heading": "Eksikliği hangi durumlar daha olası kılar?",
+            "paragraphs": [
+              "K vitamini vücudun kanın pıhtılaşmasını sağlayan proteinleri üretmesine yardım eder. Bebeklikten sonra çeşitli beslenen ve başka bir hastalığı olmayan çocuklarda klinik olarak önemli eksiklik sık görülmez. Yeşil yapraklı sebzeler K1 vitamini sağlar. Diğer bazı formlar kimi yiyeceklerde bulunur ve bağırsak bakterilerince de üretilir.",
+              "K vitamini yağda çözünür. Safra akışı bozulmuş, kistik fibroz nedeniyle yağ emilimi yetersiz veya bağırsağı kısalmış bir çocuk yeterince K vitamini ememeyebilir. Yetersiz besin alımıyla birlikte uzun süre antibiyotik kullanılması da etkili olabilir. Olağan kısa bir antibiyotik tedavisi genellikle vitamin desteği gerektirmez. Çocuğunuz varfarin kullanıyorsa besinlerden aldığı K vitaminini her zamanki düzeyinde tutun; diyet, ilaç veya takviye değişikliği yapmadan önce ilacı yazan ekiple görüşün."
+            ]
+          },
+          {
+            "heading": "Hangi kanamalarda yardım alınmalı?",
+            "paragraphs": [
+              "Nedensiz yeni morlukları, tekrarlayan burun veya diş eti kanamasını ya da küçük bir yaralanmadan sonra normalden uzun süren kanamayı çocuğun sağlık uzmanına bildirin. İdrarda veya dışkıda kan varsa söyleyin. Çocuk kan sulandırıcı kullanıyorsa veya bilinen karaciğer hastalığı varsa kanamaları bildirmek için ekibin planına uyun.",
+              "Şiddetli veya durdurulamayan kanamada, kan kusmada, halsizlik ya da bayılacak gibi olma hissinin eşlik ettiği katran gibi siyah dışkıda veya çocuğu uyandırmakta güçlük çekiyorsanız acil yardım çağırın. Çocuk iyi görünse de katran gibi siyah dışkı acil tıbbi değerlendirme gerektirir. Fotoğraf ya da ilaç listesi yardımcı olabilir, ama önce yardım alın."
+            ]
+          },
+          {
+            "heading": "Sağlık uzmanı nasıl araştırır?",
+            "paragraphs": [
+              "Muayene ve hastalıklar, beslenme, ilaçlar ve ailedeki kanama öyküsüyle ilgili sorular olasılıkları daraltır. Tam kan sayımı, pıhtılaşma için protrombin zamanı veya INR ve karaciğer işlev testleri istenebilir. Pıhtılaşma zamanının uzamasının farklı nedenleri vardır. İnternette bulunan bir değer hangi nedenin geçerli olduğunu göstermez.",
+              "Kronik karaciğer hastalığı olan çocuklarla yapılan bir çalışmada, bazı çocuklarda rutin protrombin sonucu normal olduğu hâlde K vitamini durumunu gösteren özel bir belirteç anormaldi. Bunlar karaciğer hastalığı nedeniyle seçilmiş çocuklardı. Sonuç her morluğu olan çocuğun taranmasını gerektirmez. Ekip sonraki testleri belirtilere ve risklere göre seçer."
+            ]
+          },
+          {
+            "heading": "Tedavi ve izlem",
+            "paragraphs": [
+              "Eksiklikten şüphelenildiğinde veya eksiklik doğrulandığında, klinisyenler K vitamininin gerekip gerekmediğine, nasıl verileceğine ve yanıtın ne zaman kontrol edileceğine karar verir. Devam eden kanama ayrıca hastanede acil tedavi gerektirebilir. Emilim bozuksa yemeklere yalnızca daha çok yeşillik eklemek sorunu çözmeyebilir. Altta yatan hastalığı kimin izleyeceğini ve testleri kimin tekrarlayacağını sorun.",
+              "Yenidoğanda risk farklıdır. Plasentadan az K vitamini geçer, anne sütünde küçük miktarlarda bulunur ve yenidoğanın bağırsağında K vitamini yapan bakteri azdır. Doğumdaki K vitamini enjeksiyonu bebeklerde K vitamini eksikliğine bağlı kanamaya karşı korur. Ciddi kanama önceden belirti vermeyebilir. Bebeğiniz bu enjeksiyonu almadıysa korunma hakkında gecikmeden sağlık uzmanıyla görüşün."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Kendiliğinden başlayan ya da uzayan yeni kanamaları ve kullanılan ilaçları bildirin.",
+          "Yağ emilimini bozan hastalıklar, besinlerdeki K vitamininden yararlanmayı engelleyebilir.",
+          "Tedavi ekibi başka türlü önermedikçe reçeteli ilaçları ve verilen takviyeleri değiştirmeyin."
+        ],
+        "faq": [
+          {
+            "q": "Bebekte eksikliğin belirtileri neler olabilir?",
+            "a": "Ciddi kanamadan önce uyarı olmayabilir. Göbek bölgesinden kanama, olağan dışı morluklar veya katran gibi siyah dışkı acil değerlendirme gerektirir. Nöbet, güç uyandırılma, kan kusma veya ağır kanama varsa acil yardım çağırın."
+          },
+          {
+            "q": "Daha büyük çocukta hangi belirtiler görülebilir?",
+            "a": "Kolay morarma, uzayan kanama veya diş etleri, burun ya da sindirim sisteminde kanama olabilir. Birçok başka durum aynı belirtileri yapabilir. Yeni bir kanama örüntüsü için değerlendirme, ağır kanama ya da genel durumda ciddi kötüleşme için acil yardım alın."
+          },
+          {
+            "q": "Daha büyük bir çocukta K vitamini neden azalabilir?",
+            "a": "Bazı karaciğer veya bağırsak hastalıkları yağ emilimini ve dolayısıyla vitamin alımını azaltır. Uzun süreli antibiyotik ve yetersiz besin alımı katkıda bulunabilir. Varfarin K vitamininin etkisine karşı çalışır ve dikkatli izlem gerektirir. Takviye vermeden önce çocuğun kendi riskini sorun."
+          },
+          {
+            "q": "İyi beslenen bebekler neden risk taşır?",
+            "a": "Plasentadan az K vitamini geçtiği için bebekler küçük depolarla doğar. Anne sütünde nispeten az vardır; yenidoğanın bağırsak bakterileri de henüz yeterince sağlamaz. Doğumda yapılan koruyucu enjeksiyon bu riske yöneliktir."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "İlaç listesini götürün ve kanamaların ne zaman değiştiğini anlatın.",
+            "Pıhtılaşma sonuçlarının çocuğun özel durumu açısından ne anlama geldiğini sorun.",
+            "İç kanama şüphesinde acil değerlendirme, şiddetli kanama veya bilinç durumunda değişiklik varsa acil yardım alın."
+          ],
+          "bemama": "BeMama muayeneye reçeteli ilaçların, vitaminlerin ve yakın zamanda kullanılan antibiyotiklerin adlarını götürmenizi önerir. Yemekler aynı kalsa da tedavideki veya emilimdeki bir değişiklik önemli olabilir.",
+          "safety": "Şiddetli veya durdurulamayan kanamada, kan kusmada, nöbette veya çocuğu uyandırmakta güçlükte acil yardım çağırın. Katran gibi siyah dışkı acil değerlendirme gerektirir. Nedeni bilinmeyen kanamayı evde takviyeyle tedavi etmeye çalışmayın.",
+          "sources": [
+            {
+              "organization": "ABD Ulusal Sağlık Enstitüleri Besin Takviyeleri Ofisi",
+              "title": "K vitamininin emilimi, kaynakları ve ilaçlarla etkileşimi",
+              "url": "https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/"
+            },
+            {
+              "organization": "Mager ve arkadaşları, Journal of Pediatric Gastroenterology and Nutrition",
+              "title": "Kronik karaciğer hastalığı olan çocuklarda K vitamini durumu",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16385257/"
+            },
+            {
+              "organization": "ABD Hastalık Kontrol ve Önleme Merkezleri",
+              "title": "Bebeklerde K vitamini eksikliğine bağlı kanama ve uyarı belirtileri",
+              "url": "https://www.cdc.gov/vitamin-k-deficiency/about/index.html"
+            },
+            {
+              "organization": "Perth Çocuk Hastanesi",
+              "title": "Olağan dışı morluk veya kanaması olan çocukların değerlendirilmesi",
+              "url": "https://www.health.wa.gov.au/sitecore/content/Hospitals/PCH/Home/For-health-professionals/Referrals-to-PCH/Prereferral-guidelines/Bruising-or-bleeding"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Cuándo sospechar falta de vitamina K en un niño mayor",
+        "description": "Conoce cómo la mala absorción y algunos fármacos afectan a la vitamina K, qué sangrados necesitan atención urgente y qué puede valorar el equipo de tu hijo.",
+        "intro": "Un niño con un problema que afecta al flujo de la bilis empieza a tener morados con más facilidad. Su equipo quiere saber cuándo empezó, qué medicinas toma y si ha sangrado en otros sitios. Una alteración de la vitamina K es una posible explicación. Los mismos morados en otro niño pueden tener una causa distinta, por lo que un cambio en el patrón merece valoración.",
+        "sections": [
+          {
+            "heading": "¿Qué hace más probable una carencia?",
+            "paragraphs": [
+              "La vitamina K ayuda a producir proteínas que permiten que la sangre coagule. Pasada la etapa de lactante, la carencia con importancia clínica es poco común en niños sanos con una dieta variada. Las verduras de hoja verde aportan vitamina K1. Otras formas están en ciertos alimentos y las producen bacterias intestinales.",
+              "La vitamina K es liposoluble. Si el flujo biliar está reducido, hay fibrosis quística con mala absorción de grasas o se ha acortado el intestino, el niño puede absorber poca cantidad. También puede influir un tratamiento prolongado con antibióticos junto con una ingesta escasa. Un ciclo corto habitual no suele exigir suplementos. Si toma warfarina, mantén estable el aporte habitual de vitamina K y consulta con el equipo que la prescribe antes de cambiar la alimentación, los medicamentos o los suplementos."
+            ]
+          },
+          {
+            "heading": "¿Qué sangrados necesitan atención?",
+            "paragraphs": [
+              "Comunica la aparición de morados sin explicación, sangrados de encías o de nariz que se repiten o un sangrado más largo de lo habitual tras una herida menor. Menciona si hay sangre en la orina o las heces. Si el niño toma anticoagulantes o tiene una enfermedad hepática conocida, sigue el plan de su equipo para comunicar sangrados.",
+              "Pide ayuda de emergencia ante un sangrado abundante o incontrolable, vómitos con sangre, heces negras como alquitrán con debilidad o sensación de desmayo, o si cuesta despertar al niño. Las heces negras y alquitranadas necesitan valoración urgente aunque el niño parezca estar bien. Una foto o una lista de medicamentos puede ayudar, pero lo primero es pedir asistencia."
+            ]
+          },
+          {
+            "heading": "Cómo se estudia el problema",
+            "paragraphs": [
+              "La exploración y las preguntas sobre enfermedades, dieta, medicación y antecedentes familiares de sangrado orientan la evaluación. Pueden solicitar un hemograma, un tiempo de protrombina o INR para estudiar la coagulación y pruebas de función hepática. Un tiempo de coagulación prolongado tiene varias explicaciones. Un valor que encuentres en internet no basta para saber cuál es la causa.",
+              "En un estudio en niños con enfermedad hepática crónica, algunos tenían resultados habituales de protrombina normales y un marcador especializado de vitamina K alterado. Era un grupo seleccionado por su enfermedad hepática. No justifica analizar a todos los niños con un morado. El equipo decide qué otras pruebas convienen según los síntomas y riesgos."
+            ]
+          },
+          {
+            "heading": "Tratamiento y seguimiento",
+            "paragraphs": [
+              "Si se sospecha o confirma la carencia, los profesionales deciden si hace falta vitamina K, por qué vía y cuándo volver a evaluar la respuesta. Un sangrado activo puede requerir tratamiento urgente en el hospital. Si el problema es de absorción, añadir verduras a la dieta puede no bastar. Pregunta quién seguirá la enfermedad de base y repetirá las pruebas.",
+              "Los recién nacidos tienen un riesgo distinto. Pasa poca vitamina K a través de la placenta, la leche materna contiene cantidades pequeñas y en el intestino del recién nacido hay pocas bacterias que la produzcan. La inyección al nacer protege frente al sangrado por carencia de vitamina K en los lactantes. Puede haber una hemorragia grave sin aviso. Si tu bebé no recibió la inyección, contacta pronto con su profesional para hablar de protección."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Comunica los sangrados espontáneos o prolongados nuevos y los medicamentos pertinentes.",
+          "Las alteraciones de la absorción de grasas pueden impedir que el niño aproveche la vitamina K de los alimentos.",
+          "Mantén la medicación y los suplementos prescritos hasta que el equipo indique un cambio."
+        ],
+        "faq": [
+          {
+            "q": "¿Qué signos puede tener un bebé con carencia?",
+            "a": "Puede no haber aviso antes de un sangrado grave. Sangrado en el ombligo, morados inusuales o heces negras y alquitranadas requieren valoración urgente. Las convulsiones, la dificultad para despertarlo, los vómitos con sangre o una hemorragia abundante requieren ayuda de emergencia."
+          },
+          {
+            "q": "¿Qué síntomas puede presentar un niño mayor?",
+            "a": "Puede tener morados con facilidad o sangrado prolongado, de encías, nasal o digestivo. Muchas otras enfermedades producen los mismos signos. Solicita valoración si cambia el patrón y ayuda de emergencia si sangra mucho o su estado empeora de forma importante."
+          },
+          {
+            "q": "¿Por qué puede faltarle vitamina K a un niño mayor?",
+            "a": "Algunas enfermedades hepáticas o intestinales impiden absorber bien la grasa y reducen el aprovechamiento de esta vitamina. Los antibióticos prolongados con una ingesta insuficiente pueden contribuir. La warfarina interfiere con la actividad de la vitamina K y exige seguimiento. Consulta el riesgo de tu hijo antes de darle un suplemento."
+          },
+          {
+            "q": "¿Por qué hay riesgo en bebés que se alimentan bien?",
+            "a": "Nacen con pocas reservas porque pasa poca vitamina K a través de la placenta. La leche materna tiene cantidades relativamente pequeñas y las bacterias intestinales del recién nacido todavía no aportan lo suficiente. La inyección preventiva al nacer aborda este riesgo."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Lleva la lista de medicamentos y explica cuándo cambió el patrón de sangrado.",
+            "Pregunta qué significan los resultados de coagulación en la situación de tu hijo.",
+            "Solicita atención urgente ante sospecha de sangrado interno y ayuda de emergencia ante sangrado intenso o alteraciones del estado de alerta."
+          ],
+          "bemama": "BeMama sugiere llevar a la cita los nombres de medicamentos recetados, vitaminas y antibióticos recientes. Un cambio de tratamiento o de absorción puede importar aunque las comidas sigan igual.",
+          "safety": "El sangrado abundante o incontrolable, los vómitos con sangre, una convulsión o la dificultad para despertar requieren ayuda de emergencia. Las heces negras y alquitranadas necesitan valoración urgente. No trates un sangrado inexplicado en casa con un suplemento.",
+          "sources": [
+            {
+              "organization": "Oficina de Suplementos Dietéticos de los Institutos Nacionales de Salud de Estados Unidos",
+              "title": "Absorción, fuentes e interacciones farmacológicas de la vitamina K",
+              "url": "https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/"
+            },
+            {
+              "organization": "Mager y colaboradores, revista de Gastroenterología y Nutrición Pediátricas",
+              "title": "Estado de vitamina K en niños con enfermedad hepática crónica",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16385257/"
+            },
+            {
+              "organization": "Centros para el Control y la Prevención de Enfermedades de Estados Unidos",
+              "title": "Sangrado del lactante por deficiencia de vitamina K y señales de alarma",
+              "url": "https://www.cdc.gov/vitamin-k-deficiency/about/index.html"
+            },
+            {
+              "organization": "Hospital Infantil de Perth",
+              "title": "Valoración de niños con sangrados o morados inusuales",
+              "url": "https://www.health.wa.gov.au/sitecore/content/Hospitals/PCH/Home/For-health-professionals/Referrals-to-PCH/Prereferral-guidelines/Bruising-or-bleeding"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Quando suspeitar de falta de vitamina K em uma criança maior",
+        "description": "Entenda como a má absorção e alguns remédios afetam a vitamina K, quais sangramentos exigem atenção urgente e o que a equipe pode investigar na criança.",
+        "intro": "Uma criança com uma doença que afeta o fluxo da bile começa a ficar com hematomas mais facilmente. A equipe quer saber quando isso começou, quais remédios ela usa e se já sangrou em outros lugares. Um problema com a vitamina K é uma possibilidade. Os mesmos hematomas em outra criança podem ter outra causa, por isso uma mudança no padrão merece avaliação.",
+        "sections": [
+          {
+            "heading": "O que aumenta a chance de deficiência?",
+            "paragraphs": [
+              "O corpo usa a vitamina K para produzir proteínas que permitem a coagulação. Passada a fase de lactente, a deficiência com importância clínica é incomum em crianças saudáveis que comem alimentos variados. Verduras de folhas verdes fornecem vitamina K1. Outras formas estão presentes em alguns alimentos e são produzidas por bactérias do intestino.",
+              "A vitamina K é solúvel em gordura. Problemas no fluxo da bile, fibrose cística com dificuldade de absorver gorduras ou um intestino encurtado podem diminuir a absorção. Antibióticos usados por tempo prolongado junto com baixa ingestão alimentar também podem contribuir. Um tratamento curto habitual geralmente não exige suplemento. Se a criança usa varfarina, mantenha estável o consumo habitual de vitamina K e fale com a equipe que prescreveu o remédio antes de mudar alimentação, medicamentos ou suplementos."
+            ]
+          },
+          {
+            "heading": "Quais sangramentos precisam de atenção?",
+            "paragraphs": [
+              "Avise o profissional sobre novos hematomas sem explicação, sangramentos repetidos no nariz ou nas gengivas, ou sangramento que demora mais que de costume após um pequeno ferimento. Mencione sangue na urina ou nas fezes. Se a criança usa anticoagulante ou tem doença conhecida no fígado, siga o plano de sua equipe para comunicar sangramentos.",
+              "Chame a emergência se o sangramento for intenso ou incontrolável, se a criança vomitar sangue, se houver fezes negras como piche com fraqueza ou sensação de desmaio, ou se for difícil acordá-la. Fezes negras e pegajosas como piche precisam de avaliação urgente mesmo que ela pareça bem. Uma foto ou lista de remédios ajuda, mas pedir socorro vem primeiro."
+            ]
+          },
+          {
+            "heading": "Como o profissional investiga",
+            "paragraphs": [
+              "O exame e perguntas sobre doenças, dieta, remédios e sangramentos na família ajudam a orientar a investigação. Podem ser pedidos hemograma, tempo de protrombina ou INR para avaliar a coagulação, além de exames do fígado. Um tempo de coagulação prolongado tem várias explicações. Um número encontrado na internet não revela a causa.",
+              "Em um estudo de crianças com doença hepática crônica, algumas tinham resultado normal na avaliação habitual da protrombina, mas alteração em um marcador especializado de vitamina K. Era um grupo selecionado com doença hepática. Isso não justifica examinar laboratorialmente toda criança com uma mancha roxa. A equipe escolhe os próximos exames segundo sintomas e riscos."
+            ]
+          },
+          {
+            "heading": "Tratamento e acompanhamento",
+            "paragraphs": [
+              "Se houver suspeita de deficiência ou se ela for confirmada, os profissionais decidem se é preciso vitamina K, como administrá-la e quando reavaliar a resposta. Sangramento ativo também pode exigir tratamento hospitalar urgente. Se a absorção estiver comprometida, apenas colocar mais verduras na refeição pode não corrigir o problema. Pergunte quem vai acompanhar a doença de base e repetir os exames.",
+              "No recém-nascido o risco é diferente. Pouca vitamina K atravessa a placenta, o leite materno contém pequenas quantidades e o intestino do recém-nascido tem poucas bactérias que a produzem. A injeção de vitamina K ao nascer protege contra o sangramento por deficiência dessa vitamina no bebê. Um sangramento grave pode surgir sem aviso. Se o bebê não recebeu a injeção, entre em contato logo com o profissional de saúde para falar sobre a proteção."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Comunique sangramentos espontâneos ou prolongados que passaram a acontecer e informe os remédios em uso.",
+          "Doenças que limitam a absorção de gorduras podem impedir o aproveitamento da vitamina K dos alimentos.",
+          "Mantenha os remédios e suplementos prescritos até receber orientação da equipe."
+        ],
+        "faq": [
+          {
+            "q": "Que sinais de deficiência podem aparecer no bebê?",
+            "a": "Talvez não haja aviso antes de uma hemorragia grave. Sangramento no umbigo, hematomas incomuns ou fezes negras como piche precisam de avaliação urgente. Em caso de convulsão, dificuldade de acordar, vômito com sangue ou sangramento intenso, chame a emergência."
+          },
+          {
+            "q": "Quais sintomas uma criança maior pode ter?",
+            "a": "Hematomas fáceis, sangramento prolongado ou sangramento nas gengivas, no nariz ou no aparelho digestivo são possíveis. Muitas outras condições causam os mesmos sinais. Procure avaliação para um novo padrão e socorro de emergência se houver sangramento intenso ou grande piora do estado geral."
+          },
+          {
+            "q": "Por que pode faltar vitamina K em uma criança maior?",
+            "a": "Algumas doenças do fígado ou do intestino prejudicam a absorção de gorduras e reduzem o aproveitamento da vitamina. Tratamentos prolongados com antibióticos e baixa ingestão podem contribuir. A varfarina interfere na ação da vitamina K e exige acompanhamento. Pergunte sobre o risco da criança antes de dar um suplemento."
+          },
+          {
+            "q": "Por que o bebê corre risco mesmo quando mama bem?",
+            "a": "Ele nasce com reservas pequenas porque pouca vitamina K atravessa a placenta. O leite materno contém relativamente pouco dessa vitamina e as bactérias do intestino do recém-nascido ainda não fornecem o suficiente. A injeção preventiva ao nascer protege contra esse risco."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revistas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Leve uma lista de remédios e descreva quando mudou o padrão dos sangramentos.",
+            "Pergunte como interpretar os exames de coagulação diante da condição da criança.",
+            "Procure atendimento urgente na suspeita de sangramento interno e chame a emergência se o sangramento for intenso ou a criança estiver menos alerta."
+          ],
+          "bemama": "A BeMama sugere levar os nomes dos medicamentos prescritos, vitaminas e antibióticos recentes à consulta. Uma mudança no tratamento ou na absorção pode ser importante mesmo quando a alimentação continua igual.",
+          "safety": "Sangramento intenso ou incontrolável, vômito com sangue, convulsão ou dificuldade de acordar exigem ajuda de emergência. Procure avaliação urgente para fezes negras como piche. Não trate um sangramento inexplicado em casa com suplementos.",
+          "sources": [
+            {
+              "organization": "Escritório de Suplementos Alimentares dos Institutos Nacionais de Saúde dos Estados Unidos",
+              "title": "Absorção, fontes e interações medicamentosas da vitamina K",
+              "url": "https://ods.od.nih.gov/factsheets/VitaminK-HealthProfessional/"
+            },
+            {
+              "organization": "Mager e colaboradores, Journal of Pediatric Gastroenterology and Nutrition",
+              "title": "Estado de vitamina K em crianças com doença hepática crônica",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16385257/"
+            },
+            {
+              "organization": "Centros de Controle e Prevenção de Doenças dos Estados Unidos",
+              "title": "Sangramento do lactente por deficiência de vitamina K e sinais de alerta",
+              "url": "https://www.cdc.gov/vitamin-k-deficiency/about/index.html"
+            },
+            {
+              "organization": "Hospital Infantil de Perth",
+              "title": "Avaliação de crianças com hematomas ou sangramentos incomuns",
+              "url": "https://www.health.wa.gov.au/sitecore/content/Hospitals/PCH/Home/For-health-professionals/Referrals-to-PCH/Prereferral-guidelines/Bruising-or-bleeding"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5916.webp",
+    "heroAlt": {
+      "en": "A school-age child holds a small cotton pad on their inner elbow after a blood test.",
+      "es": "Un niño en edad escolar sostiene un algodón en el pliegue del codo después de un análisis de sangre.",
+      "fr": "Un enfant maintient un coton au pli du coude après une prise de sang.",
+      "pt": "Uma criança em idade escolar segura um algodão na dobra do cotovelo depois de um exame de sangue.",
+      "tr": "Okul çağındaki bir çocuk kan alındıktan sonra dirseğinin iç kısmına pamuk bastırıyor.",
+      "fa": "کودکی در سن مدرسه پس از آزمایش خون پنبه‌ای را روی بخش داخلی آرنجش نگه داشته است.",
+      "ar": "طفل في سن المدرسة يضغط بقطنة صغيرة على ثنية مرفقه بعد سحب عينة دم."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "When vitamin K deficiency is a concern in an older child",
+      "description": "Learn how poor absorption and some medicines affect vitamin K, which changes in bleeding need urgent care, and what a clinician may check in an older child."
+    },
+    "fa": {
+      "title": "کمبود ویتامین K در کودکان بزرگ‌تر چه زمانی مطرح می‌شود؟",
+      "description": "ببینید اختلال جذب و بعضی داروها چطور بر ویتامین K اثر می‌گذارند، کدام تغییرات خونریزی به رسیدگی فوری نیاز دارند و پزشک در کودک بزرگ‌تر چه چیزی را بررسی می‌کند."
+    },
+    "ar": {
+      "title": "متى يُشتبه بنقص فيتامين ك لدى طفل أكبر سنّاً؟",
+      "description": "تعرّف إلى أثر سوء الامتصاص وبعض الأدوية في فيتامين ك، وإلى تغيّرات النزف التي تستدعي رعاية عاجلة والفحوص التي قد يطلبها الطبيب للطفل الأكبر سنّاً."
+    },
+    "fr": {
+      "title": "Quand évoquer un manque de vitamine K chez un enfant ?",
+      "description": "Comprenez le rôle de l’absorption et des médicaments, les saignements à faire examiner sans attendre et les tests que le médecin peut proposer à votre enfant."
+    },
+    "tr": {
+      "title": "Büyük çocuklarda K vitamini eksikliği ne zaman düşünülür?",
+      "description": "Emilim güçlükleri ve bazı ilaçların K vitaminini nasıl etkilediğini, hangi kanamaların acil olduğunu ve sağlık ekibinin çocukta neleri araştırdığını öğrenin."
+    },
+    "es": {
+      "title": "Cuándo sospechar falta de vitamina K en un niño mayor",
+      "description": "Conoce cómo la mala absorción y algunos fármacos afectan a la vitamina K, qué sangrados necesitan atención urgente y qué puede valorar el equipo de tu hijo."
+    },
+    "pt": {
+      "title": "Quando suspeitar de falta de vitamina K em uma criança maior",
+      "description": "Entenda como a má absorção e alguns remédios afetam a vitamina K, quais sangramentos exigem atenção urgente e o que a equipe pode investigar na criança."
+    }
+  }
+}

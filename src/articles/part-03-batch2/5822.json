@@ -1,0 +1,695 @@
+{
+  "sourceId": "5822",
+  "article": {
+    "slug": "baby-and-child/lung-and-airway-tumours-in-children",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "Lung and airway tumours in children: what the finding means",
+        "description": "Learn what a lung finding can mean in a child, why a scan alone may not name a tumour, and which breathing symptoms or signs of bleeding need urgent care.",
+        "intro": "A report from your child’s chest scan mentions a mass. Before looking up treatment, ask what the team actually knows. A scan may show a change in an airway, the lung itself or the tissue around it. Knowing where it is helps the team choose the next test. The word ‘mass’ alone does not tell you it is cancer.",
+        "sections": [
+          {
+            "heading": "Where did the finding start?",
+            "paragraphs": [
+              "A primary tumour starts in the lung or airway. A metastasis contains cells from a cancer that started elsewhere, such as a bone tumour that spread to the lung. It retains the name and biology of the original cancer. A chest finding can also be a noncancerous growth, an infection or a developmental change.",
+              "Primary lung cancers in children are rare. The types clinicians consider differ from the common adult smoking-related cancers. A bronchial carcinoid can grow in a breathing tube. Pleuropulmonary blastoma, or PPB, is a different tumour that chiefly affects young children and can arise in the lung or the lining of the chest. Ask which part of the chest is involved and what else could explain the finding."
+            ]
+          },
+          {
+            "heading": "Which symptoms should be checked?",
+            "paragraphs": [
+              "A tumour narrowing an airway can cause a persistent cough, wheeze or repeated pneumonia in the same area. These symptoms have many more common explanations. Tell the clinician how long the problem has lasted, whether it recurs in the same place and whether the child recovers between episodes. Mention breathlessness, chest pain, fever or weight loss.",
+              "Seek urgent medical assessment if a child coughs up blood, even small streaks. More than a few streaks, blood with chest pain or trouble breathing, severe breathing difficulty, blue or grey lips, or collapse needs emergency help. A child who is working hard to breathe needs help immediately, whatever the cause."
+            ]
+          },
+          {
+            "heading": "Why the diagnosis can take more than a scan",
+            "paragraphs": [
+              "A chest X-ray may show a change, and a CT scan can show its location and relation to airways and nearby structures. A specialist may use bronchoscopy, a thin camera passed into the airway, to see an airway lesion. The pediatric team decides how to obtain tissue safely when it is needed. A pathologist examines the tissue to identify the type.",
+              "One international registry received 435 cases submitted as possible PPB. Expert review of the tissue confirmed PPB in 350 and found other diagnoses in 85. These were selected referrals, not a sample of all children with a cough or a lung cyst. The findings show why specialist pathology review matters when the suspected diagnosis is rare."
+            ]
+          },
+          {
+            "heading": "Genetics, treatment and follow-up",
+            "paragraphs": [
+              "Some children with PPB have a change in a gene called DICER1 that is present from birth. The team may recommend genetic counselling and testing, which can also guide care for relatives. It does not follow that every childhood lung tumour is inherited, or that an adult relative with lung cancer explains a child’s illness. Repeated infection may signal an obstructed airway; infection does not usually turn into cancer.",
+              "Treatment depends on the exact diagnosis, its position and whether it has spread. Surgery can remove certain airway tumours and is central to PPB treatment. Some children also need chemotherapy or, in selected circumstances, radiotherapy. Ask the team what the tissue showed, what they hope each treatment will achieve and which appointments will check for a recurrence. There is no single outlook for all childhood lung tumours."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Ask whether the finding starts in an airway or lung, has spread from another site, or could be noncancerous.",
+          "Describe the pattern of symptoms and seek urgent assessment for any blood coughed up.",
+          "Ask which tissue result or genetic result could change treatment or follow-up."
+        ],
+        "faq": [
+          {
+            "q": "Can a child develop lung cancer?",
+            "a": "Yes, but a cancer starting in a child’s lung or airway is rare. A spot on a scan can have other causes. The team will use the history, imaging and sometimes tissue to find out what it is."
+          },
+          {
+            "q": "What causes these tumours?",
+            "a": "Causes differ, and a particular child’s cause may be unknown. For example, some PPBs are associated with a DICER1 change. Ordinary coughs or repeated infections do not establish cancer. Recurrent infection in the same part of the lung may prompt a search for an obstruction."
+          },
+          {
+            "q": "Is childhood lung cancer inherited?",
+            "a": "Some specific tumours have a genetic association. If PPB is suspected or confirmed, ask about genetic counselling. A family history of an adult lung cancer alone does not establish an inherited childhood tumour."
+          },
+          {
+            "q": "Can parents prevent a childhood lung tumour?",
+            "a": "There is no proven household measure that prevents every childhood lung tumour. Keep the home and car smoke-free for your child’s respiratory health. If a familial gene change is known, ask the genetics team about recommended monitoring."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Bring prior scan reports so the team can compare the same part of the lung.",
+            "Ask what the imaging can show and whether tissue review is needed.",
+            "Record which breathing or bleeding changes should prompt urgent or emergency help."
+          ],
+          "bemama": "BeMama suggests asking the team to point out the finding on the scan and write down whether the next step is another image, a closer look at the airway or a tissue result.",
+          "safety": "Seek urgent assessment if your child coughs up any blood. Get emergency help for more than a few streaks, blood with chest pain or difficulty breathing, severe breathing difficulty, blue or grey lips, or collapse.",
+          "sources": [
+            {
+              "organization": "US National Cancer Institute",
+              "title": "Childhood tracheobronchial tumours",
+              "url": "https://www.cancer.gov/types/lung/patient/child-tracheobronchial-treatment-pdq"
+            },
+            {
+              "organization": "US National Cancer Institute",
+              "title": "Pleuropulmonary blastoma in children",
+              "url": "https://www.cancer.gov/types/lung/patient/child-pleuropulmonary-blastoma-treatment-pdq"
+            },
+            {
+              "organization": "Messinger and colleagues, Cancer",
+              "title": "Expert pathology review in the International Pleuropulmonary Blastoma Registry",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25209242/"
+            },
+            {
+              "organization": "National Health Service",
+              "title": "Urgent and emergency care when coughing up blood",
+              "url": "https://www.nhs.uk/symptoms/coughing-up-blood/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "توده در ریه یا راه هوایی کودک چه معنایی دارد؟",
+        "description": "ببینید توده در ریه یا راه هوایی کودک چه علت‌هایی دارد، چرا برای تشخیص گاهی به نمونهٔ بافت نیاز است و چه زمانی سرفه همراه خون یا مشکل تنفس رسیدگی فوری می‌خواهد.",
+        "intro": "در گزارش تصویربرداری قفسهٔ سینهٔ فرزندتان کلمهٔ «توده» آمده است. پیش از جست‌وجوی درمان، بپرسید تا اینجا چه چیزی روشن شده است. تصویر ممکن است تغییری در راه هوایی، خود ریه یا بافت پیرامون آن نشان دهد. دانستن محل به انتخاب بررسی بعدی کمک می‌کند. واژهٔ توده به‌تنهایی به معنای سرطان نیست.",
+        "sections": [
+          {
+            "heading": "تغییر از کجا آغاز شده است؟",
+            "paragraphs": [
+              "تومور اولیه از ریه یا راه هوایی شروع می‌شود. متاستاز از سلول‌های سرطانی تشکیل می‌شود که از جای دیگری آمده‌اند؛ برای نمونه، تومور استخوانی که به ریه گسترش پیدا کرده است. نام و ویژگی‌های زیستی متاستاز همان سرطان اولیه است. یافتهٔ قفسهٔ سینه همچنین می‌تواند ضایعه‌ای خوش‌خیم، عفونت یا تغییری باشد که هنگام رشد اندام پدید آمده است.",
+              "سرطانی که از ریهٔ کودک شروع شود نادر است. پزشکان به نوع‌هایی متفاوت از سرطان‌های شایع بزرگسالان مرتبط با سیگار فکر می‌کنند. تومور کارسینوئید برونش ممکن است در یکی از مجاری تنفسی رشد کند. بلاستوم پلوروپولمونری یا PPB تومور دیگری است که بیشتر در کودکان کوچک دیده می‌شود و می‌تواند در ریه یا پردهٔ پوشانندهٔ قفسهٔ سینه ایجاد شود. بپرسید کدام بخش درگیر است و چه علت‌های دیگری برای یافته وجود دارد."
+            ]
+          },
+          {
+            "heading": "کدام علامت‌ها نیاز به بررسی دارند؟",
+            "paragraphs": [
+              "توموری که راه هوایی را تنگ می‌کند ممکن است باعث سرفهٔ ماندگار، خس‌خس یا ذات‌الریهٔ تکراری در یک بخش از ریه شود. علت‌های بسیار شایع‌تری هم برای این نشانه‌ها وجود دارند. بگویید مشکل از چه زمانی شروع شده، آیا در همان محل برمی‌گردد و آیا کودک بین دوره‌ها بهبود پیدا می‌کند. تنگی نفس، درد قفسهٔ سینه، تب یا کاهش وزن را هم ذکر کنید.",
+              "اگر کودک با سرفه خون بالا می‌آورد، حتی اگر فقط رگه‌های کوچکی باشد، برای ارزیابی فوری پزشکی اقدام کنید. اگر خون بیش از چند رگه است، خون با درد قفسهٔ سینه یا دشواری تنفس همراه است، کودک به‌شدت برای نفس کشیدن مشکل دارد، لب‌هایش آبی یا خاکستری می‌شوند یا از حال می‌رود، فوراً با اورژانس تماس بگیرید. کودکی که برای هر نفس به‌وضوح تقلا می‌کند، به هر علتی که باشد، بلافاصله به کمک نیاز دارد."
+            ]
+          },
+          {
+            "heading": "چرا گاهی تصویر برای تشخیص کافی نیست؟",
+            "paragraphs": [
+              "عکس سادهٔ قفسهٔ سینه ممکن است تغییری نشان دهد و سی‌تی‌اسکن محل آن و نزدیکی‌اش به راه‌های هوایی و ساختارهای اطراف را روشن‌تر کند. برای دیدن ضایعهٔ راه هوایی، متخصص ممکن است برونکوسکوپی انجام دهد و دوربین باریکی را وارد راه تنفسی کند. اگر نمونه لازم باشد، تیم کودکان دربارهٔ روش ایمن تهیهٔ آن تصمیم می‌گیرد. متخصص آسیب‌شناسی نمونهٔ بافت را برای مشخص شدن نوع ضایعه بررسی می‌کند.",
+              "در یک سامانهٔ ثبت بین‌المللی، ۴۳۵ مورد با احتمال PPB ارجاع شده بود. بازبینی تخصصی بافت، PPB را در ۳۵۰ مورد تأیید کرد و در ۸۵ مورد تشخیص دیگری مطرح شد. این‌ها مواردی بودند که برای بررسی انتخاب شده بودند و نمایندهٔ همهٔ کودکان دچار سرفه یا کیست ریه نبودند. این یافته‌ها نشان می‌دهند چرا هنگام شک به بیماری‌ای نادر، بازبینی بافت به دست متخصص اهمیت دارد."
+            ]
+          },
+          {
+            "heading": "ژنتیک، درمان و پیگیری",
+            "paragraphs": [
+              "بعضی از کودکان مبتلا به PPB از بدو تولد تغییری در ژنی به نام DICER1 دارند. تیم درمان ممکن است مشاوره و آزمایش ژنتیک پیشنهاد کند که گاهی به تعیین پیگیری لازم برای خویشاوندان هم کمک می‌کند. از این موضوع نمی‌توان نتیجه گرفت همهٔ تومورهای ریه در کودکی ارثی‌اند یا ابتلای یک بزرگسال در خانواده به سرطان ریه، بیماری کودک را توضیح می‌دهد. عفونت مکرر ممکن است نشانهٔ بسته بودن راه هوایی باشد؛ عفونت معمولاً به سرطان تبدیل نمی‌شود.",
+              "درمان به تشخیص دقیق، محل ضایعه و میزان گسترش آن بستگی دارد. برخی تومورهای راه هوایی را می‌توان با جراحی برداشت. جراحی در درمان PPB هم جایگاه اصلی دارد. بعضی کودکان به شیمی‌درمانی یا در شرایط مشخص به پرتودرمانی هم نیاز پیدا می‌کنند. بپرسید نمونهٔ بافت چه نشان داده، از هر درمان چه انتظاری دارند و کدام ویزیت‌ها برای بررسی عود بیماری است. پیش‌آگهی برای همهٔ تومورهای ریهٔ کودکان یکی نیست."
+            ]
+          }
+        ],
+        "takeaways": [
+          "بپرسید ضایعه از ریه یا راه هوایی شروع شده، از بخش دیگری گسترش یافته یا ممکن است خوش‌خیم باشد.",
+          "الگوی علامت‌ها را توضیح دهید و برای هر مقدار خون در سرفهٔ کودک ارزیابی فوری بگیرید.",
+          "بپرسید کدام نتیجهٔ بافت یا آزمایش ژنتیک ممکن است درمان یا پیگیری را تغییر دهد."
+        ],
+        "faq": [
+          {
+            "q": "آیا کودک هم ممکن است به سرطان ریه مبتلا شود؟",
+            "a": "بله، ولی سرطانی که از خود ریه یا راه هوایی کودک شروع شود نادر است. یک لکه در تصویر می‌تواند علت‌های دیگری داشته باشد. تیم درمان با توجه به سابقه، تصویربرداری و گاهی نمونهٔ بافت ماهیت آن را بررسی می‌کند."
+          },
+          {
+            "q": "علت این تومورها چیست؟",
+            "a": "علت‌ها متفاوت‌اند و گاهی در یک کودک مشخص نمی‌شوند. برای نمونه، بعضی موارد PPB با تغییر ژن DICER1 ارتباط دارند. سرفهٔ معمولی یا عفونت‌های تکراری به‌تنهایی سرطان را ثابت نمی‌کنند. عفونتی که در همان ناحیهٔ ریه برمی‌گردد ممکن است سبب بررسی انسداد راه هوایی شود."
+          },
+          {
+            "q": "آیا سرطان ریهٔ کودک ارثی است؟",
+            "a": "برخی تومورهای مشخص با عوامل ژنتیکی ارتباط دارند. در صورت شک به PPB یا تأیید آن دربارهٔ مشاورهٔ ژنتیک بپرسید. سابقهٔ سرطان ریه در یک عضو بزرگسال خانواده به‌تنهایی نشان نمی‌دهد کودک توموری ارثی دارد."
+          },
+          {
+            "q": "آیا والدین می‌توانند از تومور ریه در کودک پیشگیری کنند؟",
+            "a": "هیچ اقدام خانگی اثبات‌شده‌ای برای پیشگیری از همهٔ این تومورها وجود ندارد. برای سلامت تنفس کودک، خانه و خودرو را عاری از دود سیگار نگه دارید. اگر تغییر ژنتیکی شناخته‌شده‌ای در خانواده هست، دربارهٔ پایش لازم از تیم ژنتیک بپرسید."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۶ نوامبر ۲۰۲۶ بازبینی شد",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "گزارش تصاویر قبلی را ببرید تا تیم درمان بتواند همان ناحیهٔ ریه را مقایسه کند.",
+            "بپرسید تصویربرداری چه چیزی را نشان می‌دهد و آیا بررسی بافت لازم است.",
+            "بنویسید کدام تغییرات تنفسی یا خون‌ریزی نیاز به ارزیابی فوری دارند و برای کدام باید با اورژانس تماس بگیرید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند از تیم درمان بخواهید یافته را روی تصویر نشان دهد و یادداشت کند قدم بعدی تصویربرداری مجدد، نگاه دقیق‌تر به راه هوایی یا دریافت نتیجهٔ بافت است.",
+          "safety": "برای هر مقدار خون همراه سرفهٔ کودک ارزیابی فوری بگیرید. اگر خون بیش از چند رگه است، با درد قفسهٔ سینه یا دشواری تنفس همراه است، یا کودک دچار دشواری شدید تنفس، لب‌های آبی یا خاکستری یا از حال رفتن شده است، فوراً با اورژانس تماس بگیرید.",
+          "sources": [
+            {
+              "organization": "مؤسسهٔ ملی سرطان آمریکا",
+              "title": "تومورهای نای و نایژه در کودکی",
+              "url": "https://www.cancer.gov/types/lung/patient/child-tracheobronchial-treatment-pdq"
+            },
+            {
+              "organization": "مؤسسهٔ ملی سرطان آمریکا",
+              "title": "بلاستوم پلوروپولمونری در کودکان",
+              "url": "https://www.cancer.gov/types/lung/patient/child-pleuropulmonary-blastoma-treatment-pdq"
+            },
+            {
+              "organization": "مسینگر و همکاران، مجلهٔ کنسر",
+              "title": "بازبینی تخصصی آسیب‌شناسی در سامانهٔ بین‌المللی ثبت بلاستوم پلوروپولمونری",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25209242/"
+            },
+            {
+              "organization": "سرویس ملی سلامت بریتانیا",
+              "title": "رسیدگی فوری و اورژانسی به سرفهٔ همراه با خون",
+              "url": "https://www.nhs.uk/symptoms/coughing-up-blood/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "ماذا تعني كتلة في الرئة أو مجرى التنفس عند الطفل؟",
+        "description": "تعرّف إلى ما قد تعنيه كتلة في صورة صدر الطفل، ولماذا قد يحتاج التشخيص إلى فحص عينة نسيج، وأي أعراض تنفسية أو دم مع السعال تستدعي المساعدة العاجلة.",
+        "intro": "يذكر تقرير تصوير صدر طفلك وجود كتلة. قبل البحث عن العلاج، اسأل الفريق عمّا يعرفه بالفعل. قد يُظهر التصوير تغيرًا في أحد مجاري التنفس أو في الرئة نفسها أو في النسيج المحيط بها. ويساعد تحديد المكان على اختيار الفحص التالي. كلمة «كتلة» وحدها لا تعني سرطانًا.",
+        "sections": [
+          {
+            "heading": "من أين بدأ التغيّر؟",
+            "paragraphs": [
+              "ينشأ الورم الأوّلي في الرئة أو في أحد مجاري التنفس. أما النقيلة فتتكون من خلايا سرطان بدأ في مكان آخر، مثل ورم عظمي انتشر إلى الرئة، وهي تحتفظ باسم السرطان الأصلي وخصائصه الحيوية. وقد تكون الآفة الظاهرة في الصدر نموًا حميدًا أو عدوى أو تغيرًا نشأ أثناء تكوّن الأنسجة.",
+              "سرطانات الرئة الأولية نادرة عند الأطفال. والأنواع التي يفكر فيها الأطباء تختلف عن السرطانات الشائعة لدى البالغين المرتبطة بالتدخين. قد ينمو ورم سرطاوي قصبي داخل إحدى القصبات. أما الورم الأرومي الجنبي الرئوي، ويُختصر بالإنجليزية إلى PPB، فهو ورم آخر يصيب خصوصًا الأطفال الصغار، وقد ينشأ في الرئة أو بطانة الصدر. اسأل عن الجزء المصاب والتفسيرات الأخرى الممكنة."
+            ]
+          },
+          {
+            "heading": "أي أعراض تستدعي الفحص؟",
+            "paragraphs": [
+              "قد يسبب ورم يضيّق مجرى التنفس سعالًا مستمرًا أو أزيزًا أو تكرار الالتهاب الرئوي في الموضع نفسه. لكن لهذه الأعراض أسبابًا أكثر شيوعًا بكثير. أخبر الطبيب بمدة المشكلة، وهل تتكرر في المكان نفسه، وهل يتعافى الطفل بين النوبات. واذكر ضيق النفس أو ألم الصدر أو الحمى أو فقدان الوزن.",
+              "اطلب تقييمًا طبيًا عاجلًا إذا سعل الطفل دمًا، حتى لو كان مجرد خيوط صغيرة. اتصل بالطوارئ فورًا إذا تجاوز الدم بضعة خيوط، أو صاحبه ألم في الصدر أو صعوبة في التنفس، أو وُجدت صعوبة شديدة في التنفس أو ازرقاق أو تلون رمادي للشفتين أو انهيار مفاجئ. يحتاج الطفل الذي يبذل جهدًا واضحًا لالتقاط أنفاسه إلى المساعدة فورًا، أيًا كان السبب."
+            ]
+          },
+          {
+            "heading": "لماذا قد يتطلب التشخيص أكثر من صورة؟",
+            "paragraphs": [
+              "قد تُظهر الأشعة السينية تغيرًا في الصدر، ويوضح التصوير المقطعي موقعه بالنسبة إلى المجاري التنفسية والأعضاء المجاورة. وقد يستخدم الاختصاصي منظار القصبات، وهو كاميرا رفيعة تدخل مجرى التنفس، لفحص آفة داخله. يقرر فريق الأطفال الطريقة الآمنة لأخذ عينة نسيج إن لزم الأمر، ويفحصها اختصاصي علم الأمراض لتحديد نوعها.",
+              "تلقّى سجل دولي ٤٣٥ حالة أُحيلت للاشتباه في ورم أرومي جنبي رئوي. أكدت مراجعة الأنسجة على أيدي اختصاصيين التشخيص في ٣٥٠ حالة، ووجدت تشخيصات أخرى في ٨٥ حالة. كانت هذه إحالات منتقاة، ولا تمثل جميع الأطفال الذين يسعلون أو لديهم كيسة في الرئة. توضح النتائج قيمة المراجعة المتخصصة للأنسجة عند الاشتباه في مرض نادر."
+            ]
+          },
+          {
+            "heading": "الوراثة والعلاج والمتابعة",
+            "paragraphs": [
+              "لدى بعض الأطفال المصابين بالورم الأرومي الجنبي الرئوي تغير في جين يُسمى DICER1 موجود منذ الولادة. قد يوصي الفريق بالاستشارة والفحوص الوراثية التي قد ترشد أيضًا رعاية الأقارب. لا يعني ذلك أن كل ورم رئوي عند الأطفال موروث، أو أن إصابة قريب بالغ بسرطان الرئة تفسر مرض الطفل. قد تنبه العدوى المتكررة إلى انسداد مجرى التنفس. ولا تتحول العدوى عادة إلى سرطان.",
+              "يتوقف العلاج على التشخيص الدقيق والموقع وما إذا كان الورم قد انتشر. يمكن استئصال بعض أورام مجاري التنفس جراحيًا، وللجراحة دور أساسي في علاج الورم الأرومي الجنبي الرئوي. ويحتاج بعض الأطفال أيضًا إلى العلاج الكيميائي، أو إلى العلاج الإشعاعي في حالات محددة. اسأل عمّا أظهر النسيج وما الهدف من كل علاج، وعن المواعيد المخصصة لمراقبة عودة الورم. يختلف المآل باختلاف نوع الورم."
+            ]
+          }
+        ],
+        "takeaways": [
+          "اسأل هل بدأ التغير في الرئة أو مجرى التنفس أم انتشر من موضع آخر، وهل يمكن أن يكون حميدًا.",
+          "صف نمط الأعراض، واطلب تقييمًا عاجلًا عند خروج أي كمية من الدم مع السعال.",
+          "اسأل عن نتائج فحص النسيج أو الاختبار الوراثي التي قد تغيّر العلاج أو المتابعة."
+        ],
+        "faq": [
+          {
+            "q": "هل يمكن أن يُصاب طفل بسرطان الرئة؟",
+            "a": "نعم، لكن السرطان الذي يبدأ في رئة الطفل أو في مجرى التنفس نادر. وقد تكون للبقعة الظاهرة في الصورة أسباب أخرى. يدرس الفريق القصة المرضية والصور، وأحيانًا عينة نسيج، لمعرفة السبب."
+          },
+          {
+            "q": "ما أسباب هذه الأورام؟",
+            "a": "تختلف الأسباب وقد يظل السبب مجهولًا لدى طفل معين. على سبيل المثال ترتبط بعض الأورام الأرومية الجنبية الرئوية بتغيّر في DICER1. لا يثبت السعال المعتاد أو تكرر العدوى وجود سرطان. لكن تكرر الالتهاب في الموضع الرئوي نفسه قد يدفع إلى البحث عن انسداد."
+          },
+          {
+            "q": "هل سرطان الرئة في الطفولة موروث؟",
+            "a": "لبعض الأنواع المحددة ارتباط وراثي. عند الاشتباه في الورم الأرومي الجنبي الرئوي أو تأكيده، اسأل عن الاستشارة الوراثية. إصابة شخص بالغ في الأسرة بسرطان الرئة وحدها لا تثبت أن الطفل لديه ورم موروث."
+          },
+          {
+            "q": "هل يستطيع الأهل الوقاية من ورم الرئة عند الطفل؟",
+            "a": "لا توجد خطوة منزلية ثبت أنها تمنع جميع أورام الرئة في الطفولة. حافظ على المنزل والسيارة خاليين من دخان التبغ لحماية صحة الطفل التنفسية. إذا كانت هناك طفرة وراثية معروفة في العائلة فاسأل فريق الوراثة عن المتابعة الموصى بها."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "أحضر تقارير التصوير السابقة حتى يستطيع الفريق مقارنة المنطقة نفسها من الرئة.",
+            "اسأل عمّا يستطيع التصوير إظهاره وما إذا كانت هناك حاجة إلى فحص النسيج.",
+            "دوّن أي تغير في التنفس أو نزف يستدعي تقييمًا عاجلًا وأي الأعراض تتطلب الاتصال بالطوارئ."
+          ],
+          "bemama": "تقترح بي ماما أن تطلب من الفريق تحديد موضع التغيّر في الصورة وكتابة ما إذا كانت الخطوة التالية تصويرًا آخر أو فحصًا أدق لمجرى التنفس أو انتظار نتيجة النسيج.",
+          "safety": "اطلب تقييمًا عاجلًا عند خروج أي دم مع سعال الطفل. اتصل بالطوارئ إذا كان الدم أكثر من بضعة خيوط، أو ترافق مع ألم الصدر أو صعوبة التنفس، أو حدثت صعوبة شديدة في التنفس أو ازرقاق أو تلون رمادي للشفتين أو انهيار مفاجئ.",
+          "sources": [
+            {
+              "organization": "المعهد الوطني الأمريكي للسرطان",
+              "title": "أورام الرغامى والقصبات عند الأطفال",
+              "url": "https://www.cancer.gov/types/lung/patient/child-tracheobronchial-treatment-pdq"
+            },
+            {
+              "organization": "المعهد الوطني الأمريكي للسرطان",
+              "title": "الورم الأرومي الجنبي الرئوي في الطفولة",
+              "url": "https://www.cancer.gov/types/lung/patient/child-pleuropulmonary-blastoma-treatment-pdq"
+            },
+            {
+              "organization": "ميسنغر وزملاؤه، مجلة Cancer",
+              "title": "مراجعة الأنسجة على أيدي اختصاصيين في السجل الدولي للورم الأرومي الجنبي الرئوي",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25209242/"
+            },
+            {
+              "organization": "هيئة الخدمات الصحية الوطنية البريطانية",
+              "title": "متى يحتاج خروج الدم مع السعال إلى رعاية عاجلة أو طارئة؟",
+              "url": "https://www.nhs.uk/symptoms/coughing-up-blood/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Une masse dans le poumon ou les bronches d’un enfant",
+        "description": "Que peut signifier une masse sur une image du thorax d’un enfant ? Voyez comment les examens précisent sa nature et quand du sang dans la toux exige des soins.",
+        "intro": "Le compte rendu d’un examen du thorax de votre enfant mentionne une masse. Avant de chercher des traitements, demandez à l’équipe ce qu’elle sait déjà. L’image peut montrer une anomalie dans une bronche, le poumon lui-même ou les tissus autour du poumon. Sa localisation aide à choisir l’examen suivant. Le mot « masse » ne suffit pas à conclure à un cancer.",
+        "sections": [
+          {
+            "heading": "Où l’anomalie a-t-elle pris naissance ?",
+            "paragraphs": [
+              "Une tumeur primitive prend naissance dans le poumon ou les voies respiratoires. Une métastase contient des cellules d’un cancer apparu ailleurs, par exemple d’une tumeur osseuse qui a gagné le poumon. Elle garde le nom et les caractéristiques biologiques du cancer d’origine. Une image thoracique peut aussi correspondre à une lésion bénigne, à une infection ou à une anomalie du développement.",
+              "Les cancers primitifs du poumon sont rares chez l’enfant. Les médecins envisagent des types de tumeurs différents des cancers fréquents de l’adulte liés au tabac. Une tumeur carcinoïde bronchique peut se développer dans une bronche. Le blastome pleuropulmonaire, ou BPP, est une autre tumeur qui touche surtout les jeunes enfants et peut se former dans le poumon ou dans l’enveloppe qui tapisse le thorax. Demandez quelle zone est concernée et quelles autres explications sont possibles."
+            ]
+          },
+          {
+            "heading": "Quels symptômes faire examiner ?",
+            "paragraphs": [
+              "Une tumeur qui rétrécit une bronche peut entraîner une toux persistante, des sifflements ou des pneumonies répétées au même endroit. Bien d’autres causes sont plus fréquentes. Précisez depuis quand les symptômes durent, s’ils reviennent dans la même zone et si l’enfant se rétablit entre les épisodes. Signalez un essoufflement, une douleur dans la poitrine, une fièvre ou une perte de poids.",
+              "Demandez un avis médical urgent si votre enfant crache du sang en toussant, même s’il ne s’agit que de petites traces. Appelez les secours s’il y a plus que quelques traces, si le sang s’accompagne d’une douleur thoracique ou d’une gêne respiratoire, si la respiration est très difficile, si les lèvres deviennent bleues ou grises, ou si l’enfant s’effondre. Un enfant qui fait des efforts importants pour respirer a besoin d’aide immédiatement, quelle qu’en soit la cause."
+            ]
+          },
+          {
+            "heading": "Pourquoi une image peut ne pas suffire",
+            "paragraphs": [
+              "Une radiographie du thorax peut montrer une anomalie. Un scanner précise sa situation par rapport aux bronches et aux structures voisines. Une bronchoscopie permet au spécialiste d’introduire une fine caméra pour observer une lésion des voies respiratoires. Si un prélèvement est nécessaire, l’équipe pédiatrique décide comment l’obtenir en toute sécurité. Un anatomopathologiste examine le tissu pour en déterminer la nature.",
+              "Un registre international a reçu 435 dossiers adressés pour suspicion de BPP. L’examen des tissus par des spécialistes a confirmé 350 BPP et retenu un autre diagnostic dans 85 cas. Il s’agissait de dossiers sélectionnés, et non d’un échantillon de tous les enfants qui toussent ou présentent un kyste pulmonaire. Ces résultats montrent l’intérêt d’une relecture spécialisée lorsqu’une tumeur rare est suspectée."
+            ]
+          },
+          {
+            "heading": "Génétique, traitement et suivi",
+            "paragraphs": [
+              "Chez certains enfants atteints de BPP, une modification du gène DICER1 est présente dès la naissance. L’équipe peut proposer un conseil génétique et des tests qui peuvent aussi orienter le suivi des proches. Tous les cancers pulmonaires de l’enfant ne sont pas héréditaires, et un cancer du poumon chez un adulte de la famille n’explique pas à lui seul la maladie de l’enfant. Des infections répétées peuvent révéler une bronche obstruée. Une infection ne se transforme généralement pas en cancer.",
+              "Le traitement dépend du diagnostic précis, de la localisation et d’une éventuelle extension. La chirurgie permet de retirer certaines tumeurs des bronches et joue un rôle central dans le traitement du BPP. Certains enfants ont aussi besoin d’une chimiothérapie ou, dans des situations particulières, d’une radiothérapie. Demandez ce que le prélèvement a montré, le but de chaque traitement et le suivi prévu pour repérer une récidive. Le pronostic varie selon la tumeur."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Demandez si l’anomalie se forme dans le poumon ou une bronche, vient d’un autre site ou pourrait être bénigne.",
+          "Décrivez l’évolution des symptômes. Tout sang craché en toussant nécessite une évaluation urgente.",
+          "Demandez quels résultats de l’analyse des tissus ou d’un test génétique pourraient modifier le traitement ou le suivi."
+        ],
+        "faq": [
+          {
+            "q": "Un enfant peut-il avoir un cancer du poumon ?",
+            "a": "Oui, mais un cancer qui prend naissance dans le poumon ou les voies respiratoires d’un enfant est rare. Une image inhabituelle peut avoir d’autres causes. L’équipe s’appuie sur les antécédents, l’imagerie et parfois un prélèvement pour l’identifier."
+          },
+          {
+            "q": "Qu’est-ce qui provoque ces tumeurs ?",
+            "a": "Les causes varient et restent parfois inconnues pour un enfant donné. Certains BPP sont associés à une modification de DICER1. Une toux banale ou des infections répétées ne permettent pas de conclure à un cancer. Si l’infection revient dans la même partie du poumon, le médecin peut rechercher une obstruction."
+          },
+          {
+            "q": "Le cancer du poumon de l’enfant est-il héréditaire ?",
+            "a": "Certaines tumeurs ont une association génétique. Si un BPP est suspecté ou confirmé, demandez si un conseil génétique est indiqué. Un cancer du poumon chez un adulte de la famille ne suffit pas à établir que la tumeur de l’enfant est héréditaire."
+          },
+          {
+            "q": "Les parents peuvent-ils prévenir une tumeur pulmonaire chez leur enfant ?",
+            "a": "Aucune mesure à la maison ne prévient toutes les tumeurs pulmonaires de l’enfant. Préservez la maison et la voiture de la fumée de tabac pour protéger sa santé respiratoire. Si une modification génétique familiale est connue, demandez à l’équipe de génétique quel suivi est recommandé."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Apportez les anciens comptes rendus pour que l’équipe puisse comparer la même zone du poumon.",
+            "Demandez ce que montre l’image et si un examen de tissu est nécessaire.",
+            "Notez quels changements respiratoires ou saignements doivent conduire à un avis urgent ou à un appel aux secours."
+          ],
+          "bemama": "BeMama vous propose de demander à l’équipe de montrer l’anomalie sur l’image et d’écrire la prochaine étape : une autre image, un examen des bronches ou le résultat d’un prélèvement.",
+          "safety": "Demandez un avis médical urgent pour tout sang craché en toussant. Appelez les secours s’il y a plus que quelques traces, du sang avec douleur thoracique ou gêne respiratoire, une difficulté respiratoire importante, des lèvres bleues ou grises ou si l’enfant s’effondre.",
+          "sources": [
+            {
+              "organization": "Institut national du cancer des États-Unis",
+              "title": "Tumeurs trachéobronchiques de l’enfant",
+              "url": "https://www.cancer.gov/types/lung/patient/child-tracheobronchial-treatment-pdq"
+            },
+            {
+              "organization": "Institut national du cancer des États-Unis",
+              "title": "Blastome pleuropulmonaire de l’enfant",
+              "url": "https://www.cancer.gov/types/lung/patient/child-pleuropulmonary-blastoma-treatment-pdq"
+            },
+            {
+              "organization": "Messinger et collaborateurs, Cancer",
+              "title": "Relecture anatomopathologique dans le registre international du blastome pleuropulmonaire",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25209242/"
+            },
+            {
+              "organization": "Service national de santé britannique",
+              "title": "Quand consulter en urgence en cas de sang craché en toussant",
+              "url": "https://www.nhs.uk/symptoms/coughing-up-blood/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Çocuklarda akciğer ve hava yolu tümörleri nasıl değerlendirilir?",
+        "description": "Çocuğun akciğerinde görülen kitlenin ne anlama gelebileceğini, hangi testlerin tanıya yardımcı olduğunu ve kanlı öksürükte ne zaman yardım alınacağını öğrenin.",
+        "intro": "Çocuğunuzun göğüs görüntüleme raporunda bir kitleden söz ediliyor. Tedavi araştırmadan önce ekibe şu anda kesin olarak ne bildiklerini sorun. Görüntü, hava yolunda, akciğerin kendisinde veya çevresindeki dokuda bir değişiklik gösterebilir. Yerini bilmek, bir sonraki incelemeyi seçmeye yardımcı olur. Tek başına “kitle” sözcüğü kanser anlamına gelmez.",
+        "sections": [
+          {
+            "heading": "Bulgu nerede başladı?",
+            "paragraphs": [
+              "Birincil tümör akciğerde veya hava yolunda başlar. Metastaz, başka yerde başlayan bir kanserin hücrelerini içerir. Örneğin bir kemik tümörü akciğere yayılabilir. Metastaz, kaynaklandığı kanserin adını ve biyolojik özelliklerini korur. Göğüste görülen bir değişiklik iyi huylu bir oluşum, enfeksiyon veya gelişimsel bir farklılık da olabilir.",
+              "Çocuklarda akciğerden kaynaklanan kanserler nadirdir. Hekimlerin düşündüğü türler, erişkinlerde sigarayla ilişkili sık görülen kanserlerden farklıdır. Bronşiyal karsinoid bir bronşun içinde büyüyebilir. Plöropulmoner blastom veya kısaca PPB, daha çok küçük çocukları etkileyen, akciğerde veya göğüs boşluğunu döşeyen zarda gelişebilen başka bir tümördür. Göğsün hangi bölümünün etkilendiğini ve bulgunun başka hangi nedenlerle açıklanabileceğini sorun."
+            ]
+          },
+          {
+            "heading": "Hangi belirtiler kontrol edilmeli?",
+            "paragraphs": [
+              "Hava yolunu daraltan bir tümör, geçmeyen öksürüğe, hırıltıya veya akciğerin aynı bölgesinde tekrarlayan zatürreye yol açabilir. Bu belirtilerin çok daha sık görülen nedenleri vardır. Sorunun ne kadar sürdüğünü, aynı yerde tekrarlayıp tekrarlamadığını ve çocuğun ataklar arasında düzelip düzelmediğini anlatın. Nefes darlığı, göğüs ağrısı, ateş veya kilo kaybını da söyleyin.",
+              "Çocuk öksürürken az miktarda, çizgi şeklinde bile kan geliyorsa acilen tıbbi değerlendirme isteyin. Kan birkaç çizgiden fazlaysa, kana göğüs ağrısı ya da nefes almada güçlük eşlik ediyorsa veya çocuk çok zor nefes alıyor, dudakları mavi ya da griye dönüyor veya yığılıp kalıyorsa hemen acil yardım çağırın. Nefes almak için belirgin çaba harcayan bir çocuğun, neden ne olursa olsun, hemen yardıma ihtiyacı vardır."
+            ]
+          },
+          {
+            "heading": "Tanı için neden tek görüntü yetmeyebilir?",
+            "paragraphs": [
+              "Akciğer grafisi bir değişiklik gösterebilir. Bilgisayarlı tomografi bunun yerini, hava yolları ve komşu yapılarla ilişkisini gösterir. Uzman, hava yolundaki bir oluşumu görebilmek için bronkoskopi yapabilir; bu işlemde hava yoluna ince bir kamera ilerletilir. Doku örneği gerektiğinde çocuk sağlığı ekibi güvenli yolu belirler. Örneği inceleyen patolog türünü tanımlar.",
+              "Uluslararası bir kayıt merkezine olası PPB tanısıyla 435 vaka gönderildi. Uzmanların doku incelemesi 350 vakada PPB’yi doğruladı, 85 vakada başka tanılar bulundu. Bunlar inceleme için seçilmiş başvurulardı. Tüm öksüren çocukları veya akciğerinde kist bulunan tüm çocukları temsil etmiyordu. Bulgular, nadir bir tanıdan şüphelenildiğinde uzman patoloji değerlendirmesinin değerini gösterir."
+            ]
+          },
+          {
+            "heading": "Genetik, tedavi ve izlem",
+            "paragraphs": [
+              "PPB’li bazı çocuklarda DICER1 adlı gende doğumdan itibaren bir değişiklik vardır. Ekip, yakınların takibine de yol gösterebilecek genetik danışmanlık ve testler önerebilir. Buradan çocukluktaki her akciğer tümörünün kalıtsal olduğu ya da erişkin bir akrabadaki akciğer kanserinin çocuğun hastalığını açıkladığı sonucu çıkmaz. Tekrarlayan enfeksiyonlar bir hava yolunun tıkandığını düşündürebilir. Enfeksiyon genellikle kansere dönüşmez.",
+              "Tedavi kesin tanıya, tümörün yerine ve yayılıp yayılmadığına göre değişir. Bazı hava yolu tümörleri ameliyatla çıkarılabilir. Cerrahi PPB tedavisinde de temel rol oynar. Bazı çocukların kemoterapiye veya belirli durumlarda radyoterapiye de ihtiyacı vardır. Ekibe doku incelemesinin sonucunu, her tedavinin amacını ve nüks açısından hangi kontrollerin yapılacağını sorun. Tüm çocukluk çağı akciğer tümörleri için tek bir gidişat yoktur."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Bulgunun hava yolunda veya akciğerde mi başladığını, başka bir yerden mi geldiğini ya da iyi huylu olup olamayacağını sorun.",
+          "Belirtilerin ne zaman ve nasıl tekrarladığını anlatın. Öksürükle gelen her miktarda kan için acil değerlendirme isteyin.",
+          "Hangi doku veya genetik test sonucunun tedaviyi ya da izlemi değiştirebileceğini sorun."
+        ],
+        "faq": [
+          {
+            "q": "Bir çocukta akciğer kanseri görülebilir mi?",
+            "a": "Evet, ancak çocukta akciğerden veya hava yolundan başlayan kanser nadirdir. Görüntüdeki bir lekenin başka nedenleri de olabilir. Ekip öykü, görüntüleme ve bazen de doku incelemesiyle nedenini araştırır."
+          },
+          {
+            "q": "Bu tümörlerin nedeni nedir?",
+            "a": "Nedenler değişir ve bir çocukta neden saptanamayabilir. Örneğin bazı PPB’ler DICER1 değişikliğiyle ilişkilidir. Sıradan bir öksürük veya tekrarlayan enfeksiyonlar kanseri kanıtlamaz. Akciğerin aynı bölgesinde yineleyen enfeksiyon, tıkanıklık olup olmadığının araştırılmasını gerektirebilir."
+          },
+          {
+            "q": "Çocukluk çağı akciğer kanseri kalıtsal mıdır?",
+            "a": "Bazı belirli tümörlerin genetik ilişkisi vardır. PPB’den şüpheleniliyorsa veya tanı doğrulanmışsa genetik danışmanlığı sorun. Tek başına bir erişkin akrabada akciğer kanseri olması çocuğun tümörünün kalıtsal olduğunu göstermez."
+          },
+          {
+            "q": "Anne babalar çocukta akciğer tümörünü önleyebilir mi?",
+            "a": "Tüm çocukluk çağı akciğer tümörlerini önlediği kanıtlanmış bir ev önlemi yoktur. Solunum sağlığını korumak için evi ve arabayı sigara dumanından uzak tutun. Ailede bilinen bir gen değişikliği varsa önerilen izlemi genetik ekibine sorun."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtların gözden geçirilme tarihi 16 Kasım 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Ekibin akciğerin aynı bölgesini karşılaştırabilmesi için önceki görüntüleme raporlarını getirin.",
+            "Görüntülemenin neyi gösterebildiğini ve dokunun incelenmesinin gerekip gerekmediğini sorun.",
+            "Hangi solunum veya kanama değişikliklerinde acil değerlendirme gerektiğini ve hangilerinde acil yardım çağıracağınızı not edin."
+          ],
+          "bemama": "BeMama, ekibin bulguyu görüntü üzerinde göstermesini ve bir sonraki adımın başka bir görüntüleme mi, hava yolunun yakından incelenmesi mi yoksa doku sonucu mu olduğunu yazmasını istemenizi önerir.",
+          "safety": "Çocuk öksürdüğünde herhangi bir miktarda kan gelirse acil tıbbi değerlendirme isteyin. Birkaç çizgiden fazla kan, kanla birlikte göğüs ağrısı ya da nefes almada güçlük, şiddetli solunum güçlüğü, dudaklarda mavi ya da gri renk veya yığılıp kalma durumunda hemen acil yardım çağırın.",
+          "sources": [
+            {
+              "organization": "ABD Ulusal Kanser Enstitüsü",
+              "title": "Çocukluk çağı trakeobronşiyal tümörleri",
+              "url": "https://www.cancer.gov/types/lung/patient/child-tracheobronchial-treatment-pdq"
+            },
+            {
+              "organization": "ABD Ulusal Kanser Enstitüsü",
+              "title": "Çocuklarda plöropulmoner blastom",
+              "url": "https://www.cancer.gov/types/lung/patient/child-pleuropulmonary-blastoma-treatment-pdq"
+            },
+            {
+              "organization": "Messinger ve çalışma arkadaşları, Cancer",
+              "title": "Uluslararası Plöropulmoner Blastom Kayıt Merkezinde uzman patoloji değerlendirmesi",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25209242/"
+            },
+            {
+              "organization": "Birleşik Krallık Ulusal Sağlık Servisi",
+              "title": "Öksürükle kan geldiğinde acil değerlendirme ve acil yardım",
+              "url": "https://www.nhs.uk/symptoms/coughing-up-blood/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Tumores del pulmón y de las vías respiratorias en niños",
+        "description": "Qué puede significar una masa en el pulmón de un niño, por qué una imagen no basta para identificarla y cuándo la tos con sangre requiere atención urgente.",
+        "intro": "El informe de una imagen del tórax de tu hijo menciona una masa. Antes de buscar tratamientos, pregunta qué sabe ya el equipo. La imagen puede mostrar una alteración en una vía respiratoria, en el propio pulmón o en el tejido que lo rodea. Saber dónde está ayuda a elegir la siguiente prueba. La palabra «masa» por sí sola no significa cáncer.",
+        "sections": [
+          {
+            "heading": "¿Dónde se originó la alteración?",
+            "paragraphs": [
+              "Un tumor primario empieza en el pulmón o en una vía respiratoria. Una metástasis contiene células de un cáncer que se originó en otro lugar, como un tumor óseo que se extendió al pulmón. Conserva el nombre y las características biológicas del cáncer de origen. Una lesión en el tórax también puede ser un crecimiento benigno, una infección o una alteración del desarrollo.",
+              "Los cánceres primarios de pulmón en la infancia son poco frecuentes. Los tipos que consideran los médicos difieren de los cánceres habituales del adulto relacionados con el tabaco. Un carcinoide bronquial puede crecer dentro de un bronquio. El blastoma pleuropulmonar, o BPP, es otro tumor que afecta sobre todo a niños pequeños y puede aparecer en el pulmón o en el revestimiento del tórax. Pregunta qué parte está afectada y qué otras causas podrían explicarlo."
+            ]
+          },
+          {
+            "heading": "¿Qué síntomas conviene valorar?",
+            "paragraphs": [
+              "Un tumor que estrecha un bronquio puede producir tos persistente, silbidos al respirar o neumonías repetidas en el mismo lugar. Hay muchas causas más frecuentes de estos síntomas. Indica desde cuándo ocurre, si vuelve a la misma zona y si el niño se recupera entre episodios. Menciona la falta de aire, el dolor torácico, la fiebre o la pérdida de peso.",
+              "Busca valoración médica urgente si al toser expulsa sangre, aunque sean pequeñas vetas. Pide ayuda de emergencia si hay más de unas pocas vetas, si la sangre se acompaña de dolor torácico o dificultad para respirar, o si hay dificultad respiratoria intensa, labios azulados o grises o un colapso. Un niño que hace un gran esfuerzo para respirar necesita ayuda inmediata, sea cual sea la causa."
+            ]
+          },
+          {
+            "heading": "Por qué una imagen puede no bastar para el diagnóstico",
+            "paragraphs": [
+              "Una radiografía puede mostrar una alteración y una tomografía computarizada permite ver su relación con los bronquios y otras estructuras. El especialista puede usar una broncoscopia, introduciendo una cámara delgada por la vía respiratoria, para observar una lesión. Si hace falta tejido, el equipo pediátrico decide cómo obtenerlo de forma segura. Un patólogo lo examina para identificar el tipo.",
+              "Un registro internacional recibió 435 casos remitidos por posible BPP. Tras la revisión especializada del tejido se confirmó BPP en 350 y se identificaron otros diagnósticos en 85. Eran casos seleccionados para su evaluación. No representaban a todos los niños con tos ni a todos los que tenían un quiste pulmonar. Los datos muestran por qué importa la revisión especializada ante la sospecha de un tumor raro."
+            ]
+          },
+          {
+            "heading": "Genética, tratamiento y seguimiento",
+            "paragraphs": [
+              "Algunos niños con BPP tienen desde el nacimiento un cambio en un gen llamado DICER1. El equipo puede recomendar asesoramiento y pruebas genéticas que también orienten la atención de la familia. Esto no significa que todos los tumores pulmonares infantiles sean hereditarios ni que el cáncer de pulmón de un adulto explique la enfermedad del niño. Las infecciones repetidas pueden ser una pista de obstrucción. Habitualmente una infección no se convierte en cáncer.",
+              "El tratamiento depende del diagnóstico concreto, de dónde está la lesión y de si se ha extendido. La cirugía puede extirpar determinados tumores de la vía respiratoria y es fundamental en el tratamiento del BPP. Algunos niños necesitan además quimioterapia o, en casos seleccionados, radioterapia. Pregunta qué mostró el tejido, cuál es el objetivo de cada tratamiento y cómo vigilarán una posible reaparición. El pronóstico varía según el tumor."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Pregunta si la lesión nace en el pulmón o en una vía respiratoria, si procede de otro lugar o si podría ser benigna.",
+          "Describe cómo se repiten los síntomas y busca valoración urgente ante cualquier cantidad de sangre al toser.",
+          "Pregunta qué resultado del tejido o de una prueba genética podría modificar el tratamiento o el seguimiento."
+        ],
+        "faq": [
+          {
+            "q": "¿Puede un niño tener cáncer de pulmón?",
+            "a": "Sí, aunque es raro que un cáncer se origine en el pulmón o en las vías respiratorias de un niño. Una imagen anormal también tiene otras explicaciones. El equipo reúne la historia, las imágenes y, a veces, una muestra de tejido para averiguar la causa."
+          },
+          {
+            "q": "¿Qué causa estos tumores?",
+            "a": "Las causas varían y en un niño concreto pueden quedar sin aclarar. Algunos BPP se asocian con cambios en DICER1. Una tos habitual o varias infecciones no demuestran cáncer. Si una infección se repite en la misma zona del pulmón, puede investigarse si algo obstruye el paso del aire."
+          },
+          {
+            "q": "¿Es hereditario el cáncer de pulmón infantil?",
+            "a": "Algunos tumores concretos tienen una asociación genética. Ante la sospecha o confirmación de BPP pregunta por el asesoramiento genético. Un antecedente de cáncer de pulmón en un familiar adulto, por sí solo, no indica que haya un tumor infantil hereditario."
+          },
+          {
+            "q": "¿Pueden los padres prevenir un tumor pulmonar en su hijo?",
+            "a": "No se conoce una medida doméstica que prevenga todos estos tumores. Mantén la casa y el coche libres de humo para cuidar la salud respiratoria del niño. Si hay un cambio genético familiar conocido, pregunta al equipo de genética qué vigilancia recomienda."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Lleva los informes de imágenes anteriores para que puedan comparar la misma zona del pulmón.",
+            "Pregunta qué se puede saber por las imágenes y si es necesario revisar tejido.",
+            "Anota qué cambios en la respiración o qué sangrado requieren valoración urgente o ayuda de emergencia."
+          ],
+          "bemama": "BeMama sugiere pedir que te señalen la lesión en la imagen y que anoten si lo siguiente es obtener otra imagen, examinar la vía respiratoria o esperar el resultado del análisis de tejido.",
+          "safety": "Pide valoración urgente ante cualquier cantidad de sangre al toser. Solicita ayuda de emergencia si hay más de unas pocas vetas, sangre con dolor torácico o dificultad para respirar, dificultad respiratoria intensa, labios azulados o grises o un colapso.",
+          "sources": [
+            {
+              "organization": "Instituto Nacional del Cáncer de Estados Unidos",
+              "title": "Tumores traqueobronquiales infantiles",
+              "url": "https://www.cancer.gov/types/lung/patient/child-tracheobronchial-treatment-pdq"
+            },
+            {
+              "organization": "Instituto Nacional del Cáncer de Estados Unidos",
+              "title": "Blastoma pleuropulmonar en la infancia",
+              "url": "https://www.cancer.gov/types/lung/patient/child-pleuropulmonary-blastoma-treatment-pdq"
+            },
+            {
+              "organization": "Messinger y colaboradores, Cancer",
+              "title": "Revisión anatomopatológica en el Registro Internacional de Blastoma Pleuropulmonar",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25209242/"
+            },
+            {
+              "organization": "Servicio Nacional de Salud del Reino Unido",
+              "title": "Atención urgente y de emergencia al toser sangre",
+              "url": "https://www.nhs.uk/symptoms/coughing-up-blood/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Tumores do pulmão e das vias aéreas em crianças",
+        "description": "Entenda o que pode ser uma massa no pulmão da criança, como os exames ajudam a identificar sua origem e quando a tosse com sangue exige atendimento urgente.",
+        "intro": "O laudo de um exame do tórax do seu filho menciona uma massa. Antes de procurar informações sobre tratamento, pergunte o que a equipe já sabe. A imagem pode mostrar uma alteração em uma via aérea, no próprio pulmão ou no tecido ao redor. A localização ajuda a escolher o próximo exame. A palavra “massa”, por si só, não significa câncer.",
+        "sections": [
+          {
+            "heading": "Onde surgiu a alteração?",
+            "paragraphs": [
+              "Um tumor primário começa no pulmão ou em uma via aérea. Uma metástase contém células de um câncer que surgiu em outro lugar, por exemplo um tumor ósseo que se espalhou para o pulmão. Ela mantém o nome e as características biológicas do câncer de origem. Uma alteração no tórax também pode ser um crescimento benigno, uma infecção ou uma alteração do desenvolvimento.",
+              "Cânceres primários do pulmão são raros em crianças. Os tipos que os médicos investigam são diferentes dos cânceres comuns relacionados ao tabagismo em adultos. Um tumor carcinoide brônquico pode crescer em um brônquio. O blastoma pleuropulmonar, ou BPP, é outro tumor, que afeta principalmente crianças pequenas e pode surgir no pulmão ou na membrana que reveste o tórax. Pergunte qual parte está envolvida e o que mais poderia explicar o achado."
+            ]
+          },
+          {
+            "heading": "Quais sintomas precisam de avaliação?",
+            "paragraphs": [
+              "Um tumor que estreita uma via aérea pode causar tosse persistente, chiado ou pneumonias repetidas na mesma área. Existem explicações muito mais frequentes para esses sintomas. Diga há quanto tempo ocorrem, se voltam ao mesmo local e se a criança se recupera entre os episódios. Informe falta de ar, dor no peito, febre ou perda de peso.",
+              "Procure avaliação médica urgente se a criança tossir sangue, mesmo que sejam pequenos filetes. Peça ajuda de emergência se houver mais que alguns filetes, se o sangue vier com dor no peito ou dificuldade para respirar, se a respiração estiver muito difícil, os lábios azulados ou acinzentados ou se a criança tiver um colapso. Uma criança que faz muito esforço para respirar precisa de ajuda imediata, independentemente da causa."
+            ]
+          },
+          {
+            "heading": "Por que só a imagem pode não bastar",
+            "paragraphs": [
+              "Uma radiografia de tórax pode mostrar uma alteração. A tomografia detalha a posição em relação às vias aéreas e a estruturas próximas. Na broncoscopia, o especialista introduz uma câmera fina na via aérea para observar uma lesão. Se houver necessidade de amostra de tecido, a equipe pediátrica decide como obtê-la com segurança. Um patologista examina o material para identificar o tipo de lesão.",
+              "Um registro internacional recebeu 435 casos encaminhados por suspeita de BPP. A revisão especializada do tecido confirmou BPP em 350 e identificou outros diagnósticos em 85. Eram encaminhamentos selecionados, e não uma amostra de todas as crianças com tosse ou cisto no pulmão. Os números mostram o valor da revisão por patologistas experientes quando se suspeita de um diagnóstico raro."
+            ]
+          },
+          {
+            "heading": "Genética, tratamento e acompanhamento",
+            "paragraphs": [
+              "Algumas crianças com BPP têm desde o nascimento uma alteração no gene DICER1. A equipe pode recomendar aconselhamento e testes genéticos que também podem orientar o cuidado de familiares. Isso não significa que todos os tumores pulmonares na infância sejam hereditários nem que o câncer de pulmão de um parente adulto explique a doença da criança. Infecções repetidas podem indicar uma via aérea obstruída. Em geral, uma infecção não se transforma em câncer.",
+              "O tratamento depende do diagnóstico exato, da localização e da presença de disseminação. A cirurgia pode remover alguns tumores das vias aéreas e é central no tratamento do BPP. Algumas crianças também precisam de quimioterapia ou, em situações selecionadas, radioterapia. Pergunte o que o exame de tecido mostrou, qual o objetivo de cada tratamento e quais consultas servirão para verificar se há recidiva. O prognóstico varia conforme o tumor."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Pergunte se a alteração se origina na via aérea ou no pulmão, se veio de outro local ou se pode ser benigna.",
+          "Descreva o padrão dos sintomas e procure avaliação urgente se a criança tossir qualquer quantidade de sangue.",
+          "Pergunte que resultado do exame de tecido ou do teste genético poderia mudar o tratamento ou o acompanhamento."
+        ],
+        "faq": [
+          {
+            "q": "Uma criança pode desenvolver câncer de pulmão?",
+            "a": "Sim, mas é raro um câncer começar no pulmão ou nas vias aéreas de uma criança. Uma alteração no exame de imagem pode ter outras causas. A equipe avalia a história clínica, as imagens e, às vezes, uma amostra de tecido."
+          },
+          {
+            "q": "O que causa esses tumores?",
+            "a": "As causas variam e podem permanecer desconhecidas em uma criança específica. Alguns BPP estão associados a alterações no DICER1. Tosse comum ou infecções repetidas não comprovam câncer. Uma infecção que volta na mesma parte do pulmão pode levar à investigação de uma obstrução."
+          },
+          {
+            "q": "O câncer de pulmão infantil é hereditário?",
+            "a": "Alguns tumores específicos têm associação genética. Se houver suspeita ou confirmação de BPP, pergunte sobre aconselhamento genético. Um histórico familiar de câncer de pulmão em adulto, por si só, não estabelece que a criança tem um tumor hereditário."
+          },
+          {
+            "q": "Os pais podem prevenir um tumor pulmonar na criança?",
+            "a": "Não existe medida doméstica comprovada que previna todos esses tumores. Mantenha a casa e o carro livres de fumaça de cigarro para proteger a saúde respiratória da criança. Se houver uma alteração genética conhecida na família, pergunte à equipe de genética qual acompanhamento é recomendado."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Leve laudos anteriores para que a equipe compare a mesma área do pulmão.",
+            "Pergunte o que a imagem mostra e se é necessário examinar o tecido.",
+            "Anote quais alterações respiratórias ou sinais de sangramento exigem atendimento urgente ou de emergência."
+          ],
+          "bemama": "A BeMama sugere pedir à equipe que aponte a alteração na imagem e anote se a próxima etapa é outro exame de imagem, observar a via aérea ou aguardar o resultado de uma amostra de tecido.",
+          "safety": "Procure avaliação urgente se a criança tossir qualquer quantidade de sangue. Peça ajuda de emergência se houver mais que alguns filetes, sangue acompanhado de dor no peito ou dificuldade para respirar, dificuldade respiratória intensa, lábios azulados ou acinzentados ou colapso.",
+          "sources": [
+            {
+              "organization": "Instituto Nacional do Câncer dos Estados Unidos",
+              "title": "Tumores traqueobrônquicos na infância",
+              "url": "https://www.cancer.gov/types/lung/patient/child-tracheobronchial-treatment-pdq"
+            },
+            {
+              "organization": "Instituto Nacional do Câncer dos Estados Unidos",
+              "title": "Blastoma pleuropulmonar em crianças",
+              "url": "https://www.cancer.gov/types/lung/patient/child-pleuropulmonary-blastoma-treatment-pdq"
+            },
+            {
+              "organization": "Messinger e colaboradores, Cancer",
+              "title": "Revisão por patologistas no Registro Internacional de Blastoma Pleuropulmonar",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/25209242/"
+            },
+            {
+              "organization": "Serviço Nacional de Saúde do Reino Unido",
+              "title": "Atendimento urgente e de emergência para tosse com sangue",
+              "url": "https://www.nhs.uk/symptoms/coughing-up-blood/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5822.webp",
+    "heroAlt": {
+      "en": "A transparent lung model shows the branches of the airways beside a stethoscope in a children's clinic.",
+      "es": "Un modelo transparente de los pulmones muestra las ramificaciones de las vías respiratorias junto a un estetoscopio en una consulta pediátrica.",
+      "fr": "Maquette transparente des poumons montrant les ramifications des bronches, près d’un stéthoscope en consultation pédiatrique.",
+      "pt": "Um modelo transparente dos pulmões mostra as ramificações das vias respiratórias ao lado de um estetoscópio em um consultório pediátrico.",
+      "tr": "Çocuk kliniğinde, stetoskobun yanındaki şeffaf akciğer modelinde dallanan hava yolları görülüyor.",
+      "fa": "ماکت شفاف ریه‌ها با شاخه‌های راه‌های هوایی، کنار یک گوشی پزشکی در مطب کودکان.",
+      "ar": "مجسّم شفاف للرئتين يُظهر تفرعات الممرات الهوائية بجوار سماعة طبية في عيادة أطفال."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "Lung and airway tumours in children: what the finding means",
+      "description": "Learn what a lung finding can mean in a child, why a scan alone may not name a tumour, and which breathing symptoms or signs of bleeding need urgent care."
+    },
+    "fa": {
+      "title": "توده در ریه یا راه هوایی کودک چه معنایی دارد؟",
+      "description": "ببینید توده در ریه یا راه هوایی کودک چه علت‌هایی دارد، چرا برای تشخیص گاهی به نمونهٔ بافت نیاز است و چه زمانی سرفه همراه خون یا مشکل تنفس رسیدگی فوری می‌خواهد."
+    },
+    "ar": {
+      "title": "ماذا تعني كتلة في الرئة أو مجرى التنفس عند الطفل؟",
+      "description": "تعرّف إلى ما قد تعنيه كتلة في صورة صدر الطفل، ولماذا قد يحتاج التشخيص إلى فحص عينة نسيج، وأي أعراض تنفسية أو دم مع السعال تستدعي المساعدة العاجلة."
+    },
+    "fr": {
+      "title": "Une masse dans le poumon ou les bronches d’un enfant",
+      "description": "Que peut signifier une masse sur une image du thorax d’un enfant ? Voyez comment les examens précisent sa nature et quand du sang dans la toux exige des soins."
+    },
+    "tr": {
+      "title": "Çocuklarda akciğer ve hava yolu tümörleri nasıl değerlendirilir?",
+      "description": "Çocuğun akciğerinde görülen kitlenin ne anlama gelebileceğini, hangi testlerin tanıya yardımcı olduğunu ve kanlı öksürükte ne zaman yardım alınacağını öğrenin."
+    },
+    "es": {
+      "title": "Tumores del pulmón y de las vías respiratorias en niños",
+      "description": "Qué puede significar una masa en el pulmón de un niño, por qué una imagen no basta para identificarla y cuándo la tos con sangre requiere atención urgente."
+    },
+    "pt": {
+      "title": "Tumores do pulmão e das vias aéreas em crianças",
+      "description": "Entenda o que pode ser uma massa no pulmão da criança, como os exames ajudam a identificar sua origem e quando a tosse com sangue exige atendimento urgente."
+    }
+  }
+}

@@ -1,0 +1,660 @@
+{
+  "sourceId": "5906",
+  "article": {
+    "slug": "baby-and-child/when-a-child-feels-unable-to-stop-eating",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "When a child feels unable to stop eating",
+        "description": "Learn how to distinguish a bigger appetite from distress about losing control while eating, what to say to your child and when to ask for professional help.",
+        "intro": "Your child says, “I wanted to stop eating but I couldn’t.” Choose a quiet time to ask what that felt like. The size of their lunch tells you less than what happened, how often it happens and whether it is upsetting them.",
+        "sections": [
+          {
+            "heading": "Ask about the experience",
+            "paragraphs": [
+              "Appetite can rise with growth, activity or a missed meal. Eating for comfort can happen when a child is sad or bored. A feeling of losing control means the child feels unable to stop eating or choose how much to eat at that moment. These experiences can overlap.",
+              "Try asking, “Were you hungry when you started? Did you feel able to stop? How did you feel afterward?” Listen without correcting their description. Eating secretly, feeling uncomfortably full or feeling ashamed afterward can matter, whatever the child weighs."
+            ]
+          },
+          {
+            "heading": "Why repeated episodes deserve attention",
+            "paragraphs": [
+              "Binge-eating disorder involves recurrent episodes of eating an unusually large amount with loss of control and significant distress. A child can be upset by loss of control even when you would not call the amount large. An eating-disorder professional can assess the whole pattern.",
+              "In one study, 195 children were assessed initially and 118 were reassessed about five years later. Children who reported loss of control initially were more likely to develop some or all features of binge-eating disorder. The study does not predict an individual child’s future. It gives a reason to take repeated distress seriously."
+            ]
+          },
+          {
+            "heading": "What to do at home",
+            "paragraphs": [
+              "Offer regular meals and snacks that the child can count on. If they regularly come home ravenous, ask whether they had time and enough food at lunch. Keep the next meal available after a difficult episode. Avoid weighing the child at home to monitor episodes, shaming them or making them exercise to compensate.",
+              "An enjoyable walk or game can be part of the day without having to earn food. Ask what kind of company would help at a difficult time. With their agreement, jot down what they noticed and bring it to a clinician rather than keeping a tally of calories."
+            ]
+          },
+          {
+            "heading": "Arrange support",
+            "paragraphs": [
+              "Contact the child’s clinician if loss of control recurs, eating causes distress, or the child starts skipping meals, vomiting on purpose or using laxatives. A clinician can check physical health and growth, ask about mood and help arrange age-appropriate eating-disorder care. Do not wait for a visible weight change.",
+              "Treatment may involve guided self-help or eating-disorder-focused psychological therapy adapted to the child. Starting a restrictive diet can make the cycle harder to break. Seek emergency care if the child collapses, is difficult to wake or is in immediate danger of harming themselves."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Ask about the feeling of losing control and the distress that follows.",
+          "Keep meals predictable and avoid using exercise or missed meals as compensation.",
+          "Seek help for recurrent episodes or signs of purging, at any body size."
+        ],
+        "faq": [
+          {
+            "q": "Is eating in response to emotions the same as binge eating?",
+            "a": "No. Food can be comforting. Ask whether the child felt able to stop, whether it happens repeatedly and whether they are distressed. A clinician can help interpret that pattern."
+          },
+          {
+            "q": "What does a large appetite mean?",
+            "a": "Growth, exercise and time since the last meal can affect hunger. Appetite alone does not diagnose a disorder. Pay attention if the child repeatedly describes losing control or feeling ashamed."
+          },
+          {
+            "q": "What problems can repeated episodes cause?",
+            "a": "A child may experience discomfort, shame, anxiety or disruption to daily life. A clinician can check physical and emotional health. Body size cannot show how much support a child needs."
+          },
+          {
+            "q": "How can I help prevent the pattern getting worse?",
+            "a": "Offer reliable meals, listen privately and avoid dieting or exercise as punishment. Ask for an assessment when episodes recur or become distressing."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Use the child’s experience and distress to guide the conversation.",
+            "Offer regular meals and seek professional help without waiting for a weight change.",
+            "Discuss vomiting, laxative use and other attempts to compensate with the clinician."
+          ],
+          "bemama": "BeMama suggests asking what happened around a difficult episode, including whether the child had been able to eat at school that day.",
+          "safety": "Contact a clinician for recurring loss of control or purging. Seek emergency care for collapse, difficulty waking or immediate danger of self-harm.",
+          "sources": [
+            {
+              "organization": "National Institute of Diabetes and Digestive and Kidney Diseases",
+              "title": "Recognising symptoms of binge-eating disorder",
+              "url": "https://www.niddk.nih.gov/health-information/weight-management/binge-eating-disorder/symptoms-causes"
+            },
+            {
+              "organization": "Tanofsky-Kraff and colleagues, Journal of Abnormal Psychology",
+              "title": "Follow-up of children reporting loss of control while eating",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/21114355/"
+            },
+            {
+              "organization": "National Institute for Health and Care Excellence",
+              "title": "Recognition and treatment of eating disorders, including binge-eating disorder in young people",
+              "url": "https://www.nice.org.uk/guidance/ng69/chapter/Recommendations"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "وقتی کودک احساس می‌کند نمی‌تواند دست از خوردن بکشد",
+        "description": "ببینید افزایش اشتها چه فرقی با ناراحتی ناشی از احساس از دست دادن کنترل هنگام خوردن دارد، چطور با کودک حرف بزنید و چه زمانی از متخصص کمک بخواهید.",
+        "intro": "فرزندتان می‌گوید «می‌خواستم دیگر نخورم اما نمی‌توانستم.» در زمانی آرام از او بپرسید این تجربه چه حسی داشت. اینکه چه اتفاقی افتاد، چند وقت یک بار تکرار می‌شود و چقدر آزارش می‌دهد از مقدار ناهارش اطلاعات بیشتری به شما می‌دهد.",
+        "sections": [
+          {
+            "heading": "دربارهٔ تجربه‌اش بپرسید",
+            "paragraphs": [
+              "رشد، فعالیت یا جا ماندن از یک وعده ممکن است اشتها را بیشتر کند. گاهی کودک هنگام ناراحتی یا بی‌حوصلگی برای آرام شدن غذا می‌خورد. از دست دادن کنترل یعنی در آن لحظه حس می‌کند نمی‌تواند خوردن را متوقف کند یا مقدارش را انتخاب کند. این تجربه‌ها می‌توانند هم‌زمان رخ دهند.",
+              "بپرسید «وقتی شروع کردی گرسنه بودی؟ حس می‌کردی می‌توانی دست بکشی؟ بعد چه حسی داشتی؟» بی‌آنکه روایتش را اصلاح کنید گوش بدهید. پنهانی غذا خوردن، سیری تا حد ناراحتی یا احساس شرم بعد از خوردن می‌تواند مهم باشد، صرف‌نظر از اینکه وزن کودک چقدر است."
+            ]
+          },
+          {
+            "heading": "چرا تکرار این تجربه نیاز به توجه دارد؟",
+            "paragraphs": [
+              "در اختلال پرخوری افراطی، دوره‌های خوردن مقدار غیرمعمول و زیادی از غذا با احساس از دست دادن کنترل و ناراحتی قابل‌توجه تکرار می‌شوند. حتی اگر مقدار غذا به نظر شما زیاد نباشد، احساس ناتوانی در توقف می‌تواند کودک را آزار دهد. متخصص اختلال‌های خوردن می‌تواند مجموعهٔ این تجربه‌ها را بررسی کند.",
+              "در پژوهشی ابتدا ۱۹۵ کودک ارزیابی شدند و حدود پنج سال بعد ۱۱۸ نفر دوباره ارزیابی شدند. در کودکانی که در آغاز احساس از دست دادن کنترل را گزارش کرده بودند احتمال بروز بخشی از نشانه‌ها یا همهٔ نشانه‌های اختلال پرخوری بیشتر بود. این مطالعه آیندهٔ یک کودک مشخص را پیش‌بینی نمی‌کند. اما دلیلی است برای جدی گرفتن ناراحتی تکرارشونده."
+            ]
+          },
+          {
+            "heading": "در خانه چه کنیم؟",
+            "paragraphs": [
+              "وعده‌ها و میان‌وعده‌های منظمی فراهم کنید که کودک بتواند روی آن‌ها حساب کند. اگر اغلب بسیار گرسنه به خانه می‌آید، بپرسید برای ناهار وقت و غذای کافی داشته یا نه. پس از یک تجربهٔ دشوار هم وعدهٔ بعدی را در دسترس او بگذارید. برای کنترل این تجربه‌ها او را در خانه وزن نکنید، شرمنده‌اش نکنید و وادارش نکنید با ورزش جبران کند.",
+              "پیاده‌روی یا بازی می‌تواند بخشی لذت‌بخش از روز باشد، بدون اینکه کودک مجبور باشد غذا را با فعالیت به دست بیاورد. بپرسید در لحظهٔ دشوار دوست دارد چگونه کنارش باشید. با موافقت او، به جای شمردن کالری، مشاهداتش را یادداشت کنید تا به پزشک بگویید."
+            ]
+          },
+          {
+            "heading": "کمک گرفتن",
+            "paragraphs": [
+              "اگر احساس از دست دادن کنترل تکرار می‌شود، خوردن سبب ناراحتی است یا کودک شروع به حذف وعده‌ها، ایجاد عمدی استفراغ یا مصرف ملین کرده است، با پزشک کودک تماس بگیرید. پزشک سلامت جسمی و رشد را بررسی می‌کند، دربارهٔ خلق می‌پرسد و می‌تواند مراقبت تخصصی متناسب با سن را ترتیب دهد. منتظر تغییر آشکار وزن نمانید.",
+              "درمان می‌تواند شامل خودیاری هدایت‌شده یا روان‌درمانی متمرکز بر اختلال خوردن و متناسب با کودک باشد. رژیم محدودکننده ممکن است بیرون آمدن از این چرخه را دشوارتر کند. اگر کودک از حال رفت، به‌سختی بیدار می‌شود یا در خطر فوری آسیب رساندن به خود است، کمک اورژانسی بخواهید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "از احساس ناتوانی در متوقف کردن خوردن و ناراحتی پس از آن بپرسید.",
+          "برنامهٔ وعده‌ها را قابل‌پیش‌بینی نگه دارید و برای جبران، به ورزش یا حذف وعده رو نیاورید.",
+          "برای دوره‌های مکرر یا رفتارهایی مانند استفراغ عمدی، در هر اندازه و وزنی کمک بخواهید."
+        ],
+        "faq": [
+          {
+            "q": "آیا غذا خوردن در واکنش به احساسات همان پرخوری افراطی است؟",
+            "a": "خیر. غذا می‌تواند آرامش‌بخش باشد. بپرسید کودک حس می‌کرده می‌تواند دست بکشد، آیا تکرار می‌شود و آیا آزارش می‌دهد. پزشک می‌تواند در فهم این الگو کمک کند."
+          },
+          {
+            "q": "اشتها داشتن زیاد چه معنایی دارد؟",
+            "a": "رشد، فعالیت بدنی و فاصله از وعدهٔ قبلی بر گرسنگی اثر می‌گذارند. اشتها به‌تنهایی اختلالی را ثابت نمی‌کند. اگر کودک بارها احساس ناتوانی در کنترل خوردن یا شرم را شرح می‌دهد، جدی بگیرید."
+          },
+          {
+            "q": "تکرار این دوره‌ها چه مشکلاتی ایجاد می‌کند؟",
+            "a": "کودک ممکن است احساس ناراحتی، شرم یا اضطراب داشته باشد یا زندگی روزمره‌اش مختل شود. پزشک می‌تواند سلامت جسمی و عاطفی او را بررسی کند. اندازهٔ بدن میزان نیاز به کمک را نشان نمی‌دهد."
+          },
+          {
+            "q": "چطور از بدتر شدن این الگو جلوگیری کنم؟",
+            "a": "وعده‌ها را منظم فراهم کنید، در خلوت گوش بدهید و از رژیم یا ورزش به‌عنوان تنبیه استفاده نکنید. اگر این دوره‌ها تکرار می‌شوند یا آزاردهنده‌اند، درخواست ارزیابی کنید."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۶ نوامبر ۲۰۲۶ بازبینی شد",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "گفت‌وگو را بر پایهٔ تجربه و ناراحتی خود کودک پیش ببرید.",
+            "وعده‌های منظم بدهید و بدون انتظار برای تغییر وزن، کمک تخصصی بگیرید.",
+            "استفراغ عمدی، مصرف ملین و دیگر تلاش‌ها برای جبران خوردن را با پزشک در میان بگذارید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند دربارهٔ شرایط پیرامون تجربهٔ دشوار بپرسید، از جمله اینکه کودک آن روز توانست در مدرسه غذا بخورد یا نه.",
+          "safety": "برای از دست دادن مکرر کنترل در خوردن یا رفتارهای پاک‌سازی با پزشک تماس بگیرید. برای از حال رفتن، سخت بیدار شدن یا خطر فوری خودآسیبی، کمک اورژانسی بگیرید.",
+          "sources": [
+            {
+              "organization": "مؤسسهٔ ملی دیابت و بیماری‌های گوارشی و کلیوی ایالات متحده",
+              "title": "شناخت علائم اختلال پرخوری افراطی",
+              "url": "https://www.niddk.nih.gov/health-information/weight-management/binge-eating-disorder/symptoms-causes"
+            },
+            {
+              "organization": "تانوفسکی‌ـ‌کراف و همکاران، مجلهٔ Journal of Abnormal Psychology",
+              "title": "پیگیری کودکانی که از دست دادن کنترل حین خوردن را گزارش کردند",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/21114355/"
+            },
+            {
+              "organization": "مؤسسهٔ ملی تعالی سلامت و مراقبت بریتانیا",
+              "title": "شناسایی و درمان اختلال‌های خوردن از جمله پرخوری افراطی در جوانان",
+              "url": "https://www.nice.org.uk/guidance/ng69/chapter/Recommendations"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "عندما يشعر الطفل أنه لا يستطيع التوقف عن الأكل",
+        "description": "كيف تميّز زيادة الشهية من الضيق بسبب فقدان السيطرة أثناء الأكل؟ تعرّف إلى أسئلة تطرحها على طفلك وإلى الحالات التي تستدعي طلب المساعدة من مختص.",
+        "intro": "يقول طفلك: «أردت أن أتوقف عن الأكل ولم أستطع». اختر وقتًا هادئًا لتسأله عما شعر به. حجم غدائه يخبرك بأقل مما تخبرك به قصته عن الموقف ومدى تكراره وما يسببه من ضيق.",
+        "sections": [
+          {
+            "heading": "اسأل عن التجربة نفسها",
+            "paragraphs": [
+              "قد تزيد الشهية مع النمو أو النشاط أو بعد تفويت وجبة. وقد يلجأ الطفل إلى الطعام طلبًا للراحة إذا حزن أو شعر بالملل. ويعني فقدان السيطرة شعوره بأنه لا يستطيع التوقف أو اختيار الكمية التي يأكلها في تلك اللحظة. وقد تتداخل هذه التجارب.",
+              "جرّب أن تسأله: «هل كنت جائعًا عندما بدأت؟ هل شعرت أنك قادر على التوقف؟ وكيف شعرت بعد ذلك؟» استمع دون تصحيح روايته. وقد يكون الأكل سرًا أو الامتلاء إلى حد الانزعاج أو الشعور بالخجل بعده أمرًا مهمًا أيًا كان وزن الطفل."
+            ]
+          },
+          {
+            "heading": "لماذا ننتبه إلى تكرار هذه النوبات؟",
+            "paragraphs": [
+              "يتضمن اضطراب نهم الطعام نوبات متكررة من أكل كمية كبيرة على نحو غير معتاد مع فقدان السيطرة وضيق واضح. وقد يتألم الطفل من شعوره بأنه لم يستطع التوقف حتى لو لم تبدُ الكمية كبيرة لك. يستطيع مختص باضطرابات الأكل تقييم النمط بأكمله.",
+              "في دراسة جرى تقييم ١٩٥ طفلًا في البداية وأعيد تقييم ١١٨ منهم بعد حوالي خمس سنوات. وكان من ذكروا فقدان السيطرة في البداية أكثر عرضة لظهور بعض سمات اضطراب نهم الطعام أو جميعها. لا تتنبأ الدراسة بمستقبل طفل بعينه، لكنها تدعو إلى أخذ الضيق المتكرر على محمل الجد."
+            ]
+          },
+          {
+            "heading": "ما الذي يفيد في المنزل؟",
+            "paragraphs": [
+              "وفّر وجبات رئيسية وخفيفة منتظمة يستطيع الطفل الاعتماد عليها. إذا عاد من المدرسة شديد الجوع مرارًا، فاسأله هل كان لديه وقت وطعام كافيان للغداء. أبقِ الوجبة التالية متاحة بعد أي نوبة صعبة. تجنب وزن الطفل في البيت لمراقبة النوبات أو إحراجه أو إجباره على الرياضة لتعويض ما أكل.",
+              "يمكن أن يكون المشي الممتع أو اللعب جزءًا من اليوم دون حاجة إلى اكتساب الحق في الطعام. اسأل الطفل أي نوع من الرفقة يريحه في لحظة صعبة. وبموافقته دوّن ما لاحظه لعرضه على المختص، بدلًا من تسجيل السعرات الحرارية."
+            ]
+          },
+          {
+            "heading": "كيف تطلب الدعم؟",
+            "paragraphs": [
+              "تواصل مع طبيب الطفل إذا تكرر فقدان السيطرة أو أصبح الأكل يسبب له ضيقًا أو بدأ يتخطى الوجبات أو يتعمد القيء أو يستعمل المليّنات. يستطيع الطبيب فحص صحته ونموه والسؤال عن مزاجه والمساعدة في ترتيب رعاية لاضطرابات الأكل تناسب سنّه. لا تنتظر تغيّرًا ظاهرًا في الوزن.",
+              "قد يشمل العلاج برنامج مساعدة ذاتية بإرشاد مختص أو علاجًا نفسيًا يركز على اضطراب الأكل ويُكيَّف للطفل. وقد يجعل اتباع حمية مقيدة كسر الحلقة أصعب. اطلب رعاية طارئة إذا انهار الطفل أو صعُب إيقاظه أو وُجد خطر فوري من أن يؤذي نفسه."
+            ]
+          }
+        ],
+        "takeaways": [
+          "اسأل عن إحساس فقدان السيطرة والضيق الذي يتبعه.",
+          "حافظ على مواعيد وجبات متوقعة وتجنب تعويض الأكل بالرياضة أو إلغاء الوجبات.",
+          "اطلب المساعدة إذا تكررت النوبات أو ظهرت سلوكيات مثل تعمد القيء، أيًا كان وزن الطفل."
+        ],
+        "faq": [
+          {
+            "q": "هل الأكل استجابةً للمشاعر هو نهم الطعام نفسه؟",
+            "a": "لا. قد يمنح الطعام راحة. اسأل الطفل هل شعر أنه قادر على التوقف وهل يتكرر الأمر وهل يسبب له ضيقًا. ويمكن لمختص المساعدة على فهم هذا النمط."
+          },
+          {
+            "q": "ما معنى أن تكون شهية الطفل كبيرة؟",
+            "a": "يؤثر النمو والنشاط والوقت منذ الوجبة الماضية في الجوع. ولا تكفي الشهية وحدها لتشخيص اضطراب. انتبه إذا تكرر وصف الطفل لفقدان السيطرة أو الشعور بالخجل."
+          },
+          {
+            "q": "ما المشكلات التي قد تسببها النوبات المتكررة؟",
+            "a": "قد يشعر الطفل بالانزعاج أو الخجل أو القلق أو يضطرب يومه. يستطيع الطبيب تقييم صحته الجسدية والنفسية. ولا يبيّن حجم الجسم مقدار ما يحتاجه من مساعدة."
+          },
+          {
+            "q": "كيف أمنع تفاقم المشكلة؟",
+            "a": "قدّم وجبات منتظمة واستمع إليه على انفراد وتجنب الحمية أو الرياضة كعقاب. اطلب تقييمًا إذا تكررت النوبات أو أصبحت مصدر ضيق."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "اجعل تجربة الطفل ومشاعر الضيق التي يصفها محور الحديث.",
+            "قدّم وجبات منتظمة واطلب المساعدة دون انتظار تغير الوزن.",
+            "ناقش مع الطبيب تعمد القيء أو استخدام المليّنات وسائر محاولات تعويض الأكل."
+          ],
+          "bemama": "تقترح بي ماما السؤال عما أحاط بالنوبة الصعبة، ومن ذلك ما إذا كان الطفل قد تمكن من تناول طعامه في المدرسة في ذلك اليوم.",
+          "safety": "تواصل مع مختص إذا تكرر فقدان السيطرة أو السلوك التطهيري مثل تعمد القيء. واطلب الرعاية الطارئة عند الانهيار أو صعوبة الإيقاظ أو وجود خطر فوري من إيذاء النفس.",
+          "sources": [
+            {
+              "organization": "المعهد الوطني الأمريكي للسكري وأمراض الجهاز الهضمي والكلى",
+              "title": "التعرف إلى أعراض اضطراب نهم الطعام",
+              "url": "https://www.niddk.nih.gov/health-information/weight-management/binge-eating-disorder/symptoms-causes"
+            },
+            {
+              "organization": "تانوفسكي كراف وزملاؤها، مجلة Journal of Abnormal Psychology",
+              "title": "متابعة أطفال أبلغوا عن فقدان السيطرة أثناء الأكل",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/21114355/"
+            },
+            {
+              "organization": "المعهد الوطني للتميّز في الصحة والرعاية في المملكة المتحدة",
+              "title": "التعرف إلى اضطرابات الأكل وعلاجها، ومنها اضطراب نهم الطعام لدى اليافعين",
+              "url": "https://www.nice.org.uk/guidance/ng69/chapter/Recommendations"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Quand un enfant a l’impression de ne plus pouvoir s’arrêter de manger",
+        "description": "Distinguez un gros appétit de la souffrance liée à la perte de contrôle en mangeant. Découvrez comment en parler à votre enfant et quand chercher de l’aide.",
+        "intro": "Votre enfant dit : « Je voulais arrêter de manger, mais je n’y arrivais pas. » Choisissez un moment calme pour lui demander ce qu’il a ressenti. La taille de son déjeuner en dit moins que son expérience, la fréquence de ces moments et leur effet sur lui.",
+        "sections": [
+          {
+            "heading": "Interrogez-le sur ce qu’il vit",
+            "paragraphs": [
+              "L’appétit peut augmenter avec la croissance, l’activité ou après un repas manqué. Manger peut aussi réconforter un enfant triste ou qui s’ennuie. Perdre le contrôle signifie avoir l’impression de ne plus pouvoir s’arrêter ou décider de la quantité que l’on mange à cet instant. Ces expériences peuvent coexister.",
+              "Essayez : « Avais-tu faim en commençant ? Avais-tu l’impression de pouvoir t’arrêter ? Comment te sentais-tu après ? » Écoutez sa réponse sans la corriger. Manger en cachette, se sentir inconfortablement plein ou éprouver de la honte ensuite mérite attention quel que soit son poids."
+            ]
+          },
+          {
+            "heading": "Pourquoi faire attention aux épisodes répétés ?",
+            "paragraphs": [
+              "L’hyperphagie boulimique comporte des épisodes répétés où la personne consomme une quantité inhabituellement grande d’aliments avec une perte de contrôle et une souffrance marquée. Un enfant peut souffrir d’avoir perdu le contrôle même si la quantité vous semble modeste. Un professionnel spécialisé peut évaluer la situation dans son ensemble.",
+              "Dans une étude, 195 enfants ont été évalués au départ et 118 d’entre eux environ cinq ans plus tard. Ceux qui rapportaient initialement des pertes de contrôle avaient davantage de risques de présenter ensuite tout ou partie des signes d’hyperphagie boulimique. L’étude ne prédit pas l’avenir d’un enfant précis. Elle invite à prendre au sérieux la souffrance qui se répète."
+            ]
+          },
+          {
+            "heading": "Ce que vous pouvez faire à la maison",
+            "paragraphs": [
+              "Proposez des repas et des collations réguliers sur lesquels l’enfant peut compter. S’il rentre souvent affamé, demandez s’il avait assez à manger et le temps de déjeuner. Maintenez le repas suivant après un épisode difficile. Évitez de le peser à domicile pour surveiller les épisodes, de lui faire honte ou d’exiger du sport pour compenser.",
+              "Une promenade ou un jeu peut être un plaisir sans qu’il ait à mériter sa nourriture. Demandez quelle présence lui ferait du bien dans un moment difficile. Avec son accord, notez ce qu’il a ressenti pour en parler au professionnel, sans compter les calories."
+            ]
+          },
+          {
+            "heading": "Organiser un accompagnement",
+            "paragraphs": [
+              "Prenez contact avec le médecin de l’enfant si les épisodes se répètent, si manger le fait souffrir ou s’il commence à sauter des repas, à se faire vomir ou à prendre des laxatifs. Le médecin peut examiner sa santé et sa croissance, s’informer de son humeur et proposer des soins adaptés à son âge. N’attendez pas que son poids change visiblement.",
+              "Le traitement peut inclure un programme d’auto-assistance guidée ou une psychothérapie spécialisée adaptée à l’enfant. Commencer un régime restrictif peut entretenir le cycle. Appelez les urgences si l’enfant s’effondre, est difficile à réveiller ou risque dans l’immédiat de se faire du mal."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Demandez-lui ce qu’il ressent en perdant le contrôle et comment il se sent ensuite.",
+          "Gardez des repas prévisibles et évitez l’exercice ou les repas sautés pour compenser.",
+          "Demandez de l’aide devant des épisodes répétés ou des comportements de purge, quelle que soit la corpulence."
+        ],
+        "faq": [
+          {
+            "q": "Manger en réponse à une émotion, est-ce faire une crise d’hyperphagie ?",
+            "a": "Non. La nourriture peut réconforter. Demandez si l’enfant se sentait capable de s’arrêter, si cela se répète et s’il en souffre. Un professionnel peut aider à comprendre la situation."
+          },
+          {
+            "q": "Que signifie un appétit important ?",
+            "a": "La croissance, l’activité et le temps écoulé depuis le repas précédent jouent sur la faim. L’appétit seul ne permet pas de diagnostiquer un trouble. Prêtez attention aux pertes de contrôle ou à la honte que votre enfant décrit régulièrement."
+          },
+          {
+            "q": "Quelles conséquences peuvent avoir ces épisodes ?",
+            "a": "L’enfant peut ressentir de l’inconfort, de la honte ou de l’anxiété, et ses activités peuvent en pâtir. Un professionnel peut examiner sa santé physique et psychique. La corpulence ne permet pas d’estimer ses besoins d’aide."
+          },
+          {
+            "q": "Comment éviter que les difficultés s’aggravent ?",
+            "a": "Proposez des repas réguliers, écoutez l’enfant en privé et évitez les régimes ou le sport comme sanction. Demandez une évaluation si les épisodes se répètent ou deviennent pénibles."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Partez de l’expérience de l’enfant et de ce qui le fait souffrir.",
+            "Proposez des repas réguliers et demandez de l’aide sans attendre un changement de poids.",
+            "Signalez les vomissements provoqués, les laxatifs ou d’autres tentatives de compensation."
+          ],
+          "bemama": "BeMama suggère de demander à l’enfant ce qui s’est passé autour d’un épisode difficile, notamment s’il avait pu manger à l’école ce jour-là.",
+          "safety": "Consultez si la perte de contrôle se répète ou s’il y a des purges. Appelez les urgences si l’enfant s’effondre, est difficile à réveiller ou risque de se faire du mal dans l’immédiat.",
+          "sources": [
+            {
+              "organization": "Institut national américain du diabète et des maladies digestives et rénales",
+              "title": "Reconnaître les symptômes de l’hyperphagie boulimique",
+              "url": "https://www.niddk.nih.gov/health-information/weight-management/binge-eating-disorder/symptoms-causes"
+            },
+            {
+              "organization": "Tanofsky-Kraff et ses collègues, Journal of Abnormal Psychology",
+              "title": "Suivi d’enfants rapportant une perte de contrôle en mangeant",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/21114355/"
+            },
+            {
+              "organization": "Institut britannique pour l’excellence en santé et en soins",
+              "title": "Repérage et traitement des troubles alimentaires, dont l’hyperphagie boulimique chez les jeunes",
+              "url": "https://www.nice.org.uk/guidance/ng69/chapter/Recommendations"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Çocuğunuz yemek yemeyi durduramadığını hissettiğinde",
+        "description": "İştah artışıyla yerken kontrolü kaybetmenin verdiği sıkıntıyı nasıl ayırt edeceğinizi, çocuğunuzla ne konuşacağınızı ve ne zaman yardım isteyeceğinizi öğrenin.",
+        "intro": "Çocuğunuz “Yemeyi bırakmak istedim ama yapamadım” diyor. Bunun nasıl bir his olduğunu sormak için sakin bir an seçin. Öğle yemeğinin miktarından daha fazla bilgi veren şey, ne yaşadığı, bunun ne sıklıkta olduğu ve onu üzüp üzmediğidir.",
+        "sections": [
+          {
+            "heading": "Ne yaşadığını sorun",
+            "paragraphs": [
+              "Büyüme, hareket etmek veya bir öğünü kaçırmak iştahı artırabilir. Çocuk üzgünken veya sıkıldığında kendini rahatlatmak için yiyebilir. Kontrolü kaybetmek ise o anda yemeyi durduramadığını veya ne kadar yiyeceğini seçemediğini hissetmesidir. Bu deneyimler bir arada olabilir.",
+              "“Başladığında aç mıydın? İstersen durabileceğini hissettin mi? Sonra kendini nasıl hissettin?” diye sorabilirsiniz. Anlattıklarını düzeltmeden dinleyin. Çocuğun kilosu ne olursa olsun gizlice yemek, rahatsız olacak kadar doymak veya sonrasında utanmak önem taşıyabilir."
+            ]
+          },
+          {
+            "heading": "Tekrarlayan durumları neden dikkate almalı?",
+            "paragraphs": [
+              "Tıkınırcasına yeme bozukluğunda kişi tekrarlayan ataklarda alışılmadık derecede fazla miktarda yiyeceği kontrol kaybıyla yer ve belirgin sıkıntı yaşar. Miktar size büyük görünmese bile çocuk kontrolünü kaybettiği için üzülebilir. Yeme bozuklukları alanında çalışan bir uzman genel örüntüyü değerlendirebilir.",
+              "Bir çalışmada başlangıçta 195 çocuk değerlendirildi, yaklaşık beş yıl sonra 118’i yeniden incelendi. Başlangıçta kontrol kaybı bildiren çocuklarda tıkınırcasına yeme bozukluğunun özelliklerinin bir kısmı veya tümü daha sık gelişti. Bu bulgu tek bir çocuğun geleceğini öngörmez. Tekrarlanan sıkıntıyı ciddiye almak için neden sunar."
+            ]
+          },
+          {
+            "heading": "Evde neler yapabilirsiniz?",
+            "paragraphs": [
+              "Çocuğun güvenebileceği düzenli ana ve ara öğünler sağlayın. Eve sürekli çok aç geliyorsa öğle yemeği için yeterli zamanı ve yiyeceği olup olmadığını sorun. Zor bir ataktan sonra sıradaki öğünü vermeye devam edin. Atakları takip etmek için evde tartmaktan, utandırmaktan veya telafi amacıyla egzersize zorlamaktan kaçının.",
+              "Bir yürüyüş veya oyun, yemeği hak etmenin yolu olmadan da günün keyifli bir parçası olabilir. Zor bir anda yanında kimin, nasıl olmasının yardımcı olacağını sorun. İzniyle, kalori saymak yerine fark ettiklerini doktora götürmek için not edebilirsiniz."
+            ]
+          },
+          {
+            "heading": "Destek alın",
+            "paragraphs": [
+              "Kontrol kaybı tekrarlıyorsa, yemek yemek sıkıntı yaratıyorsa veya çocuk öğün atlamaya, kendini kusturmaya ya da müshil kullanmaya başladıysa hekimiyle görüşün. Hekim fiziksel sağlığı ve büyümeyi değerlendirebilir, ruh hâlini sorabilir ve yaşına uygun yeme bozukluğu desteğini planlayabilir. Gözle görülür bir kilo değişimini beklemeyin.",
+              "Tedavi, rehberli öz yardım veya çocuğa uyarlanmış, yeme bozukluğuna odaklı psikolojik terapi içerebilir. Kısıtlayıcı diyete başlamak bu döngüyü kırmayı zorlaştırabilir. Çocuk yığılırsa, güçlükle uyanıyorsa veya kendine zarar verme tehlikesi yakınsa acil yardım isteyin."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Yerken kontrolü kaybetme hissini ve sonrasındaki sıkıntıyı sorun.",
+          "Öğünleri öngörülebilir tutun; telafi için egzersiz ya da öğün atlamaktan kaçının.",
+          "Çocuğun kilosu ne olursa olsun, tekrarlayan ataklar veya kendini kusturma gibi davranışlar için yardım alın."
+        ],
+        "faq": [
+          {
+            "q": "Duygular nedeniyle yemek tıkınırcasına yemekle aynı mı?",
+            "a": "Hayır. Yemek rahatlatabilir. Çocuğun durabileceğini hissedip hissetmediğini, bunun tekrarlanıp tekrarlanmadığını ve üzülüp üzülmediğini sorun. Bir uzman durumu anlamaya yardımcı olabilir."
+          },
+          {
+            "q": "İştahın fazla olması ne demektir?",
+            "a": "Büyüme, hareket ve son öğünden beri geçen süre açlığı etkileyebilir. Tek başına iştah bir bozukluğa tanı koydurmaz. Tekrar tekrar kontrol kaybı veya utanma duygusu anlatıyorsa dikkate alın."
+          },
+          {
+            "q": "Tekrarlayan ataklar ne gibi sorunlara yol açabilir?",
+            "a": "Çocuk rahatsızlık, utanma veya kaygı yaşayabilir, günlük yaşamı etkilenebilir. Hekim fiziksel ve duygusal sağlığı değerlendirebilir. Beden ölçüsü ne kadar desteğe ihtiyacı olduğunu göstermez."
+          },
+          {
+            "q": "Durumun ağırlaşmasını nasıl önleyebilirim?",
+            "a": "Düzenli öğünler sunun, çocukla baş başayken onu dinleyin ve diyet ya da egzersizi ceza olarak kullanmayın. Ataklar tekrarlanıyor veya sıkıntı veriyorsa değerlendirme isteyin."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026 tarihinde değerlendirildi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Konuşmayı çocuğun yaşadıkları ve duyduğu sıkıntı yönlendirsin.",
+            "Düzenli öğünler sunun ve ağırlık değişimini beklemeden uzman desteği alın.",
+            "Kendini kusturma, müshil kullanımı veya başka telafi girişimlerini hekimle konuşun."
+          ],
+          "bemama": "BeMama, çocuğun o gün okulda yemek yiyip yiyemediği de dahil olmak üzere zor bir atağın çevresinde neler olduğunu sormanızı önerir.",
+          "safety": "Tekrarlayan kontrol kaybı veya kendini kusturma gibi davranışlarda hekimle görüşün. Çocuk yığılırsa, güçlükle uyanıyorsa veya kendine zarar verme tehlikesi acilse hemen acil yardım isteyin.",
+          "sources": [
+            {
+              "organization": "ABD Ulusal Diyabet, Sindirim ve Böbrek Hastalıkları Enstitüsü",
+              "title": "Tıkınırcasına yeme bozukluğunun belirtilerini tanıma",
+              "url": "https://www.niddk.nih.gov/health-information/weight-management/binge-eating-disorder/symptoms-causes"
+            },
+            {
+              "organization": "Tanofsky-Kraff ve çalışma arkadaşları, Journal of Abnormal Psychology",
+              "title": "Yerken kontrolünü kaybettiğini bildiren çocukların izlemi",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/21114355/"
+            },
+            {
+              "organization": "Birleşik Krallık Ulusal Sağlık ve Bakım Mükemmelliği Enstitüsü",
+              "title": "Gençlerde tıkınırcasına yeme bozukluğu dahil yeme bozukluklarını tanıma ve tedavi",
+              "url": "https://www.nice.org.uk/guidance/ng69/chapter/Recommendations"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Cuando un niño siente que no puede dejar de comer",
+        "description": "Aprende a distinguir un mayor apetito del malestar por perder el control al comer, cómo hablarlo con tu hijo y cuándo conviene buscar ayuda profesional.",
+        "intro": "Tu hijo dice: «Quería parar de comer, pero no podía». Busca un momento tranquilo para preguntarle cómo lo vivió. El tamaño de su almuerzo dice menos que saber qué sucedió, con qué frecuencia pasa y si le causa malestar.",
+        "sections": [
+          {
+            "heading": "Pregunta por su experiencia",
+            "paragraphs": [
+              "El apetito puede aumentar al crecer, hacer actividad física o saltarse una comida. Un niño puede comer para consolarse si está triste o aburrido. Perder el control significa que, en ese momento, siente que no puede parar o decidir cuánto come. Estas experiencias pueden coincidir.",
+              "Puedes preguntar: «¿Tenías hambre al empezar? ¿Sentías que podías parar? ¿Cómo te encontraste después?». Escucha su descripción sin corregirla. Comer a escondidas, sentirse tan lleno que resulte incómodo o sentir vergüenza después merece atención, sea cual sea su peso."
+            ]
+          },
+          {
+            "heading": "Por qué importan los episodios repetidos",
+            "paragraphs": [
+              "El trastorno por atracón implica episodios repetidos en los que se come una cantidad inusualmente grande con pérdida de control y malestar importante. Un niño puede sufrir por no haber podido parar aunque a ti la cantidad no te parezca grande. Un profesional especializado puede evaluar el conjunto.",
+              "Un estudio evaluó a 195 niños al inicio y a 118 de ellos unos cinco años después. Quienes habían descrito pérdida de control al principio tuvieron más probabilidades de desarrollar algunas o todas las características del trastorno por atracón. El estudio no predice el futuro individual de nadie. Sí da motivos para atender al malestar que se repite."
+            ]
+          },
+          {
+            "heading": "Qué hacer en casa",
+            "paragraphs": [
+              "Ofrece comidas y meriendas regulares con las que pueda contar. Si vuelve de la escuela con muchísima hambre, pregunta si tuvo tiempo para comer y suficiente comida. Mantén disponible la siguiente comida tras un episodio difícil. Evita pesarlo en casa para vigilar los episodios, avergonzarlo u obligarlo a hacer ejercicio para compensar.",
+              "Un paseo o un juego pueden formar parte del día por placer, sin tener que ganarse la comida. Pregunta qué compañía le ayudaría en un momento difícil. Con su permiso, apunta lo que notó para comentarlo en consulta, sin llevar una cuenta de calorías."
+            ]
+          },
+          {
+            "heading": "Cómo conseguir apoyo",
+            "paragraphs": [
+              "Contacta con el profesional que atiende al niño si se repite la pérdida de control, comer le causa malestar o empieza a saltarse comidas, provocarse el vómito o usar laxantes. Puede revisar su salud y crecimiento, preguntar por su estado de ánimo y facilitar atención especializada para su edad. No esperes a ver un cambio de peso.",
+              "El tratamiento puede incluir autoayuda guiada o terapia psicológica específica adaptada al niño. Una dieta restrictiva puede dificultar romper el ciclo. Acude a emergencias si se desploma, cuesta despertarlo o está en peligro inmediato de hacerse daño."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Pregunta por la sensación de perder el control y por el malestar posterior.",
+          "Mantén comidas previsibles y evita compensar con ejercicio o saltándose comidas.",
+          "Busca ayuda ante episodios repetidos o conductas purgativas, sea cual sea el tamaño corporal."
+        ],
+        "faq": [
+          {
+            "q": "¿Comer por motivos emocionales es lo mismo que darse un atracón?",
+            "a": "No. Comer puede resultar reconfortante. Pregunta si sintió que podía parar, si se repite y si le causa malestar. Un profesional puede ayudar a interpretar el patrón."
+          },
+          {
+            "q": "¿Qué significa que tenga mucho apetito?",
+            "a": "El crecimiento, el ejercicio y el tiempo desde la última comida influyen en el hambre. El apetito por sí solo no permite diagnosticar un trastorno. Presta atención si describe repetidamente pérdida de control o vergüenza."
+          },
+          {
+            "q": "¿Qué problemas pueden causar los episodios repetidos?",
+            "a": "El niño puede sentir incomodidad, vergüenza o ansiedad, y ver alterada su vida cotidiana. Un profesional puede valorar la salud física y emocional. El tamaño corporal no indica cuánto apoyo necesita."
+          },
+          {
+            "q": "¿Cómo evito que empeore la situación?",
+            "a": "Ofrece comidas regulares, escucha en privado y evita dietas o ejercicio como castigo. Pide una valoración si se repiten los episodios o causan malestar."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Deja que la experiencia del niño y su malestar orienten la conversación.",
+            "Ofrece comidas regulares y pide ayuda sin esperar a que cambie el peso.",
+            "Comenta con el profesional los vómitos provocados, el uso de laxantes y otros intentos de compensar."
+          ],
+          "bemama": "BeMama propone preguntar qué rodeó a un episodio difícil, por ejemplo si el niño había podido comer ese día en la escuela.",
+          "safety": "Consulta si se repite la pérdida de control o hay conductas purgativas. Acude a emergencias si se desploma, cuesta despertarlo o existe peligro inmediato de que se haga daño.",
+          "sources": [
+            {
+              "organization": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales de Estados Unidos",
+              "title": "Cómo reconocer los síntomas del trastorno por atracón",
+              "url": "https://www.niddk.nih.gov/health-information/weight-management/binge-eating-disorder/symptoms-causes"
+            },
+            {
+              "organization": "Tanofsky-Kraff y colaboradores, Journal of Abnormal Psychology",
+              "title": "Seguimiento de niños que describen pérdida de control al comer",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/21114355/"
+            },
+            {
+              "organization": "Instituto Nacional para la Excelencia en la Salud y la Atención del Reino Unido",
+              "title": "Reconocimiento y tratamiento de los trastornos alimentarios, incluido el trastorno por atracón en jóvenes",
+              "url": "https://www.nice.org.uk/guidance/ng69/chapter/Recommendations"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Quando a criança sente que não consegue parar de comer",
+        "description": "Aprenda a distinguir um apetite maior do sofrimento por perder o controlo ao comer, como conversar com a criança e quando procurar ajuda profissional.",
+        "intro": "O seu filho diz: «Queria parar de comer, mas não conseguia.» Escolha um momento tranquilo para lhe perguntar como se sentiu. O tamanho do almoço diz menos do que perceber o que aconteceu, com que frequência e se isso lhe causa sofrimento.",
+        "sections": [
+          {
+            "heading": "Pergunte como viveu o episódio",
+            "paragraphs": [
+              "O apetite pode aumentar com o crescimento, a atividade física ou uma refeição perdida. A criança pode procurar conforto na comida quando está triste ou aborrecida. Perder o controlo significa sentir que, naquele momento, não consegue parar nem decidir a quantidade que come. As experiências podem coincidir.",
+              "Experimente perguntar: «Tinhas fome quando começaste? Sentiste que conseguias parar? Como te sentiste depois?» Escute sem corrigir o relato. Comer às escondidas, ficar desconfortavelmente cheio ou sentir vergonha depois são aspetos a considerar, qualquer que seja o peso da criança."
+            ]
+          },
+          {
+            "heading": "Por que merecem atenção os episódios repetidos?",
+            "paragraphs": [
+              "A perturbação de ingestão alimentar compulsiva envolve episódios recorrentes de ingestão de uma quantidade invulgarmente grande, com perda de controlo e sofrimento marcado. A criança pode sentir-se mal por não conseguir parar mesmo quando a quantidade não lhe parece grande a si. Um profissional especializado pode avaliar o padrão.",
+              "Numa investigação foram avaliadas inicialmente 195 crianças e 118 voltaram a ser avaliadas cerca de cinco anos depois. As crianças que tinham relatado perda de controlo no início tiveram maior probabilidade de apresentar algumas ou todas as características da perturbação. O estudo não prevê o futuro de uma criança em particular. É uma razão para levar a sério o sofrimento que se repete."
+            ]
+          },
+          {
+            "heading": "O que fazer em casa",
+            "paragraphs": [
+              "Ofereça refeições e lanches regulares com que a criança possa contar. Se costuma voltar da escola com muita fome, pergunte se teve tempo e comida suficiente ao almoço. Mantenha a refeição seguinte mesmo depois de um episódio difícil. Evite pesá-la em casa para vigiar os episódios, envergonhá-la ou obrigá-la a fazer exercício para compensar.",
+              "Um passeio ou um jogo podem fazer parte do dia por prazer, sem ser preciso merecer a comida. Pergunte que companhia ajudaria num momento difícil. Com o acordo da criança, anote o que ela sentiu para partilhar na consulta, sem fazer uma contagem de calorias."
+            ]
+          },
+          {
+            "heading": "Como procurar apoio",
+            "paragraphs": [
+              "Contacte o profissional que acompanha a criança se a perda de controlo se repetir, se comer lhe causar sofrimento ou se começar a saltar refeições, provocar o vómito ou usar laxantes. Pode avaliar a saúde física e o crescimento, perguntar pelo estado emocional e orientar para cuidados adequados à idade. Não espere por uma alteração visível do peso.",
+              "O tratamento pode incluir autoajuda orientada ou psicoterapia focada na perturbação alimentar e adaptada à criança. Uma dieta restritiva pode dificultar a saída deste ciclo. Procure ajuda de emergência se a criança tiver um colapso, for difícil acordá-la ou houver perigo imediato de se magoar intencionalmente."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Pergunte pela sensação de perda de controlo e pelo sofrimento que se segue.",
+          "Mantenha refeições previsíveis e evite compensar com exercício ou refeições omitidas.",
+          "Procure ajuda para episódios repetidos ou comportamentos de purga, independentemente do tamanho do corpo."
+        ],
+        "faq": [
+          {
+            "q": "Comer por motivos emocionais é o mesmo que ter um episódio compulsivo?",
+            "a": "Não. A comida pode trazer conforto. Pergunte se a criança sentia que podia parar, se o episódio se repete e se isso lhe causa sofrimento. Um profissional pode ajudar a interpretar o padrão."
+          },
+          {
+            "q": "O que significa ter muito apetite?",
+            "a": "O crescimento, o exercício e o tempo desde a última refeição podem influenciar a fome. O apetite por si só não permite diagnosticar uma perturbação. Preste atenção se a criança descreve repetidamente perda de controlo ou vergonha."
+          },
+          {
+            "q": "Que problemas podem resultar destes episódios?",
+            "a": "A criança pode sentir desconforto, vergonha ou ansiedade e ter dificuldades no dia a dia. Um profissional pode avaliar a saúde física e emocional. O tamanho do corpo não revela o apoio de que ela precisa."
+          },
+          {
+            "q": "Como evito que o problema se agrave?",
+            "a": "Ofereça refeições regulares, escute em privado e evite dietas ou exercício como castigo. Peça uma avaliação se os episódios se repetirem ou forem angustiantes."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidência revista em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Guie a conversa pelo que a criança viveu e pelo seu sofrimento.",
+            "Ofereça refeições regulares e procure ajuda sem esperar que o peso mude.",
+            "Converse com o profissional sobre vómito provocado, laxantes e outras tentativas de compensação."
+          ],
+          "bemama": "A BeMama sugere perguntar o que aconteceu antes e depois de um episódio difícil, inclusive se a criança tinha conseguido comer na escola nesse dia.",
+          "safety": "Contacte um profissional perante perda de controlo recorrente ou purgas. Procure ajuda de emergência em caso de colapso, dificuldade em acordar ou perigo imediato de a criança se magoar intencionalmente.",
+          "sources": [
+            {
+              "organization": "Instituto Nacional de Diabetes e Doenças Digestivas e Renais dos Estados Unidos",
+              "title": "Reconhecer sintomas da perturbação de ingestão alimentar compulsiva",
+              "url": "https://www.niddk.nih.gov/health-information/weight-management/binge-eating-disorder/symptoms-causes"
+            },
+            {
+              "organization": "Tanofsky-Kraff e colaboradores, Journal of Abnormal Psychology",
+              "title": "Acompanhamento de crianças com relatos de perda de controlo ao comer",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/21114355/"
+            },
+            {
+              "organization": "Instituto Nacional para a Excelência em Saúde e Cuidados do Reino Unido",
+              "title": "Reconhecimento e tratamento das perturbações alimentares, incluindo a ingestão alimentar compulsiva nos jovens",
+              "url": "https://www.nice.org.uk/guidance/ng69/chapter/Recommendations"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5906.webp",
+    "heroAlt": {
+      "en": "A hand packs a sandwich, a pear and yogurt in a lunchbox beside a school bag.",
+      "es": "Una mano coloca un bocadillo, una pera y un yogur en una fiambrera junto a una mochila.",
+      "fr": "Une main range un sandwich, une poire et un yaourt dans une boîte à déjeuner près d’un cartable.",
+      "pt": "Uma mão coloca uma sanduíche, uma pera e um iogurte numa lancheira junto de uma mochila.",
+      "tr": "Bir el, okul çantasının yanındaki beslenme kutusuna sandviç, armut ve yoğurt yerleştiriyor.",
+      "fa": "دستی ساندویچ، گلابی و ماست را در ظرف غذای کنار کیف مدرسه می‌گذارد.",
+      "ar": "يد تضع شطيرة وإجاصة وعبوة لبن في علبة طعام بجانب حقيبة مدرسية."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "When a child feels unable to stop eating",
+      "description": "Learn how to distinguish a bigger appetite from distress about losing control while eating, what to say to your child and when to ask for professional help."
+    },
+    "fa": {
+      "title": "وقتی کودک احساس می‌کند نمی‌تواند دست از خوردن بکشد",
+      "description": "ببینید افزایش اشتها چه فرقی با ناراحتی ناشی از احساس از دست دادن کنترل هنگام خوردن دارد، چطور با کودک حرف بزنید و چه زمانی از متخصص کمک بخواهید."
+    },
+    "ar": {
+      "title": "عندما يشعر الطفل أنه لا يستطيع التوقف عن الأكل",
+      "description": "كيف تميّز زيادة الشهية من الضيق بسبب فقدان السيطرة أثناء الأكل؟ تعرّف إلى أسئلة تطرحها على طفلك وإلى الحالات التي تستدعي طلب المساعدة من مختص."
+    },
+    "fr": {
+      "title": "Quand un enfant a l’impression de ne plus pouvoir s’arrêter de manger",
+      "description": "Distinguez un gros appétit de la souffrance liée à la perte de contrôle en mangeant. Découvrez comment en parler à votre enfant et quand chercher de l’aide."
+    },
+    "tr": {
+      "title": "Çocuğunuz yemek yemeyi durduramadığını hissettiğinde",
+      "description": "İştah artışıyla yerken kontrolü kaybetmenin verdiği sıkıntıyı nasıl ayırt edeceğinizi, çocuğunuzla ne konuşacağınızı ve ne zaman yardım isteyeceğinizi öğrenin."
+    },
+    "es": {
+      "title": "Cuando un niño siente que no puede dejar de comer",
+      "description": "Aprende a distinguir un mayor apetito del malestar por perder el control al comer, cómo hablarlo con tu hijo y cuándo conviene buscar ayuda profesional."
+    },
+    "pt": {
+      "title": "Quando a criança sente que não consegue parar de comer",
+      "description": "Aprenda a distinguir um apetite maior do sofrimento por perder o controlo ao comer, como conversar com a criança e quando procurar ajuda profissional."
+    }
+  }
+}

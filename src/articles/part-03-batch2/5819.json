@@ -1,0 +1,730 @@
+{
+  "sourceId": "5819",
+  "article": {
+    "slug": "baby-and-child/childhood-bone-pain-swelling-and-sarcoma",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "Bone pain and swelling in a child: when to ask about a scan",
+        "description": "Find out which patterns of bone pain need prompt assessment, how a specialist team diagnoses bone sarcoma, and how treatment and follow-up vary by type.",
+        "intro": "A child hurt their knee during football. The bruise has faded, but pain keeps returning to the same spot and now wakes them. An injury can draw attention to a problem without having caused it. Tell the clinician exactly where it hurts and what has changed since the first visit.",
+        "sections": [
+          {
+            "heading": "Pain in one place deserves a closer look",
+            "paragraphs": [
+              "Most childhood aches have causes other than cancer. Arrange a prompt assessment for unexplained local bone pain or swelling, especially if it persists, becomes worse, wakes the child or changes how they walk or use an arm. Describe any lump, fever, unusual tiredness or weight loss. Pain can come and go at first. A lump need not be visible, particularly in the pelvis.",
+              "Seek urgent assessment now if the child suddenly cannot walk or bear weight, or has severe pain after a minor knock that might have caused a fracture. Fever with a hot, swollen and very painful joint can indicate an infection that needs emergency care. Do not wait for a scheduled cancer or sports appointment in these situations."
+            ]
+          },
+          {
+            "heading": "Osteosarcoma and Ewing sarcoma are different diseases",
+            "paragraphs": [
+              "A primary bone cancer starts in the bone. Osteosarcoma is one example. It often arises near the end of a long bone, such as around the knee or in the upper arm. Ewing sarcoma can start in the pelvis, a long bone, the chest wall or in soft tissue. Neither the site nor the sensation of pain identifies the type.",
+              "The clinician examines the area and may arrange an X-ray. If the findings raise concern, a specialist sarcoma team can arrange more imaging, often an MRI of the area, and plan a biopsy. A biopsy removes tissue for expert examination. Its position can affect later surgery, so it should be planned with the team that would treat the tumour. Ask when to return if symptoms persist despite an initially reassuring assessment."
+            ]
+          },
+          {
+            "heading": "How the team chooses treatment",
+            "paragraphs": [
+              "The exact tissue diagnosis and whether the cancer has spread shape the plan. For osteosarcoma, surgery and chemotherapy are common. Depending on the tumour, surgery may preserve the limb or removing part of a limb may offer the safest way to remove the cancer. Ask how the operation may affect movement and growth and what rehabilitation will be available.",
+              "Ewing sarcoma usually needs chemotherapy plus treatment of the tumour site with surgery, radiation or both. A randomized trial compared two chemotherapy schedules in 568 eligible patients with localized Ewing sarcoma. At about five years, event-free survival was 73% in the shorter-interval group and 65% in the standard-interval group. Event-free survival describes time without events such as recurrence or progression. These results do not predict one child’s outcome or apply to every bone tumour."
+            ]
+          },
+          {
+            "heading": "Make a plan for life during and after treatment",
+            "paragraphs": [
+              "Pain, fatigue, nausea, hair loss or infection risk can occur during treatment. The team can help manage symptoms and give instructions for fever, especially during chemotherapy. Ask how to contact them at night. Rehabilitation may include physical therapy, equipment or a prosthesis, with emotional support as the child returns to school or activities.",
+              "Follow-up checks for recurrence and late effects depend on the diagnosis and treatment. The team may monitor the treated bone, growth, movement and, depending on treatment, heart health or fertility. Keep a treatment summary and your child’s appointment plan. Report a new persistent pain or swelling rather than waiting for the next routine scan."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Report persistent pain in one place, increasing swelling, night waking or a change in walking.",
+          "Let the specialist team plan the biopsy if a bone tumour is suspected.",
+          "Ask about treatment goals, rehabilitation, fever instructions and follow-up for recurrence or late effects."
+        ],
+        "faq": [
+          {
+            "q": "Does bone cancer cause pain all over the body?",
+            "a": "It can cause pain where the tumour is growing. A general body ache alone is not a reliable sign. Pain repeatedly affecting one site, particularly with swelling or a limp, warrants prompt assessment."
+          },
+          {
+            "q": "What does bone cancer pain feel like?",
+            "a": "It may begin intermittently, become more frequent, worsen with activity or wake the child at night. Infections and injuries can also hurt this way. The pattern and examination help guide testing, but the feeling alone does not give a diagnosis."
+          },
+          {
+            "q": "Does severe pain mean the cancer is advanced?",
+            "a": "The intensity of pain does not establish a cancer stage. Sudden severe pain, particularly after a minor injury or if the child cannot use the limb, needs urgent assessment for a possible fracture or another urgent cause."
+          },
+          {
+            "q": "What other signs should I mention?",
+            "a": "Tell the clinician about a new or enlarging swelling, restricted movement, limping or an unexplained fracture. Mention any fever, fatigue or weight loss. Ask for review if symptoms persist or worsen, even after an earlier visit."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Show the exact point of pain and explain its effect on sleep and movement.",
+            "Ask what test is appropriate and when continuing symptoms need another assessment.",
+            "For a diagnosed tumour, keep the team’s treatment summary and follow-up plan."
+          ],
+          "bemama": "BeMama suggests bringing a short account of when the pain first occurred, where the child points and what activities they can no longer manage comfortably.",
+          "safety": "Seek urgent medical assessment for sudden inability to walk or bear weight, or a possible fracture after minor injury. Fever with a hot, swollen, very painful joint needs emergency care. During chemotherapy, follow the cancer team’s urgent fever instructions.",
+          "sources": [
+            {
+              "organization": "US National Cancer Institute",
+              "title": "Osteosarcoma diagnosis and treatment",
+              "url": "https://www.cancer.gov/types/bone/patient/osteosarcoma-treatment-pdq"
+            },
+            {
+              "organization": "US National Cancer Institute",
+              "title": "Ewing sarcoma diagnosis and treatment",
+              "url": "https://www.cancer.gov/types/bone/patient/ewing-treatment-pdq"
+            },
+            {
+              "organization": "National Institute for Health and Care Excellence",
+              "title": "Recognition and referral for suspected childhood bone sarcoma",
+              "url": "https://www.nice.org.uk/guidance/ng12/chapter/recommended-actions-organised-by-symptom-and-findings-of-primary-care-investigations"
+            },
+            {
+              "organization": "Womer and colleagues, Children’s Oncology Group",
+              "title": "Randomized comparison of chemotherapy intervals in localized Ewing sarcoma",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23091096/"
+            },
+            {
+              "organization": "Royal Children’s Hospital Melbourne",
+              "title": "The limping or non-weight-bearing child",
+              "url": "https://www.rch.org.au/clinicalguide/guideline_index/Child_with_limp/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "درد و ورم استخوان کودک چه زمانی نیاز به بررسی دارد؟",
+        "description": "ببینید کدام الگوی درد استخوان کودک به ارزیابی سریع نیاز دارد، تیم تخصصی چگونه سارکوم استخوان را تشخیص می‌دهد و نوع تومور چه اثری بر درمان و پیگیری دارد.",
+        "intro": "کودکتان هنگام فوتبال به زانو ضربه خورده است. کبودی از بین رفته، اما درد در همان نقطه برمی‌گردد و حالا او را از خواب بیدار می‌کند. گاهی یک ضربه توجه را به مشکلی جلب می‌کند، بی‌آنکه علت آن بوده باشد. به پزشک بگویید دقیقاً کجا درد می‌کند و از زمان ویزیت اول چه چیزی تغییر کرده است.",
+        "sections": [
+          {
+            "heading": "دردی که در یک نقطه تکرار می‌شود",
+            "paragraphs": [
+              "بیشتر دردهای کودکان علتی غیر از سرطان دارند. اگر یک ناحیه از استخوان بدون علت مشخص درد یا ورم دارد، زود برای ارزیابی اقدام کنید، به‌ویژه اگر ادامه پیدا می‌کند، بیشتر می‌شود، خواب کودک را به هم می‌زند یا راه رفتن یا استفاده از دست را تغییر داده است. هر برجستگی، تب، خستگی غیرعادی یا کاهش وزن را گزارش کنید. درد ممکن است ابتدا گهگاه بروز کند. همیشه توده از بیرون دیده نمی‌شود، به‌خصوص اگر در لگن باشد.",
+              "اگر کودک ناگهان نمی‌تواند راه برود یا وزنش را روی پا بیندازد، یا پس از یک ضربهٔ خفیف درد شدیدی دارد که ممکن است نشانهٔ شکستگی باشد، همین حالا ارزیابی فوری بگیرید. تب همراه با مفصل داغ، متورم و بسیار دردناک می‌تواند نشانهٔ عفونتی باشد که رسیدگی اورژانسی می‌خواهد. در چنین وضعی منتظر وقت قبلی متخصص سرطان یا پزشکی ورزشی نمانید."
+            ]
+          },
+          {
+            "heading": "استئوسارکوم و سارکوم یوئینگ دو بیماری متفاوت‌اند",
+            "paragraphs": [
+              "سرطان اولیهٔ استخوان از خود استخوان آغاز می‌شود. استئوسارکوم یکی از انواع آن است و اغلب نزدیک انتهای یک استخوان دراز، مثلاً اطراف زانو یا در قسمت بالای بازو، به وجود می‌آید. سارکوم یوئینگ ممکن است در لگن، یکی از استخوان‌های دراز، دیوارهٔ قفسهٔ سینه یا بافت نرم شروع شود. نه محل درد و نه حسی که ایجاد می‌کند نوع تومور را تعیین نمی‌کند.",
+              "پزشک ناحیه را معاینه می‌کند و ممکن است عکس ساده بخواهد. اگر یافته‌ها نگران‌کننده باشند، تیم تخصصی سارکوم می‌تواند تصویربرداری‌های تکمیلی، اغلب ام‌آرآی از همان ناحیه، و نمونه‌برداری را برنامه‌ریزی کند. در نمونه‌برداری تکه‌ای از بافت برای بررسی تخصصی برداشته می‌شود. محل برداشت می‌تواند بر جراحی بعدی اثر بگذارد، بنابراین باید با هماهنگی تیمی انتخاب شود که درمان تومور را انجام خواهد داد. بپرسید اگر ابتدا ارزیابی اطمینان‌بخش بود ولی علامت‌ها ادامه داشت چه زمانی دوباره مراجعه کنید."
+            ]
+          },
+          {
+            "heading": "تیم درمان چگونه روش مناسب را انتخاب می‌کند؟",
+            "paragraphs": [
+              "تشخیص دقیق بافت و اینکه سرطان گسترش یافته یا نه، برنامه را تعیین می‌کنند. در استئوسارکوم جراحی و شیمی‌درمانی رایج است. بسته به تومور، ممکن است بتوان اندام را در جراحی حفظ کرد یا برداشتن بخشی از آن ایمن‌ترین راه خارج کردن سرطان باشد. بپرسید عمل چه اثری بر حرکت و رشد می‌گذارد و چه توان‌بخشی‌ای در دسترس خواهد بود.",
+              "سارکوم یوئینگ معمولاً با شیمی‌درمانی و درمان موضع تومور به کمک جراحی، پرتودرمانی یا هر دو درمان می‌شود. در یک کارآزمایی تصادفی، دو برنامه با فاصله‌های متفاوت بین دوره‌های شیمی‌درمانی در ۵۶۸ بیمار واجد شرایط مبتلا به سارکوم یوئینگ موضعی مقایسه شد. در حدود پنج سال، بقای بدون رویداد در گروه با فاصلهٔ کوتاه‌تر ۷۳ درصد و در گروه با فاصلهٔ معمول ۶۵ درصد بود. این شاخص زمان سپری‌شده بدون رویدادهایی مانند بازگشت یا پیشرفت بیماری را نشان می‌دهد. این نتیجه پیامد یک کودک را پیش‌بینی نمی‌کند و برای همهٔ تومورهای استخوان صدق نمی‌کند."
+            ]
+          },
+          {
+            "heading": "زندگی در طول درمان و پس از آن",
+            "paragraphs": [
+              "ممکن است هنگام درمان درد، خستگی، تهوع، ریزش مو یا افزایش احتمال عفونت پیش بیاید. تیم درمان می‌تواند برای کنترل علامت‌ها کمک کند و برای تب، به‌ویژه در دورهٔ شیمی‌درمانی، دستور مشخص بدهد. بپرسید شب‌ها چطور تماس بگیرید. توان‌بخشی ممکن است شامل فیزیوتراپی، وسایل کمکی یا پروتز باشد. کودک هنگام بازگشت به مدرسه یا فعالیت‌هایش می‌تواند از حمایت عاطفی هم بهره ببرد.",
+              "پیگیری عود بیماری و عوارض دیررس به نوع بیماری و درمان بستگی دارد. تیم درمان ممکن است استخوان درمان‌شده، رشد، حرکت و بسته به درمان، سلامت قلب یا باروری را پایش کند. خلاصهٔ درمان و برنامهٔ ویزیت‌ها را نگه دارید. درد تازه‌ای را که ماندگار می‌شود یا ورم جدید را پیش از نوبت تصویربرداری معمول گزارش کنید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "درد ماندگار در یک نقطه، ورم رو به افزایش، بیدار شدن شبانه یا تغییر راه رفتن را گزارش کنید.",
+          "اگر احتمال تومور استخوان وجود دارد، برنامه‌ریزی نمونه‌برداری را به تیم تخصصی بسپارید.",
+          "دربارهٔ هدف درمان، توان‌بخشی، اقدام لازم در صورت تب و پیگیری عود یا عوارض دیررس سؤال کنید."
+        ],
+        "faq": [
+          {
+            "q": "آیا سرطان استخوان باعث درد در سراسر بدن می‌شود؟",
+            "a": "ممکن است در محل رشد تومور درد ایجاد کند. بدن‌درد منتشر به‌تنهایی نشانهٔ قابل اعتمادی نیست. دردی که بارها در یک نقطه برمی‌گردد، به‌ویژه همراه با ورم یا لنگیدن، نیاز به ارزیابی سریع دارد."
+          },
+          {
+            "q": "درد سرطان استخوان چه حسی دارد؟",
+            "a": "ممکن است ابتدا گهگاهی باشد، دفعات آن بیشتر شود، با فعالیت بدتر شود یا کودک را شب بیدار کند. عفونت و آسیب هم ممکن است درد مشابهی ایجاد کنند. الگوی درد و معاینه راهنمای انتخاب آزمایش هستند؛ حس درد به‌تنهایی تشخیص نمی‌دهد."
+          },
+          {
+            "q": "آیا درد شدید یعنی سرطان پیشرفته است؟",
+            "a": "شدت درد مرحلهٔ سرطان را تعیین نمی‌کند. درد ناگهانی و شدید، به‌خصوص پس از آسیبی خفیف یا همراه با ناتوانی کودک در استفاده از اندام، برای بررسی شکستگی یا علت فوری دیگر به ارزیابی فوری نیاز دارد."
+          },
+          {
+            "q": "چه نشانه‌های دیگری را به پزشک بگویم؟",
+            "a": "ورم تازه یا رو به بزرگ شدن، محدودیت حرکت، لنگیدن یا شکستگی بی‌دلیل را مطرح کنید. تب، خستگی یا کاهش وزن را هم بگویید. اگر علامت‌ها باقی ماندند یا بدتر شدند، حتی پس از ویزیت قبلی دوباره ارزیابی بخواهید."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۶ نوامبر ۲۰۲۶ بازبینی شد",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "محل دقیق درد را نشان دهید و اثر آن بر خواب و حرکت را توضیح دهید.",
+            "بپرسید چه بررسی‌ای مناسب است و اگر علامت‌ها ادامه داشت چه زمانی معاینهٔ مجدد لازم است.",
+            "اگر تومور تشخیص داده شده، خلاصهٔ درمان و برنامهٔ پیگیری تیم را نگه دارید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند یادداشت کوتاهی از زمان شروع درد، محلی که کودک نشان می‌دهد و فعالیت‌هایی که دیگر به‌راحتی انجام نمی‌دهد همراه ببرید.",
+          "safety": "اگر کودک ناگهان نمی‌تواند راه برود یا روی پا وزن بیندازد، یا اگر پس از ضربه‌ای خفیف احتمال شکستگی وجود دارد، فوراً برای ارزیابی پزشکی اقدام کنید. تب با مفصل داغ، متورم و بسیار دردناک رسیدگی اورژانسی می‌خواهد. در دورهٔ شیمی‌درمانی برای تب طبق دستور فوری تیم سرطان عمل کنید.",
+          "sources": [
+            {
+              "organization": "مؤسسهٔ ملی سرطان آمریکا",
+              "title": "تشخیص و درمان استئوسارکوم",
+              "url": "https://www.cancer.gov/types/bone/patient/osteosarcoma-treatment-pdq"
+            },
+            {
+              "organization": "مؤسسهٔ ملی سرطان آمریکا",
+              "title": "تشخیص و درمان سارکوم یوئینگ",
+              "url": "https://www.cancer.gov/types/bone/patient/ewing-treatment-pdq"
+            },
+            {
+              "organization": "مؤسسهٔ ملی تعالی سلامت و مراقبت بریتانیا",
+              "title": "شناسایی و ارجاع کودک با احتمال سارکوم استخوان",
+              "url": "https://www.nice.org.uk/guidance/ng12/chapter/recommended-actions-organised-by-symptom-and-findings-of-primary-care-investigations"
+            },
+            {
+              "organization": "وومر و همکاران، گروه سرطان‌شناسی کودکان",
+              "title": "مقایسهٔ تصادفی فاصلهٔ دوره‌های شیمی‌درمانی در سارکوم یوئینگ موضعی",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23091096/"
+            },
+            {
+              "organization": "بیمارستان سلطنتی کودکان ملبورن",
+              "title": "کودکی که می‌لنگد یا نمی‌تواند روی پا وزن بیندازد",
+              "url": "https://www.rch.org.au/clinicalguide/guideline_index/Child_with_limp/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "ألم العظام وتورمها عند الطفل: متى يحتاج إلى فحص أو تصوير؟",
+        "description": "تعرف إلى أنماط ألم العظام التي تستدعي فحص طفلك سريعًا، وكيف يشخص الفريق المختص ساركوما العظام، وما الذي يحدد العلاج والمتابعة لكل نوع من هذه الأورام.",
+        "intro": "أصيب طفل في ركبته أثناء لعب الكرة. زالت الكدمة، لكن الألم يعود إلى الموضع نفسه ويوقظه الآن من نومه. قد تلفت الإصابة الانتباه إلى مشكلة كانت موجودة قبلها. وضّح للطبيب أين يؤلم الطفل بالضبط وما الذي تغيّر منذ الفحص الأول.",
+        "sections": [
+          {
+            "heading": "ألم يتكرر في مكان واحد",
+            "paragraphs": [
+              "معظم آلام الأطفال لها أسباب أخرى غير السرطان. احجز موعدًا قريبًا لتقييم ألم عظمي موضعي أو تورم لا تجد له تفسيرًا، خصوصًا إن استمر أو اشتد أو أيقظ الطفل أو غيّر مشيته أو طريقة استخدامه لذراعه. اذكر أي كتلة أو حمى أو تعب غير معتاد أو نقص في الوزن. قد يتقطع الألم في البداية، وقد لا تظهر كتلة، خاصة في الحوض.",
+              "اطلب تقييمًا عاجلًا الآن إذا عجز الطفل فجأة عن المشي أو تحميل وزنه على ساقه، أو شعر بألم شديد بعد ضربة بسيطة ربما سببت كسرًا. قد تعني الحمى مع مفصل ساخن ومتورم وشديد الألم وجود عدوى تستدعي رعاية طارئة. لا تنتظر موعد عيادة الأورام أو الطب الرياضي في هذه الحالات."
+            ]
+          },
+          {
+            "heading": "ما الفرق بين الساركوما العظمية وساركوما إيوينغ؟",
+            "paragraphs": [
+              "ينشأ سرطان العظام الأولي في العظم نفسه. من أمثلته الساركوما العظمية التي تظهر غالبًا قرب نهاية عظم طويل، مثل العظام حول الركبة أو عظم العضد. أما ساركوما إيوينغ فقد تبدأ في الحوض أو عظم طويل أو جدار الصدر أو الأنسجة الرخوة. لا يكشف موضع الألم أو طبيعته وحدهما نوع الورم.",
+              "يفحص الطبيب المنطقة وقد يطلب أشعة سينية. إذا أثارت النتائج الشك، يستطيع فريق متخصص بالساركوما ترتيب فحوص أخرى، غالبًا تتضمن التصوير بالرنين المغناطيسي للمنطقة، والتخطيط لخزعة. تؤخذ في الخزعة عينة من النسيج ليفحصها مختص. قد يؤثر موضع أخذها في الجراحة اللاحقة، ولذلك ينبغي أن يخطط لها الفريق الذي سيتولى العلاج. اسأل عن موعد العودة إذا استمرت الأعراض بعد فحص أولي مطمئن."
+            ]
+          },
+          {
+            "heading": "كيف يُختار العلاج؟",
+            "paragraphs": [
+              "تُبنى الخطة على نوع الورم الذي كشفه فحص النسيج وما إذا كان قد انتشر. يشيع استخدام الجراحة والعلاج الكيميائي في الساركوما العظمية. قد يمكن استئصال الورم مع الحفاظ على الطرف، وفي حالات أخرى يكون استئصال جزء من الطرف الطريقة الأكثر أمانًا لإزالة الورم. اسأل عن أثر العملية في الحركة والنمو وخيارات التأهيل.",
+              "تُعالج ساركوما إيوينغ عادةً بالعلاج الكيميائي مع جراحة موضع الورم أو علاجه بالإشعاع أو كليهما. قارنت تجربة عشوائية بين جدولين للعلاج الكيميائي لدى 568 مريضًا مؤهلًا لديهم ساركوما إيوينغ موضعية. بعد نحو خمس سنوات كان البقاء دون أحداث مثل عودة المرض أو تقدمه 73% لدى المجموعة ذات الفواصل الأقصر بين الدورات و65% لدى مجموعة الفواصل المعتادة. لا تتنبأ هذه النسب بمآل طفل بعينه ولا تنطبق على جميع أورام العظام."
+            ]
+          },
+          {
+            "heading": "الحياة أثناء العلاج والمتابعة بعده",
+            "paragraphs": [
+              "قد يسبب العلاج ألمًا أو تعبًا أو غثيانًا أو تساقطًا للشعر، وقد يزيد خطر العدوى. يمكن للفريق المساعدة في تخفيف الأعراض وتحديد ما يجب فعله عند الحمى، خصوصًا أثناء العلاج الكيميائي. اعرف كيف تتواصل معه ليلًا. قد يشمل التأهيل علاجًا طبيعيًا أو وسائل مساعدة أو طرفًا اصطناعيًا، مع دعم نفسي عند العودة إلى المدرسة والأنشطة.",
+              "تتحدد فحوص عودة المرض والآثار المتأخرة وفق التشخيص والعلاج. قد يتابع الفريق العظم المعالَج والنمو والحركة، وأحيانًا صحة القلب أو الخصوبة بحسب نوع العلاج. احتفظ بملخص العلاج ومواعيد المتابعة. أخبر الفريق عن أي ألم أو تورم جديد مستمر دون انتظار موعد التصوير الدوري."
+            ]
+          }
+        ],
+        "takeaways": [
+          "أخبر الطبيب عن الألم المستمر في مكان واحد أو التورم المتزايد أو الاستيقاظ ليلًا أو تغير المشية.",
+          "عند الاشتباه بورم عظمي، دع الفريق المتخصص يخطط للخزعة.",
+          "اسأل عن أهداف العلاج والتأهيل وتعليمات الحمى ومتابعة عودة المرض أو آثاره المتأخرة."
+        ],
+        "faq": [
+          {
+            "q": "هل يسبب سرطان العظام ألمًا في الجسم كله؟",
+            "a": "قد ينشأ الألم في موضع نمو الورم. أوجاع الجسم العامة وحدها لا تدل عليه بصورة موثوقة. أما تكرر الألم في موضع معين، خاصة مع العرج أو التورم، فيستدعي فحصًا قريبًا."
+          },
+          {
+            "q": "بماذا يشعر الطفل عند ألم سرطان العظام؟",
+            "a": "قد يتقطع الألم أولًا ثم يتكرر أكثر، أو يشتد مع النشاط أو يوقظ الطفل ليلًا. قد تسبب العدوى والإصابات ألمًا مشابهًا. يسترشد الطبيب بنمط الألم والفحص لاختيار الاختبارات، ولا يكفي وصف الإحساس لتحديد السبب."
+          },
+          {
+            "q": "هل يعني الألم الشديد أن السرطان في مرحلة متقدمة؟",
+            "a": "لا تحدد شدة الألم مرحلة السرطان. يقتضي الألم الشديد المفاجئ، خصوصًا بعد إصابة بسيطة أو حين يعجز الطفل عن استخدام الطرف، تقييمًا عاجلًا لاحتمال وجود كسر أو سبب آخر يتطلب رعاية سريعة."
+          },
+          {
+            "q": "ما العلامات الأخرى التي أذكرها للطبيب؟",
+            "a": "اذكر ظهور تورم أو زيادة حجمه، أو تقييد الحركة، أو العرج، أو كسر لا تفسير له. اذكر أيضًا الحمى والتعب ونقص الوزن. اطلب إعادة الفحص عند استمرار الأعراض أو تفاقمها حتى لو فُحص الطفل من قبل."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في 16 نوفمبر 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "أشِر إلى مكان الألم بدقة واشرح كيف يؤثر في النوم والحركة.",
+            "اسأل عن الفحص المناسب ومتى ينبغي العودة إذا استمرت الأعراض.",
+            "إذا شُخّص ورم، احتفظ بملخص العلاج وخطة المتابعة اللذين يقدمهما الفريق."
+          ],
+          "bemama": "تقترح BeMama أن تدوّن متى بدأ الألم وإلى أي موضع يشير الطفل وأي الأنشطة لم يعد يستطيع القيام بها براحة.",
+          "safety": "اطلب تقييمًا طبيًا عاجلًا إذا عجز الطفل فجأة عن المشي أو تحميل وزنه أو اشتبهت في كسر بعد إصابة بسيطة. الحمى مع مفصل ساخن متورم وشديد الألم تستوجب رعاية طارئة. أثناء العلاج الكيميائي اتبع تعليمات فريق الأورام العاجلة عند حدوث الحمى.",
+          "sources": [
+            {
+              "organization": "المعهد الوطني للسرطان في الولايات المتحدة",
+              "title": "تشخيص الساركوما العظمية وعلاجها",
+              "url": "https://www.cancer.gov/types/bone/patient/osteosarcoma-treatment-pdq"
+            },
+            {
+              "organization": "المعهد الوطني للسرطان في الولايات المتحدة",
+              "title": "تشخيص ساركوما إيوينغ وعلاجها",
+              "url": "https://www.cancer.gov/types/bone/patient/ewing-treatment-pdq"
+            },
+            {
+              "organization": "المعهد الوطني للتميز في الصحة والرعاية",
+              "title": "التعرف على علامات ساركوما العظام المحتملة لدى الأطفال والإحالة إلى المختص",
+              "url": "https://www.nice.org.uk/guidance/ng12/chapter/recommended-actions-organised-by-symptom-and-findings-of-primary-care-investigations"
+            },
+            {
+              "organization": "وومر وزملاؤه، مجموعة أورام الأطفال",
+              "title": "مقارنة عشوائية للفواصل بين دورات العلاج الكيميائي في ساركوما إيوينغ الموضعية",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23091096/"
+            },
+            {
+              "organization": "مستشفى الأطفال الملكي في ملبورن",
+              "title": "تقييم الطفل الذي يعرج أو يعجز عن تحميل وزنه",
+              "url": "https://www.rch.org.au/clinicalguide/guideline_index/Child_with_limp/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Douleur osseuse chez l’enfant : quand demander un examen ?",
+        "description": "Une douleur qui revient au même endroit ou un gonflement mérite un examen. Comprenez le diagnostic des sarcomes osseux et le rôle du traitement et du suivi.",
+        "intro": "Votre enfant s’est cogné le genou au football. Le bleu a disparu, mais la douleur revient au même endroit et le réveille désormais. Un choc peut attirer l’attention sur un problème sans en être la cause. Montrez au médecin l’endroit précis et expliquez ce qui a changé depuis la première consultation.",
+        "sections": [
+          {
+            "heading": "Une douleur qui reste localisée mérite un examen",
+            "paragraphs": [
+              "La plupart des douleurs de l’enfant ont une autre cause qu’un cancer. Faites examiner rapidement une douleur osseuse localisée ou un gonflement inexpliqué, surtout si cela persiste, s’aggrave, réveille l’enfant ou modifie sa marche ou l’usage d’un bras. Signalez toute masse, fièvre, fatigue inhabituelle ou perte de poids. La douleur peut être intermittente au début. Une masse n’est pas forcément visible, notamment au niveau du bassin.",
+              "Demandez une évaluation urgente dès maintenant si votre enfant ne peut soudain plus marcher ou prendre appui, ou s’il présente une douleur intense après un petit choc qui pourrait avoir provoqué une fracture. Une articulation chaude, gonflée et très douloureuse avec de la fièvre peut signaler une infection qui relève des urgences. Dans ces situations, n’attendez pas le rendez-vous prévu en oncologie ou en médecine du sport."
+            ]
+          },
+          {
+            "heading": "L’ostéosarcome et le sarcome d’Ewing sont différents",
+            "paragraphs": [
+              "Un cancer osseux primitif prend naissance dans l’os. L’ostéosarcome en est un exemple. Il se forme souvent près de l’extrémité d’un os long, notamment autour du genou ou dans le haut du bras. Le sarcome d’Ewing peut se développer dans le bassin, un os long, la paroi du thorax ou les tissus mous. Ni le siège ni la sensation de douleur ne permettent d’en identifier le type.",
+              "Le médecin examine la zone et peut demander une radiographie. Si les constatations sont préoccupantes, une équipe spécialisée dans les sarcomes peut prévoir d’autres images, souvent une IRM de la zone, et organiser une biopsie. Celle-ci prélève du tissu pour un examen spécialisé. Son emplacement peut influencer la chirurgie ultérieure. Elle doit donc être planifiée avec l’équipe qui traiterait la tumeur. Demandez quand revenir si les symptômes persistent malgré un premier examen rassurant."
+            ]
+          },
+          {
+            "heading": "Comment l’équipe choisit le traitement",
+            "paragraphs": [
+              "Le diagnostic établi sur le tissu et l’extension éventuelle du cancer orientent le traitement. La chirurgie et la chimiothérapie sont courantes dans l’ostéosarcome. Selon la tumeur, l’intervention peut préserver le membre ou nécessiter d’en retirer une partie pour enlever le cancer dans les meilleures conditions. Demandez quelles conséquences l’opération peut avoir sur la mobilité et la croissance, et quelle rééducation sera proposée.",
+              "Le sarcome d’Ewing nécessite habituellement une chimiothérapie et un traitement local par chirurgie, radiothérapie ou les deux. Un essai randomisé a comparé deux rythmes de chimiothérapie chez 568 patients remplissant les critères et atteints d’un sarcome d’Ewing localisé. Vers cinq ans, la survie sans événement était de 73 % avec le rythme plus rapproché et de 65 % avec le rythme habituel. Cet indicateur mesure le temps sans événement comme une récidive ou une progression. Ces résultats ne prédisent pas l’évolution d’un enfant donné et ne s’appliquent pas à toutes les tumeurs osseuses."
+            ]
+          },
+          {
+            "heading": "Organiser le quotidien pendant et après les soins",
+            "paragraphs": [
+              "Des douleurs, une fatigue, des nausées, une chute de cheveux ou un risque d’infection peuvent accompagner les soins. L’équipe peut aider à soulager les symptômes et préciser la conduite à tenir en cas de fièvre, surtout pendant la chimiothérapie. Demandez comment la joindre la nuit. La réadaptation peut inclure de la kinésithérapie, du matériel ou une prothèse, avec un soutien moral lors du retour à l’école ou aux activités.",
+              "Le suivi des récidives et des effets tardifs dépend du diagnostic et du traitement. Il peut porter sur l’os traité, la croissance, la mobilité et, selon les soins reçus, le cœur ou la fertilité. Conservez un résumé du traitement et le calendrier des consultations. Signalez toute nouvelle douleur persistante ou tout nouveau gonflement sans attendre l’imagerie prévue."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Signalez une douleur persistante au même endroit, un gonflement qui augmente, des réveils nocturnes ou une modification de la marche.",
+          "Si une tumeur osseuse est suspectée, laissez l’équipe spécialisée planifier la biopsie.",
+          "Demandez quels sont les objectifs du traitement, la rééducation, les consignes pour la fièvre et le suivi des récidives ou des effets tardifs."
+        ],
+        "faq": [
+          {
+            "q": "Le cancer des os fait-il mal dans tout le corps ?",
+            "a": "Il peut faire mal là où la tumeur se développe. Une douleur généralisée isolée est peu spécifique. Des douleurs répétées au même endroit, surtout avec un gonflement ou une boiterie, justifient une évaluation rapide."
+          },
+          {
+            "q": "Comment se manifeste la douleur d’un cancer osseux ?",
+            "a": "Elle peut commencer par intermittence, devenir plus fréquente, augmenter avec l’activité ou réveiller l’enfant la nuit. Une infection ou une blessure peut aussi faire mal de cette façon. Le déroulement et l’examen guident les tests, mais la sensation seule ne donne pas le diagnostic."
+          },
+          {
+            "q": "Une douleur très intense signifie-t-elle que le cancer est avancé ?",
+            "a": "L’intensité de la douleur ne détermine pas le stade du cancer. Une douleur intense et soudaine, surtout après un petit choc ou si l’enfant ne peut pas utiliser le membre, nécessite un examen urgent pour rechercher une fracture ou une autre cause urgente."
+          },
+          {
+            "q": "Quels autres signes faut-il signaler ?",
+            "a": "Mentionnez un gonflement récent ou croissant, une limitation des mouvements, une boiterie ou une fracture inexpliquée. Signalez la fièvre, la fatigue ou une perte de poids. Demandez une nouvelle évaluation si les symptômes persistent ou s’aggravent, même après une consultation."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Montrez où l’enfant a mal et expliquez l’effet sur son sommeil et ses mouvements.",
+            "Demandez quel examen convient et quand les symptômes persistants doivent être réévalués.",
+            "Si une tumeur est diagnostiquée, conservez le résumé des traitements et le programme de suivi."
+          ],
+          "bemama": "BeMama vous suggère de noter quand la douleur est apparue, l’endroit que montre l’enfant et les activités qu’il ne peut plus faire confortablement.",
+          "safety": "Demandez une évaluation urgente si l’enfant ne peut soudain plus marcher ou prendre appui, ou si un petit choc a pu causer une fracture. Une articulation chaude, gonflée et très douloureuse avec de la fièvre relève des urgences. Pendant la chimiothérapie, suivez sans tarder les consignes de l’équipe en cas de fièvre.",
+          "sources": [
+            {
+              "organization": "Institut national du cancer des États-Unis",
+              "title": "Diagnostic et traitement de l’ostéosarcome",
+              "url": "https://www.cancer.gov/types/bone/patient/osteosarcoma-treatment-pdq"
+            },
+            {
+              "organization": "Institut national du cancer des États-Unis",
+              "title": "Diagnostic et traitement du sarcome d’Ewing",
+              "url": "https://www.cancer.gov/types/bone/patient/ewing-treatment-pdq"
+            },
+            {
+              "organization": "Institut britannique d’excellence en matière de santé et de soins",
+              "title": "Repérage et orientation en cas de suspicion de sarcome osseux de l’enfant",
+              "url": "https://www.nice.org.uk/guidance/ng12/chapter/recommended-actions-organised-by-symptom-and-findings-of-primary-care-investigations"
+            },
+            {
+              "organization": "Womer et collaborateurs, Children’s Oncology Group",
+              "title": "Comparaison randomisée des intervalles de chimiothérapie dans le sarcome d’Ewing localisé",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23091096/"
+            },
+            {
+              "organization": "Hôpital royal pour enfants de Melbourne",
+              "title": "L’enfant qui boite ou ne peut prendre appui",
+              "url": "https://www.rch.org.au/clinicalguide/guideline_index/Child_with_limp/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Çocukta kemik ağrısı ve şişlik ne zaman incelenmeli?",
+        "description": "Çocuğun kemik ağrısı ne zaman incelenmeli? Kemik sarkomunun nasıl teşhis edildiğini, tedavinin ve izlemin tümörün türüne göre nasıl değiştiğini öğrenin.",
+        "intro": "Çocuğunuz futbol oynarken dizini çarptı. Morluk geçti ama aynı noktadaki ağrı tekrar ediyor ve artık onu uykudan uyandırıyor. Bazen bir yaralanma, neden olmadığı bir sorunun fark edilmesini sağlar. Hekime tam olarak neresinin ağrıdığını ve ilk muayeneden beri nelerin değiştiğini anlatın.",
+        "sections": [
+          {
+            "heading": "Aynı yerdeki ağrıya yakından bakmak gerekir",
+            "paragraphs": [
+              "Çocukluk çağındaki ağrıların çoğunun nedeni kanser değildir. Açıklanamayan bölgesel kemik ağrısı veya şişlik için gecikmeden değerlendirme isteyin. Özellikle sürüyorsa, artıyorsa, çocuğu uyandırıyorsa ya da yürüyüşünü veya kolunu kullanımını değiştiriyorsa belirtin. Kitle, ateş, olağandışı yorgunluk veya kilo kaybını bildirin. Ağrı başlangıçta gelip gidebilir. Özellikle leğen kemiği bölgesinde dışarıdan görünen bir kitle olmayabilir.",
+              "Çocuk aniden yürüyemiyor veya ayağının üstüne basamıyorsa ya da hafif bir çarpma sonrası kırık olabileceğini düşündüren şiddetli ağrısı varsa hemen acil değerlendirme isteyin. Ateşle birlikte sıcak, şiş ve çok ağrılı bir eklem, acil bakım gerektiren enfeksiyona işaret edebilir. Böyle bir durumda planlanmış onkoloji veya spor hekimliği randevusunu beklemeyin."
+            ]
+          },
+          {
+            "heading": "Osteosarkom ve Ewing sarkomu farklı hastalıklardır",
+            "paragraphs": [
+              "Birincil kemik kanseri kemikte başlar. Osteosarkom buna örnektir. Sıklıkla uzun bir kemiğin ucuna yakın bir yerde, örneğin diz çevresinde veya kolun üst bölümünde ortaya çıkar. Ewing sarkomu leğen kemiğinde, uzun bir kemikte, göğüs duvarında ya da yumuşak dokuda başlayabilir. Ne yerleşim yeri ne de ağrının nasıl hissedildiği türünü tek başına gösterir.",
+              "Hekim bölgeyi muayene eder ve röntgen isteyebilir. Bulgular kaygı vericiyse sarkom konusunda uzman ekip genellikle bölgenin MR görüntülemesi dahil ek incelemeler isteyebilir ve biyopsiyi planlayabilir. Biyopside uzman incelemesi için doku alınır. Örnek alınan yer daha sonraki ameliyatı etkileyebilir; bu nedenle işlem, tümörü tedavi edecek ekiple birlikte planlanmalıdır. İlk değerlendirme rahatlatıcı olsa da belirtiler sürerse ne zaman yeniden başvurmanız gerektiğini sorun."
+            ]
+          },
+          {
+            "heading": "Ekip tedaviyi nasıl seçer?",
+            "paragraphs": [
+              "Dokunun kesin tanısı ve kanserin yayılıp yayılmadığı tedaviyi belirler. Osteosarkomda cerrahi ve kemoterapi sık kullanılır. Tümöre göre ameliyatla kol veya bacak korunabilir ya da kanseri çıkarmak için uzvun bir bölümünü almak daha güvenli olabilir. Ameliyatın hareketi ve büyümeyi nasıl etkileyebileceğini ve hangi rehabilitasyonun sunulacağını sorun.",
+              "Ewing sarkomunda genellikle kemoterapiye ek olarak tümör bölgesine cerrahi, radyoterapi veya ikisi birlikte uygulanır. Bir randomize çalışmada, yayılmamış Ewing sarkomu bulunan ve çalışma ölçütlerini karşılayan 568 hastada iki kemoterapi aralığı karşılaştırıldı. Yaklaşık beş yılda olaysız sağkalım, daha kısa aralıklı grupta %73, standart aralıklı grupta %65’ti. Olaysız sağkalım, hastalığın tekrarı veya ilerlemesi gibi bir olay olmadan geçen süreyi anlatır. Bu sonuçlar tek bir çocuğun gidişatını öngörmez ve tüm kemik tümörleri için geçerli değildir."
+            ]
+          },
+          {
+            "heading": "Tedavi sırasındaki ve sonrasındaki yaşamı planlayın",
+            "paragraphs": [
+              "Tedavi süresince ağrı, yorgunluk, bulantı, saç dökülmesi veya enfeksiyon riskinde artış olabilir. Ekip belirtileri yönetmeye yardımcı olur ve özellikle kemoterapi sırasında ateş çıkarsa ne yapacağınızı açıklar. Gece kime ulaşacağınızı sorun. Rehabilitasyon fizik tedavi, yardımcı araç veya protez içerebilir. Çocuk okula ve etkinliklere dönerken duygusal destek de alabilir.",
+              "Nüks ve geç etkiler için izlem tanıya ve tedaviye bağlıdır. Ekip tedavi edilen kemiği, büyümeyi, hareketi ve alınan tedaviye göre kalp sağlığını veya doğurganlığı izleyebilir. Tedavi özetini ve randevu planını saklayın. Yeni ve kalıcı bir ağrı ya da yeni bir şişlik olursa rutin görüntülemeyi beklemeden bildirin."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Aynı noktada süren ağrıyı, artan şişliği, gece uyanmayı veya yürüyüşte değişikliği bildirin.",
+          "Kemik tümöründen şüpheleniliyorsa biyopsiyi uzman ekibin planlamasını sağlayın.",
+          "Tedavinin amaçlarını, rehabilitasyonu, ateş durumunda ne yapılacağını ve nüks ya da geç etkiler açısından izlemi sorun."
+        ],
+        "faq": [
+          {
+            "q": "Kemik kanseri vücudun her yerinde ağrı yapar mı?",
+            "a": "Tümörün büyüdüğü yerde ağrı yapabilir. Tek başına genel vücut ağrısı güvenilir bir işaret değildir. Aynı bölgedeki ağrı tekrarlıyorsa, özellikle şişlik veya aksama varsa gecikmeden değerlendirilmelidir."
+          },
+          {
+            "q": "Kemik kanserinde ağrı nasıl hissedilir?",
+            "a": "Başta aralıklı olabilir, sıklaşabilir, etkinlikle artabilir veya çocuğu gece uyandırabilir. Enfeksiyon ve yaralanma da benzer ağrılar yapabilir. Seyir ve muayene testlere yön verir ancak tek başına hissedilen ağrı tanı koydurmaz."
+          },
+          {
+            "q": "Çok ağrıması kanserin ileri evrede olduğunu mu gösterir?",
+            "a": "Ağrının şiddeti kanserin evresini göstermez. Özellikle hafif bir yaralanma sonrası veya çocuk uzvunu kullanamıyorsa, aniden başlayan çok şiddetli ağrı kırık ya da başka bir acil neden açısından hemen değerlendirilmelidir."
+          },
+          {
+            "q": "Başka hangi belirtileri söylemeliyim?",
+            "a": "Yeni veya büyüyen şişliği, hareket kısıtlılığını, aksamayı ya da açıklanamayan kırığı anlatın. Ateş, yorgunluk veya kilo kaybını belirtin. Önceden muayene edilmiş olsa bile belirtiler sürer veya kötüleşirse yeniden değerlendirme isteyin."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtların gözden geçirilme tarihi 16 Kasım 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Ağrının tam yerini gösterin, uykuyu ve hareketi nasıl etkilediğini açıklayın.",
+            "Hangi incelemenin uygun olduğunu ve belirtiler sürerse ne zaman yeniden muayene gerektiğini sorun.",
+            "Tümör tanısı konursa ekibin verdiği tedavi özetini ve izlem planını saklayın."
+          ],
+          "bemama": "BeMama, ağrının ne zaman başladığını, çocuğun nereyi gösterdiğini ve hangi etkinlikleri artık rahatça yapamadığını kısaca yazıp götürmenizi önerir.",
+          "safety": "Çocuk aniden yürüyemiyor ya da ayağının üstüne basamıyorsa veya hafif bir çarpma sonucu kırık olasılığı varsa hemen acil değerlendirme isteyin. Ateşle birlikte sıcak, şiş ve çok ağrılı eklem acil bakım gerektirir. Kemoterapi sırasında ateş için kanser ekibinin verdiği acil talimatları uygulayın.",
+          "sources": [
+            {
+              "organization": "ABD Ulusal Kanser Enstitüsü",
+              "title": "Osteosarkomun tanı ve tedavisi",
+              "url": "https://www.cancer.gov/types/bone/patient/osteosarcoma-treatment-pdq"
+            },
+            {
+              "organization": "ABD Ulusal Kanser Enstitüsü",
+              "title": "Ewing sarkomunun tanı ve tedavisi",
+              "url": "https://www.cancer.gov/types/bone/patient/ewing-treatment-pdq"
+            },
+            {
+              "organization": "Birleşik Krallık Ulusal Sağlık ve Bakım Mükemmelliği Enstitüsü",
+              "title": "Çocukta kemik sarkomu şüphesinin tanınması ve sevk",
+              "url": "https://www.nice.org.uk/guidance/ng12/chapter/recommended-actions-organised-by-symptom-and-findings-of-primary-care-investigations"
+            },
+            {
+              "organization": "Womer ve çalışma arkadaşları, Çocuk Onkolojisi Grubu",
+              "title": "Lokalize Ewing sarkomunda kemoterapi aralıklarının randomize karşılaştırması",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23091096/"
+            },
+            {
+              "organization": "Melbourne Kraliyet Çocuk Hastanesi",
+              "title": "Aksayan veya ayağının üstüne basamayan çocuk",
+              "url": "https://www.rch.org.au/clinicalguide/guideline_index/Child_with_limp/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Dolor de huesos en niños: cuándo consultar y qué pruebas pueden hacer",
+        "description": "Qué dolor óseo o hinchazón merece valoración pronta, cómo se diagnostica un sarcoma en niños y qué determina el tratamiento, la rehabilitación y el seguimiento.",
+        "intro": "Tu hijo se golpeó la rodilla jugando al fútbol. El morado ha desaparecido, pero sigue doliéndole el mismo punto y ahora el dolor lo despierta. Una lesión puede llamar la atención sobre un problema sin haberlo causado. Indica al profesional dónde le duele exactamente y qué ha cambiado desde la primera visita.",
+        "sections": [
+          {
+            "heading": "Un dolor localizado merece atención",
+            "paragraphs": [
+              "La mayoría de los dolores infantiles tienen causas distintas del cáncer. Pide valoración pronta si hay dolor óseo localizado o hinchazón sin explicación, sobre todo si persisten, empeoran, despiertan al niño o cambian su forma de caminar o de usar un brazo. Describe cualquier bulto, fiebre, cansancio inusual o pérdida de peso. Al principio el dolor puede ir y venir. No siempre se ve un bulto, especialmente en la pelvis.",
+              "Busca atención urgente ahora si de repente no puede caminar o apoyar el peso, o si siente dolor intenso tras un golpe leve que pudiera haber causado una fractura. La fiebre con una articulación caliente, hinchada y muy dolorosa puede indicar una infección que necesita atención de emergencia. En esas situaciones no esperes a una cita programada de oncología o medicina deportiva."
+            ]
+          },
+          {
+            "heading": "Osteosarcoma y sarcoma de Ewing son enfermedades distintas",
+            "paragraphs": [
+              "Un cáncer óseo primario empieza en el propio hueso. Un ejemplo es el osteosarcoma. Suele aparecer cerca del extremo de un hueso largo, por ejemplo alrededor de la rodilla o en la parte superior del brazo. El sarcoma de Ewing puede comenzar en la pelvis, un hueso largo, la pared torácica o un tejido blando. Ni el lugar ni la sensación de dolor identifican el tipo.",
+              "El profesional examina la zona y puede solicitar una radiografía. Si los hallazgos son preocupantes, el equipo especializado en sarcomas puede pedir más imágenes, a menudo una resonancia magnética, y planificar una biopsia. La biopsia obtiene tejido para su examen especializado. Su localización puede afectar a la cirugía posterior, por lo que debe planificarse con el equipo que trataría el tumor. Pregunta cuándo volver si los síntomas persisten aunque la primera valoración haya sido tranquilizadora."
+            ]
+          },
+          {
+            "heading": "Cómo se elige el tratamiento",
+            "paragraphs": [
+              "El plan depende del diagnóstico preciso del tejido y de si el cáncer se ha extendido. En el osteosarcoma suelen combinarse cirugía y quimioterapia. Según el tumor, la cirugía puede conservar la extremidad o puede ser más seguro retirar parte de ella para extirpar el cáncer. Pregunta cómo podría afectar la operación al movimiento y al crecimiento y qué rehabilitación se ofrecerá.",
+              "En el sarcoma de Ewing suelen emplearse quimioterapia y tratamiento local mediante cirugía, radioterapia o ambas. Un ensayo aleatorizado comparó dos intervalos de quimioterapia en 568 pacientes que cumplían los criterios y tenían sarcoma de Ewing localizado. Hacia los cinco años, la supervivencia sin eventos fue del 73 % con el intervalo más corto y del 65 % con el habitual. Se refiere al tiempo sin acontecimientos como recaída o progresión. No predice qué ocurrirá en un niño ni se aplica a todos los tumores óseos."
+            ]
+          },
+          {
+            "heading": "La vida durante y después del tratamiento",
+            "paragraphs": [
+              "Pueden aparecer dolor, cansancio, náuseas, caída del pelo o mayor riesgo de infección. El equipo puede ayudar con los síntomas y dar instrucciones ante la fiebre, sobre todo durante la quimioterapia. Pregunta cómo contactar de noche. La rehabilitación puede incluir fisioterapia, ayudas técnicas o una prótesis, con apoyo emocional al volver a la escuela o a las actividades.",
+              "La vigilancia de recaídas y efectos tardíos depende del diagnóstico y del tratamiento recibido. Puede incluir el hueso tratado, el crecimiento, la movilidad y, según el tratamiento, la salud del corazón o la fertilidad. Guarda el resumen del tratamiento y el calendario de citas. Si aparece dolor persistente o una nueva hinchazón, comunícalo en vez de esperar a la siguiente imagen programada."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Comunica si persiste el dolor en un mismo punto, aumenta la hinchazón, despierta al niño o cambia su forma de caminar.",
+          "Si se sospecha un tumor óseo, la biopsia debe planificarse con el equipo especializado.",
+          "Pregunta por los objetivos del tratamiento, la rehabilitación, la fiebre y el seguimiento de posibles recaídas o efectos tardíos."
+        ],
+        "faq": [
+          {
+            "q": "¿El cáncer de huesos causa dolor en todo el cuerpo?",
+            "a": "Puede causar dolor donde crece el tumor. Un dolor corporal general por sí solo no es un signo fiable. Si le duele repetidamente el mismo punto, en especial con hinchazón o cojera, pide valoración pronta."
+          },
+          {
+            "q": "¿Cómo se siente el dolor de un cáncer de huesos?",
+            "a": "Puede ser intermitente al inicio, hacerse más frecuente, aumentar con la actividad o despertar al niño de noche. Algunas lesiones e infecciones también duelen así. El patrón y la exploración orientan las pruebas, pero la sensación por sí sola no da un diagnóstico."
+          },
+          {
+            "q": "¿Un dolor intenso significa que el cáncer está avanzado?",
+            "a": "La intensidad no establece el estadio del cáncer. Un dolor intenso y repentino, en particular tras un golpe leve o si no puede usar la extremidad, requiere valoración urgente por una posible fractura u otra causa que necesite atención rápida."
+          },
+          {
+            "q": "¿Qué otros signos debo mencionar?",
+            "a": "Comenta hinchazón nueva o creciente, limitación del movimiento, cojera o una fractura sin explicación. Menciona fiebre, fatiga o pérdida de peso. Pide que vuelvan a valorarlo si los síntomas persisten o empeoran, aunque haya consultado antes."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Señala el punto exacto de dolor y explica cómo afecta al sueño y al movimiento.",
+            "Pregunta qué prueba corresponde y cuándo conviene volver si los síntomas continúan.",
+            "Si se diagnostica un tumor, conserva el resumen del tratamiento y el plan de seguimiento."
+          ],
+          "bemama": "BeMama sugiere llevar una nota sobre cuándo apareció el dolor, dónde señala el niño y qué actividades ya no puede hacer cómodamente.",
+          "safety": "Busca valoración urgente si de repente no puede caminar o apoyar el peso, o si un golpe leve pudo causar una fractura. La fiebre con una articulación caliente, hinchada y muy dolorosa necesita atención de emergencia. Durante la quimioterapia sigue las instrucciones urgentes del equipo si aparece fiebre.",
+          "sources": [
+            {
+              "organization": "Instituto Nacional del Cáncer de Estados Unidos",
+              "title": "Diagnóstico y tratamiento del osteosarcoma",
+              "url": "https://www.cancer.gov/types/bone/patient/osteosarcoma-treatment-pdq"
+            },
+            {
+              "organization": "Instituto Nacional del Cáncer de Estados Unidos",
+              "title": "Diagnóstico y tratamiento del sarcoma de Ewing",
+              "url": "https://www.cancer.gov/types/bone/patient/ewing-treatment-pdq"
+            },
+            {
+              "organization": "Instituto Nacional para la Excelencia en la Salud y la Atención del Reino Unido",
+              "title": "Reconocimiento y derivación ante sospecha de sarcoma óseo infantil",
+              "url": "https://www.nice.org.uk/guidance/ng12/chapter/recommended-actions-organised-by-symptom-and-findings-of-primary-care-investigations"
+            },
+            {
+              "organization": "Womer y colaboradores, Grupo de Oncología Infantil",
+              "title": "Comparación aleatorizada de intervalos de quimioterapia en el sarcoma de Ewing localizado",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23091096/"
+            },
+            {
+              "organization": "Real Hospital Infantil de Melbourne",
+              "title": "El niño que cojea o no puede apoyar el peso",
+              "url": "https://www.rch.org.au/clinicalguide/guideline_index/Child_with_limp/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Dor óssea na criança: quando pedir avaliação e exame de imagem",
+        "description": "Saiba que tipo de dor óssea ou inchaço precisa de avaliação rápida, como se faz o diagnóstico de um sarcoma e como o tratamento e o acompanhamento variam.",
+        "intro": "Seu filho bateu o joelho no futebol. A mancha roxa sumiu, mas a dor volta ao mesmo ponto e agora o acorda. Uma lesão pode chamar a atenção para um problema sem ter sido a causa dele. Mostre ao profissional exatamente onde dói e o que mudou desde a primeira consulta.",
+        "sections": [
+          {
+            "heading": "Dor no mesmo ponto merece atenção",
+            "paragraphs": [
+              "A maioria das dores da infância tem outras causas além de câncer. Marque uma avaliação rápida para dor óssea localizada ou inchaço sem explicação, principalmente se persistir, piorar, acordar a criança ou mudar sua maneira de andar ou usar um braço. Descreva qualquer caroço, febre, cansaço incomum ou perda de peso. No início, a dor pode ir e voltar. Nem sempre há caroço visível, sobretudo na pelve.",
+              "Procure avaliação urgente agora se a criança de repente não consegue andar ou apoiar o peso, ou se sente dor forte após um golpe leve que possa ter causado fratura. Uma articulação quente, inchada e muito dolorida junto com febre pode indicar infecção que exige atendimento de emergência. Nessas situações, não espere a consulta de oncologia ou medicina esportiva marcada para depois."
+            ]
+          },
+          {
+            "heading": "Osteossarcoma e sarcoma de Ewing são doenças diferentes",
+            "paragraphs": [
+              "Um câncer ósseo primário começa no próprio osso. O osteossarcoma é um exemplo. Ele costuma surgir perto da extremidade de um osso longo, como na região do joelho ou na parte de cima do braço. O sarcoma de Ewing pode surgir na pelve, em um osso longo, na parede do tórax ou em tecidos moles. Nem o local nem a sensação da dor identificam o tipo.",
+              "O profissional examina a região e pode pedir uma radiografia. Se houver sinais preocupantes, a equipe especializada em sarcomas pode solicitar mais imagens, muitas vezes uma ressonância magnética, e planejar uma biópsia. A biópsia retira tecido para análise especializada. O local da coleta pode afetar a cirurgia posterior, por isso ela deve ser planejada com a equipe que trataria o tumor. Pergunte quando voltar se os sintomas persistirem apesar de uma primeira avaliação tranquilizadora."
+            ]
+          },
+          {
+            "heading": "Como a equipe escolhe o tratamento",
+            "paragraphs": [
+              "O diagnóstico preciso no tecido e a presença de disseminação orientam o plano. Cirurgia e quimioterapia são frequentes no osteossarcoma. Conforme o tumor, é possível preservar o membro ou pode ser mais seguro retirar parte dele para remover o câncer. Pergunte como a cirurgia poderá afetar o movimento e o crescimento e qual reabilitação estará disponível.",
+              "O sarcoma de Ewing geralmente precisa de quimioterapia e de tratamento do local do tumor com cirurgia, radioterapia ou ambas. Um ensaio randomizado comparou dois intervalos de quimioterapia em 568 pacientes elegíveis com sarcoma de Ewing localizado. Por volta de cinco anos, a sobrevida livre de eventos foi de 73% no grupo com intervalo mais curto e 65% no grupo com intervalo habitual. Esse termo descreve o tempo sem eventos como recidiva ou progressão. O estudo não prevê o resultado de uma criança específica nem se aplica a todos os tumores ósseos."
+            ]
+          },
+          {
+            "heading": "Planeje a vida durante e depois do tratamento",
+            "paragraphs": [
+              "Podem ocorrer dor, cansaço, náuseas, queda de cabelo ou maior risco de infecção durante o tratamento. A equipe pode ajudar a controlar sintomas e dar instruções para o caso de febre, principalmente durante a quimioterapia. Pergunte como entrar em contato à noite. A reabilitação pode incluir fisioterapia, equipamentos ou prótese, com apoio emocional na volta à escola ou às atividades.",
+              "As consultas para avaliar recidivas e efeitos tardios dependem do diagnóstico e do tratamento. A equipe pode acompanhar o osso tratado, o crescimento, o movimento e, conforme o tratamento, a saúde do coração ou a fertilidade. Guarde um resumo do tratamento e a programação das consultas. Informe uma nova dor persistente ou um inchaço novo sem esperar o próximo exame de rotina."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Informe dor persistente em um ponto, inchaço crescente, despertares à noite ou mudança na forma de andar.",
+          "Se houver suspeita de tumor ósseo, a equipe especializada deve planejar a biópsia.",
+          "Pergunte sobre objetivos do tratamento, reabilitação, conduta em caso de febre e acompanhamento de recidivas ou efeitos tardios."
+        ],
+        "faq": [
+          {
+            "q": "O câncer ósseo causa dor no corpo todo?",
+            "a": "Pode causar dor onde o tumor cresce. Dor generalizada, isoladamente, não é um sinal confiável. Dor que volta ao mesmo local, sobretudo com inchaço ou se a criança manca, merece avaliação rápida."
+          },
+          {
+            "q": "Como é a dor de um câncer ósseo?",
+            "a": "Pode ir e voltar no início, ficar mais frequente, piorar com a atividade ou acordar a criança à noite. Infecções e lesões também podem doer dessa forma. O padrão e o exame orientam a investigação, mas a sensação por si só não define o diagnóstico."
+          },
+          {
+            "q": "Dor forte significa que o câncer está avançado?",
+            "a": "A intensidade da dor não determina o estágio do câncer. Uma dor súbita e intensa, especialmente após um pequeno trauma ou se a criança não consegue usar o membro, exige avaliação urgente para investigar fratura ou outra causa que precise de atenção rápida."
+          },
+          {
+            "q": "Quais outros sinais devo mencionar?",
+            "a": "Informe um inchaço novo ou crescente, dificuldade de movimentação, se a criança manca ou se houve fratura sem explicação. Mencione febre, cansaço ou perda de peso. Peça reavaliação se os sintomas persistirem ou piorarem, mesmo após uma consulta anterior."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Mostre o ponto exato da dor e explique como ela afeta o sono e os movimentos.",
+            "Pergunte qual exame se aplica e quando os sintomas persistentes exigem nova avaliação.",
+            "Se houver diagnóstico de tumor, guarde o resumo do tratamento e o plano de acompanhamento."
+          ],
+          "bemama": "A BeMama sugere anotar quando a dor apareceu, onde a criança aponta e quais atividades deixaram de ser confortáveis para ela.",
+          "safety": "Procure avaliação urgente se a criança de repente não conseguir andar ou apoiar o peso ou se um pequeno trauma puder ter causado uma fratura. Febre com articulação quente, inchada e muito dolorida exige atendimento de emergência. Durante a quimioterapia, siga as orientações urgentes da equipe para febre.",
+          "sources": [
+            {
+              "organization": "Instituto Nacional do Câncer dos Estados Unidos",
+              "title": "Diagnóstico e tratamento do osteossarcoma",
+              "url": "https://www.cancer.gov/types/bone/patient/osteosarcoma-treatment-pdq"
+            },
+            {
+              "organization": "Instituto Nacional do Câncer dos Estados Unidos",
+              "title": "Diagnóstico e tratamento do sarcoma de Ewing",
+              "url": "https://www.cancer.gov/types/bone/patient/ewing-treatment-pdq"
+            },
+            {
+              "organization": "Instituto Nacional de Excelência em Saúde e Cuidados do Reino Unido",
+              "title": "Reconhecimento e encaminhamento na suspeita de sarcoma ósseo infantil",
+              "url": "https://www.nice.org.uk/guidance/ng12/chapter/recommended-actions-organised-by-symptom-and-findings-of-primary-care-investigations"
+            },
+            {
+              "organization": "Womer e colaboradores, Grupo de Oncologia Infantil",
+              "title": "Comparação randomizada de intervalos de quimioterapia no sarcoma de Ewing localizado",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23091096/"
+            },
+            {
+              "organization": "Hospital Real da Criança de Melbourne",
+              "title": "A criança que manca ou não consegue apoiar o peso",
+              "url": "https://www.rch.org.au/clinicalguide/guideline_index/Child_with_limp/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5819.webp",
+    "heroAlt": {
+      "en": "A knee joint teaching model stands beside a football shin guard.",
+      "es": "Un modelo didáctico de la rodilla junto a una espinillera de fútbol.",
+      "fr": "Un modèle anatomique du genou posé près d’un protège-tibia de football.",
+      "pt": "Modelo didático da articulação do joelho ao lado de uma caneleira de futebol.",
+      "ar": "نموذج تعليمي لمفصل الركبة إلى جوار واقٍ للساق يُستخدم في كرة القدم.",
+      "fa": "مدل آموزشی مفصل زانو کنار یک ساق‌بند فوتبال قرار دارد.",
+      "tr": "Bir futbol tekmeliğinin yanında duran eğitsel diz eklemi modeli."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "Bone pain and swelling in a child: when to ask about a scan",
+      "description": "Find out which patterns of bone pain need prompt assessment, how a specialist team diagnoses bone sarcoma, and how treatment and follow-up vary by type."
+    },
+    "fa": {
+      "title": "درد و ورم استخوان کودک چه زمانی نیاز به بررسی دارد؟",
+      "description": "ببینید کدام الگوی درد استخوان کودک به ارزیابی سریع نیاز دارد، تیم تخصصی چگونه سارکوم استخوان را تشخیص می‌دهد و نوع تومور چه اثری بر درمان و پیگیری دارد."
+    },
+    "ar": {
+      "title": "ألم العظام وتورمها عند الطفل: متى يحتاج إلى فحص أو تصوير؟",
+      "description": "تعرف إلى أنماط ألم العظام التي تستدعي فحص طفلك سريعًا، وكيف يشخص الفريق المختص ساركوما العظام، وما الذي يحدد العلاج والمتابعة لكل نوع من هذه الأورام."
+    },
+    "fr": {
+      "title": "Douleur osseuse chez l’enfant : quand demander un examen ?",
+      "description": "Une douleur qui revient au même endroit ou un gonflement mérite un examen. Comprenez le diagnostic des sarcomes osseux et le rôle du traitement et du suivi."
+    },
+    "tr": {
+      "title": "Çocukta kemik ağrısı ve şişlik ne zaman incelenmeli?",
+      "description": "Çocuğun kemik ağrısı ne zaman incelenmeli? Kemik sarkomunun nasıl teşhis edildiğini, tedavinin ve izlemin tümörün türüne göre nasıl değiştiğini öğrenin."
+    },
+    "es": {
+      "title": "Dolor de huesos en niños: cuándo consultar y qué pruebas pueden hacer",
+      "description": "Qué dolor óseo o hinchazón merece valoración pronta, cómo se diagnostica un sarcoma en niños y qué determina el tratamiento, la rehabilitación y el seguimiento."
+    },
+    "pt": {
+      "title": "Dor óssea na criança: quando pedir avaliação e exame de imagem",
+      "description": "Saiba que tipo de dor óssea ou inchaço precisa de avaliação rápida, como se faz o diagnóstico de um sarcoma e como o tratamento e o acompanhamento variam."
+    }
+  }
+}

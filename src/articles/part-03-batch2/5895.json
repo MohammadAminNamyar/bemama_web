@@ -1,0 +1,688 @@
+{
+  "sourceId": "5895",
+  "article": {
+    "slug": "baby-and-child/too-much-vitamin-a-in-children",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "Too much vitamin A in children: what to do about an extra dose",
+        "description": "If a child may have taken extra vitamin A, find out whom to call, what to read from the bottle and why drops, multivitamins and liver products matter.",
+        "intro": "You find an open bottle of vitamin drops and cannot tell how much your child swallowed. Call your local poison centre now, even if the child seems well. Keep the bottle with you. If your child has collapsed, is having a seizure, has trouble breathing or cannot be woken, call emergency services immediately.",
+        "sections": [
+          {
+            "heading": "What to have ready when you call",
+            "paragraphs": [
+              "Give the child’s age and weight if known, the time of the possible exposure and the most they could have swallowed. If you do not know the amount, say so. Read out the exact product name, the ingredients and the strength per drop, millilitre, tablet or serving. Some multivitamins also contain iron, which can cause serious poisoning.",
+              "Ask what to do about the next scheduled dose. Do not make the child vomit. Keep the bottle, packaging and dropper together so the poison specialist can identify the product. If your area has no poison service you can reach, seek urgent medical advice."
+            ]
+          },
+          {
+            "heading": "Why the form and timing matter",
+            "paragraphs": [
+              "Preformed vitamin A may appear on a label as retinol, retinyl acetate or retinyl palmitate. The body stores much of it in the liver. A single large exposure or repeated excess over time can cause harm. Repeated doses may come from giving two products with vitamin A or using a dropper from a different bottle.",
+              "Orange and dark green vegetables provide beta-carotene, which the body can convert to vitamin A. Ordinary portions do not pose the same poisoning risk as concentrated preformed vitamin A. Liver is an unusually rich food source. Doctors described two young brothers who developed severe vitamin A toxicity and identified chicken liver spread as the likely source. A report about one family cannot establish a safe serving size for another child."
+            ]
+          },
+          {
+            "heading": "Symptoms after a large or repeated exposure",
+            "paragraphs": [
+              "A large excess of preformed vitamin A can cause nausea, severe headache, blurred vision, dizziness or poor coordination. Repeated excess may cause dry skin, bone or joint pain and liver problems. These symptoms have many possible causes. A poison specialist can advise whether a child needs observation or examination based on the exposure, even before symptoms appear.",
+              "If you suspect a dosing error over several days or weeks, tell the clinician how long each product was used. Include cod liver oil, multivitamins and prescribed drops. Ask the pharmacist to show you how to measure the prescribed amount using that product’s own device. Store supplements out of sight and reach."
+            ]
+          },
+          {
+            "heading": "If the exposure was during pregnancy",
+            "paragraphs": [
+              "Excess preformed vitamin A taken during pregnancy can harm fetal development. If you are pregnant and may have taken too much, contact your maternity clinician or a poison service with the product, amount and timing. They can assess your specific exposure. A child taking extra drops after birth is a separate exposure and needs advice for that child."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Contact a poison service promptly for a possible overdose, even when the amount is unknown.",
+          "Check the strength, the form of vitamin A and the other ingredients on the exact label.",
+          "Have a pharmacist check overlapping products and demonstrate the correct measuring device."
+        ],
+        "faq": [
+          {
+            "q": "Can too much vitamin A harm a child?",
+            "a": "Yes. Too much preformed vitamin A can harm a child after one large exposure or repeated excess. Call a poison service if you suspect an overdose. Do not wait for symptoms."
+          },
+          {
+            "q": "How do children get too much?",
+            "a": "A child may swallow extra supplements, receive overlapping products or be given the wrong volume of drops. Regularly eating very concentrated sources such as liver can also contribute. Ordinary vegetables are a different source."
+          },
+          {
+            "q": "What can happen after too many vitamin A and D drops?",
+            "a": "The risk depends on the concentration of both vitamins and the amount taken. Report both ingredients when you call. Possible effects of excess vitamin A include vomiting, headache or blurred vision, and longer-term excess can affect the liver and bones."
+          },
+          {
+            "q": "What if someone takes too much vitamin A while pregnant?",
+            "a": "High intakes of preformed vitamin A can cause birth defects. Seek individualized advice promptly. Bring the label so the clinician can distinguish preformed vitamin A from beta-carotene and review the timing and amount."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Call promptly with the original container if a child may have swallowed too much.",
+            "Tell the poison specialist about iron and any other vitamins listed on the label.",
+            "Check all regular products together with a pharmacist to prevent repeat dosing errors."
+          ],
+          "bemama": "BeMama suggests keeping the supplied measuring device with its own bottle and writing down the time of a dose when more than one person cares for a child.",
+          "safety": "Contact a poison service now for a suspected overdose and do not induce vomiting. Call emergency services immediately for collapse, a seizure, difficulty breathing or inability to wake the child.",
+          "sources": [
+            {
+              "organization": "US National Institutes of Health, Office of Dietary Supplements",
+              "title": "Vitamin A forms, food sources and toxicity",
+              "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+            },
+            {
+              "organization": "National Capital Poison Center",
+              "title": "First aid for a suspected poisoning",
+              "url": "https://www.poison.org/first-aid-for-poisonings"
+            },
+            {
+              "organization": "National Capital Poison Center",
+              "title": "Multivitamins and accidental exposure in children",
+              "url": "https://www.poison.org/articles/multivitamins"
+            },
+            {
+              "organization": "Carpenter and colleagues, Journal of Pediatrics",
+              "title": "Severe vitamin A toxicity in two siblings",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/3655980/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "مصرف بیش از حد ویتامین آ در کودکان؛ چه کار کنیم؟",
+        "description": "اگر احتمال می‌دهید کودک ویتامین آ اضافه خورده، بدانید با کجا تماس بگیرید، چه اطلاعاتی از روی شیشه بخوانید و چرا قطره، مولتی‌ویتامین و جگر اهمیت دارند.",
+        "intro": "شیشهٔ قطرهٔ ویتامین را باز پیدا می‌کنید و نمی‌دانید کودک چقدر از آن خورده است. همین حالا با مرکز اطلاع‌رسانی مسمومیت‌ها تماس بگیرید، حتی اگر حال کودک خوب به نظر می‌رسد. شیشه را کنار دستتان نگه دارید. اگر کودک از حال رفته، تشنج دارد، سخت نفس می‌کشد یا بیدار نمی‌شود، فوراً با اورژانس تماس بگیرید.",
+        "sections": [
+          {
+            "heading": "هنگام تماس چه اطلاعاتی آماده کنیم؟",
+            "paragraphs": [
+              "سن و در صورت اطلاع وزن کودک، زمان احتمالی مصرف و بیشترین مقداری را که ممکن است خورده باشد بگویید. اگر مقدار را نمی‌دانید، همین را بگویید. نام دقیق محصول، مواد تشکیل‌دهنده و مقدار هر ماده در هر قطره، میلی‌لیتر، قرص یا وعدهٔ مصرف را از روی برچسب بخوانید. بعضی مولتی‌ویتامین‌ها آهن هم دارند که می‌تواند مسمومیت جدی ایجاد کند.",
+              "بپرسید برای نوبت بعدی چه کنید. کودک را وادار به استفراغ نکنید. شیشه، بسته‌بندی و قطره‌چکان را کنار هم نگه دارید تا کارشناس بتواند فرآورده را شناسایی کند. اگر به مرکز مسمومیت دسترسی ندارید، فوراً راهنمایی پزشکی بگیرید."
+            ]
+          },
+          {
+            "heading": "چرا شکل ویتامین و زمان مصرف مهم است؟",
+            "paragraphs": [
+              "ویتامین آ از پیش ساخته‌شده ممکن است روی برچسب با نام رتینول، رتینیل استات یا رتینیل پالمیتات آمده باشد. بخش زیادی از آن در کبد ذخیره می‌شود. یک بار مصرف مقدار بسیار زیاد یا دریافت مکرر مقادیر اضافی می‌تواند زیان‌آور باشد. گاهی دو محصول حاوی ویتامین آ هم‌زمان داده می‌شود یا از قطره‌چکان شیشه‌ای دیگر استفاده می‌شود.",
+              "سبزی‌های نارنجی و سبز تیره بتاکاروتن دارند که بدن می‌تواند آن را به ویتامین آ تبدیل کند. مقدار معمول این سبزی‌ها خطر مسمومیت مشابه ویتامین آ غلیظ و از پیش ساخته‌شده ندارد. جگر منبع غذایی بسیار غنی این ویتامین است. پزشکان مسمومیت شدید دو برادر خردسال را گزارش کردند که احتمالاً ناشی از خوردن خوراک جگر مرغ بود. این گزارش دربارهٔ یک خانواده مقدار بی‌خطر جگر برای کودک دیگری را تعیین نمی‌کند."
+            ]
+          },
+          {
+            "heading": "نشانه‌ها پس از مصرف زیاد یک‌باره یا مکرر",
+            "paragraphs": [
+              "دریافت مقدار بسیار زیاد ویتامین آ از پیش ساخته‌شده ممکن است به تهوع، سردرد شدید، تاری دید، سرگیجه یا اختلال هماهنگی حرکات بینجامد. مصرف اضافی مکرر می‌تواند خشکی پوست، درد استخوان یا مفصل و مشکلات کبدی ایجاد کند. این نشانه‌ها علت‌های گوناگونی دارند. کارشناس مسمومیت می‌تواند حتی پیش از بروز نشانه‌ها بر پایهٔ اطلاعات مصرف بگوید آیا کودک به مراقبت و پایش یا معاینه نیاز دارد.",
+              "اگر احتمال می‌دهید مقدار مصرف در چند روز یا هفته اشتباه بوده، بگویید هر فرآورده چه مدت مصرف شده است. روغن کبد ماهی، مولتی‌ویتامین و قطره‌های تجویزی را هم نام ببرید. از داروساز بخواهید روش اندازه‌گیری مقدار تجویزشده با وسیلهٔ خود فرآورده را نشان دهد. مکمل‌ها را دور از دید و دسترس کودک نگه دارید."
+            ]
+          },
+          {
+            "heading": "اگر مصرف در دوران بارداری بوده است",
+            "paragraphs": [
+              "مصرف بیش از اندازهٔ ویتامین آ از پیش ساخته‌شده در بارداری می‌تواند به رشد جنین آسیب برساند. اگر باردارید و احتمال مصرف بیش از حد می‌دهید، نام فرآورده، مقدار و زمان را به مراقب بارداری یا مرکز مسمومیت بگویید تا وضعیت شما را بررسی کنند. اگر کودک پس از تولد قطرهٔ اضافه خورده، این مورد جداگانه است و باید برای خود کودک راهنمایی بگیرید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "اگر احتمال مصرف بیش از حد هست، حتی با مقدار نامعلوم، سریع با مرکز مسمومیت تماس بگیرید.",
+          "مقدار، شکل ویتامین آ و مواد دیگر را از روی برچسب همان محصول بررسی کنید.",
+          "از داروساز بخواهید محصولات دارای ترکیبات مشترک و وسیلهٔ مناسب اندازه‌گیری را با شما بررسی کند."
+        ],
+        "faq": [
+          {
+            "q": "آیا ویتامین آ زیاد به کودک آسیب می‌زند؟",
+            "a": "بله. یک بار مصرف مقدار بسیار زیاد ویتامین آ از پیش ساخته‌شده یا مصرف اضافی مکرر می‌تواند مضر باشد. در صورت شک با مرکز مسمومیت تماس بگیرید و منتظر نشانه‌ها نمانید."
+          },
+          {
+            "q": "کودکان از چه راهی بیش از حد ویتامین آ دریافت می‌کنند؟",
+            "a": "ممکن است مکمل اضافه بخورند، چند محصول دارای ترکیب مشترک بگیرند یا حجم قطره اشتباه باشد. خوردن مکرر منابع بسیار غلیظ مانند جگر هم می‌تواند نقش داشته باشد. سبزی‌های معمولی منبع متفاوتی‌اند."
+          },
+          {
+            "q": "اگر قطرهٔ آ و د بیش از حد داده شده چه می‌شود؟",
+            "a": "خطر به غلظت هر دو ویتامین و مقدار مصرف بستگی دارد. هنگام تماس هر دو ماده را نام ببرید. ویتامین آ اضافه ممکن است استفراغ، سردرد یا تاری دید ایجاد کند و مصرف اضافی طولانی بر کبد و استخوان‌ها اثر بگذارد."
+          },
+          {
+            "q": "اگر کسی در بارداری ویتامین آ زیاد مصرف کند چه باید بکند؟",
+            "a": "مصرف بیش از حد ویتامین آ از پیش ساخته‌شده می‌تواند سبب ناهنجاری‌های مادرزادی شود. زود راهنمایی اختصاصی بگیرید. برچسب را همراه داشته باشید تا پزشک شکل از پیش ساخته‌شده را از بتاکاروتن تشخیص دهد و زمان و مقدار مصرف را بررسی کند."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۶ نوامبر ۲۰۲۶ مرور شد",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "اگر احتمال دارد کودک بیش از حد خورده باشد، شیشهٔ اصلی را آماده کنید و سریع تماس بگیرید.",
+            "به کارشناس مسمومیت دربارهٔ آهن و ویتامین‌های دیگر درج‌شده روی برچسب بگویید.",
+            "همهٔ فرآورده‌های مصرفی را با داروساز بررسی کنید تا خطای مقدار مصرف تکرار نشود."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند وسیلهٔ اندازه‌گیری هر شیشه را کنار خودش بگذارید و اگر چند نفر از کودک مراقبت می‌کنند ساعت هر نوبت را یادداشت کنید.",
+          "safety": "در صورت احتمال مصرف بیش از حد همین حالا با مرکز مسمومیت تماس بگیرید و کودک را وادار به استفراغ نکنید. برای از حال رفتن، تشنج، مشکل تنفس یا بیدار نشدن کودک فوراً با اورژانس تماس بگیرید.",
+          "sources": [
+            {
+              "organization": "دفتر مکمل‌های غذایی، مؤسسه‌های ملی سلامت آمریکا",
+              "title": "شکل‌ها، منابع غذایی و مسمومیت با ویتامین آ",
+              "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+            },
+            {
+              "organization": "مرکز ملی کنترل مسمومیت پایتخت آمریکا",
+              "title": "کمک‌های اولیه در صورت احتمال مسمومیت",
+              "url": "https://www.poison.org/first-aid-for-poisonings"
+            },
+            {
+              "organization": "مرکز ملی کنترل مسمومیت پایتخت آمریکا",
+              "title": "مولتی‌ویتامین‌ها و مصرف اتفاقی در کودکان",
+              "url": "https://www.poison.org/articles/multivitamins"
+            },
+            {
+              "organization": "کارپنتر و همکاران، مجلهٔ طب کودکان",
+              "title": "مسمومیت شدید با ویتامین آ در دو برادر",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/3655980/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "إذا تناول الطفل جرعة زائدة من فيتامين أ، ماذا نفعل؟",
+        "description": "إذا احتمل أن طفلك تناول فيتامين أ بكمية زائدة، فاعرف بمن تتصل وماذا تقرأ من العبوة ولماذا تهم القطرات والفيتامينات المتعددة ومنتجات الكبد.",
+        "intro": "وجدت زجاجة قطرات الفيتامين مفتوحة ولا تستطيع معرفة الكمية التي ابتلعها طفلك. اتصل بمركز السموم المحلي الآن حتى لو بدا بخير، واحتفظ بالزجاجة قربك. إذا انهار الطفل أو أصيب بنوبة تشنج أو صعب عليه التنفس أو تعذر إيقاظه فاتصل بالطوارئ فورًا.",
+        "sections": [
+          {
+            "heading": "ماذا تجهّز للمكالمة؟",
+            "paragraphs": [
+              "اذكر عمر الطفل ووزنه إن عرفته، ووقت التعرض المحتمل وأكبر كمية يمكن أن يكون قد ابتلعها. إذا جهلت الكمية فقل ذلك. اقرأ الاسم الدقيق للمستحضر ومكوناته والتركيز في كل قطرة أو مليلتر أو قرص أو حصة. بعض الفيتامينات المتعددة تحتوي أيضًا على الحديد الذي قد يسبب تسممًا خطيرًا.",
+              "اسأل عما تفعل بشأن الجرعة المقررة التالية. لا تحاول إحداث القيء لدى الطفل. احتفظ بالزجاجة والعلبة والقطارة معًا كي يتعرف اختصاصي السموم على المستحضر. إن لم تستطع الوصول إلى مركز سموم فاطلب مشورة طبية عاجلة."
+            ]
+          },
+          {
+            "heading": "لماذا يهم شكل الفيتامين وتوقيت تناوله؟",
+            "paragraphs": [
+              "قد يرد فيتامين أ الجاهز على الملصق باسم ريتينول أو أسيتات الريتينيل أو بالميتات الريتينيل. يخزّن الجسم جزءًا كبيرًا منه في الكبد. ويمكن أن تسبب جرعة كبيرة مرة واحدة أو جرعات زائدة متكررة ضررًا. وقد تتكرر الزيادة عند إعطاء مستحضرين فيهما فيتامين أ أو استخدام قطارة من زجاجة مختلفة.",
+              "توفر الخضراوات البرتقالية والخضراء الداكنة البيتا كاروتين الذي يستطيع الجسم تحويله إلى فيتامين أ. لا تنطوي الحصص المعتادة منها على خطر التسمم نفسه المصاحب لفيتامين أ الجاهز المركز. أما الكبد فغذاء غني جدًا به. وصف أطباء تسممًا شديدًا بفيتامين أ لدى شقيقين صغيرين ورجحوا أن يكون مصدره معجون كبد الدجاج. لا يمكن لتقرير عن أسرة واحدة تحديد حصة آمنة لطفل آخر."
+            ]
+          },
+          {
+            "heading": "أعراض التعرض لجرعة كبيرة أو لجرعات زائدة متكررة",
+            "paragraphs": [
+              "قد تسبب الكمية الكبيرة من فيتامين أ الجاهز غثيانًا أو صداعًا شديدًا أو ضبابية الرؤية أو الدوار أو ضعف تناسق الحركة. وقد تؤدي الزيادة المتكررة إلى جفاف الجلد وألم العظام أو المفاصل ومشكلات الكبد. لهذه الأعراض أسباب كثيرة. وبناءً على تفاصيل التعرض يمكن لاختصاصي السموم أن يحدد الحاجة إلى المراقبة أو الفحص حتى قبل ظهور الأعراض.",
+              "إذا شككت في خطأ استمر أيامًا أو أسابيع فأخبر الطبيب بمدة استعمال كل منتج، بما في ذلك زيت كبد الحوت والفيتامينات المتعددة والقطرات الموصوفة. اطلب من الصيدلي أن يريك كيف تقيس الكمية الموصوفة بالأداة المرفقة بالمستحضر نفسه. احفظ المكملات بعيدًا عن نظر الطفل ومتناول يديه."
+            ]
+          },
+          {
+            "heading": "إذا كان التعرض أثناء الحمل",
+            "paragraphs": [
+              "قد تضر الكمية الزائدة من فيتامين أ الجاهز بنمو الجنين. إذا كنت حاملًا وربما تناولت كمية زائدة فاتصلي بفريق متابعة الحمل أو بمركز السموم ومعك اسم المنتج والكمية والتوقيت كي يقيموا التعرض في حالتك. أما تناول الطفل قطرات زائدة بعد ولادته فهو تعرض مستقل يتطلب مشورة تخص الطفل نفسه."
+            ]
+          }
+        ],
+        "takeaways": [
+          "اتصل بمركز السموم سريعًا إذا احتملت جرعة زائدة حتى لو لم تعرف الكمية.",
+          "راجع التركيز وشكل فيتامين أ والمكونات الأخرى على ملصق المنتج نفسه.",
+          "اطلب من الصيدلي مراجعة المنتجات ذات المكونات المشتركة وشرح استخدام أداة القياس الصحيحة."
+        ],
+        "faq": [
+          {
+            "q": "هل تؤذي زيادة فيتامين أ الطفل؟",
+            "a": "نعم. قد يضر فيتامين أ الجاهز بعد تعرض واحد لكمية كبيرة أو عند تكرار الزيادة. اتصل بمركز السموم عند الشك بجرعة زائدة ولا تنتظر ظهور الأعراض."
+          },
+          {
+            "q": "كيف يحصل الأطفال على كميات زائدة؟",
+            "a": "قد يبتلع الطفل مكملات إضافية، أو يتلقى منتجات متداخلة المكونات، أو يُعطى حجمًا خاطئًا من القطرات. ويمكن أن يسهم تناول مصادر شديدة التركيز مثل الكبد بانتظام. أما الخضراوات المعتادة فتوفر شكلًا مختلفًا."
+          },
+          {
+            "q": "ماذا يحدث بعد زيادة قطرات فيتاميني أ ود؟",
+            "a": "يتوقف الخطر على تركيز الفيتامينين والكمية المأخوذة. اذكر المكوّنين عند الاتصال. قد تسبب زيادة فيتامين أ القيء أو الصداع أو ضبابية الرؤية، وقد تؤثر الزيادة الطويلة في الكبد والعظام."
+          },
+          {
+            "q": "ماذا لو تناولت الحامل كمية زائدة من فيتامين أ؟",
+            "a": "قد تؤدي المستويات العالية من فيتامين أ الجاهز إلى عيوب خلقية. اطلبي مشورة خاصة بحالتك سريعًا وخذي الملصق معك ليتميز فيتامين أ الجاهز عن البيتا كاروتين وليُراجع التوقيت والكمية."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "إذا احتمل أن الطفل ابتلع كمية زائدة فاتصل سريعًا والعبوة الأصلية إلى جانبك.",
+            "أخبر اختصاصي السموم عن الحديد وأي فيتامينات أخرى واردة على الملصق.",
+            "راجع مع الصيدلي جميع المنتجات المعتادة لتجنب تكرار الخطأ في الجرعة."
+          ],
+          "bemama": "تقترح بي ماما حفظ أداة القياس مع عبوتها وتسجيل وقت كل جرعة إذا كان أكثر من شخص يتولى رعاية الطفل.",
+          "safety": "اتصل بمركز السموم الآن عند احتمال تناول جرعة زائدة ولا تحاول إحداث القيء. اتصل بالطوارئ فورًا عند الانهيار أو التشنج أو صعوبة التنفس أو تعذر إيقاظ الطفل.",
+          "sources": [
+            {
+              "organization": "مكتب المكملات الغذائية، المعاهد الوطنية الأمريكية للصحة",
+              "title": "أشكال فيتامين أ ومصادره الغذائية وسميته",
+              "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+            },
+            {
+              "organization": "المركز الوطني للسموم في العاصمة الأمريكية",
+              "title": "الإسعافات الأولية عند الاشتباه في التسمم",
+              "url": "https://www.poison.org/first-aid-for-poisonings"
+            },
+            {
+              "organization": "المركز الوطني للسموم في العاصمة الأمريكية",
+              "title": "الفيتامينات المتعددة وتناول الأطفال لها عن طريق الخطأ",
+              "url": "https://www.poison.org/articles/multivitamins"
+            },
+            {
+              "organization": "كاربنتر وزملاؤه، مجلة طب الأطفال",
+              "title": "تسمم شديد بفيتامين أ لدى شقيقين",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/3655980/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Un enfant a pris trop de vitamine A : que faire ?",
+        "description": "Votre enfant a peut-être pris trop de vitamine A. Voici qui appeler, quoi lire sur le flacon et pourquoi il faut signaler les gouttes, multivitamines et abats.",
+        "intro": "Vous trouvez le flacon de vitamines ouvert et ignorez la quantité avalée par votre enfant. Appelez dès maintenant le centre antipoison de votre région, même s’il semble aller bien. Gardez le flacon près de vous. Si l’enfant s’effondre, convulse, a du mal à respirer ou ne se réveille pas, appelez immédiatement les secours.",
+        "sections": [
+          {
+            "heading": "Préparez les renseignements pour l’appel",
+            "paragraphs": [
+              "Indiquez son âge, son poids si vous le connaissez, l’heure de la prise possible et la quantité maximale qu’il aurait pu avaler. Si vous l’ignorez, dites-le. Lisez le nom exact du produit, ses ingrédients et la quantité par goutte, millilitre, comprimé ou portion. Certaines multivitamines contiennent aussi du fer, qui peut entraîner une intoxication grave.",
+              "Demandez quoi faire pour la prochaine prise prévue. Ne faites pas vomir l’enfant. Gardez ensemble le flacon, la boîte et le compte-gouttes pour que le spécialiste puisse identifier le produit. Si vous ne pouvez joindre aucun centre antipoison, demandez un avis médical urgent."
+            ]
+          },
+          {
+            "heading": "La forme de vitamine et le rythme des prises comptent",
+            "paragraphs": [
+              "La vitamine A préformée peut apparaître sur l’étiquette sous le nom de rétinol, d’acétate de rétinyle ou de palmitate de rétinyle. L’organisme en stocke une grande partie dans le foie. Une très grosse prise ou des excès répétés peuvent être nocifs. Deux produits contenant de la vitamine A ou un compte-gouttes emprunté à un autre flacon peuvent entraîner des erreurs répétées.",
+              "Les légumes orange ou vert foncé apportent du bêta-carotène que l’organisme peut transformer en vitamine A. Les portions habituelles ne présentent pas le même risque d’intoxication que de la vitamine A préformée concentrée. Le foie est un aliment particulièrement riche en vitamine A. Des médecins ont décrit une intoxication grave chez deux jeunes frères et retenu comme source probable une préparation à tartiner au foie de poulet. Cette observation familiale ne fixe pas une portion sûre pour un autre enfant."
+            ]
+          },
+          {
+            "heading": "Les signes après une prise importante ou des excès répétés",
+            "paragraphs": [
+              "Un excès important de vitamine A préformée peut provoquer des nausées, de forts maux de tête, une vision floue, des vertiges ou des difficultés de coordination. Des excès répétés peuvent entraîner sécheresse cutanée, douleurs osseuses ou articulaires et atteinte du foie. Ces signes ont de nombreuses causes. Selon les circonstances, le centre antipoison vous dira si une surveillance ou un examen est nécessaire, même avant tout symptôme.",
+              "Si vous soupçonnez une erreur sur plusieurs jours ou semaines, indiquez depuis combien de temps chaque produit est donné. Mentionnez l’huile de foie de morue, les multivitamines et les gouttes prescrites. Demandez au pharmacien de vous montrer comment mesurer la quantité prescrite avec le dispositif du produit. Rangez les compléments hors de la vue et de la portée des enfants."
+            ]
+          },
+          {
+            "heading": "Si la prise a eu lieu pendant la grossesse",
+            "paragraphs": [
+              "Un excès de vitamine A préformée pendant la grossesse peut nuire au développement du fœtus. Si vous êtes enceinte et pensez en avoir trop pris, contactez l’équipe qui suit la grossesse ou un centre antipoison, en précisant le produit, la quantité et la date. Ils pourront évaluer votre situation. Un enfant qui reçoit trop de gouttes après la naissance a besoin d’un avis pour cette exposition distincte."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Appelez rapidement le centre antipoison en cas de surdosage possible, même si la quantité est inconnue.",
+          "Vérifiez la concentration, la forme de vitamine A et les autres ingrédients sur l’étiquette du produit concerné.",
+          "Revoyez avec le pharmacien les produits dont les ingrédients se recoupent et l’utilisation du dispositif de mesure."
+        ],
+        "faq": [
+          {
+            "q": "Trop de vitamine A peut-il nuire à un enfant ?",
+            "a": "Oui. Une très forte prise ou des excès répétés de vitamine A préformée peuvent nuire à l’enfant. Appelez un centre antipoison en cas de surdosage possible, sans attendre de symptômes."
+          },
+          {
+            "q": "Comment un enfant peut-il en recevoir trop ?",
+            "a": "Il peut avaler trop de compléments, recevoir plusieurs produits avec le même ingrédient ou un volume de gouttes erroné. Des aliments très concentrés comme le foie, consommés régulièrement, peuvent aussi contribuer. Les légumes ordinaires apportent une autre forme."
+          },
+          {
+            "q": "Que risque un enfant qui reçoit trop de gouttes de vitamines A et D ?",
+            "a": "Le risque dépend de la concentration des deux vitamines et de la quantité prise. Signalez les deux lors de l’appel. Un excès de vitamine A peut donner des vomissements, des maux de tête ou une vision floue. À la longue, il peut toucher le foie et les os."
+          },
+          {
+            "q": "Et si une personne enceinte prend trop de vitamine A ?",
+            "a": "De fortes quantités de vitamine A préformée peuvent provoquer des malformations congénitales. Demandez rapidement un avis personnalisé. Montrez l’étiquette pour permettre de distinguer la forme préformée du bêta-carotène et d’évaluer la quantité et le moment de la prise."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Si un enfant a pu avaler une quantité excessive, appelez sans attendre avec le récipient d’origine à portée de main.",
+            "Signalez au centre antipoison le fer et les autres vitamines mentionnées sur l’étiquette.",
+            "Montrez au pharmacien tous les produits utilisés régulièrement pour éviter une nouvelle erreur."
+          ],
+          "bemama": "BeMama suggère de garder chaque dispositif de mesure avec son flacon et de noter l’heure des prises si plusieurs adultes s’occupent de l’enfant.",
+          "safety": "Appelez dès maintenant un centre antipoison si vous suspectez un surdosage. Ne faites pas vomir l’enfant. En cas de chute avec malaise, de convulsions ou de difficulté à respirer, ou si vous n’arrivez pas à le réveiller, appelez immédiatement les secours.",
+          "sources": [
+            {
+              "organization": "Bureau des compléments alimentaires des Instituts nationaux de la santé des États-Unis",
+              "title": "Formes de la vitamine A, sources alimentaires et toxicité",
+              "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+            },
+            {
+              "organization": "Centre antipoison de la capitale des États-Unis",
+              "title": "Premiers secours en cas d’intoxication possible",
+              "url": "https://www.poison.org/first-aid-for-poisonings"
+            },
+            {
+              "organization": "Centre antipoison de la capitale des États-Unis",
+              "title": "Multivitamines et exposition accidentelle chez l’enfant",
+              "url": "https://www.poison.org/articles/multivitamins"
+            },
+            {
+              "organization": "Carpenter et ses collègues, Journal of Pediatrics",
+              "title": "Intoxication grave à la vitamine A chez deux frères",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/3655980/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Çocuk fazla A vitamini aldıysa ne yapmalısınız?",
+        "description": "Çocuğunuz fazla A vitamini aldıysa kimi arayacağınızı, şişeden hangi bilgileri okuyacağınızı ve diğer takviyeleri neden bildirmeniz gerektiğini öğrenin.",
+        "intro": "Vitamin damlasının şişesini açık buldunuz ve çocuğun ne kadar yuttuğunu bilmiyorsunuz. Çocuk iyi görünse bile hemen bölgenizdeki zehir danışma merkezini arayın. Şişeyi yanınızda tutun. Çocuk yığıldıysa, nöbet geçiriyorsa, nefes almakta güçlük çekiyorsa veya uyandırılamıyorsa derhal acil yardım çağırın.",
+        "sections": [
+          {
+            "heading": "Ararken hangi bilgiler elinizde olsun?",
+            "paragraphs": [
+              "Çocuğun yaşını, biliyorsanız kilosunu, almış olabileceği saati ve en fazla ne kadar yutmuş olabileceğini söyleyin. Miktarı bilmiyorsanız bunu açıkça belirtin. Ürünün tam adını, içindekileri ve damla, mililitre, tablet ya da porsiyon başına miktarı etiketten okuyun. Bazı multivitaminlerde ciddi zehirlenmeye yol açabilen demir de bulunur.",
+              "Planlanan bir sonraki doz için ne yapacağınızı sorun. Çocuğu kusturmaya çalışmayın. Uzmanın ürünü tanıması için şişeyi, kutuyu ve damlalığı birlikte tutun. Zehir danışma merkezine ulaşamıyorsanız acil tıbbi danışmanlık alın."
+            ]
+          },
+          {
+            "heading": "Vitaminin türü ve alınma zamanı neden önemlidir?",
+            "paragraphs": [
+              "Önceden oluşmuş A vitamini (retinol ve türevleri) etikette retinol, retinil asetat veya retinil palmitat olarak yazılabilir. Vücut bunun büyük bölümünü karaciğerde depolar. Bir defada çok yüksek miktar almak ya da uzun süre tekrarlanan fazla dozlar zarar verebilir. Aynı vitamini içeren iki ürünü vermek veya başka şişenin damlalığını kullanmak tekrarlanan hatalara yol açabilir.",
+              "Turuncu ve koyu yeşil sebzeler, vücudun A vitaminine dönüştürebildiği beta karoten sağlar. Olağan porsiyonlar, yoğun önceden oluşmuş A vitaminiyle aynı zehirlenme riskini taşımaz. Karaciğer ise bu vitamin bakımından çok zengin bir besindir. Hekimler iki küçük erkek kardeşte ağır A vitamini zehirlenmesi bildirmiş ve olası kaynağın sürülebilir tavuk ciğeri ezmesi olduğunu belirtmiştir. Tek bir ailenin öyküsünden başka bir çocuk için güvenli porsiyon çıkarılamaz."
+            ]
+          },
+          {
+            "heading": "Bir defada yüksek miktar veya tekrarlanan fazla dozlardan sonra",
+            "paragraphs": [
+              "Çok fazla önceden oluşmuş A vitamini bulantı, şiddetli baş ağrısı, bulanık görme, baş dönmesi veya hareketlerde uyum bozukluğuna yol açabilir. Tekrarlanan fazlalık cilt kuruluğuna, kemik veya eklem ağrısına ve karaciğer sorunlarına neden olabilir. Bu belirtilerin başka pek çok nedeni vardır. Zehir danışma uzmanı, henüz belirti başlamadan da alınan ürün ve miktara göre gözlem ya da muayene gerekip gerekmediğini değerlendirebilir.",
+              "Hatanın günler veya haftalar boyunca sürdüğünü düşünüyorsanız her ürünün ne kadar süre kullanıldığını hekime bildirin. Morina karaciğeri yağını, multivitaminleri ve reçeteli damlaları da sayın. Eczacıdan reçetedeki miktarı o ürünün kendi ölçüm aracıyla nasıl ölçeceğinizi göstermesini isteyin. Takviyeleri çocukların göremeyeceği ve ulaşamayacağı yerde saklayın."
+            ]
+          },
+          {
+            "heading": "Fazla miktar gebelikte alındıysa",
+            "paragraphs": [
+              "Gebelikte önceden oluşmuş A vitamininin fazlası anne karnındaki bebeğin gelişimine zarar verebilir. Gebeyseniz ve fazla almış olabileceğinizi düşünüyorsanız ürün, miktar ve zamanı bildirerek gebeliğinizi izleyen ekibe veya zehir danışma merkezine ulaşın. Durumunuzu buna göre değerlendirebilirler. Doğduktan sonra bebeğe fazla damla verilmesi ayrı bir durumdur ve o bebek için danışılmalıdır."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Miktarı bilinmese de fazla alım şüphesinde gecikmeden zehir danışma merkezini arayın.",
+          "Kullanılan ürünün etiketinden derişimi, A vitamininin türünü ve diğer bileşenleri kontrol edin.",
+          "Ortak içerikli ürünleri ve doğru ölçüm aracının kullanımını eczacıyla gözden geçirin."
+        ],
+        "faq": [
+          {
+            "q": "Fazla A vitamini çocuğa zarar verebilir mi?",
+            "a": "Evet. Önceden oluşmuş A vitamininin bir defada çok yüksek miktarda ya da tekrarlanarak fazla alınması zarar verebilir. Doz aşımından şüpheleniyorsanız zehir danışma merkezini arayın. Belirti beklemeyin."
+          },
+          {
+            "q": "Çocuklar nasıl fazla miktarda alabilir?",
+            "a": "Takviyeden fazladan yutabilir, aynı içerikli ürünler alabilir veya yanlış hacimde damla verilebilir. Karaciğer gibi çok yoğun kaynakların sık yenmesi de etkili olabilir. Olağan sebzeler farklı bir vitamin kaynağıdır."
+          },
+          {
+            "q": "A ve D vitamini damlası fazla verilirse ne olabilir?",
+            "a": "Risk, her iki vitaminin derişimine ve alınan miktara bağlıdır. Ararken iki içeriği de bildirin. Fazla A vitamini kusma, baş ağrısı veya bulanık görmeye neden olabilir. Uzun süreli fazlalık karaciğeri ve kemikleri etkileyebilir."
+          },
+          {
+            "q": "Gebelikte çok fazla A vitamini alınırsa ne yapılmalı?",
+            "a": "Önceden oluşmuş A vitamininin yüksek miktarda alınması doğumsal anomalilere neden olabilir. Gecikmeden kişisel tıbbi görüş alın. Hekimin önceden oluşmuş A vitaminini beta karotenden ayırıp miktarı ve zamanı değerlendirebilmesi için etiketi gösterin."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Çocuğun fazla miktarda yutmuş olma ihtimalinde orijinal ambalajı yanınıza alarak hemen arayın.",
+            "Etikette yazan demir ve diğer vitaminleri zehir danışma uzmanına bildirin.",
+            "Doz hatalarının tekrarlanmaması için düzenli kullanılan ürünlerin hepsini eczacıyla değerlendirin."
+          ],
+          "bemama": "BeMama, her ölçüm aracını kendi şişesiyle saklamanızı ve çocukla birden fazla kişi ilgileniyorsa dozun verildiği saati yazmanızı önerir.",
+          "safety": "Doz aşımından şüpheleniyorsanız şimdi zehir danışma merkezini arayın ve çocuğu kusturmayın. Yığılma, nöbet, solunum güçlüğü veya çocuğun uyandırılamaması durumunda hemen acil yardım çağırın.",
+          "sources": [
+            {
+              "organization": "ABD Ulusal Sağlık Enstitüleri, Besin Takviyeleri Ofisi",
+              "title": "A vitamini türleri, besin kaynakları ve toksisite",
+              "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+            },
+            {
+              "organization": "ABD Başkent Ulusal Zehir Danışma Merkezi",
+              "title": "Zehirlenme şüphesinde ilk yardım",
+              "url": "https://www.poison.org/first-aid-for-poisonings"
+            },
+            {
+              "organization": "ABD Başkent Ulusal Zehir Danışma Merkezi",
+              "title": "Multivitaminler ve çocuklarda kazara alım",
+              "url": "https://www.poison.org/articles/multivitamins"
+            },
+            {
+              "organization": "Carpenter ve çalışma arkadaşları, Journal of Pediatrics",
+              "title": "İki kardeşte ağır A vitamini zehirlenmesi",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/3655980/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Si un niño toma demasiada vitamina A, ¿qué hay que hacer?",
+        "description": "Si tu hijo pudo tomar vitamina A de más, descubre a quién llamar, qué datos leer del envase y por qué importan las gotas, los multivitamínicos y el hígado.",
+        "intro": "Encuentras abierto un frasco de vitaminas en gotas y no sabes cuánto tragó tu hijo. Llama ahora al centro de toxicología de tu zona aunque parezca estar bien. Ten el frasco a mano. Si el niño se desploma, convulsiona, tiene dificultad para respirar o no puedes despertarlo, llama de inmediato a emergencias.",
+        "sections": [
+          {
+            "heading": "Qué tener a mano al llamar",
+            "paragraphs": [
+              "Indica su edad y su peso si lo sabes, el momento de la posible ingestión y la cantidad máxima que pudo tragar. Si desconoces la cantidad, dilo. Lee el nombre exacto del producto, los ingredientes y la concentración por gota, mililitro, comprimido o porción. Algunos multivitamínicos también contienen hierro, que puede causar una intoxicación grave.",
+              "Pregunta qué hacer con la siguiente dosis prevista. No provoques el vómito. Conserva juntos el frasco, la caja y el cuentagotas para que el especialista identifique el producto. Si no puedes contactar con un centro de toxicología, busca asesoramiento médico urgente."
+            ]
+          },
+          {
+            "heading": "La importancia de la forma y del tiempo de exposición",
+            "paragraphs": [
+              "La vitamina A preformada puede figurar como retinol, acetato de retinilo o palmitato de retinilo. El cuerpo almacena gran parte en el hígado. Tanto una exposición única muy elevada como un exceso repetido pueden causar daño. A veces se dan dos productos con vitamina A o se usa el cuentagotas de otro frasco.",
+              "Las verduras anaranjadas y de hoja verde oscura aportan betacaroteno que el organismo puede transformar en vitamina A. Las porciones habituales no conllevan el mismo riesgo de intoxicación que la vitamina A preformada concentrada. El hígado es un alimento especialmente rico en ella. Un equipo médico describió una intoxicación grave en dos hermanos pequeños y consideró probable que el origen fuera una pasta de hígado de pollo. Un informe de una sola familia no permite calcular una porción segura para otro niño."
+            ]
+          },
+          {
+            "heading": "Síntomas tras una exposición grande o repetida",
+            "paragraphs": [
+              "Un gran exceso de vitamina A preformada puede provocar náuseas, dolor de cabeza intenso, visión borrosa, mareos o problemas de coordinación. El exceso repetido puede causar sequedad de piel, dolor de huesos o articulaciones y problemas hepáticos. Son síntomas con muchas posibles causas. El especialista en toxicología puede valorar la necesidad de observación o de exploración a partir de lo ocurrido, incluso antes de que aparezcan síntomas.",
+              "Si sospechas un error de dosificación mantenido durante días o semanas, explica cuánto tiempo se usó cada producto. Incluye el aceite de hígado de bacalao, los multivitamínicos y las gotas recetadas. Pide al farmacéutico que te enseñe a medir la cantidad indicada con el dispositivo del propio producto. Guarda los suplementos fuera de la vista y el alcance del niño."
+            ]
+          },
+          {
+            "heading": "Si la exposición ocurrió durante el embarazo",
+            "paragraphs": [
+              "Un exceso de vitamina A preformada durante la gestación puede perjudicar el desarrollo fetal. Si estás embarazada y quizá tomaste demasiada, contacta con el equipo que lleva tu embarazo o con toxicología. Indica el producto, la cantidad y cuándo lo tomaste. Si un niño toma gotas de más después de nacer, se trata de otra exposición y hay que pedir consejo para él."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Ante una posible sobredosis llama cuanto antes a toxicología, incluso si no conoces la cantidad.",
+          "Comprueba la concentración, la forma de vitamina A y los demás ingredientes del envase.",
+          "Revisa con el farmacéutico los productos que comparten ingredientes y el uso del medidor adecuado."
+        ],
+        "faq": [
+          {
+            "q": "¿Puede hacer daño un exceso de vitamina A?",
+            "a": "Sí. Una sola ingestión grande de vitamina A preformada o cantidades excesivas repetidas pueden perjudicar al niño. Llama a toxicología si sospechas una sobredosis. No esperes a que haya síntomas."
+          },
+          {
+            "q": "¿Cómo llegan los niños a tomar demasiada?",
+            "a": "Pueden tragar suplementos de más, recibir dos productos con el mismo ingrediente o una cantidad equivocada de gotas. Comer con frecuencia alimentos muy concentrados como el hígado también puede contribuir. Las verduras habituales proporcionan otra forma de vitamina A."
+          },
+          {
+            "q": "¿Qué puede pasar si toma demasiadas gotas de vitaminas A y D?",
+            "a": "El riesgo depende de la concentración de ambas vitaminas y de la cantidad ingerida. Menciona las dos al llamar. El exceso de vitamina A puede causar vómitos, dolor de cabeza o visión borrosa, y a largo plazo puede afectar al hígado y los huesos."
+          },
+          {
+            "q": "¿Y si una embarazada toma demasiada vitamina A?",
+            "a": "Las ingestas altas de vitamina A preformada pueden causar anomalías congénitas. Pide orientación individual cuanto antes. Lleva el envase para que el profesional distinga la vitamina preformada del betacaroteno y valore la cantidad y el momento."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Llama enseguida con el envase original si el niño puede haber tomado de más.",
+            "Informa al especialista del hierro y de otras vitaminas que figuren en la etiqueta.",
+            "Revisa con el farmacéutico todos los productos habituales para evitar repetir un error de dosis."
+          ],
+          "bemama": "BeMama sugiere guardar cada medidor con su frasco y anotar la hora de la dosis cuando varias personas cuidan al niño.",
+          "safety": "Ante una posible sobredosis, llama ahora a toxicología y no provoques el vómito. Llama de inmediato a emergencias si el niño se desploma, convulsiona, respira con dificultad o no puedes despertarlo.",
+          "sources": [
+            {
+              "organization": "Oficina de Suplementos Dietéticos de los Institutos Nacionales de Salud de Estados Unidos",
+              "title": "Formas de vitamina A, fuentes alimentarias y toxicidad",
+              "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+            },
+            {
+              "organization": "Centro Nacional de Toxicología de la Capital de Estados Unidos",
+              "title": "Primeros auxilios ante una posible intoxicación",
+              "url": "https://www.poison.org/first-aid-for-poisonings"
+            },
+            {
+              "organization": "Centro Nacional de Toxicología de la Capital de Estados Unidos",
+              "title": "Multivitamínicos y exposiciones accidentales en niños",
+              "url": "https://www.poison.org/articles/multivitamins"
+            },
+            {
+              "organization": "Carpenter y colaboradores, revista Journal of Pediatrics",
+              "title": "Intoxicación grave por vitamina A en dos hermanos",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/3655980/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Vitamina A em excesso na infância: o que fazer após uma dose extra",
+        "description": "Se a criança pode ter tomado vitamina A demais, saiba a quem ligar, o que ler na embalagem e por que mencionar gotas, multivitamínicos e produtos de fígado.",
+        "intro": "Você encontra aberto o frasco de vitaminas em gotas e não sabe quanto a criança engoliu. Ligue agora para o centro de informação toxicológica da sua região, mesmo que ela pareça bem. Tenha o frasco à mão. Se a criança desabar, tiver convulsão ou dificuldade para respirar, ou se você não conseguir acordá-la, chame a emergência imediatamente.",
+        "sections": [
+          {
+            "heading": "O que ter em mãos ao ligar",
+            "paragraphs": [
+              "Informe a idade, o peso se souber, o horário da possível ingestão e a maior quantidade que a criança pode ter engolido. Se não souber a quantidade, diga isso. Leia o nome exato do produto, os ingredientes e a concentração por gota, mililitro, comprimido ou porção. Alguns multivitamínicos também contêm ferro, que pode causar intoxicação grave.",
+              "Pergunte o que fazer com a próxima dose programada. Não provoque vômito. Mantenha juntos o frasco, a caixa e o conta-gotas para que o especialista identifique o produto. Se não conseguir falar com um centro de informação toxicológica, procure orientação médica urgente."
+            ]
+          },
+          {
+            "heading": "Por que a forma da vitamina e o intervalo das doses importam",
+            "paragraphs": [
+              "A vitamina A pré-formada pode aparecer no rótulo como retinol, acetato de retinila ou palmitato de retinila. O corpo armazena grande parte dela no fígado. Tanto uma exposição única muito elevada quanto quantidades excessivas repetidas podem causar danos. Um erro pode se repetir quando se usam dois produtos com vitamina A ou o conta-gotas de outro frasco.",
+              "Vegetais alaranjados e verde-escuros fornecem betacaroteno, que o corpo pode converter em vitamina A. Porções habituais não apresentam o mesmo risco de intoxicação que a vitamina A pré-formada concentrada. O fígado é um alimento especialmente rico nessa vitamina. Médicos descreveram intoxicação grave em dois irmãos pequenos e apontaram um patê de fígado de frango como fonte provável. Um relato sobre uma única família não estabelece uma porção segura para outras crianças."
+            ]
+          },
+          {
+            "heading": "Sintomas depois de uma dose alta ou de excessos repetidos",
+            "paragraphs": [
+              "Um grande excesso de vitamina A pré-formada pode causar náusea, dor de cabeça forte, visão embaçada, tontura ou dificuldade de coordenação. O excesso repetido pode causar pele seca, dor nos ossos ou nas articulações e problemas no fígado. Esses sintomas têm muitas causas possíveis. Mesmo antes de surgirem sintomas, o especialista pode avaliar a exposição e orientar se a criança precisa de observação ou exame.",
+              "Se suspeitar de um erro de dose por vários dias ou semanas, informe por quanto tempo cada produto foi utilizado. Inclua óleo de fígado de bacalhau, multivitamínicos e gotas prescritas. Peça ao farmacêutico que mostre como medir a quantidade prescrita com o dispositivo do próprio produto. Guarde os suplementos fora da vista e do alcance das crianças."
+            ]
+          },
+          {
+            "heading": "Quando a exposição ocorreu na gravidez",
+            "paragraphs": [
+              "O excesso de vitamina A pré-formada na gestação pode prejudicar o desenvolvimento do feto. Se estiver grávida e achar que tomou demais, contate a equipe do pré-natal ou o centro de informação toxicológica. Informe produto, quantidade e momento da ingestão para que avaliem o seu caso. Uma criança que tomou gotas a mais depois de nascer precisa de orientação para essa exposição específica."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Ligue logo para o centro de informação toxicológica se houver possibilidade de superdosagem, mesmo sem saber a quantidade.",
+          "Confira no próprio rótulo a concentração, a forma da vitamina A e os outros ingredientes.",
+          "Peça ao farmacêutico que confira os produtos com ingredientes em comum e o uso correto do medidor."
+        ],
+        "faq": [
+          {
+            "q": "Vitamina A em excesso pode fazer mal à criança?",
+            "a": "Sim. Uma exposição única muito alta à vitamina A pré-formada ou excessos repetidos podem fazer mal. Se suspeitar de superdosagem, fale com o centro de informação toxicológica. Não espere aparecerem sintomas."
+          },
+          {
+            "q": "Como as crianças recebem vitamina A demais?",
+            "a": "Podem engolir suplementos a mais, receber produtos com o mesmo ingrediente ou tomar um volume incorreto de gotas. O consumo frequente de fontes muito concentradas, como fígado, também pode contribuir. Os vegetais usuais fornecem uma forma diferente."
+          },
+          {
+            "q": "O que pode acontecer com o excesso de gotas de vitaminas A e D?",
+            "a": "O risco depende da concentração das duas vitaminas e da quantidade tomada. Mencione ambas ao ligar. O excesso de vitamina A pode causar vômito, dor de cabeça ou visão embaçada. Excesso prolongado pode afetar o fígado e os ossos."
+          },
+          {
+            "q": "E se uma gestante consumir vitamina A em excesso?",
+            "a": "Quantidades elevadas de vitamina A pré-formada podem causar malformações congênitas. Procure orientação individual rapidamente. Leve o rótulo para que o profissional diferencie vitamina A pré-formada de betacaroteno e avalie a quantidade e o momento da ingestão."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Se a criança pode ter ingerido uma quantidade excessiva, ligue rapidamente com o recipiente original à mão.",
+            "Informe ao especialista a presença de ferro e de outras vitaminas indicadas no rótulo.",
+            "Revise todos os produtos de uso habitual com o farmacêutico para evitar novos erros de dose."
+          ],
+          "bemama": "A BeMama sugere guardar cada medidor com seu frasco e anotar o horário da dose quando mais de uma pessoa cuida da criança.",
+          "safety": "Em caso de possível superdosagem, ligue agora para um centro de informação toxicológica e não provoque vômito. Chame a emergência imediatamente se a criança desabar, convulsionar, tiver dificuldade para respirar ou não puder ser acordada.",
+          "sources": [
+            {
+              "organization": "Escritório de Suplementos Alimentares dos Institutos Nacionais de Saúde dos Estados Unidos",
+              "title": "Formas de vitamina A, fontes alimentares e toxicidade",
+              "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+            },
+            {
+              "organization": "Centro Nacional de Controle de Intoxicações da Capital dos Estados Unidos",
+              "title": "Primeiros socorros na suspeita de intoxicação",
+              "url": "https://www.poison.org/first-aid-for-poisonings"
+            },
+            {
+              "organization": "Centro Nacional de Controle de Intoxicações da Capital dos Estados Unidos",
+              "title": "Multivitamínicos e ingestão acidental na infância",
+              "url": "https://www.poison.org/articles/multivitamins"
+            },
+            {
+              "organization": "Carpenter e colaboradores, Journal of Pediatrics",
+              "title": "Intoxicação grave por vitamina A em dois irmãos",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/3655980/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5895.webp",
+    "heroAlt": {
+      "en": "A hand holds a capped amber bottle beside an oral syringe and a larger white bottle.",
+      "fa": "دستی شیشهٔ کهربایی دربسته‌ای را کنار یک سرنگ خوراکی و بطری سفید بزرگ‌تری نگه داشته است.",
+      "ar": "يد تمسك بزجاجة كهرمانية مغلقة بجانب محقنة فموية وعبوة بيضاء أكبر.",
+      "fr": "Une main tient un flacon ambré fermé, à côté d’une seringue orale et d’un flacon blanc plus grand.",
+      "tr": "Bir el, ağızdan ilaç vermek için kullanılan şırınganın ve büyük beyaz şişenin yanında kapalı kehribar renkli şişeyi tutuyor.",
+      "es": "Una mano sostiene un frasco ámbar cerrado junto a una jeringa oral y un frasco blanco más grande.",
+      "pt": "Uma mão segura um frasco âmbar fechado ao lado de uma seringa oral e de um frasco branco maior."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "Too much vitamin A in children: what to do about an extra dose",
+      "description": "If a child may have taken extra vitamin A, find out whom to call, what to read from the bottle and why drops, multivitamins and liver products matter."
+    },
+    "fa": {
+      "title": "مصرف بیش از حد ویتامین آ در کودکان؛ چه کار کنیم؟",
+      "description": "اگر احتمال می‌دهید کودک ویتامین آ اضافه خورده، بدانید با کجا تماس بگیرید، چه اطلاعاتی از روی شیشه بخوانید و چرا قطره، مولتی‌ویتامین و جگر اهمیت دارند."
+    },
+    "ar": {
+      "title": "إذا تناول الطفل جرعة زائدة من فيتامين أ، ماذا نفعل؟",
+      "description": "إذا احتمل أن طفلك تناول فيتامين أ بكمية زائدة، فاعرف بمن تتصل وماذا تقرأ من العبوة ولماذا تهم القطرات والفيتامينات المتعددة ومنتجات الكبد."
+    },
+    "fr": {
+      "title": "Un enfant a pris trop de vitamine A : que faire ?",
+      "description": "Votre enfant a peut-être pris trop de vitamine A. Voici qui appeler, quoi lire sur le flacon et pourquoi il faut signaler les gouttes, multivitamines et abats."
+    },
+    "tr": {
+      "title": "Çocuk fazla A vitamini aldıysa ne yapmalısınız?",
+      "description": "Çocuğunuz fazla A vitamini aldıysa kimi arayacağınızı, şişeden hangi bilgileri okuyacağınızı ve diğer takviyeleri neden bildirmeniz gerektiğini öğrenin."
+    },
+    "es": {
+      "title": "Si un niño toma demasiada vitamina A, ¿qué hay que hacer?",
+      "description": "Si tu hijo pudo tomar vitamina A de más, descubre a quién llamar, qué datos leer del envase y por qué importan las gotas, los multivitamínicos y el hígado."
+    },
+    "pt": {
+      "title": "Vitamina A em excesso na infância: o que fazer após uma dose extra",
+      "description": "Se a criança pode ter tomado vitamina A demais, saiba a quem ligar, o que ler na embalagem e por que mencionar gotas, multivitamínicos e produtos de fígado."
+    }
+  }
+}

@@ -1,0 +1,751 @@
+{
+  "sourceId": "5841",
+  "article": {
+    "slug": "baby-and-child/when-a-child-gets-sick-after-a-shared-meal",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "When a child gets sick after a shared meal",
+        "description": "Learn what to do if a child vomits or has diarrhoea after a shared meal, which symptoms need urgent care, and what details can help trace a foodborne illness.",
+        "intro": "The morning after a family lunch, your toddler vomits. A cousin who was there has diarrhoea. Before trying to work out what was in the sandwiches, check how your child looks, how much they can drink and when they last passed urine. The meal may be a clue. The first decision is whether the child needs medical help now.",
+        "sections": [
+          {
+            "heading": "Check the child’s condition first",
+            "paragraphs": [
+              "Get emergency help if the child is difficult to wake, has trouble breathing or develops sudden trouble swallowing, double vision or marked weakness after a possible food exposure. Green vomit, blood in vomit or severe, persistent abdominal pain also need emergency assessment. Tell the team about the meal, but leave the search for its source until help is arranged.",
+              "Get urgent medical advice for bloody diarrhoea, repeated vomiting that prevents drinking, or signs of dehydration such as much less urine than usual, a dry mouth, sunken eyes or unusual drowsiness. A baby younger than three months with a temperature of 38°C or higher needs urgent medical assessment. Infants, especially those under six months, can become dehydrated more quickly. Contact a clinician early if a baby is feeding poorly or you are worried."
+            ]
+          },
+          {
+            "heading": "Why the last thing they ate may not be the cause",
+            "paragraphs": [
+              "Foodborne illness can cause nausea, vomiting, watery or bloody diarrhoea, cramping or fever. An infection spread directly from another person can cause much the same symptoms. Ask when symptoms started and who else is sick. Someone who shared only part of the meal, or who stayed home but was already ill, can be an important clue.",
+              "The time between eating and symptoms varies. For example, illness from a toxin produced by Staphylococcus bacteria can start within hours. Campylobacter infection often takes two to five days. Timing alone cannot identify the food or germ. Think back over meals, snacks, drinks and outings during the week before symptoms began."
+            ]
+          },
+          {
+            "heading": "Help a one- or two-year-old keep fluids down",
+            "paragraphs": [
+              "If the child is awake and able to drink, offer small, frequent sips. A commercial oral rehydration solution replaces water and salts lost through vomiting or diarrhoea. If it comes as a powder, mix it with precisely the amount of safe water on the packet. Continue breastfeeding. A clinician or pharmacist can advise on the amount and product for your child.",
+              "Once rehydrated, a child can return to their usual foods and full-strength milk feeds as tolerated. Juice and fizzy drinks can make diarrhoea worse. Do not give an anti-diarrhoeal medicine to a young child or use leftover antibiotics. Bloody stools need assessment, and the choice of treatment depends on the cause. If even small sips will not stay down, seek medical help."
+            ]
+          },
+          {
+            "heading": "Record the details while they are easy to remember",
+            "paragraphs": [
+              "Write down what the child ate and drank at home, at childcare and away from home, when symptoms began, and whether others became ill. Keep receipts or photographs of product labels, batch numbers and dates if available. Stop serving a suspected item. Ask the local public health or food safety service how to handle any leftovers they may want to test.",
+              "In an investigation of illness in 1996, researchers identified 70 cases of E. coli infection associated with unpasteurised commercial apple juice across several US states and one Canadian province. Comparing people’s exposures helped investigators identify the source. This was one outbreak. A child’s symptoms after drinking juice cannot by themselves establish what caused them. If several people became sick after the same event, contact the local service even if you do not know which food to name."
+            ]
+          },
+          {
+            "heading": "Watch for changes during recovery",
+            "paragraphs": [
+              "The course depends on the cause and the child. With a typical stomach infection, vomiting often settles within a day or two, while diarrhoea may last several days. Look at whether the child is more alert, is drinking and is passing urine closer to their usual pattern. Seek advice sooner for deterioration, blood in the stool, returning symptoms or poor intake. You can call before a particular number of days has passed.",
+              "Use soap and water after changing nappies or helping with the toilet and before preparing food. Keep the child away from childcare or school while vomiting or diarrhoea continues, then follow local return guidance. Some identified infections require specific clearance. Ask the team what applies if the child’s illness is part of an outbreak."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Check alertness, breathing, drinking and urine output before trying to identify the food.",
+          "Symptoms can begin well after the last meal. Note earlier foods, dates and who else is ill.",
+          "Use oral rehydration solution as directed and continue breastfeeding.",
+          "Report a suspected cluster to the local public health or food safety service."
+        ],
+        "faq": [
+          {
+            "q": "Which symptoms suggest food poisoning in a child?",
+            "a": "Vomiting, diarrhoea, cramps or fever after a possible exposure can fit foodborne illness. Similar symptoms can spread between people. The timing, foods eaten, other cases and sometimes a stool test can help a clinician or public health team investigate."
+          },
+          {
+            "q": "When should I call a clinician for a toddler?",
+            "a": "Seek urgent advice if your child has bloody diarrhoea, cannot keep down fluids, urinates much less than usual, is very sleepy or seems to be getting worse. Tell the clinician about recent meals, any other people who are sick, and the last wet nappy or toilet visit."
+          },
+          {
+            "q": "Which signs need emergency help?",
+            "a": "Breathing difficulty, difficulty waking the child, sudden trouble swallowing, double vision or marked weakness need emergency help. Green vomit, bloody vomit or severe persistent abdominal pain also need emergency assessment. These signs can have causes other than food poisoning."
+          },
+          {
+            "q": "How many days will my child be ill?",
+            "a": "There is no fixed duration. With ordinary gastroenteritis, vomiting often eases before diarrhoea, which can continue for several days. Ask for help at any point if your child cannot drink, seems dehydrated or develops a warning sign. Follow any instructions for the particular infection."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Prioritise clinical signs of dehydration and other urgent symptoms.",
+            "Continue safe fluid replacement and follow the instructions for mixing oral rehydration solution.",
+            "Gather food histories and packaging information to help investigate suspected shared exposure."
+          ],
+          "bemama": "BeMama follows a family lunch to show what helps a sick child immediately and what can help public health staff connect cases later.",
+          "safety": "Difficulty waking, trouble breathing or swallowing, double vision, marked weakness, green or bloody vomit or severe persistent abdominal pain need emergency assessment. Arrange urgent medical review for bloody diarrhoea, inability to drink or dehydration.",
+          "sources": [
+            {
+              "organization": "Centers for Disease Control and Prevention",
+              "title": "Symptoms and timing of foodborne illness",
+              "url": "https://www.cdc.gov/food-safety/signs-symptoms/"
+            },
+            {
+              "organization": "National Institute for Health and Care Excellence",
+              "title": "Managing diarrhoea and vomiting in children under five",
+              "url": "https://www.nice.org.uk/guidance/cg84/chapter/Recommendations"
+            },
+            {
+              "organization": "Centers for Disease Control and Prevention",
+              "title": "What to do if you think you have food poisoning",
+              "url": "https://www.cdc.gov/foodborne-outbreaks/what-to-do/"
+            },
+            {
+              "organization": "Cody and colleagues, Annals of Internal Medicine",
+              "title": "Investigation of E. coli infection linked to unpasteurised apple juice",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10049198/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "وقتی کودک پس از یک وعدهٔ غذایی مشترک بیمار می‌شود",
+        "description": "اگر کودک بعد از غذای مشترک استفراغ یا اسهال دارد، ببینید ابتدا چه چیزی را بررسی کنید، کدام نشانه‌ها فوری‌اند و چه اطلاعاتی به یافتن منبع بیماری کمک می‌کند.",
+        "intro": "صبح بعد از یک ناهار خانوادگی کودک نوپای شما استفراغ می‌کند. یکی از بچه‌های فامیل که آنجا بود اسهال دارد. پیش از بررسی محتویات ساندویچ‌ها، ببینید حال کودکتان چطور است، چقدر می‌تواند بنوشد و آخرین بار چه وقت ادرار کرده است. غذا ممکن است سرنخی بدهد. اول باید تصمیم گرفت که آیا کودک همین حالا به کمک پزشکی نیاز دارد.",
+        "sections": [
+          {
+            "heading": "اول حال کودک را بررسی کنید",
+            "paragraphs": [
+              "اگر به‌سختی بیدار می‌شود، مشکل تنفس دارد یا پس از خوردن غذای مشکوک ناگهان دچار دشواری بلع، دوبینی یا ضعف شدید شده، کمک اورژانسی بگیرید. استفراغ سبز، خون در استفراغ یا درد شکمی شدید و مداوم هم ارزیابی اورژانسی می‌خواهد. دربارهٔ غذا به تیم درمان بگویید، اما جست‌وجوی منشأ را به بعد از درخواست کمک موکول کنید.",
+              "برای اسهال خونی، استفراغ مکرری که مانع نوشیدن می‌شود یا نشانه‌های کم‌آبی مانند ادرار بسیار کمتر از معمول، دهان خشک، چشم‌های فرورفته یا خواب‌آلودگی غیرعادی، راهنمایی پزشکی فوری بگیرید. دمای ۳۸ درجهٔ سانتی‌گراد یا بالاتر در شیرخوار زیر سه ماه نیاز به ارزیابی فوری دارد. شیرخواران، به‌ویژه زیر شش ماه، زودتر دچار کم‌آبی می‌شوند. اگر شیرخوار خوب شیر نمی‌خورد یا حالش نگران‌کننده است زود با متخصص تماس بگیرید."
+            ]
+          },
+          {
+            "heading": "چرا آخرین غذای کودک لزوماً علت نیست؟",
+            "paragraphs": [
+              "بیماری منتقل‌شده از غذا می‌تواند تهوع، استفراغ، اسهال آبکی یا خونی، دل‌پیچه یا تب ایجاد کند. عفونتی که مستقیم از فرد دیگری منتقل می‌شود هم می‌تواند همین نشانه‌ها را داشته باشد. بپرسید علائم چه زمانی شروع شدند و چه کس دیگری بیمار است. کسی که تنها بخشی از غذا را خورده یا به دلیل بیماری قبلی در خانه مانده شاید سرنخ مهمی داشته باشد.",
+              "فاصلهٔ خوردن تا بروز علائم متفاوت است. مثلاً سم تولیدشده توسط باکتری استافیلوکوک می‌تواند ظرف چند ساعت بیماری ایجاد کند. در عفونت کامپیلوباکتر این فاصله معمولاً دو تا پنج روز است. زمان به‌تنهایی غذا یا میکروب را مشخص نمی‌کند. غذاها، میان‌وعده‌ها، نوشیدنی‌ها و بیرون رفتن‌های هفتهٔ پیش از علائم را به خاطر بیاورید."
+            ]
+          },
+          {
+            "heading": "چگونه به کودک یک یا دوساله برای نگه داشتن مایعات کمک کنیم؟",
+            "paragraphs": [
+              "اگر بیدار است و می‌تواند بنوشد، جرعه‌های کم و مکرر بدهید. محلول خوراکی جبران آب و املاح که برای این کار عرضه می‌شود آب و نمک‌های از دست رفته را جایگزین می‌کند. اگر به صورت پودر است، آن را دقیقاً با همان مقدار آب آشامیدنی سالم که روی بسته آمده مخلوط کنید. شیردهی را ادامه دهید. متخصص سلامت یا داروساز دربارهٔ محصول و مقدار مناسب کودکتان راهنمایی می‌کند.",
+              "پس از جبران کم‌آبی، کودک می‌تواند غذاهای معمول و شیر با غلظت همیشگی را تا حد تحمل از سر بگیرد. آب‌میوه و نوشابهٔ گازدار ممکن است اسهال را بدتر کنند. به خردسال داروی ضداسهال یا آنتی‌بیوتیک باقی‌مانده ندهید. مدفوع خونی باید بررسی شود و درمان به علت بستگی دارد. اگر حتی جرعه‌های کوچک را نگه نمی‌دارد، کمک پزشکی بگیرید."
+            ]
+          },
+          {
+            "heading": "جزئیات را تا وقتی به خاطر دارید ثبت کنید",
+            "paragraphs": [
+              "بنویسید در خانه، مهد و بیرون چه خورده و نوشیده، علائم چه وقت شروع شده و آیا دیگران هم بیمار شده‌اند. اگر دارید، رسید خرید یا عکس برچسب‌ها، شمارهٔ سری ساخت و تاریخ‌ها را نگه دارید. غذای مشکوک را دیگر سرو نکنید. از بهداشت عمومی یا واحد ایمنی غذای محل بپرسید با باقی‌مانده‌هایی که ممکن است برای آزمایش بخواهند چه کنید.",
+              "در بررسی یک طغیان بیماری در سال ۱۹۹۶، پژوهشگران ۷۰ مورد عفونت ای‌کولای را در چند ایالت آمریکا و یک استان کانادا با آب‌سیب تجاری غیرپاستوریزه مرتبط دانستند. مقایسهٔ خوراکی‌های مصرف‌شده به یافتن منشأ کمک کرد. این یک طغیان مشخص بود. علائم یک کودک پس از نوشیدن آب‌میوه به‌تنهایی علت را ثابت نمی‌کند. اگر چند نفر پس از یک گردهمایی بیمار شده‌اند، حتی اگر نمی‌دانید به کدام غذا شک کنید، با واحد محلی تماس بگیرید."
+            ]
+          },
+          {
+            "heading": "بهبود را دنبال کنید و انتقال را کاهش دهید",
+            "paragraphs": [
+              "مدت بیماری به علت بستگی دارد. در یک عفونت معمول معده و روده، استفراغ اغلب ظرف یک یا دو روز فروکش می‌کند، اما اسهال ممکن است چند روز ادامه یابد. ببینید آیا کودک هشیارتر شده، می‌نوشد و دفعات ادرارش به معمول نزدیک می‌شود. در صورت بدتر شدن، مدفوع خونی، بازگشت علائم یا مصرف کم مایعات زودتر کمک بخواهید. لازم نیست شمار مشخصی از روزها بگذرد.",
+              "پس از تعویض پوشک یا کمک در دستشویی و پیش از آماده کردن غذا دست‌ها را با آب و صابون بشویید. تا وقتی استفراغ یا اسهال ادامه دارد کودک به مدرسه یا مهد نرود و بعد طبق مقررات محلی بازگردد. در برخی عفونت‌های مشخص، اجازهٔ بازگشت شرایط خاصی دارد. اگر بیماری بخشی از یک طغیان است از تیم درمان دربارهٔ دستور مناسب بپرسید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "پیش از جست‌وجوی غذای مشکوک، هشیاری، تنفس، نوشیدن و ادرار را بررسی کنید.",
+          "ممکن است علائم مدت‌ها پس از آخرین غذا شروع شوند. غذاهای قبلی، تاریخ‌ها و افراد بیمار دیگر را یادداشت کنید.",
+          "محلول جبران آب و املاح را طبق دستور مصرف کنید و شیردهی را ادامه دهید.",
+          "موارد مشکوک به منشأ مشترک را به خدمات بهداشت عمومی یا ایمنی غذای محل گزارش دهید."
+        ],
+        "faq": [
+          {
+            "q": "چه نشانه‌هایی به نفع مسمومیت غذایی در کودک‌اند؟",
+            "a": "استفراغ، اسهال، دل‌پیچه یا تب پس از تماس احتمالی با غذای آلوده می‌تواند با بیماری غذایی سازگار باشد. عفونت‌های بین افراد هم علائم مشابه دارند. زمان شروع، غذاهای خورده‌شده، موارد دیگر و گاهی آزمایش مدفوع در بررسی به متخصص یا تیم بهداشت کمک می‌کند."
+          },
+          {
+            "q": "برای کودک نوپا چه وقت تماس بگیرم؟",
+            "a": "اگر اسهال خونی دارد، مایعات را نگه نمی‌دارد، بسیار کمتر از معمول ادرار می‌کند، خیلی خواب‌آلود است یا بدتر می‌شود، راهنمایی فوری بگیرید. دربارهٔ غذاهای اخیر، افراد بیمار دیگر و زمان آخرین پوشک خیس یا دستشویی رفتن بگویید."
+          },
+          {
+            "q": "چه نشانه‌هایی کمک اورژانسی می‌خواهند؟",
+            "a": "دشواری تنفس، به‌سختی بیدار شدن، دشواری ناگهانی بلع، دوبینی یا ضعف شدید نیازمند کمک اورژانسی است. استفراغ سبز یا خونی یا درد شکمی شدید و مداوم هم باید اورژانسی بررسی شود. این نشانه‌ها ممکن است علتی غیر از مسمومیت غذایی داشته باشند."
+          },
+          {
+            "q": "بیماری کودک چند روز طول می‌کشد؟",
+            "a": "مدت ثابتی ندارد. در عفونت معمول گوارشی، استفراغ اغلب پیش از اسهال بهتر می‌شود و اسهال ممکن است چند روز بماند. هر وقت کودک نتوانست بنوشد، نشانهٔ کم‌آبی یا علامت هشدار پیدا کرد، کمک بگیرید. دستور مربوط به عفونت مشخص را رعایت کنید."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۶ نوامبر ۲۰۲۶ بررسی شد",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "نشانه‌های بالینی کم‌آبی و دیگر علائم فوری را در اولویت بگذارید.",
+            "جبران ایمن مایعات را ادامه دهید و محلول خوراکی جبران آب و املاح را طبق دستور آماده کنید.",
+            "سوابق غذا و اطلاعات بسته‌بندی را برای بررسی تماس احتمالی مشترک جمع کنید."
+          ],
+          "bemama": "بی‌ماما با مثال یک ناهار خانوادگی نشان می‌دهد چه چیزی فوراً به کودک کمک می‌کند و چه چیزی بعداً به ارتباط دادن موارد بیماری کمک خواهد کرد.",
+          "safety": "دشواری بیدار شدن، مشکل تنفس یا بلع، دوبینی، ضعف شدید، استفراغ سبز یا خونی یا درد شکمی شدید و مداوم به ارزیابی اورژانسی نیاز دارد. برای اسهال خونی، ناتوانی در نوشیدن یا کم‌آبی، ارزیابی پزشکی فوری بگیرید.",
+          "sources": [
+            {
+              "organization": "مراکز کنترل و پیشگیری بیماری‌های آمریکا",
+              "title": "علائم بیماری‌های منتقل‌شده از غذا و زمان بروز آن‌ها",
+              "url": "https://www.cdc.gov/food-safety/signs-symptoms/"
+            },
+            {
+              "organization": "مؤسسهٔ ملی تعالی سلامت و مراقبت بریتانیا",
+              "title": "مراقبت از اسهال و استفراغ در کودکان زیر پنج سال",
+              "url": "https://www.nice.org.uk/guidance/cg84/chapter/Recommendations"
+            },
+            {
+              "organization": "مراکز کنترل و پیشگیری بیماری‌های آمریکا",
+              "title": "اگر به مسمومیت غذایی شک دارید چه کنید",
+              "url": "https://www.cdc.gov/foodborne-outbreaks/what-to-do/"
+            },
+            {
+              "organization": "کودی و همکاران، نشریهٔ سال‌نامهٔ پزشکی داخلی",
+              "title": "بررسی عفونت ای‌کولای مرتبط با آب‌سیب غیرپاستوریزه",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10049198/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "إذا مرض الطفل بعد وجبة أكلها مع الآخرين",
+        "description": "ماذا تفعل إذا تقيّأ الطفل أو أصيب بالإسهال بعد وجبة مشتركة؟ تعرّف إلى العلامات التي تستدعي رعاية عاجلة والتفاصيل التي تساعد على تتبّع مصدر المرض.",
+        "intro": "في صباح اليوم التالي لغداء عائلي تقيّأ طفلك الصغير. وأصيب أحد أقاربه ممن حضروا بالإسهال. قبل أن تحاول تذكّر مكونات الشطائر، انظر كيف يبدو الطفل، وكم يستطيع أن يشرب، ومتى تبول آخر مرة. قد تكون الوجبة خيطًا في البحث، أما القرار الأول فهو هل يحتاج الطفل إلى مساعدة طبية الآن.",
+        "sections": [
+          {
+            "heading": "افحص حال الطفل أولًا",
+            "paragraphs": [
+              "اطلب الإسعاف إذا صعُب إيقاظ الطفل، أو واجه صعوبة في التنفس، أو ظهر بعد تعرّض غذائي محتمل عسر بلع مفاجئ أو ازدواج في الرؤية أو ضعف شديد. ويحتاج القيء الأخضر أو وجود دم في القيء أو ألم البطن الشديد المستمر أيضًا إلى تقييم طارئ. أخبر الفريق عن الوجبة، لكن أجّل البحث عن المصدر إلى ما بعد طلب المساعدة.",
+              "اطلب مشورة طبية عاجلة عند الإسهال الدموي أو تكرار القيء بشكل يمنع الشرب أو ظهور علامات الجفاف، مثل التبول أقل بكثير من المعتاد، أو جفاف الفم، أو غؤور العينين، أو النعاس غير المألوف. يحتاج الرضيع دون ثلاثة أشهر إذا بلغت حرارته ٣٨ درجة مئوية أو أكثر إلى تقييم طبي عاجل. وقد يصاب الرضع بالجفاف أسرع، خصوصًا دون ستة أشهر. اتصل بالمختص مبكرًا إذا ساءت رضاعة الطفل أو قلقت بشأن حاله."
+            ]
+          },
+          {
+            "heading": "لماذا قد يكون السبب أقدم من آخر وجبة؟",
+            "paragraphs": [
+              "يمكن أن يسبّب المرض المنقول بالغذاء غثيانًا أو قيئًا أو إسهالًا مائيًا أو دمويًا أو مغصًا أو حمّى. وقد تعطي العدوى المنتقلة مباشرة من شخص لآخر أعراضًا مشابهة. اسأل متى بدأت ومن أيضًا مريض. قد يفيدك في فهم ما حدث شخص لم يأكل إلا جزءًا من الوجبة، أو بقي في البيت لأنه كان مريضًا أصلًا.",
+              "تختلف المدة بين الأكل والأعراض. فمثلًا، قد تبدأ أعراض مرض تسببه سموم المكورات العنقودية خلال ساعات. أما عدوى العطيفة، أو كامبيلوباكتر، فكثيرًا ما تستغرق من يومين إلى خمسة أيام. التوقيت وحده لا يحدّد الطعام أو الجرثومة. استعد في ذهنك الوجبات والوجبات الخفيفة والمشروبات والأماكن التي زارها الطفل خلال الأسبوع السابق للأعراض."
+            ]
+          },
+          {
+            "heading": "كيف تساعد الطفل في عمر سنة أو سنتين على الاحتفاظ بالسوائل؟",
+            "paragraphs": [
+              "إذا كان يقظًا وقادرًا على الشرب، قدّم رشفات صغيرة ومتكررة. يعوّض محلول الإماهة الفموي المتوافر في الصيدلية الماء والأملاح المفقودة بالقيء أو الإسهال. إذا كان مسحوقًا فامزجه بكمية مياه الشرب المأمونة المحددة على العبوة بدقة. واصل الرضاعة الطبيعية. يمكن للمختص أو الصيدلي إرشادك إلى المنتج والكمية المناسبين للطفل.",
+              "بعد تعويض السوائل، يستطيع الطفل العودة إلى طعامه وحليبه المعتاد بالتركيز العادي بقدر ما يتحمّل. قد يزيد العصير والمشروبات الغازية الإسهال. لا تعط طفلًا صغيرًا دواءً لإيقاف الإسهال أو بقايا مضاد حيوي. يستدعي البراز الدموي تقييمًا، ويعتمد العلاج على السبب. إذا لم يحتفظ حتى بالرشفات الصغيرة، فاطلب المساعدة الطبية."
+            ]
+          },
+          {
+            "heading": "سجّل التفاصيل ما دمت تتذكّرها",
+            "paragraphs": [
+              "دوّن ما أكله وشربه في المنزل والحضانة وخارجهما، ووقت بدء الأعراض، وهل مرض آخرون. احتفظ بالإيصالات أو صوّر بطاقات المنتجات وأرقام التشغيلات والتواريخ إن توفرت. توقف عن تقديم أي طعام مشتبه به. اسأل خدمة الصحة العامة أو سلامة الغذاء المحلية كيف تتعامل مع بقايا طعام قد ترغب في فحصها.",
+              "في تحقيق في تفشٍّ عام ١٩٩٦، عيّن الباحثون ٧٠ إصابة بجرثومة الإشريكية القولونية مرتبطة بعصير تفاح تجاري غير مبستر في عدة ولايات أمريكية ومقاطعة كندية. ساعدت مقارنة ما استهلكه المرضى في التعرّف إلى المصدر. كان ذلك تفشّيًا بعينه. ولا تثبت أعراض طفل بعد شرب العصير سبب المرض بمفردها. إذا مرض عدة أشخاص بعد اللقاء نفسه فاتصل بالخدمة المحلية حتى وإن لم تعرف أي طعام تذكر."
+            ]
+          },
+          {
+            "heading": "تابع التعافي وقلّل انتقال العدوى",
+            "paragraphs": [
+              "تعتمد المدة على السبب. في التهاب المعدة والأمعاء المعتاد، كثيرًا ما يخف القيء خلال يوم أو يومين، بينما قد يستمر الإسهال عدة أيام. انظر هل صار الطفل أكثر يقظة، وهل يشرب ويتبول على نحو أقرب إلى المعتاد. اطلب الإرشاد أبكر إذا ساء أو ظهر دم في البراز أو عادت الأعراض أو قلّ الشرب. لا يلزم انتظار عدد معين من الأيام للاتصال.",
+              "اغسل اليدين بالماء والصابون بعد تغيير الحفاض أو المساعدة في دخول الحمام وقبل تحضير الطعام. أبق الطفل بعيدًا عن الحضانة أو المدرسة ما دام القيء أو الإسهال مستمرًا، ثم اتبع تعليمات العودة المحلية. تتطلب بعض العدوى التي جرى تحديدها تصريحًا خاصًا. اسأل الفريق عمّا ينطبق إذا كانت العدوى جزءًا من تفشٍّ."
+            ]
+          }
+        ],
+        "takeaways": [
+          "تحقّق من اليقظة والتنفس والشرب والتبول قبل محاولة تحديد الطعام.",
+          "قد تبدأ الأعراض بعد فترة من آخر وجبة. دوّن الأطعمة السابقة والتواريخ ومن مرض أيضًا.",
+          "استخدم محلول الإماهة حسب التعليمات وواصل الرضاعة الطبيعية.",
+          "أبلغ خدمة الصحة العامة أو سلامة الغذاء المحلية عن مجموعة إصابات يُشتبه في ارتباطها."
+        ],
+        "faq": [
+          {
+            "q": "ما الأعراض التي توحي بتسمم غذائي لدى الطفل؟",
+            "a": "قد يتفق القيء أو الإسهال أو المغص أو الحمى بعد تعرّض محتمل مع مرض منقول بالغذاء. وقد تنتقل أعراض مشابهة بين الأشخاص. تساعد مواعيد الأعراض والأطعمة والحالات الأخرى وأحيانًا فحص البراز الفريق الطبي أو فريق الصحة العامة في التحقيق."
+          },
+          {
+            "q": "متى أتصل بمختص بشأن طفل صغير؟",
+            "a": "اطلب إرشادًا عاجلًا إذا كان الإسهال دمويًا أو لم يحتفظ الطفل بالسوائل، أو قل تبوله كثيرًا أو كان شديد النعاس أو بدا أسوأ. أخبر المختص بالوجبات الأخيرة والمرضى الآخرين ووقت آخر حفاض مبلل أو زيارة للحمام."
+          },
+          {
+            "q": "ما العلامات التي تتطلب الإسعاف؟",
+            "a": "تتطلب صعوبة التنفس أو الإيقاظ أو عسر البلع المفاجئ أو ازدواج الرؤية أو الضعف الشديد مساعدة طارئة. ويستلزم القيء الأخضر أو الدموي أو ألم البطن الشديد المستمر تقييمًا طارئًا أيضًا. وقد تكون لهذه العلامات أسباب غير التسمم الغذائي."
+          },
+          {
+            "q": "كم يومًا سيبقى طفلي مريضًا؟",
+            "a": "لا توجد مدة ثابتة. في التهاب المعدة والأمعاء المعتاد، غالبًا ما يخف القيء قبل الإسهال الذي يمكن أن يبقى عدة أيام. اطلب المساعدة في أي وقت إن لم يستطع الطفل الشرب أو بدا مصابًا بالجفاف أو ظهرت علامة إنذار. اتبع تعليمات العدوى المحددة إن عُرفت."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "أعط الأولوية لعلامات الجفاف والأعراض العاجلة الأخرى.",
+            "واصل تعويض السوائل بأمان واتبع تعليمات تحضير محلول الإماهة الفموي.",
+            "اجمع معلومات عن الأغذية والعبوات للمساعدة في التحقيق في تعرّض مشترك محتمل."
+          ],
+          "bemama": "تتتبّع بي ماما مثال غداء عائلي لبيان ما يساعد الطفل فورًا وما قد يساعد خبراء الصحة العامة لاحقًا على ربط الحالات.",
+          "safety": "تحتاج صعوبة الإيقاظ أو التنفس أو البلع، وازدواج الرؤية، والضعف الشديد، والقيء الأخضر أو الدموي، أو الألم البطني الشديد المستمر إلى تقييم طارئ. اطلب تقييمًا طبيًا عاجلًا للإسهال الدموي أو عدم القدرة على الشرب أو الجفاف.",
+          "sources": [
+            {
+              "organization": "المراكز الأمريكية لمكافحة الأمراض والوقاية منها",
+              "title": "أعراض الأمراض المنقولة بالغذاء وتوقيت ظهورها",
+              "url": "https://www.cdc.gov/food-safety/signs-symptoms/"
+            },
+            {
+              "organization": "المعهد الوطني البريطاني للتميّز في الصحة والرعاية",
+              "title": "تدبير الإسهال والقيء عند الأطفال دون الخامسة",
+              "url": "https://www.nice.org.uk/guidance/cg84/chapter/Recommendations"
+            },
+            {
+              "organization": "المراكز الأمريكية لمكافحة الأمراض والوقاية منها",
+              "title": "ما تفعله إذا اشتبهت في تسمم غذائي",
+              "url": "https://www.cdc.gov/foodborne-outbreaks/what-to-do/"
+            },
+            {
+              "organization": "كودي وزملاؤه، حوليات الطب الباطني",
+              "title": "تحقيق في إصابات بالإشريكية القولونية مرتبطة بعصير تفاح غير مبستر",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10049198/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Quand un enfant tombe malade après un repas partagé",
+        "description": "Que faire si un enfant vomit ou a la diarrhée après un repas partagé ? Repérez les signes urgents et les détails qui aident à rechercher l’aliment en cause.",
+        "intro": "Le lendemain d’un déjeuner en famille, votre tout-petit vomit. Un cousin qui était là a la diarrhée. Avant de chercher ce que contenaient les sandwichs, observez l’état de votre enfant, ce qu’il parvient à boire et à quand remonte sa dernière urine. Le repas est peut-être un indice. Décidez d’abord s’il a besoin d’une aide médicale immédiate.",
+        "sections": [
+          {
+            "heading": "Vérifiez d’abord comment va l’enfant",
+            "paragraphs": [
+              "Appelez les secours s’il est difficile à réveiller, peine à respirer ou si, après une possible exposition alimentaire, il a soudain du mal à avaler, voit double ou présente une faiblesse marquée. Des vomissements verts, du sang dans les vomissures ou une douleur abdominale intense et persistante nécessitent également une évaluation en urgence. Signalez le repas à l’équipe, mais cherchez de l’aide avant de vous lancer dans l’enquête.",
+              "Demandez un avis médical urgent s’il a une diarrhée sanglante, vomit si souvent qu’il ne peut pas boire ou présente des signes de déshydratation : urines beaucoup plus rares, bouche sèche, yeux creux ou somnolence inhabituelle. Un nourrisson de moins de trois mois qui a une température d’au moins 38 °C doit être évalué en urgence. Les nourrissons, surtout avant six mois, se déshydratent plus vite. Consultez rapidement si un bébé boit mal ou si son état vous inquiète."
+            ]
+          },
+          {
+            "heading": "Pourquoi le dernier aliment mangé n’est pas forcément en cause",
+            "paragraphs": [
+              "Une maladie d’origine alimentaire peut provoquer nausées, vomissements, diarrhée liquide ou sanglante, crampes ou fièvre. Une infection transmise d’une personne à une autre peut donner les mêmes signes. Notez le début des symptômes et demandez qui d’autre est malade. Une personne qui n’a partagé qu’un plat, ou qui est restée chez elle parce qu’elle était déjà malade, peut fournir un indice important.",
+              "Le délai dépend de la cause. Une toxine produite par un staphylocoque peut rendre malade en quelques heures. Une infection à Campylobacter se déclare souvent après deux à cinq jours. Le délai seul ne permet d’identifier ni l’aliment ni le germe. Repensez aux repas, goûters, boissons et sorties de la semaine qui a précédé les symptômes."
+            ]
+          },
+          {
+            "heading": "Aider un enfant de un ou deux ans à garder les liquides",
+            "paragraphs": [
+              "S’il est éveillé et peut boire, proposez de petites gorgées fréquentes. Une solution de réhydratation orale du commerce remplace l’eau et les sels perdus avec les vomissements ou la diarrhée. Pour une poudre, utilisez exactement la quantité d’eau potable indiquée sur le sachet. Poursuivez l’allaitement. Un professionnel de santé ou un pharmacien peut vous conseiller sur le produit et les quantités adaptés.",
+              "Après réhydratation, il peut reprendre ses aliments habituels et ses prises de lait à concentration normale selon ce qu’il tolère. Les jus et les boissons gazeuses peuvent aggraver la diarrhée. Ne donnez pas d’antidiarrhéique à un jeune enfant et n’utilisez pas des antibiotiques restants. Du sang dans les selles demande une évaluation et le traitement dépend de la cause. S’il ne garde même pas de petites gorgées, demandez une aide médicale."
+            ]
+          },
+          {
+            "heading": "Notez les détails pendant que vous vous en souvenez",
+            "paragraphs": [
+              "Écrivez ce qu’il a mangé et bu chez vous, sur son lieu de garde et à l’extérieur, quand les symptômes ont commencé et si d’autres personnes sont tombées malades. Gardez les reçus ou photographiez les étiquettes, numéros de lot et dates si vous les avez. Cessez de servir le produit suspect. Demandez au service local de santé publique ou de sécurité alimentaire comment conserver d’éventuels restes pour analyse.",
+              "Lors d’une enquête en 1996, des chercheurs ont recensé 70 infections à E. coli liées à du jus de pomme non pasteurisé du commerce dans plusieurs États américains et une province canadienne. Comparer les expositions des personnes malades a aidé à identifier la source. Il s’agissait d’un foyer précis. Des symptômes après avoir bu du jus ne prouvent pas à eux seuls la cause de la maladie chez votre enfant. Si plusieurs personnes tombent malades après la même rencontre, contactez le service local même sans savoir quel aliment désigner."
+            ]
+          },
+          {
+            "heading": "Suivez la récupération et limitez la transmission",
+            "paragraphs": [
+              "La durée de la maladie dépend de sa cause. Dans une gastro-entérite courante, les vomissements cessent souvent en un à deux jours et la diarrhée peut durer plusieurs jours. Regardez si l’enfant est plus alerte, boit et recommence à uriner à son rythme habituel. Consultez plus tôt s’il va moins bien, a du sang dans les selles, boit peu ou voit ses symptômes revenir. Vous pouvez appeler sans attendre un délai précis.",
+              "Lavez-vous les mains à l’eau et au savon après le change ou le passage aux toilettes avec l’enfant et avant de préparer des aliments. Pendant les vomissements ou la diarrhée, gardez l’enfant à la maison. Suivez ensuite les consignes locales de retour à l’école ou à la crèche. Certaines infections confirmées exigent une autorisation particulière. Demandez quelles règles s’appliquent si l’enfant fait partie d’un foyer de cas groupés."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Vérifiez son éveil, sa respiration, ce qu’il boit et ses urines avant de rechercher l’aliment.",
+          "Les symptômes peuvent débuter longtemps après le dernier repas. Notez les aliments antérieurs, les dates et les autres malades.",
+          "Préparez la solution de réhydratation selon les indications et continuez l’allaitement.",
+          "Signalez les cas possiblement liés aux services locaux de santé publique ou de sécurité alimentaire."
+        ],
+        "faq": [
+          {
+            "q": "Quels symptômes évoquent une maladie d’origine alimentaire ?",
+            "a": "Des vomissements, une diarrhée, des crampes ou de la fièvre après une exposition possible sont compatibles avec cette cause. Des infections transmises entre personnes peuvent donner le même tableau. Le délai, les aliments consommés, les autres cas et parfois une analyse de selles peuvent guider l’enquête."
+          },
+          {
+            "q": "Quand appeler un professionnel pour un tout-petit ?",
+            "a": "Demandez un avis urgent s’il a une diarrhée sanglante, ne garde pas les liquides, urine beaucoup moins, somnole fortement ou semble aller moins bien. Signalez les repas récents, les autres malades et l’heure de la dernière couche mouillée ou du passage aux toilettes."
+          },
+          {
+            "q": "Quels signes nécessitent des secours d’urgence ?",
+            "a": "Une difficulté à respirer ou à réveiller l’enfant, un trouble soudain de la déglutition, une vision double ou une faiblesse marquée nécessitent une aide d’urgence. Des vomissements verts ou sanglants ou une douleur abdominale intense et persistante demandent aussi une évaluation en urgence. Ces signes peuvent avoir d’autres causes."
+          },
+          {
+            "q": "Combien de jours la maladie va-t-elle durer ?",
+            "a": "Il n’y a pas de durée fixe. Lors d’une gastro-entérite courante, les vomissements se calment souvent avant la diarrhée, qui peut durer plusieurs jours. Demandez de l’aide à tout moment si l’enfant ne peut pas boire, semble déshydraté ou présente un signe d’alerte. Suivez les consignes propres à l’infection identifiée."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Évaluez en priorité les signes de déshydratation et les autres symptômes urgents.",
+            "Poursuivez la réhydratation en suivant précisément les consignes de préparation de la solution.",
+            "Rassemblez l’historique des aliments et les renseignements des emballages pour rechercher une exposition commune."
+          ],
+          "bemama": "BeMama prend l’exemple d’un déjeuner de famille pour montrer ce qui aide immédiatement l’enfant et ce qui peut aider ensuite les équipes de santé publique à relier les cas.",
+          "safety": "Difficulté à réveiller l’enfant, à respirer ou à avaler, vision double, faiblesse marquée, vomissements verts ou sanglants ou douleur abdominale intense persistante nécessitent une évaluation en urgence. Demandez un avis médical urgent en cas de diarrhée sanglante, d’impossibilité de boire ou de déshydratation.",
+          "sources": [
+            {
+              "organization": "Centres américains de contrôle et de prévention des maladies",
+              "title": "Symptômes et délais des maladies d’origine alimentaire",
+              "url": "https://www.cdc.gov/food-safety/signs-symptoms/"
+            },
+            {
+              "organization": "Institut national britannique pour l’excellence en santé et en soins",
+              "title": "Prise en charge de la diarrhée et des vomissements avant cinq ans",
+              "url": "https://www.nice.org.uk/guidance/cg84/chapter/Recommendations"
+            },
+            {
+              "organization": "Centres américains de contrôle et de prévention des maladies",
+              "title": "Que faire en cas de suspicion d’intoxication alimentaire",
+              "url": "https://www.cdc.gov/foodborne-outbreaks/what-to-do/"
+            },
+            {
+              "organization": "Cody et ses collègues, Annals of Internal Medicine",
+              "title": "Enquête sur des infections à E. coli liées à du jus de pomme non pasteurisé",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10049198/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Çocuk ortak bir yemekten sonra hastalanırsa",
+        "description": "Birlikte yenen bir öğünden sonra çocuk kusar veya ishal olursa ne yapmalı? Acil belirtileri ve gıda kaynaklı hastalığı araştırırken gerekli bilgileri öğrenin.",
+        "intro": "Aile yemeğinin ertesi sabahı küçük çocuğunuz kusuyor. Aynı yemeğe katılan kuzeni de ishal. Sandviçin içinde ne olduğunu bulmaya çalışmadan önce çocuğun genel durumuna, ne kadar içebildiğine ve en son ne zaman idrar yaptığına bakın. Yemek bir ipucu olabilir. Önce çocuğun şimdi tıbbi yardıma ihtiyacı olup olmadığını belirleyin.",
+        "sections": [
+          {
+            "heading": "Önce çocuğun durumunu kontrol edin",
+            "paragraphs": [
+              "Çocuğu uyandırmak güçse, nefes almakta zorlanıyorsa ya da olası bir gıda maruziyetinden sonra aniden yutma güçlüğü, çift görme veya belirgin güçsüzlük gelişirse acil yardım isteyin. Yeşil kusma, kusmukta kan veya şiddetli ve sürekli karın ağrısı da acil değerlendirme gerektirir. Ekibe yemekten söz edin ama kaynağı araştırmayı yardım istedikten sonraya bırakın.",
+              "Kanlı ishal, içmeyi engelleyen tekrarlayan kusma veya normalden çok daha az idrar, ağız kuruluğu, gözlerde çökme ya da olağandışı uyku hali gibi sıvı kaybı belirtilerinde acil tıbbi görüş alın. Üç aydan küçük bir bebekte 38 °C veya üzeri ateş acil tıbbi değerlendirme gerektirir. Bebekler, özellikle altı aydan küçük olanlar daha çabuk sıvı kaybedebilir. Bir bebek iyi beslenmiyorsa veya durumu sizi kaygılandırıyorsa gecikmeden hekime başvurun."
+            ]
+          },
+          {
+            "heading": "Son yediği şey neden her zaman kaynak değildir?",
+            "paragraphs": [
+              "Gıda kaynaklı hastalık bulantı, kusma, sulu veya kanlı ishal, kramp ya da ateş yapabilir. Doğrudan başka bir kişiden bulaşan enfeksiyon da benzer belirtilere yol açabilir. Belirtilerin ne zaman başladığını ve başka kimin hasta olduğunu sorun. Öğünün sadece bir bölümünü paylaşan veya zaten hastayken evde kalan biri önemli bir ipucu verebilir.",
+              "Yemekle belirtiler arasındaki süre değişir. Örneğin Staphylococcus bakterilerinin ürettiği bir toksin birkaç saat içinde hastalık yapabilir. Campylobacter enfeksiyonunda süre çoğunlukla iki ila beş gündür. Zamanlama tek başına yiyeceği veya mikrobu belirlemez. Belirtilerden önceki hafta boyunca tükettiği yemekleri, ara öğünleri, içecekleri ve gittiği yerleri düşünün."
+            ]
+          },
+          {
+            "heading": "Bir iki yaşındaki çocuğun sıvı almasına yardımcı olun",
+            "paragraphs": [
+              "Çocuk uyanık ve içebiliyorsa sık sık küçük yudumlar sunun. Hazır satılan oral rehidrasyon çözeltisi kusma veya ishallerle kaybedilen su ve tuzları yerine koyar. Tozsa paketinde yazan miktarda güvenli içme suyuyla tam olarak talimata uygun hazırlayın. Emzirmeyi sürdürün. Sağlık uzmanı veya eczacı uygun ürün ve miktar konusunda yardımcı olabilir.",
+              "Sıvı kaybı giderildikten sonra tolere ettiği ölçüde alıştığı yiyeceklere ve normal yoğunlukta sütle beslenmeye dönebilir. Meyve suyu ve gazlı içecekler ishali artırabilir. Küçük çocuğa ishal kesici vermeyin, kalmış antibiyotikleri kullanmayın. Kanlı dışkı değerlendirme gerektirir ve tedavi nedene bağlıdır. Küçük yudumları bile tutamıyorsa tıbbi yardım alın."
+            ]
+          },
+          {
+            "heading": "Hatırlamak kolayken ayrıntıları kaydedin",
+            "paragraphs": [
+              "Çocuğun evde, bakım yerinde ve dışarıda ne yiyip içtiğini, belirtilerin başlangıcını ve başkalarının hastalanıp hastalanmadığını yazın. Varsa fişleri veya ürün etiketlerinin, parti numaralarının ve tarihlerin fotoğraflarını saklayın. Şüpheli yiyeceği sunmayı bırakın. İncelenmesini isteyebilecekleri artan yiyecekleri nasıl saklayacağınızı yerel halk sağlığı veya gıda güvenliği birimine sorun.",
+              "Araştırmacılar 1996’da, ABD’nin birkaç eyaletinde ve Kanada’nın bir eyaletinde pastörize edilmemiş ticari elma suyuyla bağlantılı 70 E. coli enfeksiyonu belirledi. Kişilerin ne tükettiklerini karşılaştırmak kaynağın saptanmasına yardımcı oldu. Bu tek bir salgındı. Bir çocuğun meyve suyu içtikten sonra hastalanması tek başına nedenini göstermez. Aynı etkinlikten sonra birkaç kişi hastalandıysa hangi yiyecekten söz edeceğinizi bilmeseniz de yerel birime ulaşın."
+            ]
+          },
+          {
+            "heading": "İyileşmeyi izleyin ve bulaşmayı azaltın",
+            "paragraphs": [
+              "Hastalığın süresi nedene bağlıdır. Sıradan bir mide-bağırsak enfeksiyonunda kusma çoğunlukla bir iki günde azalır, ishal birkaç gün sürebilir. Çocuğun daha uyanık olup olmadığına, içmesine ve olağan sıklığına yakın idrar yapmasına bakın. Kötüleşme, dışkıda kan, belirtilerin geri gelmesi veya az sıvı alımı olursa daha erken görüş alın. Belirli bir gün sayısını beklemeniz gerekmez.",
+              "Bez değiştirdikten veya tuvalette yardım ettikten sonra ve yemek hazırlamadan önce ellerinizi su ve sabunla yıkayın. Kusma veya ishal sürerken çocuğu kreşe ya da okula göndermeyin. Sonra yerel dönüş kurallarını izleyin. Bazı tanısı konmuş enfeksiyonlarda özel izin gerekebilir. Hastalık bir salgının parçasıysa ne geçerli olduğunu ekibe sorun."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Yiyeceği saptamaya çalışmadan önce uyanıklığı, solunumu, içmeyi ve idrarı kontrol edin.",
+          "Belirtiler son yemekten uzun süre sonra başlayabilir. Önceki yiyecekleri, tarihleri ve başka hastaları not edin.",
+          "Oral rehidrasyon çözeltisini talimata göre hazırlayın ve emzirmeyi sürdürün.",
+          "Birbiriyle bağlantılı olabilecek vakaları yerel halk sağlığı veya gıda güvenliği birimine bildirin."
+        ],
+        "faq": [
+          {
+            "q": "Çocukta hangi belirtiler gıda zehirlenmesini düşündürür?",
+            "a": "Olası bir maruziyet sonrasında kusma, ishal, kramp veya ateş gıda kaynaklı hastalıkla uyumlu olabilir. Kişiden kişiye bulaşan enfeksiyonlar da benzer belirtiler yapar. Zamanlama, yiyecekler, diğer vakalar ve bazen dışkı testi sağlık ekibinin araştırmasına yardımcı olur."
+          },
+          {
+            "q": "Küçük çocuk için ne zaman hekimi aramalıyım?",
+            "a": "Kanlı ishal varsa, sıvıları tutamıyor, normalden çok az idrar yapıyor, çok uykulu veya kötüleşiyor görünüyorsa acil görüş alın. Yakın zamandaki öğünleri, başka hasta kişileri ve son ıslak bezin veya tuvalete gidişin zamanını bildirin."
+          },
+          {
+            "q": "Hangi belirtilerde acil yardım gerekir?",
+            "a": "Solunum güçlüğü, çocuğu uyandırmakta güçlük, ani yutma güçlüğü, çift görme veya belirgin güçsüzlükte acil yardım gerekir. Yeşil ya da kanlı kusma veya şiddetli ve sürekli karın ağrısı da acil değerlendirme gerektirir. Bu belirtilerin gıda zehirlenmesi dışında nedenleri olabilir."
+          },
+          {
+            "q": "Çocuğum kaç gün hasta olur?",
+            "a": "Sabit bir süre yoktur. Olağan gastroenteritte kusma çoğunlukla birkaç gün sürebilen ishalden önce azalır. Çocuk içemiyorsa, sıvı kaybetmiş görünüyorsa veya bir uyarı belirtisi gelişirse her zaman yardım alın. Belirlenen enfeksiyona özgü talimatları izleyin."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026’da gözden geçirildi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Sıvı kaybının klinik bulgularına ve diğer acil belirtilere öncelik verin.",
+            "Güvenli sıvı desteğini sürdürün ve oral rehidrasyon çözeltisinin hazırlama talimatlarına uyun.",
+            "Ortak maruziyet araştırması için öğün bilgilerini ve ambalaj kayıtlarını toplayın."
+          ],
+          "bemama": "BeMama aile yemeği örneğiyle çocuğa hemen neyin yardım ettiğini ve daha sonra halk sağlığı ekibinin vakaları nasıl ilişkilendirebildiğini gösterir.",
+          "safety": "Uyanmada, nefes almada veya yutmada zorluk, çift görme, belirgin güçsüzlük, yeşil veya kanlı kusma ya da şiddetli ve sürekli karın ağrısı acil değerlendirme gerektirir. Kanlı ishal, içememe veya sıvı kaybında acil tıbbi görüş alın.",
+          "sources": [
+            {
+              "organization": "ABD Hastalık Kontrol ve Önleme Merkezleri",
+              "title": "Gıda kaynaklı hastalıkların belirtileri ve başlangıç süreleri",
+              "url": "https://www.cdc.gov/food-safety/signs-symptoms/"
+            },
+            {
+              "organization": "Birleşik Krallık Ulusal Sağlık ve Bakım Mükemmelliği Enstitüsü",
+              "title": "Beş yaş altı çocuklarda ishal ve kusmanın yönetimi",
+              "url": "https://www.nice.org.uk/guidance/cg84/chapter/Recommendations"
+            },
+            {
+              "organization": "ABD Hastalık Kontrol ve Önleme Merkezleri",
+              "title": "Gıda zehirlenmesinden şüphelenildiğinde yapılabilecekler",
+              "url": "https://www.cdc.gov/foodborne-outbreaks/what-to-do/"
+            },
+            {
+              "organization": "Cody ve arkadaşları, Annals of Internal Medicine",
+              "title": "Pastörize edilmemiş elma suyuyla bağlantılı E. coli enfeksiyonlarının incelenmesi",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10049198/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Cuando un niño enferma tras compartir una comida",
+        "description": "Descubre qué hacer si un niño vomita o tiene diarrea tras una comida compartida, cuándo necesita ayuda urgente y qué datos sirven para investigar el origen.",
+        "intro": "A la mañana siguiente de un almuerzo familiar, tu hijo pequeño vomita. Un primo que también estuvo allí tiene diarrea. Antes de intentar averiguar qué llevaban los bocadillos, fíjate en el estado del niño, cuánto puede beber y cuándo orinó por última vez. La comida puede dar una pista. Lo primero es decidir si necesita atención médica ahora.",
+        "sections": [
+          {
+            "heading": "Comprueba primero el estado del niño",
+            "paragraphs": [
+              "Busca ayuda de emergencia si cuesta despertarlo, tiene dificultad para respirar o, tras una posible exposición alimentaria, presenta de repente dificultad para tragar, visión doble o debilidad marcada. El vómito verde, la sangre en el vómito o un dolor abdominal intenso y persistente también precisan evaluación de emergencia. Informa al equipo de la comida, pero deja la investigación del origen para después de pedir ayuda.",
+              "Pide orientación médica urgente si hay diarrea con sangre, vómitos repetidos que impiden beber o signos de deshidratación como mucha menos orina de lo habitual, boca seca, ojos hundidos o somnolencia fuera de lo común. Un bebé menor de tres meses con 38 °C o más necesita evaluación médica urgente. Los bebés, especialmente los menores de seis meses, se deshidratan con más facilidad. Consulta pronto si un bebé se alimenta mal o si te preocupa su estado."
+            ]
+          },
+          {
+            "heading": "Por qué la causa puede estar en una comida anterior",
+            "paragraphs": [
+              "Una enfermedad transmitida por los alimentos puede causar náuseas, vómitos, diarrea acuosa o con sangre, retortijones o fiebre. Las infecciones que se contagian de persona a persona pueden dar síntomas parecidos. Pregunta cuándo empezaron y quién más está enfermo. Alguien que compartió solo un plato o que se quedó en casa porque ya estaba enfermo puede aportar una pista importante.",
+              "El intervalo desde que se come hasta que aparecen síntomas varía. Una toxina producida por bacterias del género Staphylococcus puede causar síntomas en cuestión de horas. Una infección por Campylobacter suele tardar de dos a cinco días. El intervalo por sí solo no identifica el alimento ni el germen. Repasa las comidas, tentempiés, bebidas y salidas de la semana anterior al comienzo de los síntomas."
+            ]
+          },
+          {
+            "heading": "Cómo ayudar a un niño de uno o dos años a retener líquidos",
+            "paragraphs": [
+              "Si está despierto y puede beber, ofrece sorbos pequeños y frecuentes. Una solución comercial de rehidratación oral repone agua y sales perdidas con los vómitos o la diarrea. Si es en polvo, usa exactamente la cantidad de agua potable indicada en el envase. Continúa la lactancia materna. Un profesional sanitario o farmacéutico puede orientarte sobre la cantidad y el producto adecuados para tu hijo.",
+              "Una vez rehidratado, puede reanudar su comida habitual y las tomas de leche sin diluir según las tolere. Los zumos y las bebidas gaseosas pueden empeorar la diarrea. No le des antidiarreicos a un niño pequeño ni uses antibióticos que hayan sobrado. Las heces con sangre requieren valoración y el tratamiento depende de la causa. Si ni siquiera retiene pequeños sorbos, pide ayuda médica."
+            ]
+          },
+          {
+            "heading": "Anota los detalles mientras los recuerdas",
+            "paragraphs": [
+              "Apunta lo que comió y bebió en casa, en la guardería y fuera, cuándo empezaron los síntomas y si otras personas enfermaron. Conserva recibos o fotos de las etiquetas, números de lote y fechas si los tienes. Deja de servir el producto sospechoso. Pregunta al servicio local de salud pública o seguridad alimentaria qué hacer con los restos que puedan necesitar para analizarlos.",
+              "En la investigación de un brote de 1996 se identificaron 70 casos de infección por E. coli asociados a zumo de manzana comercial sin pasteurizar en varios estados de EE. UU. y una provincia de Canadá. Comparar lo que habían consumido los afectados ayudó a identificar la fuente. Fue un brote concreto. Los síntomas tras beber zumo no prueban por sí solos la causa en un niño. Si varias personas enfermaron tras el mismo encuentro, contacta con el servicio local aunque no sepas qué alimento señalar."
+            ]
+          },
+          {
+            "heading": "Observa la recuperación y limita los contagios",
+            "paragraphs": [
+              "La duración depende de la causa. En una gastroenteritis habitual, los vómitos suelen ceder en uno o dos días y la diarrea puede prolongarse varios días. Observa si el niño está más alerta, bebe y vuelve a orinar como de costumbre. Pregunta antes si empeora, aparecen heces con sangre, vuelven los síntomas o ingiere poco. No hay que esperar un número determinado de días para consultar.",
+              "Lávate las manos con agua y jabón después de cambiar pañales o ayudar en el baño y antes de preparar alimentos. Mientras tenga vómitos o diarrea, evita que vaya a la escuela o guardería. Después sigue las normas locales de regreso. Algunas infecciones identificadas requieren una autorización específica. Pregunta qué se aplica si forma parte de un brote."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Comprueba el estado de alerta, la respiración, la ingesta y la orina antes de intentar identificar el alimento.",
+          "Los síntomas pueden empezar bastante después de la última comida. Anota los alimentos anteriores, las fechas y quién más enfermó.",
+          "Usa solución de rehidratación oral según las indicaciones y continúa la lactancia materna.",
+          "Comunica los posibles casos relacionados al servicio local de salud pública o seguridad alimentaria."
+        ],
+        "faq": [
+          {
+            "q": "¿Qué síntomas sugieren una enfermedad transmitida por alimentos en un niño?",
+            "a": "Los vómitos, la diarrea, los retortijones o la fiebre después de una posible exposición son compatibles. También existen infecciones entre personas con síntomas similares. El momento de inicio, los alimentos, otros casos y a veces un análisis de heces ayudan al equipo sanitario a investigarlo."
+          },
+          {
+            "q": "¿Cuándo debo llamar por un niño pequeño?",
+            "a": "Busca orientación urgente si tiene diarrea con sangre, no retiene líquidos, orina mucho menos de lo normal, está muy somnoliento o parece empeorar. Indica las comidas recientes, los otros enfermos y el último pañal mojado o visita al baño."
+          },
+          {
+            "q": "¿Qué señales requieren ayuda de emergencia?",
+            "a": "Dificultad para respirar o para despertar al niño, dificultad repentina para tragar, visión doble o debilidad marcada precisan ayuda de emergencia. También el vómito verde, el vómito con sangre y el dolor abdominal intenso y persistente. Pueden tener otras causas aparte de una enfermedad transmitida por los alimentos."
+          },
+          {
+            "q": "¿Cuántos días estará enfermo?",
+            "a": "No hay una duración fija. En la gastroenteritis habitual, los vómitos suelen mejorar antes que la diarrea, que puede continuar varios días. Pide ayuda en cualquier momento si no puede beber, parece deshidratado o aparece una señal de alarma. Sigue las indicaciones para la infección concreta."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Prioriza los signos clínicos de deshidratación y otros síntomas urgentes.",
+            "Mantén una reposición segura de líquidos y sigue las instrucciones para preparar la solución de rehidratación oral.",
+            "Reúne datos de los alimentos y envases para investigar una posible exposición común."
+          ],
+          "bemama": "BeMama sigue un almuerzo familiar para distinguir lo que ayuda al niño de inmediato de lo que después permite a salud pública relacionar los casos.",
+          "safety": "Si cuesta despertar al niño, le cuesta respirar o tragar, ve doble, presenta gran debilidad, vómito verde o con sangre o dolor abdominal intenso y persistente, busca atención de emergencia. La diarrea con sangre, la imposibilidad de beber o la deshidratación requieren valoración médica urgente.",
+          "sources": [
+            {
+              "organization": "Centros para el Control y la Prevención de Enfermedades de Estados Unidos",
+              "title": "Síntomas y tiempo de aparición en enfermedades transmitidas por alimentos",
+              "url": "https://www.cdc.gov/food-safety/signs-symptoms/"
+            },
+            {
+              "organization": "Instituto Nacional para la Excelencia en la Salud y la Atención del Reino Unido",
+              "title": "Manejo de la diarrea y los vómitos en menores de cinco años",
+              "url": "https://www.nice.org.uk/guidance/cg84/chapter/Recommendations"
+            },
+            {
+              "organization": "Centros para el Control y la Prevención de Enfermedades de Estados Unidos",
+              "title": "Qué hacer si sospechas una enfermedad transmitida por alimentos",
+              "url": "https://www.cdc.gov/foodborne-outbreaks/what-to-do/"
+            },
+            {
+              "organization": "Cody y colaboradores, Annals of Internal Medicine",
+              "title": "Investigación de infecciones por E. coli relacionadas con zumo de manzana sin pasteurizar",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10049198/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Quando uma criança passa mal depois de uma refeição em grupo",
+        "description": "Saiba o que fazer se uma criança vomitar ou tiver diarreia após uma refeição em grupo, quais sintomas exigem urgência e o que anotar para ajudar a investigar.",
+        "intro": "Na manhã depois de um almoço em família, seu filho pequeno vomita. Um primo que também estava lá está com diarreia. Antes de tentar lembrar o recheio dos sanduíches, veja como a criança está, quanto consegue beber e quando urinou pela última vez. A refeição pode ser uma pista. A primeira decisão é se ela precisa de ajuda médica agora.",
+        "sections": [
+          {
+            "heading": "Verifique primeiro o estado da criança",
+            "paragraphs": [
+              "Busque ajuda de emergência se for difícil acordá-la, se ela tiver dificuldade para respirar ou se, após uma possível exposição alimentar, surgirem de repente dificuldade para engolir, visão dupla ou fraqueza acentuada. Vômito verde, sangue no vômito ou dor abdominal intensa e persistente também exigem avaliação de emergência. Conte à equipe sobre a refeição, mas peça ajuda antes de investigar a origem.",
+              "Peça orientação médica urgente se houver diarreia com sangue, vômitos repetidos que impeçam a ingestão de líquidos ou sinais de desidratação como muito menos urina, boca seca, olhos fundos ou sonolência incomum. Um bebê com menos de três meses e temperatura de 38 °C ou mais precisa de avaliação médica urgente. Bebês, especialmente os menores de seis meses, podem se desidratar mais rapidamente. Procure orientação cedo se o bebê mamar mal ou se você estiver preocupado."
+            ]
+          },
+          {
+            "heading": "Por que o último alimento pode não ser a causa",
+            "paragraphs": [
+              "Uma doença transmitida por alimentos pode causar enjoo, vômitos, diarreia aquosa ou com sangue, cólicas ou febre. Uma infecção transmitida diretamente de outra pessoa pode dar sintomas semelhantes. Pergunte quando começaram e quem mais está doente. Uma pessoa que só compartilhou parte da refeição ou que ficou em casa porque já estava doente pode fornecer uma pista importante.",
+              "O tempo até o início dos sintomas varia. Uma toxina produzida por bactérias do gênero Staphylococcus pode causar sintomas em poucas horas. Na infecção por Campylobacter, costumam surgir em dois a cinco dias. O tempo sozinho não identifica o alimento nem o microrganismo. Relembre refeições, lanches, bebidas e passeios na semana anterior aos sintomas."
+            ]
+          },
+          {
+            "heading": "Como ajudar crianças de um ou dois anos a manter a hidratação",
+            "paragraphs": [
+              "Se está acordada e consegue beber, ofereça pequenos goles frequentes. A solução de reidratação oral comercial repõe água e sais perdidos nos vômitos ou na diarreia. Se vier em pó, misture exatamente com a quantidade de água potável indicada na embalagem. Continue a amamentação. Um profissional de saúde ou farmacêutico pode orientar quanto ao produto e à quantidade para seu filho.",
+              "Depois de reidratada, a criança pode voltar aos alimentos habituais e ao leite na concentração normal, conforme tolerar. Sucos e refrigerantes podem piorar a diarreia. Não dê antidiarreico a uma criança pequena nem use sobras de antibióticos. Fezes com sangue precisam ser avaliadas e o tratamento depende da causa. Se nem pequenos goles permanecem no estômago, procure ajuda médica."
+            ]
+          },
+          {
+            "heading": "Registre os detalhes enquanto ainda se lembra",
+            "paragraphs": [
+              "Anote o que a criança comeu e bebeu em casa, na creche e fora, quando começaram os sintomas e se outras pessoas adoeceram. Guarde recibos ou fotos de rótulos, números de lote e datas, se disponíveis. Pare de servir o produto suspeito. Pergunte ao serviço local de saúde pública ou segurança dos alimentos como guardar sobras que talvez precisem ser analisadas.",
+              "Na investigação de um surto em 1996, pesquisadores identificaram 70 casos de infecção por E. coli associados a suco de maçã comercial não pasteurizado em vários estados americanos e uma província canadense. Comparar o que as pessoas consumiram ajudou a identificar a fonte. Foi um surto específico. Ter sintomas depois de tomar suco não prova a causa em uma criança. Se várias pessoas passaram mal após o mesmo encontro, contate o serviço local mesmo sem saber que alimento indicar."
+            ]
+          },
+          {
+            "heading": "Acompanhe a recuperação e reduza a transmissão",
+            "paragraphs": [
+              "A duração depende da causa. Em uma gastroenterite comum, os vômitos costumam melhorar em um ou dois dias, enquanto a diarreia pode continuar por vários dias. Observe se a criança está mais alerta, consegue beber e volta a urinar perto do habitual. Procure orientação antes se piorar, se houver sangue nas fezes, se voltar a passar mal ou se ingerir pouco. Você pode ligar sem esperar um número específico de dias.",
+              "Lave as mãos com água e sabão após trocar fraldas ou ajudar a criança no banheiro e antes de preparar comida. Evite escola ou creche enquanto ela tiver vômitos ou diarreia. Depois, siga as orientações locais de retorno. Algumas infecções confirmadas exigem liberação específica. Pergunte à equipe o que se aplica se a doença fizer parte de um surto."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Verifique se está alerta, respira, bebe e urina antes de tentar identificar o alimento.",
+          "Os sintomas podem começar bem depois da última refeição. Anote os alimentos anteriores, as datas e quem mais adoeceu.",
+          "Use solução de reidratação oral conforme a orientação e continue a amamentação.",
+          "Comunique os possíveis casos relacionados ao serviço local de saúde pública ou segurança dos alimentos."
+        ],
+        "faq": [
+          {
+            "q": "Quais sintomas sugerem uma doença transmitida por alimentos?",
+            "a": "Vômitos, diarreia, cólicas ou febre depois de uma possível exposição são compatíveis. Infecções transmitidas entre pessoas podem causar sintomas parecidos. O tempo, os alimentos, outros casos e às vezes um exame de fezes ajudam a equipe de saúde a investigar."
+          },
+          {
+            "q": "Quando devo ligar para um profissional por uma criança pequena?",
+            "a": "Peça orientação urgente se houver diarreia com sangue, se não conseguir reter líquidos, urinar muito menos, estiver muito sonolenta ou parecer piorar. Informe as refeições recentes, outras pessoas doentes e a última fralda molhada ou ida ao banheiro."
+          },
+          {
+            "q": "Que sinais exigem emergência?",
+            "a": "Dificuldade para respirar ou para acordar a criança, dificuldade súbita para engolir, visão dupla ou fraqueza importante exigem emergência. Vômito verde ou com sangue, ou dor abdominal intensa e persistente, também precisam de avaliação de emergência. Esses sinais podem ter outras causas."
+          },
+          {
+            "q": "Quantos dias a criança ficará doente?",
+            "a": "Não há duração fixa. Na gastroenterite comum, os vômitos costumam melhorar antes da diarreia, que pode durar vários dias. Peça ajuda a qualquer momento se ela não conseguir beber, parecer desidratada ou tiver um sinal de alerta. Siga as orientações específicas para a infecção."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Dê prioridade aos sinais de desidratação e a outros sintomas urgentes.",
+            "Mantenha a reposição segura de líquidos e siga as instruções para preparar a solução de reidratação oral.",
+            "Reúna informações sobre alimentos e embalagens para ajudar na investigação de uma exposição comum."
+          ],
+          "bemama": "A BeMama acompanha um almoço em família para mostrar o que ajuda imediatamente a criança e o que depois pode ajudar a saúde pública a relacionar os casos.",
+          "safety": "Dificuldade para acordar, respirar ou engolir, visão dupla, fraqueza acentuada, vômito verde ou com sangue ou dor abdominal intensa e persistente exigem avaliação de emergência. Procure avaliação urgente para diarreia com sangue, incapacidade de beber ou desidratação.",
+          "sources": [
+            {
+              "organization": "Centros de Controle e Prevenção de Doenças dos Estados Unidos",
+              "title": "Sintomas e tempo de início das doenças transmitidas por alimentos",
+              "url": "https://www.cdc.gov/food-safety/signs-symptoms/"
+            },
+            {
+              "organization": "Instituto Nacional de Excelência em Saúde e Cuidados do Reino Unido",
+              "title": "Manejo da diarreia e dos vômitos em menores de cinco anos",
+              "url": "https://www.nice.org.uk/guidance/cg84/chapter/Recommendations"
+            },
+            {
+              "organization": "Centros de Controle e Prevenção de Doenças dos Estados Unidos",
+              "title": "O que fazer se você suspeitar de uma doença transmitida por alimentos",
+              "url": "https://www.cdc.gov/foodborne-outbreaks/what-to-do/"
+            },
+            {
+              "organization": "Cody e colaboradores, Annals of Internal Medicine",
+              "title": "Investigação de infecções por E. coli relacionadas a suco de maçã não pasteurizado",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10049198/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5841.webp",
+    "heroAlt": {
+      "en": "An adult photographs the code on a food carton beside a child's divided plate.",
+      "fa": "بزرگسالی کنار بشقاب چندخانهٔ کودک از کد روی جعبهٔ غذا عکس می‌گیرد.",
+      "ar": "يلتقط شخص بالغ صورة للرمز على علبة طعام بجانب طبق طفل مقسّم.",
+      "es": "Una persona adulta fotografía el código de un envase junto a un plato infantil con divisiones.",
+      "fr": "Un adulte photographie le code d’un emballage à côté d’une assiette d’enfant à compartiments.",
+      "pt": "Uma pessoa adulta fotografa o código de uma embalagem ao lado de um prato infantil com divisórias.",
+      "tr": "Bir yetişkin, çocuğun bölmeli tabağının yanındaki gıda kutusunun üzerindeki kodu fotoğraflıyor."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "When a child gets sick after a shared meal",
+      "description": "Learn what to do if a child vomits or has diarrhoea after a shared meal, which symptoms need urgent care, and what details can help trace a foodborne illness."
+    },
+    "fa": {
+      "title": "وقتی کودک پس از یک وعدهٔ غذایی مشترک بیمار می‌شود",
+      "description": "اگر کودک بعد از غذای مشترک استفراغ یا اسهال دارد، ببینید ابتدا چه چیزی را بررسی کنید، کدام نشانه‌ها فوری‌اند و چه اطلاعاتی به یافتن منبع بیماری کمک می‌کند."
+    },
+    "ar": {
+      "title": "إذا مرض الطفل بعد وجبة أكلها مع الآخرين",
+      "description": "ماذا تفعل إذا تقيّأ الطفل أو أصيب بالإسهال بعد وجبة مشتركة؟ تعرّف إلى العلامات التي تستدعي رعاية عاجلة والتفاصيل التي تساعد على تتبّع مصدر المرض."
+    },
+    "fr": {
+      "title": "Quand un enfant tombe malade après un repas partagé",
+      "description": "Que faire si un enfant vomit ou a la diarrhée après un repas partagé ? Repérez les signes urgents et les détails qui aident à rechercher l’aliment en cause."
+    },
+    "tr": {
+      "title": "Çocuk ortak bir yemekten sonra hastalanırsa",
+      "description": "Birlikte yenen bir öğünden sonra çocuk kusar veya ishal olursa ne yapmalı? Acil belirtileri ve gıda kaynaklı hastalığı araştırırken gerekli bilgileri öğrenin."
+    },
+    "es": {
+      "title": "Cuando un niño enferma tras compartir una comida",
+      "description": "Descubre qué hacer si un niño vomita o tiene diarrea tras una comida compartida, cuándo necesita ayuda urgente y qué datos sirven para investigar el origen."
+    },
+    "pt": {
+      "title": "Quando uma criança passa mal depois de uma refeição em grupo",
+      "description": "Saiba o que fazer se uma criança vomitar ou tiver diarreia após uma refeição em grupo, quais sintomas exigem urgência e o que anotar para ajudar a investigar."
+    }
+  }
+}

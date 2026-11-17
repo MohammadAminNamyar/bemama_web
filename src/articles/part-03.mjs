@@ -1,5 +1,6 @@
 // Reviewed Part 3 release; preparation records remain outside the application.
 import additionalRecords from './part-03-additions.mjs';
+import batchTwoRecords from './part-03-batch2.mjs';
 import record0 from './part-03/6247.json' with { type: 'json' };
 import record1 from './part-03/6241.json' with { type: 'json' };
 import record2 from './part-03/6236.json' with { type: 'json' };
@@ -70,6 +71,6 @@ import record66 from './part-03/6042.json' with { type: 'json' };
 import record67 from './part-03/6035.json' with { type: 'json' };
 import record68 from './part-03/6013.json' with { type: 'json' };
 const records = [record0,record1,record2,record3,record4,record5,record6,record7,record8,record9,record10,record11,record12,record13,record14,record15,record16,record17,record18,record19,record20,record21,record22,record23,record24,record25,record26,record27,record28,record29,record30,record31,record32,record33,record34,record35,record36,record37,record38,record39,record40,record41,record42,record43,record44,record45,record46,record47,record48,record49,record50,record51,record52,record53,record54,record55,record56,record57,record58,record59,record60,record61,record62,record63,record64,record65,record66,record67,record68];
-const allRecords = [...records, ...additionalRecords];
+const allRecords = [...records, ...additionalRecords, ...batchTwoRecords];
 export const part3Articles = allRecords.map(record => structuredClone(record.article));
 export const part3SearchOverrides = Object.fromEntries(allRecords.flatMap(record => Object.entries(record.seo).map(([lang, metadata]) => [`${lang}/${record.article.slug}`, metadata])));

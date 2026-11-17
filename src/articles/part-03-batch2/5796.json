@@ -1,0 +1,611 @@
+{
+  "sourceId": "5796",
+  "article": {
+    "slug": "baby-and-child/preschool-counting-objects-and-number-games",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "Preschool maths that starts with setting the table",
+        "description": "Help a preschooler connect counting words to real quantities with spoons, a homemade number path and a simple game about sharing equal parts.",
+        "intro": "There are three bowls on the table. Your child can say the numbers up to ten, but how many spoons should they bring? Hand them the spoons and invite them to put one by each bowl. When every bowl has one, ask how many places are ready. A count has just answered a real question.",
+        "sections": [
+          {
+            "heading": "Give each object one number",
+            "paragraphs": [
+              "Start with a few large objects your child can move. Slide one spoon at a time into a row, saying one number with each move. After the last one, say the total again: “One, two, three. Three spoons altogether.” If they miss a spoon or count one twice, move the counted spoons to the other side and try together.",
+              "Put an apple, an orange and a banana in a basket. The objects do not have to match to be counted as three pieces of fruit. Ask what happens if one comes out or another goes in. Line up two groups side by side to compare which has more, fewer or the same number. Stop when the child wants to move on."
+            ]
+          },
+          {
+            "heading": "Make a number path you can play",
+            "paragraphs": [
+              "Draw five or ten big numbered spaces in a straight line on paper. Start a large toy on the first number. Take turns moving it one or two spaces, saying the numbers you land on. From three, two steps sound like “four, five.” If your child is still learning the sequence, you can say the numbers while they move the toy. A short counting rhyme can carry the rhythm into tidying up.",
+              "In a study with preschoolers from low-income backgrounds, children played a linear number board game for about an hour in total. Their counting, number recognition, comparison and number-line estimates improved. Children playing a similar colour game did not show the same gains. The study tested these skills in that group. It gives families a reason to try a game without promising a particular result for their child."
+            ]
+          },
+          {
+            "heading": "Show the same idea in different ways",
+            "paragraphs": [
+              "Fold a paper circle into two equal parts and open it again. Ask the child to show a half. Fold it again into four equal parts and fit two quarters over one half. An adult can also divide a cooled pancake into equal portions at the table. Use words like “equal” as you look at the pieces together. An uneven break creates two pieces, but they are not necessarily halves.",
+              "On a simple counting frame, slide three attached beads to one side and move one more over. Count the group again. Bead colours can help you see groups. For this activity the colours have no special numerical value. If you already have number cards, place the card for four by the group of four beads. Let your child show the number with objects, a drawing or their home language before asking for a written answer."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Give counting a purpose, such as matching one spoon to each bowl.",
+          "Connect the last number you say to how many objects there are altogether.",
+          "Use short, playful turns and materials your child can handle safely."
+        ],
+        "faq": [
+          {
+            "q": "How can I make maths easier to practise at home?",
+            "a": "Choose an ordinary job with a small number of things to count. Try setting places or sorting socks. Show one step and ask the child to take the next."
+          },
+          {
+            "q": "Are number cards the best way to teach early maths?",
+            "a": "Cards can link a written number to a quantity. Count real objects together, then find the matching card. If your child can recite a card but cannot give you that many objects, practise with smaller groups."
+          },
+          {
+            "q": "Can a preschooler use an abacus?",
+            "a": "Yes. Use a sturdy frame with securely attached beads. Move a few beads together, count them and add or take away one. Formal abacus rules are not needed for a first counting game."
+          },
+          {
+            "q": "What is the simplest way to start counting?",
+            "a": "Count a few things already within reach, touching or moving each item once. Repeat the last number as the total, then let your child choose a different group."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 17, 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Match one counting word to one object and name the total.",
+            "Use a short linear path to practise moving and counting on.",
+            "Ask the child to show a quantity in more than one way."
+          ],
+          "bemama": "BeMama suggests noticing the question your child wants to answer. “Are there enough spoons for everyone?” gives you a reason to count again together.",
+          "safety": "Choose large play pieces and a counting frame with secure beads. Keep small loose pieces away from children who may put them in their mouths. Adults should handle hot pans and sharp utensils.",
+          "sources": [
+            {
+              "organization": "US Institute of Education Sciences",
+              "title": "Teaching early maths at home with families and caregivers",
+              "url": "https://ies.ed.gov/use-work/resource-library/resource/other-resource/teaching-math-young-children-families-and-caregivers"
+            },
+            {
+              "organization": "What Works Clearinghouse",
+              "title": "Teaching maths to young children",
+              "url": "https://ies.ed.gov/ncee/WWC/PracticeGuide/18"
+            },
+            {
+              "organization": "Ramani and Siegler, Child Development",
+              "title": "Preschool number knowledge after playing number board games",
+              "url": "https://doi.org/10.1111/j.1467-8624.2007.01131.x"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "ریاضی پیش‌دبستانی را از چیدن سفره شروع کنید",
+        "description": "با تقسیم قاشق‌ها، ساختن یک مسیر عددی روی کاغذ و تا کردن دایره به قسمت‌های مساوی، به کودک کمک کنید واژه‌های عددی را به مقدار واقعی ربط دهد.",
+        "intro": "سه کاسه روی میز است. کودکتان تا ده می‌شمرد، اما چند قاشق باید بیاورد؟ قاشق‌ها را به او بدهید و بخواهید کنار هر کاسه یکی بگذارد. وقتی هر کاسه یک قاشق داشت، بپرسید چند جای غذا آماده شده است. این بار شمردن به سؤالی واقعی پاسخ داد.",
+        "sections": [
+          {
+            "heading": "برای هر شیء یک عدد بگویید",
+            "paragraphs": [
+              "با چند وسیلهٔ بزرگ که کودک بتواند جابه‌جا کند شروع کنید. قاشق‌ها را یکی‌یکی در یک ردیف بگذارید و با هر حرکت یک عدد بگویید. بعد از آخری جمع کل را تکرار کنید: «یک، دو، سه. روی هم سه قاشق.» اگر یکی را جا انداخت یا دوبار شمرد، قاشق‌های شمرده‌شده را به طرف دیگر ببرید و با هم دوباره امتحان کنید.",
+              "سیب، پرتقال و موزی در سبد بگذارید. لازم نیست اشیا شبیه هم باشند تا بتوانید سه میوه بشمارید. بپرسید اگر یکی بیرون بیاید یا میوهٔ دیگری به سبد اضافه شود چه تغییری می‌کند. دو گروه را در دو ردیف کنار هم بگذارید و ببینید کدام بیشتر یا کمتر است یا هر دو برابرند. وقتی کودک فعالیت دیگری خواست بازی را تمام کنید."
+            ]
+          },
+          {
+            "heading": "یک مسیر عددی برای بازی بسازید",
+            "paragraphs": [
+              "روی کاغذ پنج یا ده خانهٔ بزرگ شماره‌دار در یک خط بکشید. اسباب‌بازی بزرگی را روی اولین شماره بگذارید. به نوبت آن را یک یا دو خانه جلو ببرید و عدد هر خانه‌ای را که روی آن می‌گذارید بگویید. از سه، دو قدم می‌شود «چهار، پنج». اگر کودک هنوز ترتیب اعداد را یاد می‌گیرد، شما عددها را بگویید و او اسباب‌بازی را حرکت دهد. موقع جمع‌وجور کردن هم می‌توانید ضرباهنگ بازی را با شعر کوتاه شمارش ادامه دهید.",
+              "در پژوهشی با کودکان پیش‌دبستانی خانواده‌های کم‌درآمد، کودکان در مجموع حدود یک ساعت روی مسیر خطیِ شماره‌دار بازی کردند. عملکردشان در شمردن، شناختن عددها، مقایسهٔ آن‌ها و تخمین جای عدد روی خط اعداد بهتر شد. کودکانی که بازی مشابهی با رنگ‌ها انجام دادند، همان پیشرفت را نشان ندادند. پژوهش این مهارت‌ها را در همان گروه بررسی کرده است. می‌توانید بازی را بدون وعدهٔ نتیجه‌ای مشخص برای فرزندتان امتحان کنید."
+            ]
+          },
+          {
+            "heading": "یک مفهوم را به چند شکل نشان دهید",
+            "paragraphs": [
+              "دایرهٔ کاغذی را به دو قسمت مساوی تا کنید و باز کنید. بخواهید کودک یک نیمه را نشان دهد. دوباره تا کنید تا چهار قسمت مساوی بسازید و دو ربع را روی یک نیمه بگذارید. سر میز، یک بزرگسال می‌تواند پنکیک خنک‌شده‌ای را هم به قسمت‌های برابر تقسیم کند. هنگام دیدن تکه‌ها از واژهٔ «مساوی» استفاده کنید. شکستن نابرابر هم دو تکه می‌سازد، اما آن‌ها لزوماً نیمه نیستند.",
+              "روی چرتکه‌ای ساده سه مهرهٔ متصل به میله را به یک طرف ببرید و یک مهرهٔ دیگر کنارش بگذارید. گروه را دوباره بشمارید. رنگ مهره‌ها کمک می‌کند گروه‌ها را ببینید، اما در این بازی رنگ ارزش عددی خاصی ندارد. اگر کارت عدد دارید، کارت چهار را کنار چهار مهره بگذارید. پیش از خواستن پاسخ نوشتاری، بگذارید کودک مقدار را با وسایل، نقاشی یا به زبان خانه نشان دهد."
+            ]
+          }
+        ],
+        "takeaways": [
+          "برای شمردن هدفی تعیین کنید، مثل گذاشتن یک قاشق کنار هر کاسه.",
+          "آخرین عددی را که می‌گویید به تعداد کل اشیا ربط دهید.",
+          "بازی را کوتاه، نوبتی و با وسایلی انجام دهید که کودک بتواند با ایمنی در دست بگیرد."
+        ],
+        "faq": [
+          {
+            "q": "چطور تمرین ریاضی در خانه را آسان‌تر کنیم؟",
+            "a": "کاری روزمره انتخاب کنید که چند چیز برای شمردن داشته باشد، مثلاً چیدن سفره یا مرتب کردن جوراب‌ها. یک مرحله را نشان دهید و مرحلهٔ بعد را به کودک بسپارید."
+          },
+          {
+            "q": "آیا کارت‌های عدد بهترین روش آموزش ریاضی هستند؟",
+            "a": "کارت می‌تواند شکل نوشتاری عدد را به مقدار آن وصل کند. اول اشیای واقعی را بشمارید و بعد کارت مربوط را پیدا کنید. اگر کودک عدد روی کارت را می‌گوید اما نمی‌تواند همان تعداد وسیله بدهد، با گروه کوچک‌تری تمرین کنید."
+          },
+          {
+            "q": "آیا کودک پیش‌دبستانی می‌تواند با چرتکه بازی کند؟",
+            "a": "بله. چرتکه‌ای محکم با مهره‌هایی که به میله متصل‌اند انتخاب کنید. چند مهره را کنار هم حرکت دهید و بشمارید، بعد یکی اضافه یا کم کنید. برای اولین بازی شمارش نیازی به دانستن قواعد رسمی چرتکه نیست."
+          },
+          {
+            "q": "ساده‌ترین راه شروع شمردن چیست؟",
+            "a": "چند چیز دم‌دست را بشمارید و هر کدام را فقط یک بار لمس یا حرکت دهید. آخرین عدد را به عنوان تعداد کل تکرار کنید و بگذارید کودک گروه دیگری را انتخاب کند."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۷ نوامبر ۲۰۲۶ بررسی شد",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "به هر شیء یک واژهٔ عددی نسبت دهید و در پایان تعداد کل را بگویید.",
+            "با مسیر صاف و کوتاه، حرکت کردن و ادامه دادن شمارش از یک عدد را تمرین کنید.",
+            "از کودک بخواهید یک مقدار را به بیش از یک روش نشان دهد."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند به پرسشی توجه کنید که کودک می‌خواهد جوابش را بداند. «برای همه قاشق داریم؟» دلیل خوبی برای دوباره شمردن با هم است.",
+          "safety": "قطعات بزرگ برای بازی و چرتکه با مهره‌های محکم انتخاب کنید. اجزای کوچک و جداشدنی را از دسترس کودکی که ممکن است آن‌ها را به دهان ببرد دور نگه دارید. ظرف داغ و وسیلهٔ تیز را بزرگسال به دست بگیرد.",
+          "sources": [
+            {
+              "organization": "مؤسسهٔ علوم آموزش ایالات متحده",
+              "title": "آموزش ریاضی مقدماتی در خانه همراه خانواده و مراقبان",
+              "url": "https://ies.ed.gov/use-work/resource-library/resource/other-resource/teaching-math-young-children-families-and-caregivers"
+            },
+            {
+              "organization": "مرکز ارزیابی روش‌های آموزشی وات ورکس کلیرینگ‌هاوس",
+              "title": "آموزش ریاضی به کودکان کم‌سن",
+              "url": "https://ies.ed.gov/ncee/WWC/PracticeGuide/18"
+            },
+            {
+              "organization": "رامانی و سیگلر، مجلهٔ رشد کودک",
+              "title": "دانش عددی کودکان پیش‌دبستانی پس از بازی با مسیرهای شماره‌دار",
+              "url": "https://doi.org/10.1111/j.1467-8624.2007.01131.x"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "رياضيات ما قبل المدرسة تبدأ من ترتيب المائدة",
+        "description": "ساعد طفلك على ربط الأعداد بكميات حقيقية عبر توزيع الملاعق، ورسم مسار مرقّم في المنزل، ولعبة بسيطة لتقسيم دائرة إلى أجزاء متساوية.",
+        "intro": "على الطاولة ثلاثة أوعية. يستطيع طفلك ترديد الأعداد إلى العشرة، لكن كم ملعقة عليه أن يحضر؟ أعطه الملاعق وادعه إلى وضع واحدة بجانب كل وعاء. حين يصبح لكل وعاء ملعقة، اسأله كم مكانًا أصبح جاهزًا. هكذا أجاب العد عن سؤال حقيقي.",
+        "sections": [
+          {
+            "heading": "لكل غرض عدد واحد",
+            "paragraphs": [
+              "ابدأ ببضعة أغراض كبيرة يستطيع الطفل تحريكها. حرّك ملعقة كل مرة لتشكّل صفًا واذكر عددًا مع كل حركة. بعد الأخيرة أعد ذكر المجموع: «واحدة، اثنتان، ثلاث. لدينا ثلاث ملاعق بالمجموع». إذا نسي ملعقة أو عدّ واحدة مرتين فانقلا ما عُدّ إلى الجانب الآخر وحاولا معًا.",
+              "ضع تفاحة وبرتقالة وموزة في سلّة. لا يشترط أن تتشابه الأشياء كي نعدّ ثلاث ثمرات. اسأل ماذا يحدث لو أخرجتما ثمرة أو أضفتما أخرى. صفّ مجموعتين جنبًا إلى جنب وقارنا أيهما أكثر أو أقل أو هل العدد متساوٍ. توقّفا حين يرغب الطفل في نشاط آخر."
+            ]
+          },
+          {
+            "heading": "اصنعا مسار أعداد للعب",
+            "paragraphs": [
+              "ارسم على ورقة خمس خانات كبيرة أو عشرًا في صف مستقيم ورقّمها. ضع لعبة كبيرة على أول عدد. تناوبا تحريكها خانة أو اثنتين مع نطق العدد عند النزول على كل خانة. من الثلاثة تصبح الخطوتان «أربعة، خمسة». إذا كان الطفل ما زال يتعلم التسلسل فاذكر الأعداد بينما يحرك اللعبة. ويمكن لأغنية عد قصيرة أن ترافق ترتيب الأغراض بعد اللعب.",
+              "في دراسة شملت أطفالًا قبل المدرسة من أسر منخفضة الدخل، لعب الأطفال على مسار أعداد مستقيم مدة إجمالية تقارب ساعة. تحسن أداؤهم في العد والتعرف إلى الأعداد ومقارنتها وتقدير مواقعها على خط الأعداد. أما الأطفال الذين لعبوا لعبة مماثلة تعتمد الألوان فلم يظهروا المكاسب نفسها. اختبرت الدراسة تلك المهارات في هذه المجموعة. يمكن للأسرة تجربة اللعبة دون وعد الطفل بنتيجة محددة."
+            ]
+          },
+          {
+            "heading": "اعرض الفكرة نفسها بطرق مختلفة",
+            "paragraphs": [
+              "اطوِ دائرة ورقية لتقسمها إلى جزأين متساويين ثم افتحها. اطلب إلى الطفل أن يريك نصفًا. اطوها مرة أخرى لتصنع أربعة أجزاء متساوية، وضع ربعين فوق أحد النصفين. ويمكن لشخص بالغ أن يقسم فطيرة باردة على المائدة إلى حصص متساوية. استخدم كلمة «متساوٍ» وأنتما تنظران إلى القطع. الكسر غير المتساوي يعطي قطعتين لكنهما ليستا بالضرورة نصفين.",
+              "في معداد بسيط حرّك ثلاث خرزات مثبتة على القضيب إلى جانب واحد ثم أضف واحدة. عدّا المجموعة مرة أخرى. قد تساعد الألوان على رؤية المجموعات، لكن ليس للون قيمة عددية خاصة في هذه اللعبة. إذا كانت لديكم بطاقات أعداد فضع بطاقة الأربعة بجانب الخرزات الأربع. دع الطفل يبيّن الكمية بأغراض أو رسم أو بكلمات لغة البيت قبل أن تطلب جوابًا مكتوبًا."
+            ]
+          }
+        ],
+        "takeaways": [
+          "اجعل للعد غرضًا، كوضع ملعقة بجوار كل وعاء.",
+          "اربط آخر عدد تنطق به بعدد الأغراض كلها.",
+          "تبادلا الأدوار لفترات قصيرة وبأدوات يستطيع الطفل التعامل معها بأمان."
+        ],
+        "faq": [
+          {
+            "q": "كيف أسهّل ممارسة الرياضيات في البيت؟",
+            "a": "اختر مهمة يومية فيها أشياء قليلة للعد. جرّبا ترتيب أماكن الطعام أو فرز الجوارب. اعرض خطوة ثم ادع الطفل إلى تنفيذ التالية."
+          },
+          {
+            "q": "هل بطاقات الأعداد أفضل وسيلة لتعلّم الرياضيات المبكرة؟",
+            "a": "يمكنها وصل العدد المكتوب بكميته. عدا معًا أغراضًا حقيقية ثم ابحثا عن البطاقة المطابقة. إذا عرف الطفل العدد على البطاقة ولم يستطع إعطاءك تلك الكمية، فتدرّبا على مجموعات أصغر."
+          },
+          {
+            "q": "هل يستطيع طفل ما قبل المدرسة استخدام المعداد؟",
+            "a": "نعم. اختر إطارًا متينًا بخرزات مثبتة جيدًا. حرّكا بضع خرزات وعدّاها ثم أضيفا واحدة إلى المجموعة أو أبعدا واحدة. لا حاجة إلى قواعد المعداد الرسمية في أول لعبة عد."
+          },
+          {
+            "q": "ما أبسط طريقة للبدء بالعد؟",
+            "a": "عدّا أشياء قليلة في متناول اليد، مع لمس كل غرض أو تحريكه مرة واحدة. كرّر العدد الأخير بوصفه المجموع، ثم دع الطفل يختار مجموعة أخرى."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٧ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "اربط كلمة عددية واحدة بكل غرض واذكر المجموع.",
+            "استعمل مسارًا قصيرًا مستقيمًا للتدرب على الحركة ومتابعة العد من العدد الذي وصلتما إليه.",
+            "اطلب إلى طفلك أن يبيّن كمية واحدة بأكثر من طريقة."
+          ],
+          "bemama": "تقترح بي ماما الانتباه إلى السؤال الذي يريد طفلك الإجابة عنه. «هل تكفي الملاعق الجميع؟» سبب مناسب للعد معًا مرة أخرى.",
+          "safety": "اختر قطع لعب كبيرة ومعدادًا بخرزات مثبتة بإحكام. أبعد القطع الصغيرة المنفصلة عن الأطفال الذين قد يضعونها في أفواههم. ليتولّ بالغ التعامل مع المقالي الساخنة والأدوات الحادة.",
+          "sources": [
+            {
+              "organization": "معهد علوم التربية الأمريكي",
+              "title": "تعلّم الرياضيات المبكرة في المنزل مع الأسر ومقدمي الرعاية",
+              "url": "https://ies.ed.gov/use-work/resource-library/resource/other-resource/teaching-math-young-children-families-and-caregivers"
+            },
+            {
+              "organization": "مركز وات ووركس كليرينغهاوس لتقييم الممارسات التعليمية",
+              "title": "تعليم الرياضيات للأطفال الصغار",
+              "url": "https://ies.ed.gov/ncee/WWC/PracticeGuide/18"
+            },
+            {
+              "organization": "راماني وسيغلر، مجلة نمو الطفل",
+              "title": "معرفة الأعداد لدى أطفال ما قبل المدرسة بعد اللعب على مسارات مرقّمة",
+              "url": "https://doi.org/10.1111/j.1467-8624.2007.01131.x"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Les maths en maternelle commencent en mettant la table",
+        "description": "Aidez votre enfant à relier les nombres aux quantités avec quelques cuillères, un parcours numéroté fait maison et un jeu de partage en parts égales.",
+        "intro": "Trois bols attendent sur la table. Votre enfant sait réciter les nombres jusqu’à dix, mais combien de cuillères doit-il apporter ? Donnez-lui les cuillères et invitez-le à en poser une près de chaque bol. Quand chaque bol a sa cuillère, demandez combien de places sont prêtes. Compter vient de servir à quelque chose.",
+        "sections": [
+          {
+            "heading": "Un objet, un nombre",
+            "paragraphs": [
+              "Prenez quelques grands objets que votre enfant peut déplacer. Faites glisser les cuillères l’une après l’autre pour former une rangée en disant un nombre à chaque fois. Après la dernière, reprenez le total : « Un, deux, trois. Trois cuillères en tout. » S’il en oublie une ou en compte une deux fois, déplacez celles qui sont déjà comptées de l’autre côté et recommencez ensemble.",
+              "Mettez une pomme, une orange et une banane dans un panier. Nul besoin qu’elles se ressemblent pour compter trois fruits. Demandez ce qui change si l’on en enlève un ou si l’on en ajoute un autre. Alignez deux groupes côte à côte et cherchez lequel en a plus, moins ou autant. Arrêtez quand l’enfant a envie de passer à autre chose."
+            ]
+          },
+          {
+            "heading": "Fabriquez un parcours numéroté",
+            "paragraphs": [
+              "Dessinez sur du papier cinq ou dix grandes cases numérotées en ligne droite. Posez un gros jouet sur le premier nombre. À tour de rôle, avancez-le d’une ou deux cases en disant les nombres sur lesquels vous passez. Depuis trois, deux pas donnent « quatre, cinq ». Si votre enfant apprend encore la suite, dites les nombres pendant qu’il avance le jouet. Une courte comptine peut rythmer plus tard le rangement.",
+              "Dans une étude auprès d’enfants d’âge préscolaire de familles à faible revenu, les participants ont joué environ une heure au total à un jeu de parcours numérique en ligne droite. Ils ont progressé en comptage, reconnaissance des nombres, comparaison et estimation des positions sur une ligne numérique. Les enfants qui jouaient à un parcours semblable basé sur les couleurs n’ont pas obtenu les mêmes progrès. Ce sont des compétences mesurées dans ce groupe : on peut essayer le jeu sans promettre un résultat précis à son enfant."
+            ]
+          },
+          {
+            "heading": "Une même idée de plusieurs façons",
+            "paragraphs": [
+              "Pliez un disque en papier en deux parts égales, puis dépliez-le. Demandez à l’enfant de montrer une moitié. Pliez de nouveau pour obtenir quatre parts égales et superposez deux quarts à une moitié. À table, un adulte peut aussi couper une crêpe refroidie en parts égales. Employez le mot « égal » en regardant les morceaux. Une cassure inégale donne deux morceaux, mais pas forcément deux moitiés.",
+              "Sur un boulier simple, faites glisser trois perles fixées sur leur tige d’un côté, puis ajoutez-en une. Recomptez. Les couleurs peuvent faciliter le repérage des groupes. Dans ce jeu, elles ne donnent aucune valeur particulière aux perles. Si vous avez des cartes de nombres, posez le quatre près des quatre perles. L’enfant peut montrer la quantité avec des objets, un dessin ou les mots de sa langue familiale avant de l’écrire."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Donnez un but au comptage, par exemple une cuillère pour chaque bol.",
+          "Reliez le dernier nombre prononcé à la quantité totale.",
+          "Jouez brièvement, à tour de rôle, avec des objets sûrs que l’enfant peut manipuler."
+        ],
+        "faq": [
+          {
+            "q": "Comment faire des maths plus facilement à la maison ?",
+            "a": "Choisissez une tâche ordinaire avec quelques objets à compter. Mettez le couvert ou triez des chaussettes. Montrez un geste, puis invitez l’enfant à poursuivre."
+          },
+          {
+            "q": "Les cartes de nombres sont-elles la meilleure méthode ?",
+            "a": "Elles peuvent relier un nombre écrit à une quantité. Comptez des objets, puis trouvez la carte correspondante. Si l’enfant sait lire une carte sans pouvoir vous donner ce nombre d’objets, travaillez avec un groupe plus petit."
+          },
+          {
+            "q": "Un enfant de maternelle peut-il utiliser un boulier ?",
+            "a": "Oui. Prenez un modèle solide dont les perles restent attachées. Déplacez-en quelques-unes, comptez-les puis ajoutez-en ou retirez-en une du groupe. Pas besoin de connaître les règles de calcul du boulier pour commencer."
+          },
+          {
+            "q": "Quel est le moyen le plus simple de commencer à compter ?",
+            "a": "Prenez quelques objets à portée de main. Touchez ou déplacez chaque objet une seule fois. Répétez le dernier nombre pour donner le total, puis laissez l’enfant choisir un autre groupe."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 17 novembre 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Associez un seul nombre à chaque objet et énoncez le total.",
+            "Utilisez un petit parcours droit pour avancer tout en poursuivant le comptage.",
+            "Invitez l’enfant à représenter la même quantité de plusieurs façons."
+          ],
+          "bemama": "BeMama propose de chercher la question qui intéresse votre enfant. « Y a-t-il assez de cuillères pour tout le monde ? » vous donne une raison de recompter ensemble.",
+          "safety": "Choisissez de grosses pièces de jeu et un boulier aux perles bien fixées. Gardez les petites pièces hors de portée des enfants susceptibles de les porter à la bouche. Laissez les adultes manipuler les poêles chaudes et les ustensiles tranchants.",
+          "sources": [
+            {
+              "organization": "Institut américain des sciences de l’éducation",
+              "title": "Les premiers apprentissages mathématiques à la maison avec les familles",
+              "url": "https://ies.ed.gov/use-work/resource-library/resource/other-resource/teaching-math-young-children-families-and-caregivers"
+            },
+            {
+              "organization": "What Works Clearinghouse, centre américain d’évaluation des pratiques éducatives",
+              "title": "Enseigner les mathématiques aux jeunes enfants",
+              "url": "https://ies.ed.gov/ncee/WWC/PracticeGuide/18"
+            },
+            {
+              "organization": "Ramani et Siegler, revue Child Development",
+              "title": "Connaissances numériques des enfants après des jeux de parcours numérotés",
+              "url": "https://doi.org/10.1111/j.1467-8624.2007.01131.x"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Sofrayı kurarken okul öncesi matematik",
+        "description": "Kaşıkları paylaştırarak, evde bir sayı yolu çizerek ve kâğıdı eş parçalara bölerek çocuğunuzun sayı sözcükleriyle gerçek miktarları eşleştirmesine yardım edin.",
+        "intro": "Masada üç kâse var. Çocuğunuz ona kadar sayabiliyor ama kaç kaşık getirmeli? Kaşıkları verip her kâsenin yanına bir tane koymasını isteyin. Her kâsenin kaşığı olunca kaç kişilik yer hazır olduğunu sorun. Saymak gerçek bir soruyu yanıtlamış oldu.",
+        "sections": [
+          {
+            "heading": "Her nesneye bir sayı",
+            "paragraphs": [
+              "Çocuğun taşıyabileceği birkaç büyük nesneyle başlayın. Bir sıra yaparken kaşıkları birer birer kaydırın ve her harekette bir sayı söyleyin. Sonuncudan sonra toplamı tekrarlayın: “Bir, iki, üç. Toplam üç kaşık.” Birini atlar veya iki kez sayarsa sayılmış kaşıkları diğer tarafa geçirip birlikte tekrar deneyin.",
+              "Bir sepete bir elma, bir portakal ve bir muz koyun. Üç meyve saymak için aynı türden olmaları gerekmez. Birini çıkarınca veya bir meyve daha koyunca ne değiştiğini sorun. İki grubu yan yana sıralayıp hangisinde daha çok, daha az veya eşit sayıda nesne olduğunu karşılaştırın. Çocuk başka bir şey yapmak istediğinde bırakın."
+            ]
+          },
+          {
+            "heading": "Birlikte oynayacağınız sayı yolu çizin",
+            "paragraphs": [
+              "Kâğıda düz bir sıra hâlinde beş ya da on büyük numaralı kare çizin. Büyük bir oyuncağı ilk sayının üstüne koyun. Sırayla bir ya da iki kare ilerletirken her adımda yeni sayıyı söyleyin. Üçten iki adım “dört, beş” olur. Çocuk diziyi yeni öğreniyorsa o oyuncağı ilerletirken sayıları siz söyleyebilirsiniz. Kısa bir sayma tekerlemesiyle toplama zamanında da ritmi sürdürebilirsiniz.",
+              "Düşük gelirli ailelerden okul öncesi çocuklarla yapılan bir çalışmada çocuklar düz bir sayı yolu oyununu toplam yaklaşık bir saat oynadı. Sayma, rakamları tanıma, sayıları karşılaştırma ve sayı doğrusunda yer tahmin etme becerilerinde gelişme görüldü. Renklerle oynanan benzer bir oyunu oynayanlarda aynı kazanımlar görülmedi. Çalışma bu grupta bu becerileri ölçtü. Oyunu kendi çocuğunuz için belirli bir sonuç beklemeden deneyebilirsiniz."
+            ]
+          },
+          {
+            "heading": "Aynı fikri farklı yollarla gösterin",
+            "paragraphs": [
+              "Kâğıttan bir daireyi iki eş parçaya katlayıp açın. Çocuğunuzdan bir yarımı göstermesini isteyin. Tekrar katlayarak dört eş parça yapın ve iki çeyreği bir yarımın üstüne yerleştirin. Bir yetişkin sofrada soğumuş bir krebi de eşit paylara bölebilir. Birlikte bakarken “eşit” sözcüğünü kullanın. Eşit olmayan bir bölme iki parça verir ama bu parçaların ikisi de yarım sayılmaz.",
+              "Basit bir abaküste çubuğa bağlı üç boncuğu bir yana kaydırıp yanlarına bir tane daha ekleyin. Grubu tekrar sayın. Renkler grupları görmeyi kolaylaştırabilir. Bu oyunda boncukların renklerinin özel bir sayısal değeri yoktur. Evde sayı kartı varsa dört yazan kartı dört boncuğun yanına koyun. Yazılı yanıt istemeden önce çocuğun miktarı nesnelerle, çizerek veya evde kullandığı dilde göstermesine fırsat verin."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Her kâseye bir kaşık koymak gibi saymak için bir amaç bulun.",
+          "Söylediğiniz son sayının bütün nesnelerin sayısını verdiğini gösterin.",
+          "Kısa sürelerle ve çocuğun güvenle kullanabileceği malzemelerle sırayla oynayın."
+        ],
+        "faq": [
+          {
+            "q": "Evde matematiği nasıl kolaylaştırabilirim?",
+            "a": "Sayılacak az sayıda nesne içeren sıradan bir iş seçin. Sofra kurmayı veya çorap ayırmayı deneyin. Bir adım gösterip sonrakini çocuğa bırakın."
+          },
+          {
+            "q": "Erken matematik için en iyi yöntem sayı kartları mı?",
+            "a": "Kartlar yazılı sayı ile miktarı ilişkilendirebilir. Önce gerçek nesneleri sayıp uygun kartı bulun. Çocuk karttaki sayıyı söylediği hâlde o kadar nesne veremiyorsa daha küçük gruplarla çalışın."
+          },
+          {
+            "q": "Okul öncesi çocuk abaküs kullanabilir mi?",
+            "a": "Evet. Boncukları sağlam biçimde bağlı dayanıklı bir abaküs seçin. Birkaç boncuğu yana kaydırıp sayın, sonra gruba bir tane ekleyin veya çıkarın. İlk sayma oyunu için abaküsle işlem yapma kurallarını bilmek gerekmez."
+          },
+          {
+            "q": "Saymaya başlamanın en basit yolu nedir?",
+            "a": "Elinizin altındaki birkaç nesneyi her birine bir kez dokunarak veya yerini değiştirerek sayın. Son sayıyı toplam olarak yeniden söyleyin ve farklı bir grubu çocuğun seçmesine izin verin."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 17 Kasım 2026 tarihinde incelendi",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Her bir nesneyle bir sayı sözcüğünü eşleştirin ve toplamı söyleyin.",
+            "Kaldığınız sayıdan devam etmeyi çalışmak için kısa, düz bir yolda ilerleyin.",
+            "Çocuktan bir miktarı birden fazla yolla göstermesini isteyin."
+          ],
+          "bemama": "BeMama, çocuğunuzun yanıtını merak ettiği soruyu fark etmenizi önerir. “Herkese yetecek kadar kaşık var mı?” sorusu birlikte tekrar saymak için bir neden verir.",
+          "safety": "Büyük oyun parçaları ve boncukları sabit bir abaküs seçin. Ağzına nesne götürebilecek çocuklardan küçük, gevşek parçaları uzak tutun. Sıcak tavaları ve keskin mutfak gereçlerini yetişkinler kullansın.",
+          "sources": [
+            {
+              "organization": "ABD Eğitim Bilimleri Enstitüsü",
+              "title": "Ailelerle ve bakım verenlerle evde erken matematik",
+              "url": "https://ies.ed.gov/use-work/resource-library/resource/other-resource/teaching-math-young-children-families-and-caregivers"
+            },
+            {
+              "organization": "What Works Clearinghouse eğitim uygulamalarını değerlendirme merkezi",
+              "title": "Küçük çocuklara matematik öğretmek",
+              "url": "https://ies.ed.gov/ncee/WWC/PracticeGuide/18"
+            },
+            {
+              "organization": "Ramani ve Siegler, Child Development dergisi",
+              "title": "Sayılı masa oyunlarından sonra okul öncesi çocukların sayı bilgisi",
+              "url": "https://doi.org/10.1111/j.1467-8624.2007.01131.x"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Matemáticas en preescolar al poner la mesa",
+        "description": "Ayuda a tu hijo a relacionar los números con cantidades reales al repartir cucharas, jugar en un tablero casero y dividir un círculo en partes iguales.",
+        "intro": "Hay tres cuencos en la mesa. Tu hijo sabe contar hasta diez, pero ¿cuántas cucharas tiene que traer? Dale las cucharas e invítalo a colocar una al lado de cada cuenco. Cuando todos tengan una, pregunta cuántos sitios están preparados. Contar acaba de resolver una pregunta real.",
+        "sections": [
+          {
+            "heading": "Un número por cada objeto",
+            "paragraphs": [
+              "Empieza con unos pocos objetos grandes que tu hijo pueda mover. Desliza una cuchara cada vez hasta formar una fila y di un número con cada movimiento. Al llegar a la última, repite el total: «Una, dos, tres. Hay tres cucharas en total». Si se salta una o la cuenta dos veces, pasa las que ya habéis contado al otro lado y probad juntos.",
+              "Coloca una manzana, una naranja y un plátano en una cesta. No tienen que ser iguales para contar tres piezas de fruta. Pregunta qué pasa si sacáis una o añadís otra. Pon dos grupos en filas paralelas para ver cuál tiene más, menos o la misma cantidad. Parad cuando el niño quiera hacer otra cosa."
+            ]
+          },
+          {
+            "heading": "Jugad con un camino de números",
+            "paragraphs": [
+              "Dibuja cinco o diez casillas grandes numeradas en línea recta. Coloca un juguete grande sobre el primer número. Por turnos, avanzad una o dos casillas y nombrad los números que pisáis. Si sales del tres, dos pasos suenan así: «cuatro, cinco». Si tu hijo aún aprende la secuencia, puedes decir tú los números mientras él mueve el juguete. Una canción breve de contar puede mantener el ritmo mientras recogéis.",
+              "En un estudio con preescolares de familias con pocos ingresos, los niños jugaron en total alrededor de una hora con un tablero lineal numerado. Mejoraron al contar, reconocer y comparar números y estimar su posición en una recta. Quienes jugaron con un tablero parecido de colores no mostraron los mismos avances. Se evaluaron esas destrezas en ese grupo. El juego se puede probar en casa sin prometer un resultado concreto."
+            ]
+          },
+          {
+            "heading": "Muestra una idea de distintas maneras",
+            "paragraphs": [
+              "Dobla un círculo de papel en dos partes iguales y ábrelo. Pídele que señale una mitad. Con otro doblez haz cuatro partes iguales y superpón dos cuartos a una mitad. Un adulto también puede repartir en la mesa una tortita ya fría en porciones iguales. Usa la palabra «igual» al observarlas. Romper algo en dos trozos desiguales no da dos mitades.",
+              "En un ábaco sencillo, desliza tres cuentas sujetas a su varilla hacia un lado y añade una más. Cuenta el grupo otra vez. Los colores pueden ayudar a distinguir grupos, pero en este juego no asignan un valor especial a las cuentas. Si ya tienes tarjetas de números, coloca el cuatro junto a las cuatro cuentas. Deja que tu hijo muestre la cantidad con objetos, un dibujo o palabras de su lengua familiar antes de pedir una respuesta escrita."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Da un propósito al recuento, como colocar una cuchara por cuenco.",
+          "Relaciona el último número dicho con la cantidad total de objetos.",
+          "Jugad por turnos breves y con materiales que se puedan manipular con seguridad."
+        ],
+        "faq": [
+          {
+            "q": "¿Cómo puedo facilitar la práctica en casa?",
+            "a": "Elige un quehacer corriente con pocos objetos para contar. Probad a poner la mesa o a clasificar calcetines. Muestra un paso y deja que el niño haga el siguiente."
+          },
+          {
+            "q": "¿Son las tarjetas de números el mejor método?",
+            "a": "Pueden unir un número escrito con su cantidad. Contad objetos y buscad la tarjeta correspondiente. Si reconoce el número pero no puede darte esa cantidad de objetos, probad con grupos más pequeños."
+          },
+          {
+            "q": "¿Puede un preescolar usar un ábaco?",
+            "a": "Sí. Usa un modelo resistente con cuentas bien sujetas. Desliza unas cuantas, contadlas juntos y acerca o aparta una. No hace falta aprender las reglas formales del ábaco para empezar."
+          },
+          {
+            "q": "¿Cuál es la forma más sencilla de empezar a contar?",
+            "a": "Cuenta unas pocas cosas que ya tengas a mano, tocando o moviendo cada objeto una sola vez. Repite el último número como total y deja que el niño escoja otro grupo."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 17 de noviembre de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Asocia una palabra numérica a cada objeto y nombra el total.",
+            "Usa un camino recto y corto para avanzar y seguir contando desde el número alcanzado.",
+            "Invita al niño a mostrar una misma cantidad de más de una manera."
+          ],
+          "bemama": "BeMama propone fijarse en la pregunta que el niño quiere resolver. «¿Hay cucharas para todos?» os da un motivo para volver a contar juntos.",
+          "safety": "Escoge piezas de juego grandes y un ábaco con las cuentas bien sujetas. Mantén las piezas pequeñas lejos de los niños que puedan llevárselas a la boca. Los adultos deben manipular las sartenes calientes y los utensilios cortantes.",
+          "sources": [
+            {
+              "organization": "Instituto de Ciencias de la Educación de Estados Unidos",
+              "title": "Primeras matemáticas en casa con las familias",
+              "url": "https://ies.ed.gov/use-work/resource-library/resource/other-resource/teaching-math-young-children-families-and-caregivers"
+            },
+            {
+              "organization": "What Works Clearinghouse, centro de evaluación de prácticas educativas",
+              "title": "Enseñar matemáticas a los niños pequeños",
+              "url": "https://ies.ed.gov/ncee/WWC/PracticeGuide/18"
+            },
+            {
+              "organization": "Ramani y Siegler, revista Child Development",
+              "title": "Conocimientos numéricos en preescolar después de jugar con tableros de números",
+              "url": "https://doi.org/10.1111/j.1467-8624.2007.01131.x"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Matemática na pré-escola começa ao pôr a mesa",
+        "description": "Ajude seu filho a ligar os números a quantidades reais ao distribuir colheres, jogar numa trilha feita em casa e dividir um círculo em partes iguais.",
+        "intro": "Há três tigelas na mesa. Seu filho sabe recitar os números até dez, mas quantas colheres deve trazer? Entregue as colheres e convide a colocar uma ao lado de cada tigela. Quando cada uma tiver sua colher, pergunte quantos lugares estão prontos. A contagem acabou de responder a uma pergunta de verdade.",
+        "sections": [
+          {
+            "heading": "Um número para cada objeto",
+            "paragraphs": [
+              "Comece com poucos objetos grandes que a criança possa mover. Deslize as colheres uma por vez para formar uma fila, dizendo um número a cada movimento. Depois da última, repita o total: “Uma, duas, três. Três colheres ao todo”. Se ela pular uma ou contar duas vezes a mesma, passem as já contadas para o outro lado e tentem juntos.",
+              "Coloque uma maçã, uma laranja e uma banana numa cesta. Elas não precisam ser iguais para contar três frutas. Pergunte o que muda se tirarem uma ou acrescentarem outra. Alinhe dois grupos lado a lado para comparar qual tem mais, menos ou a mesma quantidade. Parem quando a criança quiser mudar de atividade."
+            ]
+          },
+          {
+            "heading": "Façam uma trilha de números",
+            "paragraphs": [
+              "Desenhe em papel cinco ou dez casas grandes numeradas em linha reta. Ponha um brinquedo grande sobre o primeiro número. Alternem as jogadas, andando uma ou duas casas e dizendo os números por onde passam. Saindo do três, dois passos soam assim: “quatro, cinco”. Se a criança ainda estiver aprendendo a sequência, diga os números enquanto ela move o brinquedo. Uma cantiga de contar pode acompanhar a hora de guardar tudo.",
+              "Em um estudo com crianças de pré-escola de famílias de baixa renda, elas brincaram por cerca de uma hora no total com um jogo de trilha numérica em linha reta. Melhoraram na contagem, no reconhecimento e na comparação de números e na estimativa de suas posições na reta numérica. Crianças que jogaram uma trilha semelhante de cores não tiveram os mesmos ganhos. O estudo avaliou essas habilidades naquele grupo. Vale experimentar a brincadeira sem prometer um resultado específico."
+            ]
+          },
+          {
+            "heading": "Mostre a mesma ideia de modos diferentes",
+            "paragraphs": [
+              "Dobre um círculo de papel em duas partes iguais e abra-o. Peça à criança que mostre a metade. Dobre mais uma vez para formar quatro partes iguais e encaixe dois quartos sobre uma metade. Um adulto também pode cortar uma panqueca já fria em porções iguais. Usem a palavra “igual” enquanto observam. Partir algo de modo desigual cria dois pedaços, mas eles podem não ser metades.",
+              "Num ábaco simples, deslize três contas presas à haste para o mesmo lado e acrescente mais uma. Contem o grupo outra vez. As cores ajudam a enxergar grupos, mas nesta atividade elas não têm valores numéricos especiais. Se vocês já têm cartões de números, coloque o quatro perto das quatro contas. Deixe a criança representar a quantidade com objetos, um desenho ou palavras da língua que usa em casa antes de pedir uma resposta por escrito."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Dê um propósito à contagem, como combinar uma colher com cada tigela.",
+          "Relacione o último número dito à quantidade total de objetos.",
+          "Façam jogadas breves com materiais que a criança possa manipular com segurança."
+        ],
+        "faq": [
+          {
+            "q": "Como facilitar a prática da matemática em casa?",
+            "a": "Escolha uma tarefa cotidiana com poucas coisas para contar. Experimentem pôr a mesa ou separar meias. Mostre um passo e convide a criança a fazer o próximo."
+          },
+          {
+            "q": "Cartões de números são a melhor forma de começar?",
+            "a": "Eles podem ligar o número escrito à quantidade. Contem objetos e procurem o cartão correspondente. Se a criança reconhece o número, mas não consegue entregar aquela quantidade, tentem grupos menores."
+          },
+          {
+            "q": "Uma criança da pré-escola pode usar um ábaco?",
+            "a": "Sim. Use uma estrutura firme com contas bem presas. Movam algumas, contem e aproximem ou afastem uma delas. Não é preciso aprender regras formais do ábaco para um primeiro jogo de contagem."
+          },
+          {
+            "q": "Qual é o jeito mais simples de começar a contar?",
+            "a": "Conte algumas coisas que já estão ao alcance, tocando ou movendo cada item uma única vez. Repita o último número como total e deixe a criança escolher outro grupo."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 17 de novembro de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Associe uma palavra numérica a cada objeto e diga o total.",
+            "Use uma trilha reta e curta para continuar a contagem enquanto avança.",
+            "Convide a criança a mostrar uma quantidade de mais de um jeito."
+          ],
+          "bemama": "A BeMama sugere reparar na pergunta que a criança quer responder. “Tem colher para todo mundo?” é um motivo para contar de novo, juntos.",
+          "safety": "Escolha peças grandes e um ábaco com contas bem fixas. Mantenha peças pequenas e soltas longe das crianças que podem levá-las à boca. Adultos devem manusear panelas quentes e utensílios cortantes.",
+          "sources": [
+            {
+              "organization": "Instituto de Ciências da Educação dos Estados Unidos",
+              "title": "Primeiras experiências de matemática em casa com famílias e cuidadores",
+              "url": "https://ies.ed.gov/use-work/resource-library/resource/other-resource/teaching-math-young-children-families-and-caregivers"
+            },
+            {
+              "organization": "What Works Clearinghouse, centro de avaliação de práticas educacionais",
+              "title": "Ensino de matemática para crianças pequenas",
+              "url": "https://ies.ed.gov/ncee/WWC/PracticeGuide/18"
+            },
+            {
+              "organization": "Ramani e Siegler, revista Child Development",
+              "title": "Conhecimento numérico de crianças da pré-escola após jogos de trilha com números",
+              "url": "https://doi.org/10.1111/j.1467-8624.2007.01131.x"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5796.webp",
+    "heroAlt": {
+      "en": "A child sets the last of three wooden spoons beside three breakfast bowls.",
+      "fa": "کودکی آخرین قاشق از سه قاشق چوبی را کنار سه کاسهٔ صبحانه می‌گذارد.",
+      "ar": "يضع طفل آخر ملعقة من ثلاث ملاعق خشبية بجوار ثلاثة أوعية إفطار.",
+      "fr": "Un enfant pose la dernière des trois cuillères en bois à côté de trois bols de petit déjeuner.",
+      "es": "Un niño coloca la última de tres cucharas de madera junto a tres cuencos de desayuno.",
+      "pt": "Uma criança coloca a última de três colheres de madeira ao lado de três tigelas de café da manhã.",
+      "tr": "Bir çocuk üç kahvaltı kâsesinin yanına üç tahta kaşıktan sonuncusunu koyuyor."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "Preschool maths that starts with setting the table",
+      "description": "Help a preschooler connect counting words to real quantities with spoons, a homemade number path and a simple game about sharing equal parts."
+    },
+    "fa": {
+      "title": "ریاضی پیش‌دبستانی را از چیدن سفره شروع کنید",
+      "description": "با تقسیم قاشق‌ها، ساختن یک مسیر عددی روی کاغذ و تا کردن دایره به قسمت‌های مساوی، به کودک کمک کنید واژه‌های عددی را به مقدار واقعی ربط دهد."
+    },
+    "ar": {
+      "title": "رياضيات ما قبل المدرسة تبدأ من ترتيب المائدة",
+      "description": "ساعد طفلك على ربط الأعداد بكميات حقيقية عبر توزيع الملاعق، ورسم مسار مرقّم في المنزل، ولعبة بسيطة لتقسيم دائرة إلى أجزاء متساوية."
+    },
+    "fr": {
+      "title": "Les maths en maternelle commencent en mettant la table",
+      "description": "Aidez votre enfant à relier les nombres aux quantités avec quelques cuillères, un parcours numéroté fait maison et un jeu de partage en parts égales."
+    },
+    "tr": {
+      "title": "Sofrayı kurarken okul öncesi matematik",
+      "description": "Kaşıkları paylaştırarak, evde bir sayı yolu çizerek ve kâğıdı eş parçalara bölerek çocuğunuzun sayı sözcükleriyle gerçek miktarları eşleştirmesine yardım edin."
+    },
+    "es": {
+      "title": "Matemáticas en preescolar al poner la mesa",
+      "description": "Ayuda a tu hijo a relacionar los números con cantidades reales al repartir cucharas, jugar en un tablero casero y dividir un círculo en partes iguales."
+    },
+    "pt": {
+      "title": "Matemática na pré-escola começa ao pôr a mesa",
+      "description": "Ajude seu filho a ligar os números a quantidades reais ao distribuir colheres, jogar numa trilha feita em casa e dividir um círculo em partes iguais."
+    }
+  }
+}

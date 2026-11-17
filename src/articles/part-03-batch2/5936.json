@@ -1,0 +1,660 @@
+{
+  "sourceId": "5936",
+  "article": {
+    "slug": "baby-and-child/telling-your-child-about-a-pregnancy",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "How to tell your child you are pregnant",
+        "description": "Choose when and how to tell your child about a pregnancy, find words that suit their age and leave room for questions, mixed feelings and uncertainty.",
+        "intro": "Your child notices that a relative keeps asking how you feel. You had planned to share your news later, but now they are making guesses. You can decide what you are ready to say, choose a familiar person to tell them and leave the rest for another conversation.",
+        "sections": [
+          {
+            "heading": "Choose when your family is ready to share",
+            "paragraphs": [
+              "There is no particular week when a child must be told. Think about what they are already seeing, whether other people are about to share the news, and how you would want to answer questions if the pregnancy changes. If you would like your child to hear it from you, talk with them before a wider announcement.",
+              "A younger child may find it hard to picture several months. A familiar event such as the start of winter can be easier to understand than a due date. An older child may ask why you waited. You can explain that the adults wanted time to understand the news before telling others."
+            ]
+          },
+          {
+            "heading": "Give the news plainly and pause",
+            "paragraphs": [
+              "Pick an ordinary quiet moment when you can stay for a while. A parent or another trusted caregiver might say, “I have some family news. A baby is growing in my uterus. We expect the baby to be born after the summer.” Use an event that fits your actual plans. A picture book or a drawing can help you get started if your child enjoys them.",
+              "You are sharing news about something already happening. Asking “Would you like a baby brother or sister?” can make it sound like a decision the child can make. After a short explanation, wait. Your child might ask where the baby sleeps, ask for a snack or come back to the conversation days later."
+            ]
+          },
+          {
+            "heading": "Answer the question they mean",
+            "paragraphs": [
+              "If your child asks “Where will I go?”, find out whether they mean tonight, during a hospital stay or after the baby comes home. Give one clear answer about the part you know. If a plan is unsettled, say so and tell them when you will talk about it again.",
+              "A study of 241 families expecting a second child followed firstborn children from before the birth through the following year. Researchers measured behavior on several occasions. It studied how children adjusted over time, not the best week to announce a pregnancy. One surprised or unhappy response at the kitchen table cannot predict the relationship between siblings."
+            ]
+          },
+          {
+            "heading": "If the pregnancy is uncertain or ends",
+            "paragraphs": [
+              "If you are waiting for a test, you can say what is true today, such as “We have a doctor's visit and will know more afterward.” Children do not need every medical detail to understand why a familiar adult is worried. Let them know who will be there for their normal routines.",
+              "If a baby has died during the pregnancy, choose short, direct words. You might say, “The baby stopped growing and died. The baby will not come home. Nothing you said, thought or did caused this.” Give room for repeated questions. A child who plays after the conversation may return to it later. If distress continues to interfere with sleep, school or play, seek support from their clinician or a family bereavement service."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Choose a moment when a trusted adult has time to listen afterward.",
+          "Use words and a time reference the child understands, then wait for their own question.",
+          "If plans change, update the child honestly and explain who will look after them."
+        ],
+        "faq": [
+          {
+            "q": "When should we tell our first child about a pregnancy?",
+            "a": "Choose a time that fits your child's age, what they have noticed and your own readiness to share. No particular week guarantees a pregnancy outcome or a particular reaction."
+          },
+          {
+            "q": "Who should tell the child?",
+            "a": "A parent or trusted caregiver who can answer questions is a good choice. If hearing it from you matters, plan the conversation before relatives or friends are likely to mention it."
+          },
+          {
+            "q": "What is a good setting for the conversation?",
+            "a": "Choose somewhere familiar and calm, with time to stay together afterward. If the child is tired or distracted, a different moment may be easier."
+          },
+          {
+            "q": "How can I start without putting pressure on my child?",
+            "a": "Say directly that you are expecting a baby. A drawing or book may help, but no special reveal is needed. Let curiosity, excitement, silence or worry all be acceptable responses."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Consider the child's age and the family's readiness when choosing a time.",
+            "Answer concrete questions in small pieces and keep the conversation open.",
+            "Use clear language and reassurance about responsibility if a pregnancy ends."
+          ],
+          "bemama": "BeMama suggests writing down the first sentence you want to say and one practical detail you can answer, such as who will collect your child after an appointment.",
+          "safety": "If the news or a loss leads to distress that persists and disrupts sleeping, school or play, speak with the child's clinician about support.",
+          "sources": [
+            {
+              "organization": "MedlinePlus, US National Library of Medicine",
+              "title": "Talking with children about pregnancy and a new baby",
+              "url": "https://medlineplus.gov/ency/patientinstructions/000635.htm"
+            },
+            {
+              "organization": "Volling and colleagues, Society for Research in Child Development monographs",
+              "title": "A longitudinal study of firstborn children across the transition to siblinghood",
+              "url": "https://websites.umich.edu/~gonzo/papers/volling-srcd-monograph-2017.pdf"
+            },
+            {
+              "organization": "Children’s Hospital of Philadelphia",
+              "title": "Talking to children about the loss of a baby",
+              "url": "https://www.chop.edu/resources/talking-children-about-loss"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "چطور خبر بارداری را به فرزندمان بگوییم؟",
+        "description": "برای گفتن خبر بارداری به کودک زمانی مناسب پیدا کنید، واژه‌ها را بر پایهٔ سن او انتخاب کنید و برای سؤال‌ها، احساسات متفاوت و نامعلومی‌ها جا بگذارید.",
+        "intro": "فرزندتان متوجه شده یکی از بستگان مدام حال شما را می‌پرسد. می‌خواستید خبر را دیرتر بگویید، اما حالا خودش حدس‌هایی می‌زند. می‌توانید تصمیم بگیرید چه اندازه آمادگی گفتن دارید، چه فرد آشنایی آن را بگوید و کدام بخش را برای گفت‌وگویی دیگر بگذارید.",
+        "sections": [
+          {
+            "heading": "وقتی خانواده آمادگی دارد خبر بدهید",
+            "paragraphs": [
+              "هفتهٔ مشخصی وجود ندارد که حتماً باید کودک را باخبر کرد. ببینید تا حالا چه دیده، آیا دیگران به‌زودی خبر را می‌گویند و اگر روند بارداری تغییر کند دوست دارید چگونه به پرسش‌هایش پاسخ دهید. اگر برایتان مهم است خبر را از خودتان بشنود، پیش از اعلام عمومی با او حرف بزنید.",
+              "تصور چند ماه برای کودک کم‌سن دشوار است. اتفاقی آشنا مثل شروع زمستان شاید برای او روشن‌تر از تاریخ زایمان باشد. کودک بزرگ‌تر ممکن است بپرسد چرا صبر کردید. می‌توانید بگویید بزرگ‌ترها به زمان نیاز داشتند تا خودشان از خبر سر دربیاورند و بعد آن را با دیگران در میان بگذارند."
+            ]
+          },
+          {
+            "heading": "خبر را ساده بگویید و مکث کنید",
+            "paragraphs": [
+              "لحظه‌ای آرام و عادی را انتخاب کنید که بعدش فرصت ماندن کنار کودک را داشته باشید. مثلاً مادر می‌تواند بگوید «یک خبر خانوادگی دارم. یک بچه توی رحم من داره بزرگ می‌شه. انتظار داریم بعد از تابستون به دنیا بیاد.» مراقب مورد اعتماد هم می‌تواند با واژه‌های مناسب خبر را بدهد. زمانی را مثال بزنید که با برنامهٔ واقعی شما جور باشد. کتاب تصویری یا نقاشی هم اگر مورد علاقهٔ کودک باشد می‌تواند سر صحبت را باز کند.",
+              "چیزی را به کودک می‌گویید که در حال رخ دادن است. «دوست داری خواهر یا برادر کوچولو داشته باشی؟» شاید به نظرش برسد تصمیم با اوست. بعد از توضیح کوتاه صبر کنید. شاید بپرسد بچه کجا می‌خوابد، یک خوراکی بخواهد یا چند روز بعد دوباره سراغ موضوع بیاید."
+            ]
+          },
+          {
+            "heading": "بفهمید منظورش از سؤال چیست",
+            "paragraphs": [
+              "اگر می‌پرسد «من کجا می‌رم؟» ببینید منظورش امشب، مدت ماندن شما در بیمارستان یا بعد از آمدن بچه به خانه است. دربارهٔ بخشی که می‌دانید یک پاسخ روشن بدهید. اگر برنامه هنوز معلوم نیست، همین را بگویید و مشخص کنید چه وقت دوباره درباره‌اش حرف می‌زنید.",
+              "در پژوهشی روی ۲۴۱ خانواده که در انتظار فرزند دوم بودند، رفتار فرزندان اول از پیش از تولد تا یک سال پس از آن در چند نوبت بررسی شد. پژوهش دربارهٔ سازگاری کودکان در طول زمان بود و بهترین هفتهٔ اعلام خبر را بررسی نکرد. تعجب یا ناراحتی کودک در یک گفت‌وگو سر میز آشپزخانه نمی‌تواند رابطهٔ آیندهٔ خواهر و برادرها را پیش‌بینی کند."
+            ]
+          },
+          {
+            "heading": "اگر وضعیت بارداری نامعلوم باشد یا بارداری به از دست رفتن نوزاد بینجامد",
+            "paragraphs": [
+              "اگر منتظر نتیجهٔ آزمایشی هستید، آنچه را امروز روشن است بگویید، مثلاً «یک وقت دکتر داریم و بعدش بیشتر می‌فهمیم». کودک برای درک نگرانی بزرگ‌ترها به همهٔ جزئیات پزشکی نیاز ندارد. به او بگویید چه کسی برای کارهای معمول روزانه کنارش خواهد بود.",
+              "اگر نوزاد در دوران بارداری از دنیا رفته، کوتاه و روشن حرف بزنید. مثلاً «بچه دیگه بزرگ نشد و مرد. به خونه نمیاد. هیچ چیزی که تو گفتی، فکر کردی یا انجام دادی باعث این اتفاق نشد.» برای سؤال‌های تکراری جا بگذارید. کودکی که بعد از گفت‌وگو بازی می‌کند شاید بعداً باز سراغ موضوع بیاید. اگر ناراحتی همچنان خواب، مدرسه یا بازی او را مختل می‌کند، از پزشکش یا یک مرکز حمایت از خانواده‌های سوگوار کمک بگیرید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "زمانی را انتخاب کنید که یک بزرگسال مورد اعتماد بتواند بعد از گفتن خبر به کودک گوش بدهد.",
+          "با واژه‌ها و نشانهٔ زمانی آشنا برای کودک حرف بزنید و برای پرسش خودش منتظر بمانید.",
+          "اگر برنامه عوض شد کودک را صادقانه در جریان بگذارید و بگویید چه کسی به او رسیدگی می‌کند."
+        ],
+        "faq": [
+          {
+            "q": "چه وقت خبر بارداری را به فرزند اول بگوییم؟",
+            "a": "سنی که دارد، چیزهایی که دیده و آمادگی خودتان را در نظر بگیرید. هیچ هفتهٔ خاصی نتیجهٔ بارداری یا واکنش کودک را تضمین نمی‌کند."
+          },
+          {
+            "q": "چه کسی خبر را بگوید؟",
+            "a": "والد یا مراقب مورد اعتمادی که می‌تواند پاسخ‌گوی کودک باشد انتخاب مناسبی است. اگر می‌خواهید از شما بشنود، پیش از آنکه دوستی یا خویشاوندی به خبر اشاره کند فرصت گفت‌وگو بگذارید."
+          },
+          {
+            "q": "کجا بهتر است این گفت‌وگو را انجام دهیم؟",
+            "a": "جایی آشنا و آرام انتخاب کنید که بعدش فرصت کنار هم ماندن داشته باشید. اگر کودک خسته است یا حواسش جای دیگری است، شاید لحظه‌ای دیگر مناسب‌تر باشد."
+          },
+          {
+            "q": "چطور سر حرف را باز کنم که کودک زیر فشار نباشد؟",
+            "a": "روشن بگویید که منتظر یک بچه هستید. کتاب یا نقاشی می‌تواند کمک کند، اما مراسم خاصی لازم نیست. برای کنجکاوی، هیجان، سکوت یا نگرانی به یک اندازه جا بگذارید."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۶ نوامبر ۲۰۲۶ مرور شد",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "در انتخاب زمان گفت‌وگو، سن کودک و آمادگی خانواده را در نظر بگیرید.",
+            "به سؤال‌های مشخص کم‌کم پاسخ دهید و راه را برای ادامهٔ گفت‌وگو باز بگذارید.",
+            "اگر بارداری به از دست رفتن نوزاد انجامید، روشن حرف بزنید و اطمینان بدهید کودک مسئول اتفاق نبوده است."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند جملهٔ آغازین و یک نکتهٔ عملی را که می‌توانید توضیح دهید یادداشت کنید، مثلاً چه کسی بعد از وقت دکتر دنبال کودک می‌رود.",
+          "safety": "اگر خبر بارداری یا از دست دادن نوزاد باعث ناراحتی ماندگار شده و خواب، مدرسه یا بازی کودک را مختل کرده است، دربارهٔ دریافت حمایت با پزشک کودک صحبت کنید.",
+          "sources": [
+            {
+              "organization": "مدلاین‌پلاس، کتابخانهٔ ملی پزشکی آمریکا",
+              "title": "حرف زدن با کودکان دربارهٔ بارداری و نوزاد جدید",
+              "url": "https://medlineplus.gov/ency/patientinstructions/000635.htm"
+            },
+            {
+              "organization": "فولینگ و همکاران، تک‌نگاشت‌های انجمن پژوهش در رشد کودک",
+              "title": "بررسی طولی فرزندان اول در دورهٔ خواهر یا برادر شدن",
+              "url": "https://websites.umich.edu/~gonzo/papers/volling-srcd-monograph-2017.pdf"
+            },
+            {
+              "organization": "بیمارستان کودکان فیلادلفیا",
+              "title": "چگونه دربارهٔ از دست دادن نوزاد با کودک حرف بزنیم",
+              "url": "https://www.chop.edu/resources/talking-children-about-loss"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "كيف تخبرين طفلك بأنك حامل؟",
+        "description": "اختاري وقتًا يناسب أسرتك لإخبار طفلك بالحمل، وابحثي عن كلمات يفهمها تناسب عمره وتتيح له طرح أسئلته والتعبير عن مشاعره حتى حين لا تتضح كل التفاصيل.",
+        "intro": "لاحظ طفلك أن أحد الأقارب يكثر من السؤال عن صحتك. كنت تنوين مشاركة الخبر لاحقًا، لكنه بدأ يخمّن السبب. لك أن تختاري ما أنت مستعدة لقوله الآن، ومن يبلغه من الأشخاص الذين يألفهم، وما تتركانه لحديث آخر.",
+        "sections": [
+          {
+            "heading": "اختاري الوقت الذي يناسب أسرتك",
+            "paragraphs": [
+              "ليس هناك أسبوع معين يجب فيه إخبار الطفل. فكري فيما يلاحظه بالفعل، وما إن كان الآخرون على وشك إعلان الخبر، وكيف تودين الإجابة إذا تغير مسار الحمل. إذا أردت أن يسمع منك أولًا فتحدثي معه قبل إعلان الخبر على نطاق أوسع.",
+              "قد يصعب على الصغير تصور مرور عدة أشهر. وقد يسهل عليه فهم حدث يعرفه مثل بداية الشتاء أكثر من تاريخ الولادة المتوقع. أما الطفل الأكبر فقد يسأل لماذا انتظرتم. يمكنك توضيح أن الكبار أرادوا بعض الوقت لاستيعاب الخبر قبل مشاركته."
+            ]
+          },
+          {
+            "heading": "قولي الخبر ببساطة ثم انتظري",
+            "paragraphs": [
+              "اختاري لحظة هادئة عادية تستطيعين فيها البقاء معه قليلًا. يمكن أن تخبره أمه أو شخص آخر يثق به. قد تقول الأم مثلًا «عندي خبر عن أسرتنا. ينمو طفل في رحمي ونتوقع أن يولد بعد الصيف». اختاري حدثًا يوافق توقيت حملك فعلًا. وقد يسهّل كتاب مصور أو رسمة بداية الحديث إذا كان يحب ذلك.",
+              "أنت تنقلين خبرًا عن أمر يحدث بالفعل. قد يوحي سؤال «هل ترغب في أخ صغير أو أخت صغيرة؟» بأن القرار بيده. بعد شرح قصير توقفي وانتظري. قد يسأل أين سينام المولود، أو يطلب وجبة خفيفة، أو يعود إلى الموضوع بعد أيام."
+            ]
+          },
+          {
+            "heading": "أجيبي عن السؤال الذي يقصده",
+            "paragraphs": [
+              "إذا سأل «وأنا أين سأذهب؟» فاستوضحي هل يقصد الليلة أم مدة إقامتك في المستشفى أم بعد عودة المولود إلى البيت. قدمي جوابًا واضحًا عن الجزء الذي تعرفينه. وإذا لم تُحسم الخطة فقولي ذلك وحددي متى ستعودان إلى الحديث عنها.",
+              "تابعت دراسة ٢٤١ أسرة تنتظر طفلها الثاني. قيّم الباحثون سلوك الطفل الأول عدة مرات بدءًا من قبل الولادة وحتى مرور السنة التالية. تناولت الدراسة تكيّف الأطفال بمرور الوقت ولم تبحث عن أفضل أسبوع لإعلان الحمل. لا يمكن لاستجابة مفاجأة أو حزن في حديث واحد أن تتنبأ بعلاقة الإخوة لاحقًا."
+            ]
+          },
+          {
+            "heading": "إذا لم يتضح مصير الحمل أو انتهى بفقد الطفل",
+            "paragraphs": [
+              "إذا كنت تنتظرين نتيجة فحص فقولي ما تعرفينه اليوم، مثل «عندنا موعد مع الطبيب وسنعرف أكثر بعده». لا يحتاج الطفل إلى جميع التفاصيل الطبية ليفهم سبب قلق شخص يألفه. أخبريه من سيكون معه في أنشطته المعتادة.",
+              "إذا مات الطفل أثناء الحمل فاختاري كلمات قصيرة ومباشرة. يمكنك القول «توقف الطفل عن النمو ومات. لن يعود معنا إلى البيت. لا شيء قلته أو فكرت فيه أو فعلته تسبب في ذلك». افسحي المجال لتكرار الأسئلة. قد يذهب طفلك ليلعب بعد الحديث ثم يعود إليه لاحقًا. إذا استمر الضيق وأثر في نومه أو مدرسته أو لعبه فاطلبي دعم طبيبه أو جهة تساعد الأسر بعد الفقد."
+            ]
+          }
+        ],
+        "takeaways": [
+          "اختاري لحظة يتسع فيها وقت شخص بالغ موثوق للاستماع بعد نقل الخبر.",
+          "استخدمي كلمات وإشارة زمنية يفهمهما الطفل ثم انتظري سؤاله.",
+          "إذا تغيرت الترتيبات فأخبريه بصدق ووضحي من سيرعاه."
+        ],
+        "faq": [
+          {
+            "q": "متى نخبر طفلنا الأول بالحمل؟",
+            "a": "اختاروا وقتًا يناسب عمره وما لاحظه ومدى استعدادكم لمشاركة الخبر. لا يضمن أسبوع بعينه نتيجة معينة للحمل أو رد فعل خاصًا من الطفل."
+          },
+          {
+            "q": "من الأفضل أن يخبره؟",
+            "a": "أحد الوالدين أو شخص يثق به الطفل ويستطيع الإجابة عن أسئلته خيار مناسب. إذا كان يهمك أن يسمع منك فخططي للحديث قبل أن يذكر الأصدقاء أو الأقارب الخبر أمامه."
+          },
+          {
+            "q": "أين نتحدث معه؟",
+            "a": "اختاروا مكانًا مألوفًا وهادئًا مع وقت للبقاء معًا بعد الحديث. إذا كان مرهقًا أو مشتت الانتباه فقد تناسبه لحظة أخرى."
+          },
+          {
+            "q": "كيف أبدأ الحديث دون أن أضغط عليه؟",
+            "a": "قولي مباشرة إنكم تنتظرون مولودًا. قد يساعد كتاب أو رسم ولا حاجة إلى احتفال خاص. دعي الفضول أو الفرح أو الصمت أو القلق ردودًا مقبولة."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "راعي عمر الطفل واستعداد الأسرة عند اختيار التوقيت.",
+            "أجيبي عن الأسئلة المحددة على دفعات صغيرة واتركي باب الحديث مفتوحًا.",
+            "إذا انتهى الحمل بفقد الطفل فاستخدمي لغة واضحة وطمئني طفلك إلى أنه لم يتسبب في ذلك."
+          ],
+          "bemama": "تقترح بي ماما كتابة الجملة الأولى التي تريدين قولها وتفصيل عملي واحد تعرفينه، مثل من سيصطحب طفلك بعد موعدك.",
+          "safety": "إذا أدى الخبر أو الفقد إلى ضيق مستمر يعطل النوم أو المدرسة أو اللعب فتحدثي إلى طبيب الطفل بشأن الدعم المتاح.",
+          "sources": [
+            {
+              "organization": "ميدلاين بلس، المكتبة الوطنية الأمريكية للطب",
+              "title": "الحديث مع الأطفال عن الحمل والمولود الجديد",
+              "url": "https://medlineplus.gov/ency/patientinstructions/000635.htm"
+            },
+            {
+              "organization": "فولينغ وزملاؤها، دراسات جمعية بحوث نمو الطفل",
+              "title": "دراسة طولية لتجربة الطفل الأول أثناء الانتقال إلى كونه أخًا أو أختًا",
+              "url": "https://websites.umich.edu/~gonzo/papers/volling-srcd-monograph-2017.pdf"
+            },
+            {
+              "organization": "مستشفى فيلادلفيا للأطفال",
+              "title": "كيف نتحدث مع الأطفال عن فقد مولود",
+              "url": "https://www.chop.edu/resources/talking-children-about-loss"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Comment annoncer votre grossesse à votre enfant ?",
+        "description": "Choisissez quand parler de la grossesse à votre enfant, avec des mots adaptés à son âge. Laissez-lui le temps de poser ses questions et de réagir à sa façon.",
+        "intro": "Votre enfant remarque qu’un proche vous demande souvent comment vous allez. Vous comptiez lui en parler plus tard, mais il commence à faire des suppositions. Vous pouvez choisir ce que vous êtes prête à dire, la personne de confiance qui lui annoncera la nouvelle et ce qui attendra une autre conversation.",
+        "sections": [
+          {
+            "heading": "Choisissez le moment qui convient à votre famille",
+            "paragraphs": [
+              "Il n’y a pas de semaine précise où il faut le lui dire. Pensez à ce qu’il voit déjà, aux personnes qui pourraient bientôt en parler et à la manière dont vous aimeriez répondre si la grossesse évoluait autrement que prévu. Si vous tenez à ce qu’il l’apprenne de vous, parlez-lui avant de l’annoncer plus largement.",
+              "Pour un petit, plusieurs mois sont difficiles à imaginer. Un repère connu, comme le début de l’hiver, peut lui parler davantage que la date prévue de naissance. Un enfant plus grand demandera peut-être pourquoi vous avez attendu. Vous pouvez lui expliquer que les adultes avaient besoin d’un peu de temps pour accueillir la nouvelle avant de la partager."
+            ]
+          },
+          {
+            "heading": "Annoncez la nouvelle simplement, puis faites une pause",
+            "paragraphs": [
+              "Choisissez un moment ordinaire et calme où vous pourrez rester un peu. Un parent ou un autre adulte de confiance peut lui parler. La mère pourrait dire par exemple « J’ai une nouvelle pour notre famille. Un bébé grandit dans mon utérus. Nous pensons qu’il naîtra après l’été. » Prenez un repère qui correspond à votre calendrier. Un album illustré ou un dessin peut vous aider à commencer si votre enfant aime cela.",
+              "Vous lui parlez d’une grossesse déjà en cours. Lui demander « Est-ce que tu voudrais un petit frère ou une petite sœur ? » peut lui donner l’impression que c’est à lui de décider. Après une brève explication, attendez. Il voudra peut-être savoir où dormira le bébé, demandera à goûter ou reprendra la conversation quelques jours plus tard."
+            ]
+          },
+          {
+            "heading": "Cherchez à comprendre sa question",
+            "paragraphs": [
+              "S’il demande « Et moi, où est-ce que je vais aller ? », voyez s’il parle de ce soir, du séjour à l’hôpital ou du moment où le bébé sera à la maison. Répondez clairement sur le point que vous connaissez. Si quelque chose reste à décider, dites-le et indiquez quand vous en reparlerez.",
+              "Une étude a suivi les aînés de 241 familles qui attendaient un deuxième enfant, depuis la période précédant la naissance jusqu’à l’année suivante. L’équipe a observé leur comportement à plusieurs reprises. Elle s’intéressait à leur adaptation au fil du temps et ne cherchait pas la meilleure semaine pour annoncer une grossesse. Une réaction de surprise ou de tristesse à table ne prédit pas la relation future entre frères et sœurs."
+            ]
+          },
+          {
+            "heading": "Si l’issue de la grossesse est incertaine ou si le bébé meurt",
+            "paragraphs": [
+              "Si vous attendez le résultat d’un examen, dites ce qui est vrai aujourd’hui, par exemple « Nous avons rendez-vous chez le médecin et nous en saurons plus après ». Votre enfant n’a pas besoin de tous les détails médicaux pour comprendre l’inquiétude d’un adulte proche. Dites-lui qui sera là pour les activités habituelles.",
+              "Si le bébé est mort pendant la grossesse, choisissez des mots simples et directs. Vous pourriez dire « Le bébé a cessé de grandir et il est mort. Il ne viendra pas à la maison. Rien de ce que tu as dit, pensé ou fait n’a provoqué cela. » Accueillez les questions même si elles se répètent. Un enfant qui repart jouer peut y revenir plus tard. Si sa détresse continue de perturber son sommeil, sa scolarité ou ses jeux, prenez conseil auprès de son médecin ou d’un service d’accompagnement des familles en deuil."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Choisissez un moment où un adulte de confiance pourra l’écouter après l’annonce.",
+          "Employez des mots et un repère dans le temps qu’il comprend, puis attendez sa question.",
+          "Si les projets changent, tenez-le au courant avec sincérité et dites-lui qui s’occupera de lui."
+        ],
+        "faq": [
+          {
+            "q": "Quand annoncer la grossesse à notre premier enfant ?",
+            "a": "Tenez compte de son âge, de ce qu’il a remarqué et de votre envie d’en parler. Aucune semaine particulière ne garantit l’issue de la grossesse ni une réaction donnée de l’enfant."
+          },
+          {
+            "q": "Qui devrait lui annoncer la nouvelle ?",
+            "a": "Un parent ou un adulte de confiance disponible pour répondre à ses questions convient bien. Si vous souhaitez qu’il l’apprenne de vous, prévoyez d’en parler avant qu’un proche ne risque de le faire."
+          },
+          {
+            "q": "Quel endroit choisir pour la conversation ?",
+            "a": "Privilégiez un lieu familier et calme où vous pourrez rester ensemble ensuite. Si votre enfant est fatigué ou distrait, un autre moment sera peut-être plus propice."
+          },
+          {
+            "q": "Comment aborder le sujet sans lui mettre la pression ?",
+            "a": "Dites simplement que vous attendez un bébé. Un livre ou un dessin peut vous aider sans qu’il soit nécessaire de mettre en scène l’annonce. Accueillez aussi bien sa curiosité et son enthousiasme que son silence ou son inquiétude."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Tenez compte de l’âge de l’enfant et du moment où la famille se sent prête à parler.",
+            "Répondez aux questions concrètes petit à petit et laissez la possibilité d’y revenir.",
+            "Si la grossesse se termine par la mort du bébé, dites-le clairement et rassurez l’enfant sur le fait qu’il n’en est pas responsable."
+          ],
+          "bemama": "BeMama suggère de noter la première phrase que vous souhaitez dire et un détail pratique que vous connaissez, par exemple qui ira chercher votre enfant après un rendez-vous.",
+          "safety": "Si l’annonce ou la perte entraîne une détresse persistante qui gêne le sommeil, l’école ou le jeu, demandez au médecin de votre enfant vers quel soutien vous tourner.",
+          "sources": [
+            {
+              "organization": "MedlinePlus, Bibliothèque nationale de médecine des États-Unis",
+              "title": "Parler aux enfants de la grossesse et de l’arrivée d’un bébé",
+              "url": "https://medlineplus.gov/ency/patientinstructions/000635.htm"
+            },
+            {
+              "organization": "Volling et ses collègues, monographies de la Société pour la recherche sur le développement de l’enfant",
+              "title": "Étude longitudinale des aînés au moment de l’arrivée d’un frère ou d’une sœur",
+              "url": "https://websites.umich.edu/~gonzo/papers/volling-srcd-monograph-2017.pdf"
+            },
+            {
+              "organization": "Hôpital pour enfants de Philadelphie",
+              "title": "Parler de la perte d’un bébé avec les enfants",
+              "url": "https://www.chop.edu/resources/talking-children-about-loss"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Hamile olduğunuzu çocuğunuza nasıl söyleyebilirsiniz?",
+        "description": "Hamileliği çocuğunuzla ne zaman paylaşacağınızı, yaşına uygun hangi sözcükleri seçebileceğinizi ve sorularına nasıl alan açabileceğinizi öğrenin.",
+        "intro": "Çocuğunuz bir yakınınızın sık sık nasıl olduğunuzu sorduğunu fark etti. Haberi daha sonra vermeyi planlıyordunuz ama şimdiden tahmin yürütüyor. Şu an ne kadarını anlatmaya hazır olduğunuza, haberi güvendiği kimin vereceğine ve hangi konuları sonraki bir konuşmaya bırakacağınıza karar verebilirsiniz.",
+        "sections": [
+          {
+            "heading": "Ailenizin paylaşmaya hazır olduğu zamanı seçin",
+            "paragraphs": [
+              "Çocuğa mutlaka söylenmesi gereken belirli bir hafta yoktur. Şimdiye kadar neler gördüğünü, başkalarının haberi yakında paylaşıp paylaşmayacağını ve gebeliğin seyri değişirse sorularına nasıl yanıt vermek isteyeceğinizi düşünün. Sizden duymasını istiyorsanız geniş bir çevreye duyurmadan önce onunla konuşun.",
+              "Küçük bir çocuk birkaç aylık süreyi gözünde canlandırmakta zorlanabilir. Kışın başlaması gibi tanıdık bir olay, tahmini doğum tarihinden daha anlaşılır olabilir. Daha büyük bir çocuk neden beklediğinizi sorabilir. Yetişkinlerin başkalarıyla paylaşmadan önce habere alışmak için zamana ihtiyaç duyduğunu söyleyebilirsiniz."
+            ]
+          },
+          {
+            "heading": "Haberi açıkça verin ve bekleyin",
+            "paragraphs": [
+              "Ardından bir süre yanında kalabileceğiniz sakin, sıradan bir an seçin. Haberi ebeveynlerden biri ya da güvendiği başka bir yetişkin verebilir. Örneğin annesi “Ailemizle ilgili bir haberim var. Rahmimde bir bebek büyüyor. Yazdan sonra doğmasını bekliyoruz” diyebilir. Kendi takviminize uyan bir olayı seçin. Çocuğunuz seviyorsa resimli bir kitap ya da çizim söze girmenizi kolaylaştırabilir.",
+              "Ona zaten gerçekleşmekte olan bir şeyi anlatıyorsunuz. “Küçük bir kardeşin olsun ister misin?” diye sormak, karar kendisine aitmiş izlenimi yaratabilir. Kısa bir açıklamadan sonra bekleyin. Bebeğin nerede uyuyacağını sorabilir, bir şeyler atıştırmak isteyebilir ya da günler sonra konuya dönebilir."
+            ]
+          },
+          {
+            "heading": "Asıl sorduğu şeyi öğrenin",
+            "paragraphs": [
+              "“Ben nereye gideceğim?” diye sorarsa bu akşamı mı, hastanede kalacağınız süreyi mi yoksa bebek eve geldikten sonrasını mı kastettiğini anlamaya çalışın. Bildiğiniz kısım için tek ve açık bir yanıt verin. Plan kesinleşmemişse bunu söyleyin ve tekrar ne zaman konuşacağınızı belirtin.",
+              "İkinci çocuğunu bekleyen 241 aileyle yapılan bir araştırmada ilk çocuklar doğum öncesinden başlayarak sonraki bir yıl boyunca izlendi. Araştırmacılar davranışlarını birkaç kez değerlendirdi. Çalışma çocukların zamanla nasıl uyum sağladığını inceledi. Gebeliği duyurmak için en iyi haftayı araştırmadı. Mutfak masasında bir defa şaşırması veya üzülmesi, kardeşlerin ilerideki ilişkisini öngörmez."
+            ]
+          },
+          {
+            "heading": "Gebeliğin gidişi belirsizse veya bebek ölürse",
+            "paragraphs": [
+              "Bir testin sonucunu bekliyorsanız bugün bildiğinizi söyleyebilirsiniz. Örneğin “Doktor randevumuz var, sonrasında daha çok şey öğreneceğiz.” Çocuğun sevdiği bir yetişkinin neden endişeli olduğunu anlamak için her tıbbi ayrıntıyı bilmesi gerekmez. Günlük işlerde yanında kimin olacağını anlatın.",
+              "Bebek gebelik sırasında öldüyse kısa ve doğrudan sözcükler seçin. “Bebeğin büyümesi durdu ve bebek öldü. Eve gelmeyecek. Senin söylediğin, düşündüğün ya da yaptığın hiçbir şey buna yol açmadı” diyebilirsiniz. Aynı soruyu tekrar sormasına alan açın. Konuşmadan sonra oyuna giden bir çocuk daha sonra konuya dönebilir. Sıkıntısı sürüyor ve uykusunu, okulunu ya da oyununu aksatıyorsa hekiminden veya ailelere yas desteği sunan bir hizmetten yardım isteyin."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Güvendiği bir yetişkinin haberden sonra onu dinlemeye zamanı olan bir an seçin.",
+          "Anlayacağı sözcükler ve bildiği bir zaman işareti kullanın, ardından kendi sorusunu bekleyin.",
+          "Planlar değişirse dürüstçe anlatın ve onunla kimin ilgileneceğini söyleyin."
+        ],
+        "faq": [
+          {
+            "q": "İlk çocuğumuza hamileliği ne zaman söylemeliyiz?",
+            "a": "Yaşına, fark ettiklerine ve sizin paylaşmaya hazır olmanıza uygun bir zaman seçin. Belirli bir hafta ne gebeliğin sonucunu ne de çocuğun vereceği tepkiyi garanti eder."
+          },
+          {
+            "q": "Haberi kim vermeli?",
+            "a": "Soruları yanıtlayabilecek bir ebeveyn veya güvendiği bir bakım veren iyi bir seçimdir. Sizden duyması önemliyse yakınlarınız veya arkadaşlarınız konuyu açmadan önce konuşmayı planlayın."
+          },
+          {
+            "q": "Konuşmak için nasıl bir ortam seçelim?",
+            "a": "Ardından birlikte vakit geçirebileceğiniz, tanıdık ve sakin bir yer seçin. Yorgun veya dikkati dağınıksa başka bir an daha uygun olabilir."
+          },
+          {
+            "q": "Baskı yapmadan söze nasıl girebilirim?",
+            "a": "Bir bebek beklediğinizi doğrudan söyleyin. Çizim veya kitap yardımcı olabilir ama özel bir duyuru hazırlamanız gerekmez. Merak etmesini, sevinmesini, sessiz kalmasını ya da kaygılanmasını kabul edin."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Zamanı seçerken çocuğun yaşını ve ailenin haberi paylaşmaya hazır olup olmadığını düşünün.",
+            "Somut sorulara kısa yanıtlar verin ve yeniden konuşabilmesine fırsat tanıyın.",
+            "Gebelik bebek kaybıyla sonuçlanırsa açık konuşun ve çocuğa buna kendisinin yol açmadığını söyleyin."
+          ],
+          "bemama": "BeMama, söylemek istediğiniz ilk cümleyi ve bir randevudan sonra çocuğunuzu kimin alacağı gibi açıklayabileceğiniz bir ayrıntıyı yazmanızı önerir.",
+          "safety": "Haber veya kayıp, uyku, okul ya da oyunu aksatan ve süren bir sıkıntıya yol açarsa destek için çocuğunuzun hekimiyle görüşün.",
+          "sources": [
+            {
+              "organization": "MedlinePlus, ABD Ulusal Tıp Kütüphanesi",
+              "title": "Çocuklarla gebelik ve yeni bir bebek hakkında konuşmak",
+              "url": "https://medlineplus.gov/ency/patientinstructions/000635.htm"
+            },
+            {
+              "organization": "Volling ve çalışma arkadaşları, Çocuk Gelişimi Araştırmaları Derneği monografileri",
+              "title": "Kardeş sahibi olma sürecinde ilk çocukları izleyen boylamsal çalışma",
+              "url": "https://websites.umich.edu/~gonzo/papers/volling-srcd-monograph-2017.pdf"
+            },
+            {
+              "organization": "Philadelphia Çocuk Hastanesi",
+              "title": "Bir bebeğin kaybı hakkında çocuklarla konuşmak",
+              "url": "https://www.chop.edu/resources/talking-children-about-loss"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Cómo contarle a tu hijo que estás embarazada",
+        "description": "Elige cuándo contarle a tu hijo que esperas un bebé y qué palabras usar según su edad. Dale tiempo para hacer preguntas y expresar lo que siente.",
+        "intro": "Tu hijo nota que un familiar te pregunta a menudo cómo te encuentras. Querías compartir la noticia más adelante, pero ya está haciendo conjeturas. Puedes decidir qué quieres contar ahora, quién de su confianza se lo dirá y qué dejar para otra conversación.",
+        "sections": [
+          {
+            "heading": "Elige el momento en que tu familia esté preparada",
+            "paragraphs": [
+              "No hay una semana concreta en la que debas contárselo. Piensa en lo que ya observa, en si otras personas están a punto de dar la noticia y en cómo querrías responder si el embarazo cambia de curso. Si quieres que se entere por ti, habla con él antes de anunciarlo a más gente.",
+              "A un niño pequeño puede costarle imaginar varios meses. Un acontecimiento conocido, como el comienzo del invierno, puede resultarle más claro que una fecha prevista de parto. Uno mayor quizá pregunte por qué habéis esperado. Puedes explicarle que los adultos necesitabais un tiempo para asimilar la noticia antes de compartirla."
+            ]
+          },
+          {
+            "heading": "Da la noticia con sencillez y deja una pausa",
+            "paragraphs": [
+              "Busca un momento tranquilo y cotidiano en el que puedas quedarte un rato. Puede dar la noticia uno de sus padres u otra persona de confianza. Por ejemplo, la madre podría decir: «Tengo una noticia de la familia. Está creciendo un bebé en mi útero y esperamos que nazca después del verano». Elige un acontecimiento que encaje con tus fechas. Un cuento ilustrado o un dibujo pueden abrir la conversación si le gustan.",
+              "Estás contando algo que ya ocurre. Preguntar «¿Te gustaría tener un hermanito o una hermanita?» podría hacerle creer que puede decidir. Tras una explicación breve, espera. Quizá pregunte dónde dormirá el bebé, te pida la merienda o vuelva a hablar de ello unos días después."
+            ]
+          },
+          {
+            "heading": "Averigua qué quiere saber",
+            "paragraphs": [
+              "Si pregunta «¿Y yo adónde iré?», averigua si se refiere a esta noche, a tu estancia en el hospital o al regreso del bebé a casa. Dale una respuesta concreta sobre la parte que conoces. Si algún plan sigue en el aire, díselo y explícale cuándo volveréis a hablar.",
+              "En un estudio con 241 familias que esperaban un segundo hijo se siguió a los primogénitos desde antes del nacimiento hasta el año siguiente. El equipo evaluó su conducta en varias ocasiones. Estudió cómo se adaptaban con el tiempo y no cuál era la mejor semana para anunciar el embarazo. Una reacción de sorpresa o disgusto en la cocina no predice cómo será la relación entre hermanos."
+            ]
+          },
+          {
+            "heading": "Si el embarazo es incierto o el bebé muere",
+            "paragraphs": [
+              "Si esperas el resultado de una prueba, cuenta lo que sabes hoy. Por ejemplo: «Tenemos una cita médica y después sabremos más». No necesita todos los detalles médicos para entender que un adulto cercano está preocupado. Dile quién estará con él en sus rutinas habituales.",
+              "Si el bebé ha muerto durante el embarazo, usa palabras breves y directas. Podrías decir: «El bebé dejó de crecer y murió. No va a venir a casa. Nada de lo que dijiste, pensaste o hiciste hizo que pasara esto». Deja que repita sus preguntas. Si se pone a jugar, quizá vuelva al tema más adelante. Si el malestar persiste y le dificulta dormir, ir a la escuela o jugar, busca apoyo en su profesional de salud o en un servicio de atención al duelo familiar."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Elige un momento en que un adulto de confianza pueda escucharle después.",
+          "Usa palabras y una referencia temporal que entienda y espera a que formule su propia pregunta.",
+          "Si los planes cambian, cuéntaselo con sinceridad y dile quién le cuidará."
+        ],
+        "faq": [
+          {
+            "q": "¿Cuándo se lo decimos a nuestro primer hijo?",
+            "a": "Elige un momento acorde con su edad, lo que ha notado y tus ganas de compartirlo. Ninguna semana concreta garantiza un resultado del embarazo ni una reacción determinada."
+          },
+          {
+            "q": "¿Quién debería contárselo?",
+            "a": "Uno de sus padres o una persona de confianza que pueda responder a sus preguntas. Si quieres que lo sepa por ti, busca un momento antes de que algún amigo o familiar pueda mencionarlo."
+          },
+          {
+            "q": "¿Dónde conviene tener esta conversación?",
+            "a": "Escoge un lugar conocido y tranquilo y reserva tiempo para quedaros juntos después. Si está cansado o distraído, quizá sea más fácil en otro momento."
+          },
+          {
+            "q": "¿Cómo empiezo sin presionarle?",
+            "a": "Dile directamente que esperáis un bebé. Un dibujo o un cuento pueden ayudar, pero no hace falta preparar un anuncio especial. Acoge su curiosidad, entusiasmo, silencio o preocupación."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Al elegir el momento, ten en cuenta la edad del niño y si la familia se siente preparada.",
+            "Responde poco a poco a sus dudas concretas y deja abierta la conversación.",
+            "Si muere el bebé, usa un lenguaje claro y asegúrale que él no ha causado la pérdida."
+          ],
+          "bemama": "BeMama sugiere anotar la primera frase que quieres decirle y un detalle práctico que puedas aclarar, por ejemplo, quién irá a recogerle después de una cita.",
+          "safety": "Si la noticia o la pérdida causa un malestar persistente que dificulta el sueño, la escuela o el juego, habla con su profesional de salud para buscar apoyo.",
+          "sources": [
+            {
+              "organization": "MedlinePlus, Biblioteca Nacional de Medicina de Estados Unidos",
+              "title": "Hablar con los niños sobre el embarazo y la llegada de un bebé",
+              "url": "https://medlineplus.gov/ency/patientinstructions/000635.htm"
+            },
+            {
+              "organization": "Volling y colaboradores, monografías de la Sociedad para la Investigación del Desarrollo Infantil",
+              "title": "Estudio longitudinal de los primogénitos durante la transición a tener un hermano",
+              "url": "https://websites.umich.edu/~gonzo/papers/volling-srcd-monograph-2017.pdf"
+            },
+            {
+              "organization": "Hospital Infantil de Filadelfia",
+              "title": "Cómo hablar con los niños sobre la pérdida de un bebé",
+              "url": "https://www.chop.edu/resources/talking-children-about-loss"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Como contar ao seu filho que você está grávida",
+        "description": "Escolha quando falar da gravidez com seu filho e quais palavras usar para a idade dele. Dê espaço para perguntas, sentimentos diferentes e incertezas.",
+        "intro": "Seu filho percebe que um parente vive perguntando como você está. Você planejava contar a novidade mais adiante, mas ele já está tentando adivinhar. Você pode decidir o que se sente pronta para dizer, escolher alguém de confiança para contar e deixar o restante para outra conversa.",
+        "sections": [
+          {
+            "heading": "Escolha o momento em que a família estiver pronta",
+            "paragraphs": [
+              "Não existe uma semana específica em que seja preciso contar. Pense no que a criança já percebe, se outras pessoas estão prestes a dar a notícia e como gostaria de responder às perguntas se a gestação mudar de rumo. Se quer que ela saiba por você, conversem antes de um anúncio mais amplo.",
+              "Para uma criança pequena, pode ser difícil imaginar vários meses. Um acontecimento conhecido, como o início do inverno, pode ser mais fácil de entender do que a data prevista do parto. Uma criança maior talvez pergunte por que vocês esperaram. Você pode explicar que os adultos queriam um tempo para assimilar a notícia antes de compartilhá-la."
+            ]
+          },
+          {
+            "heading": "Conte de forma simples e faça uma pausa",
+            "paragraphs": [
+              "Escolha um momento tranquilo do dia em que você possa ficar por perto depois. A mãe, o pai ou outro cuidador de confiança pode dar a notícia. A mãe poderia dizer, por exemplo, “Tenho uma novidade da nossa família. Está crescendo um bebê no meu útero. A gente espera que ele nasça depois do verão”. Escolha um marco que combine com a sua previsão. Um livro ilustrado ou desenho pode ajudar a começar se a criança gostar.",
+              "Você está contando sobre algo que já acontece. Perguntar “Você gostaria de ter um irmãozinho ou uma irmãzinha?” pode dar a entender que cabe à criança decidir. Depois de uma breve explicação, espere. Ela pode perguntar onde o bebê vai dormir, pedir um lanche ou voltar ao assunto dias depois."
+            ]
+          },
+          {
+            "heading": "Entenda a pergunta que a criança quer fazer",
+            "paragraphs": [
+              "Se ela perguntar “E eu vou para onde?”, procure saber se está falando de hoje à noite, dos dias no hospital ou de quando o bebê estiver em casa. Dê uma resposta concreta sobre o que você sabe. Se algo ainda não está decidido, diga isso e conte quando vocês vão conversar de novo.",
+              "Um estudo com 241 famílias à espera do segundo filho acompanhou os primogênitos desde antes do nascimento e ao longo do ano seguinte. Os pesquisadores avaliaram o comportamento em vários momentos. O trabalho estudou como as crianças se adaptavam com o tempo e não investigou a melhor semana para dar a notícia. Uma reação de surpresa ou tristeza à mesa não prevê como será a relação entre irmãos."
+            ]
+          },
+          {
+            "heading": "Quando há incerteza na gravidez ou o bebê morre",
+            "paragraphs": [
+              "Se aguarda o resultado de um exame, você pode dizer o que sabe hoje. Por exemplo, “Temos uma consulta e depois vamos saber mais”. As crianças não precisam de todos os detalhes médicos para entender por que um adulto próximo está preocupado. Conte quem estará com elas nas atividades habituais.",
+              "Se o bebê morreu durante a gestação, use palavras breves e diretas. Você pode dizer “O bebê parou de crescer e morreu. Ele não vai vir para casa. Nada do que você falou, pensou ou fez causou isso”. Acolha perguntas repetidas. Uma criança que sai para brincar pode voltar ao assunto depois. Se o sofrimento continuar a interferir no sono, na escola ou nas brincadeiras, procure o profissional que acompanha a criança ou um serviço de apoio a famílias em luto."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Escolha um momento em que um adulto de confiança tenha tempo para ouvir depois da notícia.",
+          "Use palavras e um marco no tempo que a criança conheça e espere pela pergunta dela.",
+          "Se os planos mudarem, conte com sinceridade e explique quem vai cuidar dela."
+        ],
+        "faq": [
+          {
+            "q": "Quando devemos contar ao nosso primeiro filho sobre a gravidez?",
+            "a": "Escolha um momento de acordo com a idade da criança, o que ela já percebeu e a sua disposição para contar. Nenhuma semana garante um desfecho para a gravidez nem uma reação da criança."
+          },
+          {
+            "q": "Quem deve contar?",
+            "a": "Um dos pais ou um cuidador de confiança que possa responder a perguntas é uma boa escolha. Se você quer que seu filho saiba por você, converse com ele antes que parentes ou amigos possam mencionar o assunto."
+          },
+          {
+            "q": "Qual é um bom lugar para a conversa?",
+            "a": "Prefira um lugar conhecido e tranquilo, com tempo para vocês ficarem juntos depois. Se a criança estiver cansada ou distraída, outro momento pode ser mais fácil."
+          },
+          {
+            "q": "Como começar sem pressionar meu filho?",
+            "a": "Diga com clareza que vocês esperam um bebê. Um livro ou desenho pode ajudar, mas não é preciso planejar uma surpresa. Acolha a curiosidade, a animação, o silêncio ou a preocupação."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Considere a idade da criança e a disposição da família para falar ao escolher o momento.",
+            "Responda a perguntas concretas aos poucos e mantenha o diálogo aberto.",
+            "Se houver perda do bebê, fale com clareza e reafirme que a criança não causou o que aconteceu."
+          ],
+          "bemama": "A BeMama sugere anotar a primeira frase que quer dizer e um detalhe prático que já pode explicar, como quem vai buscar a criança depois de uma consulta.",
+          "safety": "Se a notícia ou uma perda causar sofrimento persistente que prejudique o sono, a escola ou as brincadeiras, converse com o profissional de saúde da criança sobre apoio.",
+          "sources": [
+            {
+              "organization": "MedlinePlus, Biblioteca Nacional de Medicina dos Estados Unidos",
+              "title": "Como conversar com as crianças sobre a gravidez e a chegada de um bebê",
+              "url": "https://medlineplus.gov/ency/patientinstructions/000635.htm"
+            },
+            {
+              "organization": "Volling e colaboradores, monografias da Sociedade de Pesquisa em Desenvolvimento Infantil",
+              "title": "Estudo longitudinal dos primogênitos na transição para a chegada de um irmão",
+              "url": "https://websites.umich.edu/~gonzo/papers/volling-srcd-monograph-2017.pdf"
+            },
+            {
+              "organization": "Hospital Infantil da Filadélfia",
+              "title": "Como falar com as crianças sobre a perda de um bebê",
+              "url": "https://www.chop.edu/resources/talking-children-about-loss"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5936.webp",
+    "heroAlt": {
+      "en": "A parent holds a drawing of a baby while a child touches a picture of an autumn leaf.",
+      "fa": "یکی از والدین نقاشی یک نوزاد را نگه داشته و کودک تصویر برگی پاییزی را لمس می‌کند.",
+      "ar": "أحد الوالدين يحمل رسماً لرضيع فيما يلمس الطفل صورة ورقة خريفية.",
+      "fr": "Un parent tient le dessin d’un bébé tandis qu’un enfant touche l’image d’une feuille d’automne.",
+      "tr": "Bir ebeveyn bebek resmini tutarken çocuk sonbahar yaprağı çizimine dokunuyor.",
+      "es": "Una persona adulta sostiene un dibujo de un bebé mientras un niño toca la imagen de una hoja de otoño.",
+      "pt": "Um dos pais segura um desenho de um bebê enquanto a criança toca a figura de uma folha de outono."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "How to tell your child you are pregnant",
+      "description": "Choose when and how to tell your child about a pregnancy, find words that suit their age and leave room for questions, mixed feelings and uncertainty."
+    },
+    "fa": {
+      "title": "چطور خبر بارداری را به فرزندمان بگوییم؟",
+      "description": "برای گفتن خبر بارداری به کودک زمانی مناسب پیدا کنید، واژه‌ها را بر پایهٔ سن او انتخاب کنید و برای سؤال‌ها، احساسات متفاوت و نامعلومی‌ها جا بگذارید."
+    },
+    "ar": {
+      "title": "كيف تخبرين طفلك بأنك حامل؟",
+      "description": "اختاري وقتًا يناسب أسرتك لإخبار طفلك بالحمل، وابحثي عن كلمات يفهمها تناسب عمره وتتيح له طرح أسئلته والتعبير عن مشاعره حتى حين لا تتضح كل التفاصيل."
+    },
+    "fr": {
+      "title": "Comment annoncer votre grossesse à votre enfant ?",
+      "description": "Choisissez quand parler de la grossesse à votre enfant, avec des mots adaptés à son âge. Laissez-lui le temps de poser ses questions et de réagir à sa façon."
+    },
+    "tr": {
+      "title": "Hamile olduğunuzu çocuğunuza nasıl söyleyebilirsiniz?",
+      "description": "Hamileliği çocuğunuzla ne zaman paylaşacağınızı, yaşına uygun hangi sözcükleri seçebileceğinizi ve sorularına nasıl alan açabileceğinizi öğrenin."
+    },
+    "es": {
+      "title": "Cómo contarle a tu hijo que estás embarazada",
+      "description": "Elige cuándo contarle a tu hijo que esperas un bebé y qué palabras usar según su edad. Dale tiempo para hacer preguntas y expresar lo que siente."
+    },
+    "pt": {
+      "title": "Como contar ao seu filho que você está grávida",
+      "description": "Escolha quando falar da gravidez com seu filho e quais palavras usar para a idade dele. Dê espaço para perguntas, sentimentos diferentes e incertezas."
+    }
+  }
+}

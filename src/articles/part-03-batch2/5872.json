@@ -1,0 +1,611 @@
+{
+  "sourceId": "5872",
+  "article": {
+    "slug": "baby-and-child/when-your-child-tells-you-they-have-hurt-themselves",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "When your child tells you they have hurt themselves",
+        "description": "Learn how to check immediate safety after self-harm, what to say to a child who tells you, and how to arrange assessment and a practical follow-up plan.",
+        "intro": "Your teenager asks you to sit down and says they hurt themselves last night. Start with “Thank you for telling me. You’re not in trouble. I’m going to stay with you while we get help.” You can listen without needing them to explain everything before you act.",
+        "sections": [
+          {
+            "heading": "Check what needs emergency care now",
+            "paragraphs": [
+              "Ask calmly whether they have an injury, have taken anything that might harm them, or are thinking about suicide now. If there may have been a poisoning or overdose, a serious injury or a suicide attempt, get emergency medical help now, even if they feel well. Call emergency services for difficulty breathing, heavy bleeding, collapse or trouble waking them. Follow emergency instructions and stay with them if it is safe.",
+              "If they are thinking of killing themselves now, might act again soon or you cannot keep them safe, stay with them and call emergency services. If there is no immediate danger, still contact their clinician or an urgent child mental health service today for advice and assessment. Self-harm can happen with or without an intention to die. Do not guess the intent from the injury’s appearance."
+            ]
+          },
+          {
+            "heading": "Ask what would make it easier to talk",
+            "paragraphs": [
+              "Use their words and ask one question at a time: “What was going on just before you felt this way?” They might prefer to write a note, sit quietly with you or speak to another trusted adult. Avoid demanding proof, blaming them or making them promise never to do it again. Explain who needs to know for their safety. Tell them before you share information when possible.",
+              "A clinician should assess both physical needs and the distress or circumstances around the episode. A child mental health professional can ask about what the self-harm meant to them, pressures, bullying or harm from others, and who helps them feel safer. The young person may need time alone with the professional as well as time together with you."
+            ]
+          },
+          {
+            "heading": "Make a plan for the next difficult hour",
+            "paragraphs": [
+              "With the child and their team, write down early warning signs, one coping step, a person to contact and where to get urgent care. Agree who will secure medicines and other potentially dangerous items and where both of you can find the plan. Ask who will follow up and when. NICE advises initial aftercare within 48 hours of the psychosocial assessment if safety concerns continue. Seek emergency help for immediate danger without waiting for that appointment.",
+              "Treatment depends on the young person’s needs. In a randomized trial of 173 adolescents at high risk of suicide, dialectical behaviour therapy led to better outcomes for repeated self-harm than individual and group supportive therapy at the end of six months. By twelve months the differences in the main outcomes were no longer statistically significant. This study does not choose treatment for every child. Ask for support for yourself as a caregiver and review the plan with the team if self-harm happens again."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Check medical and immediate safety needs first.",
+          "Arrange prompt professional assessment even when the child says they did not want to die.",
+          "Make a shared safety plan, including who will follow up and where to get urgent help."
+        ],
+        "faq": [
+          {
+            "q": "Should I respond if my child has harmed themselves?",
+            "a": "Yes. Thank them for telling you, stay calm and check safety. Take the episode seriously even if they say it was minor. Help them obtain medical and emotional assessment."
+          },
+          {
+            "q": "What should I do if I see my child hurting themselves?",
+            "a": "Get emergency help if they are in immediate danger, have a serious injury, may have taken a harmful substance or cannot be kept safe. Stay nearby if safe and follow emergency instructions. Otherwise seek professional advice today."
+          },
+          {
+            "q": "How can I bring it up?",
+            "a": "Choose a private moment, say what you have noticed without judgement, and ask how they feel and whether they are safe. If talking is hard, offer another way to tell you or a clinician."
+          },
+          {
+            "q": "What if it happens again despite support?",
+            "a": "Check safety again and seek care for the new episode. Contact their team to review the plan and consider additional help. A recurrence does not mean the child or caregiver has failed."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 17, 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Check for urgent medical needs and ask directly about current suicidal thoughts.",
+            "Arrange a psychosocial assessment and involve the child in their safety plan.",
+            "Agree on a follow-up contact and ask for support for caregivers too."
+          ],
+          "bemama": "BeMama suggests asking your child which trusted adult they could reach if you were unavailable. Write down together how to contact them and when to call emergency services.",
+          "safety": "Get emergency help now for suspected poisoning or overdose, a serious injury, a suicide attempt, current suicidal thoughts or immediate danger. Stay with the child if safe. Seek same-day advice after self-harm even without an apparent emergency.",
+          "sources": [
+            {
+              "organization": "National Institute for Health and Care Excellence",
+              "title": "Assessment, aftercare and safety planning after self-harm",
+              "url": "https://www.nice.org.uk/guidance/ng225/chapter/Recommendations"
+            },
+            {
+              "organization": "Herefordshire and Worcestershire Health and Care NHS Trust",
+              "title": "Emergency help for self-harm and suicidal thoughts",
+              "url": "https://www.cypf.hwhct.nhs.uk/self-harm"
+            },
+            {
+              "organization": "McCauley and colleagues, JAMA Psychiatry",
+              "title": "Randomized trial of dialectical behaviour therapy for adolescents at high suicide risk",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/29926087/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "وقتی فرزندتان می‌گوید به خودش آسیب زده است",
+        "description": "بخوانید پس از خودآسیبی چطور خطر فوری را بررسی کنید، به حرف فرزندتان گوش دهید و برای ارزیابی تخصصی و پیگیری مراقبت از او برنامه بریزید.",
+        "intro": "نوجوانتان می‌خواهد کنارش بنشینید و می‌گوید دیشب به خودش آسیب زده است. می‌توانید بگویید «ممنونم که به من گفتی. قرار نیست تنبیه شوی. کنارت می‌مانم تا کمک بگیریم.» می‌توانید شنونده باشید و برای کمک اقدام کنید، حتی اگر هنوز نتواند همه‌چیز را توضیح دهد.",
+        "sections": [
+          {
+            "heading": "بررسی کنید آیا همین حالا به مراقبت اورژانسی نیاز دارد",
+            "paragraphs": [
+              "با آرامش بپرسید آیا زخمی شده، چیزی مصرف کرده که ممکن است برایش زیان‌آور باشد یا همین حالا به خودکشی فکر می‌کند. اگر احتمال مسمومیت، مصرف بیش از حد دارو یا ماده‌ای دیگر، جراحت جدی یا اقدام به خودکشی وجود دارد، حتی اگر حالش خوب است فوراً کمک پزشکی اورژانسی بگیرید. اگر به‌سختی نفس می‌کشد، خونریزی شدید دارد، ناگهان از حال رفته یا به‌سختی بیدار می‌شود، با اورژانس تماس بگیرید. راهنمایی‌های اورژانس را دنبال کنید و اگر امن است کنارش بمانید.",
+              "اگر اکنون به پایان دادن به زندگی خود فکر می‌کند، ممکن است به‌زودی دوباره به خودش آسیب بزند یا نمی‌توانید امنیتش را حفظ کنید، کنارش بمانید و با اورژانس تماس بگیرید. حتی اگر خطر فوری در میان نیست، امروز برای راهنمایی و ارزیابی با پزشکش یا خدمات فوری سلامت روان کودک و نوجوان تماس بگیرید. خودآسیبی ممکن است با قصد مرگ یا بدون آن رخ دهد. از ظاهر جراحت درباره قصد کودک نتیجه‌گیری نکنید."
+            ]
+          },
+          {
+            "heading": "بپرسید چه چیزی حرف زدن را برایش آسان‌تر می‌کند",
+            "paragraphs": [
+              "از واژه‌های خودش استفاده کنید و هر بار یک پرسش بپرسید. «درست پیش از اینکه چنین حسی پیدا کنی، چه اتفاقی می‌افتاد؟» شاید بخواهد یادداشتی بنویسد، در سکوت کنارتان بنشیند یا با بزرگسال دیگری که به او اعتماد دارد حرف بزند. از او مدرک نخواهید، سرزنشش نکنید و از او قول نگیرید که دیگر هرگز چنین کاری نکند. توضیح دهید برای حفظ امنیتش چه کسانی باید مطلع شوند. در صورت امکان پیش از درمیان گذاشتن موضوع با دیگران به او بگویید.",
+              "متخصص سلامت باید هم به نیازهای جسمی او و هم به ناراحتی یا شرایطی که با این اتفاق همراه بوده توجه کند. متخصص سلامت روان کودک و نوجوان می‌تواند بپرسد این رفتار برای او چه معنایی داشته، آیا فشاری را تجربه کرده یا کسی او را آزار داده یا برایش قلدری کرده و کنار چه کسی احساس امنیت بیشتری می‌کند. نوجوان ممکن است علاوه بر دیدار با حضور شما، به فرصتی برای صحبت خصوصی با متخصص نیاز داشته باشد."
+            ]
+          },
+          {
+            "heading": "برای ساعت دشوار بعدی برنامه بریزید",
+            "paragraphs": [
+              "همراه فرزندتان و تیم درمان نشانه‌های هشدار اولیه، یک راه کنار آمدن با آشفتگی، فردی برای تماس و محل دریافت کمک فوری را بنویسید. مشخص کنید چه کسی داروها و سایر وسایل خطرناک را در جای امن می‌گذارد و هر دو از کجا می‌توانید به برنامه دسترسی داشته باشید. بپرسید چه کسی و چه زمانی پیگیری می‌کند. راهنمای NICE توصیه می‌کند اگر نگرانی درباره ایمنی ادامه دارد، پیگیری اولیه ظرف ۴۸ ساعت پس از ارزیابی روانی‌اجتماعی انجام شود. هنگام خطر فوری منتظر آن قرار نمانید و از اورژانس کمک بگیرید.",
+              "درمان به نیازهای نوجوان بستگی دارد. در یک کارآزمایی تصادفی با شرکت ۱۷۳ نوجوان در معرض خطر بالای خودکشی، در پایان شش ماه رفتاردرمانی دیالکتیکی برای خودآسیبی مکرر از درمان حمایتی فردی و گروهی نتایج بهتری داشت. در دوازده‌ماهگی پیگیری، تفاوت میان گروه‌ها در پیامدهای اصلی دیگر از نظر آماری معنادار نبود. این مطالعه تعیین نمی‌کند که هر کودک چه درمانی باید بگیرد. برای خودتان هم به‌عنوان مراقب حمایت بخواهید و اگر خودآسیبی تکرار شد، برنامه را با تیم درمان مرور کنید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "ابتدا نیاز به مراقبت پزشکی و ایمنی همین لحظه را بررسی کنید.",
+          "حتی اگر فرزندتان می‌گوید نمی‌خواسته بمیرد، برای ارزیابی تخصصی سریع اقدام کنید.",
+          "با هم برنامه ایمنی بنویسید و فرد مسئول پیگیری و محل دریافت کمک فوری را مشخص کنید."
+        ],
+        "faq": [
+          {
+            "q": "اگر فرزندم به خودش آسیب زده باید کاری کنم؟",
+            "a": "بله. از اینکه به شما گفته تشکر کنید، آرام بمانید و ایمنی او را بررسی کنید. حتی اگر می‌گوید اتفاق کوچکی بوده، آن را جدی بگیرید. کمکش کنید از نظر جسمی و روانی ارزیابی شود."
+          },
+          {
+            "q": "اگر ببینم فرزندم دارد به خودش آسیب می‌زند چه کنم؟",
+            "a": "اگر خطر فوری یا جراحت جدی در میان است، احتمال دارد ماده زیان‌آوری مصرف کرده باشد یا نمی‌توانید امنیتش را حفظ کنید، از اورژانس کمک بگیرید. اگر امن است نزدیکش بمانید و راهنمایی‌های اورژانس را دنبال کنید. در غیر این صورت نیز امروز از یک متخصص راهنمایی بگیرید."
+          },
+          {
+            "q": "چطور موضوع را پیش بکشم؟",
+            "a": "فرصتی خصوصی انتخاب کنید. بدون قضاوت بگویید متوجه چه چیزی شده‌اید، چه احساسی دارد و آیا اکنون در امنیت است را از او بپرسید. اگر حرف زدن سخت است راه دیگری پیشنهاد دهید تا شما یا متخصص را در جریان بگذارد."
+          },
+          {
+            "q": "اگر با وجود حمایت باز هم تکرار شد چه کنم؟",
+            "a": "ایمنی را دوباره بررسی کنید و برای اتفاق تازه هم مراقبت بگیرید. با تیم درمانش تماس بگیرید تا برنامه را مرور کنید و درباره کمک بیشتر تصمیم بگیرید. تکرار رفتار به معنی شکست کودک یا مراقب او نیست."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۷ نوامبر ۲۰۲۶ بازبینی شد",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "نیاز فوری به مراقبت پزشکی را بررسی کنید و مستقیم درباره فکر خودکشی در همین لحظه بپرسید.",
+            "برای ارزیابی روانی‌اجتماعی اقدام کنید و فرزندتان را در نوشتن برنامه ایمنی مشارکت دهید.",
+            "درباره فردی که پیگیری را انجام می‌دهد توافق کنید و برای مراقبان نیز حمایت بخواهید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند از فرزندتان بپرسید اگر شما در دسترس نبودید به کدام بزرگسال مورد اعتماد رجوع می‌کند. با هم بنویسید چطور با او تماس بگیرد و چه زمانی با اورژانس تماس بگیرد.",
+          "safety": "اگر احتمال مسمومیت یا مصرف بیش از حد، جراحت جدی یا اقدام به خودکشی وجود دارد یا فرزندتان اکنون به خودکشی فکر می‌کند یا در خطر فوری است، همین حالا از اورژانس کمک بگیرید. اگر امن است کنارش بمانید. پس از خودآسیبی حتی بدون نشانه آشکار اورژانسی همان روز راهنمایی بگیرید.",
+          "sources": [
+            {
+              "organization": "مؤسسه ملی تعالی سلامت و مراقبت بریتانیا",
+              "title": "ارزیابی، مراقبت پیگیرانه و برنامه ایمنی پس از خودآسیبی",
+              "url": "https://www.nice.org.uk/guidance/ng225/chapter/Recommendations"
+            },
+            {
+              "organization": "تراست سلامت و مراقبت هرفوردشر و ووسترشر، خدمات ملی سلامت بریتانیا",
+              "title": "کمک اورژانسی برای خودآسیبی و افکار خودکشی",
+              "url": "https://www.cypf.hwhct.nhs.uk/self-harm"
+            },
+            {
+              "organization": "مک‌کالی و همکاران، نشریه جاما سایکایتری",
+              "title": "کارآزمایی تصادفی رفتاردرمانی دیالکتیکی برای نوجوانان با خطر بالای خودکشی",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/29926087/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "عندما يخبرك طفلك أنه آذى نفسه",
+        "description": "تعرّف إلى كيفية التحقق من سلامة طفلك فور إخباره لك بأنه آذى نفسه، وكيف تصغي إليه وتطلب تقييماً مهنياً وتشاركه في وضع خطة للرعاية والمتابعة.",
+        "intro": "يطلب منك ابنك المراهق أن تجلس معه ويخبرك بأنه آذى نفسه الليلة الماضية. يمكنك أن تقول «أشكرك لأنك أخبرتني. لن أعاقبك. سأبقى معك ونحن نطلب المساعدة». تستطيع الإصغاء إليه والبدء بطلب العون حتى لو لم يستطع بعد أن يشرح لك كل ما حدث.",
+        "sections": [
+          {
+            "heading": "تحقّق من الحاجة إلى رعاية طارئة الآن",
+            "paragraphs": [
+              "اسأله بهدوء إن كان مصاباً، أو تناول شيئاً قد يضره، أو يفكر الآن في الانتحار. إذا احتملت حدوث تسمم أو تناول جرعة زائدة أو إصابة خطيرة أو محاولة انتحار، فاطلب المساعدة الطبية الطارئة فوراً حتى لو قال إنه بخير. اتصل بالإسعاف إذا صعب عليه التنفس أو كان ينزف بشدة أو انهار أو صعب إيقاظه. اتبع تعليمات الطوارئ وابق معه إن كان ذلك آمناً.",
+              "إذا كان يفكر الآن في إنهاء حياته أو قد يؤذي نفسه مجدداً خلال وقت قصير أو لم تستطع الحفاظ على سلامته، فابق معه واتصل بالطوارئ. حتى في غياب خطر فوري تواصل اليوم مع طبيبه أو خدمة عاجلة للصحة النفسية للأطفال والمراهقين لطلب المشورة والتقييم. قد يحدث إيذاء النفس بوجود نية للموت أو من دونها. لا تستنتج نيته من مظهر الإصابة."
+            ]
+          },
+          {
+            "heading": "اسأله عمّا يسهّل عليه الكلام",
+            "paragraphs": [
+              "استخدم كلماته واسأل سؤالاً واحداً كل مرة. «ماذا كان يجري قبل أن تشعر هكذا مباشرة؟» قد يفضّل كتابة رسالة أو الجلوس معك في صمت أو التحدث إلى شخص بالغ آخر يثق به. تجنب مطالبته بإثبات ما حدث أو لومه أو إلزامه بوعد بألا يكرر ذلك أبداً. اشرح له من يحتاج إلى معرفة الأمر حفاظاً على سلامته، وأخبره قبل مشاركة المعلومات متى أمكن.",
+              "ينبغي لمختص صحي تقييم الاحتياجات الجسدية والضيق أو الظروف التي أحاطت بالواقعة. يستطيع مختص الصحة النفسية للأطفال والمراهقين سؤاله عمّا مثّله إيذاء النفس بالنسبة إليه، وعن الضغوط والتنمر أو الأذى من الآخرين، وعمّن يشعر معه بأمان أكبر. قد يحتاج إلى وقت على انفراد مع المختص إلى جانب وقت تتحدثون فيه معاً."
+            ]
+          },
+          {
+            "heading": "ضعوا خطة للساعة الصعبة المقبلة",
+            "paragraphs": [
+              "اكتب مع طفلك وفريقه إشارات الإنذار المبكرة وخطوة يمكنه اتخاذها حين يشتد الضيق وشخصاً يتصل به ومكاناً يطلب فيه الرعاية العاجلة. اتفقوا على من سيحفظ الأدوية والأشياء التي يمكن أن تشكل خطراً في مكان آمن وأين ستجدان الخطة. اسأل من سيتابع ومتى. يوصي معهد NICE ببدء المتابعة خلال ٤٨ ساعة من التقييم النفسي الاجتماعي إذا استمرت المخاوف على السلامة. عند وجود خطر فوري اطلب مساعدة الطوارئ من دون انتظار موعد المتابعة.",
+              "يعتمد العلاج على احتياجات المراهق. في تجربة عشوائية شملت ١٧٣ مراهقاً معرضين لخطر انتحار مرتفع، حقق العلاج السلوكي الجدلي نتائج أفضل في تكرار إيذاء النفس من العلاج الداعم الفردي والجماعي في نهاية ستة أشهر. وعند اثني عشر شهراً لم تعد الفروق في النتائج الأساسية ذات دلالة إحصائية. لا تحدد هذه الدراسة العلاج المناسب لكل طفل. اطلب الدعم لنفسك أيضاً بصفتك من يعتني به وراجع الخطة مع الفريق إذا تكرر إيذاء النفس."
+            ]
+          }
+        ],
+        "takeaways": [
+          "ابدأ بالتحقق من الحاجة إلى الرعاية الطبية ومن سلامته في اللحظة الراهنة.",
+          "اطلب تقييماً مهنياً سريعاً حتى لو قال إنه لم يرد الموت.",
+          "ضعا خطة سلامة مشتركة تتضمن من سيتابع وأين يمكن طلب المساعدة العاجلة."
+        ],
+        "faq": [
+          {
+            "q": "هل عليّ التدخل إذا آذى طفلي نفسه؟",
+            "a": "نعم. اشكره لأنه أخبرك، وحافظ على هدوئك وتحقق من سلامته. خذ ما حدث على محمل الجد حتى لو وصفه بالبسيط. ساعده في الحصول على تقييم لحالته الجسدية والنفسية."
+          },
+          {
+            "q": "ماذا أفعل إذا رأيت طفلي يؤذي نفسه؟",
+            "a": "اطلب المساعدة الطارئة إذا كان في خطر فوري أو أصيب إصابة خطيرة أو ربما تناول مادة ضارة أو تعذر الحفاظ على سلامته. ابق قريباً إن كان ذلك آمناً واتبع تعليمات الطوارئ. وفي الحالات الأخرى اطلب مشورة مهنية اليوم."
+          },
+          {
+            "q": "كيف أفتح الموضوع معه؟",
+            "a": "اختر وقتاً تتاح فيه الخصوصية. صف ما لاحظته من دون أحكام، واسأله عن شعوره وهل هو في أمان. إذا صعب عليه الكلام فاعرض وسيلة أخرى يخبرك بها أو يخبر المختص."
+          },
+          {
+            "q": "ماذا لو تكرر الأمر رغم الدعم؟",
+            "a": "تحقق من سلامته من جديد واطلب الرعاية لهذه الواقعة أيضاً. تواصل مع فريقه لمراجعة الخطة والنظر في مساعدة إضافية. لا يعني التكرار أن الطفل أو من يرعاه قد أخفق."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٧ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "تحقق من الحاجة إلى رعاية طبية عاجلة واسأل مباشرة عن وجود أفكار انتحارية الآن.",
+            "رتب تقييماً نفسياً اجتماعياً وأشرك الطفل في وضع خطة سلامته.",
+            "اتفقوا على شخص للمتابعة واطلبوا الدعم لمن يرعى الطفل أيضاً."
+          ],
+          "bemama": "تقترح بي ماما أن تسأل طفلك عن شخص بالغ يثق به ويستطيع اللجوء إليه إذا تعذر عليه الوصول إليك. اكتبا معاً كيفية التواصل معه ومتى يجب الاتصال بالطوارئ.",
+          "safety": "اطلب مساعدة الطوارئ الآن عند الاشتباه بتسمم أو جرعة زائدة أو وجود إصابة خطيرة أو محاولة انتحار أو أفكار انتحارية حالية أو خطر فوري. ابق مع الطفل إن كان ذلك آمناً. اطلب المشورة في يوم حدوث إيذاء النفس حتى إن لم تظهر حالة طارئة.",
+          "sources": [
+            {
+              "organization": "المعهد الوطني البريطاني للتميز في الصحة والرعاية",
+              "title": "التقييم والمتابعة وتخطيط السلامة بعد إيذاء النفس",
+              "url": "https://www.nice.org.uk/guidance/ng225/chapter/Recommendations"
+            },
+            {
+              "organization": "مؤسسة هيرفوردشير وورسترشير للصحة والرعاية التابعة للخدمة الصحية الوطنية",
+              "title": "المساعدة الطارئة عند إيذاء النفس والأفكار الانتحارية",
+              "url": "https://www.cypf.hwhct.nhs.uk/self-harm"
+            },
+            {
+              "organization": "مكولي وزملاؤه، مجلة جاما للطب النفسي",
+              "title": "تجربة عشوائية للعلاج السلوكي الجدلي لدى مراهقين معرضين لخطر انتحار مرتفع",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/29926087/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Quand votre enfant vous confie s’être fait du mal",
+        "description": "Découvrez comment vérifier la sécurité immédiate après un geste auto-infligé, accueillir les mots de votre enfant et organiser une évaluation et un suivi.",
+        "intro": "Votre adolescente vous demande de vous asseoir avec elle et vous confie s’être fait du mal hier soir. Vous pouvez commencer par « Merci de me l’avoir dit. Tu ne seras pas punie. Je vais rester avec toi pendant qu’on cherche de l’aide. » Vous pouvez l’écouter sans attendre de tout comprendre avant d’agir.",
+        "sections": [
+          {
+            "heading": "Vérifiez d’abord si des soins d’urgence sont nécessaires",
+            "paragraphs": [
+              "Demandez calmement si elle est blessée, si elle a pris quelque chose qui pourrait lui faire du mal ou si elle pense au suicide maintenant. En cas d’intoxication ou de surdose possible, de blessure grave ou de tentative de suicide, demandez immédiatement des soins d’urgence, même si elle se sent bien. Appelez les secours si elle respire difficilement, saigne abondamment, s’effondre ou se réveille difficilement. Suivez leurs consignes et restez avec elle si vous pouvez le faire en sécurité.",
+              "Si elle pense actuellement à se tuer, risque de recommencer bientôt ou si vous ne pouvez pas assurer sa sécurité, restez avec elle et appelez les secours. Même sans danger immédiat, contactez son médecin ou un service urgent de santé mentale pour jeunes aujourd’hui afin d’obtenir un avis et une évaluation. On peut se faire du mal avec ou sans intention de mourir. L’apparence de la blessure ne renseigne pas sur cette intention."
+            ]
+          },
+          {
+            "heading": "Demandez ce qui l’aiderait à parler",
+            "paragraphs": [
+              "Reprenez ses mots et posez une question à la fois : « Que se passait-il juste avant que tu te sentes comme ça ? » Elle préférera peut-être écrire un mot, rester en silence près de vous ou parler à un autre adulte de confiance. Évitez d’exiger des preuves, de la blâmer ou de lui faire promettre de ne jamais recommencer. Dites qui doit être informé pour sa sécurité. Si possible, prévenez-la avant de transmettre des informations.",
+              "Le professionnel évalue à la fois les besoins physiques, la détresse et les circonstances de l’épisode. Un spécialiste de la santé mentale des jeunes peut demander ce que le geste signifiait pour elle, si elle subit des pressions, du harcèlement ou des violences et qui l’aide à se sentir en sécurité. Elle peut avoir besoin d’un moment seule avec lui en plus de l’entretien avec vous."
+            ]
+          },
+          {
+            "heading": "Préparez la prochaine heure difficile",
+            "paragraphs": [
+              "Avec votre enfant et l’équipe, notez les premiers signes, un geste qui aide à traverser le moment, une personne à contacter et où trouver des soins urgents. Convenez de la personne qui mettra en sûreté médicaments et objets potentiellement dangereux et d’un endroit où retrouver le plan. Demandez qui assurera le suivi et quand. Si les inquiétudes pour la sécurité persistent, NICE conseille un premier suivi dans les 48 heures après l’évaluation psychosociale. En cas de danger immédiat, appelez les secours sans attendre ce rendez-vous.",
+              "Le traitement dépend des besoins du jeune. Dans un essai randomisé auprès de 173 adolescents à haut risque suicidaire, la thérapie comportementale dialectique a obtenu de meilleurs résultats sur la répétition des gestes auto-infligés que la thérapie de soutien individuelle et en groupe à la fin des six mois de traitement. À douze mois, les différences entre groupes sur les critères principaux n’étaient plus statistiquement significatives. Cette étude ne détermine pas le traitement de chaque enfant. Demandez aussi du soutien pour vous et revoyez le plan avec l’équipe si cela se reproduit."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Vérifiez d’abord les besoins médicaux et le danger immédiat.",
+          "Organisez une évaluation professionnelle rapide même si votre enfant dit qu’il ne voulait pas mourir.",
+          "Prévoyez ensemble comment rester en sécurité, qui assurera le suivi et où obtenir de l’aide en urgence."
+        ],
+        "faq": [
+          {
+            "q": "Faut-il réagir si mon enfant s’est fait du mal ?",
+            "a": "Oui. Remerciez-le de vous en avoir parlé, gardez votre calme et vérifiez sa sécurité. Prenez le geste au sérieux même s’il le dit mineur. Aidez-le à obtenir une évaluation physique et émotionnelle."
+          },
+          {
+            "q": "Que faire si je le vois se faire du mal ?",
+            "a": "Demandez des secours en cas de danger immédiat, de blessure grave, de prise possible d’une substance dangereuse ou si vous ne pouvez pas le protéger. Restez près de lui si c’est sûr et suivez les consignes. Sinon, demandez un avis professionnel aujourd’hui."
+          },
+          {
+            "q": "Comment aborder le sujet ?",
+            "a": "Choisissez un moment privé, dites ce que vous avez remarqué sans jugement et demandez comment il se sent et s’il est en sécurité. S’il a du mal à parler, proposez une autre façon de se confier à vous ou à un professionnel."
+          },
+          {
+            "q": "Et si cela recommence malgré le soutien ?",
+            "a": "Vérifiez de nouveau sa sécurité et demandez des soins pour ce nouvel épisode. Contactez l’équipe pour revoir le plan et envisager une aide supplémentaire. Une récidive ne signifie pas que le jeune ou ses proches ont échoué."
+          }
+        ],
+        "evidence": {
+          "updated": "Revu le 17 novembre 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Vérifiez les besoins médicaux urgents et demandez directement si le jeune pense au suicide maintenant.",
+            "Organisez une évaluation psychosociale et associez le jeune à son plan de sécurité.",
+            "Convenez de la personne qui fera le suivi et demandez aussi du soutien pour les proches."
+          ],
+          "bemama": "BeMama suggère de demander à votre enfant à quel adulte de confiance il pourrait s’adresser si vous n’étiez pas joignable. Notez ensemble comment le joindre et quand appeler les secours.",
+          "safety": "Demandez des soins d’urgence dès maintenant en cas d’intoxication ou de surdose possible, de blessure grave, de tentative de suicide, d’idées suicidaires actuelles ou de danger immédiat. Restez avec l’enfant si c’est sûr. Même sans urgence apparente, demandez un avis le jour même après un geste auto-infligé.",
+          "sources": [
+            {
+              "organization": "Institut national britannique pour l’excellence en santé et en soins",
+              "title": "Évaluation, suivi et plan de sécurité après un geste auto-infligé",
+              "url": "https://www.nice.org.uk/guidance/ng225/chapter/Recommendations"
+            },
+            {
+              "organization": "Service de santé et de soins du NHS du Herefordshire et du Worcestershire",
+              "title": "Aide urgente face aux gestes auto-infligés et aux idées suicidaires",
+              "url": "https://www.cypf.hwhct.nhs.uk/self-harm"
+            },
+            {
+              "organization": "McCauley et collègues, JAMA Psychiatry",
+              "title": "Essai randomisé de thérapie comportementale dialectique chez des adolescents à haut risque suicidaire",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/29926087/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Çocuğunuz kendine zarar verdiğini söylediğinde",
+        "description": "Kendine zarar veren çocuğunuzun acil yardıma ihtiyacı olup olmadığını nasıl anlayacağınızı, onu nasıl dinleyeceğinizi ve izlemi nasıl planlayacağınızı öğrenin.",
+        "intro": "Ergenlik çağındaki çocuğunuz oturmanızı istiyor ve dün akşam kendine zarar verdiğini söylüyor. “Bana söylediğin için teşekkür ederim. Başın belada değil. Yardım alırken yanında kalacağım” diyebilirsiniz. Harekete geçmek için her şeyi en baştan anlatmasını beklemeden onu dinleyebilirsiniz.",
+        "sections": [
+          {
+            "heading": "Şimdi acil tıbbi yardım gerekip gerekmediğini kontrol edin",
+            "paragraphs": [
+              "Sakin bir şekilde yarası olup olmadığını, kendisine zarar verebilecek bir şey alıp almadığını ve şu anda intiharı düşünüp düşünmediğini sorun. Zehirlenme, aşırı doz, ciddi yaralanma veya intihar girişimi olasılığında, kendini iyi hissetse bile hemen acil tıbbi yardım alın. Nefes almakta zorlanıyorsa, ağır kanaması varsa, yere yığıldıysa veya uyanmakta güçlük çekiyorsa acil yardımı arayın. Size verilen talimatları izleyin ve güvenliyse yanında kalın.",
+              "Şu anda kendini öldürmeyi düşünüyorsa, kısa süre içinde tekrar kendine zarar verebilirse veya güvenliğini sağlayamıyorsanız yanında kalıp acil yardım çağırın. O anda tehlike yoksa bile öneri almak ve değerlendirme istemek için bugün çocuğu izleyen hekime veya acil çocuk ve ergen ruh sağlığı hizmetine başvurun. Çocuk ölme niyeti olsun ya da olmasın kendine zarar verebilir. Niyetini yaranın görünümünden çıkarmaya çalışmayın."
+            ]
+          },
+          {
+            "heading": "Konuşmasını neyin kolaylaştıracağını sorun",
+            "paragraphs": [
+              "Çocuğun kendi sözcüklerini kullanın ve her seferinde bir soru sorun. “Böyle hissetmenden hemen önce neler oluyordu?” diye sorabilirsiniz. Belki not yazmak, yanınızda sessizce oturmak veya güvendiği başka bir yetişkinle konuşmak ister. Kanıt istemeyin, onu suçlamayın ve bir daha yapmayacağına söz vermesini beklemeyin. Güvenliği için kimlerin bilmesi gerektiğini anlatın. Mümkünse bilgiyi paylaşmadan önce ona haber verin.",
+              "Bir sağlık uzmanı hem fiziksel gereksinimleri hem de olayla ilişkili sıkıntıyı ve koşulları değerlendirmelidir. Çocuk ve ergen ruh sağlığı uzmanı kendine zarar vermenin onun için ne anlama geldiğini, baskı, zorbalık veya başkasından zarar görme yaşayıp yaşamadığını ve yanında kiminle daha güvende hissettiğini sorabilir. Çocuğunuzun sizinle birlikte görüşmenin yanı sıra uzmanla baş başa konuşmaya da ihtiyacı olabilir."
+            ]
+          },
+          {
+            "heading": "Bir sonraki zor saat için birlikte plan yapın",
+            "paragraphs": [
+              "Çocuğunuz ve ekibiyle birlikte erken uyarı işaretlerini, sıkıntıyla başa çıkmak için bir adımı, arayabileceği bir kişiyi ve acil durumda nereye başvuracağını yazın. İlaçları ve tehlikeli olabilecek diğer eşyaları kimin güvenli bir yere kaldıracağını ve plana ikinizin de nereden ulaşacağını kararlaştırın. İzlemi kimin ne zaman yapacağını sorun. NICE, güvenlikle ilgili kaygılar sürüyorsa psikososyal değerlendirmeden sonraki 48 saat içinde ilk izlem desteğinin verilmesini önerir. Acil tehlike varsa bu görüşmeyi beklemeden acil yardım alın.",
+              "Tedavi gencin ihtiyaçlarına göre belirlenir. İntihar riski yüksek 173 ergenin katıldığı rastgele atamalı çalışmada altı ayın sonunda diyalektik davranış terapisi, tekrarlayan kendine zarar verme bakımından bireysel ve grup destek terapisine göre daha iyi sonuç verdi. On ikinci ayda başlıca sonuçlar arasındaki farklar artık istatistiksel olarak anlamlı değildi. Bu çalışma her çocuk için hangi tedavinin seçileceğini belirlemez. Siz de bakım veren olarak destek isteyin. Olay tekrarlanırsa planı ekiple gözden geçirin."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Önce tıbbi ihtiyaçları ve o andaki güvenliği kontrol edin.",
+          "Çocuğunuz ölmek istemediğini söylese bile hızla profesyonel değerlendirme almasını sağlayın.",
+          "Kimin izlem yapacağını ve acil durumda nereye başvuracağınızı içeren ortak bir güvenlik planı hazırlayın."
+        ],
+        "faq": [
+          {
+            "q": "Çocuğum kendine zarar verdiyse bir şey yapmalı mıyım?",
+            "a": "Evet. Anlattığı için teşekkür edin, sakin kalın ve güvende olup olmadığını kontrol edin. Kendisi önemsiz olduğunu söylese de olayı ciddiye alın. Fiziksel ve ruhsal açıdan değerlendirilmesine yardımcı olun."
+          },
+          {
+            "q": "Çocuğumu kendine zarar verirken görürsem ne yapmalıyım?",
+            "a": "Acil tehlike, ciddi yaralanma, zararlı bir madde alma ihtimali varsa veya güvenliğini sağlayamıyorsanız acil yardım alın. Güvenliyse yakınında kalıp verilen talimatları izleyin. Diğer durumlarda da bugün bir uzmandan yardım isteyin."
+          },
+          {
+            "q": "Konuyu nasıl açabilirim?",
+            "a": "Baş başa kalabileceğiniz bir an seçin. Fark ettiğiniz şeyi yargılamadan söyleyin, nasıl hissettiğini ve şu an güvende olup olmadığını sorun. Konuşmakta zorlanıyorsa size ya da uzmana anlatmak için başka bir yol önerin."
+          },
+          {
+            "q": "Desteğe rağmen tekrar olursa ne yapmalıyım?",
+            "a": "Güvenliğini yeniden kontrol edin ve bu olay için de yardım alın. Planı değerlendirmek ve ek destek seçeneklerini konuşmak üzere ekibine başvurun. Tekrarlaması çocuğun veya bakım verenin başarısız olduğu anlamına gelmez."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 17 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Acil tıbbi ihtiyacını değerlendirin ve şu anda intihar düşüncesi olup olmadığını doğrudan sorun.",
+            "Psikososyal değerlendirme ayarlayın ve çocuğunuzun güvenlik planına katkı vermesini sağlayın.",
+            "İzlem için bir kişi belirleyin, bakım verenler için de destek isteyin."
+          ],
+          "bemama": "BeMama, siz ulaşılabilir olmadığınızda çocuğunuzun güvendiği hangi yetişkine başvurabileceğini sormanızı önerir. Bu kişiye nasıl ulaşacağını ve hangi durumda acil yardımı arayacağını birlikte yazın.",
+          "safety": "Zehirlenme veya aşırı doz şüphesi, ciddi yaralanma, intihar girişimi, şu anda intihar düşüncesi veya acil tehlike varsa hemen acil yardım alın. Güvenliyse çocuğun yanında kalın. Açık bir acil durum olmasa bile kendine zarar verdikten sonra aynı gün bir uzmana danışın.",
+          "sources": [
+            {
+              "organization": "Birleşik Krallık Ulusal Sağlık ve Bakım Mükemmelliği Enstitüsü",
+              "title": "Kendine zarar vermeden sonra değerlendirme, izlem ve güvenlik planlaması",
+              "url": "https://www.nice.org.uk/guidance/ng225/chapter/Recommendations"
+            },
+            {
+              "organization": "Herefordshire ve Worcestershire NHS Sağlık ve Bakım Kuruluşu",
+              "title": "Kendine zarar verme ve intihar düşüncelerinde acil yardım",
+              "url": "https://www.cypf.hwhct.nhs.uk/self-harm"
+            },
+            {
+              "organization": "McCauley ve çalışma arkadaşları, JAMA Psychiatry",
+              "title": "İntihar riski yüksek ergenlerde diyalektik davranış terapisine ilişkin rastgele atamalı çalışma",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/29926087/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Cuando tu hijo te cuenta que se ha hecho daño",
+        "description": "Aprende a comprobar si hay peligro inmediato tras una autolesión, qué decir cuando tu hijo te lo cuenta y cómo organizar una evaluación y el seguimiento.",
+        "intro": "Tu hija adolescente te pide que te sientes y te cuenta que anoche se hizo daño. Puedes empezar así: «Gracias por contármelo. No estás en problemas. Voy a quedarme contigo mientras buscamos ayuda». Escúchala sin exigir que te explique todo antes de actuar.",
+        "sections": [
+          {
+            "heading": "Comprueba si necesita atención de emergencia ahora",
+            "paragraphs": [
+              "Pregunta con calma si tiene alguna lesión, si ha tomado algo que pueda hacerle daño o si está pensando en suicidarse ahora. Si puede haber una intoxicación o sobredosis, una lesión grave o un intento de suicidio, busca atención de emergencia ya, aunque se encuentre bien. Llama a emergencias si le cuesta respirar, sangra abundantemente, se desploma o cuesta despertarla. Sigue las instrucciones y quédate con ella si es seguro.",
+              "Si está pensando en suicidarse ahora, puede volver a hacerse daño pronto o no puedes protegerla, quédate a su lado y llama a emergencias. Aunque no haya peligro inmediato, contacta hoy con su profesional de salud o con un servicio urgente de salud mental infantojuvenil para recibir orientación y evaluación. Una autolesión puede ocurrir con o sin intención de morir. El aspecto de la lesión no te dice cuál era la intención."
+            ]
+          },
+          {
+            "heading": "Pregunta qué facilitaría la conversación",
+            "paragraphs": [
+              "Usa sus propias palabras y haz una pregunta a la vez: «¿Qué estaba pasando justo antes de que te sintieras así?». Quizá prefiera escribir una nota, sentarse en silencio contigo o hablar con otro adulto de confianza. Evita exigir pruebas, culparla o pedirle que prometa no volver a hacerlo. Explica quién necesita saberlo para protegerla. Cuando puedas, avísale antes de compartir información.",
+              "Un profesional debe evaluar tanto las necesidades físicas como el sufrimiento y las circunstancias del episodio. Un especialista en salud mental infantil puede preguntar qué significó la autolesión para ella, qué presiones vive, si sufre acoso o daños de otras personas y con quién se siente más segura. Puede necesitar un rato a solas con el profesional además del tiempo en familia."
+            ]
+          },
+          {
+            "heading": "Acuerden un plan para la próxima hora difícil",
+            "paragraphs": [
+              "Con tu hija y el equipo, anotad señales tempranas, una acción para afrontar el malestar, una persona de contacto y dónde obtener atención urgente. Acordad quién guardará bajo llave medicamentos y otros objetos que puedan hacer daño y dónde encontraréis el plan. Pregunta quién hará el seguimiento y cuándo. Si persiste la preocupación por la seguridad, NICE recomienda una primera atención de seguimiento en las 48 horas posteriores a la evaluación psicosocial. Ante peligro inmediato, llama a emergencias sin esperar la cita.",
+              "El tratamiento depende de lo que necesite el joven. En un ensayo aleatorizado con 173 adolescentes con riesgo alto de suicidio, la terapia dialéctico-conductual dio mejores resultados para la autolesión repetida al final de seis meses que la terapia de apoyo individual y grupal. A los doce meses las diferencias entre grupos en los resultados principales ya no fueron estadísticamente significativas. El estudio no determina el tratamiento de todos los jóvenes. Pide apoyo para ti también y revisad el plan con el equipo si se repite."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Comprueba primero las necesidades médicas y el peligro inmediato.",
+          "Organiza una evaluación profesional rápida aunque tu hijo diga que no quería morir.",
+          "Preparad un plan de seguridad que diga quién dará seguimiento y dónde pedir ayuda urgente."
+        ],
+        "faq": [
+          {
+            "q": "¿Debo responder si mi hijo se ha hecho daño?",
+            "a": "Sí. Dale las gracias por contártelo, mantén la calma y comprueba su seguridad. Tómalo en serio aunque diga que fue leve. Ayúdale a recibir una evaluación física y emocional."
+          },
+          {
+            "q": "¿Qué hago si lo veo haciéndose daño?",
+            "a": "Pide ayuda de emergencia si está en peligro inmediato, tiene una lesión grave, puede haber tomado una sustancia dañina o no puedes mantenerlo a salvo. Quédate cerca si es seguro y sigue las instrucciones. En los demás casos consulta con un profesional hoy."
+          },
+          {
+            "q": "¿Cómo saco el tema?",
+            "a": "Busca un momento privado, describe sin juzgar lo que has visto y pregunta cómo se siente y si está a salvo. Si hablar le cuesta, ofrece otra forma de contártelo a ti o a un profesional."
+          },
+          {
+            "q": "¿Y si vuelve a ocurrir aunque ya tenga apoyo?",
+            "a": "Comprueba otra vez su seguridad y busca atención para el nuevo episodio. Contacta con el equipo para revisar el plan y valorar más apoyo. Que se repita no es un fracaso del niño ni de quien lo cuida."
+          }
+        ],
+        "evidence": {
+          "updated": "Revisado el 17 de noviembre de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Comprueba las necesidades médicas urgentes y pregunta directamente si piensa en suicidarse ahora.",
+            "Organiza una evaluación psicosocial e incluye al niño en el plan de seguridad.",
+            "Acuerda quién hará el seguimiento y pide también apoyo para quienes cuidan al niño."
+          ],
+          "bemama": "BeMama sugiere preguntar a tu hijo con qué adulto de confianza podría contactar si no estuvieras disponible. Anotad juntos cómo localizarlo y cuándo llamar a emergencias.",
+          "safety": "Busca atención de emergencia ahora si sospechas intoxicación o sobredosis, lesión grave, intento de suicidio, pensamientos suicidas actuales o peligro inmediato. Quédate con el niño si es seguro. Tras una autolesión, pide consejo ese mismo día incluso sin emergencia aparente.",
+          "sources": [
+            {
+              "organization": "Instituto Nacional para la Excelencia en la Salud y la Atención del Reino Unido",
+              "title": "Evaluación, seguimiento y plan de seguridad tras una autolesión",
+              "url": "https://www.nice.org.uk/guidance/ng225/chapter/Recommendations"
+            },
+            {
+              "organization": "Servicio de Salud y Atención del NHS de Herefordshire y Worcestershire",
+              "title": "Ayuda de emergencia ante autolesiones y pensamientos suicidas",
+              "url": "https://www.cypf.hwhct.nhs.uk/self-harm"
+            },
+            {
+              "organization": "McCauley y colaboradores, JAMA Psychiatry",
+              "title": "Ensayo aleatorizado de terapia dialéctico-conductual para adolescentes con alto riesgo de suicidio",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/29926087/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Quando seu filho conta que se machucou de propósito",
+        "description": "Saiba como avaliar o perigo imediato após uma autolesão, ouvir o que seu filho tem a dizer e buscar avaliação profissional e acompanhamento para ele.",
+        "intro": "Seu filho adolescente pede que você se sente e conta que se machucou de propósito na noite passada. Comece com algo como “Obrigado por me contar. Você não está de castigo. Vou ficar com você enquanto buscamos ajuda”. Você pode ouvi-lo e agir mesmo que ele ainda não consiga explicar tudo.",
+        "sections": [
+          {
+            "heading": "Veja se precisa de atendimento de emergência agora",
+            "paragraphs": [
+              "Pergunte com calma se ele está ferido, se tomou algo que possa lhe fazer mal ou se está pensando em suicídio agora. Se houver suspeita de intoxicação, overdose, lesão grave ou tentativa de suicídio, busque atendimento de emergência imediatamente, mesmo que ele se sinta bem. Acione a emergência em caso de dificuldade para respirar, sangramento intenso, desmaio com colapso ou dificuldade para acordar. Siga as orientações e fique com ele se for seguro.",
+              "Se ele está pensando em se matar agora, pode agir de novo em breve ou você não consegue garantir sua segurança, fique com ele e acione a emergência. Mesmo sem perigo imediato, fale hoje com o profissional que o atende ou um serviço de urgência em saúde mental infantojuvenil para orientação e avaliação. A autolesão pode ocorrer com ou sem intenção de morrer. Não deduza a intenção pela aparência do ferimento."
+            ]
+          },
+          {
+            "heading": "Pergunte o que o ajudaria a conversar",
+            "paragraphs": [
+              "Use as palavras que ele usa e faça uma pergunta por vez. “O que estava acontecendo pouco antes de você se sentir assim?” Talvez ele prefira escrever um bilhete, ficar em silêncio ao seu lado ou falar com outro adulto de confiança. Evite exigir provas, culpá-lo ou pedir que prometa nunca mais fazer isso. Explique quem precisa saber para protegê-lo e, quando possível, avise antes de contar a alguém.",
+              "Um profissional deve avaliar tanto as necessidades físicas quanto o sofrimento e as circunstâncias do episódio. Um profissional de saúde mental infantojuvenil pode perguntar o que a autolesão significou para o jovem, se ele sofre pressões, intimidação ou violência e com quem se sente mais seguro. Ele pode precisar de um tempo a sós com o profissional, além de conversar na sua presença."
+            ]
+          },
+          {
+            "heading": "Façam um plano para a próxima hora difícil",
+            "paragraphs": [
+              "Com seu filho e a equipe, anotem os primeiros sinais de alerta, algo que ele pode fazer para lidar com o sofrimento, uma pessoa a quem recorrer e onde buscar atendimento urgente. Combinem quem guardará em segurança os medicamentos e outros itens potencialmente perigosos e onde vocês encontrarão o plano. Perguntem quem fará o acompanhamento e quando. Se persistirem preocupações com a segurança, o NICE orienta iniciar o acompanhamento em até 48 horas após a avaliação psicossocial. Em caso de perigo imediato, busquem ajuda de emergência sem esperar a consulta.",
+              "O tratamento depende das necessidades do jovem. Em um ensaio randomizado com 173 adolescentes com alto risco de suicídio, a terapia comportamental dialética teve resultados melhores para autolesões repetidas que a terapia de apoio individual e em grupo ao fim de seis meses. Aos doze meses, as diferenças nos principais resultados já não eram estatisticamente significativas. O estudo não define o tratamento de toda criança. Peça apoio também para você e, se houver outro episódio, reveja o plano com a equipe."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Verifique primeiro se há risco imediato ou necessidade de cuidado médico.",
+          "Providencie avaliação profissional rápida mesmo que seu filho diga que não queria morrer.",
+          "Façam juntos um plano de segurança com um contato de acompanhamento e um local de atendimento urgente."
+        ],
+        "faq": [
+          {
+            "q": "Devo agir se meu filho se machucou de propósito?",
+            "a": "Sim. Agradeça por ele ter contado, mantenha a calma e verifique se está seguro. Leve o episódio a sério mesmo que ele diga que foi leve. Ajude-o a obter avaliação física e emocional."
+          },
+          {
+            "q": "O que faço se vir meu filho se machucando?",
+            "a": "Busque ajuda de emergência se houver perigo imediato, ferimento grave, possível ingestão de substância nociva ou se não conseguir mantê-lo seguro. Fique por perto se for seguro e siga as orientações. Nas demais situações, procure orientação profissional hoje."
+          },
+          {
+            "q": "Como posso começar a conversa?",
+            "a": "Escolha um momento de privacidade, descreva o que percebeu sem julgar e pergunte como ele se sente e se está seguro. Se for difícil falar, ofereça outra maneira de contar a você ou ao profissional."
+          },
+          {
+            "q": "E se acontecer de novo apesar do apoio?",
+            "a": "Verifique a segurança e procure atendimento para o novo episódio. Fale com a equipe para rever o plano e considerar outras formas de ajuda. Uma recorrência não significa que o jovem ou quem cuida dele falhou."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 17 de novembro de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Verifique se há necessidade de atendimento urgente e pergunte diretamente sobre pensamentos de suicídio agora.",
+            "Providencie avaliação psicossocial e envolva seu filho na elaboração do plano de segurança.",
+            "Combinem quem fará o acompanhamento e peçam apoio também para quem cuida do jovem."
+          ],
+          "bemama": "A BeMama sugere perguntar a seu filho a qual adulto de confiança poderia recorrer se você estivesse indisponível. Anotem juntos como falar com essa pessoa e quando chamar a emergência.",
+          "safety": "Busque ajuda de emergência agora se suspeitar de intoxicação ou overdose, lesão grave, tentativa de suicídio, pensamentos atuais de suicídio ou perigo imediato. Fique com seu filho se for seguro. Mesmo sem emergência aparente, procure orientação no mesmo dia após uma autolesão.",
+          "sources": [
+            {
+              "organization": "Instituto Nacional de Excelência em Saúde e Cuidados do Reino Unido",
+              "title": "Avaliação, acompanhamento e plano de segurança após autolesão",
+              "url": "https://www.nice.org.uk/guidance/ng225/chapter/Recommendations"
+            },
+            {
+              "organization": "Serviço de Saúde e Cuidados do NHS de Herefordshire e Worcestershire",
+              "title": "Ajuda de emergência para autolesão e pensamentos de suicídio",
+              "url": "https://www.cypf.hwhct.nhs.uk/self-harm"
+            },
+            {
+              "organization": "McCauley e colaboradores, JAMA Psychiatry",
+              "title": "Ensaio randomizado de terapia comportamental dialética para adolescentes com alto risco de suicídio",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/29926087/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5872.webp",
+    "heroAlt": {
+      "en": "A teenager writes on a small blue card beside a phone while an adult sits with them.",
+      "es": "Un adolescente escribe en una tarjeta azul junto al teléfono, acompañado de un adulto.",
+      "fr": "Un adolescent écrit sur une petite carte bleue près d’un téléphone, en présence d’un adulte.",
+      "pt": "Um adolescente escreve em um cartão azul ao lado do telefone com um adulto por perto.",
+      "tr": "Bir genç, yanında bir yetişkin varken telefonun yanındaki mavi karta yazıyor.",
+      "fa": "نوجوانی در کنار یک بزرگسال روی کارت آبی کوچکی کنار تلفن یادداشت می‌کند.",
+      "ar": "يافع يكتب على بطاقة زرقاء صغيرة بجوار هاتف فيما يجلس بالغ إلى جانبه."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "When your child tells you they have hurt themselves",
+      "description": "Learn how to check immediate safety after self-harm, what to say to a child who tells you, and how to arrange assessment and a practical follow-up plan."
+    },
+    "fa": {
+      "title": "وقتی فرزندتان می‌گوید به خودش آسیب زده است",
+      "description": "بخوانید پس از خودآسیبی چطور خطر فوری را بررسی کنید، به حرف فرزندتان گوش دهید و برای ارزیابی تخصصی و پیگیری مراقبت از او برنامه بریزید."
+    },
+    "ar": {
+      "title": "عندما يخبرك طفلك أنه آذى نفسه",
+      "description": "تعرّف إلى كيفية التحقق من سلامة طفلك فور إخباره لك بأنه آذى نفسه، وكيف تصغي إليه وتطلب تقييماً مهنياً وتشاركه في وضع خطة للرعاية والمتابعة."
+    },
+    "fr": {
+      "title": "Quand votre enfant vous confie s’être fait du mal",
+      "description": "Découvrez comment vérifier la sécurité immédiate après un geste auto-infligé, accueillir les mots de votre enfant et organiser une évaluation et un suivi."
+    },
+    "tr": {
+      "title": "Çocuğunuz kendine zarar verdiğini söylediğinde",
+      "description": "Kendine zarar veren çocuğunuzun acil yardıma ihtiyacı olup olmadığını nasıl anlayacağınızı, onu nasıl dinleyeceğinizi ve izlemi nasıl planlayacağınızı öğrenin."
+    },
+    "es": {
+      "title": "Cuando tu hijo te cuenta que se ha hecho daño",
+      "description": "Aprende a comprobar si hay peligro inmediato tras una autolesión, qué decir cuando tu hijo te lo cuenta y cómo organizar una evaluación y el seguimiento."
+    },
+    "pt": {
+      "title": "Quando seu filho conta que se machucou de propósito",
+      "description": "Saiba como avaliar o perigo imediato após uma autolesão, ouvir o que seu filho tem a dizer e buscar avaliação profissional e acompanhamento para ele."
+    }
+  }
+}

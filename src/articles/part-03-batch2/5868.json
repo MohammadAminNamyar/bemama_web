@@ -1,0 +1,681 @@
+{
+  "sourceId": "5868",
+  "article": {
+    "slug": "baby-and-child/handwriting-hard-to-read-or-slow-in-class",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "When handwriting gets in the way of schoolwork",
+        "description": "Find what makes a child's handwriting hard to read, practise one useful change at a time, and ask the school about support when writing is slow or painful.",
+        "intro": "Your child tells a lively story about a lost dog. On paper, only the first sentence is finished when the lesson ends. Ask them to read it back and show you where writing became hard work. The story they can tell and the marks they can put on the page give you different information.",
+        "sections": [
+          {
+            "heading": "Notice which part of writing is hard",
+            "paragraphs": [
+              "Look at a short sample with your child. Can they form the letters they want? Do words run together or drift away from the line? Does the pencil leave deep grooves, or are the marks hard to see? Ask whether their hand tires or hurts. Note whether the difficulty appears while copying, writing their own ideas or both.",
+              "Children learn at different rates and in different scripts. Compare the work with what their teacher has taught. Letter formation, spacing, speed and putting ideas into words are related but separate skills. A hard-to-read page cannot tell you that a child is careless or diagnose dysgraphia or developmental coordination disorder."
+            ]
+          },
+          {
+            "heading": "Try one change on a real piece of writing",
+            "paragraphs": [
+              "Support the child's feet and forearms, angle the page comfortably and use the other hand to steady it. A grip that is comfortable and works need not look the same as someone else's. With the teacher, choose one feature to practise in a short, useful task, such as spacing the words on a lunch note. Let the child pick the word that is easiest to read and show you what helped.",
+              "In a small study of children aged six to eleven with handwriting difficulties, groups practising handwriting or doing sensorimotor activities met four times a week for five weeks. The handwriting-practice group improved its handwriting, while the sensorimotor group did not. It does not set a home practice schedule for every child. Drawing can be enjoyable, but include the kind of writing the child actually wants to do."
+            ]
+          },
+          {
+            "heading": "Keep handwriting from hiding what they know",
+            "paragraphs": [
+              "Bring the teacher a sample written at a comfortable pace and one from a timed task. Ask what happens in class and whether less copying, extra time, typing or dictating a longer answer would let the child show their ideas. Agree on one change and when to review it. Praise a specific gain, such as a word the child can now read back independently.",
+              "If writing remains painful, very tiring or persistently limits schoolwork despite support, speak with the child's clinician and school. An occupational therapist can assess how writing and other everyday tasks are going. Report loss of a previously established skill promptly. A child with sudden or rapidly worsening weakness in the face, arm or leg needs immediate medical assessment."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Describe letter formation, spacing, speed and comfort separately.",
+          "Practise one goal in a meaningful task and notice the child's own progress.",
+          "Ask the school how the child can show what they know while handwriting develops."
+        ],
+        "faq": [
+          {
+            "q": "What can we do at home?",
+            "a": "Ask the teacher how letters are being taught. Try one short note, list or label using the same approach. Check seating, paper position and comfort, then stop before frustration or pain builds."
+          },
+          {
+            "q": "How can handwriting difficulty affect a child?",
+            "a": "A child may struggle to finish timed work or read back what they wrote. Being corrected in front of classmates can hurt confidence. Ask what helps them show their ideas."
+          },
+          {
+            "q": "Why might my child's handwriting be hard to read?",
+            "a": "They may still be learning letter forms, spacing or how to coordinate the pencil and paper. Working quickly or composing a difficult sentence can add demands. A sample alone does not identify the cause."
+          },
+          {
+            "q": "Why take the difficulty seriously?",
+            "a": "Slow or effortful writing can limit participation even when the child understands the lesson. School support and, if needed, an assessment can identify ways to help."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 17, 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Look at a short writing sample together and ask how the hand feels.",
+            "Agree with the teacher on one practical adjustment and a review date.",
+            "Seek assessment for persistent pain or functional difficulty, and promptly report loss of a skill. Sudden or rapidly worsening face or limb weakness needs immediate medical assessment."
+          ],
+          "bemama": "BeMama suggests keeping one note the child is pleased with. Bring it to the teacher alongside a harder example and ask what made the difference.",
+          "safety": "Stop a task that hurts. Seek advice for persistent pain or fatigue that limits writing, and promptly report loss of an established skill. Seek immediate medical assessment for sudden or rapidly worsening face, arm or leg weakness.",
+          "sources": [
+            {
+              "organization": "Oxford Health NHS Foundation Trust",
+              "title": "Posture, paper, pencil and pen grasp for handwriting",
+              "url": "https://www.oxfordhealth.nhs.uk/wp-content/uploads/sites/22/2021/08/Handwriting-the-4-Ps.pdf"
+            },
+            {
+              "organization": "NHS",
+              "title": "Assessment of developmental coordination difficulties in children",
+              "url": "https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia/diagnosis/"
+            },
+            {
+              "organization": "NHS",
+              "title": "School support and occupational therapy for coordination difficulties",
+              "url": "https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia/treatment/"
+            },
+            {
+              "organization": "Denton and colleagues, American Journal of Occupational Therapy",
+              "title": "Handwriting practice and sensorimotor intervention in children aged six to eleven",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16541981/"
+            },
+            {
+              "organization": "National Institute for Health and Care Excellence",
+              "title": "Urgent assessment of sudden limb or facial weakness in children",
+              "url": "https://www.nice.org.uk/guidance/ng127/chapter/Recommendations-for-children-aged-under-16"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "وقتی دست‌خط انجام تکالیف مدرسه را دشوار می‌کند",
+        "description": "ببینید کدام بخش نوشتن برای کودک دشوار است، یک تغییر کاربردی را تمرین کنید و اگر نوشتن کند یا دردناک است، از مدرسه درباره حمایت مناسب بپرسید.",
+        "intro": "فرزندتان داستان یک سگ گمشده را با شور و شوق تعریف می‌کند، اما تا زنگ پایان کلاس فقط جمله اول را روی کاغذ نوشته است. بخواهید نوشته را برایتان بخواند و نشان دهد از کجا نوشتن برایش سخت شد. داستانی که تعریف می‌کند و اثری که روی کاغذ می‌گذارد اطلاعات متفاوتی به شما می‌دهد.",
+        "sections": [
+          {
+            "heading": "ببینید کدام قسمت نوشتن سخت است",
+            "paragraphs": [
+              "با هم یک نمونه کوتاه را نگاه کنید. آیا می‌تواند شکل حروفی را که می‌خواهد بنویسد؟ واژه‌ها به هم می‌چسبند یا از خط بیرون می‌زنند؟ مداد روی کاغذ شیار عمیق می‌اندازد یا نوشته آن‌قدر کمرنگ است که به‌سختی دیده می‌شود؟ بپرسید دستش خسته می‌شود یا درد می‌گیرد. توجه کنید مشکل در رونویسی، نوشتن فکر خودش یا هر دو دیده می‌شود.",
+              "سرعت یادگیری کودکان و نوع خطی که می‌آموزند متفاوت است. کارش را با چیزی که معلم آموزش داده بسنجید. شکل دادن حروف، فاصله‌گذاری، سرعت و بیان فکر با واژه‌ها مهارت‌های مرتبط اما جداگانه‌اند. یک صفحه ناخوانا نشان نمی‌دهد کودک بی‌دقت است و برای تشخیص اختلال نوشتن یا اختلال هماهنگی رشدی کافی نیست."
+            ]
+          },
+          {
+            "heading": "یک تغییر را در نوشته‌ای واقعی تمرین کنید",
+            "paragraphs": [
+              "برای پاها و ساعدها تکیه‌گاه بگذارید، کاغذ را در زاویه راحت قرار دهید و بگذارید کودک با دست دیگر آن را ثابت نگه دارد. اگر گرفتن مداد راحت و کارآمد است، لازم نیست حتماً شبیه گرفتن مداد فرد دیگری باشد. با معلم یک هدف برای تمرین کوتاه و کاربردی انتخاب کنید، مثلاً فاصله بین واژه‌ها در یادداشتی برای وقت ناهار. اجازه دهید کودک خواناترین واژه را انتخاب کند و نشان دهد چه چیزی کمک کرد.",
+              "در پژوهشی کوچک روی کودکان شش تا یازده‌ساله با دشواری دست‌خط، گروه‌های تمرین نوشتن یا فعالیت‌های حسی‌حرکتی به مدت پنج هفته، هفته‌ای چهار بار جلسه داشتند. دست‌خط گروهی که نوشتن را تمرین کرده بود بهتر شد، اما در گروه حسی‌حرکتی چنین بهبودی دیده نشد. این نتیجه برنامه تمرین خانگی یکسانی برای همه تعیین نمی‌کند. نقاشی می‌تواند لذت‌بخش باشد، اما همان نوع نوشتنی را که کودک دوست دارد انجام دهد هم بگنجانید."
+            ]
+          },
+          {
+            "heading": "نگذارید دشواری نوشتن دانسته‌های کودک را پنهان کند",
+            "paragraphs": [
+              "یک نمونه نوشته با سرعت راحت و یکی از تکلیف زمان‌دار را به معلم نشان دهید. بپرسید در کلاس چه می‌گذرد و آیا رونویسی کمتر، زمان بیشتر، تایپ یا گفتن پاسخ طولانی برای ثبت آن کمک می‌کند کودک فکرش را بیان کند. درباره یک تغییر و زمان بازبینی توافق کنید. پیشرفتی مشخص را ببینید، مثل واژه‌ای که حالا خودش می‌تواند بخواند.",
+              "اگر با وجود حمایت، نوشتن همچنان دردناک یا بسیار خسته‌کننده است یا پیوسته کار مدرسه را محدود می‌کند، با پزشک کودک و مدرسه صحبت کنید. کاردرمانگر می‌تواند نوشتن و دیگر فعالیت‌های روزانه را بررسی کند. از دست رفتن مهارتی را که کودک قبلاً آموخته است سریع گزارش دهید. ضعف ناگهانی یا به‌سرعت تشدیدشونده در صورت، دست یا پا نیاز به ارزیابی پزشکی فوری دارد."
+            ]
+          }
+        ],
+        "takeaways": [
+          "شکل حروف، فاصله‌ها، سرعت و راحتی را جداگانه شرح دهید.",
+          "یک هدف را در کاری معنادار تمرین کنید و پیشرفت کودک نسبت به خودش را ببینید.",
+          "از مدرسه بپرسید کودک هم‌زمان با بهبود دست‌خط چطور می‌تواند دانسته‌هایش را نشان دهد."
+        ],
+        "faq": [
+          {
+            "q": "در خانه چه می‌توانیم بکنیم؟",
+            "a": "بپرسید معلم شکل حروف را چگونه می‌آموزد. با همان روش یک یادداشت کوتاه، فهرست یا برچسب بنویسید. وضعیت نشستن، جای کاغذ و راحتی را بررسی کنید و پیش از بیشتر شدن درد یا ناکامی متوقف شوید."
+          },
+          {
+            "q": "سختی در نوشتن چه اثری روی کودک دارد؟",
+            "a": "شاید نتواند در زمان تعیین‌شده کار را تمام کند یا نوشته خودش را بخواند. تذکر دادن جلوی همکلاسی‌ها می‌تواند اعتمادبه‌نفسش را کم کند. بپرسید چه چیزی به نشان دادن فکرهایش کمک می‌کند."
+          },
+          {
+            "q": "چرا دست‌خط کودکم سخت خوانده می‌شود؟",
+            "a": "شاید هنوز شکل حروف، فاصله‌ها یا هماهنگ کردن مداد و کاغذ را می‌آموزد. عجله یا ساختن جمله‌ای دشوار می‌تواند کار را سنگین‌تر کند. یک نمونه به‌تنهایی علت را مشخص نمی‌کند."
+          },
+          {
+            "q": "چرا باید این دشواری را جدی بگیریم؟",
+            "a": "نوشتن کند یا پرزحمت می‌تواند مشارکت کودک را محدود کند، حتی اگر درس را فهمیده باشد. حمایت مدرسه و در صورت نیاز ارزیابی تخصصی راه‌های کمک را روشن می‌کنند."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۷ نوامبر ۲۰۲۶ مرور شد",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "یک نمونه کوتاه را با هم ببینید و از کودک بپرسید دستش چه حسی دارد.",
+            "با معلم درباره یک تغییر عملی و تاریخ بازبینی آن توافق کنید.",
+            "برای درد یا دشواری عملکردی مداوم ارزیابی بخواهید و از دست دادن مهارتی آموخته‌شده را سریع گزارش دهید. ضعف ناگهانی یا به‌سرعت تشدیدشونده در صورت یا اندام نیاز به ارزیابی فوری دارد."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند یک یادداشت که کودک از آن خوشش آمده نگه دارید. آن را همراه نمونه‌ای دشوارتر به معلم نشان دهید و بپرسید چه چیزی تفاوت ایجاد کرده است.",
+          "safety": "کاری را که درد دارد متوقف کنید. برای درد یا خستگی مداوم که نوشتن را محدود می‌کند مشورت کنید و از دست رفتن مهارتی قبلی را سریع گزارش دهید. برای ضعف ناگهانی یا به‌سرعت تشدیدشونده صورت، دست یا پا ارزیابی پزشکی فوری بگیرید.",
+          "sources": [
+            {
+              "organization": "مؤسسه سلامت آکسفورد، خدمات ملی سلامت بریتانیا",
+              "title": "وضعیت بدن، کاغذ، مداد و نحوه گرفتن آن در دست‌نویسی",
+              "url": "https://www.oxfordhealth.nhs.uk/wp-content/uploads/sites/22/2021/08/Handwriting-the-4-Ps.pdf"
+            },
+            {
+              "organization": "خدمات ملی سلامت بریتانیا",
+              "title": "ارزیابی دشواری‌های هماهنگی رشدی در کودکان",
+              "url": "https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia/diagnosis/"
+            },
+            {
+              "organization": "خدمات ملی سلامت بریتانیا",
+              "title": "حمایت مدرسه و کاردرمانی برای دشواری هماهنگی",
+              "url": "https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia/treatment/"
+            },
+            {
+              "organization": "دنتون و همکاران، مجله آمریکایی کاردرمانی",
+              "title": "تمرین دست‌نویسی و فعالیت حسی‌حرکتی در کودکان شش تا یازده‌ساله",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16541981/"
+            },
+            {
+              "organization": "مؤسسه ملی تعالی سلامت و مراقبت بریتانیا",
+              "title": "ارزیابی فوری ضعف ناگهانی اندام یا صورت در کودکان",
+              "url": "https://www.nice.org.uk/guidance/ng127/chapter/Recommendations-for-children-aged-under-16"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "حين تعوق الكتابة باليد إنجاز العمل المدرسي",
+        "description": "لاحظ ما يجعل خط طفلك صعب القراءة، وجرّبا تعديلًا عمليًا واحدًا في كل مرة، واسأل المدرسة عن الدعم إذا استغرقت الكتابة وقتًا طويلًا أو سببت ألمًا.",
+        "intro": "يروي طفلك بحماس قصة كلب ضائع. لكن عند انتهاء الحصة لم يكتب على الورقة سوى الجملة الأولى. اطلب منه أن يقرأها لك ويبيّن أين أصبحت الكتابة شاقة. فالقصة التي يستطيع روايتها والعلامات التي يضعها على الورقة تخبرانك بأمرين مختلفين.",
+        "sections": [
+          {
+            "heading": "لاحظ أي جزء من الكتابة يصعب عليه",
+            "paragraphs": [
+              "انظرا معًا إلى عينة قصيرة. هل يستطيع رسم الحروف التي يقصدها؟ هل تلتصق الكلمات أو تبتعد عن السطر؟ هل يحفر القلم أخاديد عميقة أم يصعب رؤية أثره؟ اسأله إن كانت يده تتعب أو تؤلمه. لاحظ هل تظهر الصعوبة عند النسخ أم عند كتابة أفكاره أم في الحالتين.",
+              "يتعلم الأطفال بسرعات مختلفة وبأنظمة كتابة متنوعة. قارن العمل بما علّمه المعلم. تشكيل الحروف والمسافات والسرعة وتحويل الأفكار إلى كلمات مهارات مترابطة ولكنها متميزة. لا تدل صفحة صعبة القراءة على أن الطفل مهمل ولا تكفي لتشخيص عسر الكتابة أو اضطراب التناسق النمائي."
+            ]
+          },
+          {
+            "heading": "جرّبا تغييرًا واحدًا في كتابة لها غرض",
+            "paragraphs": [
+              "وفّر سندًا لقدمي الطفل وساعديه، وأمل الورقة بزاوية مريحة ودعه يثبتها باليد الأخرى. إذا كانت مسكة القلم مريحة وفعالة فلا يلزم أن تشبه مسكة غيره. اختر مع المعلم عنصرًا واحدًا لتدريبه في مهمة قصيرة نافعة، كالمسافة بين الكلمات في ورقة يكتبها للغداء. دعه يختار الكلمة الأسهل قراءة ويُريك ما ساعده.",
+              "في دراسة صغيرة على أطفال من السادسة إلى الحادية عشرة يواجهون صعوبة في الخط، اجتمعت مجموعة تتدرب على الكتابة وأخرى تؤدي أنشطة حسية حركية أربع مرات أسبوعيًا مدة خمسة أسابيع. تحسن الخط في مجموعة التدريب على الكتابة، ولم يتحسن في المجموعة الحسية الحركية. لا يحدد ذلك جدول تدريب منزليًا لكل طفل. قد يكون الرسم ممتعًا، وأدرج أيضًا نوع الكتابة الذي يرغب الطفل فعلًا في إنجازه."
+            ]
+          },
+          {
+            "heading": "لا تدع الخط يحجب ما يعرفه الطفل",
+            "paragraphs": [
+              "خذ للمعلم عينة كتبها الطفل بسرعة مريحة وأخرى من مهمة محددة الوقت. اسأل عما يحدث في الصف وما إذا كان تقليل النسخ أو منح وقت إضافي أو الطباعة أو إملاء إجابة طويلة يسمح له بإظهار أفكاره. اتفقا على تعديل واحد وموعد لمراجعته. قدّر تحسنًا ملموسًا، مثل كلمة يستطيع الآن إعادة قراءتها وحده.",
+              "إذا ظلت الكتابة مؤلمة أو متعبة جدًا أو حدّت باستمرار من العمل المدرسي رغم الدعم، فتحدث مع الطبيب والمدرسة. يستطيع اختصاصي العلاج الوظيفي تقييم أدائه في الكتابة وفي مهام يومية أخرى. أبلغ سريعًا عن فقد مهارة سبق أن أتقنها. ضعف الوجه أو الذراع أو الساق الذي يظهر فجأة أو يزداد سريعًا يستلزم تقييمًا طبيًا فوريًا."
+            ]
+          }
+        ],
+        "takeaways": [
+          "صِف تشكيل الحروف والمسافات والسرعة والراحة كلًا على حدة.",
+          "تدرّبا على هدف واحد في مهمة ذات معنى ولاحظ تقدم الطفل نفسه.",
+          "اسأل المدرسة كيف يمكن للطفل إظهار معرفته بينما تتطور كتابته اليدوية."
+        ],
+        "faq": [
+          {
+            "q": "ماذا نفعل في المنزل؟",
+            "a": "اسأل المعلم كيف يعلّم كتابة الحروف. جرّبا كتابة ملاحظة أو قائمة أو ملصق قصير بالطريقة نفسها. تأكد من الجلسة وموضع الورقة والراحة، وتوقف قبل ازدياد الإحباط أو الألم."
+          },
+          {
+            "q": "كيف تؤثر صعوبة الكتابة في الطفل؟",
+            "a": "قد يصعب عليه إكمال العمل في الوقت المحدد أو قراءة ما كتبه. وقد يضعف التصحيح أمام زملائه ثقته. اسأله ما الذي يساعده على إظهار أفكاره."
+          },
+          {
+            "q": "لماذا قد يصعب قراءة خط طفلي؟",
+            "a": "ربما لا يزال يتعلم أشكال الحروف أو المسافات أو تنسيق حركة القلم والورقة. وقد تزيد السرعة أو صياغة جملة صعبة العبء. لا تكشف عينة واحدة السبب."
+          },
+          {
+            "q": "لماذا نأخذ الصعوبة بجدية؟",
+            "a": "قد تحد الكتابة البطيئة أو المجهدة من المشاركة حتى لو فهم الطفل الدرس. يمكن للدعم المدرسي وللتقييم عند الحاجة أن يحددا سبل المساعدة."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٧ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "تفحصا عينة قصيرة معًا واسأل الطفل عمّا يشعر به في يده.",
+            "اتفق مع المعلم على تعديل عملي وموعد لمراجعته.",
+            "اطلب تقييمًا للألم أو للصعوبة الوظيفية المستمرة، وأبلغ سريعًا عن فقد مهارة مكتسبة. الضعف المفاجئ أو سريع التفاقم في الوجه أو أحد الأطراف يستلزم تقييمًا طبيًا فوريًا."
+          ],
+          "bemama": "تقترح بي ماما أن تحتفظ بملاحظة كتبها الطفل وسُرّ بها. خذها للمعلم مع عينة أصعب واسأل عمّا أحدث الفرق.",
+          "safety": "أوقف المهمة إذا سببت ألمًا. اطلب المشورة للألم أو التعب المستمر الذي يعرقل الكتابة وأبلغ سريعًا عن فقد مهارة مكتسبة. اطلب تقييمًا طبيًا فوريًا لضعف مفاجئ أو سريع التفاقم في الوجه أو الذراع أو الساق.",
+          "sources": [
+            {
+              "organization": "مؤسسة أكسفورد الصحية التابعة لهيئة الخدمات الصحية الوطنية البريطانية",
+              "title": "وضعية الجسم والورقة والقلم ومسكة اليد عند الكتابة",
+              "url": "https://www.oxfordhealth.nhs.uk/wp-content/uploads/sites/22/2021/08/Handwriting-the-4-Ps.pdf"
+            },
+            {
+              "organization": "هيئة الخدمات الصحية الوطنية البريطانية",
+              "title": "تقييم صعوبات التناسق النمائي لدى الأطفال",
+              "url": "https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia/diagnosis/"
+            },
+            {
+              "organization": "هيئة الخدمات الصحية الوطنية البريطانية",
+              "title": "الدعم المدرسي والعلاج الوظيفي لصعوبات التناسق",
+              "url": "https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia/treatment/"
+            },
+            {
+              "organization": "دنتون وزملاؤه، المجلة الأمريكية للعلاج الوظيفي",
+              "title": "التدريب على الكتابة والتدخل الحسي الحركي عند أطفال من السادسة إلى الحادية عشرة",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16541981/"
+            },
+            {
+              "organization": "المعهد الوطني البريطاني للتميز في الصحة والرعاية",
+              "title": "التقييم العاجل لضعف مفاجئ في الطرف أو الوجه عند الأطفال",
+              "url": "https://www.nice.org.uk/guidance/ng127/chapter/Recommendations-for-children-aged-under-16"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Quand l’écriture manuscrite gêne le travail en classe",
+        "description": "Repérez ce qui rend l’écriture de votre enfant difficile à lire, essayez un ajustement précis et demandez de l’aide à l’école s’il écrit lentement ou a mal.",
+        "intro": "Votre enfant raconte avec entrain l’histoire d’un chien perdu. À la fin du cours, il n’a pourtant terminé sur le papier que la première phrase. Invitez-le à la relire et à vous montrer à quel moment écrire est devenu pénible. Son récit oral et ses traces sur la page vous renseignent sur des capacités différentes.",
+        "sections": [
+          {
+            "heading": "Repérer ce qui gêne le geste",
+            "paragraphs": [
+              "Regardez ensemble un court exemple. Arrive-t-il à former les lettres voulues ? Les mots se touchent-ils ou s’écartent-ils de la ligne ? Le crayon creuse-t-il des sillons ou laisse-t-il des traces à peine visibles ? Demandez si la main se fatigue ou lui fait mal. Notez si c’est difficile en copiant, en composant ses propres phrases ou dans les deux cas.",
+              "Les enfants apprennent à des rythmes différents, dans des systèmes d’écriture variés. Comparez ce travail à ce que l’enseignant a montré. Former les lettres, espacer les mots, écrire vite et mettre ses idées en mots sont des compétences liées mais distinctes. Une page difficile à lire ne permet pas de conclure à un manque de soin, à une dysgraphie ou à un trouble développemental de la coordination."
+            ]
+          },
+          {
+            "heading": "Essayer un seul changement en écrivant pour de vrai",
+            "paragraphs": [
+              "Donnez un appui aux pieds et aux avant-bras, inclinez la feuille confortablement et laissez l’autre main la stabiliser. Une prise de crayon confortable et efficace peut différer d’une personne à l’autre. Choisissez avec l’enseignant un seul point à exercer dans une tâche courte et utile, par exemple espacer les mots sur un petit mot pour le déjeuner. Laissez l’enfant choisir le mot le plus lisible et montrer ce qui l’a aidé.",
+              "Une petite étude a porté sur des enfants de 6 à 11 ans en difficulté avec l’écriture. Les groupes pratiquant l’écriture ou des activités sensorimotrices se réunissaient quatre fois par semaine pendant cinq semaines. L’écriture s’est améliorée dans le groupe qui la pratiquait, mais pas dans le groupe sensorimoteur. L’étude ne fixe pas de rythme d’entraînement à domicile pour chaque enfant. Le dessin peut être un plaisir. Gardez aussi une place pour le type d’écrit qu’il a envie de produire."
+            ]
+          },
+          {
+            "heading": "Éviter que l’écriture masque ce qu’il sait",
+            "paragraphs": [
+              "Apportez à l’enseignant un échantillon réalisé à un rythme confortable et un autre issu d’un exercice chronométré. Demandez ce qui se passe en classe et si moins de copie, plus de temps, un clavier ou la possibilité de dicter une longue réponse lui permettraient d’exprimer ses idées. Convenez d’un ajustement et d’une date pour en reparler. Relevez un progrès précis, par exemple un mot qu’il arrive maintenant à relire seul.",
+              "Si, malgré les aides, l’écriture reste douloureuse, très fatigante ou entrave durablement le travail scolaire, parlez-en à l’école et au médecin de l’enfant. Un ergothérapeute peut évaluer le geste d’écriture et les autres tâches quotidiennes. Signalez rapidement la perte d’une aptitude déjà acquise. Une faiblesse du visage, d’un bras ou d’une jambe qui survient brusquement ou s’aggrave rapidement exige une évaluation médicale immédiate."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Décrivez séparément la forme des lettres, l’espacement, la vitesse et le confort.",
+          "Travaillez un objectif dans une tâche qui a du sens et relevez les progrès de l’enfant.",
+          "Demandez à l’école comment il peut montrer ses connaissances pendant qu’il apprend à écrire."
+        ],
+        "faq": [
+          {
+            "q": "Que pouvons-nous faire à la maison ?",
+            "a": "Demandez à l’enseignant comment il montre le tracé des lettres. Essayez la même approche pour un mot, une liste ou une étiquette. Vérifiez l’assise, la place de la feuille et le confort, puis arrêtez avant que la douleur ou la frustration augmente."
+          },
+          {
+            "q": "Comment ces difficultés peuvent-elles affecter mon enfant ?",
+            "a": "Il peut avoir du mal à finir à temps ou à relire ce qu’il a écrit. Des corrections devant ses camarades peuvent entamer sa confiance. Demandez-lui ce qui l’aide à montrer ses idées."
+          },
+          {
+            "q": "Pourquoi son écriture peut-elle être difficile à lire ?",
+            "a": "Il apprend peut-être encore la forme des lettres, leur espacement ou la coordination de la feuille et du crayon. Écrire vite ou formuler une phrase complexe ajoute un effort. Un seul exemple ne permet pas d’identifier la cause."
+          },
+          {
+            "q": "Pourquoi prendre la difficulté au sérieux ?",
+            "a": "Une écriture lente ou laborieuse peut limiter la participation même si l’enfant a compris le cours. Des aménagements à l’école et, si nécessaire, une évaluation peuvent aider à trouver des solutions."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 17 novembre 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Regardez ensemble un court exemple et demandez ce que ressent la main.",
+            "Convenez avec l’enseignant d’un ajustement pratique et d’un moment pour faire le point.",
+            "Consultez pour une douleur ou une gêne fonctionnelle persistante et signalez rapidement une perte d’acquis. Une faiblesse brutale ou rapidement croissante du visage ou d’un membre demande une évaluation médicale immédiate."
+          ],
+          "bemama": "BeMama suggère de garder un mot dont l’enfant est content. Montrez-le avec un exemple plus difficile à l’enseignant pour comprendre ce qui a fait la différence.",
+          "safety": "Arrêtez l’activité si elle fait mal. Consultez pour une douleur ou une fatigue persistante qui entrave l’écriture et signalez rapidement toute perte d’un acquis. Une faiblesse soudaine ou qui s’aggrave rapidement au visage, au bras ou à la jambe nécessite une évaluation médicale immédiate.",
+          "sources": [
+            {
+              "organization": "Oxford Health NHS Foundation Trust",
+              "title": "Posture, feuille, crayon et prise pour écrire à la main",
+              "url": "https://www.oxfordhealth.nhs.uk/wp-content/uploads/sites/22/2021/08/Handwriting-the-4-Ps.pdf"
+            },
+            {
+              "organization": "Service national de santé britannique",
+              "title": "Évaluation des difficultés de coordination développementale de l’enfant",
+              "url": "https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia/diagnosis/"
+            },
+            {
+              "organization": "Service national de santé britannique",
+              "title": "Aides scolaires et ergothérapie dans les difficultés de coordination",
+              "url": "https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia/treatment/"
+            },
+            {
+              "organization": "Denton et ses collègues, American Journal of Occupational Therapy",
+              "title": "Pratique de l’écriture et intervention sensorimotrice chez les enfants de six à onze ans",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16541981/"
+            },
+            {
+              "organization": "Institut national britannique pour l’excellence en santé et en soins",
+              "title": "Évaluation urgente d’une faiblesse soudaine du visage ou d’un membre chez l’enfant",
+              "url": "https://www.nice.org.uk/guidance/ng127/chapter/Recommendations-for-children-aged-under-16"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "El yazısı okul çalışmalarını zorlaştırdığında",
+        "description": "Çocuğunuzun yazısını okumayı neyin zorlaştırdığını gözlemleyin. İşe yarayan bir değişikliği deneyin ve yazmak yavaş ya da ağrılıysa okuldan destek isteyin.",
+        "intro": "Çocuğunuz kaybolan bir köpek hakkında canlı bir hikâye anlatıyor. Ders bittiğinde kâğıtta yalnızca ilk cümle tamamlanmış. Yazdığını size okumasını ve yazmanın nerede zorlaştığını göstermesini isteyin. Anlatabildiği hikâye ile kâğıda geçirebildikleri farklı şeyler gösterir.",
+        "sections": [
+          {
+            "heading": "Yazmanın hangi bölümünün zor geldiğini gözlemleyin",
+            "paragraphs": [
+              "Kısa bir yazı örneğine çocuğunuzla birlikte bakın. İstediği harfleri oluşturabiliyor mu? Kelimeler birbirine mi giriyor, yoksa satırdan mı kayıyor? Kalem kâğıtta derin izler mi bırakıyor, yoksa çizgiler çok mu silik? Elinin yorulup yorulmadığını, ağrı olup olmadığını sorun. Güçlük kopya ederken mi, kendi düşüncelerini yazarken mi, yoksa ikisinde de mi ortaya çıkıyor?",
+              "Çocuklar farklı hızlarda ve farklı yazı sistemleriyle öğrenir. Yazıyı öğretmenin anlattıklarıyla birlikte değerlendirin. Harf oluşturma, boşluk bırakma, hız ve düşünceyi söze dökme birbiriyle bağlantılı ama ayrı becerilerdir. Okunması zor tek bir sayfa çocuğun özensiz olduğunu göstermez, disgrafi veya gelişimsel koordinasyon bozukluğu tanısı koydurmaz."
+            ]
+          },
+          {
+            "heading": "Gerçek bir yazma işinde tek bir değişiklik deneyin",
+            "paragraphs": [
+              "Çocuğun ayakları ve ön kolları desteklensin. Kâğıdı rahat bir açıyla yerleştirip diğer eliyle sabitlesin. İşe yarayan, rahat bir kalem tutuşunun başkasınınkiyle aynı görünmesi gerekmez. Öğretmeniyle birlikte kısa ve anlamlı bir görev için tek hedef seçin. Örneğin öğle yemeği için bir not yazarken kelimeler arasında boşluk bırakmayı deneyebilir. Okuması en kolay kelimeyi seçip neyin işe yaradığını size göstersin.",
+              "El yazısı güçlüğü yaşayan 6–11 yaşındaki çocuklarla yapılan küçük bir çalışmada, el yazısı alıştırması veya duyu ve harekete yönelik etkinlikler yapan gruplar beş hafta boyunca haftada dört kez buluştu. El yazısı çalışan grubun yazısı gelişirken diğer grubun yazısında gelişme görülmedi. Bu çalışma her çocuk için evde uygulanacak bir alıştırma takvimi belirlemez. Resim yapmak keyifli olabilir. Çocuğun gerçekten yapmak istediği türden yazma işlerine de yer verin."
+            ]
+          },
+          {
+            "heading": "El yazısı, bildiklerini göstermesine engel olmasın",
+            "paragraphs": [
+              "Öğretmene, rahat bir hızda ve süreli bir görevde yazdığı birer örneği götürün. Sınıfta ne olduğunu, daha az kopyalama, ek süre, klavyeyle yazma veya uzun cevabı birine yazdırmanın fikirlerini göstermesine yardımcı olup olmayacağını sorun. Bir değişiklik ve gözden geçirme zamanı belirleyin. Artık tek başına okuyabildiği bir kelime gibi somut bir ilerlemeyi takdir edin.",
+              "Desteğe rağmen yazmak hâlâ ağrılıysa, çok yoruyorsa veya okul işlerini sürekli sınırlıyorsa çocuğunuzun hekimi ve okuluyla görüşün. Bir ergoterapist yazmayı ve diğer günlük işleri nasıl yaptığını değerlendirebilir. Önceden edindiği bir beceriyi kaybederse gecikmeden bildirin. Çocuğun yüzünde, kolunda veya bacağında aniden başlayan ya da hızla kötüleşen güçsüzlük derhal tıbbi değerlendirme gerektirir."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Harflerin oluşumunu, boşlukları, hızı ve rahatlığı ayrı ayrı tanımlayın.",
+          "Anlamlı bir görevde tek hedef üzerinde çalışın ve çocuğun kendi ilerlemesini fark edin.",
+          "El yazısı gelişirken bildiklerini nasıl gösterebileceğini okula sorun."
+        ],
+        "faq": [
+          {
+            "q": "Evde ne yapabiliriz?",
+            "a": "Öğretmene harfleri nasıl öğrettiğini sorun. Aynı yaklaşımla kısa bir not, liste veya etiket yazmayı deneyin. Oturuşu, kâğıdın konumunu ve rahatlığı kontrol edin. Hayal kırıklığı veya ağrı artmadan ara verin."
+          },
+          {
+            "q": "El yazısı güçlüğü çocuğu nasıl etkileyebilir?",
+            "a": "Süreli işi bitirmekte veya yazdığını tekrar okumakta zorlanabilir. Sınıf arkadaşlarının önünde düzeltilmek güvenini zedeleyebilir. Fikirlerini göstermesini neyin kolaylaştırdığını sorun."
+          },
+          {
+            "q": "Çocuğumun yazısını okumak neden zor olabilir?",
+            "a": "Harf biçimlerini, boşlukları veya kalemle kâğıdı birlikte kullanmayı hâlâ öğreniyor olabilir. Hızlı çalışmak veya zor bir cümle kurmak yükü artırabilir. Bir örnek tek başına nedeni göstermez."
+          },
+          {
+            "q": "Bu güçlük neden önemsenmeli?",
+            "a": "Yavaş veya büyük çabayla yazmak, çocuk dersi anlasa da katılımını sınırlayabilir. Okul desteği ve gerekirse değerlendirme, yardımcı olabilecek yolları belirler."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 17 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Birlikte kısa bir yazı örneğine bakın ve yazarken elinin nasıl hissettiğini sorun.",
+            "Öğretmenle uygulanabilir bir düzenleme ve gözden geçirme tarihi belirleyin.",
+            "Sürekli ağrı veya günlük işleri yapmakta güçlük varsa değerlendirme isteyin ve beceri kaybını gecikmeden bildirin. Yüzde veya uzuvda aniden başlayan ya da hızla artan güçsüzlük derhal tıbbi değerlendirme gerektirir."
+          ],
+          "bemama": "BeMama, çocuğun yazdığı ve memnun kaldığı bir notu saklamanızı önerir. Zorlandığı bir örnekle birlikte öğretmene götürüp farkı neyin yarattığını sorun.",
+          "safety": "Ağrı veren işi durdurun. Sürekli ağrı veya yazmayı sınırlayan yorgunluk için görüş alın ve kazanılmış becerinin kaybını gecikmeden bildirin. Yüzde, kolda veya bacakta aniden başlayan ya da hızla kötüleşen güçsüzlük için hemen tıbbi değerlendirme isteyin.",
+          "sources": [
+            {
+              "organization": "Oxford Health NHS Foundation Trust",
+              "title": "El yazısında duruş, kâğıt, kalem ve kalem tutuşu",
+              "url": "https://www.oxfordhealth.nhs.uk/wp-content/uploads/sites/22/2021/08/Handwriting-the-4-Ps.pdf"
+            },
+            {
+              "organization": "Birleşik Krallık Ulusal Sağlık Hizmeti",
+              "title": "Çocuklarda gelişimsel koordinasyon güçlüklerinin değerlendirilmesi",
+              "url": "https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia/diagnosis/"
+            },
+            {
+              "organization": "Birleşik Krallık Ulusal Sağlık Hizmeti",
+              "title": "Koordinasyon güçlüklerinde okul desteği ve ergoterapi",
+              "url": "https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia/treatment/"
+            },
+            {
+              "organization": "Denton ve çalışma arkadaşları, American Journal of Occupational Therapy",
+              "title": "Altı ila on bir yaşındaki çocuklarda el yazısı alıştırması ve duyusal-motor müdahale",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16541981/"
+            },
+            {
+              "organization": "Birleşik Krallık Ulusal Sağlık ve Bakım Mükemmelliği Enstitüsü",
+              "title": "Çocuklarda ani uzuv veya yüz güçsüzlüğünün acil değerlendirilmesi",
+              "url": "https://www.nice.org.uk/guidance/ng127/chapter/Recommendations-for-children-aged-under-16"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Cuando escribir a mano dificulta el trabajo escolar",
+        "description": "Observa qué hace difícil leer la letra de tu hijo, prueba un cambio concreto y pregunta qué apoyo ofrece la escuela si escribir le cuesta tiempo o le duele.",
+        "intro": "Tu hijo cuenta una historia animada sobre un perro perdido. En el papel, cuando acaba la clase solo ha terminado la primera frase. Pídele que la lea y te muestre en qué momento escribir empezó a costarle. Lo que puede contar y lo que alcanza a poner en el papel aportan información distinta.",
+        "sections": [
+          {
+            "heading": "Observa qué parte de escribir resulta difícil",
+            "paragraphs": [
+              "Mirad juntos una muestra corta. ¿Puede formar las letras que quiere? ¿Se juntan las palabras o se salen de la línea? ¿El lápiz deja surcos profundos o apenas se ven los trazos? Pregunta si se le cansa la mano o le duele. Observa si le pasa al copiar, al escribir ideas propias o en ambos casos.",
+              "Cada niño aprende a su ritmo y los sistemas de escritura varían. Compara el trabajo con lo que le ha enseñado su docente. Formar letras, separar palabras, escribir con fluidez y expresar ideas son habilidades relacionadas pero diferentes. Una página poco legible no indica que sea descuidado ni permite diagnosticar disgrafía o un trastorno del desarrollo de la coordinación."
+            ]
+          },
+          {
+            "heading": "Probad un cambio en una tarea que tenga sentido",
+            "paragraphs": [
+              "Apoya los pies y los antebrazos del niño, inclina el papel como le resulte cómodo y deja que lo sujete con la otra mano. Una forma cómoda y eficaz de agarrar el lápiz no tiene por qué ser igual a la de otra persona. Junto al docente, elegid una sola cosa para practicar con una tarea breve y útil, como separar las palabras de una nota para el almuerzo. Deja que elija qué palabra se lee mejor y te muestre qué le ayudó.",
+              "En un estudio pequeño con niños de 6 a 11 años con dificultades de escritura, los grupos que practicaban caligrafía o hacían actividades sensoriomotoras se reunieron cuatro veces por semana durante cinco semanas. Mejoró la escritura del grupo que la practicó, pero no la del grupo sensoriomotor. Esto no establece cuánto debe practicar en casa cada niño. Dibujar puede ser agradable; incluid también el tipo de escritura que él quiera hacer."
+            ]
+          },
+          {
+            "heading": "Que la letra no oculte lo que sabe",
+            "paragraphs": [
+              "Lleva al docente una muestra escrita sin prisa y otra de una tarea con tiempo limitado. Pregunta qué ocurre en clase y si copiar menos, tener más tiempo, usar un teclado o dictar una respuesta larga le ayudaría a mostrar sus ideas. Acordad un cambio y cuándo revisarlo. Reconoce un avance concreto, como una palabra que ahora puede leer sin ayuda.",
+              "Si escribir sigue doliendo, le cansa mucho o le impide hacer el trabajo escolar pese al apoyo, habla con la escuela y con el profesional que lo atiende. Un terapeuta ocupacional puede valorar la escritura y otras tareas cotidianas. Informa sin demora si pierde una habilidad que ya dominaba. La debilidad repentina o que empeora con rapidez en la cara, un brazo o una pierna necesita valoración médica inmediata."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Describe por separado la formación de las letras, el espaciado, el ritmo y la comodidad.",
+          "Practica un objetivo en una tarea con sentido y reconoce el progreso propio del niño.",
+          "Pregunta a la escuela cómo puede mostrar lo que sabe mientras desarrolla su escritura."
+        ],
+        "faq": [
+          {
+            "q": "¿Qué podemos hacer en casa?",
+            "a": "Pregunta al docente cómo le enseñan las letras. Probad una nota, una lista o una etiqueta corta con el mismo método. Revisa la postura, la posición del papel y la comodidad. Parad antes de que aumente la frustración o el dolor."
+          },
+          {
+            "q": "¿Cómo pueden afectarle las dificultades para escribir a mano?",
+            "a": "Tal vez no termine las actividades a tiempo o le cueste leer lo que escribió. Corregirlo delante de sus compañeros puede dañar su confianza. Pregunta qué le ayuda a expresar sus ideas."
+          },
+          {
+            "q": "¿Por qué cuesta leer la letra de mi hijo?",
+            "a": "Puede que aún esté aprendiendo la forma de las letras, los espacios o cómo coordinar el lápiz y el papel. La prisa o componer una frase difícil aumentan el esfuerzo. Una muestra aislada no identifica la causa."
+          },
+          {
+            "q": "¿Por qué conviene tomarlo en serio?",
+            "a": "La lentitud y el esfuerzo pueden limitar su participación aunque entienda la lección. El apoyo escolar y, si hace falta, una valoración pueden ayudar a encontrar soluciones."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 17 de noviembre de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Observad juntos una muestra corta y pregunta cómo siente la mano.",
+            "Acuerda con el docente un ajuste concreto y una fecha para revisarlo.",
+            "Pide valoración por dolor o dificultad persistentes y comunica sin demora la pérdida de una habilidad. La debilidad repentina o que empeora rápidamente en la cara o una extremidad requiere valoración inmediata."
+          ],
+          "bemama": "BeMama sugiere guardar una nota que le guste a tu hijo. Llévala al docente junto con un ejemplo más difícil y pregunta qué pudo marcar la diferencia.",
+          "safety": "Interrumpe una tarea si duele. Consulta si el dolor o la fatiga persistentes limitan la escritura y comunica sin demora la pérdida de una habilidad ya adquirida. Busca valoración médica inmediata por debilidad repentina o que empeora con rapidez en la cara, un brazo o una pierna.",
+          "sources": [
+            {
+              "organization": "Oxford Health, Servicio Nacional de Salud británico",
+              "title": "Postura, papel, lápiz y agarre para la escritura a mano",
+              "url": "https://www.oxfordhealth.nhs.uk/wp-content/uploads/sites/22/2021/08/Handwriting-the-4-Ps.pdf"
+            },
+            {
+              "organization": "Servicio Nacional de Salud británico",
+              "title": "Evaluación de las dificultades de coordinación del desarrollo en niños",
+              "url": "https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia/diagnosis/"
+            },
+            {
+              "organization": "Servicio Nacional de Salud británico",
+              "title": "Apoyo escolar y terapia ocupacional en dificultades de coordinación",
+              "url": "https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia/treatment/"
+            },
+            {
+              "organization": "Denton y colaboradores, American Journal of Occupational Therapy",
+              "title": "Práctica de la escritura e intervención sensoriomotora en niños de seis a once años",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16541981/"
+            },
+            {
+              "organization": "Instituto Nacional para la Excelencia en la Salud y la Atención",
+              "title": "Valoración urgente de la debilidad repentina facial o de las extremidades en niños",
+              "url": "https://www.nice.org.uk/guidance/ng127/chapter/Recommendations-for-children-aged-under-16"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Quando a escrita à mão atrapalha as atividades escolares",
+        "description": "Observe o que torna a letra da criança difícil de ler, pratique uma mudança por vez e peça apoio à escola quando escrever for demorado, cansativo ou doloroso.",
+        "intro": "Seu filho conta uma história animada sobre um cachorro perdido. No papel, só a primeira frase está pronta quando a aula acaba. Peça que leia o que escreveu e mostre onde escrever ficou difícil. A história que ele conta e os traços que consegue colocar no papel dão informações diferentes.",
+        "sections": [
+          {
+            "heading": "Observe qual parte da escrita é difícil",
+            "paragraphs": [
+              "Vejam juntos uma amostra curta. A criança consegue formar as letras que quer? As palavras ficam emendadas ou saem da linha? O lápis deixa sulcos fundos ou os traços mal aparecem? Pergunte se a mão cansa ou dói. Observe se a dificuldade ocorre ao copiar, ao escrever as próprias ideias ou em ambas as situações.",
+              "As crianças aprendem em ritmos diferentes e em sistemas de escrita diferentes. Compare a atividade com o que o professor ensinou. Formar letras, separar palavras, escrever com rapidez e expressar ideias por escrito são habilidades relacionadas, mas distintas. Uma página difícil de ler não indica descuido nem permite diagnosticar disgrafia ou transtorno do desenvolvimento da coordenação."
+            ]
+          },
+          {
+            "heading": "Experimente uma mudança numa tarefa real de escrita",
+            "paragraphs": [
+              "Apoie os pés e os antebraços da criança, incline a folha de modo confortável e peça que a segure com a outra mão. Um jeito de segurar o lápis que funciona e não incomoda pode ser diferente do de outra pessoa. Com o professor, escolham um aspecto para praticar numa tarefa curta e útil, como separar as palavras de um bilhete para a hora do almoço. Deixe a criança escolher a palavra mais legível e mostrar o que ajudou.",
+              "Em um pequeno estudo com crianças de seis a onze anos com dificuldades de escrita manual, os grupos que praticavam escrita ou faziam atividades sensório-motoras se reuniram quatro vezes por semana durante cinco semanas. A escrita melhorou no grupo que praticou escrever, mas não no de atividades sensório-motoras. O estudo não define um cronograma de prática em casa para todas as crianças. Desenhar pode ser agradável. Inclua também o tipo de escrita que a criança gostaria de fazer."
+            ]
+          },
+          {
+            "heading": "Ajude a criança a mostrar o que sabe",
+            "paragraphs": [
+              "Leve ao professor uma amostra feita no ritmo da criança e outra de uma tarefa com tempo marcado. Pergunte o que acontece em sala e se copiar menos, ter mais tempo, digitar ou ditar uma resposta longa permitiria mostrar melhor suas ideias. Combinem uma mudança e quando vão revê-la. Elogie um avanço específico, como uma palavra que ela agora consegue reler sozinha.",
+              "Se escrever continua causando dor, cansaço intenso ou limitações persistentes nas atividades escolares apesar do apoio, converse com a escola e o profissional de saúde. Um terapeuta ocupacional pode avaliar a escrita e outras tarefas do cotidiano. Informe prontamente qualquer perda de uma habilidade já adquirida. Fraqueza súbita ou que piora rapidamente no rosto, no braço ou na perna de uma criança requer avaliação médica imediata."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Descreva separadamente o traçado das letras, os espaços, a velocidade e o conforto.",
+          "Pratique uma meta numa tarefa que faça sentido e observe o progresso da própria criança.",
+          "Pergunte à escola como a criança pode mostrar o que sabe enquanto desenvolve a escrita manual."
+        ],
+        "faq": [
+          {
+            "q": "O que podemos fazer em casa?",
+            "a": "Pergunte ao professor como as letras estão sendo ensinadas. Tentem escrever um bilhete, uma lista curta ou uma etiqueta com a mesma abordagem. Verifiquem o assento, a posição do papel e o conforto e parem antes que surjam frustração ou dor."
+          },
+          {
+            "q": "Como a dificuldade de escrever à mão pode afetar a criança?",
+            "a": "Pode ser difícil terminar uma tarefa com tempo marcado ou ler o que escreveu. Ser corrigida diante dos colegas pode abalar a confiança. Pergunte o que a ajuda a mostrar suas ideias."
+          },
+          {
+            "q": "Por que a letra do meu filho pode ser difícil de ler?",
+            "a": "Ele pode ainda estar aprendendo o traçado e o espaçamento ou como coordenar o lápis e a folha. A pressa e a tarefa de compor uma frase difícil aumentam as exigências. Uma amostra isolada não revela a causa."
+          },
+          {
+            "q": "Por que levar a dificuldade a sério?",
+            "a": "Escrever devagar ou com muito esforço pode limitar a participação mesmo quando a criança entende a aula. O apoio da escola e, se necessário, uma avaliação podem indicar maneiras de ajudar."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 17 de novembro de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Observem juntos uma amostra curta de escrita e pergunte como a criança sente a mão ao escrever.",
+            "Combinem com o professor um ajuste prático e uma data para revê-lo.",
+            "Procure avaliação para dor persistente ou dificuldades nas atividades e informe prontamente a perda de uma habilidade. Fraqueza súbita ou que piora rapidamente no rosto ou num membro requer avaliação médica imediata."
+          ],
+          "bemama": "A BeMama sugere guardar um bilhete de que a criança tenha gostado. Leve-o ao professor junto com um exemplo mais difícil e pergunte o que fez a diferença.",
+          "safety": "Interrompa a tarefa se doer. Procure orientação para dor persistente ou cansaço que limite a escrita e informe prontamente a perda de uma habilidade adquirida. Fraqueza súbita ou que piora rapidamente no rosto, no braço ou na perna requer avaliação médica imediata.",
+          "sources": [
+            {
+              "organization": "Oxford Health NHS Foundation Trust",
+              "title": "Postura, papel, lápis e preensão da caneta na escrita manual",
+              "url": "https://www.oxfordhealth.nhs.uk/wp-content/uploads/sites/22/2021/08/Handwriting-the-4-Ps.pdf"
+            },
+            {
+              "organization": "Serviço Nacional de Saúde do Reino Unido",
+              "title": "Avaliação de dificuldades de coordenação do desenvolvimento em crianças",
+              "url": "https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia/diagnosis/"
+            },
+            {
+              "organization": "Serviço Nacional de Saúde do Reino Unido",
+              "title": "Apoio escolar e terapia ocupacional para dificuldades de coordenação",
+              "url": "https://www.nhs.uk/conditions/developmental-coordination-disorder-dyspraxia/treatment/"
+            },
+            {
+              "organization": "Denton e colaboradores, American Journal of Occupational Therapy",
+              "title": "Prática de escrita manual e intervenção sensório-motora em crianças de seis a onze anos",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16541981/"
+            },
+            {
+              "organization": "Instituto Nacional de Excelência em Saúde e Cuidados do Reino Unido",
+              "title": "Avaliação urgente de fraqueza súbita nos membros ou no rosto de crianças",
+              "url": "https://www.nice.org.uk/guidance/ng127/chapter/Recommendations-for-children-aged-under-16"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5868.webp",
+    "heroAlt": {
+      "en": "A child writes with a pencil while the other hand steadies the lined paper.",
+      "es": "Un niño escribe a lápiz mientras sujeta el papel rayado con la otra mano.",
+      "fr": "Un enfant écrit au crayon en maintenant le papier ligné de l’autre main.",
+      "pt": "Uma criança escreve a lápis enquanto segura a folha pautada com a outra mão.",
+      "tr": "Bir çocuk bir eliyle kurşun kalemle yazarken diğer eliyle çizgili kâğıdı sabit tutuyor.",
+      "ar": "طفل يكتب بقلم رصاص ويثبت الورقة المسطرة بيده الأخرى.",
+      "fa": "کودکی با مداد می‌نویسد و با دست دیگر کاغذ خط‌دار را نگه می‌دارد."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "When handwriting gets in the way of schoolwork",
+      "description": "Find what makes a child's handwriting hard to read, practise one useful change at a time, and ask the school about support when writing is slow or painful."
+    },
+    "fa": {
+      "title": "وقتی دست‌خط انجام تکالیف مدرسه را دشوار می‌کند",
+      "description": "ببینید کدام بخش نوشتن برای کودک دشوار است، یک تغییر کاربردی را تمرین کنید و اگر نوشتن کند یا دردناک است، از مدرسه درباره حمایت مناسب بپرسید."
+    },
+    "ar": {
+      "title": "حين تعوق الكتابة باليد إنجاز العمل المدرسي",
+      "description": "لاحظ ما يجعل خط طفلك صعب القراءة، وجرّبا تعديلًا عمليًا واحدًا في كل مرة، واسأل المدرسة عن الدعم إذا استغرقت الكتابة وقتًا طويلًا أو سببت ألمًا."
+    },
+    "fr": {
+      "title": "Quand l’écriture manuscrite gêne le travail en classe",
+      "description": "Repérez ce qui rend l’écriture de votre enfant difficile à lire, essayez un ajustement précis et demandez de l’aide à l’école s’il écrit lentement ou a mal."
+    },
+    "tr": {
+      "title": "El yazısı okul çalışmalarını zorlaştırdığında",
+      "description": "Çocuğunuzun yazısını okumayı neyin zorlaştırdığını gözlemleyin. İşe yarayan bir değişikliği deneyin ve yazmak yavaş ya da ağrılıysa okuldan destek isteyin."
+    },
+    "es": {
+      "title": "Cuando escribir a mano dificulta el trabajo escolar",
+      "description": "Observa qué hace difícil leer la letra de tu hijo, prueba un cambio concreto y pregunta qué apoyo ofrece la escuela si escribir le cuesta tiempo o le duele."
+    },
+    "pt": {
+      "title": "Quando a escrita à mão atrapalha as atividades escolares",
+      "description": "Observe o que torna a letra da criança difícil de ler, pratique uma mudança por vez e peça apoio à escola quando escrever for demorado, cansativo ou doloroso."
+    }
+  }
+}

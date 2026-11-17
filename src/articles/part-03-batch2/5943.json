@@ -1,0 +1,695 @@
+{
+  "sourceId": "5943",
+  "article": {
+    "slug": "acute-stress-in-children-after-a-frightening-event",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "When a child keeps reliving a frightening event",
+        "description": "After a serious accident or violence, a child may relive what happened. Learn what to watch for, how to help at home and when to seek professional care.",
+        "intro": "Since a car crash, your child ducks whenever brakes squeal. A sound or smell can bring a terrifying moment back even when the danger has passed. Start by checking for injury and making sure your child is safe now. Once those needs are met, notice how the experience is affecting sleep, play and school.",
+        "sections": [
+          {
+            "heading": "What children may show",
+            "paragraphs": [
+              "Surviving or witnessing serious injury, sexual violence or a threat to life can affect a child. Learning that a close family member experienced violence can also be traumatic. Reactions vary, even among children who went through the same event.",
+              "A younger child may act out parts of the event in play or have nightmares. An older child may avoid a street, startle at small noises, or struggle to concentrate. Some children seem numb, blame themselves or describe the world as unreal. Ask what feels hard and listen to what they want to share."
+            ]
+          },
+          {
+            "heading": "What the first month can tell you",
+            "paragraphs": [
+              "Clinicians consider acute stress disorder when a pattern of symptoms lasts from three days to one month after trauma and causes significant distress or interferes with daily life. PTSD can be assessed when symptoms persist beyond one month. A child can develop PTSD without an earlier acute stress diagnosis. You can ask for help at any point.",
+              "In a study of 8- to 17-year-olds seen at four English emergency departments after a single traumatic event, 226 took part in an interview at about two weeks and 208 at about nine weeks. At the first assessment 14.2% met criteria for acute stress disorder. At the second, 9.6% met criteria for PTSD. These were different diagnoses at different visits. The figures cannot tell you which child will recover or how quickly."
+            ]
+          },
+          {
+            "heading": "What you can do today",
+            "paragraphs": [
+              "Keep a familiar meal or bedtime routine where possible. If a noise frightens your child, stay nearby and help them notice where they are now. You might say, “That was a bus braking outside. We are here in the kitchen together.” Let them choose whether to talk, draw or take a quiet break. Avoid pushing for a detailed account or making them face a reminder yourself.",
+              "With your child’s input, let a trusted adult at school know what helps. If distress is intense, getting worse or disrupting sleep, school or relationships, contact your child’s clinician promptly. Tell them what has changed, when it began and whether there is still a threat."
+            ]
+          },
+          {
+            "heading": "What professional support can look like",
+            "paragraphs": [
+              "A clinician asks about safety, the event, symptoms and how the child is managing. In the first month they may arrange follow-up to monitor recovery or consider individual trauma-focused cognitive behavioural therapy for a child with acute stress disorder or significant PTSD symptoms. This is an age-adapted treatment delivered by a trained professional.",
+              "NICE advises against psychological debriefing that asks people to recount the event in a structured session and against medicines to prevent or treat PTSD in under-18s. Ask who will check in and when. For immediate danger, serious injury or an immediate risk that your child will harm themselves or someone else, seek emergency help now."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Check present safety and injuries first.",
+          "Notice reminders, sleep changes and avoidance, and offer support without demanding a retelling.",
+          "Seek help promptly when distress interferes with everyday life."
+        ],
+        "faq": [
+          {
+            "q": "What kinds of events can bring this on?",
+            "a": "A child may experience or witness serious violence, a severe accident or a threat to life. The response varies with the child, the circumstances and their support."
+          },
+          {
+            "q": "How soon can signs appear?",
+            "a": "Distress can begin right away. The three-day to one-month window helps clinicians assess acute stress disorder. You can contact the care team earlier."
+          },
+          {
+            "q": "How might a child show that they are reliving the event?",
+            "a": "They may have unwanted memories, nightmares or play linked to the event. A noise or other reminder can make them feel as if it is happening again."
+          },
+          {
+            "q": "Which treatments might be offered?",
+            "a": "A clinician can discuss follow-up and, where indicated, trauma-focused therapy adapted to the child’s age. There is no need to wait for a PTSD diagnosis to ask for support."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Check for injury and ongoing danger.",
+            "Keep supportive routines and avoid forcing a detailed account.",
+            "Arrange follow-up for distress or disruption to ordinary activities."
+          ],
+          "bemama": "BeMama suggests writing down one reminder your child reacts to, how they respond and what helps them feel safe, to share with the clinician.",
+          "safety": "Seek emergency help for immediate danger, serious injury or an immediate risk of harm to self or others. Contact the child’s clinician promptly for worsening distress or disruption to daily life.",
+          "sources": [
+            {
+              "organization": "US National Center for PTSD",
+              "title": "Acute stress disorder and early assessment",
+              "url": "https://www.ptsd.va.gov/professional/treat/essentials/acute_stress_disorder.asp"
+            },
+            {
+              "organization": "NICE",
+              "title": "Post-traumatic stress disorder, prevention and treatment recommendations",
+              "url": "https://www.nice.org.uk/guidance/ng116/chapter/recommendations"
+            },
+            {
+              "organization": "Meiser-Stedman and colleagues, Depression and Anxiety",
+              "title": "Early traumatic stress after a single event in children and adolescents",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5381710/"
+            },
+            {
+              "organization": "National Child Traumatic Stress Network and National Center for PTSD",
+              "title": "Helping children manage fears after a frightening event",
+              "url": "https://www.ptsd.va.gov/disaster_events/for_providers/spr/docs/SPR24_Parents_Fears.pdf"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "وقتی کودک یک رویداد ترسناک را بارها از نو تجربه می‌کند",
+        "description": "پس از تصادفی شدید یا تجربهٔ خشونت، کودک ممکن است واقعه را دوباره در ذهنش زندگی کند. نشانه‌ها، راه‌های حمایت در خانه و زمان مراجعه را بشناسید.",
+        "intro": "از زمان تصادف، فرزندتان با شنیدن صدای ترمز سرش را پایین می‌گیرد. صدا یا بو می‌تواند حتی پس از رفع خطر، لحظه‌ای وحشتناک را زنده کند. اول ببینید کودک آسیب جسمی دیده یا نه و اکنون در امنیت است یا نه. پس از رسیدگی به این نیازها، به تأثیر حادثه بر خواب، بازی و مدرسه توجه کنید.",
+        "sections": [
+          {
+            "heading": "چه نشانه‌هایی ممکن است ببینید؟",
+            "paragraphs": [
+              "تجربه یا مشاهدهٔ جراحت جدی، خشونت جنسی یا تهدید جانی می‌تواند بر کودک اثر بگذارد. باخبر شدن از خشونت علیه یکی از اعضای نزدیک خانواده نیز ممکن است آسیب‌زا باشد. حتی کودکانی که یک رویداد را از سر گذرانده‌اند، واکنش‌های متفاوتی نشان می‌دهند.",
+              "کودک کم‌سن ممکن است بخشی از حادثه را در بازی تکرار کند یا کابوس ببیند. کودک بزرگ‌تر شاید از خیابانی دوری کند، با صدایی آرام از جا بپرد یا تمرکز برایش سخت شود. بعضی کودکان از نظر عاطفی بی‌حس به نظر می‌رسند، خود را سرزنش می‌کنند یا می‌گویند دنیا غیرواقعی است. بپرسید چه چیزی برایش دشوار شده و به آنچه می‌خواهد بگوید گوش دهید."
+            ]
+          },
+          {
+            "heading": "ماه اول چه اطلاعاتی می‌دهد؟",
+            "paragraphs": [
+              "وقتی مجموعه‌ای از نشانه‌ها پس از رویداد آسیب‌زا از سه روز تا یک ماه ادامه دارد و باعث رنج قابل توجه یا اختلال در زندگی روزمره می‌شود، متخصص احتمال اختلال استرس حاد را بررسی می‌کند. اگر نشانه‌ها بیش از یک ماه ادامه یابند، می‌توان احتمال اختلال استرس پس از سانحه را ارزیابی کرد. این اختلال گاهی بدون تشخیص قبلی استرس حاد رخ می‌دهد. در هر زمانی می‌توانید کمک بخواهید.",
+              "در پژوهشی دربارهٔ کودکان و نوجوانان ۸ تا ۱۷ ساله که پس از یک رویداد آسیب‌زا در چهار اورژانس انگلستان ویزیت شدند، ۲۲۶ نفر حدود دو هفته و ۲۰۸ نفر حدود نه هفته پس از رویداد در مصاحبه شرکت کردند. در ارزیابی نخست ۱۴٫۲ درصد معیارهای اختلال استرس حاد و در ارزیابی دوم ۹٫۶ درصد معیارهای اختلال استرس پس از سانحه را داشتند. دو تشخیص متفاوت در دو زمان متفاوت بررسی شدند. این اعداد نشان نمی‌دهند کدام کودک بهبود می‌یابد یا بهبودی چقدر طول می‌کشد."
+            ]
+          },
+          {
+            "heading": "امروز چه کمکی از شما برمی‌آید؟",
+            "paragraphs": [
+              "در حد امکان برنامهٔ آشنای غذا یا خواب را نگه دارید. اگر صدایی کودک را ترساند، کنارش بمانید و کمک کنید به جایی که اکنون در آن است توجه کند. مثلاً بگویید «اتوبوسی بیرون ترمز گرفت. من و تو اینجا توی آشپزخانه‌ایم.» بگذارید خودش بین حرف زدن، نقاشی و کمی آرامش یکی را انتخاب کند. به تعریف جزئیات وادارش نکنید و خودتان او را با چیزی که یادآور رویداد است روبه‌رو نکنید.",
+              "با نظر کودک به بزرگسالی مورد اعتماد در مدرسه بگویید چه چیزی به او کمک می‌کند. اگر ناراحتی شدید است، بدتر می‌شود یا خواب، مدرسه و روابط او را مختل می‌کند، زود با پزشک یا متخصص سلامت کودک تماس بگیرید. بگویید چه تغییری از چه زمانی پیش آمده و آیا هنوز تهدیدی وجود دارد."
+            ]
+          },
+          {
+            "heading": "حمایت تخصصی چگونه است؟",
+            "paragraphs": [
+              "متخصص دربارهٔ امنیت، واقعه، نشانه‌ها و وضعیت روزمرهٔ کودک سؤال می‌کند. در ماه نخست ممکن است برای پیگیری بهبودی وقت بعدی تعیین کند یا در کودک مبتلا به اختلال استرس حاد یا دارای نشانه‌های مهم استرس پس از سانحه، درمان شناختی‌رفتاری فردیِ متمرکز بر تروما را در نظر بگیرد. این درمان را فرد آموزش‌دیده متناسب با سن کودک انجام می‌دهد.",
+              "مؤسسهٔ NICE جلسهٔ ساختارمندی را که برای تخلیهٔ روانی از افراد می‌خواهد واقعه را بازگو کنند، توصیه نمی‌کند. همچنین دارو را برای پیشگیری یا درمان اختلال استرس پس از سانحه در افراد زیر ۱۸ سال توصیه نمی‌کند. بپرسید چه کسی و چه زمانی پیگیری خواهد کرد. اگر خطری فوری یا جراحتی جدی وجود دارد یا احتمال می‌دهید کودک همین حالا به خود یا دیگری آسیب برساند، فوراً کمک اورژانسی بگیرید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "اول امنیت فعلی و آسیب‌های جسمی را بررسی کنید.",
+          "به یادآورها، تغییر خواب و دوری از موقعیت‌ها توجه کنید و بدون اصرار به بازگویی، کنارش باشید.",
+          "اگر ناراحتی در زندگی روزمره اختلال ایجاد کرده زود کمک بخواهید."
+        ],
+        "faq": [
+          {
+            "q": "چه رویدادهایی می‌توانند چنین اثری بگذارند؟",
+            "a": "کودک ممکن است خشونت جدی، تصادف شدید یا تهدید جانی را تجربه کند یا شاهد آن باشد. واکنش به خود کودک، شرایط و حمایتی که دریافت می‌کند بستگی دارد."
+          },
+          {
+            "q": "نشانه‌ها از چه زمانی ظاهر می‌شوند؟",
+            "a": "ناراحتی می‌تواند بلافاصله شروع شود. بازهٔ سه روز تا یک ماه به متخصص در ارزیابی اختلال استرس حاد کمک می‌کند. می‌توانید پیش از آن نیز با تیم درمان تماس بگیرید."
+          },
+          {
+            "q": "کودک چطور نشان می‌دهد که حادثه را دوباره تجربه می‌کند؟",
+            "a": "خاطره‌های ناخواسته، کابوس یا بازی مرتبط با حادثه ممکن است رخ دهند. صدا یا یادآور دیگری گاهی به او این احساس را می‌دهد که واقعه دوباره در حال رخ دادن است."
+          },
+          {
+            "q": "چه درمان‌هایی ممکن است پیشنهاد شود؟",
+            "a": "متخصص می‌تواند دربارهٔ پیگیری و در صورت لزوم درمان متمرکز بر تروما متناسب با سن کودک صحبت کند. برای درخواست حمایت لازم نیست منتظر تشخیص اختلال استرس پس از سانحه بمانید."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۶ نوامبر ۲۰۲۶ مرور شد",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "جراحت و تداوم خطر را بررسی کنید.",
+            "برنامه‌های آرامش‌بخش را حفظ کنید و کودک را به تعریف جزئیات وادار نکنید.",
+            "برای رنج روانی یا به‌هم‌خوردن فعالیت‌های عادی پیگیری ترتیب دهید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند یکی از چیزهایی را که حادثه را به یاد کودک می‌آورد، واکنش او و آنچه به احساس امنیتش کمک می‌کند یادداشت کنید و به پزشک بگویید.",
+          "safety": "برای خطر فوری، جراحت جدی یا خطر آنی آسیب به خود یا دیگران کمک اورژانسی بگیرید. اگر ناراحتی بیشتر شده یا زندگی روزمره را مختل کرده، زود با متخصص سلامت کودک تماس بگیرید.",
+          "sources": [
+            {
+              "organization": "مرکز ملی اختلال استرس پس از سانحهٔ آمریکا",
+              "title": "اختلال استرس حاد و ارزیابی اولیه",
+              "url": "https://www.ptsd.va.gov/professional/treat/essentials/acute_stress_disorder.asp"
+            },
+            {
+              "organization": "مؤسسهٔ NICE",
+              "title": "توصیه‌های پیشگیری و درمان اختلال استرس پس از سانحه",
+              "url": "https://www.nice.org.uk/guidance/ng116/chapter/recommendations"
+            },
+            {
+              "organization": "مایزر استدمن و همکاران، مجلهٔ Depression and Anxiety",
+              "title": "استرس اولیه پس از یک رویداد آسیب‌زا در کودکان و نوجوانان",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5381710/"
+            },
+            {
+              "organization": "شبکهٔ ملی استرس آسیب‌زای کودکان و مرکز ملی اختلال استرس پس از سانحه",
+              "title": "کمک به کودکان برای مدیریت ترس پس از رویدادی هراس‌انگیز",
+              "url": "https://www.ptsd.va.gov/disaster_events/for_providers/spr/docs/SPR24_Parents_Fears.pdf"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "حين يستعيد طفلك حدثاً مخيفاً كأنه يقع من جديد",
+        "description": "قد يستعيد الطفل حادثاً خطيراً أو موقف عنف بعد زوال الخطر. تعرف إلى العلامات التي تستحق الانتباه، وكيف تدعمه في البيت ومتى تطلب مساعدة مختص.",
+        "intro": "منذ حادث السيارة ينحني طفلك فور سماع صرير المكابح. قد يعيد صوت أو رائحة لحظة مرعبة إلى ذهنه حتى بعد انتهاء الخطر. تحقق أولاً مما إذا كان مصاباً وما إذا كان آمناً الآن. بعد تلبية هاتين الحاجتين، لاحظ أثر التجربة في نومه ولعبه ومدرسته.",
+        "sections": [
+          {
+            "heading": "ما الذي قد تلاحظه على الطفل؟",
+            "paragraphs": [
+              "قد يتأثر الطفل إذا تعرض لإصابة خطيرة أو عنف جنسي أو تهديد للحياة، أو شهد أياً من ذلك. وقد يكون سماعه بأن فرداً مقرباً من أسرته تعرض للعنف تجربة صادمة أيضاً. تختلف الاستجابات حتى بين أطفال عاشوا الحدث نفسه.",
+              "قد يعيد الصغير مشاهد من الحدث في لعبه أو يرى كوابيس. وقد يتجنب الطفل الأكبر شارعاً معيناً أو يجفل من أصوات خافتة أو يصعب عليه التركيز. قد يبدو بعض الأطفال فاقدي الإحساس بالمشاعر، أو يلومون أنفسهم، أو يصفون العالم بأنه غير حقيقي. اسأل عما يصعب عليه واستمع إلى ما يود مشاركته."
+            ]
+          },
+          {
+            "heading": "ما الذي يوضحه الشهر الأول؟",
+            "paragraphs": [
+              "ينظر المختصون في احتمال اضطراب الكرب الحاد عندما تستمر مجموعة من الأعراض مدة تتراوح بين ثلاثة أيام وشهر بعد الصدمة وتسبب معاناة واضحة أو تعيق الحياة اليومية. وإذا استمرت الأعراض أكثر من شهر، يمكن تقييم احتمال اضطراب الكرب التالي للصدمة. قد يصاب الطفل به من دون تشخيص سابق باضطراب الكرب الحاد. يمكنك طلب المساعدة في أي وقت.",
+              "شملت دراسة أطفالاً ويافعين في سن 8 إلى 17 سنة راجعوا أربعة أقسام طوارئ في إنجلترا بعد حدث صادم واحد. شارك 226 منهم في مقابلة بعد نحو أسبوعين و208 بعد نحو تسعة أسابيع. استوفى 14.2% معايير اضطراب الكرب الحاد في التقييم الأول، و9.6% معايير اضطراب الكرب التالي للصدمة في الثاني. دُرس تشخيصان مختلفان في وقتين مختلفين. لا تخبرنا الأرقام أي طفل سيتعافى ولا كم سيستغرق تعافيه."
+            ]
+          },
+          {
+            "heading": "ما الذي يمكنك فعله اليوم؟",
+            "paragraphs": [
+              "حافظ إن أمكن على روتين مألوف للطعام أو النوم. إذا أخاف صوت طفلك فابق قريباً وساعده على ملاحظة مكانه الآن. يمكنك القول «كانت تلك حافلة تستخدم المكابح في الخارج. نحن هنا في المطبخ معاً». دعه يختار بين الكلام والرسم أو الاستراحة بهدوء. تجنب الضغط عليه لسرد التفاصيل أو إجباره بنفسك على مواجهة ما يذكّره بالحادث.",
+              "أشرك الطفل في إخبار شخص بالغ يثق به في المدرسة بما يساعده. اتصل سريعاً بمختص الرعاية إذا كان الضيق شديداً أو يزداد أو يعرقل النوم أو المدرسة أو العلاقات. صف ما تغير ومتى بدأ وما إذا كان هناك تهديد مستمر."
+            ]
+          },
+          {
+            "heading": "كيف يمكن للمختص تقديم الدعم؟",
+            "paragraphs": [
+              "يسأل المختص عن السلامة والحدث والأعراض وكيف يدبر الطفل شؤونه اليومية. قد يرتب متابعة خلال الشهر الأول لمراقبة التعافي، أو ينظر في علاج معرفي سلوكي فردي يركز على الصدمة عند وجود اضطراب كرب حاد أو أعراض مهمة للكرب التالي للصدمة. يقدم العلاجَ مختص مدرّب ويلائمه مع عمر الطفل.",
+              "لا يوصي معهد NICE بجلسات التفريغ النفسي المنظمة التي يُطلب فيها من الشخص إعادة سرد الحدث. كما لا يوصي بالأدوية للوقاية من اضطراب الكرب التالي للصدمة أو علاجه لمن دون 18 سنة. اسأل عمن سيتابع الطفل وموعد المتابعة. اطلب مساعدة الطوارئ الآن إذا كان هناك خطر فوري أو إصابة خطيرة أو احتمال وشيك أن يؤذي الطفل نفسه أو غيره."
+            ]
+          }
+        ],
+        "takeaways": [
+          "تحقق أولاً من سلامة الطفل الآن ومن وجود إصابات.",
+          "لاحظ ما يذكّره بالحادث وتغيرات النوم وما يتجنبه، وقدم الدعم دون مطالبته بإعادة السرد.",
+          "اطلب المساعدة سريعاً إذا أثّر الضيق في أنشطة الحياة اليومية."
+        ],
+        "faq": [
+          {
+            "q": "ما الأحداث التي قد تؤدي إلى هذه الاستجابة؟",
+            "a": "قد يتعرض الطفل لعنف شديد أو لحادث خطير أو لتهديد للحياة، وقد يشهد أياً منها. تختلف استجابته باختلاف الطفل والظروف والدعم المتاح له."
+          },
+          {
+            "q": "متى يمكن أن تظهر العلامات؟",
+            "a": "قد يبدأ الضيق فوراً. تساعد الفترة من ثلاثة أيام إلى شهر المختص على تقييم اضطراب الكرب الحاد. ويمكنك التواصل مع فريق الرعاية قبل ذلك."
+          },
+          {
+            "q": "كيف يظهر أن الطفل يستعيد الحدث؟",
+            "a": "قد تقتحم الذكريات ذهنه أو تراوده كوابيس أو يعيد بعض المشاهد في اللعب. وقد يجعله صوت أو شيء آخر يذكّره بالحادث يشعر بأنه يقع مرة أخرى."
+          },
+          {
+            "q": "ما العلاجات التي يمكن أن تعرض عليه؟",
+            "a": "يمكن للمختص مناقشة المتابعة، وعند الحاجة علاج يركز على الصدمة ويلائم عمر الطفل. لا يلزم انتظار تشخيص اضطراب الكرب التالي للصدمة لكي تطلب الدعم."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في 16 نوفمبر 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "تحقق من وجود إصابات أو خطر ما زال قائماً.",
+            "حافظ على روتين داعم وتجنب إجبار الطفل على رواية التفاصيل.",
+            "رتب متابعة عند الضيق أو تعطل الأنشطة المعتادة."
+          ],
+          "bemama": "تقترح بي ماما تدوين شيء يذكّر الطفل بالحدث وكيف يستجيب له وما يساعده على الشعور بالأمان، لمشاركة ذلك مع المختص.",
+          "safety": "اطلب الطوارئ عند الخطر الفوري أو الإصابة الخطيرة أو احتمال وشيك لإيذاء النفس أو الغير. واتصل سريعاً بمختص الطفل إذا ازداد الضيق أو تعطل يومه المعتاد.",
+          "sources": [
+            {
+              "organization": "المركز الوطني الأمريكي لاضطراب الكرب التالي للصدمة",
+              "title": "اضطراب الكرب الحاد والتقييم المبكر",
+              "url": "https://www.ptsd.va.gov/professional/treat/essentials/acute_stress_disorder.asp"
+            },
+            {
+              "organization": "معهد NICE",
+              "title": "توصيات الوقاية من اضطراب الكرب التالي للصدمة وعلاجه",
+              "url": "https://www.nice.org.uk/guidance/ng116/chapter/recommendations"
+            },
+            {
+              "organization": "مايزر ستيدمان وزملاؤه، مجلة Depression and Anxiety",
+              "title": "الكرب المبكر بعد حدث صادم واحد عند الأطفال واليافعين",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5381710/"
+            },
+            {
+              "organization": "الشبكة الوطنية لكرب الطفولة الصدمي والمركز الوطني لاضطراب الكرب التالي للصدمة",
+              "title": "مساعدة الأطفال على التعامل مع الخوف بعد حدث مخيف",
+              "url": "https://www.ptsd.va.gov/disaster_events/for_providers/spr/docs/SPR24_Parents_Fears.pdf"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Quand un enfant revit un événement terrifiant",
+        "description": "Après un accident grave ou des violences, un enfant peut revivre ce qui s’est passé. Repérez les signes, soutenez-le au quotidien et sachez quand consulter.",
+        "intro": "Depuis un accident de voiture, votre enfant se baisse dès qu’il entend des freins. Un bruit ou une odeur peut le ramener à un moment terrifiant, même après la fin du danger. Vérifiez d’abord qu’il n’est pas blessé et qu’il est maintenant en sécurité. Observez ensuite les effets sur son sommeil, ses jeux et sa vie scolaire.",
+        "sections": [
+          {
+            "heading": "Ce qu’un enfant peut montrer",
+            "paragraphs": [
+              "Subir ou voir une blessure grave, des violences sexuelles ou une menace de mort peut affecter un enfant. Apprendre qu’un proche a subi des violences peut aussi être traumatisant. Deux enfants qui ont vécu le même événement peuvent réagir différemment.",
+              "Un petit peut rejouer des scènes ou faire des cauchemars. Un plus grand peut éviter une rue, sursauter au moindre bruit ou avoir du mal à se concentrer. Certains semblent ne plus rien ressentir, s’en veulent ou disent que le monde semble irréel. Demandez ce qui leur paraît difficile et écoutez ce qu’ils souhaitent partager."
+            ]
+          },
+          {
+            "heading": "Ce que révèle le premier mois",
+            "paragraphs": [
+              "Les professionnels envisagent un trouble de stress aigu lorsqu’un ensemble de symptômes dure de trois jours à un mois après le traumatisme et entraîne une souffrance marquée ou gêne la vie quotidienne. Si les symptômes durent plus d’un mois, ils peuvent évaluer un trouble de stress post-traumatique (TSPT). Un enfant peut en développer un sans avoir reçu de diagnostic de stress aigu. Vous pouvez demander de l’aide à tout moment.",
+              "Une étude a suivi des jeunes de 8 à 17 ans vus dans quatre services d’urgences anglais après un événement traumatisant unique. Ils étaient 226 à participer à un entretien vers deux semaines et 208 vers neuf semaines. À la première évaluation, 14,2 % remplissaient les critères de stress aigu. À la seconde, 9,6 % remplissaient ceux du TSPT. Il s’agissait de diagnostics différents à des moments distincts. Ces chiffres ne prédisent pas qui se rétablira ni à quel rythme."
+            ]
+          },
+          {
+            "heading": "Ce que vous pouvez faire dès aujourd’hui",
+            "paragraphs": [
+              "Gardez si possible un rituel familier au repas ou au coucher. Si un bruit fait peur à votre enfant, restez à côté de lui et aidez-le à se repérer dans le présent. Vous pourriez lui dire : « C’était un bus qui freinait dehors. Nous sommes ici dans la cuisine, ensemble. » Laissez-le choisir de parler, de dessiner ou de rester au calme. Évitez d’exiger un récit détaillé ou de le confronter vous-même à ce qui lui rappelle l’événement.",
+              "Avec l’avis de votre enfant, indiquez à un adulte de confiance à l’école ce qui l’aide. Si la détresse est intense, s’aggrave ou perturbe le sommeil, la scolarité ou les relations, contactez rapidement son médecin. Précisez ce qui a changé, depuis quand et si une menace persiste."
+            ]
+          },
+          {
+            "heading": "Quel accompagnement professionnel ?",
+            "paragraphs": [
+              "Le soignant s’informe de la sécurité, de l’événement, des symptômes et des répercussions sur le quotidien. Pendant le premier mois, il peut prévoir un suivi ou envisager une thérapie cognitivo-comportementale individuelle centrée sur le traumatisme en cas de stress aigu ou de symptômes importants de TSPT. Un professionnel formé l’adapte à l’âge de l’enfant.",
+              "Le NICE déconseille le débriefing psychologique qui demande de raconter l’événement dans le cadre d’une séance structurée. Il déconseille aussi les médicaments pour prévenir ou traiter le TSPT avant 18 ans. Demandez qui assurera le suivi et quand. Faites appel aux secours immédiatement en cas de danger immédiat, de blessure grave ou si l’enfant risque dans l’immédiat de se faire du mal ou de blesser quelqu’un."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Vérifiez d’abord que le danger est passé et recherchez des blessures.",
+          "Repérez les rappels de l’événement, les changements de sommeil et les évitements. Soutenez l’enfant sans exiger un récit.",
+          "Demandez rapidement de l’aide si la souffrance perturbe les activités quotidiennes."
+        ],
+        "faq": [
+          {
+            "q": "Quels événements peuvent entraîner ces réactions ?",
+            "a": "Un enfant peut subir ou voir des violences graves, un accident sérieux ou une menace de mort. Sa réaction dépend aussi des circonstances et du soutien dont il dispose."
+          },
+          {
+            "q": "Quand les premiers signes apparaissent-ils ?",
+            "a": "La détresse peut être immédiate. La période de trois jours à un mois sert à évaluer le stress aigu. Vous pouvez contacter l’équipe soignante plus tôt."
+          },
+          {
+            "q": "Comment savoir si l’enfant revit l’événement ?",
+            "a": "Il peut avoir des souvenirs qui s’imposent, des cauchemars ou des jeux en lien avec ce qui s’est passé. Un bruit ou un autre rappel peut lui donner l’impression que cela recommence."
+          },
+          {
+            "q": "Quels soins peut-on lui proposer ?",
+            "a": "Un professionnel peut prévoir un suivi et, si besoin, une thérapie centrée sur le traumatisme adaptée à son âge. Vous pouvez demander du soutien avant un diagnostic de TSPT."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Vérifiez s’il y a des blessures et si le danger persiste.",
+            "Maintenez des repères rassurants sans imposer un récit détaillé.",
+            "Organisez un suivi si la détresse gêne la vie ordinaire."
+          ],
+          "bemama": "BeMama vous propose de noter un rappel qui fait réagir votre enfant, sa réaction et ce qui l’aide à se sentir en sécurité, pour en parler en consultation.",
+          "safety": "Appelez les secours en cas de danger immédiat, de blessure grave ou de risque immédiat de se faire du mal ou de blesser autrui. Consultez rapidement si la détresse s’aggrave ou perturbe le quotidien.",
+          "sources": [
+            {
+              "organization": "Centre national américain pour le TSPT",
+              "title": "Trouble de stress aigu et évaluation précoce",
+              "url": "https://www.ptsd.va.gov/professional/treat/essentials/acute_stress_disorder.asp"
+            },
+            {
+              "organization": "NICE",
+              "title": "Prévention et traitement du trouble de stress post-traumatique",
+              "url": "https://www.nice.org.uk/guidance/ng116/chapter/recommendations"
+            },
+            {
+              "organization": "Meiser-Stedman et collègues, Depression and Anxiety",
+              "title": "Stress précoce après un événement traumatisant unique chez les jeunes",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5381710/"
+            },
+            {
+              "organization": "Réseau national du stress traumatique de l’enfant et Centre national pour le TSPT",
+              "title": "Aider les enfants à faire face à leurs peurs après un événement effrayant",
+              "url": "https://www.ptsd.va.gov/disaster_events/for_providers/spr/docs/SPR24_Parents_Fears.pdf"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Çocuğunuz korkutucu bir olayı yeniden yaşadığında",
+        "description": "Ağır bir kazanın veya şiddetin ardından çocuğunuz olayı yeniden yaşayabilir. Belirtileri, evde destek yollarını ve ne zaman yardım isteyeceğinizi öğrenin.",
+        "intro": "Trafik kazasından beri çocuğunuz fren sesi duyunca eğilip saklanıyor. Tehlike geçse bile bir ses veya koku o korkutucu anı geri getirebilir. Önce yaralanma olup olmadığını ve çocuğun şu anda güvende olduğunu kontrol edin. Ardından yaşananların uykusunu, oyununu ve okul yaşamını nasıl etkilediğine bakın.",
+        "sections": [
+          {
+            "heading": "Çocukta neler fark edebilirsiniz?",
+            "paragraphs": [
+              "Ağır bir yaralanma, cinsel şiddet veya hayati tehlike yaşamak ya da bunlara tanık olmak çocuğu etkileyebilir. Yakın bir aile üyesinin şiddete uğradığını öğrenmek de travmatik olabilir. Aynı olayı yaşayan çocuklar bile farklı tepki verebilir.",
+              "Küçük bir çocuk oyunda olayın bazı bölümlerini canlandırabilir veya kâbus görebilir. Daha büyük bir çocuk bir sokaktan geçmekten kaçınabilir, hafif seslerle irkilebilir ya da dikkatini toplayamayabilir. Bazı çocuklar duygusuzlaşmış görünebilir, kendini suçlayabilir veya çevreyi gerçek dışı algıladığını söyleyebilir. Nelerin zor geldiğini sorun ve paylaşmak istediği kadarını dinleyin."
+            ]
+          },
+          {
+            "heading": "İlk ay bize ne anlatır?",
+            "paragraphs": [
+              "Travmayı izleyen dönemde bir belirti kümesi üç günden bir aya kadar sürüyor ve belirgin sıkıntı yaratıyor veya günlük yaşamı aksatıyorsa uzmanlar akut stres bozukluğunu değerlendirir. Belirtiler bir aydan uzun sürerse travma sonrası stres bozukluğu (TSSB) açısından değerlendirme yapılabilir. Önceden akut stres bozukluğu tanısı almamış bir çocukta da TSSB gelişebilir. İstediğiniz zaman yardım isteyebilirsiniz.",
+              "Tek bir travmatik olayın ardından İngiltere’deki dört acil serviste görülen 8–17 yaşındaki çocuk ve ergenlerle yapılan bir araştırmada, yaklaşık iki hafta sonraki görüşmeye 226, yaklaşık dokuz hafta sonrakine 208 kişi katıldı. İlk değerlendirmede %14,2’si akut stres bozukluğu, ikincisinde %9,6’sı TSSB ölçütlerini karşılıyordu. Farklı zamanlarda farklı tanılar değerlendirildi. Bu sayılar hangi çocuğun ne kadar sürede iyileşeceğini göstermez."
+            ]
+          },
+          {
+            "heading": "Bugün nasıl destek olabilirsiniz?",
+            "paragraphs": [
+              "Mümkün olduğunda tanıdık bir yemek ya da uyku düzenini sürdürün. Bir ses çocuğu korkutursa yanında kalıp şu an nerede olduğunu fark etmesine yardımcı olun. “Dışarıdaki otobüs fren yaptı. Şimdi ikimiz mutfaktayız” diyebilirsiniz. Konuşmayı, resim çizmeyi ya da sessizce dinlenmeyi seçmesine izin verin. Ayrıntılı anlatması için zorlamayın ve olayı hatırlatan bir şeyle kendi başınıza yüzleştirmeyin.",
+              "Çocuğunuzun da görüşünü alarak okulda güvendiği bir yetişkine neyin iyi geldiğini anlatın. Sıkıntısı yoğunsa, artıyorsa ya da uykusunu, okulunu veya ilişkilerini etkiliyorsa sağlık uzmanıyla gecikmeden görüşün. Nelerin değiştiğini, ne zaman başladığını ve hâlen bir tehdit bulunup bulunmadığını söyleyin."
+            ]
+          },
+          {
+            "heading": "Profesyonel destek nasıl olabilir?",
+            "paragraphs": [
+              "Uzman çocuğun güvenliğini, olayı, belirtileri ve günlük yaşamını sorar. İlk ayda iyileşmeyi izlemek için takip randevusu planlayabilir. Akut stres bozukluğu veya belirgin TSSB belirtileri varsa bireysel, travma odaklı bilişsel davranışçı terapiyi değerlendirebilir. Bu tedaviyi eğitimli bir uzman çocuğun yaşına uygun biçimde uygular.",
+              "NICE, kişiden yapılandırılmış bir seansta olayı yeniden anlatmasını isteyen psikolojik çözümlemeyi önermez. 18 yaş altındakilerde TSSB’yi önleme veya tedavi amacıyla ilaç verilmesini de önermez. Takibi kimin ne zaman yapacağını sorun. Güncel bir tehlike, ciddi yaralanma veya çocuğun hemen kendisine ya da bir başkasına zarar verme riski varsa şimdi acil yardım alın."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Önce çocuğun şu anda güvende olup olmadığını ve yaralanmaları kontrol edin.",
+          "Olayı hatırlatan durumları, uykudaki değişimleri ve kaçınmayı fark edin. Tekrar anlatmasını istemeden destek olun.",
+          "Sıkıntı günlük yaşamı aksatıyorsa gecikmeden yardım isteyin."
+        ],
+        "faq": [
+          {
+            "q": "Hangi olaylar buna yol açabilir?",
+            "a": "Çocuk ciddi şiddet, ağır bir kaza veya yaşamına yönelik tehdit yaşayabilir ya da bunlara tanık olabilir. Tepki çocuğa, koşullara ve aldığı desteğe göre değişir."
+          },
+          {
+            "q": "Belirtiler ne zaman ortaya çıkabilir?",
+            "a": "Sıkıntı hemen başlayabilir. Üç gün ile bir ay arasındaki süre uzmanların akut stres bozukluğunu değerlendirmesine yardımcı olur. Daha erken de sağlık ekibine ulaşabilirsiniz."
+          },
+          {
+            "q": "Çocuğun olayı yeniden yaşadığı nasıl anlaşılabilir?",
+            "a": "İstemeden aklına gelen anılar, kâbuslar veya olayla ilişkili oyunlar görülebilir. Bir ses ya da başka bir hatırlatıcı her şey yeniden oluyormuş gibi hissettirebilir."
+          },
+          {
+            "q": "Hangi tedaviler önerilebilir?",
+            "a": "Uzman takip ve gerektiğinde çocuğun yaşına uygun travma odaklı terapi seçeneklerini görüşebilir. Destek istemek için TSSB tanısını beklemeniz gerekmez."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Yaralanma ve devam eden tehlike olup olmadığını kontrol edin.",
+            "Güven veren rutinleri sürdürün ve ayrıntılı anlatım için zorlamayın.",
+            "Sıkıntı veya gündelik işlerde aksama varsa takip planlayın."
+          ],
+          "bemama": "BeMama, olayı hatırlatan bir durumu, çocuğun nasıl tepki verdiğini ve neyin güvende hissettirdiğini not ederek uzmana anlatmanızı önerir.",
+          "safety": "Hemen müdahale gerektiren tehlike, ciddi yaralanma ya da kendine veya başkasına yakın zarar verme riski varsa acil yardım alın. Sıkıntı artar veya günlük yaşam aksarsa sağlık uzmanıyla gecikmeden görüşün.",
+          "sources": [
+            {
+              "organization": "ABD Ulusal TSSB Merkezi",
+              "title": "Akut stres bozukluğu ve erken değerlendirme",
+              "url": "https://www.ptsd.va.gov/professional/treat/essentials/acute_stress_disorder.asp"
+            },
+            {
+              "organization": "NICE",
+              "title": "Travma sonrası stres bozukluğunu önleme ve tedavi önerileri",
+              "url": "https://www.nice.org.uk/guidance/ng116/chapter/recommendations"
+            },
+            {
+              "organization": "Meiser-Stedman ve çalışma arkadaşları, Depression and Anxiety",
+              "title": "Çocuk ve ergenlerde tek bir olaydan sonra erken travmatik stres",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5381710/"
+            },
+            {
+              "organization": "Ulusal Çocuk Travmatik Stres Ağı ve Ulusal TSSB Merkezi",
+              "title": "Korkutucu bir olayın ardından çocukların korkularını yönetmesine yardım etmek",
+              "url": "https://www.ptsd.va.gov/disaster_events/for_providers/spr/docs/SPR24_Parents_Fears.pdf"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Cuando un niño sigue reviviendo un suceso aterrador",
+        "description": "Después de un accidente grave o un acto violento, un niño puede revivir lo ocurrido. Aprende a reconocer señales, apoyarlo en casa y buscar atención.",
+        "intro": "Desde el accidente de tráfico, tu hijo se agacha al oír unos frenos. Incluso pasado el peligro, un sonido o un olor pueden devolverle a un momento de terror. Comprueba primero si tiene lesiones y si ahora está a salvo. Una vez atendidas esas necesidades, observa cómo la experiencia afecta al sueño, al juego y a la escuela.",
+        "sections": [
+          {
+            "heading": "Qué puedes observar",
+            "paragraphs": [
+              "Un niño puede verse afectado por sufrir o presenciar lesiones graves, violencia sexual o una amenaza contra la vida. Saber que un familiar cercano sufrió violencia también puede ser traumático. Incluso los niños que vivieron el mismo suceso pueden reaccionar de manera distinta.",
+              "Los pequeños pueden representar partes de lo ocurrido al jugar o tener pesadillas. Un niño mayor puede evitar una calle, sobresaltarse por ruidos leves o tener dificultades para concentrarse. Algunos parecen insensibles, se culpan o dicen que el mundo parece irreal. Pregunta qué les cuesta y escucha aquello que quieran contar."
+            ]
+          },
+          {
+            "heading": "Qué nos dice el primer mes",
+            "paragraphs": [
+              "Los profesionales consideran el trastorno de estrés agudo cuando un conjunto de síntomas dura entre tres días y un mes después del trauma y causa malestar importante o interfiere con la vida diaria. Si los síntomas persisten más de un mes, se puede valorar el trastorno de estrés postraumático (TEPT). Un niño puede desarrollarlo sin diagnóstico previo de estrés agudo. Puedes pedir ayuda en cualquier momento.",
+              "En un estudio de niños y adolescentes de 8 a 17 años atendidos en cuatro servicios de urgencias ingleses tras un solo suceso traumático, 226 participaron en una entrevista hacia las dos semanas y 208 hacia las nueve. En la primera evaluación, el 14,2 % cumplía criterios de trastorno de estrés agudo. En la segunda, el 9,6 % cumplía criterios de TEPT. Se trataba de diagnósticos y momentos diferentes. Las cifras no predicen quién se recuperará ni con qué rapidez."
+            ]
+          },
+          {
+            "heading": "Qué puedes hacer hoy",
+            "paragraphs": [
+              "Mantén, en lo posible, una rutina familiar para las comidas o la hora de dormir. Si un sonido asusta a tu hijo, quédate cerca y ayúdalo a reconocer dónde está ahora. Puedes decir: «Era un autobús que frenaba fuera. Estamos juntos en la cocina». Deja que elija si hablar, dibujar o descansar en silencio. Evita exigir un relato detallado o hacer que se enfrente a un recordatorio por tu cuenta.",
+              "Con la participación del niño, explica a un adulto de confianza en la escuela qué cosas le ayudan. Si el malestar es intenso, empeora o altera el sueño, la escuela o sus relaciones, contacta pronto con su profesional sanitario. Cuenta qué ha cambiado, desde cuándo y si aún existe alguna amenaza."
+            ]
+          },
+          {
+            "heading": "Qué apoyo profesional se puede ofrecer",
+            "paragraphs": [
+              "El profesional pregunta por la seguridad, el suceso, los síntomas y cómo se encuentra el niño en el día a día. En el primer mes puede programar un seguimiento o valorar terapia cognitivo-conductual individual centrada en el trauma si hay trastorno de estrés agudo o síntomas importantes de TEPT. La realiza un profesional formado y se adapta a la edad del niño.",
+              "NICE desaconseja las sesiones estructuradas de descarga psicológica en las que se pide relatar el suceso. También desaconseja los medicamentos para prevenir o tratar el TEPT en menores de 18 años. Pregunta quién hará el seguimiento y cuándo. Busca ayuda de emergencia ahora si hay peligro inmediato, lesiones graves o riesgo inmediato de que el niño se haga daño o haga daño a otra persona."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Comprueba primero si hay lesiones y si el niño está a salvo.",
+          "Observa los recordatorios, los cambios de sueño y la evitación; ofrece apoyo sin exigir que vuelva a contarlo.",
+          "Pide ayuda pronto si el malestar interfiere con las actividades diarias."
+        ],
+        "faq": [
+          {
+            "q": "¿Qué sucesos pueden desencadenarlo?",
+            "a": "Un niño puede sufrir o presenciar violencia grave, un accidente serio o una amenaza contra la vida. La respuesta depende del niño, de las circunstancias y del apoyo que reciba."
+          },
+          {
+            "q": "¿Cuándo pueden aparecer las señales?",
+            "a": "El malestar puede empezar enseguida. El intervalo de tres días a un mes ayuda a valorar el trastorno de estrés agudo. Puedes consultar antes."
+          },
+          {
+            "q": "¿Cómo se nota que un niño está reviviendo el suceso?",
+            "a": "Puede tener recuerdos involuntarios, pesadillas o juegos relacionados con lo ocurrido. Un ruido u otro recordatorio puede hacerle sentir que sucede otra vez."
+          },
+          {
+            "q": "¿Qué tratamientos pueden ofrecerle?",
+            "a": "El profesional puede hablar del seguimiento y, cuando corresponda, de una terapia centrada en el trauma adaptada a su edad. Puedes pedir apoyo antes de que exista un diagnóstico de TEPT."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Comprueba si hay lesiones o si persiste el peligro.",
+            "Mantén rutinas que le den seguridad y evita exigir un relato detallado.",
+            "Acuerda un seguimiento si hay malestar o se alteran las actividades habituales."
+          ],
+          "bemama": "BeMama sugiere apuntar un recordatorio al que reacciona el niño, cómo responde y qué le ayuda a sentirse seguro, para compartirlo en la consulta.",
+          "safety": "Busca ayuda de emergencia ante peligro inmediato, lesión grave o riesgo inmediato de daño propio o a terceros. Consulta pronto si el malestar empeora o altera la vida diaria.",
+          "sources": [
+            {
+              "organization": "Centro Nacional de Estados Unidos para el TEPT",
+              "title": "Trastorno de estrés agudo y evaluación inicial",
+              "url": "https://www.ptsd.va.gov/professional/treat/essentials/acute_stress_disorder.asp"
+            },
+            {
+              "organization": "NICE",
+              "title": "Recomendaciones de prevención y tratamiento del estrés postraumático",
+              "url": "https://www.nice.org.uk/guidance/ng116/chapter/recommendations"
+            },
+            {
+              "organization": "Meiser-Stedman y colaboradores, Depression and Anxiety",
+              "title": "Estrés traumático temprano tras un suceso en niños y adolescentes",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5381710/"
+            },
+            {
+              "organization": "Red Nacional de Estrés Traumático Infantil y Centro Nacional para el TEPT",
+              "title": "Cómo ayudar a los niños a manejar sus miedos tras un suceso aterrador",
+              "url": "https://www.ptsd.va.gov/disaster_events/for_providers/spr/docs/SPR24_Parents_Fears.pdf"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Quando a criança continua revivendo um acontecimento assustador",
+        "description": "Após um acidente grave ou violência, a criança pode reviver o que aconteceu. Entenda os sinais, como acolhê-la em casa e quando buscar atendimento.",
+        "intro": "Desde a batida de carro, seu filho se abaixa ao ouvir o barulho de freios. Um som ou cheiro pode trazer de volta um momento de terror, mesmo depois que o perigo passou. Veja primeiro se há ferimentos e se ele está em segurança agora. Depois, observe como a experiência afeta o sono, as brincadeiras e a escola.",
+        "sections": [
+          {
+            "heading": "O que a criança pode demonstrar",
+            "paragraphs": [
+              "Sofrer ou presenciar uma lesão grave, violência sexual ou uma ameaça à vida pode afetar uma criança. Saber que um familiar próximo sofreu violência também pode ser traumático. As reações variam mesmo entre crianças que passaram pelo mesmo acontecimento.",
+              "Uma criança pequena pode repetir partes do que aconteceu nas brincadeiras ou ter pesadelos. Uma maior pode evitar uma rua, se assustar com sons baixos ou ter dificuldade para se concentrar. Algumas parecem entorpecidas, se culpam ou dizem que o mundo parece irreal. Pergunte o que está difícil e ouça o que ela quiser contar."
+            ]
+          },
+          {
+            "heading": "O que o primeiro mês pode mostrar",
+            "paragraphs": [
+              "Profissionais consideram o transtorno de estresse agudo quando um conjunto de sintomas dura de três dias a um mês após o trauma e provoca sofrimento importante ou interfere no cotidiano. Quando os sintomas persistem por mais de um mês, pode-se avaliar o transtorno de estresse pós-traumático (TEPT). O TEPT pode surgir sem diagnóstico anterior de estresse agudo. É possível pedir ajuda a qualquer momento.",
+              "Em um estudo de jovens de 8 a 17 anos atendidos em quatro serviços de emergência ingleses após um único evento traumático, 226 participaram de entrevista por volta de duas semanas e 208 por volta de nove. Na primeira avaliação, 14,2% preenchiam os critérios de transtorno de estresse agudo. Na segunda, 9,6% preenchiam os de TEPT. Eram diagnósticos diferentes em momentos distintos. Esses números não preveem quem vai se recuperar nem em quanto tempo."
+            ]
+          },
+          {
+            "heading": "Como ajudar hoje",
+            "paragraphs": [
+              "Mantenha, quando possível, uma rotina conhecida nas refeições ou na hora de dormir. Se um ruído assustar a criança, fique por perto e ajude-a a perceber onde está agora. Você pode dizer: “Foi um ônibus freando lá fora. Estamos juntos aqui na cozinha”. Deixe que ela escolha entre conversar, desenhar ou descansar em silêncio. Evite exigir detalhes ou fazê-la enfrentar por conta própria algo que relembre o ocorrido.",
+              "Com a participação da criança, conte a um adulto de confiança na escola o que ajuda. Se o sofrimento for intenso, piorar ou prejudicar o sono, a escola ou os relacionamentos, procure logo o profissional de saúde que a acompanha. Descreva o que mudou, quando começou e se ainda existe alguma ameaça."
+            ]
+          },
+          {
+            "heading": "Como pode ser o acompanhamento",
+            "paragraphs": [
+              "O profissional pergunta sobre a segurança, o ocorrido, os sintomas e como está o dia a dia. No primeiro mês, pode combinar retornos para acompanhar a recuperação ou considerar terapia cognitivo-comportamental individual focada no trauma para quem tem transtorno de estresse agudo ou sintomas importantes de TEPT. A terapia é adaptada à idade e conduzida por um profissional capacitado.",
+              "O NICE desaconselha sessões estruturadas de debriefing psicológico que pedem um relato do ocorrido. Também desaconselha medicamentos para prevenir ou tratar TEPT em menores de 18 anos. Pergunte quem fará o acompanhamento e quando. Busque ajuda de emergência agora se houver perigo imediato, lesão grave ou risco imediato de a criança ferir a si mesma ou outra pessoa."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Primeiro verifique se há segurança e se existem lesões.",
+          "Observe lembranças desencadeadas, mudanças no sono e situações que a criança evita. Dê apoio sem exigir que conte de novo.",
+          "Busque ajuda logo quando o sofrimento atrapalhar a vida diária."
+        ],
+        "faq": [
+          {
+            "q": "Que acontecimentos podem provocar essas reações?",
+            "a": "A criança pode sofrer ou presenciar violência grave, um acidente sério ou uma ameaça à vida. A reação depende da criança, das circunstâncias e do apoio disponível."
+          },
+          {
+            "q": "Quando os sinais podem aparecer?",
+            "a": "O sofrimento pode começar imediatamente. O intervalo de três dias a um mês ajuda o profissional a avaliar o transtorno de estresse agudo. Você pode procurar a equipe antes."
+          },
+          {
+            "q": "Como perceber que a criança está revivendo o que aconteceu?",
+            "a": "Podem surgir lembranças involuntárias, pesadelos ou brincadeiras relacionadas ao ocorrido. Um ruído ou outra lembrança pode fazê-la sentir como se tudo estivesse acontecendo novamente."
+          },
+          {
+            "q": "Que tratamento pode ser oferecido?",
+            "a": "O profissional pode discutir o acompanhamento e, quando indicado, terapia focada no trauma adaptada à idade. Não é preciso esperar um diagnóstico de TEPT para pedir apoio."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revistas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Verifique se há lesões ou perigo atual.",
+            "Preserve rotinas acolhedoras e evite forçar um relato detalhado.",
+            "Combine acompanhamento se o sofrimento ou a mudança no cotidiano persistir."
+          ],
+          "bemama": "A BeMama sugere anotar algo que desperte uma lembrança, como a criança reage e o que a ajuda a se sentir segura, para compartilhar com a equipe.",
+          "safety": "Procure emergência diante de perigo imediato, lesão grave ou risco imediato de a criança ferir a si mesma ou outra pessoa. Busque seu profissional de saúde prontamente se houver piora ou prejuízo na vida diária.",
+          "sources": [
+            {
+              "organization": "Centro Nacional de TEPT dos Estados Unidos",
+              "title": "Transtorno de estresse agudo e avaliação inicial",
+              "url": "https://www.ptsd.va.gov/professional/treat/essentials/acute_stress_disorder.asp"
+            },
+            {
+              "organization": "NICE",
+              "title": "Recomendações de prevenção e tratamento do estresse pós-traumático",
+              "url": "https://www.nice.org.uk/guidance/ng116/chapter/recommendations"
+            },
+            {
+              "organization": "Meiser-Stedman e colaboradores, Depression and Anxiety",
+              "title": "Estresse traumático inicial após um único evento em crianças e adolescentes",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5381710/"
+            },
+            {
+              "organization": "Rede Nacional de Estresse Traumático Infantil e Centro Nacional de TEPT",
+              "title": "Como ajudar crianças a lidar com medos depois de um acontecimento assustador",
+              "url": "https://www.ptsd.va.gov/disaster_events/for_providers/spr/docs/SPR24_Parents_Fears.pdf"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5943.webp",
+    "heroAlt": {
+      "en": "A child holds a blue toy car at a kitchen window while a yellow bus passes outside.",
+      "es": "Un niño sostiene un coche azul de juguete en la ventana mientras pasa un autobús amarillo.",
+      "fr": "Un enfant tient une petite voiture bleue près de la fenêtre tandis qu’un bus jaune passe dehors.",
+      "pt": "Criança segura um carrinho azul junto à janela da cozinha enquanto um ônibus amarelo passa na rua.",
+      "tr": "Bir çocuk mutfak penceresinde mavi oyuncak arabayı tutarken dışarıdan sarı bir otobüs geçiyor.",
+      "fa": "کودکی کنار پنجرهٔ آشپزخانه ماشین اسباب‌بازی آبی را در دست دارد و اتوبوس زردی بیرون می‌گذرد.",
+      "ar": "طفل يمسك سيارة لعبة زرقاء قرب نافذة المطبخ فيما تمر حافلة صفراء في الخارج."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "When a child keeps reliving a frightening event",
+      "description": "After a serious accident or violence, a child may relive what happened. Learn what to watch for, how to help at home and when to seek professional care."
+    },
+    "fa": {
+      "title": "وقتی کودک یک رویداد ترسناک را بارها از نو تجربه می‌کند",
+      "description": "پس از تصادفی شدید یا تجربهٔ خشونت، کودک ممکن است واقعه را دوباره در ذهنش زندگی کند. نشانه‌ها، راه‌های حمایت در خانه و زمان مراجعه را بشناسید."
+    },
+    "ar": {
+      "title": "حين يستعيد طفلك حدثاً مخيفاً كأنه يقع من جديد",
+      "description": "قد يستعيد الطفل حادثاً خطيراً أو موقف عنف بعد زوال الخطر. تعرف إلى العلامات التي تستحق الانتباه، وكيف تدعمه في البيت ومتى تطلب مساعدة مختص."
+    },
+    "fr": {
+      "title": "Quand un enfant revit un événement terrifiant",
+      "description": "Après un accident grave ou des violences, un enfant peut revivre ce qui s’est passé. Repérez les signes, soutenez-le au quotidien et sachez quand consulter."
+    },
+    "tr": {
+      "title": "Çocuğunuz korkutucu bir olayı yeniden yaşadığında",
+      "description": "Ağır bir kazanın veya şiddetin ardından çocuğunuz olayı yeniden yaşayabilir. Belirtileri, evde destek yollarını ve ne zaman yardım isteyeceğinizi öğrenin."
+    },
+    "es": {
+      "title": "Cuando un niño sigue reviviendo un suceso aterrador",
+      "description": "Después de un accidente grave o un acto violento, un niño puede revivir lo ocurrido. Aprende a reconocer señales, apoyarlo en casa y buscar atención."
+    },
+    "pt": {
+      "title": "Quando a criança continua revivendo um acontecimento assustador",
+      "description": "Após um acidente grave ou violência, a criança pode reviver o que aconteceu. Entenda os sinais, como acolhê-la em casa e quando buscar atendimento."
+    }
+  }
+}

@@ -1,0 +1,646 @@
+{
+  "sourceId": "5904",
+  "article": {
+    "slug": "baby-and-child/understanding-a-childs-bmi-and-growth-chart",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "Your child’s BMI and growth chart: what to ask",
+        "description": "Learn how clinicians interpret a child’s BMI alongside growth, health and family history, and what kind of support can help when a measurement raises concern.",
+        "intro": "The clinician plots a point on the growth chart and mentions a high BMI. Ask to see earlier measurements beside today’s. Two useful questions are how your child has grown in height and weight, and whether the change calls for any further checks.",
+        "sections": [
+          {
+            "heading": "Read the point in context",
+            "paragraphs": [
+              "BMI compares weight with height. For children aged two to nineteen, the US CDC charts compare BMI with a reference group of the same age and sex. The obesity category starts at the 95th percentile. That does not mean that 95% of the child’s body is fat. Countries can use different charts, and babies under two are assessed differently.",
+              "BMI is a screening measure. It does not directly measure fat, distinguish muscle from fat or diagnose diabetes. The clinician considers the pattern over time, health history and examination. A prominent belly by itself cannot identify the cause or establish excess body fat. Tell the clinician if an abdominal change is new, painful or persistent."
+            ]
+          },
+          {
+            "heading": "What else belongs in the conversation?",
+            "paragraphs": [
+              "Genes, growth and puberty, sleep, medicines, activity, the foods a household can afford and the places children have to move can all matter. There is seldom one explanation. Bring a medicine list and describe a usual school day, including the times when regular meals or sleep are difficult.",
+              "High BMI can be associated with conditions such as high blood pressure and type 2 diabetes. It does not mean your child has either condition or will inevitably develop it. The clinician can check blood pressure and decide whether tests are appropriate based on age, symptoms and family history."
+            ]
+          },
+          {
+            "heading": "Choose support the whole family can use",
+            "paragraphs": [
+              "Ask which goal fits your child’s stage of growth. The aim for some children is to gain weight more slowly as they grow taller. Avoid adult weight-loss diets or setting a calorie target yourself. Pick a change that works for everyone, such as making water easy to reach at meals or finding time for a game the child enjoys.",
+              "In a US trial, 452 children aged six to twelve with overweight or obesity and a parent were assigned to family-based support or usual care. Over two years, children offered the programme had better results on the study’s BMI measure. The result does not prescribe a target for one child. Ask what help is available locally and when the team will review growth and wellbeing."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Ask to look at height, weight and BMI over time on an age-appropriate chart.",
+          "Discuss health, sleep, medicines and family circumstances alongside the measurement.",
+          "Choose a shared family goal and a date to review it with the clinician."
+        ],
+        "faq": [
+          {
+            "q": "When does a BMI fall in the obesity category?",
+            "a": "On US CDC charts for ages two to nineteen it is at or above the 95th percentile for age and sex. A clinician interprets it alongside growth and health."
+          },
+          {
+            "q": "Why might a child have a high BMI?",
+            "a": "Genetics, development, medicines, sleep, eating opportunities and activity can all contribute. A single food or a parent’s weight does not explain an individual child’s growth."
+          },
+          {
+            "q": "Can I tell from my child’s belly?",
+            "a": "No. Body shape alone cannot establish a cause or a diagnosis. Ask about a new, painful or persistent change rather than assuming it is related to weight."
+          },
+          {
+            "q": "Will a child with a high BMI develop diabetes?",
+            "a": "Not necessarily. The chance of type 2 diabetes can be higher. A clinician can review symptoms, family history and whether testing would help."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Use the appropriate growth chart and discuss trends rather than one number.",
+            "Ask whether an age-appropriate family programme or further health checks would help.",
+            "Keep the focus on the child’s overall health and manageable household routines."
+          ],
+          "bemama": "BeMama suggests asking to see the height chart alongside the BMI chart and bringing one question about the family’s usual day.",
+          "safety": "Ask a clinician about a new, painful or persistent abdominal change instead of assuming it is weight gain. Do not start a restrictive weight-loss diet for a child without professional guidance.",
+          "sources": [
+            {
+              "organization": "Centers for Disease Control and Prevention",
+              "title": "Using pediatric BMI to screen for obesity",
+              "url": "https://www.cdc.gov/obesity/child-obesity-screening/index.html"
+            },
+            {
+              "organization": "National Institute of Diabetes and Digestive and Kidney Diseases",
+              "title": "Understanding growth and supporting a child with overweight",
+              "url": "https://www.niddk.nih.gov/health-information/weight-management/helping-your-child-who-is-overweight"
+            },
+            {
+              "organization": "Epstein and colleagues, JAMA",
+              "title": "Family-based treatment in pediatric primary care: randomized trial",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/37314275/"
+            },
+            {
+              "organization": "US Preventive Services Task Force",
+              "title": "Interventions for high BMI in children and adolescents",
+              "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/obesity-in-children-and-adolescents-screening"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "شاخص تودهٔ بدنی و نمودار رشد کودک؛ از پزشک چه بپرسیم؟",
+        "description": "ببینید شاخص تودهٔ بدنی کودک در کنار روند رشد، وضعیت سلامت و سابقهٔ خانوادگی چگونه تفسیر می‌شود و اگر اندازه‌گیری نگران‌کننده باشد، چه کمکی می‌توانید بخواهید.",
+        "intro": "پزشک نقطه‌ای روی نمودار رشد می‌گذارد و می‌گوید شاخص تودهٔ بدنی کودک بالاست. بخواهید اندازه‌گیری‌های قبلی را هم در کنار نتیجهٔ امروز نشان دهد. دو سؤال برای شروع این است که قد و وزن فرزندتان در این مدت چطور تغییر کرده و آیا این تغییر به بررسی بیشتری نیاز دارد.",
+        "sections": [
+          {
+            "heading": "نقطهٔ روی نمودار را در بستر رشد کودک ببینید",
+            "paragraphs": [
+              "شاخص تودهٔ بدنی یا BMI وزن را نسبت به قد می‌سنجد. در نمودارهای مراکز کنترل و پیشگیری از بیماری‌های آمریکا برای ۲ تا ۱۹ سال، این شاخص با گروه مرجعی از افراد هم‌سن و هم‌جنس مقایسه می‌شود. دستهٔ چاقی از صدک ۹۵ آغاز می‌شود. این به آن معنا نیست که ۹۵ درصد بدن کودک چربی است. کشورها ممکن است از نمودارهای متفاوتی استفاده کنند و نوزادان و کودکان زیر دو سال به روش دیگری ارزیابی می‌شوند.",
+              "این شاخص ابزار غربالگری است. مستقیماً چربی را اندازه نمی‌گیرد، آن را از عضله جدا نمی‌کند و دیابت را تشخیص نمی‌دهد. پزشک روند رشد، سابقهٔ سلامت و یافته‌های معاینه را کنار هم می‌گذارد. جلوآمدگی شکم به‌تنهایی علت را روشن نمی‌کند و نشان نمی‌دهد که چربی بدن زیاد است. اگر تغییری در شکم تازه، دردناک یا ماندگار است به پزشک بگویید."
+            ]
+          },
+          {
+            "heading": "چه موضوع‌های دیگری را مطرح کنیم؟",
+            "paragraphs": [
+              "ژنتیک، رشد و بلوغ، خواب، داروها، فعالیت، مواد غذایی در حد توان مالی خانواده و جایی که کودک برای تحرک در اختیار دارد همگی می‌توانند نقش داشته باشند. به‌ندرت یک علت به‌تنهایی همه چیز را توضیح می‌دهد. فهرست داروها را ببرید و یک روز معمول مدرسه را توصیف کنید، از جمله وقت‌هایی که منظم غذا خوردن یا خوابیدن دشوار است.",
+              "شاخص بالاتر می‌تواند با مشکلاتی مانند فشار خون بالا و دیابت نوع ۲ همراه باشد. این به معنای ابتلای کنونی کودک یا ابتلای حتمی او در آینده نیست. پزشک می‌تواند فشار خون را بسنجد و بر اساس سن، علائم و سابقهٔ خانوادگی تصمیم بگیرد که آیا آزمایشی لازم است."
+            ]
+          },
+          {
+            "heading": "از حمایتی استفاده کنید که با زندگی خانواده جور باشد",
+            "paragraphs": [
+              "بپرسید چه هدفی مناسب مرحلهٔ رشد فرزندتان است. برای بعضی کودکان هدف این است که با بلندتر شدن قد، وزن را آهسته‌تر اضافه کنند. رژیم‌های لاغری بزرگسالان را به کار نبرید و خودتان سقف کالری تعیین نکنید. تغییری انتخاب کنید که همه بتوانند انجام دهند، مثلاً سر سفره آب در دسترس باشد یا زمانی برای بازی مورد علاقهٔ کودک کنار بگذارید.",
+              "در یک کارآزمایی آمریکایی، ۴۵۲ کودک ۶ تا ۱۲ ساله دارای اضافه‌وزن یا چاقی همراه یکی از والدینشان شرکت کردند و به‌طور تصادفی در گروه حمایت خانواده‌محور یا مراقبت معمول قرار گرفتند. طی دو سال، کودکانی که برنامه به آن‌ها ارائه شد در سنجهٔ مربوط به شاخص تودهٔ بدنیِ پژوهش نتیجهٔ بهتری داشتند. این نتیجه هدف معینی برای یک کودک تعیین نمی‌کند. بپرسید چه کمکی در محل زندگی‌تان در دسترس است و چه زمانی تیم درمان رشد و سلامت عمومی کودک را دوباره بررسی می‌کند."
+            ]
+          }
+        ],
+        "takeaways": [
+          "بخواهید تغییرات قد، وزن و شاخص تودهٔ بدنی را در طول زمان روی نمودار مناسب سن ببینید.",
+          "در کنار نتیجهٔ اندازه‌گیری، سلامت، خواب، داروها و شرایط خانواده را مطرح کنید.",
+          "هدف مشترکی برای خانواده انتخاب کنید و با پزشک زمان بازبینی آن را تعیین کنید."
+        ],
+        "faq": [
+          {
+            "q": "شاخص تودهٔ بدنی از چه زمانی در دستهٔ چاقی قرار می‌گیرد؟",
+            "a": "در نمودارهای آمریکایی برای ۲ تا ۱۹ سال، وقتی شاخص برای سن و جنس به صدک ۹۵ برسد یا از آن بالاتر باشد. پزشک آن را در کنار رشد و وضعیت سلامت تفسیر می‌کند."
+          },
+          {
+            "q": "چرا شاخص تودهٔ بدنی کودک ممکن است بالا باشد؟",
+            "a": "ژنتیک، روند رشد، داروها، خواب، فرصت‌های تغذیه و تحرک همگی می‌توانند مؤثر باشند. یک غذا یا وزن یکی از والدین به‌تنهایی رشد یک کودک را توضیح نمی‌دهد."
+          },
+          {
+            "q": "آیا از روی شکم کودک می‌توان تشخیص داد؟",
+            "a": "خیر. شکل بدن به‌تنهایی علت را مشخص نمی‌کند و برای تشخیص کافی نیست. دربارهٔ تغییری که تازه است، درد دارد یا ماندگار شده سؤال کنید و آن را خودبه‌خود به وزن ربط ندهید."
+          },
+          {
+            "q": "آیا کودکی با شاخص تودهٔ بدنی بالا دیابت می‌گیرد؟",
+            "a": "لزوماً نه. احتمال دیابت نوع ۲ ممکن است بیشتر باشد. پزشک می‌تواند علائم و سابقهٔ خانوادگی را بررسی کند و بگوید آیا آزمایش کمکی می‌کند."
+          }
+        ],
+        "evidence": {
+          "updated": "مرور شواهد در ۱۶ نوامبر ۲۰۲۶",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "روند اندازه‌ها را روی نمودار رشد مناسب بررسی کنید.",
+            "بپرسید آیا یک برنامهٔ خانواده‌محور متناسب با سن یا بررسی بیشتر سلامت می‌تواند مفید باشد.",
+            "تمرکز را بر سلامت کلی کودک و عادت‌های قابل اجرا برای خانواده بگذارید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند بخواهید نمودار قد را در کنار نمودار شاخص تودهٔ بدنی ببینید و یک سؤال دربارهٔ برنامهٔ معمول روزانهٔ خانواده همراه داشته باشید.",
+          "safety": "تغییر تازه، دردناک یا ماندگار شکم را با پزشک در میان بگذارید و صرفاً آن را اضافه‌وزن فرض نکنید. بدون راهنمایی تخصصی برای کودک رژیم لاغری محدودکننده شروع نکنید.",
+          "sources": [
+            {
+              "organization": "مراکز کنترل و پیشگیری از بیماری‌های آمریکا",
+              "title": "کاربرد شاخص تودهٔ بدنی کودکان برای غربالگری چاقی",
+              "url": "https://www.cdc.gov/obesity/child-obesity-screening/index.html"
+            },
+            {
+              "organization": "مؤسسهٔ ملی دیابت و بیماری‌های گوارشی و کلیوی آمریکا",
+              "title": "شناخت روند رشد و حمایت از کودک دارای اضافه‌وزن",
+              "url": "https://www.niddk.nih.gov/health-information/weight-management/helping-your-child-who-is-overweight"
+            },
+            {
+              "organization": "اپستین و همکاران، نشریهٔ جاما",
+              "title": "درمان خانواده‌محور در مراقبت اولیهٔ کودکان؛ یک کارآزمایی تصادفی",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/37314275/"
+            },
+            {
+              "organization": "گروه ویژهٔ خدمات پیشگیرانهٔ آمریکا",
+              "title": "مداخلات برای شاخص تودهٔ بدنی بالا در کودکان و نوجوانان",
+              "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/obesity-in-children-and-adolescents-screening"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "مؤشر كتلة الجسم ومخطط نمو طفلك: أسئلة تطرحينها في العيادة",
+        "description": "تعرّفي إلى طريقة تفسير مؤشر كتلة الجسم عند الطفل إلى جانب نموه وصحته وتاريخه العائلي، وإلى ما يمكنك سؤاله للطبيب إذا أثار أحد القياسات القلق.",
+        "intro": "يضع الطبيب نقطة على مخطط النمو ويذكر أن مؤشر كتلة الجسم مرتفع. اطلبي منه أن يريك القياسات السابقة بجانب قياس اليوم. يمكنك البدء بسؤالين: كيف تغيّر طول طفلك ووزنه مع الوقت؟ وهل يستدعي هذا التغيّر مزيدًا من الفحص؟",
+        "sections": [
+          {
+            "heading": "ضعي القياس في سياق نمو الطفل",
+            "paragraphs": [
+              "يربط مؤشر كتلة الجسم الوزن بالطول. في مخططات المراكز الأمريكية لمكافحة الأمراض والوقاية منها للأعمار من سنتين إلى ١٩ سنة، يُقارَن المؤشر بمجموعة مرجعية من العمر والجنس نفسيهما. تبدأ فئة السمنة عند المئين ٩٥. وهذا لا يعني أن الدهون تشكل ٩٥٪ من جسم الطفل. قد تستخدم البلدان مخططات مختلفة، ويجري تقييم الأطفال دون السنتين بطريقة أخرى.",
+              "مؤشر كتلة الجسم أداة تحرٍّ. لا يقيس الدهون مباشرة، ولا يميّز بينها وبين العضلات، ولا يشخّص السكري. ينظر الطبيب إلى مسار النمو والتاريخ الصحي ونتائج الفحص. بروز البطن وحده لا يبيّن السبب ولا يثبت وجود زيادة في دهون الجسم. أخبري الطبيب إذا لاحظت تغيرًا جديدًا أو مؤلمًا أو مستمرًا في البطن."
+            ]
+          },
+          {
+            "heading": "ما الذي يستحق الحديث أيضًا؟",
+            "paragraphs": [
+              "قد يكون لكل من الوراثة والنمو والبلوغ والنوم والأدوية والنشاط والأطعمة التي تستطيع الأسرة شراءها والأماكن المتاحة للحركة دور. ونادرًا ما يكون ثمة تفسير واحد. أحضري قائمة الأدوية وصفي يومًا دراسيًا عاديًا، بما فيه الأوقات التي يصعب فيها انتظام الوجبات أو النوم.",
+              "قد يرتبط المؤشر المرتفع بحالات مثل ارتفاع ضغط الدم والسكري من النوع الثاني. ولا يعني ذلك أن طفلك مصاب بأي منهما الآن أو أنه سيصاب به حتمًا. يمكن للطبيب قياس ضغط الدم وتحديد ما إذا كانت هناك حاجة إلى تحاليل وفقًا للعمر والأعراض والتاريخ العائلي."
+            ]
+          },
+          {
+            "heading": "اختاري دعمًا يناسب الأسرة كلها",
+            "paragraphs": [
+              "اسألي عن الهدف المناسب لمرحلة نمو طفلك. يكون الهدف لبعض الأطفال اكتساب الوزن ببطء أكثر مع زيادة الطول. تجنبي حميات إنقاص الوزن الخاصة بالبالغين ولا تضعي حدًا للسعرات من تلقاء نفسك. اختاري تغييرًا يناسب الجميع، مثل وضع الماء في المتناول وقت الطعام أو تخصيص وقت للعبة يحبها الطفل.",
+              "في تجربة أمريكية شارك ٤٥٢ طفلًا بين ٦ و١٢ سنة لديهم زيادة في الوزن أو سمنة، يرافق كل طفل أحد والديه. وُزعت الأسر عشوائيًا بين برنامج دعم أسري والرعاية المعتادة. وعلى مدى سنتين حقق الأطفال الذين عُرض عليهم البرنامج نتائج أفضل في المقياس المتعلق بمؤشر كتلة الجسم الذي استخدمته الدراسة. لا تحدد هذه النتيجة هدفًا لطفل بعينه. اسألي عن الدعم المتاح محليًا وموعد مراجعة نمو الطفل وصحته العامة."
+            ]
+          }
+        ],
+        "takeaways": [
+          "اطلبي الاطلاع على تغير الطول والوزن ومؤشر كتلة الجسم بمرور الوقت في مخططات مناسبة للعمر.",
+          "ناقشي الصحة والنوم والأدوية وظروف الأسرة إلى جانب القياس.",
+          "اختاري هدفًا مشتركًا للأسرة وموعدًا لمراجعته مع الطبيب."
+        ],
+        "faq": [
+          {
+            "q": "متى يقع مؤشر كتلة الجسم في فئة السمنة؟",
+            "a": "في المخططات الأمريكية للأعمار من سنتين إلى ١٩ سنة، عندما يبلغ المئين ٩٥ بحسب العمر والجنس أو يتجاوزه. ويفسّره الطبيب إلى جانب مسار النمو وصحة الطفل."
+          },
+          {
+            "q": "لماذا قد يكون المؤشر مرتفعًا عند الطفل؟",
+            "a": "قد تشارك الوراثة والنمو والأدوية والنوم وفرص الحصول على الطعام والنشاط في ذلك. لا يكفي طعام واحد أو وزن أحد الوالدين لتفسير نمو طفل بعينه."
+          },
+          {
+            "q": "هل يمكن معرفة ذلك بالنظر إلى بطن الطفل؟",
+            "a": "لا. شكل الجسم وحده لا يحدد السبب ولا يثبت التشخيص. اسألي عن أي تغير جديد أو مؤلم أو مستمر بدل افتراض أنه ناتج عن زيادة الوزن."
+          },
+          {
+            "q": "هل سيُصاب الطفل ذو المؤشر المرتفع بالسكري؟",
+            "a": "ليس بالضرورة. قد يزيد احتمال الإصابة بالسكري من النوع الثاني. يمكن للطبيب أن يراجع الأعراض والتاريخ العائلي ويقيّم فائدة إجراء فحوص."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "استخدمي مخطط النمو المناسب وناقشي تغير القياسات مع الوقت.",
+            "اسألي إذا كان برنامج أسري ملائم للعمر أو فحوص صحية إضافية قد تفيد الطفل.",
+            "ركزي على صحة الطفل العامة وعلى عادات يومية يمكن للأسرة الالتزام بها."
+          ],
+          "bemama": "تقترح بي ماما طلب رؤية منحنى الطول بجانب منحنى مؤشر كتلة الجسم وإحضار سؤال عن يوم عادي في حياة الأسرة.",
+          "safety": "استشيري الطبيب بشأن تغير جديد أو مؤلم أو مستمر في البطن ولا تفترضي أنه زيادة في الوزن. لا تبدئي حمية تقييدية لإنقاص وزن الطفل من دون توجيه مهني.",
+          "sources": [
+            {
+              "organization": "المراكز الأمريكية لمكافحة الأمراض والوقاية منها",
+              "title": "استخدام مؤشر كتلة الجسم للتحري عن السمنة لدى الأطفال",
+              "url": "https://www.cdc.gov/obesity/child-obesity-screening/index.html"
+            },
+            {
+              "organization": "المعهد الوطني الأمريكي للسكري وأمراض الجهاز الهضمي والكلى",
+              "title": "فهم النمو ودعم الطفل الذي لديه زيادة في الوزن",
+              "url": "https://www.niddk.nih.gov/health-information/weight-management/helping-your-child-who-is-overweight"
+            },
+            {
+              "organization": "إبشتاين وزملاؤه، مجلة جاما",
+              "title": "العلاج الأسري في الرعاية الأولية للأطفال: تجربة عشوائية",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/37314275/"
+            },
+            {
+              "organization": "فريق العمل الأمريكي المعني بالخدمات الوقائية",
+              "title": "التدخلات عند ارتفاع مؤشر كتلة الجسم لدى الأطفال والمراهقين",
+              "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/obesity-in-children-and-adolescents-screening"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "IMC et croissance de votre enfant : quelles questions poser ?",
+        "description": "Découvrez comment interpréter l’IMC d’un enfant avec sa croissance, sa santé et ses antécédents familiaux, et quel soutien demander si une mesure interroge.",
+        "intro": "Le médecin place un point sur la courbe de croissance et vous parle d’un indice de masse corporelle (IMC) élevé. Demandez à voir les mesures précédentes à côté de celle du jour. Comment la taille et le poids ont-ils évolué ? Ce changement mérite-t-il d’autres vérifications ?",
+        "sections": [
+          {
+            "heading": "Situer le point sur la courbe",
+            "paragraphs": [
+              "L’IMC met en relation le poids et la taille. Sur les courbes des CDC américains destinées aux enfants et aux adolescents de 2 à 19 ans, on compare l’IMC à celui d’une population de référence du même âge et du même sexe. La catégorie « obésité » commence au 95e percentile. Cela ne veut pas dire que le corps de l’enfant est constitué de 95 % de graisse. Les courbes peuvent différer selon le pays et l’évaluation est différente avant 2 ans.",
+              "L’IMC est un outil de dépistage. Il ne mesure pas directement la masse grasse, ne la distingue pas du muscle et ne diagnostique pas un diabète. Le médecin tient compte de l’évolution dans le temps, des antécédents et de l’examen. Un ventre proéminent ne suffit pas à en expliquer la cause ni à établir un excès de masse grasse. Signalez toute modification de l’abdomen qui est récente, douloureuse ou persistante."
+            ]
+          },
+          {
+            "heading": "Quels autres éléments aborder ?",
+            "paragraphs": [
+              "L’hérédité, la croissance, la puberté, le sommeil, les médicaments, l’activité, les aliments accessibles au budget familial et les lieux où l’enfant peut bouger peuvent tous intervenir. Il existe rarement une seule explication. Apportez la liste des médicaments et décrivez une journée d’école ordinaire, y compris les moments où il est difficile de manger ou de dormir à des heures régulières.",
+              "Un IMC élevé peut être associé à certaines maladies, dont l’hypertension artérielle et le diabète de type 2. Cela ne veut pas dire que votre enfant en souffre ou en souffrira forcément. Le médecin peut prendre sa tension et décider si des examens sont indiqués au vu de son âge, de ses symptômes et des antécédents familiaux."
+            ]
+          },
+          {
+            "heading": "Choisir un accompagnement qui convienne à la famille",
+            "paragraphs": [
+              "Demandez quel objectif correspond au stade de croissance de votre enfant. Pour certains, il s’agit de prendre du poids plus lentement à mesure qu’ils grandissent. Évitez les régimes amaigrissants destinés aux adultes ou les objectifs caloriques fixés sans avis professionnel. Choisissez un changement réaliste pour tous, comme mettre de l’eau à portée de main à table ou trouver du temps pour un jeu que votre enfant aime.",
+              "Dans un essai américain, 452 enfants de 6 à 12 ans en surpoids ou en situation d’obésité ont participé avec un parent. Les familles ont été réparties par tirage au sort entre accompagnement familial et soins habituels. Au bout de deux ans, les enfants auxquels le programme avait été proposé ont obtenu de meilleurs résultats sur l’indicateur d’IMC retenu dans l’étude. Cela ne fixe pas d’objectif pour un enfant en particulier. Demandez quel soutien existe près de chez vous et quand l’équipe réévaluera sa croissance et son bien-être."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Demandez à voir l’évolution de la taille, du poids et de l’IMC sur des courbes adaptées à l’âge.",
+          "Abordez la santé, le sommeil, les médicaments et le quotidien familial en même temps que la mesure.",
+          "Choisissez un objectif commun et fixez une date pour en reparler avec le médecin."
+        ],
+        "faq": [
+          {
+            "q": "À partir de quel IMC parle-t-on d’obésité ?",
+            "a": "Sur les courbes américaines des CDC pour les 2 à 19 ans, cette catégorie commence au 95e percentile pour l’âge et le sexe. Le médecin interprète le résultat à la lumière de la croissance et de la santé."
+          },
+          {
+            "q": "Pourquoi l’IMC d’un enfant peut-il être élevé ?",
+            "a": "L’hérédité, le développement, les médicaments, le sommeil, les possibilités de s’alimenter et l’activité peuvent intervenir. Un aliment particulier ou le poids d’un parent ne suffit pas à expliquer la croissance de l’enfant."
+          },
+          {
+            "q": "Puis-je le voir à la forme de son ventre ?",
+            "a": "Non. La silhouette ne permet pas à elle seule de déterminer une cause ni un diagnostic. Consultez pour un changement récent, douloureux ou persistant au lieu de l’attribuer d’emblée au poids."
+          },
+          {
+            "q": "Un enfant dont l’IMC est élevé aura-t-il du diabète ?",
+            "a": "Pas forcément. Le risque de diabète de type 2 peut être accru. Le médecin peut faire le point sur les symptômes et les antécédents familiaux, et voir si des examens seraient utiles."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Utilisez une courbe adaptée et regardez comment les mesures évoluent dans le temps.",
+            "Demandez si un programme familial adapté à l’âge ou des vérifications de santé peuvent aider.",
+            "Gardez pour repères la santé générale de l’enfant et des habitudes réalisables à la maison."
+          ],
+          "bemama": "BeMama suggère de demander à voir la courbe de taille à côté de celle de l’IMC et de préparer une question sur une journée ordinaire de votre famille.",
+          "safety": "Demandez un avis médical pour toute modification de l’abdomen récente, douloureuse ou persistante. N’entreprenez pas de régime amaigrissant restrictif pour un enfant sans accompagnement professionnel.",
+          "sources": [
+            {
+              "organization": "Centres américains de contrôle et de prévention des maladies",
+              "title": "L’IMC en pédiatrie dans le dépistage de l’obésité",
+              "url": "https://www.cdc.gov/obesity/child-obesity-screening/index.html"
+            },
+            {
+              "organization": "Institut national américain du diabète et des maladies digestives et rénales",
+              "title": "Comprendre la croissance et accompagner un enfant en surpoids",
+              "url": "https://www.niddk.nih.gov/health-information/weight-management/helping-your-child-who-is-overweight"
+            },
+            {
+              "organization": "Epstein et ses collègues, JAMA",
+              "title": "Accompagnement familial en soins pédiatriques de premier recours : essai randomisé",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/37314275/"
+            },
+            {
+              "organization": "Groupe de travail américain sur les services de prévention",
+              "title": "Interventions en cas d’IMC élevé chez l’enfant et l’adolescent",
+              "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/obesity-in-children-and-adolescents-screening"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Çocuğunuzun beden kitle indeksi ve büyüme eğrisi",
+        "description": "Çocuğun beden kitle indeksinin büyüme, sağlık ve aile öyküsüyle nasıl yorumlandığını ve bir ölçüm kaygı uyandırırsa neler sorabileceğinizi öğrenin.",
+        "intro": "Hekim büyüme eğrisine bir nokta koydu ve beden kitle indeksinin (BKİ) yüksek olduğunu söyledi. Önceki ölçümleri bugünküyle birlikte göstermesini isteyin. Çocuğunuzun boyu ve kilosu zamanla nasıl değişmiş? Bu değişim başka bir değerlendirme gerektiriyor mu?",
+        "sections": [
+          {
+            "heading": "Noktayı büyüme eğrisi üzerinde değerlendirin",
+            "paragraphs": [
+              "BKİ, vücut ağırlığını boya göre değerlendirir. ABD Hastalık Kontrol ve Önleme Merkezlerinin (CDC) 2–19 yaş için kullandığı eğriler, BKİ’yi aynı yaş ve cinsiyetteki bir referans grubuyla karşılaştırır. Obezite kategorisi 95. yüzdelik dilimden başlar. Bu, çocuğun vücudunun yüzde 95’inin yağ olduğu anlamına gelmez. Ülkeler farklı eğriler kullanabilir. İki yaşından küçük bebekler farklı değerlendirilir.",
+              "BKİ bir tarama ölçütüdür. Yağı doğrudan ölçmez, kasla yağı ayırt etmez ve diyabet tanısı koydurmaz. Hekim zaman içindeki büyümeyi, sağlık öyküsünü ve muayene bulgularını değerlendirir. Karnın belirgin görünmesi tek başına nedenini veya yağ fazlalığı olup olmadığını göstermez. Karındaki değişiklik yeni başladıysa, ağrılıysa veya sürüyorsa hekime söyleyin."
+            ]
+          },
+          {
+            "heading": "Görüşmede başka hangi konular ele alınabilir?",
+            "paragraphs": [
+              "Genler, büyüme ve ergenlik, uyku, ilaçlar, hareket, ailenin bütçesiyle alabileceği gıdalar ve çocuğun hareket edebileceği alanlar etkili olabilir. Genellikle tek bir açıklama yoktur. İlaç listesini getirin. Öğünleri ya da uykuyu düzenli sürdürmenin zor olduğu saatler dahil, sıradan bir okul gününü anlatın.",
+              "Yüksek BKİ, yüksek tansiyon ve tip 2 diyabet gibi durumlarla ilişkili olabilir. Çocuğunuzun bunlardan birine sahip olduğu veya mutlaka yakalanacağı anlamına gelmez. Hekim tansiyonunu ölçebilir ve yaşına, belirtilerine ve aile öyküsüne göre ek test gerekip gerekmediğine karar verebilir."
+            ]
+          },
+          {
+            "heading": "Bütün aileye uygun destek seçin",
+            "paragraphs": [
+              "Çocuğunuzun içinde bulunduğu büyüme dönemine uygun hedefi sorun. Bazı çocuklarda amaç boy uzarken daha yavaş kilo almaktır. Yetişkinler için tasarlanmış zayıflama diyetlerinden kaçının ve kendi başınıza kalori hedefi belirlemeyin. Sofrada suyu kolay ulaşılır tutmak ya da çocuğun keyif aldığı bir oyuna zaman ayırmak gibi herkese uygun bir değişiklik seçin.",
+              "ABD’deki bir araştırmaya fazla kilolu veya obeziteyle yaşayan 6–12 yaşlarında 452 çocuk birer ebeveyniyle katıldı. Aileler, aile temelli destek veya olağan bakım gruplarına rastgele ayrıldı. İki yılda, program sunulan çocuklarda araştırmanın kullandığı BKİ ölçütü açısından daha iyi sonuçlar görüldü. Bu sonuç belirli bir çocuk için hedef vermez. Yakınınızda hangi desteğin bulunduğunu ve büyüme ile genel iyilik halinin ne zaman tekrar değerlendirileceğini sorun."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Boy, kilo ve BKİ’nin yaşa uygun eğrilerde zamanla nasıl değiştiğini görmeyi isteyin.",
+          "Ölçümün yanında sağlık durumunu, uykuyu, ilaçları ve ailenin koşullarını konuşun.",
+          "Ailece uygulanabilecek bir hedef seçin ve hekimle yeniden değerlendirme zamanı belirleyin."
+        ],
+        "faq": [
+          {
+            "q": "BKİ ne zaman obezite kategorisine girer?",
+            "a": "ABD CDC eğrilerinde 2–19 yaş için, yaş ve cinsiyete göre 95. yüzdelik dilime ulaştığında veya bu dilimi geçtiğinde bu kategoriye girer. Hekim sonucu büyüme ve sağlık durumuyla birlikte değerlendirir."
+          },
+          {
+            "q": "Bir çocuğun BKİ’si neden yüksek olabilir?",
+            "a": "Genetik özellikler, gelişim, ilaçlar, uyku, beslenme olanakları ve hareket düzeyi etkili olabilir. Tek bir besin veya ebeveynin kilosu bir çocuğun büyümesini tek başına açıklamaz."
+          },
+          {
+            "q": "Karnına bakarak anlayabilir miyim?",
+            "a": "Hayır. Vücut şekli tek başına nedeni göstermez veya tanı koydurmaz. Yeni başlayan, ağrı veren ya da sürüp giden bir değişikliği kiloya bağlamak yerine hekime danışın."
+          },
+          {
+            "q": "BKİ’si yüksek olan bir çocuk diyabete yakalanır mı?",
+            "a": "Bu kesin değildir. Tip 2 diyabet olasılığı artabilir. Hekim belirtileri ve aile öyküsünü değerlendirebilir, testin yararlı olup olmayacağını görüşebilir."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Uygun büyüme eğrisini kullanın ve tek bir sayı yerine zaman içindeki değişimi konuşun.",
+            "Yaşa uygun bir aile programının veya ek sağlık kontrollerinin yararlı olup olmayacağını sorun.",
+            "Çocuğun genel sağlığına ve evde sürdürülebilecek alışkanlıklara odaklanın."
+          ],
+          "bemama": "BeMama, boy ve BKİ eğrilerini birlikte görmeyi istemenizi ve ailenizin günlük düzenine ilişkin bir soru hazırlamanızı önerir.",
+          "safety": "Karındaki yeni, ağrılı veya sürekli bir değişikliği kilo artışı saymak yerine hekime danışın. Uzman görüşü almadan çocuğa kısıtlayıcı zayıflama diyeti uygulamayın.",
+          "sources": [
+            {
+              "organization": "ABD Hastalık Kontrol ve Önleme Merkezleri",
+              "title": "Çocuklarda obezite taramasında BKİ kullanımı",
+              "url": "https://www.cdc.gov/obesity/child-obesity-screening/index.html"
+            },
+            {
+              "organization": "ABD Ulusal Diyabet, Sindirim ve Böbrek Hastalıkları Enstitüsü",
+              "title": "Büyümeyi anlamak ve fazla kilolu bir çocuğa destek olmak",
+              "url": "https://www.niddk.nih.gov/health-information/weight-management/helping-your-child-who-is-overweight"
+            },
+            {
+              "organization": "Epstein ve çalışma arkadaşları, JAMA",
+              "title": "Çocuk birinci basamak bakımında aile temelli tedavi: rastgele atamalı çalışma",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/37314275/"
+            },
+            {
+              "organization": "ABD Koruyucu Sağlık Hizmetleri Görev Gücü",
+              "title": "Çocuk ve ergenlerde yüksek BKİ için uygulanan müdahaleler",
+              "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/obesity-in-children-and-adolescents-screening"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "El IMC y la curva de crecimiento de tu hijo: qué preguntar",
+        "description": "Conoce cómo se interpreta el IMC infantil junto con el crecimiento, la salud y los antecedentes familiares, y qué apoyos pedir si una medición plantea dudas.",
+        "intro": "El pediatra marca un punto en la curva de crecimiento y menciona que el índice de masa corporal (IMC) es alto. Pídele que te enseñe las mediciones anteriores junto a la de hoy. Puedes empezar preguntando cómo han cambiado la talla y el peso de tu hijo y si hace falta comprobar algo más.",
+        "sections": [
+          {
+            "heading": "Interpreta el punto en su contexto",
+            "paragraphs": [
+              "El IMC relaciona el peso con la estatura. En las curvas de los CDC de Estados Unidos para niños y adolescentes de 2 a 19 años, el IMC se compara con el de una población de referencia de la misma edad y sexo. La categoría de obesidad empieza en el percentil 95. Eso no significa que el 95 % del cuerpo sea grasa. En otros países pueden usarse curvas diferentes y a los menores de dos años se les evalúa de otra manera.",
+              "El IMC sirve como primera evaluación. No mide la grasa de forma directa, no la distingue del músculo ni diagnostica diabetes. El profesional tiene en cuenta la trayectoria de crecimiento, los antecedentes de salud y la exploración. Una barriga prominente por sí sola no permite saber la causa ni determinar si hay exceso de grasa. Comenta cualquier cambio abdominal reciente, doloroso o persistente."
+            ]
+          },
+          {
+            "heading": "¿Qué más conviene comentar?",
+            "paragraphs": [
+              "Pueden influir la genética, el crecimiento, la pubertad, el sueño, los medicamentos, la actividad física, los alimentos que la familia puede comprar y los espacios disponibles para moverse. Rara vez hay una única explicación. Lleva una lista de medicamentos y describe un día de clase habitual, incluso cuándo resulta difícil mantener los horarios de comida o de sueño.",
+              "Un IMC alto puede asociarse con hipertensión o diabetes de tipo 2, entre otras afecciones. No significa que tu hijo tenga alguna de ellas o que necesariamente vaya a desarrollarla. El profesional puede comprobar la presión arterial y determinar qué análisis convienen según la edad, los síntomas y los antecedentes familiares."
+            ]
+          },
+          {
+            "heading": "Busca un apoyo que sirva a toda la familia",
+            "paragraphs": [
+              "Pregunta qué objetivo se ajusta a la etapa de crecimiento de tu hijo. Para algunos niños el objetivo es ganar peso más despacio mientras siguen creciendo en estatura. Evita las dietas para adelgazar diseñadas para adultos o fijar por tu cuenta un límite de calorías. Elige un cambio que funcione para todos, como tener agua al alcance durante las comidas o reservar tiempo para un juego que le guste.",
+              "En un ensayo estadounidense, 452 niños de 6 a 12 años con sobrepeso u obesidad participaron con uno de sus progenitores y se asignaron al azar a un programa de apoyo familiar o a la atención habitual. Al cabo de dos años, los niños a los que se ofreció el programa obtuvieron mejores resultados en la medida de IMC del estudio. Esto no determina una meta para un niño concreto. Pregunta qué apoyo hay cerca y cuándo se revisarán el crecimiento y el bienestar de tu hijo."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Pide ver cómo han cambiado la talla, el peso y el IMC en una curva adecuada para su edad.",
+          "Comenta la salud, el sueño, los medicamentos y las circunstancias familiares junto con la medición.",
+          "Elige un objetivo compartido y acuerda una fecha para revisarlo con el profesional."
+        ],
+        "faq": [
+          {
+            "q": "¿Cuándo entra el IMC en la categoría de obesidad?",
+            "a": "En las curvas estadounidenses de los CDC para edades de 2 a 19 años, a partir del percentil 95 para la edad y el sexo. El profesional lo interpreta junto con el crecimiento y el estado de salud."
+          },
+          {
+            "q": "¿Por qué puede tener un niño el IMC alto?",
+            "a": "La genética, el desarrollo, los medicamentos, el sueño, las opciones de alimentación y la actividad física pueden influir. Ni un solo alimento ni el peso de un progenitor explican por sí solos el crecimiento de un niño."
+          },
+          {
+            "q": "¿Puedo saberlo por la barriga?",
+            "a": "No. La forma del cuerpo no determina la causa ni el diagnóstico. Si aparece un cambio, duele o persiste, consúltalo en lugar de dar por hecho que se debe al peso."
+          },
+          {
+            "q": "¿Un niño con IMC alto desarrollará diabetes?",
+            "a": "No necesariamente. La probabilidad de diabetes de tipo 2 puede ser mayor. Un profesional puede revisar los síntomas y los antecedentes familiares y valorar si conviene realizar pruebas."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Usa la curva apropiada y comenta la evolución a lo largo del tiempo.",
+            "Pregunta si conviene un programa familiar adecuado para su edad o una evaluación de salud adicional.",
+            "Centra los cambios en la salud general de tu hijo y en rutinas que sean viables para la familia."
+          ],
+          "bemama": "BeMama sugiere pedir que te muestren la curva de talla junto a la de IMC y llevar una pregunta sobre cómo transcurre un día habitual en casa.",
+          "safety": "Consulta si observas un cambio abdominal nuevo, doloroso o persistente. No empieces una dieta restrictiva para adelgazar a un niño sin orientación profesional.",
+          "sources": [
+            {
+              "organization": "Centros para el Control y la Prevención de Enfermedades de Estados Unidos",
+              "title": "Uso del IMC infantil para detectar posibles casos de obesidad",
+              "url": "https://www.cdc.gov/obesity/child-obesity-screening/index.html"
+            },
+            {
+              "organization": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales de Estados Unidos",
+              "title": "Entender el crecimiento y apoyar a un niño con sobrepeso",
+              "url": "https://www.niddk.nih.gov/health-information/weight-management/helping-your-child-who-is-overweight"
+            },
+            {
+              "organization": "Epstein y colaboradores, JAMA",
+              "title": "Tratamiento familiar en atención primaria pediátrica: ensayo aleatorizado",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/37314275/"
+            },
+            {
+              "organization": "Grupo de Trabajo de Servicios Preventivos de Estados Unidos",
+              "title": "Intervenciones ante un IMC alto en niños y adolescentes",
+              "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/obesity-in-children-and-adolescents-screening"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "O IMC e a curva de crescimento da criança: o que perguntar",
+        "description": "Entenda como o pediatra avalia o IMC infantil junto com o crescimento, a saúde e o histórico familiar e quais apoios considerar se uma medida gerar dúvidas.",
+        "intro": "O pediatra marca um ponto na curva de crescimento e comenta que o índice de massa corporal (IMC) está alto. Peça para ver as medidas anteriores ao lado da atual. Duas boas perguntas são como a altura e o peso da criança vêm mudando e se é preciso investigar essa mudança.",
+        "sections": [
+          {
+            "heading": "Observe o ponto no contexto do crescimento",
+            "paragraphs": [
+              "O IMC relaciona o peso à altura. Nas curvas dos CDC dos Estados Unidos para crianças e adolescentes de 2 a 19 anos, o IMC é comparado ao de um grupo de referência da mesma idade e sexo. A categoria de obesidade começa no percentil 95. Isso não significa que 95% do corpo da criança seja gordura. Os países podem adotar curvas diferentes, e bebês menores de dois anos são avaliados de outra forma.",
+              "O IMC é uma medida de triagem. Não mede a gordura diretamente, não a distingue do músculo nem diagnostica diabetes. O pediatra considera a evolução ao longo do tempo, o histórico de saúde e o exame físico. Uma barriga saliente, por si só, não revela a causa nem comprova excesso de gordura. Avise se a mudança no abdome for nova, dolorosa ou persistente."
+            ]
+          },
+          {
+            "heading": "O que mais vale conversar na consulta?",
+            "paragraphs": [
+              "Genética, crescimento e puberdade, sono, medicamentos, atividade física, alimentos que cabem no orçamento e espaços disponíveis para brincar podem ter influência. Raramente há uma causa única. Leve uma lista de medicamentos e descreva um dia típico de escola, incluindo quando é difícil manter os horários de refeição ou de sono.",
+              "Um IMC alto pode estar associado a condições como pressão alta e diabetes tipo 2. Isso não significa que a criança já tenha uma dessas condições ou vá necessariamente desenvolvê-la. O pediatra pode medir a pressão arterial e decidir se algum exame é apropriado com base na idade, nos sintomas e no histórico familiar."
+            ]
+          },
+          {
+            "heading": "Escolha um apoio que faça sentido para toda a família",
+            "paragraphs": [
+              "Pergunte qual objetivo combina com a fase de crescimento da criança. Para algumas, a meta é ganhar peso mais devagar à medida que crescem em altura. Evite dietas de emagrecimento para adultos ou definir um limite de calorias por conta própria. Escolha uma mudança que funcione para todos, como deixar água ao alcance durante as refeições ou reservar tempo para uma brincadeira de que a criança goste.",
+              "Em um estudo nos Estados Unidos, 452 crianças de 6 a 12 anos com sobrepeso ou obesidade participaram com um dos pais. As famílias foram sorteadas para um programa de apoio familiar ou para o atendimento habitual. Ao longo de dois anos, as crianças às quais o programa foi oferecido tiveram melhores resultados na medida de IMC usada no estudo. Isso não determina uma meta para uma criança específica. Pergunte que apoio existe perto de casa e quando a equipe voltará a avaliar o crescimento e o bem-estar."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Peça para ver a altura, o peso e o IMC ao longo do tempo em curvas adequadas à idade.",
+          "Converse sobre saúde, sono, medicamentos e circunstâncias da família junto com a medida.",
+          "Escolha uma meta familiar e combine uma data para reavaliá-la com o profissional."
+        ],
+        "faq": [
+          {
+            "q": "Quando o IMC entra na categoria de obesidade?",
+            "a": "Nas curvas dos CDC dos Estados Unidos para idades de 2 a 19 anos, essa categoria começa no percentil 95 para a idade e o sexo. O pediatra interpreta a medida junto com o crescimento e a saúde."
+          },
+          {
+            "q": "Por que uma criança pode ter IMC alto?",
+            "a": "A genética, o desenvolvimento, os medicamentos, o sono, o acesso a alimentos e a atividade física podem contribuir. Um alimento isolado ou o peso de um dos pais não explica sozinho o crescimento de uma criança."
+          },
+          {
+            "q": "Posso saber olhando a barriga da criança?",
+            "a": "Não. O formato do corpo por si só não permite estabelecer a causa nem um diagnóstico. Converse com um profissional sobre mudanças novas, dolorosas ou persistentes, sem presumir que sejam ganho de peso."
+          },
+          {
+            "q": "Uma criança com IMC alto vai desenvolver diabetes?",
+            "a": "Não necessariamente. A probabilidade de diabetes tipo 2 pode ser maior. O pediatra pode avaliar sintomas, histórico familiar e a necessidade de exames."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Use a curva de crescimento apropriada e converse sobre a evolução das medidas ao longo do tempo.",
+            "Pergunte se um programa familiar adequado à idade ou alguma avaliação de saúde adicional seria útil.",
+            "Mantenha o foco na saúde geral da criança e nas rotinas que a família consegue adotar."
+          ],
+          "bemama": "A BeMama sugere pedir para ver a curva de altura junto com a do IMC e levar uma pergunta sobre um dia comum da família.",
+          "safety": "Procure um profissional se uma mudança no abdome for nova, dolorosa ou persistente. Não inicie dieta restritiva de emagrecimento para uma criança sem orientação profissional.",
+          "sources": [
+            {
+              "organization": "Centros de Controle e Prevenção de Doenças dos Estados Unidos",
+              "title": "Uso do IMC infantil na triagem de obesidade",
+              "url": "https://www.cdc.gov/obesity/child-obesity-screening/index.html"
+            },
+            {
+              "organization": "Instituto Nacional de Diabetes e Doenças Digestivas e Renais dos Estados Unidos",
+              "title": "Como entender o crescimento e apoiar a criança com sobrepeso",
+              "url": "https://www.niddk.nih.gov/health-information/weight-management/helping-your-child-who-is-overweight"
+            },
+            {
+              "organization": "Epstein e colaboradores, JAMA",
+              "title": "Tratamento familiar na atenção primária pediátrica: ensaio randomizado",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/37314275/"
+            },
+            {
+              "organization": "Força-Tarefa de Serviços Preventivos dos Estados Unidos",
+              "title": "Intervenções para IMC alto em crianças e adolescentes",
+              "url": "https://www.uspreventiveservicestaskforce.org/uspstf/recommendation/obesity-in-children-and-adolescents-screening"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5904.webp",
+    "heroAlt": {
+      "en": "A clinician lowers a wall-mounted height measure to the top of a child’s head.",
+      "es": "Una profesional sanitaria baja la pieza del tallímetro de pared hasta la cabeza de un niño.",
+      "fr": "Une soignante abaisse la partie mobile de la toise murale sur la tête d’un enfant.",
+      "pt": "Uma profissional de saúde desce a peça móvel de um estadiômetro de parede até a cabeça de uma criança.",
+      "tr": "Bir sağlık çalışanı duvardaki boyölçerin hareketli parçasını çocuğun başına indiriyor.",
+      "fa": "یکی از کارکنان درمان قطعهٔ متحرک قدسنج دیواری را روی سر کودک پایین می‌آورد.",
+      "ar": "تُنزِل مختصة صحية الجزء المتحرك من مقياس الطول المثبت على الحائط حتى يلامس رأس الطفل."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "Your child’s BMI and growth chart: what to ask",
+      "description": "Learn how clinicians interpret a child’s BMI alongside growth, health and family history, and what kind of support can help when a measurement raises concern."
+    },
+    "fa": {
+      "title": "شاخص تودهٔ بدنی و نمودار رشد کودک؛ از پزشک چه بپرسیم؟",
+      "description": "ببینید شاخص تودهٔ بدنی کودک در کنار روند رشد، وضعیت سلامت و سابقهٔ خانوادگی چگونه تفسیر می‌شود و اگر اندازه‌گیری نگران‌کننده باشد، چه کمکی می‌توانید بخواهید."
+    },
+    "ar": {
+      "title": "مؤشر كتلة الجسم ومخطط نمو طفلك: أسئلة تطرحينها في العيادة",
+      "description": "تعرّفي إلى طريقة تفسير مؤشر كتلة الجسم عند الطفل إلى جانب نموه وصحته وتاريخه العائلي، وإلى ما يمكنك سؤاله للطبيب إذا أثار أحد القياسات القلق."
+    },
+    "fr": {
+      "title": "IMC et croissance de votre enfant : quelles questions poser ?",
+      "description": "Découvrez comment interpréter l’IMC d’un enfant avec sa croissance, sa santé et ses antécédents familiaux, et quel soutien demander si une mesure interroge."
+    },
+    "tr": {
+      "title": "Çocuğunuzun beden kitle indeksi ve büyüme eğrisi",
+      "description": "Çocuğun beden kitle indeksinin büyüme, sağlık ve aile öyküsüyle nasıl yorumlandığını ve bir ölçüm kaygı uyandırırsa neler sorabileceğinizi öğrenin."
+    },
+    "es": {
+      "title": "El IMC y la curva de crecimiento de tu hijo: qué preguntar",
+      "description": "Conoce cómo se interpreta el IMC infantil junto con el crecimiento, la salud y los antecedentes familiares, y qué apoyos pedir si una medición plantea dudas."
+    },
+    "pt": {
+      "title": "O IMC e a curva de crescimento da criança: o que perguntar",
+      "description": "Entenda como o pediatra avalia o IMC infantil junto com o crescimento, a saúde e o histórico familiar e quais apoios considerar se uma medida gerar dúvidas."
+    }
+  }
+}

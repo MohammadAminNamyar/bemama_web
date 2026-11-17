@@ -1,0 +1,611 @@
+{
+  "sourceId": "5876",
+  "article": {
+    "slug": "baby-and-child/helping-a-teenager-with-adhd-plan-an-outing",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "Helping a teenager with ADHD plan an outing",
+        "description": "Practise time, spending and friendship skills with a teenager who has ADHD. Plan one real outing together and decide which reminders they want to use.",
+        "intro": "Your teenager wants to meet a friend at the basketball court. They know the meeting time but still need to find their pass, set aside the return fare and tell their friend which entrance to use. Instead of taking over the trip, ask which of those jobs they want help practising first.",
+        "sections": [
+          {
+            "heading": "Work backwards from a real time",
+            "paragraphs": [
+              "Write down the meeting time. Together estimate how long the journey and getting ready will take. Put one reminder where the young person will notice it. Try the trip and compare the estimate with the actual time. If the bag took ten minutes to pack, that is useful information for next time, not a reason for a lecture.",
+              "Keep keys and travel items in one agreed place. A short list by the door can name the essentials. Let the teenager choose whether a paper list, phone reminder or another cue is easiest to use. At school, ask whether the same way of recording a deadline could work. Keep only the reminders that actually help."
+            ]
+          },
+          {
+            "heading": "Practise one decision about money and one about friends",
+            "paragraphs": [
+              "Before leaving, set aside enough for the ride home. Agree what is available for a snack and check the price before paying. A small planned purchase with a limit the teenager understands is a chance to practise. Later, look at the receipt or balance together if they agree. Essential food, transport and medicine should never depend on getting this exercise right.",
+              "Ask the teenager what has been hard with friends. Maybe they often interrupt or forget to confirm the meeting place. Rehearse one message or one way to repair a mix-up: “I went to the other gate. Are you still free to play?” Agree how to contact a trusted adult if plans change or they feel pressured. Do not treat bullying as a skill the targeted child must fix."
+            ]
+          },
+          {
+            "heading": "Hand over responsibility in steps",
+            "paragraphs": [
+              "Show the task once, do it together, then let the teenager try with the agreed support. This works for packing a bag or arranging an appointment. Medicine needs a separate safety plan with the prescriber and caregiver. Practise noticing a reminder together before transferring responsibility. Never share medication or guess what to do after a missed dose. Ask the pharmacist or prescriber.",
+              "In a randomized trial, 158 children with ADHD and difficulties with organisation in grades three to five were assigned to skills training, a second behavioural programme or a waiting list. Parents and teachers rated organisation more favourably after skills training than in the waiting-list group. The research measured organisation in school-age children. It did not test whether an individual teenager can budget or travel alone."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Pick one part of an outing the teenager wants to manage.",
+          "Protect the return fare and agree on a contact if the plan changes.",
+          "Check what worked before removing support or adding another responsibility."
+        ],
+        "faq": [
+          {
+            "q": "How can I help my child with ADHD build everyday skills?",
+            "a": "Choose a task they care about. Show one step, practise together and let them tell you which cues are useful. Increase independence as the task becomes manageable."
+          },
+          {
+            "q": "What can help with teenage friendships?",
+            "a": "Ask for a specific example and listen to what your teenager wants to change. Practise a message, taking turns or repairing a misunderstanding, and involve adults if there is bullying or pressure."
+          },
+          {
+            "q": "How can we practise managing money?",
+            "a": "Try a small real purchase with an agreed limit. Set aside essentials first, check the price, pay and compare the amount left with what was expected."
+          },
+          {
+            "q": "How can we practise time management?",
+            "a": "Start with a real deadline, estimate the steps, time one attempt and adjust the next plan. Choose a reminder together and ask whether it helped."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 17, 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Share decisions about which skills and reminders to practise.",
+            "Connect home and school routines where it makes sense.",
+            "Ask the treating team for extra support when planning problems repeatedly limit daily activities."
+          ],
+          "bemama": "BeMama suggests asking which part of the next outing your teenager would like to handle. Before they leave, agree when they can ask for help without giving up the whole job.",
+          "safety": "Keep necessary travel money, meals and medicines available. Agree on a safe contact if an outing changes, and check with the prescriber or pharmacist about missed doses.",
+          "sources": [
+            {
+              "organization": "American Academy of Pediatrics",
+              "title": "Encouraging independence in teenagers with ADHD",
+              "url": "https://www.healthychildren.org/English/health-issues/conditions/adhd/Pages/Your-Teenagers-ADHD-Treatment-Plan.aspx"
+            },
+            {
+              "organization": "US Centers for Disease Control and Prevention",
+              "title": "Organisational training and support at school for ADHD",
+              "url": "https://www.cdc.gov/adhd/treatment/classroom.html"
+            },
+            {
+              "organization": "Abikoff and colleagues, Journal of Consulting and Clinical Psychology",
+              "title": "Randomized trial of organisational skills training in schoolchildren with ADHD",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22889336/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "برنامه‌ریزی گردش با نوجوان مبتلا به کم‌توجهی‌ـ‌بیش‌فعالی",
+        "description": "در یک گردش واقعی با نوجوانی که اختلال کم‌توجهی‌ـ‌بیش‌فعالی دارد، مدیریت زمان، خرج کردن و قرار با دوست را تمرین کنید و یادآوری مناسب را با هم انتخاب کنید.",
+        "intro": "نوجوانتان می‌خواهد دوستش را در زمین بسکتبال ببیند. ساعت قرار را می‌داند، اما هنوز باید کارت رفت‌وآمدش را پیدا کند، کرایه برگشت را کنار بگذارد و به دوستش بگوید از کدام ورودی می‌آید. پیش از آنکه خودتان همه کارها را انجام دهید، بپرسید دوست دارد اول کدام کار را با کمک شما تمرین کند.",
+        "sections": [
+          {
+            "heading": "از ساعت قرار به عقب برگردید",
+            "paragraphs": [
+              "ساعت ملاقات را بنویسید. با هم تخمین بزنید راه و آماده شدن چه‌قدر زمان می‌برد. یک یادآور جایی بگذارید که نوجوان متوجه آن شود. مسیر را امتحان کنید و تخمین را با زمان واقعی بسنجید. اگر بستن کوله ده دقیقه طول کشید، این اطلاعاتی برای دفعه بعد است و نیازی به سرزنش نیست.",
+              "برای کلید و وسایل رفت‌وآمد یک جای ثابت انتخاب کنید. فهرست کوتاهی کنار در می‌تواند وسایل لازم را یادآوری کند. بگذارید خودش بین یادداشت کاغذی، یادآور گوشی یا نشانه‌ای دیگر انتخاب کند. در مدرسه بپرسید آیا همین روش برای ثبت مهلت تحویل کار هم قابل استفاده است. فقط یادآورهایی را نگه دارید که واقعاً کمک می‌کنند."
+            ]
+          },
+          {
+            "heading": "یک تصمیم مالی و یک تصمیم مربوط به دوستی را تمرین کنید",
+            "paragraphs": [
+              "پیش از خروج، پول کافی برای راه برگشت کنار بگذارید. توافق کنید برای میان‌وعده چه‌قدر می‌ماند و پیش از پرداخت قیمت را ببینید. یک خرید کوچک با سقفی که نوجوان می‌فهمد فرصت تمرین است. بعد اگر موافق بود رسید یا مانده پول را با هم بررسی کنید. دسترسی به غذای ضروری، رفت‌وآمد و دارو نباید به موفقیت در این تمرین وابسته باشد.",
+              "بپرسید در ارتباط با دوستان چه چیزی سخت بوده است. شاید زیاد میان حرف می‌پرد یا محل قرار را قطعی نمی‌کند. یک پیام یا راه جبران سوءتفاهم را تمرین کنید: «من رفتم دم در اون‌یکی. هنوز وقت داری بازی کنیم؟» توافق کنید اگر برنامه عوض شد یا تحت فشار قرار گرفت چطور با بزرگسال مورد اعتماد تماس بگیرد. مسئولیت حل زورگویی را با آموزش یک مهارت بر دوش کودکی که هدف قرار گرفته نگذارید."
+            ]
+          },
+          {
+            "heading": "مسئولیت را مرحله‌به‌مرحله واگذار کنید",
+            "paragraphs": [
+              "یک بار نشان بدهید، با هم انجام دهید و بعد اجازه دهید با پشتیبانی توافق‌شده امتحان کند. این روش برای بستن کیف یا گرفتن وقت ویزیت کاربرد دارد. مصرف دارو نیازمند برنامه ایمنی جداگانه با مراقب و تجویزکننده است. پیش از واگذاری مسئولیت، توجه به یادآور را با هم تمرین کنید. دارو را به دیگری ندهید و در صورت فراموشی یک نوبت حدس نزنید چه باید کرد. از داروساز یا تجویزکننده بپرسید.",
+              "در یک کارآزمایی تصادفی، ۱۵۸ دانش‌آموز پایه سوم تا پنجم با اختلال کم‌توجهی‌ـ‌بیش‌فعالی و مشکلات سازمان‌دهی به سه گروه آموزش مهارت، برنامه رفتاری دیگر یا فهرست انتظار اختصاص یافتند. ارزیابی والدین و معلمان از سازمان‌دهی گروه آموزش مهارت پس از آموزش بهتر از گروه انتظار بود. پژوهش سازمان‌دهی در دانش‌آموزان را سنجید. بررسی نکرد که یک نوجوان خاص می‌تواند بودجه‌اش را مدیریت کند یا تنها به گردش برود."
+            ]
+          }
+        ],
+        "takeaways": [
+          "بخشی از گردش را انتخاب کنید که نوجوان دوست دارد خودش اداره کند.",
+          "کرایه برگشت را کنار بگذارید و برای تغییر برنامه فردی را برای تماس تعیین کنید.",
+          "پیش از کم کردن حمایت یا افزودن مسئولیت، ببینید چه چیزی کار کرد."
+        ],
+        "faq": [
+          {
+            "q": "چگونه به کودک مبتلا به کم‌توجهی‌ـ‌بیش‌فعالی مهارت روزمره یاد بدهم؟",
+            "a": "کاری را انتخاب کنید که برایش مهم است. یک گام را نشان دهید، با هم تمرین کنید و از خودش بشنوید چه نشانه‌ای مفید بوده. وقتی کار از عهده‌اش برآمد استقلالش را بیشتر کنید."
+          },
+          {
+            "q": "چه چیزی به دوستی‌های نوجوان کمک می‌کند؟",
+            "a": "مثالی مشخص بخواهید و گوش دهید خودش می‌خواهد چه تغییری بدهد. پیام دادن، رعایت نوبت یا رفع سوءتفاهم را تمرین کنید. در صورت زورگویی یا فشار از بزرگ‌ترها کمک بگیرید."
+          },
+          {
+            "q": "چطور مدیریت پول را تمرین کنیم؟",
+            "a": "یک خرید کوچک واقعی با سقف توافق‌شده انجام دهید. اول پول ضروری را کنار بگذارید، قیمت را ببینید، پرداخت کنید و مانده را با آنچه انتظار داشتید مقایسه کنید."
+          },
+          {
+            "q": "مدیریت زمان را چطور تمرین کنیم؟",
+            "a": "از یک مهلت واقعی شروع کنید، برای گام‌ها زمان تخمین بزنید، یک بار زمان بگیرید و برنامه بعد را اصلاح کنید. با هم یادآوری انتخاب کنید و بپرسید آیا کمک کرد."
+          }
+        ],
+        "evidence": {
+          "updated": "بازبینی در ۱۷ نوامبر ۲۰۲۶",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "درباره مهارت‌ها و یادآورهایی که تمرین می‌کنید مشترک تصمیم بگیرید.",
+            "اگر مناسب است روش‌های خانه و مدرسه را به هم پیوند دهید.",
+            "اگر مشکلات برنامه‌ریزی بارها فعالیت‌های روزانه را محدود می‌کند، از تیم درمان کمک بیشتری بخواهید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند بپرسید در گردش بعدی دوست دارد کدام بخش با خودش باشد. پیش از رفتن توافق کنید چطور کمک بخواهد بی‌آنکه کل کار را واگذار کند.",
+          "safety": "پول رفت‌وآمد، غذا و داروهای ضروری را در دسترس نگه دارید. برای تغییر برنامه یک فرد امن برای تماس تعیین کنید و درباره نوبت داروی فراموش‌شده از تجویزکننده یا داروساز بپرسید.",
+          "sources": [
+            {
+              "organization": "آکادمی کودکان آمریکا",
+              "title": "تقویت استقلال نوجوانان مبتلا به اختلال کم‌توجهی‌ـ‌بیش‌فعالی",
+              "url": "https://www.healthychildren.org/English/health-issues/conditions/adhd/Pages/Your-Teenagers-ADHD-Treatment-Plan.aspx"
+            },
+            {
+              "organization": "مراکز کنترل و پیشگیری بیماری‌های آمریکا",
+              "title": "آموزش سازمان‌دهی و حمایت مدرسه در اختلال کم‌توجهی‌ـ‌بیش‌فعالی",
+              "url": "https://www.cdc.gov/adhd/treatment/classroom.html"
+            },
+            {
+              "organization": "آبیکاف و همکاران، مجله روان‌شناسی مشاوره‌ای و بالینی",
+              "title": "کارآزمایی تصادفی آموزش مهارت سازمان‌دهی به دانش‌آموزان مبتلا به اختلال کم‌توجهی‌ـ‌بیش‌فعالی",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22889336/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "التخطيط لنزهة مع مراهق لديه اضطراب فرط الحركة وتشتت الانتباه",
+        "description": "تدرّب مع اليافع على تنظيم الوقت والإنفاق ولقاء الأصدقاء. خطّطا لخروج حقيقي وحدّدا معًا أي تذكير يساعده على التحضير والوصول في الموعد.",
+        "intro": "يريد ابنك المراهق لقاء صديق في ملعب كرة السلة. يعرف وقت اللقاء لكنه لم يجد بطاقة المواصلات بعد، ويحتاج إلى تخصيص أجرة العودة وإخبار صديقه بأي مدخل سيستخدم. قبل أن تتولى الرحلة كاملة اسأل أي مهمة يود أن يتدرب عليها بمساعدتك أولًا.",
+        "sections": [
+          {
+            "heading": "ابدآ من وقت اللقاء واحسبا الوقت قبله",
+            "paragraphs": [
+              "اكتبا موعد اللقاء وقدّرا مدة الطريق والاستعداد. ضعا تذكيرًا واحدًا حيث ينتبه إليه اليافع. جرّبا الطريق وقارنا التقدير بالوقت الفعلي. إن استغرق تجهيز الحقيبة عشر دقائق فهذه معلومة للمرة التالية ولا تحتاج إلى توبيخ.",
+              "اتفقا على مكان ثابت للمفاتيح وأغراض المواصلات. قد تذكّر قائمة قصيرة عند الباب بالأشياء الأساسية. دعه يختار بين ورقة أو تنبيه على الهاتف أو إشارة أخرى. اسأل المدرسة إن كان الأسلوب نفسه يصلح لتسجيل موعد تسليم واجب. احتفظا بالتذكيرات المفيدة فعلًا."
+            ]
+          },
+          {
+            "heading": "تدرّبا على قرار مالي وآخر مع الأصدقاء",
+            "paragraphs": [
+              "ضعا أجرة العودة جانبًا قبل الخروج. اتفقا على ما يتاح لوجبة خفيفة وتحققا من السعر قبل الدفع. يتيح شراء صغير مخطط له ضمن حد يفهمه فرصة للتدريب. وبعد ذلك راجعا الإيصال أو الرصيد إن وافق. لا ينبغي أن يتوقف حصوله على الطعام الضروري والمواصلات والدواء على نجاحه في التمرين.",
+              "اسأله ما الذي يصعب عليه مع الأصدقاء. ربما يقاطع كثيرًا أو ينسى تأكيد مكان اللقاء. تدرّبا على رسالة أو طريقة لإصلاح سوء تفاهم: «ذهبت إلى البوابة الأخرى، هل ما زال عندك وقت للعب؟». اتفقا كيف يتصل ببالغ موثوق إذا تغيرت الخطة أو شعر بضغط. لا تجعل معالجة التنمر مسؤولية الطفل المستهدف عبر مطالبته بتعلم مهارة."
+            ]
+          },
+          {
+            "heading": "انقل المسؤولية إليه على مراحل",
+            "paragraphs": [
+              "اعرض المهمة مرة، ثم أدياها معًا، ثم دعه يجرّب بالدعم المتفق عليه. ينطبق ذلك على توضيب الحقيبة أو حجز موعد. يحتاج الدواء إلى خطة أمان منفصلة مع الواصف ومقدم الرعاية. تدرّبا على الانتباه إلى التذكير قبل نقل المسؤولية. لا يشارك الدواء مع أحد ولا تخمّنا ما العمل بعد نسيان جرعة. اسألا الصيدلي أو الواصف.",
+              "في تجربة عشوائية وُزّع 158 تلميذًا من الصف الثالث إلى الخامس، لديهم اضطراب فرط الحركة وتشتت الانتباه وصعوبات في التنظيم، بين تدريب على المهارات وبرنامج سلوكي آخر وقائمة انتظار. بعد التدريب أعطى الأهل والمعلمون تنظيم التلاميذ في مجموعة المهارات تقييمًا أفضل من مجموعة الانتظار. قاست الدراسة التنظيم لدى تلاميذ المدرسة، ولم تختبر قدرة مراهق بعينه على إدارة ميزانية أو السفر وحده."
+            ]
+          }
+        ],
+        "takeaways": [
+          "اختارا جزءًا من النزهة يريد المراهق أن يديره.",
+          "احتفظا بأجرة العودة واتفقا على شخص يتصل به إذا تغيّرت الخطة.",
+          "راجعا ما نجح قبل تقليل الدعم أو إضافة مسؤولية."
+        ],
+        "faq": [
+          {
+            "q": "كيف أساعد طفلي الذي لديه اضطراب فرط الحركة وتشتت الانتباه على تعلم المهارات اليومية؟",
+            "a": "اختارا مهمة تهمه. اعرض خطوة وتدرّبا معًا واتركه يوضح الإشارات التي تفيده. زد استقلاله حين تصبح المهمة في متناوله."
+          },
+          {
+            "q": "ما الذي يدعم صداقات اليافع؟",
+            "a": "اطلب مثالًا محددًا واسمع ما يريد تغييره. تمرّنا على رسالة أو تبادل الأدوار أو إصلاح سوء فهم، وأشرك بالغين إذا وُجد تنمر أو ضغط."
+          },
+          {
+            "q": "كيف نتدرّب على إدارة المال؟",
+            "a": "جرّبا شراءً صغيرًا حقيقيًا ضمن حد متفق عليه. احتفظا أولًا بمبلغ الضروريات وتحققا من السعر وادفعا ثم قارنا المتبقي بما توقعتماه."
+          },
+          {
+            "q": "كيف نتدرّب على تنظيم الوقت؟",
+            "a": "ابدآ بموعد حقيقي وقدّرا الخطوات واحسبا الوقت الفعلي في محاولة واحدة وعدّلا الخطة التالية. اختارا تذكيرًا معًا واسأله إن أفاد."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجع في 17 نوفمبر 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "اشتركا في اختيار المهارات والتذكيرات للتدرب عليها.",
+            "اربِطا عادات البيت والمدرسة عندما يكون ذلك مناسبًا.",
+            "اطلبا مساندة إضافية من الفريق المعالج إذا كانت صعوبات التخطيط تحدّ مرارًا من الأنشطة اليومية."
+          ],
+          "bemama": "تقترح بي ماما أن تسأل اليافع أي جزء من النزهة المقبلة يود توليه. اتفقا قبل الخروج على متى يمكنه طلب المساعدة دون أن يسلمك المهمة كلها.",
+          "safety": "أبقِ أجرة المواصلات والطعام والأدوية الضرورية متاحة. اتفقا على جهة اتصال موثوقة إن تغيرت النزهة، واسألا الصيدلي أو الواصف بشأن الجرعة المنسية.",
+          "sources": [
+            {
+              "organization": "الأكاديمية الأمريكية لطب الأطفال",
+              "title": "تشجيع الاستقلال لدى المراهقين المصابين باضطراب فرط الحركة وتشتت الانتباه",
+              "url": "https://www.healthychildren.org/English/health-issues/conditions/adhd/Pages/Your-Teenagers-ADHD-Treatment-Plan.aspx"
+            },
+            {
+              "organization": "المراكز الأمريكية لمكافحة الأمراض والوقاية منها",
+              "title": "التدريب على التنظيم والدعم المدرسي لاضطراب فرط الحركة وتشتت الانتباه",
+              "url": "https://www.cdc.gov/adhd/treatment/classroom.html"
+            },
+            {
+              "organization": "أبيكوف وزملاؤه، مجلة علم النفس الاستشاري والسريري",
+              "title": "تجربة عشوائية لتدريب تلاميذ لديهم اضطراب فرط الحركة وتشتت الانتباه على التنظيم",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22889336/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Préparer une sortie avec un adolescent qui a un TDAH",
+        "description": "Aidez un adolescent qui a un TDAH à gérer son temps, son argent et un rendez-vous entre amis. Préparez une sortie et choisissez ensemble les rappels utiles.",
+        "intro": "Votre adolescent veut retrouver un ami au terrain de basket. Il connaît l’heure, mais doit encore chercher sa carte de transport, garder le prix du retour et préciser à quelle entrée ils se retrouvent. Avant de tout organiser, demandez-lui quelle tâche il aimerait s’entraîner à faire.",
+        "sections": [
+          {
+            "heading": "Partez de l’heure du rendez-vous",
+            "paragraphs": [
+              "Notez l’heure de la rencontre. Estimez ensemble la durée du trajet et de la préparation. Placez un rappel là où le jeune le verra. Faites le trajet et comparez la durée prévue au temps réel. S’il a fallu dix minutes pour faire le sac, c’est un renseignement pour la prochaine fois, inutile d’en faire une leçon.",
+              "Choisissez une place pour les clés et les affaires de voyage. Une courte liste près de la porte peut rappeler l’essentiel. Laissez le jeune choisir entre une note, un rappel sur téléphone ou un autre repère. Demandez à l’école si le même système pourrait servir à noter une échéance. Ne gardez que les rappels qui lui sont utiles."
+            ]
+          },
+          {
+            "heading": "Un choix pour l’argent, un autre avec les amis",
+            "paragraphs": [
+              "Avant de partir, mettez de côté le prix du retour. Convenez de la somme disponible pour le goûter et vérifiez le prix avant de payer. Un petit achat prévu, avec une limite comprise par le jeune, permet de s’exercer. Ensuite, s’il le souhaite, regardez ensemble le ticket ou le solde. L’accès aux repas nécessaires, au transport et aux médicaments ne doit jamais dépendre de la réussite de cet exercice.",
+              "Demandez-lui ce qui lui pose problème avec ses amis. Il coupe peut-être souvent la parole ou oublie de confirmer le rendez-vous. Préparez un message pour réparer un malentendu : « Je suis allé à l’autre entrée. Tu as encore le temps de jouer ? » Convenez de la façon de joindre un adulte de confiance si le programme change ou s’il subit des pressions. En cas de harcèlement, ce n’est pas à l’enfant visé d’y mettre fin en acquérant une compétence."
+            ]
+          },
+          {
+            "heading": "Confiez la responsabilité par étapes",
+            "paragraphs": [
+              "Montrez une fois, faites ensemble, puis laissez-le essayer avec l’aide convenue. Cela vaut pour faire son sac ou prendre un rendez-vous. Pour les médicaments, il faut un plan de sécurité distinct avec le prescripteur et l’adulte responsable. Entraînez-vous à réagir à un rappel avant de lui confier cette responsabilité. Ne partagez pas de médicaments et n’improvisez pas après une dose oubliée. Demandez au pharmacien ou au prescripteur.",
+              "Dans un essai randomisé, 158 enfants ayant un TDAH et des difficultés d’organisation, de la troisième à la cinquième année de primaire, ont été répartis entre entraînement à l’organisation, autre programme comportemental et liste d’attente. Les parents et enseignants ont mieux évalué l’organisation après l’entraînement que dans le groupe en attente. L’étude mesurait l’organisation d’écoliers. Elle ne vérifiait pas si un adolescent en particulier pouvait gérer un budget ou voyager seul."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Choisissez une partie de la sortie que le jeune veut gérer.",
+          "Réservez le prix du retour et convenez d’une personne à appeler si le programme change.",
+          "Voyez ce qui a fonctionné avant de retirer une aide ou de confier une autre tâche."
+        ],
+        "faq": [
+          {
+            "q": "Comment aider un enfant qui a un TDAH à acquérir des compétences pratiques ?",
+            "a": "Choisissez une tâche qui l’intéresse. Montrez une étape, exercez-vous ensemble et demandez quels repères il trouve utiles. Élargissez sa responsabilité à mesure qu’il maîtrise la tâche."
+          },
+          {
+            "q": "Comment soutenir les amitiés à l’adolescence ?",
+            "a": "Demandez un exemple et écoutez ce qu’il voudrait changer. Exercez-vous à écrire un message, à prendre la parole à tour de rôle ou à réparer un malentendu. En cas de harcèlement ou de pressions, faites intervenir des adultes."
+          },
+          {
+            "q": "Comment s’exercer à gérer l’argent ?",
+            "a": "Essayez un petit achat réel avec une limite convenue. Réservez d’abord l’essentiel, vérifiez le prix, payez et comparez le reste avec la somme prévue."
+          },
+          {
+            "q": "Comment s’exercer à gérer le temps ?",
+            "a": "Partez d’une vraie échéance, estimez les étapes, chronométrez un essai et ajustez la prochaine fois. Choisissez ensemble un rappel et vérifiez s’il aide."
+          }
+        ],
+        "evidence": {
+          "updated": "Revu le 17 novembre 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Décidez ensemble des compétences et des rappels à essayer.",
+            "Reliez les habitudes de la maison et de l’école lorsque c’est pertinent.",
+            "Demandez un soutien supplémentaire à l’équipe soignante si les difficultés de planification limitent souvent le quotidien."
+          ],
+          "bemama": "BeMama propose de demander au jeune quelle partie de la prochaine sortie il aimerait gérer. Convenez avant son départ de la façon de demander de l’aide sans devoir vous laisser toute la tâche.",
+          "safety": "Préservez l’argent du transport, les repas et les médicaments nécessaires. Prévoyez une personne à joindre si le programme change. Pour une dose oubliée, consultez le prescripteur ou le pharmacien.",
+          "sources": [
+            {
+              "organization": "Académie américaine de pédiatrie",
+              "title": "Encourager l’autonomie des adolescents ayant un TDAH",
+              "url": "https://www.healthychildren.org/English/health-issues/conditions/adhd/Pages/Your-Teenagers-ADHD-Treatment-Plan.aspx"
+            },
+            {
+              "organization": "Centres américains de contrôle et de prévention des maladies",
+              "title": "Entraînement à l’organisation et soutien scolaire en cas de TDAH",
+              "url": "https://www.cdc.gov/adhd/treatment/classroom.html"
+            },
+            {
+              "organization": "Abikoff et collègues, Journal of Consulting and Clinical Psychology",
+              "title": "Essai randomisé sur l’entraînement à l’organisation d’écoliers ayant un TDAH",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22889336/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "DEHB’si olan bir gençle dışarıda bir buluşma planlamak",
+        "description": "DEHB’si olan gencinizle zamanı, harcamayı ve arkadaş buluşmasını yönetmeyi deneyin. Gerçek bir geziyi birlikte planlayıp işine yarayan hatırlatıcıları seçin.",
+        "intro": "Çocuğunuz basketbol sahasında arkadaşıyla buluşacak. Saati biliyor ama ulaşım kartını bulması, dönüş parasını ayırması ve arkadaşına hangi girişe geleceğini bildirmesi gerekiyor. Geziyi onun yerine planlamadan önce hangi adımı denemek için destek istediğini sorun.",
+        "sections": [
+          {
+            "heading": "Buluşma saatinden geriye doğru planlayın",
+            "paragraphs": [
+              "Saati yazın. Yolculuğun ve hazırlanmanın ne kadar süreceğini birlikte tahmin edin. Fark edeceği bir yere tek bir hatırlatıcı koyun. Yolculuğu deneyip tahmini gerçek süreyle karşılaştırın. Çantayı hazırlamak on dakika sürdüyse bu, bir sonraki sefer için yararlı bir bilgidir. Uzun bir nasihate gerek yoktur.",
+              "Anahtarlarla ulaşım eşyalarını birlikte kararlaştırdığınız bir yerde tutun. Kapıdaki kısa bir liste gerekenleri hatırlatabilir. Kâğıt listeyi, telefon uyarısını veya başka bir ipucunu kendisi seçsin. Okulda da ödev teslim tarihini aynı biçimde kaydetmenin işe yarayıp yaramayacağını sorun. Yalnızca yararlı hatırlatıcıları sürdürün."
+            ]
+          },
+          {
+            "heading": "Parayla ve arkadaşlıkla ilgili birer karar deneyin",
+            "paragraphs": [
+              "Çıkmadan önce eve dönüş parasını ayırın. Atıştırmalık için kalan miktarı belirleyip ödeme öncesi fiyatı kontrol edin. Gencin anladığı bir sınır içinde planlı, küçük bir alışveriş alıştırma fırsatıdır. Sonra kabul ederse fişe veya kalan paraya birlikte bakın. Gereken yemek, ulaşım ve ilaca erişim bu denemeyi doğru yapmasına bağlı olmamalıdır.",
+              "Arkadaşlarıyla ilgili neyin zor geldiğini sorun. Belki sık sık söz kesiyor veya buluşma yerini doğrulamayı unutuyor. Bir mesajı ya da karışıklığı düzeltmenin bir yolunu deneyin: “Diğer kapıya gelmişim. Hâlâ oynayacak zamanın var mı?” Plan değiştiğinde veya baskı gördüğünde güvenilen bir yetişkine nasıl ulaşacağını kararlaştırın. Zorbalığı, hedef alınan çocuğun bir beceri öğrenerek çözmesi gereken sorun saymayın."
+            ]
+          },
+          {
+            "heading": "Sorumluluğu aşamalı devredin",
+            "paragraphs": [
+              "Bir kez gösterin, birlikte yapın, sonra kararlaştırılan destekle denemesine izin verin. Çanta hazırlarken veya randevu alırken bu yöntem işe yarayabilir. İlaçlar için reçeteyi yazan kişi ve bakım verenle ayrı bir güvenlik planı gerekir. Sorumluluğu devretmeden önce hatırlatıcıyı fark edip yanıtlamayı birlikte deneyin. İlacı başka biriyle paylaşmayın ve unutulan doz konusunda tahminde bulunmayın. Eczacıya veya reçeteyi yazan hekime danışın.",
+              "Rastgele gruplu bir araştırmada, üçüncü ile beşinci sınıflarda okuyan ve DEHB ile birlikte düzenleme güçlüğü yaşayan 158 çocuk beceri eğitimine, başka bir davranış programına veya bekleme listesine ayrıldı. Beceriyi öğrenen çocukların düzenleme becerilerine anne babalar ve öğretmenler, bekleme listesindekilere kıyasla daha olumlu puan verdi. Araştırma okul çağında düzenleme becerisini ölçtü. Belirli bir gencin bütçe yönetip yönetemeyeceğini veya tek başına yola çıkıp çıkamayacağını sınamadı."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Buluşmanın gencin üstlenmek istediği bir adımını seçin.",
+          "Dönüş parasını ayırın ve plan değişirse ulaşılacak kişiyi belirleyin.",
+          "Desteği azaltmadan veya yeni sorumluluk vermeden önce neyin işe yaradığını kontrol edin."
+        ],
+        "faq": [
+          {
+            "q": "DEHB’si olan çocuğuma günlük becerilerde nasıl yardımcı olabilirim?",
+            "a": "Önemsediği bir iş seçin. Bir adımı gösterip birlikte deneyin ve hangi ipuçlarının işe yaradığını kendisinden dinleyin. İşi yönetebilir hale geldikçe bağımsızlığı artırın."
+          },
+          {
+            "q": "Ergenlikte arkadaşlıkları ne destekler?",
+            "a": "Bir örnek isteyin ve neyi değiştirmek istediğini dinleyin. Mesaj yazmayı, sırayla konuşmayı veya yanlış anlaşılmayı düzeltmeyi deneyin. Zorbalık ya da baskı varsa yetişkinleri sürece katın."
+          },
+          {
+            "q": "Para yönetimini nasıl deneyebiliriz?",
+            "a": "Üst sınırı önceden belirlenmiş küçük bir alışveriş yapın. Önce gereken parayı ayırın, fiyatı kontrol edin, ödeyin ve kalan tutarı beklediğinizle karşılaştırın."
+          },
+          {
+            "q": "Zaman yönetimini nasıl çalışabiliriz?",
+            "a": "Gerçek bir son saatle başlayın, adımların süresini tahmin edin, bir denemeyi zamanlayın ve sonraki planı ayarlayın. Bir hatırlatıcı seçip işe yarayıp yaramadığını sorun."
+          }
+        ],
+        "evidence": {
+          "updated": "17 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Hangi beceri ve hatırlatıcıları deneyeceğinize birlikte karar verin.",
+            "Uygun olduğunda ev ve okul alışkanlıklarını birbiriyle ilişkilendirin.",
+            "Planlama sorunları gündelik etkinlikleri sık sık sınırlıyorsa tedavi ekibinden ek destek isteyin."
+          ],
+          "bemama": "BeMama, gence gelecek gezinin hangi bölümünü üstlenmek istediğini sormanızı önerir. Çıkmadan önce, tüm sorumluluğu bırakmadan nasıl yardım isteyebileceğini birlikte kararlaştırın.",
+          "safety": "Gerekli ulaşım parasını, öğünleri ve ilaçları hazır tutun. Gezi değişirse güvenle ulaşabileceği bir kişi belirleyin. Unutulan doz için reçeteyi yazan hekime veya eczacıya danışın.",
+          "sources": [
+            {
+              "organization": "Amerikan Pediatri Akademisi",
+              "title": "DEHB’si olan gençlerde bağımsızlığın desteklenmesi",
+              "url": "https://www.healthychildren.org/English/health-issues/conditions/adhd/Pages/Your-Teenagers-ADHD-Treatment-Plan.aspx"
+            },
+            {
+              "organization": "ABD Hastalık Kontrol ve Önleme Merkezleri",
+              "title": "DEHB için okulda düzenleme becerileri eğitimi ve destek",
+              "url": "https://www.cdc.gov/adhd/treatment/classroom.html"
+            },
+            {
+              "organization": "Abikoff ve çalışma arkadaşları, Journal of Consulting and Clinical Psychology",
+              "title": "DEHB’si olan okul çocuklarında düzenleme becerisi eğitiminin rastgele gruplu çalışması",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22889336/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Cómo planear una salida con un adolescente con TDAH",
+        "description": "Practica el manejo del tiempo, el dinero y las amistades con un adolescente con TDAH. Preparen una salida real y decidan qué recordatorios le sirven.",
+        "intro": "Tu hijo quiere quedar con un amigo en la cancha de baloncesto. Sabe a qué hora, pero aún tiene que encontrar su tarjeta de transporte, guardar el dinero para la vuelta y avisar por qué entrada llegará. Antes de organizarle toda la salida, pregunta con cuál de esas tareas quiere practicar.",
+        "sections": [
+          {
+            "heading": "Cuenta hacia atrás desde la hora de la cita",
+            "paragraphs": [
+              "Anotad la hora del encuentro. Calculad juntos cuánto llevará el trayecto y cuánto tardará en prepararse. Poned un recordatorio donde lo vaya a ver. Al hacer el recorrido, comparad el tiempo previsto con el real. Si preparar la mochila llevó diez minutos, es información para la próxima vez, sin necesidad de sermones.",
+              "Guardad las llaves y la tarjeta de transporte siempre en el mismo sitio acordado. Una lista breve junto a la puerta puede recoger lo imprescindible. Que elija entre una nota, un aviso en el teléfono u otra señal. Pregunta en la escuela si puede usar el mismo sistema para anotar una fecha de entrega. Conservad solo los recordatorios que le sirvan."
+            ]
+          },
+          {
+            "heading": "Practica una decisión de compra y otra entre amigos",
+            "paragraphs": [
+              "Antes de salir, separad el dinero de la vuelta. Acordad cuánto queda para una merienda y comprobad el precio antes de pagar. Una compra pequeña y planificada con un límite claro permite ensayar. Después, si le parece bien, mirad juntos el recibo o el saldo. El acceso a la comida necesaria, al transporte y a sus medicamentos nunca debe depender de que le salga bien el ejercicio.",
+              "Pregúntale qué le cuesta cuando queda con sus amigos. Tal vez interrumpa a menudo o se olvide de confirmar el lugar. Podéis ensayar un mensaje para resolver una confusión: «Fui a la otra entrada. ¿Todavía tienes tiempo para jugar?». Acordad cómo contactar con un adulto de confianza si cambian los planes o alguien le presiona. Si hay acoso, no le corresponde al chico que lo sufre resolverlo aprendiendo una habilidad."
+            ]
+          },
+          {
+            "heading": "Cede la responsabilidad por etapas",
+            "paragraphs": [
+              "Muéstrale la tarea, hacedla juntos y después deja que la pruebe con el apoyo acordado. Puede ser preparar una mochila o pedir una cita. La medicación requiere su propio plan de seguridad con quien la prescribe y quien cuida al adolescente. Practicad juntos cómo responder a un recordatorio antes de delegar. No compartáis medicación ni improviséis si se olvida una dosis: preguntad al farmacéutico o al profesional que la recetó.",
+              "Un ensayo aleatorizado asignó a 158 escolares con TDAH y dificultades de organización de tercero a quinto de primaria a entrenamiento en organización, a otro programa conductual o a una lista de espera. Familias y docentes valoraron mejor la organización después del entrenamiento que en el grupo de espera. El estudio evaluó la organización en escolares. No probó si un adolescente concreto puede gestionar un presupuesto o viajar solo."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Elige un paso de la salida que el adolescente quiera gestionar.",
+          "Reserva el dinero de vuelta y acuerda a quién llamar si cambia el plan.",
+          "Revisa qué funcionó antes de retirar una ayuda o añadir otra responsabilidad."
+        ],
+        "faq": [
+          {
+            "q": "¿Cómo ayudo a mi hijo con TDAH a desarrollar habilidades cotidianas?",
+            "a": "Escoged una tarea que le importe. Muéstrale un paso, practicad juntos y deja que te diga qué señales le sirven. Amplía su autonomía cuando pueda manejar la tarea."
+          },
+          {
+            "q": "¿Qué ayuda en las amistades de los adolescentes?",
+            "a": "Pide un ejemplo concreto y escucha qué quiere cambiar. Ensayad un mensaje, cómo esperar turno o resolver un malentendido. Cuando haya acoso o presión, deben intervenir los adultos."
+          },
+          {
+            "q": "¿Cómo practicamos el manejo del dinero?",
+            "a": "Haced una compra pequeña con un límite acordado. Apartad lo esencial primero, mirad el precio, pagad y comparad el dinero restante con lo previsto."
+          },
+          {
+            "q": "¿Cómo practicamos el manejo del tiempo?",
+            "a": "Empezad por un plazo real, estimad cuánto lleva cada paso, medid un intento y ajustad el siguiente plan. Escoged juntos un recordatorio y comprobad si ayudó."
+          }
+        ],
+        "evidence": {
+          "updated": "Revisado el 17 de noviembre de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Decidid juntos qué habilidades y recordatorios practicar.",
+            "Conectad las rutinas de casa y de la escuela cuando tenga sentido.",
+            "Solicitad apoyo al equipo de tratamiento si las dificultades de planificación limitan a menudo la vida diaria."
+          ],
+          "bemama": "BeMama sugiere preguntar qué parte de la próxima salida le gustaría organizar. Acordad antes de salir cómo podrá pedir ayuda sin tener que ceder toda la tarea.",
+          "safety": "Asegura el dinero necesario para viajar, la comida y los medicamentos. Acordad a quién llamar si cambia la salida y consultad al farmacéutico o a quien receta sobre las dosis olvidadas.",
+          "sources": [
+            {
+              "organization": "Academia Americana de Pediatría",
+              "title": "Fomentar la autonomía de los adolescentes con TDAH",
+              "url": "https://www.healthychildren.org/English/health-issues/conditions/adhd/Pages/Your-Teenagers-ADHD-Treatment-Plan.aspx"
+            },
+            {
+              "organization": "Centros para el Control y la Prevención de Enfermedades de Estados Unidos",
+              "title": "Entrenamiento en organización y apoyo escolar para el TDAH",
+              "url": "https://www.cdc.gov/adhd/treatment/classroom.html"
+            },
+            {
+              "organization": "Abikoff y colaboradores, Journal of Consulting and Clinical Psychology",
+              "title": "Ensayo aleatorizado sobre habilidades de organización en escolares con TDAH",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22889336/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Como planejar um passeio com um adolescente que tem TDAH",
+        "description": "Pratique com o adolescente como organizar o tempo, o dinheiro e o encontro com amigos. Planejem um passeio real e escolham os lembretes que funcionam.",
+        "intro": "Seu filho quer encontrar um amigo na quadra de basquete. Sabe a hora, mas ainda precisa achar o cartão de transporte, separar o dinheiro da volta e combinar em qual entrada vão se encontrar. Antes de organizar o passeio por ele, pergunte qual dessas tarefas quer praticar primeiro.",
+        "sections": [
+          {
+            "heading": "Comece pela hora do encontro e conte para trás",
+            "paragraphs": [
+              "Anotem a hora marcada. Estimem juntos quanto demora o trajeto e quanto ele leva para se arrumar. Coloquem um lembrete onde vai percebê-lo. Façam o trajeto e comparem o tempo real com a estimativa. Se levou dez minutos para preparar a mochila, isso ajuda a planejar a próxima saída. Dispensa sermão.",
+              "Guardem chaves e itens de transporte no mesmo lugar combinado. Uma lista curta perto da porta pode lembrar o essencial. Deixe-o escolher entre papel, aviso no celular ou outro sinal. Na escola, pergunte se o mesmo sistema serviria para registrar prazos. Mantenham apenas os lembretes úteis."
+            ]
+          },
+          {
+            "heading": "Ensaiem uma escolha sobre dinheiro e outra sobre os amigos",
+            "paragraphs": [
+              "Antes de sair, reservem o valor necessário para a volta. Combinem o que sobra para um lanche e confiram o preço antes de pagar. Uma compra pequena, planejada e com um limite claro oferece uma oportunidade para praticar. Depois, se ele concordar, olhem o recibo ou o saldo juntos. O acesso a comida necessária, transporte e medicamentos nunca deve depender do sucesso desse exercício.",
+              "Pergunte o que tem sido difícil com os amigos. Talvez interrompa com frequência ou esqueça de confirmar o lugar. Ensaiem uma mensagem ou uma forma de resolver um desencontro: “Fui para o outro portão. Ainda dá tempo de jogar?”. Combinem como contatar um adulto de confiança se os planos mudarem ou se alguém o pressionar. Se houver intimidação, não cabe ao jovem que a sofre resolver a situação aprendendo uma habilidade."
+            ]
+          },
+          {
+            "heading": "Transfira a responsabilidade aos poucos",
+            "paragraphs": [
+              "Mostre a tarefa, façam juntos e depois deixe-o tentar com o apoio combinado. Vale para fazer a mochila ou marcar uma consulta. Medicamentos precisam de um plano de segurança separado com o prescritor e o cuidador. Pratiquem juntos como responder a um lembrete antes de transferir a responsabilidade. Não compartilhem remédios nem improvisem diante de uma dose esquecida. Perguntem ao farmacêutico ou a quem receitou.",
+              "Um ensaio randomizado incluiu 158 crianças do terceiro ao quinto ano escolar com TDAH e dificuldades de organização. Foram alocadas a treinamento de organização, outro programa comportamental ou lista de espera. Após o treinamento, pais e professores avaliaram a organização de forma mais favorável que no grupo em espera. O estudo mediu organização em escolares. Não avaliou se determinado adolescente consegue gerir um orçamento ou viajar sozinho."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Escolham uma parte do passeio que o jovem queira organizar.",
+          "Reservem o dinheiro da volta e combinem quem contatar se o plano mudar.",
+          "Antes de retirar ajuda ou acrescentar responsabilidades, confiram o que funcionou."
+        ],
+        "faq": [
+          {
+            "q": "Como ajudar meu filho com TDAH a aprender habilidades do dia a dia?",
+            "a": "Escolham uma tarefa que tenha importância para ele. Mostre um passo, pratiquem juntos e deixe-o dizer que lembretes ajudam. Aumente a autonomia à medida que aprende a tarefa."
+          },
+          {
+            "q": "Como ajudar nas amizades na adolescência?",
+            "a": "Peça um exemplo e escute o que o jovem quer mudar. Ensaiem uma mensagem, a vez de falar ou como reparar um mal-entendido. Envolvam adultos em caso de intimidação ou pressão."
+          },
+          {
+            "q": "Como praticar o uso do dinheiro?",
+            "a": "Experimentem uma pequena compra com um limite combinado. Reservem primeiro o essencial, confiram o preço, paguem e comparem o valor restante com o previsto."
+          },
+          {
+            "q": "Como praticar o planejamento do tempo?",
+            "a": "Comecem por um prazo real, estimem cada etapa, cronometrem uma tentativa e ajustem o próximo plano. Escolham um lembrete e vejam se ajudou."
+          }
+        ],
+        "evidence": {
+          "updated": "Revisado em 17 de novembro de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Decidam juntos que habilidades e lembretes praticar.",
+            "Conectem as rotinas de casa e da escola quando fizer sentido.",
+            "Peçam apoio à equipe que acompanha o jovem se as dificuldades de planejamento limitam repetidamente a vida diária."
+          ],
+          "bemama": "A BeMama sugere perguntar que parte do próximo passeio o adolescente gostaria de organizar. Antes de sair, combinem como ele pode pedir ajuda sem precisar entregar a tarefa toda.",
+          "safety": "Garantam o dinheiro da passagem, as refeições e os medicamentos necessários. Combinem um contato seguro se o passeio mudar e consultem o farmacêutico ou prescritor no caso de uma dose esquecida.",
+          "sources": [
+            {
+              "organization": "Academia Americana de Pediatria",
+              "title": "Como incentivar a independência de adolescentes com TDAH",
+              "url": "https://www.healthychildren.org/English/health-issues/conditions/adhd/Pages/Your-Teenagers-ADHD-Treatment-Plan.aspx"
+            },
+            {
+              "organization": "Centros de Controle e Prevenção de Doenças dos Estados Unidos",
+              "title": "Treinamento de organização e apoio na escola para o TDAH",
+              "url": "https://www.cdc.gov/adhd/treatment/classroom.html"
+            },
+            {
+              "organization": "Abikoff e colaboradores, Journal of Consulting and Clinical Psychology",
+              "title": "Ensaio randomizado de treinamento em organização para escolares com TDAH",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22889336/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5876.webp",
+    "heroAlt": {
+      "en": "A teenager sets out a card and coins beside an open backpack, a basketball and a clock.",
+      "es": "Un adolescente prepara una tarjeta y monedas junto a una mochila abierta, un balón de baloncesto y un reloj.",
+      "fr": "Un adolescent prépare une carte et des pièces près d’un sac à dos ouvert, d’un ballon de basket et d’une horloge.",
+      "pt": "Um adolescente separa um cartão e moedas ao lado da mochila aberta, de uma bola de basquete e de um relógio.",
+      "tr": "Bir genç, açık sırt çantasının, basketbol topunun ve saatin yanında kartını ve bozuk paralarını hazırlıyor.",
+      "fa": "نوجوانی کنار کوله‌پشتی باز، توپ بسکتبال و ساعت، یک کارت و چند سکه آماده می‌کند.",
+      "ar": "يافع يجهّز بطاقة وعملات معدنية بجوار حقيبة ظهر مفتوحة وكرة سلة وساعة."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "Helping a teenager with ADHD plan an outing",
+      "description": "Practise time, spending and friendship skills with a teenager who has ADHD. Plan one real outing together and decide which reminders they want to use."
+    },
+    "fa": {
+      "title": "برنامه‌ریزی گردش با نوجوان مبتلا به کم‌توجهی‌ـ‌بیش‌فعالی",
+      "description": "در یک گردش واقعی با نوجوانی که اختلال کم‌توجهی‌ـ‌بیش‌فعالی دارد، مدیریت زمان، خرج کردن و قرار با دوست را تمرین کنید و یادآوری مناسب را با هم انتخاب کنید."
+    },
+    "ar": {
+      "title": "التخطيط لنزهة مع مراهق لديه اضطراب فرط الحركة وتشتت الانتباه",
+      "description": "تدرّب مع اليافع على تنظيم الوقت والإنفاق ولقاء الأصدقاء. خطّطا لخروج حقيقي وحدّدا معًا أي تذكير يساعده على التحضير والوصول في الموعد."
+    },
+    "fr": {
+      "title": "Préparer une sortie avec un adolescent qui a un TDAH",
+      "description": "Aidez un adolescent qui a un TDAH à gérer son temps, son argent et un rendez-vous entre amis. Préparez une sortie et choisissez ensemble les rappels utiles."
+    },
+    "tr": {
+      "title": "DEHB’si olan bir gençle dışarıda bir buluşma planlamak",
+      "description": "DEHB’si olan gencinizle zamanı, harcamayı ve arkadaş buluşmasını yönetmeyi deneyin. Gerçek bir geziyi birlikte planlayıp işine yarayan hatırlatıcıları seçin."
+    },
+    "es": {
+      "title": "Cómo planear una salida con un adolescente con TDAH",
+      "description": "Practica el manejo del tiempo, el dinero y las amistades con un adolescente con TDAH. Preparen una salida real y decidan qué recordatorios le sirven."
+    },
+    "pt": {
+      "title": "Como planejar um passeio com um adolescente que tem TDAH",
+      "description": "Pratique com o adolescente como organizar o tempo, o dinheiro e o encontro com amigos. Planejem um passeio real e escolham os lembretes que funcionam."
+    }
+  }
+}

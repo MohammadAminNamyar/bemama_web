@@ -1,0 +1,611 @@
+{
+  "sourceId": "5870",
+  "article": {
+    "slug": "baby-and-child/how-to-ask-a-child-about-their-drawing",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "How to ask a child about their drawing",
+        "description": "Try simple questions about your child’s artwork, learn why colours and figure sizes need context, and know what to do if a child tells you about harm.",
+        "intro": "A thick black loop fills the page. There is a tiny square in one corner. You wonder whether your child is worried. They might tell you the loop is the fastest roller coaster in the world and the square is the ticket booth. Start with what you can actually see and leave the story to them.",
+        "sections": [
+          {
+            "heading": "Let the artist describe the picture",
+            "paragraphs": [
+              "Try “Your line goes right around the page. What would you like to tell me about it?” Give your child time to answer. They can point, tell you in their home language, add a mark or keep drawing in silence. Asking “Is that the scary house?” puts your story into their answer.",
+              "Notice what your child was doing. Was a thick crayon the easiest to hold? Did they draw the figure first and run short of room for the house? A house, a sun, water or two figures far apart have no fixed psychological meaning. Some children like to build, move or tell stories instead of drawing. That preference on its own does not call for a test."
+            ]
+          },
+          {
+            "heading": "What colour and size can tell you",
+            "paragraphs": [
+              "In one study, 330 children aged four to eleven coloured in an outline of a person, dog or tree after hearing different descriptions of the subject. Colour choices varied with the descriptions and with children’s colour preferences. This was a structured colouring task. It cannot tell you whether a particular child is sad because they freely chose a dark crayon.",
+              "Try asking which part they drew first or what they would add with more space. A large figure, tiny hands or an omitted feature can reflect what the child knows how to draw or what interests them today. A drawing alone cannot diagnose a mental health condition or establish or rule out abuse. If your child wants to keep the picture private, ask before sharing it."
+            ]
+          },
+          {
+            "heading": "Listen if a picture leads to a concern",
+            "paragraphs": [
+              "If your child says someone has hurt them, take their words seriously. Listen without pressing them to repeat the story or suggest who did what. Say you are glad they told you and it was not their fault. Explain that you will get help, record their own words and contact a local child protection service or a health professional promptly. Call emergency services if there is immediate danger.",
+              "If there is no disclosure but you notice continuing distress or changes in sleep, play or school, describe those changes to the child’s clinician. You can bring the picture with the child’s knowledge to help explain what prompted the conversation. A professional needs the wider history. You can seek advice about a concrete safety concern without waiting for a drawing or a disclosure."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Describe one visible detail and invite the child to tell their story.",
+          "Avoid assigning a fixed meaning to a colour, a figure’s size or an omitted detail.",
+          "Respond to the child’s words, distress and safety needs."
+        ],
+        "faq": [
+          {
+            "q": "What is the point of talking about a drawing?",
+            "a": "It gives the child a way to share an idea or enjoy making something with you. They can choose whether to explain it. A parent does not need to score or decode it."
+          },
+          {
+            "q": "What do colours mean in a child’s picture?",
+            "a": "They might be favourites, the crayons within reach or part of an imagined scene. Ask what the child chose and why if they want to tell you. One colour has no dependable meaning for an individual child."
+          },
+          {
+            "q": "What if the proportions look unusual?",
+            "a": "A child might make the most interesting object large or run short of space. Notice the layout without treating size or position as evidence about a relationship."
+          },
+          {
+            "q": "How should I understand a drawing of a person?",
+            "a": "Ask who the person is if the child wants to say. A missing hand or unusually large head does not establish how the child feels or what happened to them. Listen to their account."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 17, 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Use an open invitation and let the child decide what to share.",
+            "Consider the materials, the task and the child’s interests.",
+            "Seek help for a disclosure or specific safety concern and for ongoing distress."
+          ],
+          "bemama": "BeMama suggests writing the child’s own title on the back of the picture if they want one. You may remember the roller coaster very differently once you know its name.",
+          "safety": "Take a disclosure of harm seriously and seek child protection or clinical advice promptly. Call emergency services for immediate danger. A drawing cannot confirm that harm occurred or reassure you that it did not.",
+          "sources": [
+            {
+              "organization": "National Association for the Education of Young Children",
+              "title": "Encouraging open-ended art at home",
+              "url": "https://www.naeyc.org/resources/pubs/tyc/winter2023/art-at-home"
+            },
+            {
+              "organization": "Burkitt, Barrett and Davis, Journal of Child Psychology and Psychiatry",
+              "title": "Children’s colour choices in a structured drawing task",
+              "url": "https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/Childrens-colour-choices-for-completing-drawings/99512675902346"
+            },
+            {
+              "organization": "National Society for the Prevention of Cruelty to Children",
+              "title": "Responding when a child discloses abuse",
+              "url": "https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/what-to-do-child-reveals-abuse"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "چطور با کودک درباره نقاشی‌اش صحبت کنیم؟",
+        "description": "درباره نقاشی فرزندتان پرسش‌های ساده بپرسید، رنگ و اندازه شکل‌ها را در زمینه خودشان ببینید و بدانید اگر کودک از آسیب دیدن گفت چگونه واکنش نشان دهید.",
+        "intro": "حلقه‌ای سیاه و ضخیم صفحه را پر کرده و گوشه کاغذ مربعی کوچک کشیده شده است. شاید فکر کنید فرزندتان نگران است. اما ممکن است بگوید حلقه، سریع‌ترین ترن هوایی دنیاست و مربع همان باجه بلیت‌فروشی است. از آنچه واقعاً می‌بینید شروع کنید و بگذارید داستان را خود کودک تعریف کند.",
+        "sections": [
+          {
+            "heading": "اجازه دهید صاحب نقاشی آن را توصیف کند",
+            "paragraphs": [
+              "مثلاً بگویید: «خطت دور تا دور صفحه رفته. دوست داری درباره‌اش چه چیزی بگویی؟» به کودک فرصت پاسخ بدهید. می‌تواند اشاره کند، به زبانی که در خانه حرف می‌زند توضیح دهد، چیزی به نقاشی اضافه کند یا در سکوت به کشیدن ادامه دهد. پرسش «این همان خانه ترسناک است؟» داستان شما را وارد پاسخ او می‌کند.",
+              "ببینید کودک چطور نقاشی می‌کرد. آیا گرفتن مدادشمعی ضخیم آسان‌تر بود؟ آیا اول آدمک را کشید و دیگر برای خانه جا کم آورد؟ خانه، خورشید، آب یا دو آدمک دور از هم معنای روان‌شناختی ثابتی ندارند. بعضی کودکان به جای نقاشی، ساختن، جنب‌وجوش یا قصه گفتن را دوست دارند. این ترجیح به‌تنهایی نیازی به آزمون ایجاد نمی‌کند."
+            ]
+          },
+          {
+            "heading": "رنگ و اندازه چه چیزی را نشان می‌دهند؟",
+            "paragraphs": [
+              "در یک مطالعه، ۳۳۰ کودک چهار تا یازده ساله پس از شنیدن توصیف‌های متفاوت از یک انسان، سگ یا درخت، طرح آماده آن را رنگ کردند. انتخاب‌ها هم با توصیف شنیده‌شده و هم با رنگ‌های مورد علاقه کودک فرق داشت. این فعالیت رنگ‌آمیزی ساختار مشخصی داشت. از آن نمی‌توان نتیجه گرفت کودکی که آزادانه مدادشمعی تیره برداشته، غمگین است.",
+              "بپرسید کدام قسمت را اول کشیده یا اگر جای بیشتری داشت چه می‌کشید. آدمک بزرگ، دست‌های ریز یا عضوی که نکشیده ممکن است به مهارت فعلی یا علاقه امروز او مربوط باشد. یک نقاشی به‌تنهایی نمی‌تواند مبنای تشخیص اختلال روان یا اثبات و رد بدرفتاری باشد. اگر کودک می‌خواهد نقاشی‌اش خصوصی بماند، پیش از نشان دادن آن به دیگران اجازه بگیرید."
+            ]
+          },
+          {
+            "heading": "اگر صحبت درباره نقاشی نگرانی‌ای را آشکار کرد، گوش بدهید",
+            "paragraphs": [
+              "اگر کودک می‌گوید کسی به او آسیب زده است، حرفش را جدی بگیرید. بدون اصرار به تکرار داستان و بدون القای اینکه چه کسی چه کرده گوش کنید. بگویید خوشحالید که به شما گفته و تقصیر او نبوده است. توضیح دهید که کمک می‌گیرید، حرف‌هایش را با کلمات خودش یادداشت کنید و بی‌درنگ با خدمات محلی حمایت از کودک یا متخصص سلامت تماس بگیرید. اگر خطر فوری است با خدمات اضطراری تماس بگیرید.",
+              "اگر کودک از آسیب چیزی نگفته ولی ناراحتی مداوم یا تغییر در خواب، بازی یا مدرسه می‌بینید، تغییرها را برای پزشک کودک توضیح دهید. با اطلاع کودک می‌توانید نقاشی را هم ببرید تا نشان دهید چه چیزی گفت‌وگو را شروع کرد. متخصص به شرح حال گسترده‌تری نیاز دارد. برای نگرانی ایمنی مشخص می‌توانید بدون انتظار برای نقاشی یا گفتن کودک راهنمایی بگیرید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "یک جزئیات قابل مشاهده را توصیف کنید و کودک را به گفتن داستان خودش دعوت کنید.",
+          "به رنگ، اندازه آدمک یا جزئیاتی که نیامده معنای ثابت ندهید.",
+          "به گفته‌ها، ناراحتی و نیاز کودک به امنیت توجه کنید."
+        ],
+        "faq": [
+          {
+            "q": "گفت‌وگو درباره نقاشی چه فایده‌ای دارد؟",
+            "a": "کودک می‌تواند فکری را در میان بگذارد یا از ساختن چیزی کنار شما لذت ببرد. اینکه نقاشی‌اش را توضیح دهد یا نه با خودش است. نیازی نیست والد به آن نمره بدهد یا رمزی از آن بیرون بکشد."
+          },
+          {
+            "q": "رنگ‌ها در نقاشی کودک چه معنایی دارند؟",
+            "a": "شاید رنگ مورد علاقه او، مدادشمعی دم دست یا بخشی از یک صحنه خیالی باشند. اگر دوست دارد بگوید، بپرسید چه چیزی را انتخاب کرده و چرا. یک رنگ برای هر کودک معنای قابل اتکای ثابتی ندارد."
+          },
+          {
+            "q": "اگر نسبت اندازه‌ها عجیب است چه کنم؟",
+            "a": "شاید کودک آنچه برایش جذاب‌تر است بزرگ کشیده یا جا کم آورده باشد. به چیدمان توجه کنید و از اندازه یا محل شکل درباره یک رابطه نتیجه نگیرید."
+          },
+          {
+            "q": "نقاشی یک آدم را چطور بفهمم؟",
+            "a": "اگر کودک مایل است بگوید، بپرسید آن فرد کیست. جا افتادن یک دست یا سر خیلی بزرگ مشخص نمی‌کند کودک چه احساسی دارد یا چه اتفاقی برایش افتاده است. به روایت خودش گوش کنید."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۷ نوامبر ۲۰۲۶ بررسی شد",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "با پرسشی باز گفت‌وگو را شروع کنید و بگذارید کودک انتخاب کند چه بگوید.",
+            "ابزار نقاشی، نوع فعالیت و علاقه‌های کودک را در نظر بگیرید.",
+            "اگر کودک از آسیب گفت، نگرانی ایمنی مشخصی دارید یا ناراحتی او ادامه دارد، کمک بگیرید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند اگر کودک نامی برای نقاشی‌اش دوست دارد، آن را با گفته خودش پشت برگه بنویسید. شاید وقتی نام ترن هوایی را دانستید، آن حلقه را طور دیگری به یاد بسپارید.",
+          "safety": "گفته کودک درباره آسیب را جدی بگیرید و بی‌درنگ از خدمات حمایت از کودک یا متخصص سلامت راهنمایی بخواهید. برای خطر فوری با خدمات اضطراری تماس بگیرید. نقاشی نمی‌تواند وقوع آسیب را اثبات کند یا خیالتان را راحت کند که آسیبی رخ نداده است.",
+          "sources": [
+            {
+              "organization": "انجمن ملی آموزش کودکان خردسال",
+              "title": "تشویق به فعالیت هنری آزاد در خانه",
+              "url": "https://www.naeyc.org/resources/pubs/tyc/winter2023/art-at-home"
+            },
+            {
+              "organization": "برکیت، بَرِت و دیویس، مجله روان‌شناسی و روان‌پزشکی کودک",
+              "title": "انتخاب رنگ توسط کودکان در یک فعالیت نقاشی ساختاریافته",
+              "url": "https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/Childrens-colour-choices-for-completing-drawings/99512675902346"
+            },
+            {
+              "organization": "انجمن ملی پیشگیری از آزار کودکان بریتانیا",
+              "title": "واکنش مناسب وقتی کودک بدرفتاری را بازگو می‌کند",
+              "url": "https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/what-to-do-child-reveals-abuse"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "كيف تسأل طفلك عن رسمته؟",
+        "description": "جرّب أسئلة بسيطة عن رسمة طفلك، وتعرّف إلى أهمية السياق لفهم الألوان وأحجام الأشكال، وكيف تستجيب إذا أخبرك الطفل بأن أحداً آذاه.",
+        "intro": "تملأ حلقة سوداء سميكة الورقة وفي زاويتها مربع صغير. تتساءل إن كان طفلك قلقاً. وقد يقول لك إن الحلقة أسرع قطار أفعواني في العالم والمربع شباك التذاكر. ابدأ بما تراه فعلاً واترك له رواية القصة.",
+        "sections": [
+          {
+            "heading": "دع صاحب الرسمة يصفها",
+            "paragraphs": [
+              "جرّب أن تقول: «يمتد خطك حول الصفحة كلها. ماذا تحب أن تخبرني عنه؟». امنحه وقتاً للإجابة. يمكنه أن يشير أو يشرح باللغة التي يتحدث بها في البيت أو يضيف خطاً أو يواصل الرسم صامتاً. أما سؤال «هل هذا هو البيت المخيف؟» فيُدخل قصتك أنت في إجابته.",
+              "انتبه إلى الطريقة التي رسم بها. هل كان قلم الشمع السميك أسهل في الإمساك؟ هل رسم الشخص أولاً فلم يبق متسع للبيت؟ لا يحمل البيت أو الشمس أو الماء أو شخصان متباعدان معنى نفسياً ثابتاً. يفضل بعض الأطفال البناء أو الحركة أو رواية القصص على الرسم. هذه الرغبة وحدها لا تستدعي اختباراً."
+            ]
+          },
+          {
+            "heading": "ما الذي يخبرك به اللون والحجم؟",
+            "paragraphs": [
+              "في دراسة شملت ٣٣٠ طفلاً بين الرابعة والحادية عشرة، لوّن الأطفال رسماً جاهزاً لشخص أو كلب أو شجرة بعد سماع أوصاف مختلفة لما في الرسم. اختلف اختيار الألوان مع الأوصاف ومع الألوان التي يفضلها الأطفال. كانت المهمة نشاط تلوين منظماً. ولا تخبرك نتائجها إن كان طفل بعينه حزيناً لمجرد أنه اختار قلماً داكناً في رسم حر.",
+              "جرّب أن تسأل أي جزء رسمه أولاً أو ماذا سيضيف لو كانت المساحة أكبر. قد يعكس الشخص الكبير أو اليدان الصغيرتان أو التفصيل الذي لم يرسمه ما يعرف الطفل كيف يرسمه أو ما يثير اهتمامه اليوم. لا تكفي رسمة وحدها لتشخيص اضطراب نفسي أو لإثبات الإساءة أو نفيها. وإذا أراد الطفل الاحتفاظ برسمته لنفسه فاستأذنه قبل عرضها على أحد."
+            ]
+          },
+          {
+            "heading": "استمع إذا قادت الرسمة إلى ما يثير القلق",
+            "paragraphs": [
+              "إذا قال الطفل إن أحداً آذاه فخذ كلامه بجدية. استمع من دون الإلحاح عليه ليكرر القصة أو التلميح إلى شخص أو فعل بعينه. أخبره بأنك سعيد لأنه تحدث إليك وبأنه غير مسؤول عما حدث. وضّح له أنك ستطلب المساعدة، ودوّن كلماته كما قالها وتواصل سريعاً مع جهة محلية لحماية الطفل أو مختص صحي. اتصل بالطوارئ عند وجود خطر فوري.",
+              "إذا لم يتحدث عن أذى لكنك تلاحظ ضيقاً مستمراً أو تغيرات في النوم أو اللعب أو المدرسة، فصِف هذه التغيرات لطبيبه. يمكنك، بعلم الطفل، إحضار الرسم لتوضيح ما دفع إلى الحديث. يحتاج المختص إلى معرفة السياق الأوسع. يمكنك طلب المشورة بشأن مخاوف محددة على سلامته من دون انتظار رسمة أو إفصاح."
+            ]
+          }
+        ],
+        "takeaways": [
+          "صِف تفصيلاً تراه وادع الطفل إلى رواية قصته.",
+          "تجنب إعطاء معنى ثابت للون أو حجم شخص مرسوم أو تفصيل غائب.",
+          "استجب لكلام الطفل وضيقه وحاجته إلى الأمان."
+        ],
+        "faq": [
+          {
+            "q": "ما فائدة الحديث عن الرسمة؟",
+            "a": "يجد الطفل طريقة ليشارك فكرة أو يستمتع بابتكار شيء معك. وله أن يختار إن كان يريد شرحها. لا يحتاج الوالدان إلى تقييم الرسمة أو فك رموزها."
+          },
+          {
+            "q": "ماذا تعني ألوان رسمة طفلي؟",
+            "a": "قد تكون الألوان المفضلة أو الأقلام الأقرب إلى يده أو جزءاً من مشهد خيالي. اسأله ماذا اختار ولماذا إذا أحب الحديث. لا يوجد للون الواحد معنى موثوق ينطبق على الطفل بمفرده."
+          },
+          {
+            "q": "ماذا لو بدت النسب غير مألوفة؟",
+            "a": "قد يكبّر الطفل الشيء الأكثر إثارة لاهتمامه أو تنفد المساحة. لاحظ توزيع الأشكال من دون اعتبار الحجم أو الموضع دليلاً على علاقة بين الأشخاص."
+          },
+          {
+            "q": "كيف أفهم رسمة لشخص؟",
+            "a": "اسأل من هو إذا رغب الطفل في الإجابة. لا تدل يد غائبة أو رأس كبير على غير العادة بمفردهما على شعور الطفل أو ما حدث له. استمع إلى روايته."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٧ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "ادع الطفل إلى الحديث بسؤال مفتوح واترك له اختيار ما يشاركه.",
+            "ضع في الحسبان أدوات الرسم والمهمة واهتمامات الطفل.",
+            "اطلب المساعدة عند إفصاح عن أذى أو قلق محدد على سلامته أو ضيق مستمر."
+          ],
+          "bemama": "تقترح بي ماما أن تكتب العنوان الذي اختاره الطفل على ظهر الرسمة إذا أراد عنواناً. قد تتذكر القطار الأفعواني بصورة مختلفة بعد أن تعرف اسمه.",
+          "safety": "خذ حديث الطفل عن تعرضه للأذى بجدية واطلب سريعاً مشورة جهة لحماية الطفل أو مختص صحي. اتصل بالطوارئ في حال الخطر الفوري. لا تؤكد الرسمة حدوث الأذى ولا تطمئنك إلى أنه لم يحدث.",
+          "sources": [
+            {
+              "organization": "الجمعية الوطنية لتعليم الأطفال الصغار",
+              "title": "تشجيع حرية التعبير بالفن في المنزل",
+              "url": "https://www.naeyc.org/resources/pubs/tyc/winter2023/art-at-home"
+            },
+            {
+              "organization": "بيركيت وباريت وديفيس، مجلة علم نفس الطفل والطب النفسي",
+              "title": "اختيار الأطفال للألوان في مهمة رسم منظّمة",
+              "url": "https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/Childrens-colour-choices-for-completing-drawings/99512675902346"
+            },
+            {
+              "organization": "الجمعية الوطنية لمنع القسوة على الأطفال في بريطانيا",
+              "title": "الاستجابة عندما يفصح طفل عن تعرضه للإساءة",
+              "url": "https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/what-to-do-child-reveals-abuse"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Comment parler avec votre enfant de son dessin",
+        "description": "Posez des questions ouvertes sur le dessin de votre enfant, voyez ce qui influence les couleurs et comment réagir s’il dit qu’on lui a fait du mal.",
+        "intro": "Une grosse boucle noire occupe la feuille. Un tout petit carré se trouve dans un coin. Vous vous demandez si votre enfant est inquiet. Il vous expliquera peut-être que la boucle est le grand huit le plus rapide du monde et le carré, le guichet. Partez de ce que vous voyez et laissez-le raconter son histoire.",
+        "sections": [
+          {
+            "heading": "Laisser l’artiste décrire son dessin",
+            "paragraphs": [
+              "Essayez par exemple « Ton trait fait le tour de la feuille. Qu’aimerais-tu me raconter sur ton dessin ? » Laissez-lui le temps de répondre. Il peut montrer du doigt, s’exprimer dans la langue qu’il parle à la maison, ajouter un trait ou continuer à dessiner en silence. En demandant « C’est la maison qui fait peur ? », vous introduisez déjà votre propre histoire dans sa réponse.",
+              "Observez-le pendant qu’il dessine. Un gros crayon était-il plus facile à tenir ? A-t-il d’abord dessiné le personnage avant de manquer de place pour la maison ? Une maison, un soleil, de l’eau ou deux personnages très éloignés n’ont pas de signification psychologique fixe. Certains enfants préfèrent construire, bouger ou raconter des histoires. Cette préférence, à elle seule, ne justifie pas un test."
+            ]
+          },
+          {
+            "heading": "Ce que l’on peut dire de la couleur et de la taille",
+            "paragraphs": [
+              "Dans une étude, 330 enfants de 4 à 11 ans ont colorié la silhouette d’une personne, d’un chien ou d’un arbre après avoir entendu différentes descriptions du sujet. Le choix des couleurs variait selon la description et les préférences des enfants. Il s’agissait d’un coloriage dirigé. Ces résultats ne permettent pas de conclure à la tristesse d’un enfant qui choisit spontanément un crayon foncé.",
+              "Demandez-lui par quoi il a commencé ou ce qu’il ajouterait avec plus de place. Un grand personnage, de petites mains ou un détail manquant peuvent refléter ce qu’il sait dessiner ou ce qui l’intéresse aujourd’hui. Un dessin seul ne permet ni de diagnostiquer un trouble psychique ni d’établir ou d’écarter une maltraitance. S’il souhaite le garder pour lui, demandez-lui son accord avant de le montrer."
+            ]
+          },
+          {
+            "heading": "Écouter si le dessin suscite une inquiétude",
+            "paragraphs": [
+              "Si votre enfant vous dit que quelqu’un lui a fait du mal, prenez ses mots au sérieux. Écoutez sans le presser de répéter son récit ni lui suggérer qui aurait fait quoi. Dites que vous êtes content qu’il vous en ait parlé et que ce n’est pas sa faute. Expliquez que vous allez chercher de l’aide. Notez ses propres mots et prenez rapidement contact avec un service local de protection de l’enfance ou un professionnel de santé. Si le danger est immédiat, appelez les secours.",
+              "Même s’il ne rapporte aucun fait, si vous observez une souffrance persistante ou des changements dans son sommeil, ses jeux ou sa vie scolaire, décrivez-les à son médecin. Vous pouvez apporter le dessin, en le disant à l’enfant, pour expliquer ce qui a lancé la conversation. Le professionnel a besoin de connaître le contexte. En cas de préoccupation concrète pour sa sécurité, vous pouvez demander conseil sans attendre un dessin ni une confidence."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Décrivez un détail visible et invitez l’enfant à raconter son histoire.",
+          "Évitez de donner un sens fixe à une couleur, à la taille d’un personnage ou à un détail absent.",
+          "Tenez compte de ses mots, de sa souffrance et de ses besoins de sécurité."
+        ],
+        "faq": [
+          {
+            "q": "À quoi sert la discussion autour d’un dessin ?",
+            "a": "Elle lui offre une occasion de partager une idée ou de prendre plaisir à créer avec vous. Libre à lui de donner ou non des explications. Vous n’avez pas besoin de noter ou de décoder le dessin."
+          },
+          {
+            "q": "Que signifient les couleurs choisies ?",
+            "a": "Ce peuvent être ses préférées, les crayons à portée de main ou les couleurs d’une scène imaginaire. S’il a envie d’en parler, demandez ce qu’il a choisi et pourquoi. Une couleur isolée n’a pas de sens fiable pour un enfant donné."
+          },
+          {
+            "q": "Et si les proportions semblent inhabituelles ?",
+            "a": "Il a peut-être dessiné en grand ce qui l’intéressait le plus ou manqué de place. Observez la disposition sans utiliser la taille ou l’emplacement comme preuve de ce qui se passe dans une relation."
+          },
+          {
+            "q": "Comment comprendre le dessin d’une personne ?",
+            "a": "Demandez de qui il s’agit si l’enfant souhaite le dire. Une main oubliée ou une tête très grande ne permettent pas de savoir ce qu’il ressent ou ce qui lui est arrivé. Écoutez son récit."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 17 novembre 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Posez une question ouverte et laissez l’enfant décider ce qu’il veut partager.",
+            "Tenez compte du matériel, de la consigne et des intérêts de l’enfant.",
+            "Demandez de l’aide s’il rapporte des violences, si vous avez une inquiétude précise pour sa sécurité ou si sa souffrance persiste."
+          ],
+          "bemama": "BeMama suggère d’écrire au dos le titre que votre enfant donne au dessin, s’il en souhaite un. Vous garderez peut-être un tout autre souvenir de ce grand huit une fois son nom connu.",
+          "safety": "Prenez au sérieux un enfant qui dit qu’on lui a fait du mal et demandez rapidement conseil à la protection de l’enfance ou à un professionnel de santé. En cas de danger immédiat, appelez les secours. Un dessin ne permet ni de confirmer ni d’exclure des violences.",
+          "sources": [
+            {
+              "organization": "Association nationale américaine pour l’éducation de la petite enfance",
+              "title": "Encourager la création artistique libre à la maison",
+              "url": "https://www.naeyc.org/resources/pubs/tyc/winter2023/art-at-home"
+            },
+            {
+              "organization": "Burkitt, Barrett et Davis, Journal of Child Psychology and Psychiatry",
+              "title": "Le choix des couleurs par les enfants dans une activité de dessin dirigée",
+              "url": "https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/Childrens-colour-choices-for-completing-drawings/99512675902346"
+            },
+            {
+              "organization": "Société nationale britannique pour la prévention de la cruauté envers les enfants",
+              "title": "Réagir lorsqu’un enfant révèle des violences",
+              "url": "https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/what-to-do-child-reveals-abuse"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Bir çocukla çizdiği resim hakkında nasıl konuşulur?",
+        "description": "Çocuğunuzun resmi hakkında açık sorular sormayı, renk ve boyutu bağlamıyla düşünmeyi ve çocuk zarar gördüğünü anlatırsa nasıl karşılık vereceğinizi öğrenin.",
+        "intro": "Kâğıdı kalın siyah bir halka kaplıyor. Bir köşede küçük bir kare var. Çocuğunuzun kaygılı olup olmadığını merak ediyorsunuz. Belki de halka dünyanın en hızlı lunapark treni, kare ise bilet gişesi. Gördüğünüz şeyden başlayın ve öyküyü ona bırakın.",
+        "sections": [
+          {
+            "heading": "Resmi yapan çocuk anlatsın",
+            "paragraphs": [
+              "“Çizgin kâğıdın çevresini dolaşıyor. Bana bununla ilgili ne anlatmak istersin?” diyebilirsiniz. Yanıtlaması için zaman verin. Gösterebilir, evde konuştuğu dilde anlatabilir, bir çizgi ekleyebilir ya da sessizce çizmeyi sürdürebilir. “Bu korkunç ev mi?” diye sormak, onun yanıtına sizin öykünüzü ekler.",
+              "Çizerken neler yaptığına bakın. Kalın pastel boyayı tutması daha mı kolaydı? Önce insanı çizip eve az yer mi bıraktı? Ev, güneş, su veya iki figürün birbirinden uzakta durmasının sabit bir psikolojik anlamı yoktur. Bazı çocuklar resim yerine bir şeyler inşa etmeyi, hareket etmeyi veya öykü anlatmayı sever. Bu tercih tek başına test gerektirmez."
+            ]
+          },
+          {
+            "heading": "Renk ve boyut bize ne söyleyebilir?",
+            "paragraphs": [
+              "Bir araştırmada 4–11 yaşlarında 330 çocuk, konuyu farklı biçimlerde betimleyen anlatımları dinledikten sonra bir insan, köpek veya ağaç çiziminin içini boyadı. Renk seçimleri hem anlatıma hem de çocukların renk tercihlerine göre değişti. Bu, belirli yönergelere göre yapılan bir boyama göreviydi. Serbest resminde koyu renk seçen bir çocuğun üzgün olup olmadığını göstermez.",
+              "Önce hangi bölümü çizdiğini veya daha fazla yer olsaydı ne ekleyeceğini sorabilirsiniz. Büyük bir figür, küçük eller ya da çizilmeyen bir ayrıntı, neyi çizmeyi bildiğini veya o gün neye ilgi duyduğunu yansıtabilir. Tek bir resim ruhsal bir bozukluğa tanı koydurmaz; istismarı ne doğrular ne de dışlar. Çocuk resmi kendine saklamak istiyorsa başkalarına göstermeden önce izin isteyin."
+            ]
+          },
+          {
+            "heading": "Resim bir kaygıyı dile getirirse dinleyin",
+            "paragraphs": [
+              "Çocuk birinin kendisine zarar verdiğini söylerse sözlerini ciddiye alın. Öyküyü tekrar tekrar anlattırmadan veya kimin ne yaptığını ima etmeden dinleyin. Anlattığına sevindiğinizi ve suçun onda olmadığını söyleyin. Yardım alacağınızı açıklayın, çocuğun kendi sözlerini yazın ve gecikmeden yerel çocuk koruma hizmetine ya da bir sağlık uzmanına ulaşın. O anda tehlike varsa acil yardım çağırın.",
+              "Böyle bir anlatım olmasa bile süren sıkıntı ya da uyku, oyun veya okul yaşamında değişiklik görüyorsanız bunları çocuğun hekimine anlatın. Konuşmayı neyin başlattığını göstermek için çocuğun bilgisiyle resmi götürebilirsiniz. Uzmanın daha geniş öyküyü bilmesi gerekir. Güvenlikle ilgili somut bir kaygı varsa resim veya açıklama beklemeden danışabilirsiniz."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Gördüğünüz bir ayrıntıyı betimleyin ve çocuğu kendi öyküsünü anlatmaya davet edin.",
+          "Bir renge, figürün büyüklüğüne veya çizilmeyen bir ayrıntıya sabit anlam yüklemeyin.",
+          "Çocuğun sözlerini, sıkıntısını ve güvenlik ihtiyacını dikkate alın."
+        ],
+        "faq": [
+          {
+            "q": "Resim hakkında konuşmanın amacı nedir?",
+            "a": "Çocuğa bir fikrini paylaşma veya sizinle bir şey üretmekten keyif alma fırsatı verir. Açıklamak isteyip istemediğine kendisi karar verebilir. Resme puan vermeniz ya da şifresini çözmeniz gerekmez."
+          },
+          {
+            "q": "Çocuğun resmindeki renkler ne anlama gelir?",
+            "a": "Sevdiği renkler, elinin altındaki boyalar veya hayali bir sahnenin parçası olabilir. Anlatmak isterse neyi neden seçtiğini sorun. Bir rengin tek bir çocuk için güvenilir, sabit anlamı yoktur."
+          },
+          {
+            "q": "Oranlar sıra dışı görünüyorsa ne yapmalıyım?",
+            "a": "Çocuk en ilginç bulduğu nesneyi büyük yapmış veya yeri azalmış olabilir. Büyüklüğü ya da konumu bir ilişki hakkında kanıt saymadan sayfanın düzenini fark edin."
+          },
+          {
+            "q": "İnsan çizimini nasıl anlamalıyım?",
+            "a": "Söylemek isterse kişinin kim olduğunu sorun. Bir elin çizilmemesi veya başın çok büyük olması çocuğun ne hissettiğini ya da başına ne geldiğini göstermez. Kendi anlatımını dinleyin."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 17 Kasım 2026 tarihinde incelendi",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Açık uçlu bir davette bulunun ve ne paylaşacağına çocuğun karar vermesini sağlayın.",
+            "Malzemeleri, verilen görevi ve çocuğun ilgilerini göz önünde bulundurun.",
+            "Zarar gördüğüne ilişkin anlatım, somut güvenlik kaygısı veya süren sıkıntı için yardım isteyin."
+          ],
+          "bemama": "BeMama, çocuk isterse resme verdiği adı arkasına yazmanızı önerir. O lunapark trenini, adını öğrendikten sonra çok başka türlü hatırlayabilirsiniz.",
+          "safety": "Çocuğun zarar gördüğünü anlatmasını ciddiye alın ve gecikmeden çocuk koruma hizmeti ya da sağlık uzmanından görüş alın. O anda tehlike varsa acil yardım çağırın. Bir resim zararı doğrulayamaz, yaşanmadığı konusunda da güvence veremez.",
+          "sources": [
+            {
+              "organization": "ABD Küçük Çocukların Eğitimi Ulusal Birliği",
+              "title": "Evde açık uçlu sanat çalışmalarını desteklemek",
+              "url": "https://www.naeyc.org/resources/pubs/tyc/winter2023/art-at-home"
+            },
+            {
+              "organization": "Burkitt, Barrett ve Davis, Journal of Child Psychology and Psychiatry",
+              "title": "Yapılandırılmış bir çizim görevinde çocukların renk seçimleri",
+              "url": "https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/Childrens-colour-choices-for-completing-drawings/99512675902346"
+            },
+            {
+              "organization": "Birleşik Krallık Çocuklara Yönelik Kötü Muameleyi Önleme Derneği",
+              "title": "Bir çocuk istismarı anlattığında nasıl karşılık verilir?",
+              "url": "https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/what-to-do-child-reveals-abuse"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Cómo hablar con tu hijo sobre un dibujo suyo",
+        "description": "Prueba preguntas abiertas sobre los dibujos de tu hijo, observa qué influye en colores y tamaños y aprende cómo actuar si te cuenta que le han hecho daño.",
+        "intro": "Un trazo negro y grueso da una gran vuelta por la hoja. En una esquina hay un cuadrado diminuto. Quizá te preguntes si a tu hijo le preocupa algo. Tal vez te diga que es la montaña rusa más rápida del mundo y que el cuadrado es la taquilla. Empieza por lo que ves y deja que te cuente su historia.",
+        "sections": [
+          {
+            "heading": "Deja que el artista describa su dibujo",
+            "paragraphs": [
+              "Puedes decir «Veo que tu línea da toda la vuelta a la hoja. ¿Qué te gustaría contarme del dibujo?». Dale tiempo para responder. Puede señalar algo, explicarlo en la lengua que habla en casa, añadir un trazo o seguir dibujando en silencio. Si preguntas «¿Esa es la casa que da miedo?», ya estás poniendo parte de tu propia historia en su respuesta.",
+              "Fíjate en cómo dibujaba. ¿Le resultaba más fácil sujetar una cera gruesa? ¿Hizo primero la figura y le quedó poco espacio para la casa? Una casa, un sol, el agua o dos figuras alejadas entre sí carecen de un significado psicológico fijo. Hay niños que prefieren construir, moverse o inventar cuentos. Esa preferencia por sí sola no es motivo para hacer una prueba."
+            ]
+          },
+          {
+            "heading": "Qué pueden decirnos los colores y los tamaños",
+            "paragraphs": [
+              "En un estudio, 330 niños de 4 a 11 años colorearon la silueta de una persona, un perro o un árbol después de escuchar distintas descripciones de lo que iban a colorear. La elección de colores variaba según las descripciones y los colores que les gustaban. Era una tarea de colorear dirigida. No permite deducir que un niño esté triste porque haya elegido libremente una cera oscura.",
+              "Pregunta qué parte dibujó primero o qué añadiría si tuviera más sitio. Una figura grande, unas manos diminutas o un detalle ausente pueden reflejar lo que sabe dibujar o lo que hoy le interesa. Un dibujo aislado no permite diagnosticar un problema de salud mental ni confirmar o descartar malos tratos. Si quiere guardar el dibujo para sí, pídele permiso antes de enseñárselo a alguien."
+            ]
+          },
+          {
+            "heading": "Escucha si el dibujo da pie a una preocupación",
+            "paragraphs": [
+              "Si te cuenta que alguien le hizo daño, tómate en serio sus palabras. Escucha sin presionarlo para que repita la historia ni sugerir quién hizo qué. Dile que te alegras de que te lo haya contado y que no fue culpa suya. Explícale que buscarás ayuda, anota sus propias palabras y ponte cuanto antes en contacto con un servicio local de protección infantil o con un profesional sanitario. Si hay peligro inmediato, llama a emergencias.",
+              "Aunque no te haya contado ningún hecho, si notas malestar persistente o cambios en el sueño, el juego o la escuela, descríbeselos al profesional que lo atiende. Puedes llevar el dibujo, con conocimiento del niño, para explicar cómo surgió la conversación. El profesional necesita conocer las circunstancias. Si te preocupa algo concreto sobre su seguridad, puedes pedir orientación sin esperar a que haga un dibujo o te cuente lo ocurrido."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Describe un detalle que veas e invítalo a contar la historia.",
+          "Evita atribuir a un color, al tamaño de una figura o a un detalle que falta un significado fijo.",
+          "Responde a lo que te cuenta, a su malestar y a lo que necesita para estar a salvo."
+        ],
+        "faq": [
+          {
+            "q": "¿Para qué sirve conversar sobre un dibujo?",
+            "a": "Le da la oportunidad de compartir una idea o disfrutar creando algo contigo. Puede decidir si quiere explicarlo. No hace falta puntuar ni descifrar su dibujo."
+          },
+          {
+            "q": "¿Qué significan los colores que ha utilizado?",
+            "a": "Pueden ser sus favoritos, las ceras que tenía a mano o parte de una escena imaginada. Si quiere contártelo, pregúntale qué eligió y por qué. Un color aislado carece de un significado fiable para un niño en particular."
+          },
+          {
+            "q": "¿Y si las proporciones parecen extrañas?",
+            "a": "Quizá haya dibujado más grande lo que le interesaba o se haya quedado sin espacio. Observa la distribución sin tomar el tamaño o la posición como pruebas de cómo es una relación."
+          },
+          {
+            "q": "¿Cómo entender el dibujo de una persona?",
+            "a": "Pregunta quién es si quiere contártelo. Una mano que falta o una cabeza muy grande no demuestran cómo se siente o qué le ha sucedido. Escucha su explicación."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 17 de noviembre de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Haz una invitación abierta y deja que el niño decida qué quiere compartir.",
+            "Ten en cuenta los materiales, la tarea y lo que le interesa.",
+            "Busca ayuda si te cuenta que le han hecho daño, si algo concreto te preocupa de su seguridad o si persiste el malestar."
+          ],
+          "bemama": "BeMama sugiere anotar al dorso el título que tu hijo le haya puesto al dibujo, si quiere ponerle uno. Puede que recuerdes esa montaña rusa de otra manera cuando sepas cómo se llama.",
+          "safety": "Si te cuenta que le han hecho daño, tómalo en serio y consulta cuanto antes con protección infantil o un profesional sanitario. Llama a emergencias ante un peligro inmediato. Un dibujo no puede confirmar ni descartar que le hayan hecho daño.",
+          "sources": [
+            {
+              "organization": "Asociación Nacional para la Educación de la Primera Infancia",
+              "title": "Fomentar en casa la creación artística libre",
+              "url": "https://www.naeyc.org/resources/pubs/tyc/winter2023/art-at-home"
+            },
+            {
+              "organization": "Burkitt, Barrett y Davis, Journal of Child Psychology and Psychiatry",
+              "title": "Elección de colores en una tarea de dibujo dirigida",
+              "url": "https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/Childrens-colour-choices-for-completing-drawings/99512675902346"
+            },
+            {
+              "organization": "Sociedad Nacional para la Prevención de la Crueldad contra los Niños",
+              "title": "Cómo responder cuando un niño cuenta que ha sufrido malos tratos",
+              "url": "https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/what-to-do-child-reveals-abuse"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Como conversar com uma criança sobre seu desenho",
+        "description": "Experimente perguntas simples sobre o desenho do seu filho, entenda por que cores e tamanhos precisam de contexto e saiba como agir se ele relatar violência.",
+        "intro": "Uma linha preta e grossa dá a volta na folha. Num canto há um quadradinho. Você se pergunta se seu filho está preocupado. Talvez ele explique que a linha é a montanha-russa mais rápida do mundo e o quadrado é a bilheteria. Comece pelo que você vê e deixe que ele conte a história.",
+        "sections": [
+          {
+            "heading": "Deixe o artista descrever a imagem",
+            "paragraphs": [
+              "Experimente: “Sua linha dá a volta na folha. O que você gostaria de me contar sobre ela?” Espere a resposta. A criança pode apontar, contar na língua que fala em casa, acrescentar um traço ou continuar em silêncio. Se você perguntar “É aquela casa assustadora?”, já põe a sua própria história na resposta dela.",
+              "Observe o que a criança estava fazendo. Era mais fácil segurar um giz grosso? Ela desenhou a pessoa primeiro e sobrou pouco espaço para a casa? Casas, sóis, água ou figuras distantes entre si não têm significado psicológico fixo. Algumas crianças preferem construir, se movimentar ou contar histórias. Essa preferência, por si só, não pede um teste."
+            ]
+          },
+          {
+            "heading": "O que a cor e o tamanho podem dizer",
+            "paragraphs": [
+              "Em um estudo, 330 crianças de 4 a 11 anos coloriram o contorno de uma pessoa, um cachorro ou uma árvore após ouvir descrições diferentes do tema. As cores escolhidas variaram de acordo com as descrições e as preferências de cada criança. A atividade de colorir seguia instruções. Ela não permite concluir que uma criança está triste por ter escolhido livremente um giz escuro.",
+              "Pergunte qual parte fez primeiro ou o que acrescentaria com mais espaço. Uma figura grande, mãos pequenas ou um detalhe ausente podem refletir o que sabe desenhar ou o que lhe interessa hoje. Um desenho sozinho não diagnostica um transtorno mental nem confirma ou descarta abuso. Se a criança quiser guardá-lo para si, peça autorização antes de mostrá-lo."
+            ]
+          },
+          {
+            "heading": "Quando o desenho abre espaço para uma preocupação",
+            "paragraphs": [
+              "Se a criança disser que alguém a machucou, leve suas palavras a sério. Escute sem pressioná-la a repetir a história nem sugerir quem fez o quê. Diga que foi bom ela ter contado e que não foi culpa dela. Explique que vai buscar ajuda, anote as palavras da própria criança e contate prontamente um serviço de proteção à infância ou um profissional de saúde. Em perigo imediato, acione a emergência.",
+              "Mesmo sem um relato de violência, se você notar sofrimento persistente ou mudanças no sono, nas brincadeiras ou na escola, descreva-as ao profissional que acompanha a criança. Com o conhecimento dela, pode levar o desenho para explicar o que motivou a conversa. O profissional precisa conhecer o contexto mais amplo. Se houver uma preocupação concreta com a segurança, peça orientação sem esperar um desenho ou uma revelação."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Descreva um detalhe visível e convide a criança a contar a própria história.",
+          "Evite dar um significado fixo a uma cor, ao tamanho de uma figura ou a um detalhe ausente.",
+          "Responda ao que a criança diz, ao seu sofrimento e às suas necessidades de proteção."
+        ],
+        "faq": [
+          {
+            "q": "Para que conversar sobre um desenho?",
+            "a": "É uma oportunidade de compartilhar uma ideia ou gostar de criar algo com você. A criança decide se quer explicar. Você não precisa dar nota nem decifrar a imagem."
+          },
+          {
+            "q": "O que significam as cores no desenho?",
+            "a": "Podem ser suas favoritas, os lápis que estavam à mão ou parte de uma cena imaginada. Pergunte sobre a escolha se ela quiser contar. Uma cor não tem significado confiável para uma criança em particular."
+          },
+          {
+            "q": "E se as proporções parecerem diferentes?",
+            "a": "A criança pode desenhar maior o que mais a interessa ou ficar sem espaço na folha. Observe a composição sem interpretar tamanho ou posição como prova sobre um relacionamento."
+          },
+          {
+            "q": "Como entender o desenho de uma pessoa?",
+            "a": "Pergunte quem é, se a criança quiser contar. A falta de uma mão ou uma cabeça muito grande não revela como ela se sente nem o que lhe aconteceu. Escute a história dela."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 17 de novembro de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Faça um convite aberto e deixe a criança decidir o que contar.",
+            "Considere os materiais, a atividade e os interesses da criança.",
+            "Busque ajuda para um relato de violência, uma preocupação concreta com a segurança ou sofrimento persistente."
+          ],
+          "bemama": "A BeMama sugere anotar no verso o título que a própria criança der ao desenho, se ela quiser. Você pode se lembrar daquela montanha-russa de outro jeito depois de saber seu nome.",
+          "safety": "Leve a sério um relato de violência e busque prontamente orientação de proteção à infância ou de um profissional de saúde. Em perigo imediato, acione a emergência. Um desenho não confirma que houve violência nem garante que ela não ocorreu.",
+          "sources": [
+            {
+              "organization": "Associação Nacional dos Estados Unidos para a Educação de Crianças Pequenas",
+              "title": "Incentivar a criação artística aberta em casa",
+              "url": "https://www.naeyc.org/resources/pubs/tyc/winter2023/art-at-home"
+            },
+            {
+              "organization": "Burkitt, Barrett e Davis, Journal of Child Psychology and Psychiatry",
+              "title": "Escolhas de cores pelas crianças em uma tarefa estruturada de desenho",
+              "url": "https://openresearch.surrey.ac.uk/esploro/outputs/journalArticle/Childrens-colour-choices-for-completing-drawings/99512675902346"
+            },
+            {
+              "organization": "Sociedade Nacional para a Prevenção da Crueldade contra Crianças do Reino Unido",
+              "title": "Como responder quando uma criança revela abuso",
+              "url": "https://www.nspcc.org.uk/keeping-children-safe/reporting-abuse/what-to-do-child-reveals-abuse"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5870.webp",
+    "heroAlt": {
+      "en": "A child draws a looping roller coaster with a black crayon beside a colourful ticket booth.",
+      "es": "Un niño dibuja con una cera negra una montaña rusa con un bucle junto a una taquilla de colores.",
+      "fr": "Un enfant trace au crayon noir des montagnes russes avec une boucle et un guichet coloré.",
+      "pt": "Uma criança desenha com giz de cera preto uma montanha-russa com uma volta ao lado de uma bilheteria colorida.",
+      "tr": "Bir çocuk, renkli bir bilet gişesinin yanında siyah mum boyayla döngülü bir hız treni çiziyor.",
+      "fa": "کودکی با مدادشمعی سیاه ترن هوایی حلقه‌داری را کنار یک باجه بلیت رنگارنگ می‌کشد.",
+      "ar": "طفل يرسم بقلم شمع أسود أفعوانية ذات حلقة بجوار كشك تذاكر ملون."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "How to ask a child about their drawing",
+      "description": "Try simple questions about your child’s artwork, learn why colours and figure sizes need context, and know what to do if a child tells you about harm."
+    },
+    "fa": {
+      "title": "چطور با کودک درباره نقاشی‌اش صحبت کنیم؟",
+      "description": "درباره نقاشی فرزندتان پرسش‌های ساده بپرسید، رنگ و اندازه شکل‌ها را در زمینه خودشان ببینید و بدانید اگر کودک از آسیب دیدن گفت چگونه واکنش نشان دهید."
+    },
+    "ar": {
+      "title": "كيف تسأل طفلك عن رسمته؟",
+      "description": "جرّب أسئلة بسيطة عن رسمة طفلك، وتعرّف إلى أهمية السياق لفهم الألوان وأحجام الأشكال، وكيف تستجيب إذا أخبرك الطفل بأن أحداً آذاه."
+    },
+    "fr": {
+      "title": "Comment parler avec votre enfant de son dessin",
+      "description": "Posez des questions ouvertes sur le dessin de votre enfant, voyez ce qui influence les couleurs et comment réagir s’il dit qu’on lui a fait du mal."
+    },
+    "tr": {
+      "title": "Bir çocukla çizdiği resim hakkında nasıl konuşulur?",
+      "description": "Çocuğunuzun resmi hakkında açık sorular sormayı, renk ve boyutu bağlamıyla düşünmeyi ve çocuk zarar gördüğünü anlatırsa nasıl karşılık vereceğinizi öğrenin."
+    },
+    "es": {
+      "title": "Cómo hablar con tu hijo sobre un dibujo suyo",
+      "description": "Prueba preguntas abiertas sobre los dibujos de tu hijo, observa qué influye en colores y tamaños y aprende cómo actuar si te cuenta que le han hecho daño."
+    },
+    "pt": {
+      "title": "Como conversar com uma criança sobre seu desenho",
+      "description": "Experimente perguntas simples sobre o desenho do seu filho, entenda por que cores e tamanhos precisam de contexto e saiba como agir se ele relatar violência."
+    }
+  }
+}

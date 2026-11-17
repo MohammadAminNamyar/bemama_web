@@ -1,0 +1,646 @@
+{
+  "sourceId": "5804",
+  "article": {
+    "slug": "pregnancy/iodine-food-and-prenatal-supplements",
+    "category": "pregnancy",
+    "i18n": {
+      "en": {
+        "title": "Getting enough iodine during pregnancy and breastfeeding",
+        "description": "Check how food and prenatal vitamins contribute to iodine intake, why breastfeeding changes your needs, and when to ask for advice before adding a supplement.",
+        "intro": "You turn over your prenatal vitamin and find iodine listed next to folate. Does that amount have to cover the whole day? Start with the units on the label and what you usually eat. The recommended total includes both food and supplements.",
+        "sections": [
+          {
+            "heading": "What changes when you are pregnant or nursing?",
+            "paragraphs": [
+              "The thyroid uses iodine to make hormones that support brain and nervous system development. During pregnancy you supply iodine to the developing baby. After birth, a breastfed baby obtains iodine from breast milk, and the amount in the milk depends partly on your intake. Severe deficiency during pregnancy can seriously affect development and increase the risk of pregnancy loss.",
+              "US recommended daily totals are 150 micrograms (mcg) before pregnancy for adults, 220 mcg during pregnancy and 290 mcg when breastfeeding. These are total intakes, not the amounts to add in pill form. Local guidance can differ with food fortification and iodine availability. A microgram is one thousandth of a milligram."
+            ]
+          },
+          {
+            "heading": "Read the food and supplement labels together",
+            "paragraphs": [
+              "Eggs, dairy foods and fish can contribute iodine. If you use salt, look for the word “iodized” rather than increasing the amount you add. Sea salt and specialty salts are not necessarily iodized. If you avoid dairy or fish, check any plant drink's label for added iodine; fortification varies. Tell your clinician or dietitian what a usual day's meals look like.",
+              "US thyroid and pediatric guidance recommends a prenatal or multivitamin providing 150 mcg of iodine daily during pregnancy and breastfeeding; thyroid guidance recommends potassium iodide and starting before conception. Some prenatal products contain none. If yours contains iodine, take the label to your pharmacist before adding another supplement. If you have thyroid disease, use thyroid medicine or have been advised to restrict iodine, get individual advice before changing your intake."
+            ]
+          },
+          {
+            "heading": "What the research can and cannot tell you",
+            "paragraphs": [
+              "Researchers tested stored first-trimester urine samples from 1,040 UK pregnancies and compared iodine status with children's verbal IQ at eight and reading at nine. Lower maternal iodine status was associated with higher odds of lower scores on some measures. This was an observational study, not a supplement trial. A single urine sample cannot tell a family how one child's development will turn out.",
+              "More iodine is not always better; excess can also affect thyroid function. Kelp and other seaweed supplements can contain highly variable amounts. Avoid self-treating with high-dose iodine drops or combining several supplements. If you have already taken a large amount, seek prompt advice from a poison centre or clinician with the product label in hand."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Count food and supplements together when comparing your intake with a daily recommendation.",
+          "Check whether your prenatal vitamin contains iodine and how many micrograms it provides.",
+          "Ask for an individual plan if you avoid several iodine sources or have a thyroid condition."
+        ],
+        "faq": [
+          {
+            "q": "How much iodine do I need each day?",
+            "a": "US daily recommendations for adults are 150 mcg before pregnancy, 220 mcg during pregnancy and 290 mcg when breastfeeding. These figures include iodine from food and supplements combined."
+          },
+          {
+            "q": "Do I need an iodine tablet during pregnancy?",
+            "a": "Check your prenatal label first. US guidance commonly recommends a supplement with 150 mcg daily, usually as potassium iodide. You may already be taking that amount. Ask about your diet, local guidance and thyroid history before adding a separate tablet."
+          },
+          {
+            "q": "What does low iodine mean during breastfeeding?",
+            "a": "Milk supplies iodine for the baby's thyroid hormones and brain development. When maternal intake is low, milk can provide too little. Discuss your own food and supplements with a clinician rather than giving iodine drops to a baby yourself."
+          },
+          {
+            "q": "Why does deficiency during pregnancy matter?",
+            "a": "Severe deficiency can harm fetal brain development and raise the risk of pregnancy loss. A missed capsule or one low-iodine meal does not diagnose deficiency. Ask for a review of your usual intake if you have concerns."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 17, 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Use micrograms when comparing amounts on prenatal labels.",
+            "Use iodized salt in place of other salt if appropriate, without increasing total salt.",
+            "Let your care team know about thyroid medicine, kelp products or separate iodine drops."
+          ],
+          "bemama": "BeMama suggests bringing photos of your prenatal label and the salt or plant drink you regularly use, so your clinician can see which sources you already have.",
+          "safety": "Do not give iodine drops to an infant or use high-dose iodine or kelp to treat a suspected deficiency on your own. Check with your clinician before adding iodine if you have thyroid disease or take thyroid medication. Seek prompt advice after a large unintended dose.",
+          "sources": [
+            {
+              "organization": "US National Institutes of Health, Office of Dietary Supplements",
+              "title": "Iodine in foods and supplements",
+              "url": "https://ods.od.nih.gov/factsheets/Iodine-Consumer/"
+            },
+            {
+              "organization": "US Centers for Disease Control and Prevention",
+              "title": "Iodine needs in pregnancy and breastfeeding",
+              "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/iodine.html"
+            },
+            {
+              "organization": "US National Institutes of Health, Office of Dietary Supplements",
+              "title": "Pregnancy guidance on iodine and prenatal supplements",
+              "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/"
+            },
+            {
+              "organization": "Bath and colleagues, The Lancet",
+              "title": "First-trimester iodine status and later child cognition in a UK cohort",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23706508/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "دریافت ید کافی در بارداری و شیردهی",
+        "description": "ببینید غذا و ویتامین بارداری چقدر به دریافت ید کمک می‌کنند، چرا نیاز به ید در شیردهی تغییر می‌کند و پیش از افزودن مکمل چه زمانی باید مشورت کنید.",
+        "intro": "روی بسته ویتامین بارداری، کنار فولات نام ید را می‌بینید. آیا این مقدار باید کل نیاز روزانه را تأمین کند؟ ابتدا به واحد روی برچسب و خوراک معمولتان نگاه کنید. مقدار توصیه‌شده روزانه، مجموع غذا و مکمل است.",
+        "sections": [
+          {
+            "heading": "در بارداری و شیردهی چه چیز تغییر می‌کند؟",
+            "paragraphs": [
+              "تیروئید برای ساخت هورمون‌هایی که به رشد مغز و دستگاه عصبی کمک می‌کنند از ید استفاده می‌کند. در بارداری شما ید جنین را تأمین می‌کنید. پس از تولد، شیرخوار از شیر مادر ید می‌گیرد و مقدار ید شیر تا حدی به دریافت شما وابسته است. کمبود شدید در بارداری می‌تواند به رشد آسیب جدی بزند و خطر از دست رفتن بارداری را بالا ببرد.",
+              "در آمریکا کل مقدار توصیه‌شده روزانه برای بزرگسالان پیش از بارداری ۱۵۰ میکروگرم، هنگام بارداری ۲۲۰ میکروگرم و هنگام شیردهی ۲۹۰ میکروگرم است. این‌ها مقدار کل هستند، نه مقداری که باید با قرص اضافه کرد. توصیه‌های محلی بر اساس غنی‌سازی غذاها و دسترسی به ید فرق می‌کنند. هر میکروگرم یک‌هزارم میلی‌گرم است."
+            ]
+          },
+          {
+            "heading": "برچسب خوراکی‌ها و مکمل را کنار هم بخوانید",
+            "paragraphs": [
+              "تخم‌مرغ، لبنیات و ماهی می‌توانند ید برسانند. اگر از نمک استفاده می‌کنید، به‌جای افزایش مقدار مصرف، دنبال کلمه «یددار» بگردید. نمک دریا یا نمک‌های خاص لزوماً یددار نیستند. اگر ماهی یا لبنیات نمی‌خورید، برچسب نوشیدنی گیاهی‌تان را از نظر ید افزوده بررسی کنید؛ محصولات به یک اندازه غنی نشده‌اند. به پزشک یا متخصص تغذیه بگویید در یک روز معمولی چه می‌خورید.",
+              "راهنماهای تیروئید و کودکان در آمریکا برای دوران بارداری و شیردهی ویتامین بارداری یا مولتی‌ویتامینی را توصیه می‌کنند که روزانه ۱۵۰ میکروگرم ید برساند. راهنمای تیروئید شکل یدید پتاسیم و شروع از پیش از بارداری را توصیه می‌کند. بعضی محصولات بارداری اصلاً ید ندارند. اگر مکمل شما ید دارد، پیش از افزودن محصول دیگر، برچسب را به داروساز نشان دهید. اگر بیماری تیروئید دارید، داروی تیروئید می‌خورید یا به شما گفته‌اند ید را محدود کنید، پیش از تغییر دریافتتان مشورت فردی بگیرید."
+            ]
+          },
+          {
+            "heading": "پژوهش چه چیزی را نشان می‌دهد؟",
+            "paragraphs": [
+              "پژوهشگران نمونه‌های ادرار سه‌ماهه اول ۱٬۰۴۰ بارداری در بریتانیا را بررسی کردند و وضعیت ید مادر را با بهره هوشی کلامی کودکان در هشت‌سالگی و مهارت خواندن در نه‌سالگی مقایسه کردند. سطح پایین‌تر ید مادر با احتمال بیشتر نمره‌های پایین‌تر در بعضی سنجه‌ها همراه بود. پژوهش مشاهده‌ای بود و اثر مکمل را آزمایش نکرد. یک نمونه ادرار به‌تنهایی آینده رشد یک کودک را نشان نمی‌دهد.",
+              "زیاده‌روی در دریافت ید هم می‌تواند بر عملکرد تیروئید اثر بگذارد. مکمل‌های کلپ و دیگر جلبک‌های دریایی ممکن است مقدارهای بسیار متفاوتی ید داشته باشند. از خوددرمانی با قطره ید پُردوز یا مصرف هم‌زمان چند مکمل خودداری کنید. اگر مقدار زیادی مصرف کرده‌اید، سریع با مرکز مسمومیت‌ها یا پزشک تماس بگیرید و برچسب محصول را در دسترس بگذارید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "برای مقایسه با مقدار توصیه‌شده روزانه، ید غذا و مکمل را با هم حساب کنید.",
+          "بررسی کنید آیا ویتامین بارداری ید دارد و چند میکروگرم می‌رساند.",
+          "اگر چند منبع ید را نمی‌خورید یا بیماری تیروئید دارید، برنامه‌ای متناسب با شرایط خود بخواهید."
+        ],
+        "faq": [
+          {
+            "q": "روزانه چقدر ید نیاز دارم؟",
+            "a": "توصیه روزانه آمریکا برای بزرگسالان پیش از بارداری ۱۵۰ میکروگرم، در بارداری ۲۲۰ و در شیردهی ۲۹۰ میکروگرم است. این مقدار مجموع ید غذا و مکمل است."
+          },
+          {
+            "q": "آیا در بارداری قرص ید لازم دارم؟",
+            "a": "اول برچسب ویتامین بارداری را ببینید. راهنماهای آمریکا معمولاً مکمل روزانه حاوی ۱۵۰ میکروگرم ید، اغلب به شکل یدید پتاسیم، را توصیه می‌کنند. شاید همین حالا این مقدار را بگیرید. پیش از افزودن قرص جداگانه درباره غذا، راهنمای محلی و سابقه تیروئید خود مشورت کنید."
+          },
+          {
+            "q": "دریافت کم ید در شیردهی چه معنایی دارد؟",
+            "a": "شیر مادر ید لازم برای هورمون‌های تیروئید و رشد مغز نوزاد را فراهم می‌کند. اگر دریافت مادر کم باشد، ممکن است ید شیر هم کافی نباشد. به‌جای دادن خودسرانه قطره ید به نوزاد، درباره غذای خود و مکمل‌هایتان با پزشک صحبت کنید."
+          },
+          {
+            "q": "چرا کمبود در بارداری مهم است؟",
+            "a": "کمبود شدید می‌تواند به رشد مغز جنین آسیب بزند و خطر از دست رفتن بارداری را بالا ببرد. جا انداختن یک کپسول یا خوردن یک وعده کم‌ید به معنی کمبود نیست. اگر نگرانید، بخواهید دریافت معمولتان بررسی شود."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۷ نوامبر ۲۰۲۶ مرور شد",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "مقادیر روی برچسب ویتامین‌های بارداری را بر حسب میکروگرم مقایسه کنید.",
+            "اگر مناسب شماست، به‌جای نمک دیگر از نمک یددار استفاده کنید و نمک کل را بیشتر نکنید.",
+            "مصرف داروهای تیروئید، مکمل‌های جلبک یا قطره ید جداگانه را به تیم درمان اطلاع دهید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند از برچسب ویتامین بارداری و نمک یا نوشیدنی گیاهی‌ای که معمولاً مصرف می‌کنید عکس بگیرید تا پزشک منابع فعلی ید شما را ببیند.",
+          "safety": "خودسرانه به شیرخوار قطره ید ندهید و برای کمبود احتمالی از ید پُردوز یا جلبک استفاده نکنید. اگر بیماری تیروئید دارید یا داروی آن را مصرف می‌کنید، پیش از افزودن ید مشورت کنید. پس از مصرف اتفاقی مقدار زیاد، سریع راهنمایی بگیرید.",
+          "sources": [
+            {
+              "organization": "مؤسسه‌های ملی سلامت آمریکا، دفتر مکمل‌های غذایی",
+              "title": "ید در غذاها و مکمل‌ها",
+              "url": "https://ods.od.nih.gov/factsheets/Iodine-Consumer/"
+            },
+            {
+              "organization": "مرکز کنترل و پیشگیری از بیماری‌های آمریکا",
+              "title": "نیاز به ید در بارداری و شیردهی",
+              "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/iodine.html"
+            },
+            {
+              "organization": "مؤسسه‌های ملی سلامت آمریکا، دفتر مکمل‌های غذایی",
+              "title": "راهنمای ید و مکمل‌های دوران بارداری",
+              "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/"
+            },
+            {
+              "organization": "بَث و همکاران، لنست",
+              "title": "وضعیت ید سه‌ماهه اول و توانایی شناختی بعدی کودکان در یک گروه بریتانیایی",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23706508/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "الحصول على ما يكفي من اليود في الحمل والرضاعة",
+        "description": "تعرّفي إلى ما يوفره الطعام وفيتامين الحمل من اليود، ولماذا تتغير حاجتك إليه خلال الرضاعة، ومتى تطلبين المشورة قبل إضافة مكمل آخر.",
+        "intro": "عندما تقرئين ملصق فيتامين الحمل تجدين اليود بجوار الفولات. هل ينبغي لهذه الكمية أن تغطي اليوم كله؟ ابدئي بوحدة القياس على الملصق وما تأكلينه عادة. فالمقدار اليومي الموصى به يشمل الطعام والمكملات معًا.",
+        "sections": [
+          {
+            "heading": "ما الذي يتغير أثناء الحمل أو الرضاعة؟",
+            "paragraphs": [
+              "تستخدم الغدة الدرقية اليود لإنتاج هرمونات تدعم نمو الدماغ والجهاز العصبي. في الحمل تمدّين الجنين النامي باليود. وبعد الولادة يحصل الرضيع الذي يرضع طبيعيًا على اليود من حليب الأم، وتعتمد كميته في الحليب جزئيًا على مدخولك. قد يضر النقص الشديد أثناء الحمل بالنمو ضررًا بالغًا ويزيد خطر فقدان الحمل.",
+              "في الولايات المتحدة، يبلغ إجمالي المدخول اليومي الموصى به للبالغات ١٥٠ ميكروغرامًا قبل الحمل، و٢٢٠ ميكروغرامًا أثناء الحمل، و٢٩٠ ميكروغرامًا خلال الرضاعة. هذه كميات إجمالية وليست مقدارًا يُضاف على شكل أقراص. قد تختلف التوصيات المحلية باختلاف تدعيم الأطعمة وتوافر اليود. الميكروغرام يساوي واحدًا من ألف من المليغرام."
+            ]
+          },
+          {
+            "heading": "اقرئي ملصقات الطعام والمكمل معًا",
+            "paragraphs": [
+              "يمكن أن يمدك البيض ومشتقات الحليب والسمك باليود. إذا كنت تستخدمين الملح فابحثي عن عبارة «مدعّم باليود» دون زيادة كمية الملح. ملح البحر والأملاح الخاصة ليست بالضرورة مدعمة. إذا كنت تتجنبين الحليب أو السمك فتحققي من ملصق المشروب النباتي بحثًا عن اليود المضاف، فالتدعيم يختلف. صفي للطبيب أو اختصاصي التغذية وجبات يوم معتاد.",
+              "توصي الإرشادات الأمريكية للغدة الدرقية وطب الأطفال بفيتامين للحمل أو فيتامينات متعددة توفر ١٥٠ ميكروغرامًا من اليود يوميًا أثناء الحمل والرضاعة. وتوصي إرشادات الغدة الدرقية بيوديد البوتاسيوم والبدء قبل حدوث الحمل. بعض فيتامينات الحمل لا تحتوي على أي يود. إذا كان مكملك يحتوي عليه فأري الملصق للصيدلي قبل إضافة منتج آخر. وإذا كان لديك مرض درقي أو تتناولين دواءً للغدة أو نُصحتِ بتقييد اليود، فاطلبي نصيحة خاصة بحالتك قبل تغيير مدخولك."
+            ]
+          },
+          {
+            "heading": "ماذا تخبرنا الأبحاث؟",
+            "paragraphs": [
+              "فحص باحثون عينات بول محفوظة من الثلث الأول لـ ١٠٤٠ حملًا في بريطانيا. وقارنوا حالة اليود لدى الأمهات بدرجات الذكاء اللفظي للأطفال في سن الثامنة والقراءة في التاسعة. ارتبط انخفاض حالة اليود لدى الأم بزيادة احتمال الدرجات المنخفضة في بعض المقاييس. كانت هذه دراسة رصدية ولم تختبر إعطاء مكمل. لا تتنبأ عينة بول واحدة بمسار نمو طفل بعينه.",
+              "زيادة اليود قد تؤثر أيضًا في عمل الغدة الدرقية. وقد تختلف كميته كثيرًا في مكملات عشب البحر وغيره من الطحالب البحرية. تجنبي معالجة نفسك بقطرات يود عالية الجرعة أو الجمع بين مكملات عدة. إذا تناولت بالفعل كمية كبيرة فاطلبي المشورة سريعًا من مركز السموم أو من مختص صحي ومعك ملصق المنتج."
+            ]
+          }
+        ],
+        "takeaways": [
+          "اجمعي يود الطعام والمكملات عند مقارنة مدخولك بالتوصية اليومية.",
+          "تحققي هل يحتوي فيتامين الحمل على اليود وكم ميكروغرامًا يقدم.",
+          "اطلبي خطة فردية إذا كنت تتجنبين عدة مصادر لليود أو تعانين مرضًا في الغدة الدرقية."
+        ],
+        "faq": [
+          {
+            "q": "كم أحتاج من اليود يوميًا؟",
+            "a": "توصي الولايات المتحدة للبالغات بـ ١٥٠ ميكروغرامًا يوميًا قبل الحمل، و٢٢٠ أثناءه، و٢٩٠ عند الرضاعة. وتشمل هذه الأرقام يود الطعام والمكملات مجتمعة."
+          },
+          {
+            "q": "هل أحتاج إلى قرص يود أثناء الحمل؟",
+            "a": "تفقدي ملصق فيتامين الحمل أولًا. توصي الإرشادات الأمريكية عادة بمكمل يحتوي على ١٥٠ ميكروغرامًا يوميًا، غالبًا في صورة يوديد البوتاسيوم. ربما تحصلين على هذه الكمية بالفعل. ناقشي طعامك والتوصيات المحلية وتاريخ الغدة الدرقية قبل إضافة قرص منفصل."
+          },
+          {
+            "q": "ماذا يعني انخفاض مدخول اليود أثناء الرضاعة؟",
+            "a": "يمد الحليب الرضيع باليود اللازم لهرمونات الغدة الدرقية ونمو الدماغ. عندما يقل مدخول الأم قد ينخفض ما يوفره الحليب. ناقشي طعامك ومكملاتك مع الطبيب بدل إعطاء الرضيع قطرات اليود من تلقاء نفسك."
+          },
+          {
+            "q": "لماذا يهم نقص اليود خلال الحمل؟",
+            "a": "قد يضر النقص الشديد بنمو دماغ الجنين ويزيد خطر فقدان الحمل. نسيان كبسولة أو تناول وجبة قليلة اليود لا يشخّص النقص. إذا كنت قلقة فاطلبي مراجعة مدخولك المعتاد."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٧ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "استخدمي الميكروغرام عند مقارنة الكميات على ملصقات فيتامينات الحمل.",
+            "استبدلي الملح العادي بملح مدعّم باليود إذا ناسبك، دون زيادة كمية الملح الإجمالية.",
+            "أخبري الفريق عن أدوية الغدة الدرقية أو مكملات الطحالب أو قطرات اليود المنفصلة."
+          ],
+          "bemama": "تقترح بي ماما إحضار صور لملصقات فيتامين الحمل والملح أو المشروب النباتي المعتاد حتى يعرف المختص مصادر اليود الموجودة لديك.",
+          "safety": "لا تعطي الرضيع قطرات اليود ولا تستخدمي جرعات عالية أو مكملات الطحالب لعلاج نقص مشتبه به بنفسك. اسألي الطبيب قبل إضافة اليود إذا كان لديك مرض درقي أو تتناولين دواء للغدة. اطلبي نصيحة سريعة بعد جرعة كبيرة غير مقصودة.",
+          "sources": [
+            {
+              "organization": "المعاهد الوطنية الأمريكية للصحة، مكتب المكملات الغذائية",
+              "title": "اليود في الأطعمة والمكملات",
+              "url": "https://ods.od.nih.gov/factsheets/Iodine-Consumer/"
+            },
+            {
+              "organization": "المراكز الأمريكية لمكافحة الأمراض والوقاية منها",
+              "title": "الحاجة إلى اليود أثناء الحمل والرضاعة",
+              "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/iodine.html"
+            },
+            {
+              "organization": "المعاهد الوطنية الأمريكية للصحة، مكتب المكملات الغذائية",
+              "title": "إرشادات اليود والمكملات السابقة للولادة في الحمل",
+              "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/"
+            },
+            {
+              "organization": "باث وزملاؤه، ذا لانسيت",
+              "title": "حالة اليود في الثلث الأول والإدراك اللاحق للأطفال في مجموعة بريطانية",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23706508/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Couvrir ses besoins en iode pendant la grossesse et l’allaitement",
+        "description": "Voyez comment les aliments et les vitamines prénatales apportent de l’iode, pourquoi les besoins changent pendant l’allaitement et quand demander conseil.",
+        "intro": "Au dos de votre boîte de vitamines prénatales, l’iode figure à côté des folates. Cette quantité doit-elle couvrir toute la journée ? Regardez d’abord les unités sur l’étiquette et ce que vous mangez habituellement. L’apport total recommandé comprend les aliments et les compléments.",
+        "sections": [
+          {
+            "heading": "Qu’est-ce qui change pendant la grossesse ou l’allaitement ?",
+            "paragraphs": [
+              "La thyroïde utilise l’iode pour fabriquer les hormones qui contribuent au développement du cerveau et du système nerveux. Pendant la grossesse, vous fournissez l’iode au bébé en développement. Après la naissance, le bébé allaité reçoit celui du lait maternel, dont la teneur dépend en partie de vos apports. Une carence sévère pendant la grossesse peut gravement perturber le développement et augmenter le risque de perte de grossesse.",
+              "Aux États-Unis, les apports totaux quotidiens recommandés chez l’adulte sont de 150 microgrammes (µg) avant la grossesse, 220 µg pendant la grossesse et 290 µg pendant l’allaitement. Ces totaux ne correspondent pas à une quantité à ajouter en comprimés. Les recommandations locales varient avec l’enrichissement des aliments et la disponibilité de l’iode. Un microgramme équivaut à un millième de milligramme."
+            ]
+          },
+          {
+            "heading": "Lisez les étiquettes des aliments et des compléments",
+            "paragraphs": [
+              "Les œufs, les produits laitiers et le poisson peuvent apporter de l’iode. Si vous utilisez du sel, cherchez la mention « iodé » sans en ajouter davantage. Les sels de mer et autres sels spéciaux ne sont pas forcément iodés. Si vous évitez les produits laitiers ou le poisson, vérifiez si votre boisson végétale contient de l’iode ajouté, car l’enrichissement varie. Décrivez une journée de repas habituelle à votre médecin ou diététicien.",
+              "Aux États-Unis, les recommandations en thyroïdologie et en pédiatrie préconisent un complément prénatal ou multivitaminé apportant 150 µg d’iode par jour pendant la grossesse et l’allaitement. Les recommandations thyroïdiennes conseillent l’iodure de potassium et un début avant la conception. Certains compléments prénatals ne contiennent aucun iode. Si le vôtre en contient, montrez son étiquette au pharmacien avant d’en ajouter un autre. Demandez un avis personnalisé avant de modifier vos apports en cas de maladie ou de traitement de la thyroïde, ou de consigne visant à limiter l’iode."
+            ]
+          },
+          {
+            "heading": "Ce que nous apprennent les recherches",
+            "paragraphs": [
+              "Des chercheurs ont analysé des échantillons d’urine du premier trimestre de 1 040 grossesses au Royaume-Uni. Ils ont comparé le statut maternel en iode au QI verbal des enfants à huit ans et à leurs capacités de lecture à neuf ans. Un statut maternel plus bas était associé à une probabilité plus élevée de scores faibles à certaines épreuves. Cette étude d’observation n’était pas un essai de compléments. Un prélèvement urinaire isolé ne permet pas de prédire le développement d’un enfant.",
+              "Un excès d’iode peut lui aussi perturber le fonctionnement de la thyroïde. Les compléments à base de varech ou d’autres algues peuvent contenir des quantités très variables. Évitez les gouttes fortement dosées en automédication et l’association de plusieurs compléments. Après la prise d’une grande quantité, demandez rapidement conseil à un centre antipoison ou à un professionnel avec l’étiquette à portée de main."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Additionnez l’iode des aliments et des compléments pour comparer vos apports à la recommandation quotidienne.",
+          "Vérifiez si vos vitamines prénatales contiennent de l’iode et combien de microgrammes elles apportent.",
+          "Demandez un avis personnalisé si vous évitez plusieurs sources d’iode ou avez un problème de thyroïde."
+        ],
+        "faq": [
+          {
+            "q": "De combien d’iode ai-je besoin chaque jour ?",
+            "a": "Aux États-Unis, les apports recommandés chez l’adulte sont de 150 µg par jour avant la grossesse, 220 µg pendant la grossesse et 290 µg pendant l’allaitement. Ces chiffres incluent aliments et compléments."
+          },
+          {
+            "q": "Faut-il un comprimé d’iode pendant la grossesse ?",
+            "a": "Vérifiez d’abord l’étiquette de votre complément prénatal. Les recommandations américaines préconisent souvent 150 µg par jour en complément, généralement sous forme d’iodure de potassium. Votre produit apporte peut-être déjà cette quantité. Parlez de votre alimentation, des consignes locales et de votre thyroïde avant d’ajouter un comprimé."
+          },
+          {
+            "q": "Que signifie un apport faible pendant l’allaitement ?",
+            "a": "Le lait fournit l’iode nécessaire aux hormones thyroïdiennes et au développement cérébral du bébé. Si l’apport maternel est faible, le lait peut en apporter trop peu. Parlez de votre alimentation et de vos compléments à un professionnel. Ne donnez pas vous-même de gouttes d’iode au bébé."
+          },
+          {
+            "q": "Pourquoi une carence pendant la grossesse est-elle préoccupante ?",
+            "a": "Une carence sévère peut nuire au développement cérébral du fœtus et augmenter le risque de perte de grossesse. Une gélule oubliée ou un repas pauvre en iode ne suffit pas pour diagnostiquer une carence. En cas de doute, demandez un bilan de vos apports habituels."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 17 novembre 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Comparez les teneurs des produits prénatals en microgrammes.",
+            "Si cela convient, remplacez votre sel par du sel iodé sans augmenter la quantité totale.",
+            "Signalez à l’équipe les médicaments thyroïdiens, les produits à base d’algues et les gouttes d’iode."
+          ],
+          "bemama": "BeMama suggère de photographier les étiquettes de votre complément prénatal, du sel ou de la boisson végétale que vous utilisez pour en discuter en consultation.",
+          "safety": "Ne donnez pas de gouttes d’iode au nourrisson et ne traitez pas vous-même une carence supposée par de fortes doses ou du varech. Demandez conseil avant d’ajouter de l’iode en cas de maladie ou de traitement de la thyroïde. Après une forte dose accidentelle, demandez rapidement un avis.",
+          "sources": [
+            {
+              "organization": "Instituts nationaux américains de la santé, Bureau des compléments alimentaires",
+              "title": "Iode dans les aliments et les compléments",
+              "url": "https://ods.od.nih.gov/factsheets/Iodine-Consumer/"
+            },
+            {
+              "organization": "Centres américains de contrôle et de prévention des maladies",
+              "title": "Besoins en iode pendant la grossesse et l’allaitement",
+              "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/iodine.html"
+            },
+            {
+              "organization": "Instituts nationaux américains de la santé, Bureau des compléments alimentaires",
+              "title": "Recommandations sur l’iode et les compléments prénatals pendant la grossesse",
+              "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/"
+            },
+            {
+              "organization": "Bath et ses collègues, The Lancet",
+              "title": "Statut iodé au premier trimestre et cognition ultérieure dans une cohorte britannique",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23706508/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Gebelikte ve emzirirken yeterli iyot almak",
+        "description": "Yiyecek ve gebelik vitaminlerinin iyot alımına katkısını, emzirirken ihtiyacın neden değiştiğini ve takviye eklemeden önce ne zaman danışacağınızı öğrenin.",
+        "intro": "Gebelik vitamininin kutusunu çevirince folatın yanında iyot yazdığını görüyorsunuz. Bu miktar bütün günün ihtiyacını karşılamalı mı? Önce etiketteki birime ve genellikle yediklerinize bakın. Önerilen toplam, hem yiyecekleri hem takviyeleri kapsar.",
+        "sections": [
+          {
+            "heading": "Gebelikte ve emzirirken ne değişir?",
+            "paragraphs": [
+              "Tiroid, beynin ve sinir sisteminin gelişimini destekleyen hormonları üretmek için iyot kullanır. Gebelikte gelişen bebeğe iyodu siz sağlarsınız. Doğumdan sonra emzirilen bebek iyodu anne sütünden alır. Sütteki miktar kısmen sizin aldığınız iyoda bağlıdır. Gebelikte ağır iyot eksikliği gelişimi ciddi şekilde etkileyebilir ve gebelik kaybı riskini artırabilir.",
+              "ABD’de yetişkinler için önerilen günlük toplam gebelikten önce 150 mikrogram (µg), gebelikte 220 µg ve emzirirken 290 µg’dır. Bunlar hap olarak eklenecek miktarlar değil, toplam alımdır. Yiyeceklere iyot eklenmesine ve bölgede bulunabilirliğine göre yerel öneriler değişebilir. Bir mikrogram, bir miligramın binde biridir."
+            ]
+          },
+          {
+            "heading": "Yiyecek ve takviye etiketlerini birlikte okuyun",
+            "paragraphs": [
+              "Yumurta, süt ürünleri ve balık iyot sağlayabilir. Tuz kullanıyorsanız miktarını artırmadan etikette “iyotlu” ifadesini arayın. Deniz tuzu ve özel tuzlar mutlaka iyotlu değildir. Süt ürünleri veya balık yemiyorsanız bitkisel içeceğinizin etiketinde iyot ilavesi olup olmadığına bakın; ürünler farklıdır. Hekime veya diyetisyene sıradan bir günde neler yediğinizi anlatın.",
+              "ABD tiroid ve çocuk sağlığı rehberleri gebelik ve emzirme dönemlerinde günde 150 µg iyot sağlayan gebelik vitamini veya multivitamin önerir. Tiroid rehberi bunun potasyum iyodür biçiminde olmasını ve gebelikten önce başlanmasını önerir. Bazı gebelik vitaminleri hiç iyot içermez. Sizinkinde varsa başka takviye eklemeden önce etiketi eczacınıza gösterin. Tiroid hastalığınız varsa, tiroid ilacı kullanıyorsanız veya iyodu kısıtlamanız önerildiyse alımınızı değiştirmeden önce kişisel görüş alın."
+            ]
+          },
+          {
+            "heading": "Araştırmalar ne söylüyor?",
+            "paragraphs": [
+              "Araştırmacılar Birleşik Krallık’ta 1.040 gebeliğin ilk üç ayında alınmış idrar örneklerini inceledi. Annelerin iyot durumuyla çocukların sekiz yaşındaki sözel zekâ ve dokuz yaşındaki okuma puanlarını karşılaştırdılar. Annede daha düşük iyot düzeyi, bazı ölçümlerde düşük puan olasılığının artmasıyla ilişkiliydi. Bu bir gözlem çalışmasıydı; takviyelerin denendiği bir çalışma değildi. Tek bir idrar örneği bir çocuğun gelişimini öngöremez.",
+              "Fazla iyot da tiroid işlevini etkileyebilir. Kelp ve diğer deniz yosunu takviyelerinin iyot içeriği çok değişken olabilir. Yüksek doz iyot damlalarıyla kendinizi tedavi etmekten veya birden fazla takviyeyi birlikte almaktan kaçının. Büyük miktarda aldıysanız ürün etiketi elinizdeyken zehir danışma merkezinden veya bir sağlık uzmanından gecikmeden görüş alın."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Günlük öneriyle karşılaştırırken gıdalardan ve takviyelerden aldığınız iyodu toplayın.",
+          "Gebelik vitamininde iyot bulunup bulunmadığını ve kaç mikrogram sağladığını kontrol edin.",
+          "Birden çok iyot kaynağından kaçınıyorsanız veya tiroid hastalığınız varsa kişisel plan isteyin."
+        ],
+        "faq": [
+          {
+            "q": "Günde ne kadar iyoda ihtiyacım var?",
+            "a": "ABD’de yetişkinler için günlük öneri gebelikten önce 150 µg, gebelikte 220 µg ve emzirirken 290 µg’dır. Bu miktarlar besinler ve takviyelerden gelen iyodun toplamıdır."
+          },
+          {
+            "q": "Gebelikte iyot tableti kullanmalı mıyım?",
+            "a": "Önce gebelik vitamininin etiketine bakın. ABD rehberleri genellikle günde 150 µg iyot sağlayan, çoğunlukla potasyum iyodür içeren bir takviye önerir. Bu miktarı zaten alıyor olabilirsiniz. Ayrı tablet eklemeden önce beslenmenizi, yerel önerileri ve tiroid geçmişinizi görüşün."
+          },
+          {
+            "q": "Emzirirken iyot alımının düşük olması ne anlama gelir?",
+            "a": "Anne sütü, bebeğin tiroid hormonları ve beyin gelişimi için iyot sağlar. Anne az iyot alıyorsa süt yeterli iyot sağlamayabilir. Bebeğe kendiniz iyot damlası vermek yerine beslenmenizi ve takviyelerinizi bir sağlık uzmanıyla konuşun."
+          },
+          {
+            "q": "Gebelikte eksiklik neden önemlidir?",
+            "a": "Ağır eksiklik fetüsün beyin gelişimine zarar verebilir ve gebelik kaybı riskini artırabilir. Tek kapsülü unutmak veya bir öğünde az iyot almak eksiklik tanısı koydurmaz. Kaygınız varsa olağan alımınızın değerlendirilmesini isteyin."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 17 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Gebelik vitamini etiketlerindeki miktarları mikrogram cinsinden karşılaştırın.",
+            "Uygunsa toplam tuzu artırmadan diğer tuzların yerine iyotlu tuz kullanın.",
+            "Tiroid ilacı, deniz yosunu ürünü veya ayrı iyot damlası kullanıyorsanız sağlık ekibine bildirin."
+          ],
+          "bemama": "BeMama, sağlık uzmanının mevcut kaynakları görebilmesi için gebelik vitamininizin ve düzenli kullandığınız tuzun veya bitkisel içeceğin etiket fotoğraflarını götürmenizi önerir.",
+          "safety": "Bebeğe kendiniz iyot damlası vermeyin. Eksiklikten şüpheleniyorsanız yüksek doz iyot veya yosunla kendinizi tedavi etmeyin. Tiroid hastalığınız varsa veya tiroid ilacı kullanıyorsanız iyot eklemeden önce danışın. Kazara yüksek doz aldıysanız gecikmeden yardım isteyin.",
+          "sources": [
+            {
+              "organization": "ABD Ulusal Sağlık Enstitüleri, Besin Takviyeleri Ofisi",
+              "title": "Yiyeceklerde ve takviyelerde iyot",
+              "url": "https://ods.od.nih.gov/factsheets/Iodine-Consumer/"
+            },
+            {
+              "organization": "ABD Hastalık Kontrol ve Önleme Merkezleri",
+              "title": "Gebelik ve emzirmede iyot gereksinimi",
+              "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/iodine.html"
+            },
+            {
+              "organization": "ABD Ulusal Sağlık Enstitüleri, Besin Takviyeleri Ofisi",
+              "title": "Gebelikte iyot ve gebelik takviyeleri için rehber",
+              "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/"
+            },
+            {
+              "organization": "Bath ve çalışma arkadaşları, The Lancet",
+              "title": "Birleşik Krallık kohortunda ilk üç ayın iyot durumu ve çocukların ileriki bilişsel becerileri",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23706508/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Cómo obtener suficiente yodo en el embarazo y la lactancia",
+        "description": "Comprueba cuánto yodo aportan tus alimentos y tu vitamina prenatal, por qué cambian las necesidades al dar el pecho y cuándo consultar antes de tomar más.",
+        "intro": "Al dar la vuelta al envase de tu vitamina prenatal, ves el yodo junto al folato. ¿Esa cantidad debe cubrir todo el día? Empieza mirando las unidades de la etiqueta y lo que sueles comer. La recomendación total incluye alimentos y suplementos.",
+        "sections": [
+          {
+            "heading": "¿Qué cambia durante el embarazo y la lactancia?",
+            "paragraphs": [
+              "La tiroides usa yodo para producir hormonas que intervienen en el desarrollo del cerebro y del sistema nervioso. En el embarazo proporcionas yodo al bebé en desarrollo. Después del parto, el bebé que toma el pecho recibe yodo de la leche materna, cuya concentración depende en parte de tu ingesta. Una deficiencia grave durante el embarazo puede perjudicar seriamente el desarrollo y aumentar el riesgo de pérdida gestacional.",
+              "En Estados Unidos, la ingesta total diaria recomendada para personas adultas es de 150 microgramos (µg) antes del embarazo, 220 µg durante el embarazo y 290 µg en la lactancia. Son cantidades totales, no lo que debes añadir en pastillas. Las recomendaciones locales pueden variar según el enriquecimiento de los alimentos y la disponibilidad de yodo. Un microgramo es la milésima parte de un miligramo."
+            ]
+          },
+          {
+            "heading": "Lee juntas las etiquetas de alimentos y suplementos",
+            "paragraphs": [
+              "Los huevos, los lácteos y el pescado pueden aportar yodo. Si usas sal, busca la palabra «yodada» en vez de añadir más cantidad. Ni la sal marina ni las sales especiales son necesariamente yodadas. Si evitas los lácteos o el pescado, comprueba si tu bebida vegetal lleva yodo añadido, pues el enriquecimiento varía. Explica a tu médico o dietista qué sueles comer en un día.",
+              "Las guías estadounidenses de tiroides y pediatría recomiendan un prenatal o multivitamínico con 150 µg de yodo diarios durante el embarazo y la lactancia. La guía tiroidea recomienda yoduro de potasio y empezar antes de la concepción. Algunos preparados prenatales no contienen yodo. Si el tuyo lo lleva, enseña la etiqueta en la farmacia antes de añadir otro suplemento. Si tienes una enfermedad tiroidea, tomas medicación para la tiroides o te han indicado restringir el yodo, pide orientación individual antes de cambiar la ingesta."
+            ]
+          },
+          {
+            "heading": "Qué nos dice la investigación",
+            "paragraphs": [
+              "Un equipo analizó muestras de orina del primer trimestre de 1.040 embarazos en el Reino Unido. Comparó el estado de yodo de la madre con el cociente intelectual verbal de los hijos a los ocho años y su lectura a los nueve. Un nivel materno más bajo se asoció con mayor probabilidad de puntuaciones más bajas en algunas medidas. Era un estudio observacional y no un ensayo de suplementos. Una sola muestra de orina no predice el desarrollo de un niño.",
+              "El exceso de yodo también puede alterar la función tiroidea. Los suplementos de algas, como el kelp, pueden contener cantidades muy variables. Evita tratarte por tu cuenta con gotas de yodo en dosis altas o combinar varios suplementos. Si ya has tomado una cantidad grande, pide consejo sin demora a un centro de toxicología o a un profesional sanitario con la etiqueta a mano."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Suma el yodo de alimentos y suplementos al compararlo con la recomendación diaria.",
+          "Comprueba si tu vitamina prenatal contiene yodo y cuántos microgramos aporta.",
+          "Pide un plan individual si evitas varias fuentes de yodo o tienes una enfermedad tiroidea."
+        ],
+        "faq": [
+          {
+            "q": "¿Cuánto yodo necesito al día?",
+            "a": "En Estados Unidos se recomiendan para adultos 150 µg diarios antes del embarazo, 220 µg durante el embarazo y 290 µg al dar el pecho. Las cifras incluyen los alimentos y los suplementos juntos."
+          },
+          {
+            "q": "¿Necesito una pastilla de yodo durante el embarazo?",
+            "a": "Mira primero la etiqueta del prenatal. Las guías estadounidenses suelen recomendar un suplemento con 150 µg diarios, generalmente como yoduro de potasio. Tal vez ya lo tomes. Consulta sobre tu alimentación, las pautas locales y tus antecedentes tiroideos antes de añadir otra pastilla."
+          },
+          {
+            "q": "¿Qué ocurre si tomo poco yodo mientras doy el pecho?",
+            "a": "La leche materna aporta yodo para las hormonas tiroideas y el desarrollo cerebral del bebé. Si la ingesta materna es baja, la leche puede aportar demasiado poco. Comenta tu dieta y tus suplementos con el profesional en lugar de darle gotas de yodo al bebé por tu cuenta."
+          },
+          {
+            "q": "¿Por qué importa la deficiencia en el embarazo?",
+            "a": "Una deficiencia grave puede afectar al desarrollo cerebral fetal y aumentar el riesgo de pérdida gestacional. Olvidar una cápsula o tomar una comida con poco yodo no diagnostica una deficiencia. Si te preocupa, pide que revisen tu alimentación habitual."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 17 de noviembre de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Usa microgramos al comparar las cantidades de las etiquetas prenatales.",
+            "Si procede, sustituye otra sal por sal yodada sin aumentar la cantidad total.",
+            "Informa al equipo sobre medicación tiroidea, productos de algas o gotas de yodo por separado."
+          ],
+          "bemama": "BeMama sugiere llevar fotos de la etiqueta del prenatal, de la sal o de la bebida vegetal que sueles usar para que el profesional vea tus fuentes habituales.",
+          "safety": "No des gotas de yodo al lactante ni te trates con dosis altas o algas por sospechar una deficiencia. Consulta antes de añadir yodo si tienes una enfermedad tiroidea o tomas medicación para la tiroides. Pide consejo rápido tras una dosis accidental grande.",
+          "sources": [
+            {
+              "organization": "Institutos Nacionales de Salud de Estados Unidos, Oficina de Suplementos Dietéticos",
+              "title": "Yodo en alimentos y suplementos",
+              "url": "https://ods.od.nih.gov/factsheets/Iodine-Consumer/"
+            },
+            {
+              "organization": "Centros para el Control y la Prevención de Enfermedades de Estados Unidos",
+              "title": "Necesidades de yodo en el embarazo y la lactancia",
+              "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/iodine.html"
+            },
+            {
+              "organization": "Institutos Nacionales de Salud de Estados Unidos, Oficina de Suplementos Dietéticos",
+              "title": "Guía de embarazo sobre yodo y suplementos prenatales",
+              "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/"
+            },
+            {
+              "organization": "Bath y colaboradores, The Lancet",
+              "title": "Yodo en el primer trimestre y cognición infantil posterior en una cohorte británica",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23706508/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Como obter iodo suficiente na gravidez e na amamentação",
+        "description": "Veja quanto iodo vem dos alimentos e da vitamina pré-natal, por que a necessidade muda ao amamentar e quando pedir orientação antes de usar outro suplemento.",
+        "intro": "Você vira o frasco da vitamina pré-natal e encontra o iodo ao lado do folato. Essa quantidade precisa cobrir o dia inteiro? Comece verificando a unidade no rótulo e o que costuma comer. O total recomendado inclui alimentos e suplementos.",
+        "sections": [
+          {
+            "heading": "O que muda na gravidez e na amamentação?",
+            "paragraphs": [
+              "A tireoide usa iodo para produzir hormônios que participam do desenvolvimento do cérebro e do sistema nervoso. Na gravidez você fornece iodo ao bebê em desenvolvimento. Depois do parto, o bebê amamentado recebe iodo do leite materno, cuja quantidade de iodo depende em parte da sua ingestão. Uma deficiência grave na gravidez pode comprometer seriamente o desenvolvimento e aumentar o risco de perda gestacional.",
+              "Nos Estados Unidos, os totais diários recomendados para adultos são de 150 microgramas (µg) antes da gravidez, 220 µg na gestação e 290 µg ao amamentar. São totais, não quantidades a acrescentar em comprimidos. As orientações locais podem variar conforme a fortificação dos alimentos e a disponibilidade de iodo. Um micrograma é a milésima parte de um miligrama."
+            ]
+          },
+          {
+            "heading": "Leia os rótulos dos alimentos e do suplemento",
+            "paragraphs": [
+              "Ovos, laticínios e peixes podem fornecer iodo. Se usar sal, procure a palavra “iodado” no rótulo, sem aumentar a quantidade que coloca na comida. Sal marinho e sais especiais nem sempre são iodados. Se evita leite e derivados ou peixe, confira se a bebida vegetal que consome tem iodo adicionado; a fortificação varia. Descreva um dia habitual de alimentação ao profissional de saúde ou nutricionista.",
+              "Nos Estados Unidos, orientações de tireoide e pediatria recomendam um pré-natal ou multivitamínico que forneça 150 µg diários de iodo na gravidez e na amamentação. As orientações de tireoide recomendam iodeto de potássio e início antes da concepção. Alguns pré-natais não contêm iodo. Se o seu contém, mostre o rótulo ao farmacêutico antes de acrescentar outro suplemento. Se tem doença da tireoide, toma medicamento para ela ou recebeu orientação para restringir o iodo, peça orientação individual antes de mudar a ingestão."
+            ]
+          },
+          {
+            "heading": "O que a pesquisa permite concluir?",
+            "paragraphs": [
+              "Pesquisadores analisaram amostras de urina do primeiro trimestre de 1.040 gestações no Reino Unido. Compararam o estado nutricional materno de iodo com o QI verbal das crianças aos oito anos e a leitura aos nove. Níveis maternos mais baixos se associaram a maior chance de pontuações menores em algumas medidas. Foi um estudo observacional, não um teste de suplementos. Uma amostra isolada de urina não prevê o desenvolvimento de uma criança.",
+              "Iodo em excesso também pode afetar a função da tireoide. Suplementos de algas, como kelp, podem conter quantidades muito variáveis. Evite usar gotas de iodo em altas doses por conta própria ou combinar vários suplementos. Se já tomou uma grande quantidade, peça orientação prontamente a um centro de intoxicações ou profissional de saúde com o rótulo em mãos."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Some o iodo dos alimentos e dos suplementos para comparar sua ingestão com o total diário recomendado.",
+          "Confira se sua vitamina pré-natal contém iodo e quantos microgramas fornece.",
+          "Peça orientação individual se evita várias fontes de iodo ou tem doença da tireoide."
+        ],
+        "faq": [
+          {
+            "q": "De quanto iodo preciso por dia?",
+            "a": "Nos Estados Unidos recomendam-se para adultos 150 µg por dia antes da gravidez, 220 µg na gravidez e 290 µg ao amamentar. Os valores incluem juntos o iodo da alimentação e dos suplementos."
+          },
+          {
+            "q": "Preciso de comprimidos de iodo na gravidez?",
+            "a": "Confira primeiro o rótulo do pré-natal. Orientações dos Estados Unidos costumam recomendar um suplemento com 150 µg por dia, geralmente como iodeto de potássio. Você talvez já tome essa quantidade. Converse sobre sua dieta, as recomendações locais e seu histórico de tireoide antes de acrescentar outro comprimido."
+          },
+          {
+            "q": "O que acontece com uma ingestão baixa de iodo ao amamentar?",
+            "a": "O leite fornece iodo para os hormônios da tireoide e o desenvolvimento cerebral do bebê. Quando a ingestão materna é baixa, o leite pode fornecer pouco iodo. Converse com um profissional sobre sua alimentação e seus suplementos em vez de dar gotas de iodo ao bebê por conta própria."
+          },
+          {
+            "q": "Por que a deficiência importa durante a gravidez?",
+            "a": "Uma deficiência grave pode prejudicar o desenvolvimento do cérebro fetal e aumentar o risco de perda gestacional. Esquecer uma cápsula ou fazer uma refeição pobre em iodo não diagnostica deficiência. Se estiver preocupada, peça que avaliem sua ingestão habitual."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 17 de novembro de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Use microgramas ao comparar quantidades nos rótulos de pré-natais.",
+            "Se for indicado, use sal iodado no lugar de outro sal sem aumentar a quantidade total.",
+            "Avise a equipe sobre medicamentos para a tireoide, produtos de algas ou gotas separadas de iodo."
+          ],
+          "bemama": "A BeMama sugere trazer fotos dos rótulos do pré-natal, do sal ou da bebida vegetal que usa para que o profissional veja as fontes que você já tem.",
+          "safety": "Não dê gotas de iodo ao bebê nem use iodo em alta dose ou algas para tratar uma suspeita de deficiência por conta própria. Consulte o profissional antes de acrescentar iodo se tem doença da tireoide ou usa medicamentos para ela. Busque orientação rapidamente após uma grande dose acidental.",
+          "sources": [
+            {
+              "organization": "Institutos Nacionais de Saúde dos Estados Unidos, Escritório de Suplementos Alimentares",
+              "title": "Iodo em alimentos e suplementos",
+              "url": "https://ods.od.nih.gov/factsheets/Iodine-Consumer/"
+            },
+            {
+              "organization": "Centros de Controle e Prevenção de Doenças dos Estados Unidos",
+              "title": "Necessidades de iodo na gravidez e na amamentação",
+              "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/iodine.html"
+            },
+            {
+              "organization": "Institutos Nacionais de Saúde dos Estados Unidos, Escritório de Suplementos Alimentares",
+              "title": "Orientações sobre iodo e suplementos pré-natais durante a gravidez",
+              "url": "https://ods.od.nih.gov/factsheets/Pregnancy-HealthProfessional/"
+            },
+            {
+              "organization": "Bath e colaboradores, The Lancet",
+              "title": "Estado de iodo no primeiro trimestre e cognição infantil posterior em uma coorte britânica",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/23706508/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5804.webp",
+    "heroAlt": {
+      "en": "Egg, fish and yogurt sit beside a salt shaker and closed amber bottle on a kitchen counter.",
+      "es": "Huevo, pescado y yogur junto a un salero y un frasco ámbar cerrado sobre la encimera.",
+      "fr": "Œuf, poisson et yaourt près d’une salière et d’un flacon ambré fermé sur le plan de travail.",
+      "fa": "تخم‌مرغ، ماهی و ماست کنار نمکدان و بطری قهوه‌ای دربسته روی پیشخوان آشپزخانه.",
+      "ar": "بيض وسمك ولبن زبادي إلى جانب مملحة وعبوة كهرمانية مغلقة على سطح المطبخ.",
+      "pt": "Ovo, peixe e iogurte ao lado de um saleiro e de um frasco âmbar fechado na bancada.",
+      "tr": "Mutfak tezgâhında yumurta, balık ve yoğurdun yanında tuzluk ve kapağı kapalı kahverengi bir şişe."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "Getting enough iodine during pregnancy and breastfeeding",
+      "description": "Check how food and prenatal vitamins contribute to iodine intake, why breastfeeding changes your needs, and when to ask for advice before adding a supplement."
+    },
+    "fa": {
+      "title": "دریافت ید کافی در بارداری و شیردهی",
+      "description": "ببینید غذا و ویتامین بارداری چقدر به دریافت ید کمک می‌کنند، چرا نیاز به ید در شیردهی تغییر می‌کند و پیش از افزودن مکمل چه زمانی باید مشورت کنید."
+    },
+    "ar": {
+      "title": "الحصول على ما يكفي من اليود في الحمل والرضاعة",
+      "description": "تعرّفي إلى ما يوفره الطعام وفيتامين الحمل من اليود، ولماذا تتغير حاجتك إليه خلال الرضاعة، ومتى تطلبين المشورة قبل إضافة مكمل آخر."
+    },
+    "fr": {
+      "title": "Couvrir ses besoins en iode pendant la grossesse et l’allaitement",
+      "description": "Voyez comment les aliments et les vitamines prénatales apportent de l’iode, pourquoi les besoins changent pendant l’allaitement et quand demander conseil."
+    },
+    "tr": {
+      "title": "Gebelikte ve emzirirken yeterli iyot almak",
+      "description": "Yiyecek ve gebelik vitaminlerinin iyot alımına katkısını, emzirirken ihtiyacın neden değiştiğini ve takviye eklemeden önce ne zaman danışacağınızı öğrenin."
+    },
+    "es": {
+      "title": "Cómo obtener suficiente yodo en el embarazo y la lactancia",
+      "description": "Comprueba cuánto yodo aportan tus alimentos y tu vitamina prenatal, por qué cambian las necesidades al dar el pecho y cuándo consultar antes de tomar más."
+    },
+    "pt": {
+      "title": "Como obter iodo suficiente na gravidez e na amamentação",
+      "description": "Veja quanto iodo vem dos alimentos e da vitamina pré-natal, por que a necessidade muda ao amamentar e quando pedir orientação antes de usar outro suplemento."
+    }
+  }
+}

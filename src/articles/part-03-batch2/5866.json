@@ -1,0 +1,646 @@
+{
+  "sourceId": "5866",
+  "article": {
+    "slug": "persistent-bad-breath-in-teenagers",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "When bad breath keeps coming back in a teenager",
+        "description": "Help your teenager work out when breath changes, which dental habits make a difference and when sore gums or swelling need a dentist’s attention.",
+        "intro": "Your teen carries mints to school but notices the smell again before lunch. Bring it up privately. Ask when it happens, how their mouth feels and whether they want help booking a dental visit. A mint can briefly mask an odour without treating its cause.",
+        "sections": [
+          {
+            "heading": "Start with teeth, tongue and gums",
+            "paragraphs": [
+              "Plaque around teeth, a coated tongue, tooth decay, gum inflammation and dry mouth can all contribute. Some foods and strong-smelling drinks, such as coffee, temporarily change breath. Water is a useful everyday drink. Avoid cutting out milk or a whole food group to test a theory about the smell.",
+              "A cross-sectional study examined 150 children and adolescents. Detectable bad breath was associated with factors including tongue coating, tooth decay and abnormal saliva flow. The researchers assessed these together at one point. The findings do not identify the cause in any one teenager."
+            ]
+          },
+          {
+            "heading": "What to try at the bathroom sink",
+            "paragraphs": [
+              "Brush teeth and gums gently twice a day for two minutes with fluoride toothpaste. Clean between teeth daily with floss or an interdental brush, and gently clean the tongue once a day. If braces or a retainer make cleaning difficult, ask the dental team to demonstrate a method for that appliance. Avoid scraping hard enough to make the tongue bleed.",
+              "Hormonal changes around puberty can make gums react more strongly to plaque. Sore or bleeding gums still deserve a dental check. Ask about dry mouth and bring the names of medicines your teen uses. Do not stop a prescribed medicine because of breath changes."
+            ]
+          },
+          {
+            "heading": "Decide when to make an appointment",
+            "paragraphs": [
+              "Arrange a dental visit if breath stays unpleasant after a few weeks of regular cleaning, or sooner for toothache, painful or bleeding gums. If the dentist finds no oral cause, a clinician can consider other symptoms, such as persistent dry mouth or throat problems.",
+              "Severe toothache with swelling, pus or fever can mean a dental abscess and needs urgent dental care. Get emergency help for difficulty breathing, speaking or swallowing, or a large swelling in the mouth."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Ask about the timing of odour and any gum pain or bleeding.",
+          "Use fluoride toothpaste, daily interdental cleaning and gentle tongue cleaning.",
+          "Arrange dental assessment for persistent odour, toothache or swollen gums."
+        ],
+        "faq": [
+          {
+            "q": "Which drinks change breath?",
+            "a": "Coffee and other strong-smelling drinks can leave a temporary odour. Regular sugary drinks can contribute to tooth decay over time. There is no need to remove dairy just because breath has changed."
+          },
+          {
+            "q": "What can cause bad breath in teenagers?",
+            "a": "Common possibilities include plaque, a coated tongue, tooth decay, inflamed gums and dry mouth. A dentist can look for the cause if it persists."
+          },
+          {
+            "q": "Why might a teenage girl notice a change?",
+            "a": "Puberty can increase gum sensitivity to plaque, but girls and boys can have the same dental causes. Mention persistent odour or bleeding instead of assuming it is hormonal."
+          },
+          {
+            "q": "What can a teen do about it?",
+            "a": "Use a manageable daily mouth-care routine. If symptoms persist, ask a dentist to review the gums, teeth, tongue and any appliance."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Clean teeth and the spaces between them every day.",
+            "Ask the dental team about persistent odour or gum bleeding.",
+            "Seek urgent care if swelling or fever accompanies severe toothache."
+          ],
+          "bemama": "BeMama suggests asking your teen what they notice in private and letting them describe it to the dentist in their own words.",
+          "safety": "Arrange urgent dental care for a possible abscess. Breathing, speaking or swallowing difficulty or extensive mouth swelling needs emergency care.",
+          "sources": [
+            {
+              "organization": "NHS",
+              "title": "Bad breath, oral care and when to see a dentist",
+              "url": "https://www.nhs.uk/symptoms/bad-breath/"
+            },
+            {
+              "organization": "American Dental Association",
+              "title": "Hormones, puberty and gum health",
+              "url": "https://www.mouthhealthy.org/all-topics-a-z/female-hormones-and-dental-health"
+            },
+            {
+              "organization": "Guedes and colleagues, Journal of Breath Research",
+              "title": "Dental and oral factors associated with halitosis in children and adolescents",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/30620931/"
+            },
+            {
+              "organization": "NHS",
+              "title": "Dental abscess and signs needing emergency help",
+              "url": "https://www.nhs.uk/conditions/dental-abscess/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "وقتی بوی بد دهان نوجوان برمی‌گردد",
+        "description": "زمان تغییر بوی دهان نوجوان را بشناسید و ببینید چه مراقبت‌هایی به دندان و لثه کمک می‌کنند و برای درد یا ورم لثه چه زمانی باید به دندان‌پزشک مراجعه کرد.",
+        "intro": "نوجوانتان برای مدرسه آب‌نبات نعنایی می‌برد، اما پیش از ناهار دوباره متوجه بو می‌شود. در خلوت درباره‌اش حرف بزنید. بپرسید چه وقت پیش می‌آید، در دهانش چه حسی دارد و آیا می‌خواهد در گرفتن وقت دندان‌پزشکی کمکش کنید. نعنا ممکن است مدت کوتاهی بو را بپوشاند، اما علت آن را برطرف نمی‌کند.",
+        "sections": [
+          {
+            "heading": "از دندان، زبان و لثه شروع کنید",
+            "paragraphs": [
+              "پلاک دور دندان، پوشش روی زبان، پوسیدگی، التهاب لثه و خشکی دهان همگی می‌توانند نقش داشته باشند. بعضی خوراکی‌ها و نوشیدنی‌های بودار، مثل قهوه، موقتاً بوی دهان را تغییر می‌دهند. آب برای مصرف روزمره انتخاب خوبی است. برای امتحان کردن حدسی درباره علت بو، شیر یا یک گروه کامل غذایی را حذف نکنید.",
+              "در یک مطالعه مقطعی، ۱۵۰ کودک و نوجوان معاینه شدند. بوی بد قابل تشخیص با عواملی از جمله پوشش روی زبان، پوسیدگی و جریان غیرطبیعی بزاق ارتباط داشت. پژوهشگران این موارد را در یک مقطع زمانی سنجیدند. از این نتایج نمی‌توان علت بوی دهان یک نوجوان مشخص را تعیین کرد."
+            ]
+          },
+          {
+            "heading": "موقع مسواک زدن چه کارهایی کمک می‌کند؟",
+            "paragraphs": [
+              "روزی دو بار و هر بار دو دقیقه، دندان‌ها و لثه را با خمیردندان فلورایددار به‌آرامی مسواک بزنید. هر روز بین دندان‌ها را با نخ دندان یا مسواک بین‌دندانی تمیز کنید و روزی یک بار زبان را به‌آرامی تمیز کنید. اگر سیم ارتودنسی یا نگهدارنده کار را دشوار می‌کند، از دندان‌پزشک بخواهید روش مناسب همان وسیله را نشان دهد. زبان را آن‌قدر محکم نسابید که خون بیاید.",
+              "تغییرات هورمونی بلوغ ممکن است واکنش لثه به پلاک را بیشتر کند. با این حال درد یا خونریزی لثه به معاینه نیاز دارد. درباره خشکی دهان بپرسید و نام داروهای نوجوان را به مطب ببرید. به دلیل تغییر بوی دهان داروی تجویزشده را قطع نکنید."
+            ]
+          },
+          {
+            "heading": "چه زمانی وقت معاینه بگیریم؟",
+            "paragraphs": [
+              "اگر پس از چند هفته نظافت منظم هنوز بوی ناخوشایند باقی مانده، وقت دندان‌پزشکی بگیرید. برای دندان‌درد، درد لثه یا خونریزی لثه زودتر مراجعه کنید. اگر دندان‌پزشک در دهان علتی پیدا نکرد، پزشک می‌تواند نشانه‌های دیگری مانند خشکی مداوم دهان یا مشکلات گلو را بررسی کند.",
+              "دندان‌درد شدید همراه با ورم، چرک یا تب ممکن است نشانه آبسه باشد و به رسیدگی فوری دندان‌پزشکی نیاز دارد. اگر نفس کشیدن، حرف زدن یا بلعیدن دشوار است یا داخل دهان ورم وسیعی دارد، فوراً کمک اورژانسی بگیرید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "بپرسید بو چه زمانی پیدا می‌شود و آیا لثه درد یا خونریزی دارد.",
+          "از خمیردندان فلورایددار استفاده کنید، هر روز بین دندان‌ها را تمیز کنید و زبان را به‌آرامی پاک کنید.",
+          "برای بوی مداوم دهان، دندان‌درد یا ورم لثه وقت دندان‌پزشکی بگیرید."
+        ],
+        "faq": [
+          {
+            "q": "کدام نوشیدنی‌ها بوی دهان را تغییر می‌دهند؟",
+            "a": "قهوه و نوشیدنی‌های بودار دیگر ممکن است بویی گذرا باقی بگذارند. مصرف مکرر نوشیدنی‌های شیرین به‌مرور می‌تواند در پوسیدگی دندان نقش داشته باشد. فقط به دلیل تغییر بوی دهان لازم نیست لبنیات را حذف کنید."
+          },
+          {
+            "q": "علت بوی بد دهان نوجوان چه می‌تواند باشد؟",
+            "a": "پلاک، پوشش روی زبان، پوسیدگی دندان، التهاب لثه و خشکی دهان از علت‌های شایع هستند. اگر بو ادامه داشت، دندان‌پزشک می‌تواند علت را بررسی کند."
+          },
+          {
+            "q": "چرا ممکن است یک دختر نوجوان تغییر بو را حس کند؟",
+            "a": "لثه ممکن است در دوران بلوغ به پلاک حساس‌تر شود. البته دختران و پسران ممکن است مشکلات دندانی یکسانی داشته باشند. پیش از اینکه بو یا خونریزی مداوم را به هورمون‌ها نسبت دهید، آن را در معاینه مطرح کنید."
+          },
+          {
+            "q": "خود نوجوان چه کاری می‌تواند انجام دهد؟",
+            "a": "برای مراقبت روزانه از دهان برنامه‌ای انتخاب کند که بتواند ادامه دهد. اگر نشانه‌ها باقی ماند، از دندان‌پزشک بخواهد لثه، دندان‌ها، زبان و هر وسیله ارتودنسی را بررسی کند."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۶ نوامبر ۲۰۲۶ بررسی شدند",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "هر روز دندان‌ها و فاصله میان آن‌ها را تمیز کنید.",
+            "درباره بوی مداوم یا خونریزی لثه از دندان‌پزشک سؤال کنید.",
+            "اگر دندان‌درد شدید با ورم یا تب همراه است، فوراً برای رسیدگی اقدام کنید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند در خلوت از نوجوان بپرسید چه چیزی متوجه شده و فرصت بدهید در مطب آن را با کلمات خودش بیان کند.",
+          "safety": "احتمال آبسه نیاز به رسیدگی فوری دندان‌پزشکی دارد. دشواری نفس کشیدن، حرف زدن یا بلعیدن یا ورم وسیع در دهان به کمک اورژانسی نیاز دارد.",
+          "sources": [
+            {
+              "organization": "خدمات ملی سلامت بریتانیا",
+              "title": "بوی بد دهان، مراقبت از دهان و زمان مراجعه به دندان‌پزشک",
+              "url": "https://www.nhs.uk/symptoms/bad-breath/"
+            },
+            {
+              "organization": "انجمن دندان‌پزشکی آمریکا",
+              "title": "هورمون‌ها، بلوغ و سلامت لثه",
+              "url": "https://www.mouthhealthy.org/all-topics-a-z/female-hormones-and-dental-health"
+            },
+            {
+              "organization": "گدس و همکاران، مجله پژوهش درباره بازدم",
+              "title": "عوامل دندانی و دهانی مرتبط با بوی بد دهان در کودکان و نوجوانان",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/30620931/"
+            },
+            {
+              "organization": "خدمات ملی سلامت بریتانیا",
+              "title": "آبسه دندان و نشانه‌های نیاز به کمک اورژانسی",
+              "url": "https://www.nhs.uk/conditions/dental-abscess/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "عندما تتكرر رائحة الفم الكريهة عند المراهق",
+        "description": "ساعد ابنك المراهق على معرفة متى تتغير رائحة فمه، وما خطوات العناية بالأسنان المفيدة، ومتى يستدعي ألم اللثة أو تورمها زيارة طبيب الأسنان.",
+        "intro": "يأخذ ابنك حلوى النعناع إلى المدرسة لكنه يلاحظ عودة الرائحة قبل الغداء. تحدث معه على انفراد. اسأله متى تظهر الرائحة، وبماذا يشعر في فمه، وهل يريد المساعدة في حجز موعد. قد يخفي النعناع الرائحة قليلًا من دون أن يعالج السبب.",
+        "sections": [
+          {
+            "heading": "ابدأ بالأسنان واللسان واللثة",
+            "paragraphs": [
+              "قد تسهم اللويحة المتراكمة حول الأسنان، والطبقة التي تغطي اللسان، والتسوس، والتهاب اللثة وجفاف الفم في ظهور الرائحة. وتغير بعض الأطعمة والمشروبات ذات الرائحة القوية، مثل القهوة، رائحة النفس لفترة قصيرة. الماء خيار مناسب يوميًا. تجنب استبعاد الحليب أو مجموعة غذائية كاملة لاختبار تخمين حول السبب.",
+              "فحصت دراسة مقطعية ١٥٠ طفلًا ومراهقًا. ارتبطت رائحة الفم الكريهة التي أمكن ملاحظتها بعوامل منها الطبقة على اللسان وتسوس الأسنان واضطراب تدفق اللعاب. قاس الباحثون هذه العوامل في وقت واحد. ولا تحدد النتائج السبب عند مراهق بعينه."
+            ]
+          },
+          {
+            "heading": "خطوات عملية أمام المغسلة",
+            "paragraphs": [
+              "نظف الأسنان واللثة بلطف بفرشاة ومعجون يحتوي على الفلورايد مرتين يوميًا، مدة دقيقتين كل مرة. نظف بين الأسنان يوميًا بالخيط أو بفرشاة مخصصة لذلك، ونظف اللسان برفق مرة في اليوم. إذا صعّب التقويم أو المثبّت التنظيف، فاطلب من فريق طب الأسنان أن يوضح طريقة مناسبة للجهاز. تجنب كشط اللسان بشدة تجعله ينزف.",
+              "قد تزيد تغيرات البلوغ الهرمونية استجابة اللثة للويحة. ومع ذلك، تستحق اللثة المؤلمة أو النازفة الفحص. اسأل عن جفاف الفم وأحضر أسماء الأدوية التي يتناولها المراهق. لا توقف دواءً موصوفًا بسبب تغير رائحة النفس."
+            ]
+          },
+          {
+            "heading": "متى يُحجز موعد؟",
+            "paragraphs": [
+              "احجز موعدًا إذا بقيت الرائحة مزعجة بعد بضعة أسابيع من التنظيف المنتظم، أو في وقت أقرب إذا كان هناك ألم أسنان أو ألم أو نزف في اللثة. إذا لم يجد طبيب الأسنان سببًا في الفم، يمكن للطبيب تقييم أعراض أخرى مثل جفاف الفم المستمر أو مشكلات الحلق.",
+              "قد يعني ألم الأسنان الشديد مع تورم أو قيح أو حمى وجود خُراج يحتاج إلى علاج عاجل لدى طبيب الأسنان. اطلب مساعدة طارئة عند صعوبة التنفس أو الكلام أو البلع، أو عند وجود تورم واسع داخل الفم."
+            ]
+          }
+        ],
+        "takeaways": [
+          "اسأل عن وقت ظهور الرائحة وعن ألم اللثة أو نزفها.",
+          "استخدم معجون الفلورايد ونظف بين الأسنان يوميًا، ونظف اللسان بلطف.",
+          "اطلب فحصًا عند استمرار الرائحة أو ألم الأسنان أو تورم اللثة."
+        ],
+        "faq": [
+          {
+            "q": "ما المشروبات التي تغير رائحة الفم؟",
+            "a": "قد تترك القهوة وغيرها من المشروبات قوية الرائحة أثرًا مؤقتًا. وقد يسهم تناول المشروبات السكرية باستمرار في التسوس مع مرور الوقت. لا داعي لإلغاء مشتقات الحليب بمجرد تغير الرائحة."
+          },
+          {
+            "q": "ما أسباب رائحة الفم الكريهة عند المراهقين؟",
+            "a": "من الاحتمالات الشائعة اللويحة، وطبقة على اللسان، وتسوس الأسنان، والتهاب اللثة وجفاف الفم. يمكن لطبيب الأسنان البحث عن السبب إذا استمرت الرائحة."
+          },
+          {
+            "q": "لماذا قد تلاحظ المراهقة تغيرًا؟",
+            "a": "قد يزيد البلوغ حساسية اللثة للويحة، لكن الفتيات والفتيان قد يعانون الأسباب السنية نفسها. اذكري الرائحة المستمرة أو نزف اللثة في الموعد قبل افتراض أن السبب هرموني."
+          },
+          {
+            "q": "ماذا يستطيع المراهق أن يفعل؟",
+            "a": "يمكنه اختيار روتين للعناية اليومية بالفم يستطيع الالتزام به. إذا استمرت الأعراض، فليطلب من طبيب الأسنان فحص اللثة والأسنان واللسان وأي جهاز لتقويم الأسنان."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "نظف الأسنان والفراغات بينها كل يوم.",
+            "اسأل فريق طب الأسنان عن الرائحة المستمرة أو نزف اللثة.",
+            "اطلب رعاية عاجلة إذا صاحب الألم الشديد في الأسنان تورم أو حمى."
+          ],
+          "bemama": "تقترح بي ماما أن تسأل ابنك على انفراد عما يلاحظه وأن تترك له فرصة وصفه لطبيب الأسنان بكلماته.",
+          "safety": "اشتباه الخراج يستدعي رعاية عاجلة لدى طبيب الأسنان. صعوبة التنفس أو الكلام أو البلع، أو تورم واسع داخل الفم، تستدعي رعاية طارئة.",
+          "sources": [
+            {
+              "organization": "هيئة الخدمات الصحية الوطنية البريطانية",
+              "title": "رائحة الفم الكريهة والعناية بالفم ومتى تزور طبيب الأسنان",
+              "url": "https://www.nhs.uk/symptoms/bad-breath/"
+            },
+            {
+              "organization": "الجمعية الأمريكية لطب الأسنان",
+              "title": "الهرمونات والبلوغ وصحة اللثة",
+              "url": "https://www.mouthhealthy.org/all-topics-a-z/female-hormones-and-dental-health"
+            },
+            {
+              "organization": "غيديس وزملاؤه، مجلة أبحاث النفس",
+              "title": "العوامل السنية والفموية المرتبطة برائحة الفم الكريهة عند الأطفال والمراهقين",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/30620931/"
+            },
+            {
+              "organization": "هيئة الخدمات الصحية الوطنية البريطانية",
+              "title": "خراج الأسنان والعلامات التي تتطلب مساعدة طارئة",
+              "url": "https://www.nhs.uk/conditions/dental-abscess/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Quand la mauvaise haleine revient chez un adolescent",
+        "description": "Aidez votre ado à repérer quand son haleine change, à choisir des soins dentaires adaptés et à savoir quand consulter pour des gencives douloureuses.",
+        "intro": "Votre ado emporte des pastilles à la menthe en classe, mais remarque de nouveau l’odeur avant midi. Parlez-en en tête à tête. Demandez-lui quand cela arrive, ce qu’il ressent dans la bouche et s’il souhaite de l’aide pour prendre rendez-vous. La menthe peut masquer un temps l’odeur sans en traiter la cause.",
+        "sections": [
+          {
+            "heading": "Commencer par les dents, la langue et les gencives",
+            "paragraphs": [
+              "La plaque autour des dents, un dépôt sur la langue, les caries, l’inflammation des gencives et la bouche sèche peuvent jouer un rôle. Certains aliments ou boissons à forte odeur, comme le café, modifient temporairement l’haleine. L’eau convient au quotidien. Évitez de supprimer le lait ou toute une famille d’aliments pour vérifier une hypothèse sur l’odeur.",
+              "Une étude transversale a porté sur 150 enfants et adolescents. Une mauvaise haleine perceptible était associée notamment à un dépôt sur la langue, à des caries et à un débit de salive anormal. Ces facteurs ont été mesurés au même moment. L’étude ne permet pas d’identifier la cause chez un adolescent en particulier."
+            ]
+          },
+          {
+            "heading": "Les gestes à essayer devant le lavabo",
+            "paragraphs": [
+              "Brossez doucement les dents et les gencives deux fois par jour pendant deux minutes avec un dentifrice fluoré. Nettoyez chaque jour les espaces entre les dents avec du fil dentaire ou une brossette et nettoyez la langue en douceur une fois par jour. Si un appareil d’orthodontie ou une contention gêne le nettoyage, demandez une démonstration adaptée au cabinet dentaire. Évitez de gratter la langue au point de la faire saigner.",
+              "À la puberté, les variations hormonales peuvent accentuer la réaction des gencives à la plaque. Si elles saignent ou sont douloureuses, faites-les examiner. Signalez une bouche sèche et apportez les noms des médicaments que prend votre ado. Ne suspendez pas un médicament prescrit parce que l’haleine a changé."
+            ]
+          },
+          {
+            "heading": "Quand prendre rendez-vous",
+            "paragraphs": [
+              "Consultez le dentiste si l’odeur persiste après plusieurs semaines de soins réguliers, ou plus tôt en cas de mal de dents ou de gencives douloureuses ou qui saignent. Si le dentiste ne trouve pas de cause dans la bouche, un médecin pourra rechercher d’autres symptômes, comme une sécheresse persistante ou des troubles de la gorge.",
+              "Un fort mal de dents avec un gonflement, du pus ou de la fièvre peut signaler un abcès et nécessite des soins dentaires urgents. Appelez les secours en cas de difficulté à respirer, à parler ou à avaler, ou de gonflement important dans la bouche."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Demandez à quels moments l’odeur apparaît et si les gencives font mal ou saignent.",
+          "Utilisez un dentifrice fluoré, nettoyez entre les dents chaque jour et la langue en douceur.",
+          "Prévoyez un examen dentaire en cas d’odeur persistante, de mal de dents ou de gencives gonflées."
+        ],
+        "faq": [
+          {
+            "q": "Quelles boissons modifient l’haleine ?",
+            "a": "Le café et d’autres boissons à l’odeur prononcée peuvent laisser une odeur passagère. Consommer régulièrement des boissons sucrées favorise les caries à la longue. Un changement d’haleine ne justifie pas à lui seul de supprimer les produits laitiers."
+          },
+          {
+            "q": "Quelles sont les causes possibles chez un adolescent ?",
+            "a": "La plaque, un dépôt sur la langue, des caries, des gencives enflammées et une bouche sèche sont des causes fréquentes. Si l’odeur persiste, un dentiste pourra en rechercher la cause."
+          },
+          {
+            "q": "Pourquoi une adolescente peut-elle remarquer un changement ?",
+            "a": "À la puberté, les gencives peuvent devenir plus sensibles à la plaque. Filles et garçons peuvent avoir les mêmes problèmes dentaires. Signalez une odeur ou des saignements persistants avant de les attribuer aux hormones."
+          },
+          {
+            "q": "Que peut faire mon ado ?",
+            "a": "Choisir une routine quotidienne d’hygiène buccale qu’il ou elle peut suivre. Si les symptômes persistent, demander au dentiste d’examiner les gencives, les dents, la langue et tout appareil dentaire."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Nettoyez les dents et les espaces entre elles chaque jour.",
+            "Parlez au dentiste d’une odeur persistante ou de saignements des gencives.",
+            "Consultez en urgence si un gonflement ou de la fièvre s’ajoute à un fort mal de dents."
+          ],
+          "bemama": "BeMama vous suggère de demander en privé à votre ado ce qu’il remarque, puis de le laisser l’expliquer au dentiste avec ses propres mots.",
+          "safety": "Un abcès possible nécessite des soins dentaires urgents. Appelez les secours en cas de difficulté à respirer, à parler ou à avaler, ou de gonflement étendu dans la bouche.",
+          "sources": [
+            {
+              "organization": "NHS",
+              "title": "Mauvaise haleine, hygiène buccale et indications d’un examen dentaire",
+              "url": "https://www.nhs.uk/symptoms/bad-breath/"
+            },
+            {
+              "organization": "Association dentaire américaine",
+              "title": "Hormones, puberté et santé des gencives",
+              "url": "https://www.mouthhealthy.org/all-topics-a-z/female-hormones-and-dental-health"
+            },
+            {
+              "organization": "Guedes et ses collègues, Journal of Breath Research",
+              "title": "Facteurs buccodentaires associés à l’halitose chez les enfants et les adolescents",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/30620931/"
+            },
+            {
+              "organization": "NHS",
+              "title": "Abcès dentaire et signes nécessitant un appel aux secours",
+              "url": "https://www.nhs.uk/conditions/dental-abscess/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Ergenlerde ağız kokusu tekrar ediyorsa",
+        "description": "Çocuğunuzun ağız kokusunun ne zaman değiştiğini anlamasına yardımcı olun. Hangi bakımın yardımcı olacağını ve ne zaman diş hekimine gidileceğini öğrenin.",
+        "intro": "Çocuğunuz okula naneli şeker götürüyor ama öğle yemeğinden önce kokuyu yeniden fark ediyor. Bunu baş başayken konuşun. Kokuyu ne zaman fark ettiğini, ağzında nasıl bir his olduğunu ve randevu almak için yardım isteyip istemediğini sorun. Nane kokuyu kısa süre örtebilir ama nedenini tedavi etmez.",
+        "sections": [
+          {
+            "heading": "Dişlerden, dilden ve diş etlerinden başlayın",
+            "paragraphs": [
+              "Diş çevresinde plak, dil üzerinde tabaka, diş çürüğü, diş eti iltihabı ve ağız kuruluğu kokuya katkıda bulunabilir. Bazı yiyecekler ile kahve gibi yoğun kokulu içecekler nefesin kokusunu bir süre değiştirir. Günlük içecek olarak su iyi bir seçimdir. Kokuyla ilgili bir varsayımı denemek için sütü veya bir besin grubunu tamamen kesmeyin.",
+              "Kesitsel bir çalışmada 150 çocuk ve ergen muayene edildi. Saptanabilen ağız kokusu, dil üzerindeki tabaka, diş çürüğü ve tükürük akışındaki anormallikler gibi etkenlerle ilişkili bulundu. Araştırmacılar bunları tek bir zamanda değerlendirdi. Bulgular belirli bir ergendeki nedeni göstermez."
+            ]
+          },
+          {
+            "heading": "Lavabo başında neler yapılabilir?",
+            "paragraphs": [
+              "Dişleri ve diş etlerini günde iki kez, ikişer dakika florürlü diş macunuyla nazikçe fırçalayın. Her gün diş ipi veya arayüz fırçasıyla diş aralarını, günde bir kez de dili nazikçe temizleyin. Diş teli veya pekiştirme apareyi temizliği güçleştiriyorsa diş hekiminden uygun yöntemi göstermesini isteyin. Dili kanatacak kadar sert kazımayın.",
+              "Ergenlikteki hormonal değişiklikler diş etlerinin plağa daha güçlü tepki vermesine yol açabilir. Ağrıyan veya kanayan diş etlerini yine de diş hekimi değerlendirmelidir. Ağız kuruluğunu sorun ve çocuğunuzun kullandığı ilaçların adlarını randevuya götürün. Nefes kokusu değişti diye reçeteli ilacı bırakmayın."
+            ]
+          },
+          {
+            "heading": "Ne zaman randevu alınmalı?",
+            "paragraphs": [
+              "Birkaç hafta düzenli temizliğe rağmen koku sürüyorsa diş hekimine başvurun. Diş ağrısı, diş etinde ağrı veya kanama varsa daha erken gidin. Diş hekimi ağızda bir neden bulamazsa bir hekim sürekli ağız kuruluğu veya boğaz sorunları gibi diğer belirtileri değerlendirebilir.",
+              "Şiddetli diş ağrısına şişlik, irin veya ateş eşlik ediyorsa diş apsesi olabilir ve acilen diş hekimine başvurulmalıdır. Nefes almakta, konuşmakta veya yutmakta güçlük ya da ağız içinde yaygın şişlik varsa acil yardım alın."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Kokunun zamanını ve diş etlerinde ağrı ya da kanama olup olmadığını sorun.",
+          "Florürlü macun kullanın, diş aralarını her gün ve dili nazikçe temizleyin.",
+          "Kalıcı koku, diş ağrısı veya diş etinde şişlik için diş hekimine başvurun."
+        ],
+        "faq": [
+          {
+            "q": "Hangi içecekler nefesin kokusunu değiştirir?",
+            "a": "Kahve ve diğer yoğun kokulu içecekler geçici koku bırakabilir. Sık içilen şekerli içecekler zaman içinde çürüğe katkıda bulunabilir. Sırf nefes kokusu değişti diye süt ürünlerini kesmek gerekmez."
+          },
+          {
+            "q": "Ergenlerde ağız kokusunun nedenleri neler olabilir?",
+            "a": "Plak, dil üzerinde tabaka, çürük diş, iltihaplı diş etleri ve ağız kuruluğu sık karşılaşılan olasılıklardır. Koku devam ederse diş hekimi nedenini araştırabilir."
+          },
+          {
+            "q": "Ergenlik çağındaki bir kız neden değişiklik fark edebilir?",
+            "a": "Ergenlik diş etlerinin plağa duyarlılığını artırabilir. Ancak kızlarda ve erkeklerde aynı diş sorunları görülebilir. Kalıcı koku veya kanamayı hormonlara bağlamadan önce muayenede anlatın."
+          },
+          {
+            "q": "Bir ergen kendisi ne yapabilir?",
+            "a": "Sürdürülebilir bir günlük ağız bakımı düzeni kurabilir. Belirtiler sürerse diş hekiminden diş etlerini, dişleri, dili ve varsa diş apareyini kontrol etmesini isteyebilir."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Dişleri ve diş aralarını her gün temizleyin.",
+            "Koku veya diş eti kanaması sürüyorsa diş hekimine danışın.",
+            "Şiddetli diş ağrısına şişlik veya ateş eşlik ediyorsa acil diş bakımı alın."
+          ],
+          "bemama": "BeMama, baş başayken çocuğunuza ne fark ettiğini sormanızı ve bunu diş hekimine kendi sözleriyle anlatabilmesine fırsat vermenizi önerir.",
+          "safety": "Apse olasılığında acilen diş hekimine başvurun. Nefes almakta, konuşmakta veya yutmakta güçlük ya da ağızda yaygın şişlik acil yardım gerektirir.",
+          "sources": [
+            {
+              "organization": "NHS",
+              "title": "Ağız kokusu, ağız bakımı ve diş hekimine başvuru zamanı",
+              "url": "https://www.nhs.uk/symptoms/bad-breath/"
+            },
+            {
+              "organization": "Amerikan Diş Hekimleri Birliği",
+              "title": "Hormonlar, ergenlik ve diş eti sağlığı",
+              "url": "https://www.mouthhealthy.org/all-topics-a-z/female-hormones-and-dental-health"
+            },
+            {
+              "organization": "Guedes ve çalışma arkadaşları, Journal of Breath Research",
+              "title": "Çocuk ve ergenlerde ağız kokusuyla ilişkili diş ve ağız etkenleri",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/30620931/"
+            },
+            {
+              "organization": "NHS",
+              "title": "Diş apsesi ve acil yardım gerektiren belirtiler",
+              "url": "https://www.nhs.uk/conditions/dental-abscess/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Cuando el mal aliento vuelve en la adolescencia",
+        "description": "Ayuda a tu adolescente a identificar cuándo cambia su aliento, qué cuidados dentales probar y cuándo conviene consultar por dolor o hinchazón de las encías.",
+        "intro": "Tu adolescente lleva caramelos de menta a clase, pero antes de comer vuelve a notar el olor. Habla del tema en privado. Pregúntale cuándo ocurre, cómo siente la boca y si quiere ayuda para pedir cita. La menta puede disimular el olor un rato sin resolver la causa.",
+        "sections": [
+          {
+            "heading": "Empieza por los dientes, la lengua y las encías",
+            "paragraphs": [
+              "La placa alrededor de los dientes, la capa que recubre la lengua, las caries, las encías inflamadas y la sequedad de boca pueden influir. Algunos alimentos y bebidas de olor intenso, como el café, cambian el aliento durante un tiempo. El agua es una buena bebida de uso diario. Evita eliminar la leche o un grupo entero de alimentos para comprobar una teoría sobre el olor.",
+              "Un estudio transversal examinó a 150 niños y adolescentes. El mal aliento detectable se asoció, entre otros factores, a la presencia de una capa en la lengua, las caries y las alteraciones del flujo de saliva. Se evaluó todo en un solo momento. El estudio no identifica la causa en un adolescente concreto."
+            ]
+          },
+          {
+            "heading": "Qué probar al lavarse los dientes",
+            "paragraphs": [
+              "Cepilla suavemente los dientes y las encías dos veces al día, durante dos minutos, con pasta fluorada. Limpia a diario entre los dientes con hilo dental o un cepillo interdental y limpia la lengua con suavidad una vez al día. Si los aparatos de ortodoncia o un retenedor dificultan la limpieza, pide al equipo dental que enseñe una técnica adecuada. Evita raspar la lengua hasta hacerla sangrar.",
+              "Los cambios hormonales de la pubertad pueden intensificar la reacción de las encías a la placa. Si duelen o sangran, conviene revisarlas. Pregunta por la sequedad de boca y lleva los nombres de los medicamentos que toma tu adolescente. No suspendas un medicamento recetado por un cambio en el aliento."
+            ]
+          },
+          {
+            "heading": "Cuándo pedir cita",
+            "paragraphs": [
+              "Pide cita dental si el olor persiste tras varias semanas de limpieza regular, o antes si hay dolor de muelas o encías doloridas o sangrantes. Si el dentista no encuentra una causa en la boca, un profesional de salud puede valorar otros síntomas, como sequedad persistente o molestias de garganta.",
+              "Un dolor de muelas intenso con hinchazón, pus o fiebre puede indicar un absceso y requiere atención dental urgente. Busca atención de emergencia si cuesta respirar, hablar o tragar, o si hay una hinchazón extensa dentro de la boca."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Pregunta cuándo aparece el olor y si hay dolor o sangrado de las encías.",
+          "Usa pasta fluorada, limpia a diario entre los dientes y limpia la lengua con suavidad.",
+          "Solicita una revisión si el olor persiste, duele una muela o se hinchan las encías."
+        ],
+        "faq": [
+          {
+            "q": "¿Qué bebidas cambian el aliento?",
+            "a": "El café y otras bebidas de olor intenso pueden dejar un olor pasajero. Tomar bebidas azucaradas con frecuencia puede favorecer las caries con el tiempo. Un cambio de aliento por sí solo no obliga a eliminar los lácteos."
+          },
+          {
+            "q": "¿Qué puede causar mal aliento en adolescentes?",
+            "a": "Entre las causas frecuentes están la placa, una capa en la lengua, las caries, las encías inflamadas y la sequedad de boca. Si persiste, un dentista puede buscar la causa."
+          },
+          {
+            "q": "¿Por qué podría notar un cambio una chica adolescente?",
+            "a": "En la pubertad las encías pueden volverse más sensibles a la placa. Tanto las chicas como los chicos pueden tener las mismas causas dentales. Comenta el olor persistente o el sangrado en la consulta antes de atribuirlos a las hormonas."
+          },
+          {
+            "q": "¿Qué puede hacer un adolescente?",
+            "a": "Elige una rutina diaria de higiene bucal que puedas mantener. Si continúan los síntomas, pide al dentista que revise las encías, los dientes, la lengua y cualquier aparato de ortodoncia."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Limpia los dientes y los espacios entre ellos cada día.",
+            "Consulta con el equipo dental si persisten el olor o el sangrado de las encías.",
+            "Busca atención urgente si hay hinchazón o fiebre junto con un dolor de muelas intenso."
+          ],
+          "bemama": "BeMama sugiere preguntar en privado a tu adolescente qué nota y dejar que se lo explique al dentista con sus propias palabras.",
+          "safety": "Un posible absceso necesita atención dental urgente. La dificultad para respirar, hablar o tragar, o una hinchazón extensa en la boca, requiere atención de emergencia.",
+          "sources": [
+            {
+              "organization": "NHS",
+              "title": "Mal aliento, higiene bucal y cuándo acudir al dentista",
+              "url": "https://www.nhs.uk/symptoms/bad-breath/"
+            },
+            {
+              "organization": "Asociación Dental Estadounidense",
+              "title": "Las hormonas, la pubertad y la salud de las encías",
+              "url": "https://www.mouthhealthy.org/all-topics-a-z/female-hormones-and-dental-health"
+            },
+            {
+              "organization": "Guedes y colaboradores, Journal of Breath Research",
+              "title": "Factores dentales y bucales asociados a la halitosis en niños y adolescentes",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/30620931/"
+            },
+            {
+              "organization": "NHS",
+              "title": "Absceso dental y señales que requieren atención de emergencia",
+              "url": "https://www.nhs.uk/conditions/dental-abscess/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Quando o mau hálito volta na adolescência",
+        "description": "Ajude o adolescente a perceber quando o hálito muda, quais cuidados com a boca podem ajudar e quando procurar um dentista por dor ou inchaço na gengiva.",
+        "intro": "Seu filho leva pastilhas de menta para a escola, mas volta a perceber o cheiro antes do almoço. Converse em particular. Pergunte quando acontece, se sente algo diferente na boca e se quer ajuda para marcar uma consulta. A menta pode disfarçar o odor por um tempo sem tratar sua causa.",
+        "sections": [
+          {
+            "heading": "Comece pelos dentes, pela língua e pela gengiva",
+            "paragraphs": [
+              "Placa ao redor dos dentes, uma camada de resíduos na língua, cáries, inflamação da gengiva e boca seca podem contribuir. Alguns alimentos e bebidas de cheiro forte, como café, alteram o hálito temporariamente. A água é uma boa bebida para o dia a dia. Evite cortar o leite ou um grupo alimentar inteiro para testar uma hipótese sobre o cheiro.",
+              "Um estudo transversal avaliou 150 crianças e adolescentes. A presença de mau hálito estava associada, entre outros fatores, à camada sobre a língua, a cáries e a alterações no fluxo de saliva. Os pesquisadores avaliaram esses dados em um único momento. Os resultados não determinam a causa em um adolescente específico."
+            ]
+          },
+          {
+            "heading": "O que fazer na hora de cuidar da boca",
+            "paragraphs": [
+              "Escove os dentes e a gengiva delicadamente duas vezes ao dia por dois minutos, com creme dental com flúor. Limpe entre os dentes todos os dias com fio dental ou escova interdental e limpe a língua com suavidade uma vez ao dia. Se o aparelho ou a contenção dificultar a limpeza, peça à equipe odontológica que demonstre como proceder. Evite raspar a língua a ponto de provocar sangramento.",
+              "As mudanças hormonais da puberdade podem aumentar a reação da gengiva à placa. Dor ou sangramento na gengiva merecem avaliação odontológica. Pergunte sobre a boca seca e leve à consulta os nomes dos medicamentos que o adolescente usa. Não interrompa um medicamento prescrito por causa de uma mudança no hálito."
+            ]
+          },
+          {
+            "heading": "Quando marcar uma consulta",
+            "paragraphs": [
+              "Marque uma consulta se o hálito continuar desagradável após algumas semanas de limpeza regular. Procure antes se houver dor de dente ou gengiva dolorida ou com sangramento. Se o dentista não encontrar uma causa na boca, um profissional de saúde pode avaliar outros sintomas, como boca seca persistente ou problemas na garganta.",
+              "Dor de dente intensa acompanhada de inchaço, pus ou febre pode indicar abscesso e precisa de atendimento odontológico urgente. Procure atendimento de emergência se houver dificuldade para respirar, falar ou engolir, ou inchaço extenso dentro da boca."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Pergunte quando o cheiro aparece e se há dor ou sangramento na gengiva.",
+          "Use creme dental com flúor, limpe entre os dentes diariamente e limpe a língua com delicadeza.",
+          "Procure avaliação odontológica em caso de odor persistente, dor de dente ou gengiva inchada."
+        ],
+        "faq": [
+          {
+            "q": "Quais bebidas mudam o hálito?",
+            "a": "Café e outras bebidas de cheiro forte podem deixar um odor passageiro. Bebidas açucaradas frequentes podem contribuir para cáries ao longo do tempo. Uma mudança no hálito, por si só, não exige retirar os laticínios."
+          },
+          {
+            "q": "O que pode causar mau hálito em adolescentes?",
+            "a": "Entre as possibilidades comuns estão placa, camada de resíduos na língua, cáries, gengiva inflamada e boca seca. Um dentista pode investigar se o problema persistir."
+          },
+          {
+            "q": "Por que uma adolescente pode perceber uma mudança?",
+            "a": "A puberdade pode deixar a gengiva mais sensível à placa. Meninas e meninos podem ter as mesmas causas dentárias. Comente o odor persistente ou o sangramento na consulta antes de atribuí-los aos hormônios."
+          },
+          {
+            "q": "O que o adolescente pode fazer?",
+            "a": "Escolha uma rotina de higiene bucal que consiga manter. Se os sintomas continuarem, peça ao dentista que examine gengiva, dentes, língua e qualquer aparelho."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Limpe os dentes e os espaços entre eles todos os dias.",
+            "Converse com a equipe odontológica sobre odor persistente ou sangramento na gengiva.",
+            "Procure atendimento urgente se houver inchaço ou febre junto com dor de dente intensa."
+          ],
+          "bemama": "A BeMama sugere perguntar em particular o que o adolescente percebe e deixá-lo contar ao dentista com suas próprias palavras.",
+          "safety": "Um possível abscesso precisa de atendimento odontológico urgente. Dificuldade para respirar, falar ou engolir, ou inchaço extenso na boca, exige atendimento de emergência.",
+          "sources": [
+            {
+              "organization": "NHS",
+              "title": "Mau hálito, cuidados com a boca e quando consultar o dentista",
+              "url": "https://www.nhs.uk/symptoms/bad-breath/"
+            },
+            {
+              "organization": "Associação Americana de Odontologia",
+              "title": "Hormônios, puberdade e saúde da gengiva",
+              "url": "https://www.mouthhealthy.org/all-topics-a-z/female-hormones-and-dental-health"
+            },
+            {
+              "organization": "Guedes e colaboradores, Journal of Breath Research",
+              "title": "Fatores dentários e bucais associados à halitose em crianças e adolescentes",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/30620931/"
+            },
+            {
+              "organization": "NHS",
+              "title": "Abscesso dentário e sinais que exigem atendimento de emergência",
+              "url": "https://www.nhs.uk/conditions/dental-abscess/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5866.webp",
+    "heroAlt": {
+      "en": "A toothbrush, interdental brush, tongue cleaner and retainer case beside a sink.",
+      "es": "Un cepillo dental, uno interdental, un limpiador lingual y un estuche de retenedor junto al lavabo.",
+      "fr": "Brosse à dents, brossette interdentaire, gratte-langue et étui de contention près du lavabo.",
+      "pt": "Escova de dentes, escova interdental, limpador de língua e estojo de contenção ao lado da pia.",
+      "tr": "Lavabonun yanında diş fırçası, arayüz fırçası, dil temizleyici ve pekiştirme plağı kutusu.",
+      "fa": "مسواک، برس بین‌دندانی، زبان‌پاک‌کن و جعبهٔ نگهدارندهٔ دندان کنار روشویی.",
+      "ar": "فرشاة أسنان وفرشاة بين سنية ومنظف لسان وعلبة مثبت بجانب المغسلة."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "When bad breath keeps coming back in a teenager",
+      "description": "Help your teenager work out when breath changes, which dental habits make a difference and when sore gums or swelling need a dentist’s attention."
+    },
+    "fa": {
+      "title": "وقتی بوی بد دهان نوجوان برمی‌گردد",
+      "description": "زمان تغییر بوی دهان نوجوان را بشناسید و ببینید چه مراقبت‌هایی به دندان و لثه کمک می‌کنند و برای درد یا ورم لثه چه زمانی باید به دندان‌پزشک مراجعه کرد."
+    },
+    "ar": {
+      "title": "عندما تتكرر رائحة الفم الكريهة عند المراهق",
+      "description": "ساعد ابنك المراهق على معرفة متى تتغير رائحة فمه، وما خطوات العناية بالأسنان المفيدة، ومتى يستدعي ألم اللثة أو تورمها زيارة طبيب الأسنان."
+    },
+    "fr": {
+      "title": "Quand la mauvaise haleine revient chez un adolescent",
+      "description": "Aidez votre ado à repérer quand son haleine change, à choisir des soins dentaires adaptés et à savoir quand consulter pour des gencives douloureuses."
+    },
+    "tr": {
+      "title": "Ergenlerde ağız kokusu tekrar ediyorsa",
+      "description": "Çocuğunuzun ağız kokusunun ne zaman değiştiğini anlamasına yardımcı olun. Hangi bakımın yardımcı olacağını ve ne zaman diş hekimine gidileceğini öğrenin."
+    },
+    "es": {
+      "title": "Cuando el mal aliento vuelve en la adolescencia",
+      "description": "Ayuda a tu adolescente a identificar cuándo cambia su aliento, qué cuidados dentales probar y cuándo conviene consultar por dolor o hinchazón de las encías."
+    },
+    "pt": {
+      "title": "Quando o mau hálito volta na adolescência",
+      "description": "Ajude o adolescente a perceber quando o hálito muda, quais cuidados com a boca podem ajudar e quando procurar um dentista por dor ou inchaço na gengiva."
+    }
+  }
+}

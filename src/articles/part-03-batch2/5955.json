@@ -1,0 +1,695 @@
+{
+  "sourceId": "5955",
+  "article": {
+    "slug": "does-my-toddler-need-a-pillow",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "Does my toddler need a pillow when they move to a bed?",
+        "description": "Find out when an older toddler can try sleeping with a pillow, why an infant’s crib should stay bare and what to check when choosing a first pillow.",
+        "intro": "Your child has moved into a toddler bed, and you are choosing what belongs on it. The new bed may look unusually empty to an adult. If your child sleeps comfortably without a pillow, there is no need to add one just to finish making the bed.",
+        "sections": [
+          {
+            "heading": "Consider the bed as well as the birthday",
+            "paragraphs": [
+              "Keep pillows out of an infant’s sleep space. Put a baby on their back on a firm, flat, level mattress with a fitted sheet. A soft object can cover the nose and mouth. A pillow under the sheet or under the baby’s head also changes the sleeping surface.",
+              "For older toddlers, the Australian safe-sleep organisation Red Nose recommends waiting until the child is over two years old and has moved out of the crib or portable crib. Both conditions matter in that guidance. Moving a younger child to a bed because they climb out of the crib does not mean they need a pillow. An older child still comfortable without one can wait."
+            ]
+          },
+          {
+            "heading": "If you decide to offer a first pillow",
+            "paragraphs": [
+              "Choose a small, low-profile pillow that leaves the child’s neck in a comfortable position and has an intact cover with no loose filling, cords or decorative pieces. A washable cover can be practical. There is no single filling that every child needs. Follow the bed and pillow manufacturers’ instructions and any individual advice from your child’s clinician.",
+              "Let the child try it in their own bed. If they push it away or sleep off it, leave it out. If the pillow is so thick that it forces the chin forward, or the cover splits and filling escapes, remove it. A child who repeatedly wakes with pain, snores loudly or seems to struggle to breathe during sleep needs medical advice rather than a different pillow to prop them up."
+            ]
+          },
+          {
+            "heading": "Why infant safety findings have a narrower meaning",
+            "paragraphs": [
+              "Researchers reviewed US infant deaths classified as explained suffocation in a sleep environment. Soft bedding accounted for 69% of those explained suffocations. Soft bedding included more than pillows. The study did not measure the risk of giving a particular pillow to an older toddler, or establish an age at which one becomes necessary.",
+              "An infant head-shaping pillow, wedge or sleep positioner does not belong in the crib. If you are worried about a baby’s head shape, ask their clinician to look at the head and neck. Keep sleep on the back and offer supervised tummy time when the baby is awake."
+            ]
+          },
+          {
+            "heading": "Make the whole sleeping area work for the child",
+            "paragraphs": [
+              "After the move to a bed, get down to your child’s height and check what is within reach. Secure heavy furniture, keep blind and electrical cords out of reach, and check that there are no gaps where a child could become trapped between the bed and a wall. Use a bed frame and mattress designed to fit together.",
+              "Some parents consider a portable bed rail. Before using one, check that the rail is designed for your child’s age, that bed and that mattress, and follow the fitting instructions. An incorrectly fitted rail can create an entrapment gap. A low bed may work for the family without adding a rail."
+            ]
+          }
+        ],
+        "takeaways": [
+          "There is no need for a pillow if an older toddler sleeps comfortably without one.",
+          "Keep the infant crib bare and wait until the child is older than two and out of the crib before considering a pillow under Red Nose guidance.",
+          "If offering one, choose a small, low, intact pillow and check the bed and room for hazards."
+        ],
+        "faq": [
+          {
+            "q": "Is a pillow necessary for a toddler?",
+            "a": "No. A comfortable child can sleep without one, even after moving to a bed. A toddler bed does not have to be furnished like an adult bed."
+          },
+          {
+            "q": "Are pillows safe in a crib?",
+            "a": "Keep them out of an infant’s crib or portable crib. Red Nose also advises waiting until a child is over two and no longer sleeping in a crib before introducing one. A cover labelled breathable does not change that advice."
+          },
+          {
+            "q": "Which child might be ready to try a pillow?",
+            "a": "An older toddler already sleeping in a suitable bed may want to try a small, low pillow once the age and sleep-space guidance is met. If a medical condition affects movement or breathing, ask the clinician about the child’s individual needs."
+          },
+          {
+            "q": "What filling or fabric is best?",
+            "a": "There is no universal best material. An intact, appropriately sized, low pillow with a washable cover is a practical option for an older child. Avoid loose parts or damaged seams and follow individual allergy advice if relevant."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Keep soft objects, positioners and pillows out of the infant sleep space.",
+            "Consider the child’s age, sleeping place and comfort together.",
+            "When a child can get out of bed, check the whole sleeping area for falls, cords and entrapment gaps."
+          ],
+          "bemama": "BeMama suggests making the new bed with its fitted sheet first, then asking whether anything else is needed for this particular child.",
+          "safety": "Do not prop an infant for sleep or use a pillow to treat a flat spot. If a child struggles to breathe, turns blue or cannot be woken, seek emergency help immediately.",
+          "sources": [
+            {
+              "organization": "Red Nose Australia",
+              "title": "When to introduce a pillow",
+              "url": "https://rednose.org.au/safe-sleep-and-safer-pregnancy/newborn-to-1-year/when-can-i-introduce-a-pillow/"
+            },
+            {
+              "organization": "Red Nose Australia",
+              "title": "Preparing the room for the move from a crib to a bed",
+              "url": "https://rednose.org.au/safe-sleep-and-safer-pregnancy/12-months-and-beyond/moving-your-child-from-a-cot-to-a-bed/"
+            },
+            {
+              "organization": "Erck Lambert and colleagues, Pediatrics",
+              "title": "Explained infant suffocation associated with soft bedding, overlay and wedging",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/31010907/"
+            },
+            {
+              "organization": "American Academy of Pediatrics",
+              "title": "Safe sleep recommendations for infants",
+              "url": "https://doi.org/10.1542/peds.2022-057990"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "آیا کودکم پس از رفتن به تخت کودک به بالش نیاز دارد؟",
+        "description": "ببینید کودک نوپای بزرگ‌تر چه زمانی می‌تواند بالش را امتحان کند، چرا تخت شیرخوار باید خالی بماند و برای انتخاب اولین بالش چه چیزهایی را بررسی کنید.",
+        "intro": "فرزندتان از تخت نرده‌دار به تخت کودک رفته است و دارید وسایل آن را می‌چینید. شاید تخت تازه به چشم یک بزرگسال خیلی خالی بیاید. اگر کودک بدون بالش راحت می‌خوابد، لازم نیست صرفاً برای کامل به نظر رسیدن تخت بالشی به آن اضافه کنید.",
+        "sections": [
+          {
+            "heading": "هم به نوع تخت توجه کنید و هم به سن",
+            "paragraphs": [
+              "بالش را بیرون از فضای خواب شیرخوار نگه دارید. او را به پشت روی تشکی سفت، صاف و بدون شیب با ملحفه کش‌دار بخوابانید. جسم نرم ممکن است بینی و دهان او را بپوشاند. گذاشتن بالش زیر ملحفه یا زیر سر شیرخوار هم سطح خواب را تغییر می‌دهد.",
+              "برای کودکان نوپای بزرگ‌تر، سازمان استرالیایی رد نوز که در زمینه خواب ایمن فعالیت می‌کند توصیه می‌کند تا زمانی صبر کنید که کودک بیش از دو سال سن داشته باشد و دیگر در تخت نرده‌دار یا تخت نوزاد سفری نخوابد. هر دو شرط بخشی از این راهنمایی هستند. انتقال کودک کم‌سن‌تر به تخت به دلیل تلاشش برای بالا رفتن از نرده به این معنی نیست که به بالش نیاز دارد. کودک بزرگ‌تری هم که بدون بالش راحت است می‌تواند صبر کند."
+            ]
+          },
+          {
+            "heading": "اگر تصمیم گرفتید بالش اول را امتحان کنید",
+            "paragraphs": [
+              "بالشی کوچک و کم‌ارتفاع انتخاب کنید که گردن کودک در وضعیتی راحت بماند. روکش آن باید سالم باشد و پرکننده بیرون‌زده، بند یا قطعه تزئینی جداشدنی نداشته باشد. روکش قابل شست‌وشو می‌تواند کاربردی باشد. ماده خاصی برای پر کردن بالش همه کودکان ضروری نیست. دستور سازنده تخت و بالش و توصیه اختصاصی پزشک کودک را رعایت کنید.",
+              "بگذارید کودک بالش را در تخت خودش امتحان کند. اگر آن را کنار می‌زند یا سرش را بیرون آن می‌گذارد، بالش را بردارید. اگر آن‌قدر بلند است که چانه را به جلو می‌راند یا روکش پاره شده و پرکننده بیرون می‌ریزد نیز آن را بردارید. اگر کودک مرتب با درد بیدار می‌شود، بلند خروپف می‌کند یا در خواب برای تنفس تقلا می‌کند، به جای تکیه دادن او به بالشی دیگر مشورت پزشکی بگیرید."
+            ]
+          },
+          {
+            "heading": "پژوهش‌های ایمنی شیرخواران چه معنایی دارند؟",
+            "paragraphs": [
+              "پژوهشگران مواردی از مرگ شیرخواران در آمریکا را بررسی کردند که در محیط خواب به‌عنوان خفگی با علت مشخص طبقه‌بندی شده بود. در ۶۹ درصد این خفگی‌های با علت مشخص، وسایل نرم بستر عامل خفگی بودند. این دسته غیر از بالش، وسایل دیگری را هم در بر می‌گرفت. مطالعه خطر استفاده از یک بالش مشخص را برای کودک نوپای بزرگ‌تر اندازه نگرفت و سنی تعیین نکرد که بالش در آن ضروری شود.",
+              "بالش فرم‌دهنده سر شیرخوار، سطح گوه‌ای شیب‌دار یا وسیله ثابت نگه داشتن وضعیت خواب را در تخت نوزاد نگذارید. اگر درباره شکل سر فرزندتان نگرانی دارید، از پزشک بخواهید سر و گردنش را بررسی کند. برای خواب به پشت قرارش دهید و هنگامی که بیدار است زیر نظر شما فرصت قرار گرفتن روی شکم داشته باشد."
+            ]
+          },
+          {
+            "heading": "کل فضای خواب را مناسب کودک کنید",
+            "paragraphs": [
+              "پس از انتقال به تخت، تا سطح قد کودک پایین بیایید و ببینید چه چیزهایی در دسترسش است. وسایل سنگین را محکم کنید، بند پرده و سیم برق را دور از دسترس بگذارید و مطمئن شوید بین تخت و دیوار شکافی نیست که کودک در آن گیر کند. تخت و تشکی را استفاده کنید که برای قرار گرفتن در کنار هم طراحی شده‌اند.",
+              "بعضی والدین حفاظ متحرک کنار تخت را در نظر می‌گیرند. پیش از استفاده ببینید حفاظ برای سن کودک، همان تخت و همان تشک طراحی شده و مطابق دستور نصب شده است. حفاظ بد نصب‌شده می‌تواند شکافی ایجاد کند که کودک در آن گیر کند. شاید یک تخت کم‌ارتفاع بدون افزودن حفاظ برای خانواده مناسب باشد."
+            ]
+          }
+        ],
+        "takeaways": [
+          "اگر کودک نوپای بزرگ‌تر بدون بالش راحت است، نیازی به آن ندارد.",
+          "تخت شیرخوار را خالی نگه دارید. طبق راهنمای رد نوز، برای فکر کردن به بالش صبر کنید تا سن کودک بیش از دو سال شود و دیگر در تخت نرده‌دار نخوابد.",
+          "اگر بالش می‌دهید، نوع کوچک، کم‌ارتفاع و سالم را برگزینید و خطرهای تخت و اتاق را نیز بررسی کنید."
+        ],
+        "faq": [
+          {
+            "q": "آیا بالش برای کودک نوپا ضروری است؟",
+            "a": "خیر. کودکی که راحت است می‌تواند حتی پس از رفتن به تخت جدید هم بدون بالش بخوابد. لازم نیست تخت کودک مثل تخت بزرگسال چیده شود."
+          },
+          {
+            "q": "آیا بالش در تخت نرده‌دار ایمن است؟",
+            "a": "بالش را در تخت نرده‌دار یا تخت سفری شیرخوار نگذارید. رد نوز همچنین توصیه می‌کند تا پس از دوسالگی و زمانی که کودک دیگر در تخت نرده‌دار نمی‌خوابد صبر کنید. عبارت «قابل تنفس» روی روکش تغییری در این توصیه نمی‌دهد."
+          },
+          {
+            "q": "کدام کودک ممکن است آماده امتحان بالش باشد؟",
+            "a": "کودک بزرگ‌تری که در تخت مناسب می‌خوابد پس از برآورده شدن شرایط سن و محل خواب شاید بخواهد یک بالش کوچک و کم‌ارتفاع را امتحان کند. اگر بیماری‌ای بر حرکت یا تنفس او اثر دارد، درباره نیازهای خاصش با پزشک مشورت کنید."
+          },
+          {
+            "q": "بهترین جنس روکش یا پرکننده چیست؟",
+            "a": "یک ماده برتر برای همه وجود ندارد. برای کودک بزرگ‌تر، بالش سالم و کم‌ارتفاعِ متناسب با جثه‌اش با روکش قابل شست‌وشو می‌تواند کاربردی باشد. از قطعات شل و درزهای باز پرهیز کنید و در صورت حساسیت، راهنمایی اختصاصی فرزندتان را رعایت کنید."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۶ نوامبر ۲۰۲۶ بازبینی شد",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "وسایل نرم، بالش و وسیله نگه داشتن وضعیت خواب را از محل خواب شیرخوار دور نگه دارید.",
+            "سن، محل خواب و راحتی فرزندتان را در کنار هم بسنجید.",
+            "وقتی کودک می‌تواند از تخت پایین بیاید، کل فضای خواب را از نظر سقوط، بندها و شکاف‌های گیرانداز بررسی کنید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند ابتدا تنها ملحفه کش‌دار را روی تخت نو بکشید و بعد ببینید فرزند شما واقعاً به چه چیز دیگری نیاز دارد.",
+          "safety": "شیرخوار را برای خواب با وسیله‌ای بالا نیاورید و برای صافی سرش بالش به کار نبرید. اگر کودک برای نفس کشیدن تقلا می‌کند، کبود می‌شود یا بیدار نمی‌شود، فوری با اورژانس تماس بگیرید.",
+          "sources": [
+            {
+              "organization": "سازمان رد نوز استرالیا",
+              "title": "زمان مناسب برای معرفی بالش",
+              "url": "https://rednose.org.au/safe-sleep-and-safer-pregnancy/newborn-to-1-year/when-can-i-introduce-a-pillow/"
+            },
+            {
+              "organization": "سازمان رد نوز استرالیا",
+              "title": "آماده کردن اتاق برای رفتن از تخت نرده‌دار به تخت کودک",
+              "url": "https://rednose.org.au/safe-sleep-and-safer-pregnancy/12-months-and-beyond/moving-your-child-from-a-cot-to-a-bed/"
+            },
+            {
+              "organization": "ارک لمبرت و همکاران، مجله پدیاتریکس",
+              "title": "خفگی با علت مشخص در شیرخواران در ارتباط با بستر نرم، قرار گرفتن فردی دیگر روی کودک یا گیر کردن",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/31010907/"
+            },
+            {
+              "organization": "آکادمی متخصصان کودکان آمریکا",
+              "title": "توصیه‌های خواب ایمن برای شیرخواران",
+              "url": "https://doi.org/10.1542/peds.2022-057990"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "هل يحتاج طفلي إلى وسادة حين ينتقل إلى سرير الأطفال؟",
+        "description": "متى يستطيع الطفل الأكبر أن يجرّب وسادة، ولماذا يبقى سرير الرضيع خاليًا منها، وما التفاصيل التي ينبغي فحصها عند اختيار الوسادة الأولى؟",
+        "intro": "انتقل طفلك إلى سرير الأطفال وأنت ترتبين ما ستضعينه فيه. قد يبدو السرير الجديد فارغًا على غير العادة في عين البالغ. إذا كان طفلك ينام مرتاحًا من دون وسادة، فلا حاجة لإضافتها لمجرد استكمال مظهر السرير.",
+        "sections": [
+          {
+            "heading": "انظري إلى نوع السرير والعمر معًا",
+            "paragraphs": [
+              "اتركي الوسائد خارج مكان نوم الرضيع. ضعيه على ظهره على فراش ثابت مسطح وأفقي بملاءة محكمة. قد يغطي جسم لين أنفه وفمه. كما أن وضع وسادة تحت الملاءة أو تحت رأسه يغيّر سطح نومه.",
+              "بالنسبة للصغار بعد مرحلة الرضاعة، توصي منظمة رِد نوز الأسترالية المعنية بالنوم الآمن بالانتظار إلى أن يتجاوز الطفل عامين ويتوقف عن النوم في سرير الرضيع ذي الحواجز أو سرير السفر المخصص للرضّع. الشرطان معًا جزء من التوصية. إذا انتقل طفل أصغر إلى سرير مفتوح لأنه يتسلق الحاجز، فهذا لا يعني احتياجه إلى وسادة. وللطفل الأكبر المرتاح من دونها أن ينتظر."
+            ]
+          },
+          {
+            "heading": "إذا قررت تقديم وسادة أولى",
+            "paragraphs": [
+              "اختاري وسادة صغيرة منخفضة تُبقي الرقبة في وضع مريح، لها غطاء سليم لا يتسرب منه الحشو ولا تتدلى منه خيوط أو زينة. قد يكون الغطاء القابل للغسل عمليًا. لا توجد مادة حشو بعينها يحتاج إليها كل طفل. اتبعي إرشادات الشركة المصنّعة للسرير والوسادة وأي نصيحة خاصة بطفلك من طبيبه.",
+              "دعيه يجرّبها في سريره. إذا أبعدها أو نام ورأسه خارجها فاتركيها جانبًا. أزيليها إذا كانت سميكة إلى درجة تدفع الذقن إلى الأمام، أو إذا تمزق الغطاء وتسرب الحشو. إذا كان يستيقظ متألمًا بصورة متكررة أو يشخر بصوت مرتفع أو يبدو أنه يجهد ليتنفس أثناء النوم، فاطلبي مشورة طبية بدل محاولة رفعه بوسادة أخرى."
+            ]
+          },
+          {
+            "heading": "ما الذي تبينه أبحاث السلامة لدى الرضّع؟",
+            "paragraphs": [
+              "راجع باحثون وفيات رضّع في الولايات المتحدة صُنّفت باعتبارها اختناقًا معلوم السبب في بيئة النوم. نُسبت ٦٩٪ من حالات الاختناق المفسّرة هذه إلى مستلزمات الفراش اللينة، وهي فئة تضم أكثر من الوسائد. لم تقس الدراسة خطر وسادة معينة لطفل أكبر، ولم تحدد عمرًا تصبح فيه الوسادة ضرورية.",
+              "لا تضعي في سرير الرضيع وسادة لتشكيل الرأس أو إسفينًا مائلًا أو أداة تثبيت لوضعية النوم. إذا أقلقك شكل رأسه فاطلبي من الطبيب فحص الرأس والرقبة. ضعيه على ظهره للنوم وأتيحي له وقتًا على بطنه تحت المراقبة حين يكون يقظًا."
+            ]
+          },
+          {
+            "heading": "اجعلي محيط النوم بأكمله مناسبًا",
+            "paragraphs": [
+              "بعد الانتقال إلى سرير مفتوح، انزلي إلى مستوى طول طفلك وانظري ما الذي يستطيع الوصول إليه. ثبتي الأثاث الثقيل، وأبعدي حبال الستائر والأسلاك الكهربائية، وتحققي من عدم وجود فجوات قد يعلق فيها بين السرير والحائط. استخدمي إطار سرير وفراشًا صُمّما ليتلاءما معًا.",
+              "تفكر بعض الأسر في إضافة حاجز متنقل للسرير. قبل استعماله تحققي من أنه مصمم لعمر طفلك ولهذا السرير والفراش تحديدًا واتبعي تعليمات التركيب. فقد ينشأ عن الحاجز غير المثبت جيدًا فراغ يعلق فيه الطفل. وقد يناسب الأسرة سرير منخفض من دون حاجز إضافي."
+            ]
+          }
+        ],
+        "takeaways": [
+          "الطفل الأكبر الذي ينام مرتاحًا من دون وسادة ليس محتاجًا إليها.",
+          "أبقي سرير الرضيع خاليًا. ووفق إرشادات رِد نوز انتظري حتى يتجاوز الطفل السنتين ويغادر سرير الرضيع قبل التفكير في وسادة.",
+          "إذا قدّمتها فاختاري وسادة صغيرة منخفضة سليمة، وافحصي السرير والغرفة بحثًا عن الأخطار."
+        ],
+        "faq": [
+          {
+            "q": "هل الوسادة ضرورية للطفل الصغير؟",
+            "a": "لا. يستطيع الطفل المرتاح أن ينام من دونها حتى بعد الانتقال إلى سرير مفتوح. لا يلزم أن يكون سرير الطفل مجهّزًا مثل سرير البالغ."
+          },
+          {
+            "q": "هل الوسائد آمنة في سرير الرضيع؟",
+            "a": "اتركيها خارج سرير الرضيع الثابت أو المتنقل. وتوصي رِد نوز أيضًا بالانتظار حتى يتجاوز الطفل السنتين ولا يعود ينام في سرير الرضيع. لا تغير عبارة «يسمح بالتهوية» على الغطاء هذه النصيحة."
+          },
+          {
+            "q": "أي طفل قد يكون مستعدًا لتجربة وسادة؟",
+            "a": "قد يرغب طفل أكبر ينام بالفعل في سرير مناسب في تجربة وسادة صغيرة منخفضة إذا تحقق شرطا العمر ومكان النوم. إذا كانت حالة صحية تؤثر في حركته أو تنفسه فناقشي احتياجاته مع طبيبه."
+          },
+          {
+            "q": "أي حشو أو قماش أفضل؟",
+            "a": "لا توجد مادة مثلى للجميع. قد تناسب الطفل الأكبر وسادة سليمة منخفضة بحجم مناسب وغطاء قابل للغسل. تجنبي الأجزاء السائبة والخياطة التالفة واتبعي إرشادات الحساسية الخاصة به عند الحاجة."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "أبعدي الأجسام اللينة ومثبتات الوضعية والوسائد عن مكان نوم الرضيع.",
+            "انظري إلى عمر الطفل ومكان نومه وراحته معًا.",
+            "عندما يتمكن من النزول من السرير افحصي المنطقة كاملة بحثًا عن أخطار السقوط والحبال والفجوات التي قد يعلق فيها."
+          ],
+          "bemama": "تقترح بي ماما ترتيب السرير الجديد بملاءته المحكمة أولًا ثم التفكير فيما إذا كان طفلك بحاجة إلى أي شيء آخر.",
+          "safety": "لا ترفعي الرضيع بأداة للنوم ولا تستخدمي وسادة لعلاج تسطح الرأس. إذا جاهد الطفل ليتنفس أو ازرقّ لونه أو تعذر إيقاظه فاطلبي الإسعاف فورًا.",
+          "sources": [
+            {
+              "organization": "منظمة رِد نوز الأسترالية",
+              "title": "متى يمكن تقديم الوسادة",
+              "url": "https://rednose.org.au/safe-sleep-and-safer-pregnancy/newborn-to-1-year/when-can-i-introduce-a-pillow/"
+            },
+            {
+              "organization": "منظمة رِد نوز الأسترالية",
+              "title": "تهيئة الغرفة للانتقال من سرير الرضيع إلى سرير الطفل",
+              "url": "https://rednose.org.au/safe-sleep-and-safer-pregnancy/12-months-and-beyond/moving-your-child-from-a-cot-to-a-bed/"
+            },
+            {
+              "organization": "إرك لامبرت وزملاؤها، مجلة طب الأطفال",
+              "title": "اختناق الرضّع معلوم السبب المرتبط بالفراش اللين أو وقوع شخص فوق الرضيع أو الانحشار",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/31010907/"
+            },
+            {
+              "organization": "الأكاديمية الأمريكية لطب الأطفال",
+              "title": "توصيات لنوم الرضّع بأمان",
+              "url": "https://doi.org/10.1542/peds.2022-057990"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Mon enfant a-t-il besoin d’un oreiller dans son premier lit ?",
+        "description": "Découvrez quand un enfant peut essayer un oreiller, pourquoi le lit du nourrisson doit rester dégagé et quels détails vérifier pour un premier oreiller.",
+        "intro": "Votre enfant vient de quitter son lit à barreaux et vous préparez son nouveau lit. À vos yeux d’adulte, il paraît peut-être bien vide. Si votre enfant dort confortablement sans oreiller, rien n’oblige à en ajouter un pour que le lit ait l’air terminé.",
+        "sections": [
+          {
+            "heading": "Tenir compte du lit et de l’âge",
+            "paragraphs": [
+              "Gardez les oreillers hors de l’espace de sommeil du nourrisson. Couchez-le sur le dos, sur un matelas ferme, plat et horizontal muni d’un drap-housse. Un objet mou risque de lui couvrir le nez et la bouche. Glisser un oreiller sous le drap ou le placer sous la tête modifie également sa surface de couchage.",
+              "Pour les enfants plus grands, l’organisme australien Red Nose recommande d’attendre qu’ils aient plus de deux ans et qu’ils ne dorment plus dans un lit à barreaux ou un lit parapluie. Les deux conditions comptent. Si un plus jeune passe au lit ouvert parce qu’il escalade les barreaux, cela ne crée pas un besoin d’oreiller. Un plus grand qui dort bien sans oreiller peut continuer ainsi."
+            ]
+          },
+          {
+            "heading": "Si vous décidez de lui en proposer un",
+            "paragraphs": [
+              "Choisissez un petit oreiller peu épais qui laisse le cou en position confortable. Sa housse doit être intacte, sans garnissage apparent, cordon ni décoration détachable. Une housse lavable peut être pratique. Aucun garnissage particulier ne convient nécessairement à tous les enfants. Suivez les consignes des fabricants du lit et de l’oreiller et les conseils individuels du soignant.",
+              "Laissez l’enfant essayer l’oreiller dans son lit. S’il le repousse ou finit par dormir à côté, retirez-le. Retirez-le aussi s’il est si épais qu’il pousse le menton vers l’avant ou si une couture cède et laisse échapper du garnissage. S’il se réveille souvent avec des douleurs, ronfle fortement ou semble peiner à respirer pendant son sommeil, consultez au lieu de le surélever avec un autre oreiller."
+            ]
+          },
+          {
+            "heading": "Ce que montrent les recherches chez le nourrisson",
+            "paragraphs": [
+              "Une équipe a étudié des décès de nourrissons aux États-Unis classés comme des suffocations dont la cause avait été établie dans l’environnement de sommeil. Des éléments de literie mous étaient en cause dans 69 % de ces suffocations. Cette catégorie englobait d’autres éléments que les oreillers. L’étude n’a pas mesuré le risque d’un oreiller donné chez un enfant plus grand ni établi un âge auquel il deviendrait nécessaire.",
+              "Un oreiller dit de correction du crâne, un coussin incliné ou un cale-bébé n’a pas sa place dans le lit du nourrisson. Si la forme de sa tête vous préoccupe, faites examiner sa tête et son cou. Couchez-le sur le dos et proposez-lui des temps sur le ventre pendant l’éveil, sous surveillance."
+            ]
+          },
+          {
+            "heading": "Sécuriser l’ensemble de la chambre",
+            "paragraphs": [
+              "Après le passage au lit ouvert, mettez-vous à la hauteur de votre enfant pour voir ce qu’il peut atteindre. Fixez les meubles lourds, éloignez les cordons de stores et les fils électriques, et vérifiez qu’il ne peut pas se coincer dans un espace entre le lit et le mur. Utilisez un cadre de lit et un matelas conçus pour s’ajuster entre eux.",
+              "Si vous envisagez une barrière de lit amovible, vérifiez sa compatibilité avec l’âge de l’enfant, le modèle de lit et le matelas, puis suivez la notice de montage. Mal ajustée, elle peut laisser un espace où l’enfant se coince. Un lit bas peut convenir à la famille sans barrière supplémentaire."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Un enfant plus grand qui dort bien sans oreiller peut s’en passer.",
+          "Gardez le lit du nourrisson dégagé. Selon Red Nose, attendez que l’enfant ait plus de deux ans et ne soit plus dans un lit à barreaux avant d’envisager un oreiller.",
+          "Si vous en proposez un, choisissez-le petit, peu épais et intact. Vérifiez aussi la sécurité du lit et de la chambre."
+        ],
+        "faq": [
+          {
+            "q": "Un oreiller est-il indispensable pour un jeune enfant ?",
+            "a": "Non. Un enfant peut continuer à dormir confortablement sans oreiller après avoir changé de lit. Son lit n’a pas besoin d’être aménagé comme celui d’un adulte."
+          },
+          {
+            "q": "Peut-on mettre un oreiller dans un lit à barreaux ?",
+            "a": "Laissez tout oreiller hors du lit à barreaux ou du lit parapluie du nourrisson. Red Nose conseille également d’attendre que l’enfant ait plus de deux ans et dorme dans un lit ouvert. La mention « respirant » sur la housse ne change pas cette recommandation."
+          },
+          {
+            "q": "Quel enfant peut essayer un oreiller ?",
+            "a": "Un enfant plus grand déjà installé dans un lit adapté peut avoir envie d’essayer un petit oreiller peu épais une fois les conditions d’âge et de couchage réunies. Si une maladie affecte sa mobilité ou sa respiration, demandez un avis personnalisé."
+          },
+          {
+            "q": "Quel tissu ou garnissage choisir ?",
+            "a": "Il n’y a pas de matériau idéal pour tous. Un oreiller intact, petit, peu épais et doté d’une housse lavable est une solution pratique pour un enfant plus grand. Évitez les pièces qui se détachent et les coutures ouvertes. Respectez les conseils d’allergologie qui le concernent."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Écartez objets mous, cale-bébés et oreillers de l’espace de sommeil du nourrisson.",
+            "Tenez compte ensemble de l’âge, du couchage et du confort de l’enfant.",
+            "Lorsqu’il peut sortir du lit, inspectez les risques de chute, les cordons et les espaces où il pourrait se coincer."
+          ],
+          "bemama": "BeMama suggère de préparer d’abord le nouveau lit avec son drap-housse, puis de vous demander si votre enfant a réellement besoin d’autre chose.",
+          "safety": "Ne surélevez pas un nourrisson pour dormir et n’utilisez pas d’oreiller pour corriger un aplatissement du crâne. Si un enfant peine à respirer, devient bleu ou ne se réveille pas, appelez immédiatement les secours.",
+          "sources": [
+            {
+              "organization": "Red Nose Australia",
+              "title": "À quel moment introduire un oreiller",
+              "url": "https://rednose.org.au/safe-sleep-and-safer-pregnancy/newborn-to-1-year/when-can-i-introduce-a-pillow/"
+            },
+            {
+              "organization": "Red Nose Australia",
+              "title": "Préparer la chambre pour le passage au lit ouvert",
+              "url": "https://rednose.org.au/safe-sleep-and-safer-pregnancy/12-months-and-beyond/moving-your-child-from-a-cot-to-a-bed/"
+            },
+            {
+              "organization": "Erck Lambert et ses collègues, Pediatrics",
+              "title": "Suffocations expliquées chez le nourrisson liées à la literie molle, au recouvrement par une autre personne ou au coincement",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/31010907/"
+            },
+            {
+              "organization": "Académie américaine de pédiatrie",
+              "title": "Recommandations pour la sécurité du sommeil du nourrisson",
+              "url": "https://doi.org/10.1542/peds.2022-057990"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Çocuğum beşikten yatağa geçerken yastığa ihtiyaç duyar mı?",
+        "description": "Küçük bir çocuğun yastığı ne zaman deneyebileceğini, bebeğin beşiğinin neden boş kalması gerektiğini ve ilk yastıkta nelere bakacağınızı öğrenin.",
+        "intro": "Çocuğunuz çocuk yatağına geçti ve üzerine ne koyacağınızı düşünüyorsunuz. Yeni yatak bir yetişkinin gözüne alışılmadık derecede boş görünebilir. Çocuğunuz yastıksız rahat uyuyorsa sırf yatağı tamamlamak için yastık eklemeniz gerekmez.",
+        "sections": [
+          {
+            "heading": "Yaşın yanı sıra yatağa da bakın",
+            "paragraphs": [
+              "Bebeğin uyuduğu yere yastık koymayın. Bebeği lastikli çarşaf serili sert, düz ve yatay bir yatakta sırtüstü yatırın. Yumuşak nesneler burnunu ve ağzını kapatabilir. Çarşafın altına veya bebeğin başının altına konan yastık da uyku yüzeyini değiştirir.",
+              "Avustralya’da güvenli uyku konusunda çalışan Red Nose, küçük çocuğun iki yaşını geçmesini ve artık beşikte veya portatif beşikte uyumuyor olmasını beklemeyi önerir. Bu öneride iki koşul birlikte geçerlidir. Daha küçük bir çocuğun tırmanıp çıkması nedeniyle yatağa geçirilmesi yastığa ihtiyacı olduğu anlamına gelmez. Daha büyük bir çocuk yastıksız rahatsa bekleyebilir."
+            ]
+          },
+          {
+            "heading": "İlk yastığı sunmaya karar verirseniz",
+            "paragraphs": [
+              "Boynu rahat bir konumda bırakan küçük, alçak bir yastık seçin. Kılıfı sağlam olsun, dolgu malzemesi dışarı çıkmasın, üzerinde ip veya süs parçaları bulunmasın. Yıkanabilir kılıf pratik olabilir. Bütün çocukların ihtiyaç duyduğu tek bir dolgu yoktur. Yatak ve yastık üreticilerinin talimatlarını ve çocuğunuza özel sağlık önerilerini izleyin.",
+              "Çocuğunuzun kendi yatağında denemesine izin verin. İterse veya başı yastığın dışında uyuyorsa kaldırın. Çeneyi öne itecek kadar kalınsa veya kılıf yırtılıp dolgusu çıkıyorsa yine kaldırın. Çocuğunuz sık sık ağrıyla uyanıyorsa, yüksek sesle horluyorsa veya uykuda zor nefes alıyor görünüyorsa başka bir yastıkla yükseltmeye çalışmak yerine tıbbi görüş alın."
+            ]
+          },
+          {
+            "heading": "Bebeklerle ilgili araştırma ne gösteriyor?",
+            "paragraphs": [
+              "Araştırmacılar, ABD’de uyku ortamında nedeni açıklanmış boğulma olarak sınıflandırılan bebek ölümlerini inceledi. Bu açıklanmış boğulmaların %69’u yumuşak yatak eşyalarına bağlandı. Bu gruba yastık dışında başka eşyalar da dahildi. Çalışma daha büyük bir çocuğa belirli bir yastık vermenin riskini veya yastığın gerekli olduğu bir yaşı belirlemedi.",
+              "Beşiğe baş şekillendirme yastığı, kama veya uyku pozisyonlandırıcısı koymayın. Bebeğin baş şekli kaygı veriyorsa hekimin başını ve boynunu değerlendirmesini isteyin. Uyku için sırtüstü yatırın. Uyanık ve gözetim altındayken yüzüstü zaman sunun."
+            ]
+          },
+          {
+            "heading": "Uyku alanının tamamını düzenleyin",
+            "paragraphs": [
+              "Yatağa geçişten sonra çocuğunuzun boy hizasına eğilip neye eriştiğine bakın. Ağır mobilyaları sabitleyin, perde iplerini ve elektrik kablolarını erişemeyeceği yerde tutun. Yatakla duvar arasında sıkışabileceği boşluk olmasın. Birbirine uyacak şekilde tasarlanmış şilte ve karyola kullanın.",
+              "Bazı aileler taşınabilir bir yatak bariyeri düşünür. Kullanmadan önce çocuğun yaşına, karyolaya ve şilteye uygunluğunu kontrol edin ve kurulum talimatlarına uyun. Yanlış takılan bariyer sıkışma boşluğu oluşturabilir. Alçak bir yatak bariyer eklemeden de ailenize uygun olabilir."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Yastıksız rahat uyuyan daha büyük bir çocuğun yastığa ihtiyacı yoktur.",
+          "Bebeğin beşiğini boş tutun. Red Nose önerisine göre yastığı düşünmek için çocuğun iki yaşını geçmesini ve beşikten çıkmış olmasını bekleyin.",
+          "Sunacaksanız küçük, alçak, sağlam bir yastık seçin; yatağı ve odayı da tehlikeler açısından kontrol edin."
+        ],
+        "faq": [
+          {
+            "q": "Küçük çocuğun yastık kullanması gerekli mi?",
+            "a": "Hayır. Çocuk rahatsa yatağa geçtikten sonra da yastıksız uyuyabilir. Çocuk yatağının yetişkin yatağı gibi hazırlanması gerekmez."
+          },
+          {
+            "q": "Beşikte yastık güvenli mi?",
+            "a": "Bebeğin normal veya portatif beşiğine yastık koymayın. Red Nose, çocuğun iki yaşını geçmesini ve beşikte uyumayı bırakmasını da beklemeyi önerir. Kılıfın hava geçirgen olarak tanıtılması bu öneriyi değiştirmez."
+          },
+          {
+            "q": "Hangi çocuk yastığı denemeye hazır olabilir?",
+            "a": "Uygun bir çocuk yatağında uyuyan daha büyük bir çocuk, yaş ve uyku yeriyle ilgili koşullar karşılandığında küçük, alçak bir yastığı denemek isteyebilir. Bir hastalık hareketini veya solunumunu etkiliyorsa bireysel ihtiyaçlarını hekimiyle görüşün."
+          },
+          {
+            "q": "En iyi dolgu veya kumaş hangisidir?",
+            "a": "Herkes için en iyi tek bir malzeme yoktur. Daha büyük çocuk için sağlam, uygun boyda, alçak ve kılıfı yıkanabilir bir yastık pratik olabilir. Gevşek parçaları ve hasarlı dikişleri olan ürünlerden kaçının. Alerji konusunda verilmiş kişisel tavsiyelere uyun."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Bebeğin uyuduğu yerde yumuşak nesne, pozisyonlandırıcı veya yastık bulundurmayın.",
+            "Çocuğun yaşını, uyuduğu yeri ve rahatlığını birlikte değerlendirin.",
+            "Çocuk yataktan kalkabildiğinde uyku alanını düşme, ip ve sıkışma tehlikeleri açısından bütünüyle kontrol edin."
+          ],
+          "bemama": "BeMama yeni yatağa önce lastikli çarşafı sermeyi ve sonra çocuğunuz için başka bir şeye gerçekten gerek olup olmadığını düşünmeyi önerir.",
+          "safety": "Bebeği uyku için destekle yükseltmeyin ve baştaki düzleşmeyi tedavi etmek için yastık kullanmayın. Çocuk nefes almakta zorlanırsa, morarırsa veya uyandırılamıyorsa hemen acil yardım çağırın.",
+          "sources": [
+            {
+              "organization": "Red Nose Australia",
+              "title": "Yastık ne zaman kullanılabilir?",
+              "url": "https://rednose.org.au/safe-sleep-and-safer-pregnancy/newborn-to-1-year/when-can-i-introduce-a-pillow/"
+            },
+            {
+              "organization": "Red Nose Australia",
+              "title": "Beşikten yatağa geçiş için odayı hazırlama",
+              "url": "https://rednose.org.au/safe-sleep-and-safer-pregnancy/12-months-and-beyond/moving-your-child-from-a-cot-to-a-bed/"
+            },
+            {
+              "organization": "Erck Lambert ve çalışma arkadaşları, Pediatrics",
+              "title": "Yumuşak yatak eşyaları, başka bir kişinin bebeğin üstüne gelmesi ve sıkışmayla ilişkili açıklanmış bebek boğulmaları",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/31010907/"
+            },
+            {
+              "organization": "Amerikan Pediatri Akademisi",
+              "title": "Bebekler için güvenli uyku önerileri",
+              "url": "https://doi.org/10.1542/peds.2022-057990"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "¿Necesita mi hijo una almohada cuando pasa de la cuna a la cama?",
+        "description": "Cuándo puede probar una almohada un niño pequeño, por qué la cuna del bebé debe estar despejada y qué revisar al elegir la primera almohada.",
+        "intro": "Tu hijo ha pasado a una cama infantil y estás decidiendo qué poner. A un adulto, la cama nueva puede parecerle algo vacía. Si el niño duerme bien sin almohada, no hay necesidad de añadir una solo para que la cama parezca completa.",
+        "sections": [
+          {
+            "heading": "Ten en cuenta tanto la cama como la edad",
+            "paragraphs": [
+              "Mantén las almohadas fuera del lugar donde duerme un bebé. Acuéstalo boca arriba sobre un colchón firme, plano y horizontal, con una sábana ajustable. Un objeto blando puede taparle la nariz y la boca. Poner una almohada debajo de la sábana o de la cabeza también altera la superficie para dormir.",
+              "Para los niños más grandes, la organización australiana de sueño seguro Red Nose recomienda esperar a que tengan más de dos años y ya no duerman en cuna ni cuna de viaje. Su recomendación incluye ambas condiciones. Pasar antes a una cama porque el niño trepa para salir de la cuna no significa que necesite almohada. Un niño mayor que duerme bien sin ella puede seguir esperando."
+            ]
+          },
+          {
+            "heading": "Si decides ofrecer la primera almohada",
+            "paragraphs": [
+              "Elige una almohada pequeña y baja que deje el cuello en posición cómoda, con una funda intacta, sin relleno suelto, cordones ni adornos que puedan desprenderse. Una funda lavable resulta práctica. Ningún relleno es necesario para todos los niños. Sigue las instrucciones de la cama y de la almohada y las indicaciones particulares del equipo de salud.",
+              "Deja que la pruebe en su cama. Si la aparta o acaba durmiendo fuera de ella, quítala. Retírala si es tan alta que empuja la barbilla hacia delante o si se abre la funda y se sale el relleno. Si se despierta con dolor repetidamente, ronca con fuerza o parece respirar con esfuerzo durante el sueño, consulta al médico en lugar de probar otra almohada para elevarlo."
+            ]
+          },
+          {
+            "heading": "Qué nos dicen los datos de seguridad en bebés",
+            "paragraphs": [
+              "Un grupo de investigadores revisó muertes de bebés en Estados Unidos clasificadas como asfixia con causa identificada en el entorno de sueño. La ropa de cama y otros objetos blandos explicaron el 69 % de esas asfixias. La categoría incluía más productos que las almohadas. El estudio no midió el riesgo de una almohada concreta para niños mayores ni estableció una edad en la que sea necesaria.",
+              "No pongas en la cuna almohadas para moldear la cabeza, cuñas ni posicionadores. Si te preocupa la forma de la cabeza del bebé, pide que le examinen la cabeza y el cuello. Acuéstalo boca arriba y ofrece ratos boca abajo solo mientras esté despierto y vigilado."
+            ]
+          },
+          {
+            "heading": "Prepara todo el espacio donde duerme",
+            "paragraphs": [
+              "Después del cambio a la cama, agáchate a la altura de tu hijo para ver qué puede alcanzar. Fija los muebles pesados, aleja cables y cordones de persianas y comprueba que no haya huecos entre la cama y la pared en los que pueda quedar atrapado. Utiliza un colchón y una estructura que encajen entre sí.",
+              "Algunas familias consideran una barrera portátil. Comprueba antes que esté diseñada para la edad de tu hijo, esa cama y ese colchón, y sigue las instrucciones de montaje. Una barrera mal ajustada puede dejar un hueco peligroso. Una cama baja puede funcionar sin añadir barrera."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Un niño mayor que duerme cómodo sin almohada puede seguir así.",
+          "Mantén despejada la cuna del bebé. Según Red Nose, espera a que el niño tenga más de dos años y ya no duerma en la cuna antes de considerar una almohada.",
+          "Si la ofreces, que sea pequeña, baja y esté intacta. Revisa también la cama y la habitación."
+        ],
+        "faq": [
+          {
+            "q": "¿Es necesaria una almohada para un niño pequeño?",
+            "a": "No. Un niño que está cómodo puede dormir sin ella, incluso después de pasar a una cama. La cama infantil no tiene por qué parecerse a la de un adulto."
+          },
+          {
+            "q": "¿Es seguro usar almohadas en una cuna?",
+            "a": "Déjalas fuera de la cuna del bebé, incluidas las cunas de viaje. Red Nose aconseja esperar también hasta que el niño tenga más de dos años y ya no duerma en la cuna. Que la funda se anuncie como transpirable no cambia el consejo."
+          },
+          {
+            "q": "¿Qué niño puede estar preparado para probarla?",
+            "a": "Un niño algo mayor que ya duerme en una cama adecuada puede querer probar una almohada pequeña y baja cuando se cumplen las condiciones de edad y espacio. Si una enfermedad afecta al movimiento o la respiración, consulta sobre sus necesidades particulares."
+          },
+          {
+            "q": "¿Qué material o relleno es mejor?",
+            "a": "No hay un material óptimo para todos. Una almohada intacta, baja, de tamaño adecuado y con funda lavable puede ser práctica para un niño mayor. Evita piezas sueltas o costuras abiertas y sigue las indicaciones sobre alergias si corresponde."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Mantén almohadas, objetos blandos y posicionadores fuera del espacio donde duerme el bebé.",
+            "Valora en conjunto la edad, el lugar de sueño y la comodidad de tu hijo.",
+            "Cuando pueda salir de la cama, revisa toda la zona para detectar caídas, cordones y huecos donde pueda quedar atrapado."
+          ],
+          "bemama": "BeMama sugiere empezar preparando la cama nueva con la sábana ajustable y pensar después si ese niño en particular necesita algo más.",
+          "safety": "No eleves al bebé con objetos para dormir ni uses una almohada para corregir un aplanamiento de la cabeza. Si el niño tiene dificultad para respirar, se pone azulado o no puedes despertarlo, llama inmediatamente a emergencias.",
+          "sources": [
+            {
+              "organization": "Red Nose Australia",
+              "title": "Cuándo introducir una almohada",
+              "url": "https://rednose.org.au/safe-sleep-and-safer-pregnancy/newborn-to-1-year/when-can-i-introduce-a-pillow/"
+            },
+            {
+              "organization": "Red Nose Australia",
+              "title": "Cómo preparar la habitación para pasar de la cuna a la cama",
+              "url": "https://rednose.org.au/safe-sleep-and-safer-pregnancy/12-months-and-beyond/moving-your-child-from-a-cot-to-a-bed/"
+            },
+            {
+              "organization": "Erck Lambert y colaboradores, Pediatrics",
+              "title": "Asfixia infantil explicada por ropa de cama blanda, superposición de otra persona o atrapamiento",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/31010907/"
+            },
+            {
+              "organization": "Academia Americana de Pediatría",
+              "title": "Recomendaciones de sueño seguro para bebés",
+              "url": "https://doi.org/10.1542/peds.2022-057990"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Meu filho precisa de travesseiro ao passar do berço para a cama?",
+        "description": "Veja quando uma criança maior pode experimentar um travesseiro, por que o berço do bebê deve ficar livre e o que conferir ao escolher o primeiro travesseiro.",
+        "intro": "Seu filho passou para uma cama infantil e você está decidindo o que colocar nela. Aos olhos de um adulto, a cama nova pode parecer vazia demais. Se ele dorme bem sem travesseiro, não precisa ganhar um só para deixar a cama com aparência de pronta.",
+        "sections": [
+          {
+            "heading": "Considere a cama e a idade",
+            "paragraphs": [
+              "Deixe os travesseiros fora do local onde um bebê dorme. Coloque-o de barriga para cima em colchão firme, plano e horizontal, com lençol ajustado. Um objeto macio pode cobrir o nariz e a boca. Um travesseiro por baixo do lençol ou da cabeça do bebê também modifica a superfície de sono.",
+              "Para crianças maiores, a organização australiana de sono seguro Red Nose recomenda esperar até a criança ter mais de dois anos e não dormir mais em berço fixo ou portátil. A recomendação leva as duas condições em conta. Passar uma criança menor para a cama porque ela tenta escalar o berço não significa que precise de travesseiro. Mesmo uma criança maior pode esperar se está confortável sem ele."
+            ]
+          },
+          {
+            "heading": "Se você decidir oferecer o primeiro travesseiro",
+            "paragraphs": [
+              "Escolha um travesseiro pequeno e baixo que mantenha o pescoço em posição confortável, com capa intacta e sem enchimento solto, cordões ou enfeites. Uma capa lavável pode ser prática. Não há um enchimento necessário para todas as crianças. Siga as instruções dos fabricantes da cama e do travesseiro e as orientações individuais do profissional que acompanha a criança.",
+              "Deixe que experimente na própria cama. Se afastar o travesseiro ou acabar dormindo fora dele, retire-o. Retire também se for tão alto que empurre o queixo para a frente ou se a capa rasgar e o enchimento escapar. Se a criança acorda repetidamente com dor, ronca alto ou parece ter dificuldade para respirar durante o sono, procure orientação médica em vez de usar outro travesseiro para elevá-la."
+            ]
+          },
+          {
+            "heading": "O que os dados sobre bebês mostram",
+            "paragraphs": [
+              "Pesquisadores examinaram mortes de bebês nos Estados Unidos classificadas como sufocação de causa identificada no ambiente de sono. Artigos macios de cama foram responsáveis por 69% dessas sufocações. A categoria incluía outros objetos além dos travesseiros. O estudo não mediu o risco de um travesseiro específico para uma criança maior nem estabeleceu a idade em que ele se torna necessário.",
+              "Não coloque no berço travesseiros para moldar a cabeça, cunhas ou posicionadores. Se o formato da cabeça do bebê preocupa você, peça uma avaliação da cabeça e do pescoço. Para dormir, coloque-o de barriga para cima. Ofereça tempo de barriga para baixo enquanto estiver acordado e sob supervisão."
+            ]
+          },
+          {
+            "heading": "Considere todo o espaço de dormir",
+            "paragraphs": [
+              "Depois da mudança, abaixe-se até a altura da criança e veja o que ela alcança. Fixe móveis pesados, mantenha cordões de persianas e fios elétricos fora do alcance e verifique se há espaços entre a cama e a parede onde ela possa ficar presa. Use uma estrutura de cama e um colchão feitos para encaixar um no outro.",
+              "Algumas famílias pensam em usar uma grade portátil. Antes, confirme se serve para a idade da criança e para aquela cama e colchão e siga as instruções de montagem. Uma grade mal ajustada pode criar um vão perigoso. Uma cama baixa pode funcionar bem sem acrescentar grade."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Uma criança maior que dorme bem sem travesseiro pode continuar sem ele.",
+          "Mantenha o berço do bebê livre. Segundo a Red Nose, espere a criança ter mais de dois anos e já ter saído do berço antes de pensar em oferecer travesseiro.",
+          "Se oferecer, escolha um travesseiro pequeno, baixo e íntegro e confira a segurança da cama e do quarto."
+        ],
+        "faq": [
+          {
+            "q": "A criança pequena precisa de travesseiro?",
+            "a": "Não. Se a criança está confortável, pode dormir sem um, mesmo depois de passar para a cama. Uma cama infantil não precisa se parecer com uma de adulto."
+          },
+          {
+            "q": "O travesseiro é seguro no berço?",
+            "a": "Deixe-o fora do berço do bebê, inclusive do portátil. A Red Nose recomenda esperar até a criança ter mais de dois anos e não dormir mais no berço. Uma capa anunciada como respirável não altera essa orientação."
+          },
+          {
+            "q": "Que criança pode experimentar um travesseiro?",
+            "a": "Uma criança maior, já em cama adequada, pode querer experimentar um travesseiro pequeno e baixo quando as condições de idade e local de sono forem atendidas. Se uma doença afeta seus movimentos ou respiração, converse com o profissional sobre as necessidades individuais."
+          },
+          {
+            "q": "Qual tecido ou enchimento escolher?",
+            "a": "Nenhum material é o melhor para todos. Um travesseiro baixo e íntegro, de tamanho adequado e com capa lavável pode ser prático para uma criança maior. Evite partes soltas e costuras danificadas e siga orientações individuais sobre alergias."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Deixe objetos macios, posicionadores e travesseiros fora do espaço de sono do bebê.",
+            "Considere em conjunto idade, local de sono e conforto da criança.",
+            "Quando ela puder sair da cama, verifique todo o quarto quanto a quedas, cordões e espaços onde possa ficar presa."
+          ],
+          "bemama": "A BeMama sugere começar arrumando a cama nova com o lençol ajustado e só depois pensar se aquela criança precisa de mais alguma coisa.",
+          "safety": "Não eleve o bebê com objetos para dormir nem use travesseiro para corrigir achatamento da cabeça. Se uma criança tiver dificuldade para respirar, ficar azulada ou não acordar, procure ajuda de emergência imediatamente.",
+          "sources": [
+            {
+              "organization": "Red Nose Australia",
+              "title": "Quando introduzir um travesseiro",
+              "url": "https://rednose.org.au/safe-sleep-and-safer-pregnancy/newborn-to-1-year/when-can-i-introduce-a-pillow/"
+            },
+            {
+              "organization": "Red Nose Australia",
+              "title": "Preparação do quarto para a mudança do berço para a cama",
+              "url": "https://rednose.org.au/safe-sleep-and-safer-pregnancy/12-months-and-beyond/moving-your-child-from-a-cot-to-a-bed/"
+            },
+            {
+              "organization": "Erck Lambert e colaboradores, Pediatrics",
+              "title": "Sufocações explicadas em bebês relacionadas a artigos macios de cama, sobreposição de outra pessoa e aprisionamento",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/31010907/"
+            },
+            {
+              "organization": "Academia Americana de Pediatria",
+              "title": "Recomendações para o sono seguro de bebês",
+              "url": "https://doi.org/10.1542/peds.2022-057990"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5955.webp",
+    "heroAlt": {
+      "en": "A small rust-coloured pillow rests at the head of a low wooden bed with a plain fitted sheet.",
+      "es": "Una almohada pequeña de color teja en una cama baja de madera con una sábana ajustable lisa.",
+      "fr": "Un petit oreiller couleur terre cuite repose sur un lit bas en bois garni d’un drap-housse uni.",
+      "pt": "Um pequeno travesseiro cor de terracota em uma cama baixa de madeira com lençol ajustado liso.",
+      "tr": "Alçak ahşap yatağın başucunda düz bir lastikli çarşafın üzerinde küçük, kiremit renkli bir yastık var.",
+      "fa": "بالش کوچک آجری‌رنگی در بالای تخت چوبی کم‌ارتفاعی با ملحفه کش‌دار ساده قرار دارد.",
+      "ar": "وسادة صغيرة بلون آجري عند رأس سرير خشبي منخفض تغطي فراشه ملاءة سادة محكمة."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "Does my toddler need a pillow when they move to a bed?",
+      "description": "Find out when an older toddler can try sleeping with a pillow, why an infant’s crib should stay bare and what to check when choosing a first pillow."
+    },
+    "fa": {
+      "title": "آیا کودکم پس از رفتن به تخت کودک به بالش نیاز دارد؟",
+      "description": "ببینید کودک نوپای بزرگ‌تر چه زمانی می‌تواند بالش را امتحان کند، چرا تخت شیرخوار باید خالی بماند و برای انتخاب اولین بالش چه چیزهایی را بررسی کنید."
+    },
+    "ar": {
+      "title": "هل يحتاج طفلي إلى وسادة حين ينتقل إلى سرير الأطفال؟",
+      "description": "متى يستطيع الطفل الأكبر أن يجرّب وسادة، ولماذا يبقى سرير الرضيع خاليًا منها، وما التفاصيل التي ينبغي فحصها عند اختيار الوسادة الأولى؟"
+    },
+    "fr": {
+      "title": "Mon enfant a-t-il besoin d’un oreiller dans son premier lit ?",
+      "description": "Découvrez quand un enfant peut essayer un oreiller, pourquoi le lit du nourrisson doit rester dégagé et quels détails vérifier pour un premier oreiller."
+    },
+    "tr": {
+      "title": "Çocuğum beşikten yatağa geçerken yastığa ihtiyaç duyar mı?",
+      "description": "Küçük bir çocuğun yastığı ne zaman deneyebileceğini, bebeğin beşiğinin neden boş kalması gerektiğini ve ilk yastıkta nelere bakacağınızı öğrenin."
+    },
+    "es": {
+      "title": "¿Necesita mi hijo una almohada cuando pasa de la cuna a la cama?",
+      "description": "Cuándo puede probar una almohada un niño pequeño, por qué la cuna del bebé debe estar despejada y qué revisar al elegir la primera almohada."
+    },
+    "pt": {
+      "title": "Meu filho precisa de travesseiro ao passar do berço para a cama?",
+      "description": "Veja quando uma criança maior pode experimentar um travesseiro, por que o berço do bebê deve ficar livre e o que conferir ao escolher o primeiro travesseiro."
+    }
+  }
+}

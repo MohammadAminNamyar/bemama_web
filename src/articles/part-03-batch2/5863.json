@@ -1,0 +1,611 @@
+{
+  "sourceId": "5863",
+  "article": {
+    "slug": "is-your-child-ready-to-stay-home-alone-briefly",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "Is your child ready to stay home alone for a short time?",
+        "description": "Decide whether a short stay at home alone suits your child, practise what to do at the door or in a fire, and make a plan for reaching a trusted adult.",
+        "intro": "You need to collect something nearby, and your child would rather finish drawing at home. Before deciding, try a question together: “If my phone goes to voicemail and you smell smoke, what would you do first?” Their answer can show which parts of the plan still need practice.",
+        "sections": [
+          {
+            "heading": "Look at readiness in this particular situation",
+            "paragraphs": [
+              "Babies, toddlers and preschoolers need adult supervision. This decision is for an older child who can reliably follow the plan. Check the supervision requirements where you live. Think about your child’s age, judgement, communication needs and how they feel about the idea. Consider the time of day, the length of your absence and how quickly a trusted adult could reach them. A child able to spend a short time alone is not necessarily ready to supervise a sibling. Arrange adult care if they are frightened, need supervision or cannot get help reliably.",
+              "In a US survey, child protection specialists considered a hypothetical child left alone for four hours. Their judgements changed with the child’s age and the circumstances described. This was a study of professional opinions, not an experiment showing that four hours or any particular age is safe."
+            ]
+          },
+          {
+            "heading": "Rehearse with an adult still at home",
+            "paragraphs": [
+              "Ask your child to demonstrate calling you and a nearby backup adult. Make sure they know their address and how to call local emergency services. Discuss an unexpected knock or phone call. They can keep the door closed, avoid revealing that they are alone and call the agreed adult. Practise leaving by a safe exit if there is smoke or a fire, staying out and calling emergency services from safety.",
+              "Agree on ordinary activities and limits. Set out a snack that needs no cooking, decide whether visitors are allowed and secure medicines, weapons, matches and other hazards. A charged phone should work from the place your child will use it. Do a pretend check-in and try the backup plan together."
+            ]
+          },
+          {
+            "heading": "Start briefly and revisit the decision",
+            "paragraphs": [
+              "If local rules and your child’s readiness allow it, choose a short daytime absence with a nearby adult who has agreed to help. Set a return time and an exact check-in. If the check-in is missed and you cannot reach your child, arrange an immediate in-person check or return yourself. Seek emergency help if you believe the child is in danger.",
+              "Afterward, ask what went smoothly or felt uncomfortable. A chance to practise a familiar decision can build confidence, but staying alone is optional. Change the plan if your child asks for company or if the arrangements no longer fit."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Check local requirements and the child’s readiness for this specific absence.",
+          "Rehearse calls, a closed-door response and the fire escape route.",
+          "Agree on a reachable backup adult, an end time and what happens after a missed check-in."
+        ],
+        "faq": [
+          {
+            "q": "What should a child know before being left alone?",
+            "a": "They need a way to get help, their address, an emergency exit and the ability to follow the agreed plan. Practise together before you leave."
+          },
+          {
+            "q": "Which rules should we set?",
+            "a": "Agree on visitors, the door, online contact, food, appliances and activities. Keep the first plan short enough to remember."
+          },
+          {
+            "q": "How can we try it for the first time?",
+            "a": "Practise while an adult is home. If the child is willing and prepared and local rules allow it, begin briefly with a reachable adult nearby."
+          },
+          {
+            "q": "Are there benefits?",
+            "a": "A child who is ready may enjoy practising an everyday decision independently. They can also practise independence while an adult stays close. There is no need to leave an unwilling child alone."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Check local supervision requirements.",
+            "Have the child demonstrate calling for help.",
+            "Keep a backup adult and clear return time."
+          ],
+          "bemama": "BeMama suggests rehearsing what happens if the first call goes unanswered, then checking that the backup adult really is available.",
+          "safety": "If smoke or fire appears, leave by a safe exit, stay outside and call emergency services. If you cannot confirm your child is safe, arrange an immediate check and seek emergency help for actual or suspected danger.",
+          "sources": [
+            {
+              "organization": "American Academy of Pediatrics",
+              "title": "Is your child ready to stay home alone?",
+              "url": "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/is-your-child-ready-to-stay-home-alone.aspx"
+            },
+            {
+              "organization": "American Academy of Pediatrics",
+              "title": "Safety for children staying home on their own",
+              "url": "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/Safe-at-Home-Alone.aspx"
+            },
+            {
+              "organization": "Jennissen and colleagues, Injury Epidemiology",
+              "title": "Professional judgements about a child left home alone",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5893514/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "آیا فرزندتان آماده است مدتی کوتاه در خانه تنها بماند؟",
+        "description": "آمادگی فرزندتان را برای تنها ماندن کوتاه بسنجید. با هم تمرین کنید اگر کسی در زد، دود دید یا تماس اولش بی‌پاسخ ماند، چطور از یک بزرگسال کمک بگیرد.",
+        "intro": "لازم است چیزی را از همین نزدیکی بگیرید و فرزندتان ترجیح می‌دهد در خانه نقاشی‌اش را تمام کند. پیش از تصمیم بپرسید: «اگر به من زنگ بزنی و پیغام‌گیر جواب بدهد و همان موقع بوی دود حس کنی، اول چه کار می‌کنی؟» پاسخش می‌تواند نشان دهد کدام بخش برنامه هنوز تمرین می‌خواهد.",
+        "sections": [
+          {
+            "heading": "آمادگی را برای همین موقعیت بسنجید",
+            "paragraphs": [
+              "نوزادان، نوپایان و کودکان پیش‌دبستانی نیاز به مراقبت بزرگسال دارند. این تصمیم درباره کودک بزرگ‌تری است که بتواند با اطمینان برنامه را اجرا کند. مقررات نظارت بر کودکان را در محل زندگی‌تان بررسی کنید. سن، توان تصمیم‌گیری و نیازهای ارتباطی کودک و احساسش درباره این فکر مهم است. ساعت روز، مدت غیبت و زمانی را که یک بزرگسال مورد اعتماد برای رسیدن لازم دارد، در نظر بگیرید. توانایی تنها ماندن کوتاه به معنای آمادگی برای مراقبت از خواهر یا برادر نیست. اگر کودک می‌ترسد، به نظارت نیاز دارد یا نمی‌تواند به‌طور قابل اطمینان کمک بخواهد، یک بزرگسال کنارش بماند.",
+              "در نظرسنجی‌ای در آمریکا، متخصصان حمایت از کودکان موقعیتی فرضی را ارزیابی کردند که در آن کودکی چهار ساعت تنها مانده بود. نظرشان با سن کودک و شرایط توصیف‌شده تغییر می‌کرد. این پژوهش درباره نظر متخصصان بود و نشان نمی‌دهد که چهار ساعت یا سن مشخصی برای تنها ماندن ایمن است."
+            ]
+          },
+          {
+            "heading": "وقتی هنوز بزرگسالی در خانه است تمرین کنید",
+            "paragraphs": [
+              "بخواهید نشان دهد چطور با شما و با بزرگسال دیگری در نزدیکی که برای کمک تعیین کرده‌اید تماس می‌گیرد. مطمئن شوید نشانی خانه و راه تماس با خدمات اضطراری محل را می‌داند. درباره تماس تلفنی غیرمنتظره یا کسی که در می‌زند صحبت کنید. می‌تواند در را بسته نگه دارد، نگوید که تنهاست و با بزرگسال تعیین‌شده تماس بگیرد. تمرین کنید اگر دود یا آتش بود از مسیر امن خارج شود، بیرون بماند و از جای امن کمک اضطراری بخواهد.",
+              "درباره فعالیت‌ها و محدودیت‌ها توافق کنید. میان‌وعده‌ای آماده کنید که نیاز به پختن نداشته باشد، درباره پذیرش مهمان تصمیم بگیرید و دارو، سلاح، کبریت و وسایل خطرناک دیگر را ایمن و دور از دسترس نگه دارید. گوشی باید شارژ داشته باشد و از جایی که کودک از آن استفاده می‌کند کار کند. تماس در زمان مقرر و برنامه جایگزین را با هم امتحان کنید."
+            ]
+          },
+          {
+            "heading": "با زمان کوتاه شروع کنید و دوباره تصمیم را بسنجید",
+            "paragraphs": [
+              "اگر مقررات محل اجازه می‌دهد و فرزندتان آماده است، در روز مدت کوتاهی بیرون بروید، در حالی که بزرگسالی در نزدیکی پذیرفته در صورت نیاز کمک کند. ساعت بازگشت و زمان دقیق تماس را تعیین کنید. اگر تماس در زمان مقرر انجام نشد و نمی‌توانید فرزندتان را پیدا کنید، فوراً از کسی بخواهید حضوری سر بزند یا خودتان برگردید. اگر فکر می‌کنید کودک در خطر است، کمک اضطراری بخواهید.",
+              "بعد بپرسید کدام بخش راحت بود و چه چیزی ناراحتش کرد. تمرین تصمیمی آشنا می‌تواند اعتمادبه‌نفسش را بیشتر کند، اما تنها ماندن اجباری نیست. اگر همراه می‌خواهد یا شرایط دیگر مناسب نیست، برنامه را تغییر دهید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "مقررات محل و آمادگی کودک را برای همین غیبت مشخص بررسی کنید.",
+          "تماس گرفتن، پاسخ دادن با در بسته و مسیر خروج هنگام آتش‌سوزی را تمرین کنید.",
+          "بزرگسال دومی در دسترس، ساعت بازگشت و اقدام بعد از تماس بی‌پاسخ را مشخص کنید."
+        ],
+        "faq": [
+          {
+            "q": "کودک پیش از تنها ماندن چه باید بداند؟",
+            "a": "باید بتواند کمک بگیرد، نشانی خانه و راه خروج اضطراری را بشناسد و برنامه مورد توافق را اجرا کند. پیش از رفتن با هم تمرین کنید."
+          },
+          {
+            "q": "چه قانون‌هایی بگذاریم؟",
+            "a": "درباره مهمان، باز کردن در، ارتباط اینترنتی، غذا، وسایل خانه و فعالیت‌ها توافق کنید. برنامه اول آن‌قدر کوتاه باشد که به خاطر سپردنش آسان باشد."
+          },
+          {
+            "q": "نخستین بار چطور امتحان کنیم؟",
+            "a": "وقتی یک بزرگسال در خانه است تمرین کنید. اگر کودک مایل و آماده است و مقررات محل اجازه می‌دهد، با مدت کوتاه و یک بزرگسال در دسترس در نزدیکی آغاز کنید."
+          },
+          {
+            "q": "آیا این کار فایده‌ای دارد؟",
+            "a": "کودکی که آماده است ممکن است از تصمیم‌گیری مستقل در یک اتفاق روزمره لذت ببرد. در حضور یک بزرگسال در نزدیکی نیز می‌تواند استقلال را تمرین کند. لازم نیست کودکی را که نمی‌خواهد تنها بگذارید."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۶ نوامبر ۲۰۲۶ بررسی شدند",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "مقررات محلی نظارت بر کودک را بررسی کنید.",
+            "از کودک بخواهید نشان دهد چطور برای کمک تماس می‌گیرد.",
+            "بزرگسال دومی برای کمک و ساعت بازگشت مشخص داشته باشید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند تمرین کنید اگر تماس اول بی‌پاسخ ماند چه اتفاقی می‌افتد و بعد مطمئن شوید بزرگسال دوم واقعاً در دسترس است.",
+          "safety": "اگر دود یا آتش دیدید، از راه امن خارج شوید، بیرون بمانید و با خدمات اضطراری تماس بگیرید. اگر نمی‌توانید مطمئن شوید کودک در امان است، بلافاصله ترتیب بررسی حضوری بدهید و در صورت خطر یا احتمال آن کمک اضطراری بخواهید.",
+          "sources": [
+            {
+              "organization": "آکادمی اطفال آمریکا",
+              "title": "آیا فرزندتان برای تنها ماندن در خانه آماده است؟",
+              "url": "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/is-your-child-ready-to-stay-home-alone.aspx"
+            },
+            {
+              "organization": "آکادمی اطفال آمریکا",
+              "title": "ایمنی کودکانی که در خانه تنها می‌مانند",
+              "url": "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/Safe-at-Home-Alone.aspx"
+            },
+            {
+              "organization": "جنیسن و همکاران، مجله همه‌گیرشناسی آسیب",
+              "title": "نظر متخصصان درباره تنها گذاشتن کودک در خانه",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5893514/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "هل طفلك مستعد للبقاء وحده في المنزل فترة قصيرة؟",
+        "description": "قيّم استعداد طفلك للبقاء وحده قليلًا. تدرّبا على التصرف إذا طرق أحد الباب أو اندلع حريق، واتفقا على طريقة للوصول إلى شخص بالغ موثوق.",
+        "intro": "تحتاج إلى إحضار شيء من مكان قريب، ويفضل طفلك أن يبقى في المنزل ليكمل رسمته. اسأله قبل أن تقرر: «إذا اتصلت بي فرد البريد الصوتي وشممت رائحة دخان، ما أول شيء تفعله؟». قد تكشف إجابته أي خطوة تحتاج إلى مزيد من التدريب.",
+        "sections": [
+          {
+            "heading": "قدّر استعداده لهذه الظروف بالذات",
+            "paragraphs": [
+              "يحتاج الرضع والأطفال الصغار ومن هم في سن ما قبل المدرسة إلى إشراف بالغ. يخص هذا القرار طفلًا أكبر سنًا يستطيع تنفيذ الخطة بصورة يمكن الاعتماد عليها. تحقّق من قواعد الإشراف على الأطفال في مكان إقامتك. فكّر في عمر طفلك وقدرته على اتخاذ القرار واحتياجاته في التواصل وشعوره تجاه الفكرة. ضع في الحسبان وقت اليوم ومدة غيابك والوقت الذي يحتاجه بالغ موثوق للوصول إليه. قدرة الطفل على البقاء وحده فترة قصيرة لا تعني أنه مستعد لرعاية أخ أو أخت. دبّر وجود بالغ إذا كان الطفل خائفًا أو يحتاج إلى إشراف أو لا يستطيع طلب المساعدة بصورة موثوقة.",
+              "في استطلاع أمريكي، قيّم مختصون في حماية الأطفال حالة افتراضية لطفل تُرك وحده أربع ساعات. تغيرت آراؤهم بحسب عمر الطفل والظروف الموصوفة. قاست الدراسة آراء مهنية ولم تثبت أن أربع ساعات أو سنًا محددة آمنة."
+            ]
+          },
+          {
+            "heading": "تدرّبا بينما لا يزال بالغ في المنزل",
+            "paragraphs": [
+              "اطلب من طفلك أن يريك كيف يتصل بك وبشخص بالغ آخر قريب متفق عليه. تأكد من أنه يعرف عنوانه وكيف يتصل بخدمات الطوارئ المحلية. ناقشا طرقًا غير متوقع على الباب أو مكالمة مفاجئة. يمكنه إبقاء الباب مغلقًا وعدم الإفصاح عن أنه وحده والاتصال بالبالغ المتفق عليه. تدرّبا على الخروج من طريق آمن عند وجود دخان أو حريق، والبقاء في الخارج والاتصال بالطوارئ من مكان آمن.",
+              "اتفقا على الأنشطة المعتادة والحدود. حضّر وجبة خفيفة لا تحتاج إلى طهي، وقررا إن كان يُسمح بالزوار، واحفظ الأدوية والأسلحة وأعواد الثقاب وغيرها من مصادر الخطر في مكان آمن. يجب أن يكون الهاتف مشحونًا ويعمل من المكان الذي سيستخدمه فيه الطفل. حاكيا الاتصال في الموعد المقرر وجرّبا الخطة البديلة معًا."
+            ]
+          },
+          {
+            "heading": "ابدأ بمدة قصيرة وأعد النظر في القرار",
+            "paragraphs": [
+              "إذا سمحت القواعد المحلية وكان طفلك مستعدًا، فاختر غيابًا قصيرًا نهارًا مع وجود بالغ قريب وافق على المساعدة. حدّد ساعة العودة وموعدًا دقيقًا للاتصال. إذا فات موعد الاتصال ولم تستطع الوصول إلى طفلك، فاطلب من أحد أن يذهب فورًا للاطمئنان عليه أو عُد بنفسك. اطلب مساعدة طارئة إذا اعتقدت أنه في خطر.",
+              "اسأله بعد ذلك عما سار بسهولة وما أزعجه. قد تزيد ثقته بنفسه حين يتدرب على اتخاذ قرار مألوف، لكن البقاء وحده أمر اختياري. غيّر الخطة إذا طلب رفقة أو لم تعد الظروف مناسبة."
+            ]
+          }
+        ],
+        "takeaways": [
+          "راجع القواعد المحلية واستعداد الطفل لفترة الغياب المحددة.",
+          "تدرّبا على الاتصالات والرد من وراء باب مغلق وطريق الخروج عند الحريق.",
+          "حدّد بالغًا بديلًا يسهل الاتصال به، وموعد العودة، والخطوة التالية إذا فات الاتصال المتفق عليه."
+        ],
+        "faq": [
+          {
+            "q": "ماذا ينبغي أن يعرف الطفل قبل البقاء وحده؟",
+            "a": "يحتاج إلى وسيلة لطلب المساعدة، ومعرفة عنوانه ومخرج آمن، والقدرة على اتباع الخطة المتفق عليها. تدرّبا قبل خروجك."
+          },
+          {
+            "q": "ما القواعد التي ينبغي وضعها؟",
+            "a": "اتفقا على الزوار والباب والتواصل عبر الإنترنت والطعام والأجهزة والأنشطة. اجعلا الخطة الأولى قصيرة بما يكفي ليسهل تذكرها."
+          },
+          {
+            "q": "كيف نجرّب ذلك أول مرة؟",
+            "a": "تدرّبا في وجود بالغ في المنزل. إذا كان الطفل راغبًا ومستعدًا وكانت القواعد المحلية تسمح، فابدآ بمدة قصيرة مع بالغ قريب يمكن الوصول إليه."
+          },
+          {
+            "q": "هل هناك فوائد؟",
+            "a": "قد يستمتع الطفل المستعد بالتدرب على اتخاذ قرار يومي مستقلًا. ويمكنه التدرب على الاستقلالية أيضًا في وجود بالغ قريب. لا حاجة إلى ترك طفل لا يرغب في البقاء وحده."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "تحقّق من المتطلبات المحلية للإشراف على الأطفال.",
+            "اطلب من طفلك أن يريك كيف يتصل لطلب المساعدة.",
+            "اتفق على بالغ بديل ووقت عودة واضح."
+          ],
+          "bemama": "تقترح بي ماما أن تتدرّبا على التصرف إذا لم يجب أحد على الاتصال الأول، ثم تتأكدا من أن البالغ البديل متاح فعلًا.",
+          "safety": "إذا ظهر دخان أو حريق، اخرج من طريق آمن وابق في الخارج واتصل بالطوارئ. إذا لم تستطع التأكد من سلامة طفلك، فرتب فورًا أن يتفقده أحد في المكان، واطلب مساعدة طارئة عند وجود خطر أو الاشتباه فيه.",
+          "sources": [
+            {
+              "organization": "الأكاديمية الأمريكية لطب الأطفال",
+              "title": "هل طفلك مستعد للبقاء وحده في المنزل؟",
+              "url": "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/is-your-child-ready-to-stay-home-alone.aspx"
+            },
+            {
+              "organization": "الأكاديمية الأمريكية لطب الأطفال",
+              "title": "سلامة الأطفال الذين يبقون وحدهم في المنزل",
+              "url": "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/Safe-at-Home-Alone.aspx"
+            },
+            {
+              "organization": "جينيسن وزملاؤه، مجلة وبائيات الإصابات",
+              "title": "آراء المختصين في ترك طفل بمفرده في المنزل",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5893514/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Votre enfant est-il prêt à rester seul à la maison un moment ?",
+        "description": "Évaluez si votre enfant peut rester seul un moment, répétez les gestes en cas d’incendie ou de visite et prévoyez comment joindre un adulte de confiance.",
+        "intro": "Vous devez aller chercher quelque chose tout près et votre enfant préfère finir son dessin à la maison. Avant de décider, demandez-lui « Si tu tombes sur ma messagerie et que tu sens de la fumée, que fais-tu en premier ? » Sa réponse vous montrera quelles étapes méritent encore d’être répétées.",
+        "sections": [
+          {
+            "heading": "Évaluer si l’enfant est prêt dans ces circonstances",
+            "paragraphs": [
+              "Les bébés, les tout-petits et les enfants d’âge préscolaire ont besoin de la surveillance d’un adulte. Cette décision concerne un enfant plus grand qui sait appliquer les consignes de façon fiable. Vérifiez les règles de surveillance là où vous habitez. Tenez compte de son âge, de son jugement, de ses besoins de communication et de son avis. Considérez l’heure, la durée de votre absence et le délai dans lequel un adulte de confiance pourrait venir. Un enfant capable de rester seul brièvement n’est pas forcément prêt à garder son frère ou sa sœur. Prévoyez un adulte si votre enfant a peur, a besoin de surveillance ou ne peut pas demander de l’aide de manière fiable.",
+              "Dans une enquête américaine, des spécialistes de la protection de l’enfance ont évalué le cas fictif d’un enfant laissé seul pendant quatre heures. Leur jugement variait selon l’âge et les circonstances. Il s’agissait d’avis professionnels. L’enquête n’a établi ni qu’une durée de quatre heures était sans danger, ni qu’il existait un âge sûr."
+            ]
+          },
+          {
+            "heading": "S’entraîner pendant qu’un adulte est encore à la maison",
+            "paragraphs": [
+              "Demandez à votre enfant de vous montrer comment il vous appellerait, puis comment il joindrait un autre adulte proche. Vérifiez qu’il connaît son adresse et sait appeler les secours locaux. Discutez d’un coup de sonnette ou d’un appel imprévu. Il peut laisser la porte fermée, éviter de dire qu’il est seul et contacter l’adulte convenu. Répétez les gestes en cas de fumée ou de feu : sortir par une issue sûre, rester dehors et appeler les secours depuis un lieu sûr.",
+              "Convenez des activités et des limites. Préparez un goûter sans cuisson, décidez si les visites sont autorisées et mettez en sécurité médicaments, armes, allumettes et autres objets dangereux. Vérifiez que le téléphone est chargé et fonctionne à l’endroit où il sera utilisé. Simulez l’appel prévu et testez ensemble la solution de repli."
+            ]
+          },
+          {
+            "heading": "Commencer par une absence courte et en reparler",
+            "paragraphs": [
+              "Si les règles locales le permettent et que votre enfant est prêt, choisissez une courte absence en journée. Un adulte à proximité doit avoir accepté d’aider. Fixez l’heure de retour et l’heure exacte à laquelle vous vous appellerez. Si ce contact n’a pas lieu et que votre enfant est injoignable, demandez immédiatement à quelqu’un d’aller sur place ou rentrez vous-même. Appelez les secours si vous pensez que votre enfant est en danger.",
+              "Ensuite, demandez-lui ce qui s’est bien passé et ce qui l’a mis mal à l’aise. Prendre seul une décision familière peut le mettre en confiance, mais rester seul est facultatif. Modifiez le plan s’il demande de la compagnie ou si les circonstances ne s’y prêtent plus."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Vérifiez les règles locales et si votre enfant est prêt pour cette absence précise.",
+          "Répétez les appels, la réponse derrière une porte fermée et le trajet de sortie en cas d’incendie.",
+          "Prévoyez un adulte de relais joignable, l’heure du retour et la marche à suivre si le contact prévu échoue."
+        ],
+        "faq": [
+          {
+            "q": "Que doit connaître un enfant avant de rester seul ?",
+            "a": "Il doit pouvoir demander de l’aide, connaître son adresse et une issue de secours, et savoir suivre les consignes convenues. Entraînez-vous ensemble avant de partir."
+          },
+          {
+            "q": "Quelles règles poser ?",
+            "a": "Parlez des visites, de la porte, des contacts en ligne, de la nourriture, des appareils et des activités. Pour commencer, limitez-vous à des consignes faciles à retenir."
+          },
+          {
+            "q": "Comment essayer la première fois ?",
+            "a": "Entraînez-vous avec un adulte à la maison. Si l’enfant est volontaire et prêt et que les règles locales le permettent, commencez par une courte absence avec un adulte joignable à proximité."
+          },
+          {
+            "q": "Quels peuvent être les avantages ?",
+            "a": "Un enfant qui se sent prêt peut apprécier de prendre seul une décision du quotidien. Il peut aussi gagner en autonomie avec un adulte tout près. Il n’est pas nécessaire de laisser seul un enfant qui ne le souhaite pas."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Vérifiez les règles locales de surveillance.",
+            "Demandez à l’enfant de vous montrer comment il appellerait à l’aide.",
+            "Prévoyez un adulte de relais et une heure de retour précise."
+          ],
+          "bemama": "BeMama vous suggère de répéter quoi faire si le premier appel reste sans réponse, puis de vérifier que l’adulte de relais est bien disponible.",
+          "safety": "En cas de fumée ou de feu, sortez par une issue sûre, restez dehors et appelez les secours. Si vous ne pouvez pas vérifier que votre enfant est en sécurité, faites immédiatement vérifier sur place et appelez les secours en cas de danger avéré ou suspecté.",
+          "sources": [
+            {
+              "organization": "Académie américaine de pédiatrie",
+              "title": "Votre enfant est-il prêt à rester seul à la maison ?",
+              "url": "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/is-your-child-ready-to-stay-home-alone.aspx"
+            },
+            {
+              "organization": "Académie américaine de pédiatrie",
+              "title": "La sécurité des enfants qui restent seuls à la maison",
+              "url": "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/Safe-at-Home-Alone.aspx"
+            },
+            {
+              "organization": "Jennissen et ses collègues, Injury Epidemiology",
+              "title": "Avis de professionnels sur un enfant laissé seul à la maison",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5893514/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Çocuğunuz kısa süre evde yalnız kalmaya hazır mı?",
+        "description": "Çocuğunuzun kısa süre evde kalmaya hazır olup olmadığını değerlendirin. Kapı çalarsa, yangın çıkarsa veya ilk araması yanıtsız kalırsa ne yapacağını deneyin.",
+        "intro": "Yakında bir yere uğramanız gerekiyor ve çocuğunuz evde resmini bitirmek istiyor. Karar vermeden önce şu soruyu birlikte düşünün: “Beni arayınca telesekreter çıkarsa ve duman kokusu alırsan ilk ne yaparsın?” Yanıtı, planın hangi adımlarını prova etmeniz gerektiğini gösterebilir.",
+        "sections": [
+          {
+            "heading": "Bu durum için hazır olup olmadığına bakın",
+            "paragraphs": [
+              "Bebekler, küçük çocuklar ve okul öncesi yaştaki çocuklar bir yetişkinin gözetimine ihtiyaç duyar. Bu karar, planı güvenilir biçimde uygulayabilen daha büyük bir çocukla ilgilidir. Yaşadığınız yerdeki gözetim kurallarını kontrol edin. Çocuğun yaşını, karar verme becerisini, iletişim ihtiyaçlarını ve bu fikir karşısındaki duygularını düşünün. Günün hangi saati olduğunu, ne kadar süre dışarıda kalacağınızı ve güvendiğiniz bir yetişkinin ne kadar çabuk ulaşabileceğini hesaba katın. Kısa süre yalnız kalabilen bir çocuk kardeşine bakmaya hazır olmayabilir. Korkuyorsa, gözetim gerekiyorsa veya yardım isteyebileceğinden emin değilseniz yanında bir yetişkin bulunsun.",
+              "ABD’de yapılan bir ankette çocuk koruma uzmanları, bir çocuğun dört saat yalnız kaldığı varsayımsal bir durumu değerlendirdi. Görüşleri çocuğun yaşı ve anlatılan koşullara göre değişti. Bu bir uzman görüşü araştırmasıydı. Dört saatin ya da belirli bir yaşın güvenli olduğunu gösteren bir deney değildi."
+            ]
+          },
+          {
+            "heading": "Evde hâlâ bir yetişkin varken prova yapın",
+            "paragraphs": [
+              "Çocuğunuz size ve yakında yaşayan, yedek olarak belirlediğiniz bir yetişkine nasıl telefon edeceğini göstersin. Adresini ve yerel acil yardım servisini nasıl arayacağını bildiğinden emin olun. Beklenmedik bir kapı zili ya da telefon aramasını konuşun. Kapıyı kapalı tutabilir, yalnız olduğunu söylemeyebilir ve belirlediğiniz yetişkini arayabilir. Duman veya yangın varsa güvenli bir çıkıştan ayrılmayı, dışarıda kalmayı ve güvenli yerden acil yardım çağırmayı prova edin.",
+              "Etkinlik ve sınırları kararlaştırın. Pişirme gerektirmeyen bir atıştırmalık hazırlayın, ziyaretçilere izin olup olmadığına karar verin ve ilaçları, silahları, kibritleri ve diğer tehlikeleri güvene alın. Telefon şarjlı olmalı ve çocuğun kullanacağı yerden çalışmalı. Kararlaştırdığınız görüşmenin provasını yapın ve yanıt alınamazsa ne olacağını deneyin."
+            ]
+          },
+          {
+            "heading": "Kısa başlayıp kararı yeniden değerlendirin",
+            "paragraphs": [
+              "Yerel kurallar izin veriyor ve çocuğunuz hazırsa, yardım etmeyi kabul eden bir yetişkin yakındayken gündüz kısa süreliğine çıkın. Dönüş saatini ve tam ne zaman görüşeceğinizi belirleyin. O saatte haber alamaz ve çocuğunuza ulaşamazsanız birinin hemen gidip kontrol etmesini sağlayın veya kendiniz dönün. Çocuğun tehlikede olduğunu düşünüyorsanız acil yardım isteyin.",
+              "Sonradan neyin kolay geldiğini ve onu neyin rahatsız ettiğini sorun. Bildiği bir konuda kendi başına karar vermek güvenini artırabilir, ancak yalnız kalmak zorunda değildir. Yanında birini istiyorsa veya koşullar değişmişse planı değiştirin."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Bulunduğunuz yerdeki kuralları ve çocuğunuzun bu belirli süre için hazır olup olmadığını kontrol edin.",
+          "Aramaları, kapıyı açmadan yanıt vermeyi ve yangın çıkış yolunu prova edin.",
+          "Ulaşılabilir ikinci bir yetişkin, dönüş saati ve kararlaştırılan görüşme olmazsa atılacak adımı belirleyin."
+        ],
+        "faq": [
+          {
+            "q": "Yalnız kalmadan önce çocuk neleri bilmeli?",
+            "a": "Yardım isteyebilmeli, adresini ve acil çıkış yolunu bilmeli, kararlaştırdığınız planı uygulayabilmelidir. Evden çıkmadan önce birlikte deneyin."
+          },
+          {
+            "q": "Hangi kuralları koymalıyız?",
+            "a": "Ziyaretçileri, kapıyı, çevrimiçi iletişimi, yiyecekleri, ev aletlerini ve etkinlikleri konuşun. İlk plan hatırlanacak kadar kısa olsun."
+          },
+          {
+            "q": "İlk kez nasıl deneyebiliriz?",
+            "a": "Evde bir yetişkin varken prova yapın. Çocuk istiyor ve hazırsa, yerel kurallar da izin veriyorsa yakında ulaşılabilir bir yetişkin varken kısa süreyle başlayın."
+          },
+          {
+            "q": "Yararları var mı?",
+            "a": "Hazır bir çocuk gündelik bir kararı tek başına vermekten keyif alabilir. Yakında bir yetişkin varken de bağımsız davranmayı öğrenebilir. İstemeyen çocuğu yalnız bırakmanız gerekmez."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Bulunduğunuz yerdeki gözetim kurallarını öğrenin.",
+            "Çocuğunuzdan yardım için nasıl arama yapacağını göstermesini isteyin.",
+            "Ulaşılabilir ikinci bir yetişkin ve açık bir dönüş saati belirleyin."
+          ],
+          "bemama": "BeMama, ilk aramayı kimse açmazsa ne olacağını prova etmenizi ve ikinci yetişkinin gerçekten ulaşılabilir olduğunu doğrulamanızı önerir.",
+          "safety": "Duman ya da yangın varsa güvenli bir çıkıştan ayrılın, dışarıda kalın ve acil yardım çağırın. Çocuğunuzun güvende olduğunu doğrulayamazsanız hemen yerinde kontrol edilmesini sağlayın. Tehlike varsa veya bundan şüpheleniyorsanız acil yardım isteyin.",
+          "sources": [
+            {
+              "organization": "Amerikan Pediatri Akademisi",
+              "title": "Çocuğunuz evde yalnız kalmaya hazır mı?",
+              "url": "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/is-your-child-ready-to-stay-home-alone.aspx"
+            },
+            {
+              "organization": "Amerikan Pediatri Akademisi",
+              "title": "Evde tek başına kalan çocuklar için güvenlik",
+              "url": "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/Safe-at-Home-Alone.aspx"
+            },
+            {
+              "organization": "Jennissen ve çalışma arkadaşları, Injury Epidemiology",
+              "title": "Bir çocuğun evde yalnız kalmasına ilişkin uzman değerlendirmeleri",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5893514/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "¿Puede tu hijo quedarse solo en casa un rato?",
+        "description": "Valora si tu hijo puede quedarse solo un rato, ensayad qué hacer si llaman a la puerta o hay un incendio y acordad cómo localizar a un adulto de confianza.",
+        "intro": "Tienes que recoger algo cerca y tu hijo prefiere quedarse dibujando en casa. Antes de decidir, pregúntale: «Si me llamas, salta el buzón de voz y hueles a humo, ¿qué harías primero?». Su respuesta os puede ayudar a ver qué pasos conviene practicar.",
+        "sections": [
+          {
+            "heading": "Valora si está preparado en esta situación concreta",
+            "paragraphs": [
+              "Los bebés, los niños pequeños y los de edad preescolar necesitan la supervisión de un adulto. Esta decisión se plantea con un niño mayor que pueda seguir el plan de forma fiable. Comprueba las normas de supervisión del lugar donde vivís. Ten en cuenta su edad, criterio, necesidades de comunicación y qué le parece la idea. Importan la hora, el tiempo que estarás fuera y lo que tardaría en llegar un adulto de confianza. Poder quedarse solo un rato no significa que esté preparado para cuidar de un hermano. Si tiene miedo, necesita supervisión o no puede pedir ayuda de forma fiable, encarga su cuidado a un adulto.",
+              "En una encuesta estadounidense, especialistas en protección infantil valoraron el caso hipotético de un niño que se quedaba solo cuatro horas. Sus opiniones cambiaban según la edad y las circunstancias. El estudio recogió opiniones profesionales. No demuestra que cuatro horas o una edad determinada sean seguras."
+            ]
+          },
+          {
+            "heading": "Ensayad mientras todavía hay un adulto en casa",
+            "paragraphs": [
+              "Pídele que te muestre cómo te llamaría a ti y a otro adulto cercano al que pueda recurrir. Comprueba que sabe su dirección y cómo llamar al servicio local de emergencias. Hablad de qué hacer ante una visita o llamada inesperada. Puede mantener la puerta cerrada, evitar decir que está solo y llamar al adulto acordado. Practicad cómo salir por una vía segura si hay humo o fuego, quedarse fuera y llamar a emergencias desde un lugar seguro.",
+              "Acordad actividades y límites sencillos. Prepara un tentempié que no necesite cocción, decidid si se permiten visitas y guarda fuera de su alcance medicamentos, armas, cerillas y otros objetos peligrosos. Comprueba que el teléfono esté cargado y funcione desde el lugar donde lo usará. Simulad la llamada de seguimiento y probad la alternativa si nadie contesta."
+            ]
+          },
+          {
+            "heading": "Empezad con poco tiempo y volved a hablarlo",
+            "paragraphs": [
+              "Si las normas locales lo permiten y tu hijo está preparado, empieza con una salida breve, de día, con un adulto cercano que haya aceptado ayudar. Fijad la hora de regreso y el momento exacto para hablar. Si tu hijo no responde a la hora prevista y no puedes localizarlo, pide que alguien vaya de inmediato o vuelve tú. Si crees que corre peligro, llama a emergencias.",
+              "Después, pregúntale qué le resultó fácil y qué le incomodó. Resolver por sí mismo una situación conocida puede darle confianza, pero quedarse solo es opcional. Cambia el plan si pide compañía o si las circunstancias ya no son las mismas."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Comprueba las normas locales y si tu hijo está preparado para esa ausencia concreta.",
+          "Practicad las llamadas, cómo responder con la puerta cerrada y por dónde salir si hay fuego.",
+          "Acordad un adulto alternativo localizable, la hora de vuelta y qué hacer si falla el contacto previsto."
+        ],
+        "faq": [
+          {
+            "q": "¿Qué debe saber un niño antes de quedarse solo?",
+            "a": "Necesita poder pedir ayuda, conocer su dirección y una salida de emergencia y ser capaz de seguir lo acordado. Ensayad juntos antes de salir."
+          },
+          {
+            "q": "¿Qué reglas conviene establecer?",
+            "a": "Poneos de acuerdo sobre visitas, puerta, contactos por internet, comida, aparatos y actividades. El primer plan debe ser lo bastante breve para recordarlo."
+          },
+          {
+            "q": "¿Cómo podemos probarlo por primera vez?",
+            "a": "Practicad mientras haya un adulto en casa. Si el niño está dispuesto y preparado y lo permiten las normas locales, empezad con poco tiempo y un adulto cercano disponible."
+          },
+          {
+            "q": "¿Tiene alguna ventaja?",
+            "a": "Un niño preparado puede disfrutar tomando una decisión cotidiana por sí mismo. También puede practicar su autonomía con un adulto cerca. No hace falta dejar solo a un niño que no quiere."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Comprueba los requisitos locales de supervisión.",
+            "Pide al niño que te muestre cómo llamaría para pedir ayuda.",
+            "Cuenta con un adulto alternativo y fija la hora de regreso."
+          ],
+          "bemama": "BeMama sugiere ensayar qué hacer si nadie responde a la primera llamada y comprobar que el segundo adulto está disponible de verdad.",
+          "safety": "Si aparece humo o fuego, hay que salir por una vía segura, quedarse fuera y llamar a emergencias. Si no puedes confirmar que tu hijo está a salvo, pide que alguien vaya de inmediato y solicita ayuda de emergencia si hay peligro o sospechas que lo hay.",
+          "sources": [
+            {
+              "organization": "Academia Estadounidense de Pediatría",
+              "title": "¿Está preparado tu hijo para quedarse solo en casa?",
+              "url": "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/is-your-child-ready-to-stay-home-alone.aspx"
+            },
+            {
+              "organization": "Academia Estadounidense de Pediatría",
+              "title": "Seguridad para los niños que se quedan solos en casa",
+              "url": "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/Safe-at-Home-Alone.aspx"
+            },
+            {
+              "organization": "Jennissen y colaboradores, Injury Epidemiology",
+              "title": "Opiniones profesionales sobre dejar a un niño solo en casa",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5893514/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Seu filho está pronto para ficar sozinho em casa por pouco tempo?",
+        "description": "Avalie se seu filho pode ficar sozinho por pouco tempo. Ensaie o que fazer se alguém bater à porta ou houver um incêndio e como chamar um adulto de confiança.",
+        "intro": "Você precisa buscar algo perto de casa e seu filho prefere ficar terminando um desenho. Antes de decidir, pergunte: “Se você me ligar e a chamada cair na caixa postal e você sentir cheiro de fumaça, o que faria primeiro?” A resposta pode mostrar quais passos ainda precisam de ensaio.",
+        "sections": [
+          {
+            "heading": "Avalie se a criança está pronta nessa situação",
+            "paragraphs": [
+              "Bebês, crianças pequenas e crianças em idade pré-escolar precisam da supervisão de um adulto. Essa decisão diz respeito a uma criança mais velha que consiga seguir o plano com segurança. Verifique as regras de supervisão de onde você mora. Considere idade, discernimento, necessidades de comunicação e o que a criança acha da ideia. Leve em conta o horário, quanto tempo ficará fora e em quanto tempo um adulto de confiança poderia chegar. Poder ficar só por pouco tempo não significa estar pronto para cuidar de um irmão. Providencie um adulto se a criança estiver com medo, precisar de supervisão ou não conseguir pedir ajuda de forma confiável.",
+              "Em uma pesquisa nos Estados Unidos, especialistas em proteção infantil avaliaram uma situação hipotética em que uma criança ficava sozinha por quatro horas. As opiniões variaram conforme a idade e as circunstâncias. O estudo registrou opiniões profissionais. Não demonstrou que quatro horas ou determinada idade sejam seguras."
+            ]
+          },
+          {
+            "heading": "Ensaiem enquanto ainda há um adulto em casa",
+            "paragraphs": [
+              "Peça à criança que mostre como telefonaria para você e para outro adulto próximo que possa ajudar. Confira se ela sabe o endereço e como chamar o serviço local de emergência. Conversem sobre visitas ou ligações inesperadas. Ela pode manter a porta fechada, evitar dizer que está sozinha e ligar para o adulto combinado. Pratiquem como sair por uma rota segura em caso de fumaça ou incêndio, permanecer do lado de fora e chamar a emergência de um lugar seguro.",
+              "Combinem atividades e limites. Deixe um lanche pronto para comer, que não precise ser cozido nem aquecido, decidam se visitas serão permitidas e guarde medicamentos, armas, fósforos e outros itens perigosos em segurança. O telefone deve estar carregado e funcionar onde será usado. Simulem a ligação no horário combinado e testem a alternativa caso ela não dê certo."
+            ]
+          },
+          {
+            "heading": "Comece com pouco tempo e reavalie",
+            "paragraphs": [
+              "Se as regras locais permitirem e a criança estiver pronta, escolha uma saída breve durante o dia, com um adulto por perto que tenha concordado em ajudar. Combine a hora da volta e o horário exato de uma ligação. Se esse contato não acontecer e você não conseguir falar com a criança, peça imediatamente que alguém vá até lá ou volte pessoalmente. Chame a emergência se acreditar que ela está em perigo.",
+              "Depois, pergunte o que correu bem e o que a deixou desconfortável. Praticar uma decisão familiar pode dar confiança, mas ficar só é opcional. Mude o plano se ela pedir companhia ou se as condições já não forem adequadas."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Confira as regras locais e se a criança está pronta para essa ausência específica.",
+          "Ensaiem ligações, como responder sem abrir a porta e por onde sair se houver fogo.",
+          "Combine um adulto de apoio acessível, um horário de volta e o que fazer se a ligação prevista não acontecer."
+        ],
+        "faq": [
+          {
+            "q": "O que a criança precisa saber antes de ficar sozinha?",
+            "a": "Precisa saber pedir ajuda, conhecer o endereço e uma saída de emergência e conseguir seguir o plano. Ensaiem juntos antes de você sair."
+          },
+          {
+            "q": "Que regras devemos combinar?",
+            "a": "Conversem sobre visitas, porta, contatos pela internet, comida, aparelhos e atividades. Façam um primeiro plano simples de lembrar."
+          },
+          {
+            "q": "Como fazer a primeira tentativa?",
+            "a": "Ensaiem com um adulto ainda em casa. Se a criança quiser, estiver preparada e as regras locais permitirem, comece com pouco tempo e um adulto disponível nas proximidades."
+          },
+          {
+            "q": "Há benefícios?",
+            "a": "Uma criança preparada pode gostar de tomar sozinha uma decisão do dia a dia. Também pode praticar a autonomia com um adulto por perto. Não é preciso deixar sozinha uma criança que não quer ficar."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Confira as regras locais de supervisão.",
+            "Peça à criança que demonstre como pediria ajuda por telefone.",
+            "Tenha um adulto de apoio e um horário de retorno definido."
+          ],
+          "bemama": "A BeMama sugere ensaiar o que fazer se ninguém atender à primeira ligação e confirmar que o adulto de apoio estará realmente disponível.",
+          "safety": "Se houver fumaça ou fogo, saia por uma rota segura, fique do lado de fora e ligue para a emergência. Se não conseguir confirmar que a criança está segura, providencie uma verificação imediata no local e chame a emergência se houver perigo ou suspeita dele.",
+          "sources": [
+            {
+              "organization": "Academia Americana de Pediatria",
+              "title": "Seu filho está pronto para ficar sozinho em casa?",
+              "url": "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/is-your-child-ready-to-stay-home-alone.aspx"
+            },
+            {
+              "organization": "Academia Americana de Pediatria",
+              "title": "Segurança de crianças que ficam em casa sozinhas",
+              "url": "https://www.healthychildren.org/English/safety-prevention/at-home/Pages/Safe-at-Home-Alone.aspx"
+            },
+            {
+              "organization": "Jennissen e colaboradores, Injury Epidemiology",
+              "title": "Avaliações de profissionais sobre uma criança deixada sozinha em casa",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5893514/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5863.webp",
+    "heroAlt": {
+      "en": "A house key, phone and hand-drawn floor plan sit near a closed front door.",
+      "es": "Una llave de casa, un teléfono y un plano dibujado junto a la puerta cerrada.",
+      "fr": "Une clé, un téléphone et un plan dessiné sont posés près de la porte fermée.",
+      "pt": "Chave, telefone e planta desenhada à mão perto da porta de entrada fechada.",
+      "tr": "Kapalı giriş kapısının yanında ev anahtarı, telefon ve elde çizilmiş ev planı.",
+      "fa": "کلید خانه، تلفن و نقشهٔ دستی خانه کنار در ورودی بسته قرار دارند.",
+      "ar": "مفتاح منزل وهاتف ومخطط مرسوم باليد بالقرب من باب المدخل المغلق."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "Is your child ready to stay home alone for a short time?",
+      "description": "Decide whether a short stay at home alone suits your child, practise what to do at the door or in a fire, and make a plan for reaching a trusted adult."
+    },
+    "fa": {
+      "title": "آیا فرزندتان آماده است مدتی کوتاه در خانه تنها بماند؟",
+      "description": "آمادگی فرزندتان را برای تنها ماندن کوتاه بسنجید. با هم تمرین کنید اگر کسی در زد، دود دید یا تماس اولش بی‌پاسخ ماند، چطور از یک بزرگسال کمک بگیرد."
+    },
+    "ar": {
+      "title": "هل طفلك مستعد للبقاء وحده في المنزل فترة قصيرة؟",
+      "description": "قيّم استعداد طفلك للبقاء وحده قليلًا. تدرّبا على التصرف إذا طرق أحد الباب أو اندلع حريق، واتفقا على طريقة للوصول إلى شخص بالغ موثوق."
+    },
+    "fr": {
+      "title": "Votre enfant est-il prêt à rester seul à la maison un moment ?",
+      "description": "Évaluez si votre enfant peut rester seul un moment, répétez les gestes en cas d’incendie ou de visite et prévoyez comment joindre un adulte de confiance."
+    },
+    "tr": {
+      "title": "Çocuğunuz kısa süre evde yalnız kalmaya hazır mı?",
+      "description": "Çocuğunuzun kısa süre evde kalmaya hazır olup olmadığını değerlendirin. Kapı çalarsa, yangın çıkarsa veya ilk araması yanıtsız kalırsa ne yapacağını deneyin."
+    },
+    "es": {
+      "title": "¿Puede tu hijo quedarse solo en casa un rato?",
+      "description": "Valora si tu hijo puede quedarse solo un rato, ensayad qué hacer si llaman a la puerta o hay un incendio y acordad cómo localizar a un adulto de confianza."
+    },
+    "pt": {
+      "title": "Seu filho está pronto para ficar sozinho em casa por pouco tempo?",
+      "description": "Avalie se seu filho pode ficar sozinho por pouco tempo. Ensaie o que fazer se alguém bater à porta ou houver um incêndio e como chamar um adulto de confiança."
+    }
+  }
+}

@@ -1,0 +1,695 @@
+{
+  "sourceId": "5912",
+  "article": {
+    "slug": "baby-and-child/cold-sores-in-children-and-newborn-exposure",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "Cold sores in children and exposure in a newborn",
+        "description": "Learn how to help a child drink when herpes sores hurt, how cold sores spread to a newborn and which changes in a young baby need urgent medical attention.",
+        "intro": "Your preschooler pushes away breakfast and points to a sore mouth. A new baby sleeps in the next room. For the older child, a practical question is whether they can drink enough. For the newborn, keep the sore away from their face and know what to do if contact has already happened.",
+        "sections": [
+          {
+            "heading": "When mouth sores make drinking painful",
+            "paragraphs": [
+              "A first oral herpes simplex virus (HSV) infection may cause fever, swollen gums and painful sores in or around the mouth. Later episodes often appear as a smaller cluster of blisters on the lip. Other illnesses cause mouth ulcers too. Offer the older child frequent small sips of cool fluid and ask a clinician or pharmacist about suitable pain relief.",
+              "Seek urgent advice if the child cannot drink, urinates much less or has severe pain. Eye pain, redness or sensitivity to light needs urgent assessment. A child with a weakened immune system and suspected HSV needs prompt medical advice."
+            ]
+          },
+          {
+            "heading": "When a clinician may consider antiviral medicine",
+            "paragraphs": [
+              "Most otherwise healthy children recover with fluids and pain relief. In a trial of children aged one to six seen within three days of developing gingivostomatitis, 61 with confirmed HSV completed the study. Drinking difficulties lasted a median of three days with oral aciclovir and six with placebo. The findings apply to early treatment of that particular illness.",
+              "A clinician may consider early antiviral treatment if pain is severe or dehydration is a concern. Do not give a child somebody else’s antiviral medicine. A sick newborn needs a different assessment and may need intravenous treatment in hospital."
+            ]
+          },
+          {
+            "heading": "Protect a baby from direct contact",
+            "paragraphs": [
+              "HSV can pass during birth through contact with genital herpes or after birth through contact with an active sore, including a kiss. Anyone with a cold sore should avoid kissing the baby until it has healed, wash their hands before handling the baby and avoid sharing anything that has touched the sore. If a cold sore directly touched your newborn, call the baby’s clinician promptly and describe when and where contact occurred.",
+              "If you have a herpes sore on a breast, stop feeding from that breast and discard milk expressed from it until the lesions heal. Milk can be contaminated through contact during expression. You can usually feed from the unaffected side if all lesions are fully covered. Wash your hands and clean pump parts carefully. Ask the care team about a new breast sore."
+            ]
+          },
+          {
+            "heading": "When a newborn needs help",
+            "paragraphs": [
+              "HSV can affect the skin, eyes and mouth or spread to the brain and other organs. Babies are especially vulnerable in the first six weeks. Seek urgent medical assessment if your young baby feeds poorly, develops a temperature of 38°C or higher, or has blisters or sores. Tell the team about any HSV exposure, even if the baby has no rash.",
+              "Call emergency services if a baby is difficult to wake, is floppy, has a seizure or is struggling to breathe. A baby can become seriously ill before any blisters appear."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Offer frequent sips and watch urine output when mouth pain makes drinking difficult.",
+          "Protect a newborn from contact with sores and report direct exposure promptly.",
+          "An unwell young baby needs assessment even if there are no visible blisters."
+        ],
+        "faq": [
+          {
+            "q": "Can a child’s cold sore spread to others?",
+            "a": "Yes. Avoid kissing, sharing cups or sharing items that touch the sore. Wash hands after contact. Take particular care around newborns."
+          },
+          {
+            "q": "How can a newborn catch herpes?",
+            "a": "Exposure can occur during birth or afterward if a sore touches the baby, for example through a kiss. Ask the baby’s clinician for advice after direct contact."
+          },
+          {
+            "q": "Is herpes dangerous for babies?",
+            "a": "It can be serious, especially in the first weeks. Seek urgent help for poor feeding, fever or new sores. Call emergency services for a seizure, difficulty breathing or a baby who is floppy or hard to wake."
+          },
+          {
+            "q": "Why are newborns particularly vulnerable?",
+            "a": "Their immune defences are still developing and the infection can spread beyond the skin to the brain or other organs. A rash is not always present; early hospital treatment matters."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Support drinking and watch for dehydration in an older child.",
+            "Keep active sores away from the baby and seek advice about direct contact.",
+            "Seek urgent assessment if a young baby becomes unwell."
+          ],
+          "bemama": "BeMama suggests telling the clinician the baby’s age, what contact occurred and whether feeding or alertness has changed.",
+          "safety": "A young baby with poor feeding, fever or blisters needs urgent assessment. Call emergency services for difficulty breathing, a seizure, floppiness or difficulty waking.",
+          "sources": [
+            {
+              "organization": "Royal Children’s Hospital Melbourne",
+              "title": "Oral herpes infection, hydration and treatment in children",
+              "url": "https://www.rch.org.au/clinicalguide/guideline_index/HSV_Gingivostomatitis/"
+            },
+            {
+              "organization": "Amir and colleagues, BMJ",
+              "title": "Trial of early aciclovir in young children with herpetic gingivostomatitis",
+              "url": "https://www.bmj.com/content/314/7097/1800"
+            },
+            {
+              "organization": "National Health Service",
+              "title": "Neonatal herpes, warning signs and reducing contact with cold sores",
+              "url": "https://www.nhs.uk/conditions/neonatal-herpes/"
+            },
+            {
+              "organization": "Centers for Disease Control and Prevention",
+              "title": "Managing active herpes lesions during breastfeeding",
+              "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/illnesses-conditions/herpes.html"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "تبخال در کودکان و تماس نوزاد با تبخال",
+        "description": "وقتی دهان کودک بر اثر تبخال درد می‌کند چگونه به نوشیدن او کمک کنید، چطور از تماس نوزاد با زخم جلوگیری کنید و کدام نشانه‌ها در نوزاد پیگیری فوری می‌خواهند.",
+        "intro": "کودک پیش‌دبستانی‌تان صبحانه را کنار می‌زند و به دهان دردناکش اشاره می‌کند. نوزاد تازه متولدشده‌تان در اتاق کناری خواب است. برای کودک بزرگ‌تر، ابتدا ببینید آیا می‌تواند به اندازهٔ کافی مایعات بنوشد. زخم را از صورت نوزاد دور نگه دارید و اگر تماس رخ داده است، بدانید چه باید کرد.",
+        "sections": [
+          {
+            "heading": "وقتی زخم‌های دهان نوشیدن را دشوار می‌کنند",
+            "paragraphs": [
+              "نخستین عفونت دهانی با ویروس هرپس سیمپلکس یا HSV می‌تواند تب، تورم لثه و زخم‌های دردناک داخل یا اطراف دهان ایجاد کند. در دفعات بعد معمولاً چند تاول کوچک کنار هم روی لب ظاهر می‌شوند. بیماری‌های دیگری هم سبب زخم دهان می‌شوند. به کودک بزرگ‌تر مرتب چند جرعه نوشیدنی خنک بدهید و از پزشک یا داروساز دربارهٔ تسکین درد مناسب بپرسید.",
+              "اگر کودک نمی‌تواند بنوشد، بسیار کمتر از معمول ادرار می‌کند یا درد شدید دارد، فوری مشورت پزشکی بگیرید. درد یا قرمزی چشم یا حساسیت به نور نیاز به ارزیابی فوری دارد. در کودکی که دستگاه ایمنی ضعیفی دارد، شک به هرپس را بی‌درنگ با پزشک مطرح کنید."
+            ]
+          },
+          {
+            "heading": "چه زمانی پزشک داروی ضدویروس را بررسی می‌کند؟",
+            "paragraphs": [
+              "بیشتر کودکانی که بیماری دیگری ندارند با دریافت مایعات و تسکین درد بهبود پیدا می‌کنند. در یک کارآزمایی، کودکان یک تا شش ساله طی سه روز اول التهاب لثه و دهان معاینه شدند و ۶۱ کودک با عفونت تأییدشدهٔ HSV مطالعه را به پایان رساندند. میانهٔ مدت دشواری در نوشیدن با آسیکلوویر خوراکی سه روز و با دارونما شش روز بود. نتیجه به درمان زودهنگام همان بیماری مشخص مربوط می‌شود.",
+              "اگر درد شدید باشد یا احتمال کم‌آبی وجود داشته باشد، پزشک ممکن است در روزهای اول داروی ضدویروس تجویز کند. داروی ضدویروس فرد دیگری را به کودک ندهید. نوزادی که بیمار شده نیاز به ارزیابی متفاوتی دارد و ممکن است در بیمارستان درمان وریدی لازم داشته باشد."
+            ]
+          },
+          {
+            "heading": "نوزاد را از تماس مستقیم با زخم محافظت کنید",
+            "paragraphs": [
+              "HSV می‌تواند هنگام زایمان از راه تماس با تبخال تناسلی یا پس از آن از راه تماس با زخم فعال، از جمله هنگام بوسیدن، منتقل شود. فردی که تبخال لب دارد تا خوب شدن آن نوزاد را نبوسد، پیش از در آغوش گرفتن نوزاد دست‌ها را بشوید و وسایلی را که به زخم خورده‌اند با دیگران مشترک استفاده نکند. اگر تبخال مستقیم با نوزاد تماس داشت، زود به پزشک نوزاد اطلاع دهید و زمان تماس و محل آن را توضیح دهید.",
+              "اگر روی یک پستان زخم هرپسی دارید، از آن پستان شیر ندهید و تا خوب شدن زخم‌ها شیری را که از آن سمت می‌دوشید دور بریزید. هنگام دوشیدن ممکن است شیر در اثر تماس آلوده شود. در صورتی که همهٔ زخم‌ها کاملاً پوشیده باشند، معمولاً می‌توانید از پستان سالم شیر بدهید. دست‌ها و قطعات شیردوش را به‌دقت بشویید. دربارهٔ زخم جدید روی پستان با تیم درمان مشورت کنید."
+            ]
+          },
+          {
+            "heading": "چه زمانی نوزاد نیاز به کمک دارد؟",
+            "paragraphs": [
+              "این ویروس می‌تواند پوست، چشم‌ها و دهان را درگیر کند یا به مغز و اندام‌های دیگر برسد. نوزادان در شش هفتهٔ نخست به‌ویژه آسیب‌پذیرند. اگر شیرخوار کم‌سن خوب شیر نمی‌خورد، دمای بدنش ۳۸ درجهٔ سانتی‌گراد یا بیشتر است یا تاول یا زخم دارد، فوری برای ارزیابی پزشکی اقدام کنید. حتی اگر دانه‌ای روی پوست نیست، تماس احتمالی با HSV را به تیم درمان بگویید.",
+              "اگر بیدار کردن نوزاد دشوار است، بدنش شل شده، تشنج دارد یا با تقلا نفس می‌کشد، با اورژانس تماس بگیرید. ممکن است پیش از بروز تاول حال نوزاد به‌شدت بد شود."
+            ]
+          }
+        ],
+        "takeaways": [
+          "وقتی دهان کودک درد می‌کند، مرتب جرعه‌های کوچک بدهید و به مقدار ادرار توجه کنید.",
+          "از تماس زخم با نوزاد جلوگیری کنید و تماس مستقیم را زود گزارش دهید.",
+          "شیرخوار کم‌سنی که حالش خوب نیست حتی بدون تاول آشکار نیاز به ارزیابی دارد."
+        ],
+        "faq": [
+          {
+            "q": "آیا تبخال لب کودک به دیگران سرایت می‌کند؟",
+            "a": "بله. از بوسیدن، لیوان مشترک و استفاده از وسایلی که با زخم تماس دارند خودداری کنید. پس از تماس دست‌ها را بشویید. نزدیک نوزادان بیشتر دقت کنید."
+          },
+          {
+            "q": "نوزاد چگونه به هرپس مبتلا می‌شود؟",
+            "a": "ممکن است هنگام زایمان یا پس از آن بر اثر تماس زخم با نوزاد، مثلاً با بوسه، در معرض ویروس قرار بگیرد. پس از تماس مستقیم از پزشک نوزاد راهنمایی بخواهید."
+          },
+          {
+            "q": "آیا هرپس برای شیرخوار خطرناک است؟",
+            "a": "ممکن است جدی باشد، به‌ویژه در هفته‌های اول. برای شیر خوردن ضعیف، تب یا زخم تازه فوری کمک پزشکی بگیرید. برای تشنج، دشواری نفس کشیدن، شل شدن بدن یا سخت بیدار شدن با اورژانس تماس بگیرید."
+          },
+          {
+            "q": "چرا نوزادان بیشتر در خطرند؟",
+            "a": "دستگاه ایمنی آن‌ها هنوز در حال رشد است و عفونت می‌تواند از پوست فراتر برود و به مغز یا اندام‌های دیگر برسد. همیشه دانه‌ای روی پوست دیده نمی‌شود. درمان زودهنگام در بیمارستان اهمیت دارد."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۶ نوامبر ۲۰۲۶ بازبینی شد",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "به نوشیدن کودک بزرگ‌تر کمک کنید و مراقب نشانه‌های کم‌آبی باشید.",
+            "زخم‌های فعال را از نوزاد دور نگه دارید و دربارهٔ تماس مستقیم مشورت بگیرید.",
+            "اگر حال شیرخوار کم‌سن خوب نیست، فوری ارزیابی پزشکی بگیرید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند سن نوزاد، نحوهٔ تماس و هر تغییری در شیر خوردن یا هشیاری او را به پزشک بگویید.",
+          "safety": "شیرخوار کم‌سن با شیر خوردن ضعیف، تب یا تاول نیازمند ارزیابی فوری است. برای مشکل تنفس، تشنج، شل شدن بدن یا دشواری بیدار کردن نوزاد با اورژانس تماس بگیرید.",
+          "sources": [
+            {
+              "organization": "بیمارستان سلطنتی کودکان ملبورن",
+              "title": "عفونت هرپسی دهان، تأمین مایعات و درمان در کودکان",
+              "url": "https://www.rch.org.au/clinicalguide/guideline_index/HSV_Gingivostomatitis/"
+            },
+            {
+              "organization": "امیر و همکاران، مجلهٔ BMJ",
+              "title": "کارآزمایی درمان زودهنگام با آسیکلوویر در کودکان مبتلا به التهاب هرپسی لثه و دهان",
+              "url": "https://www.bmj.com/content/314/7097/1800"
+            },
+            {
+              "organization": "سرویس ملی سلامت بریتانیا",
+              "title": "هرپس نوزادی، نشانه‌های هشدار و پیشگیری از تماس با تبخال",
+              "url": "https://www.nhs.uk/conditions/neonatal-herpes/"
+            },
+            {
+              "organization": "مراکز کنترل و پیشگیری از بیماری‌های ایالات متحده",
+              "title": "مراقبت از زخم فعال هرپس در دوران شیردهی",
+              "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/illnesses-conditions/herpes.html"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "قروح البرد عند الأطفال وتعرّض حديث الولادة للهربس",
+        "description": "كيف تساعد طفلًا يؤلمه فمه بسبب قروح الهربس على الشرب، وتحمي المولود من ملامسة القرحة، وتتعرف إلى العلامات التي تحتاج إلى تقييم طبي عاجل عند الرضيع؟",
+        "intro": "يدفع طفلك في سن الروضة طبقه بعيدًا ويشير إلى فمه المتألم. وينام مولود جديد في الغرفة المجاورة. راقب أولًا قدرة الطفل الأكبر على شرب ما يكفيه. وأبعد القرحة عن وجه المولود، واعرف ما تفعله إذا كانت قد لامسته بالفعل.",
+        "sections": [
+          {
+            "heading": "حين تجعل تقرحات الفم الشرب مؤلمًا",
+            "paragraphs": [
+              "قد تسبب العدوى الفموية الأولى بفيروس الهربس البسيط حمى وتورم اللثة وتقرحات مؤلمة داخل الفم أو حوله. وفي النوبات اللاحقة كثيرًا ما تظهر مجموعة أصغر من البثور على الشفة. ولقروح الفم أسباب أخرى أيضًا. قدّم للطفل الأكبر رشفات صغيرة ومتكررة من مشروب بارد قليلًا، واسأل الطبيب أو الصيدلي عما يناسبه لتخفيف الألم.",
+              "اطلب مشورة عاجلة إذا عجز الطفل عن الشرب أو قلّ تبوله كثيرًا أو اشتد ألمه. ويحتاج ألم العين أو احمرارها أو حساسيتها للضوء إلى تقييم عاجل. وإذا اشتُبه بالهربس لدى طفل ضعيف المناعة، فاطلب المشورة الطبية سريعًا."
+            ]
+          },
+          {
+            "heading": "متى يفكر الطبيب في دواء مضاد للفيروسات؟",
+            "paragraphs": [
+              "يتعافى معظم الأطفال الأصحاء عمومًا مع السوائل وتسكين الألم. درست تجربة أطفالًا من سنة إلى ست سنوات عُرضوا خلال الأيام الثلاثة الأولى من التهاب الفم واللثة، وأكملها ٦١ طفلًا تأكدت لديهم عدوى الهربس. بلغ وسيط مدة صعوبة الشرب ثلاثة أيام مع الأسيكلوفير الفموي وستة أيام مع الدواء الوهمي. وتتعلق النتائج بالعلاج المبكر لهذا المرض تحديدًا.",
+              "قد يفكر الطبيب في العلاج المبكر بمضاد للفيروسات إذا كان الألم شديدًا أو كان هناك قلق من الجفاف. لا تعط الطفل دواءً مضادًا للفيروسات وُصف لغيره. ويحتاج المولود المريض إلى تقييم مختلف وقد يحتاج إلى علاج وريدي في المستشفى."
+            ]
+          },
+          {
+            "heading": "احمِ المولود من ملامسة القرحة",
+            "paragraphs": [
+              "قد ينتقل الفيروس أثناء الولادة عند التعرض للهربس التناسلي، أو بعد الولادة عن طريق ملامسة قرحة نشطة، مثلما يحدث عند التقبيل. على من لديه قرحة برد تجنب تقبيل الرضيع حتى تلتئم، وغسل يديه قبل حمله، وعدم مشاركة الأشياء التي لامست القرحة. إذا لامست قرحة البرد المولود مباشرة فاتصل سريعًا بالطبيب المتابع له وحدد متى حدث التلامس وأي موضع من جسمه لامسته.",
+              "إذا كانت لديكِ قرحة هربس على أحد الثديين، فتوقفي عن الإرضاع منه وتخلصي من الحليب المسحوب منه حتى تلتئم القروح. قد يتلوث الحليب بالملامسة أثناء سحبه. ويمكنكِ عادة الإرضاع من الثدي السليم إذا كانت جميع القروح مغطاة بالكامل. اغسلي يديكِ ونظفي أجزاء المضخة بعناية. واستشيري فريق الرعاية بشأن أي قرحة جديدة على الثدي."
+            ]
+          },
+          {
+            "heading": "متى يحتاج حديث الولادة إلى المساعدة؟",
+            "paragraphs": [
+              "قد يصيب الهربس الجلد والعينين والفم أو يصل إلى الدماغ وأعضاء أخرى. ويكون الرضيع شديد التأثر به خصوصًا في الأسابيع الستة الأولى. اطلب تقييمًا طبيًا عاجلًا إذا ضعفت رضاعة الرضيع الصغير، أو بلغت حرارته ٣٨ درجة مئوية أو أكثر، أو ظهرت بثور أو قروح. أخبر الفريق بأي تعرّض للفيروس حتى دون طفح جلدي.",
+              "اتصل بالإسعاف إذا صعُب إيقاظ الرضيع أو ارتخى جسمه أو أصيب بنوبة تشنج أو بدا أنه يجهد ليتنفس. قد يشتد المرض قبل ظهور أي بثور."
+            ]
+          }
+        ],
+        "takeaways": [
+          "قدّم رشفات صغيرة ومتكررة وراقب البول حين يجعل ألم الفم الشرب صعبًا.",
+          "احمِ حديث الولادة من ملامسة القروح وأبلغ فريق الرعاية سريعًا إذا حدث تماس مباشر.",
+          "يحتاج الرضيع الصغير الذي يبدو مريضًا إلى التقييم حتى دون بثور ظاهرة."
+        ],
+        "faq": [
+          {
+            "q": "هل يمكن أن تنتقل قرحة البرد من الطفل إلى غيره؟",
+            "a": "نعم. تجنب التقبيل ومشاركة الأكواب أو الأدوات التي تلامس القرحة، واغسل يديك بعد اللمس. توخّ عناية خاصة قرب حديثي الولادة."
+          },
+          {
+            "q": "كيف يلتقط حديث الولادة الهربس؟",
+            "a": "قد يتعرض للفيروس خلال الولادة أو بعدها إذا لامسته قرحة، مثلًا عند تقبيله. اطلب إرشاد الطبيب المتابع للرضيع بعد أي تماس مباشر."
+          },
+          {
+            "q": "هل الهربس خطر على الرضّع؟",
+            "a": "قد يكون خطيرًا خصوصًا في الأسابيع الأولى. اطلب مساعدة عاجلة لضعف الرضاعة أو الحمى أو ظهور قروح جديدة. واتصل بالإسعاف عند التشنج أو صعوبة التنفس أو ارتخاء الرضيع أو صعوبة إيقاظه."
+          },
+          {
+            "q": "لماذا يشتد الخطر عند حديثي الولادة؟",
+            "a": "لا تزال دفاعاتهم المناعية تنمو، وقد يتجاوز الفيروس الجلد ليصيب الدماغ أو أعضاء أخرى. وقد يغيب الطفح الجلدي. لذلك يهم العلاج المبكر في المستشفى."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "ساعد الطفل الأكبر على الشرب وراقب علامات الجفاف.",
+            "أبعد القروح النشطة عن الرضيع واطلب المشورة عند التلامس المباشر.",
+            "اطلب تقييمًا عاجلًا إذا بدا الرضيع الصغير مريضًا."
+          ],
+          "bemama": "تقترح بي ماما إبلاغ الطبيب بعمر الرضيع وكيفية التلامس وأي تغير في الرضاعة أو اليقظة.",
+          "safety": "ضعف الرضاعة أو الحمى أو البثور عند الرضيع الصغير تستدعي تقييمًا عاجلًا. واتصل بالإسعاف عند صعوبة التنفس أو التشنج أو الارتخاء أو صعوبة الإيقاظ.",
+          "sources": [
+            {
+              "organization": "مستشفى الأطفال الملكي في ملبورن",
+              "title": "هربس الفم والترطيب والعلاج عند الأطفال",
+              "url": "https://www.rch.org.au/clinicalguide/guideline_index/HSV_Gingivostomatitis/"
+            },
+            {
+              "organization": "أمير وزملاؤه، المجلة الطبية البريطانية BMJ",
+              "title": "تجربة الأسيكلوفير المبكر لدى أطفال صغار مصابين بالتهاب الفم واللثة الهربسي",
+              "url": "https://www.bmj.com/content/314/7097/1800"
+            },
+            {
+              "organization": "هيئة الخدمات الصحية الوطنية البريطانية",
+              "title": "الهربس الوليدي وعلامات الإنذار وتقليل ملامسة قروح البرد",
+              "url": "https://www.nhs.uk/conditions/neonatal-herpes/"
+            },
+            {
+              "organization": "المراكز الأمريكية لمكافحة الأمراض والوقاية منها",
+              "title": "التعامل مع قروح الهربس النشطة أثناء الرضاعة الطبيعية",
+              "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/illnesses-conditions/herpes.html"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Herpès labial chez l’enfant et contact avec un nouveau-né",
+        "description": "Comment aider un enfant à boire quand sa bouche lui fait mal, protéger un nouveau-né d’un bouton de fièvre et reconnaître les signes justifiant un avis urgent.",
+        "intro": "Votre enfant de maternelle repousse son petit déjeuner et vous montre sa bouche douloureuse. Un nouveau-né dort dans la pièce voisine. Chez l’aîné, vérifiez d’abord s’il arrive à boire suffisamment. Évitez tout contact de la lésion avec le visage du bébé et sachez qui appeler si le contact a déjà eu lieu.",
+        "sections": [
+          {
+            "heading": "Quand la douleur empêche de boire",
+            "paragraphs": [
+              "Une première infection buccale par le virus de l’herpès simplex (HSV) peut provoquer fièvre, gencives gonflées et plaies douloureuses dans ou autour de la bouche. Lors des récidives, quelques petites vésicules apparaissent souvent sur la lèvre. D’autres maladies provoquent aussi des ulcérations de la bouche. Proposez à l’aîné de petites gorgées fréquentes d’une boisson fraîche et demandez au médecin ou au pharmacien comment soulager la douleur.",
+              "Demandez un avis urgent si l’enfant ne peut pas boire, urine beaucoup moins ou souffre beaucoup. Un œil rouge ou douloureux ou une sensibilité à la lumière nécessite une évaluation urgente. Si ses défenses immunitaires sont affaiblies et qu’un herpès est suspecté, prenez rapidement un avis médical."
+            ]
+          },
+          {
+            "heading": "Quand le médecin peut envisager un antiviral",
+            "paragraphs": [
+              "La plupart des enfants par ailleurs en bonne santé guérissent avec une bonne hydratation et un traitement de la douleur. Dans un essai portant sur des enfants de un à six ans examinés dans les trois premiers jours d’une gingivostomatite, 61 enfants dont l’herpès avait été confirmé ont terminé l’étude. La durée médiane des difficultés à boire était de trois jours sous aciclovir par voie orale et de six jours sous placebo. Ces résultats concernent le traitement précoce de cette affection précise.",
+              "Le médecin peut envisager un antiviral au début de la maladie si la douleur est forte ou en cas de risque de déshydratation. Ne donnez pas à l’enfant un antiviral prescrit à quelqu’un d’autre. Un nouveau-né malade nécessite une évaluation différente, parfois un traitement intraveineux à l’hôpital."
+            ]
+          },
+          {
+            "heading": "Protéger le bébé du contact direct",
+            "paragraphs": [
+              "Le HSV peut se transmettre pendant l’accouchement au contact d’un herpès génital ou après la naissance au contact d’une lésion active, par exemple lors d’un baiser. Toute personne ayant un bouton de fièvre doit éviter d’embrasser le bébé jusqu’à la guérison, se laver les mains avant de le prendre et éviter de partager des objets qui ont touché la lésion. Si la lésion a touché directement le nouveau-né, appelez rapidement le professionnel qui le suit. Indiquez le moment et la zone du contact.",
+              "Si vous avez une lésion herpétique sur un sein, suspendez les tétées de ce côté et jetez le lait tiré de ce sein jusqu’à la cicatrisation des lésions. Un contact pendant le recueil peut contaminer le lait. Vous pouvez généralement allaiter de l’autre côté si toutes les lésions sont entièrement couvertes. Lavez-vous les mains et nettoyez soigneusement le tire-lait. Demandez un avis pour une nouvelle lésion sur un sein."
+            ]
+          },
+          {
+            "heading": "Quand faire examiner un nouveau-né",
+            "paragraphs": [
+              "Le HSV peut toucher la peau, les yeux et la bouche ou atteindre le cerveau et d’autres organes. Les bébés sont particulièrement vulnérables pendant les six premières semaines. Faites évaluer en urgence un jeune nourrisson qui boit mal, présente une température de 38 °C ou plus, des vésicules ou des plaies. Signalez toute exposition au HSV, même sans éruption.",
+              "Appelez les secours si le bébé est difficile à réveiller, devient tout mou, convulse ou peine à respirer. Une maladie grave peut s’installer avant toute vésicule."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Proposez de petites gorgées fréquentes et surveillez les urines si les plaies rendent la boisson douloureuse.",
+          "Protégez le nouveau-né du contact avec les lésions et signalez rapidement un contact direct.",
+          "Un jeune nourrisson qui va mal doit être examiné même sans vésicule visible."
+        ],
+        "faq": [
+          {
+            "q": "Le bouton de fièvre d’un enfant est-il contagieux ?",
+            "a": "Oui. Évitez les baisers et le partage des verres ou objets en contact avec la lésion. Lavez les mains après tout contact. Soyez particulièrement vigilant près des nouveau-nés."
+          },
+          {
+            "q": "Comment un nouveau-né peut-il contracter l’herpès ?",
+            "a": "L’exposition peut avoir lieu à la naissance ou après celle-ci si une lésion touche le bébé, notamment lors d’un baiser. Demandez conseil au professionnel qui suit le bébé après un contact direct."
+          },
+          {
+            "q": "L’herpès est-il dangereux pour les bébés ?",
+            "a": "Il peut être grave, surtout dans les premières semaines. Demandez un avis urgent si le bébé boit mal, a de la fièvre ou présente de nouvelles lésions. Appelez les secours s’il convulse, peine à respirer, devient tout mou ou est difficile à réveiller."
+          },
+          {
+            "q": "Pourquoi les nouveau-nés sont-ils si vulnérables ?",
+            "a": "Leurs défenses immunitaires sont encore immatures et l’infection peut s’étendre au cerveau ou à d’autres organes. Une éruption n’est pas toujours présente. Une prise en charge hospitalière précoce compte."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Aidez l’aîné à boire et surveillez les signes de déshydratation.",
+            "Évitez tout contact entre les lésions actives et le bébé et demandez conseil après un contact direct.",
+            "Faites évaluer en urgence un jeune nourrisson dont l’état se dégrade."
+          ],
+          "bemama": "BeMama suggère de préciser au médecin l’âge du bébé, la nature du contact et tout changement des tétées ou de l’éveil.",
+          "safety": "Un jeune nourrisson qui boit mal, a de la fièvre ou des vésicules doit être évalué en urgence. Appelez les secours en cas de difficulté respiratoire, convulsion, perte de tonus ou difficulté à le réveiller.",
+          "sources": [
+            {
+              "organization": "Royal Children’s Hospital de Melbourne",
+              "title": "Herpès buccal chez l’enfant, hydratation et traitement",
+              "url": "https://www.rch.org.au/clinicalguide/guideline_index/HSV_Gingivostomatitis/"
+            },
+            {
+              "organization": "Amir et ses collègues, BMJ",
+              "title": "Essai sur l’aciclovir précoce chez de jeunes enfants atteints de gingivostomatite herpétique",
+              "url": "https://www.bmj.com/content/314/7097/1800"
+            },
+            {
+              "organization": "Service national de santé britannique",
+              "title": "Herpès néonatal, signes d’alerte et prévention du contact avec un bouton de fièvre",
+              "url": "https://www.nhs.uk/conditions/neonatal-herpes/"
+            },
+            {
+              "organization": "Centres américains de contrôle et de prévention des maladies",
+              "title": "Prise en charge des lésions d’herpès actives pendant l’allaitement",
+              "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/illnesses-conditions/herpes.html"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Çocuklarda uçuk ve yenidoğanın uçukla teması",
+        "description": "Uçuk nedeniyle ağzı acıyan çocuğun sıvı almasına nasıl yardım edeceğinizi, yenidoğanı nasıl koruyacağınızı ve hangi belirtilerde yardım isteyeceğinizi öğrenin.",
+        "intro": "Okul öncesi çağdaki çocuğunuz kahvaltısını itiyor ve ağzının acıdığını söylüyor. Yan odada yeni doğan bebeğiniz uyuyor. Büyük çocuğun yeterince sıvı içip içemediğine bakın. Bebeğin yüzünü yaradan uzak tutun ve temas olmuşsa ne yapacağınızı bilin.",
+        "sections": [
+          {
+            "heading": "Ağızdaki yaralar su içmeyi zorlaştırdığında",
+            "paragraphs": [
+              "Herpes simpleks virüsünün (HSV) ağızda ilk kez enfeksiyon yapması ateşe, diş etlerinde şişliğe, ağız içinde veya çevresinde ağrılı yaralara neden olabilir. Tekrarlayan ataklarda genellikle dudakta küçük bir kabarcık kümesi görülür. Başka hastalıklar da ağız yarası yapabilir. Çocuğa sık sık küçük yudumlar hâlinde serin içecek sunun. Ağrı için uygun seçenekleri doktora veya eczacıya sorun.",
+              "Çocuk içemiyorsa, çok az idrar yapıyorsa veya şiddetli ağrısı varsa acilen tıbbi tavsiye alın. Gözde ağrı, kızarıklık veya ışığa karşı hassasiyet acil değerlendirme gerektirir. Bağışıklığı baskılanmış çocukta HSV şüphesi varsa gecikmeden doktorla görüşün."
+            ]
+          },
+          {
+            "heading": "Doktor ne zaman antiviral ilaç düşünebilir?",
+            "paragraphs": [
+              "Başka sağlık sorunu olmayan çocukların çoğu sıvı desteği ve ağrının hafifletilmesiyle iyileşir. Ağız ve diş eti iltihabının ilk üç gününde görülen bir ila altı yaşındaki çocukları inceleyen bir çalışmayı, HSV enfeksiyonu doğrulanmış 61 çocuk tamamladı. İçme güçlüğünün ortanca süresi ağızdan asiklovir alanlarda üç, plasebo alanlarda altı gündü. Sonuçlar bu belirli hastalığın erken tedavisi için geçerlidir.",
+              "Ağrı şiddetliyse veya susuz kalma riski varsa doktor erken dönemde antiviral tedavi düşünebilir. Çocuğa başkası için yazılmış bir antiviral vermeyin. Hasta bir yenidoğanın farklı biçimde değerlendirilmesi gerekir ve hastanede damar yoluyla tedavi gerekebilir."
+            ]
+          },
+          {
+            "heading": "Bebeği doğrudan temastan koruyun",
+            "paragraphs": [
+              "HSV doğum sırasında genital herpesle temasla ya da doğumdan sonra aktif yaraya temasla, örneğin öpülmeyle bulaşabilir. Uçuğu olan kişi yara iyileşene kadar bebeği öpmemeli, bebeğe dokunmadan önce ellerini yıkamalı ve yaraya değen eşyaları paylaşmamalıdır. Uçuk doğrudan yenidoğana değdiyse bebeği takip eden hekimi gecikmeden arayıp temasın ne zaman ve nereye olduğunu söyleyin.",
+              "Memede herpes yarası varsa o memeden emzirmeye ara verin ve yaralar iyileşinceye kadar o memeden sağılan sütü atın. Sağım sırasında temasla süte virüs bulaşabilir. Tüm yaralar tamamen kapatılırsa genellikle sağlıklı memeden emzirebilirsiniz. Ellerinizi yıkayın ve pompanın parçalarını özenle temizleyin. Memede yeni bir yara çıktığında sağlık ekibine danışın."
+            ]
+          },
+          {
+            "heading": "Yenidoğan ne zaman yardım almalı?",
+            "paragraphs": [
+              "HSV cilt, göz ve ağzı etkileyebilir, beyne ve diğer organlara yayılabilir. İlk altı haftada bebekler özellikle savunmasızdır. Küçük bebeğiniz iyi beslenemiyorsa, ateşi 38 °C veya üzerindeyse veya kabarcık ya da yaraları varsa acil tıbbi değerlendirme isteyin. Döküntü olmasa bile HSV ile olası teması ekibe söyleyin.",
+              "Bebeği uyandırmakta güçlük çekiyorsanız, bebek gevşek ve güçsüzse, nöbet geçiriyorsa veya nefes almak için çabalıyorsa acil yardım çağırın. Kabarcıklar çıkmadan önce de bebek ağır hastalanabilir."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Ağız ağrısı içmeyi zorlaştırıyorsa sık sık küçük yudumlar sunun ve idrarını izleyin.",
+          "Yaraların yenidoğana değmesini önleyin ve doğrudan teması gecikmeden bildirin.",
+          "Kendini iyi hissetmeyen küçük bir bebekte kabarcık olmasa da değerlendirme gerekir."
+        ],
+        "faq": [
+          {
+            "q": "Çocuğun uçuğu başkasına bulaşır mı?",
+            "a": "Evet. Öpüşmekten, bardakları ve yaraya değen eşyaları paylaşmaktan kaçının. Temastan sonra ellerinizi yıkayın. Yenidoğanların yanında özellikle dikkatli olun."
+          },
+          {
+            "q": "Bir yenidoğana herpes nasıl bulaşır?",
+            "a": "Doğum sırasında veya sonrasında, örneğin bebeği öperken yaranın cildine değmesiyle bulaşabilir. Doğrudan temas olduysa bebeği takip eden hekime danışın."
+          },
+          {
+            "q": "Herpes bebekler için tehlikeli midir?",
+            "a": "Özellikle ilk haftalarda ağır seyredebilir. İyi beslenememe, ateş veya yeni yaralar varsa acil tıbbi değerlendirme isteyin. Nöbet, nefes güçlüğü, gevşeklik veya uyanmakta güçlük varsa acil yardım çağırın."
+          },
+          {
+            "q": "Yenidoğanlar neden daha savunmasızdır?",
+            "a": "Bağışıklık sistemleri gelişmeye devam eder ve enfeksiyon cildin ötesine, beyne veya diğer organlara yayılabilir. Döküntü her zaman olmaz. Hastanede erken tedavi önemlidir."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026 tarihinde değerlendirildi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Büyük çocuğun içmesini destekleyin ve susuzluk belirtilerini izleyin.",
+            "Aktif yaraları bebekten uzak tutun ve doğrudan temas olduysa danışın.",
+            "Küçük bir bebek hastalanırsa acil değerlendirme isteyin."
+          ],
+          "bemama": "BeMama, hekime bebeğin yaşını, temasın nasıl gerçekleştiğini, beslenmesinde veya uyanıklığında değişiklik olup olmadığını söylemenizi önerir.",
+          "safety": "Küçük bebekte iyi beslenememe, ateş veya kabarcıklar acil değerlendirme gerektirir. Solunum güçlüğü, nöbet, gevşeklik veya uyandırma güçlüğünde acil yardım çağırın.",
+          "sources": [
+            {
+              "organization": "Melbourne Kraliyet Çocuk Hastanesi",
+              "title": "Çocuklarda ağız herpesi, sıvı desteği ve tedavi",
+              "url": "https://www.rch.org.au/clinicalguide/guideline_index/HSV_Gingivostomatitis/"
+            },
+            {
+              "organization": "Amir ve çalışma arkadaşları, BMJ",
+              "title": "Herpetik gingivostomatitli küçük çocuklarda erken asiklovir çalışması",
+              "url": "https://www.bmj.com/content/314/7097/1800"
+            },
+            {
+              "organization": "Birleşik Krallık Ulusal Sağlık Hizmeti",
+              "title": "Yenidoğan herpesi, uyarıcı belirtiler ve uçukla temasın önlenmesi",
+              "url": "https://www.nhs.uk/conditions/neonatal-herpes/"
+            },
+            {
+              "organization": "ABD Hastalık Kontrol ve Önleme Merkezleri",
+              "title": "Emzirirken aktif herpes yaralarına yaklaşım",
+              "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/illnesses-conditions/herpes.html"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Herpes labial en niños y contacto con un recién nacido",
+        "description": "Aprende a ayudar a un niño a beber si tiene llagas por herpes, cómo evitar contagiar a un recién nacido y qué cambios en el bebé requieren atención urgente.",
+        "intro": "Tu hijo de preescolar aparta el desayuno y señala que le duele la boca. En la habitación de al lado duerme un bebé recién nacido. En el mayor, fíjate primero en si puede beber lo suficiente. Evita que la lesión toque la cara del bebé y ten presente qué hacer si ya hubo contacto.",
+        "sections": [
+          {
+            "heading": "Cuando las llagas dificultan beber",
+            "paragraphs": [
+              "La primera infección oral por el virus del herpes simple (VHS) puede causar fiebre, encías inflamadas y llagas dolorosas dentro o alrededor de la boca. En episodios posteriores suele aparecer un pequeño grupo de ampollas en el labio. Hay otras causas de úlceras orales. Ofrece al niño mayor sorbos pequeños y frecuentes de una bebida fresca y pregunta al pediatra o farmacéutico qué puede aliviar el dolor.",
+              "Pide asesoramiento urgente si el niño no puede beber, orina mucho menos o tiene dolor intenso. El dolor o enrojecimiento ocular o la sensibilidad a la luz necesitan valoración urgente. Si tiene las defensas debilitadas y sospechas herpes, consulta sin demora."
+            ]
+          },
+          {
+            "heading": "Cuándo puede considerarse un antiviral",
+            "paragraphs": [
+              "La mayoría de los niños por lo demás sanos se recuperan con líquidos y alivio del dolor. En un ensayo con niños de uno a seis años atendidos en los primeros tres días de gingivoestomatitis, 61 participantes con VHS confirmado completaron el estudio. La dificultad para beber duró una mediana de tres días con aciclovir oral y seis con placebo. Los resultados se refieren al tratamiento temprano de ese cuadro concreto.",
+              "El médico puede valorar un antiviral temprano si hay dolor intenso o riesgo de deshidratación. No des al niño un antiviral recetado a otra persona. Un recién nacido enfermo requiere otra evaluación y podría necesitar tratamiento intravenoso en el hospital."
+            ]
+          },
+          {
+            "heading": "Cómo evitar el contacto directo con el bebé",
+            "paragraphs": [
+              "El VHS puede transmitirse durante el parto por contacto con herpes genital, o después por contacto con una lesión activa, por ejemplo mediante un beso. Quien tenga herpes labial debe evitar besar al bebé hasta que cicatrice, lavarse las manos antes de cogerlo y evitar compartir objetos que hayan tocado la lesión. Si la lesión tocó al recién nacido, llama pronto al profesional que lo atiende y describe cuándo y dónde ocurrió.",
+              "Si tienes una lesión herpética en un pecho, deja de amamantar de ese lado y desecha la leche que extraigas de él hasta que cicatricen las lesiones. La leche puede contaminarse por contacto durante la extracción. Por lo general puedes amamantar del lado sano si todas las lesiones están bien cubiertas. Lávate las manos y limpia bien el sacaleches. Consulta si aparece una lesión en el pecho."
+            ]
+          },
+          {
+            "heading": "Cuándo necesita ayuda el recién nacido",
+            "paragraphs": [
+              "El VHS puede afectar la piel, los ojos y la boca o extenderse al cerebro y otros órganos. Los bebés son especialmente vulnerables durante las primeras seis semanas. Busca valoración urgente si un bebé pequeño se alimenta mal, tiene 38 °C o más, o presenta ampollas o llagas. Comenta cualquier exposición al VHS aunque no haya erupción.",
+              "Llama a emergencias si cuesta despertarlo, está flácido, tiene una convulsión o le cuesta respirar. El bebé puede enfermar gravemente antes de que aparezcan ampollas."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Ofrece sorbos frecuentes y observa cuánto orina el niño si le cuesta beber por el dolor.",
+          "Protege al recién nacido del contacto con las lesiones y comunica pronto cualquier contacto directo.",
+          "Un bebé pequeño que se encuentra mal necesita valoración aunque no haya ampollas visibles."
+        ],
+        "faq": [
+          {
+            "q": "¿Se puede transmitir el herpes labial de un niño?",
+            "a": "Sí. Evita los besos y no compartas vasos ni objetos que toquen la lesión. Lávate las manos tras el contacto. Extrema el cuidado cerca de recién nacidos."
+          },
+          {
+            "q": "¿Cómo puede adquirir herpes un recién nacido?",
+            "a": "Puede exponerse durante el parto o después si una lesión toca al bebé, por ejemplo al darle un beso. Consulta con el profesional que lo atiende tras un contacto directo."
+          },
+          {
+            "q": "¿Es peligroso el herpes para los bebés?",
+            "a": "Puede ser grave, sobre todo en las primeras semanas. Pide atención urgente por mala alimentación, fiebre o lesiones nuevas. Llama a emergencias si convulsiona, le cuesta respirar, está flácido o es difícil despertarlo."
+          },
+          {
+            "q": "¿Por qué son especialmente vulnerables los recién nacidos?",
+            "a": "Sus defensas aún están madurando y la infección puede pasar de la piel al cerebro u otros órganos. No siempre hay erupción. El tratamiento hospitalario temprano es importante."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Ayuda al niño mayor a beber y vigila los signos de deshidratación.",
+            "Mantén las lesiones activas lejos del bebé y consulta si ha habido contacto directo.",
+            "Busca valoración urgente si un bebé pequeño se encuentra mal."
+          ],
+          "bemama": "BeMama sugiere decir al profesional la edad del bebé, cómo ocurrió el contacto y si ha cambiado su alimentación o su estado de alerta.",
+          "safety": "Un bebé pequeño con fiebre, ampollas o dificultad para alimentarse necesita valoración urgente. Llama a emergencias por dificultad respiratoria, convulsiones, flacidez o dificultad para despertarlo.",
+          "sources": [
+            {
+              "organization": "Royal Children’s Hospital de Melbourne",
+              "title": "Infección oral por herpes, hidratación y tratamiento infantil",
+              "url": "https://www.rch.org.au/clinicalguide/guideline_index/HSV_Gingivostomatitis/"
+            },
+            {
+              "organization": "Amir y colaboradores, BMJ",
+              "title": "Ensayo sobre aciclovir temprano en niños pequeños con gingivoestomatitis herpética",
+              "url": "https://www.bmj.com/content/314/7097/1800"
+            },
+            {
+              "organization": "Servicio Nacional de Salud del Reino Unido",
+              "title": "Herpes neonatal, señales de alarma y prevención del contacto con lesiones labiales",
+              "url": "https://www.nhs.uk/conditions/neonatal-herpes/"
+            },
+            {
+              "organization": "Centros para el Control y la Prevención de Enfermedades de Estados Unidos",
+              "title": "Manejo de lesiones herpéticas activas durante la lactancia",
+              "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/illnesses-conditions/herpes.html"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Herpes labial na infância e contacto com um recém-nascido",
+        "description": "Como ajudar uma criança a beber quando tem feridas dolorosas na boca, proteger um recém-nascido do herpes e reconhecer sinais que exigem avaliação urgente.",
+        "intro": "O seu filho em idade pré-escolar afasta o pequeno-almoço e aponta para a boca dorida. Um recém-nascido dorme no quarto ao lado. Na criança mais velha, veja primeiro se consegue beber o suficiente. Proteja o bebé do contacto da lesão com o rosto e saiba o que fazer se já tiver havido contacto.",
+        "sections": [
+          {
+            "heading": "Quando as feridas dificultam a ingestão de líquidos",
+            "paragraphs": [
+              "Uma primeira infeção oral pelo vírus herpes simplex (HSV) pode provocar febre, gengivas inchadas e feridas dolorosas dentro ou à volta da boca. Em episódios posteriores, aparece muitas vezes um pequeno grupo de bolhas no lábio. Outras doenças também causam úlceras na boca. Ofereça à criança pequenos goles frequentes de uma bebida fresca e pergunte ao médico ou farmacêutico como aliviar a dor.",
+              "Peça orientação urgente se a criança não conseguir beber, urinar muito menos ou tiver dor intensa. Dor ou vermelhidão ocular ou sensibilidade à luz exige avaliação urgente. Se a criança tiver as defesas imunitárias enfraquecidas e houver suspeita de herpes, procure rapidamente aconselhamento médico."
+            ]
+          },
+          {
+            "heading": "Quando o médico pode considerar um antiviral",
+            "paragraphs": [
+              "A maioria das crianças sem outros problemas de saúde recupera com líquidos e alívio da dor. Num ensaio com crianças de um a seis anos observadas nos primeiros três dias de uma gengivoestomatite, 61 com herpes confirmado concluíram o estudo. A dificuldade em beber durou uma mediana de três dias com aciclovir oral e de seis com placebo. Estes resultados dizem respeito ao tratamento precoce dessa doença específica.",
+              "O médico pode considerar um antiviral no início da doença se a dor for intensa ou houver risco de desidratação. Não dê à criança um antiviral de outra pessoa. Um recém-nascido doente precisa de outra avaliação e pode necessitar de tratamento intravenoso no hospital."
+            ]
+          },
+          {
+            "heading": "Proteja o bebé do contacto direto",
+            "paragraphs": [
+              "O HSV pode transmitir-se durante o parto por contacto com herpes genital, ou após o nascimento por contacto com uma ferida ativa, por exemplo através de um beijo. Quem tiver herpes labial deve evitar beijar o bebé até a lesão cicatrizar, lavar as mãos antes de lhe pegar e evitar partilhar objetos que tenham tocado na lesão. Se uma lesão labial tiver tocado no recém-nascido, contacte rapidamente o profissional que o acompanha e explique quando e onde ocorreu o contacto.",
+              "Se tiver uma lesão herpética numa mama, suspenda a amamentação desse lado e deite fora o leite que extrair dessa mama até as lesões cicatrizarem. O leite pode ser contaminado durante a extração. Em geral pode amamentar da mama não afetada se todas as lesões estiverem bem cobertas. Lave as mãos e limpe bem as peças da bomba. Peça orientação se surgir uma lesão na mama."
+            ]
+          },
+          {
+            "heading": "Quando procurar ajuda para o recém-nascido",
+            "paragraphs": [
+              "O vírus pode afetar a pele, os olhos e a boca ou atingir o cérebro e outros órgãos. Os bebés são particularmente vulneráveis nas primeiras seis semanas. Procure avaliação urgente se um bebé pequeno se alimentar mal, tiver uma temperatura de 38 °C ou superior ou apresentar bolhas ou feridas. Refira qualquer contacto com herpes, mesmo que o bebé não tenha erupção.",
+              "Chame a emergência médica se tiver dificuldade em acordar o bebé, se este ficar muito mole, tiver uma convulsão ou se esforçar para respirar. Pode ficar gravemente doente antes de aparecerem bolhas."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Ofereça pequenos goles frequentes e observe a quantidade de urina quando a dor dificulta beber.",
+          "Evite o contacto das feridas com o recém-nascido e comunique rapidamente um contacto direto.",
+          "Um bebé pequeno que esteja doente precisa de avaliação, mesmo sem bolhas visíveis."
+        ],
+        "faq": [
+          {
+            "q": "O herpes labial de uma criança pode contagiar outras pessoas?",
+            "a": "Sim. Evite beijos e não partilhe copos nem objetos que toquem na ferida. Lave as mãos após o contacto e tenha especial cuidado perto de recém-nascidos."
+          },
+          {
+            "q": "Como pode um recém-nascido apanhar herpes?",
+            "a": "Pode haver exposição durante o parto ou depois se uma lesão tocar no bebé, por exemplo num beijo. Peça orientação ao profissional que o acompanha após um contacto direto."
+          },
+          {
+            "q": "O herpes é perigoso para os bebés?",
+            "a": "Pode ser grave, sobretudo nas primeiras semanas. Procure ajuda urgente se o bebé se alimentar mal, tiver febre ou apresentar novas lesões. Chame a emergência médica se tiver uma convulsão, dificuldade respiratória, ficar muito mole ou custar a acordar."
+          },
+          {
+            "q": "Por que são os recém-nascidos especialmente vulneráveis?",
+            "a": "As suas defesas ainda estão em desenvolvimento e a infeção pode atingir o cérebro ou outros órgãos. Nem sempre existe erupção na pele. O tratamento precoce no hospital é importante."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidência revista em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Ajude a criança mais velha a beber e vigie sinais de desidratação.",
+            "Evite o contacto de feridas ativas com o bebé e peça orientação após contacto direto.",
+            "Procure avaliação urgente se um bebé pequeno adoecer."
+          ],
+          "bemama": "A BeMama sugere informar o profissional da idade do bebé, do tipo de contacto e de alterações na alimentação ou no estado de alerta.",
+          "safety": "Um bebé pequeno com dificuldade em alimentar-se, febre ou bolhas precisa de avaliação urgente. Chame a emergência médica por dificuldade respiratória, convulsão, perda de tónus ou dificuldade em acordá-lo.",
+          "sources": [
+            {
+              "organization": "Royal Children’s Hospital de Melbourne",
+              "title": "Herpes oral na infância, hidratação e tratamento",
+              "url": "https://www.rch.org.au/clinicalguide/guideline_index/HSV_Gingivostomatitis/"
+            },
+            {
+              "organization": "Amir e colaboradores, BMJ",
+              "title": "Ensaio de aciclovir precoce em crianças pequenas com gengivoestomatite herpética",
+              "url": "https://www.bmj.com/content/314/7097/1800"
+            },
+            {
+              "organization": "Serviço Nacional de Saúde do Reino Unido",
+              "title": "Herpes neonatal, sinais de alarme e prevenção de contacto com herpes labial",
+              "url": "https://www.nhs.uk/conditions/neonatal-herpes/"
+            },
+            {
+              "organization": "Centros de Controlo e Prevenção de Doenças dos Estados Unidos",
+              "title": "Cuidados com lesões ativas de herpes durante a amamentação",
+              "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/illnesses-conditions/herpes.html"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5912.webp",
+    "heroAlt": {
+      "en": "A preschooler takes a sip of water from a glass held in both hands at a kitchen table.",
+      "es": "Un niño en edad preescolar bebe agua de un vaso que sujeta con ambas manos en la mesa de la cocina.",
+      "fr": "Un jeune enfant boit une gorgée d’eau à la table de cuisine, le verre entre les deux mains.",
+      "pt": "Uma criança em idade pré-escolar bebe um gole de água, segurando o copo com as duas mãos à mesa da cozinha.",
+      "tr": "Okul öncesi çağda bir çocuk mutfak masasında iki eliyle tuttuğu bardaktan su yudumluyor.",
+      "fa": "کودکی پیش‌دبستانی پشت میز آشپزخانه لیوان را با هر دو دست گرفته و جرعه‌ای آب می‌نوشد.",
+      "ar": "طفل في سن ما قبل المدرسة يرتشف الماء من كوب يمسكه بكلتا يديه أمام طاولة المطبخ."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "Cold sores in children and exposure in a newborn",
+      "description": "Learn how to help a child drink when herpes sores hurt, how cold sores spread to a newborn and which changes in a young baby need urgent medical attention."
+    },
+    "fa": {
+      "title": "تبخال در کودکان و تماس نوزاد با تبخال",
+      "description": "وقتی دهان کودک بر اثر تبخال درد می‌کند چگونه به نوشیدن او کمک کنید، چطور از تماس نوزاد با زخم جلوگیری کنید و کدام نشانه‌ها در نوزاد پیگیری فوری می‌خواهند."
+    },
+    "ar": {
+      "title": "قروح البرد عند الأطفال وتعرّض حديث الولادة للهربس",
+      "description": "كيف تساعد طفلًا يؤلمه فمه بسبب قروح الهربس على الشرب، وتحمي المولود من ملامسة القرحة، وتتعرف إلى العلامات التي تحتاج إلى تقييم طبي عاجل عند الرضيع؟"
+    },
+    "fr": {
+      "title": "Herpès labial chez l’enfant et contact avec un nouveau-né",
+      "description": "Comment aider un enfant à boire quand sa bouche lui fait mal, protéger un nouveau-né d’un bouton de fièvre et reconnaître les signes justifiant un avis urgent."
+    },
+    "tr": {
+      "title": "Çocuklarda uçuk ve yenidoğanın uçukla teması",
+      "description": "Uçuk nedeniyle ağzı acıyan çocuğun sıvı almasına nasıl yardım edeceğinizi, yenidoğanı nasıl koruyacağınızı ve hangi belirtilerde yardım isteyeceğinizi öğrenin."
+    },
+    "es": {
+      "title": "Herpes labial en niños y contacto con un recién nacido",
+      "description": "Aprende a ayudar a un niño a beber si tiene llagas por herpes, cómo evitar contagiar a un recién nacido y qué cambios en el bebé requieren atención urgente."
+    },
+    "pt": {
+      "title": "Herpes labial na infância e contacto com um recém-nascido",
+      "description": "Como ajudar uma criança a beber quando tem feridas dolorosas na boca, proteger um recém-nascido do herpes e reconhecer sinais que exigem avaliação urgente."
+    }
+  }
+}

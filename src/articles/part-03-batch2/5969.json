@@ -1,0 +1,695 @@
+{
+  "sourceId": "5969",
+  "article": {
+    "slug": "newborn/coffee-caffeine-while-breastfeeding",
+    "category": "newborn",
+    "i18n": {
+      "en": {
+        "title": "Coffee while breastfeeding: how to count your daily caffeine",
+        "description": "Coffee, tea and some medicines all add caffeine while you breastfeed. Learn how to estimate a day’s intake and what to consider if your baby seems restless.",
+        "intro": "A morning coffee and an afternoon tea may come in very different sizes. If you are breastfeeding, the useful number is the amount of caffeine in the portions you drink over the whole day. Most people can keep some coffee in their routine. Your baby’s age and your usual serving size can help you decide how much.",
+        "sections": [
+          {
+            "heading": "Start with the serving in your hand",
+            "paragraphs": [
+              "Caffeine is measured in milligrams (mg). The amount in coffee depends on the beans, brewing method, number of shots and size of the drink. Instant coffee also contains caffeine. A café’s largest serving may contain several times the amount in a small cup. Check the menu or manufacturer’s information when available.",
+              "Include tea, cola, chocolate and energy drinks when estimating your total. Some cold remedies also contain caffeine; a pharmacist can check a medicine’s ingredients and suitability during breastfeeding. For example, if your coffee contains 90 mg and your tea 55 mg, together they supply 145 mg. An energy drink labelled 80 mg per can would bring the total to 225 mg. Use the figures on your own products."
+            ]
+          },
+          {
+            "heading": "How much is reasonable while nursing?",
+            "paragraphs": [
+              "The UK NHS recommends no more than 200 mg a day while breastfeeding. The US CDC describes about 300 mg a day or less as low to moderate intake that usually causes no adverse effects. These are different public-health guideposts. They do not mark an exact point at which a particular infant will react. Keeping the total at or below 200 mg is a practical way to stay within both.",
+              "Caffeine reaches breast milk in small amounts. A young newborn, particularly one born preterm, clears it more slowly than an older infant. If you are feeding a premature or medically fragile baby, ask the baby’s team whether a lower intake would suit them. If you also happen to be pregnant, follow the pregnancy guidance your maternity team gives you. Consider your own sleep, too. If caffeine leaves you jittery or keeps you awake when you have a chance to rest, try a smaller serving or have it earlier in the day."
+            ]
+          },
+          {
+            "heading": "What a restless evening can and cannot tell you",
+            "paragraphs": [
+              "Restlessness, jitteriness and poor sleep have been reported when the breastfeeding parent consumes very large amounts of caffeine. One unsettled evening does not establish a connection. In a Brazilian birth cohort, researchers asked about caffeine intake and frequent night waking when infants were three months old. They found no statistically clear association. The study used parent reports and cannot rule out sensitivity in an individual baby.",
+              "If your baby seems unsettled and your caffeine intake has been high, try reducing it and notice whether a pattern changes. If an infant feeds poorly, is unusually sleepy, or has persistent unusual shaking, seek medical advice promptly. Do not attribute those changes to coffee without an assessment. A baby who is very difficult to wake, unresponsive or struggling to breathe needs emergency help."
+            ]
+          },
+          {
+            "heading": "Keep feeding and make a manageable change",
+            "paragraphs": [
+              "An ordinary cup of coffee does not require you to express and discard milk or postpone a feed. Milk caffeine often peaks around an hour after drinking, with variation between people. The peak does not define a required waiting period. Feed according to your baby’s needs and use your total intake as the main thing you can adjust.",
+              "Try making the second drink a smaller one, mixing regular coffee with decaf, or choosing a caffeine-free drink you enjoy. Decaf usually still contains a little caffeine. There is no good evidence that coffee itself reduces milk supply. If your main concern is low milk supply, ask a breastfeeding professional to review feeds, weight and diaper output. Relying on one change in coffee intake may delay help with an unrelated feeding problem."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Add up caffeine in drinks, foods and medicines using actual servings.",
+          "Consider a lower intake with a young newborn or premature infant, who clears caffeine more slowly.",
+          "Continue usual feeds after an ordinary coffee and seek advice if your baby’s feeding or alertness changes."
+        ],
+        "faq": [
+          {
+            "q": "How many cups of coffee can I drink while breastfeeding?",
+            "a": "Cup sizes and strengths vary too much for one number. Use the caffeine content of your serving. The NHS advises up to 200 mg a day and the CDC describes 300 mg a day or less as low to moderate. Your baby’s age and response may make a lower amount reasonable."
+          },
+          {
+            "q": "Does coffee change breast milk?",
+            "a": "Some caffeine passes into milk after you drink it. Concentrations vary over time. Milk remains suitable for feeding after an ordinary coffee, and the caffeine content of one cup alone cannot tell you exactly how much a baby receives."
+          },
+          {
+            "q": "Can coffee keep my breastfed baby awake?",
+            "a": "It may contribute to restlessness in a sensitive baby, especially with high daily intake. Waking is also common in infancy for other reasons. Try reducing caffeine if appropriate and discuss continuing symptoms with the baby’s clinician."
+          },
+          {
+            "q": "Should I pump before coffee or discard milk afterward?",
+            "a": "Routine pumping, discarding milk or delaying a feed is unnecessary after an ordinary serving. Feed when your baby needs it. For a preterm baby or a baby receiving specialist care, ask the team about your overall intake."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Use the total milligrams from all sources and adjust for serving size.",
+            "Consider the baby’s age, prematurity and response when deciding whether to reduce caffeine.",
+            "Continue breastfeeding and ask for an assessment if feeding, growth or alertness is concerning."
+          ],
+          "bemama": "BeMama suggests tallying one ordinary day, including drinks you refill and medicines you actually take, before deciding which change would fit your routine.",
+          "safety": "Get prompt medical advice for poor feeding, unusual sleepiness or persistent shaking. Seek emergency help if a baby is very difficult to wake, unresponsive or struggling to breathe.",
+          "sources": [
+            {
+              "organization": "NHS",
+              "title": "Diet and caffeine during breastfeeding",
+              "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/diet/"
+            },
+            {
+              "organization": "US Centers for Disease Control and Prevention",
+              "title": "Maternal diet and breastfeeding",
+              "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/maternal-diet.html"
+            },
+            {
+              "organization": "Drugs and Lactation Database, US National Library of Medicine",
+              "title": "Caffeine in human milk",
+              "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK501467/"
+            },
+            {
+              "organization": "Santos, Matijasevich and Domingues, Pediatrics",
+              "title": "Maternal caffeine intake and night waking at three months",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22473365/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "قهوه در دوران شیردهی؛ چطور کافئین روزانه را حساب کنیم؟",
+        "description": "قهوه، چای و بعضی داروها به مجموع کافئین روزانه اضافه می‌کنند. ببینید در دوران شیردهی چطور مصرفتان را حساب کنید و اگر شیرخوار بی‌قرار است چه چیزهایی را بسنجید.",
+        "intro": "اندازه قهوه صبح و چای عصر ممکن است خیلی فرق داشته باشد. اگر شیر می‌دهید، عددی که به کارتان می‌آید مجموع کافئینِ مقدار واقعی نوشیدنی‌هایی است که در تمام روز می‌نوشید. بیشتر افراد می‌توانند مقداری قهوه را در برنامه روزانه نگه دارند. سن شیرخوار و اندازه معمول نوشیدنی به تصمیم‌گیری کمک می‌کنند.",
+        "sections": [
+          {
+            "heading": "از فنجانی که در دست دارید شروع کنید",
+            "paragraphs": [
+              "کافئین را با میلی‌گرم می‌سنجند. مقدار آن در قهوه به دانه، روش تهیه، تعداد شات و حجم نوشیدنی بستگی دارد. قهوه فوری هم کافئین دارد. بزرگ‌ترین نوشیدنی یک کافه ممکن است چند برابر یک فنجان کوچک کافئین داشته باشد. در صورت امکان اطلاعات منو یا تولیدکننده را ببینید.",
+              "چای، نوشابه کولا، شکلات و نوشیدنی‌های انرژی‌زا را هم در مجموع حساب کنید. بعضی داروهای سرماخوردگی کافئین دارند. داروساز می‌تواند مواد تشکیل‌دهنده و مناسب بودن دارو در شیردهی را بررسی کند. اگر قهوه شما ۹۰ میلی‌گرم و چایتان ۵۵ میلی‌گرم کافئین داشته باشد، مجموع آن‌ها ۱۴۵ میلی‌گرم است. یک قوطی نوشیدنی انرژی‌زا با ۸۰ میلی‌گرم کافئین، مجموع را به ۲۲۵ میلی‌گرم می‌رساند. اعداد محصول خودتان را ملاک بگیرید."
+            ]
+          },
+          {
+            "heading": "چه مقداری در شیردهی مناسب است؟",
+            "paragraphs": [
+              "خدمات ملی سلامت بریتانیا در دوران شیردهی حداکثر ۲۰۰ میلی‌گرم کافئین در روز را توصیه می‌کند. مرکز کنترل و پیشگیری از بیماری‌های آمریکا حدود ۳۰۰ میلی‌گرم در روز یا کمتر را مصرف کم تا متوسط می‌داند که معمولاً عارضه‌ای ایجاد نمی‌کند. این دو راهنمای بهداشت عمومی نقطه دقیق واکنش یک شیرخوار مشخص را تعیین نمی‌کنند. اگر مجموع را در حد ۲۰۰ میلی‌گرم یا کمتر نگه دارید، در محدوده هر دو راهنما قرار دارید.",
+              "مقدار کمی کافئین وارد شیر مادر می‌شود. نوزاد در هفته‌های نخست، به‌ویژه نوزاد نارس، کافئین را آهسته‌تر از شیرخوار بزرگ‌تر دفع می‌کند. اگر نوزاد نارس است یا وضعیت پزشکی حساسی دارد، درباره مناسب بودن مصرف کمتر از تیم درمانش بپرسید. اگر هم‌زمان باردارید، راهنمای دوران بارداری را از تیم خود دنبال کنید. خواب خودتان هم مهم است. اگر کافئین باعث لرزش یا بی‌قراری‌تان می‌شود یا وقتی فرصت استراحت دارید بیدارتان نگه می‌دارد، مقدار کوچک‌تر یا ساعت زودتری را امتحان کنید."
+            ]
+          },
+          {
+            "heading": "از یک شب بی‌قراری چه می‌توان فهمید؟",
+            "paragraphs": [
+              "در شیرخوارانی که والد شیرده مقدار بسیار زیادی کافئین مصرف می‌کند، بی‌قراری، لرزش و بدخوابی گزارش شده است. یک شب بی‌قراری این ارتباط را ثابت نمی‌کند. در مطالعه‌ای در برزیل، پژوهشگران درباره مصرف کافئین و بیدار شدن مکرر نوزادان در شب هنگام سه‌ماهگی پرسیدند و رابطه آماری روشنی نیافتند. مطالعه بر گزارش والدین تکیه داشت و حساسیت فردی را رد نمی‌کند.",
+              "اگر مصرف شما زیاد بوده و کودک بی‌قرار به نظر می‌رسد، مقدار را کمتر کنید و ببینید آیا الگو عوض می‌شود. اگر شیرخوار خوب شیر نمی‌خورد، به‌طور غیرمعمول خواب‌آلود است یا لرزش غیرعادی و مداوم دارد، سریع مشورت پزشکی بگیرید. بدون ارزیابی این تغییرات را به قهوه نسبت ندهید. اگر کودک به‌سختی بسیار زیاد بیدار می‌شود، واکنش نشان نمی‌دهد یا برای نفس کشیدن تقلا می‌کند، کمک اورژانسی بگیرید."
+            ]
+          },
+          {
+            "heading": "شیردهی را ادامه دهید و تغییری عملی انتخاب کنید",
+            "paragraphs": [
+              "بعد از یک فنجان معمولی قهوه نیازی به دوشیدن و دور ریختن شیر یا عقب انداختن یک وعده نیست. کافئین شیر اغلب حدود یک ساعت بعد از نوشیدن به بالاترین میزان می‌رسد، اما زمان آن در افراد مختلف فرق می‌کند. اوج مقدار کافئین به معنی ضرورت یک دوره انتظار نیست. بر اساس نیاز کودک شیر بدهید و برای تغییر، مجموع مصرف را در نظر بگیرید.",
+              "می‌توانید نوشیدنی دوم را کوچک‌تر بگیرید، قهوه معمولی و بدون کافئین را ترکیب کنید یا نوشیدنی بدون کافئینی که دوست دارید انتخاب کنید. قهوه بدون کافئین هم معمولاً مقدار کمی کافئین دارد. شواهد خوبی در دست نیست که خود قهوه تولید شیر را کم کند. اگر نگران کمبود شیر هستید، از متخصص شیردهی بخواهید شیر خوردن، وزن و تعداد پوشک‌های خیس و کثیف کودک را بررسی کند. اگر فقط مصرف قهوه را تغییر دهید، ممکن است رسیدگی به مشکل دیگری در تغذیه عقب بیفتد."
+            ]
+          }
+        ],
+        "takeaways": [
+          "کافئین نوشیدنی‌ها، غذاها و داروها را بر اساس مقدار واقعی مصرف جمع بزنید.",
+          "برای نوزاد کم‌سن یا نارس که کافئین را آهسته‌تر دفع می‌کند، مصرف کمتر را در نظر بگیرید.",
+          "بعد از یک قهوه معمولی طبق روال شیر بدهید و اگر تغذیه یا هوشیاری کودک تغییر کرد، مشورت بگیرید."
+        ],
+        "faq": [
+          {
+            "q": "در دوران شیردهی چند فنجان قهوه می‌توانم بخورم؟",
+            "a": "اندازه و غلظت فنجان‌ها یکسان نیست. مقدار کافئینِ وعده خودتان را ببینید. راهنمای بریتانیا تا ۲۰۰ میلی‌گرم در روز را توصیه می‌کند و مرکز کنترل بیماری‌های آمریکا ۳۰۰ میلی‌گرم یا کمتر را کم تا متوسط می‌داند. سن یا واکنش شیرخوار ممکن است دلیلی برای مصرف کمتر باشد."
+          },
+          {
+            "q": "آیا قهوه شیر مادر را تغییر می‌دهد؟",
+            "a": "بعد از نوشیدن، مقداری کافئین وارد شیر می‌شود و غلظت آن در طول زمان تغییر می‌کند. پس از یک فنجان معمولی می‌توان با همان شیر به کودک غذا داد. مقدار کافئین یک فنجان به‌تنهایی نشان نمی‌دهد کودک دقیقاً چه مقدار دریافت می‌کند."
+          },
+          {
+            "q": "ممکن است قهوه شیرخوارم را بیدار نگه دارد؟",
+            "a": "در شیرخواری که حساس‌تر است، به‌خصوص با مصرف روزانه زیاد، ممکن است در بی‌قراری نقش داشته باشد. بیدار شدن به دلایل دیگر هم در شیرخواران رایج است. اگر مناسب است، کافئین را کمتر کنید و درباره علائم ادامه‌دار با پزشک کودک صحبت کنید."
+          },
+          {
+            "q": "آیا باید پیش از قهوه شیر بدوشم یا پس از آن شیر را دور بریزم؟",
+            "a": "پس از یک وعده معمولی، دوشیدن یا دور ریختن شیر و به تعویق انداختن تغذیه لازم نیست. هر وقت کودک نیاز دارد شیر بدهید. برای نوزاد نارس یا تحت مراقبت تخصصی، درباره مجموع مصرف کافئین از تیم درمان بپرسید."
+          }
+        ],
+        "evidence": {
+          "updated": "بازبینی شواهد در ۱۶ نوامبر ۲۰۲۶",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "مقدار همه منابع را به میلی‌گرم و بر اساس اندازه واقعی وعده حساب کنید.",
+            "برای تصمیم به کاهش مصرف، سن، نارس بودن و واکنش شیرخوار را در نظر بگیرید.",
+            "شیردهی را ادامه دهید و برای نگرانی درباره شیر خوردن، رشد یا هوشیاری کودک درخواست ارزیابی کنید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند پیش از هر تغییر، مصرف یک روز معمولی را یادداشت کنید، حتی نوشیدنی‌هایی که دوباره می‌ریزید و داروهایی که واقعاً مصرف می‌کنید.",
+          "safety": "برای شیر خوردن ضعیف، خواب‌آلودگی غیرمعمول یا لرزش مداوم سریع مشورت پزشکی بگیرید. اگر بیدار کردن شیرخوار بسیار دشوار است، پاسخی نمی‌دهد یا برای نفس کشیدن تقلا می‌کند، کمک اورژانسی بگیرید.",
+          "sources": [
+            {
+              "organization": "خدمات ملی سلامت بریتانیا",
+              "title": "تغذیه و کافئین در دوران شیردهی",
+              "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/diet/"
+            },
+            {
+              "organization": "مرکز کنترل و پیشگیری از بیماری‌های ایالات متحده",
+              "title": "رژیم غذایی مادر و شیردهی",
+              "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/maternal-diet.html"
+            },
+            {
+              "organization": "پایگاه اطلاعات داروها و شیردهی، کتابخانه ملی پزشکی آمریکا",
+              "title": "کافئین در شیر انسان",
+              "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK501467/"
+            },
+            {
+              "organization": "سانتوس، ماتیاسِویچ و دومینگس، مجله پدیاتریکس",
+              "title": "مصرف کافئین مادر و بیدار شدن شبانه شیرخوار در سه‌ماهگی",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22473365/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "القهوة في فترة الرضاعة: كيف تحسبين كمية الكافيين اليومية؟",
+        "description": "تسهم القهوة والشاي وبعض الأدوية في مجموع الكافيين أثناء الرضاعة. تعرّفي إلى طريقة حساب ما تتناولينه خلال يوم وما الذي تلاحظينه إذا بدا رضيعك منزعجًا.",
+        "intro": "قد يختلف حجم قهوة الصباح كثيرًا عن حجم شاي العصر. إذا كنت ترضعين، فالرقم المفيد هو مجموع الكافيين في الكميات التي تشربينها بالفعل على مدار اليوم. تستطيع أغلب المرضعات الاحتفاظ ببعض القهوة ضمن روتينهن. يساعدك عمر رضيعك وحجم حصتك المعتادة على اختيار المقدار المناسب.",
+        "sections": [
+          {
+            "heading": "ابدئي بالكوب الذي في يدك",
+            "paragraphs": [
+              "يقاس الكافيين بالميليغرام. وتختلف كميته في القهوة باختلاف الحبوب وطريقة التحضير وعدد جرعات الإسبريسو وحجم المشروب. تحتوي القهوة سريعة التحضير أيضًا على الكافيين. وقد يحتوي أكبر كوب في المقهى على أضعاف ما في فنجان صغير. راجعي القائمة أو معلومات الشركة إن كانت متاحة.",
+              "أدخلي الشاي والكولا والشوكولاتة ومشروبات الطاقة في حسابك. وبعض مستحضرات الزكام يحوي كافيين أيضًا. يستطيع الصيدلي التحقق من مكونات الدواء وملاءمته للرضاعة. مثلًا إذا احتوت قهوتك على ٩٠ ملغ وشايك على ٥٥ ملغ كان المجموع ١٤٥ ملغ. وإذا أضفت علبة مشروب طاقة كُتب عليها ٨٠ ملغ للعلبة أصبح المجموع ٢٢٥ ملغ. استخدمي القيم الخاصة بالمنتجات التي تتناولينها."
+            ]
+          },
+          {
+            "heading": "ما المقدار المعقول أثناء الرضاعة؟",
+            "paragraphs": [
+              "تنصح هيئة الخدمات الصحية الوطنية البريطانية بألّا تتجاوز المرضعة ٢٠٠ ملغ يوميًا. وتصف مراكز مكافحة الأمراض والوقاية منها في الولايات المتحدة نحو ٣٠٠ ملغ يوميًا أو أقل بأنه استهلاك منخفض إلى معتدل لا يسبب عادة آثارًا سلبية. هذان مرجعان للصحة العامة، ولا يحددان بدقة المقدار الذي يتأثر به رضيع بعينه. إن إبقاء المجموع عند ٢٠٠ ملغ أو أقل طريقة عملية للبقاء ضمن التوجيهين.",
+              "يصل الكافيين إلى حليب الأم بكميات صغيرة. ويتخلص منه حديث الولادة، خصوصًا إن وُلد قبل الأوان، أبطأ مما يفعل الرضيع الأكبر. إذا كنت ترضعين طفلًا خديجًا أو ذا حالة صحية حساسة فاسألي فريقه إن كان الأنسب تناول مقدار أقل. وإذا كنت حاملًا أيضًا فاتبعي إرشادات فريق الحمل. وخذي نومك أنت في الحسبان. إن سبب لك الكافيين توترًا أو رجفة أو منعك من النوم عندما تتاح لك الراحة، فجرّبي حصة أصغر أو تناوليها أبكر في اليوم."
+            ]
+          },
+          {
+            "heading": "ماذا يخبرك مساء واحد من قلة الهدوء؟",
+            "paragraphs": [
+              "سُجّل تململ ورجفان واضطراب في النوم لدى بعض الرضّع عندما كانت المرضعة تستهلك كميات كبيرة جدًا من الكافيين. لكن مساءً واحدًا من الانزعاج لا يثبت الصلة. في دراسة ولادية برازيلية، سأل الباحثون عن تناول الكافيين وكثرة الاستيقاظ ليلًا عندما بلغ الرضّع ثلاثة أشهر، ولم يجدوا ارتباطًا واضحًا إحصائيًا. اعتمدت الدراسة على إفادات الأهل ولا تستبعد تأثر رضيع بعينه.",
+              "إذا بدا رضيعك منزعجًا وكان استهلاكك مرتفعًا، فجرّبي التقليل منه وراقبي إن تغيّر النمط. إذا ضعف إقباله على الرضاعة أو كان نعسه غير معتاد أو استمر لديه ارتجاف غير مألوف، فاطلبي مشورة طبية سريعًا. لا تنسبي هذه التغيرات إلى القهوة دون فحص. وإذا كان إيقاظه صعبًا جدًا أو كان غير مستجيب أو يعاني في التنفس فيحتاج إلى مساعدة طارئة."
+            ]
+          },
+          {
+            "heading": "واصلي الإرضاع واختاري تغييرًا يلائم يومك",
+            "paragraphs": [
+              "لا يستلزم فنجان قهوة عادي شفط الحليب والتخلص منه أو تأجيل رضعة. كثيرًا ما يصل تركيز الكافيين في الحليب إلى ذروته بعد نحو ساعة من الشرب، ويختلف ذلك من شخص إلى آخر. لا تفرض هذه الذروة فترة انتظار. أرضعي طفلك حسب حاجته وركّزي على مجموع ما تتناولينه إن أردت تغييره.",
+              "جرّبي أن يكون المشروب الثاني أصغر حجمًا، أو امزجي القهوة العادية بالمنزوعة الكافيين، أو اختاري مشروبًا تحبينه وخاليًا من الكافيين. غالبًا ما تبقى كمية قليلة في القهوة المنزوعة الكافيين. لا توجد أدلة جيدة على أن القهوة بحد ذاتها تقلّل إدرار الحليب. إذا كنت تخشين قلّته فاطلبي من مختص في الرضاعة مراجعة الرضعات والوزن وما يخرجه الطفل في حفاضه. الاقتصار على تغيير القهوة قد يؤخر المساعدة في مشكلة تغذية ذات سبب آخر."
+            ]
+          }
+        ],
+        "takeaways": [
+          "اجمعي الكافيين في المشروبات والأطعمة والأدوية وفق الكميات الفعلية التي تتناولينها.",
+          "فكري في تقليل الكمية إذا كان الرضيع حديث الولادة أو خديجًا لأن تخلصه من الكافيين أبطأ.",
+          "بعد قهوة عادية أرضعي كالمعتاد، واطلبي المشورة إذا تغيرت رضاعة الطفل أو يقظته."
+        ],
+        "faq": [
+          {
+            "q": "كم فنجانًا من القهوة أستطيع شربه أثناء الرضاعة؟",
+            "a": "تختلف أحجام الفناجين وتركيز القهوة كثيرًا، فلا يناسب الجميع عدد واحد. احسبي كمية الكافيين في حصتك. توصي الهيئة البريطانية بما يصل إلى ٢٠٠ ملغ يوميًا، بينما تصف المراكز الأمريكية ٣٠٠ ملغ أو أقل بأنها كمية منخفضة إلى معتدلة. وقد يقتضي عمر الطفل أو استجابته تناول كمية أقل."
+          },
+          {
+            "q": "هل تغير القهوة حليب الأم؟",
+            "a": "يمر بعض الكافيين إلى الحليب بعد شربه وتتغيّر تراكيزه بمرور الوقت. يظل الحليب مناسبًا للرضاعة بعد قهوة عادية، ولا تخبرك كمية الكافيين في فنجان واحد بمقدار ما يتلقاه رضيعك بدقة."
+          },
+          {
+            "q": "هل يمكن أن تبقي القهوة رضيعي مستيقظًا؟",
+            "a": "قد تسهم في التململ لدى رضيع حساس، خصوصًا مع استهلاك يومي مرتفع. لكن الاستيقاظ شائع في الرضاعة لأسباب أخرى أيضًا. جرّبي تقليل الكافيين إذا كان مناسبًا وناقشي الأعراض المستمرة مع الطبيب الذي يتابع طفلك."
+          },
+          {
+            "q": "هل ينبغي أن أشفط الحليب قبل القهوة أو أتخلص منه بعدها؟",
+            "a": "بعد حصة عادية لا حاجة إلى الشفط الروتيني أو التخلص من الحليب أو تأخير الرضعة. أرضعي الطفل وقت حاجته. وإذا كان خديجًا أو يتلقى رعاية تخصصية فاسألي فريقه عن إجمالي استهلاكك."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "احسبي مجموع الميليغرامات من كل المصادر وانتبهي لحجم الحصة.",
+            "راعي عمر الطفل وولادته قبل الأوان واستجابته عند اتخاذ قرار بتقليل الكافيين.",
+            "واصلي الإرضاع واطلبي تقييمًا إذا كانت رضاعة الطفل أو نموه أو يقظته تثير القلق."
+          ],
+          "bemama": "تقترح بي ماما تسجيل ما تتناولينه في يوم عادي، بما فيه الأكواب التي تعيدين ملأها والأدوية التي تأخذينها بالفعل، قبل اختيار تعديل يناسب يومك.",
+          "safety": "اطلبي مشورة طبية سريعة إذا ضعفت الرضاعة أو ظهر نعاس غير معتاد أو ارتجاف مستمر. اطلبي مساعدة طارئة إذا كان إيقاظ الرضيع صعبًا جدًا أو كان غير مستجيب أو يعاني في التنفس.",
+          "sources": [
+            {
+              "organization": "هيئة الخدمات الصحية الوطنية البريطانية",
+              "title": "الغذاء والكافيين أثناء الرضاعة الطبيعية",
+              "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/diet/"
+            },
+            {
+              "organization": "مراكز مكافحة الأمراض والوقاية منها في الولايات المتحدة",
+              "title": "غذاء الأم والرضاعة الطبيعية",
+              "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/maternal-diet.html"
+            },
+            {
+              "organization": "قاعدة بيانات الأدوية والرضاعة، المكتبة الوطنية الأمريكية للطب",
+              "title": "الكافيين في حليب الإنسان",
+              "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK501467/"
+            },
+            {
+              "organization": "سانتوس وماتياسيفيتش ودومينغوس، مجلة طب الأطفال",
+              "title": "تناول الأم للكافيين والاستيقاظ الليلي للرضيع عند عمر ثلاثة أشهر",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22473365/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Café et allaitement : comment compter la caféine sur une journée ?",
+        "description": "Café, thé et certains médicaments entrent tous dans le calcul. Apprenez à estimer votre consommation et à repérer les changements à signaler chez votre bébé.",
+        "intro": "Le café du matin et le thé de l’après-midi peuvent être servis dans des tasses de tailles très différentes. Quand on allaite, le chiffre utile est la quantité de caféine contenue dans les portions réellement bues sur la journée. La plupart des personnes peuvent garder un peu de café dans leurs habitudes. L’âge de votre bébé et la taille habituelle de vos tasses vous aideront à choisir la quantité.",
+        "sections": [
+          {
+            "heading": "Commencez par la tasse que vous avez en main",
+            "paragraphs": [
+              "La caféine se mesure en milligrammes (mg). Sa quantité dans un café dépend des grains, du mode de préparation, du nombre de doses d’expresso et du volume servi. Le café soluble en contient aussi. Le plus grand format d’un café peut contenir plusieurs fois la quantité d’une petite tasse. Consultez la carte ou les indications du fabricant si elles sont disponibles.",
+              "Comptez aussi le thé, le cola, le chocolat et les boissons énergisantes. Certains médicaments contre le rhume contiennent de la caféine. Un pharmacien peut vérifier les ingrédients et vous dire si le produit convient pendant l’allaitement. Si votre café en contient 90 mg et votre thé 55 mg, le total atteint 145 mg. Une canette indiquant 80 mg porterait ce total à 225 mg. Utilisez les chiffres de vos propres produits."
+            ]
+          },
+          {
+            "heading": "Quelle quantité envisager pendant l’allaitement ?",
+            "paragraphs": [
+              "Le service de santé britannique conseille de ne pas dépasser 200 mg par jour pendant l’allaitement. Aux États-Unis, les CDC considèrent qu’environ 300 mg par jour ou moins correspondent à une consommation faible à modérée qui n’entraîne généralement pas d’effet indésirable. Ces repères de santé publique ne désignent pas la dose précise à laquelle réagit un nourrisson donné. Rester à 200 mg ou moins permet de respecter les deux.",
+              "La caféine passe en petite quantité dans le lait. Le nouveau-né, surtout s’il est né prématurément, l’élimine plus lentement qu’un nourrisson plus âgé. Si votre bébé est prématuré ou fragile sur le plan médical, demandez à son équipe s’il serait préférable d’en consommer moins. Si vous êtes aussi enceinte, suivez les conseils de votre équipe de maternité. Pensez également à votre sommeil. Si la caféine vous rend nerveuse ou vous empêche de dormir quand vous pouvez vous reposer, essayez une portion plus petite ou prenez-la plus tôt."
+            ]
+          },
+          {
+            "heading": "Que peut-on conclure d’une soirée agitée ?",
+            "paragraphs": [
+              "Des cas d’agitation, de tremblements et de sommeil perturbé ont été rapportés chez des nourrissons dont le parent allaitant consommait de très grandes quantités de caféine. Une seule soirée difficile ne suffit pas à établir un lien. Dans une cohorte brésilienne suivie depuis la naissance, les chercheurs ont interrogé les parents sur la caféine et les réveils nocturnes fréquents à trois mois. Ils n’ont pas trouvé d’association statistiquement nette. Les résultats reposent sur les déclarations des parents et n’excluent pas une sensibilité individuelle.",
+              "Si votre consommation était élevée et que votre bébé semble agité, essayez de la réduire et observez si les choses changent. Si votre bébé boit mal, est anormalement somnolent ou présente des tremblements inhabituels persistants, demandez rapidement un avis médical. Ne mettez pas ces changements sur le compte du café sans évaluation. Un bébé très difficile à réveiller, qui ne réagit pas ou qui peine à respirer a besoin de secours d’urgence."
+            ]
+          },
+          {
+            "heading": "Continuez les tétées et choisissez un changement réalisable",
+            "paragraphs": [
+              "Après une tasse habituelle de café, il n’est pas nécessaire de tirer et de jeter le lait ni de repousser une tétée. La concentration de caféine dans le lait atteint souvent un pic environ une heure après la consommation, avec des variations individuelles. Ce pic n’impose pas de délai d’attente. Allaitez selon les besoins de votre bébé et ajustez surtout la quantité totale de caféine.",
+              "Essayez une deuxième tasse plus petite, un mélange de café ordinaire et de décaféiné ou une boisson sans caféine qui vous plaît. Le décaféiné contient généralement encore un peu de caféine. Rien ne démontre solidement que le café lui-même diminue la production de lait. Si vous craignez de manquer de lait, demandez à un professionnel de l’allaitement d’évaluer les tétées, le poids et les couches mouillées ou souillées. Modifier seulement le café pourrait retarder la prise en charge d’un autre problème d’alimentation."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Additionnez la caféine des boissons, aliments et médicaments en fonction des portions réelles.",
+          "Envisagez d’en consommer moins avec un jeune nouveau-né ou un prématuré qui élimine la caféine plus lentement.",
+          "Après un café ordinaire, continuez les tétées habituelles et demandez conseil en cas de changement de l’alimentation ou de l’éveil du bébé."
+        ],
+        "faq": [
+          {
+            "q": "Combien de tasses de café puis-je boire en allaitant ?",
+            "a": "Les volumes et les concentrations varient trop pour donner un nombre unique. Regardez la teneur de votre portion. Le NHS conseille jusqu’à 200 mg par jour et les CDC décrivent 300 mg ou moins comme une consommation faible à modérée. L’âge ou la réaction du bébé peut justifier une quantité moindre."
+          },
+          {
+            "q": "Le café modifie-t-il le lait maternel ?",
+            "a": "Après la consommation, un peu de caféine passe dans le lait, à une concentration qui évolue. Le lait reste adapté à la tétée après un café habituel. La teneur d’une tasse ne permet pas, à elle seule, de savoir exactement combien reçoit le bébé."
+          },
+          {
+            "q": "Le café peut-il tenir mon bébé allaité éveillé ?",
+            "a": "Il peut contribuer à l’agitation d’un bébé sensible, surtout si l’apport quotidien est élevé. Les réveils sont aussi fréquents pour d’autres raisons. Si cela vous semble pertinent, réduisez la caféine et parlez des symptômes persistants au professionnel qui suit votre bébé."
+          },
+          {
+            "q": "Faut-il tirer le lait avant le café ou le jeter ensuite ?",
+            "a": "Après une portion ordinaire, il n’y a pas lieu de tirer ou de jeter systématiquement le lait ni de retarder une tétée. Nourrissez votre bébé selon ses besoins. S’il est prématuré ou suivi par une équipe spécialisée, demandez-lui conseil sur votre apport total."
+          }
+        ],
+        "evidence": {
+          "updated": "Données revues le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Calculez le total en milligrammes, toutes sources confondues, en tenant compte des portions.",
+            "Prenez en compte l’âge du bébé, une éventuelle prématurité et sa réaction avant d’ajuster la quantité.",
+            "Poursuivez l’allaitement et demandez une évaluation si les tétées, la croissance ou l’éveil vous préoccupent."
+          ],
+          "bemama": "BeMama propose de noter une journée ordinaire, sans oublier les tasses que vous remplissez à nouveau et les médicaments effectivement pris, avant de choisir une modification adaptée à votre quotidien.",
+          "safety": "Demandez rapidement un avis médical si le bébé boit mal, est anormalement somnolent ou présente des tremblements persistants. Appelez les secours s’il est très difficile à réveiller, ne réagit pas ou peine à respirer.",
+          "sources": [
+            {
+              "organization": "Service national de santé britannique",
+              "title": "Alimentation et caféine pendant l’allaitement",
+              "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/diet/"
+            },
+            {
+              "organization": "Centres américains de contrôle et de prévention des maladies",
+              "title": "Alimentation maternelle et allaitement",
+              "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/maternal-diet.html"
+            },
+            {
+              "organization": "Base de données sur les médicaments et l’allaitement, Bibliothèque nationale de médecine des États-Unis",
+              "title": "Caféine dans le lait humain",
+              "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK501467/"
+            },
+            {
+              "organization": "Santos, Matijasevich et Domingues, revue Pediatrics",
+              "title": "Consommation maternelle de caféine et réveils nocturnes à trois mois",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22473365/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Emzirirken kahve: günlük kafein miktarı nasıl hesaplanır?",
+        "description": "Kahve, çay ve bazı ilaçlar emzirirken aldığınız kafeine eklenir. Bir günlük miktarı nasıl hesaplayacağınızı ve bebeğiniz huzursuzsa nelere bakacağınızı öğrenin.",
+        "intro": "Sabah kahvesi ile öğleden sonra içtiğiniz çayın fincanları çok farklı büyüklükte olabilir. Emzirirken işe yarayan sayı, gün boyunca gerçekten içtiğiniz porsiyonlardaki toplam kafeindir. Çoğu kişi günlük düzeninde biraz kahveye yer verebilir. Bebeğinizin yaşı ve genellikle içtiğiniz porsiyon ne kadarının uygun olduğuna karar vermenize yardımcı olabilir.",
+        "sections": [
+          {
+            "heading": "Elinizdeki fincanla başlayın",
+            "paragraphs": [
+              "Kafein miligram (mg) olarak ölçülür. Kahvedeki miktar çekirdeğe, demleme yöntemine, espresso dozu sayısına ve içeceğin boyutuna bağlıdır. Hazır kahvede de kafein vardır. Bir kafede satılan en büyük boy, küçük bir fincandaki miktarın birkaç katını içerebilir. Varsa menüdeki veya üreticinin verdiği bilgileri kontrol edin.",
+              "Günlük toplama çayı, kolayı, çikolatayı ve enerji içeceklerini de katın. Bazı soğuk algınlığı ilaçlarında kafein bulunur. Eczacı ilacın içeriğini ve emzirme dönemine uygunluğunu inceleyebilir. Örneğin kahvenizde 90 mg ve çayınızda 55 mg varsa toplam 145 mg eder. Kutu başına 80 mg yazan bir enerji içeceğiyle toplam 225 mg olur. Kendi ürünlerinizdeki sayıları kullanın."
+            ]
+          },
+          {
+            "heading": "Emzirirken ne kadarı makuldür?",
+            "paragraphs": [
+              "Birleşik Krallık Ulusal Sağlık Hizmeti (NHS) emzirme döneminde günde 200 mg’ın aşılmamasını önerir. ABD Hastalık Kontrol ve Önleme Merkezleri (CDC), günde yaklaşık 300 mg veya daha azını genellikle olumsuz etki yapmayan düşük ile orta düzey arasında bir tüketim olarak tanımlar. Bunlar farklı toplum sağlığı rehberleridir. Belli bir bebeğin tepki vereceği kesin miktarı göstermezler. Günlük toplamı 200 mg veya altında tutmak her ikisine de uymanın pratik bir yoludur.",
+              "Anne sütüne az miktarda kafein geçer. Yeni doğmuş bir bebek, özellikle erken doğduysa, kafeini daha büyük bir bebeğe göre daha yavaş uzaklaştırır. Erken doğmuş veya sağlığı hassas bir bebeği emziriyorsanız daha az tüketmenin uygun olup olmadığını bebeğin ekibine sorun. Ayrıca gebeyseniz gebeliğinizi izleyen ekibin önerilerine uyun. Kendi uykunuzu da düşünün. Kafein sizi huzursuz ediyorsa ya da dinlenme fırsatı bulduğunuzda uyanık tutuyorsa daha küçük porsiyonu veya günün daha erken bir saatini deneyin."
+            ]
+          },
+          {
+            "heading": "Huzursuz geçen bir akşamdan ne anlaşılır?",
+            "paragraphs": [
+              "Emziren kişi çok yüksek miktarda kafein tükettiğinde bazı bebeklerde huzursuzluk, titreme ve uyku sorunları bildirilmiştir. Tek bir huzursuz akşam arada bağ olduğunu göstermez. Brezilya’da doğumdan itibaren izlenen bir grupta araştırmacılar, bebekler üç aylıkken kafein tüketimini ve geceleri sık uyanmayı sordu. İstatistiksel olarak belirgin bir ilişki bulmadılar. Araştırma ebeveynlerin bildirimlerine dayanıyordu ve tek tek bebeklerin duyarlı olabileceğini dışlayamaz.",
+              "Bebeğiniz huzursuzsa ve çok kafein tükettiyseniz miktarı azaltıp düzenin değişip değişmediğine bakın. Bebek iyi beslenmiyorsa, olağandışı uykuluysa veya alışılmadık titremeleri sürüyorsa gecikmeden tıbbi görüş alın. Bu değişiklikleri değerlendirme yapılmadan kahveye bağlamayın. Bebeği uyandırmak çok güçse, yanıt vermiyorsa veya nefes almakta zorlanıyorsa acil yardım gerekir."
+            ]
+          },
+          {
+            "heading": "Emzirmeyi sürdürüp uygulanabilir bir değişiklik seçin",
+            "paragraphs": [
+              "Olağan bir fincan kahveden sonra sütü sağıp atmanız veya emzirmeyi ertelemeniz gerekmez. Sütteki kafein sıklıkla içildikten yaklaşık bir saat sonra en yüksek düzeyine ulaşır, ancak bu süre kişiye göre değişir. Bu düzey bir bekleme süresi belirlemez. Bebeği ihtiyacına göre besleyin ve değiştirebileceğiniz temel unsur olarak günlük toplamı göz önüne alın.",
+              "İkinci içeceği daha küçük alabilir, normal kahveyi kafeinsizle karıştırabilir veya sevdiğiniz kafeinsiz başka bir içecek seçebilirsiniz. Kafeinsiz kahve genellikle yine az miktarda kafein içerir. Kahvenin kendisinin süt üretimini azalttığına dair güçlü kanıt yoktur. Sütün az olduğundan endişeleniyorsanız bir emzirme uzmanından emzirmeyi, bebeğin kilosunu, ıslak ve kirli bezlerini değerlendirmesini isteyin. Yalnızca kahve tüketimini değiştirmek başka bir beslenme sorununun ele alınmasını geciktirebilir."
+            ]
+          }
+        ],
+        "takeaways": [
+          "İçecek, yiyecek ve ilaçlardaki kafeini gerçekten tükettiğiniz porsiyonlar üzerinden toplayın.",
+          "Kafeini daha yavaş uzaklaştıran küçük bir yenidoğanı veya prematüre bebeği emziriyorsanız daha az tüketmeyi değerlendirin.",
+          "Olağan bir kahveden sonra emzirmeye devam edin. Bebeğin beslenmesi veya uyanıklığı değişirse görüş alın."
+        ],
+        "faq": [
+          {
+            "q": "Emzirirken kaç fincan kahve içebilirim?",
+            "a": "Fincan boyları ve kahve yoğunlukları tek bir sayı verilemeyecek kadar farklıdır. İçtiğiniz porsiyonun kafein miktarını kullanın. NHS günde en fazla 200 mg önerirken CDC 300 mg veya daha azını düşük ila orta düzey olarak tanımlar. Bebeğinizin yaşı veya tepkisi daha az tüketmeyi uygun kılabilir."
+          },
+          {
+            "q": "Kahve anne sütünü değiştirir mi?",
+            "a": "İçtikten sonra bir miktar kafein süte geçer ve yoğunluğu zamanla değişir. Olağan bir kahveden sonra süt bebeği beslemek için uygundur. Tek bir fincanın kafein miktarı bebeğin tam olarak ne kadar aldığını göstermez."
+          },
+          {
+            "q": "Kahve emzirdiğim bebeğimi uyanık tutabilir mi?",
+            "a": "Özellikle günlük tüketim yüksekse duyarlı bir bebekte huzursuzluğa katkıda bulunabilir. Bebeklikte başka nedenlerle uyanmak da yaygındır. Uygunsa kafeini azaltmayı deneyin ve süren belirtileri bebeğinizi izleyen sağlık uzmanıyla görüşün."
+          },
+          {
+            "q": "Kahveden önce süt sağmalı veya sonrasında sütü atmalı mıyım?",
+            "a": "Olağan bir porsiyondan sonra rutin olarak süt sağmak, sütü atmak veya beslenmeyi ertelemek gerekmez. Bebek ihtiyaç duyduğunda emzirin. Erken doğan veya uzman bakımı alan bir bebek için toplam tüketiminizi ekiple görüşün."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Her kaynaktan gelen miligramları porsiyon büyüklüğüne göre toplayın.",
+            "Kafeini azaltmaya karar verirken bebeğin yaşını, erken doğup doğmadığını ve tepkisini değerlendirin.",
+            "Emzirmeyi sürdürün. Beslenme, büyüme veya uyanıklıkla ilgili kaygınız varsa değerlendirme isteyin."
+          ],
+          "bemama": "BeMama, bir değişikliğe karar vermeden önce yeniden doldurduğunuz fincanlar ve aldığınız ilaçlar dahil olağan bir günün tüketimini not etmeyi önerir.",
+          "safety": "Yetersiz beslenme, olağandışı uyku hali veya süren titremede gecikmeden tıbbi görüş alın. Bebeği uyandırmak çok güçse, yanıt vermiyorsa veya nefes almakta zorlanıyorsa acil yardım isteyin.",
+          "sources": [
+            {
+              "organization": "Birleşik Krallık Ulusal Sağlık Hizmeti",
+              "title": "Emzirirken beslenme ve kafein",
+              "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/diet/"
+            },
+            {
+              "organization": "ABD Hastalık Kontrol ve Önleme Merkezleri",
+              "title": "Annenin beslenmesi ve emzirme",
+              "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/maternal-diet.html"
+            },
+            {
+              "organization": "İlaç ve Emzirme Veri Tabanı, ABD Ulusal Tıp Kütüphanesi",
+              "title": "Anne sütünde kafein",
+              "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK501467/"
+            },
+            {
+              "organization": "Santos, Matijasevich ve Domingues, Pediatrics dergisi",
+              "title": "Annenin kafein tüketimi ve üç aylık bebeklerin gece uyanması",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22473365/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Café y lactancia: cómo sumar la cafeína que tomas al día",
+        "description": "El café, el té y algunos medicamentos suman cafeína durante la lactancia. Aprende a estimar lo que tomas y qué observar si notas a tu bebé inquieto.",
+        "intro": "El café del desayuno y el té de la tarde pueden servirse en tazas de tamaños muy diferentes. Si das el pecho, lo que interesa es la cafeína contenida en las porciones que realmente consumes a lo largo del día. La mayoría de las personas pueden seguir tomando algo de café. La edad del bebé y el tamaño de tu ración habitual te ayudarán a decidir cuánto.",
+        "sections": [
+          {
+            "heading": "Empieza por la taza que tienes delante",
+            "paragraphs": [
+              "La cafeína se mide en miligramos (mg). La cantidad que contiene el café depende del grano, de cómo se prepara, del número de dosis de espresso y del tamaño de la bebida. El café instantáneo también contiene cafeína. El tamaño más grande de una cafetería puede aportar varias veces la cantidad de una taza pequeña. Consulta la carta o las indicaciones del fabricante si están disponibles.",
+              "Incluye el té, las bebidas de cola, el chocolate y las bebidas energéticas. Algunos medicamentos contra el resfriado también contienen cafeína. En la farmacia pueden revisar sus ingredientes y si el producto es adecuado durante la lactancia. Si el café aporta 90 mg y el té 55 mg, juntos suman 145 mg. Una bebida energética con 80 mg por lata elevaría el total a 225 mg. Usa los valores de tus propios productos."
+            ]
+          },
+          {
+            "heading": "¿Qué cantidad es razonable durante la lactancia?",
+            "paragraphs": [
+              "El servicio de salud británico aconseja no superar los 200 mg al día durante la lactancia. En Estados Unidos, los CDC describen unos 300 mg al día o menos como un consumo bajo o moderado que no suele causar efectos adversos. Son orientaciones de salud pública y no señalan el punto exacto en que reaccionará cada lactante. Mantener el total en 200 mg o menos permite seguir ambas referencias.",
+              "La cafeína pasa en pequeñas cantidades a la leche materna. Un recién nacido, especialmente si es prematuro, la elimina más despacio que un lactante mayor. Si das el pecho a un bebé prematuro o con problemas de salud que lo hacen más vulnerable, pregunta a su equipo si conviene reducir la cantidad. Si además estás embarazada, sigue las recomendaciones de tu equipo de maternidad. Ten en cuenta también tu descanso. Si la cafeína te pone nerviosa o no te deja dormir cuando puedes hacerlo, prueba con una ración menor o tómala más temprano."
+            ]
+          },
+          {
+            "heading": "Qué se puede deducir de una tarde de inquietud",
+            "paragraphs": [
+              "Se han descrito inquietud, temblores y alteración del sueño en bebés cuando quien da el pecho consume cantidades muy elevadas de cafeína. Una sola tarde de inquietud no demuestra que exista relación. En una cohorte brasileña, los investigadores preguntaron por el consumo de cafeína y los despertares nocturnos frecuentes a los tres meses de edad. No observaron una asociación estadística clara. El estudio se basó en lo que contaron las familias y no descarta que un bebé concreto sea sensible.",
+              "Si tu bebé parece inquieto y has estado tomando mucha cafeína, prueba a reducirla y observa si cambia el patrón. Consulta pronto si come mal, está más somnoliento de lo habitual o tiene temblores inusuales que persisten. No atribuyas estos cambios al café sin una valoración. Un bebé al que resulta muy difícil despertar, que no responde o que respira con dificultad necesita atención de emergencia."
+            ]
+          },
+          {
+            "heading": "Mantén las tomas y elige un cambio que puedas sostener",
+            "paragraphs": [
+              "Una taza habitual de café no exige extraerse leche, desecharla ni posponer una toma. La cafeína en la leche suele alcanzar su máximo aproximadamente una hora después del consumo, aunque varía según la persona. Ese momento no establece un tiempo de espera obligatorio. Amamanta según las necesidades del bebé y fíjate sobre todo en el consumo total que puedes ajustar.",
+              "Puedes elegir una segunda bebida más pequeña, mezclar café normal con descafeinado o escoger una bebida sin cafeína que disfrutes. El descafeinado suele conservar una pequeña cantidad. No hay pruebas sólidas de que el propio café reduzca la producción de leche. Si te preocupa tener poca leche, pide a un profesional de lactancia que revise las tomas, el peso y los pañales mojados o sucios. Cambiar solo el consumo de café podría retrasar la ayuda para otro problema de alimentación."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Suma la cafeína de bebidas, alimentos y medicamentos según las porciones que realmente tomas.",
+          "Con un recién nacido o un bebé prematuro que elimina la cafeína más despacio puede convenir una cantidad menor.",
+          "Tras un café habitual, continúa con las tomas y consulta si cambian la alimentación o el estado de alerta del bebé."
+        ],
+        "faq": [
+          {
+            "q": "¿Cuántas tazas de café puedo tomar si doy el pecho?",
+            "a": "Los tamaños y la concentración varían demasiado para dar un solo número. Mira la cafeína de tu porción. El NHS recomienda hasta 200 mg al día y los CDC consideran 300 mg o menos un consumo bajo o moderado. La edad y la respuesta del bebé pueden justificar una cantidad menor."
+          },
+          {
+            "q": "¿El café cambia la leche materna?",
+            "a": "Parte de la cafeína pasa a la leche después de beberla y su concentración varía con el tiempo. La leche sigue siendo adecuada para amamantar después de un café habitual. Lo que contiene una taza no basta para saber exactamente cuánto recibe el bebé."
+          },
+          {
+            "q": "¿Puede el café mantener despierto a mi bebé?",
+            "a": "Puede contribuir a la inquietud si es sensible, sobre todo con un consumo diario elevado. Despertarse también es común a esta edad por otros motivos. Prueba a reducir la cafeína si procede y comenta los síntomas persistentes con el profesional que atiende a tu bebé."
+          },
+          {
+            "q": "¿Debo extraerme leche antes del café o desecharla después?",
+            "a": "Tras una ración normal no hacen falta extracciones rutinarias, desechar la leche ni retrasar la toma. Da el pecho cuando el bebé lo necesite. Si nació prematuro o recibe atención especializada, pregunta al equipo por tu consumo total."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Suma los miligramos de todas las fuentes ajustándolos al tamaño de la porción.",
+            "Ten en cuenta la edad, la prematuridad y la respuesta de tu bebé al decidir si reduces la cafeína.",
+            "Continúa con la lactancia y pide una valoración si te preocupan las tomas, el crecimiento o el estado de alerta."
+          ],
+          "bemama": "BeMama sugiere anotar un día habitual, incluidas las tazas que rellenas y los medicamentos que realmente tomas, antes de decidir qué cambio encaja en tu rutina.",
+          "safety": "Pide consejo médico pronto si el bebé come mal, está anormalmente somnoliento o tiene temblores persistentes. Busca ayuda de emergencia si cuesta mucho despertarlo, no responde o tiene problemas para respirar.",
+          "sources": [
+            {
+              "organization": "Servicio Nacional de Salud del Reino Unido",
+              "title": "Alimentación y cafeína durante la lactancia",
+              "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/diet/"
+            },
+            {
+              "organization": "Centros para el Control y la Prevención de Enfermedades de Estados Unidos",
+              "title": "Dieta materna y lactancia",
+              "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/maternal-diet.html"
+            },
+            {
+              "organization": "Base de datos de medicamentos y lactancia, Biblioteca Nacional de Medicina de Estados Unidos",
+              "title": "Cafeína en la leche humana",
+              "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK501467/"
+            },
+            {
+              "organization": "Santos, Matijasevich y Domingues, revista Pediatrics",
+              "title": "Consumo materno de cafeína y despertares nocturnos a los tres meses",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22473365/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Café na amamentação: como somar a cafeína do dia?",
+        "description": "Café, chá e alguns medicamentos entram na conta da cafeína durante a amamentação. Saiba estimar seu consumo e o que observar se o bebê parecer inquieto.",
+        "intro": "O café da manhã e o chá da tarde podem vir em recipientes de tamanhos bem diferentes. Se você amamenta, o número útil é a quantidade de cafeína nas porções que realmente toma ao longo do dia. A maioria das pessoas pode manter um pouco de café na rotina. A idade do bebê e o tamanho das porções ajudam a decidir quanto.",
+        "sections": [
+          {
+            "heading": "Comece pela xícara que está na sua mão",
+            "paragraphs": [
+              "A cafeína é medida em miligramas (mg). A quantidade no café depende do grão, do preparo, do número de doses de espresso e do tamanho da bebida. O café solúvel também contém cafeína. O maior tamanho vendido em uma cafeteria pode fornecer várias vezes a quantidade de uma xícara pequena. Consulte o cardápio ou as informações do fabricante quando estiverem disponíveis.",
+              "Some também o chá, o refrigerante de cola, o chocolate e as bebidas energéticas. Alguns remédios para resfriado contêm cafeína. Um farmacêutico pode conferir os ingredientes e a compatibilidade do produto com a amamentação. Se o seu café tem 90 mg e o chá tem 55 mg, os dois somam 145 mg. Uma lata de energético com 80 mg de cafeína elevaria o total para 225 mg. Use os números dos seus produtos."
+            ]
+          },
+          {
+            "heading": "Que quantidade é razoável durante a amamentação?",
+            "paragraphs": [
+              "O serviço de saúde britânico recomenda não ultrapassar 200 mg por dia durante a amamentação. Nos Estados Unidos, os CDC descrevem cerca de 300 mg por dia ou menos como um consumo baixo a moderado que em geral não causa efeitos adversos. São referências de saúde pública diferentes. Nenhuma define o ponto exato em que um bebê específico terá uma reação. Manter o total em até 200 mg é uma maneira prática de atender às duas orientações.",
+              "A cafeína passa para o leite em pequenas quantidades. Um recém-nascido, principalmente se for prematuro, demora mais para eliminá-la do que um bebê maior. Se amamenta um bebê prematuro ou com saúde frágil, pergunte à equipe dele se um consumo menor seria indicado. Se também estiver grávida, siga as recomendações do pré-natal. Considere seu próprio sono. Se a cafeína deixa você agitada ou acordada quando há oportunidade de descansar, experimente uma porção menor ou tome-a mais cedo."
+            ]
+          },
+          {
+            "heading": "O que uma noite de inquietação pode revelar?",
+            "paragraphs": [
+              "Há relatos de inquietação, tremores e sono ruim em bebês quando quem amamenta consome quantidades muito altas de cafeína. Uma única noite de agitação não estabelece o vínculo. Em uma coorte de nascimentos no Brasil, os pesquisadores perguntaram sobre o consumo de cafeína e os despertares noturnos frequentes aos três meses de idade. Não encontraram associação estatisticamente clara. O estudo se baseou nos relatos das famílias e não exclui sensibilidade individual.",
+              "Se o bebê parece inquieto e seu consumo foi alto, experimente reduzi-lo e observe se o padrão muda. Se o bebê mama mal, está sonolento de forma incomum ou tem tremores persistentes fora do habitual, procure orientação médica prontamente. Não atribua esses sinais ao café sem avaliação. Se for muito difícil acordar o bebê, se ele não responder ou tiver dificuldade para respirar, procure ajuda de emergência."
+            ]
+          },
+          {
+            "heading": "Continue amamentando e escolha uma mudança viável",
+            "paragraphs": [
+              "Depois de uma xícara habitual de café, não é necessário extrair e descartar o leite nem adiar uma mamada. A concentração de cafeína no leite geralmente atinge um pico cerca de uma hora depois de beber, com variação entre pessoas. Esse pico não impõe um intervalo de espera. Amamente de acordo com as necessidades do bebê e concentre os ajustes no consumo total.",
+              "Experimente uma segunda bebida menor, misture café comum com descafeinado ou escolha algo sem cafeína de que você goste. O descafeinado ainda costuma conter um pouco de cafeína. Não há boas evidências de que o café em si diminua a produção de leite. Se a preocupação for ter pouco leite, peça a um profissional de amamentação que avalie as mamadas, o peso e as fraldas molhadas e sujas. Mudar apenas o consumo de café pode atrasar o atendimento de outro problema na alimentação."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Some a cafeína presente nas bebidas, nos alimentos e nos medicamentos pelas porções realmente consumidas.",
+          "Considere reduzir a quantidade no caso de um recém-nascido ou prematuro, que elimina a cafeína mais devagar.",
+          "Mantenha as mamadas habituais após um café e procure orientação se a alimentação ou o estado de alerta do bebê mudar."
+        ],
+        "faq": [
+          {
+            "q": "Quantas xícaras de café posso tomar enquanto amamento?",
+            "a": "O tamanho e a concentração variam demais para definir um único número. Use a quantidade de cafeína na sua porção. O NHS orienta até 200 mg por dia e os CDC descrevem 300 mg ou menos como consumo baixo a moderado. A idade ou a resposta do bebê podem justificar um valor menor."
+          },
+          {
+            "q": "O café muda o leite materno?",
+            "a": "Parte da cafeína passa para o leite depois de você beber, e a concentração varia ao longo do tempo. O leite continua adequado para amamentar depois de um café habitual. A cafeína de uma xícara não diz sozinha a quantidade exata que o bebê recebe."
+          },
+          {
+            "q": "O café pode deixar meu bebê acordado?",
+            "a": "Pode contribuir para a inquietação de um bebê sensível, sobretudo quando o consumo diário é elevado. Os despertares também são comuns por outros motivos. Experimente reduzir a cafeína se fizer sentido e converse com o profissional que acompanha o bebê se os sintomas persistirem."
+          },
+          {
+            "q": "Devo tirar leite antes do café ou jogar o leite fora depois?",
+            "a": "Uma porção habitual não exige tirar e descartar o leite nem adiar a mamada. Amamente quando o bebê precisar. Se ele nasceu prematuro ou recebe cuidados especializados, converse com a equipe sobre o seu consumo total."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Calcule o total de miligramas de todas as fontes conforme a porção.",
+            "Considere a idade, a prematuridade e a reação do bebê ao decidir se vai reduzir a cafeína.",
+            "Continue amamentando e peça avaliação se algo na alimentação, no crescimento ou no estado de alerta preocupar você."
+          ],
+          "bemama": "A BeMama sugere anotar o que consome em um dia comum, inclusive as xícaras que enche novamente e os medicamentos que de fato toma, antes de escolher um ajuste que caiba na rotina.",
+          "safety": "Procure orientação médica prontamente se o bebê mamar mal ou tiver sonolência incomum ou tremores persistentes. Busque ajuda de emergência se for muito difícil acordá-lo, se não responder ou se estiver com dificuldade para respirar.",
+          "sources": [
+            {
+              "organization": "Serviço Nacional de Saúde do Reino Unido",
+              "title": "Alimentação e cafeína na amamentação",
+              "url": "https://www.nhs.uk/baby/breastfeeding-and-bottle-feeding/breastfeeding-and-lifestyle/diet/"
+            },
+            {
+              "organization": "Centros de Controle e Prevenção de Doenças dos Estados Unidos",
+              "title": "Alimentação materna e amamentação",
+              "url": "https://www.cdc.gov/breastfeeding-special-circumstances/hcp/diet-micronutrients/maternal-diet.html"
+            },
+            {
+              "organization": "Base de Dados de Medicamentos e Lactação, Biblioteca Nacional de Medicina dos Estados Unidos",
+              "title": "Cafeína no leite humano",
+              "url": "https://www.ncbi.nlm.nih.gov/sites/books/NBK501467/"
+            },
+            {
+              "organization": "Santos, Matijasevich e Domingues, revista Pediatrics",
+              "title": "Consumo materno de cafeína e despertares noturnos aos três meses de idade",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/22473365/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5969.webp",
+    "heroAlt": {
+      "en": "A small ceramic cup of black coffee beside a larger glass mug of tea and a patterned muslin cloth.",
+      "fa": "یک فنجان سرامیکی کوچک قهوهٔ سیاه کنار یک لیوان شیشه‌ای بزرگ‌تر چای و پارچهٔ نخی طرح‌دار.",
+      "ar": "فنجان خزفي صغير من القهوة السوداء بجانب كوب زجاجي أكبر من الشاي وقطعة قماش قطنية منقوشة.",
+      "fr": "Une petite tasse en céramique de café noir près d’un grand verre à anse rempli de thé et d’un lange imprimé.",
+      "tr": "Küçük seramik fincanda sade kahve, yanında daha büyük bir cam kupada çay ve desenli müslin bez.",
+      "es": "Una tacita de cerámica con café solo junto a una taza de vidrio más grande con té y una muselina estampada.",
+      "pt": "Uma xícara pequena de cerâmica com café preto ao lado de uma caneca maior de vidro com chá e um pano de musselina estampado."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "Coffee while breastfeeding: how to count your daily caffeine",
+      "description": "Coffee, tea and some medicines all add caffeine while you breastfeed. Learn how to estimate a day’s intake and what to consider if your baby seems restless."
+    },
+    "fa": {
+      "title": "قهوه در دوران شیردهی؛ چطور کافئین روزانه را حساب کنیم؟",
+      "description": "قهوه، چای و بعضی داروها به مجموع کافئین روزانه اضافه می‌کنند. ببینید در دوران شیردهی چطور مصرفتان را حساب کنید و اگر شیرخوار بی‌قرار است چه چیزهایی را بسنجید."
+    },
+    "ar": {
+      "title": "القهوة في فترة الرضاعة: كيف تحسبين كمية الكافيين اليومية؟",
+      "description": "تسهم القهوة والشاي وبعض الأدوية في مجموع الكافيين أثناء الرضاعة. تعرّفي إلى طريقة حساب ما تتناولينه خلال يوم وما الذي تلاحظينه إذا بدا رضيعك منزعجًا."
+    },
+    "fr": {
+      "title": "Café et allaitement : comment compter la caféine sur une journée ?",
+      "description": "Café, thé et certains médicaments entrent tous dans le calcul. Apprenez à estimer votre consommation et à repérer les changements à signaler chez votre bébé."
+    },
+    "tr": {
+      "title": "Emzirirken kahve: günlük kafein miktarı nasıl hesaplanır?",
+      "description": "Kahve, çay ve bazı ilaçlar emzirirken aldığınız kafeine eklenir. Bir günlük miktarı nasıl hesaplayacağınızı ve bebeğiniz huzursuzsa nelere bakacağınızı öğrenin."
+    },
+    "es": {
+      "title": "Café y lactancia: cómo sumar la cafeína que tomas al día",
+      "description": "El café, el té y algunos medicamentos suman cafeína durante la lactancia. Aprende a estimar lo que tomas y qué observar si notas a tu bebé inquieto."
+    },
+    "pt": {
+      "title": "Café na amamentação: como somar a cafeína do dia?",
+      "description": "Café, chá e alguns medicamentos entram na conta da cafeína durante a amamentação. Saiba estimar seu consumo e o que observar se o bebê parecer inquieto."
+    }
+  }
+}

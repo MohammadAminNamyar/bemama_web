@@ -1,0 +1,611 @@
+{
+  "sourceId": "5858",
+  "article": {
+    "slug": "noticing-childrens-strengths-without-a-talent-test",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "How to notice what your child enjoys learning",
+        "description": "Explore a child’s interests without buying a talent test. Learn what to notice during play, how to offer feedback, and when a school assessment can help.",
+        "intro": "Your child spends an afternoon trying to make a marble turn a corner, then sets the track aside to show a friend how it works. You might be seeing an interest in building, in explaining or simply in sharing a good game. Ask which part they would like to do again.",
+        "sections": [
+          {
+            "heading": "Look for the part they return to",
+            "paragraphs": [
+              "Offer a few different, low-cost experiences over time. A borrowed instrument, a story told aloud or a cardboard ramp can reveal interests that a list of organised classes might miss. Notice which parts your child chooses, where they ask for help and what changes the next time. Ask a teacher or another caregiver what they see in a different setting. One good performance or one difficult day does not define a strength.",
+              "Access matters. A child who has never tried a keyboard cannot show you what they enjoy about it. A child who loves telling stories may struggle to write them down. Invite them to show an idea in another way and give them time. Let your child help choose whether to repeat an activity, change it or try something new."
+            ]
+          },
+          {
+            "heading": "Give feedback about something they actually did",
+            "paragraphs": [
+              "A child’s bridge keeps tipping over. You could say, “I saw you move the support closer to the corner. What happened next?” If they want help, show one step or let them watch someone try it. Then hand it back. They can rest or stop when they want.",
+              "Across six experiments with fifth graders, researchers compared responses to praise for intelligence and for effort during tasks. After a setback, children praised for intelligence showed less persistence and enjoyment than those praised for effort. These short tasks did not identify talent or measure future life success. Specific feedback can help a child notice a strategy without making every activity something to be graded."
+            ]
+          },
+          {
+            "heading": "Know what an assessment is for",
+            "paragraphs": [
+              "A family does not need a commercial talent test to discover new activities. If schoolwork is consistently too easy, too hard or inaccessible, ask the school what question an assessment could answer and what would change afterward. Bring examples, including things your child does outside class.",
+              "For gifted education decisions, the National Association for Gifted Children recommends using more than one measure. Work samples, teacher and family observations and appropriate tests may show different parts of a child’s learning. Ask how language, disability and opportunity to learn are considered. A score cannot choose a hobby or career for your child."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Look for interests across days and settings, including activities the child has not tried before.",
+          "Describe the approach you saw and ask what they want to try next.",
+          "Request an assessment for a specific educational decision."
+        ],
+        "faq": [
+          {
+            "q": "Do we need a commercial talent centre?",
+            "a": "You can explore interests at home, school or in the community. If you are considering an assessment, ask what decision it supports, who will interpret it and which other observations will be considered."
+          },
+          {
+            "q": "How can I support my child’s success?",
+            "a": "Make time and materials available, show a technique if wanted and offer feedback on what changed. Children can take breaks, change direction or enjoy an activity without competing."
+          },
+          {
+            "q": "How can I tell where my child has strengths?",
+            "a": "Notice what they return to, explain to someone else or adapt after an obstacle. Compare observations across settings and ask which part they enjoyed."
+          },
+          {
+            "q": "What could we do this week?",
+            "a": "Let your child choose one small experiment, such as building a ramp or telling a story. Offer just enough help to get started and ask whether they want to do it again."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 17, 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Offer varied, accessible activities over time.",
+            "Notice strategies, interests and changes your child can describe.",
+            "Ask how school assessments will guide support or enrichment."
+          ],
+          "bemama": "BeMama suggests asking “Which bit would you like to try again?” before deciding that a new interest calls for a class or equipment.",
+          "safety": "If frustration or a persistent barrier is affecting school or daily life, bring examples to the teacher and ask what support or assessment is available.",
+          "sources": [
+            {
+              "organization": "National Association for Gifted Children",
+              "title": "Assessments and tests in gifted education",
+              "url": "https://www.nagc.org/assessments-and-tests"
+            },
+            {
+              "organization": "National Association for Gifted Children",
+              "title": "Identifying a range of strengths over time",
+              "url": "https://www.nagc.org/identification"
+            },
+            {
+              "organization": "Mueller and Dweck, Journal of Personality and Social Psychology",
+              "title": "Praise for intelligence and responses to setbacks",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/9686450/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "چطور بفهمیم کودک از یاد گرفتن چه چیزی لذت می‌برد؟",
+        "description": "بدون خرید آزمون استعدادیابی، علاقه‌های کودک را بشناسید. ببینید در بازی چه چیزی را مشاهده کنید، چطور بازخورد بدهید و چه زمانی ارزیابی مدرسه کمک می‌کند.",
+        "intro": "کودک بعدازظهرش را صرف این می‌کند که یک تیله از پیچ مسیر بگذرد. بعد مسیر را کنار می‌کشد تا به دوستش نشان دهد چطور کار می‌کند. شاید به ساختن، توضیح دادن یا فقط شریک شدن در یک بازی خوب علاقه دارد. از او بپرسید دوست دارد کدام بخش را دوباره انجام دهد.",
+        "sections": [
+          {
+            "heading": "ببینید به کدام بخش برمی‌گردد",
+            "paragraphs": [
+              "در طول زمان چند تجربه متنوع و کم‌هزینه فراهم کنید. یک ساز امانتی، داستانی که شفاهی می‌گوید یا یک شیب مقوایی ممکن است علاقه‌هایی را نشان دهد که در فهرست کلاس‌های رسمی دیده نمی‌شوند. ببینید کودک چه بخشی را انتخاب می‌کند، کجا کمک می‌خواهد و دفعه بعد چه چیزی تغییر می‌کند. از معلم یا مراقبی دیگر درباره مشاهداتش در محیطی دیگر بپرسید. یک اجرای موفق یا یک روز سخت نقطه قوت کودک را تعیین نمی‌کند.",
+              "فرصت تجربه مهم است. کودکی که تا به حال ساز کلاویه‌دار را امتحان نکرده نمی‌تواند به شما نشان دهد از کدام بخش آن لذت می‌برد. شاید داستان‌گویی را دوست داشته باشد اما نوشتن برایش دشوار باشد. فرصت بدهید و دعوتش کنید فکرش را به شکل دیگری نشان دهد. بگذارید در تصمیم برای تکرار، تغییر یا امتحان کردن کاری تازه شریک باشد."
+            ]
+          },
+          {
+            "heading": "درباره کاری که واقعاً انجام داد نظر بدهید",
+            "paragraphs": [
+              "پلی که کودک می‌سازد مدام کج می‌شود. می‌توانید بگویید: «دیدم پایه را نزدیک‌تر به پیچ گذاشتی. بعد چه شد؟» اگر کمک خواست یک مرحله را نشان دهید یا اجازه بدهید کار فرد دیگری را تماشا کند. سپس دوباره نوبت اوست. هر وقت بخواهد می‌تواند استراحت کند یا دست بکشد.",
+              "در شش آزمایش با دانش‌آموزان پایه پنجم، پژوهشگران واکنش به تحسین هوش و تحسین تلاش هنگام انجام تکلیف را مقایسه کردند. پس از یک ناکامی، کودکانی که بابت هوش تحسین شده بودند، نسبت به گروهی که بابت تلاش تحسین شده بودند کمتر ادامه دادند و لذت کمتری بردند. این تکلیف‌های کوتاه استعداد یا موفقیت آینده را نسنجیدند. بازخورد مشخص کمک می‌کند کودک روش خود را ببیند، بدون اینکه هر فعالیتی نمره داشته باشد."
+            ]
+          },
+          {
+            "heading": "هدف ارزیابی را بدانید",
+            "paragraphs": [
+              "خانواده برای کشف فعالیت‌های جدید نیاز به خرید آزمون تجاری استعداد ندارد. اگر کارهای مدرسه مدام بیش از حد آسان، سخت یا دور از دسترس است، از مدرسه بپرسید ارزیابی چه سؤالی را جواب می‌دهد و بعد از آن چه چیزی تغییر می‌کند. نمونه‌هایی از فعالیت‌های کودک، از جمله بیرون از کلاس، همراه ببرید.",
+              "انجمن ملی کودکان بااستعداد آمریکا برای تصمیم‌گیری آموزشی درباره دانش‌آموزان با توانایی بالا به‌کارگیری بیش از یک معیار را توصیه می‌کند. نمونه‌کار، مشاهده خانواده و معلم و آزمون مناسب می‌توانند جنبه‌های متفاوتی از یادگیری را نشان دهند. بپرسید زبان، معلولیت و فرصت‌های قبلی یادگیری چگونه لحاظ می‌شوند. یک نمره نمی‌تواند برای کودک سرگرمی یا شغل انتخاب کند."
+            ]
+          }
+        ],
+        "takeaways": [
+          "علاقه‌ها را در روزها و محیط‌های گوناگون ببینید و فرصت فعالیت‌های تازه را هم بدهید.",
+          "روشی را که دیدید شرح دهید و بپرسید دفعه بعد چه چیزی می‌خواهد امتحان کند.",
+          "برای تصمیم آموزشی مشخص درخواست ارزیابی کنید."
+        ],
+        "faq": [
+          {
+            "q": "آیا به مرکز خصوصی استعدادیابی نیاز داریم؟",
+            "a": "علاقه‌ها را می‌توانید در خانه، مدرسه یا محله کشف کنید. اگر به ارزیابی فکر می‌کنید، بپرسید به کدام تصمیم کمک می‌کند، چه کسی نتیجه را تفسیر می‌کند و چه مشاهدات دیگری در نظر گرفته می‌شود."
+          },
+          {
+            "q": "چطور به موفقیت فرزندم کمک کنم؟",
+            "a": "وقت و وسایل فراهم کنید، اگر خواست روشی را نشان دهید و درباره آنچه تغییر کرد بازخورد بدهید. کودک می‌تواند استراحت کند، مسیرش را عوض کند یا بدون رقابت از فعالیتی لذت ببرد."
+          },
+          {
+            "q": "نقطه قوت کودک را چطور بفهمم؟",
+            "a": "ببینید به چه کاری برمی‌گردد، چه چیزی را برای دیگری توضیح می‌دهد یا بعد از روبه‌رو شدن با مانع چگونه روشش را تغییر می‌دهد. مشاهده‌ها را در محیط‌های مختلف مقایسه کنید و بپرسید کدام بخش را دوست داشت."
+          },
+          {
+            "q": "این هفته چه کار کنیم؟",
+            "a": "بگذارید یک آزمایش کوچک مانند ساختن سطح شیب‌دار یا تعریف کردن داستان انتخاب کند. فقط به اندازه شروع کار کمک کنید و بپرسید دوست دارد باز هم آن را انجام دهد یا نه."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۷ نوامبر ۲۰۲۶ بررسی شدند",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "در طول زمان فعالیت‌های متنوع و در دسترس فراهم کنید.",
+            "به روش‌ها، علاقه‌ها و تغییراتی که کودک می‌تواند تعریف کند توجه کنید.",
+            "بپرسید ارزیابی مدرسه چطور به پشتیبانی یا غنی‌تر کردن آموزش کمک می‌کند."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند پیش از آنکه برای یک علاقه تازه کلاس یا وسیله تهیه کنید بپرسید «کدام بخش را دلت می‌خواهد دوباره امتحان کنی؟»",
+          "safety": "اگر ناامیدی یا مانعی ماندگار بر مدرسه یا زندگی روزانه اثر گذاشته، نمونه‌ها را با معلم در میان بگذارید و درباره حمایت یا ارزیابی موجود سؤال کنید.",
+          "sources": [
+            {
+              "organization": "انجمن ملی کودکان بااستعداد آمریکا",
+              "title": "ارزیابی و آزمون در آموزش دانش‌آموزان با استعداد بالا",
+              "url": "https://www.nagc.org/assessments-and-tests"
+            },
+            {
+              "organization": "انجمن ملی کودکان بااستعداد آمریکا",
+              "title": "شناسایی توانایی‌های گوناگون در گذر زمان",
+              "url": "https://www.nagc.org/identification"
+            },
+            {
+              "organization": "مولر و دوک، مجله روان‌شناسی شخصیت و اجتماعی",
+              "title": "تحسین هوش و واکنش به ناکامی",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/9686450/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "كيف تلاحظ ما يستمتع طفلك بتعلّمه؟",
+        "description": "اكتشف اهتمامات طفلك من دون شراء اختبار مواهب. تعرّف إلى ما يمكنك ملاحظته في اللعب، وكيف تعلّق على محاولاته، ومتى يفيد التقييم المدرسي.",
+        "intro": "يقضي طفلك فترة بعد الظهر محاولًا جعل كرة زجاجية تجتاز منعطفًا، ثم يتوقف ليُري صديقه كيف يعمل المسار. ربما يحب البناء أو الشرح أو مجرد مشاركة لعبة ممتعة. اسأله أي جزء يود تجربته ثانية.",
+        "sections": [
+          {
+            "heading": "لاحظ الجزء الذي يعود إليه",
+            "paragraphs": [
+              "أتح مع الوقت تجارب متنوعة قليلة الكلفة. قد تكشف آلة موسيقية مستعارة أو قصة يرويها بصوته أو منحدر من الكرتون عن اهتمامات لا تظهر في قائمة الدروس المنظمة. لاحظ ما يختاره ومتى يطلب المساعدة وما الذي يتغير في المرة التالية. اسأل المعلم أو بالغًا آخر يرعاه عما يراه في بيئة أخرى. لا يحدد أداء جيد واحد أو يوم صعب نقطة قوة طفلك.",
+              "إتاحة الفرص مهمة. لن يُريك الطفل ما يحبه في العزف على آلة مفاتيح إن لم يجربها. وقد يحب سرد القصص ويصعب عليه تدوينها. ادعه إلى عرض فكرته بطريقة أخرى وأمهله وقتًا. أشركه في قرار إعادة النشاط أو تغييره أو تجربة شيء جديد."
+            ]
+          },
+          {
+            "heading": "علّق على شيء فعله فعلًا",
+            "paragraphs": [
+              "يميل الجسر الذي يبنيه الطفل مرة بعد أخرى. يمكنك أن تقول: «رأيتك تقرّب الدعامة من الزاوية. ماذا حدث بعد ذلك؟». إذا أراد المساعدة فأره خطوة واحدة أو دعه يراقب محاولة شخص آخر. ثم أعد إليه الدور. يمكنه أن يستريح أو يتوقف حين يريد.",
+              "في ست تجارب مع تلاميذ الصف الخامس قارن الباحثون استجابات الأطفال للثناء على الذكاء أو على الجهد أثناء مهمات. بعد تعثرهم، ثابر من تلقوا ثناء على الذكاء بدرجة أقل واستمتعوا أقل ممن تلقوا ثناء على الجهد. لم تكتشف تلك المهمات القصيرة المواهب ولم تقس النجاح في الحياة مستقبلًا. يساعد التعليق المحدد الطفل على ملاحظة طريقته من دون تحويل كل نشاط إلى اختبار بدرجات."
+            ]
+          },
+          {
+            "heading": "اعرف غرض التقييم",
+            "paragraphs": [
+              "لا تحتاج الأسرة إلى اختبار تجاري للمواهب لاكتشاف أنشطة جديدة. إذا كان العمل المدرسي دائمًا أسهل أو أصعب مما يناسب الطفل أو يتعذر عليه الوصول إليه، فاسأل المدرسة ما السؤال الذي يجيب عنه التقييم وما الذي سيتغير بعده. أحضر أمثلة، بما فيها أنشطة خارج الصف.",
+              "عند اتخاذ قرارات بشأن تعليم الأطفال ذوي القدرات العالية، توصي الجمعية الوطنية الأمريكية للأطفال الموهوبين باستخدام أكثر من مقياس واحد. قد تظهر عينات الأعمال وملاحظات الأسرة والمعلمين والاختبارات المناسبة جوانب مختلفة من التعلم. اسأل كيف تؤخذ اللغة والإعاقة وفرص التعلم السابقة في الحسبان. لا يمكن لدرجة واحدة اختيار هواية طفلك أو مهنته."
+            ]
+          }
+        ],
+        "takeaways": [
+          "ابحث عن الاهتمامات في أيام وأماكن مختلفة، وأتح أنشطة لم يجربها الطفل من قبل.",
+          "صِف الطريقة التي لاحظتها واسأل عما يريد تجربته لاحقًا.",
+          "اطلب تقييمًا مرتبطًا بقرار تعليمي محدد."
+        ],
+        "faq": [
+          {
+            "q": "هل نحتاج إلى مركز خاص لاكتشاف المواهب؟",
+            "a": "يمكن استكشاف الاهتمامات في البيت والمدرسة والمجتمع. إذا كنت تفكر في تقييم، فاسأل أي قرار سيخدمه ومن سيفسر النتيجة وما الملاحظات الأخرى التي ستُدرس."
+          },
+          {
+            "q": "كيف أساعد طفلي على النجاح؟",
+            "a": "وفّر وقتًا وأدوات، واعرض تقنية إذا أراد، وعلّق على ما تغيّر. يمكنه أخذ استراحة أو تغيير المسار أو الاستمتاع بنشاط بلا منافسة."
+          },
+          {
+            "q": "كيف أتعرف إلى نقاط قوته؟",
+            "a": "لاحظ ما يعاود فعله، أو يشرحه لشخص آخر، أو يعدّله بعد عقبة. قارن الملاحظات في أكثر من بيئة واسأله أي جزء استمتع به."
+          },
+          {
+            "q": "ماذا نستطيع أن نفعل هذا الأسبوع؟",
+            "a": "دعه يختار تجربة صغيرة مثل بناء منحدر أو رواية قصة. اعرض من المساعدة ما يكفي للبدء واسأله إن كان يرغب في إعادتها."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٧ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "قدّم أنشطة متنوعة يمكن للطفل الوصول إليها مع الوقت.",
+            "لاحظ الطرق والاهتمامات والتغييرات التي يستطيع طفلك وصفها.",
+            "اسأل كيف سيوجّه التقييم المدرسي الدعم أو الأنشطة الإثرائية."
+          ],
+          "bemama": "تقترح بي ماما أن تسأل «أي جزء تود تجربته مرة أخرى؟» قبل أن تقرر أن الاهتمام الجديد يتطلب دروسًا أو معدات.",
+          "safety": "إذا كان الإحباط أو عائق مستمر يؤثر في المدرسة أو الحياة اليومية، فاعرض أمثلة على المعلم واسأل عن الدعم أو التقييم المتاح.",
+          "sources": [
+            {
+              "organization": "الجمعية الوطنية الأمريكية للأطفال الموهوبين",
+              "title": "التقييمات والاختبارات في تعليم الموهوبين",
+              "url": "https://www.nagc.org/assessments-and-tests"
+            },
+            {
+              "organization": "الجمعية الوطنية الأمريكية للأطفال الموهوبين",
+              "title": "تحديد نقاط القوة المختلفة بمرور الوقت",
+              "url": "https://www.nagc.org/identification"
+            },
+            {
+              "organization": "مولر ودويك، مجلة علم نفس الشخصية وعلم النفس الاجتماعي",
+              "title": "الثناء على الذكاء والاستجابة للتعثر",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/9686450/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Comment repérer ce que votre enfant aime apprendre",
+        "description": "Explorez ses centres d’intérêt sans acheter de test de talents. Voyez quoi observer dans ses jeux, comment l’encourager et quand demander un bilan à l’école.",
+        "intro": "Votre enfant passe l’après-midi à faire tourner une bille dans un virage, puis met le circuit de côté pour montrer son fonctionnement à un ami. Peut-être aime-t-il construire, expliquer ou simplement partager un bon jeu. Demandez-lui quelle partie il aimerait refaire.",
+        "sections": [
+          {
+            "heading": "Regardez ce qui lui donne envie de recommencer",
+            "paragraphs": [
+              "Proposez au fil du temps quelques activités variées et peu coûteuses. Un instrument emprunté, une histoire racontée à voix haute ou une rampe en carton peuvent révéler des intérêts que des cours organisés n’auraient pas fait ressortir. Observez ce qu’il choisit, quand il demande de l’aide et ce qui change la fois suivante. Demandez à un enseignant ou à un autre adulte ce qu’il voit dans un autre cadre. Une réussite ou une mauvaise journée ne suffit pas à définir un point fort.",
+              "Les occasions comptent. Un enfant qui n’a jamais essayé un clavier ne peut pas montrer ce qu’il y aime. Il peut adorer raconter des histoires et avoir du mal à les écrire. Invitez-le à montrer son idée autrement et laissez-lui du temps. Associez-le au choix de recommencer, de modifier l’activité ou d’essayer autre chose."
+            ]
+          },
+          {
+            "heading": "Commentez un geste que vous avez observé",
+            "paragraphs": [
+              "Le pont qu’il construit bascule sans cesse. Vous pouvez dire « J’ai vu que tu avais rapproché le support du virage. Que s’est-il passé ensuite ? » S’il veut de l’aide, montrez-lui une étape ou laissez-le regarder quelqu’un essayer. Puis rendez-lui la main. Il peut se reposer ou arrêter quand il veut.",
+              "Dans six expériences auprès d’élèves de cinquième année de primaire, des chercheurs ont comparé les réactions à des compliments sur l’intelligence ou sur l’effort pendant des tâches. Après un échec, les élèves félicités pour leur intelligence ont moins persévéré et pris moins de plaisir que ceux qui avaient été félicités pour leurs efforts. Ces tâches brèves ne permettaient ni de repérer des talents ni de mesurer la réussite future. Une remarque précise aide à reconnaître une stratégie sans avoir à noter chaque activité."
+            ]
+          },
+          {
+            "heading": "Savoir à quoi servira un bilan",
+            "paragraphs": [
+              "Il n’est pas nécessaire d’acheter un test de talents pour découvrir de nouvelles activités. Si le travail scolaire est constamment trop facile, trop difficile ou inaccessible, demandez à l’école à quelle question un bilan permettrait de répondre et ce qui changerait ensuite. Apportez des exemples, y compris de ce que fait l’enfant en dehors de la classe.",
+              "Pour les décisions relatives à la scolarité des élèves à haut potentiel, l’association américaine National Association for Gifted Children recommande de combiner plusieurs mesures. Travaux réalisés, observations de la famille et des enseignants et tests adaptés peuvent éclairer différents aspects de l’apprentissage. Demandez comment sont pris en compte la langue, le handicap et les occasions d’apprendre. Un score ne choisit ni un loisir ni un métier à la place de votre enfant."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Repérez ses centres d’intérêt sur plusieurs jours et dans divers cadres, en lui donnant accès à des activités nouvelles.",
+          "Décrivez la démarche observée et demandez-lui ce qu’il aimerait essayer ensuite.",
+          "Demandez un bilan pour éclairer une décision scolaire précise."
+        ],
+        "faq": [
+          {
+            "q": "Faut-il consulter un centre privé de détection des talents ?",
+            "a": "Vous pouvez explorer ses intérêts à la maison, à l’école ou dans votre quartier. Si vous envisagez un bilan, demandez quelle décision il éclairera, qui l’interprétera et quels autres éléments seront pris en compte."
+          },
+          {
+            "q": "Comment soutenir la réussite de mon enfant ?",
+            "a": "Donnez-lui du temps et du matériel, montrez un geste s’il le souhaite et commentez ce qui a changé. Il peut faire des pauses, changer de direction ou aimer une activité sans faire de compétition."
+          },
+          {
+            "q": "Comment reconnaître ses points forts ?",
+            "a": "Observez ce qu’il reprend, explique à quelqu’un d’autre ou adapte après une difficulté. Comparez vos observations dans plusieurs cadres et demandez-lui quelle partie lui a plu."
+          },
+          {
+            "q": "Que pourrions-nous faire cette semaine ?",
+            "a": "Laissez-le choisir une petite expérience, comme construire une rampe ou raconter une histoire. Donnez-lui juste assez d’aide pour démarrer et demandez-lui s’il souhaite recommencer."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 17 novembre 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Proposez progressivement des activités variées et accessibles.",
+            "Repérez les stratégies, les intérêts et les changements que l’enfant sait décrire.",
+            "Demandez comment le bilan scolaire orientera le soutien ou les activités d’approfondissement."
+          ],
+          "bemama": "BeMama vous suggère de demander « Quel moment aimerais-tu refaire ? » avant de décider qu’il faut des cours ou du matériel pour un nouvel intérêt.",
+          "safety": "Si une frustration ou un obstacle persistant gêne la scolarité ou la vie quotidienne, donnez des exemples à l’enseignant et renseignez-vous sur les aides ou les bilans possibles.",
+          "sources": [
+            {
+              "organization": "National Association for Gifted Children",
+              "title": "Bilans et tests dans l’enseignement aux élèves à haut potentiel",
+              "url": "https://www.nagc.org/assessments-and-tests"
+            },
+            {
+              "organization": "National Association for Gifted Children",
+              "title": "Repérer une diversité de points forts au fil du temps",
+              "url": "https://www.nagc.org/identification"
+            },
+            {
+              "organization": "Mueller et Dweck, Journal of Personality and Social Psychology",
+              "title": "Compliments sur l’intelligence et réactions face aux difficultés",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/9686450/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Çocuğunuzun öğrenmekten keyif aldığı şeyleri nasıl fark edersiniz?",
+        "description": "Yetenek testi satın almadan çocuğunuzun ilgilerini keşfedin. Oyunda neyi gözlemleyebileceğinizi ve okul değerlendirmesinin ne zaman yararlı olacağını öğrenin.",
+        "intro": "Çocuğunuz öğleden sonrayı bir bilyeyi virajdan geçirmeye çalışarak geçiriyor. Sonra arkadaşına nasıl işlediğini göstermek için pisti bir kenara koyuyor. Bir şey yapmaya, anlatmaya veya sadece güzel bir oyunu paylaşmaya ilgi duyuyor olabilir. En çok hangi kısmını yeniden denemek istediğini sorun.",
+        "sections": [
+          {
+            "heading": "Hangi kısma geri döndüğünü gözlemleyin",
+            "paragraphs": [
+              "Zaman içinde farklı ve az masraflı deneyimler sunun. Ödünç bir müzik aleti, sesli anlatılan bir öykü veya kartondan bir rampa, yalnızca kurslara bakarak göremeyeceğiniz ilgileri ortaya çıkarabilir. Çocuğun hangi kısmı seçtiğine, nerede yardım istediğine ve sonraki denemede neyin değiştiğine bakın. Öğretmene veya onunla ilgilenen başka birine farklı bir ortamda ne gördüğünü sorun. Tek bir başarı ya da zor bir gün tek başına bir güçlü yönü tanımlamaz.",
+              "Fırsatlar önemlidir. Hiç klavye denememiş bir çocuk ondan nasıl keyif aldığını gösteremez. Öykü anlatmayı seven biri bunları yazmakta zorlanabilir. Fikrini başka bir yolla göstermeyi önerin ve zaman verin. Etkinliği tekrarlama, değiştirme veya yeni bir şey deneme kararına çocuğunuz da katılsın."
+            ]
+          },
+          {
+            "heading": "Gerçekte ne yaptığını söyleyin",
+            "paragraphs": [
+              "Çocuğun yaptığı köprü devrilip duruyor. “Desteği köşeye yaklaştırdığını gördüm. Sonra ne oldu?” diyebilirsiniz. Yardım isterse tek bir aşamayı gösterin veya deneyen birini izlemesine izin verin. Sonra sırayı ona bırakın. İsterse dinlenebilir veya durabilir.",
+              "Beşinci sınıf öğrencileriyle yapılan altı deneyde araştırmacılar, görev sırasında zekânın veya çabanın övülmesine verilen tepkileri karşılaştırdı. Bir aksilikten sonra zekâsı övülen çocuklar, çabası övülenlere göre daha az sebat etti ve görevden daha az keyif aldı. Bu kısa görevler yeteneği belirlemedi veya gelecekteki yaşam başarısını ölçmedi. Somut bir yorum, her etkinliği notlanan bir işe çevirmeden çocuğun bir stratejiyi fark etmesine yardım edebilir."
+            ]
+          },
+          {
+            "heading": "Değerlendirmenin amacını öğrenin",
+            "paragraphs": [
+              "Yeni etkinlikler keşfetmek için ticari bir yetenek testi gerekmez. Okul işleri sürekli çok kolay, çok zor veya erişilemez geliyorsa okuldan bir değerlendirmenin hangi soruyu yanıtlayacağını ve sonrasında neyin değişeceğini öğrenin. Sınıf dışında yaptıkları dahil örnekler götürün.",
+              "ABD’deki National Association for Gifted Children, özel yeteneklilerin eğitimiyle ilgili kararlarda birden fazla ölçüt kullanılmasını önerir. Çalışma örnekleri, aile ve öğretmen gözlemleri ve uygun testler öğrenmenin farklı yönlerini gösterebilir. Dilin, engelliliğin ve öğrenme fırsatlarının nasıl dikkate alındığını sorun. Bir puan çocuğun yerine hobi veya meslek seçemez."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Henüz denemediği etkinliklere de fırsat vererek farklı gün ve ortamlarda ilgilerini gözlemleyin.",
+          "Gördüğünüz yaklaşımı anlatın ve daha sonra neyi denemek istediğini sorun.",
+          "Belirli bir eğitim kararına ışık tutması için değerlendirme isteyin."
+        ],
+        "faq": [
+          {
+            "q": "Özel bir yetenek değerlendirme merkezine gitmemiz şart mı?",
+            "a": "İlgi alanlarını evde, okulda veya çevrenizde keşfedebilirsiniz. Değerlendirme düşünüyorsanız hangi karara yardımcı olacağını, kimin yorumlayacağını ve başka hangi gözlemlerin dikkate alınacağını sorun."
+          },
+          {
+            "q": "Çocuğumun başarısını nasıl destekleyebilirim?",
+            "a": "Zaman ve malzeme sağlayın, istiyorsa bir tekniği gösterin ve neyin değiştiğini anlatın. Çocuk ara verebilir, yön değiştirebilir veya rekabete girmeden etkinlikten keyif alabilir."
+          },
+          {
+            "q": "Çocuğumun güçlü olduğu alanları nasıl fark edebilirim?",
+            "a": "Neye geri döndüğünü, bir başkasına neyi anlattığını veya bir engelden sonra neyi değiştirdiğini gözlemleyin. Farklı ortamlardaki gözlemleri karşılaştırın ve en çok hangi kısmı sevdiğini sorun."
+          },
+          {
+            "q": "Bu hafta ne yapabiliriz?",
+            "a": "Rampa yapmak veya öykü anlatmak gibi küçük bir deneyi çocuğunuz seçsin. Başlaması için gereken kadar destek verin ve yeniden denemek isteyip istemediğini sorun."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 17 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Zaman içinde farklı, erişilebilir etkinlikler sunun.",
+            "Çocuğun anlatabildiği stratejilere, ilgilere ve değişikliklere dikkat edin.",
+            "Okul değerlendirmesinin desteği veya zenginleştirmeyi nasıl yönlendireceğini sorun."
+          ],
+          "bemama": "BeMama, yeni bir ilgi alanı için derse ya da malzemeye karar vermeden önce “Hangi kısmı tekrar denemek istersin?” diye sormanızı önerir.",
+          "safety": "Hayal kırıklığı veya süregelen bir engel okulu ya da günlük yaşamı etkiliyorsa öğretmene örneklerle başvurun ve hangi destek veya değerlendirmelerin sunulduğunu sorun.",
+          "sources": [
+            {
+              "organization": "National Association for Gifted Children",
+              "title": "Özel yeteneklilerin eğitiminde değerlendirme ve testler",
+              "url": "https://www.nagc.org/assessments-and-tests"
+            },
+            {
+              "organization": "National Association for Gifted Children",
+              "title": "Farklı güçlü yönleri zaman içinde belirlemek",
+              "url": "https://www.nagc.org/identification"
+            },
+            {
+              "organization": "Mueller ve Dweck, Journal of Personality and Social Psychology",
+              "title": "Zekânın övülmesi ve aksiliklere verilen tepkiler",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/9686450/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Cómo descubrir qué le gusta aprender a tu hijo",
+        "description": "Explora sus intereses sin comprar una prueba de talentos. Observa cómo juega, dale comentarios concretos y aprende cuándo puede servir una evaluación escolar.",
+        "intro": "Tu hijo pasa la tarde intentando que una canica tome una curva. Después deja la pista para enseñar a un amigo cómo funciona. Quizá le interesa construir, explicar o simplemente compartir un buen juego. Pregúntale qué parte le gustaría repetir.",
+        "sections": [
+          {
+            "heading": "Fíjate en qué elige repetir",
+            "paragraphs": [
+              "Ofrécele experiencias variadas y económicas a lo largo del tiempo. Un instrumento prestado, un cuento oral o una rampa de cartón pueden revelar intereses que pasarían inadvertidos entre tantas clases organizadas. Observa qué elige hacer, dónde pide ayuda y qué cambia la próxima vez. Pregunta al docente o a otro cuidador qué ve en otro entorno. Un acierto o un día difícil no definen una fortaleza.",
+              "Las oportunidades cuentan. Si nunca ha tocado un teclado, no puede mostrarte qué le gusta de él. A quien le encanta contar historias puede costarle escribirlas. Invítale a expresar la idea de otra manera y dale tiempo. Deja que participe en la decisión de repetir la actividad, modificarla o probar algo nuevo."
+            ]
+          },
+          {
+            "heading": "Comenta algo concreto que haya hecho",
+            "paragraphs": [
+              "El puente que construye se vuelca una y otra vez. Puedes decir «He visto que has acercado el soporte a la curva. ¿Qué ha pasado entonces?». Si quiere ayuda, enséñale un paso o deja que vea a otra persona intentarlo. Luego devuélvele el turno. Puede descansar o parar cuando quiera.",
+              "En seis experimentos con alumnado de quinto curso, unos investigadores compararon el efecto de elogiar la inteligencia y el de elogiar el esfuerzo durante unas tareas. Tras un revés, quienes recibieron elogios por su inteligencia perseveraron menos y disfrutaron menos que quienes los recibieron por el esfuerzo. Eran tareas breves que no identificaban talentos ni medían el éxito futuro. Un comentario específico ayuda a reconocer una estrategia sin tener que calificar cada actividad."
+            ]
+          },
+          {
+            "heading": "Para qué sirve una evaluación",
+            "paragraphs": [
+              "No hace falta comprar una prueba de talentos para descubrir actividades nuevas. Si las tareas escolares siempre le resultan demasiado fáciles, difíciles o inaccesibles, pregunta al centro qué duda resolvería una evaluación y qué cambiaría después. Lleva ejemplos, también de lo que hace fuera de clase.",
+              "Para tomar decisiones sobre la educación de alumnos con altas capacidades, la Asociación Nacional Estadounidense para Niños con Altas Capacidades recomienda usar varias medidas. Los trabajos del niño, las observaciones familiares y docentes y las pruebas adecuadas pueden mostrar aspectos distintos de su aprendizaje. Pregunta cómo se tienen en cuenta el idioma, la discapacidad y las oportunidades previas. Una puntuación no puede elegir una afición ni una profesión por tu hijo."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Observa intereses en distintos días y contextos, también en actividades que aún no ha probado.",
+          "Describe la estrategia que has visto y pregunta qué quiere probar después.",
+          "Pide una evaluación para orientar una decisión educativa concreta."
+        ],
+        "faq": [
+          {
+            "q": "¿Necesitamos acudir a un centro privado de evaluación de capacidades?",
+            "a": "Podéis explorar intereses en casa, la escuela o el barrio. Si contemplas una evaluación, pregunta qué decisión orientará, quién interpretará los resultados y qué otras observaciones se tendrán en cuenta."
+          },
+          {
+            "q": "¿Cómo puedo apoyar el éxito de mi hijo?",
+            "a": "Facilita tiempo y materiales, enséñale una técnica si quiere y comenta qué ha cambiado. Puede descansar, cambiar de rumbo o disfrutar de una actividad sin competir."
+          },
+          {
+            "q": "¿Cómo puedo reconocer sus puntos fuertes?",
+            "a": "Observa qué retoma, qué explica a otra persona y qué cambia tras un obstáculo. Compara lo que sucede en diferentes lugares y pregúntale qué parte ha disfrutado."
+          },
+          {
+            "q": "¿Qué podríamos hacer esta semana?",
+            "a": "Deja que elija un pequeño experimento, como construir una rampa o contar un cuento. Dale solo la ayuda que necesite para empezar y pregúntale si le gustaría repetir."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 17 de noviembre de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Ofrece actividades variadas y accesibles a lo largo del tiempo.",
+            "Observa las estrategias, intereses y cambios que el niño sabe describir.",
+            "Pregunta cómo orientarán las evaluaciones escolares los apoyos o las oportunidades de ampliación."
+          ],
+          "bemama": "BeMama sugiere preguntar «¿Qué parte te gustaría volver a probar?» antes de decidir si un interés nuevo requiere apuntarse a una clase o comprar material.",
+          "safety": "Si la frustración o una dificultad persistente afecta a la escuela o a la vida diaria, lleva ejemplos al docente y pregunta por los apoyos o las evaluaciones disponibles.",
+          "sources": [
+            {
+              "organization": "Asociación Nacional Estadounidense para Niños con Altas Capacidades",
+              "title": "Evaluaciones y pruebas en la educación de alumnado con altas capacidades",
+              "url": "https://www.nagc.org/assessments-and-tests"
+            },
+            {
+              "organization": "Asociación Nacional Estadounidense para Niños con Altas Capacidades",
+              "title": "Identificación de diversas fortalezas a lo largo del tiempo",
+              "url": "https://www.nagc.org/identification"
+            },
+            {
+              "organization": "Mueller y Dweck, Journal of Personality and Social Psychology",
+              "title": "Elogios a la inteligencia y respuestas a los contratiempos",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/9686450/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Como perceber o que seu filho gosta de aprender",
+        "description": "Explore os interesses da criança sem comprar um teste de talentos. Veja o que observar na brincadeira, como dar retorno e quando pedir avaliação escolar.",
+        "intro": "Seu filho passa a tarde tentando fazer uma bolinha de gude contornar uma curva. Depois para para explicar a pista a um amigo. Talvez goste de construir, de explicar ou simplesmente de compartilhar uma brincadeira. Pergunte qual parte gostaria de repetir.",
+        "sections": [
+          {
+            "heading": "Observe a que parte a criança volta",
+            "paragraphs": [
+              "Ofereça ao longo do tempo experiências diferentes e de baixo custo. Um instrumento emprestado, uma história contada em voz alta ou uma rampa de papelão podem revelar interesses que as aulas organizadas deixariam passar. Veja o que a criança escolhe, em que momento pede ajuda e o que muda na próxima tentativa. Pergunte a um professor ou outro cuidador o que vê em outro ambiente. Uma boa apresentação ou um dia difícil não define um ponto forte.",
+              "A oportunidade conta. Quem nunca experimentou um teclado não pode mostrar o que gosta de fazer nele. Uma criança que adora contar histórias pode ter dificuldade para escrevê-las. Convide-a a mostrar a ideia de outro jeito e dê tempo. Deixe-a participar da escolha de repetir, modificar ou experimentar outra atividade."
+            ]
+          },
+          {
+            "heading": "Comente algo que ela realmente fez",
+            "paragraphs": [
+              "A ponte que a criança constrói vive tombando. Você pode dizer: “Vi você aproximar o apoio da curva. O que aconteceu depois?” Se ela quiser ajuda, mostre um passo ou deixe que observe alguém tentando. Depois, devolva a vez a ela. Pode descansar ou parar quando quiser.",
+              "Em seis experimentos com alunos do quinto ano, pesquisadores compararam as reações a elogios pela inteligência e pelo esforço durante tarefas. Após uma dificuldade, alunos elogiados pela inteligência persistiram menos e gostaram menos da atividade do que os elogiados pelo esforço. Essas tarefas curtas não identificaram talentos nem mediram sucesso futuro. Um comentário concreto pode ajudar a perceber uma estratégia sem transformar tudo em uma avaliação."
+            ]
+          },
+          {
+            "heading": "Entenda para que serve uma avaliação",
+            "paragraphs": [
+              "Não é preciso comprar um teste de talentos para descobrir novas atividades. Se o trabalho escolar é sempre fácil demais, difícil demais ou inacessível, pergunte à escola que dúvida uma avaliação poderia responder e o que mudaria depois. Leve exemplos, inclusive de atividades fora da sala de aula.",
+              "Para tomar decisões sobre educação de estudantes com altas habilidades, a associação americana National Association for Gifted Children recomenda usar mais de uma medida. Amostras de trabalhos, observações de professores e familiares e testes adequados mostram aspectos diferentes da aprendizagem. Pergunte como são considerados o idioma, a deficiência e as oportunidades anteriores de aprender. Uma pontuação não escolhe um passatempo nem uma carreira pela criança."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Observe interesses em diversos dias e ambientes, oferecendo também atividades novas.",
+          "Descreva a estratégia que viu e pergunte o que a criança gostaria de tentar depois.",
+          "Solicite uma avaliação para orientar uma decisão educacional específica."
+        ],
+        "faq": [
+          {
+            "q": "Precisamos de um centro privado de identificação de talentos?",
+            "a": "É possível explorar interesses em casa, na escola e na comunidade. Se pensa em uma avaliação, pergunte a qual decisão ela serve, quem vai interpretar o resultado e que outras observações serão consideradas."
+          },
+          {
+            "q": "Como posso apoiar o sucesso do meu filho?",
+            "a": "Ofereça tempo e materiais, mostre uma técnica se ele quiser e comente o que mudou. A criança pode descansar, mudar de direção ou se divertir sem competir."
+          },
+          {
+            "q": "Como perceber em que meu filho tem facilidade?",
+            "a": "Observe o que retoma, explica a outra pessoa ou adapta diante de um obstáculo. Compare as observações em diferentes ambientes e pergunte qual parte lhe deu prazer."
+          },
+          {
+            "q": "O que podemos fazer nesta semana?",
+            "a": "Deixe a criança escolher um pequeno experimento, como construir uma rampa ou contar uma história. Ofereça apenas a ajuda necessária para começar e pergunte se quer repetir."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 17 de novembro de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Ofereça atividades variadas e acessíveis ao longo do tempo.",
+            "Observe estratégias, interesses e mudanças que a criança consegue descrever.",
+            "Pergunte como a avaliação escolar orientará apoio ou enriquecimento."
+          ],
+          "bemama": "A BeMama sugere perguntar “Que parte você gostaria de experimentar de novo?” antes de decidir que um novo interesse exige aulas ou equipamentos.",
+          "safety": "Se a frustração ou uma barreira persistente afetar a escola ou a vida diária, leve exemplos ao professor e pergunte quais apoios ou avaliações estão disponíveis.",
+          "sources": [
+            {
+              "organization": "National Association for Gifted Children",
+              "title": "Avaliações e testes na educação de alunos com altas habilidades",
+              "url": "https://www.nagc.org/assessments-and-tests"
+            },
+            {
+              "organization": "National Association for Gifted Children",
+              "title": "Identificação de diferentes pontos fortes ao longo do tempo",
+              "url": "https://www.nagc.org/identification"
+            },
+            {
+              "organization": "Mueller e Dweck, Journal of Personality and Social Psychology",
+              "title": "Elogios à inteligência e reações após contratempos",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/9686450/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5858.webp",
+    "heroAlt": {
+      "en": "A child adjusts a cardboard marble track on wooden blocks",
+      "es": "Una niña ajusta una pista de canicas de cartón sobre bloques de madera",
+      "fr": "Une enfant ajuste un circuit à billes en carton sur des cubes en bois",
+      "pt": "Uma criança ajusta uma pista de papelão para bolinha de gude sobre blocos de madeira",
+      "tr": "Bir çocuk ahşap bloklar üzerindeki karton bilye yolunu ayarlıyor",
+      "fa": "کودکی مسیر مقوایی تیله را روی قطعه‌های چوبی تنظیم می‌کند",
+      "ar": "طفلة تعدّل مسارًا كرتونيًا للكرات الزجاجية فوق مكعبات خشبية"
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "How to notice what your child enjoys learning",
+      "description": "Explore a child’s interests without buying a talent test. Learn what to notice during play, how to offer feedback, and when a school assessment can help."
+    },
+    "fa": {
+      "title": "چطور بفهمیم کودک از یاد گرفتن چه چیزی لذت می‌برد؟",
+      "description": "بدون خرید آزمون استعدادیابی، علاقه‌های کودک را بشناسید. ببینید در بازی چه چیزی را مشاهده کنید، چطور بازخورد بدهید و چه زمانی ارزیابی مدرسه کمک می‌کند."
+    },
+    "ar": {
+      "title": "كيف تلاحظ ما يستمتع طفلك بتعلّمه؟",
+      "description": "اكتشف اهتمامات طفلك من دون شراء اختبار مواهب. تعرّف إلى ما يمكنك ملاحظته في اللعب، وكيف تعلّق على محاولاته، ومتى يفيد التقييم المدرسي."
+    },
+    "fr": {
+      "title": "Comment repérer ce que votre enfant aime apprendre",
+      "description": "Explorez ses centres d’intérêt sans acheter de test de talents. Voyez quoi observer dans ses jeux, comment l’encourager et quand demander un bilan à l’école."
+    },
+    "tr": {
+      "title": "Çocuğunuzun öğrenmekten keyif aldığı şeyleri nasıl fark edersiniz?",
+      "description": "Yetenek testi satın almadan çocuğunuzun ilgilerini keşfedin. Oyunda neyi gözlemleyebileceğinizi ve okul değerlendirmesinin ne zaman yararlı olacağını öğrenin."
+    },
+    "es": {
+      "title": "Cómo descubrir qué le gusta aprender a tu hijo",
+      "description": "Explora sus intereses sin comprar una prueba de talentos. Observa cómo juega, dale comentarios concretos y aprende cuándo puede servir una evaluación escolar."
+    },
+    "pt": {
+      "title": "Como perceber o que seu filho gosta de aprender",
+      "description": "Explore os interesses da criança sem comprar um teste de talentos. Veja o que observar na brincadeira, como dar retorno e quando pedir avaliação escolar."
+    }
+  }
+}

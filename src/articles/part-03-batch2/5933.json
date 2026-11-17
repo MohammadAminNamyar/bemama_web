@@ -1,0 +1,653 @@
+{
+  "sourceId": "5933",
+  "article": {
+    "slug": "how-childhood-eczema-changes-with-age",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "When your child’s eczema changes with age",
+        "description": "Learn how itchy eczema can look on different skin tones and at different ages, how to care for a flare, and which changes need urgent medical attention.",
+        "intro": "The rash that used to appear on your baby’s cheeks now wakes your schoolchild with itchy elbows. Atopic dermatitis, also called atopic eczema, can move to different places as a child grows. Where it itches, how the skin feels and how well your child sleeps all help the clinician understand what is happening.",
+        "sections": [
+          {
+            "heading": "Look at the skin as well as its colour",
+            "paragraphs": [
+              "Babies often develop itchy, rough patches on their cheeks or scalp. Later the elbows, knees, wrists or ankles may be affected. Patches can appear inside the folds or on the outer elbows and knees. Teenagers may have thickened patches or small itchy bumps. The pattern varies.",
+              "Inflammation may look red, brown, purple or grey depending on skin tone. Feel for roughness and thickening and ask about itch rather than relying on redness alone. A personal or family history of eczema, asthma or hay fever makes eczema more likely. A clinician can check whether another condition is responsible."
+            ]
+          },
+          {
+            "heading": "Choose skin care your child can keep using",
+            "paragraphs": [
+              "Use a fragrance-free leave-on moisturiser regularly, including between flares. Smooth it on gently. Ask which soap substitute and washing routine suit your child and which product they can take to school. If a product stings persistently, ask about another.",
+              "In a UK trial, 550 children aged six months to twelve years were randomly assigned a lotion, cream, gel or ointment. Average eczema severity over sixteen weeks did not differ significantly between the four groups. This leaves room to choose a texture your child tolerates. It does not mean that all ingredients suit everyone or that moisturiser alone treats every flare."
+            ]
+          },
+          {
+            "heading": "Make a plan for inflamed patches",
+            "paragraphs": [
+              "Moisturiser helps care for the skin barrier. An inflamed, itchy patch may also need an anti-inflammatory medicine, commonly a prescribed topical corticosteroid. Ask the prescriber to show you the right product, strength, amount, site and duration. The face and skin folds can require different instructions from thicker skin.",
+              "If a flare persists despite following the plan, or itching regularly disrupts sleep or school, arrange a review. Take the products you use and explain any stinging. Avoid excluding foods or ordering broad allergy tests on your own. Tell the clinician about a reproducible reaction to a particular food so they can assess it."
+            ]
+          },
+          {
+            "heading": "Spot a change that needs urgent care",
+            "paragraphs": [
+              "Weeping, pus, crusting or a sudden worsening can indicate infection. Contact the child’s clinician promptly, especially with fever or feeling unwell. A rapidly worsening painful patch with groups of small blisters or round, punched-out sores may be eczema herpeticum, a viral infection needing immediate same-day assessment. Seek urgent help even if there is no fever, particularly for sores near an eye."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Look for itch, texture and changes in sleep as well as colour.",
+          "Use a moisturiser the child tolerates and a written plan for flares.",
+          "Get same-day help for rapidly worsening painful blisters or round sores."
+        ],
+        "faq": [
+          {
+            "q": "Which children are more likely to have atopic dermatitis?",
+            "a": "It can affect any child. A personal or family history of eczema, asthma or hay fever makes it more likely, but does not establish a diagnosis."
+          },
+          {
+            "q": "What does it look like in older children and teenagers?",
+            "a": "Itchy, rough patches may affect the elbows, knees, wrists, ankles or other areas. Skin can thicken with scratching, and the colour varies with skin tone."
+          },
+          {
+            "q": "What helps with everyday care?",
+            "a": "Use a fragrance-free moisturiser regularly and follow the agreed washing and flare plan. Choose a product the child is comfortable using. Seek review if itch continues to disturb sleep."
+          },
+          {
+            "q": "When might my child need medicine?",
+            "a": "Inflamed patches may need a topical anti-inflammatory as well as moisturiser. Ask how to use it on each area. Painful, rapidly spreading blisters or round sores need urgent assessment that day."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Use a leave-on moisturiser regularly, even between flares.",
+            "Ask for clear instructions for each anti-inflammatory product and body area.",
+            "Contact a clinician about persistent itch, suspected infection or a specific food reaction."
+          ],
+          "bemama": "BeMama suggests bringing your child’s usual products to the appointment and pointing out which patch itches enough to disrupt sleep.",
+          "safety": "Seek immediate same-day assessment for rapidly worsening painful eczema with clusters of blisters or round sores, especially near an eye. Contact a clinician promptly if there is pus, crusting, fever or your child seems unwell.",
+          "sources": [
+            {
+              "organization": "American Academy of Dermatology",
+              "title": "How atopic dermatitis changes with age and skin tone",
+              "url": "https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis/symptoms"
+            },
+            {
+              "organization": "NICE",
+              "title": "Diagnosis and management of atopic eczema in children under twelve",
+              "url": "https://www.nice.org.uk/guidance/cg57/chapter/recommendations"
+            },
+            {
+              "organization": "Ridd and colleagues, The Lancet Child & Adolescent Health",
+              "title": "Trial comparing four types of moisturiser for childhood eczema",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/35617974/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "وقتی اگزمای کودک با بزرگ شدنش تغییر می‌کند",
+        "description": "ببینید اگزمای خارش‌دار در سنین و رنگ‌های مختلف پوست چگونه دیده می‌شود، هنگام شعله‌ور شدن چه مراقبتی لازم است و چه تغییری به رسیدگی فوری نیاز دارد.",
+        "intro": "ضایعاتی که زمانی روی گونه‌های نوزادتان بود حالا با خارش آرنج‌ها خواب کودک دبستانی‌تان را به هم می‌زند. محل درماتیت آتوپیک یا اگزمای آتوپیک ممکن است با رشد کودک تغییر کند. محل خارش، بافت پوست و کیفیت خواب به پزشک در درک مشکل کمک می‌کند.",
+        "sections": [
+          {
+            "heading": "پوست را لمس کنید و تنها به رنگ آن نگاه نکنید",
+            "paragraphs": [
+              "در نوزادان لکه‌های زبر و خارش‌دار اغلب روی گونه یا پوست سر پدیدار می‌شوند. بعدها آرنج، زانو، مچ دست یا پا ممکن است درگیر شود. لکه‌ها گاهی در چین‌ها و گاهی روی سطح بیرونی آرنج یا زانو دیده می‌شوند. در نوجوانان پوست ضخیم‌شده یا برجستگی‌های کوچک خارش‌دار هم ممکن است دیده شود. الگو در همه یکسان نیست.",
+              "به تناسب رنگ پوست، التهاب ممکن است قرمز، قهوه‌ای، بنفش یا خاکستری به نظر برسد. زبری و ضخامت را با لمس بررسی کنید و حتی بدون قرمزی از کودک دربارهٔ خارش بپرسید. سابقهٔ فردی یا خانوادگی اگزما، آسم یا حساسیت فصلی احتمال اگزما را بیشتر می‌کند. پزشک می‌تواند علت‌های دیگر را هم بررسی کند."
+            ]
+          },
+          {
+            "heading": "مراقبتی را انتخاب کنید که کودک بتواند ادامه دهد",
+            "paragraphs": [
+              "مرطوب‌کنندهٔ بدون عطر و بدون نیاز به آبکشی را مرتب، حتی بین دوره‌های شعله‌وری، استفاده کنید. آن را آرام روی پوست پخش کنید. دربارهٔ شویندهٔ جایگزین صابون، روش شست‌وشو و محصولی که کودک می‌تواند به مدرسه ببرد بپرسید. اگر محصولی پیوسته سوزش ایجاد می‌کند، دربارهٔ جایگزین مشورت کنید.",
+              "در یک کارآزمایی در بریتانیا ۵۵۰ کودک شش‌ماهه تا دوازده‌ساله به‌تصادف برای مصرف لوسیون، کرم، ژل یا پماد در چهار گروه قرار گرفتند. طی شانزده هفته شدت متوسط اگزما در چهار گروه تفاوت معناداری نداشت. پس می‌توان بافتی را انتخاب کرد که برای کودک قابل تحمل باشد. این نتیجه به معنای مناسب بودن همهٔ ترکیب‌ها برای همه یا کافی بودن مرطوب‌کننده برای هر دورهٔ شعله‌وری نیست."
+            ]
+          },
+          {
+            "heading": "برای لکه‌های ملتهب برنامه داشته باشید",
+            "paragraphs": [
+              "مرطوب‌کننده به مراقبت از سد پوستی کمک می‌کند. لکهٔ ملتهب و خارش‌دار ممکن است علاوه بر آن به داروی ضدالتهاب، اغلب کورتون موضعی تجویزشده، نیاز داشته باشد. از تجویزکننده بخواهید نوع محصول، قدرت، مقدار، محل و مدت استفاده را نشان دهد. صورت و چین‌ها ممکن است دستور متفاوتی از نواحی با پوست ضخیم‌تر داشته باشند.",
+              "اگر با وجود اجرای برنامه ضایعه باقی مانده یا خارش مرتب خواب یا مدرسه را مختل می‌کند، وقت پیگیری بگیرید. محصولات مصرفی را ببرید و هر سوزشی را توضیح دهید. خودسرانه مادهٔ غذایی حذف نکنید یا سراغ آزمایش‌های گستردهٔ آلرژی نروید. اگر واکنشی مشخص با یک غذا تکرار می‌شود، برای ارزیابی به پزشک بگویید."
+            ]
+          },
+          {
+            "heading": "تغییری را که به مراقبت فوری نیاز دارد بشناسید",
+            "paragraphs": [
+              "ترشح، چرک، دلمه یا بدتر شدن ناگهانی می‌تواند نشانهٔ عفونت باشد. زود با پزشک تماس بگیرید، به‌خصوص اگر کودک تب دارد یا بدحال است. لکهٔ دردناکی که سریع بدتر می‌شود و تاول‌های کوچک خوشه‌ای یا زخم‌های گرد و فرورفته دارد ممکن است اگزمای هرپتیک باشد. این عفونت ویروسی به ارزیابی فوری در همان روز نیاز دارد. حتی بدون تب، به‌خصوص اگر زخم نزدیک چشم است، فوری مراجعه کنید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "علاوه بر رنگ پوست، خارش، بافت و تغییر خواب را بررسی کنید.",
+          "مرطوب‌کننده‌ای که کودک تحمل می‌کند و برنامه‌ای مکتوب برای دورهٔ شعله‌وری داشته باشید.",
+          "برای تاول دردناک یا زخم گردی که سریع بدتر می‌شود همان روز کمک بگیرید."
+        ],
+        "faq": [
+          {
+            "q": "کدام کودکان بیشتر در معرض درماتیت آتوپیک‌اند؟",
+            "a": "هر کودکی ممکن است به آن مبتلا شود. سابقهٔ فردی یا خانوادگی اگزما، آسم یا حساسیت فصلی احتمال را بیشتر می‌کند، اما تشخیص را قطعی نمی‌کند."
+          },
+          {
+            "q": "در کودکان بزرگ‌تر و نوجوانان چگونه دیده می‌شود؟",
+            "a": "لکه‌های زبر و خارش‌دار ممکن است آرنج، زانو، مچ دست و پا یا نواحی دیگر را درگیر کنند. خاراندن پوست را ضخیم می‌کند و رنگ لکه با رنگ پوست فرق دارد."
+          },
+          {
+            "q": "برای مراقبت روزانه چه کار کنیم؟",
+            "a": "مرطوب‌کنندهٔ بدون عطر را مرتب استفاده کنید و روش شست‌وشو و رسیدگی به شعله‌وری را طبق برنامه پیش ببرید. محصولی انتخاب کنید که برای کودک راحت باشد. اگر خارش همچنان خواب را مختل می‌کند، پیگیری کنید."
+          },
+          {
+            "q": "چه وقت ممکن است کودک به دارو نیاز داشته باشد؟",
+            "a": "لکه‌های ملتهب ممکن است همراه مرطوب‌کننده به داروی موضعی ضدالتهاب نیاز داشته باشند. طرز مصرف در هر ناحیه را بپرسید. تاول‌های دردناک که سریع گسترده می‌شوند یا زخم‌های گرد به ارزیابی فوری در همان روز نیاز دارند."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۶ نوامبر ۲۰۲۶ مرور شد",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "حتی بین دوره‌های شعله‌وری از مرطوب‌کنندهٔ بدون نیاز به آبکشی مرتب استفاده کنید.",
+            "برای هر داروی ضدالتهاب و هر ناحیهٔ بدن دستور روشن بگیرید.",
+            "خارش ماندگار، احتمال عفونت یا واکنش به غذایی مشخص را با پزشک مطرح کنید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند محصولات معمول کودک را به ویزیت ببرید و نشان دهید کدام ناحیه آن‌قدر می‌خارد که خوابش را مختل می‌کند.",
+          "safety": "برای اگزمای دردناکی که سریع بدتر می‌شود و تاول‌های خوشه‌ای یا زخم گرد دارد، به‌خصوص نزدیک چشم، همان روز فوری مراجعه کنید. برای چرک، دلمه، تب یا بدحالی کودک زود با پزشک تماس بگیرید.",
+          "sources": [
+            {
+              "organization": "آکادمی پوست آمریکا",
+              "title": "تغییر نشانه‌های درماتیت آتوپیک با سن و رنگ پوست",
+              "url": "https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis/symptoms"
+            },
+            {
+              "organization": "مؤسسهٔ NICE",
+              "title": "تشخیص و مدیریت اگزمای آتوپیک در کودکان زیر دوازده سال",
+              "url": "https://www.nice.org.uk/guidance/cg57/chapter/recommendations"
+            },
+            {
+              "organization": "رید و همکاران، The Lancet Child & Adolescent Health",
+              "title": "کارآزمایی مقایسهٔ چهار نوع مرطوب‌کننده برای اگزمای کودکان",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/35617974/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "عندما تتغير إكزيما طفلك مع تقدمه في العمر",
+        "description": "تعرّف إلى أشكال الإكزيما المسببة للحكة في مختلف الأعمار وألوان البشرة، وكيفية العناية بالجلد خلال النوبة، وأي تغيرات تستدعي تقييماً طبياً عاجلاً.",
+        "intro": "كان الطفح يظهر على وجنتي طفلك الرضيع، والآن توقظه الحكة في مرفقيه وهو في سن المدرسة. قد يتغير موضع التهاب الجلد التأتبي، أو الإكزيما التأتبية، مع النمو. مكان الحكة وملمس الجلد وجودة النوم كلها تساعد الطبيب على فهم الحالة.",
+        "sections": [
+          {
+            "heading": "انتبه إلى الملمس مع اللون",
+            "paragraphs": [
+              "كثيراً ما تظهر لدى الرضع بقع خشنة حاكة على الوجنتين أو فروة الرأس. وقد تصاب لاحقاً المرافق أو الركب أو الرسغ أو الكاحل. تظهر البقع أحياناً في الثنيات أو على السطح الخارجي للمرفقين والركبتين. وقد يلاحظ المراهق ثخانة الجلد أو نتوءات صغيرة حاكة. يختلف النمط بين الأطفال.",
+              "قد يبدو الالتهاب أحمر أو بنياً أو بنفسجياً أو رمادياً حسب لون البشرة. تحسس الخشونة والثخانة واسأل عن الحكة حتى إن لم تر احمراراً. يزيد وجود إكزيما أو ربو أو حمى القش لدى الطفل أو عائلته من الاحتمال. ويمكن للمختص أن يتحقق من الأسباب الأخرى."
+            ]
+          },
+          {
+            "heading": "اختر عناية يستطيع الطفل الاستمرار عليها",
+            "paragraphs": [
+              "استعمل مرطباً خالياً من العطور يُترك على الجلد بانتظام حتى بين النوبات، ووزعه برفق. اسأل عن بديل الصابون وروتين الغسل المناسبين وعن منتج يستطيع الطفل أخذه إلى المدرسة. إذا استمر الشعور باللسع مع أحد المنتجات فاسأل عن بديل.",
+              "في تجربة بريطانية وُزِّع 550 طفلاً من عمر ستة أشهر إلى اثنتي عشرة سنة عشوائياً لاستخدام لوسيون أو كريم أو هلام أو مرهم. لم يظهر فرق ذو دلالة في متوسط شدة الإكزيما بين المجموعات الأربع على مدى ستة عشر أسبوعاً. يتيح ذلك اختيار قوام يرتاح إليه الطفل. ولا يعني أن جميع المكونات تناسب الجميع أو أن المرطب وحده يكفي لكل نوبة."
+            ]
+          },
+          {
+            "heading": "ضع خطة للبقع الملتهبة",
+            "paragraphs": [
+              "يساعد المرطب في العناية بحاجز الجلد. وقد تحتاج البقعة الملتهبة الحاكة أيضاً إلى دواء مضاد للالتهاب، غالباً ما يكون كورتيكوستيرويداً موضعياً بوصفة. اطلب من واصف العلاج أن يوضح المنتج وقوته وكميته ومكان استعماله ومدته. قد يحتاج الوجه والثنيات إلى تعليمات مختلفة عن مناطق الجلد السميك.",
+              "إذا استمرت النوبة رغم اتباع الخطة، أو أصبحت الحكة تعطل النوم أو المدرسة بانتظام، فرتب مراجعة. أحضر المنتجات التي تستعملها واذكر أي لسع. تجنب حذف أطعمة أو طلب مجموعة واسعة من فحوص الحساسية من تلقاء نفسك. صف للمختص أي تفاعل يتكرر مع طعام محدد حتى يقيّمه."
+            ]
+          },
+          {
+            "heading": "تعرف إلى التغير الذي يستلزم عناية عاجلة",
+            "paragraphs": [
+              "قد تشير الإفرازات أو القيح أو القشور أو التدهور المفاجئ إلى عدوى. اتصل بمختص الطفل سريعاً، خاصة مع الحمى أو اعتلال حاله. وقد تدل بقعة مؤلمة تتفاقم بسرعة مع حويصلات صغيرة متجمعة أو تقرحات دائرية غائرة على الإكزيما الهربسية. تحتاج هذه العدوى الفيروسية إلى تقييم فوري في اليوم نفسه. اطلب العناية العاجلة حتى من دون حمى، خصوصاً قرب العين."
+            ]
+          }
+        ],
+        "takeaways": [
+          "راقب الحكة والملمس وتغيرات النوم بالإضافة إلى اللون.",
+          "استخدم مرطباً يتحمله الطفل وخطة مكتوبة للنوبات.",
+          "اطلب المساعدة في اليوم نفسه عند ظهور حويصلات مؤلمة أو تقرحات دائرية تتفاقم بسرعة."
+        ],
+        "faq": [
+          {
+            "q": "من الأطفال الأكثر عرضة لالتهاب الجلد التأتبي؟",
+            "a": "قد يصيب أي طفل. وجود إكزيما أو ربو أو حمى القش في تاريخ الطفل أو عائلته يزيد الاحتمال، ولكنه لا يكفي للتشخيص."
+          },
+          {
+            "q": "ما شكله لدى الأطفال الأكبر والمراهقين؟",
+            "a": "قد تصيب البقع الخشنة الحاكة المرفقين أو الركبتين أو الرسغين أو الكاحلين أو غيرها. وقد يزداد سمك الجلد بالحك ويختلف اللون تبعاً للون البشرة."
+          },
+          {
+            "q": "ما الذي يساعد في العناية اليومية؟",
+            "a": "استخدم مرطباً بلا عطر بانتظام واتبع الخطة المتفق عليها للغسل والنوبات. اختر منتجاً يرتاح الطفل إلى استعماله. واطلب المراجعة إذا استمرت الحكة في تعطيل النوم."
+          },
+          {
+            "q": "متى يحتاج طفلي إلى دواء؟",
+            "a": "قد تحتاج البقع الملتهبة إلى مضاد التهاب موضعي مع المرطب. اسأل عن طريقة استعماله لكل موضع. البثور المؤلمة التي تنتشر سريعاً أو التقرحات الدائرية تحتاج إلى تقييم عاجل في اليوم نفسه."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في 16 نوفمبر 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "استخدم بانتظام مرطباً يُترك على الجلد حتى بين النوبات.",
+            "اطلب تعليمات واضحة لكل مضاد التهاب ولكل منطقة من الجسم.",
+            "تواصل مع المختص بشأن الحكة المستمرة أو الاشتباه بالعدوى أو تفاعل محدد مع طعام."
+          ],
+          "bemama": "تقترح بي ماما إحضار منتجات الطفل المعتادة إلى الموعد والإشارة إلى البقعة التي تشتد حكتها لدرجة تعطل النوم.",
+          "safety": "اطلب تقييماً فورياً في اليوم نفسه عند تدهور الإكزيما المؤلمة بسرعة مع حويصلات متجمعة أو تقرحات دائرية، خاصة قرب العين. اتصل بالمختص سريعاً عند وجود قيح أو قشور أو حمى أو إذا بدا الطفل مريضاً.",
+          "sources": [
+            {
+              "organization": "الأكاديمية الأمريكية للأمراض الجلدية",
+              "title": "تغير مظاهر التهاب الجلد التأتبي مع العمر ولون البشرة",
+              "url": "https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis/symptoms"
+            },
+            {
+              "organization": "معهد NICE",
+              "title": "تشخيص الإكزيما التأتبية وتدبيرها لدى الأطفال دون الثانية عشرة",
+              "url": "https://www.nice.org.uk/guidance/cg57/chapter/recommendations"
+            },
+            {
+              "organization": "ريد وزملاؤه، The Lancet Child & Adolescent Health",
+              "title": "تجربة تقارن أربعة أنواع من المرطبات في إكزيما الأطفال",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/35617974/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Quand l’eczéma de votre enfant change avec l’âge",
+        "description": "Découvrez comment l’eczéma se manifeste selon l’âge et la couleur de peau, comment soigner une poussée et quels signes nécessitent un avis médical urgent.",
+        "intro": "Les plaques qui marquaient les joues de votre bébé le réveillent maintenant par des démangeaisons aux coudes. La dermatite atopique, aussi appelée eczéma atopique, peut changer de localisation au fil des années. L’endroit qui gratte, la texture de la peau et la qualité du sommeil aident le médecin à comprendre ce qui se passe.",
+        "sections": [
+          {
+            "heading": "Observer la peau au-delà de sa couleur",
+            "paragraphs": [
+              "Chez le bébé, des plaques rugueuses qui démangent apparaissent souvent sur les joues ou le cuir chevelu. Plus tard, les coudes, genoux, poignets ou chevilles peuvent être touchés. Les plaques peuvent se situer dans les plis ou sur la face externe des coudes et des genoux. Chez l’adolescent, la peau peut s’épaissir ou se couvrir de petits boutons qui grattent. L’aspect varie.",
+              "Selon le teint, l’inflammation peut se manifester par une couleur rouge, brune, violette ou grise. Recherchez les zones rugueuses ou épaissies au toucher et demandez à l’enfant si cela le gratte, même en l’absence de rougeur. Des antécédents personnels ou familiaux d’eczéma, d’asthme ou de rhume des foins rendent l’eczéma plus probable. Un professionnel peut rechercher une autre cause."
+            ]
+          },
+          {
+            "heading": "Choisir un soin que l’enfant peut utiliser au quotidien",
+            "paragraphs": [
+              "Appliquez régulièrement un émollient sans parfum qui reste sur la peau, même entre les poussées. Étalez-le doucement. Demandez quel substitut au savon et quelle routine de toilette conviennent, et quel produit votre enfant peut emporter à l’école. Si les picotements persistent après l’application, renseignez-vous sur une autre formule.",
+              "Dans un essai britannique, 550 enfants âgés de six mois à douze ans ont reçu par tirage au sort une lotion, une crème, un gel ou une pommade. Sur seize semaines, les quatre groupes ne présentaient pas de différence significative de sévérité moyenne de l’eczéma. Vous pouvez donc tenir compte de la texture que l’enfant supporte. Cela ne signifie pas que chaque ingrédient convient à tous ni qu’un émollient suffit à chaque poussée."
+            ]
+          },
+          {
+            "heading": "Prévoir la conduite à tenir sur les plaques enflammées",
+            "paragraphs": [
+              "L’émollient aide la peau à maintenir sa fonction de barrière. Une plaque enflammée qui gratte peut aussi nécessiter un anti-inflammatoire, souvent un dermocorticoïde sur ordonnance. Faites-vous montrer le produit, sa puissance, la quantité, les zones d’application et la durée. Le visage et les plis peuvent nécessiter des consignes différentes des zones plus épaisses.",
+              "Si la poussée persiste malgré le traitement ou si les démangeaisons perturbent régulièrement le sommeil ou l’école, reprenez rendez-vous. Apportez les produits utilisés et signalez les picotements. Évitez de supprimer des aliments ou de faire pratiquer une batterie de tests allergiques de votre propre initiative. Signalez une réaction qui se reproduit avec un aliment précis afin de la faire évaluer."
+            ]
+          },
+          {
+            "heading": "Repérer un changement qui demande des soins urgents",
+            "paragraphs": [
+              "Suintement, pus, croûtes ou aggravation soudaine peuvent signaler une infection. Contactez rapidement le médecin, surtout si l’enfant a de la fièvre ou paraît malade. Une plaque douloureuse qui s’aggrave vite avec de petites vésicules groupées ou des plaies rondes en creux peut être un eczéma herpétique. Cette infection virale exige une évaluation immédiate le jour même. Consultez en urgence même sans fièvre, en particulier près d’un œil."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Observez les démangeaisons, la texture et le sommeil en plus de la couleur.",
+          "Utilisez un émollient bien toléré et un plan écrit pour les poussées.",
+          "Faites évaluer le jour même des vésicules douloureuses ou des plaies rondes qui s’aggravent vite."
+        ],
+        "faq": [
+          {
+            "q": "Quels enfants risquent davantage de développer une dermatite atopique ?",
+            "a": "Tous peuvent être concernés. Des antécédents personnels ou familiaux d’eczéma, d’asthme ou de rhume des foins augmentent la probabilité sans établir le diagnostic."
+          },
+          {
+            "q": "Quel est son aspect chez le grand enfant et l’adolescent ?",
+            "a": "Des plaques rugueuses qui grattent peuvent toucher les coudes, les genoux, les poignets, les chevilles ou d’autres zones. Le grattage peut épaissir la peau et la couleur varie selon le teint."
+          },
+          {
+            "q": "Quels soins au quotidien ?",
+            "a": "Appliquez régulièrement un émollient sans parfum et suivez les consignes de toilette et de traitement des poussées. Choisissez un produit que l’enfant tolère bien. Consultez si le sommeil reste perturbé."
+          },
+          {
+            "q": "Quand un médicament peut-il être nécessaire ?",
+            "a": "Une plaque enflammée peut nécessiter un anti-inflammatoire local en complément de l’émollient. Demandez comment l’utiliser sur chaque zone. Des vésicules douloureuses qui s’étendent rapidement ou des plaies rondes demandent une évaluation urgente le jour même."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Utilisez régulièrement un émollient sans rinçage, même entre les poussées.",
+            "Demandez des consignes précises pour chaque anti-inflammatoire et chaque zone.",
+            "Parlez au médecin des démangeaisons persistantes, d’une infection possible ou d’une réaction à un aliment précis."
+          ],
+          "bemama": "BeMama propose d’apporter les produits habituels à la consultation et de montrer la plaque qui gratte au point de perturber le sommeil.",
+          "safety": "Demandez immédiatement une évaluation le jour même pour un eczéma douloureux qui s’aggrave vite, avec vésicules groupées ou plaies rondes, surtout près d’un œil. Consultez rapidement si vous voyez du pus ou des croûtes, ou si l’enfant a de la fièvre ou paraît malade.",
+          "sources": [
+            {
+              "organization": "Académie américaine de dermatologie",
+              "title": "Comment la dermatite atopique varie avec l’âge et la couleur de peau",
+              "url": "https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis/symptoms"
+            },
+            {
+              "organization": "NICE",
+              "title": "Diagnostic et prise en charge de l’eczéma atopique avant douze ans",
+              "url": "https://www.nice.org.uk/guidance/cg57/chapter/recommendations"
+            },
+            {
+              "organization": "Ridd et collègues, The Lancet Child & Adolescent Health",
+              "title": "Essai de quatre types d’émollients dans l’eczéma de l’enfant",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/35617974/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Çocuğunuzun egzaması yaşla farklı görünmeye başladığında",
+        "description": "Egzamanın farklı yaşlarda ve cilt tonlarında nasıl göründüğünü, alevlenmede cilde nasıl bakım yapılacağını ve hangi değişikliklerin acil olduğunu öğrenin.",
+        "intro": "Bebekken yanaklarında görülen döküntü şimdi okul çağındaki çocuğunuzu dirseklerinde kaşıntıyla uyandırıyor. Atopik egzama da denilen atopik dermatitin yeri çocuk büyüdükçe değişebilir. Kaşıntının yeri, cildin dokusu ve uykunun nasıl etkilendiği sağlık uzmanının durumu anlamasına yardımcı olur.",
+        "sections": [
+          {
+            "heading": "Rengin yanı sıra cildin dokusuna bakın",
+            "paragraphs": [
+              "Bebeklerin yanaklarında veya saçlı derisinde kaşınan pürüzlü alanlar sık görülür. İlerleyen yaşlarda dirsekler, dizler, el veya ayak bilekleri etkilenebilir. Yamalar kıvrımlarda ya da dirsek ve dizlerin dış yüzünde olabilir. Ergenlerde kalınlaşmış alanlar veya kaşıntılı küçük kabarıklıklar görülebilir. Dağılım kişiye göre değişir.",
+              "İltihap cilt tonuna göre kırmızı, kahverengi, mor veya gri görünebilir. Kızarıklığa tek başına güvenmeyin. Dokunarak pürüz ve kalınlaşmayı fark edin, çocuğa kaşıntıyı sorun. Kendisinde ya da ailesinde egzama, astım veya saman nezlesi öyküsü olması egzama olasılığını artırır. Uzman başka bir neden olup olmadığını değerlendirebilir."
+            ]
+          },
+          {
+            "heading": "Çocuğun sürdürebildiği bir bakım seçin",
+            "paragraphs": [
+              "Alevlenmeler arasında da parfümsüz, durulanmayan bir nemlendiriciyi düzenli kullanın. Cilde nazikçe yayın. Hangi sabun yerine geçen temizleyicinin ve yıkama düzeninin uygun olduğunu, çocuğun okula hangi ürünü götürebileceğini sorun. Bir ürün sürekli yanmaya neden oluyorsa başka seçenek isteyin.",
+              "Birleşik Krallık’ta bir çalışmada altı aylık ile on iki yaş arasındaki 550 çocuk losyon, krem, jel veya merhem gruplarına rastgele ayrıldı. On altı haftada ortalama egzama şiddeti bakımından gruplar arasında anlamlı fark bulunmadı. Çocuğun rahat kullandığı kıvamı seçebilirsiniz. Her içerik herkese uygun olmayabilir ve nemlendirici her alevlenmede tek başına yeterli değildir."
+            ]
+          },
+          {
+            "heading": "İltihaplı alanlar için plan yapın",
+            "paragraphs": [
+              "Nemlendirici cilt bariyerinin bakımına yardımcı olur. Kaşınan iltihaplı bir yama ayrıca iltihap giderici bir ilaca, sıklıkla reçete edilen bir kortizonlu cilt ilacına ihtiyaç duyabilir. Ürünü, gücünü, miktarını, sürülecek yeri ve süreyi reçete eden uzmandan göstermesini isteyin. Yüz ve cilt kıvrımları daha kalın deriden farklı talimat gerektirebilir.",
+              "Plana rağmen alevlenme sürüyorsa veya kaşıntı uykuyu ya da okulu düzenli olarak aksatıyorsa kontrol randevusu alın. Kullandığınız ürünleri götürüp oluşan yanmayı anlatın. Kendi kendinize besinleri kesmeyin, geniş kapsamlı alerji testi yaptırmayın. Belirli bir yiyecekle aynı tepki tekrar ediyorsa değerlendirilmesi için uzmana bildirin."
+            ]
+          },
+          {
+            "heading": "Acil bakım gerektiren değişimi tanıyın",
+            "paragraphs": [
+              "Sızıntı, irin, kabuklanma veya ani kötüleşme enfeksiyon belirtisi olabilir. Özellikle ateş varsa ya da çocuk kendini hasta hissediyorsa uzmana gecikmeden ulaşın. Hızla kötüleşen ağrılı bir bölgede kümelenmiş küçük su kabarcıkları veya yuvarlak çukur yaralar varsa egzama herpetikum olabilir. Bu viral enfeksiyon aynı gün derhal değerlendirilmelidir. Ateş olmasa bile, özellikle yaralar göze yakınsa acil yardım alın."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Renkle birlikte kaşıntı, doku ve uyku değişikliklerini izleyin.",
+          "Çocuğun iyi tolere ettiği bir nemlendirici ve yazılı alevlenme planı kullanın.",
+          "Hızla kötüleşen ağrılı su kabarcıkları veya yuvarlak yaralar için aynı gün yardım alın."
+        ],
+        "faq": [
+          {
+            "q": "Hangi çocuklarda atopik dermatit daha olasıdır?",
+            "a": "Her çocuğu etkileyebilir. Çocukta veya ailede egzama, astım ya da saman nezlesi öyküsü olasılığı artırır ancak tek başına tanı koydurmaz."
+          },
+          {
+            "q": "Büyük çocuklarda ve ergenlerde nasıl görünür?",
+            "a": "Dirsek, diz, el veya ayak bileği ya da başka yerlerde kaşıntılı ve pürüzlü yamalar olabilir. Kaşımayla deri kalınlaşabilir. Görülen renk cilt tonuna bağlıdır."
+          },
+          {
+            "q": "Günlük bakımda ne yardımcı olur?",
+            "a": "Parfümsüz nemlendiriciyi düzenli kullanın, üzerinde anlaşılan yıkama ve alevlenme planını izleyin. Çocuğun rahat kullandığı bir ürün seçin. Kaşıntı uykuyu bölmeye devam ediyorsa yeniden değerlendirme isteyin."
+          },
+          {
+            "q": "Çocuğum ne zaman ilaca ihtiyaç duyabilir?",
+            "a": "İltihaplı bölgelerde nemlendiricinin yanında deriye uygulanan bir iltihap giderici gerekebilir. Her bölgede nasıl kullanacağınızı sorun. Hızla yayılan ağrılı kabarcıklar veya yuvarlak yaralar aynı gün acilen değerlendirilmelidir."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Alevlenmeler arasında da durulanmayan nemlendiriciyi düzenli kullanın.",
+            "Her iltihap giderici ürün ve vücut bölgesi için açık talimat isteyin.",
+            "Sürekli kaşıntı, enfeksiyon kuşkusu veya belirli bir besine tepki konusunda uzmana danışın."
+          ],
+          "bemama": "BeMama, çocuğun alıştığı ürünleri randevuya götürmenizi ve hangi bölgenin uykusunu bozacak kadar kaşındığını göstermenizi önerir.",
+          "safety": "Hızla kötüleşen ağrılı egzamada kümelenmiş kabarcıklar veya yuvarlak yaralar varsa, özellikle göze yakınsa, aynı gün derhal değerlendirme alın. İrin, kabuklanma, ateş veya genel durumda bozulma varsa gecikmeden uzmana danışın.",
+          "sources": [
+            {
+              "organization": "Amerikan Dermatoloji Akademisi",
+              "title": "Atopik dermatit yaş ve cilt tonuyla nasıl değişir?",
+              "url": "https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis/symptoms"
+            },
+            {
+              "organization": "NICE",
+              "title": "On iki yaşından küçüklerde atopik egzamanın tanısı ve yönetimi",
+              "url": "https://www.nice.org.uk/guidance/cg57/chapter/recommendations"
+            },
+            {
+              "organization": "Ridd ve çalışma arkadaşları, The Lancet Child & Adolescent Health",
+              "title": "Çocukluk çağı egzamasında dört nemlendirici türünü karşılaştıran çalışma",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/35617974/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Cuando el eccema de tu hijo cambia con la edad",
+        "description": "Conoce cómo puede verse el eccema a distintas edades y en distintos tonos de piel, cómo cuidar los brotes y qué cambios requieren atención médica urgente.",
+        "intro": "El sarpullido que antes aparecía en las mejillas de tu bebé ahora despierta a tu hijo en edad escolar con picor en los codos. La dermatitis atópica, también llamada eccema atópico, puede cambiar de lugar al crecer. La zona que pica, la textura de la piel y la calidad del sueño orientan al profesional.",
+        "sections": [
+          {
+            "heading": "Observa la piel además de su color",
+            "paragraphs": [
+              "En los bebés son frecuentes las zonas ásperas con picor en las mejillas o el cuero cabelludo. Después pueden afectarse codos, rodillas, muñecas o tobillos. Las placas pueden aparecer en los pliegues o en la cara externa de codos y rodillas. En adolescentes puede haber piel engrosada o pequeños bultos que pican. El patrón varía.",
+              "La inflamación puede verse roja, marrón, violácea o gris según el tono de piel. Palpa la aspereza o el engrosamiento y pregunta por el picor, incluso sin enrojecimiento. Los antecedentes personales o familiares de eccema, asma o rinitis alérgica aumentan la probabilidad de eccema. Un profesional puede valorar otras causas."
+            ]
+          },
+          {
+            "heading": "Elige un cuidado que tu hijo pueda mantener",
+            "paragraphs": [
+              "Aplica regularmente un hidratante sin perfume que se deje sobre la piel, incluso entre brotes. Extiéndelo con suavidad. Pregunta qué sustituto del jabón y qué rutina de lavado convienen y qué producto puede llevar al colegio. Si un producto provoca escozor persistente, pregunta por otro.",
+              "En un ensayo británico se asignó al azar a 550 niños de seis meses a doce años una loción, crema, gel o pomada. Durante dieciséis semanas no se observó una diferencia significativa en la gravedad media del eccema entre los cuatro grupos. Podéis elegir una textura que tolere. El resultado no implica que todos los ingredientes convengan a todos ni que baste el hidratante en cualquier brote."
+            ]
+          },
+          {
+            "heading": "Acuerda un plan para las placas inflamadas",
+            "paragraphs": [
+              "El hidratante ayuda a cuidar la barrera cutánea. Una placa inflamada que pica puede necesitar también un antiinflamatorio, a menudo un corticoide tópico recetado. Pide que te muestren el producto, la potencia, la cantidad, el lugar y el tiempo de uso. La cara y los pliegues pueden requerir instrucciones distintas a las zonas de piel más gruesa.",
+              "Si el brote persiste pese a seguir el plan o el picor altera habitualmente el sueño o la escuela, pide revisión. Lleva los productos que usáis y explica si escuecen. Evita retirar alimentos o encargar pruebas generales de alergia por tu cuenta. Si un alimento provoca la misma reacción repetidamente, coméntalo para que lo valoren."
+            ]
+          },
+          {
+            "heading": "Reconoce los cambios que requieren atención urgente",
+            "paragraphs": [
+              "La supuración, el pus, las costras o el empeoramiento repentino pueden indicar infección. Consulta pronto, sobre todo si hay fiebre o malestar. Una zona dolorosa que empeora rápidamente, con grupos de ampollitas o llagas redondas y hundidas, puede ser un eccema herpético. Esta infección viral necesita valoración inmediata ese mismo día. Busca atención urgente incluso sin fiebre, en especial si hay lesiones cerca de un ojo."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Observa el picor, la textura y los cambios de sueño además del color.",
+          "Usa un hidratante bien tolerado y un plan escrito para los brotes.",
+          "Busca atención ese mismo día por ampollas dolorosas o llagas redondas que empeoran rápidamente."
+        ],
+        "faq": [
+          {
+            "q": "¿Qué niños tienen mayor probabilidad de dermatitis atópica?",
+            "a": "Puede afectar a cualquier niño. Los antecedentes personales o familiares de eccema, asma o rinitis alérgica aumentan su probabilidad, pero no bastan para el diagnóstico."
+          },
+          {
+            "q": "¿Qué aspecto tiene en niños mayores y adolescentes?",
+            "a": "Pueden aparecer placas ásperas que pican en codos, rodillas, muñecas, tobillos u otras zonas. El rascado puede engrosar la piel y el color varía con el tono cutáneo."
+          },
+          {
+            "q": "¿Qué ayuda en el día a día?",
+            "a": "Usa regularmente un hidratante sin perfume y sigue la rutina acordada de lavado y cuidado de los brotes. Escoge uno que al niño le resulte cómodo. Pide revisión si el picor sigue interrumpiendo el sueño."
+          },
+          {
+            "q": "¿Cuándo necesita medicación?",
+            "a": "Las zonas inflamadas pueden necesitar un antiinflamatorio tópico además del hidratante. Pregunta cómo emplearlo en cada zona. Las ampollas dolorosas que se extienden rápidamente o las llagas redondas requieren valoración urgente ese día."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Usa regularmente un hidratante que permanezca sobre la piel, incluso entre brotes.",
+            "Pide instrucciones claras para cada antiinflamatorio y cada zona.",
+            "Consulta por picor persistente, sospecha de infección o reacción concreta a un alimento."
+          ],
+          "bemama": "BeMama sugiere llevar los productos habituales a la consulta y señalar qué zona pica tanto que dificulta dormir.",
+          "safety": "Busca valoración inmediata ese mismo día si el eccema es doloroso, empeora rápidamente y presenta grupos de ampollas o llagas redondas, sobre todo cerca del ojo. Consulta pronto si hay pus, costras, fiebre o malestar.",
+          "sources": [
+            {
+              "organization": "Academia Estadounidense de Dermatología",
+              "title": "Cambios de la dermatitis atópica según la edad y el tono de piel",
+              "url": "https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis/symptoms"
+            },
+            {
+              "organization": "NICE",
+              "title": "Diagnóstico y tratamiento del eccema atópico en menores de doce años",
+              "url": "https://www.nice.org.uk/guidance/cg57/chapter/recommendations"
+            },
+            {
+              "organization": "Ridd y colaboradores, The Lancet Child & Adolescent Health",
+              "title": "Ensayo sobre cuatro tipos de hidratante para el eccema infantil",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/35617974/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Quando o eczema do seu filho muda com a idade",
+        "description": "Saiba como o eczema pode aparecer em diferentes idades e tons de pele, como cuidar de uma crise e quais alterações exigem avaliação médica urgente.",
+        "intro": "As manchas que apareciam nas bochechas do bebê agora acordam seu filho em idade escolar com coceira nos cotovelos. A dermatite atópica, também chamada de eczema atópico, pode mudar de lugar à medida que a criança cresce. Onde coça, a textura da pele e o efeito sobre o sono ajudam o profissional na avaliação.",
+        "sections": [
+          {
+            "heading": "Observe a pele além da cor",
+            "paragraphs": [
+              "Bebês costumam ter áreas ásperas que coçam nas bochechas ou no couro cabeludo. Mais tarde, cotovelos, joelhos, punhos ou tornozelos podem ser afetados. As placas podem surgir nas dobras ou na parte externa dos cotovelos e joelhos. Adolescentes podem ter pele espessada ou pequenas elevações que coçam. O padrão varia.",
+              "Conforme o tom de pele, a inflamação pode parecer vermelha, marrom, arroxeada ou acinzentada. Sinta a aspereza ou o espessamento e pergunte pela coceira, mesmo sem vermelhidão. Histórico pessoal ou familiar de eczema, asma ou rinite alérgica aumenta a probabilidade de eczema. Um profissional pode avaliar outras causas."
+            ]
+          },
+          {
+            "heading": "Escolha cuidados que a criança consiga manter",
+            "paragraphs": [
+              "Use regularmente um hidratante sem enxágue e sem perfume, inclusive entre as crises. Espalhe com suavidade. Pergunte qual substituto do sabonete e qual rotina de higiene são adequados e que produto a criança pode levar à escola. Se um produto causar ardor persistente, peça uma alternativa.",
+              "Em um ensaio britânico, 550 crianças de seis meses a doze anos foram sorteadas para usar loção, creme, gel ou pomada. Nas dezesseis semanas, não houve diferença significativa na gravidade média do eczema entre os quatro grupos. Há espaço para escolher uma textura bem tolerada. Isso não significa que todos os ingredientes sirvam para todos ou que um hidratante sozinho trate toda crise."
+            ]
+          },
+          {
+            "heading": "Planeje o cuidado das placas inflamadas",
+            "paragraphs": [
+              "O hidratante ajuda a preservar a barreira da pele. Uma placa inflamada que coça pode precisar também de um anti-inflamatório, muitas vezes um corticoide tópico prescrito. Peça que o profissional mostre qual produto usar, sua potência, a quantidade, o local e por quanto tempo. O rosto e as dobras podem precisar de orientações diferentes das áreas mais espessas.",
+              "Se a crise persistir mesmo seguindo o plano, ou se a coceira prejudicar regularmente o sono ou a escola, marque uma reavaliação. Leve os produtos que usa e relate o ardor. Evite excluir alimentos ou solicitar painéis amplos de alergia por conta própria. Informe se uma reação se repete com determinado alimento para que seja avaliada."
+            ]
+          },
+          {
+            "heading": "Reconheça quando procurar atendimento urgente",
+            "paragraphs": [
+              "Secreção, pus, crostas ou piora súbita podem indicar infecção. Entre em contato prontamente com o profissional, principalmente em caso de febre ou mal-estar. Uma área dolorosa que piora rápido, com pequenas bolhas agrupadas ou feridas redondas e escavadas, pode ser eczema herpético. Essa infecção viral precisa de avaliação imediata no mesmo dia. Busque atendimento urgente mesmo sem febre, especialmente se houver feridas perto do olho."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Observe a coceira, a textura e o sono além da cor.",
+          "Use um hidratante bem tolerado e um plano escrito para as crises.",
+          "Procure ajuda no mesmo dia por bolhas dolorosas ou feridas redondas que pioram rapidamente."
+        ],
+        "faq": [
+          {
+            "q": "Quais crianças têm maior chance de dermatite atópica?",
+            "a": "Pode afetar qualquer criança. Histórico pessoal ou familiar de eczema, asma ou rinite alérgica aumenta a probabilidade, mas não define o diagnóstico."
+          },
+          {
+            "q": "Como ela aparece em crianças maiores e adolescentes?",
+            "a": "Placas ásperas que coçam podem atingir cotovelos, joelhos, punhos, tornozelos ou outras áreas. Coçar pode engrossar a pele e a cor varia com o tom de pele."
+          },
+          {
+            "q": "O que ajuda no dia a dia?",
+            "a": "Use regularmente um hidratante sem perfume e siga o plano combinado de higiene e cuidado das crises. Escolha um produto confortável para a criança. Peça reavaliação se a coceira continuar afetando o sono."
+          },
+          {
+            "q": "Quando pode ser preciso usar medicamento?",
+            "a": "Placas inflamadas podem precisar de um anti-inflamatório tópico além do hidratante. Pergunte como aplicar em cada área. Bolhas dolorosas que se espalham rapidamente ou feridas redondas exigem avaliação urgente no mesmo dia."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revistas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Use regularmente um hidratante sem enxágue, mesmo entre as crises.",
+            "Peça instruções claras para cada anti-inflamatório e cada parte do corpo.",
+            "Converse com o profissional sobre coceira persistente, suspeita de infecção ou reação a um alimento específico."
+          ],
+          "bemama": "A BeMama sugere levar os produtos habituais à consulta e mostrar qual placa coça a ponto de interromper o sono.",
+          "safety": "Procure avaliação imediata no mesmo dia se o eczema estiver doloroso e piorar rapidamente, com bolhas agrupadas ou feridas redondas, sobretudo perto dos olhos. Consulte prontamente se houver pus, crostas, febre ou mal-estar.",
+          "sources": [
+            {
+              "organization": "Academia Americana de Dermatologia",
+              "title": "Como a dermatite atópica varia com idade e tom de pele",
+              "url": "https://www.aad.org/public/diseases/eczema/types/atopic-dermatitis/symptoms"
+            },
+            {
+              "organization": "NICE",
+              "title": "Diagnóstico e tratamento do eczema atópico em menores de doze anos",
+              "url": "https://www.nice.org.uk/guidance/cg57/chapter/recommendations"
+            },
+            {
+              "organization": "Ridd e colaboradores, The Lancet Child & Adolescent Health",
+              "title": "Ensaio sobre quatro tipos de hidratante para eczema infantil",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/35617974/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5933.webp",
+    "heroAlt": {
+      "en": "A fingertip smooths moisturiser onto dry skin in the crease of a child’s elbow.",
+      "es": "Un dedo extiende crema hidratante sobre la piel seca del pliegue del codo de un niño.",
+      "fr": "Un doigt étale un soin hydratant sur la peau sèche du pli du coude d’un enfant.",
+      "pt": "Um dedo espalha hidratante sobre a pele seca na dobra do cotovelo de uma criança.",
+      "tr": "Bir parmak çocuğun dirsek kıvrımındaki kuru deriye nemlendirici sürüyor.",
+      "fa": "با نوک انگشت روی پوست خشک چین آرنج کودک مرطوب‌کننده می‌مالند.",
+      "ar": "طرف إصبع يوزع مرطباً على الجلد الجاف في ثنية مرفق طفل."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "When your child’s eczema changes with age",
+      "description": "Learn how itchy eczema can look on different skin tones and at different ages, how to care for a flare, and which changes need urgent medical attention."
+    },
+    "fa": {
+      "title": "وقتی اگزمای کودک با بزرگ شدنش تغییر می‌کند",
+      "description": "ببینید اگزمای خارش‌دار در سنین و رنگ‌های مختلف پوست چگونه دیده می‌شود، هنگام شعله‌ور شدن چه مراقبتی لازم است و چه تغییری به رسیدگی فوری نیاز دارد."
+    },
+    "ar": {
+      "title": "عندما تتغير إكزيما طفلك مع تقدمه في العمر",
+      "description": "تعرّف إلى أشكال الإكزيما المسببة للحكة في مختلف الأعمار وألوان البشرة، وكيفية العناية بالجلد خلال النوبة، وأي تغيرات تستدعي تقييماً طبياً عاجلاً."
+    },
+    "fr": {
+      "title": "Quand l’eczéma de votre enfant change avec l’âge",
+      "description": "Découvrez comment l’eczéma se manifeste selon l’âge et la couleur de peau, comment soigner une poussée et quels signes nécessitent un avis médical urgent."
+    },
+    "tr": {
+      "title": "Çocuğunuzun egzaması yaşla farklı görünmeye başladığında",
+      "description": "Egzamanın farklı yaşlarda ve cilt tonlarında nasıl göründüğünü, alevlenmede cilde nasıl bakım yapılacağını ve hangi değişikliklerin acil olduğunu öğrenin."
+    },
+    "es": {
+      "title": "Cuando el eccema de tu hijo cambia con la edad",
+      "description": "Conoce cómo puede verse el eccema a distintas edades y en distintos tonos de piel, cómo cuidar los brotes y qué cambios requieren atención médica urgente."
+    },
+    "pt": {
+      "title": "Quando o eczema do seu filho muda com a idade",
+      "description": "Saiba como o eczema pode aparecer em diferentes idades e tons de pele, como cuidar de uma crise e quais alterações exigem avaliação médica urgente."
+    }
+  }
+}

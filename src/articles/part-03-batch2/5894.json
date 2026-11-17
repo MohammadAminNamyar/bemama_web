@@ -1,0 +1,695 @@
+{
+  "sourceId": "5894",
+  "article": {
+    "slug": "baby-and-child/vitamin-a-deficiency-night-vision-in-children",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "When a child struggles to see at dusk: vitamin A deficiency",
+        "description": "Trouble seeing in low light can be a sign of vitamin A deficiency. Learn which diet and health details to share and when your child needs urgent eye care.",
+        "intro": "Your child moves easily around the house in daylight but holds your hand in a dim hallway they used to navigate alone. Describe that change to their clinician and arrange a prompt eye assessment. Trouble seeing in low light has several causes. Knowing what your child actually eats and whether they absorb nutrients well can help the team investigate.",
+        "sections": [
+          {
+            "heading": "What happens to the eyes",
+            "paragraphs": [
+              "Vitamin A helps the retina, the light-sensitive layer at the back of the eye, adapt to darkness. Difficulty seeing at dusk can be an early sign of deficiency. A child may avoid a dim room or bump into objects before they can explain what is wrong.",
+              "More severe deficiency can dry the surface of the eye. Foamy whitish patches called Bitot spots can appear on the membrane over the white of the eye. Severe disease can damage the cornea, the clear front of the eye, and cause permanent sight loss. Seek emergency eye care for sudden loss of vision. A painful eye or a newly cloudy cornea needs urgent assessment that day."
+            ]
+          },
+          {
+            "heading": "Who may have trouble getting enough",
+            "paragraphs": [
+              "Some children eat from a very narrow range of foods for a long time. Others have difficulty absorbing fat and the vitamins carried with it, for example with cystic fibrosis or certain intestinal conditions. Tell the clinician about ongoing diarrhoea, digestive surgery, a change in growth or problems obtaining foods your child will eat.",
+              "A case report described an eight-year-old whose diet had come to consist mainly of instant noodles. His weight had been fairly stable. He developed night vision loss, corneal damage and a very low vitamin A level. His sight improved with treatment and eye follow-up. This one child’s experience shows why a food history matters even without weight loss. It cannot tell you the cause of another child’s symptoms."
+            ]
+          },
+          {
+            "heading": "What to bring to the appointment",
+            "paragraphs": [
+              "Write down what your child has actually eaten on a few typical days, including fortified foods, drinks and supplements. Give an example of when their sight changed and whether they have trouble in daylight, too. The clinician may arrange an eye examination and a blood test for retinol. Infections can temporarily lower blood retinol, and levels may stay steady early in deficiency. The team interprets results alongside diet, symptoms and the examination.",
+              "Vitamin A also supports growth and immunity. Dry skin, acne, frequent infections or a wound that heals slowly have many causes. None on its own establishes deficiency. Ask about a persistent problem on its own merits rather than giving a supplement to see if it goes away."
+            ]
+          },
+          {
+            "heading": "Treatment and everyday sources",
+            "paragraphs": [
+              "If deficiency is suspected to be affecting the eyes, seek care promptly. A clinician can decide how urgently replacement is needed, which preparation to use and how to address the underlying cause. Eye damage may progress while a family waits for diet changes to help.",
+              "For everyday meals, eggs, dairy products and some fortified foods supply preformed vitamin A. The body can make vitamin A from plant pigments in foods such as sweet potato, carrots and dark leafy greens. Offer options your family can obtain and your child can manage. WHO recommends high-dose programmes for children aged 6–59 months in settings where deficiency is a public health problem. Ask your local health team which programme applies. High doses at home can harm a child."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Mention new difficulty seeing in low light, especially alongside a limited diet or problems absorbing nutrients.",
+          "Bring a short record of foods your child eats and any relevant digestive history.",
+          "Seek urgent eye care for pain or a newly cloudy cornea, and emergency care for sudden sight loss."
+        ],
+        "faq": [
+          {
+            "q": "What might be an early sign of vitamin A deficiency?",
+            "a": "New difficulty seeing in dim light can be a clue. Dry skin or eczema alone has many explanations. Tell a clinician about the change in vision and request an eye assessment."
+          },
+          {
+            "q": "Which eye changes suggest more severe deficiency?",
+            "a": "The eye surface can become very dry and develop foamy patches on the white part. Corneal clouding or damage can threaten sight. A new cloudy or painful eye needs assessment that day. Sudden vision loss is an emergency."
+          },
+          {
+            "q": "Does vitamin A deficiency affect fertility?",
+            "a": "Vitamin A has a role in reproduction, but future fertility cannot be inferred from a child’s eyesight, diet or skin. Adults with fertility concerns should seek an assessment rather than treating themselves with vitamin A."
+          },
+          {
+            "q": "Does a slow-healing wound mean my child needs vitamin A?",
+            "a": "No. Slow healing alone does not diagnose a deficiency. A clinician can examine the wound and consider nutrition, infection or other causes. Do not start high-dose supplements for a wound or for acne."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Report when and where you first noticed difficulty in low light.",
+            "Describe the foods your child eats and health conditions that may affect absorption.",
+            "Ask how treatment and repeat eye examinations will be arranged if deficiency is found."
+          ],
+          "bemama": "BeMama suggests noting one real example, such as newly needing help on familiar steps at dusk, to share alongside your child’s usual foods.",
+          "safety": "Sudden sight loss needs emergency eye care. Seek urgent assessment that day for a painful eye or newly cloudy cornea. Arrange prompt review of night vision changes and avoid giving high-dose vitamin A without clinical advice.",
+          "sources": [
+            {
+              "organization": "US National Institutes of Health, Office of Dietary Supplements",
+              "title": "Vitamin A, food sources, laboratory testing and deficiency risks",
+              "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+            },
+            {
+              "organization": "World Health Organization",
+              "title": "Night blindness and eye findings in vitamin A deficiency",
+              "url": "https://iris.who.int/bitstream/handle/10665/133705/WHO_NMH_NHD_EPG_14.4_eng.pdf"
+            },
+            {
+              "organization": "World Health Organization",
+              "title": "Vitamin A programmes for children aged 6–59 months",
+              "url": "https://www.who.int/tools/elena/interventions/vitamina-children"
+            },
+            {
+              "organization": "Cureus, clinical case report",
+              "title": "Vision loss in a child with vitamin A deficiency",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9767668/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "وقتی کودک در نور کم خوب نمی‌بیند؛ بررسی کمبود ویتامین آ",
+        "description": "دشواری دید در نور کم می‌تواند از نشانه‌های کمبود ویتامین آ باشد. بدانید چه جزئیاتی از تغذیه و سلامت کودک را بگویید و چه زمانی به معاینهٔ فوری چشم نیاز دارد.",
+        "intro": "فرزندتان روزها به‌راحتی در خانه رفت‌وآمد می‌کند، اما حالا در راهروی نیمه‌تاریکی که پیش‌تر تنها از آن می‌گذشت دست شما را می‌گیرد. این تغییر را برای پزشکش شرح دهید و زود برای معاینهٔ چشم اقدام کنید. مشکل دید در نور کم علت‌های گوناگونی دارد. اطلاع از آنچه کودک واقعاً می‌خورد و چگونگی جذب مواد مغذی به بررسی علت کمک می‌کند.",
+        "sections": [
+          {
+            "heading": "در چشم چه اتفاقی می‌افتد؟",
+            "paragraphs": [
+              "ویتامین آ به شبکیه، لایهٔ حساس به نور در پشت چشم، کمک می‌کند با تاریکی سازگار شود. دشواری دید هنگام غروب می‌تواند از نشانه‌های اولیهٔ کمبود باشد. شاید کودک پیش از آنکه بتواند مشکل را توضیح دهد، از اتاق کم‌نور دوری کند یا به اشیا برخورد کند.",
+              "کمبود شدیدتر می‌تواند سطح چشم را خشک کند. گاهی لکه‌های کف‌مانند سفیدرنگ به نام لکهٔ بیتو روی پردهٔ پوشانندهٔ سفیدی چشم ظاهر می‌شوند. در موارد شدید قرنیه، بخش شفاف جلوی چشم، آسیب می‌بیند و ممکن است دید برای همیشه از دست برود. برای از دست دادن ناگهانی دید فوراً به اورژانس مراجعه کنید. چشم دردناک یا قرنیه‌ای که تازه کدر شده به ارزیابی فوری در همان روز نیاز دارد."
+            ]
+          },
+          {
+            "heading": "چه کودکانی ممکن است ویتامین کافی دریافت نکنند؟",
+            "paragraphs": [
+              "بعضی کودکان مدتی طولانی فقط چند نوع غذا می‌خورند. بدن بعضی دیگر چربی و ویتامین‌های همراه آن را به‌خوبی جذب نمی‌کند، مثلاً در فیبروز کیستیک یا برخی بیماری‌های روده. اسهال مداوم، جراحی دستگاه گوارش، تغییر روند رشد یا دشواری تهیهٔ غذاهایی را که کودک می‌خورد با پزشک مطرح کنید.",
+              "در یک گزارش بالینی، غذای کودکی هشت‌ساله به‌تدریج تقریباً به رشتهٔ فرنگی فوری محدود شده بود. با اینکه وزنش نسبتاً ثابت مانده بود، دید در شب را از دست داد، قرنیه‌اش آسیب دید و میزان ویتامین آ بسیار پایین بود. پس از درمان و پیگیری چشم‌پزشکی دیدش بهتر شد. این تجربه اهمیت پرسیدن دربارهٔ غذاها حتی با وزن ثابت را نشان می‌دهد، اما علت نشانه‌های کودک دیگری را تعیین نمی‌کند."
+            ]
+          },
+          {
+            "heading": "برای ویزیت چه چیزهایی آماده کنیم؟",
+            "paragraphs": [
+              "غذاهایی را که کودک در چند روز معمول واقعاً خورده یادداشت کنید، از جمله خوراکی‌های غنی‌شده، نوشیدنی‌ها و مکمل‌ها. مثالی از تغییر دید بزنید و بگویید در روشنایی روز هم مشکلی دارد یا نه. پزشک ممکن است معاینهٔ چشم و آزمایش خون رتینول بخواهد. عفونت می‌تواند رتینول خون را موقتاً پایین بیاورد و در اوایل کمبود هم ممکن است مقدار آن هنوز تغییر نکرده باشد. نتیجه در کنار غذاها، نشانه‌ها و معاینه تفسیر می‌شود.",
+              "ویتامین آ برای رشد و کارکرد ایمنی هم اهمیت دارد. پوست خشک، آکنه، عفونت‌های مکرر یا زخمی که دیر خوب می‌شود علت‌های متعددی دارند و هیچ‌یک به‌تنهایی کمبود را ثابت نمی‌کند. دربارهٔ مشکل ماندگار از پزشک سؤال کنید و برای آزمودن اینکه برطرف می‌شود یا نه، خودسرانه مکمل ندهید."
+            ]
+          },
+          {
+            "heading": "درمان و منابع غذایی روزمره",
+            "paragraphs": [
+              "اگر احتمال کمبود ویتامین آ با درگیری چشم مطرح است، زود مراجعه کنید. پزشک میزان فوریت جبران کمبود، فرآوردهٔ مناسب و نحوهٔ رسیدگی به علت زمینه‌ای را تعیین می‌کند. منتظر ماندن برای اثر تغییر غذا ممکن است فرصت پیشگیری از آسیب بیشتر چشم را از بین ببرد.",
+              "در وعده‌های روزمره تخم‌مرغ، لبنیات و بعضی غذاهای غنی‌شده ویتامین آ از پیش ساخته‌شده دارند. بدن از رنگدانه‌های گیاهی در سیب‌زمینی شیرین، هویج و سبزی‌های برگ‌تیره هم ویتامین آ می‌سازد. از میان غذاهای در دسترس، گزینه‌هایی پیشنهاد کنید که کودک می‌تواند بخورد. سازمان جهانی بهداشت در مناطقی که کمبود ویتامین آ مشکل بهداشت عمومی است برنامهٔ مصرف دوز بالا را برای کودکان ۶ تا ۵۹ ماهه توصیه می‌کند. از مرکز بهداشت دربارهٔ برنامهٔ محل زندگی خود بپرسید. مصرف خودسرانهٔ دوز بالا در خانه ممکن است مضر باشد."
+            ]
+          }
+        ],
+        "takeaways": [
+          "دشواری تازه در دید کم‌نور را مطرح کنید، به‌خصوص اگر کودک غذاهای محدودی می‌خورد یا در جذب مواد مغذی مشکل دارد.",
+          "فهرست کوتاهی از غذاهای واقعی کودک و سابقهٔ گوارشی مرتبط را همراه ببرید.",
+          "چشم دردناک یا قرنیهٔ تازه کدرشده نیاز به رسیدگی فوری دارد. از دست دادن ناگهانی دید یک وضعیت اورژانسی است."
+        ],
+        "faq": [
+          {
+            "q": "از نشانه‌های اولیهٔ کمبود ویتامین آ چه می‌تواند باشد؟",
+            "a": "دشواری تازه در دیدن با نور کم می‌تواند سرنخی باشد. خشکی پوست یا اگزما به‌تنهایی علت‌های زیادی دارد. تغییر دید را با پزشک در میان بگذارید و برای معاینهٔ چشم اقدام کنید."
+          },
+          {
+            "q": "چه تغییرهایی نشان‌دهندهٔ کمبود شدیدتر است؟",
+            "a": "ممکن است سطح چشم بسیار خشک شود و روی بخش سفید آن لکه‌های کف‌مانند پدیدار شود. کدورت یا آسیب قرنیه می‌تواند بینایی را تهدید کند. چشم تازه کدرشده یا دردناک باید همان روز ارزیابی شود. از دست دادن ناگهانی دید اورژانسی است."
+          },
+          {
+            "q": "آیا کمبود ویتامین آ بر باروری اثر دارد؟",
+            "a": "این ویتامین در تولیدمثل نقش دارد، اما از وضعیت دید، پوست یا تغذیهٔ کودک نمی‌توان دربارهٔ باروری آینده‌اش نتیجه گرفت. بزرگسالانی که نگران باروری‌اند باید برای ارزیابی مراجعه کنند و خودسرانه ویتامین آ مصرف نکنند."
+          },
+          {
+            "q": "اگر زخم کودک دیر خوب شود، به ویتامین آ نیاز دارد؟",
+            "a": "لزومی ندارد. دیر خوب شدن زخم به‌تنهایی کمبود را نشان نمی‌دهد. پزشک می‌تواند زخم را معاینه و تغذیه، عفونت و علت‌های دیگر را بررسی کند. برای زخم یا آکنه مکمل دوز بالا را خودسرانه شروع نکنید."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۶ نوامبر ۲۰۲۶ مرور شد",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "بگویید نخستین بار چه وقت و کجا متوجه مشکل دید در نور کم شدید.",
+            "غذاهایی را که کودک می‌خورد و بیماری‌هایی را که ممکن است جذب مواد مغذی را مختل کنند شرح دهید.",
+            "بپرسید اگر کمبود تأیید شد، برنامهٔ درمان و معاینهٔ دوبارهٔ چشم چیست."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند یک مثال واقعی، مثل نیاز تازه به کمک برای پایین رفتن از پله‌های آشنا هنگام غروب، یادداشت کنید و همراه با فهرست غذاهای معمول کودک به پزشک بگویید.",
+          "safety": "برای از دست دادن ناگهانی دید به اورژانس مراجعه کنید. درد چشم یا کدورت تازهٔ قرنیه به ارزیابی فوری در همان روز نیاز دارد. تغییر دید شب را زود پیگیری کنید و بدون راهنمایی پزشک ویتامین آ با دوز بالا ندهید.",
+          "sources": [
+            {
+              "organization": "دفتر مکمل‌های غذایی، مؤسسه‌های ملی سلامت آمریکا",
+              "title": "ویتامین آ، منابع غذایی، آزمایش‌ها و عوامل خطر کمبود",
+              "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+            },
+            {
+              "organization": "سازمان جهانی بهداشت",
+              "title": "شب‌کوری و یافته‌های چشمی در کمبود ویتامین آ",
+              "url": "https://iris.who.int/bitstream/handle/10665/133705/WHO_NMH_NHD_EPG_14.4_eng.pdf"
+            },
+            {
+              "organization": "سازمان جهانی بهداشت",
+              "title": "برنامه‌های ویتامین آ برای کودکان ۶ تا ۵۹ ماهه",
+              "url": "https://www.who.int/tools/elena/interventions/vitamina-children"
+            },
+            {
+              "organization": "گزارش بالینی مجلهٔ کیوریوس",
+              "title": "از دست دادن دید در کودکی با کمبود ویتامین آ",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9767668/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "حين يصعب على الطفل أن يرى عند الغسق: نقص فيتامين أ",
+        "description": "قد تكون صعوبة الرؤية في الضوء الخافت علامة على نقص فيتامين أ. تعرّف إلى تفاصيل الغذاء والصحة التي تهم الطبيب ومتى يحتاج طفلك إلى فحص عاجل للعين.",
+        "intro": "يتحرك طفلك بسهولة في المنزل نهارًا لكنه صار يمسك بيدك في ممر خافت الضوء كان يعبره وحده. صف هذا التغير لطبيبه ورتب فحصًا قريبًا للعين. لصعوبة الرؤية في الضوء الخافت أسباب عدة. ومعرفة ما يأكله الطفل بالفعل ومدى قدرته على امتصاص المغذيات تساعد الفريق على البحث عن السبب.",
+        "sections": [
+          {
+            "heading": "ماذا يحدث في العينين؟",
+            "paragraphs": [
+              "يساعد فيتامين أ الشبكية، وهي الطبقة الحساسة للضوء في مؤخرة العين، على التكيف مع الظلام. قد تكون صعوبة الرؤية عند الغسق علامة مبكرة على نقصه. وقد يتجنب الطفل غرفة معتمة أو يصطدم بالأشياء قبل أن يستطيع شرح المشكلة.",
+              "قد يجف سطح العين إذا اشتد النقص. وقد تظهر بقع رغوية بيضاء تُسمّى بقع بيتو على الغشاء الذي يغطي بياض العين. وفي الحالات الشديدة قد تتضرر القرنية، وهي الجزء الشفاف في مقدمة العين، وقد يحدث فقد دائم للبصر. اطلب رعاية عينية طارئة عند فقد البصر فجأة. أما الألم في العين أو تعتم القرنية حديثًا فيستدعي تقييمًا عاجلًا في اليوم نفسه."
+            ]
+          },
+          {
+            "heading": "من قد لا يحصل على كفايته؟",
+            "paragraphs": [
+              "يقتصر طعام بعض الأطفال على أنواع قليلة جدًا مدة طويلة. ويصعب على آخرين امتصاص الدهون والفيتامينات التي تحملها، كما في التليف الكيسي أو بعض اضطرابات الأمعاء. أخبر الطبيب عن الإسهال المستمر، أو جراحة سابقة في الجهاز الهضمي، أو تغير النمو، أو صعوبة توفير الأطعمة التي يقبلها الطفل.",
+              "وصف تقرير حالة طفل في الثامنة صار يعتمد أساسًا على الشعيرية سريعة التحضير. ظل وزنه مستقرًا نسبيًا، لكنه فقد الرؤية الليلية وتضررت قرنيته وكان مستوى فيتامين أ منخفضًا جدًا. تحسن بصره مع العلاج والمتابعة العينية. يوضح هذا المثال أهمية السؤال عن الطعام حتى دون نقص الوزن. ولا يحدد سبب الأعراض عند طفل آخر."
+            ]
+          },
+          {
+            "heading": "ماذا تحضر إلى الموعد؟",
+            "paragraphs": [
+              "دوّن ما أكله طفلك فعلًا خلال بضعة أيام عادية، بما في ذلك الأغذية المدعمة والمشروبات والمكملات. أعط مثالًا على تغير الرؤية واذكر إن كان يواجه مشكلة نهارًا أيضًا. قد يطلب الطبيب فحصًا للعين وتحليل الريتينول في الدم. قد تخفض العدوى مستوى الريتينول مؤقتًا، وقد يبقى مستقرًا في بداية النقص. لذا تُقرأ النتيجة مع الغذاء والأعراض والفحص.",
+              "يدعم فيتامين أ النمو والمناعة أيضًا. لجفاف الجلد وحب الشباب وتكرر العدوى وبطء التئام الجرح أسباب كثيرة. لا يثبت أي منها بمفرده وجود نقص. اطلب تقييم المشكلة المستمرة بذاتها ولا تعطِ مكملًا لتجربة ما إذا كانت ستزول."
+            ]
+          },
+          {
+            "heading": "العلاج والمصادر اليومية",
+            "paragraphs": [
+              "إذا اشتبهت في أن نقص الفيتامين يؤثر في العينين فاطلب الرعاية سريعًا. يستطيع الطبيب تحديد مدى استعجال تعويض النقص والمستحضر المناسب وكيفية معالجة السبب. قد يتفاقم الضرر العيني أثناء انتظار تحسن الطفل بتغيير الطعام وحده.",
+              "يوفر البيض ومشتقات الحليب وبعض الأغذية المدعمة فيتامين أ الجاهز. ويستطيع الجسم صنعه من أصباغ نباتية في البطاطا الحلوة والجزر والخضراوات الورقية الداكنة. اختر أطعمة تستطيع الأسرة توفيرها ويقدر الطفل على أكلها. توصي منظمة الصحة العالمية ببرامج جرعات عالية للأطفال بين ٦ و٥٩ شهرًا في المناطق التي يمثل فيها النقص مشكلة صحة عامة. اسأل فريق الصحة المحلي عن البرنامج المناسب. فالجرعات العالية في المنزل قد تضر الطفل."
+            ]
+          }
+        ],
+        "takeaways": [
+          "أبلغ عن صعوبة جديدة في الرؤية عند خفوت الضوء، خصوصًا مع محدودية الغذاء أو صعوبة الامتصاص.",
+          "أحضر سجلًا موجزًا للطعام الذي يأكله الطفل وتاريخه المرضي الهضمي إن وُجد.",
+          "اطلب فحصًا عاجلًا لألم العين أو لتعتم جديد في القرنية، ورعاية طارئة لفقد البصر المفاجئ."
+        ],
+        "faq": [
+          {
+            "q": "ما إحدى العلامات المبكرة لنقص فيتامين أ؟",
+            "a": "قد تكون صعوبة الرؤية الجديدة في إضاءة خافتة مؤشرًا. ولجفاف الجلد أو الإكزيما وحدهما تفسيرات عديدة. أخبر الطبيب بتغير الرؤية واطلب فحصًا للعين."
+          },
+          {
+            "q": "ما التغيرات العينية التي توحي بنقص أشد؟",
+            "a": "قد يجف سطح العين بشدة وتظهر بقع رغوية على البياض. وقد يهدد تعتم القرنية أو تلفها البصر. تحتاج العين المؤلمة أو المعتمة حديثًا إلى تقييم في اليوم نفسه، وفقد الرؤية المفاجئ حالة طارئة."
+          },
+          {
+            "q": "هل يؤثر نقص فيتامين أ في الخصوبة؟",
+            "a": "للفيتامين دور في الإنجاب، لكن لا يمكن استنتاج خصوبة الطفل مستقبلًا من بصره أو طعامه أو جلده. وينبغي للبالغين القلقين بشأن الخصوبة طلب تقييم بدل تناول الفيتامين من تلقاء أنفسهم."
+          },
+          {
+            "q": "هل يعني بطء التئام جرح طفلي أنه يحتاج إلى فيتامين أ؟",
+            "a": "لا. بطء الالتئام وحده لا يشخّص النقص. يستطيع الطبيب فحص الجرح والنظر في التغذية والعدوى وغيرها من الأسباب. لا تبدأ جرعات عالية لعلاج جرح أو حب الشباب."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "اذكر متى وأين لاحظت أول مرة صعوبة الرؤية في إضاءة خافتة.",
+            "صف ما يأكله الطفل وأي مشكلة صحية قد تؤثر في الامتصاص.",
+            "اسأل عن ترتيب العلاج وإعادة فحص العين إذا ثبت النقص."
+          ],
+          "bemama": "تقترح بي ماما تدوين مثال واقعي، مثل حاجة الطفل حديثًا إلى المساعدة على درج مألوف عند الغسق، وذكره إلى جانب أطعمتِه المعتادة.",
+          "safety": "يستدعي فقد البصر المفاجئ رعاية عينية طارئة. اطلب تقييمًا عاجلًا في اليوم نفسه لألم العين أو تعتم جديد في القرنية. تابع سريعًا أي تغير في الرؤية الليلية ولا تعطِ جرعات عالية من فيتامين أ من دون توجيه طبي.",
+          "sources": [
+            {
+              "organization": "مكتب المكملات الغذائية، المعاهد الوطنية الأمريكية للصحة",
+              "title": "فيتامين أ ومصادره الغذائية وفحوصه وعوامل خطر نقصه",
+              "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+            },
+            {
+              "organization": "منظمة الصحة العالمية",
+              "title": "العشى الليلي والعلامات العينية عند نقص فيتامين أ",
+              "url": "https://iris.who.int/bitstream/handle/10665/133705/WHO_NMH_NHD_EPG_14.4_eng.pdf"
+            },
+            {
+              "organization": "منظمة الصحة العالمية",
+              "title": "برامج فيتامين أ للأطفال من عمر ٦ إلى ٥٩ شهرًا",
+              "url": "https://www.who.int/tools/elena/interventions/vitamina-children"
+            },
+            {
+              "organization": "تقرير حالة سريرية في مجلة كيوريوس",
+              "title": "فقدان الرؤية لدى طفل يعاني من نقص فيتامين أ",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9767668/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Quand un enfant voit mal au crépuscule : la carence en vitamine A",
+        "description": "Une difficulté à voir dans la pénombre peut évoquer un manque de vitamine A. Quels éléments signaler sur la santé et les repas, et quand consulter en urgence ?",
+        "intro": "Votre enfant se déplace facilement chez vous en plein jour, mais prend votre main dans un couloir sombre qu’il traversait seul auparavant. Décrivez ce changement à son médecin et faites examiner ses yeux rapidement. Plusieurs raisons peuvent expliquer une difficulté à voir dans la pénombre. Savoir ce que votre enfant mange réellement et comment il absorbe les nutriments aide à en rechercher la cause.",
+        "sections": [
+          {
+            "heading": "Ce qui se passe dans les yeux",
+            "paragraphs": [
+              "La vitamine A aide la rétine, la couche sensible à la lumière au fond de l’œil, à s’adapter à l’obscurité. Une difficulté à voir au crépuscule peut être un signe précoce de carence. Un enfant peut éviter une pièce sombre ou se cogner avant de savoir expliquer ce qui le gêne.",
+              "Une carence plus marquée peut assécher la surface de l’œil. Des plaques blanchâtres d’aspect mousseux, appelées taches de Bitot, peuvent apparaître sur la membrane qui couvre le blanc de l’œil. Les formes graves peuvent léser la cornée, la partie transparente à l’avant de l’œil, et entraîner une perte de vision définitive. Une perte soudaine de vision relève des urgences. Un œil douloureux ou une cornée qui vient de se troubler exige un examen urgent le jour même."
+            ]
+          },
+          {
+            "heading": "Quels enfants risquent d’en manquer ?",
+            "paragraphs": [
+              "Certains enfants ne mangent qu’un petit nombre d’aliments pendant une longue période. D’autres absorbent difficilement les graisses et les vitamines qu’elles transportent, par exemple en cas de mucoviscidose ou de certaines maladies intestinales. Parlez d’une diarrhée persistante, d’une opération digestive, d’un changement dans la croissance ou de difficultés pour se procurer les aliments que l’enfant accepte.",
+              "Des médecins ont décrit le cas d’un enfant de huit ans qui en était venu à manger surtout des nouilles instantanées. Son poids était resté assez stable. Il a perdu la vision nocturne et développé des lésions de la cornée, avec un taux de vitamine A très bas. Sa vue s’est améliorée avec le traitement et le suivi ophtalmologique. Ce cas illustre l’intérêt de connaître les repas même sans perte de poids. Il ne permet pas de déterminer la cause des symptômes d’un autre enfant."
+            ]
+          },
+          {
+            "heading": "Ce que vous pouvez apporter au rendez-vous",
+            "paragraphs": [
+              "Notez ce que votre enfant a vraiment mangé pendant quelques journées ordinaires, y compris les aliments enrichis, boissons et compléments. Donnez un exemple de changement de vision et précisez s’il voit mal aussi le jour. Le médecin peut demander un examen des yeux et un dosage du rétinol sanguin. Les infections peuvent abaisser temporairement cette valeur, tandis qu’elle peut rester stable au début d’une carence. L’équipe interprète le résultat avec les symptômes, l’alimentation et l’examen.",
+              "La vitamine A participe aussi à la croissance et à l’immunité. Une peau sèche, de l’acné, des infections fréquentes ou une plaie qui cicatrise lentement ont de nombreuses causes. Aucun de ces signes ne suffit à établir une carence. Demandez un avis sur le problème qui persiste au lieu de tenter un complément pour voir s’il disparaît."
+            ]
+          },
+          {
+            "heading": "Le traitement et les aliments du quotidien",
+            "paragraphs": [
+              "Si une carence risque de toucher les yeux, consultez rapidement. Un professionnel peut évaluer l’urgence de remplacer la vitamine, choisir la préparation adaptée et traiter la cause. Des lésions oculaires peuvent progresser pendant que l’on attend les effets d’un changement d’alimentation.",
+              "Les œufs, les produits laitiers et certains aliments enrichis apportent de la vitamine A préformée. L’organisme peut aussi la fabriquer à partir des pigments de la patate douce, des carottes et des légumes à feuilles vert foncé. Proposez des aliments auxquels votre famille a accès et que l’enfant arrive à manger. L’OMS recommande des programmes à forte dose pour les enfants de 6 à 59 mois là où la carence représente un problème de santé publique. Demandez à l’équipe locale si un programme vous concerne. Des doses élevées données de votre propre initiative peuvent être nocives."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Signalez une difficulté récente à voir dans la pénombre, surtout en cas d’alimentation restreinte ou de mauvaise absorption des nutriments.",
+          "Apportez une courte liste des aliments consommés et des antécédents digestifs utiles.",
+          "Demandez une consultation urgente pour un œil douloureux ou une cornée devenue trouble, et allez aux urgences en cas de perte soudaine de vision."
+        ],
+        "faq": [
+          {
+            "q": "Quel signe précoce peut évoquer une carence en vitamine A ?",
+            "a": "Une nouvelle difficulté à voir dans la pénombre peut mettre sur la piste. Une peau sèche ou un eczéma isolé a de nombreuses explications. Signalez le changement de vision et demandez un examen des yeux."
+          },
+          {
+            "q": "Quelles atteintes des yeux évoquent une carence plus sévère ?",
+            "a": "La surface de l’œil peut devenir très sèche et des plaques mousseuses apparaître sur sa partie blanche. Une cornée trouble ou lésée peut menacer la vision. Un œil douloureux ou qui vient de se troubler doit être examiné le jour même. Une perte soudaine de la vue est une urgence."
+          },
+          {
+            "q": "Une carence en vitamine A affecte-t-elle la fertilité ?",
+            "a": "La vitamine A intervient dans la reproduction. La vue, l’alimentation ou la peau d’un enfant ne permettent toutefois pas de prédire sa fertilité future. Un adulte inquiet pour sa fertilité peut consulter au lieu de se traiter lui-même avec de la vitamine A."
+          },
+          {
+            "q": "Une plaie qui cicatrise lentement signifie-t-elle que mon enfant manque de vitamine A ?",
+            "a": "Non. Une cicatrisation lente ne suffit pas à diagnostiquer une carence. Le médecin peut examiner la plaie et envisager des facteurs nutritionnels, une infection ou d’autres causes. Ne donnez pas de compléments à forte dose pour une plaie ou de l’acné."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Précisez où et quand vous avez remarqué la difficulté à voir dans la pénombre.",
+            "Décrivez les aliments que mange votre enfant et les maladies susceptibles de gêner l’absorption.",
+            "Demandez comment s’organiseront le traitement et les contrôles des yeux si la carence est confirmée."
+          ],
+          "bemama": "BeMama suggère de noter un exemple concret, comme avoir soudain besoin d’aide dans un escalier connu au crépuscule, et d’en parler en décrivant les repas habituels.",
+          "safety": "Une perte soudaine de vision nécessite des soins oculaires d’urgence. Faites examiner le jour même un œil douloureux ou une cornée devenue trouble. Consultez rapidement si la vision nocturne change et ne donnez pas de fortes doses de vitamine A sans avis médical.",
+          "sources": [
+            {
+              "organization": "Bureau des compléments alimentaires des Instituts nationaux de la santé des États-Unis",
+              "title": "Vitamine A, sources alimentaires, analyses et risques de carence",
+              "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+            },
+            {
+              "organization": "Organisation mondiale de la Santé",
+              "title": "Cécité nocturne et signes oculaires de la carence en vitamine A",
+              "url": "https://iris.who.int/bitstream/handle/10665/133705/WHO_NMH_NHD_EPG_14.4_eng.pdf"
+            },
+            {
+              "organization": "Organisation mondiale de la Santé",
+              "title": "Programmes de vitamine A pour les enfants de 6 à 59 mois",
+              "url": "https://www.who.int/tools/elena/interventions/vitamina-children"
+            },
+            {
+              "organization": "Observation clinique publiée dans la revue Cureus",
+              "title": "Perte de vision chez un enfant présentant une carence en vitamine A",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9767668/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Çocuk alacakaranlıkta görmekte zorlanıyorsa: A vitamini eksikliği",
+        "description": "Loş ışıkta görme güçlüğü A vitamini eksikliğine işaret edebilir. Hekime beslenme ve sağlıkla ilgili neler anlatacağınızı, ne zaman acile gideceğinizi öğrenin.",
+        "intro": "Çocuğunuz gündüz evde rahatça dolaşıyor ama eskiden tek başına geçtiği loş koridorda artık elinizi tutuyor. Bu değişikliği hekimine anlatın ve gecikmeden göz muayenesi ayarlayın. Az ışıkta görme güçlüğünün pek çok nedeni vardır. Çocuğun ne yediğini ve besinleri iyi emip ememediğini bilmek nedenin araştırılmasına yardımcı olur.",
+        "sections": [
+          {
+            "heading": "Gözlerde neler olur?",
+            "paragraphs": [
+              "A vitamini, gözün arkasındaki ışığa duyarlı tabaka olan retinanın karanlığa uyum sağlamasına yardımcı olur. Alacakaranlıkta görmekte zorlanma eksikliğin erken belirtisi olabilir. Çocuk ne olduğunu anlatamadan önce loş bir odadan kaçınabilir veya eşyalara çarpabilir.",
+              "Daha ileri eksiklik göz yüzeyini kurutabilir. Gözün beyaz kısmını örten zarda Bitot lekesi adı verilen köpüksü beyazımsı alanlar oluşabilir. Ağır hastalık gözün önündeki saydam tabakaya, yani korneaya, zarar verebilir ve kalıcı görme kaybına yol açabilir. Ani görme kaybında acil servise başvurun. Gözde ağrı veya korneada yeni gelişen bulanıklaşma aynı gün acil değerlendirme gerektirir."
+            ]
+          },
+          {
+            "heading": "Hangi çocuklar yeterince alamayabilir?",
+            "paragraphs": [
+              "Bazı çocuklar uzun süre çok az çeşitte besin tüketir. Bazılarında ise örneğin kistik fibroz veya belirli bağırsak hastalıklarında yağların ve yağla taşınan vitaminlerin emilimi bozulabilir. Süren ishal, geçirilmiş sindirim sistemi ameliyatı, büyümede değişiklik veya çocuğun yiyebileceği besinlere erişmekte güçlük varsa hekime anlatın.",
+              "Bir olgu sunumunda çoğunlukla hazır erişteyle beslenmeye başlayan sekiz yaşında bir çocuk anlatıldı. Kilosu pek değişmediği hâlde gece görmesi bozulmuş, korneası hasar görmüş ve A vitamini düzeyi çok düşük bulunmuştu. Tedavi ve göz takibiyle görmesi düzeldi. Bu tek örnek, kilo kaybı olmadan da beslenmeyi sormanın önemini gösterir. Başka bir çocuğun belirtilerini açıklamaz."
+            ]
+          },
+          {
+            "heading": "Randevuya neler götürmeli?",
+            "paragraphs": [
+              "Çocuğunuzun birkaç olağan günde gerçekte neler yediğini, zenginleştirilmiş yiyecekleri, içecekleri ve takviyeleri de ekleyerek yazın. Görmesindeki değişikliği bir örnekle anlatın ve gündüz de zorlanıp zorlanmadığını belirtin. Hekim göz muayenesi ve kanda retinol ölçümü isteyebilir. Enfeksiyonlar kan retinolünü geçici olarak düşürebilir; eksikliğin erken döneminde ise düzey henüz değişmeyebilir. Sonuç beslenme, belirtiler ve muayeneyle birlikte değerlendirilir.",
+              "A vitamini büyümeyi ve bağışıklık işlevlerini de destekler. Cilt kuruluğu, akne, sık enfeksiyon veya yavaş iyileşen bir yaranın birçok olası nedeni vardır. Hiçbiri tek başına eksikliği kanıtlamaz. Düzelip düzelmeyeceğini görmek için takviye vermek yerine süren sorunu hekime danışın."
+            ]
+          },
+          {
+            "heading": "Tedavi ve günlük besin kaynakları",
+            "paragraphs": [
+              "Eksikliğin gözleri etkilediğinden şüpheleniliyorsa gecikmeden başvurun. Hekim vitaminin ne kadar acil verilmesi gerektiğini, uygun ürünü ve altta yatan nedenin nasıl ele alınacağını değerlendirebilir. Aile beslenme değişikliğinin etkisini beklerken göz hasarı ilerleyebilir.",
+              "Yumurta, süt ürünleri ve bazı zenginleştirilmiş besinler önceden oluşmuş A vitamini sağlar. Vücut tatlı patates, havuç ve koyu yeşil yapraklı sebzelerdeki bitki pigmentlerinden de A vitamini üretebilir. Ailenizin erişebildiği ve çocuğun yiyebildiği seçenekleri sunun. Dünya Sağlık Örgütü, eksikliğin halk sağlığı sorunu olduğu yerlerde 6–59 aylık çocuklar için yüksek doz programları önerir. Bölgenize uygun uygulamayı sağlık ekibine sorun. Evde kendi başınıza yüksek doz vermek çocuğa zarar verebilir."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Özellikle beslenme çok sınırlıysa veya emilim sorunu varsa yeni başlayan loş ışıkta görme güçlüğünü bildirin.",
+          "Çocuğun yediği besinlerin kısa bir listesini ve ilgili sindirim sistemi öyküsünü getirin.",
+          "Göz ağrısı veya yeni kornea bulanıklığı için aynı gün acil muayene, ani görme kaybı için hemen acil yardım alın."
+        ],
+        "faq": [
+          {
+            "q": "A vitamini eksikliğinin erken bir belirtisi ne olabilir?",
+            "a": "Loş ışıkta yeni başlayan görme güçlüğü bir ipucu olabilir. Tek başına cilt kuruluğu veya egzamanın pek çok açıklaması vardır. Görmedeki değişimi hekime anlatıp göz muayenesi isteyin."
+          },
+          {
+            "q": "Hangi göz değişiklikleri daha ağır eksikliği düşündürür?",
+            "a": "Göz yüzeyi çok kuruyabilir ve beyaz kısımda köpüksü lekeler oluşabilir. Korneada bulanıklaşma veya hasar görmeyi tehdit edebilir. Göz ağrısı veya yeni bulanıklaşma aynı gün değerlendirilmelidir. Ani görme kaybı acil bir durumdur."
+          },
+          {
+            "q": "A vitamini eksikliği doğurganlığı etkiler mi?",
+            "a": "A vitamininin üremede rolü vardır, ancak bir çocuğun gelecekteki doğurganlığı görmesinden, beslenmesinden ya da cildinden anlaşılamaz. Doğurganlıkla ilgili kaygısı olan yetişkinler kendi kendine A vitamini almak yerine değerlendirme istemelidir."
+          },
+          {
+            "q": "Yaranın yavaş iyileşmesi çocuğumun A vitaminine ihtiyacı olduğunu gösterir mi?",
+            "a": "Hayır. Yavaş iyileşme tek başına eksiklik tanısı koydurmaz. Hekim yarayı muayene ederek beslenme, enfeksiyon veya başka nedenleri değerlendirebilir. Yara veya akne için kendi başınıza yüksek doz takviye başlatmayın."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Loş ışıkta görme güçlüğünü ilk ne zaman ve nerede fark ettiğinizi söyleyin.",
+            "Çocuğun yediği yiyecekleri ve emilimi etkileyebilecek sağlık sorunlarını anlatın.",
+            "Eksiklik saptanırsa tedavinin ve sonraki göz muayenelerinin nasıl düzenleneceğini sorun."
+          ],
+          "bemama": "BeMama, akşam karanlığında bildiği merdivenleri inerken ilk kez yardıma ihtiyaç duyması gibi gerçek bir örneği yazmanızı ve olağan beslenmesiyle birlikte anlatmanızı önerir.",
+          "safety": "Ani görme kaybında hemen acil servise başvurun. Göz ağrısı veya yeni kornea bulanıklığı aynı gün acil değerlendirme gerektirir. Gece görmesindeki değişiklikler için gecikmeden muayene ayarlayın ve hekim önermedikçe yüksek doz A vitamini vermeyin.",
+          "sources": [
+            {
+              "organization": "ABD Ulusal Sağlık Enstitüleri, Besin Takviyeleri Ofisi",
+              "title": "A vitamini, besin kaynakları, laboratuvar testleri ve eksiklik riskleri",
+              "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+            },
+            {
+              "organization": "Dünya Sağlık Örgütü",
+              "title": "A vitamini eksikliğinde gece körlüğü ve göz bulguları",
+              "url": "https://iris.who.int/bitstream/handle/10665/133705/WHO_NMH_NHD_EPG_14.4_eng.pdf"
+            },
+            {
+              "organization": "Dünya Sağlık Örgütü",
+              "title": "6–59 aylık çocuklar için A vitamini programları",
+              "url": "https://www.who.int/tools/elena/interventions/vitamina-children"
+            },
+            {
+              "organization": "Cureus dergisinde klinik olgu sunumu",
+              "title": "A vitamini eksikliği olan bir çocukta görme kaybı",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9767668/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Cuando a un niño le cuesta ver al anochecer: falta de vitamina A",
+        "description": "Ver mal con poca luz puede ser señal de falta de vitamina A. Qué datos sobre dieta y salud conviene contar y cuándo buscar atención ocular urgente.",
+        "intro": "Tu hijo se mueve sin problemas en casa de día, pero ahora te toma de la mano en un pasillo poco iluminado que antes recorría solo. Describe ese cambio al profesional que le atiende y pide una revisión ocular pronta. Hay varias causas de la dificultad para ver con poca luz. Saber qué come realmente y si absorbe bien los nutrientes ayuda a investigar el problema.",
+        "sections": [
+          {
+            "heading": "Qué les ocurre a los ojos",
+            "paragraphs": [
+              "La vitamina A ayuda a la retina, la capa sensible a la luz situada al fondo del ojo, a adaptarse a la oscuridad. La dificultad para ver al anochecer puede ser una señal temprana de déficit. Un niño puede empezar a evitar una habitación oscura o a tropezar antes de saber explicar qué pasa.",
+              "Un déficit más grave puede resecar la superficie del ojo. Pueden aparecer manchas blanquecinas y espumosas, llamadas manchas de Bitot, en la membrana que recubre la parte blanca. En casos graves puede dañarse la córnea, la superficie transparente anterior, y perderse visión de forma permanente. Una pérdida repentina de visión requiere atención de emergencia. El dolor ocular o una córnea que acaba de volverse opaca requieren valoración urgente ese mismo día."
+            ]
+          },
+          {
+            "heading": "Quién puede tener dificultades para obtener suficiente",
+            "paragraphs": [
+              "Algunos niños comen durante mucho tiempo una variedad muy limitada de alimentos. Otros tienen dificultad para absorber las grasas y las vitaminas que las acompañan, por ejemplo por fibrosis quística o ciertas afecciones intestinales. Cuenta si hay diarrea persistente, antecedentes de cirugía digestiva, cambios en el crecimiento o dificultad para conseguir alimentos que acepte.",
+              "Un informe describió a un niño de ocho años que había pasado a comer principalmente fideos instantáneos. Su peso seguía bastante estable. Perdió visión nocturna, sufrió daños en la córnea y presentaba un nivel muy bajo de vitamina A. Su visión mejoró con tratamiento y seguimiento oftalmológico. Su caso ilustra el valor de preguntar por la dieta incluso con un peso estable, pero no identifica la causa de los síntomas de otro niño."
+            ]
+          },
+          {
+            "heading": "Qué llevar a la consulta",
+            "paragraphs": [
+              "Anota lo que realmente ha comido en unos días típicos, incluidos alimentos enriquecidos, bebidas y suplementos. Da un ejemplo de cuándo cambió su visión y menciona si ve mal también de día. El profesional puede solicitar una exploración ocular y un análisis de retinol en sangre. Una infección puede reducir el retinol transitoriamente, y al inicio de un déficit su nivel puede seguir estable. El equipo interpreta el resultado junto con la dieta, los síntomas y la exploración.",
+              "La vitamina A también participa en el crecimiento y la función inmunitaria. La piel seca, el acné, las infecciones frecuentes o una herida que tarda en sanar tienen muchas posibles causas. Ninguna de ellas por sí sola establece un déficit. Consulta un problema persistente por sus propias características en lugar de probar un suplemento para ver si mejora."
+            ]
+          },
+          {
+            "heading": "Tratamiento y fuentes cotidianas",
+            "paragraphs": [
+              "Si se sospecha que un déficit está afectando los ojos, busca atención sin demora. El profesional puede decidir la urgencia de la reposición, qué preparado usar y cómo abordar la causa. El daño ocular puede avanzar mientras se espera que un cambio de dieta haga efecto.",
+              "Los huevos, los lácteos y algunos alimentos enriquecidos aportan vitamina A preformada. El organismo también puede producirla a partir de pigmentos de la batata, la zanahoria y las verduras de hoja verde oscura. Ofrece opciones que puedas conseguir y que tu hijo pueda comer. La OMS recomienda programas de dosis altas para niños de 6 a 59 meses en lugares donde el déficit es un problema de salud pública. Pregunta al equipo de salud qué programa corresponde en tu zona. Las dosis altas por cuenta propia pueden hacer daño."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Menciona los cambios recientes de visión con poca luz, en particular si hay una dieta limitada o dificultades de absorción.",
+          "Lleva una lista breve de los alimentos que come y de sus antecedentes digestivos relevantes.",
+          "Busca valoración urgente ante dolor ocular o una córnea opaca de aparición reciente, y acude a emergencias si pierde la visión de repente."
+        ],
+        "faq": [
+          {
+            "q": "¿Cuál puede ser una señal temprana?",
+            "a": "Una dificultad nueva para ver con poca luz puede dar una pista. La sequedad de piel o el eccema por sí solos tienen muchas explicaciones. Menciona el cambio de visión y solicita una exploración ocular."
+          },
+          {
+            "q": "¿Qué cambios oculares pueden sugerir un déficit más grave?",
+            "a": "La superficie del ojo puede resecarse mucho y pueden aparecer manchas espumosas en su parte blanca. La opacidad o lesión de la córnea puede amenazar la vista. Un ojo doloroso o de aspecto turbio reciente requiere valoración ese día. La pérdida súbita de visión es una emergencia."
+          },
+          {
+            "q": "¿El déficit de vitamina A afecta a la fertilidad?",
+            "a": "La vitamina A interviene en la reproducción, pero no puedes deducir la fertilidad futura de un niño por su vista, su dieta o su piel. Los adultos con dudas de fertilidad deben buscar una valoración sin automedicarse con vitamina A."
+          },
+          {
+            "q": "¿Una herida que tarda en sanar indica que mi hijo necesita vitamina A?",
+            "a": "No. El retraso en la cicatrización por sí solo no diagnostica un déficit. Un profesional puede examinar la herida y considerar la nutrición, una infección u otras causas. Evita dar suplementos en dosis altas para una herida o el acné."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Explica cuándo y dónde notaste por primera vez la dificultad para ver con poca luz.",
+            "Describe los alimentos que come y cualquier afección que pueda alterar la absorción.",
+            "Pregunta cómo se organizarán el tratamiento y las revisiones oculares si se confirma el déficit."
+          ],
+          "bemama": "BeMama sugiere anotar un ejemplo real, como necesitar ayuda de pronto en unos escalones conocidos al atardecer, y compartirlo junto con su alimentación habitual.",
+          "safety": "La pérdida súbita de visión requiere atención ocular de emergencia. Busca valoración urgente el mismo día ante dolor ocular o una córnea que se vuelve opaca. Pide una revisión pronta por cambios en la visión nocturna y no des dosis altas de vitamina A sin indicación profesional.",
+          "sources": [
+            {
+              "organization": "Oficina de Suplementos Dietéticos de los Institutos Nacionales de Salud de Estados Unidos",
+              "title": "Vitamina A, alimentos, pruebas de laboratorio y riesgo de déficit",
+              "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+            },
+            {
+              "organization": "Organización Mundial de la Salud",
+              "title": "Ceguera nocturna y hallazgos oculares en el déficit de vitamina A",
+              "url": "https://iris.who.int/bitstream/handle/10665/133705/WHO_NMH_NHD_EPG_14.4_eng.pdf"
+            },
+            {
+              "organization": "Organización Mundial de la Salud",
+              "title": "Programas de vitamina A para niños de 6 a 59 meses",
+              "url": "https://www.who.int/tools/elena/interventions/vitamina-children"
+            },
+            {
+              "organization": "Informe de un caso clínico en la revista Cureus",
+              "title": "Pérdida de visión en un niño con déficit de vitamina A",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9767668/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Dificuldade para enxergar ao anoitecer e falta de vitamina A",
+        "description": "Enxergar mal com pouca luz pode indicar falta de vitamina A. Saiba o que contar sobre a saúde e a alimentação e quando buscar atendimento ocular urgente.",
+        "intro": "Seu filho anda pela casa sem problemas de dia, mas agora segura sua mão para atravessar um corredor pouco iluminado que antes percorria sozinho. Descreva essa mudança ao profissional que o acompanha e procure uma avaliação ocular em breve. A dificuldade de ver com pouca luz tem várias causas. Saber o que a criança de fato come e se absorve bem os nutrientes ajuda na investigação.",
+        "sections": [
+          {
+            "heading": "O que acontece com os olhos",
+            "paragraphs": [
+              "A vitamina A ajuda a retina, camada sensível à luz no fundo do olho, a se adaptar ao escuro. A dificuldade de enxergar ao anoitecer pode ser um sinal inicial de deficiência. A criança pode evitar um cômodo escuro ou esbarrar nas coisas antes de saber explicar o motivo.",
+              "Em casos mais graves, a superfície ocular pode ressecar. Placas esbranquiçadas de aparência espumosa, chamadas manchas de Bitot, podem surgir na membrana que recobre a parte branca do olho. A deficiência grave pode danificar a córnea, a parte transparente na frente do olho, e causar perda permanente de visão. Procure atendimento de emergência para perda súbita da visão. Dor ocular ou opacidade recente da córnea exige avaliação urgente no mesmo dia."
+            ]
+          },
+          {
+            "heading": "Quem pode ter dificuldade para obter o suficiente",
+            "paragraphs": [
+              "Algumas crianças comem pouquíssimos tipos de alimento por muito tempo. Outras têm dificuldade em absorver a gordura e as vitaminas que a acompanham, por exemplo na fibrose cística ou em certas doenças intestinais. Informe se há diarreia persistente, cirurgia digestiva prévia, mudanças no crescimento ou dificuldades para conseguir os alimentos que a criança aceita.",
+              "Um relato clínico descreveu um menino de oito anos que passou a comer principalmente macarrão instantâneo. O peso estava relativamente estável. Ele teve perda de visão noturna, lesão na córnea e um nível muito baixo de vitamina A. A visão melhorou com tratamento e acompanhamento oftalmológico. Esse caso mostra a importância de conhecer a alimentação mesmo sem perda de peso. Ele não revela a causa dos sintomas de outra criança."
+            ]
+          },
+          {
+            "heading": "O que levar à consulta",
+            "paragraphs": [
+              "Anote o que a criança realmente comeu em alguns dias típicos, incluindo alimentos fortificados, bebidas e suplementos. Dê um exemplo de quando a visão mudou e diga se também há dificuldades durante o dia. O profissional pode solicitar um exame dos olhos e uma dosagem de retinol no sangue. Infecções podem reduzir temporariamente o retinol, e o nível pode ficar estável no início da deficiência. A equipe interpreta o resultado junto com a alimentação, os sintomas e o exame físico.",
+              "A vitamina A também participa do crescimento e da função imune. Pele seca, acne, infecções frequentes e feridas que demoram a cicatrizar têm muitas causas. Nenhuma dessas alterações isoladamente confirma uma deficiência. Procure avaliação do problema persistente em vez de dar um suplemento para ver se melhora."
+            ]
+          },
+          {
+            "heading": "Tratamento e fontes do dia a dia",
+            "paragraphs": [
+              "Se houver suspeita de comprometimento dos olhos pela deficiência, procure atendimento prontamente. O profissional avalia a urgência de repor a vitamina, qual preparação usar e como cuidar da causa. O dano ocular pode avançar enquanto a família espera que uma mudança de alimentação faça efeito.",
+              "Nas refeições, ovos, laticínios e alguns alimentos fortificados fornecem vitamina A pré-formada. O organismo pode produzi-la a partir dos pigmentos da batata-doce, da cenoura e das folhas verde-escuras. Ofereça alimentos acessíveis à família que a criança consiga comer. A OMS recomenda programas com doses altas para crianças de 6 a 59 meses em locais onde a deficiência é um problema de saúde pública. Pergunte à equipe local qual programa se aplica. Dar doses altas em casa por conta própria pode prejudicar a criança."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Informe dificuldade recente de ver com pouca luz, sobretudo se a alimentação for limitada ou houver problema de absorção.",
+          "Leve uma lista breve dos alimentos que a criança come e o histórico digestivo relevante.",
+          "Busque atendimento urgente para dor ocular ou opacidade recente da córnea e emergência para perda súbita da visão."
+        ],
+        "faq": [
+          {
+            "q": "Qual pode ser um sinal inicial de deficiência de vitamina A?",
+            "a": "Começar a ter dificuldade para ver com pouca luz pode ser uma pista. Pele seca ou eczema isolados têm várias explicações. Informe a mudança na visão e solicite uma avaliação dos olhos."
+          },
+          {
+            "q": "Que mudanças nos olhos sugerem deficiência mais grave?",
+            "a": "A superfície pode ficar muito seca e apresentar placas espumosas na parte branca do olho. A opacidade ou lesão da córnea pode ameaçar a visão. Um olho doloroso ou que ficou turvo recentemente precisa ser examinado no mesmo dia. A perda súbita da visão é uma emergência."
+          },
+          {
+            "q": "A deficiência de vitamina A afeta a fertilidade?",
+            "a": "A vitamina participa da reprodução, mas não se pode prever a fertilidade futura de uma criança pela visão, alimentação ou pele. Adultos com preocupações sobre fertilidade devem procurar avaliação em vez de se tratar por conta própria com vitamina A."
+          },
+          {
+            "q": "Uma ferida que demora a fechar significa que meu filho precisa de vitamina A?",
+            "a": "Não. A demora na cicatrização por si só não diagnostica deficiência. O profissional pode examinar a ferida e considerar nutrição, infecção ou outras causas. Não inicie suplementos em doses altas para tratar uma ferida ou acne."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Conte quando e onde percebeu pela primeira vez a dificuldade de ver com pouca luz.",
+            "Descreva os alimentos que a criança come e qualquer condição de saúde que possa afetar a absorção.",
+            "Pergunte como serão o tratamento e as novas avaliações dos olhos se a deficiência for identificada."
+          ],
+          "bemama": "A BeMama sugere anotar um exemplo concreto, como precisar de ajuda numa escada conhecida ao anoitecer, para relatar junto com os alimentos habituais da criança.",
+          "safety": "A perda súbita da visão requer atendimento ocular de emergência. Para dor no olho ou opacidade recente da córnea, procure avaliação urgente no mesmo dia. Busque avaliação sem demora se a visão noturna mudar e evite doses altas de vitamina A sem orientação profissional.",
+          "sources": [
+            {
+              "organization": "Escritório de Suplementos Alimentares dos Institutos Nacionais de Saúde dos Estados Unidos",
+              "title": "Vitamina A, fontes alimentares, exames laboratoriais e risco de deficiência",
+              "url": "https://ods.od.nih.gov/factsheets/VitaminA-HealthProfessional/"
+            },
+            {
+              "organization": "Organização Mundial da Saúde",
+              "title": "Cegueira noturna e manifestações oculares da deficiência de vitamina A",
+              "url": "https://iris.who.int/bitstream/handle/10665/133705/WHO_NMH_NHD_EPG_14.4_eng.pdf"
+            },
+            {
+              "organization": "Organização Mundial da Saúde",
+              "title": "Programas de vitamina A para crianças de 6 a 59 meses",
+              "url": "https://www.who.int/tools/elena/interventions/vitamina-children"
+            },
+            {
+              "organization": "Relato clínico publicado na revista Cureus",
+              "title": "Perda de visão em uma criança com deficiência de vitamina A",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC9767668/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5894.webp",
+    "heroAlt": {
+      "en": "A child holds an adult’s hand at the entrance to a dim hallway.",
+      "fa": "کودکی در ورودی راهروی کم‌نور دست یک بزرگسال را گرفته است.",
+      "ar": "طفل يمسك بيد شخص بالغ عند مدخل ممر خافت الإضاءة.",
+      "fr": "Un enfant tient la main d’un adulte à l’entrée d’un couloir peu éclairé.",
+      "tr": "Bir çocuk loş bir koridorun girişinde bir yetişkinin elini tutuyor.",
+      "es": "Un niño toma la mano de un adulto a la entrada de un pasillo con poca luz.",
+      "pt": "Uma criança segura a mão de um adulto na entrada de um corredor pouco iluminado."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "When a child struggles to see at dusk: vitamin A deficiency",
+      "description": "Trouble seeing in low light can be a sign of vitamin A deficiency. Learn which diet and health details to share and when your child needs urgent eye care."
+    },
+    "fa": {
+      "title": "وقتی کودک در نور کم خوب نمی‌بیند؛ بررسی کمبود ویتامین آ",
+      "description": "دشواری دید در نور کم می‌تواند از نشانه‌های کمبود ویتامین آ باشد. بدانید چه جزئیاتی از تغذیه و سلامت کودک را بگویید و چه زمانی به معاینهٔ فوری چشم نیاز دارد."
+    },
+    "ar": {
+      "title": "حين يصعب على الطفل أن يرى عند الغسق: نقص فيتامين أ",
+      "description": "قد تكون صعوبة الرؤية في الضوء الخافت علامة على نقص فيتامين أ. تعرّف إلى تفاصيل الغذاء والصحة التي تهم الطبيب ومتى يحتاج طفلك إلى فحص عاجل للعين."
+    },
+    "fr": {
+      "title": "Quand un enfant voit mal au crépuscule : la carence en vitamine A",
+      "description": "Une difficulté à voir dans la pénombre peut évoquer un manque de vitamine A. Quels éléments signaler sur la santé et les repas, et quand consulter en urgence ?"
+    },
+    "tr": {
+      "title": "Çocuk alacakaranlıkta görmekte zorlanıyorsa: A vitamini eksikliği",
+      "description": "Loş ışıkta görme güçlüğü A vitamini eksikliğine işaret edebilir. Hekime beslenme ve sağlıkla ilgili neler anlatacağınızı, ne zaman acile gideceğinizi öğrenin."
+    },
+    "es": {
+      "title": "Cuando a un niño le cuesta ver al anochecer: falta de vitamina A",
+      "description": "Ver mal con poca luz puede ser señal de falta de vitamina A. Qué datos sobre dieta y salud conviene contar y cuándo buscar atención ocular urgente."
+    },
+    "pt": {
+      "title": "Dificuldade para enxergar ao anoitecer e falta de vitamina A",
+      "description": "Enxergar mal com pouca luz pode indicar falta de vitamina A. Saiba o que contar sobre a saúde e a alimentação e quando buscar atendimento ocular urgente."
+    }
+  }
+}

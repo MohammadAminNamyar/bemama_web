@@ -1,0 +1,653 @@
+{
+  "sourceId": "5964",
+  "article": {
+    "slug": "baby-and-child/when-a-child-needs-more-time-to-learn",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "When a child needs more time to learn a new skill",
+        "description": "See how to describe a lasting learning difficulty, ask the school for targeted help and work with your child’s clinician to understand what support fits.",
+        "intro": "Your child can explain the story you read together, but still struggles to read familiar words on the page. Another child may read fluently and repeatedly lose track of a simple number problem. The most useful thing you can take to a school meeting is an example of the particular step that keeps getting in your child's way.",
+        "sections": [
+          {
+            "heading": "Describe the skill that is hard to learn",
+            "paragraphs": [
+              "Write down what your child was asked to do, which part they could do alone and where they needed help. Include something they do well. A teacher can work with “she retells the story but cannot sound out these words yet” more easily than a label about how fast she learns.",
+              "Ask whether the same difficulty appears in class, how long the skill has been taught and which explanations or materials help. If your child uses several languages, tell the team which ones they hear, speak, read or write and where they learned each. New vocabulary in the language of instruction can affect how a child performs on a task."
+            ]
+          },
+          {
+            "heading": "Bring the school and your child's clinician into the conversation",
+            "paragraphs": [
+              "Ask the teacher what assessment the school can provide and which support can start now. Examples of classwork, attendance and progress over time help the team distinguish a missed learning opportunity from a skill that remains difficult despite teaching. A school psychologist, reading specialist or speech-language professional may contribute, depending on the difficulty.",
+              "Tell your child's clinician about the pattern too. They can review development, sleep, health and emotional wellbeing and consider hearing and vision checks. Mention if your child also needs help in everyday activities outside school. A broader developmental assessment may help when several areas are affected."
+            ]
+          },
+          {
+            "heading": "Agree on one goal you can check",
+            "paragraphs": [
+              "Ask the teacher to name the skill, how it will be taught, how progress will be recorded and when you will meet again. At home, ask for a short activity matched to the same goal. If the goal is to blend sounds into a word, let the teacher demonstrate the activity so you know exactly what to practise.",
+              "Targeted teaching can make a difference. A randomized trial followed 187 Spanish-speaking first graders who struggled with reading. Children offered individual literacy instruction in Spanish did better on the study's literacy measures than the comparison group. This finding concerns one reading program and age group. Children whose main difficulty is mathematics or language comprehension may need different support."
+            ]
+          },
+          {
+            "heading": "What to do with the next work sample",
+            "paragraphs": [
+              "At the follow-up meeting, look at a new piece of work together. Is your child doing more of the task independently? Ask which part improved and what is still hard. If progress remains limited, discuss changing the instruction, increasing support or arranging a fuller individual assessment. The child can help too. Ask what made the task easier this time."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Record a specific skill your child finds difficult and a strength you can build on.",
+          "Ask the teacher and clinician to look at the pattern across lessons, languages and daily life.",
+          "Agree on a teaching goal and a time to check actual work together."
+        ],
+        "faq": [
+          {
+            "q": "What does it mean if someone calls my child a slow learner?",
+            "a": "That phrase describes someone's impression of pace. Ask what skill they mean and what your child can already do. A lasting difficulty can be assessed and supported."
+          },
+          {
+            "q": "Is taking longer the same as a specific learning disability?",
+            "a": "A child can need extra time for many reasons. Specific learning disabilities involve persistent difficulties in particular academic skills, such as reading. Assessment considers the child's history, teaching and performance before naming a condition."
+          },
+          {
+            "q": "Could this be ADHD?",
+            "a": "Attention difficulties can interfere with learning, and ADHD can coexist with a learning disability. Working slowly on one task cannot establish ADHD. Tell the clinician what happens at school and at home."
+          },
+          {
+            "q": "Can learning pace tell us whether a child is autistic?",
+            "a": "Learning pace alone cannot identify autism. If you also have concerns about social communication or repetitive patterns of behavior, discuss those observations with your child's clinician."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Ask what the school can assess and which specific help can begin.",
+            "Share information about hearing, vision, development and languages used.",
+            "Set a review date and look at progress on the chosen skill."
+          ],
+          "bemama": "BeMama suggests taking two work samples to the next meeting, one that shows a strength and one that shows where your child needs help.",
+          "safety": "Tell your child's clinician promptly if they lose a skill they had already mastered. Losing an established skill calls for a separate assessment.",
+          "sources": [
+            {
+              "organization": "National Institute of Child Health and Human Development",
+              "title": "How learning disabilities are diagnosed",
+              "url": "https://www.nichd.nih.gov/health/topics/learning/conditioninfo/diagnosed"
+            },
+            {
+              "organization": "Royal Children's Hospital Melbourne",
+              "title": "Assessing learning difficulties in school-aged children",
+              "url": "https://www.rch.org.au/kidsconnect/prereferral_guidelines/Learning_difficulties_school_problems/"
+            },
+            {
+              "organization": "Borman and colleagues, American Educational Research Journal",
+              "title": "A randomized trial of individual reading instruction in Spanish",
+              "url": "https://journals.sagepub.com/doi/10.3102/0002831219890612"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "وقتی کودک برای یادگیری یک مهارت به زمان بیشتری نیاز دارد",
+        "description": "چگونه دشواری مداوم در یادگیری را توضیح دهید، از مدرسه کمک مشخص بخواهید و همراه پزشک فرزندتان بررسی کنید که کدام حمایت برای او مناسب است.",
+        "intro": "فرزندتان می‌تواند داستانی را که برایش خوانده‌اید تعریف کند اما هنوز برای خواندن واژه‌های آشنای همان صفحه مشکل دارد. کودک دیگری شاید روان بخواند اما در حل یک مسئلهٔ سادهٔ حساب بارها رشتهٔ کار را گم کند. برای گفت‌وگو با معلم، نمونه‌ای از همان مرحله‌ای که فرزندتان در آن گیر می‌کند همراه ببرید.",
+        "sections": [
+          {
+            "heading": "مهارتی را که آموختنش دشوار است توصیف کنید",
+            "paragraphs": [
+              "بنویسید از کودک چه خواسته شد، کدام بخش را به تنهایی انجام داد و کجا کمک خواست. یک نقطهٔ قوتش را هم ذکر کنید. معلم با جملهٔ «داستان را تعریف می‌کند اما هنوز نمی‌تواند این کلمات را با کنار هم گذاشتن صداها بخواند» بهتر می‌تواند کمک کند تا با برچسبی دربارهٔ سرعت یادگیری.",
+              "بپرسید آیا همین دشواری در کلاس هم دیده می‌شود، چه مدت روی این مهارت کار کرده‌اند و کدام توضیح یا وسیله کمک کرده است. اگر کودک چند زبان به کار می‌برد، به تیم بگویید چه زبان‌هایی را می‌شنود، صحبت می‌کند، می‌خواند یا می‌نویسد و هرکدام را کجا آموخته است. واژه‌های تازه در زبان آموزش می‌توانند بر انجام تکلیف اثر بگذارند."
+            ]
+          },
+          {
+            "heading": "با مدرسه و پزشک کودک صحبت کنید",
+            "paragraphs": [
+              "بپرسید مدرسه چه ارزیابی‌ای انجام می‌دهد و چه کمکی می‌تواند از همین حالا آغاز شود. نمونه‌های کار کلاسی، سابقهٔ حضور و میزان پیشرفت کمک می‌کنند روشن شود کودک فرصت آموزش را از دست داده یا مهارتی با وجود آموزش همچنان برایش دشوار است. بسته به مشکل، روان‌شناس مدرسه، متخصص خواندن یا گفتاردرمانگر ممکن است در ارزیابی نقش داشته باشد.",
+              "این الگو را برای پزشک هم شرح دهید. پزشک می‌تواند رشد، خواب، سلامت جسمی و عاطفی کودک را بررسی کند و در صورت نیاز شنوایی و بینایی او را بسنجد. اگر کودک بیرون مدرسه هم در کارهای روزمره کمک لازم دارد، بگویید. وقتی چند زمینه درگیرند، ارزیابی گسترده‌تر رشد می‌تواند مفید باشد."
+            ]
+          },
+          {
+            "heading": "بر یک هدف قابل بررسی توافق کنید",
+            "paragraphs": [
+              "از معلم بخواهید مهارت مورد نظر، شیوهٔ آموزش، راه ثبت پیشرفت و زمان دیدار بعدی را مشخص کند. برای خانه تمرینی کوتاه و متناسب با همان هدف بگیرید. مثلاً اگر هدف ساختن یک کلمه با ترکیب صداهاست، بخواهید معلم تمرین را نشان دهد.",
+              "آموزش هدفمند می‌تواند مؤثر باشد. در یک پژوهش تصادفی روی ۱۸۷ دانش‌آموز اسپانیایی‌زبان کلاس اول که در خواندن مشکل داشتند، گروهی که امکان آموزش انفرادی خواندن و نوشتن به زبان اسپانیایی داشت در سنجه‌های سوادآموزی بهتر از گروه مقایسه عمل کرد. این نتیجه مربوط به یک برنامه و یک گروه سنی است. کودکی که بیشتر در ریاضی یا درک زبان مشکل دارد شاید به کمک دیگری نیاز داشته باشد."
+            ]
+          },
+          {
+            "heading": "در دیدار بعدی نمونهٔ تازه‌ای از کار کودک ببینید",
+            "paragraphs": [
+              "با معلم ببینید آیا کودک بخش بیشتری از تکلیف را مستقل انجام می‌دهد. بپرسید کدام مرحله بهتر شده و کدام هنوز دشوار است. اگر پیشرفت اندک است، دربارهٔ تغییر روش تدریس، افزایش حمایت یا ارزیابی فردی کامل‌تر صحبت کنید. از خود کودک هم بپرسید این بار چه چیزی کار را آسان‌تر کرد."
+            ]
+          }
+        ],
+        "takeaways": [
+          "یک مهارت دشوار و یک نقطهٔ قوت فرزندتان را یادداشت کنید.",
+          "از معلم و پزشک بخواهید الگوی یادگیری را در درس‌ها، زبان‌ها و زندگی روزانه بررسی کنند.",
+          "بر سر یک هدف آموزشی و زمانی برای دیدن نمونهٔ واقعی کار توافق کنید."
+        ],
+        "faq": [
+          {
+            "q": "اگر کسی فرزندم را «دیرآموز» نامید، منظور چیست؟",
+            "a": "این واژه برداشت یک نفر از سرعت یادگیری را بیان می‌کند. بپرسید منظور کدام مهارت است و کودک اکنون چه کاری می‌تواند انجام دهد. برای مشکل پایدار می‌توان ارزیابی و حمایت دریافت کرد."
+          },
+          {
+            "q": "آیا نیاز به زمان بیشتر همان اختلال یادگیری خاص است؟",
+            "a": "کودک ممکن است به دلایل گوناگون به زمان بیشتری نیاز داشته باشد. اختلال یادگیری خاص با دشواری پایدار در مهارت تحصیلی معینی مانند خواندن همراه است. پیش از تشخیص، سابقه، آموزش و عملکرد کودک بررسی می‌شود."
+          },
+          {
+            "q": "آیا ممکن است مشکل از اختلال کم‌توجهی و بیش‌فعالی باشد؟",
+            "a": "مشکل توجه می‌تواند یادگیری را دشوار کند و این اختلال گاهی با اختلال یادگیری هم‌زمان است. کند انجام دادن یک تکلیف به تنهایی برای تشخیص کافی نیست. آنچه در خانه و مدرسه می‌بینید برای پزشک شرح دهید."
+          },
+          {
+            "q": "آیا سرعت یادگیری نشان می‌دهد کودک اوتیسم دارد؟",
+            "a": "از روی سرعت یادگیری به تنهایی نمی‌توان اوتیسم را تشخیص داد. اگر دربارهٔ ارتباط اجتماعی یا الگوهای تکراری رفتار هم نگرانی دارید، مشاهداتتان را با پزشک کودک در میان بگذارید."
+          }
+        ],
+        "evidence": {
+          "updated": "بازبینی شواهد در ۱۶ نوامبر ۲۰۲۶",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "بپرسید مدرسه چه ارزیابی و کمک مشخصی می‌تواند آغاز کند.",
+            "اطلاعات شنوایی، بینایی، رشد و زبان‌های مورد استفاده را شرح دهید.",
+            "برای بررسی پیشرفت در مهارت هدف، تاریخ مشخص کنید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند دو نمونهٔ کار برای دیدار بعدی ببرید؛ یکی برای نشان دادن توانایی کودک و یکی برای مشخص کردن جایی که نیاز به کمک دارد.",
+          "safety": "اگر فرزندتان مهارتی را که قبلاً کسب کرده از دست داد، بی‌درنگ به پزشکش اطلاع دهید. از دست دادن مهارت قبلی به ارزیابی جداگانه نیاز دارد.",
+          "sources": [
+            {
+              "organization": "مؤسسهٔ ملی سلامت کودک و رشد انسان",
+              "title": "روش تشخیص اختلالات یادگیری",
+              "url": "https://www.nichd.nih.gov/health/topics/learning/conditioninfo/diagnosed"
+            },
+            {
+              "organization": "بیمارستان سلطنتی کودکان ملبورن",
+              "title": "ارزیابی مشکلات یادگیری در کودکان مدرسه‌ای",
+              "url": "https://www.rch.org.au/kidsconnect/prereferral_guidelines/Learning_difficulties_school_problems/"
+            },
+            {
+              "organization": "بورمن و همکاران، مجلهٔ پژوهش‌های آموزشی آمریکا",
+              "title": "کارآزمایی تصادفی آموزش انفرادی خواندن به زبان اسپانیایی",
+              "url": "https://journals.sagepub.com/doi/10.3102/0002831219890612"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "عندما يحتاج الطفل إلى وقت أطول لتعلّم مهارة جديدة",
+        "description": "كيف تصف صعوبة مستمرة في التعلّم، وتطلب من المدرسة مساعدة محددة، وتناقش مع طبيب طفلك نوع الدعم الذي يناسب احتياجاته؟",
+        "intro": "قد يحكي طفلك قصة قرأتماها معاً، لكنه يظل يجد صعوبة في قراءة كلمات مألوفة على الصفحة. وقد يقرأ طفل آخر بطلاقة ثم يفقد مراراً تسلسل خطوات مسألة حسابية بسيطة. من أفضل ما يمكن اصطحابه إلى اجتماع المدرسة مثال يوضّح الخطوة التي يتعثر فيها طفلك تحديداً.",
+        "sections": [
+          {
+            "heading": "صِف المهارة التي يصعب تعلّمها",
+            "paragraphs": [
+              "اكتب ما طُلب من الطفل، وما استطاع إنجازه بمفرده، وأين احتاج إلى المساعدة. اذكر أيضاً إحدى نقاط قوته. تفيد المعلّم عبارة مثل «تستطيع ابنتي إعادة سرد القصة لكنها لم تتمكن بعد من جمع الأصوات لقراءة هذه الكلمات» أكثر من وصف عام لسرعة تعلّمها.",
+              "اسأل هل تظهر الصعوبة نفسها في الصف، وكم مضى على تدريس المهارة، وأيّ شرح أو وسائل تساعد الطفل. إذا كان يستخدم عدة لغات، فأخبر الفريق بأيّها يسمع ويتحدث ويقرأ ويكتب، وأين تعلّم كلّاً منها. فالمفردات الجديدة في لغة التدريس قد تؤثر في أدائه في مهمة معينة."
+            ]
+          },
+          {
+            "heading": "اجمع بين ملاحظات المدرسة والطبيب",
+            "paragraphs": [
+              "اسأل المعلّم عن التقييم الذي تستطيع المدرسة تقديمه والدعم الذي يمكن البدء به الآن. تساعد نماذج العمل والحضور والتقدم بمرور الوقت على التمييز بين فرصة تعلّم فاتت الطفل ومهارة لا تزال صعبة رغم تدريسها. قد يشارك اختصاصي علم النفس المدرسي أو القراءة أو النطق واللغة بحسب الحاجة.",
+              "أخبر طبيب طفلك بالنمط الذي لاحظته. يستطيع مراجعة نمو الطفل ونومه وصحته الجسدية والنفسية والنظر في فحص السمع والبصر. اذكر إن كان يحتاج إلى مساعدة في الأنشطة اليومية خارج المدرسة أيضاً. وإذا تأثرت عدة مجالات فقد يفيد تقييم أوسع للنمو."
+            ]
+          },
+          {
+            "heading": "اتفقوا على هدف يمكن متابعته",
+            "paragraphs": [
+              "اطلب من المعلّم تحديد المهارة وطريقة تدريسها وكيفية تسجيل التقدم وموعد الاجتماع التالي. وفي البيت اطلب نشاطاً قصيراً يناسب الهدف نفسه. فإذا كان الهدف دمج الأصوات لتكوين كلمة، فاطلب منه أن يعرض لك التمرين كي تعرف ما ستتدرّبان عليه.",
+              "قد يفيد التدريس الموجّه. شملت تجربة عشوائية ١٨٧ تلميذاً ناطقاً بالإسبانية في الصف الأول ممن واجهوا صعوبة في القراءة. تفوّق الذين أُتيحت لهم دروس فردية بالإسبانية على مجموعة المقارنة في مقاييس القراءة والكتابة التي استخدمتها الدراسة. يخصّ هذا الاستنتاج برنامجاً وفئة عمرية محددين. وقد يحتاج الطفل الذي تتركز صعوبته في الرياضيات أو فهم اللغة إلى دعم مختلف."
+            ]
+          },
+          {
+            "heading": "انظروا معاً إلى عينة العمل التالية",
+            "paragraphs": [
+              "في الاجتماع التالي راجعوا نموذجاً جديداً. هل أصبح طفلك ينجز جزءاً أكبر بنفسه؟ اسأل أيّ خطوة تحسنت وأيّها لا تزال صعبة. إذا ظل التقدم محدوداً فناقش تعديل طريقة التعليم أو زيادة الدعم أو ترتيب تقييم فردي أشمل. اسأل الطفل أيضاً عمّا سهّل عليه المهمة هذه المرة."
+            ]
+          }
+        ],
+        "takeaways": [
+          "دوّن مهارة محددة يجدها طفلك صعبة ونقطة قوة يمكن البناء عليها.",
+          "اطلب من المعلّم والطبيب النظر إلى النمط عبر الدروس واللغات والحياة اليومية.",
+          "اتفقوا على هدف تعليمي وموعد لمراجعة نماذج حقيقية من العمل."
+        ],
+        "faq": [
+          {
+            "q": "ماذا يعني أن يصف أحد طفلي بأنه بطيء التعلّم؟",
+            "a": "العبارة تصف انطباع شخص عن سرعة التعلّم. اسأل عن المهارة التي يقصدها وما يستطيع طفلك فعله بالفعل. يمكن تقييم الصعوبة المستمرة وتقديم الدعم المناسب لها."
+          },
+          {
+            "q": "هل الحاجة إلى وقت أطول تعني وجود صعوبة تعلّم محددة؟",
+            "a": "قد يحتاج الطفل إلى وقت إضافي لأسباب مختلفة. تتضمن اضطرابات التعلّم المحددة صعوبات مستمرة في مهارات مدرسية معينة كالقراءة. ويأخذ التقييم في الحسبان تاريخ الطفل والتدريس الذي تلقاه وأداءه قبل تحديد تشخيص."
+          },
+          {
+            "q": "هل يمكن أن يكون السبب اضطراب فرط الحركة وتشتت الانتباه؟",
+            "a": "قد تؤثر صعوبات الانتباه في التعلّم، وقد يجتمع هذا الاضطراب مع اضطراب تعلّم. البطء في مهمة واحدة لا يكفي لتشخيصه. أخبر الطبيب بما تراه في المدرسة والبيت."
+          },
+          {
+            "q": "هل تدل سرعة التعلّم على أن الطفل مصاب بالتوحّد؟",
+            "a": "سرعة التعلّم وحدها لا تحدد وجود التوحّد. إذا كانت لديك مخاوف أيضاً بشأن التواصل الاجتماعي أو الأنماط السلوكية المتكررة، فناقش ملاحظاتك مع طبيب طفلك."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "اسأل عما تستطيع المدرسة تقييمه والمساعدة المحددة التي يمكن البدء بها.",
+            "شارك المعلومات المتعلقة بالسمع والبصر والنمو واللغات المستخدمة.",
+            "حدّدوا موعداً للمراجعة وتابعوا التقدم في المهارة المختارة."
+          ],
+          "bemama": "تقترح بي ماما اصطحاب عينتين من عمل الطفل إلى الاجتماع المقبل، تُظهر إحداهما نقطة قوة وتُوضح الأخرى أين يحتاج إلى المساعدة.",
+          "safety": "أخبر الطبيب سريعاً إذا فقد طفلك مهارة كان قد أتقنها. فقدان مهارة مكتسبة يحتاج إلى تقييم مستقل.",
+          "sources": [
+            {
+              "organization": "المعهد الوطني لصحة الطفل والتنمية البشرية",
+              "title": "كيف تُشخَّص اضطرابات التعلّم",
+              "url": "https://www.nichd.nih.gov/health/topics/learning/conditioninfo/diagnosed"
+            },
+            {
+              "organization": "المستشفى الملكي للأطفال في ملبورن",
+              "title": "تقييم صعوبات التعلّم لدى الأطفال في سن المدرسة",
+              "url": "https://www.rch.org.au/kidsconnect/prereferral_guidelines/Learning_difficulties_school_problems/"
+            },
+            {
+              "organization": "بورمان وزملاؤه، المجلة الأمريكية للبحوث التربوية",
+              "title": "تجربة عشوائية لتدريس القراءة الفردي بالإسبانية",
+              "url": "https://journals.sagepub.com/doi/10.3102/0002831219890612"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Quand un enfant a besoin de plus de temps pour apprendre",
+        "description": "Décrivez une difficulté d’apprentissage qui dure, demandez une aide précise à l’école et discutez avec le médecin du soutien adapté à votre enfant.",
+        "intro": "Votre enfant sait raconter l’histoire que vous venez de lire ensemble mais peine encore à déchiffrer des mots familiers sur la page. Un autre enfant peut lire couramment et perdre le fil d’un calcul simple. Apportez à la réunion avec l’école un exemple de l’étape précise qui pose régulièrement problème.",
+        "sections": [
+          {
+            "heading": "Décrivez la compétence difficile à acquérir",
+            "paragraphs": [
+              "Notez la consigne, ce que votre enfant a fait seul et le moment où il a eu besoin d’aide. Ajoutez une de ses réussites. « Elle raconte l’histoire mais n’arrive pas encore à assembler les sons pour lire ces mots » est plus parlant pour l’enseignant qu’une étiquette sur son rythme.",
+              "Demandez si la même difficulté apparaît en classe, depuis quand la compétence est enseignée et quels supports ou explications aident. Si votre enfant utilise plusieurs langues, précisez celles qu’il entend, parle, lit ou écrit, et où il les a apprises. Un vocabulaire nouveau dans la langue de scolarisation peut influer sur la réalisation d’une tâche."
+            ]
+          },
+          {
+            "heading": "Associez l’école et le médecin de votre enfant",
+            "paragraphs": [
+              "Demandez ce que l’école peut évaluer et quelle aide peut déjà commencer. Les travaux en classe, l’assiduité et les progrès dans le temps aident à distinguer une occasion d’apprendre qui a manqué d’une compétence qui reste difficile malgré l’enseignement. Selon le besoin, un psychologue scolaire, un spécialiste de la lecture ou un orthophoniste peut intervenir.",
+              "Parlez aussi au médecin. Il peut examiner le développement, le sommeil, la santé physique et le bien-être émotionnel, et envisager un contrôle de l’audition ou de la vue. Signalez les activités quotidiennes pour lesquelles votre enfant a également besoin d’aide hors de l’école. Un bilan de développement plus large peut être utile si plusieurs domaines sont touchés."
+            ]
+          },
+          {
+            "heading": "Convenez d’un objectif vérifiable",
+            "paragraphs": [
+              "Demandez à l’enseignant de préciser la compétence visée, la façon de l’enseigner, le suivi des progrès et la date du prochain rendez-vous. Demandez une activité courte à faire chez vous avec le même objectif. S’il s’agit d’assembler des sons pour lire un mot, faites-vous montrer l’exercice.",
+              "Un enseignement ciblé peut aider. Un essai randomisé a suivi 187 élèves hispanophones en première année de primaire qui avaient du mal à lire. Les élèves à qui l’on proposait des séances individuelles en espagnol ont obtenu de meilleurs résultats aux épreuves de lecture et d’écriture que le groupe de comparaison. Le résultat concerne ce programme et cette tranche d’âge. Une difficulté en mathématiques ou en compréhension du langage peut appeler d’autres aides."
+            ]
+          },
+          {
+            "heading": "Examinez un nouvel exemple de travail",
+            "paragraphs": [
+              "Au rendez-vous suivant, regardez ensemble un travail récent. Votre enfant en fait-il une plus grande partie seul ? Demandez ce qui a progressé et ce qui demeure difficile. Si les progrès restent limités, discutez d’un changement de méthode, d’une aide renforcée ou d’une évaluation individuelle plus complète. Demandez aussi à votre enfant ce qui lui a facilité la tâche cette fois-ci."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Notez une compétence précise qui pose problème et un point fort sur lequel vous appuyer.",
+          "Demandez à l’école et au médecin de tenir compte des différentes matières, langues et activités du quotidien.",
+          "Fixez un objectif et un rendez-vous pour examiner des travaux concrets."
+        ],
+        "faq": [
+          {
+            "q": "Que signifie l’expression « lent à apprendre » ?",
+            "a": "Elle traduit l’impression d’une personne sur le rythme de votre enfant. Demandez de quelle compétence il s’agit et ce qu’il sait déjà faire. Une difficulté persistante peut être évaluée et accompagnée."
+          },
+          {
+            "q": "Avoir besoin de temps signifie-t-il avoir un trouble spécifique des apprentissages ?",
+            "a": "Un enfant peut avoir besoin de temps pour bien des raisons. Un trouble spécifique des apprentissages implique des difficultés persistantes dans certaines compétences scolaires, comme la lecture. L’évaluation prend en compte son parcours, l’enseignement reçu et ses performances avant de poser un diagnostic."
+          },
+          {
+            "q": "Pourrait-il s’agir d’un TDAH ?",
+            "a": "Les difficultés d’attention peuvent gêner les apprentissages et un TDAH peut coexister avec un trouble des apprentissages. La lenteur dans une seule tâche ne permet pas de conclure à un TDAH. Décrivez au médecin ce qui se passe à l’école et à la maison."
+          },
+          {
+            "q": "Le rythme d’apprentissage indique-t-il un autisme ?",
+            "a": "Le rythme seul ne permet pas d’identifier un autisme. Si la communication sociale ou des comportements répétitifs vous préoccupent également, parlez-en au médecin de votre enfant."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Demandez ce que l’école peut évaluer et quelle aide précise peut commencer.",
+            "Partagez les informations sur la vue, l’audition, le développement et les langues utilisées.",
+            "Fixez une date pour apprécier les progrès sur la compétence choisie."
+          ],
+          "bemama": "BeMama conseille d’apporter deux travaux au prochain rendez-vous, l’un qui illustre un point fort et l’autre qui montre où votre enfant a besoin d’aide.",
+          "safety": "Prévenez rapidement le médecin si votre enfant perd une compétence déjà maîtrisée. La perte d’un acquis appelle une évaluation distincte.",
+          "sources": [
+            {
+              "organization": "Institut national de la santé de l’enfant et du développement humain",
+              "title": "Comment sont diagnostiqués les troubles des apprentissages",
+              "url": "https://www.nichd.nih.gov/health/topics/learning/conditioninfo/diagnosed"
+            },
+            {
+              "organization": "Hôpital royal pour enfants de Melbourne",
+              "title": "Évaluer les difficultés d’apprentissage chez les enfants scolarisés",
+              "url": "https://www.rch.org.au/kidsconnect/prereferral_guidelines/Learning_difficulties_school_problems/"
+            },
+            {
+              "organization": "Borman et collègues, revue American Educational Research Journal",
+              "title": "Essai randomisé d’enseignement individuel de la lecture en espagnol",
+              "url": "https://journals.sagepub.com/doi/10.3102/0002831219890612"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Yeni bir beceriyi öğrenmek için daha fazla zamana ihtiyaç duyan çocuk",
+        "description": "Süren bir öğrenme güçlüğünü örneklerle anlatmayı, okuldan belirli bir destek istemeyi ve çocuğunuza neyin yardımcı olacağını hekimiyle görüşmeyi öğrenin.",
+        "intro": "Çocuğunuz birlikte okuduğunuz öyküyü anlatabiliyor ama sayfadaki tanıdık sözcükleri okumakta hâlâ zorlanıyor olabilir. Başka bir çocuk akıcı okurken basit bir sayı probleminin adımlarını sık sık karıştırabilir. Okuldaki görüşmeye çocuğunuzun tam olarak hangi adımda takıldığını gösteren bir örnek götürün.",
+        "sections": [
+          {
+            "heading": "Öğrenmesi zor gelen beceriyi tarif edin",
+            "paragraphs": [
+              "Çocuktan ne istendiğini, hangi bölümü tek başına yapabildiğini ve nerede yardıma ihtiyaç duyduğunu yazın. Başarılı olduğu bir şeyi de ekleyin. “Öyküyü anlatabiliyor ama bu sözcükleri okumak için sesleri henüz birleştiremiyor” ifadesi öğretmene öğrenme hızıyla ilgili bir etiketten daha çok bilgi verir.",
+              "Aynı güçlüğün sınıfta görülüp görülmediğini, becerinin ne zamandır öğretildiğini ve hangi açıklama ya da materyallerin işe yaradığını sorun. Çocuk birden çok dil kullanıyorsa hangi dilleri duyduğunu, konuştuğunu, okuduğunu veya yazdığını ve bunları nerede öğrendiğini anlatın. Eğitim dilindeki yeni sözcükler bir görevdeki performansını etkileyebilir."
+            ]
+          },
+          {
+            "heading": "Okul ve çocuk doktoruyla görüşün",
+            "paragraphs": [
+              "Öğretmene okulun hangi değerlendirmeyi yapabildiğini ve hangi desteğin hemen başlayabileceğini sorun. Sınıf çalışmaları, devam durumu ve zaman içindeki ilerleme, çocuğun bir öğrenme fırsatını kaçırmasıyla eğitim aldığı halde beceride zorlanmayı sürdürmesi arasındaki ayrımı anlamaya yardımcı olur. Güçlüğe göre okul psikoloğu, okuma uzmanı veya dil ve konuşma terapisti katkıda bulunabilir.",
+              "Gördüğünüz örüntüyü çocuğun doktoruna da anlatın. Gelişimini, uykusunu, sağlığını ve duygusal durumunu değerlendirebilir, işitme ve görme kontrolü düşünebilir. Çocuk okul dışındaki günlük etkinliklerde de yardıma ihtiyaç duyuyorsa belirtin. Birden fazla alan etkilenmişse daha geniş bir gelişim değerlendirmesi yararlı olabilir."
+            ]
+          },
+          {
+            "heading": "İzleyebileceğiniz tek bir hedef belirleyin",
+            "paragraphs": [
+              "Öğretmenden beceriyi, nasıl öğretileceğini, ilerlemenin nasıl kaydedileceğini ve yeniden ne zaman görüşeceğinizi açıklamasını isteyin. Evde aynı amaca yönelik kısa bir etkinlik sorun. Hedef sesleri bir sözcük oluşturmak için birleştirmekse öğretmenden uygulamayı göstermesini isteyin.",
+              "Hedefe yönelik öğretim yarar sağlayabilir. Rastgele gruplandırma yapılan bir araştırmada okumakta zorlanan ve İspanyolca konuşan 187 birinci sınıf öğrencisi izlendi. Bire bir İspanyolca okuryazarlık öğretimi sunulan çocuklar, araştırmanın okuryazarlık ölçümlerinde karşılaştırma grubundan daha iyi sonuç aldı. Bu bulgu belli bir program ve yaş grubuyla ilgilidir. Temel güçlüğü matematik veya dili anlama olan çocuklar farklı desteğe ihtiyaç duyabilir."
+            ]
+          },
+          {
+            "heading": "Bir sonraki çalışma örneğini birlikte inceleyin",
+            "paragraphs": [
+              "Takip görüşmesinde yeni bir çalışmaya bakın. Çocuk görevin daha büyük bölümünü tek başına yapabiliyor mu? Hangi aşamanın ilerlediğini, hangisinin hâlâ zor olduğunu sorun. İlerleme sınırlıysa öğretim yöntemini değiştirmeyi, desteği artırmayı veya daha kapsamlı bireysel değerlendirmeyi konuşun. Çocuğunuza da bu kez işi neyin kolaylaştırdığını sorun."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Çocuğunuzun zorlandığı belirli bir beceriyi ve kullanabileceği bir güçlü yönünü yazın.",
+          "Öğretmen ve doktordan dersleri, kullandığı dilleri ve günlük yaşamı birlikte değerlendirmelerini isteyin.",
+          "Bir öğretim hedefi ve çalışmaları birlikte gözden geçirmek için tarih belirleyin."
+        ],
+        "faq": [
+          {
+            "q": "Birisi çocuğuma yavaş öğreniyor dediğinde bu ne anlama gelir?",
+            "a": "Bu söz, bir kişinin çocuğun öğrenme hızı hakkındaki izlenimidir. Hangi beceriyi kastettiğini ve çocuğun şimdiden neler yapabildiğini sorun. Süren bir güçlük değerlendirilebilir ve destek sağlanabilir."
+          },
+          {
+            "q": "Daha fazla zamana ihtiyaç duymak özgül öğrenme bozukluğu anlamına mı gelir?",
+            "a": "Çocuk pek çok nedenle daha çok zamana ihtiyaç duyabilir. Özgül öğrenme bozuklukları, okuma gibi belirli akademik becerilerde süren güçlükleri içerir. Tanıdan önce çocuğun öyküsü, aldığı eğitim ve performansı değerlendirilir."
+          },
+          {
+            "q": "DEHB olabilir mi?",
+            "a": "Dikkat sorunları öğrenmeyi etkileyebilir ve dikkat eksikliği ve hiperaktivite bozukluğu bir öğrenme bozukluğuyla birlikte görülebilir. Tek bir görevde yavaş çalışmak DEHB tanısı koydurmaz. Doktora okulda ve evde olanları anlatın."
+          },
+          {
+            "q": "Öğrenme hızı çocuğun otizmli olduğunu gösterir mi?",
+            "a": "Tek başına öğrenme hızı otizmi belirlemek için yeterli değildir. Sosyal iletişim veya tekrarlayıcı davranışlarla ilgili de kaygınız varsa gözlemlerinizi doktorla görüşün."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Okulun neleri değerlendirebileceğini ve hangi desteğin başlayabileceğini sorun.",
+            "İşitme, görme, gelişim ve kullanılan diller hakkında bilgi verin.",
+            "Bir kontrol tarihi belirleyip seçilen becerideki ilerlemeye bakın."
+          ],
+          "bemama": "BeMama bir sonraki görüşmeye iki çalışma örneği götürmenizi önerir. Biri çocuğun güçlü olduğu, diğeri yardıma ihtiyaç duyduğu yeri göstersin.",
+          "safety": "Çocuk önceden kazandığı bir beceriyi kaybederse gecikmeden doktoruna bildirin. Kazanılmış bir becerinin kaybı ayrıca değerlendirilmelidir.",
+          "sources": [
+            {
+              "organization": "Ulusal Çocuk Sağlığı ve İnsan Gelişimi Enstitüsü",
+              "title": "Öğrenme bozukluklarına nasıl tanı konur?",
+              "url": "https://www.nichd.nih.gov/health/topics/learning/conditioninfo/diagnosed"
+            },
+            {
+              "organization": "Melbourne Kraliyet Çocuk Hastanesi",
+              "title": "Okul çağında öğrenme güçlüklerinin değerlendirilmesi",
+              "url": "https://www.rch.org.au/kidsconnect/prereferral_guidelines/Learning_difficulties_school_problems/"
+            },
+            {
+              "organization": "Borman ve çalışma arkadaşları, American Educational Research Journal dergisi",
+              "title": "İspanyolca bire bir okuma öğretiminin incelendiği rastgele gruplamalı araştırma",
+              "url": "https://journals.sagepub.com/doi/10.3102/0002831219890612"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Cuando un niño necesita más tiempo para aprender una habilidad",
+        "description": "Aprende a describir una dificultad de aprendizaje persistente, pedir ayuda concreta a la escuela y hablar con el pediatra sobre el apoyo que necesita tu hijo.",
+        "intro": "Tu hijo puede contar la historia que le leíste, pero aún le cuesta leer palabras conocidas en la página. Otro niño quizá lea con soltura y pierda el hilo al resolver una cuenta sencilla. Lleva a la reunión escolar un ejemplo del paso concreto en el que tu hijo suele atascarse.",
+        "sections": [
+          {
+            "heading": "Describe la habilidad que le cuesta aprender",
+            "paragraphs": [
+              "Anota qué tenía que hacer, qué parte pudo completar solo y dónde necesitó ayuda. Incluye algo que haga bien. «Cuenta la historia, pero todavía no consigue juntar los sonidos para leer estas palabras» orienta mejor al docente que un calificativo sobre su ritmo.",
+              "Pregunta si ocurre también en clase, cuánto tiempo llevan enseñando esa habilidad y qué explicaciones o materiales le ayudan. Si usa varias lenguas, explica cuáles escucha, habla, lee o escribe y dónde aprendió cada una. El vocabulario nuevo en la lengua de enseñanza puede influir en cómo resuelve una tarea."
+            ]
+          },
+          {
+            "heading": "Habla con la escuela y con el pediatra",
+            "paragraphs": [
+              "Pregunta qué evaluación ofrece la escuela y qué apoyo puede empezar ya. Los ejemplos de trabajo, la asistencia y el progreso ayudan a distinguir entre una oportunidad de aprendizaje perdida y una habilidad que sigue costando pese a haberla trabajado. Según la dificultad, pueden participar especialistas en psicología escolar, lectura o lenguaje.",
+              "Cuenta también al pediatra lo que observas. Puede revisar el desarrollo, el sueño, la salud física y el bienestar emocional, y valorar pruebas de audición y visión. Menciona si también necesita ayuda con actividades cotidianas fuera de la escuela. Si hay dificultades en varias áreas, puede convenir una evaluación más amplia del desarrollo."
+            ]
+          },
+          {
+            "heading": "Acordad un objetivo que se pueda comprobar",
+            "paragraphs": [
+              "Pide al docente que concrete la habilidad, cómo la enseñará, cómo registrará los avances y cuándo volveréis a reuniros. Para casa, solicita una actividad corta que trabaje ese mismo objetivo. Si se trata de unir sonidos para leer una palabra, pide que te muestre cómo practicarlo.",
+              "La enseñanza dirigida a una necesidad concreta puede ayudar. En un ensayo aleatorizado con 187 alumnos hispanohablantes de primer curso que tenían dificultades lectoras, quienes recibieron la oferta de enseñanza individual en español obtuvieron mejores resultados en las medidas de lectoescritura que el grupo de comparación. El hallazgo se refiere a ese programa y a esa edad. Una dificultad en matemáticas o en la comprensión del lenguaje puede requerir otras ayudas."
+            ]
+          },
+          {
+            "heading": "Revisad una muestra nueva de su trabajo",
+            "paragraphs": [
+              "En la próxima reunión, mirad juntos un ejercicio reciente. ¿Hace una parte mayor sin ayuda? Pregunta qué paso mejoró y cuál sigue costando. Si el avance es escaso, podéis cambiar la enseñanza, aumentar el apoyo o solicitar una evaluación individual más completa. Pregunta también a tu hijo qué le facilitó la tarea esta vez."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Anota una habilidad concreta que le cueste y una fortaleza en la que apoyarse.",
+          "Pide a la escuela y al pediatra que valoren el patrón en las clases, las lenguas que usa y la vida cotidiana.",
+          "Acordad una meta y una fecha para revisar juntos trabajos reales."
+        ],
+        "faq": [
+          {
+            "q": "¿Qué significa que alguien diga que mi hijo es lento para aprender?",
+            "a": "Es la impresión de esa persona sobre su ritmo. Pregunta a qué habilidad se refiere y qué sabe hacer tu hijo. Una dificultad persistente se puede evaluar y apoyar."
+          },
+          {
+            "q": "¿Necesitar más tiempo equivale a una dificultad específica de aprendizaje?",
+            "a": "Puede hacer falta más tiempo por distintas razones. Los trastornos específicos del aprendizaje implican dificultades persistentes en habilidades académicas concretas, como la lectura. Antes del diagnóstico se consideran la historia, la enseñanza recibida y el rendimiento."
+          },
+          {
+            "q": "¿Podría ser TDAH?",
+            "a": "Los problemas de atención pueden afectar al aprendizaje, y el TDAH puede coexistir con un trastorno del aprendizaje. Trabajar despacio en una tarea no permite diagnosticar TDAH. Comenta qué ocurre en la escuela y en casa."
+          },
+          {
+            "q": "¿El ritmo de aprendizaje permite saber si un niño es autista?",
+            "a": "El ritmo por sí solo no permite identificar autismo. Si también te preocupan la comunicación social o patrones repetitivos de comportamiento, comparte esas observaciones con el pediatra."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Pregunta qué puede evaluar la escuela y qué ayuda concreta puede empezar.",
+            "Comparte información sobre audición, visión, desarrollo y lenguas que utiliza.",
+            "Fijad una fecha para revisar los avances en la habilidad elegida."
+          ],
+          "bemama": "BeMama sugiere llevar dos trabajos a la reunión, uno que muestre una fortaleza y otro que muestre el punto en el que tu hijo necesita ayuda.",
+          "safety": "Avisa pronto al pediatra si tu hijo pierde una habilidad que ya dominaba. La pérdida de una habilidad adquirida requiere una evaluación aparte.",
+          "sources": [
+            {
+              "organization": "Instituto Nacional de Salud Infantil y Desarrollo Humano",
+              "title": "Cómo se diagnostican los trastornos del aprendizaje",
+              "url": "https://www.nichd.nih.gov/health/topics/learning/conditioninfo/diagnosed"
+            },
+            {
+              "organization": "Hospital Real Infantil de Melbourne",
+              "title": "Evaluación de dificultades de aprendizaje en escolares",
+              "url": "https://www.rch.org.au/kidsconnect/prereferral_guidelines/Learning_difficulties_school_problems/"
+            },
+            {
+              "organization": "Borman y colaboradores, revista American Educational Research Journal",
+              "title": "Ensayo aleatorizado de enseñanza individual de la lectura en español",
+              "url": "https://journals.sagepub.com/doi/10.3102/0002831219890612"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Quando a criança precisa de mais tempo para aprender",
+        "description": "Veja como descrever uma dificuldade de aprendizagem persistente, pedir apoio específico à escola e conversar com o pediatra sobre as necessidades da criança.",
+        "intro": "Seu filho consegue contar a história que vocês leram juntos, mas ainda tem dificuldade para ler palavras conhecidas na página. Outra criança talvez leia com fluência e se perca várias vezes numa conta simples. Leve à reunião na escola um exemplo da etapa em que seu filho costuma ter dificuldade.",
+        "sections": [
+          {
+            "heading": "Descreva a habilidade que está difícil de aprender",
+            "paragraphs": [
+              "Anote o que foi pedido, qual parte a criança fez sozinha e onde precisou de ajuda. Inclua algo que ela faz bem. Para o professor, “ela reconta a história, mas ainda não consegue juntar os sons para ler estas palavras” é mais esclarecedor do que um rótulo sobre a velocidade com que aprende.",
+              "Pergunte se isso acontece na sala, há quanto tempo a habilidade é ensinada e quais explicações ou materiais ajudam. Se a criança usa várias línguas, conte quais ouve, fala, lê ou escreve e onde aprendeu cada uma. Palavras novas na língua de ensino podem afetar seu desempenho em determinada tarefa."
+            ]
+          },
+          {
+            "heading": "Converse com a escola e com o pediatra",
+            "paragraphs": [
+              "Pergunte o que a escola pode avaliar e qual apoio pode começar agora. Trabalhos escolares, frequência às aulas e progresso ao longo do tempo ajudam a distinguir uma oportunidade de aprendizagem perdida de uma habilidade que continua difícil mesmo após o ensino. Conforme a dificuldade, podem participar um psicólogo escolar, um especialista em leitura ou um fonoaudiólogo.",
+              "Conte ao pediatra o padrão observado. Ele pode avaliar desenvolvimento, sono, saúde física e bem-estar emocional e considerar exames de audição e visão. Diga se a criança precisa de ajuda em atividades diárias fora da escola também. Uma avaliação mais ampla do desenvolvimento pode ser útil quando várias áreas estão envolvidas."
+            ]
+          },
+          {
+            "heading": "Combinem uma meta que possa ser acompanhada",
+            "paragraphs": [
+              "Peça ao professor que explique a habilidade, o método de ensino, como vai registrar os avanços e quando vocês voltarão a conversar. Para casa, peça uma atividade breve com o mesmo objetivo. Se a meta for juntar sons para formar uma palavra, peça que ele demonstre o exercício.",
+              "O ensino direcionado pode ajudar. Um estudo randomizado acompanhou 187 alunos do primeiro ano que falavam espanhol e tinham dificuldade de leitura. As crianças a quem foi oferecido ensino individual de alfabetização em espanhol tiveram resultados melhores nas medidas de leitura e escrita do que o grupo de comparação. A conclusão se refere a um programa e uma faixa etária. Crianças cuja maior dificuldade está na matemática ou na compreensão da linguagem podem precisar de outro tipo de apoio."
+            ]
+          },
+          {
+            "heading": "Examinem um novo trabalho juntos",
+            "paragraphs": [
+              "No encontro seguinte, olhem um trabalho recente. A criança consegue fazer uma parte maior sem ajuda? Pergunte o que melhorou e qual etapa continua difícil. Se o avanço for pequeno, conversem sobre mudar o ensino, aumentar o apoio ou fazer uma avaliação individual mais completa. Ouça a própria criança sobre o que facilitou a tarefa desta vez."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Registre uma habilidade específica que está difícil e um ponto forte que possa ajudar.",
+          "Peça que a escola e o pediatra considerem o padrão nas aulas, nas línguas utilizadas e no dia a dia.",
+          "Combinem um objetivo de ensino e uma data para avaliar trabalhos concretos."
+        ],
+        "faq": [
+          {
+            "q": "O que significa dizer que meu filho é lento para aprender?",
+            "a": "A expressão reflete a impressão de alguém sobre o ritmo da criança. Pergunte de qual habilidade a pessoa está falando e o que seu filho já consegue fazer. Uma dificuldade persistente pode ser avaliada e receber apoio."
+          },
+          {
+            "q": "Precisar de mais tempo é o mesmo que ter um transtorno específico da aprendizagem?",
+            "a": "Uma criança pode precisar de mais tempo por vários motivos. Transtornos específicos da aprendizagem envolvem dificuldades persistentes em habilidades escolares determinadas, como a leitura. A avaliação considera a história, o ensino recebido e o desempenho antes de definir um diagnóstico."
+          },
+          {
+            "q": "Pode ser TDAH?",
+            "a": "Dificuldades de atenção podem interferir na aprendizagem, e o TDAH pode coexistir com um transtorno da aprendizagem. Demorar em uma única tarefa não permite diagnosticar TDAH. Conte ao pediatra o que acontece na escola e em casa."
+          },
+          {
+            "q": "O ritmo de aprendizagem indica se a criança é autista?",
+            "a": "O ritmo por si só não permite identificar autismo. Se você também tem preocupações sobre a comunicação social ou comportamentos repetitivos, converse com o pediatra sobre suas observações."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Pergunte o que a escola pode avaliar e qual ajuda específica pode começar.",
+            "Compartilhe informações sobre audição, visão, desenvolvimento e línguas usadas.",
+            "Marque uma data para verificar o avanço na habilidade escolhida."
+          ],
+          "bemama": "A BeMama sugere levar dois trabalhos à próxima reunião, um que mostre um ponto forte e outro que mostre onde a criança precisa de ajuda.",
+          "safety": "Avise o pediatra prontamente se a criança perder uma habilidade que já dominava. A perda de uma habilidade adquirida precisa de avaliação específica.",
+          "sources": [
+            {
+              "organization": "Instituto Nacional de Saúde Infantil e Desenvolvimento Humano",
+              "title": "Como são diagnosticados os transtornos da aprendizagem",
+              "url": "https://www.nichd.nih.gov/health/topics/learning/conditioninfo/diagnosed"
+            },
+            {
+              "organization": "Hospital Real Infantil de Melbourne",
+              "title": "Avaliação das dificuldades de aprendizagem na idade escolar",
+              "url": "https://www.rch.org.au/kidsconnect/prereferral_guidelines/Learning_difficulties_school_problems/"
+            },
+            {
+              "organization": "Borman e colaboradores, periódico American Educational Research Journal",
+              "title": "Ensaio randomizado de ensino individual de leitura em espanhol",
+              "url": "https://journals.sagepub.com/doi/10.3102/0002831219890612"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5964.webp",
+    "heroAlt": {
+      "en": "A child places a blue counting disc in a compartment of a wooden tray.",
+      "fa": "کودکی یک مهرهٔ شمارش آبی را در یکی از خانه‌های سینی چوبی می‌گذارد.",
+      "ar": "طفل يضع قرص عدّ أزرق في إحدى خانات صينية خشبية.",
+      "fr": "Un enfant place un jeton de comptage bleu dans la case d’un plateau en bois.",
+      "tr": "Bir çocuk mavi sayma pulunu ahşap tablanın bir gözüne yerleştiriyor.",
+      "es": "Un niño coloca una ficha azul de contar en un compartimento de una bandeja de madera.",
+      "pt": "Uma criança coloca uma ficha azul de contagem em uma divisória de uma bandeja de madeira."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "When a child needs more time to learn a new skill",
+      "description": "See how to describe a lasting learning difficulty, ask the school for targeted help and work with your child’s clinician to understand what support fits."
+    },
+    "fa": {
+      "title": "وقتی کودک برای یادگیری یک مهارت به زمان بیشتری نیاز دارد",
+      "description": "چگونه دشواری مداوم در یادگیری را توضیح دهید، از مدرسه کمک مشخص بخواهید و همراه پزشک فرزندتان بررسی کنید که کدام حمایت برای او مناسب است."
+    },
+    "ar": {
+      "title": "عندما يحتاج الطفل إلى وقت أطول لتعلّم مهارة جديدة",
+      "description": "كيف تصف صعوبة مستمرة في التعلّم، وتطلب من المدرسة مساعدة محددة، وتناقش مع طبيب طفلك نوع الدعم الذي يناسب احتياجاته؟"
+    },
+    "fr": {
+      "title": "Quand un enfant a besoin de plus de temps pour apprendre",
+      "description": "Décrivez une difficulté d’apprentissage qui dure, demandez une aide précise à l’école et discutez avec le médecin du soutien adapté à votre enfant."
+    },
+    "tr": {
+      "title": "Yeni bir beceriyi öğrenmek için daha fazla zamana ihtiyaç duyan çocuk",
+      "description": "Süren bir öğrenme güçlüğünü örneklerle anlatmayı, okuldan belirli bir destek istemeyi ve çocuğunuza neyin yardımcı olacağını hekimiyle görüşmeyi öğrenin."
+    },
+    "es": {
+      "title": "Cuando un niño necesita más tiempo para aprender una habilidad",
+      "description": "Aprende a describir una dificultad de aprendizaje persistente, pedir ayuda concreta a la escuela y hablar con el pediatra sobre el apoyo que necesita tu hijo."
+    },
+    "pt": {
+      "title": "Quando a criança precisa de mais tempo para aprender",
+      "description": "Veja como descrever uma dificuldade de aprendizagem persistente, pedir apoio específico à escola e conversar com o pediatra sobre as necessidades da criança."
+    }
+  }
+}

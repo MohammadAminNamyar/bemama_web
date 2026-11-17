@@ -1,0 +1,646 @@
+{
+  "sourceId": "5776",
+  "article": {
+    "slug": "child-cold-or-bacterial-sinusitis",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "A cold or sinusitis? Follow the course of your child’s symptoms",
+        "description": "Learn which changes in a child’s cold suggest bacterial sinusitis, when to ask about antibiotics, and which eye or headache symptoms need urgent care.",
+        "intro": "On day four of a cold your child blows their nose and the tissue comes away green. Look back over the last few days. Are they playing more and coughing less? Or did the fever return after they seemed better? That sequence tells the clinician more than the colour on the tissue.",
+        "sections": [
+          {
+            "heading": "Note when the illness changed",
+            "paragraphs": [
+              "A viral cold can turn thin, clear mucus thick, yellow or green before the child gets better. Daytime cough may be worse at night. If symptoms are easing overall, coloured mucus alone does not mean your child needs antibiotics.",
+              "For children aged one year and older, clinicians look for three patterns. A daytime cough, nasal discharge or both may last more than ten days with no improvement. A child may start to get better and then develop more cough, nasal discharge or a new fever. A severe start involves fever of at least 39°C (102.2°F) together with thick pus-like discharge for at least three consecutive days. Call for medical advice about any of these patterns. Seek care sooner if your child seems seriously ill."
+            ]
+          },
+          {
+            "heading": "Ask what the examination shows",
+            "paragraphs": [
+              "The clinician will ask how the illness unfolded and examine your child. An uncomplicated case usually needs no X-ray or CT scan. New swelling or redness around an eye needs urgent assessment. Go to emergency care for painful or restricted eye movement, vision changes, a severe headache with neck stiffness or repeated vomiting, or unusual drowsiness or confusion.",
+              "For comfort, offer fluids and use ready-made saline nose drops if needed. Ask about an age-appropriate pain reliever. If the clinician diagnoses severe or worsening bacterial sinusitis, antibiotics are recommended. For persistent symptoms without a severe or worsening course, the clinician may offer antibiotics or up to three additional days of observation with a clear follow-up plan."
+            ]
+          },
+          {
+            "heading": "Know when to call back",
+            "paragraphs": [
+              "Call if symptoms worsen at any point or have not started to improve within about 72 hours of the agreed treatment or observation plan. Improvement does not mean every cough will be gone by then. If medicine was prescribed, give it as directed and ask about troublesome side effects.",
+              "A randomized trial enrolled 515 children aged two to eleven with clinically diagnosed acute sinusitis. Among the 510 included in the analysis, symptoms resolved in a median of seven days with an antibiotic and nine with placebo. The treatment effect did not differ by mucus colour. The trial excluded severe presentations, so its results do not guide emergency care."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Note the day symptoms began, whether they improved and when they changed.",
+          "Ask about the three illness patterns rather than judging by mucus colour.",
+          "Agree on a follow-up time and get urgent help for eye or neurological changes."
+        ],
+        "faq": [
+          {
+            "q": "Does green mucus mean the cold is bacterial?",
+            "a": "No. Mucus can change colour during a viral cold. The duration, severity and whether the child got worse after improving are more informative."
+          },
+          {
+            "q": "Should I wait ten days before seeking help?",
+            "a": "No. A second worsening, serious illness or an eye or neurological warning sign calls for earlier assessment. Ten days without improvement is one of several patterns."
+          },
+          {
+            "q": "Will my child need a scan?",
+            "a": "A clinician can usually assess uncomplicated sinusitis from the history and examination. Imaging may be needed if there are signs of a complication."
+          },
+          {
+            "q": "When should an antibiotic start to help?",
+            "a": "Contact the clinician if your child gets worse or has not started to improve within about 72 hours. Follow the prescription and agreed plan."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 17, 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Describe the whole illness, including any better days.",
+            "Use an observation period only with a clinician’s follow-up plan.",
+            "Seek assessment promptly for redness or swelling around an eye."
+          ],
+          "bemama": "BeMama suggests marking the first day, a day your child seemed better, and the day the cough or fever changed. Bring those three observations to the appointment.",
+          "safety": "Seek urgent assessment for new redness or swelling near an eye. Painful or limited eye movement, vision changes, severe headache with neck stiffness or repeated vomiting, or confusion or unusual drowsiness need emergency assessment.",
+          "sources": [
+            {
+              "organization": "American Academy of Pediatrics",
+              "title": "Diagnosis and management of acute bacterial sinusitis in children",
+              "url": "https://publications.aap.org/pediatrics/article/132/1/e262/31288/Clinical-Practice-Guideline-for-the-Diagnosis-and"
+            },
+            {
+              "organization": "US Centers for Disease Control and Prevention",
+              "title": "Outpatient antibiotic guidance for children with sinusitis",
+              "url": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html"
+            },
+            {
+              "organization": "Shaikh and colleagues, JAMA",
+              "title": "Antibiotics for acute sinusitis in children: randomized trial",
+              "url": "https://jamanetwork.com/journals/jama/fullarticle/2807568"
+            },
+            {
+              "organization": "Children’s Hospital of Philadelphia",
+              "title": "Acute bacterial rhinosinusitis clinical pathway",
+              "url": "https://www.chop.edu/clinical-pathway/acute-bacterial-rhinosinusitis-clinical-pathway"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "سرماخوردگی است یا سینوزیت؟ به سیر علائم کودک نگاه کنید",
+        "description": "بدانید چه تغییراتی در سرماخوردگی کودک احتمال سینوزیت باکتریایی را مطرح می‌کند، چه وقت درباره آنتی‌بیوتیک بپرسید و کدام علائم چشمی نیاز به اقدام فوری دارند.",
+        "intro": "روز چهارم سرماخوردگی، کودک بینی‌اش را پاک می‌کند و روی دستمال ترشح سبز می‌بینید. بیشتر بازی می‌کند و کمتر سرفه می‌کند؟ یا مدتی بهتر شد و تب دوباره برگشت؟ این ترتیب رویدادها برای پزشک اطلاعات بیشتری از رنگ ترشح دارد.",
+        "sections": [
+          {
+            "heading": "تاریخ تغییر علائم را ثبت کنید",
+            "paragraphs": [
+              "در سرماخوردگی ویروسی، ترشح رقیق و شفاف ممکن است پیش از بهبود غلیظ و زرد یا سبز شود. سرفه‌ای که روز هم وجود دارد گاهی شب بدتر می‌شود. اگر علائم در مجموع رو به بهبودند، رنگ ترشح به‌تنهایی نشانه نیاز به آنتی‌بیوتیک نیست.",
+              "در کودکان یک‌ساله و بزرگ‌تر، پزشکان به سه الگو توجه دارند. سرفه روزانه، آبریزش بینی یا هر دو ممکن است بیش از ده روز بدون بهبود ادامه یابد. ممکن است کودک ابتدا بهتر شود و سپس سرفه یا ترشح بیشتر شود یا تبی تازه شروع شود. شروع شدید یعنی تب ۳۹ درجه سانتی‌گراد یا بیشتر همراه با ترشح غلیظ شبیه چرک به مدت دست‌کم سه روز پیاپی. برای هر کدام از این الگوها با پزشک مشورت کنید. اگر کودک به‌شدت بیمار به نظر می‌رسد زودتر مراجعه کنید."
+            ]
+          },
+          {
+            "heading": "بپرسید معاینه چه نشان می‌دهد",
+            "paragraphs": [
+              "پزشک روند بیماری را می‌پرسد و کودک را معاینه می‌کند. برای سینوزیت بدون عارضه معمولاً رادیوگرافی یا سی‌تی‌اسکن لازم نیست. قرمزی یا تورم تازه اطراف یک چشم به ارزیابی فوری نیاز دارد. اگر حرکت چشم دردناک یا محدود شده، بینایی تغییر کرده، سردرد شدید همراه با خشکی گردن یا استفراغ مکرر وجود دارد، یا کودک به‌طور غیرعادی خواب‌آلود یا گیج است، به اورژانس بروید.",
+              "مایعات پیشنهاد کنید و در صورت نیاز از قطره آماده آب‌نمک بینی استفاده کنید. درباره مسکن مناسب سن بپرسید. اگر پزشک سینوزیت باکتریایی شدید یا رو به وخامت تشخیص دهد، آنتی‌بیوتیک توصیه می‌شود. برای علائم ماندگار که شدید یا رو به وخامت نیستند، ممکن است آنتی‌بیوتیک یا حداکثر سه روز دیگر صبر با برنامه روشن پیگیری پیشنهاد کند."
+            ]
+          },
+          {
+            "heading": "چه زمانی دوباره تماس بگیرید؟",
+            "paragraphs": [
+              "اگر کودک در هر زمانی بدتر شد یا تا حدود ۷۲ ساعت پس از آغاز درمان یا دوره انتظار توافق‌شده بهبود شروع نشد، تماس بگیرید. شروع بهبود به معنای رفع کامل سرفه در این مدت نیست. دارو را طبق نسخه بدهید و درباره عوارض آزاردهنده بپرسید.",
+              "در یک کارآزمایی تصادفی، ۵۱۵ کودک ۲ تا ۱۱ ساله با تشخیص بالینی سینوزیت حاد شرکت کردند. در میان ۵۱۰ کودک بررسی‌شده، میانه زمان تا رفع علائم با آنتی‌بیوتیک هفت روز و با دارونما نه روز بود. اثر درمان بر حسب رنگ ترشح تفاوتی نداشت. موارد شدید وارد مطالعه نشدند، پس این نتایج راهنمای مراقبت اورژانسی نیست."
+            ]
+          }
+        ],
+        "takeaways": [
+          "زمان شروع علائم، دوره بهبود و روز تغییر علائم را بنویسید.",
+          "به‌جای تکیه بر رنگ ترشح، درباره سه الگوی سیر بیماری بپرسید.",
+          "برای پیگیری برنامه بگیرید و بابت تغییرات چشمی یا عصبی فوری کمک بگیرید."
+        ],
+        "faq": [
+          {
+            "q": "آیا ترشح سبز یعنی سرماخوردگی باکتریایی است؟",
+            "a": "خیر. رنگ ترشح در سرماخوردگی ویروسی هم تغییر می‌کند. مدت، شدت و بدتر شدن دوباره پس از بهبود اطلاعات بیشتری می‌دهند."
+          },
+          {
+            "q": "آیا باید ده روز برای مراجعه صبر کنم؟",
+            "a": "خیر. بدتر شدن دوباره، بیماری شدید یا علائم هشدار چشمی و عصبی نیاز به ارزیابی زودتر دارد. بیش از ده روز بدون بهبود فقط یکی از الگوهاست."
+          },
+          {
+            "q": "آیا کودک به تصویربرداری نیاز دارد؟",
+            "a": "پزشک معمولاً با شرح حال و معاینه می‌تواند سینوزیت بدون عارضه را بررسی کند. در صورت وجود نشانه‌های عارضه ممکن است تصویربرداری لازم باشد."
+          },
+          {
+            "q": "آنتی‌بیوتیک چه زمانی باید اثر کند؟",
+            "a": "در صورت بدتر شدن یا شروع نشدن بهبود در حدود ۷۲ ساعت با پزشک تماس بگیرید. نسخه و برنامه مورد توافق را دنبال کنید."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۷ نوامبر ۲۰۲۶ بررسی شد",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "همه روند بیماری، از جمله روزهای بهتر، را شرح دهید.",
+            "فقط با برنامه پیگیری پزشک دوره انتظار را آغاز کنید.",
+            "قرمزی یا تورم تازه اطراف یک چشم را فوری پیگیری کنید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند روز شروع، یک روزی که کودک بهتر به نظر می‌رسید و روز تغییر سرفه یا تب را یادداشت کنید و این سه مشاهده را به پزشک بگویید.",
+          "safety": "قرمزی یا تورم تازه اطراف یک چشم به ارزیابی فوری نیاز دارد. حرکت دردناک یا محدود چشم، تغییر بینایی، سردرد شدید همراه با خشکی گردن یا استفراغ مکرر، گیجی یا خواب‌آلودگی غیرعادی نیازمند ارزیابی در اورژانس است.",
+          "sources": [
+            {
+              "organization": "آکادمی اطفال آمریکا",
+              "title": "تشخیص و درمان سینوزیت باکتریایی حاد در کودکان",
+              "url": "https://publications.aap.org/pediatrics/article/132/1/e262/31288/Clinical-Practice-Guideline-for-the-Diagnosis-and"
+            },
+            {
+              "organization": "مراکز کنترل و پیشگیری از بیماری‌های ایالات متحده",
+              "title": "راهنمای آنتی‌بیوتیک برای کودکان سرپایی مبتلا به سینوزیت",
+              "url": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html"
+            },
+            {
+              "organization": "شیخ و همکاران، جاما",
+              "title": "کارآزمایی تصادفی آنتی‌بیوتیک در سینوزیت حاد کودکان",
+              "url": "https://jamanetwork.com/journals/jama/fullarticle/2807568"
+            },
+            {
+              "organization": "بیمارستان کودکان فیلادلفیا",
+              "title": "مسیر بالینی رینوسینوزیت باکتریایی حاد",
+              "url": "https://www.chop.edu/clinical-pathway/acute-bacterial-rhinosinusitis-clinical-pathway"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "زكام أم التهاب جيوب؟ راقب مسار الأعراض لدى طفلك",
+        "description": "تعرّف إلى التغيرات التي توحي بالتهاب الجيوب البكتيري عند الطفل، ومتى تسأل عن المضاد الحيوي، وأي تغيرات حول العين تتطلب تقييماً عاجلاً.",
+        "intro": "في اليوم الرابع من الزكام يتمخّط طفلك ويترك مخاطاً أخضر على المنديل. هل صار يلعب أكثر ويسعل أقل؟ أم عادت الحمى بعدما بدا أنه تحسّن؟ يزوّد هذا التسلسل الطبيب بمعلومات أكثر من لون المنديل.",
+        "sections": [
+          {
+            "heading": "سجّل متى تغير مسار المرض",
+            "paragraphs": [
+              "قد تصبح الإفرازات الشفافة الخفيفة سميكة وصفراء أو خضراء أثناء الزكام الفيروسي قبل الشفاء. وقد يشتد السعال الموجود نهاراً في الليل. إذا كانت الأعراض تتحسن عموماً، فلا يدل اللون وحده على الحاجة إلى مضاد حيوي.",
+              "بعد إتمام السنة الأولى يبحث الأطباء عن ثلاثة أنماط. قد يستمر السعال النهاري أو إفراز الأنف أو كلاهما أكثر من عشرة أيام دون تحسن. وقد يتحسن الطفل ثم يزداد السعال أو الإفراز أو تظهر حمى جديدة. أما البداية الشديدة فتجمع بين حرارة لا تقل عن ٣٩ درجة مئوية وإفراز سميك يشبه القيح طوال ثلاثة أيام متتالية على الأقل. اطلب المشورة لأي من هذه الأنماط، واطلب الرعاية أبكر إذا بدا الطفل شديد المرض."
+            ]
+          },
+          {
+            "heading": "اسأل عمّا أظهره الفحص",
+            "paragraphs": [
+              "يسأل الطبيب عن سير الأعراض ويفحص الطفل. لا يلزم عادة تصوير بالأشعة أو التصوير المقطعي في الحالات غير المعقدة. يحتاج التورم أو الاحمرار الجديد حول عين واحدة إلى تقييم عاجل. توجّه إلى الطوارئ إذا آلم الطفل تحريك العين أو أصبحت حركتها محدودة، أو تغير النظر، أو حدث صداع شديد مع تيبس الرقبة أو تكرر القيء، أو ظهر نعاس غير معتاد أو تشوش.",
+              "اعرض السوائل واستعمل عند الحاجة قطرات أنفية من محلول ملحي جاهز. اسأل عن مسكن مناسب للعمر. يُنصح بالمضاد الحيوي إذا شخّص الطبيب التهاب جيوب بكتيرياً شديداً أو متفاقماً. أما الأعراض المستمرة دون شدة أو تفاقم فقد يقترح لها مضاداً حيوياً أو المراقبة مدة إضافية تصل إلى ثلاثة أيام مع خطة متابعة واضحة."
+            ]
+          },
+          {
+            "heading": "اعرف متى تعاود الاتصال",
+            "paragraphs": [
+              "اتصل إذا ساءت الأعراض في أي وقت أو إذا لم يبدأ تحسن بعد نحو ٧٢ ساعة من بدء العلاج أو المراقبة المتفق عليها. قد يستمر بعض السعال رغم بدء التحسن. أعط الدواء الموصوف وفق التعليمات واستفسر عن أي آثار جانبية مزعجة.",
+              "شملت تجربة عشوائية ٥١٥ طفلاً بين سنتين وإحدى عشرة سنة شُخّص لديهم التهاب جيوب حاد سريرياً. ومن بين ٥١٠ أطفال شملهم التحليل، كان الزمن الوسيط لزوال الأعراض سبعة أيام مع المضاد وتسعة مع الدواء الوهمي. لم يختلف الأثر بحسب لون الإفراز الأنفي. استُبعدت الحالات الشديدة ولا توجّه هذه النتائج رعاية الطوارئ."
+            ]
+          }
+        ],
+        "takeaways": [
+          "دوّن يوم البداية، وهل حدث تحسن ومتى تبدلت الأعراض.",
+          "اسأل عن أنماط تطور المرض الثلاثة قبل الاعتماد على لون المخاط.",
+          "اتفق على موعد المتابعة واطلب المساعدة العاجلة للتغيرات العينية أو العصبية."
+        ],
+        "faq": [
+          {
+            "q": "هل المخاط الأخضر يعني أن الزكام بكتيري؟",
+            "a": "لا. قد يتغير اللون في الزكام الفيروسي. مدة المرض وشدته وعودته إلى التفاقم بعد تحسن أكثر إفادة."
+          },
+          {
+            "q": "هل أنتظر عشرة أيام قبل طلب المشورة؟",
+            "a": "لا. التفاقم مجدداً أو المرض الشديد أو علامة خطر في العين أو الجهاز العصبي يحتاج إلى تقييم أبكر. استمرار الأعراض أكثر من عشرة أيام دون تحسن أحد الأنماط فقط."
+          },
+          {
+            "q": "هل سيحتاج طفلي إلى تصوير؟",
+            "a": "يقيّم الطبيب عادة التهاب الجيوب غير المعقد بالسؤال عن القصة المرضية والفحص. وقد يحتاج إلى التصوير إذا وجد علامات مضاعفات."
+          },
+          {
+            "q": "متى يبدأ تأثير المضاد الحيوي؟",
+            "a": "تواصل مع الطبيب إذا ساءت حالة الطفل أو لم يبدأ التحسن خلال نحو ٧٢ ساعة. اتبع وصفة الدواء وخطة المتابعة."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٧ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "صِف المرض من بدايته، بما في ذلك الأيام التي شعر فيها الطفل بتحسن.",
+            "لا تعتمد المراقبة إلا ضمن خطة متابعة مع الطبيب.",
+            "اطلب تقييماً عاجلاً لتورم أو احمرار جديد حول العين."
+          ],
+          "bemama": "تقترح بي ماما تدوين اليوم الأول ويوم بدا فيه الطفل أفضل ويوم تغير السعال أو الحرارة، وإحضار هذه الملاحظات الثلاث إلى الموعد.",
+          "safety": "يحتاج التورم أو الاحمرار الجديد قرب عين واحدة إلى تقييم عاجل. توجّه إلى الطوارئ لألم أو تقيّد حركة العين أو تغير الرؤية أو صداع شديد مع تيبس الرقبة أو قيء متكرر أو تشوش أو نعاس غير معتاد.",
+          "sources": [
+            {
+              "organization": "الأكاديمية الأمريكية لطب الأطفال",
+              "title": "تشخيص التهاب الجيوب البكتيري الحاد لدى الأطفال وعلاجه",
+              "url": "https://publications.aap.org/pediatrics/article/132/1/e262/31288/Clinical-Practice-Guideline-for-the-Diagnosis-and"
+            },
+            {
+              "organization": "المراكز الأمريكية لمكافحة الأمراض والوقاية منها",
+              "title": "إرشادات المضادات الحيوية لالتهاب الجيوب لدى الأطفال في العيادات",
+              "url": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html"
+            },
+            {
+              "organization": "شيخ وزملاؤه، جاما",
+              "title": "تجربة عشوائية للمضادات الحيوية في التهاب الجيوب الحاد لدى الأطفال",
+              "url": "https://jamanetwork.com/journals/jama/fullarticle/2807568"
+            },
+            {
+              "organization": "مستشفى الأطفال في فيلادلفيا",
+              "title": "مسار الرعاية السريري لالتهاب الأنف والجيوب البكتيري الحاد",
+              "url": "https://www.chop.edu/clinical-pathway/acute-bacterial-rhinosinusitis-clinical-pathway"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Rhume ou sinusite ? Observez l’évolution des symptômes",
+        "description": "Repérez les changements d’un rhume qui évoquent une sinusite bactérienne, quand discuter des antibiotiques et quels signes oculaires exigent un avis urgent.",
+        "intro": "Au quatrième jour d’un rhume, votre enfant se mouche et le mouchoir se colore en vert. Rejoue-t-il davantage en toussant moins ? Ou la fièvre est-elle revenue après une amélioration ? Cette évolution renseigne mieux le professionnel que la couleur du mouchoir.",
+        "sections": [
+          {
+            "heading": "Notez quand la maladie a changé",
+            "paragraphs": [
+              "Au cours d’un rhume viral, des sécrétions claires et fluides peuvent épaissir et devenir jaunes ou vertes avant la guérison. La toux présente le jour peut être plus forte la nuit. Si l’état général s’améliore, la couleur seule ne justifie pas un antibiotique.",
+              "À partir d’un an, les professionnels recherchent trois évolutions possibles. La toux diurne ou l’écoulement nasal, ou les deux, peuvent durer plus de dix jours sans amélioration. Après un mieux, la toux ou l’écoulement peuvent s’aggraver ou une fièvre apparaître. Un début sévère associe une fièvre d’au moins 39 °C à des sécrétions épaisses d’aspect purulent pendant au moins trois jours consécutifs. Demandez un avis médical dans chacun de ces cas. Consultez plus tôt si l’enfant semble gravement malade."
+            ]
+          },
+          {
+            "heading": "Demandez ce que montre l’examen",
+            "paragraphs": [
+              "Le professionnel s’informe du déroulement de la maladie et examine votre enfant. Une sinusite simple ne nécessite généralement ni radiographie ni scanner. Une rougeur ou un gonflement nouveau autour d’un œil exige une évaluation urgente. Allez aux urgences si les mouvements de l’œil sont douloureux ou limités, si la vue change, en cas de mal de tête intense avec raideur de nuque ou vomissements répétés, de somnolence inhabituelle ou de confusion.",
+              "Proposez à boire et, si nécessaire, du sérum physiologique prêt à l’emploi pour le nez. Demandez quel antidouleur convient à son âge. Les antibiotiques sont recommandés si le professionnel diagnostique une sinusite bactérienne sévère ou qui s’aggrave. Pour des symptômes persistants sans gravité ni aggravation, il pourra proposer un antibiotique ou jusqu’à trois jours d’observation supplémentaires avec un suivi convenu."
+            ]
+          },
+          {
+            "heading": "Sachez quand rappeler",
+            "paragraphs": [
+              "Rappelez si l’état s’aggrave à tout moment ou si aucune amélioration ne débute dans les 72 heures environ suivant le début du traitement ou de l’observation. La toux peut encore être présente alors que l’enfant va mieux. Donnez tout médicament comme prescrit et signalez les effets indésirables gênants.",
+              "Un essai randomisé a recruté 515 enfants de 2 à 11 ans présentant un diagnostic clinique de sinusite aiguë. Chez les 510 inclus dans l’analyse, le délai médian de disparition des symptômes était de sept jours avec antibiotique et de neuf avec placebo. L’effet ne variait pas selon la couleur des sécrétions. Les formes sévères étaient exclues. Ces résultats ne guident pas les soins d’urgence."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Notez le premier jour, les éventuels jours de mieux et la date d’un changement.",
+          "Demandez quelle évolution évoque une sinusite plutôt que de vous fier à la couleur.",
+          "Convenez d’un suivi et demandez des soins urgents en cas de signes oculaires ou neurologiques."
+        ],
+        "faq": [
+          {
+            "q": "Des sécrétions vertes signifient-elles que le rhume est bactérien ?",
+            "a": "Non. Leur couleur peut changer pendant un rhume viral. La durée, la gravité et l’aggravation après un mieux sont plus informatives."
+          },
+          {
+            "q": "Faut-il attendre dix jours avant de consulter ?",
+            "a": "Non. Une nouvelle aggravation, une maladie grave ou un signe d’alerte oculaire ou neurologique impose une consultation plus précoce. Plus de dix jours sans amélioration ne constitue qu’une des évolutions possibles."
+          },
+          {
+            "q": "Mon enfant aura-t-il besoin d’un scanner ?",
+            "a": "Le récit et l’examen suffisent souvent à évaluer une sinusite simple. Une imagerie peut être nécessaire si le professionnel suspecte une complication."
+          },
+          {
+            "q": "Quand un antibiotique devrait-il commencer à agir ?",
+            "a": "Rappelez si l’enfant va plus mal ou ne commence pas à aller mieux dans les 72 heures environ. Respectez l’ordonnance et le suivi convenu."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 17 novembre 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Racontez toute la maladie, y compris les jours où l’enfant allait mieux.",
+            "Ne choisissez l’observation qu’avec le suivi convenu avec un professionnel.",
+            "Faites rapidement évaluer une nouvelle rougeur ou un gonflement autour de l’œil."
+          ],
+          "bemama": "BeMama suggère de noter trois repères pour la consultation : le premier jour, un jour de mieux et celui où la toux ou la fièvre a changé.",
+          "safety": "Une rougeur ou un gonflement nouveau près d’un œil nécessite une évaluation urgente. Allez aux urgences si bouger l’œil fait mal ou devient difficile, si la vue change, en cas de céphalée intense avec raideur de nuque ou vomissements répétés, de confusion ou de somnolence inhabituelle.",
+          "sources": [
+            {
+              "organization": "Académie américaine de pédiatrie",
+              "title": "Diagnostic et prise en charge de la sinusite bactérienne aiguë de l’enfant",
+              "url": "https://publications.aap.org/pediatrics/article/132/1/e262/31288/Clinical-Practice-Guideline-for-the-Diagnosis-and"
+            },
+            {
+              "organization": "Centres américains de contrôle et de prévention des maladies",
+              "title": "Antibiotiques en consultation pour la sinusite de l’enfant",
+              "url": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html"
+            },
+            {
+              "organization": "Shaikh et collègues, JAMA",
+              "title": "Essai randomisé des antibiotiques dans la sinusite aiguë de l’enfant",
+              "url": "https://jamanetwork.com/journals/jama/fullarticle/2807568"
+            },
+            {
+              "organization": "Hôpital pour enfants de Philadelphie",
+              "title": "Parcours clinique pour la rhinosinusite bactérienne aiguë",
+              "url": "https://www.chop.edu/clinical-pathway/acute-bacterial-rhinosinusitis-clinical-pathway"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Nezle mi sinüzit mi? Çocuğun belirtilerinin seyrini izleyin",
+        "description": "Çocuğun nezlesinde hangi değişimlerin bakteriyel sinüziti düşündürdüğünü, ne zaman antibiyotiği soracağınızı ve acil göz belirtilerini öğrenin.",
+        "intro": "Nezlenin dördüncü günü çocuğunuz burnunu siliyor ve mendilde yeşil sümük görüyorsunuz. Daha çok oynuyor, daha az mı öksürüyor? Yoksa iyileşir gibiyken ateşi geri mi geldi? Bu sıra, hekime mendildeki renkten daha çok şey anlatır.",
+        "sections": [
+          {
+            "heading": "Hastalığın ne zaman değiştiğini not edin",
+            "paragraphs": [
+              "Viral nezlede sulu ve berrak akıntı iyileşmeden önce koyulaşıp sarı veya yeşil olabilir. Gündüz olan öksürük geceleri artabilir. Genel gidiş düzeliyorsa akıntının rengi tek başına antibiyotik gerektiğini göstermez.",
+              "Bir yaş ve üzerindeki çocuklarda hekimler üç örüntüye bakar. Gündüz öksürüğü, burun akıntısı veya ikisi birden on günden fazla düzelmeden sürebilir. Çocuk önce iyileşip sonra öksürük ya da akıntısı artabilir veya yeni ateş çıkabilir. Ağır başlangıçta en az üç gün üst üste 39 °C ve üzeri ateşle birlikte yoğun, irin benzeri burun akıntısı olur. Bu örüntülerin herhangi biri için tıbbi görüş alın. Çocuk ciddi hasta görünüyorsa daha erken başvurun."
+            ]
+          },
+          {
+            "heading": "Muayenede ne görüldüğünü sorun",
+            "paragraphs": [
+              "Hekim hastalığın seyrini dinler ve çocuğu muayene eder. Komplikasyonsuz bir olguda genellikle röntgen veya bilgisayarlı tomografi gerekmez. Göz çevresinde yeni kızarıklık veya şişlik acil değerlendirme gerektirir. Gözü oynatırken ağrı veya kısıtlılık, görme değişikliği, ense sertliği ya da tekrarlayan kusmayla birlikte şiddetli baş ağrısı, alışılmadık uyuklama veya bilinç bulanıklığında acile gidin.",
+              "Rahatlatmak için sıvı sunun ve gerekirse hazır serum fizyolojik burun damlası kullanın. Yaşına uygun ağrı kesiciyi sorun. Hekim ağır seyreden veya kötüleşen bakteriyel sinüzit tanısı koyarsa antibiyotik önerilir. Ağırlaşmadan süren belirtilerde antibiyotik ya da takip planıyla birlikte en fazla üç gün daha gözlem önerebilir."
+            ]
+          },
+          {
+            "heading": "Ne zaman yeniden aramalı?",
+            "paragraphs": [
+              "Herhangi bir zamanda kötüleşirse veya kararlaştırılan tedavi ya da gözlem başladıktan yaklaşık 72 saat sonra düzelme başlamamışsa arayın. İyileşme başladığında öksürük hâlâ sürebilir. Reçete verilen ilacı tarif edildiği gibi kullanın, rahatsız eden yan etkileri sorun.",
+              "Rastgele atamalı bir çalışmaya klinik olarak akut sinüzit tanısı alan 2–11 yaşlarında 515 çocuk katıldı. Analize alınan 510 çocukta belirtilerin tamamen geçmesine kadar geçen ortanca süre antibiyotikle yedi, plaseboyla dokuz gündü. Tedavi etkisi akıntının rengine göre değişmiyordu. Ağır olgular dışlandığından sonuçlar acil bakımı yönlendirmez."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Başlangıç gününü, düzelme olup olmadığını ve belirtilerin ne zaman değiştiğini kaydedin.",
+          "Yalnız akıntının rengine bakmak yerine hastalığın seyriyle ilgili üç örüntüyü sorun.",
+          "Kontrol zamanını belirleyin ve göz ya da sinir sistemi belirtileri için acilen yardım alın."
+        ],
+        "faq": [
+          {
+            "q": "Yeşil sümük nezlenin bakteriyel olduğunu gösterir mi?",
+            "a": "Hayır. Viral nezlede renk değişebilir. Belirtilerin süresi, ağırlığı ve iyileştikten sonra yeniden kötüleşme daha anlamlıdır."
+          },
+          {
+            "q": "Başvurmadan önce on gün beklemeli miyim?",
+            "a": "Hayır. Yeniden kötüleşme, ağır hastalık veya göz ya da sinir sistemiyle ilgili uyarı işaretleri daha erken değerlendirme gerektirir. On günü aşkın sürede iyileşmeme örüntülerden yalnızca biridir."
+          },
+          {
+            "q": "Çocuğumun görüntüleme yaptırması gerekir mi?",
+            "a": "Hekim komplikasyonsuz sinüziti çoğu kez öykü ve muayeneyle değerlendirebilir. Komplikasyondan şüphelenilirse görüntüleme gerekebilir."
+          },
+          {
+            "q": "Antibiyotik ne zaman etkisini göstermeye başlamalı?",
+            "a": "Çocuğunuz kötüleşirse veya yaklaşık 72 saat içinde düzelme başlamazsa hekime ulaşın. Reçeteyi ve kararlaştırılan planı izleyin."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 17 Kasım 2026 tarihinde incelendi",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Daha iyi geçen günler dahil tüm süreci anlatın.",
+            "Gözlem süresini yalnızca hekimin takip planıyla uygulayın.",
+            "Göz çevresinde kızarıklık veya şişlik gelişirse acilen değerlendirme isteyin."
+          ],
+          "bemama": "BeMama, başlangıç gününü, çocuğun daha iyi göründüğü bir günü ve öksürük ya da ateşin değiştiği günü not edip bu üç gözlemi muayeneye götürmenizi önerir.",
+          "safety": "Göz çevresinde yeni kızarıklık veya şişlik acil değerlendirme gerektirir. Ağrılı ya da kısıtlı göz hareketi, görme değişikliği, ense sertliği veya tekrarlayan kusmayla birlikte şiddetli baş ağrısı, bilinç bulanıklığı ya da alışılmadık uyuklamada acile gidin.",
+          "sources": [
+            {
+              "organization": "Amerikan Pediatri Akademisi",
+              "title": "Çocuklarda akut bakteriyel sinüzitin tanı ve tedavisi",
+              "url": "https://publications.aap.org/pediatrics/article/132/1/e262/31288/Clinical-Practice-Guideline-for-the-Diagnosis-and"
+            },
+            {
+              "organization": "ABD Hastalık Kontrol ve Önleme Merkezleri",
+              "title": "Ayaktan izlenen çocuklarda sinüzit ve antibiyotik rehberi",
+              "url": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html"
+            },
+            {
+              "organization": "Shaikh ve çalışma arkadaşları, JAMA",
+              "title": "Çocuklarda akut sinüzit için rastgele atamalı antibiyotik araştırması",
+              "url": "https://jamanetwork.com/journals/jama/fullarticle/2807568"
+            },
+            {
+              "organization": "Philadelphia Çocuk Hastanesi",
+              "title": "Akut bakteriyel rinosinüzit klinik yaklaşımı",
+              "url": "https://www.chop.edu/clinical-pathway/acute-bacterial-rhinosinusitis-clinical-pathway"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "¿Resfriado o sinusitis? Observa cómo cambian los síntomas",
+        "description": "Conoce qué cambios en un resfriado infantil sugieren sinusitis bacteriana, cuándo preguntar por antibióticos y qué síntomas oculares requieren atención urgente.",
+        "intro": "Al cuarto día de un resfriado, tu hijo se suena y el moco tiñe de verde el pañuelo. ¿Juega más y tose menos? ¿O volvió la fiebre después de que parecía mejorar? Esa secuencia le dice más al profesional que el color del pañuelo.",
+        "sections": [
+          {
+            "heading": "Anota cuándo cambió la enfermedad",
+            "paragraphs": [
+              "Durante un resfriado viral, el moco transparente y líquido puede volverse espeso, amarillo o verde antes de la mejoría. La tos diurna puede empeorar de noche. Si el conjunto de los síntomas mejora, el color por sí solo no indica que necesite antibióticos.",
+              "A partir de un año, los profesionales buscan tres patrones. La tos diurna, el moco nasal o ambos pueden durar más de diez días sin mejorar. Puede haber mejoría seguida de más tos, más secreción o fiebre nueva. Un comienzo grave combina fiebre de al menos 39 °C y secreción espesa parecida al pus durante al menos tres días consecutivos. Consulta por cualquiera de estos patrones y busca atención antes si tu hijo parece gravemente enfermo."
+            ]
+          },
+          {
+            "heading": "Pregunta qué muestra la exploración",
+            "paragraphs": [
+              "El profesional preguntará por la evolución y examinará al niño. Una sinusitis sin complicaciones no suele requerir radiografías ni tomografía. El enrojecimiento o la hinchazón nuevos alrededor de un ojo necesitan evaluación urgente. Acude a urgencias si mover el ojo duele o cuesta, cambia la visión, hay dolor de cabeza intenso con rigidez de cuello o vómitos repetidos, somnolencia inusual o confusión.",
+              "Para aliviar el malestar, ofrece líquidos y, si lo necesita, gotas nasales de solución salina ya preparada. Pregunta por un analgésico adecuado a su edad. Si el profesional diagnostica sinusitis bacteriana grave o que va a peor, se recomiendan antibióticos. Si los síntomas persisten sin agravarse ni ser graves, puede proponer antibióticos o hasta tres días más de observación con un plan claro de seguimiento."
+            ]
+          },
+          {
+            "heading": "Cuándo volver a llamar",
+            "paragraphs": [
+              "Llama si empeora en algún momento o si no empieza a mejorar en unas 72 horas desde el inicio del tratamiento o del periodo de observación acordado. No hace falta que haya desaparecido toda la tos para que haya mejoría. Da la medicación tal como se indicó y consulta por efectos adversos molestos.",
+              "Un ensayo aleatorizado incluyó a 515 niños de 2 a 11 años con diagnóstico clínico de sinusitis aguda. Entre los 510 analizados, la mediana de tiempo hasta desaparecer los síntomas fue de siete días con antibiótico y nueve con placebo. El efecto del tratamiento no varió según el color del moco. Se excluyeron los casos graves y el ensayo no orienta la atención de urgencia."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Anota cuándo empezaron los síntomas, si mejoraron y cuándo cambiaron.",
+          "Pregunta por los tres patrones de evolución sin guiarte solo por el color del moco.",
+          "Acuerda cuándo volver a consultar y pide atención urgente por cambios oculares o neurológicos."
+        ],
+        "faq": [
+          {
+            "q": "¿El moco verde indica que el resfriado es bacteriano?",
+            "a": "No. El color puede cambiar durante un resfriado viral. Importan más la duración, la gravedad y el empeoramiento tras una mejoría."
+          },
+          {
+            "q": "¿Tengo que esperar diez días antes de consultar?",
+            "a": "No. Un nuevo empeoramiento, enfermedad grave o una señal de alarma ocular o neurológica requieren atención antes. Más de diez días sin mejoría es solo uno de los patrones."
+          },
+          {
+            "q": "¿Necesitará una prueba de imagen?",
+            "a": "Normalmente bastan la historia y la exploración para valorar una sinusitis sin complicaciones. Pueden hacer falta imágenes si hay signos de una complicación."
+          },
+          {
+            "q": "¿Cuándo debe empezar a ayudar el antibiótico?",
+            "a": "Consulta si tu hijo empeora o no empieza a mejorar en unas 72 horas. Sigue la receta y el plan acordado."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 17 de noviembre de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Describe todo el curso de la enfermedad, incluidos los días mejores.",
+            "Observa en casa solo durante el periodo de espera acordado con el profesional y con un plan de seguimiento.",
+            "Pide evaluación urgente si aparece enrojecimiento o hinchazón alrededor de un ojo."
+          ],
+          "bemama": "BeMama sugiere marcar el primer día, uno en que parecía mejorar y el día en que cambió la tos o la fiebre. Lleva esas observaciones a la consulta.",
+          "safety": "El enrojecimiento o la hinchazón nuevos cerca del ojo requieren valoración urgente. Acude a urgencias si el ojo duele al moverlo o no se mueve bien, cambia la visión, hay dolor de cabeza intenso con rigidez de cuello o vómitos repetidos, confusión o somnolencia inusual.",
+          "sources": [
+            {
+              "organization": "Academia Estadounidense de Pediatría",
+              "title": "Diagnóstico y tratamiento de la sinusitis bacteriana aguda infantil",
+              "url": "https://publications.aap.org/pediatrics/article/132/1/e262/31288/Clinical-Practice-Guideline-for-the-Diagnosis-and"
+            },
+            {
+              "organization": "Centros para el Control y la Prevención de Enfermedades de Estados Unidos",
+              "title": "Orientaciones sobre antibióticos en la sinusitis infantil ambulatoria",
+              "url": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html"
+            },
+            {
+              "organization": "Shaikh y colaboradores, JAMA",
+              "title": "Ensayo aleatorizado de antibióticos para la sinusitis aguda infantil",
+              "url": "https://jamanetwork.com/journals/jama/fullarticle/2807568"
+            },
+            {
+              "organization": "Hospital Infantil de Filadelfia",
+              "title": "Protocolo clínico de rinosinusitis bacteriana aguda",
+              "url": "https://www.chop.edu/clinical-pathway/acute-bacterial-rhinosinusitis-clinical-pathway"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Resfriado ou sinusite? Observe a evolução dos sintomas",
+        "description": "Aprenda quais mudanças no resfriado da criança sugerem sinusite bacteriana, quando conversar sobre antibióticos e quais sinais nos olhos exigem urgência.",
+        "intro": "No quarto dia de resfriado, seu filho assoa o nariz e o lenço fica verde. Ele está brincando mais e tossindo menos? Ou a febre voltou depois de uma melhora? Essa sequência informa mais ao profissional do que a cor no lenço.",
+        "sections": [
+          {
+            "heading": "Anote quando houve mudança",
+            "paragraphs": [
+              "Durante um resfriado viral, a secreção clara e fina pode ficar espessa, amarela ou verde antes da melhora. A tosse que ocorre de dia pode piorar à noite. Se os sintomas estão melhorando no conjunto, só a cor não indica necessidade de antibiótico.",
+              "A partir de um ano de idade, os profissionais investigam três padrões. Tosse diurna, secreção nasal ou ambas podem durar mais de dez dias sem melhorar. A criança pode melhorar e depois ter mais tosse, secreção ou febre nova. Um início grave combina febre de pelo menos 39 °C com secreção espessa semelhante a pus por pelo menos três dias consecutivos. Procure orientação sobre qualquer um desses padrões. Procure antes se a criança parecer gravemente doente."
+            ]
+          },
+          {
+            "heading": "Pergunte o que o exame mostrou",
+            "paragraphs": [
+              "O profissional pergunta como a doença evoluiu e examina a criança. Uma sinusite sem complicações em geral dispensa radiografia ou tomografia. Vermelhidão ou inchaço recente ao redor de um olho exige avaliação urgente. Vá à emergência se houver dor ou limitação ao movimentar o olho, alteração visual, dor de cabeça intensa com rigidez de nuca ou vômitos repetidos, sonolência incomum ou confusão.",
+              "Ofereça líquidos e, se necessário, use gotas de soro fisiológico pronto para o nariz. Peça orientação sobre um analgésico adequado à idade. Se for diagnosticada sinusite bacteriana grave ou em piora, recomendam-se antibióticos. Para sintomas persistentes sem gravidade ou piora, o profissional pode propor antibiótico ou até três dias adicionais de observação com um plano de retorno."
+            ]
+          },
+          {
+            "heading": "Quando voltar a ligar",
+            "paragraphs": [
+              "Entre em contato se houver piora a qualquer momento ou se a criança não começar a melhorar em cerca de 72 horas após o início do tratamento ou da observação combinada. A tosse pode continuar mesmo quando há melhora. Dê o medicamento como prescrito e pergunte sobre efeitos indesejados que incomodem.",
+              "Um ensaio randomizado incluiu 515 crianças de 2 a 11 anos com diagnóstico clínico de sinusite aguda. Entre as 510 analisadas, o tempo mediano até a resolução dos sintomas foi de sete dias com antibiótico e de nove com placebo. O efeito não variou conforme a cor da secreção. Os casos graves foram excluídos, portanto o estudo não orienta o atendimento de emergência."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Registre o dia de início, se houve melhora e quando os sintomas mudaram.",
+          "Pergunte sobre os três padrões de evolução sem se orientar só pela cor da secreção.",
+          "Combine o retorno e procure ajuda urgente para alterações oculares ou neurológicas."
+        ],
+        "faq": [
+          {
+            "q": "Muco verde indica resfriado bacteriano?",
+            "a": "Não. A cor pode mudar durante um resfriado viral. A duração, a gravidade e uma nova piora depois de melhorar dizem mais."
+          },
+          {
+            "q": "Devo esperar dez dias para pedir ajuda?",
+            "a": "Não. Nova piora, doença grave ou sinais de alerta oculares ou neurológicos pedem avaliação antes. Mais de dez dias sem melhora é apenas um dos padrões."
+          },
+          {
+            "q": "Meu filho precisa de tomografia?",
+            "a": "Normalmente o profissional avalia um caso simples com a história e o exame físico. Pode precisar de imagem se houver indícios de complicação."
+          },
+          {
+            "q": "Quando o antibiótico deve começar a ajudar?",
+            "a": "Entre em contato se a criança piorar ou não começar a melhorar em cerca de 72 horas. Siga a prescrição e o plano combinado."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 17 de novembro de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Descreva toda a doença, inclusive os dias em que a criança pareceu melhor.",
+            "Só adote um período de observação com um plano de retorno definido pelo profissional.",
+            "Procure avaliação urgente para inchaço ou vermelhidão recente perto de um olho."
+          ],
+          "bemama": "A BeMama sugere marcar o primeiro dia, um dia em que seu filho pareceu melhor e o dia em que a tosse ou a febre mudou. Leve essas observações à consulta.",
+          "safety": "Vermelhidão ou inchaço recente ao redor de um olho exige avaliação urgente. Dor ou dificuldade para mover o olho, alteração visual, dor de cabeça intensa com rigidez de nuca ou vômitos repetidos, confusão ou sonolência incomum exigem atendimento de emergência.",
+          "sources": [
+            {
+              "organization": "Academia Americana de Pediatria",
+              "title": "Diagnóstico e tratamento da sinusite bacteriana aguda na infância",
+              "url": "https://publications.aap.org/pediatrics/article/132/1/e262/31288/Clinical-Practice-Guideline-for-the-Diagnosis-and"
+            },
+            {
+              "organization": "Centros de Controle e Prevenção de Doenças dos Estados Unidos",
+              "title": "Orientação sobre antibióticos para sinusite infantil em ambulatório",
+              "url": "https://www.cdc.gov/antibiotic-use/hcp/clinical-care/pediatric-outpatient.html"
+            },
+            {
+              "organization": "Shaikh e colaboradores, JAMA",
+              "title": "Ensaio randomizado de antibiótico para sinusite aguda na criança",
+              "url": "https://jamanetwork.com/journals/jama/fullarticle/2807568"
+            },
+            {
+              "organization": "Hospital Infantil da Filadélfia",
+              "title": "Protocolo clínico para rinossinusite bacteriana aguda",
+              "url": "https://www.chop.edu/clinical-pathway/acute-bacterial-rhinosinusitis-clinical-pathway"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5776.webp",
+    "heroAlt": {
+      "en": "A child holds a white tissue to their nose while sitting on a sofa.",
+      "es": "Un niño se suena la nariz con un pañuelo blanco sentado en un sofá.",
+      "fr": "Un enfant assis sur un canapé tient un mouchoir blanc contre son nez.",
+      "pt": "Uma criança sentada no sofá segura um lenço branco contra o nariz.",
+      "tr": "Kanepede oturan bir çocuk burnuna beyaz bir mendil tutuyor.",
+      "fa": "کودکی روی مبل نشسته و دستمال سفیدی را روی بینی خود گرفته است.",
+      "ar": "طفل يجلس على الأريكة ويضع منديلاً أبيض على أنفه."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "A cold or sinusitis? Follow the course of your child’s symptoms",
+      "description": "Learn which changes in a child’s cold suggest bacterial sinusitis, when to ask about antibiotics, and which eye or headache symptoms need urgent care."
+    },
+    "fa": {
+      "title": "سرماخوردگی است یا سینوزیت؟ به سیر علائم کودک نگاه کنید",
+      "description": "بدانید چه تغییراتی در سرماخوردگی کودک احتمال سینوزیت باکتریایی را مطرح می‌کند، چه وقت درباره آنتی‌بیوتیک بپرسید و کدام علائم چشمی نیاز به اقدام فوری دارند."
+    },
+    "ar": {
+      "title": "زكام أم التهاب جيوب؟ راقب مسار الأعراض لدى طفلك",
+      "description": "تعرّف إلى التغيرات التي توحي بالتهاب الجيوب البكتيري عند الطفل، ومتى تسأل عن المضاد الحيوي، وأي تغيرات حول العين تتطلب تقييماً عاجلاً."
+    },
+    "fr": {
+      "title": "Rhume ou sinusite ? Observez l’évolution des symptômes",
+      "description": "Repérez les changements d’un rhume qui évoquent une sinusite bactérienne, quand discuter des antibiotiques et quels signes oculaires exigent un avis urgent."
+    },
+    "tr": {
+      "title": "Nezle mi sinüzit mi? Çocuğun belirtilerinin seyrini izleyin",
+      "description": "Çocuğun nezlesinde hangi değişimlerin bakteriyel sinüziti düşündürdüğünü, ne zaman antibiyotiği soracağınızı ve acil göz belirtilerini öğrenin."
+    },
+    "es": {
+      "title": "¿Resfriado o sinusitis? Observa cómo cambian los síntomas",
+      "description": "Conoce qué cambios en un resfriado infantil sugieren sinusitis bacteriana, cuándo preguntar por antibióticos y qué síntomas oculares requieren atención urgente."
+    },
+    "pt": {
+      "title": "Resfriado ou sinusite? Observe a evolução dos sintomas",
+      "description": "Aprenda quais mudanças no resfriado da criança sugerem sinusite bacteriana, quando conversar sobre antibióticos e quais sinais nos olhos exigem urgência."
+    }
+  }
+}

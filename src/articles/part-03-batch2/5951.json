@@ -1,0 +1,646 @@
+{
+  "sourceId": "5951",
+  "article": {
+    "slug": "baby-and-child/mothers-paid-work-and-child-wellbeing",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "A mother's paid work and her child's wellbeing",
+        "description": "See what research says about mothers’ paid work, children’s emotional wellbeing and the everyday routines that can support a family around working hours.",
+        "intro": "At the end of a late shift, you find the drawing your child wanted to show you before bed. Missing that moment can sting. It can also prompt a much bigger question about how your working hours affect your child. Looking at what actually happens before, during and after a shift gives you somewhere to start.",
+        "sections": [
+          {
+            "heading": "What researchers can learn from families over time",
+            "paragraphs": [
+              "A UK study followed families from their child's infancy to age seven. It found an association between family employment patterns and children's emotional and behavioral difficulties at seven. On average, children in families with someone consistently in paid work had fewer difficulties than those in households where no parent was employed at one or more study visits. The study considered circumstances such as household resources and parental wellbeing.",
+              "Families were not assigned to work a particular schedule. Household employment can change because of health, caregiving needs or opportunities. The study cannot tell you that taking a particular job will help or harm an individual child, or that a mother's work determines future grades, independence or happiness."
+            ]
+          },
+          {
+            "heading": "What work can mean for a mother",
+            "paragraphs": [
+              "A paycheck may cover rent or childcare. A job can also offer friendship, satisfaction or time to practise a skill. Unpredictable hours, expensive care or a long commute can pull in the other direction. Write down which part of the arrangement helps you and which part leaves you stretched. Someone else may be able to take over dinner on a late-shift night even when the shift itself cannot change.",
+              "A US study of 1,364 mothers found that those in part-time work reported fewer depressive symptoms than mothers outside paid work at some points in early childhood. The researchers found no significant difference in depressive symptoms between part-time and full-time workers. Health can influence whether a person takes or keeps a job. These observations cannot predict whether changing hours would improve your mood."
+            ]
+          },
+          {
+            "heading": "Look for ordinary moments to respond",
+            "paragraphs": [
+              "A child points at a bus as you walk to the stop. You follow their gaze, name what they see and pause for their answer. Exchanges like these can happen while you dress, travel or put things away. They give your child a chance to take the lead and notice that an adult responds. A familiar caregiver can do this during your shift too.",
+              "Pick something small you can usually keep. If you miss bedtime, perhaps your child leaves a drawing and you look at it together over breakfast. Let the caregiver know about a new interest or a difficult morning. An older child can help choose when to talk or which responsibility at home feels manageable."
+            ]
+          },
+          {
+            "heading": "When the arrangement feels hard",
+            "paragraphs": [
+              "Ask what has changed in the child's sleep, play, school or interactions, and what the adults caring for them have noticed. A difficult goodbye on Monday may call for a different response from distress that continues through the day for weeks. If distress persists or interferes with daily life, talk with the child's clinician. A parent whose low mood persists or makes ordinary tasks hard can also seek help for themselves."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Family employment studies describe groups of people living in different circumstances.",
+          "Look at the practical effects of income, work hours, travel and support on your family's day.",
+          "Keep a small opportunity for regular, responsive contact and check in with other caregivers."
+        ],
+        "faq": [
+          {
+            "q": "What benefits might a mother get from paid work?",
+            "a": "Income, meaningful activities, professional experience or contact with other adults may matter to her. The balance depends on the job, care arrangements, household costs and her preferences."
+          },
+          {
+            "q": "Can work make a mother feel better?",
+            "a": "It can feel rewarding for some people and tiring or stressful for others. Studies comparing employed and non-employed mothers cannot predict the effect of a particular schedule on one person's mood."
+          },
+          {
+            "q": "Does a mother's job damage her child's emotional health?",
+            "a": "Her employment status alone cannot answer that question. Look at the child's relationships, reliable care and how they are doing in daily life. If difficulties continue, describe specific examples to their clinician."
+          },
+          {
+            "q": "How can I stay involved if my hours change each week?",
+            "a": "Choose a contact point that can move with the shift, such as checking a shared drawing at the next meal. Tell your child who will be there for pickup and pass on one thing they are looking forward to."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Consider household circumstances when reading family employment research.",
+            "Look for small back-and-forth exchanges with your child during ordinary routines."
+          ],
+          "bemama": "BeMama suggests asking both your child and their caregiver which part of a working day feels easiest and which part could use help.",
+          "safety": "Seek support from a clinician if your child's distress or your own low mood persists or interferes with everyday life.",
+          "sources": [
+            {
+              "organization": "Hope and colleagues, Journal of Epidemiology and Community Health",
+              "title": "Family employment and child socioemotional behavior in a UK cohort",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/24889054/"
+            },
+            {
+              "organization": "Buehler and O’Brien, Journal of Family Psychology",
+              "title": "Mothers’ part-time employment and family wellbeing",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3237952/"
+            },
+            {
+              "organization": "Center on the Developing Child at Harvard University",
+              "title": "Responsive back-and-forth exchanges with children",
+              "url": "https://developingchild.harvard.edu/key-concept/serve-and-return/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "کارِ مادر و سلامت عاطفی فرزند",
+        "description": "پژوهش‌ها دربارهٔ کارِ درآمدزای مادران و سلامت عاطفی کودکان چه می‌گویند؟ ببینید کدام بخش‌های برنامهٔ روزمره می‌تواند با ساعت‌های کار خانواده هماهنگ شود.",
+        "intro": "بعد از یک نوبت کاری طولانی به خانه می‌رسید و نقاشی‌ای را می‌بینید که فرزندتان می‌خواست پیش از خواب نشانتان بدهد. از دست دادن آن لحظه می‌تواند ناراحت‌کننده باشد و این پرسش را پیش بیاورد که کار شما چه اثری بر او دارد. برای شروع، به اتفاق‌های واقعی قبل، هنگام و بعد از یک نوبت کار نگاه کنید.",
+        "sections": [
+          {
+            "heading": "از پیگیری خانواده‌ها در طول زمان چه می‌آموزیم؟",
+            "paragraphs": [
+              "در پژوهشی در بریتانیا خانواده‌ها از نوزادی فرزندشان تا هفت‌سالگی او پیگیری شدند. الگوی اشتغال خانواده با دشواری‌های عاطفی و رفتاری کودکان در هفت‌سالگی ارتباط داشت. به‌طور میانگین، این مشکلات در خانواده‌هایی که دست‌کم یک نفر پیوسته کارِ درآمدزا داشت کمتر از خانواده‌هایی بود که در یک یا چند نوبت بررسی هیچ‌یک از والدین شاغل نبودند. پژوهشگران شرایطی مثل منابع مالی خانواده و حال والدین را هم در نظر گرفتند.",
+              "برنامهٔ کاری خانواده‌ها به‌طور تصادفی تعیین نشده بود. سلامت، مسئولیت مراقبت یا فرصت‌های شغلی می‌توانند وضعیت کار را تغییر دهند. از این پژوهش نمی‌توان نتیجه گرفت که قبول کردن شغلی خاص برای یک کودک سودمند یا زیان‌آور است یا شغل مادر نمره‌های آینده، استقلال یا شادی فرزندش را تعیین می‌کند."
+            ]
+          },
+          {
+            "heading": "کار برای یک مادر چه معنایی دارد؟",
+            "paragraphs": [
+              "درآمد می‌تواند اجاره یا هزینهٔ مراقبت از کودک را بپردازد. شغل ممکن است فرصتی برای دوستی، رضایت یا به کار گرفتن یک مهارت هم باشد. ساعت‌های پیش‌بینی‌ناپذیر، هزینهٔ مراقبت یا رفت‌وآمد طولانی می‌توانند فشار بیاورند. بنویسید کدام بخش برایتان مفید است و کدام بخش توانتان را می‌گیرد. حتی اگر نوبت کار تغییرپذیر نیست، شاید کس دیگری بتواند آن شب شام را آماده کند.",
+              "در مطالعه‌ای آمریکایی روی ۱۳۶۴ مادر، در بعضی مقاطع سال‌های اول زندگی کودک، مادرانی که پاره‌وقت کار می‌کردند نسبت به مادرانی که کارِ درآمدزا نداشتند نشانه‌های افسردگی کمتری گزارش کردند. از نظر نشانه‌های افسردگی بین مادران شاغل پاره‌وقت و تمام‌وقت تفاوت معناداری دیده نشد. سلامت هم می‌تواند بر ورود به کار یا ماندن در آن اثر بگذارد. این مشاهدات پیش‌بینی نمی‌کنند که تغییر ساعت کار حال شما را بهتر می‌کند یا نه."
+            ]
+          },
+          {
+            "heading": "در کارهای روزمره به کودک پاسخ دهید",
+            "paragraphs": [
+              "در راه ایستگاه، کودک به اتوبوسی اشاره می‌کند. نگاهش را دنبال کنید، آنچه را می‌بیند نام ببرید و برای پاسخش مکث کنید. هنگام لباس پوشیدن، رفت‌وآمد یا جمع کردن وسایل هم می‌توان چنین رفت‌وبرگشت‌هایی داشت. کودک فرصت می‌کند آغازکننده باشد و پاسخ یک بزرگ‌سال را ببیند. مراقب آشنای او هم می‌تواند هنگام کار شما این کار را انجام دهد.",
+              "قرار کوچکی بگذارید که معمولاً عملی باشد. اگر وقت خواب خانه نیستید، کودک می‌تواند نقاشی‌اش را بگذارد تا سر صبحانه با هم ببینید. علاقهٔ تازه یا صبح دشوارش را برای مراقب توضیح دهید. کودک بزرگ‌تر می‌تواند دربارهٔ زمان صحبت یا مسئولیتی که در خانه از عهده‌اش برمی‌آید نظر بدهد."
+            ]
+          },
+          {
+            "heading": "اگر برنامه به خانواده فشار می‌آورد",
+            "paragraphs": [
+              "ببینید چه تغییری در خواب، بازی، مدرسه یا رابطه‌های کودک رخ داده و مراقبانش چه دیده‌اند. خداحافظی سخت اول هفته با ناراحتی‌ای که هفته‌ها تمام روز ادامه دارد، ممکن است پاسخ متفاوتی بخواهد. اگر ناراحتی پایدار است یا زندگی روزمره را مختل می‌کند، با پزشک کودک مشورت کنید. والدی هم که خلق پایین مداوم دارد یا برای کارهای معمول دچار مشکل شده، می‌تواند برای خودش کمک بگیرد."
+            ]
+          }
+        ],
+        "takeaways": [
+          "پژوهش‌های اشتغال خانوادگی گروه‌هایی با شرایط گوناگون را توصیف می‌کنند.",
+          "اثر واقعی درآمد، ساعت کار، رفت‌وآمد و حمایت اطرافیان بر روز خانواده را بررسی کنید.",
+          "برای ارتباط کوتاه و پاسخ‌گو با کودک فرصت منظم پیدا کنید و با مراقبانش در تماس باشید."
+        ],
+        "faq": [
+          {
+            "q": "کارِ درآمدزا چه فایده‌ای می‌تواند برای مادر داشته باشد؟",
+            "a": "درآمد، فعالیت معنادار، تجربهٔ حرفه‌ای یا ارتباط با بزرگ‌سالان دیگر می‌تواند ارزشمند باشد. تعادل به شغل، مراقبت از کودک، هزینه‌های خانواده و خواسته‌های خود مادر بستگی دارد."
+          },
+          {
+            "q": "آیا کار حال مادر را بهتر می‌کند؟",
+            "a": "برای بعضی‌ها رضایت‌بخش و برای بعضی دیگر خسته‌کننده یا پراسترس است. مقایسهٔ مادران شاغل و غیرشاغل اثر برنامه‌ای خاص بر حال یک نفر را پیش‌بینی نمی‌کند."
+          },
+          {
+            "q": "آیا شغل مادر به سلامت عاطفی کودک آسیب می‌زند؟",
+            "a": "وضعیت شغلی مادر به تنهایی پاسخ را مشخص نمی‌کند. به روابط کودک، مراقبت قابل اعتماد و تجربهٔ روزمره‌اش نگاه کنید. اگر مشکلات ادامه دارد، نمونه‌های مشخص را با پزشکش در میان بگذارید."
+          },
+          {
+            "q": "اگر ساعت کارم هر هفته تغییر می‌کند، چطور در جریان زندگی فرزندم بمانم؟",
+            "a": "قراری انتخاب کنید که با نوبت کار قابل جابه‌جایی باشد؛ مثلاً هنگام وعدهٔ بعدی با هم نقاشی‌اش را ببینید. به کودک بگویید چه کسی دنبالش می‌رود و چیزی را که مشتاقش است با مراقبش در میان بگذارید."
+          }
+        ],
+        "evidence": {
+          "updated": "بازبینی شواهد در ۱۶ نوامبر ۲۰۲۶",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "هنگام خواندن پژوهش‌های اشتغال، شرایط خانواده‌ها را در نظر بگیرید.",
+            "در کارهای معمول دنبال فرصت‌های کوتاه برای ارتباط دوطرفه با کودک باشید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند هم از کودک و هم از مراقب او بپرسید کدام بخش روز کاری آسان‌تر است و کجا کمک لازم دارند.",
+          "safety": "اگر ناراحتی فرزندتان یا خلق پایین خودتان پایدار است یا در زندگی روزمره اختلال ایجاد می‌کند، از پزشک کمک بگیرید.",
+          "sources": [
+            {
+              "organization": "هوپ و همکاران، مجلهٔ همه‌گیرشناسی و سلامت جامعه",
+              "title": "اشتغال خانواده و رفتار عاطفی و اجتماعی کودکان در یک مطالعهٔ بریتانیایی",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/24889054/"
+            },
+            {
+              "organization": "بیولر و اوبراین، مجلهٔ روان‌شناسی خانواده",
+              "title": "اشتغال پاره‌وقت مادران و بهزیستی خانواده",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3237952/"
+            },
+            {
+              "organization": "مرکز رشد کودک دانشگاه هاروارد",
+              "title": "تعامل‌های دوطرفه و پاسخ‌گو با کودکان",
+              "url": "https://developingchild.harvard.edu/key-concept/serve-and-return/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "عمل الأم بأجر وعلاقته بعافية طفلها",
+        "description": "ماذا تقول الدراسات عن عمل الأم وصحة الطفل العاطفية؟ تعرّفي إلى طرق لملاحظة أثر ساعات العمل في يوم أسرتك وإيجاد لحظات للتواصل مع طفلك.",
+        "intro": "تعودين بعد مناوبة متأخرة فتجدين رسماً أراد طفلك أن يريك إياه قبل النوم. قد يؤلمك فوات تلك اللحظة ويدفعك إلى التساؤل عن أثر ساعات عملك فيه. ابدئي بالنظر إلى ما يحدث فعلاً قبل المناوبة وخلالها وبعدها.",
+        "sections": [
+          {
+            "heading": "ما الذي نتعلّمه من تتبّع الأسر بمرور الوقت؟",
+            "paragraphs": [
+              "تابعت دراسة بريطانية الأسر من فترة رضاعة الطفل حتى سن السابعة. ووجدت ارتباطاً بين أنماط عمل الأسرة وبين الصعوبات العاطفية والسلوكية لدى الأطفال في السابعة. في المتوسط كانت الصعوبات أقل في الأسر التي استمر فيها أحد الوالدين على الأقل في عمل مأجور مقارنة بأسر لم يكن فيها أي من الوالدين يعمل بأجر في زيارة بحثية واحدة أو أكثر. أخذ الباحثون في الحسبان ظروفاً منها موارد الأسرة وعافية الوالدين.",
+              "لم يُوزّع أفراد الأسر عشوائياً على جداول عمل محددة. فقد تتغير أوضاع العمل بسبب الصحة أو مسؤوليات الرعاية أو الفرص المتاحة. لا توضح الدراسة ما إذا كانت وظيفة بعينها ستفيد طفلاً محدداً أو تضره، ولا تثبت أن عمل الأم يحدد درجات طفلها أو استقلاله أو سعادته مستقبلاً."
+            ]
+          },
+          {
+            "heading": "ماذا قد يعني العمل للأم؟",
+            "paragraphs": [
+              "قد يغطي الراتب الإيجار أو كلفة رعاية الطفل. وقد يمنح العمل صداقة أو شعوراً بالرضا أو فرصة لاستخدام مهارة. وفي المقابل قد ترهقك الساعات المتغيرة أو الرعاية المكلفة أو التنقل الطويل. دوّني ما يساعدك في الترتيب الحالي وما يستنزفك. حتى إن تعذّر تغيير المناوبة فقد يستطيع شخص آخر تحضير العشاء تلك الليلة.",
+              "في دراسة أمريكية شملت ١٣٦٤ أماً، أفادت العاملات بدوام جزئي في بعض مراحل طفولة أبنائهن المبكرة بأعراض اكتئاب أقل مما أفادت به أمهات لا يعملن بأجر. ولم يجد الباحثون فرقاً ذا دلالة إحصائية في هذه الأعراض بين العاملات بدوام جزئي وكامل. قد تؤثر الصحة أصلاً في القدرة على الحصول على وظيفة أو الاستمرار فيها، لذلك لا تتنبأ هذه الملاحظات بما إذا كان تغيير الساعات سيحسن مزاجك."
+            ]
+          },
+          {
+            "heading": "لاحظي فرص الاستجابة في اليوم العادي",
+            "paragraphs": [
+              "يشير طفلك إلى حافلة وأنتما في الطريق إلى المحطة. تتبعين نظره وتسمّين ما يراه وتنتظرين ردّه. يمكن أن تتكرر هذه التبادلات خلال ارتداء الملابس أو التنقّل أو ترتيب الأغراض. تتيح للطفل أن يبادر ويلحظ استجابة شخص بالغ. ويستطيع من يعرفه ويتولى رعايته أن يفعل ذلك أثناء مناوبتك أيضاً.",
+              "اختاري عادة صغيرة تستطيعين غالباً الاستمرار فيها. إذا فاتك موعد النوم، يمكن للطفل أن يترك لك رسماً تنظران إليه معاً أثناء الإفطار. أخبري مقدّم الرعاية باهتمام جديد أو بصباح صعب. ويمكن للطفل الأكبر أن يختار معك وقتاً للكلام أو مسؤولية منزلية يشعر أنه يستطيع القيام بها."
+            ]
+          },
+          {
+            "heading": "عندما يصبح الترتيب مرهقاً",
+            "paragraphs": [
+              "اسألي ما الذي تغير في نوم الطفل أو لعبه أو مدرسته أو تفاعله، وماذا لاحظ من يرعونه. قد يستدعي وداع صعب في أول الأسبوع استجابة مختلفة عن ضيق يستمر طوال اليوم لأسابيع. إذا استمر الضيق أو أثّر في حياته اليومية، فتحدثي مع طبيبه. ويمكن للوالد أو الوالدة طلب مساعدة لنفسه أيضاً إذا استمر انخفاض المزاج أو أصبحت المهام العادية صعبة."
+            ]
+          }
+        ],
+        "takeaways": [
+          "تصف أبحاث عمل الأسر مجموعات تعيش في ظروف مختلفة.",
+          "انظري إلى الأثر العملي للدخل والساعات والتنقّل والمساندة في يوم أسرتك.",
+          "حافظي على فرصة قصيرة ومنتظمة للتفاعل المتبادل مع طفلك وتواصلي مع مقدّمي الرعاية الآخرين."
+        ],
+        "faq": [
+          {
+            "q": "ما الفوائد التي قد تجنيها الأم من العمل المأجور؟",
+            "a": "قد يهمها الدخل أو العمل ذو المعنى أو الخبرة المهنية أو التواصل مع بالغين آخرين. ويتوقف التوازن على الوظيفة وترتيبات الرعاية وكلفة المعيشة وتفضيلاتها."
+          },
+          {
+            "q": "هل يمكن للعمل أن يحسّن شعور الأم؟",
+            "a": "قد يكون مجزياً للبعض ومتعباً أو مرهقاً للبعض الآخر. لا تستطيع الدراسات التي تقارن بين الأمهات العاملات وغير العاملات بأجر توقّع أثر جدول محدد في مزاج امرأة بعينها."
+          },
+          {
+            "q": "هل تضرّ وظيفة الأم بصحة طفلها العاطفية؟",
+            "a": "لا يكفي وضعها الوظيفي وحده للإجابة. انظري إلى علاقات الطفل واستقرار الرعاية وأحواله في الحياة اليومية. إذا استمرت الصعوبات، فاذكري أمثلة محددة لطبيبه."
+          },
+          {
+            "q": "كيف أبقى قريبة مما يحدث إذا تغيرت ساعاتي كل أسبوع؟",
+            "a": "اختاري لحظة تواصل يمكن نقلها مع المناوبة، مثل النظر إلى رسم معاً في الوجبة التالية. أخبري الطفل بمن سيأخذه عند الانصراف وأطلعي من يرعاه على شيء يتطلع إليه."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "ضعي ظروف الأسر في الاعتبار عند قراءة الأبحاث عن العمل.",
+            "ابحثي عن تبادلات قصيرة ومتجاوبة مع طفلك خلال الروتين اليومي."
+          ],
+          "bemama": "تقترح بي ماما أن تسألي طفلك ومن يرعاه عن أسهل جزء من يوم العمل والجزء الذي يحتاج إلى مساعدة.",
+          "safety": "اطلبي دعماً من مختص صحي إذا استمر ضيق طفلك أو انخفاض مزاجك أو أعاق أيّ منهما الحياة اليومية.",
+          "sources": [
+            {
+              "organization": "هوب وزملاؤها، مجلة علم الوبائيات وصحة المجتمع",
+              "title": "عمل الأسرة وسلوك الطفل الاجتماعي والعاطفي في دراسة بريطانية",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/24889054/"
+            },
+            {
+              "organization": "بوهلر وأوبراين، مجلة علم نفس الأسرة",
+              "title": "عمل الأمهات بدوام جزئي وعافية الأسرة",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3237952/"
+            },
+            {
+              "organization": "مركز نمو الطفل بجامعة هارفارد",
+              "title": "التفاعل المتبادل والمتجاوب مع الأطفال",
+              "url": "https://developingchild.harvard.edu/key-concept/serve-and-return/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Le travail rémunéré d’une mère et le bien-être de son enfant",
+        "description": "Que sait-on du lien entre l’emploi d’une mère et le bien-être de son enfant ? Voyez comment ménager des moments de présence autour des horaires de travail.",
+        "intro": "Vous rentrez tard et trouvez le dessin que votre enfant voulait vous montrer avant de se coucher. Avoir manqué ce moment peut faire de la peine et vous amener à vous interroger sur les effets de vos horaires. Pour y voir plus clair, regardez ce qui se passe concrètement avant, pendant et après une journée de travail.",
+        "sections": [
+          {
+            "heading": "Ce qu’apprend le suivi des familles dans le temps",
+            "paragraphs": [
+              "Une étude britannique a suivi des familles depuis la première enfance jusqu’aux sept ans de l’enfant. Les chercheurs ont observé un lien entre les parcours professionnels des parents et les difficultés affectives ou comportementales des enfants à sept ans. En moyenne, elles étaient moins fréquentes dans les familles où au moins un parent avait constamment un emploi que dans celles où aucun des deux n’en avait à une ou plusieurs visites. Les chercheurs ont tenu compte notamment des ressources du foyer et du bien-être parental.",
+              "Les horaires de travail n’avaient pas été attribués au hasard. La santé, les responsabilités familiales et les possibilités d’emploi influent sur la situation du foyer. Cette étude ne permet pas de dire si un poste précis fera du bien ou du mal à un enfant, ni de prédire ses notes, son autonomie ou son bonheur à partir de l’emploi de sa mère."
+            ]
+          },
+          {
+            "heading": "Ce que le travail peut apporter à une mère",
+            "paragraphs": [
+              "Un salaire peut payer le loyer ou la garde d’un enfant. Un emploi peut aussi apporter des amitiés, de la satisfaction ou l’occasion d’exercer une compétence. Des horaires imprévisibles, un trajet long ou une garde coûteuse peuvent peser lourd. Notez ce qui vous aide et ce qui vous épuise. Même si l’horaire reste fixe, une autre personne peut parfois se charger du dîner le soir où vous rentrez tard.",
+              "Dans une étude américaine portant sur 1 364 mères, celles qui travaillaient à temps partiel ont signalé moins de symptômes dépressifs que celles sans emploi rémunéré à certains moments de la petite enfance. Aucune différence significative sur ces symptômes n’a été observée entre temps plein et temps partiel. La santé peut elle-même influer sur la capacité à trouver ou garder un emploi. Ces observations ne prédisent pas l’effet d’un changement d’horaires sur votre moral."
+            ]
+          },
+          {
+            "heading": "Répondre aux petits signes du quotidien",
+            "paragraphs": [
+              "Votre enfant montre un bus sur le chemin de l’arrêt. Vous suivez son regard, nommez ce qu’il voit, puis attendez sa réponse. Ces échanges peuvent avoir lieu en s’habillant, en se déplaçant ou en rangeant. L’enfant peut prendre l’initiative et voir qu’un adulte lui répond. Une personne familière qui s’occupe de lui peut le faire aussi pendant votre travail.",
+              "Choisissez un petit rendez-vous que vous pourrez généralement tenir. Si vous manquez le coucher, votre enfant pourrait laisser un dessin à regarder ensemble au petit déjeuner. Partagez avec la personne qui le garde un nouvel intérêt ou les difficultés du matin. Un enfant plus grand peut choisir quand discuter ou quelle responsabilité lui paraît à sa portée à la maison."
+            ]
+          },
+          {
+            "heading": "Quand l’organisation devient difficile",
+            "paragraphs": [
+              "Demandez ce qui a changé dans le sommeil, le jeu, la vie scolaire ou les relations de votre enfant, et ce que remarquent les autres adultes. Des adieux difficiles le lundi et une détresse qui dure toute la journée pendant des semaines peuvent appeler des réponses différentes. Si la détresse persiste ou gêne le quotidien, parlez-en au médecin de l’enfant. Un parent dont le moral reste bas ou qui peine à accomplir ses tâches habituelles peut aussi demander de l’aide pour lui-même."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Les études sur l’emploi décrivent des groupes de familles aux situations différentes.",
+          "Examinez les effets concrets des revenus, des horaires, des trajets et du soutien disponible sur votre journée.",
+          "Gardez un petit moment régulier pour échanger avec votre enfant et prenez des nouvelles auprès des autres adultes qui s’en occupent."
+        ],
+        "faq": [
+          {
+            "q": "Que peut apporter un emploi rémunéré à une mère ?",
+            "a": "Un revenu, une activité qui a du sens, de l’expérience professionnelle ou des liens avec d’autres adultes peuvent compter pour elle. L’équilibre dépend du poste, de la garde, des dépenses du foyer et de ses préférences."
+          },
+          {
+            "q": "Le travail peut-il améliorer le moral d’une mère ?",
+            "a": "Certaines y trouvent de la satisfaction, d’autres le vivent comme une source de fatigue ou de stress. Comparer des mères avec et sans emploi ne permet pas de prédire l’effet d’un horaire précis sur l’humeur d’une personne."
+          },
+          {
+            "q": "Le travail d’une mère nuit-il à la santé affective de son enfant ?",
+            "a": "Son statut professionnel seul ne répond pas à cette question. Regardez les relations de l’enfant, la stabilité de la garde et son quotidien. Si des difficultés persistent, décrivez des exemples précis à son médecin."
+          },
+          {
+            "q": "Comment rester présente si mes horaires changent chaque semaine ?",
+            "a": "Choisissez un moment qui peut se déplacer avec l’horaire, comme découvrir un dessin ensemble au prochain repas. Dites à votre enfant qui viendra le chercher et signalez à la personne qui le garde une chose qu’il attend avec impatience."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Tenez compte de la situation des foyers quand vous lisez des recherches sur l’emploi familial.",
+            "Cherchez de petits échanges réciproques avec votre enfant dans les activités ordinaires."
+          ],
+          "bemama": "BeMama suggère de demander à votre enfant et à la personne qui le garde quel moment d’une journée de travail se passe le mieux et lequel gagnerait à être mieux accompagné.",
+          "safety": "Demandez l’aide d’un professionnel de santé si la détresse de votre enfant ou votre propre baisse de moral persiste ou perturbe le quotidien.",
+          "sources": [
+            {
+              "organization": "Hope et collègues, revue d’épidémiologie et de santé communautaire",
+              "title": "Emploi familial et comportement socioaffectif des enfants dans une cohorte britannique",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/24889054/"
+            },
+            {
+              "organization": "Buehler et O’Brien, revue de psychologie familiale",
+              "title": "Travail à temps partiel des mères et bien-être familial",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3237952/"
+            },
+            {
+              "organization": "Centre de recherche sur le développement de l’enfant de l’université Harvard",
+              "title": "Échanges réciproques et attentifs avec les enfants",
+              "url": "https://developingchild.harvard.edu/key-concept/serve-and-return/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Annenin ücretli çalışması ve çocuğun duygusal iyilik hâli",
+        "description": "Araştırmalar annelerin çalışması ve çocukların duygusal iyilik hâli hakkında ne söylüyor? Vardiyalar arasında çocuğunuzla bağ kurabileceğiniz anları keşfedin.",
+        "intro": "Geç biten bir vardiyadan sonra eve geldiğinizde çocuğunuzun yatmadan önce size göstermek istediği resmi buluyorsunuz. O anı kaçırmak üzücü olabilir ve çalışma saatlerinizin onu nasıl etkilediğini düşündürebilir. İlk adım, bir vardiyanın öncesinde, sırasında ve sonrasında gerçekten neler olduğuna bakmaktır.",
+        "sections": [
+          {
+            "heading": "Aileleri zaman içinde izlemek ne anlatır?",
+            "paragraphs": [
+              "Bir Birleşik Krallık çalışması aileleri, çocukları bebekken başlayıp yedi yaşına gelene kadar izledi. Ailedeki istihdam örüntüleriyle çocukların yedi yaşındaki duygusal ve davranışsal güçlükleri arasında ilişki bulundu. En az bir ebeveynin sürekli ücretli işte olduğu ailelerde çocuklar, bir veya daha fazla araştırma görüşmesinde iki ebeveynin de çalışmadığı ailelere göre ortalama olarak daha az güçlük yaşadı. Araştırmacılar hanenin kaynaklarını ve ebeveynlerin iyilik hâlini de hesaba kattı.",
+              "Ailelere belirli bir çalışma düzeni rastgele verilmemişti. Sağlık, bakım sorumlulukları ve iş olanakları çalışma durumunu değiştirebilir. Çalışma, bir işe girmenin belirli bir çocuğa yarar veya zarar vereceğini ya da annenin işinin çocuğun ilerideki notlarını, bağımsızlığını veya mutluluğunu belirlediğini göstermez."
+            ]
+          },
+          {
+            "heading": "Ücretli iş bir anne için ne ifade edebilir?",
+            "paragraphs": [
+              "Maaş kirayı veya çocuk bakımını karşılayabilir. İş arkadaşlık, doyum veya bir beceriyi kullanma fırsatı da sunabilir. Öngörülemeyen saatler, yüksek bakım maliyeti ya da uzun yol ise yük getirebilir. Bu düzenin hangi yanının size destek olduğunu, hangisinin sizi zorladığını yazın. Vardiya değişmese bile geç döndüğünüz gün akşam yemeğini başka biri üstlenebilir.",
+              "ABD’de 1.364 annenin katıldığı bir araştırmada, erken çocukluğun bazı dönemlerinde yarı zamanlı çalışan anneler ücretli bir işte çalışmayanlara göre daha az depresif belirti bildirdi. Yarı ve tam zamanlı çalışanlar arasında bu belirtiler bakımından anlamlı bir fark bulunmadı. Sağlık durumu işe girmeyi veya işi sürdürmeyi etkileyebilir. Bu gözlemler, çalışma saatini değiştirmenin sizin ruh hâlinizi nasıl etkileyeceğini öngöremez."
+            ]
+          },
+          {
+            "heading": "Gün içindeki küçük karşılık verme fırsatları",
+            "paragraphs": [
+              "Durağa yürürken çocuğunuz bir otobüsü gösteriyor. Baktığı yöne bakıp gördüğünü adlandırıyor, yanıtı için bekliyorsunuz. Giyinirken, yoldayken veya eşyaları kaldırırken de böyle karşılıklı anlar yaşanabilir. Çocuk etkileşimi başlatır ve bir yetişkinin karşılık verdiğini görür. Vardiyanız sırasında ona bakan tanıdık biri de bunu yapabilir.",
+              "Genellikle sürdürebileceğiniz küçük bir alışkanlık seçin. Uyku saatini kaçırırsanız çocuğunuz ertesi sabah kahvaltıda birlikte bakacağınız bir resim bırakabilir. Bakım veren kişiye çocuğun yeni bir ilgisini veya zorlu bir sabah geçirdiğini söyleyin. Yaşı büyükse ne zaman konuşacağınızı ya da evde hangi sorumluluğu üstlenebileceğini seçmeye katılabilir."
+            ]
+          },
+          {
+            "heading": "Düzen zor geliyorsa",
+            "paragraphs": [
+              "Çocuğun uykusunda, oyununda, okulunda veya ilişkilerinde nelerin değiştiğini ve ona bakan yetişkinlerin neleri fark ettiğini sorun. Pazartesi günü zor bir vedalaşma, haftalarca gün boyu süren sıkıntıdan farklı bir yaklaşım gerektirebilir. Sıkıntı sürer veya günlük yaşamı aksatırsa çocuğun hekimiyle konuşun. Kendi keyifsizliği uzun süren veya olağan işleri yapmakta zorlanan ebeveyn de yardım isteyebilir."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Ailelerin çalışmasını inceleyen araştırmalar farklı koşullarda yaşayan grupları anlatır.",
+          "Gelirin, saatlerin, yolculuğun ve desteğin ailenizin gününe somut etkilerine bakın.",
+          "Çocuğunuzla düzenli küçük bir karşılıklı etkileşim fırsatı ayırın ve ona bakan diğer kişilerle haberleşin."
+        ],
+        "faq": [
+          {
+            "q": "Ücretli iş anneye ne gibi yararlar sağlayabilir?",
+            "a": "Gelir, anlamlı bir uğraş, mesleki deneyim veya başka yetişkinlerle ilişki anne için değerli olabilir. Denge işe, bakım düzenine, hane giderlerine ve kendi tercihlerine bağlıdır."
+          },
+          {
+            "q": "Çalışmak annenin kendini daha iyi hissetmesini sağlayabilir mi?",
+            "a": "Bazıları için doyum verici, bazıları için yorucu veya stresli olabilir. Ücretli işte çalışan ve çalışmayan anneleri karşılaştıran çalışmalar, belirli bir programın bir kişinin ruh hâline etkisini öngöremez."
+          },
+          {
+            "q": "Annenin işi çocuğunun duygusal sağlığına zarar verir mi?",
+            "a": "Yalnızca annenin çalışma durumundan bu sorunun yanıtı çıkarılamaz. Çocuğun ilişkilerine, güvenilir bakıma ve günlük yaşamının nasıl gittiğine bakın. Zorluklar sürerse hekimine somut örnekler verin."
+          },
+          {
+            "q": "Saatlerim her hafta değişiyorsa nasıl ilgilenebilirim?",
+            "a": "Bir sonraki yemekte resme birlikte bakmak gibi, vardiyayla birlikte zamanı değişebilen bir buluşma seçin. Çocuğa onu kimin alacağını söyleyin ve bakım veren kişiye çocuğun hevesle beklediği bir şeyi aktarın."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Aile istihdamı araştırmalarını okurken hane koşullarını dikkate alın.",
+            "Olağan işlerde çocuğunuzla kısa ve karşılıklı etkileşimler için fırsat arayın."
+          ],
+          "bemama": "BeMama, iş gününün hangi bölümünün daha kolay geçtiğini ve hangi bölümde destek gerektiğini hem çocuğunuza hem ona bakan kişiye sormanızı önerir.",
+          "safety": "Çocuğunuzun sıkıntısı veya sizin keyifsizliğiniz sürerse ya da olağan yaşamı aksatırsa bir sağlık uzmanından destek isteyin.",
+          "sources": [
+            {
+              "organization": "Hope ve çalışma arkadaşları, Epidemiyoloji ve Toplum Sağlığı Dergisi",
+              "title": "Bir Birleşik Krallık kohortunda aile istihdamı ve çocuğun sosyal duygusal davranışları",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/24889054/"
+            },
+            {
+              "organization": "Buehler ve O’Brien, Aile Psikolojisi Dergisi",
+              "title": "Annelerin yarı zamanlı çalışması ve ailelerin iyilik hâli",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3237952/"
+            },
+            {
+              "organization": "Harvard Üniversitesi Çocuk Gelişimi Merkezi",
+              "title": "Çocuklarla duyarlı ve karşılıklı etkileşim",
+              "url": "https://developingchild.harvard.edu/key-concept/serve-and-return/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "El trabajo remunerado de una madre y el bienestar de su hijo",
+        "description": "Qué dicen los estudios sobre el empleo de las madres y el bienestar emocional infantil, y cómo encontrar momentos para estar juntos alrededor de los turnos.",
+        "intro": "Al volver de un turno tardío, encuentras el dibujo que tu hijo quería enseñarte antes de acostarse. Puede doler haberte perdido ese momento y hacer que te preguntes cómo le afecta tu horario. Empieza por observar lo que sucede antes, durante y después del turno.",
+        "sections": [
+          {
+            "heading": "Qué se aprende al seguir a las familias durante años",
+            "paragraphs": [
+              "Un estudio británico siguió a familias desde que sus hijos eran bebés hasta los siete años. Encontró una relación entre la trayectoria laboral familiar y las dificultades emocionales y de conducta a esa edad. En promedio, hubo menos dificultades en las familias donde al menos un progenitor tuvo empleo de forma continua que en aquellas donde ninguno lo tenía en una o más visitas del estudio. Se tuvieron en cuenta factores como los recursos del hogar y el bienestar de los progenitores.",
+              "No se asignaron horarios al azar. La salud, los cuidados y las oportunidades de empleo pueden cambiar la situación laboral de una familia. El estudio no permite saber si aceptar un puesto concreto beneficiará o perjudicará a un niño, ni afirmar que el empleo de la madre determine sus notas, su independencia o su felicidad."
+            ]
+          },
+          {
+            "heading": "Lo que puede significar el trabajo para una madre",
+            "paragraphs": [
+              "Un sueldo puede cubrir el alquiler o los gastos de cuidado infantil. Un empleo también puede ofrecer amistades, satisfacción o la oportunidad de poner en práctica una habilidad. Los horarios imprevisibles, el coste de los cuidados o un largo desplazamiento pueden pesar. Anota qué te ayuda y qué te agota. Aunque el turno sea fijo, tal vez otra persona pueda encargarse de la cena el día que vuelves tarde.",
+              "En un estudio estadounidense con 1.364 madres, las que trabajaban a tiempo parcial comunicaron menos síntomas depresivos que las que no tenían empleo remunerado en algunos momentos de la primera infancia. No hubo diferencias significativas en esos síntomas entre quienes trabajaban a jornada parcial y completa. La salud también puede condicionar el acceso al trabajo y su continuidad. Los resultados no predicen si un cambio de horario mejoraría tu estado de ánimo."
+            ]
+          },
+          {
+            "heading": "Encuentra oportunidades de responder en la rutina",
+            "paragraphs": [
+              "Camino de la parada, tu hijo señala un autobús. Sigues su mirada, nombras lo que ve y esperas su respuesta. Estos intercambios pueden darse mientras os vestís, vais de un sitio a otro o recogéis. Tu hijo puede tomar la iniciativa y ver que un adulto responde. Una persona de confianza que lo cuida puede hacer lo mismo durante tu turno.",
+              "Elige un momento breve que normalmente puedas cumplir. Si llegas después de que se acueste, quizá pueda dejarte un dibujo para verlo juntos en el desayuno. Cuenta a quien lo cuida si tiene un interés nuevo o ha pasado una mañana difícil. Un niño mayor puede participar en la elección de cuándo hablar o qué tarea de casa se siente capaz de hacer."
+            ]
+          },
+          {
+            "heading": "Cuando la organización se hace difícil",
+            "paragraphs": [
+              "Pregunta qué ha cambiado en el sueño, el juego, la escuela o las relaciones y qué han observado quienes lo cuidan. Una despedida difícil el lunes puede necesitar una respuesta distinta de un malestar que se mantiene todo el día durante semanas. Si persiste o interfiere en la vida cotidiana, consulta a su pediatra. Un progenitor cuyo ánimo sigue bajo o que tiene dificultad con las tareas habituales también puede pedir ayuda para sí mismo."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Los estudios de empleo familiar describen grupos que viven en circunstancias distintas.",
+          "Observa cómo influyen los ingresos, los horarios, el transporte y el apoyo en el día a día de tu familia.",
+          "Reserva un momento breve de intercambio con tu hijo y mantén el contacto con las otras personas que lo cuidan."
+        ],
+        "faq": [
+          {
+            "q": "¿Qué beneficios puede aportar a una madre el empleo remunerado?",
+            "a": "Pueden importarle los ingresos, una actividad con sentido, la experiencia profesional o el contacto con otros adultos. El equilibrio depende del puesto, los cuidados, los gastos y sus preferencias."
+          },
+          {
+            "q": "¿Puede el trabajo mejorar el ánimo de una madre?",
+            "a": "Para algunas resulta gratificante y para otras puede ser agotador o estresante. Comparar a madres con y sin empleo no permite anticipar el efecto de un horario concreto en una persona."
+          },
+          {
+            "q": "¿Perjudica el trabajo de una madre la salud emocional de su hijo?",
+            "a": "La situación laboral por sí sola no permite saberlo. Observa las relaciones del niño, la estabilidad de los cuidados y cómo le va en su vida diaria. Si las dificultades persisten, describe ejemplos concretos a su pediatra."
+          },
+          {
+            "q": "¿Cómo puedo seguir presente si mis turnos cambian cada semana?",
+            "a": "Elige un momento de contacto que puedas cambiar con el turno, como ver juntos un dibujo en la próxima comida. Dile quién irá a recogerlo y comenta a quien lo cuida algo que le haga ilusión."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Ten en cuenta las circunstancias del hogar al leer investigaciones sobre empleo familiar.",
+            "Busca pequeños intercambios de ida y vuelta con tu hijo en las rutinas diarias."
+          ],
+          "bemama": "BeMama sugiere preguntar tanto a tu hijo como a quien lo cuida qué momento del día de trabajo resulta más fácil y en cuál necesitan ayuda.",
+          "safety": "Pide apoyo a un profesional sanitario si el malestar de tu hijo o tu propio ánimo bajo persiste o dificulta la vida diaria.",
+          "sources": [
+            {
+              "organization": "Hope y colaboradores, revista de epidemiología y salud comunitaria",
+              "title": "Empleo familiar y conducta socioemocional infantil en una cohorte británica",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/24889054/"
+            },
+            {
+              "organization": "Buehler y O’Brien, revista de psicología familiar",
+              "title": "Empleo materno a tiempo parcial y bienestar familiar",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3237952/"
+            },
+            {
+              "organization": "Centro para el Desarrollo Infantil de la Universidad de Harvard",
+              "title": "Interacciones recíprocas y receptivas con los niños",
+              "url": "https://developingchild.harvard.edu/key-concept/serve-and-return/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "O trabalho remunerado da mãe e o bem-estar da criança",
+        "description": "Veja o que os estudos dizem sobre o trabalho remunerado das mães, a saúde emocional dos filhos e como manter o contato com a criança entre os turnos.",
+        "intro": "Ao voltar de um turno que acabou tarde, você encontra o desenho que seu filho queria mostrar antes de dormir. Perder aquele momento pode doer e levantar uma pergunta maior sobre como o seu horário o afeta. Comece pelo que realmente acontece antes, durante e depois de um turno.",
+        "sections": [
+          {
+            "heading": "O que os pesquisadores aprendem ao acompanhar famílias",
+            "paragraphs": [
+              "Um estudo britânico acompanhou famílias desde que a criança era bebê até os sete anos. Encontrou uma associação entre a trajetória de emprego da família e dificuldades emocionais e comportamentais aos sete anos. Em média, as crianças de famílias em que pelo menos um dos pais tinha emprego continuamente apresentaram menos dificuldades do que aquelas em que nenhum dos pais tinha emprego em uma ou mais visitas. Os pesquisadores consideraram, entre outros fatores, os recursos da casa e o bem-estar dos pais.",
+              "Os horários não foram distribuídos por sorteio. Saúde, responsabilidades de cuidado e oportunidades podem mudar a situação de trabalho. O estudo não diz se aceitar um emprego específico vai ajudar ou prejudicar uma criança nem se o trabalho da mãe determina suas notas, independência ou felicidade."
+            ]
+          },
+          {
+            "heading": "O que o emprego pode significar para a mãe",
+            "paragraphs": [
+              "O salário pode pagar o aluguel ou os cuidados infantis. Trabalhar também pode trazer amizades, satisfação ou a oportunidade de praticar uma habilidade. Horários imprevisíveis, cuidados caros ou um trajeto longo podem pesar. Anote o que ajuda e o que deixa você sobrecarregada. Mesmo quando não dá para mudar o turno, talvez outra pessoa possa preparar o jantar naquela noite.",
+              "Em um estudo nos Estados Unidos com 1.364 mães, em alguns momentos da primeira infância as que trabalhavam em tempo parcial relataram menos sintomas depressivos que as que não tinham emprego remunerado. Os pesquisadores não encontraram diferença significativa nesses sintomas entre quem trabalhava em tempo parcial ou integral. A saúde também pode influenciar a possibilidade de conseguir ou manter um emprego. As observações não preveem se mudar o horário melhoraria seu humor."
+            ]
+          },
+          {
+            "heading": "Perceba os pequenos convites à interação",
+            "paragraphs": [
+              "A caminho do ponto, seu filho aponta um ônibus. Você acompanha o olhar dele, diz o que ele vê e espera a resposta. Essas trocas podem acontecer ao se vestir, no trajeto ou ao guardar objetos. A criança pode tomar a iniciativa e perceber que um adulto responde. Alguém conhecido que cuida dela também pode fazer isso durante o seu turno.",
+              "Escolha algo pequeno que geralmente dê para manter. Se chegar depois da hora de dormir, talvez seu filho possa deixar um desenho para vocês verem juntos no café da manhã. Conte a quem cuida dele sobre um interesse recente ou uma manhã difícil. Uma criança mais velha pode ajudar a escolher quando conversar ou qual responsabilidade em casa está ao seu alcance."
+            ]
+          },
+          {
+            "heading": "Quando a rotina fica difícil",
+            "paragraphs": [
+              "Pergunte o que mudou no sono, nas brincadeiras, na escola ou nas relações e o que perceberam os adultos responsáveis. Uma despedida difícil na segunda-feira pode pedir uma resposta diferente de um sofrimento que dura o dia inteiro por semanas. Se o sofrimento persistir ou atrapalhar o cotidiano, converse com o pediatra. Um adulto com desânimo persistente ou dificuldade nas tarefas habituais também pode procurar ajuda para si."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Os estudos sobre emprego familiar descrevem grupos em circunstâncias diversas.",
+          "Observe os efeitos concretos da renda, dos horários, do transporte e do apoio disponível no dia a dia.",
+          "Reserve um pequeno momento regular de troca com seu filho e mantenha contato com quem cuida dele."
+        ],
+        "faq": [
+          {
+            "q": "Que benefícios o emprego remunerado pode trazer para a mãe?",
+            "a": "Renda, atividades significativas, experiência profissional ou convívio com outros adultos podem ter valor para ela. O equilíbrio depende do emprego, da organização dos cuidados, dos custos e das preferências dela."
+          },
+          {
+            "q": "O trabalho pode fazer a mãe se sentir melhor?",
+            "a": "Pode ser gratificante para algumas pessoas e cansativo ou estressante para outras. Comparar mães com e sem emprego não permite prever o efeito de determinado horário no humor de uma pessoa."
+          },
+          {
+            "q": "O emprego da mãe prejudica a saúde emocional da criança?",
+            "a": "A situação profissional isolada não responde à pergunta. Observe os vínculos da criança, a estabilidade dos cuidados e como ela se sente no cotidiano. Se as dificuldades persistirem, leve exemplos ao pediatra."
+          },
+          {
+            "q": "Como participar se meu horário muda toda semana?",
+            "a": "Escolha um momento de contato que possa mudar com o turno, como olhar um desenho juntos na próxima refeição. Diga quem vai buscar seu filho e conte a quem cuida dele algo que ele esteja esperando com alegria."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Considere as circunstâncias das famílias ao ler pesquisas sobre emprego.",
+            "Aproveite atividades comuns para pequenas trocas recíprocas com a criança."
+          ],
+          "bemama": "A BeMama sugere perguntar à criança e a quem cuida dela qual parte do dia de trabalho é mais tranquila e em qual seria bom ter ajuda.",
+          "safety": "Procure apoio profissional se o sofrimento de seu filho ou seu próprio desânimo persistir ou atrapalhar o cotidiano.",
+          "sources": [
+            {
+              "organization": "Hope e colaboradores, revista de epidemiologia e saúde comunitária",
+              "title": "Emprego familiar e comportamento socioemocional de crianças em uma coorte britânica",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/24889054/"
+            },
+            {
+              "organization": "Buehler e O’Brien, revista de psicologia da família",
+              "title": "Trabalho materno em tempo parcial e bem-estar familiar",
+              "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3237952/"
+            },
+            {
+              "organization": "Centro de Desenvolvimento Infantil da Universidade Harvard",
+              "title": "Interações recíprocas e responsivas com as crianças",
+              "url": "https://developingchild.harvard.edu/key-concept/serve-and-return/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5951.webp",
+    "heroAlt": {
+      "en": "An adult holds a child's crayon drawing beside a work bag and keys at the breakfast table.",
+      "fa": "بزرگ‌سالی کنار کیف کار و کلیدها پشت میز صبحانه نقاشی مدادشمعی کودکی را در دست دارد.",
+      "ar": "شخص بالغ يحمل رسماً لطفل بالألوان الشمعية إلى جانب حقيبة عمل ومفاتيح على مائدة الإفطار.",
+      "fr": "Un adulte tient un dessin d’enfant au crayon de cire près d’un sac de travail et de clés à la table du petit déjeuner.",
+      "tr": "Bir yetişkin kahvaltı masasında iş çantası ve anahtarların yanında bir çocuğun pastel boya resmini tutuyor.",
+      "es": "Una persona adulta sostiene un dibujo infantil hecho con ceras junto a un bolso de trabajo y unas llaves en la mesa del desayuno.",
+      "pt": "Uma pessoa adulta segura um desenho infantil feito com giz de cera ao lado de uma bolsa de trabalho e chaves na mesa do café da manhã."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "A mother's paid work and her child's wellbeing",
+      "description": "See what research says about mothers’ paid work, children’s emotional wellbeing and the everyday routines that can support a family around working hours."
+    },
+    "fa": {
+      "title": "کارِ مادر و سلامت عاطفی فرزند",
+      "description": "پژوهش‌ها دربارهٔ کارِ درآمدزای مادران و سلامت عاطفی کودکان چه می‌گویند؟ ببینید کدام بخش‌های برنامهٔ روزمره می‌تواند با ساعت‌های کار خانواده هماهنگ شود."
+    },
+    "ar": {
+      "title": "عمل الأم بأجر وعلاقته بعافية طفلها",
+      "description": "ماذا تقول الدراسات عن عمل الأم وصحة الطفل العاطفية؟ تعرّفي إلى طرق لملاحظة أثر ساعات العمل في يوم أسرتك وإيجاد لحظات للتواصل مع طفلك."
+    },
+    "fr": {
+      "title": "Le travail rémunéré d’une mère et le bien-être de son enfant",
+      "description": "Que sait-on du lien entre l’emploi d’une mère et le bien-être de son enfant ? Voyez comment ménager des moments de présence autour des horaires de travail."
+    },
+    "tr": {
+      "title": "Annenin ücretli çalışması ve çocuğun duygusal iyilik hâli",
+      "description": "Araştırmalar annelerin çalışması ve çocukların duygusal iyilik hâli hakkında ne söylüyor? Vardiyalar arasında çocuğunuzla bağ kurabileceğiniz anları keşfedin."
+    },
+    "es": {
+      "title": "El trabajo remunerado de una madre y el bienestar de su hijo",
+      "description": "Qué dicen los estudios sobre el empleo de las madres y el bienestar emocional infantil, y cómo encontrar momentos para estar juntos alrededor de los turnos."
+    },
+    "pt": {
+      "title": "O trabalho remunerado da mãe e o bem-estar da criança",
+      "description": "Veja o que os estudos dizem sobre o trabalho remunerado das mães, a saúde emocional dos filhos e como manter o contato com a criança entre os turnos."
+    }
+  }
+}

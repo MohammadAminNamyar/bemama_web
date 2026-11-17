@@ -1,0 +1,653 @@
+{
+  "sourceId": "5900",
+  "article": {
+    "slug": "baby-and-child/recognising-anorexia-nervosa-in-young-people",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "When a child restricts food: recognising anorexia nervosa",
+        "description": "Learn when changes in eating, exercise or growth need assessment, what a clinician checks and how families can support a child with anorexia nervosa.",
+        "intro": "A lunch comes home untouched several days in a row. That alone does not tell you why. If your child has also stopped eating foods they used to enjoy, worries about weight or gets upset about missing exercise, describe the whole pattern to their clinician. You can ask for help before you know what to call it.",
+        "sections": [
+          {
+            "heading": "Look for changes across the day",
+            "paragraphs": [
+              "A brief dip in appetite during an illness is common. Anorexia nervosa involves persistent restriction of food along with fear of gaining weight or behaviour that prevents weight gain. A younger child may not have words for the fear. Other conditions, including pain when eating or an avoidant/restrictive food intake disorder, can also lead to eating less. A professional assessment helps distinguish them.",
+              "Notice which meals have changed, whether exercise feels compulsory and whether your child seems cold, tired, dizzy or less able to concentrate. A growing child may stop following their usual growth curve without appearing thin. Serious complications of restrictive eating can occur at any body size, including in atypical anorexia nervosa."
+            ]
+          },
+          {
+            "heading": "What to say when you call",
+            "paragraphs": [
+              "Name a change you can describe without judging their body. You might say, “Lunch has come home most days this week, and yesterday you felt dizzy on the stairs.” Ask for a prompt appointment. Tell the team if the child has fainted, is vomiting repeatedly or has stopped drinking. Seek urgent medical assessment that day for fainting, repeated vomiting, refusal of food or fluids, or signs of dehydration. Call emergency services for collapse with poor responsiveness, a seizure, chest pain or immediate danger of self-harm.",
+              "The clinician reviews growth records, eating, activity and mood, and may talk with your child privately. They check pulse, blood pressure and hydration and may order blood tests or an electrocardiogram to assess heart rhythm. No single weight or blood test rules out an eating disorder. Undernutrition can affect the heart, bones, growth and puberty."
+            ]
+          },
+          {
+            "heading": "How treatment supports a return to eating",
+            "paragraphs": [
+              "The team works with the child and caregivers on safe nutritional recovery, monitoring and psychological treatment. A dietitian familiar with eating disorders can help with an individual plan. Family-based treatment gives caregivers an active role in supporting meals. Parents are part of the treatment and are not to blame for the illness. Medicine alone is not a treatment for anorexia nervosa. A medically unstable child may need hospital care and supervised refeeding.",
+              "In a trial, 121 adolescents aged twelve to eighteen with anorexia nervosa were assigned to family-based treatment or adolescent-focused individual therapy. The groups did not differ significantly in full remission at the end of treatment. At follow-up six and twelve months later, full remission was more common with family-based treatment. This study did not test treatment in five-year-olds or set a deadline for any individual child."
+            ]
+          },
+          {
+            "heading": "How to help between appointments",
+            "paragraphs": [
+              "Ask the team who will guide meals, what to do about sport and when to call sooner. At home, focus on how your child feels and what they need for the next meal. Avoid remarks about their shape, weighing them repeatedly or praising weight loss. If they ask why they need help, you can say, “Eating has become hard, and your body needs support while we work this out together.”"
+            ]
+          }
+        ],
+        "takeaways": [
+          "Bring specific changes in eating, movement or growth to a prompt appointment.",
+          "A child’s appearance cannot tell you how medically unwell they are.",
+          "Ask for a family plan covering meals, physical health, activity and urgent symptoms."
+        ],
+        "faq": [
+          {
+            "q": "Does poor appetite mean my child has anorexia nervosa?",
+            "a": "No. Appetite changes have many causes. Persistent restriction, an intense fear of weight gain or behaviour that interferes with expected growth needs assessment, whether or not a child says they feel hungry."
+          },
+          {
+            "q": "Which children can develop it?",
+            "a": "It can affect children and adolescents of any gender. Genetic, psychological and environmental factors can contribute. Family history is relevant, but a family cannot identify or exclude the disorder from a single risk factor."
+          },
+          {
+            "q": "What complications can severe restriction cause?",
+            "a": "It can slow growth and puberty, weaken bones and affect circulation, electrolytes and heart rhythm. Dizziness, fainting or marked weakness deserve medical attention. A child can be seriously unwell without looking underweight."
+          },
+          {
+            "q": "How long does treatment take?",
+            "a": "It varies. Physical recovery and changes in thoughts or behaviour do not always happen together. Ask the team how they will monitor both, adjust support and plan follow-up. Early help is worthwhile."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Arrange an assessment when restriction or a change in growth persists.",
+            "Give clinicians practical observations and bring earlier growth records if available.",
+            "Use the family’s agreed treatment and emergency plans; ask before changing activity."
+          ],
+          "bemama": "BeMama suggests writing down one change at meals and one change outside meals to share when you call. You do not need to measure calories to ask for help.",
+          "safety": "Seek urgent same-day assessment for fainting, repeated vomiting, refusal of food or fluids, or dehydration. Call emergency services for a seizure, chest pain, collapse with poor responsiveness or immediate danger of self-harm.",
+          "sources": [
+            {
+              "organization": "Canadian Paediatric Society",
+              "title": "Assessment and management of eating disorders in children and adolescents",
+              "url": "https://cps.ca/en/documents/position/eating-disorders"
+            },
+            {
+              "organization": "NICE",
+              "title": "Eating disorders: recognition and treatment",
+              "url": "https://www.nice.org.uk/guidance/ng69/chapter/Recommendations"
+            },
+            {
+              "organization": "Lock and colleagues, Archives of General Psychiatry",
+              "title": "Randomized comparison of family-based and individual treatment for adolescent anorexia nervosa",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/20921118/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "وقتی کودک خوردن را محدود می‌کند؛ شناخت بی‌اشتهایی عصبی",
+        "description": "ببینید چه تغییرهایی در خوردن، ورزش یا رشد کودک نیاز به ارزیابی دارد، پزشک چه چیزهایی را بررسی می‌کند و خانواده چگونه می‌تواند به درمان بی‌اشتهایی عصبی کمک کند.",
+        "intro": "چند روز پشت سر هم غذای مدرسه دست‌نخورده به خانه برمی‌گردد. این به‌تنهایی دلیلش را روشن نمی‌کند. اگر فرزندتان غذاهای مورد علاقه‌اش را هم کنار گذاشته، نگران وزن است یا با ورزش نکردن به‌شدت آشفته می‌شود، مجموعهٔ این تغییرها را برای پزشک شرح دهید. لازم نیست نام مشکل را بدانید تا کمک بخواهید.",
+        "sections": [
+          {
+            "heading": "تغییرها را در طول روز دنبال کنید",
+            "paragraphs": [
+              "هنگام بیماری ممکن است اشتهای کودک چند روزی کم شود. بی‌اشتهایی عصبی با محدود کردن مداوم غذا همراه با ترس از اضافه‌وزن یا رفتارهایی که مانع وزن‌گیری می‌شوند شناخته می‌شود. کودک کوچک‌تر شاید نتواند آن ترس را توضیح دهد. درد هنگام خوردن یا اختلال اجتناب یا محدودیت دریافت غذا هم می‌تواند موجب کمتر خوردن شود. ارزیابی تخصصی به تشخیص تفاوت‌ها کمک می‌کند.",
+              "ببینید کدام وعده‌ها تغییر کرده، آیا کودک خودش را مجبور به ورزش می‌بیند و آیا احساس سرما، خستگی، سرگیجه یا دشواری تمرکز دارد. ممکن است رشد کودک از مسیر معمول خود منحرف شود بی‌آنکه لاغر به نظر برسد. عوارض جدی محدود کردن غذا در هر اندازهٔ بدنی، از جمله در بی‌اشتهایی عصبی غیرتیپیک، ممکن است رخ دهد."
+            ]
+          },
+          {
+            "heading": "هنگام گرفتن وقت چه بگوییم؟",
+            "paragraphs": [
+              "تغییری را که دیده‌اید بدون قضاوت دربارهٔ اندام کودک توصیف کنید. مثلاً: «این هفته بیشتر روزها ناهارت را دست‌نخورده آوردی و دیروز روی پله‌ها سرت گیج رفت.» برای زمانی نزدیک وقت بگیرید. اگر کودک غش کرده، مرتب استفراغ می‌کند یا نوشیدن را کنار گذاشته به تیم درمان بگویید. غش، استفراغ مکرر، امتناع از خوردن غذا یا مایعات یا نشانه‌های کم‌آبی به بررسی فوری همان روز نیاز دارد. در صورت افتادن و پاسخ‌دهی بسیار کم، تشنج، درد قفسهٔ سینه یا خطر فوری آسیب زدن کودک به خود، با اورژانس تماس بگیرید.",
+              "پزشک سابقهٔ رشد، خوردن، فعالیت و خلق‌وخو را بررسی می‌کند و ممکن است با کودک به‌تنهایی صحبت کند. نبض، فشار خون و وضعیت آب بدن را می‌سنجد و ممکن است آزمایش خون یا برای بررسی ضربان و ریتم قلب نوار قلب بخواهد. هیچ عدد وزن یا آزمایش خون واحدی اختلال خوردن را رد نمی‌کند. سوءتغذیه می‌تواند بر قلب، استخوان‌ها، رشد و بلوغ اثر بگذارد."
+            ]
+          },
+          {
+            "heading": "درمان چطور به بازگشت به غذا خوردن کمک می‌کند؟",
+            "paragraphs": [
+              "تیم درمان با کودک و مراقبانش برای احیای ایمن وضعیت تغذیه، پایش پزشکی و درمان روان‌شناختی همکاری می‌کند. کارشناس تغذیهٔ آشنا با اختلالات خوردن می‌تواند برای برنامه‌ای فردی کمک کند. در درمان خانواده‌محور، مراقبان در حمایت از کودک هنگام وعده‌ها نقش فعال دارند. والدین در درمان شریک‌اند و مقصر بیماری نیستند. دارو به‌تنهایی درمان بی‌اشتهایی عصبی نیست. اگر وضعیت جسمی کودک ناپایدار باشد، ممکن است برای بستری و شروع دوبارهٔ تغذیه زیر نظر تیم درمان نیاز به بیمارستان داشته باشد.",
+              "در یک کارآزمایی، ۱۲۱ نوجوان ۱۲ تا ۱۸ ساله با بی‌اشتهایی عصبی به‌طور تصادفی در گروه درمان خانواده‌محور یا روان‌درمانی فردی متمرکز بر نوجوان قرار گرفتند. در پایان درمان، میزان فروکش کامل بیماری در دو گروه تفاوت معناداری نداشت. در پیگیری شش و دوازده ماه بعد از پایان درمان، فروکش کامل در گروه درمان خانواده‌محور شایع‌تر بود. پژوهش دربارهٔ کودکان پنج‌ساله نبود و زمان مشخصی برای بهبود یک کودک تعیین نمی‌کند."
+            ]
+          },
+          {
+            "heading": "بین نوبت‌های ویزیت چه کمکی می‌توان کرد؟",
+            "paragraphs": [
+              "بپرسید چه کسی برای وعده‌ها راهنمایی می‌کند، دربارهٔ ورزش چه کنید و چه وقت زودتر تماس بگیرید. در خانه روی حال کودک و نیازش برای وعدهٔ بعد تمرکز کنید. از نظر دادن دربارهٔ اندامش، وزن‌کشی پی‌درپی یا تعریف از کاهش وزن بپرهیزید. اگر می‌پرسد چرا کمک لازم دارد، می‌توانید بگویید: «غذا خوردن برایت سخت شده و تا با هم راهی پیدا کنیم، بدنت به حمایت نیاز دارد.»"
+            ]
+          }
+        ],
+        "takeaways": [
+          "برای مطرح کردن تغییرهای مشخص در غذا خوردن، تحرک یا رشد زود وقت بگیرید.",
+          "ظاهر کودک نشان نمی‌دهد حال جسمی او چقدر وخیم است.",
+          "برنامه‌ای برای خانواده بخواهید که وعده‌ها، سلامت جسمی، فعالیت و علامت‌های فوری را پوشش دهد."
+        ],
+        "faq": [
+          {
+            "q": "آیا کم‌اشتهایی کودک به معنی بی‌اشتهایی عصبی است؟",
+            "a": "خیر. اشتها به دلایل گوناگون تغییر می‌کند. محدودیت مداوم غذا، ترس شدید از اضافه‌وزن یا رفتار مختل‌کنندهٔ رشدِ مورد انتظار نیاز به ارزیابی دارد، چه کودک بگوید گرسنه است و چه نگوید."
+          },
+          {
+            "q": "چه کودکانی ممکن است دچار آن شوند؟",
+            "a": "این اختلال در کودکان و نوجوانان با هر جنسیتی ممکن است رخ دهد. عوامل ژنتیکی، روانی و محیطی می‌توانند نقش داشته باشند. سابقهٔ خانوادگی مهم است ولی یک عامل خطر برای تشخیص یا رد اختلال کافی نیست."
+          },
+          {
+            "q": "محدودیت شدید غذا چه عوارضی دارد؟",
+            "a": "می‌تواند رشد و بلوغ را کند کند، استخوان‌ها را ضعیف کند و بر گردش خون، تعادل الکترولیت‌ها و ریتم قلب اثر بگذارد. سرگیجه، غش یا ضعف بارز نیاز به توجه پزشکی دارد. ممکن است کودک شدیداً بیمار باشد ولی کم‌وزن به نظر نرسد."
+          },
+          {
+            "q": "درمان چقدر زمان می‌برد؟",
+            "a": "مدت آن متفاوت است. بهبود جسمی و تغییر در فکر یا رفتار همیشه هم‌زمان پیش نمی‌روند. بپرسید تیم درمان چطور هر دو را می‌سنجد، حمایت را تنظیم و برای پیگیری برنامه‌ریزی می‌کند. کمک زودهنگام ارزشمند است."
+          }
+        ],
+        "evidence": {
+          "updated": "مرور شواهد در ۱۶ نوامبر ۲۰۲۶",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "اگر محدودیت غذا یا تغییر روند رشد ادامه دارد، برای ارزیابی اقدام کنید.",
+            "آنچه در عمل دیده‌اید بگویید و اگر در دسترس است اندازه‌گیری‌های قبلی رشد را ببرید.",
+            "برنامهٔ درمان و اقدام اورژانسیِ مورد توافق خانواده را اجرا کنید و پیش از تغییر فعالیت با تیم درمان مشورت کنید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند یک تغییر هنگام وعده‌ها و یک تغییر خارج از وعده‌ها را یادداشت کنید تا هنگام تماس بگویید. برای درخواست کمک لازم نیست کالری‌ها را حساب کنید.",
+          "safety": "برای غش، استفراغ مکرر، امتناع از غذا یا مایعات یا کم‌آبی، همان روز ارزیابی فوری بگیرید. برای تشنج، درد قفسهٔ سینه، افتادن با پاسخ‌دهی کم یا خطر فوری خودآسیب‌رسانی با اورژانس تماس بگیرید.",
+          "sources": [
+            {
+              "organization": "انجمن کودکان کانادا",
+              "title": "ارزیابی و مدیریت اختلالات خوردن در کودکان و نوجوانان",
+              "url": "https://cps.ca/en/documents/position/eating-disorders"
+            },
+            {
+              "organization": "مؤسسهٔ ملی تعالی سلامت و مراقبت بریتانیا",
+              "title": "شناخت و درمان اختلالات خوردن",
+              "url": "https://www.nice.org.uk/guidance/ng69/chapter/Recommendations"
+            },
+            {
+              "organization": "لاک و همکاران، مجلهٔ آرشیو روان‌پزشکی عمومی",
+              "title": "مقایسهٔ تصادفی درمان خانواده‌محور و فردی برای بی‌اشتهایی عصبی در نوجوانان",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/20921118/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "كيف نميّز فقدان الشهية العصبي عند الأطفال والمراهقين؟",
+        "description": "تعرّف إلى التغيرات في الأكل والرياضة والنمو التي تستدعي التقييم، وما يفحصه الطبيب، وكيف تساعد الأسرة طفلًا يعاني من فقدان الشهية العصبي على التعافي.",
+        "intro": "تعود وجبة المدرسة إلى المنزل من دون أن يمسّها طفلك أيامًا متتالية. هذا وحده لا يوضح السبب. إذا كان يتجنب أيضًا أطعمة أحبها سابقًا أو يقلق بشأن وزنه أو ينزعج إن لم يتمرن، فصف مجموع هذه التغيرات للطبيب. يمكنك طلب المساعدة حتى قبل معرفة اسم المشكلة.",
+        "sections": [
+          {
+            "heading": "لاحظ التغيرات على مدار اليوم",
+            "paragraphs": [
+              "من المعتاد أن تقل الشهية مؤقتًا أثناء مرض عابر. أما فقدان الشهية العصبي فيتضمن تقييدًا مستمرًا للطعام مع الخوف من زيادة الوزن أو اتباع سلوك يحول دون اكتسابه. قد يعجز الطفل الصغير عن التعبير عن الخوف. وهناك أسباب أخرى لقلة الأكل، منها الألم أثناء تناول الطعام أو اضطراب تجنّب أو تقييد تناول الطعام. يساعد التقييم المتخصص على التمييز بينها.",
+              "لاحظ أي الوجبات تغيّرت، وهل يشعر الطفل بأنه مضطر إلى التمرن، وهل يشكو من البرد أو التعب أو الدوار أو صعوبة التركيز. قد ينحرف نموه عن منحناه المعتاد من دون أن يبدو نحيلًا. ويمكن أن تحدث مضاعفات خطيرة لتقييد الأكل عند أي حجم للجسم، بما في ذلك عند الإصابة بفقدان الشهية العصبي غير النمطي."
+            ]
+          },
+          {
+            "heading": "ماذا تقول عند الاتصال؟",
+            "paragraphs": [
+              "صف شيئًا لاحظته من دون التعليق على شكل الجسم. يمكنك القول: «عادت وجبة المدرسة كما هي معظم أيام هذا الأسبوع، وشعرت أمس بدوار على الدرج». اطلب موعدًا قريبًا. أخبر الفريق عن الإغماء أو القيء المتكرر أو التوقف عن الشرب. اطلب تقييمًا طبيًا عاجلًا في اليوم نفسه عند الإغماء أو تكرر القيء أو رفض الطعام أو السوائل أو ظهور علامات الجفاف. واتصل بالإسعاف عند حدوث انهيار مع ضعف الاستجابة أو نوبة تشنج أو ألم في الصدر أو خطر وشيك أن يؤذي الطفل نفسه عمدًا.",
+              "يراجع الطبيب سجلات النمو والأكل والنشاط والمزاج، وقد يتحدث مع طفلك على انفراد. ويفحص النبض وضغط الدم وحالة الإماهة، وقد يطلب تحاليل دم أو تخطيطًا كهربائيًا للقلب لتقييم نظمه. لا يستبعد أي وزن أو تحليل دم منفرد وجود اضطراب أكل. وقد يؤثر نقص التغذية في القلب والعظام والنمو والبلوغ."
+            ]
+          },
+          {
+            "heading": "كيف يساعد العلاج على استعادة التغذية؟",
+            "paragraphs": [
+              "يعمل الفريق مع الطفل ومقدمي الرعاية على استعادة التغذية بأمان مع المتابعة الطبية والعلاج النفسي. ويمكن لاختصاصي تغذية لديه خبرة في اضطرابات الأكل المساعدة في إعداد خطة فردية. في العلاج القائم على الأسرة يشارك مقدمو الرعاية بفاعلية في دعم الطفل أثناء الوجبات. الأهل شركاء في العلاج ولا يتحملون ذنب المرض. الدواء وحده لا يعالج فقدان الشهية العصبي. وقد يحتاج الطفل غير المستقر طبيًا إلى دخول المستشفى وإعادة التغذية تحت الإشراف.",
+              "في تجربة وُزّع ١٢١ مراهقًا بين ١٢ و١٨ سنة مصابين بفقدان الشهية العصبي عشوائيًا على العلاج القائم على الأسرة أو العلاج الفردي المتمحور حول المراهق. لم يكن الفرق في معدلات الهدأة الكاملة ذا دلالة إحصائية عند انتهاء العلاج. وفي المتابعة بعد ستة أشهر واثني عشر شهرًا من انتهائه، كانت الهدأة الكاملة أكثر شيوعًا مع العلاج الأسري. لم تدرس التجربة العلاج عند أطفال الخامسة ولا تحدد مهلة لتعافي طفل بعينه."
+            ]
+          },
+          {
+            "heading": "كيف تدعم طفلك بين المواعيد؟",
+            "paragraphs": [
+              "اسأل من سيرشدكم بخصوص الوجبات، وماذا تفعلون بشأن الرياضة، ومتى ينبغي الاتصال قبل الموعد. ركّز في البيت على شعور الطفل وما يحتاج إليه في الوجبة المقبلة. تجنّب التعليق على قوامه أو وزنه مرارًا أو الثناء على نزول وزنه. إن سأل عن سبب طلب المساعدة، يمكنك القول: «صار الأكل صعبًا عليك وجسمك يحتاج إلى الدعم ونحن نبحث معًا عما يساعدك»."
+            ]
+          }
+        ],
+        "takeaways": [
+          "اطلب موعدًا قريبًا واشرح أمثلة محددة عما تغيّر في الأكل أو الحركة أو النمو.",
+          "مظهر الطفل لا يدل على مدى خطورة حالته الطبية.",
+          "اطلب خطة عائلية تتناول الوجبات والصحة الجسدية والنشاط والأعراض العاجلة."
+        ],
+        "faq": [
+          {
+            "q": "هل ضعف الشهية يعني أن طفلي مصاب بفقدان الشهية العصبي؟",
+            "a": "لا. تتغير الشهية لأسباب كثيرة. يستدعي التقييد المستمر أو الخوف الشديد من زيادة الوزن أو السلوك الذي يعيق النمو المتوقع تقييمًا، سواء عبّر الطفل عن الجوع أم لم يعبّر."
+          },
+          {
+            "q": "من الأطفال الذين قد يُصابون به؟",
+            "a": "قد يصيب الأطفال والمراهقين من أي جنس. ويمكن أن تسهم عوامل وراثية ونفسية وبيئية. للتاريخ العائلي أهمية، لكن وجود عامل خطر واحد أو غيابه لا يكفي لتشخيص الاضطراب أو استبعاده."
+          },
+          {
+            "q": "ما مضاعفات التقييد الشديد للطعام؟",
+            "a": "قد يبطئ النمو والبلوغ ويضعف العظام ويؤثر في الدورة الدموية وتوازن أملاح الجسم ونظم القلب. ويستحق الدوار أو الإغماء أو الضعف الشديد عناية طبية. قد تكون الحالة خطيرة من دون أن يبدو الطفل منخفض الوزن."
+          },
+          {
+            "q": "كم يدوم العلاج؟",
+            "a": "تختلف المدة. قد لا يتزامن التعافي الجسدي مع تحسن الأفكار والسلوك. اسأل الفريق كيف سيتابع الجانبين ويحدّث الدعم وينظم المواعيد. من المفيد طلب المساعدة مبكرًا."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "رتّب تقييمًا إذا استمر تقييد الأكل أو التغير في مسار النمو.",
+            "قدّم للطبيب ملاحظات عملية وأحضر القياسات السابقة للنمو إن كانت متاحة.",
+            "اتبع خطة العلاج والطوارئ المتفق عليها مع الأسرة، واستشر الفريق قبل تغيير النشاط."
+          ],
+          "bemama": "تقترح بي ماما تدوين تغير واحد أثناء الوجبات وآخر خارجها لذكرهما عند الاتصال. لا تحتاج إلى حساب السعرات لطلب المساعدة.",
+          "safety": "اطلب تقييمًا عاجلًا في اليوم نفسه للإغماء أو القيء المتكرر أو رفض الطعام أو السوائل أو الجفاف. اتصل بالإسعاف عند التشنج أو ألم الصدر أو الانهيار مع ضعف الاستجابة أو وجود خطر وشيك لإيذاء النفس عمدًا.",
+          "sources": [
+            {
+              "organization": "الجمعية الكندية لطب الأطفال",
+              "title": "تقييم اضطرابات الأكل وتدبيرها عند الأطفال والمراهقين",
+              "url": "https://cps.ca/en/documents/position/eating-disorders"
+            },
+            {
+              "organization": "المعهد الوطني البريطاني للتميز في الصحة والرعاية",
+              "title": "التعرّف إلى اضطرابات الأكل وعلاجها",
+              "url": "https://www.nice.org.uk/guidance/ng69/chapter/Recommendations"
+            },
+            {
+              "organization": "لوك وزملاؤه، دورية أرشيف الطب النفسي العام",
+              "title": "مقارنة عشوائية بين العلاج الأسري والفردي لفقدان الشهية العصبي لدى المراهقين",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/20921118/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Reconnaître l’anorexie mentale chez l’enfant et l’adolescent",
+        "description": "Découvrez quels changements dans les repas, l’exercice ou la croissance justifient un bilan, ce que vérifie le médecin et comment accompagner votre enfant.",
+        "intro": "Le déjeuner revient intact plusieurs jours de suite. Cela ne suffit pas à en connaître la raison. Si votre enfant évite aussi des aliments qu’il aimait, craint de grossir ou s’angoisse de manquer une séance de sport, décrivez l’ensemble de ces changements à son médecin. Vous pouvez demander de l’aide avant de savoir comment nommer le problème.",
+        "sections": [
+          {
+            "heading": "Repérer ce qui change au fil de la journée",
+            "paragraphs": [
+              "Une maladie passagère peut couper l’appétit. Dans l’anorexie mentale, la restriction alimentaire persiste et s’accompagne de la peur de prendre du poids ou de comportements qui empêchent d’en prendre. Un jeune enfant n’a pas forcément les mots pour exprimer cette peur. Une douleur en mangeant ou un trouble de restriction ou d’évitement de l’ingestion d’aliments peut aussi l’amener à manger moins. Un bilan permet d’explorer ces différentes causes.",
+              "Notez quels repas ont changé, si votre enfant se sent obligé de faire du sport et s’il a froid, est fatigué, a des vertiges ou a plus de mal à se concentrer. Il peut s’écarter de sa courbe de croissance habituelle sans sembler maigre. La restriction peut avoir des conséquences graves quelle que soit la corpulence, notamment en cas d’anorexie mentale atypique."
+            ]
+          },
+          {
+            "heading": "Que dire au moment de prendre rendez-vous ?",
+            "paragraphs": [
+              "Parlez de ce que vous avez observé sans juger son corps. Par exemple : « Cette semaine, ton déjeuner est presque toujours revenu entier et hier tu as eu la tête qui tournait dans l’escalier. » Demandez un rendez-vous rapide. Signalez tout évanouissement, vomissement répété ou arrêt des boissons. Un évanouissement, des vomissements répétés, un refus de s’alimenter ou de boire, ou des signes de déshydratation justifient une évaluation urgente le jour même. Appelez les secours en cas d’effondrement avec peu de réactions, de convulsion, de douleur thoracique ou de risque immédiat que l’enfant se fasse du mal.",
+              "Le médecin examine les courbes de croissance, les habitudes alimentaires, l’activité et l’humeur. Il peut parler seul avec votre enfant. Il contrôle le pouls, la tension et l’hydratation et peut demander des analyses de sang ou un électrocardiogramme pour examiner le rythme cardiaque. Aucun poids ni résultat sanguin isolé ne permet d’écarter un trouble alimentaire. La dénutrition peut affecter le cœur, les os, la croissance et la puberté."
+            ]
+          },
+          {
+            "heading": "Comment les soins aident à retrouver une alimentation suffisante",
+            "paragraphs": [
+              "L’équipe organise avec l’enfant et ses proches le rétablissement nutritionnel en sécurité, le suivi médical et les soins psychologiques. Un diététicien formé aux troubles alimentaires peut aider à établir un programme personnalisé. En thérapie familiale, les proches jouent un rôle actif dans le soutien aux repas. Les parents participent aux soins sans être responsables de la maladie. Un médicament ne traite pas à lui seul l’anorexie mentale. Une instabilité médicale peut nécessiter une hospitalisation et une renutrition sous surveillance.",
+              "Dans un essai, 121 adolescents de 12 à 18 ans atteints d’anorexie mentale ont été répartis par tirage au sort entre une thérapie familiale et une thérapie individuelle centrée sur l’adolescent. À la fin du traitement, les taux de rémission complète ne différaient pas significativement. Six et douze mois plus tard, la rémission complète était plus fréquente après la thérapie familiale. Cet essai ne portait pas sur des enfants de cinq ans et ne fixe pas de délai de rétablissement individuel."
+            ]
+          },
+          {
+            "heading": "Aider votre enfant entre les rendez-vous",
+            "paragraphs": [
+              "Demandez à l’équipe qui vous guidera pour les repas, quelles consignes suivre pour le sport et quand la rappeler plus tôt. À la maison, intéressez-vous à ce que ressent votre enfant et à ce dont il a besoin pour le prochain repas. Évitez les remarques sur sa silhouette, les pesées répétées ou les félicitations pour une perte de poids. S’il demande pourquoi il a besoin d’aide, vous pouvez dire : « Manger est devenu difficile et ton corps a besoin de soutien pendant que nous cherchons ensemble comment t’aider. »"
+            ]
+          }
+        ],
+        "takeaways": [
+          "Prenez rapidement rendez-vous et apportez des exemples précis concernant les repas, l’activité ou la croissance.",
+          "L’apparence de l’enfant ne permet pas d’évaluer la gravité de son état.",
+          "Demandez un plan familial précisant les repas, le suivi physique, l’activité et les signes urgents."
+        ],
+        "faq": [
+          {
+            "q": "Un manque d’appétit signifie-t-il que mon enfant a une anorexie mentale ?",
+            "a": "Non. L’appétit peut varier pour de nombreuses raisons. Une restriction persistante, une forte peur de grossir ou des comportements qui compromettent la croissance attendue justifient une évaluation, que l’enfant se dise affamé ou non."
+          },
+          {
+            "q": "Quels enfants peuvent être concernés ?",
+            "a": "Les enfants et adolescents de tout genre peuvent être touchés. Des facteurs génétiques, psychologiques et environnementaux peuvent intervenir. Les antécédents familiaux comptent, mais un seul facteur ne permet pas de repérer ou d’écarter le trouble."
+          },
+          {
+            "q": "Quelles complications une restriction importante peut-elle entraîner ?",
+            "a": "Elle peut freiner la croissance et la puberté, fragiliser les os et perturber la circulation, l’équilibre des électrolytes et le rythme cardiaque. Vertiges, évanouissement ou faiblesse marquée méritent un avis médical. L’enfant peut être très malade sans paraître maigre."
+          },
+          {
+            "q": "Combien de temps durent les soins ?",
+            "a": "La durée varie. Le rétablissement physique et l’évolution des pensées ou des comportements ne vont pas toujours au même rythme. Demandez à l’équipe comment elle suivra les deux, adaptera le soutien et organisera les rendez-vous. Mieux vaut demander de l’aide tôt."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Demandez un bilan si la restriction persiste ou si la trajectoire de croissance reste modifiée.",
+            "Décrivez des observations concrètes et apportez les anciennes mesures de croissance si vous les avez.",
+            "Suivez les consignes de traitement et d’urgence convenues. Demandez conseil avant de modifier l’activité."
+          ],
+          "bemama": "BeMama vous propose de noter un changement pendant les repas et un autre en dehors pour en parler lors de votre appel. Il n’est pas nécessaire de compter les calories pour demander de l’aide.",
+          "safety": "Demandez une évaluation urgente le jour même en cas d’évanouissement, de vomissements répétés, de refus de manger ou de boire, ou de déshydratation. Appelez les secours en cas de convulsion, de douleur thoracique, d’effondrement avec peu de réactions ou de danger immédiat que l’enfant se fasse du mal.",
+          "sources": [
+            {
+              "organization": "Société canadienne de pédiatrie",
+              "title": "Évaluation et prise en charge des troubles alimentaires chez les enfants et les adolescents",
+              "url": "https://cps.ca/en/documents/position/eating-disorders"
+            },
+            {
+              "organization": "Institut britannique pour l’excellence en santé et dans les soins",
+              "title": "Troubles alimentaires : reconnaissance et traitement",
+              "url": "https://www.nice.org.uk/guidance/ng69/chapter/Recommendations"
+            },
+            {
+              "organization": "Lock et ses collègues, Archives of General Psychiatry",
+              "title": "Comparaison randomisée d’une thérapie familiale et d’une thérapie individuelle pour l’anorexie mentale à l’adolescence",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/20921118/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Çocuklarda anoreksiya nervozayı nasıl fark edebilirsiniz?",
+        "description": "Yeme, egzersiz veya büyümedeki hangi değişikliklerde değerlendirme gerektiğini, hekimin nelere baktığını ve çocuğunuza nasıl destek olabileceğinizi öğrenin.",
+        "intro": "Birkaç gündür çocuğunuz beslenme çantasına dokunmadan eve geliyor. Bunun nedeni tek başına çantadan anlaşılmaz. Eskiden sevdiği yiyeceklerden de kaçınıyorsa, kilosu için kaygılanıyorsa ya da egzersiz yapamadığında huzursuz oluyorsa gördüğünüz değişikliklerin hepsini hekime anlatın. Duruma bir ad koyabilmek için beklemeyin.",
+        "sections": [
+          {
+            "heading": "Gün içindeki değişiklikleri gözleyin",
+            "paragraphs": [
+              "Bir hastalık sırasında iştah kısa süreli azalabilir. Anoreksiya nervozada yiyecek alımı süreğen biçimde kısıtlanır. Buna kilo alma korkusu ya da kilo almayı engelleyen davranışlar eşlik eder. Küçük çocuk korkusunu söze dökemeyebilir. Yemek yerken ağrı ya da kaçıngan/kısıtlı yiyecek alımı bozukluğu gibi başka nedenlerle de daha az yiyebilir. Uzman değerlendirmesi bunların ayrımına yardımcı olur.",
+              "Hangi öğünlerin değiştiğini, egzersiz yapmayı zorunluluk gibi hissedip hissetmediğini, üşüme, yorgunluk, baş dönmesi veya odaklanma güçlüğü olup olmadığını gözleyin. Çocuk ince görünmeden de alıştığı büyüme eğrisinden sapabilir. Kısıtlı beslenme, atipik anoreksiya nervoza dahil, her vücut ölçüsünde ciddi sağlık sorunlarına neden olabilir."
+            ]
+          },
+          {
+            "heading": "Randevu isterken ne söyleyebilirsiniz?",
+            "paragraphs": [
+              "Bedeni hakkında yorum yapmadan somut bir değişikliği dile getirin. Örneğin “Bu hafta öğle yemeğin çoğu gün yenmeden geri geldi, dün de merdivende başın döndü” diyebilirsiniz. Yakın tarihli bir randevu isteyin. Bayılma, tekrarlayan kusma veya sıvı almayı bırakma varsa ekibe bildirin. Bayılma, tekrarlayan kusma, yiyecek ya da içecek reddi veya sıvı kaybı belirtilerinde aynı gün acil değerlendirme alın. Yığılıp uyaranlara çok az yanıt verme, nöbet, göğüs ağrısı veya kendine zarar verme tehlikesinin hemen söz konusu olduğu durumda acil yardım çağırın.",
+              "Hekim önceki büyüme kayıtlarını, yeme düzenini, hareketi ve ruh halini değerlendirir. Çocuğunuzla yalnız konuşabilir. Nabzını, tansiyonunu ve sıvı durumunu kontrol eder. Kan tetkikleri ve gerekirse kalp ritmini değerlendirmek için bir elektrokardiyogram isteyebilir. Tek bir kilo ölçümü veya kan testi yeme bozukluğunu dışlamaz. Yetersiz beslenme kalbi, kemikleri, büyümeyi ve ergenlik gelişimini etkileyebilir."
+            ]
+          },
+          {
+            "heading": "Tedavi yeniden beslenmeyi nasıl destekler?",
+            "paragraphs": [
+              "Ekip güvenli beslenme desteği, izlem ve psikolojik tedaviyi çocuk ve bakım verenlerle planlar. Yeme bozuklukları alanında deneyimli bir diyetisyen kişiye uygun plana yardımcı olabilir. Aile temelli tedavide bakım verenler öğünleri desteklemekte etkin görev alır. Aile hastalıktan sorumlu değildir ve tedavinin bir parçasıdır. İlaç tek başına anoreksiya nervozayı tedavi etmez. Tıbbi durumu dengede olmayan bir çocuk hastanede izlem ve gözetim altında yeniden beslenmeye ihtiyaç duyabilir.",
+              "Bir araştırmada anoreksiya nervozası olan 12–18 yaşındaki 121 ergen, aile temelli tedavi veya ergene odaklı bireysel terapi gruplarına rastgele ayrıldı. Tedavinin sonunda tam iyileşme ölçütlerini karşılayanların oranında anlamlı fark yoktu. Tedavi bittikten altı ve on iki ay sonraki takiplerde aile temelli tedavi grubunda tam iyileşme ölçütlerini karşılayanların oranı daha yüksekti. Çalışma beş yaşındaki çocuklarda tedaviyi sınamadı ve tek bir çocuk için iyileşme süresi belirlemiyor."
+            ]
+          },
+          {
+            "heading": "Randevular arasında nasıl destek olabilirsiniz?",
+            "paragraphs": [
+              "Öğünlere kimin rehberlik edeceğini, spor konusunda ne yapacağınızı ve ekibi ne zaman daha erken aramanız gerektiğini sorun. Evde çocuğunuzun nasıl hissettiğine ve bir sonraki öğünde neye ihtiyaç duyduğuna odaklanın. Vücut şekli hakkında yorum yapmaktan, sık sık tartmaktan veya kilo kaybını övmekten kaçının. Neden yardıma ihtiyaç duyduğunu sorarsa “Yemek yemek zorlaştı. Birlikte çözüm ararken bedeninin desteğe ihtiyacı var” diyebilirsiniz."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Yemek, hareket veya büyümede gördüğünüz somut değişiklikler için kısa sürede randevu alın.",
+          "Çocuğun ne kadar hasta olduğunu dış görünüşü göstermez.",
+          "Öğünler, fiziksel sağlık, hareket ve acil belirtiler için bir aile planı isteyin."
+        ],
+        "faq": [
+          {
+            "q": "İştahsızlık anoreksiya nervoza olduğu anlamına mı gelir?",
+            "a": "Hayır. İştah birçok nedenle değişebilir. Çocuk aç olduğunu söylesin ya da söylemesin, sürekli kısıtlama, yoğun kilo alma korkusu veya beklenen büyümeyi engelleyen davranışlar değerlendirilmelidir."
+          },
+          {
+            "q": "Hangi çocuklarda görülebilir?",
+            "a": "Her cinsiyetten çocuk ve ergeni etkileyebilir. Genetik, psikolojik ve çevresel etkenler katkıda bulunabilir. Aile öyküsü önemlidir, ancak tek bir risk etkeniyle bozukluk saptanamaz veya dışlanamaz."
+          },
+          {
+            "q": "Ciddi kısıtlama ne tür sorunlar yaratabilir?",
+            "a": "Büyümeyi ve ergenliği yavaşlatabilir, kemikleri zayıflatabilir, dolaşımı, elektrolit dengesini ve kalp ritmini etkileyebilir. Baş dönmesi, bayılma veya belirgin güçsüzlük tıbbi değerlendirme gerektirir. Çocuk zayıf görünmeden de ciddi biçimde hasta olabilir."
+          },
+          {
+            "q": "Tedavi ne kadar sürer?",
+            "a": "Kişiden kişiye değişir. Bedensel toparlanma ile düşünce ve davranışlardaki değişim aynı hızda olmayabilir. Ekibin her ikisini nasıl izleyeceğini, desteği nasıl ayarlayacağını ve takibi nasıl planladığını sorun. Erken yardım değerlidir."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Yemede kısıtlama veya büyüme eğrisindeki değişim sürüyorsa değerlendirme isteyin.",
+            "Gözlediğiniz somut durumları anlatın ve varsa eski büyüme kayıtlarını getirin.",
+            "Aile için kararlaştırılan tedavi ve acil durum planını uygulayın. Hareket düzenini değiştirmeden ekibe danışın."
+          ],
+          "bemama": "BeMama aradığınızda anlatmak üzere öğün sırasında ve öğün dışında fark ettiğiniz birer değişikliği yazmanızı önerir. Yardım istemek için kalori hesabı yapmanız gerekmez.",
+          "safety": "Bayılma, tekrarlayan kusma, yiyecek veya içecek reddi ya da sıvı kaybı belirtileri için aynı gün acil değerlendirme alın. Nöbet, göğüs ağrısı, yığılıp uyaranlara az yanıt verme veya hemen kendine zarar verme tehlikesinde acil yardım çağırın.",
+          "sources": [
+            {
+              "organization": "Kanada Pediatri Derneği",
+              "title": "Çocuk ve ergenlerde yeme bozukluklarının değerlendirilmesi ve yönetimi",
+              "url": "https://cps.ca/en/documents/position/eating-disorders"
+            },
+            {
+              "organization": "Birleşik Krallık Ulusal Sağlık ve Bakım Mükemmelliği Enstitüsü",
+              "title": "Yeme bozukluklarının tanınması ve tedavisi",
+              "url": "https://www.nice.org.uk/guidance/ng69/chapter/Recommendations"
+            },
+            {
+              "organization": "Lock ve çalışma arkadaşları, Archives of General Psychiatry",
+              "title": "Ergenlerde anoreksiya nervoza için aile temelli ve bireysel tedaviyi karşılaştıran rastgele atamalı çalışma",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/20921118/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Cómo reconocer la anorexia nerviosa en niños y adolescentes",
+        "description": "Conoce qué cambios en la alimentación, el ejercicio o el crecimiento merecen atención, qué comprueba el pediatra y cómo apoyar a un niño con anorexia nerviosa.",
+        "intro": "El almuerzo vuelve a casa intacto varios días seguidos. Eso por sí solo no explica el motivo. Si tu hijo también ha dejado de comer alimentos que le gustaban, le preocupa su peso o se angustia si no hace ejercicio, describe al pediatra el conjunto de cambios. Puedes pedir ayuda aunque todavía no sepas qué nombre darles.",
+        "sections": [
+          {
+            "heading": "Observa los cambios a lo largo del día",
+            "paragraphs": [
+              "Es frecuente perder algo de apetito durante una enfermedad. En la anorexia nerviosa hay una restricción persistente de la alimentación junto con miedo a engordar o conductas que impiden ganar peso. Un niño pequeño puede no saber expresar ese temor. El dolor al comer o un trastorno de evitación o restricción de la ingesta también pueden hacer que coma menos. Una evaluación profesional ayuda a distinguir las causas.",
+              "Fíjate en qué comidas han cambiado, si siente que tiene que hacer ejercicio y si parece tener frío, cansancio, mareos o dificultades para concentrarse. Un niño en crecimiento puede desviarse de su curva habitual sin parecer delgado. Las complicaciones graves de la restricción pueden aparecer con cualquier tamaño corporal, también en la anorexia nerviosa atípica."
+            ]
+          },
+          {
+            "heading": "Qué decir al pedir cita",
+            "paragraphs": [
+              "Describe un cambio sin juzgar su cuerpo. Por ejemplo: «El almuerzo ha vuelto a casa casi todos los días de esta semana y ayer te mareaste en las escaleras». Pide una cita próxima. Avisa si se ha desmayado, vomita repetidamente o ha dejado de beber. Busca valoración urgente ese mismo día por desmayo, vómitos repetidos, rechazo de alimentos o líquidos, o signos de deshidratación. Llama a emergencias ante un colapso con escasa respuesta, convulsión, dolor en el pecho o peligro inmediato de que se haga daño.",
+              "El profesional revisa los registros de crecimiento, la alimentación, la actividad y el estado de ánimo. Puede hablar a solas con tu hijo. Comprueba el pulso, la presión arterial y la hidratación, y puede pedir análisis o un electrocardiograma para evaluar el ritmo cardíaco. Ningún peso ni análisis aislado descarta un trastorno alimentario. La desnutrición puede afectar al corazón, los huesos, el crecimiento y la pubertad."
+            ]
+          },
+          {
+            "heading": "Cómo ayuda el tratamiento a recuperar la alimentación",
+            "paragraphs": [
+              "El equipo trabaja con el niño y sus cuidadores en la recuperación nutricional segura, el seguimiento y el tratamiento psicológico. Un profesional de la nutrición con experiencia en trastornos alimentarios puede orientar un plan individual. En la terapia basada en la familia, los cuidadores participan activamente en el apoyo durante las comidas. Los padres forman parte del tratamiento y no tienen la culpa de la enfermedad. La medicación por sí sola no trata la anorexia nerviosa. Un niño con inestabilidad médica puede necesitar hospitalización y realimentación supervisada.",
+              "En un ensayo se asignó al azar a 121 adolescentes de 12 a 18 años con anorexia nerviosa a terapia basada en la familia o a terapia individual centrada en el adolescente. Al terminar el tratamiento no se observó una diferencia significativa en la remisión completa. En el seguimiento seis y doce meses después, la remisión completa fue más frecuente con la terapia familiar. Este ensayo no estudió a niños de cinco años ni fija un plazo para un niño concreto."
+            ]
+          },
+          {
+            "heading": "Qué hacer entre consultas",
+            "paragraphs": [
+              "Pregunta quién ayudará a organizar las comidas, qué hacer con el deporte y cuándo avisar antes de la siguiente cita. En casa, céntrate en cómo se siente tu hijo y en qué necesita para la próxima comida. Evita comentar su figura, pesarlo repetidamente o elogiar que haya adelgazado. Si pregunta por qué necesita ayuda, puedes decirle: «Comer se te está haciendo difícil y tu cuerpo necesita apoyo mientras lo resolvemos juntos»."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Lleva a una consulta próxima ejemplos concretos de cambios en las comidas, la actividad o el crecimiento.",
+          "El aspecto del niño no revela lo comprometida que puede estar su salud.",
+          "Pide un plan familiar que cubra las comidas, la salud física, la actividad y los síntomas urgentes."
+        ],
+        "faq": [
+          {
+            "q": "¿La falta de apetito significa que mi hijo tiene anorexia nerviosa?",
+            "a": "No. El apetito puede cambiar por muchas razones. La restricción persistente, el miedo intenso a engordar o las conductas que dificultan el crecimiento esperado requieren evaluación, diga o no el niño que tiene hambre."
+          },
+          {
+            "q": "¿A qué niños puede afectar?",
+            "a": "Puede afectar a niños y adolescentes de cualquier género. Pueden contribuir factores genéticos, psicológicos y ambientales. Los antecedentes familiares importan, pero un solo factor no permite identificar ni descartar el trastorno."
+          },
+          {
+            "q": "¿Qué complicaciones puede producir una restricción grave?",
+            "a": "Puede frenar el crecimiento y la pubertad, debilitar los huesos y afectar a la circulación, los electrolitos y el ritmo cardíaco. Los mareos, el desmayo o la debilidad marcada merecen atención médica. El niño puede estar muy enfermo sin parecer bajo de peso."
+          },
+          {
+            "q": "¿Cuánto dura el tratamiento?",
+            "a": "Varía. La recuperación física y los cambios en los pensamientos o la conducta no siempre avanzan juntos. Pregunta cómo se evaluarán ambos, cómo se ajustarán los apoyos y qué seguimiento habrá. Merece la pena pedir ayuda pronto."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Pide una evaluación si persisten la restricción o los cambios en el crecimiento.",
+            "Cuenta lo que has observado y lleva las mediciones previas de crecimiento si las tienes.",
+            "Sigue los planes de tratamiento y de urgencias acordados con la familia y consulta antes de cambiar la actividad."
+          ],
+          "bemama": "BeMama sugiere anotar un cambio durante las comidas y otro fuera de ellas para mencionarlos al llamar. No necesitas calcular calorías para pedir ayuda.",
+          "safety": "Busca valoración urgente ese mismo día por desmayo, vómitos repetidos, rechazo de comida o líquidos o deshidratación. Llama a emergencias por convulsión, dolor en el pecho, colapso con escasa respuesta o peligro inmediato de que se haga daño.",
+          "sources": [
+            {
+              "organization": "Sociedad Canadiense de Pediatría",
+              "title": "Evaluación y tratamiento de los trastornos alimentarios en niños y adolescentes",
+              "url": "https://cps.ca/en/documents/position/eating-disorders"
+            },
+            {
+              "organization": "Instituto Nacional para la Excelencia en Salud y Atención del Reino Unido",
+              "title": "Trastornos alimentarios: reconocimiento y tratamiento",
+              "url": "https://www.nice.org.uk/guidance/ng69/chapter/Recommendations"
+            },
+            {
+              "organization": "Lock y colaboradores, Archives of General Psychiatry",
+              "title": "Comparación aleatorizada de terapia familiar e individual para adolescentes con anorexia nerviosa",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/20921118/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Quando uma criança restringe a alimentação: anorexia nervosa",
+        "description": "Saiba que mudanças na alimentação, no exercício e no crescimento pedem avaliação, o que a equipe verifica e como apoiar uma criança com anorexia nervosa.",
+        "intro": "O lanche volta intacto vários dias seguidos. Isso, por si só, não explica o motivo. Se a criança também deixou de comer alimentos de que gostava, se preocupa com o peso ou fica angustiada quando não consegue se exercitar, conte o conjunto das mudanças ao pediatra. Você pode pedir ajuda antes de saber dar um nome ao problema.",
+        "sections": [
+          {
+            "heading": "Observe o que mudou ao longo do dia",
+            "paragraphs": [
+              "Perder o apetite por pouco tempo durante uma doença é comum. A anorexia nervosa envolve restrição alimentar persistente acompanhada de medo de ganhar peso ou de comportamentos que impedem o ganho de peso. Uma criança pequena pode não saber dizer que tem esse medo. Dor ao comer e transtorno alimentar restritivo/evitativo também podem levar a comer menos. A avaliação profissional ajuda a diferenciar as causas.",
+              "Veja quais refeições mudaram, se a criança sente que precisa se exercitar a qualquer custo, sente frio, cansaço ou tontura ou tem dificuldade para se concentrar. Ela pode sair da curva habitual de crescimento sem parecer magra. Complicações graves da restrição alimentar podem ocorrer em qualquer tamanho de corpo, inclusive na anorexia nervosa atípica."
+            ]
+          },
+          {
+            "heading": "O que dizer ao ligar",
+            "paragraphs": [
+              "Descreva uma mudança sem julgar o corpo da criança. Por exemplo: “O lanche voltou quase todos os dias nesta semana e ontem você teve tontura na escada”. Peça uma consulta em breve. Avise se ela desmaiou, está vomitando repetidamente ou parou de beber. Desmaio, vômitos repetidos, recusa de alimentos ou líquidos ou sinais de desidratação exigem avaliação urgente no mesmo dia. Chame a emergência se a criança cair e responder pouco aos estímulos, tiver convulsão, dor no peito ou estiver em risco imediato de autoagressão.",
+              "O profissional revê o crescimento, a alimentação, a atividade física e o humor. Pode conversar a sós com a criança. Verifica pulso, pressão arterial e hidratação e pode pedir exames de sangue ou um eletrocardiograma para avaliar o ritmo cardíaco. Nenhum peso ou exame de sangue isolado descarta um transtorno alimentar. A desnutrição pode afetar o coração, os ossos, o crescimento e a puberdade."
+            ]
+          },
+          {
+            "heading": "Como o tratamento ajuda a retomar a alimentação",
+            "paragraphs": [
+              "A equipe trabalha com a criança e seus cuidadores na recuperação nutricional segura, no acompanhamento médico e no tratamento psicológico. Um nutricionista com experiência em transtornos alimentares pode orientar um plano individual. No tratamento baseado na família, os cuidadores participam ativamente do apoio às refeições. Os pais fazem parte do tratamento e não são culpados pela doença. Medicamentos isolados não tratam a anorexia nervosa. Quando há instabilidade clínica, pode ser necessária internação com realimentação supervisionada.",
+              "Em um ensaio, 121 adolescentes de 12 a 18 anos com anorexia nervosa foram sorteados para tratamento baseado na família ou terapia individual focada no adolescente. No fim do tratamento não houve diferença significativa na remissão completa. Nas avaliações seis e doze meses depois, a remissão completa foi mais frequente no grupo da terapia familiar. O estudo não avaliou crianças de cinco anos nem define um prazo individual de recuperação."
+            ]
+          },
+          {
+            "heading": "Como ajudar entre as consultas",
+            "paragraphs": [
+              "Pergunte quem vai orientar as refeições, como lidar com o esporte e quando antecipar o contato com a equipe. Em casa, concentre-se em como a criança se sente e do que precisa para a próxima refeição. Evite comentários sobre o corpo, pesagens repetidas e elogios à perda de peso. Se perguntar por que precisa de ajuda, você pode dizer: “Comer ficou difícil e seu corpo precisa de apoio enquanto procuramos juntos uma saída”."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Peça uma consulta em breve para relatar mudanças concretas na alimentação, no movimento ou no crescimento.",
+          "A aparência não indica a gravidade do estado de saúde da criança.",
+          "Peça um plano para a família que contemple refeições, saúde física, atividade e sinais de urgência."
+        ],
+        "faq": [
+          {
+            "q": "Falta de apetite quer dizer que meu filho tem anorexia nervosa?",
+            "a": "Não. O apetite varia por muitos motivos. Restrição persistente, medo intenso de engordar ou comportamento que prejudica o crescimento esperado precisam de avaliação, quer a criança diga que sente fome ou não."
+          },
+          {
+            "q": "Quais crianças podem apresentar a doença?",
+            "a": "Pode afetar crianças e adolescentes de qualquer gênero. Fatores genéticos, psicológicos e ambientais podem contribuir. O histórico familiar é relevante, mas um fator de risco sozinho não identifica nem exclui o transtorno."
+          },
+          {
+            "q": "Que complicações a restrição grave pode causar?",
+            "a": "Pode atrasar o crescimento e a puberdade, enfraquecer os ossos e afetar a circulação, os eletrólitos e o ritmo cardíaco. Tontura, desmaio ou fraqueza intensa merecem atenção médica. A criança pode estar muito doente sem parecer abaixo do peso."
+          },
+          {
+            "q": "Quanto tempo leva o tratamento?",
+            "a": "Varia. A recuperação física e as mudanças nos pensamentos ou no comportamento nem sempre ocorrem no mesmo ritmo. Pergunte como a equipe vai acompanhar ambos, ajustar o apoio e organizar os retornos. Vale a pena pedir ajuda cedo."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Marque uma avaliação se persistirem a restrição ou a alteração do crescimento.",
+            "Descreva situações concretas e leve os registros anteriores de crescimento, se estiverem disponíveis.",
+            "Siga os planos de tratamento e emergência combinados e consulte a equipe antes de alterar a atividade física."
+          ],
+          "bemama": "A BeMama sugere anotar uma mudança nas refeições e outra fora delas para contar ao ligar. Você não precisa calcular calorias para pedir ajuda.",
+          "safety": "Procure avaliação urgente no mesmo dia em caso de desmaio, vômitos repetidos, recusa de comida ou líquidos ou desidratação. Chame a emergência por convulsão, dor no peito, queda com pouca resposta ou risco imediato de autoagressão.",
+          "sources": [
+            {
+              "organization": "Sociedade Canadense de Pediatria",
+              "title": "Avaliação e manejo de transtornos alimentares em crianças e adolescentes",
+              "url": "https://cps.ca/en/documents/position/eating-disorders"
+            },
+            {
+              "organization": "Instituto Nacional de Excelência em Saúde e Cuidados do Reino Unido",
+              "title": "Transtornos alimentares: reconhecimento e tratamento",
+              "url": "https://www.nice.org.uk/guidance/ng69/chapter/Recommendations"
+            },
+            {
+              "organization": "Lock e colaboradores, Archives of General Psychiatry",
+              "title": "Comparação aleatorizada entre terapia familiar e individual para anorexia nervosa na adolescência",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/20921118/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5900.webp",
+    "heroAlt": {
+      "en": "An open lunch bag holds a wrapped sandwich and a pear beside a school backpack.",
+      "es": "Una bolsa de almuerzo abierta contiene un sándwich envuelto y una pera junto a una mochila escolar.",
+      "fr": "Un sac à déjeuner ouvert contient un sandwich emballé et une poire à côté d’un sac d’école.",
+      "pt": "Uma lancheira aberta contém um sanduíche embalado e uma pera ao lado de uma mochila escolar.",
+      "tr": "Okul çantasının yanında açık bir beslenme çantasında paketli sandviç ve armut duruyor.",
+      "fa": "در یک کیف غذای باز کنار کوله‌پشتی مدرسه، یک ساندویچ بسته‌بندی‌شده و یک گلابی دیده می‌شود.",
+      "ar": "حقيبة غداء مفتوحة فيها شطيرة مغلفة وحبة كمثرى بجانب حقيبة مدرسية."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "When a child restricts food: recognising anorexia nervosa",
+      "description": "Learn when changes in eating, exercise or growth need assessment, what a clinician checks and how families can support a child with anorexia nervosa."
+    },
+    "fa": {
+      "title": "وقتی کودک خوردن را محدود می‌کند؛ شناخت بی‌اشتهایی عصبی",
+      "description": "ببینید چه تغییرهایی در خوردن، ورزش یا رشد کودک نیاز به ارزیابی دارد، پزشک چه چیزهایی را بررسی می‌کند و خانواده چگونه می‌تواند به درمان بی‌اشتهایی عصبی کمک کند."
+    },
+    "ar": {
+      "title": "كيف نميّز فقدان الشهية العصبي عند الأطفال والمراهقين؟",
+      "description": "تعرّف إلى التغيرات في الأكل والرياضة والنمو التي تستدعي التقييم، وما يفحصه الطبيب، وكيف تساعد الأسرة طفلًا يعاني من فقدان الشهية العصبي على التعافي."
+    },
+    "fr": {
+      "title": "Reconnaître l’anorexie mentale chez l’enfant et l’adolescent",
+      "description": "Découvrez quels changements dans les repas, l’exercice ou la croissance justifient un bilan, ce que vérifie le médecin et comment accompagner votre enfant."
+    },
+    "tr": {
+      "title": "Çocuklarda anoreksiya nervozayı nasıl fark edebilirsiniz?",
+      "description": "Yeme, egzersiz veya büyümedeki hangi değişikliklerde değerlendirme gerektiğini, hekimin nelere baktığını ve çocuğunuza nasıl destek olabileceğinizi öğrenin."
+    },
+    "es": {
+      "title": "Cómo reconocer la anorexia nerviosa en niños y adolescentes",
+      "description": "Conoce qué cambios en la alimentación, el ejercicio o el crecimiento merecen atención, qué comprueba el pediatra y cómo apoyar a un niño con anorexia nerviosa."
+    },
+    "pt": {
+      "title": "Quando uma criança restringe a alimentação: anorexia nervosa",
+      "description": "Saiba que mudanças na alimentação, no exercício e no crescimento pedem avaliação, o que a equipe verifica e como apoiar uma criança com anorexia nervosa."
+    }
+  }
+}

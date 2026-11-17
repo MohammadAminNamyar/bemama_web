@@ -1,0 +1,611 @@
+{
+  "sourceId": "5860",
+  "article": {
+    "slug": "daydreaming-in-children-when-to-check-staring-spells",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "When a child drifts off: daydreaming or a staring spell?",
+        "description": "A child who looks far away may be imagining a story or missing part of a lesson. Notice how they respond, what gets interrupted and when to ask for help.",
+        "intro": "During breakfast your child pictures a rocket landing on the table. They smile when you ask where it came from. Later a teacher describes pauses in the middle of a sentence when your child seems unable to hear. Those observations are worth describing separately.",
+        "sections": [
+          {
+            "heading": "Make room for imagination",
+            "paragraphs": [
+              "A child might imagine a game, replay a conversation or simply let their mind wander during a quiet moment. Ask what they were thinking about if they want to tell you. Enjoying an imagined story by itself does not diagnose ADHD or another mental health condition. Consider whether they can return to the task and whether they are missing something important.",
+              "In one classroom study, 126 children aged eight to nine paused during a listening task to report what was on their minds. Some described unrelated thoughts and others described outside distractions. Mind wandering was associated with poorer immediate recall. The study did not test whether daydreaming is harmful over the long term or whether an individual child has a disorder."
+            ]
+          },
+          {
+            "heading": "If it keeps getting in the way",
+            "paragraphs": [
+              "Ask a teacher for a specific example. Did the child miss one set of instructions while tired, or regularly lose track during work, play and conversation? At home, try one instruction at a time and agree on a friendly signal for returning to the activity. Leave some unstructured time for imagination.",
+              "If frequent lapses affect learning, relationships or safety, talk to your child’s clinician. Bring notes on when the episodes happen, how long they last and what the child does afterward. Mention changes in sleep, hearing, mood or school demands."
+            ]
+          },
+          {
+            "heading": "When a pause needs medical attention",
+            "paragraphs": [
+              "Repeated spells that start and stop abruptly, interrupt speech or play and include no response to the child’s name deserve prompt medical assessment. Eyelids may flutter during an absence seizure. A brief episode or a response to touch alone cannot settle the diagnosis. A clinician may ask for further evaluation or an EEG.",
+              "If you think your child is having a first seizure, call emergency services. Also call for a seizure lasting five minutes or longer, repeated seizures without recovery or breathing difficulty. Keep the child safe, time the event, and do not restrain them or put anything in their mouth. For known seizures, follow their individual emergency plan."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Find out what was happening before, during and after the pause.",
+          "Use a gentle cue and manageable instructions when ordinary daydreaming disrupts a task.",
+          "Arrange assessment for recurrent abrupt, unresponsive spells."
+        ],
+        "faq": [
+          {
+            "q": "When can daydreaming become a problem?",
+            "a": "Seek advice if it repeatedly interrupts learning, ordinary conversations or safety. Sudden unresponsive spells merit medical evaluation even if the child seems well afterward."
+          },
+          {
+            "q": "Is daydreaming a sign of mental illness?",
+            "a": "Daydreaming on its own cannot establish a diagnosis. A clinician considers the full pattern and its effect on daily life."
+          },
+          {
+            "q": "Should we try to stop it?",
+            "a": "There is no need to eliminate enjoyable, ordinary imagining. Help the child return to tasks when necessary and investigate repeated episodes that seem involuntary."
+          },
+          {
+            "q": "Can daydreaming be useful?",
+            "a": "Children may enjoy inventing stories or rehearsing possibilities. Those experiences can have a place in the day even when focused attention is needed for other tasks."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Ask the child and teacher for examples rather than labelling the behaviour.",
+            "Record abrupt spells, duration, responsiveness and recovery.",
+            "Seek help promptly for repeated unresponsive spells."
+          ],
+          "bemama": "BeMama suggests comparing one moment when your child easily returned to a conversation with one when they seemed unable to respond.",
+          "safety": "Call emergency services for a first suspected seizure, a seizure of five minutes or more, repeated seizures without recovery, or breathing difficulty. Seek prompt assessment for recurring brief spells without response.",
+          "sources": [
+            {
+              "organization": "Cherry and colleagues, Applied Cognitive Psychology",
+              "title": "Mind wandering during a classroom listening task",
+              "url": "https://doi.org/10.1002/acp.70128"
+            },
+            {
+              "organization": "Johns Hopkins Medicine",
+              "title": "Staring spells in children and when to seek assessment",
+              "url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/staring-spells-when-its-more-than-daydreaming"
+            },
+            {
+              "organization": "American Academy of Pediatrics",
+              "title": "Seizure first aid for children",
+              "url": "https://www.healthychildren.org/English/health-issues/conditions/seizures/Pages/Seizure-First-Aid-for-Children.aspx"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "وقتی کودک به جایی خیره می‌شود، خیال‌پردازی است یا یک حمله؟",
+        "description": "کودکی که به دوردست نگاه می‌کند شاید در ذهنش داستانی ساخته یا بخشی از درس را نشنیده باشد. ببینید چگونه پاسخ می‌دهد و چه زمانی باید کمک گرفت.",
+        "intro": "سر صبحانه فرزندتان تصور می‌کند موشکی روی میز فرود آمده است. وقتی می‌پرسید از کجا آمده، لبخند می‌زند. بعد معلم از مکث‌هایی وسط جمله می‌گوید که انگار کودک در آن لحظه صدایی نمی‌شنود. بهتر است این دو مشاهده را جداگانه شرح دهید.",
+        "sections": [
+          {
+            "heading": "برای خیال‌پردازی جا بگذارید",
+            "paragraphs": [
+              "شاید کودک بازی تازه‌ای تصور کند، گفت‌وگویی را در ذهن مرور کند یا در لحظه‌ای آرام ذهنش به جاهای دیگر برود. اگر دلش خواست تعریف کند، بپرسید به چه فکر می‌کرد. لذت بردن از یک داستان خیالی به‌تنهایی نشانه تشخیصی اختلال نقص توجه و بیش‌فعالی یا اختلال روانی دیگری نیست. ببینید آیا به کاری که می‌کرد برمی‌گردد و آیا نکته مهمی را از دست داده است.",
+              "در پژوهشی در کلاس درس، ۱۲۶ کودک هشت تا نه ساله هنگام تمرین شنیداری مکث می‌کردند تا بگویند چه در ذهنشان می‌گذرد. بعضی به فکرهایی بی‌ربط به تمرین و برخی به حواس‌پرتی‌های محیطی اشاره کردند. پرسه زدن ذهن با یادآوری ضعیف‌تر مطالب بلافاصله پس از تمرین ارتباط داشت. این مطالعه بررسی نکرد که خیال‌پردازی در درازمدت زیان دارد یا یک کودک مشخص دچار اختلال است."
+            ]
+          },
+          {
+            "heading": "وقتی این مکث‌ها مرتب کارهای کودک را مختل می‌کنند",
+            "paragraphs": [
+              "از معلم نمونه مشخصی بخواهید. آیا کودک یک‌بار هنگام خستگی دستوری را نشنیده یا در کار، بازی و گفت‌وگو مرتب رشته افکار را گم می‌کند؟ در خانه هر بار یک دستور بدهید و برای بازگشت به فعالیت بر سر یک علامت دوستانه توافق کنید. زمانی آزاد هم برای خیال‌پردازی باقی بگذارید.",
+              "اگر مکث‌های مکرر بر یادگیری، رابطه‌ها یا ایمنی کودک اثر دارند، با پزشکش صحبت کنید. زمان وقوع، مدت و رفتار کودک پس از هر بار را یادداشت کنید. تغییرات خواب، شنوایی، خلق یا انتظارات مدرسه را هم بگویید."
+            ]
+          },
+          {
+            "heading": "مکث‌هایی که به ارزیابی پزشکی نیاز دارند",
+            "paragraphs": [
+              "اگر مکث‌ها تکرار می‌شوند، ناگهان آغاز می‌شوند و پایان می‌یابند، حرف زدن یا بازی را قطع می‌کنند و کودک به شنیدن نامش پاسخ نمی‌دهد، برای ارزیابی پزشکی زود اقدام کنید. در تشنج غیبت ممکن است پلک‌ها بلرزند. کوتاهی حمله یا واکنش به لمس به‌تنهایی برای تشخیص کافی نیست. پزشک ممکن است بررسی بیشتر یا نوار مغز درخواست کند.",
+              "اگر فکر می‌کنید کودک برای نخستین بار تشنج می‌کند، با اورژانس تماس بگیرید. اگر تشنج پنج دقیقه یا بیشتر طول کشید، تشنج‌ها بدون بهبود بین آن‌ها تکرار شدند یا نفس کشیدن دشوار بود نیز تماس بگیرید. از او در برابر آسیب محافظت کنید، زمان بگیرید، به زور مانع حرکاتش نشوید و چیزی در دهانش نگذارید. برای تشنج‌های شناخته‌شده از برنامه اضطراری اختصاصی کودک پیروی کنید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "ببینید پیش از مکث، حین آن و پس از آن چه اتفاقی افتاد.",
+          "اگر خیال‌پردازی معمولی کاری را قطع کرد، با علامتی ملایم و دستورهای ساده به کودک کمک کنید.",
+          "برای مکث‌های ناگهانی و مکرر که در آن‌ها کودک پاسخ نمی‌دهد، درخواست ارزیابی کنید."
+        ],
+        "faq": [
+          {
+            "q": "چه وقت خیال‌پردازی ممکن است مشکل‌ساز شود؟",
+            "a": "اگر بارها یادگیری یا گفت‌وگوهای عادی را مختل می‌کند یا ایمنی را به خطر می‌اندازد، مشورت کنید. مکث ناگهانی بدون پاسخ نیاز به ارزیابی پزشکی دارد، حتی اگر کودک بعدش خوب به نظر برسد."
+          },
+          {
+            "q": "آیا خیال‌پردازی علامت بیماری روانی است؟",
+            "a": "خیال‌پردازی به‌تنهایی تشخیص به دست نمی‌دهد. پزشک الگوی کلی و اثرش بر زندگی روزمره را می‌سنجد."
+          },
+          {
+            "q": "آیا باید جلو آن را بگیریم؟",
+            "a": "لازم نیست خیال‌پردازی معمولی و لذت‌بخش را حذف کنید. در صورت نیاز به کودک برای برگشتن به کار کمک کنید و مکث‌های مکرری را که غیرارادی به نظر می‌رسند پیگیری کنید."
+          },
+          {
+            "q": "آیا خیال‌پردازی فایده‌ای هم دارد؟",
+            "a": "ممکن است کودک از ساختن داستان یا مرور امکان‌های گوناگون لذت ببرد. حتی اگر برای برخی کارها تمرکز لازم باشد، برای این تجربه‌ها هم در طول روز جا هست."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۶ نوامبر ۲۰۲۶ بررسی شدند",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "پیش از نسبت دادن برچسبی به رفتار، از کودک و معلم نمونه مشخص بخواهید.",
+            "مکث‌های ناگهانی، مدت، واکنش کودک و وضعیتش پس از حمله را ثبت کنید.",
+            "برای مکث‌های مکرر بدون پاسخ، زود کمک بگیرید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند یک بار که کودک به‌آسانی به گفت‌وگو برگشت را با باری که انگار قادر به پاسخ نبود مقایسه کنید.",
+          "safety": "برای نخستین تشنج مشکوک، تشنج پنج دقیقه‌ای یا طولانی‌تر، تشنج‌های تکراری بدون بهبود بین آن‌ها یا دشواری تنفس با اورژانس تماس بگیرید. برای مکث‌های کوتاه و مکرر بدون پاسخ زود درخواست ارزیابی کنید.",
+          "sources": [
+            {
+              "organization": "چری و همکاران، نشریه روان‌شناسی شناختی کاربردی",
+              "title": "پرسه زدن ذهن هنگام یک تمرین شنیداری در کلاس",
+              "url": "https://doi.org/10.1002/acp.70128"
+            },
+            {
+              "organization": "مرکز پزشکی جانز هاپکینز",
+              "title": "خیره شدن کودکان و زمان درخواست ارزیابی",
+              "url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/staring-spells-when-its-more-than-daydreaming"
+            },
+            {
+              "organization": "آکادمی اطفال آمریکا",
+              "title": "کمک‌های اولیه هنگام تشنج کودک",
+              "url": "https://www.healthychildren.org/English/health-issues/conditions/seizures/Pages/Seizure-First-Aid-for-Children.aspx"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "حين يسرح الطفل: هل يتخيل أم يمر بنوبة تحديق؟",
+        "description": "قد يتخيل طفلك قصة حين يبدو شاردًا، أو يفوته جزء من الدرس. لاحظ كيف يستجيب، وأي نشاط يتوقف أثناء الشرود، ومتى تحتاج إلى مشورة طبية.",
+        "intro": "على الإفطار يتخيل طفلك أن صاروخًا حط على المائدة. يبتسم حين تسأله من أين أتى. وفي وقت لاحق تذكر معلمته أنه يتوقف أحيانًا في منتصف الجملة وكأنه لا يسمع. من المفيد وصف كل من هاتين الملاحظتين على حدة.",
+        "sections": [
+          {
+            "heading": "أفسح مكانًا للخيال",
+            "paragraphs": [
+              "قد يتخيل الطفل لعبة أو يستعيد حديثًا أو يترك أفكاره تسرح في لحظة هادئة. اسأله فيم كان يفكر إذا أراد أن يخبرك. الاستمتاع بقصة من الخيال لا يكفي وحده لتشخيص اضطراب فرط الحركة وتشتت الانتباه أو أي اضطراب نفسي آخر. انظر هل يستطيع العودة إلى النشاط وهل فاته شيء مهم.",
+              "في دراسة صفية توقف ١٢٦ طفلًا بين الثامنة والتاسعة أثناء تمرين للاستماع ليوضحوا ما كان يدور في أذهانهم. وصف بعضهم أفكارًا لا علاقة لها بالتمرين ووصف آخرون مشتتات من حولهم. ارتبط شرود الذهن بتذكر أضعف للمادة مباشرة بعد الاستماع. لم تختبر الدراسة ما إذا كان التخيل يضر على المدى الطويل أو ما إذا كان لدى طفل معين اضطراب."
+            ]
+          },
+          {
+            "heading": "عندما يعيق الشرود الأنشطة مرارًا",
+            "paragraphs": [
+              "اطلب من المعلم مثالًا محددًا. هل فاتت الطفل تعليمات مرة حين كان متعبًا، أم أنه يفقد تسلسل الأحداث مرارًا خلال العمل واللعب والحديث؟ في المنزل جرّب إعطاء تعليمة واحدة في كل مرة واتفق معه على إشارة لطيفة للعودة إلى النشاط. واترك بعض الوقت الحر للخيال.",
+              "إذا أثرت فترات الشرود المتكررة في التعلم أو العلاقات أو السلامة، فتحدث إلى طبيب الطفل. دوّن موعد حدوثها ومدتها وما يفعله الطفل بعدها. اذكر أي تغير في النوم أو السمع أو المزاج أو متطلبات المدرسة."
+            ]
+          },
+          {
+            "heading": "متى يحتاج التوقف إلى تقييم طبي؟",
+            "paragraphs": [
+              "النوبات المتكررة التي تبدأ وتنتهي فجأة وتقطع الكلام أو اللعب ولا يستجيب فيها الطفل عند مناداته باسمه تستحق تقييمًا طبيًا قريبًا دون تأخير. قد ترفّ الأجفان في نوبة الغياب الصرعية. لا يكفي قصر النوبة أو الاستجابة للمس وحدها لحسم التشخيص. قد يطلب الطبيب تقييمًا إضافيًا أو تخطيطًا كهربائيًا للدماغ.",
+              "إذا ظننت أن طفلك يمر بأول نوبة صرعية، فاتصل بالطوارئ. اتصل أيضًا إذا استمرت النوبة خمس دقائق أو أكثر، أو توالت النوبات بلا تعافٍ بينها، أو صَعُب التنفس. احمِ الطفل وسجّل المدة، ولا تقيّد حركته أو تضع شيئًا في فمه. في حالة النوبات المعروفة اتبع خطة الطوارئ الخاصة به."
+            ]
+          }
+        ],
+        "takeaways": [
+          "لاحظ ما كان يحدث قبل التوقف وأثناءه وبعده.",
+          "استخدم إشارة لطيفة وتعليمات يسهل تنفيذها حين يقطع التخيل العادي مهمة الطفل.",
+          "رتّب تقييمًا للنوبات المفاجئة المتكررة التي لا يستجيب فيها الطفل."
+        ],
+        "faq": [
+          {
+            "q": "متى قد يصبح التخيل مشكلة؟",
+            "a": "اطلب المشورة إذا تعطّل التعلم أو الحديث اليومي أو تأثرت السلامة بصورة متكررة. التوقف المفاجئ مع عدم الاستجابة يستحق تقييمًا طبيًا حتى إن بدا الطفل بخير بعده."
+          },
+          {
+            "q": "هل التخيل علامة على مرض نفسي؟",
+            "a": "لا يثبت التخيل وحده أي تشخيص. ينظر الطبيب إلى النمط كاملًا وإلى أثره في حياة الطفل اليومية."
+          },
+          {
+            "q": "هل نحاول إيقافه؟",
+            "a": "لا حاجة إلى منع تخيل عادي يستمتع به الطفل. ساعده على الرجوع إلى المهمة عند الحاجة واطلب تقييم النوبات المتكررة التي تبدو لا إرادية."
+          },
+          {
+            "q": "هل يمكن أن يكون التخيل مفيدًا؟",
+            "a": "قد يستمتع الطفل بابتكار القصص أو تخيل الاحتمالات. يمكن أن يكون لهذه التجارب وقت في يومه حتى لو احتاجت مهمات أخرى إلى تركيز."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "اطلب أمثلة من الطفل والمعلم قبل إطلاق وصف على سلوكه.",
+            "سجّل النوبات المفاجئة ومدتها واستجابة الطفل وكيف تعافى.",
+            "اطلب المساعدة دون تأخير إذا تكررت نوبات عدم الاستجابة."
+          ],
+          "bemama": "تقترح بي ماما أن تقارن بين مرة عاد فيها طفلك إلى الحديث بسهولة ومرة أخرى بدا فيها عاجزًا عن الرد.",
+          "safety": "اتصل بالطوارئ عند الاشتباه بأول نوبة صرعية، أو عند نوبة مدتها خمس دقائق فأكثر، أو تكرار النوبات دون تعافٍ، أو صعوبة التنفس. اطلب تقييمًا سريعًا لنوبات قصيرة متكررة دون استجابة.",
+          "sources": [
+            {
+              "organization": "تشيري وزملاؤه، مجلة علم النفس المعرفي التطبيقي",
+              "title": "شرود الذهن أثناء تمرين صفي للاستماع",
+              "url": "https://doi.org/10.1002/acp.70128"
+            },
+            {
+              "organization": "مؤسسة جونز هوبكنز الطبية",
+              "title": "نوبات التحديق عند الأطفال ومتى تطلب تقييمًا",
+              "url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/staring-spells-when-its-more-than-daydreaming"
+            },
+            {
+              "organization": "الأكاديمية الأمريكية لطب الأطفال",
+              "title": "الإسعافات الأولية لنوبات الصرع عند الأطفال",
+              "url": "https://www.healthychildren.org/English/health-issues/conditions/seizures/Pages/Seizure-First-Aid-for-Children.aspx"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Enfant dans la lune ou épisode de regard fixe ?",
+        "description": "Un enfant qui regarde dans le vide imagine peut-être une histoire. Observez sa réaction, l’activité interrompue et les signes qui méritent un avis médical.",
+        "intro": "Au petit déjeuner, votre enfant imagine une fusée qui se pose sur la table. Il sourit quand vous demandez d’où elle vient. Plus tard, son enseignante vous parle de pauses au milieu d’une phrase pendant lesquelles il semble ne rien entendre. Ces deux observations méritent d’être décrites séparément.",
+        "sections": [
+          {
+            "heading": "Laisser une place à l’imagination",
+            "paragraphs": [
+              "Un enfant peut inventer un jeu, rejouer une conversation ou laisser ses pensées vagabonder pendant un moment calme. Demandez-lui à quoi il pensait s’il souhaite vous le raconter. Prendre plaisir à une histoire imaginaire ne permet pas à lui seul de diagnostiquer un TDAH ou un autre trouble psychique. Regardez s’il peut revenir à l’activité et s’il a manqué quelque chose d’important.",
+              "Dans une étude en classe, 126 enfants de huit à neuf ans interrompaient un exercice d’écoute pour dire à quoi ils pensaient. Certains décrivaient des pensées sans rapport avec la tâche, d’autres des distractions extérieures. Le vagabondage de l’esprit était associé à un rappel immédiat moins précis. L’étude n’a pas cherché à déterminer si la rêverie nuit à long terme ou si un enfant en particulier présente un trouble."
+            ]
+          },
+          {
+            "heading": "Quand ces moments gênent souvent le quotidien",
+            "paragraphs": [
+              "Demandez un exemple précis à l’enseignant. L’enfant a-t-il manqué une consigne un jour de fatigue ou perd-il régulièrement le fil en travaillant, en jouant et en discutant ? À la maison, donnez une consigne à la fois et convenez d’un signe discret et bienveillant pour revenir à l’activité. Gardez des moments libres pour imaginer.",
+              "Si ces épisodes fréquents gênent les apprentissages, les relations ou la sécurité, parlez-en au professionnel de santé de votre enfant. Notez quand ils surviennent, combien de temps ils durent et ce que fait l’enfant après. Signalez un changement du sommeil, de l’audition, de l’humeur ou des exigences scolaires."
+            ]
+          },
+          {
+            "heading": "Quand une pause mérite un avis médical",
+            "paragraphs": [
+              "Des épisodes répétés qui commencent et cessent brusquement, interrompent la parole ou le jeu et durant lesquels l’enfant ne répond pas à son prénom nécessitent une évaluation rapide. Lors d’une crise d’absence, ses paupières peuvent battre. Ni la brièveté de l’épisode ni la seule réponse au toucher ne permettent de poser un diagnostic. Le médecin peut demander un bilan complémentaire ou un électroencéphalogramme.",
+              "Si vous soupçonnez une première crise d’épilepsie, appelez les secours. Appelez aussi si une crise dure cinq minutes ou plus, si des crises se répètent sans récupération entre elles ou si l’enfant respire difficilement. Protégez-le, chronométrez la crise, ne le maintenez pas de force et ne mettez rien dans sa bouche. Pour des crises connues, suivez son plan d’urgence personnel."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Relevez ce qui se passait avant, pendant et après la pause.",
+          "Utilisez un signe bienveillant et des consignes simples si une rêverie ordinaire interrompt une tâche.",
+          "Demandez une évaluation pour des épisodes brusques et répétés durant lesquels l’enfant ne répond pas."
+        ],
+        "faq": [
+          {
+            "q": "Quand la rêverie peut-elle poser problème ?",
+            "a": "Demandez conseil si elle perturbe régulièrement les apprentissages, les conversations ou la sécurité. Des épisodes soudains sans réponse méritent une évaluation médicale même si l’enfant semble aller bien ensuite."
+          },
+          {
+            "q": "Rêvasser est-il le signe d’un trouble psychique ?",
+            "a": "Cela ne suffit pas à poser un diagnostic. Le professionnel de santé tient compte de l’ensemble des observations et des effets sur le quotidien."
+          },
+          {
+            "q": "Faut-il essayer de l’en empêcher ?",
+            "a": "Il n’est pas nécessaire de supprimer les rêveries ordinaires qui lui plaisent. Aidez-le à reprendre la tâche si besoin et faites examiner les épisodes répétés qui semblent involontaires."
+          },
+          {
+            "q": "Rêvasser peut-il avoir un intérêt ?",
+            "a": "Les enfants peuvent aimer inventer des histoires ou envisager diverses possibilités. Ces moments ont leur place dans la journée, même si certaines activités demandent une attention soutenue."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Demandez des exemples à l’enfant et à l’enseignant avant de qualifier son comportement.",
+            "Notez les épisodes soudains, leur durée, les réactions de l’enfant et sa récupération.",
+            "Demandez rapidement de l’aide pour des épisodes répétés sans réponse."
+          ],
+          "bemama": "BeMama suggère de comparer un moment où votre enfant a facilement repris une conversation et un autre où il semblait incapable de répondre.",
+          "safety": "Appelez les secours pour une première crise d’épilepsie suspectée, une crise de cinq minutes ou plus, des crises répétées sans récupération ou une difficulté respiratoire. Demandez une évaluation rapide pour des épisodes brefs et répétés sans réponse.",
+          "sources": [
+            {
+              "organization": "Cherry et ses collègues, Applied Cognitive Psychology",
+              "title": "Vagabondage de l’esprit pendant un exercice d’écoute en classe",
+              "url": "https://doi.org/10.1002/acp.70128"
+            },
+            {
+              "organization": "Johns Hopkins Medicine",
+              "title": "Épisodes de regard fixe chez l’enfant et indications d’une évaluation",
+              "url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/staring-spells-when-its-more-than-daydreaming"
+            },
+            {
+              "organization": "Académie américaine de pédiatrie",
+              "title": "Premiers secours en cas de crise d’épilepsie chez l’enfant",
+              "url": "https://www.healthychildren.org/English/health-issues/conditions/seizures/Pages/Seizure-First-Aid-for-Children.aspx"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Çocuk dalıp gittiğinde: hayal mi kuruyor, boş mu bakıyor?",
+        "description": "Uzağa dalmış bir çocuk bir öykü hayal ediyor ya da dersin bir bölümünü kaçırıyor olabilir. Nasıl yanıt verdiğini ve ne zaman yardım isteyeceğinizi öğrenin.",
+        "intro": "Çocuğunuz kahvaltıda masaya bir roket indiğini hayal ediyor. Nereden geldiğini sorunca gülümsüyor. Sonra öğretmeni, cümlenin ortasında durup sanki duymadığı anlardan söz ediyor. Bu iki gözlemi ayrı ayrı anlatmak yararlı olur.",
+        "sections": [
+          {
+            "heading": "Hayal kurmaya yer açın",
+            "paragraphs": [
+              "Çocuk bir oyun düşünebilir, konuşmayı zihninde canlandırabilir ya da sakin bir anda düşüncelerini serbest bırakabilir. Anlatmak isterse aklından ne geçtiğini sorun. Hayalî bir öyküden hoşlanmak tek başına DEHB veya başka bir ruh sağlığı sorunu tanısı koydurmaz. Yaptığı işe geri dönebiliyor mu ve önemli bir şeyi kaçırıyor mu, gözlemleyin.",
+              "Bir sınıf araştırmasında sekiz-dokuz yaşındaki 126 çocuk dinleme etkinliği sırasında ara verip akıllarından ne geçtiğini bildirdi. Bazıları etkinlikle ilgisiz düşüncelerden, bazıları çevredeki dikkat dağıtıcı şeylerden söz etti. Zihnin başka konulara kayması, hemen ardından dinlenenleri daha az hatırlamayla ilişkiliydi. Araştırma hayal kurmanın uzun vadede zarar verip vermediğini veya belirli bir çocuğun bir bozukluğu olup olmadığını incelemedi."
+            ]
+          },
+          {
+            "heading": "Sık sık günlük işleri aksatıyorsa",
+            "paragraphs": [
+              "Öğretmenden belirli bir örnek isteyin. Çocuk yorgunken bir yönergeyi mi kaçırmış, yoksa çalışırken, oynarken ve konuşurken sık sık konudan mı kopuyor? Evde bir seferde tek yönerge vermeyi deneyin. Etkinliğe dönmek için birlikte nazik bir işaret kararlaştırın. Hayal kurmaya da serbest zaman bırakın.",
+              "Sık dalmalar öğrenmeyi, ilişkileri veya güvenliği etkiliyorsa çocuğun hekimiyle görüşün. Ne zaman olduğunu, ne kadar sürdüğünü ve sonrasında çocuğun ne yaptığını not edin. Uyku, işitme, ruh hali veya okulun beklentilerindeki değişiklikleri belirtin."
+            ]
+          },
+          {
+            "heading": "Ne zaman tıbbi değerlendirme gerekir?",
+            "paragraphs": [
+              "Konuşmayı veya oyunu kesen, aniden başlayıp biten ve çocuk adıyla seslenildiğinde yanıt vermeden geçen tekrarlayan dalmalar gecikmeden tıbben değerlendirilmelidir. Absans nöbetinde göz kapakları titreyebilir. Olayın kısa sürmesi ya da çocuğun dokunmaya verdiği tepki tek başına tanıyı belirlemez. Hekim ileri değerlendirme veya EEG isteyebilir.",
+              "Çocuğunuzun ilk kez nöbet geçirdiğini düşünüyorsanız acil yardım çağırın. Nöbet beş dakika veya daha uzun sürüyorsa, toparlanmadan nöbetler tekrarlıyorsa ya da solunumu güçleşiyorsa da arayın. Çocuğu koruyun, süre tutun, hareketlerini engellemeyin ve ağzına hiçbir şey koymayın. Bilinen nöbetlerde çocuğa özel acil durum planını izleyin."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Dalmadan önce, o sırada ve sonrasında ne olduğunu öğrenin.",
+          "Olağan bir dalgınlık işi kesintiye uğrattığında nazik bir işaret ve kolay uygulanabilir yönergeler kullanın.",
+          "Ani ve yanıtsız geçen dalmalar tekrarlanıyorsa değerlendirme isteyin."
+        ],
+        "faq": [
+          {
+            "q": "Hayal kurmak ne zaman sorun olabilir?",
+            "a": "Öğrenmeyi, günlük konuşmaları veya güvenliği sık sık etkiliyorsa görüş alın. Aniden gelişen yanıtsız dalmalar, çocuk daha sonra iyi görünse bile tıbbi değerlendirme gerektirir."
+          },
+          {
+            "q": "Hayal kurmak ruhsal bir hastalık belirtisi midir?",
+            "a": "Tek başına tanı koydurmaz. Hekim genel örüntüye ve günlük yaşama etkisine bakar."
+          },
+          {
+            "q": "Durdurmaya çalışmalı mıyız?",
+            "a": "Keyif aldığı olağan hayalleri ortadan kaldırmak gerekmez. Gerektiğinde işine dönmesine yardım edin ve istem dışı görünen tekrarlayan dalmaları inceletin."
+          },
+          {
+            "q": "Hayal kurmanın yararı olabilir mi?",
+            "a": "Çocuk öyküler uydurmaktan veya olasılıkları zihninde canlandırmaktan keyif alabilir. Bazı işler odaklanmayı gerektirse de bunlara gün içinde yer vardır."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Davranışı etiketlemeden çocuktan ve öğretmenden örnek isteyin.",
+            "Ani dalmaları, süresini, çocuğun yanıtını ve toparlanmasını kaydedin.",
+            "Yanıtsız geçen dalmalar tekrarlanıyorsa gecikmeden yardım alın."
+          ],
+          "bemama": "BeMama, çocuğun sohbete kolayca döndüğü bir anla yanıt veremiyor gibi göründüğü bir anı karşılaştırmanızı önerir.",
+          "safety": "İlk nöbet şüphesinde, beş dakika veya daha uzun nöbette, arada toparlanmadan tekrarlayan nöbetlerde veya solunum güçlüğünde acil yardım çağırın. Tekrarlayan kısa, yanıtsız dalmalar için gecikmeden değerlendirme isteyin.",
+          "sources": [
+            {
+              "organization": "Cherry ve çalışma arkadaşları, Applied Cognitive Psychology",
+              "title": "Sınıfta dinleme etkinliği sırasında zihnin başka konulara kayması",
+              "url": "https://doi.org/10.1002/acp.70128"
+            },
+            {
+              "organization": "Johns Hopkins Medicine",
+              "title": "Çocuklarda boş bakma atakları ve ne zaman değerlendirme isteneceği",
+              "url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/staring-spells-when-its-more-than-daydreaming"
+            },
+            {
+              "organization": "Amerikan Pediatri Akademisi",
+              "title": "Çocuklarda nöbet sırasında ilk yardım",
+              "url": "https://www.healthychildren.org/English/health-issues/conditions/seizures/Pages/Seizure-First-Aid-for-Children.aspx"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Cuando un niño se queda mirando al vacío",
+        "description": "Un niño que parece ausente puede estar imaginando algo o perdiendo el hilo. Observa cómo responde, qué actividad se interrumpe y cuándo conviene consultar.",
+        "intro": "Durante el desayuno tu hijo se imagina que un cohete aterriza en la mesa. Sonríe cuando le preguntas de dónde viene. Más tarde, su profesora describe pausas a mitad de una frase durante las que parece no oír. Conviene describir por separado lo que vio cada uno.",
+        "sections": [
+          {
+            "heading": "Deja espacio a la imaginación",
+            "paragraphs": [
+              "Un niño puede imaginar un juego, repasar una conversación o dejar que su mente divague en un momento tranquilo. Si le apetece contarlo, pregúntale en qué pensaba. Disfrutar de una historia imaginaria por sí solo no permite diagnosticar TDAH ni otro problema de salud mental. Fíjate en si puede volver a la tarea y si se pierde algo importante.",
+              "En un estudio en el aula, 126 niños de ocho a nueve años hicieron pausas en una tarea de escucha para contar qué tenían en mente. Unos describieron pensamientos ajenos a la tarea y otros distracciones externas. Divagar se asoció a un peor recuerdo inmediato de lo escuchado. El estudio no evaluó si soñar despierto perjudica a largo plazo ni si un niño concreto tiene un trastorno."
+            ]
+          },
+          {
+            "heading": "Cuando ocurre a menudo y dificulta las actividades",
+            "paragraphs": [
+              "Pide un ejemplo concreto al docente. ¿El niño no oyó una instrucción cuando estaba cansado o pierde el hilo a menudo mientras trabaja, juega o habla? En casa, prueba a dar una indicación cada vez y acordad una señal amable para retomar la actividad. Deja también ratos libres para imaginar.",
+              "Si estos episodios frecuentes afectan al aprendizaje, a las relaciones o a la seguridad, consulta con el profesional de salud del niño. Lleva notas sobre cuándo ocurren, cuánto duran y qué hace después. Menciona cambios en el sueño, la audición, el ánimo o las exigencias escolares."
+            ]
+          },
+          {
+            "heading": "Cuándo necesita una valoración médica",
+            "paragraphs": [
+              "Merecen una valoración pronta los episodios repetidos que empiezan y terminan de golpe, interrumpen el habla o el juego y durante los cuales el niño no responde a su nombre. Durante una crisis de ausencia pueden temblar los párpados. La brevedad del episodio o la respuesta al tacto por sí solas no resuelven el diagnóstico. El profesional puede solicitar más estudios o un electroencefalograma.",
+              "Si sospechas que tu hijo está teniendo una primera crisis epiléptica, llama a emergencias. Llama también si dura cinco minutos o más, se repiten las crisis sin recuperación entre ellas o le cuesta respirar. Protégelo, toma el tiempo y no lo sujetes ni le metas nada en la boca. Para crisis ya conocidas, sigue su plan individual de emergencia."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Averigua qué ocurría antes, durante y después de la pausa.",
+          "Usa una señal amable e indicaciones sencillas si una distracción corriente interrumpe una tarea.",
+          "Solicita una valoración si se repiten episodios bruscos en los que el niño no responde."
+        ],
+        "faq": [
+          {
+            "q": "¿Cuándo puede ser un problema soñar despierto?",
+            "a": "Consulta si interrumpe repetidamente el aprendizaje o las conversaciones, o pone en riesgo la seguridad. Los episodios repentinos sin respuesta necesitan valoración médica aunque el niño parezca estar bien después."
+          },
+          {
+            "q": "¿Soñar despierto es un signo de enfermedad mental?",
+            "a": "Por sí solo no permite hacer un diagnóstico. El profesional valora el conjunto de lo que ocurre y su efecto en la vida diaria."
+          },
+          {
+            "q": "¿Deberíamos intentar que deje de hacerlo?",
+            "a": "No hace falta eliminar los ratos normales en que disfruta imaginando. Ayúdale a retomar una tarea cuando sea necesario e investiga los episodios repetidos que parecen involuntarios."
+          },
+          {
+            "q": "¿Puede tener alguna utilidad?",
+            "a": "Los niños pueden disfrutar inventando historias o ensayando posibilidades. Hay lugar para ello a lo largo del día aunque otras tareas requieran atención sostenida."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Pide ejemplos al niño y al docente antes de poner una etiqueta a la conducta.",
+            "Anota los episodios bruscos, su duración, la respuesta del niño y su recuperación.",
+            "Busca valoración pronta si se repiten episodios sin respuesta."
+          ],
+          "bemama": "BeMama sugiere comparar un momento en el que tu hijo retomó fácilmente una conversación con otro en el que parecía incapaz de responder.",
+          "safety": "Llama a emergencias si sospechas una primera crisis epiléptica, si una crisis dura cinco minutos o más, si se repite sin recuperación o si cuesta respirar. Pide valoración pronta de los episodios breves y repetidos sin respuesta.",
+          "sources": [
+            {
+              "organization": "Cherry y colaboradores, Applied Cognitive Psychology",
+              "title": "La divagación mental durante una tarea de escucha en el aula",
+              "url": "https://doi.org/10.1002/acp.70128"
+            },
+            {
+              "organization": "Johns Hopkins Medicine",
+              "title": "Episodios de mirada fija en niños y cuándo solicitar una valoración",
+              "url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/staring-spells-when-its-more-than-daydreaming"
+            },
+            {
+              "organization": "Academia Estadounidense de Pediatría",
+              "title": "Primeros auxilios ante una crisis epiléptica en niños",
+              "url": "https://www.healthychildren.org/English/health-issues/conditions/seizures/Pages/Seizure-First-Aid-for-Children.aspx"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Quando a criança parece distante: devaneio ou olhar fixo?",
+        "description": "Uma criança com o olhar distante pode estar inventando uma história ou perdendo parte da aula. Observe como responde, o que interrompe e quando buscar ajuda.",
+        "intro": "No café da manhã, seu filho imagina um foguete pousando na mesa. Ele sorri quando você pergunta de onde veio. Mais tarde, a professora descreve pausas no meio de uma frase em que ele parece não ouvir. Vale contar essas duas observações separadamente.",
+        "sections": [
+          {
+            "heading": "Dê espaço à imaginação",
+            "paragraphs": [
+              "A criança pode inventar uma brincadeira, repassar uma conversa ou deixar os pensamentos passearem num momento tranquilo. Pergunte no que pensava se quiser contar. Gostar de uma história imaginada, por si só, não permite diagnosticar TDAH ou outro problema de saúde mental. Observe se a criança consegue voltar à tarefa e se perdeu algo importante.",
+              "Em um estudo em sala de aula, 126 crianças de oito a nove anos fizeram pausas numa atividade de escuta para dizer o que lhes passava pela cabeça. Algumas contaram pensamentos sem relação com a tarefa, outras descreveram distrações externas. Divagar esteve associado a uma recordação imediata pior. O estudo não testou se o devaneio faz mal a longo prazo nem se uma criança em particular tem um transtorno."
+            ]
+          },
+          {
+            "heading": "Quando isso atrapalha com frequência",
+            "paragraphs": [
+              "Peça um exemplo específico ao professor. A criança perdeu uma instrução quando estava cansada ou perde o fio com frequência nas tarefas, brincadeiras e conversas? Em casa, experimente dar uma instrução por vez e combinem um sinal gentil para retomar a atividade. Reserve algum tempo livre para a imaginação.",
+              "Se os episódios frequentes afetarem o aprendizado, as relações ou a segurança, converse com o profissional de saúde da criança. Anote quando acontecem, quanto duram e o que a criança faz depois. Mencione mudanças no sono, na audição, no humor ou nas exigências da escola."
+            ]
+          },
+          {
+            "heading": "Quando uma pausa precisa de avaliação médica",
+            "paragraphs": [
+              "Episódios repetidos que começam e terminam de repente, interrompem a fala ou a brincadeira e durante os quais a criança não responde ao próprio nome merecem avaliação médica sem demora. As pálpebras podem tremular durante uma crise de ausência. A curta duração ou a resposta ao toque, isoladamente, não definem o diagnóstico. O profissional pode solicitar avaliação complementar ou eletroencefalograma.",
+              "Se suspeitar de uma primeira crise epiléptica, chame a emergência. Chame também se uma crise durar cinco minutos ou mais, se as crises se repetirem sem recuperação entre elas ou se houver dificuldade para respirar. Proteja a criança, marque o tempo e não a imobilize nem coloque nada em sua boca. Para crises já conhecidas, siga o plano individual de emergência."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Observe o que aconteceu antes, durante e depois da pausa.",
+          "Use um sinal gentil e instruções simples quando um devaneio comum interromper uma tarefa.",
+          "Procure avaliação para episódios bruscos e repetidos em que a criança não responde."
+        ],
+        "faq": [
+          {
+            "q": "Quando o devaneio pode ser um problema?",
+            "a": "Peça orientação se atrapalhar repetidamente o aprendizado, as conversas ou a segurança. Episódios súbitos sem resposta merecem avaliação médica mesmo se a criança parecer bem depois."
+          },
+          {
+            "q": "O devaneio é sinal de transtorno mental?",
+            "a": "Por si só, não estabelece um diagnóstico. O profissional avalia o conjunto dos episódios e seu efeito na vida diária."
+          },
+          {
+            "q": "Devemos tentar impedir?",
+            "a": "Não é necessário eliminar momentos comuns e agradáveis de imaginação. Ajude a criança a retomar as tarefas quando preciso e procure investigar episódios repetidos que pareçam involuntários."
+          },
+          {
+            "q": "O devaneio pode ser útil?",
+            "a": "A criança pode gostar de criar histórias ou imaginar possibilidades. Há espaço para isso no dia mesmo quando outras tarefas exigem atenção concentrada."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Peça exemplos à criança e ao professor antes de rotular o comportamento.",
+            "Registre os episódios bruscos, a duração, a resposta e a recuperação.",
+            "Procure avaliação sem demora para episódios repetidos sem resposta."
+          ],
+          "bemama": "A BeMama sugere comparar um momento em que a criança retomou a conversa facilmente com outro em que pareceu incapaz de responder.",
+          "safety": "Chame a emergência se suspeitar de uma primeira crise epiléptica, se uma crise durar cinco minutos ou mais, se houver crises repetidas sem recuperação ou dificuldade para respirar. Procure avaliação rápida para episódios breves e repetidos sem resposta.",
+          "sources": [
+            {
+              "organization": "Cherry e colaboradores, Applied Cognitive Psychology",
+              "title": "Devaneios durante uma atividade de escuta na sala de aula",
+              "url": "https://doi.org/10.1002/acp.70128"
+            },
+            {
+              "organization": "Johns Hopkins Medicine",
+              "title": "Episódios de olhar fixo em crianças e quando procurar avaliação",
+              "url": "https://www.hopkinsmedicine.org/health/wellness-and-prevention/staring-spells-when-its-more-than-daydreaming"
+            },
+            {
+              "organization": "Academia Americana de Pediatria",
+              "title": "Primeiros socorros em crises epilépticas na infância",
+              "url": "https://www.healthychildren.org/English/health-issues/conditions/seizures/Pages/Seizure-First-Aid-for-Children.aspx"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5860.webp",
+    "heroAlt": {
+      "en": "A child draws a rocket in a teacup beside a plate of toast at breakfast.",
+      "es": "Un niño dibuja un cohete en una taza junto a un plato de tostadas.",
+      "fr": "Un enfant dessine une fusée dans une tasse à côté d’une tartine.",
+      "pt": "Uma criança desenha um foguete em uma xícara ao lado de uma torrada.",
+      "tr": "Bir çocuk kahvaltıda kızarmış ekmeğin yanında fincanda bir roket çiziyor.",
+      "fa": "کودکی کنار بشقاب نان تست صبحانه، موشکی درون فنجان می‌کشد.",
+      "ar": "طفل يرسم صاروخاً في فنجان بجانب طبق الخبز المحمص على مائدة الفطور."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "When a child drifts off: daydreaming or a staring spell?",
+      "description": "A child who looks far away may be imagining a story or missing part of a lesson. Notice how they respond, what gets interrupted and when to ask for help."
+    },
+    "fa": {
+      "title": "وقتی کودک به جایی خیره می‌شود، خیال‌پردازی است یا یک حمله؟",
+      "description": "کودکی که به دوردست نگاه می‌کند شاید در ذهنش داستانی ساخته یا بخشی از درس را نشنیده باشد. ببینید چگونه پاسخ می‌دهد و چه زمانی باید کمک گرفت."
+    },
+    "ar": {
+      "title": "حين يسرح الطفل: هل يتخيل أم يمر بنوبة تحديق؟",
+      "description": "قد يتخيل طفلك قصة حين يبدو شاردًا، أو يفوته جزء من الدرس. لاحظ كيف يستجيب، وأي نشاط يتوقف أثناء الشرود، ومتى تحتاج إلى مشورة طبية."
+    },
+    "fr": {
+      "title": "Enfant dans la lune ou épisode de regard fixe ?",
+      "description": "Un enfant qui regarde dans le vide imagine peut-être une histoire. Observez sa réaction, l’activité interrompue et les signes qui méritent un avis médical."
+    },
+    "tr": {
+      "title": "Çocuk dalıp gittiğinde: hayal mi kuruyor, boş mu bakıyor?",
+      "description": "Uzağa dalmış bir çocuk bir öykü hayal ediyor ya da dersin bir bölümünü kaçırıyor olabilir. Nasıl yanıt verdiğini ve ne zaman yardım isteyeceğinizi öğrenin."
+    },
+    "es": {
+      "title": "Cuando un niño se queda mirando al vacío",
+      "description": "Un niño que parece ausente puede estar imaginando algo o perdiendo el hilo. Observa cómo responde, qué actividad se interrumpe y cuándo conviene consultar."
+    },
+    "pt": {
+      "title": "Quando a criança parece distante: devaneio ou olhar fixo?",
+      "description": "Uma criança com o olhar distante pode estar inventando uma história ou perdendo parte da aula. Observe como responde, o que interrompe e quando buscar ajuda."
+    }
+  }
+}

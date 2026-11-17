@@ -1,0 +1,611 @@
+{
+  "sourceId": "5791",
+  "article": {
+    "slug": "baby-and-child/when-your-child-bullies-another-pupil",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "When school says your child is bullying someone",
+        "description": "Learn what to ask after a report of bullying, how to stop the behaviour safely, and how to work with school so the child being targeted stays safe.",
+        "intro": "A teacher calls about lunchtime. For three days your child has taken another pupil’s cap and passed it around the table. Your child says everyone laughed. Start by asking the teacher what happened to the pupil who wanted the cap back, who saw it and how lunch will be supervised tomorrow.",
+        "sections": [
+          {
+            "heading": "Find out what happened without putting children on trial",
+            "paragraphs": [
+              "Bullying involves unwanted aggression, a power imbalance and behaviour that repeats or could repeat. Power can come from size, popularity, a group, or access to embarrassing information. Threats, rumours, deliberate exclusion and sharing a hurtful post can do harm without a punch. A single hurtful act still needs a response, even while adults work out whether it is part of a pattern.",
+              "Stop ongoing harm and have adults speak to the children separately. Ask your child privately what they did, who was involved and what happened when the other child tried to stop it. An item they cannot explain, a teacher’s report or cruel messages may warrant questions. None alone tells the whole story. Ask about peer pressure and whether your child is also being targeted. That helps you plan support while keeping them responsible for their actions."
+            ]
+          },
+          {
+            "heading": "Agree what will happen at the next lunch break",
+            "paragraphs": [
+              "Tell your child clearly which behaviour has to stop. With school staff, choose a specific alternative, such as leaving other pupils’ belongings alone and asking an adult for help if friends start passing things around. Agree who will supervise, how adults will hear from the targeted pupil privately and when you will check back. At home, reinforce the same limit. If a post is involved, save relevant evidence privately and use the platform’s reporting tools without circulating it further.",
+              "Repair should protect the pupil who was hurt. Returning a cap through the teacher may be welcome. A public apology, a face-to-face meeting or a demand that the other child forgive can create fresh pressure. Let the responsible adults consider what is safe and what the targeted child wants. In a Finnish trial, 78 schools were randomly assigned to the KiVa schoolwide programme or a comparison group. After nine months, pupils in programme schools reported less bullying and victimisation on several measures. This was a schoolwide intervention, so it cannot tell you whether one family conversation will stop the behaviour."
+            ]
+          },
+          {
+            "heading": "Check that the harm has actually stopped",
+            "paragraphs": [
+              "Set a follow-up date even if the first conversation goes well. Ask the school whether the behaviour has stopped in the places it happened and whether there has been retaliation. Notice a specific change at home or at school, such as your child refusing to forward a humiliating message. Practise how they can leave a group or get adult help next time. Show respect when you disagree with someone yourself.",
+              "If the pattern continues, request a written plan with the behaviour to change, supervision, support and a date to review it. A counsellor or your child’s clinician can help if your child is being hurt, seems distressed or struggles repeatedly with aggression. Seek emergency help if someone faces immediate danger, a weapon threat or a serious injury. Be clear about who will look after the child who was harmed today."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Listen separately, identify the behaviour and ask how the targeted child is being kept safe.",
+          "Agree with school on a concrete change and who will check it.",
+          "Follow up about repetition and retaliation, including online."
+        ],
+        "faq": [
+          {
+            "q": "What makes something bullying?",
+            "a": "Look for unwanted aggression, an imbalance of power, and repetition or the potential for it. It can be physical, verbal, social or online. Adults can intervene in harm before every detail is known."
+          },
+          {
+            "q": "How can I tell if my child is bullying others?",
+            "a": "Take reports and concerning behaviour seriously without treating one sign as proof. Ask for specific examples from adults, listen privately to your child and check whether the same pupil is being targeted repeatedly."
+          },
+          {
+            "q": "Should adults intervene or wait for it to stop?",
+            "a": "Intervene promptly. Stop the immediate harm, make sure everyone is safe and contact the school or activity leader. Agree what your child will do differently and how adults will follow up."
+          },
+          {
+            "q": "How can we reduce the chance of it happening again?",
+            "a": "Practise a specific alternative, model respectful disagreement and notice when your child includes or supports a peer. Keep in touch with school and adjust the plan if the behaviour continues or moves online."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 17, 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Get accounts separately and check for a power imbalance or a repeated pattern.",
+            "Support repair without requiring contact or forgiveness from the targeted child.",
+            "Agree on supervision and follow up about the safety of everyone involved."
+          ],
+          "bemama": "BeMama suggests ending the call with school by asking who will check the same place tomorrow and when you will hear whether the other child feels safe there.",
+          "safety": "Get emergency help for immediate danger, a weapon threat or serious injury. Stop ongoing harm, keep the children safe and seek prompt adult support for threats, continuing bullying or retaliation.",
+          "sources": [
+            {
+              "organization": "American Academy of Pediatrics",
+              "title": "What parents can do when their child bullies another child",
+              "url": "https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Bullying-Its-Not-Ok.aspx"
+            },
+            {
+              "organization": "StopBullying.gov",
+              "title": "Supporting children involved in bullying",
+              "url": "https://www.stopbullying.gov/prevention/support-the-children-involved"
+            },
+            {
+              "organization": "Kärnä and colleagues, Child Development",
+              "title": "School-randomized evaluation of the KiVa programme in grades four to six",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/21291444/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "وقتی مدرسه خبر می‌دهد که فرزندتان کودکی را آزار می‌دهد",
+        "description": "پس از گزارش قلدری چه بپرسید، چگونه رفتار آسیب‌زا را متوقف کنید و چطور با مدرسه همکاری کنید تا کودکی که هدف آزار قرار گرفته در امان بماند؟",
+        "intro": "معلم درباره زنگ ناهار تماس می‌گیرد. سه روز است فرزندتان کلاه یکی از دانش‌آموزان را برمی‌دارد و دور میز دست‌به‌دست می‌کند. فرزندتان می‌گوید همه خندیدند. از معلم بپرسید برای دانش‌آموزی که می‌خواست کلاهش را پس بگیرد چه اتفاقی افتاد، چه کسانی دیدند و فردا چه کسی هنگام ناهار مراقب خواهد بود.",
+        "sections": [
+          {
+            "heading": "بدون بازخواست جمعی بفهمید چه اتفاقی افتاده است",
+            "paragraphs": [
+              "قلدری رفتار پرخاشگرانه و ناخواسته‌ای است که در آن قدرت دو طرف برابر نیست و رفتار تکرار می‌شود یا امکان تکرار دارد. قدرت بیشتر ممکن است از جثه، محبوبیت، همراهی یک گروه یا دسترسی به اطلاعاتی باشد که موجب شرمندگی طرف مقابل می‌شود. تهدید، شایعه، کنار گذاشتن عمدی و پخش یک پیام آزاردهنده حتی بدون کتک زدن آسیب می‌رسانند. حتی یک بار رفتار آسیب‌زا هم نیاز به رسیدگی دارد، هرچند بزرگسالان هنوز در حال بررسی تکراری بودن آن باشند.",
+              "آزار در حال وقوع را متوقف کنید و بگذارید بزرگسالان جداگانه با کودکان صحبت کنند. در خلوت بپرسید فرزندتان چه کرد، چه کسانی درگیر بودند و وقتی کودک دیگر خواست جلوی کار را بگیرد چه شد. وسیله‌ای که نمی‌تواند توضیح دهد از کجا آورده، گزارش معلم یا پیام‌های بی‌رحمانه ارزش پیگیری دارند. هیچ‌کدام به‌تنهایی همه ماجرا را نشان نمی‌دهند. درباره فشار همسالان و اینکه آیا خود فرزندتان هم هدف آزار است بپرسید. این اطلاعات به حمایت از او کمک می‌کند و مسئولیت رفتارش همچنان با خودش است."
+            ]
+          },
+          {
+            "heading": "برای زنگ ناهار بعدی برنامه مشخصی بگذارید",
+            "paragraphs": [
+              "روشن بگویید کدام رفتار باید متوقف شود. با کارکنان مدرسه یک جایگزین مشخص انتخاب کنید، مثلاً به وسایل دیگران دست نزند و اگر دوستانش چیز کسی را دست‌به‌دست کردند از یک بزرگسال کمک بگیرد. توافق کنید چه کسی نظارت خواهد کرد، چگونه در خلوت از دانش‌آموز آسیب‌دیده خبر می‌گیرند و چه زمانی نتیجه را پیگیری می‌کنید. در خانه هم همان حد و مرز را دنبال کنید. اگر پای پیامی در فضای مجازی در میان است، شواهد مرتبط را خصوصی نگه دارید و بدون بازنشر، از امکان گزارش در همان برنامه استفاده کنید.",
+              "جبران باید امنیت کودک آسیب‌دیده را حفظ کند. شاید پس دادن کلاه از طریق معلم برای او خوشایند باشد. عذرخواهی جلوی جمع، جلسه رو در رو یا اصرار به بخشیدن می‌تواند فشار تازه‌ای ایجاد کند. بگذارید بزرگسالان مسئول آنچه را امن است و آنچه را کودک آسیب‌دیده می‌خواهد در نظر بگیرند. در یک کارآزمایی در فنلاند، ۷۸ مدرسه به‌طور تصادفی در برنامه سراسری مدرسه‌ای کیوا یا گروه مقایسه قرار گرفتند. پس از ۹ ماه، دانش‌آموزان مدارس شرکت‌کننده در برنامه، در چند شاخص قلدری و قربانی شدن کمتری گزارش کردند. این مداخله در سطح مدرسه بود و نشان نمی‌دهد یک گفت‌وگوی خانوادگی به‌تنهایی رفتار را متوقف می‌کند."
+            ]
+          },
+          {
+            "heading": "بررسی کنید که آزار واقعاً پایان یافته باشد",
+            "paragraphs": [
+              "حتی اگر گفت‌وگوی اول خوب پیش رفت، برای پیگیری تاریخ بگذارید. از مدرسه بپرسید آیا رفتار در محل‌هایی که رخ می‌داد متوقف شده و آیا کسی تلافی کرده است. به یک تغییر مشخص در خانه یا مدرسه توجه کنید، مثلاً اینکه فرزندتان از فرستادن پیام تحقیرآمیز برای دیگران خودداری کرد. تمرین کنید دفعه بعد چگونه از جمع دور شود یا از بزرگسال کمک بگیرد. در اختلاف‌های خودتان هم رفتار محترمانه را نشان دهید.",
+              "اگر الگو ادامه یافت، برنامه کتبی بخواهید که رفتار مورد انتظار، نظارت، حمایت و زمان بازبینی را مشخص کند. اگر خود فرزندتان آسیب می‌بیند، ناراحت به نظر می‌رسد یا مرتب در کنترل پرخاشگری مشکل دارد، مشاور یا پزشک او می‌تواند کمک کند. برای خطر فوری، تهدید با سلاح یا آسیب جدی کمک اورژانسی بخواهید. مشخص کنید امروز چه کسی از کودک آسیب‌دیده مراقبت می‌کند."
+            ]
+          }
+        ],
+        "takeaways": [
+          "جداگانه گوش بدهید، رفتار را مشخص کنید و بپرسید چگونه از امنیت کودک آسیب‌دیده مراقبت می‌شود.",
+          "با مدرسه بر سر یک تغییر عملی و کسی که آن را پیگیری می‌کند توافق کنید.",
+          "پیگیر تکرار و تلافی باشید، از جمله در فضای آنلاین."
+        ],
+        "faq": [
+          {
+            "q": "چه رفتاری قلدری محسوب می‌شود؟",
+            "a": "پرخاشگری ناخواسته، نابرابری قدرت و تکرار یا امکان تکرار را در نظر بگیرید. قلدری می‌تواند جسمی، کلامی، اجتماعی یا آنلاین باشد. برای متوقف کردن آسیب لازم نیست بزرگسالان صبر کنند تا همه جزئیات روشن شود."
+          },
+          {
+            "q": "از کجا بفهمم فرزندم دیگران را آزار می‌دهد؟",
+            "a": "گزارش‌ها و رفتارهای نگران‌کننده را جدی بگیرید ولی یک نشانه را دلیل قطعی ندانید. از بزرگسالان نمونه‌های مشخص بخواهید، در خلوت به فرزندتان گوش دهید و ببینید آیا همان دانش‌آموز بارها هدف قرار گرفته است."
+          },
+          {
+            "q": "آیا بزرگسالان دخالت کنند یا صبر کنند رفتار خودبه‌خود پایان یابد؟",
+            "a": "به‌موقع دخالت کنید. آزار را متوقف کنید، از امنیت همه مطمئن شوید و با مدرسه یا مسئول فعالیت تماس بگیرید. توافق کنید فرزندتان چه کاری را متفاوت انجام خواهد داد و بزرگسالان چگونه پیگیری می‌کنند."
+          },
+          {
+            "q": "چطور احتمال تکرار را کم کنیم؟",
+            "a": "یک رفتار جایگزین مشخص را تمرین کنید، در اختلاف‌ها محترمانه رفتار کنید و وقتی فرزندتان همسال خود را در جمع می‌پذیرد یا حمایتش می‌کند، به آن توجه کنید. با مدرسه در تماس باشید و اگر آزار ادامه یافت یا به فضای مجازی کشید، برنامه را تغییر دهید."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۷ نوامبر ۲۰۲۶ بررسی شد",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "روایت هر کودک را جداگانه بشنوید و نابرابری قدرت یا تکرار رفتار را بررسی کنید.",
+            "به جبران کمک کنید، بدون اینکه از کودک آسیب‌دیده دیدار یا بخشیدن بخواهید.",
+            "درباره نظارت توافق کنید و امنیت همه افراد درگیر را پیگیری کنید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند در پایان تماس با مدرسه بپرسید فردا چه کسی همان محل را بررسی می‌کند و چه زمانی خواهید فهمید که کودک دیگر آنجا احساس امنیت می‌کند یا نه.",
+          "safety": "برای خطر فوری، تهدید با سلاح یا آسیب جدی کمک اورژانسی بگیرید. آزار جاری را متوقف کنید، کودکان را در امان نگه دارید و برای تهدید، ادامه قلدری یا تلافی بی‌درنگ از بزرگسال مسئول کمک بخواهید.",
+          "sources": [
+            {
+              "organization": "آکادمی طب کودکان آمریکا",
+              "title": "وقتی کودک، کودک دیگری را آزار می‌دهد والدین چه کنند؟",
+              "url": "https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Bullying-Its-Not-Ok.aspx"
+            },
+            {
+              "organization": "پایگاه دولتی پیشگیری از قلدری آمریکا",
+              "title": "حمایت از کودکان درگیر قلدری",
+              "url": "https://www.stopbullying.gov/prevention/support-the-children-involved"
+            },
+            {
+              "organization": "کارنا و همکاران، مجله رشد کودک",
+              "title": "ارزیابی تصادفی برنامه کیوا در سطح مدرسه برای پایه‌های چهارم تا ششم",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/21291444/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "عندما تخبرك المدرسة بأن طفلك يتنمّر على زميل",
+        "description": "تعرّف إلى الأسئلة التي تطرحها بعد بلاغ عن التنمر، وكيف توقف السلوك بأمان وتتعاون مع المدرسة لحماية الطفل الذي استُهدف ومتابعة ما يحدث.",
+        "intro": "يتصل المعلم بشأن استراحة الغداء. منذ ثلاثة أيام يأخذ طفلك قبعة تلميذ آخر ويمررها بين الجالسين حول الطاولة. يقول طفلك إن الجميع ضحكوا. ابدأ بسؤال المعلم عما حدث للتلميذ الذي أراد استعادة قبعته، ومن شاهد ذلك وكيف سيجري الإشراف على استراحة الغد.",
+        "sections": [
+          {
+            "heading": "افهم ما حدث من دون استجواب الأطفال أمام بعضهم",
+            "paragraphs": [
+              "يشمل التنمر سلوكاً عدوانياً لا يرغب فيه الطرف المستهدف وفيه اختلال في القوة ويتكرر أو يمكن أن يتكرر. قد تأتي القوة من الحجم أو الشعبية أو مساندة مجموعة أو امتلاك معلومات محرجة. ويمكن أن تؤذي التهديدات والشائعات والاستبعاد المتعمد ونشر منشور جارح من دون توجيه لكمة. حتى التصرف المؤذي لمرة واحدة يستدعي التدخل، بينما يتحقق الكبار مما إذا كان جزءاً من نمط متكرر.",
+              "أوقف الأذى الجاري وليتحدث الكبار إلى كل طفل على حدة. اسأل طفلك على انفراد عما فعله ومن شارك وماذا حدث حين حاول الطفل الآخر إيقاف التصرف. وجود غرض لا يستطيع تفسير مصدره، أو بلاغ من معلم، أو رسائل قاسية أمور تستحق السؤال. لا يعطي أي منها بمفرده الصورة كاملة. اسأل عن ضغط الأقران وعما إذا كان طفلك نفسه يتعرض للاستهداف. يفيدك ذلك في التخطيط لدعمه مع إبقائه مسؤولاً عن أفعاله."
+            ]
+          },
+          {
+            "heading": "اتفقوا على ما سيحدث في استراحة الغداء المقبلة",
+            "paragraphs": [
+              "وضّح لطفلك أي تصرف ينبغي أن يتوقف. اختر مع طاقم المدرسة بديلاً محدداً، مثل ترك أغراض زملائه وشأنها وطلب مساعدة بالغ إذا بدأ الأصدقاء يتناقلونها. اتفقوا على من سيشرف، وكيف سيتحدث الكبار مع التلميذ المستهدف على انفراد، ومتى ستتابعون الأمر. أكّد الحدود نفسها في المنزل. وإذا تعلق الأمر بمنشور فاحتفظ بالأدلة ذات الصلة بصورة خاصة واستخدم أدوات الإبلاغ في المنصة من دون إعادة نشره.",
+              "ينبغي أن تحمي محاولة إصلاح الضرر التلميذ الذي تأذّى. قد يرحب باستعادة قبعته عن طريق المعلم. أما الاعتذار العلني أو اللقاء وجهاً لوجه أو مطالبته بالمسامحة فقد يشكل ضغطاً جديداً. دع الكبار المسؤولين يراعون السلامة وما يريده الطفل المستهدف. في تجربة فنلندية وُزعت ٧٨ مدرسة عشوائياً بين برنامج «كيفا» الذي يشمل المدرسة كلها ومجموعة مقارنة. بعد تسعة أشهر أبلغ تلاميذ مدارس البرنامج عن انخفاض التنمر والتعرض له في عدة مقاييس. اختبرت الدراسة تدخلاً على مستوى المدرسة ولا تحدد إن كان حوار عائلي واحد سيوقف السلوك."
+            ]
+          },
+          {
+            "heading": "تحقّق من أن الأذى توقف بالفعل",
+            "paragraphs": [
+              "حدّد موعداً للمتابعة حتى لو سار الحديث الأول جيداً. اسأل المدرسة إن توقف السلوك في الأماكن التي حدث فيها، وما إذا حصل انتقام. لاحظ تغيراً محدداً في البيت أو المدرسة، مثل امتناع طفلك عن إعادة توجيه رسالة مهينة. تدرّبا على ترك المجموعة أو الاستعانة ببالغ في المرة المقبلة. أظهر بنفسك الاحترام عندما تختلف مع أحد.",
+              "إذا استمر النمط، فاطلب خطة مكتوبة تحدد السلوك المطلوب تغييره والإشراف والدعم وموعد المراجعة. قد يساعد مرشد أو طبيب طفلك إذا كان يتعرض للأذى أو بدا منزعجاً أو عانى مراراً صعوبة في ضبط العدوان. اطلب مساعدة الطوارئ إذا واجه أحد خطراً فورياً أو تهديداً بسلاح أو إصابة خطيرة. تأكد ممن سيعتني اليوم بالطفل الذي لحقه الأذى."
+            ]
+          }
+        ],
+        "takeaways": [
+          "استمع إلى كل طرف على حدة، وحدد السلوك واسأل كيف تُصان سلامة الطفل المستهدف.",
+          "اتفق مع المدرسة على تغيير ملموس ومن سيتحقق منه.",
+          "تابع احتمال التكرار والانتقام، بما في ذلك عبر الإنترنت."
+        ],
+        "faq": [
+          {
+            "q": "متى يكون التصرف تنمراً؟",
+            "a": "ابحث عن سلوك عدواني غير مرغوب فيه، واختلال في القوة، وتكرار أو إمكانية للتكرار. قد يكون التنمر بدنياً أو لفظياً أو اجتماعياً أو عبر الإنترنت. يمكن للكبار التدخل لوقف الأذى قبل اتضاح كل التفاصيل."
+          },
+          {
+            "q": "كيف أعرف إن كان طفلي يتنمّر على الآخرين؟",
+            "a": "تعامل بجدية مع البلاغات والسلوك المقلق من دون اعتبار علامة منفردة دليلاً قاطعاً. اطلب أمثلة محددة من البالغين، واستمع إلى طفلك على انفراد وتحقق مما إذا كان التلميذ نفسه يُستهدف مراراً."
+          },
+          {
+            "q": "هل نتدخل أم ننتظر توقفه من تلقاء نفسه؟",
+            "a": "تدخل دون تأخير. أوقف الأذى الجاري، وتحقق من سلامة الجميع واتصل بالمدرسة أو بمسؤول النشاط. اتفقوا على ما سيفعله طفلك بصورة مختلفة وكيف سيتابع الكبار الأمر."
+          },
+          {
+            "q": "كيف نقلل احتمال تكراره؟",
+            "a": "تدرّبوا على بديل محدد، وأظهر الاحترام عند الاختلاف ولاحظ عندما يشرك طفلك أحد أقرانه أو يدعمه. ابق على تواصل مع المدرسة وعدّل الخطة إذا استمر السلوك أو انتقل إلى الإنترنت."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٧ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "استمع إلى الروايات منفصلة وتحقق من وجود اختلال في القوة أو نمط متكرر.",
+            "ادعم إصلاح الضرر من دون اشتراط اللقاء أو المسامحة من الطفل المستهدف.",
+            "اتفقوا على الإشراف وتابعوا سلامة كل من له علاقة بالموقف."
+          ],
+          "bemama": "تقترح بي ماما إنهاء المكالمة مع المدرسة بسؤالين: من سيتفقد المكان نفسه غداً، ومتى ستتلقى خبراً عما إذا كان الطفل الآخر يشعر فيه بالأمان؟",
+          "safety": "اطلب مساعدة الطوارئ عند الخطر الفوري أو التهديد بسلاح أو الإصابة الخطيرة. أوقف الأذى الجاري واحمِ الأطفال واطلب دعماً سريعاً من بالغ مسؤول عند التهديد أو استمرار التنمر أو الانتقام.",
+          "sources": [
+            {
+              "organization": "الأكاديمية الأمريكية لطب الأطفال",
+              "title": "ما الذي يستطيع الوالدان فعله عندما يتنمّر طفلهما على طفل آخر؟",
+              "url": "https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Bullying-Its-Not-Ok.aspx"
+            },
+            {
+              "organization": "الموقع الحكومي الأمريكي للوقاية من التنمر",
+              "title": "دعم الأطفال الذين يشملهم موقف تنمر",
+              "url": "https://www.stopbullying.gov/prevention/support-the-children-involved"
+            },
+            {
+              "organization": "كارنا وزملاؤه، مجلة نمو الطفل",
+              "title": "تقييم برنامج كيفا بتوزيع المدارس عشوائياً في الصفوف الرابع إلى السادس",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/21291444/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Quand l’école vous dit que votre enfant harcèle un camarade",
+        "description": "Quelles questions poser quand l’école signale un harcèlement, comment faire cesser les gestes et convenir d’un suivi qui protège l’élève pris pour cible.",
+        "intro": "Une enseignante vous appelle au sujet de la cantine. Depuis trois jours, votre enfant prend la casquette d’un autre élève et la fait passer de main en main autour de la table. Il dit que tout le monde riait. Demandez à l’enseignante ce qui s’est passé quand l’autre élève a voulu reprendre sa casquette, qui a vu la scène et qui sera là pour surveiller le déjeuner demain.",
+        "sections": [
+          {
+            "heading": "Comprendre les faits sans faire le procès des enfants",
+            "paragraphs": [
+              "Le harcèlement suppose une agression subie, un déséquilibre de pouvoir et des actes qui se répètent ou risquent de se répéter. L’avantage peut tenir au gabarit, à la popularité, au soutien d’un groupe ou à la connaissance d’un fait embarrassant. Menacer, répandre une rumeur, exclure délibérément ou partager une publication blessante peut faire du mal sans porter de coup. Un acte isolé mérite aussi une intervention pendant que les adultes cherchent à savoir s’il s’inscrit dans une série.",
+              "Faites cesser ce qui se passe et demandez aux adultes d’écouter les enfants séparément. En privé, demandez à votre enfant ce qu’il a fait, qui était présent et ce qui s’est passé lorsque l’autre enfant a essayé d’y mettre fin. Un objet dont il ne peut expliquer la provenance, le signalement d’un enseignant ou des messages cruels justifient de poser des questions. Aucun signe ne raconte à lui seul toute l’histoire. Demandez-lui s’il subit des pressions du groupe ou si quelqu’un le prend également pour cible. Cela vous aidera à prévoir un soutien tout en le tenant responsable de ses actes."
+            ]
+          },
+          {
+            "heading": "Prévoir ce qui se passera au prochain déjeuner",
+            "paragraphs": [
+              "Dites clairement à votre enfant quel comportement doit cesser. Avec l’équipe scolaire, choisissez une solution précise. Par exemple, il laissera les affaires des autres tranquilles et appellera un adulte si ses camarades commencent à les faire passer. Convenez de la personne qui surveillera, de la façon de recueillir en privé la parole de l’élève ciblé et du moment où vous ferez le point. À la maison, maintenez la même limite. Si une publication est en cause, conservez les éléments utiles en privé et signalez-la sur la plateforme sans la diffuser davantage.",
+              "Réparer le tort causé doit protéger l’élève qui l’a subi. Il appréciera peut-être que l’enseignante lui rende sa casquette. Des excuses publiques, une rencontre en face à face ou l’obligation de pardonner risquent de lui faire subir une nouvelle pression. Laissez les adultes responsables tenir compte de sa sécurité et de ce qu’il souhaite. Dans un essai finlandais, 78 écoles ont été réparties au hasard entre le programme KiVa déployé dans tout l’établissement et un groupe de comparaison. Au bout de neuf mois, dans les écoles du programme, les élèves déclaraient moins souvent avoir harcelé quelqu’un ou avoir été pris pour cible, selon plusieurs indicateurs. Cette intervention concernait des écoles entières. Elle ne permet pas de prédire si une conversation en famille suffira."
+            ]
+          },
+          {
+            "heading": "Vérifier que les actes ont vraiment cessé",
+            "paragraphs": [
+              "Fixez une date pour faire le point même si le premier entretien s’est bien passé. Demandez à l’école si les actes ont cessé là où ils se produisaient et s’il y a eu des représailles. Relevez un changement concret à la maison ou à l’école, par exemple si votre enfant refuse de transférer un message humiliant. Aidez-le à s’exercer à quitter un groupe ou à demander l’aide d’un adulte. Montrez-lui comment vous restez respectueux dans vos propres désaccords.",
+              "Si les actes continuent, demandez un plan écrit précisant le comportement à changer, la surveillance, le soutien prévu et une date de bilan. Un conseiller ou le médecin de votre enfant peut aider si votre enfant subit lui-même des violences, semble en détresse ou a régulièrement du mal à maîtriser son agressivité. En cas de danger immédiat, de menace avec une arme ou de blessure grave, appelez les secours. Précisez qui veillera aujourd’hui sur l’enfant qui a subi le harcèlement."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Écoutez les enfants séparément, identifiez les actes et demandez comment l’élève ciblé est protégé.",
+          "Convenez avec l’école d’un changement concret et désignez la personne qui s’en assurera.",
+          "Vérifiez ensuite si les actes se répètent ou s’il y a des représailles, y compris en ligne."
+        ],
+        "faq": [
+          {
+            "q": "Qu’est-ce qui caractérise le harcèlement ?",
+            "a": "Il s’agit d’une agression subie, avec un déséquilibre de pouvoir et des actes répétés ou susceptibles de l’être. Le harcèlement peut être physique, verbal, relationnel ou se produire en ligne. Les adultes peuvent faire cesser le tort causé avant de connaître tous les détails."
+          },
+          {
+            "q": "Comment savoir si mon enfant harcèle d’autres élèves ?",
+            "a": "Prenez les signalements et les comportements inquiétants au sérieux sans tenir un signe isolé pour une preuve. Demandez des exemples précis aux adultes, écoutez votre enfant en privé et vérifiez si la même personne est ciblée à plusieurs reprises."
+          },
+          {
+            "q": "Faut-il intervenir ou attendre que cela passe ?",
+            "a": "Intervenez rapidement. Faites cesser les actes, assurez la sécurité de chacun et contactez l’école ou le responsable de l’activité. Convenez de ce que fera votre enfant à la place et de la façon dont les adultes assureront le suivi."
+          },
+          {
+            "q": "Comment réduire le risque que cela recommence ?",
+            "a": "Entraînez-vous ensemble à une autre façon d’agir, donnez l’exemple d’un désaccord respectueux et relevez les situations où votre enfant inclut ou soutient un camarade. Gardez le contact avec l’école et ajustez le plan si les actes continuent ou se déplacent en ligne."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 17 novembre 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Recueillez les récits séparément et recherchez un déséquilibre de pouvoir ou des actes répétés.",
+            "Favorisez la réparation sans imposer à l’enfant ciblé un contact ou l’obligation de pardonner.",
+            "Convenez des modalités de surveillance et vérifiez ensuite la sécurité de chacun."
+          ],
+          "bemama": "BeMama suggère de terminer l’appel à l’école en demandant qui surveillera ce même endroit demain et quand vous saurez si l’autre enfant s’y sent en sécurité.",
+          "safety": "Appelez les secours en cas de danger immédiat, de menace avec une arme ou de blessure grave. Faites cesser les actes et protégez les enfants. Demandez rapidement l’aide des adultes responsables en cas de menaces, de harcèlement persistant ou de représailles.",
+          "sources": [
+            {
+              "organization": "Académie américaine de pédiatrie",
+              "title": "Que peuvent faire les parents lorsque leur enfant harcèle un autre enfant ?",
+              "url": "https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Bullying-Its-Not-Ok.aspx"
+            },
+            {
+              "organization": "StopBullying.gov, portail américain de prévention du harcèlement",
+              "title": "Soutenir les enfants concernés par le harcèlement",
+              "url": "https://www.stopbullying.gov/prevention/support-the-children-involved"
+            },
+            {
+              "organization": "Kärnä et ses collègues, Child Development",
+              "title": "Évaluation du programme KiVa avec répartition aléatoire des écoles, de la quatrième à la sixième année de scolarité",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/21291444/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Okul çocuğunuzun bir arkadaşına zorbalık yaptığını söylediğinde",
+        "description": "Zorbalık bildirildiğinde okula neler sorabileceğinizi, davranışı nasıl durduracağınızı ve hedef alınan çocuğun güvenliğini nasıl izleyeceğinizi öğrenin.",
+        "intro": "Bir öğretmen öğle arasında olanları anlatmak için arıyor. Çocuğunuz üç gündür bir arkadaşının şapkasını alıp masada elden ele dolaştırıyormuş. Çocuğunuz herkesin güldüğünü söylüyor. Önce öğretmene şapkasını geri isteyen çocuğa ne olduğunu, kimlerin olayı gördüğünü ve yarın öğle arasında kimin gözetim sağlayacağını sorun.",
+        "sections": [
+          {
+            "heading": "Her çocuğu ayrı dinleyerek ne olduğunu öğrenin",
+            "paragraphs": [
+              "Zorbalıkta, hedef alınan kişinin istemediği saldırgan bir davranış, güç dengesizliği ve tekrarlanan ya da tekrarlanma ihtimali olan bir eylem vardır. Güç farkı fiziksel yapıdan, popülerlikten, bir grubun desteğinden veya utandırıcı bilgilere erişimden kaynaklanabilir. Tehditler, söylentiler, birini bilerek dışlamak veya incitici bir gönderiyi paylaşmak da zarar verebilir. Yetişkinler bir örüntü olup olmadığını araştırırken bir kez yaşanan incitici bir olaya da müdahale etmelidir.",
+              "Süren zararı durdurun ve yetişkinlerin çocuklarla ayrı ayrı konuşmasını sağlayın. Çocuğunuza baş başayken ne yaptığını, kimlerin katıldığını ve diğer çocuk durdurmaya çalışınca ne olduğunu sorun. Nereden geldiğini açıklayamadığı bir eşya, öğretmenin bildirdikleri veya kırıcı mesajlar soru sormayı gerektirebilir. Bunların hiçbiri tek başına bütün olayı açıklamaz. Arkadaş baskısı yaşayıp yaşamadığını ve kendisinin de hedef alınıp alınmadığını sorun. Böylece çocuğunuz yaptıklarının sorumluluğunu üstlenirken ihtiyaç duyduğu desteği de planlayabilirsiniz."
+            ]
+          },
+          {
+            "heading": "Bir sonraki öğle arası için okulla anlaşın",
+            "paragraphs": [
+              "Hangi davranışın durması gerektiğini çocuğunuza açıkça söyleyin. Okul görevlileriyle birlikte somut bir seçenek belirleyin. Örneğin çocuğunuz arkadaşlarının eşyalarına dokunmayabilir ve birinin eşyası elden ele dolaştırılmaya başlandığında bir yetişkinden yardım isteyebilir. Kimin gözetim sağlayacağını, hedef alınan çocukla kimin özel olarak konuşacağını ve ne zaman tekrar görüşeceğinizi kararlaştırın. Evde de aynı sınırı koruyun. Olay çevrim içi bir paylaşımla ilgiliyse gerekli kanıtları başkalarına göstermeden saklayın ve içeriği yeniden yaymadan platformun şikâyet araçlarını kullanın.",
+              "Zararı giderme biçimi, incinen çocuğu korumalıdır. Örneğin şapkasının öğretmen aracılığıyla geri verilmesini isteyebilir. Herkesin önünde özür diletilmesi, yüz yüze görüşme veya affetme baskısı çocuğu yeniden zor durumda bırakabilir. Sorumlu yetişkinler hem güvenliği hem de hedef alınan çocuğun ne istediğini dikkate alsın. Finlandiya'da yapılan bir araştırmada 78 okul, okulun tamamında uygulanan KiVa programına ya da karşılaştırma grubuna rastgele atandı. Dokuz ay sonra programın uygulandığı okullardaki öğrenciler, çeşitli ölçütlerde başkalarına daha az zorbalık yaptıklarını ve zorbalığa daha az maruz kaldıklarını bildirdi. Program tüm okula uygulandığı için bu çalışma aile içinde bir kez konuşmanın davranışı durdurup durdurmayacağını göstermez."
+            ]
+          },
+          {
+            "heading": "Zarar veren davranışın gerçekten durduğunu kontrol edin",
+            "paragraphs": [
+              "İlk konuşma iyi geçse bile yeniden görüşmek için bir gün belirleyin. Okula, davranışın yaşandığı yerlerde sona erip ermediğini ve misilleme olup olmadığını sorun. Örneğin çocuğunuzun küçük düşürücü bir mesajı iletmeyi reddetmesi gibi evde veya okulda gördüğünüz somut değişiklikleri takdir edin. Bir dahaki sefer gruptan nasıl ayrılabileceğini veya bir yetişkinden nasıl yardım isteyebileceğini birlikte prova edin. Siz de biriyle aynı fikirde olmadığınızda ona saygılı davranarak örnek olun.",
+              "Davranış sürerse hangi davranışın değişeceğini, gözetimi, sunulacak desteği ve değerlendirme tarihini belirten yazılı bir plan isteyin. Çocuğunuz da zarar görüyorsa, sıkıntılı görünüyorsa veya saldırgan davranışlarını kontrol etmekte tekrar tekrar zorlanıyorsa okul psikolojik danışmanı ya da çocuğunuzu izleyen sağlık uzmanı yardımcı olabilir. Yakın tehlike, silahla tehdit veya ciddi yaralanma varsa acil yardım isteyin. Zarar gören çocukla bugün kimin ilgileneceğini netleştirin."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Çocukları ayrı ayrı dinleyin, hangi davranışın yaşandığını öğrenin ve hedef alınan çocuğun nasıl korunduğunu sorun.",
+          "Okulla birlikte somut bir değişiklik belirleyin ve kimin takip edeceğini kararlaştırın.",
+          "İnternet ortamı dâhil olmak üzere davranışın tekrarlanıp tekrarlanmadığını ve misilleme olup olmadığını izleyin."
+        ],
+        "faq": [
+          {
+            "q": "Bir davranışı zorbalık yapan nedir?",
+            "a": "İstenmeyen saldırgan davranış, güç dengesizliği ve tekrar ya da tekrarlanma ihtimali olup olmadığına bakın. Zorbalık fiziksel, sözlü, sosyal veya çevrim içi olabilir. Yetişkinler bütün ayrıntıları öğrenmeden de zararı durdurabilir."
+          },
+          {
+            "q": "Çocuğumun başkalarına zorbalık yaptığını nasıl anlayabilirim?",
+            "a": "Bildirimleri ve kaygı verici davranışları ciddiye alın. Tek bir belirtiyi kanıt saymayın. Yetişkinlerden somut örnekler isteyin, çocuğunuzu özel olarak dinleyin ve aynı öğrencinin tekrar tekrar hedef alınıp alınmadığını araştırın."
+          },
+          {
+            "q": "Yetişkinler müdahale mi etmeli, yoksa davranışın sona ermesini mi beklemeli?",
+            "a": "Gecikmeden müdahale edin. O anki zararı durdurun, herkesin güvende olduğundan emin olun ve okula veya etkinliği yöneten kişiye ulaşın. Çocuğunuzun hangi davranışı değiştireceğini ve yetişkinlerin bunu nasıl izleyeceğini birlikte belirleyin."
+          },
+          {
+            "q": "Aynı şeyin tekrarlanma olasılığını nasıl azaltabiliriz?",
+            "a": "Somut bir alternatif davranışı prova edin, saygıyla fikir ayrılığı yaşanabileceğini gösterin ve çocuğunuz bir akranını oyuna kattığında ya da desteklediğinde bunu takdir edin. Okulla iletişimde kalın. Davranış sürer veya internete taşınırsa planı güncelleyin."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 17 Kasım 2026 tarihinde incelendi",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Olayı herkesten ayrı ayrı dinleyin ve güç dengesizliğini ya da tekrarlanan davranışları araştırın.",
+            "Hedef alınan çocuğu görüşmeye veya affetmeye zorlamadan zararın giderilmesini destekleyin.",
+            "Gözetimin nasıl sağlanacağını kararlaştırın ve olaya karışan herkesin güvenliğini takip edin."
+          ],
+          "bemama": "BeMama, okulla görüşmenin sonunda yarın aynı yeri kimin gözeteceğini ve diğer çocuğun orada kendini güvende hissedip hissetmediğini ne zaman öğrenebileceğinizi sormanızı önerir.",
+          "safety": "Yakın tehlike, silahla tehdit veya ciddi yaralanma varsa acil yardım isteyin. Devam eden zararı durdurun, çocukların güvenliğini sağlayın ve tehdit, süren zorbalık ya da misilleme durumunda gecikmeden yetişkinlerden destek alın.",
+          "sources": [
+            {
+              "organization": "Amerikan Pediatri Akademisi",
+              "title": "Çocuğu başka bir çocuğa zorbalık yapan ebeveynler ne yapabilir?",
+              "url": "https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Bullying-Its-Not-Ok.aspx"
+            },
+            {
+              "organization": "StopBullying.gov",
+              "title": "Zorbalık olayına karışan çocukları desteklemek",
+              "url": "https://www.stopbullying.gov/prevention/support-the-children-involved"
+            },
+            {
+              "organization": "Kärnä ve çalışma arkadaşları, Child Development dergisi",
+              "title": "Dördüncü ile altıncı sınıflarda KiVa programının okulların rastgele atanmasıyla değerlendirilmesi",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/21291444/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Cuando la escuela dice que tu hijo está acosando a otro niño",
+        "description": "Qué preguntar si la escuela te avisa de que tu hijo acosa a otro alumno, cómo detener la conducta y cómo acordar medidas para proteger al niño afectado.",
+        "intro": "Una profesora te llama por algo ocurrido en el comedor. Durante tres días tu hijo le ha quitado la gorra a otro alumno y la ha hecho pasar de mano en mano por la mesa. Tu hijo dice que todos se reían. Empieza por preguntarle a la profesora qué pasó cuando el otro niño quiso recuperar la gorra, quién lo vio y qué adulto estará pendiente mañana en el comedor.",
+        "sections": [
+          {
+            "heading": "Averigua qué pasó sin sentar a los niños en el banquillo",
+            "paragraphs": [
+              "El acoso implica una agresión no deseada, un desequilibrio de poder y una conducta que se repite o podría repetirse. La ventaja puede venir del tamaño, de la popularidad, del apoyo de un grupo o de conocer algo que avergonzaría al otro niño. Amenazar, difundir rumores, excluir a propósito o compartir una publicación humillante puede hacer daño sin dar un solo golpe. También hay que intervenir ante un acto aislado mientras los adultos aclaran si forma parte de un patrón.",
+              "Detén el daño que esté ocurriendo y pide que los adultos hablen con cada niño por separado. En privado, pregúntale a tu hijo qué hizo, quién participó y qué ocurrió cuando el otro intentó ponerle fin. Un objeto cuya procedencia no puede explicar, el aviso de una profesora o unos mensajes crueles justifican hacer preguntas. Ningún indicio por sí solo cuenta toda la historia. Pregúntale si el grupo lo presiona o si alguien también lo está acosando a él. Es información para decidir qué apoyo necesita sin dejar de hacerlo responsable de sus actos."
+            ]
+          },
+          {
+            "heading": "Acordad qué ocurrirá la próxima vez en el comedor",
+            "paragraphs": [
+              "Dile con claridad qué conducta tiene que dejar de hacer. Con el personal de la escuela, buscad una alternativa concreta, como respetar las pertenencias ajenas y pedir ayuda a un adulto si sus amigos empiezan a pasárselas. Acordad quién supervisará, cómo podrán escuchar en privado al alumno afectado y cuándo volveréis a hablar. En casa, mantén el mismo límite. Si hay una publicación de por medio, guarda las pruebas pertinentes en privado y usa las herramientas de denuncia de la plataforma sin volver a difundirla.",
+              "Reparar el daño debe proteger a quien lo sufrió. Tal vez le parezca bien recibir la gorra a través de la profesora. Una disculpa pública, un encuentro cara a cara o la exigencia de perdonar pueden añadir presión. Deja que los adultos responsables valoren qué es seguro y qué desea el niño afectado. En un ensayo finlandés se asignaron al azar 78 escuelas al programa escolar KiVa o a un grupo de comparación. A los nueve meses, el alumnado de las escuelas con el programa comunicó menos conductas de acoso y menos experiencias de sufrirlo en varias de las medidas evaluadas. El programa abarcó escuelas enteras y no permite saber si una conversación familiar bastará para detener el acoso."
+            ]
+          },
+          {
+            "heading": "Comprueba si el daño realmente ha cesado",
+            "paragraphs": [
+              "Fijad una fecha de seguimiento aunque la primera conversación vaya bien. Pregunta a la escuela si la conducta ha cesado allí donde se producía y si ha habido represalias. Fíjate en un cambio concreto en casa o en clase, como que tu hijo se niegue a reenviar un mensaje humillante. Practicad cómo puede apartarse del grupo o acudir a un adulto la próxima vez. Muéstrale cómo mantener el respeto cuando tú no estás de acuerdo con alguien.",
+              "Si la conducta se repite, pide un plan escrito que especifique qué debe cambiar, quién supervisará, qué apoyo habrá y cuándo se revisará. Un orientador o el profesional sanitario que atiende a tu hijo puede ayudar si también le hacen daño, parece angustiado o le cuesta repetidamente controlar las agresiones. Busca ayuda de emergencia ante peligro inmediato, amenazas con un arma o lesiones graves. Dejad claro quién cuidará hoy al niño que sufrió el daño."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Escuchad por separado, identificad la conducta y preguntad qué se está haciendo para proteger al niño afectado.",
+          "Acordad con la escuela un cambio concreto y quién comprobará que se cumple.",
+          "Preguntad después si hubo más incidentes o represalias, también en internet."
+        ],
+        "faq": [
+          {
+            "q": "¿Qué distingue el acoso?",
+            "a": "Hay una agresión no deseada, un desequilibrio de poder y repetición o posibilidad de que se repita. Puede ser físico, verbal, social o en internet. Los adultos pueden intervenir para detener el daño antes de conocer todos los detalles."
+          },
+          {
+            "q": "¿Cómo sé si mi hijo acosa a otros?",
+            "a": "Toma en serio los avisos y las conductas preocupantes sin dar por probado lo ocurrido por un indicio aislado. Pide ejemplos concretos a los adultos, escucha en privado a tu hijo y comprueba si se está atacando repetidamente al mismo alumno."
+          },
+          {
+            "q": "¿Los adultos deben intervenir o esperar a que pare?",
+            "a": "Intervenid cuanto antes. Detened el daño inmediato, comprobad que todos estén a salvo y avisad a la escuela o a quien dirija la actividad. Acordad qué hará tu hijo de otra manera y cómo lo supervisarán los adultos."
+          },
+          {
+            "q": "¿Cómo podemos reducir el riesgo de que vuelva a ocurrir?",
+            "a": "Practicad una alternativa concreta, dale ejemplo de cómo discrepar con respeto y reconoce cuando tu hijo incluye o apoya a un compañero. Mantened el contacto con la escuela y adaptad el plan si continúa la conducta o se traslada a internet."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 17 de noviembre de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Escucha las versiones por separado y comprueba si hay un desequilibrio de poder o un patrón repetido.",
+            "Apoya la reparación sin exigir que el niño afectado se encuentre con el otro o lo perdone.",
+            "Acordad la supervisión y comprobad después si todos los implicados están a salvo."
+          ],
+          "bemama": "BeMama sugiere terminar la llamada con la escuela preguntando quién estará pendiente mañana en ese mismo lugar y cuándo sabrás si el otro niño se siente seguro allí.",
+          "safety": "Busca ayuda de emergencia ante peligro inmediato, amenazas con un arma o lesiones graves. Detén el daño que esté ocurriendo, protege a los niños y pide pronto apoyo a los adultos responsables ante amenazas, acoso continuado o represalias.",
+          "sources": [
+            {
+              "organization": "Academia Estadounidense de Pediatría",
+              "title": "Qué pueden hacer los padres cuando su hijo acosa a otro niño",
+              "url": "https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Bullying-Its-Not-Ok.aspx"
+            },
+            {
+              "organization": "StopBullying.gov, portal estadounidense de prevención del acoso",
+              "title": "Apoyo a los niños implicados en el acoso",
+              "url": "https://www.stopbullying.gov/prevention/support-the-children-involved"
+            },
+            {
+              "organization": "Kärnä y colaboradores, Child Development",
+              "title": "Evaluación del programa KiVa con asignación aleatoria por escuelas en los cursos cuarto a sexto",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/21291444/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Quando a escola diz que seu filho está praticando bullying",
+        "description": "Saiba o que perguntar à escola após um relato de bullying, como interromper as agressões e como acompanhar a segurança da criança que foi alvo.",
+        "intro": "Uma professora telefona para falar do almoço. Há três dias seu filho pega o boné de um colega e o passa de mão em mão pela mesa. Seu filho diz que todos riram. Comece perguntando à professora o que aconteceu com o colega quando ele quis o boné de volta, quem estava presente e quem vai supervisionar o almoço amanhã.",
+        "sections": [
+          {
+            "heading": "Entenda o que aconteceu ouvindo cada criança em particular",
+            "paragraphs": [
+              "O bullying envolve agressão indesejada, um desequilíbrio de poder e um comportamento que se repete ou pode se repetir. O poder pode vir da força física, da popularidade, do apoio de um grupo ou do acesso a informações constrangedoras. Ameaçar, espalhar boatos, excluir alguém de propósito ou compartilhar uma publicação humilhante também machuca. Mesmo um ato isolado merece uma resposta enquanto os adultos procuram saber se há um padrão.",
+              "Interrompa a agressão e peça que os adultos ouçam as crianças separadamente. Em particular, pergunte a seu filho o que ele fez, quem participou e o que aconteceu quando o colega tentou pôr um fim àquilo. Um objeto cuja origem seu filho não consegue explicar, um relato da professora ou mensagens cruéis merecem atenção. Cada pista conta apenas uma parte da história. Pergunte se os colegas o pressionaram e se ele também tem sido alvo. Essas informações ajudam a planejar o apoio de que ele precisa sem tirar sua responsabilidade pelo que fez."
+            ]
+          },
+          {
+            "heading": "Combine o que vai acontecer no próximo almoço",
+            "paragraphs": [
+              "Diga a seu filho exatamente qual comportamento precisa parar. Com a equipe da escola, escolha uma alternativa concreta, como respeitar os pertences dos colegas e chamar um adulto se os amigos começarem a passar adiante objetos de outra pessoa. Combinem quem vai supervisionar, como um adulto ouvirá em particular a criança que foi alvo e quando vocês voltarão a conversar. Em casa, reforce o mesmo limite. Se houver uma publicação na internet, guarde as provas em particular e use as ferramentas de denúncia da plataforma, sem repassar o material.",
+              "A reparação precisa proteger quem sofreu a agressão. A criança pode gostar de receber o boné de volta pela professora. Já um pedido público de desculpas, um encontro frente a frente ou a exigência de perdão podem gerar nova pressão. Cabe aos adultos responsáveis considerar o que é seguro e o que a criança deseja. Em um estudo finlandês, 78 escolas foram distribuídas por sorteio entre o programa KiVa, aplicado em toda a escola, e um grupo de comparação. Após nove meses, os alunos das escolas que adotaram o programa relataram menos episódios de praticar e de sofrer bullying em várias das medidas avaliadas. Como a intervenção envolveu toda a escola, o estudo não permite prever o efeito de uma única conversa em família."
+            ]
+          },
+          {
+            "heading": "Verifique se a agressão realmente parou",
+            "paragraphs": [
+              "Marque uma data para conversar novamente, mesmo que o primeiro contato tenha sido bom. Pergunte à escola se o comportamento parou nos locais onde acontecia e se houve retaliação. Reconheça mudanças concretas em casa ou na escola, como seu filho se recusar a encaminhar uma mensagem humilhante. Ensaiem maneiras de se afastar do grupo ou pedir a ajuda de um adulto. Quando você discordar de alguém, mostre pelo exemplo como fazer isso com respeito.",
+              "Se as agressões continuarem, peça um plano por escrito que identifique o comportamento a mudar, a supervisão, o apoio e uma data para reavaliar. Um orientador escolar ou o profissional de saúde que acompanha seu filho pode ajudar se ele também sofrer agressões, parecer angustiado ou apresentar dificuldades recorrentes para controlar a agressividade. Procure ajuda de emergência diante de perigo imediato, ameaça com arma ou ferimento grave. Definam quem cuidará, ainda hoje, da criança que foi agredida."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Ouça cada criança em particular, identifique o comportamento e pergunte como a segurança da criança que foi alvo está sendo garantida.",
+          "Combine uma mudança concreta com a escola e definam quem vai acompanhá-la.",
+          "Pergunte se o comportamento se repetiu ou houve retaliação, inclusive na internet."
+        ],
+        "faq": [
+          {
+            "q": "O que caracteriza o bullying?",
+            "a": "Observe se há agressão indesejada, desequilíbrio de poder e repetição ou possibilidade de repetição. Pode envolver violência física, palavras, exclusão social ou ataques pela internet. Os adultos podem intervir mesmo antes de conhecer todos os detalhes."
+          },
+          {
+            "q": "Como saber se meu filho está praticando bullying?",
+            "a": "Leve os relatos e os comportamentos preocupantes a sério. Um sinal isolado não constitui prova. Peça exemplos específicos aos adultos, ouça seu filho em particular e verifique se o mesmo colega tem sido alvo repetidamente."
+          },
+          {
+            "q": "Os adultos devem intervir ou esperar que isso passe?",
+            "a": "Intervenha prontamente. Interrompa a agressão, proteja todos os envolvidos e contate a escola ou a pessoa responsável pela atividade. Combinem o que seu filho fará de outra forma e como os adultos acompanharão a situação."
+          },
+          {
+            "q": "Como reduzir a chance de isso acontecer outra vez?",
+            "a": "Ensaiem uma alternativa concreta, demonstre como discordar com respeito e reconheça os momentos em que seu filho inclui ou apoia um colega. Mantenha contato com a escola e ajustem o plano se as agressões continuarem ou passarem para a internet."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 17 de novembro de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Ouça os relatos separadamente e verifique se existe desequilíbrio de poder ou um padrão de repetição.",
+            "Apoie a reparação sem exigir contato nem perdão por parte da criança que sofreu a agressão.",
+            "Combine a supervisão e acompanhe a segurança de todos os envolvidos."
+          ],
+          "bemama": "A BeMama sugere encerrar a ligação com a escola perguntando quem vai observar o mesmo local amanhã e quando você saberá se a outra criança se sente segura ali.",
+          "safety": "Procure ajuda de emergência diante de perigo imediato, ameaça com arma ou ferimento grave. Interrompa a agressão, proteja as crianças e procure prontamente o apoio de adultos diante de ameaças, bullying persistente ou retaliação.",
+          "sources": [
+            {
+              "organization": "Academia Americana de Pediatria",
+              "title": "O que os pais podem fazer quando seu filho pratica bullying contra outra criança",
+              "url": "https://www.healthychildren.org/English/safety-prevention/at-play/Pages/Bullying-Its-Not-Ok.aspx"
+            },
+            {
+              "organization": "StopBullying.gov",
+              "title": "Como apoiar as crianças envolvidas em situações de bullying",
+              "url": "https://www.stopbullying.gov/prevention/support-the-children-involved"
+            },
+            {
+              "organization": "Kärnä e colaboradores, revista Child Development",
+              "title": "Avaliação do programa KiVa do quarto ao sexto ano, com distribuição aleatória das escolas",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/21291444/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5791.webp",
+    "heroAlt": {
+      "en": "A child hands a blue cap to an adult beside school lunch tables.",
+      "fa": "کودکی کنار میزهای غذاخوری مدرسه یک کلاه آبی را به بزرگسالی می‌دهد.",
+      "ar": "طفل يسلّم قبعة زرقاء إلى شخص بالغ بجانب طاولات الطعام في المدرسة.",
+      "fr": "Un enfant remet une casquette bleue à un adulte près des tables de la cantine.",
+      "es": "Un niño entrega una gorra azul a una persona adulta junto a las mesas del comedor escolar.",
+      "pt": "Uma criança entrega um boné azul a um adulto perto das mesas do refeitório escolar.",
+      "tr": "Bir çocuk okul yemekhanesindeki masaların yanında mavi şapkayı bir yetişkine veriyor."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "When school says your child is bullying someone",
+      "description": "Learn what to ask after a report of bullying, how to stop the behaviour safely, and how to work with school so the child being targeted stays safe."
+    },
+    "fa": {
+      "title": "وقتی مدرسه خبر می‌دهد که فرزندتان کودکی را آزار می‌دهد",
+      "description": "پس از گزارش قلدری چه بپرسید، چگونه رفتار آسیب‌زا را متوقف کنید و چطور با مدرسه همکاری کنید تا کودکی که هدف آزار قرار گرفته در امان بماند؟"
+    },
+    "ar": {
+      "title": "عندما تخبرك المدرسة بأن طفلك يتنمّر على زميل",
+      "description": "تعرّف إلى الأسئلة التي تطرحها بعد بلاغ عن التنمر، وكيف توقف السلوك بأمان وتتعاون مع المدرسة لحماية الطفل الذي استُهدف ومتابعة ما يحدث."
+    },
+    "fr": {
+      "title": "Quand l’école vous dit que votre enfant harcèle un camarade",
+      "description": "Quelles questions poser quand l’école signale un harcèlement, comment faire cesser les gestes et convenir d’un suivi qui protège l’élève pris pour cible."
+    },
+    "tr": {
+      "title": "Okul çocuğunuzun bir arkadaşına zorbalık yaptığını söylediğinde",
+      "description": "Zorbalık bildirildiğinde okula neler sorabileceğinizi, davranışı nasıl durduracağınızı ve hedef alınan çocuğun güvenliğini nasıl izleyeceğinizi öğrenin."
+    },
+    "es": {
+      "title": "Cuando la escuela dice que tu hijo está acosando a otro niño",
+      "description": "Qué preguntar si la escuela te avisa de que tu hijo acosa a otro alumno, cómo detener la conducta y cómo acordar medidas para proteger al niño afectado."
+    },
+    "pt": {
+      "title": "Quando a escola diz que seu filho está praticando bullying",
+      "description": "Saiba o que perguntar à escola após um relato de bullying, como interromper as agressões e como acompanhar a segurança da criança que foi alvo."
+    }
+  }
+}

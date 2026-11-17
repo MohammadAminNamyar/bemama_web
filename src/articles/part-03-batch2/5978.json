@@ -1,0 +1,695 @@
+{
+  "sourceId": "5978",
+  "article": {
+    "slug": "trying-to-conceive/late-implantation-and-early-pregnancy-loss",
+    "category": "ttc",
+    "i18n": {
+      "en": {
+        "title": "Does late implantation mean an early pregnancy will be lost?",
+        "description": "A late positive test cannot tell you when implantation happened. Learn what a study on early loss measured and when pain or bleeding needs assessment.",
+        "intro": "Imagine seeing a negative pregnancy test on Monday and a positive one on Thursday. You may wonder whether the embryo attached late and what that means for the pregnancy. Those tests establish when the hormone became detectable on the test you used. They cannot pinpoint when attachment began or predict the outcome.",
+        "sections": [
+          {
+            "heading": "What researchers mean by the day of implantation",
+            "paragraphs": [
+              "After ovulation, an egg may be fertilized. Over the next several days the embryo develops and, in a pregnancy inside the uterus, attaches to the uterine lining. The hormone human chorionic gonadotropin (hCG) can then be detected as its level rises. Researchers studying these earliest days need a measurable sign because they cannot watch attachment in an ordinary menstrual cycle.",
+              "In a study by Wilcox and colleagues, participants trying to conceive collected urine every day. Researchers estimated ovulation from hormone measurements. They used the first appearance of hCG in a sensitive laboratory assay as their marker for implantation. A date recorded in a period app or a line on a home test is a different measurement."
+            ]
+          },
+          {
+            "heading": "How to read the early-loss findings",
+            "paragraphs": [
+              "Among pregnancies in the study that continued for at least six weeks from the last menstrual period, hCG first appeared six to twelve days after ovulation. In 84% of that group it appeared on day eight, nine or ten. The researchers also tracked very early losses that a person without daily laboratory testing might never recognize.",
+              "Later first detection in the study was associated with a greater proportion of early losses. The study did not establish that moving the attachment date would prevent a loss. It could not tell a participant why their own pregnancy ended. The percentages refer to groups classified by laboratory results, so applying them to a calendar estimate or your first positive home test would give you a misleading answer."
+            ]
+          },
+          {
+            "heading": "What to do with an unexpected test date",
+            "paragraphs": [
+              "Ovulation can occur earlier or later than a calendar estimate. The day you chose to test and the sensitivity of the test also matter. A faint line, a change in the darkness of a line or light spotting cannot identify an implantation day. If the result is difficult to read, follow the timing and interpretation instructions that came with the test.",
+              "For routine testing, the NHS advises testing from the first day of a missed period. If you do not know when a period is due, test at least 21 days after the last unprotected sex. If a negative result seems too early, repeat it after a few days. Tell your clinician if your period still has not arrived after a second negative test. After fertility treatment follow your clinic’s own test date."
+            ]
+          },
+          {
+            "heading": "When dates should give way to assessment",
+            "paragraphs": [
+              "If you have a positive test, share the first day of your last period, your usual cycle pattern and when you tested with your care team. If there is bleeding or pain in a possible or confirmed pregnancy, contact a healthcare professional. Depending on your symptoms and how far along the pregnancy might be, they may arrange an ultrasound or blood hCG measurements over time. A very early scan can be inconclusive, so ask what follow-up is planned.",
+              "Heavy bleeding, severe abdominal pain, shoulder-tip pain, dizziness or fainting need urgent emergency assessment. An ectopic pregnancy is one possible cause. Seek help even if you are unsure whether you are pregnant. A suspected date of implantation cannot make those symptoms safe to wait out."
+            ]
+          }
+        ],
+        "takeaways": [
+          "A home pregnancy test does not reveal the day of implantation.",
+          "The observed association with early loss applies to research groups and cannot assign an individual chance from calendar dates.",
+          "Pain or bleeding in a possible pregnancy should be assessed on its own merits."
+        ],
+        "faq": [
+          {
+            "q": "How long after fertilization does implantation happen?",
+            "a": "Attachment unfolds over several days after fertilization. A commonly cited study counted from estimated ovulation and used the first laboratory detection of urinary hCG as a marker. It did not directly observe the moment of attachment or fertilization."
+          },
+          {
+            "q": "Can late implantation cause miscarriage?",
+            "a": "Later first detection of hCG was linked to a higher proportion of early losses in one closely monitored group. The study could not determine whether the timing caused the loss. A late positive home test cannot identify a pregnancy in that group."
+          },
+          {
+            "q": "Can I tell why attachment happened late?",
+            "a": "In most ordinary cycles you do not know that attachment was late. Symptoms, spotting and a calendar cannot distinguish a later ovulation from other explanations. If you have had repeated losses, discuss your history and whether an evaluation would help."
+          },
+          {
+            "q": "Can I do anything to bring implantation forward?",
+            "a": "There is no established home method to choose or advance the day of implantation. If you are in fertility treatment, continue your clinic’s prescribed plan and ask before changing medicines based on spotting or a home test."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Distinguish estimated ovulation and daily laboratory hCG from the date of a home test.",
+            "Ask what follow-up is needed if an early scan or blood test is inconclusive.",
+            "Seek urgent assessment for heavy bleeding, severe pain, dizziness or fainting."
+          ],
+          "bemama": "BeMama suggests taking the dates and results you actually have to the visit. That record is more useful for care than calculating an implantation date retrospectively.",
+          "safety": "Heavy bleeding, severe abdominal pain, shoulder-tip pain, dizziness or fainting in a possible pregnancy need emergency assessment, including for ectopic pregnancy.",
+          "sources": [
+            {
+              "organization": "Wilcox, Baird and Weinberg",
+              "title": "Timing of implantation and early pregnancy loss",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10362823/"
+            },
+            {
+              "organization": "NHS",
+              "title": "When and how to take a pregnancy test",
+              "url": "https://www.nhs.uk/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/"
+            },
+            {
+              "organization": "Royal College of Obstetricians and Gynaecologists",
+              "title": "Bleeding or pain in early pregnancy",
+              "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/bleeding-andor-pain-in-early-pregnancy/"
+            },
+            {
+              "organization": "Human Fertilisation and Embryology Authority",
+              "title": "Pregnancy testing after in vitro fertilisation",
+              "url": "https://www.hfea.gov.uk/treatments/explore-all-treatments/in-vitro-fertilisation-ivf/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "آیا لانه‌گزینی دیرهنگام به معنی از دست رفتن بارداری است؟",
+        "description": "دیر مثبت شدن تست بارداری روز لانه‌گزینی را نشان نمی‌دهد. ببینید پژوهش درباره پایان زودهنگام بارداری چه سنجیده و چه زمانی درد یا خونریزی نیاز به بررسی دارد.",
+        "intro": "فرض کنید تست بارداری شما دوشنبه منفی و پنجشنبه مثبت شده است. شاید بپرسید آیا جنین دیر به رحم چسبیده و این برای بارداری شما چه معنایی دارد. این دو نتیجه فقط نشان می‌دهند که تست در کدام روز توانسته هورمون را تشخیص دهد. از روی آن‌ها نمی‌توان زمان آغاز اتصال یا سرانجام بارداری را تعیین کرد.",
+        "sections": [
+          {
+            "heading": "منظور پژوهشگران از روز لانه‌گزینی چیست؟",
+            "paragraphs": [
+              "پس از تخمک‌گذاری ممکن است تخمک بارور شود. طی چند روز بعد جنین رشد می‌کند و در بارداری داخل‌رحمی به پوشش داخلی رحم متصل می‌شود. سپس با بالا رفتن میزان هورمون گنادوتروپین جفتی انسان (hCG)، می‌توان آن را تشخیص داد. پژوهشگران برای مطالعه این روزهای نخست به نشانه‌ای قابل اندازه‌گیری نیاز دارند، چون در یک چرخه معمول قاعدگی نمی‌توانند اتصال را مستقیماً ببینند.",
+              "در پژوهشی به سرپرستی ویلکاکس، افرادی که برای بارداری تلاش می‌کردند هر روز نمونه ادرار جمع کردند. پژوهشگران زمان تخمک‌گذاری را از روی اندازه‌گیری هورمون‌ها تخمین زدند. نخستین بار که آزمایش حساس آزمایشگاهی hCG را در ادرار نشان داد، آن روز را شاخص لانه‌گزینی در نظر گرفتند. تاریخ ثبت‌شده در برنامه قاعدگی یا خط روی تست خانگی حاصل روش دیگری است."
+            ]
+          },
+          {
+            "heading": "نتایج پژوهش درباره از دست رفتن زودهنگام بارداری چه می‌گویند؟",
+            "paragraphs": [
+              "در میان بارداری‌هایی که از اولین روز آخرین قاعدگی دست‌کم شش هفته ادامه یافتند، نخستین تشخیص hCG بین شش تا دوازده روز پس از تخمک‌گذاری بود. در ۸۴ درصد همین گروه، هورمون روز هشتم، نهم یا دهم دیده شد. پژوهشگران بارداری‌هایی را هم ثبت کردند که آن‌قدر زود پایان یافتند که احتمال داشت فرد بدون آزمایش روزانه اصلاً از آن‌ها باخبر نشود.",
+              "در این پژوهش هرچه هورمون دیرتر برای نخستین بار تشخیص داده شد، نسبت بارداری‌هایی که زود پایان یافتند بیشتر بود. پژوهش نشان نداد که تغییر زمان اتصال می‌تواند جلوی از دست رفتن بارداری را بگیرد. علت پایان یافتن بارداری هر فرد نیز از این داده‌ها مشخص نمی‌شود. درصدها به گروه‌هایی مربوط‌اند که بر پایه آزمایش دسته‌بندی شدند. به کار بردن آن‌ها برای تاریخ تخمینی تقویم یا اولین تست خانگی مثبت گمراه‌کننده است."
+            ]
+          },
+          {
+            "heading": "اگر نتیجه تست در روزی غیرمنتظره ظاهر شد",
+            "paragraphs": [
+              "تخمک‌گذاری ممکن است زودتر یا دیرتر از پیش‌بینی تقویم رخ دهد. زمان انجام تست و حساسیت آن هم اهمیت دارند. خط کم‌رنگ، تغییر پررنگی خط یا لکه‌بینی خفیف روز لانه‌گزینی را مشخص نمی‌کند. اگر خواندن نتیجه دشوار است، زمان خواندن و روش تفسیر آن را در راهنمای همان تست ببینید.",
+              "خدمات ملی سلامت بریتانیا برای آزمایش معمول، انجام تست از نخستین روز عقب افتادن قاعدگی را توصیه می‌کند. اگر نمی‌دانید قاعدگی بعدی چه زمانی است، دست‌کم ۲۱ روز پس از آخرین رابطه جنسی محافظت‌نشده تست کنید. اگر نتیجه منفی است و احتمال می‌دهید زود تست کرده باشید، چند روز بعد تکرار کنید. اگر پس از دومین تست منفی همچنان قاعدگی شروع نشده است، به پزشک اطلاع دهید. پس از درمان ناباروری در روزی که مرکز درمانی تعیین کرده تست کنید."
+            ]
+          },
+          {
+            "heading": "چه زمانی باید به جای محاسبه تاریخ برای معاینه اقدام کرد؟",
+            "paragraphs": [
+              "اگر تست مثبت شده، نخستین روز آخرین قاعدگی، الگوی معمول چرخه‌ها و تاریخ تست را به تیم درمان بگویید. اگر باردارید یا احتمال بارداری وجود دارد و درد یا خونریزی دارید، با متخصص سلامت تماس بگیرید. بسته به علائم و مدت احتمالی بارداری، ممکن است سونوگرافی یا چند آزمایش خون hCG با فاصله زمانی پیشنهاد شود. سونوگرافی خیلی زود ممکن است نتیجه روشنی ندهد. بپرسید پیگیری بعدی چه زمانی است.",
+              "خونریزی شدید، درد شدید شکم، درد نوک شانه، سرگیجه یا غش نیاز به ارزیابی اورژانسی دارند. بارداری خارج‌رحمی یکی از علت‌های احتمالی است. حتی اگر مطمئن نیستید باردارید کمک بگیرید. بر پایه یک روز احتمالی لانه‌گزینی نمی‌توان رسیدگی به این نشانه‌ها را به تعویق انداخت."
+            ]
+          }
+        ],
+        "takeaways": [
+          "تست خانگی روز لانه‌گزینی را نشان نمی‌دهد.",
+          "رابطه مشاهده‌شده با پایان زودهنگام بارداری مربوط به گروه‌های پژوهش است و نمی‌توان با تاریخ‌های تقویم احتمال فردی را تعیین کرد.",
+          "درد یا خونریزی در صورت احتمال بارداری باید بر پایه خود علائم بررسی شود."
+        ],
+        "faq": [
+          {
+            "q": "لانه‌گزینی چه مدت پس از لقاح رخ می‌دهد؟",
+            "a": "اتصال طی چند روز پس از لقاح شکل می‌گیرد. در پژوهشی که اغلب به آن اشاره می‌شود، زمان از تخمک‌گذاری تخمینی محاسبه شد و نخستین تشخیص آزمایشگاهی hCG در ادرار شاخص بود. لحظه لقاح یا اتصال مستقیماً مشاهده نشد."
+          },
+          {
+            "q": "آیا لانه‌گزینی دیرهنگام می‌تواند باعث سقط شود؟",
+            "a": "در یک گروه که به‌دقت پیگیری شد، تشخیص دیرتر hCG با نسبت بیشتری از بارداری‌هایی که زود پایان یافتند همراه بود. پژوهش نتوانست نشان دهد که زمان‌بندی علت پایان بارداری بوده است. دیر مثبت شدن تست خانگی معلوم نمی‌کند که بارداری شما در آن گروه قرار دارد."
+          },
+          {
+            "q": "آیا می‌توانم بفهمم چرا لانه‌گزینی دیر رخ داده است؟",
+            "a": "در بیشتر چرخه‌های معمول اصلاً معلوم نیست اتصال دیر صورت گرفته باشد. علائم، لکه‌بینی و تقویم نمی‌توانند تخمک‌گذاری دیرتر را از علت‌های دیگر تشخیص دهند. اگر چند بار بارداری خود را از دست داده‌اید، با پزشک درباره سابقه خود و فایده ارزیابی بیشتر صحبت کنید."
+          },
+          {
+            "q": "آیا راهی برای جلو انداختن لانه‌گزینی هست؟",
+            "a": "روش خانگی اثبات‌شده‌ای برای انتخاب روز لانه‌گزینی یا جلو انداختن آن وجود ندارد. اگر تحت درمان ناباروری هستید، برنامه تجویزشده را ادامه دهید و پیش از تغییر داروها به دلیل لکه‌بینی یا نتیجه تست خانگی با مرکز درمانی تماس بگیرید."
+          }
+        ],
+        "evidence": {
+          "updated": "بازبینی شواهد در ۱۶ نوامبر ۲۰۲۶",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "میان زمان تخمینی تخمک‌گذاری، نتیجه آزمایش روزانه hCG و تاریخ تست خانگی تفاوت بگذارید.",
+            "اگر سونوگرافی یا آزمایش خون اولیه نتیجه روشنی ندارد، درباره پیگیری لازم بپرسید.",
+            "برای خونریزی شدید، درد شدید، سرگیجه یا غش فوراً ارزیابی پزشکی بگیرید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند تاریخ‌ها و نتیجه‌هایی را که واقعاً در اختیار دارید در ویزیت مطرح کنید. این یادداشت برای تصمیم درمانی سودمندتر از محاسبه روز احتمالی لانه‌گزینی در گذشته است.",
+          "safety": "در صورت احتمال بارداری، خونریزی شدید، درد شدید شکم، درد نوک شانه، سرگیجه یا غش نیاز به ارزیابی اورژانسی از جمله بررسی بارداری خارج‌رحمی دارد.",
+          "sources": [
+            {
+              "organization": "ویلکاکس، بیرد و واینبرگ",
+              "title": "زمان لانه‌گزینی و از دست رفتن زودهنگام بارداری",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10362823/"
+            },
+            {
+              "organization": "خدمات ملی سلامت بریتانیا",
+              "title": "زمان و روش انجام تست بارداری",
+              "url": "https://www.nhs.uk/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/"
+            },
+            {
+              "organization": "کالج سلطنتی متخصصان زنان و زایمان بریتانیا",
+              "title": "خونریزی یا درد در اوایل بارداری",
+              "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/bleeding-andor-pain-in-early-pregnancy/"
+            },
+            {
+              "organization": "سازمان باروری و جنین‌شناسی انسانی بریتانیا",
+              "title": "آزمایش بارداری پس از لقاح آزمایشگاهی",
+              "url": "https://www.hfea.gov.uk/treatments/explore-all-treatments/in-vitro-fertilisation-ivf/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "هل يعني تأخر الانغراس أن الحمل سينتهي مبكرًا؟",
+        "description": "تأخر ظهور نتيجة إيجابية في اختبار الحمل لا يحدّد يوم الانغراس. تعرّفي إلى ما قاسه الباحثون عن فقد الحمل المبكر ومتى يستدعي الألم أو النزف فحصًا.",
+        "intro": "لنفترض أنك أجريت اختبار حمل يوم الاثنين فكانت النتيجة سلبية، ثم أعطاك اختبار آخر يوم الخميس نتيجة إيجابية. قد تتساءلين هل تأخّر التصاق الجنين ببطانة الرحم وما أثر ذلك في حملك. تُبيّن النتيجتان متى استطاع الاختبار المستخدم كشف الهرمون، لكنهما لا تحدّدان بداية الالتصاق أو مصير الحمل.",
+        "sections": [
+          {
+            "heading": "ماذا يقصد الباحثون بيوم الانغراس؟",
+            "paragraphs": [
+              "قد تُخصّب البويضة بعد الإباضة. وخلال الأيام التالية ينمو الجنين، وفي الحمل داخل الرحم يلتصق ببطانته. ومع ارتفاع مستوى هرمون موجهة الغدد التناسلية المشيمائية البشرية (hCG) يصبح كشفه ممكنًا. يحتاج الباحثون إلى علامة قابلة للقياس لدراسة هذه الأيام الأولى، لأنهم لا يشاهدون الالتصاق مباشرة في دورة شهرية عادية.",
+              "في دراسة أجراها ويلكوكس وزملاؤه، جمعت المشاركات الراغبات في الحمل عيّنات بول يومية. قدّر الباحثون موعد الإباضة من قياسات الهرمونات، واتخذوا أول ظهور لهرمون الحمل في تحليل مخبري حسّاس مؤشرًا للانغراس. يختلف هذا القياس عن موعد يُظهره تطبيق الدورة أو خط في اختبار منزلي."
+            ]
+          },
+          {
+            "heading": "كيف نفهم النتائج المتعلقة بفقد الحمل المبكر؟",
+            "paragraphs": [
+              "بين حالات الحمل التي استمرت ستة أسابيع على الأقل محسوبة من أول يوم لآخر دورة، ظهر الهرمون أول مرة بعد ستة إلى اثني عشر يومًا من الإباضة. وفي ٨٤٪ من هذه المجموعة ظهر في اليوم الثامن أو التاسع أو العاشر. وسجّل الباحثون أيضًا حالات فقد مبكر جدًا ربما لم تكن صاحبتها لتعرف بحدوث الحمل من دون التحليل المخبري اليومي.",
+              "ارتبط الكشف المتأخر عن الهرمون في الدراسة بارتفاع نسبة حالات الفقد المبكر. ولم تثبت الدراسة أن تقديم يوم الالتصاق يمنع الفقد، أو تبيّن لأي مشاركة سبب انتهاء حملها. فالنسب تخص مجموعات صُنّفت وفق نتائج مخبرية. وتطبيقها على موعد تقديري في التقويم أو يوم أول اختبار منزلي إيجابي يعطي انطباعًا مضلّلًا."
+            ]
+          },
+          {
+            "heading": "إذا ظهرت نتيجة الاختبار في يوم غير متوقّع",
+            "paragraphs": [
+              "قد تقع الإباضة قبل الموعد الذي يتوقّعه التقويم أو بعده. كما يؤثّر يوم إجراء الاختبار ومدى حساسيته في النتيجة. لا يحدّد الخط الباهت، أو تغيّر درجة لونه، أو التبقيع الخفيف يوم الانغراس. إذا صعبت قراءة النتيجة، اتبعي التعليمات المرفقة بالاختبار بخصوص وقت القراءة وتفسيرها.",
+              "بالنسبة للاختبار المعتاد، تنصح هيئة الخدمات الصحية الوطنية البريطانية بإجرائه اعتبارًا من أول يوم تتأخر فيه الدورة. إن كنت تجهلين موعدها، فانتظري ٢١ يومًا على الأقل بعد آخر علاقة جنسية دون وقاية. إذا كانت النتيجة سلبية وربما أجريت الاختبار مبكرًا، فأعيديه بعد بضعة أيام. أخبري طبيبك إذا لم تنزل الدورة بعد نتيجة سلبية ثانية. وبعد علاج الخصوبة التزمي بالموعد الذي حدّدته العيادة."
+            ]
+          },
+          {
+            "heading": "متى تكون الأولوية للفحص الطبي؟",
+            "paragraphs": [
+              "إذا كانت النتيجة إيجابية، فأخبري فريق الرعاية بأول يوم من آخر دورة ونمط دوراتك المعتاد وتواريخ الاختبارات. إذا كنت حاملًا أو كان الحمل ممكنًا وحدث نزف أو ألم، فتواصلي مع مختص صحي. قد يقترح تصويرًا بالموجات فوق الصوتية أو قياسات متتابعة لهرمون الحمل في الدم بحسب الأعراض والمدة المحتملة للحمل. أحيانًا لا يحسم التصوير المبكر جدًا الأمر، فاسألي عن خطة المتابعة.",
+              "يتطلّب النزف الغزير أو الألم الشديد في البطن أو الألم في طرف الكتف أو الدوار أو الإغماء تقييمًا طارئًا. ومن الأسباب المحتملة الحمل خارج الرحم. اطلبي المساعدة حتى إن لم تتأكدي من وجود حمل. تخمين يوم الانغراس لا يبرّر انتظار زوال هذه الأعراض."
+            ]
+          }
+        ],
+        "takeaways": [
+          "لا يكشف اختبار الحمل المنزلي يوم الانغراس.",
+          "تخص العلاقة المرصودة مع الفقد المبكر مجموعات الدراسة، ولا تسمح بحساب احتمال خاص بك من مواعيد التقويم.",
+          "إذا كان الحمل ممكنًا فالألم أو النزف يستحق التقييم بناء على الأعراض نفسها."
+        ],
+        "faq": [
+          {
+            "q": "متى يحدث الانغراس بعد الإخصاب؟",
+            "a": "يمر الالتصاق بمراحل خلال الأيام التالية للإخصاب. وفي دراسة واسعة التداول بدأ العد من الإباضة المقدّرة، واستُخدم أول كشف مخبري لهرمون الحمل في البول مؤشرًا. لم يشاهد الباحثون لحظة الالتصاق أو الإخصاب مباشرة."
+          },
+          {
+            "q": "هل يمكن أن يسبّب تأخر الانغراس الإجهاض؟",
+            "a": "في مجموعة خضعت لمتابعة دقيقة، ارتبط الكشف الأول المتأخر عن الهرمون بارتفاع نسبة فقد الحمل المبكر. لم تحسم الدراسة ما إذا كان التوقيت سبب الفقد. والنتيجة الإيجابية المتأخرة في المنزل لا تدل على أنك ضمن تلك المجموعة."
+          },
+          {
+            "q": "هل يمكنني معرفة سبب تأخر الالتصاق؟",
+            "a": "في معظم الدورات العادية لا يمكنك أصلًا الجزم بتأخر الالتصاق. لا تميّز الأعراض أو التبقيع أو التقويم بين تأخر الإباضة وتفسيرات أخرى. إذا تكرّر فقد الحمل فناقشي مع طبيبك تاريخك الصحي وما إذا كان إجراء تقييم يفيدك."
+          },
+          {
+            "q": "هل يمكنني تقديم موعد الانغراس؟",
+            "a": "لا توجد طريقة منزلية مثبتة لاختيار يوم الانغراس أو تقديمه. إذا كنت تتلقين علاجًا للخصوبة فواصلي الخطة الموصوفة واسألي عيادتك قبل تغيير أي دواء بسبب تبقيع أو نتيجة اختبار منزلي."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "ميّزي بين تقدير يوم الإباضة والقياس المخبري اليومي للهرمون وتاريخ الاختبار المنزلي.",
+            "اسألي عن المتابعة اللازمة إذا لم يحسم التصوير أو تحليل الدم المبكر الأمر.",
+            "اطلبي تقييمًا عاجلًا عند النزف الغزير أو الألم الشديد أو الدوار أو الإغماء."
+          ],
+          "bemama": "تقترح بي ماما أن تحضري إلى الموعد التواريخ والنتائج المتاحة فعلًا، فهي أنفع لرعايتك من محاولة حساب يوم الانغراس بأثر رجعي.",
+          "safety": "عند احتمال الحمل، يستدعي النزف الغزير أو الألم الشديد في البطن أو ألم طرف الكتف أو الدوار أو الإغماء تقييمًا طارئًا يشمل التحقق من احتمال الحمل خارج الرحم.",
+          "sources": [
+            {
+              "organization": "ويلكوكس وبيرد وواينبرغ",
+              "title": "توقيت الانغراس وفقد الحمل المبكر",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10362823/"
+            },
+            {
+              "organization": "هيئة الخدمات الصحية الوطنية البريطانية",
+              "title": "متى وكيف يجرى اختبار الحمل",
+              "url": "https://www.nhs.uk/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/"
+            },
+            {
+              "organization": "الكلية الملكية لأطباء النساء والتوليد",
+              "title": "النزف أو الألم في بداية الحمل",
+              "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/bleeding-andor-pain-in-early-pregnancy/"
+            },
+            {
+              "organization": "هيئة الإخصاب البشري وعلم الأجنة البريطانية",
+              "title": "اختبار الحمل بعد الإخصاب في المختبر",
+              "url": "https://www.hfea.gov.uk/treatments/explore-all-treatments/in-vitro-fertilisation-ivf/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Une nidation tardive annonce-t-elle une fausse couche ?",
+        "description": "Un test positif tardif ne date pas la nidation. Découvrez ce qu’une étude sur les pertes précoces a mesuré et quand consulter pour une douleur ou un saignement.",
+        "intro": "Imaginez un test de grossesse négatif lundi, puis positif jeudi. Vous vous demandez peut-être si l’embryon s’est fixé tard et ce que cela implique pour la grossesse. Ces résultats indiquent quand le test utilisé a pu détecter l’hormone. Ils ne permettent ni de dater le début de la fixation ni de prévoir l’issue de la grossesse.",
+        "sections": [
+          {
+            "heading": "Ce que les chercheurs appellent le jour de la nidation",
+            "paragraphs": [
+              "Après l’ovulation, l’ovule peut être fécondé. L’embryon se développe dans les jours qui suivent et, dans une grossesse intra-utérine, se fixe à la muqueuse de l’utérus. L’hormone chorionique gonadotrope humaine (hCG) devient détectable à mesure que son taux augmente. Pour étudier ces premiers jours, les chercheurs ont besoin d’un repère mesurable, car ils ne peuvent pas observer la fixation directement au cours d’un cycle ordinaire.",
+              "Dans une étude de Wilcox et de ses collègues, les participantes qui essayaient de concevoir recueillaient leurs urines chaque jour. Les chercheurs ont estimé la date de l’ovulation à partir de dosages hormonaux. Ils ont pris la première détection de l’hCG par une méthode de laboratoire très sensible comme marqueur de la nidation. Une date affichée par une application de suivi des règles ou un trait sur un test à domicile correspond à une autre mesure."
+            ]
+          },
+          {
+            "heading": "Comment interpréter les résultats sur les pertes précoces",
+            "paragraphs": [
+              "Parmi les grossesses de l’étude qui se sont poursuivies pendant au moins six semaines à compter des dernières règles, l’hCG a été détectée pour la première fois six à douze jours après l’ovulation. Pour 84 % de ce groupe, c’était le huitième, neuvième ou dixième jour. Les chercheurs ont aussi enregistré des pertes si précoces qu’en l’absence d’analyses quotidiennes, la personne aurait pu ignorer qu’elle était enceinte.",
+              "Dans cette étude, une première détection plus tardive était associée à une proportion plus élevée de pertes précoces. Les résultats ne démontrent pas qu’avancer la fixation empêcherait une perte et n’expliquent pas pourquoi une grossesse donnée s’est arrêtée. Les pourcentages décrivent des groupes définis par des mesures en laboratoire. Les appliquer à une estimation sur un calendrier ou à votre premier test positif à domicile serait trompeur."
+            ]
+          },
+          {
+            "heading": "Si le test devient positif à une date inattendue",
+            "paragraphs": [
+              "L’ovulation peut survenir avant ou après la date prévue par le calendrier. Le jour où vous avez fait le test et sa sensibilité comptent aussi. Un trait pâle, un changement dans l’intensité du trait ou de légères pertes de sang ne permettent pas de dater la nidation. En cas de doute sur la lecture, vérifiez le délai et les consignes d’interprétation dans la notice de votre test.",
+              "Pour un test habituel, le service de santé britannique conseille de le faire à partir du premier jour de retard des règles. Si vous ignorez la date prévue, faites-le au moins 21 jours après le dernier rapport sexuel non protégé. Si le résultat est négatif et que le test vous semble trop précoce, recommencez quelques jours plus tard. Consultez si vos règles ne sont toujours pas revenues après un deuxième test négatif. Après un traitement de fertilité, suivez la date donnée par votre centre."
+            ]
+          },
+          {
+            "heading": "Quand les symptômes justifient un examen",
+            "paragraphs": [
+              "Si le résultat est positif, indiquez à l’équipe soignante le premier jour de vos dernières règles, le rythme habituel de vos cycles et les dates des tests. En cas de douleur ou de saignement pendant une grossesse possible ou confirmée, contactez un professionnel de santé. Selon les symptômes et le terme estimé, il pourra proposer une échographie ou des dosages successifs de l’hCG dans le sang. Une échographie très précoce peut ne pas permettre de conclure. Demandez quel suivi est prévu.",
+              "Des saignements abondants, une douleur abdominale intense, une douleur à la pointe de l’épaule, des vertiges ou un évanouissement nécessitent une évaluation en urgence. Une grossesse extra-utérine fait partie des causes possibles. Demandez de l’aide même si vous ignorez si vous êtes enceinte. Une date supposée de nidation ne justifie pas d’attendre avec ces symptômes."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Un test de grossesse à domicile ne révèle pas le jour de la nidation.",
+          "L’association observée avec les pertes précoces concerne des groupes de recherche. Un calendrier ne permet pas d’en déduire un risque individuel.",
+          "Lorsqu’une grossesse est possible, une douleur ou un saignement mérite une évaluation qui tient compte des symptômes eux-mêmes."
+        ],
+        "faq": [
+          {
+            "q": "Combien de temps après la fécondation la nidation a-t-elle lieu ?",
+            "a": "La fixation se déroule au fil des jours qui suivent la fécondation. Une étude souvent citée comptait les jours à partir de l’ovulation estimée et utilisait la première détection de l’hCG urinaire en laboratoire comme repère. Elle n’observait directement ni la fécondation ni le moment de la fixation."
+          },
+          {
+            "q": "Une nidation tardive peut-elle provoquer une fausse couche ?",
+            "a": "Dans un groupe suivi de près, une première détection plus tardive de l’hCG était liée à une proportion plus élevée de pertes précoces. L’étude n’a pas déterminé si le moment en était la cause. Un test positif tardif chez soi ne permet pas de classer une grossesse dans ce groupe."
+          },
+          {
+            "q": "Puis-je savoir pourquoi l’embryon s’est fixé tard ?",
+            "a": "Au cours de la plupart des cycles ordinaires, on ne sait même pas si la fixation a été tardive. Les symptômes, de légers saignements et le calendrier ne permettent pas de distinguer une ovulation plus tardive d’autres explications. En cas de pertes répétées, parlez de vos antécédents à votre soignant et demandez si un bilan serait utile."
+          },
+          {
+            "q": "Puis-je avancer le jour de la nidation ?",
+            "a": "Aucune méthode à domicile n’a fait ses preuves pour choisir ou avancer le jour de la nidation. Si vous suivez un traitement de fertilité, poursuivez le protocole prescrit et demandez conseil au centre avant de changer un médicament à cause d’un saignement ou d’un test à domicile."
+          }
+        ],
+        "evidence": {
+          "updated": "Données revues le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Distinguez la date estimée de l’ovulation, les dosages quotidiens de l’hCG en laboratoire et la date du test à domicile.",
+            "Demandez quel suivi prévoir si une échographie ou une prise de sang précoce ne permet pas de conclure.",
+            "Faites-vous examiner en urgence en cas de saignements abondants, de douleur intense, de vertiges ou d’évanouissement."
+          ],
+          "bemama": "BeMama conseille d’apporter à la consultation les dates et résultats dont vous disposez. Ces renseignements sont plus utiles pour vos soins qu’un calcul rétrospectif du jour de la nidation.",
+          "safety": "Lorsqu’une grossesse est possible, des saignements abondants, une forte douleur abdominale, une douleur à la pointe de l’épaule, des vertiges ou un évanouissement nécessitent une évaluation urgente, notamment pour rechercher une grossesse extra-utérine.",
+          "sources": [
+            {
+              "organization": "Wilcox, Baird et Weinberg",
+              "title": "Date de la nidation et perte précoce de grossesse",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10362823/"
+            },
+            {
+              "organization": "Service national de santé britannique",
+              "title": "Quand et comment faire un test de grossesse",
+              "url": "https://www.nhs.uk/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/"
+            },
+            {
+              "organization": "Collège royal britannique des obstétriciens et gynécologues",
+              "title": "Douleur ou saignement en début de grossesse",
+              "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/bleeding-andor-pain-in-early-pregnancy/"
+            },
+            {
+              "organization": "Autorité britannique de la fécondation humaine et de l’embryologie",
+              "title": "Test de grossesse après une fécondation in vitro",
+              "url": "https://www.hfea.gov.uk/treatments/explore-all-treatments/in-vitro-fertilisation-ivf/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Geç yerleşme erken gebelik kaybı olacağı anlamına mı gelir?",
+        "description": "Gebelik testinin geç pozitif çıkması yerleşme gününü göstermez. Erken kayıp çalışmasının bulgularını ve ağrı ya da kanamada ne zaman yardım alacağınızı öğrenin.",
+        "intro": "Pazartesi günü gebelik testinizin negatif, perşembe günü ise pozitif çıktığını düşünün. Embriyonun geç yerleşip yerleşmediğini ve bunun gebeliğiniz için ne anlama geldiğini merak edebilirsiniz. Bu sonuçlar, kullandığınız testin hormonu hangi gün saptayabildiğini gösterir. Tutunmanın ne zaman başladığını veya gebeliğin nasıl sonuçlanacağını söylemez.",
+        "sections": [
+          {
+            "heading": "Araştırmacılar yerleşme günü derken neyi kastediyor?",
+            "paragraphs": [
+              "Yumurtlamadan sonra yumurta döllenebilir. Sonraki günlerde embriyo gelişir ve rahim içindeki bir gebelikte rahmin iç tabakasına tutunur. İnsan koryonik gonadotropini (hCG) adlı hormon, düzeyi yükseldikçe saptanabilir hale gelir. Olağan bir adet döngüsünde tutunmayı doğrudan izleyemedikleri için, ilk günleri inceleyen araştırmacıların ölçülebilir bir işarete ihtiyacı vardır.",
+              "Wilcox ve arkadaşlarının araştırmasında, gebe kalmaya çalışan katılımcılar her gün idrar örneği verdi. Araştırmacılar hormon ölçümlerinden yumurtlama gününü tahmin etti. Hassas bir laboratuvar testinde hCG’nin ilk saptandığı günü yerleşmenin göstergesi olarak kullandılar. Adet takip uygulamasındaki tarih veya evdeki testte beliren çizgi farklı bir ölçümdür."
+            ]
+          },
+          {
+            "heading": "Erken kayıpla ilgili bulgular nasıl okunmalı?",
+            "paragraphs": [
+              "Çalışmada son adet tarihinden itibaren en az altı hafta süren gebeliklerde hCG, yumurtlamadan altı ila on iki gün sonra ilk kez saptandı. Bu grubun yüzde 84’ünde ilk saptama sekizinci, dokuzuncu veya onuncu gündeydi. Araştırmacılar, günlük laboratuvar ölçümleri yapılmasa kişinin gebelikten hiç haberi olmadan gerçekleşebilecek çok erken kayıpları da kaydetti.",
+              "Çalışmada hormonun ilk kez daha geç saptanmasıyla erken gebelik kayıplarının oranı arasında ilişki görüldü. Çalışma, tutunma tarihini öne çekmenin kaybı önleyeceğini göstermedi. Herhangi bir katılımcının gebeliğinin neden sonlandığını da açıklayamadı. Yüzdeler laboratuvar bulgularına göre oluşturulan gruplara aittir. Bunları bir takvim tahminine veya evdeki ilk pozitif testinize uygulamak yanıltıcı olur."
+            ]
+          },
+          {
+            "heading": "Test beklemediğiniz bir günde pozitif çıkarsa",
+            "paragraphs": [
+              "Yumurtlama, takvim tahmininden önce veya sonra gerçekleşebilir. Testi hangi gün yaptığınız ve testin hassasiyeti de sonucu etkiler. Silik bir çizgi, çizginin koyuluğundaki değişim veya hafif lekelenme yerleşme gününü belirlemez. Sonucu okumakta zorlanıyorsanız kullandığınız testin sonuç okuma süresine ve yorumlama talimatlarına bakın.",
+              "Birleşik Krallık Ulusal Sağlık Hizmeti, rutin test için adetin geciktiği ilk günden itibaren test yapılmasını önerir. Adetin ne zaman başlaması gerektiğini bilmiyorsanız son korunmasız cinsel ilişkiden en az 21 gün sonra test yapın. Sonuç negatif ama testi erken yaptığınızı düşünüyorsanız birkaç gün sonra tekrarlayın. İkinci negatif testten sonra da adetiniz başlamazsa hekiminize bildirin. Doğurganlık tedavisinden sonra kliniğinizin verdiği test tarihini izleyin."
+            ]
+          },
+          {
+            "heading": "Hangi durumda tıbbi değerlendirme gerekir?",
+            "paragraphs": [
+              "Test pozitifse son adetinizin ilk gününü, olağan döngü düzeninizi ve testi yaptığınız günleri sağlık ekibinizle paylaşın. Gebelik varsa ya da mümkünse ve kanama veya ağrı yaşıyorsanız bir sağlık uzmanına başvurun. Belirtilerinize ve tahmini gebelik haftasına göre ultrason veya aralıklı kan hCG ölçümleri planlanabilir. Çok erken ultrason kesin bilgi vermeyebilir. Takibin nasıl yapılacağını sorun.",
+              "Yoğun kanama, şiddetli karın ağrısı, omuz ucunda ağrı, baş dönmesi veya bayılma acil değerlendirme gerektirir. Olası nedenlerden biri dış gebeliktir. Gebe olup olmadığınızdan emin olmasanız da yardım alın. Tahmini bir yerleşme tarihine dayanarak bu belirtilerle beklemek güvenli değildir."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Evde yapılan gebelik testi yerleşme gününü göstermez.",
+          "Erken kayıpla gözlenen ilişki araştırmadaki gruplar için geçerlidir. Takvim tarihlerinden kişisel risk hesaplanamaz.",
+          "Gebelik olasılığı varken ağrı veya kanama, belirtilerin kendisine göre değerlendirilmelidir."
+        ],
+        "faq": [
+          {
+            "q": "Yerleşme döllenmeden ne kadar sonra olur?",
+            "a": "Tutunma döllenmeyi izleyen günler içinde gerçekleşir. Sık atıf yapılan bir çalışmada süre tahmini yumurtlamadan itibaren sayıldı ve idrarda hCG’nin laboratuvarda ilk kez saptanması gösterge olarak kullanıldı. Döllenme veya tutunma anı doğrudan gözlenmedi."
+          },
+          {
+            "q": "Geç yerleşme düşüğe neden olabilir mi?",
+            "a": "Yakından izlenen bir grupta hCG’nin ilk kez daha geç saptanması, erken kayıpların daha yüksek oranda görülmesiyle ilişkiliydi. Çalışma, zamanlamanın kayba neden olup olmadığını belirleyemedi. Evde geç alınan bir pozitif sonuç gebeliğin o gruba ait olduğunu göstermez."
+          },
+          {
+            "q": "Tutunmanın neden geç gerçekleştiğini anlayabilir miyim?",
+            "a": "Çoğu olağan döngüde tutunmanın geç gerçekleştiğini bile bilemezsiniz. Belirtiler, lekelenme veya takvim, geç yumurtlamayı başka açıklamalardan ayırmaya yetmez. Tekrarlayan gebelik kayıpları yaşadıysanız geçmişinizi ve değerlendirmenin yararlı olup olmayacağını hekiminizle konuşun."
+          },
+          {
+            "q": "Yerleşmeyi öne çekmek için bir şey yapabilir miyim?",
+            "a": "Yerleşme gününü seçmeye veya öne çekmeye yarayan, evde uygulanabilecek kanıtlanmış bir yöntem yoktur. Doğurganlık tedavisi görüyorsanız kliniğinizin önerdiği plana devam edin. Lekelenme veya evde yaptığınız testin sonucu nedeniyle ilaçlarınızı değiştirmeden önce kliniğe danışın."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Tahmini yumurtlama gününü, günlük laboratuvar hCG ölçümlerini ve evde yapılan testin gününü birbirinden ayırın.",
+            "Erken ultrason veya kan testi kesin sonuç vermezse nasıl bir takip gerektiğini sorun.",
+            "Yoğun kanama, şiddetli ağrı, baş dönmesi veya bayılma varsa acil değerlendirme isteyin."
+          ],
+          "bemama": "BeMama, elinizdeki gerçek tarih ve sonuçları görüşmeye götürmenizi önerir. Bu kayıt bakım planı için geriye dönük yerleşme günü hesabından daha yararlıdır.",
+          "safety": "Gebelik olasılığında yoğun kanama, şiddetli karın ağrısı, omuz ucunda ağrı, baş dönmesi veya bayılma, dış gebelik olasılığı da dahil olmak üzere acil değerlendirme gerektirir.",
+          "sources": [
+            {
+              "organization": "Wilcox, Baird ve Weinberg",
+              "title": "Yerleşmenin zamanlaması ve erken gebelik kaybı",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10362823/"
+            },
+            {
+              "organization": "Birleşik Krallık Ulusal Sağlık Hizmeti",
+              "title": "Gebelik testi ne zaman ve nasıl yapılır?",
+              "url": "https://www.nhs.uk/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/"
+            },
+            {
+              "organization": "Birleşik Krallık Kraliyet Kadın Hastalıkları ve Doğum Uzmanları Koleji",
+              "title": "Erken gebelikte kanama veya ağrı",
+              "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/bleeding-andor-pain-in-early-pregnancy/"
+            },
+            {
+              "organization": "Birleşik Krallık İnsan Döllenmesi ve Embriyoloji Kurumu",
+              "title": "Tüp bebek tedavisinden sonra gebelik testi",
+              "url": "https://www.hfea.gov.uk/treatments/explore-all-treatments/in-vitro-fertilisation-ivf/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "¿Una implantación tardía anuncia la pérdida del embarazo?",
+        "description": "Un positivo tardío no indica cuándo se implantó el embrión. Descubre qué midió un estudio sobre la pérdida temprana y cuándo consultar por dolor o sangrado.",
+        "intro": "Imagina que una prueba de embarazo da negativo el lunes y positivo el jueves. Quizá te preguntes si el embrión se adhirió tarde y qué implica eso para el embarazo. Los resultados indican cuándo la prueba que utilizaste pudo detectar la hormona. No permiten fechar el inicio de la adhesión ni predecir cómo evolucionará el embarazo.",
+        "sections": [
+          {
+            "heading": "Qué entienden los investigadores por día de implantación",
+            "paragraphs": [
+              "Tras la ovulación, el óvulo puede ser fecundado. Durante los días siguientes, el embrión se desarrolla y, en un embarazo intrauterino, se adhiere al revestimiento del útero. Cuando la concentración de gonadotropina coriónica humana (hCG) aumenta lo suficiente, la hormona se puede detectar. Para estudiar esos primeros días hace falta una señal medible, porque en un ciclo normal no es posible observar directamente la adhesión.",
+              "En un estudio de Wilcox y sus colaboradores, las participantes que intentaban concebir recogieron orina a diario. Los investigadores estimaron la ovulación a partir de mediciones hormonales. Usaron como indicador de implantación la primera detección de hCG mediante un análisis de laboratorio de alta sensibilidad. Una fecha calculada por una aplicación o una línea en una prueba casera son mediciones distintas."
+            ]
+          },
+          {
+            "heading": "Cómo interpretar los datos sobre la pérdida temprana",
+            "paragraphs": [
+              "En los embarazos del estudio que duraron al menos seis semanas contadas desde la última menstruación, la primera detección de hCG ocurrió entre seis y doce días después de la ovulación. En el 84 % de ese grupo sucedió el octavo, noveno o décimo día. Los investigadores también registraron pérdidas tan tempranas que, sin análisis diarios, quizá la persona nunca hubiera sabido que estaba embarazada.",
+              "En el estudio, cuanto más tardía fue la primera detección, mayor fue la proporción de pérdidas tempranas. El estudio no demostró que adelantar la adhesión evitara una pérdida ni permitió explicar por qué terminó un embarazo concreto. Los porcentajes describen grupos definidos por resultados de laboratorio. Aplicarlos a un cálculo del calendario o a tu primer positivo en casa daría una impresión equivocada."
+            ]
+          },
+          {
+            "heading": "Qué hacer cuando la fecha del positivo sorprende",
+            "paragraphs": [
+              "La ovulación puede ocurrir antes o después de lo previsto por el calendario. También importan el día elegido para hacer la prueba y su sensibilidad. Una línea tenue, un cambio en la intensidad de la línea o un ligero manchado no identifican el día de implantación. Si te cuesta leer el resultado, consulta en las instrucciones de esa prueba dentro de qué plazo leerlo y cómo interpretarlo.",
+              "Para una prueba de rutina, el servicio británico de salud aconseja hacerla a partir del primer día de retraso menstrual. Si no sabes cuándo debería venirte la regla, espera al menos 21 días desde la última relación sexual sin protección. Si el resultado es negativo y crees que era demasiado pronto, repite la prueba unos días después. Consulta si la regla sigue sin venir tras un segundo negativo. Después de un tratamiento de fertilidad, sigue la fecha que te indique tu clínica."
+            ]
+          },
+          {
+            "heading": "Cuándo dar prioridad a una valoración médica",
+            "paragraphs": [
+              "Si el resultado es positivo, comunica al equipo de salud el primer día de tu última menstruación, cómo suelen ser tus ciclos y cuándo te hiciste las pruebas. Si hay dolor o sangrado y estás o podrías estar embarazada, consulta con un profesional sanitario. Según los síntomas y el tiempo de gestación estimado, puede indicar una ecografía o mediciones sucesivas de hCG en sangre. Una ecografía muy temprana puede ser inconcluyente. Pregunta cómo será el seguimiento.",
+              "Un sangrado abundante, dolor abdominal intenso, dolor en la punta del hombro, mareo o desmayo requieren atención de urgencias. Un embarazo ectópico es una posible causa. Busca ayuda aunque no estés segura de estar embarazada. Un cálculo sobre el día de implantación no justifica esperar ante esos síntomas."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Una prueba de embarazo en casa no revela el día de implantación.",
+          "La asociación observada con la pérdida temprana describe grupos de investigación. Las fechas de un calendario no permiten calcular un riesgo individual.",
+          "El dolor o el sangrado ante un posible embarazo merecen una valoración en función de los síntomas."
+        ],
+        "faq": [
+          {
+            "q": "¿Cuánto tiempo después de la fecundación ocurre la implantación?",
+            "a": "La adhesión se desarrolla a lo largo de varios días después de la fecundación. Un estudio citado con frecuencia contó el tiempo desde la ovulación estimada y tomó como indicador la primera detección de hCG en orina en el laboratorio. No observó directamente el momento de la adhesión ni el de la fecundación."
+          },
+          {
+            "q": "¿Puede la implantación tardía causar un aborto espontáneo?",
+            "a": "En un grupo seguido de cerca, una primera detección más tardía de hCG se asoció con una mayor proporción de pérdidas tempranas. El estudio no pudo determinar si el momento causó la pérdida. Un positivo tardío en casa no permite situar un embarazo en ese grupo."
+          },
+          {
+            "q": "¿Puedo saber por qué la adhesión se produjo tarde?",
+            "a": "En la mayoría de los ciclos no puedes saber siquiera si fue tardía. Los síntomas, el manchado y el calendario no permiten distinguir una ovulación más tardía de otras explicaciones. Si has tenido pérdidas repetidas, comenta tu historia clínica y la conveniencia de una evaluación con el profesional que te atiende."
+          },
+          {
+            "q": "¿Puedo hacer algo para adelantar la implantación?",
+            "a": "No hay un método casero demostrado para elegir o adelantar el día de implantación. Si recibes tratamiento de fertilidad, mantén el plan prescrito y consulta a tu clínica antes de cambiar la medicación por un manchado o por el resultado de una prueba casera."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Distingue la ovulación estimada, la detección diaria de hCG en laboratorio y la fecha de una prueba casera.",
+            "Pregunta qué seguimiento necesitas si la primera ecografía o el análisis de sangre no son concluyentes.",
+            "Acude a urgencias si tienes sangrado abundante, dolor intenso, mareo o desmayo."
+          ],
+          "bemama": "BeMama sugiere llevar a la consulta las fechas y los resultados de los que sí dispones. Ese registro ayuda más a orientar la atención que intentar calcular después cuándo se implantó el embrión.",
+          "safety": "El sangrado abundante, el dolor abdominal intenso, el dolor en la punta del hombro, el mareo o el desmayo ante un posible embarazo requieren valoración de urgencias, también para descartar un embarazo ectópico.",
+          "sources": [
+            {
+              "organization": "Wilcox, Baird y Weinberg",
+              "title": "Momento de la implantación y pérdida temprana del embarazo",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10362823/"
+            },
+            {
+              "organization": "Servicio Nacional de Salud del Reino Unido",
+              "title": "Cuándo y cómo hacerse una prueba de embarazo",
+              "url": "https://www.nhs.uk/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/"
+            },
+            {
+              "organization": "Real Colegio de Obstetras y Ginecólogos del Reino Unido",
+              "title": "Sangrado o dolor al comienzo del embarazo",
+              "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/bleeding-andor-pain-in-early-pregnancy/"
+            },
+            {
+              "organization": "Autoridad británica de Fecundación Humana y Embriología",
+              "title": "Pruebas de embarazo tras la fecundación in vitro",
+              "url": "https://www.hfea.gov.uk/treatments/explore-all-treatments/in-vitro-fertilisation-ivf/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Implantação tardia significa que a gravidez será perdida?",
+        "description": "Um teste positivo tardio não revela o dia da implantação. Entenda a pesquisa sobre perda gestacional precoce e quando buscar ajuda por dor ou sangramento.",
+        "intro": "Imagine um teste de gravidez negativo na segunda-feira e outro positivo na quinta. Talvez você se pergunte se o embrião se fixou tarde e o que isso significa para a gravidez. Os resultados mostram em que dia o teste que você usou conseguiu detectar o hormônio. Eles não revelam quando a fixação começou nem permitem prever o desfecho da gravidez.",
+        "sections": [
+          {
+            "heading": "O que os pesquisadores chamam de dia da implantação",
+            "paragraphs": [
+              "Após a ovulação, o óvulo pode ser fecundado. Nos dias seguintes, o embrião se desenvolve e, em uma gravidez dentro do útero, adere ao revestimento uterino. À medida que o nível da gonadotrofina coriônica humana (hCG) sobe, o hormônio pode ser detectado. Para estudar esses primeiros dias, os pesquisadores precisam de um sinal mensurável, pois não conseguem observar diretamente a fixação em um ciclo menstrual comum.",
+              "Em um estudo de Wilcox e colegas, as participantes que tentavam engravidar coletaram urina todos os dias. Os pesquisadores estimaram o dia da ovulação por meio de dosagens hormonais. Usaram a primeira detecção do hCG em uma análise laboratorial sensível como marcador de implantação. A data que aparece em um aplicativo de ciclo menstrual ou a linha de um teste de farmácia é uma medida diferente."
+            ]
+          },
+          {
+            "heading": "Como interpretar os dados sobre perda precoce",
+            "paragraphs": [
+              "Entre as gestações do estudo que duraram pelo menos seis semanas contadas a partir da última menstruação, a primeira detecção de hCG ocorreu de seis a doze dias depois da ovulação. Em 84% desse grupo, ocorreu no oitavo, nono ou décimo dia. Os pesquisadores também registraram perdas tão precoces que, sem as análises diárias, a pessoa talvez nem soubesse que esteve grávida.",
+              "No estudo, a primeira detecção mais tardia esteve associada a uma proporção maior de perdas precoces. O estudo não demonstrou que antecipar a fixação evitaria uma perda, nem explicou por que uma gestação específica terminou. Os percentuais descrevem grupos definidos com base em exames laboratoriais. Aplicá-los a uma data estimada pelo calendário ou ao primeiro teste positivo em casa pode induzir a erro."
+            ]
+          },
+          {
+            "heading": "O que fazer se a data do teste causar surpresa",
+            "paragraphs": [
+              "A ovulação pode ocorrer antes ou depois da previsão do calendário. O dia que você escolheu para testar e a sensibilidade do teste também influenciam o resultado. Uma linha fraca, uma mudança na intensidade da linha ou um pequeno sangramento não revelam o dia da implantação. Se for difícil interpretar o resultado, consulte na bula daquele teste o prazo para leitura e o significado do que aparece.",
+              "Para o teste de rotina, o serviço de saúde britânico recomenda fazê-lo a partir do primeiro dia de atraso menstrual. Se você não sabe quando a menstruação deveria vir, faça o teste pelo menos 21 dias após a última relação sexual sem proteção. Se o resultado for negativo e você achar que testou cedo demais, repita depois de alguns dias. Procure orientação se a menstruação não vier após um segundo teste negativo. Após tratamento de fertilidade, siga a data indicada pela clínica."
+            ]
+          },
+          {
+            "heading": "Quando os sintomas precisam de avaliação",
+            "paragraphs": [
+              "Se o teste for positivo, informe à equipe de saúde o primeiro dia da última menstruação, como costumam ser seus ciclos e as datas dos testes. Se houver dor ou sangramento em uma gravidez possível ou confirmada, entre em contato com um profissional de saúde. Dependendo dos sintomas e do tempo estimado de gestação, a equipe pode pedir ultrassom ou dosagens sucessivas de hCG no sangue. Um ultrassom muito precoce pode ser inconclusivo. Pergunte como será o acompanhamento.",
+              "Sangramento intenso, dor abdominal forte, dor na ponta do ombro, tontura ou desmaio exigem avaliação de emergência. Uma gravidez ectópica é uma das causas possíveis. Busque ajuda mesmo que não tenha certeza de estar grávida. Uma estimativa da data da implantação não torna seguro esperar diante desses sintomas."
+            ]
+          }
+        ],
+        "takeaways": [
+          "O teste de gravidez feito em casa não revela o dia da implantação.",
+          "A associação observada com perda precoce descreve grupos estudados. As datas de um calendário não permitem calcular a probabilidade individual.",
+          "Dor ou sangramento em uma possível gravidez merecem avaliação com base nos próprios sintomas."
+        ],
+        "faq": [
+          {
+            "q": "Quanto tempo depois da fecundação ocorre a implantação?",
+            "a": "A fixação acontece ao longo dos dias seguintes à fecundação. Um estudo citado com frequência contou a partir da ovulação estimada e usou a primeira detecção laboratorial de hCG na urina como marcador. Não observou diretamente o momento da fixação nem da fecundação."
+          },
+          {
+            "q": "A implantação tardia pode causar aborto espontâneo?",
+            "a": "Em um grupo acompanhado de perto, a primeira detecção mais tardia do hCG esteve associada a uma proporção maior de perdas precoces. O estudo não esclareceu se o momento da detecção era a causa da perda. Um teste positivo tardio em casa não permite dizer se uma gestação faria parte daquele grupo."
+          },
+          {
+            "q": "Posso saber por que a fixação aconteceu tarde?",
+            "a": "Na maioria dos ciclos comuns, nem sequer é possível saber se a fixação foi tardia. Sintomas, pequenos sangramentos e o calendário não distinguem ovulação mais tardia de outras explicações. Se você já teve perdas repetidas, converse com o profissional de saúde sobre seu histórico e a utilidade de uma investigação."
+          },
+          {
+            "q": "Há algo que eu possa fazer para antecipar a implantação?",
+            "a": "Não existe método caseiro comprovado para escolher ou antecipar o dia da implantação. Se estiver em tratamento de fertilidade, mantenha o plano prescrito e consulte a clínica antes de mudar medicamentos por causa de sangramento ou de um teste caseiro."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Diferencie a data estimada da ovulação, os exames laboratoriais diários de hCG e a data do teste feito em casa.",
+            "Pergunte qual acompanhamento é necessário se o ultrassom ou exame de sangue inicial for inconclusivo.",
+            "Procure atendimento de emergência em caso de sangramento intenso, dor forte, tontura ou desmaio."
+          ],
+          "bemama": "A BeMama sugere levar à consulta as datas e os resultados de que você dispõe. Esse registro é mais útil para o cuidado do que tentar calcular o dia da implantação depois do fato.",
+          "safety": "Em uma possível gravidez, sangramento intenso, dor abdominal forte, dor na ponta do ombro, tontura ou desmaio exigem avaliação de emergência, inclusive para investigar gravidez ectópica.",
+          "sources": [
+            {
+              "organization": "Wilcox, Baird e Weinberg",
+              "title": "Momento da implantação e perda gestacional precoce",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/10362823/"
+            },
+            {
+              "organization": "Serviço Nacional de Saúde do Reino Unido",
+              "title": "Quando e como fazer um teste de gravidez",
+              "url": "https://www.nhs.uk/pregnancy/trying-for-a-baby/doing-a-pregnancy-test/"
+            },
+            {
+              "organization": "Colégio Real de Obstetras e Ginecologistas do Reino Unido",
+              "title": "Sangramento ou dor no início da gravidez",
+              "url": "https://www.rcog.org.uk/for-the-public/browse-our-patient-information/bleeding-andor-pain-in-early-pregnancy/"
+            },
+            {
+              "organization": "Autoridade Britânica de Fertilização Humana e Embriologia",
+              "title": "Teste de gravidez após fertilização in vitro",
+              "url": "https://www.hfea.gov.uk/treatments/explore-all-treatments/in-vitro-fertilisation-ivf/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5978.webp",
+    "heroAlt": {
+      "en": "A home pregnancy test and a second, wrapped test beside a blank calendar.",
+      "fa": "یک تست بارداری خانگی و یک تست بسته‌بندی‌شده کنار تقویمی خالی.",
+      "ar": "اختبار حمل منزلي وآخر مغلّف بجوار تقويم فارغ.",
+      "fr": "Un test de grossesse et un second encore emballé près d’un calendrier vierge.",
+      "tr": "Boş bir takvimin yanında bir ev tipi gebelik testi ve ambalajında ikinci bir test.",
+      "es": "Una prueba de embarazo casera y otra aún envuelta junto a un calendario en blanco.",
+      "pt": "Um teste de gravidez de farmácia e outro ainda na embalagem ao lado de um calendário em branco."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "Does late implantation mean an early pregnancy will be lost?",
+      "description": "A late positive test cannot tell you when implantation happened. Learn what a study on early loss measured and when pain or bleeding needs assessment."
+    },
+    "fa": {
+      "title": "آیا لانه‌گزینی دیرهنگام به معنی از دست رفتن بارداری است؟",
+      "description": "دیر مثبت شدن تست بارداری روز لانه‌گزینی را نشان نمی‌دهد. ببینید پژوهش درباره پایان زودهنگام بارداری چه سنجیده و چه زمانی درد یا خونریزی نیاز به بررسی دارد."
+    },
+    "ar": {
+      "title": "هل يعني تأخر الانغراس أن الحمل سينتهي مبكرًا؟",
+      "description": "تأخر ظهور نتيجة إيجابية في اختبار الحمل لا يحدّد يوم الانغراس. تعرّفي إلى ما قاسه الباحثون عن فقد الحمل المبكر ومتى يستدعي الألم أو النزف فحصًا."
+    },
+    "fr": {
+      "title": "Une nidation tardive annonce-t-elle une fausse couche ?",
+      "description": "Un test positif tardif ne date pas la nidation. Découvrez ce qu’une étude sur les pertes précoces a mesuré et quand consulter pour une douleur ou un saignement."
+    },
+    "tr": {
+      "title": "Geç yerleşme erken gebelik kaybı olacağı anlamına mı gelir?",
+      "description": "Gebelik testinin geç pozitif çıkması yerleşme gününü göstermez. Erken kayıp çalışmasının bulgularını ve ağrı ya da kanamada ne zaman yardım alacağınızı öğrenin."
+    },
+    "es": {
+      "title": "¿Una implantación tardía anuncia la pérdida del embarazo?",
+      "description": "Un positivo tardío no indica cuándo se implantó el embrión. Descubre qué midió un estudio sobre la pérdida temprana y cuándo consultar por dolor o sangrado."
+    },
+    "pt": {
+      "title": "Implantação tardia significa que a gravidez será perdida?",
+      "description": "Um teste positivo tardio não revela o dia da implantação. Entenda a pesquisa sobre perda gestacional precoce e quando buscar ajuda por dor ou sangramento."
+    }
+  }
+}

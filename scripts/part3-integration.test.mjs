@@ -40,6 +40,40 @@ const rows = [...manifest.articles, ...additions.articles.map(row => {
   return { ...row, seo: wrapper.seo, payloadSha256: hashObject(wrapper.article) };
 })];
 const assets = { ...manifest.assets, ...additions.assets };
+const batchTwo = json('src/articles/part-03-batch2/manifest.json');
+const batchTwoRows = batchTwo.articles.map(row => {
+  const wrapper = json(row.file);
+  return { ...row, seo: wrapper.seo, payloadSha256: hashObject(wrapper.article) };
+});
+const allRows = [...rows, ...batchTwoRows];
+const allAssets = { ...assets, ...batchTwo.assets };
+
+test('second Part 3 batch preserves order and matches the approved wrapper and image hashes', () => {
+  assert.deepEqual(batchTwo.originalPositions, [201, 400]);
+  assert.equal(batchTwo.membershipSha256, 'b57c691289db872ac96f1c7ad4c8eb5b90cd15edf399b37025fa458073147d6d');
+  const positions = batchTwoRows.map(row => row.originalPosition);
+  assert(positions.every((p, i) => p >= 201 && p <= 400 && (i === 0 || positions[i - 1] < p)));
+  assert.equal(new Set(allRows.map(row => row.sourceId)).size, allRows.length);
+  assert.equal(new Set(allRows.map(row => row.slug)).size, allRows.length);
+  const files = fs.readdirSync(path.join(root, 'src/articles/part-03-batch2')).sort();
+  assert.deepEqual(files, ['manifest.json', ...batchTwoRows.map(row => row.sourceId + '.json')].sort());
+  for (const row of batchTwoRows) {
+    assert.equal(row.file, 'src/articles/part-03-batch2/' + row.sourceId + '.json');
+    assert.equal(sha(read(row.file)), row.fileSha256);
+    const wrapper = json(row.file);
+    assert.equal(wrapper.sourceId, row.sourceId);
+    assert.deepEqual(articleBySlug.get(row.slug), wrapper.article);
+    assert.match(row.reviewSha256, /^[a-f0-9]{64}$/);
+  }
+  const expectedAssets = batchTwoRows.flatMap(row => ['', '-160', '-320', '-480', '-720']
+    .map(suffix => 'assets/content/part-03-batch2/' + row.sourceId + suffix + '.webp')).sort();
+  assert.deepEqual(Object.keys(batchTwo.assets).sort(), expectedAssets);
+  for (const folder of ['public', 'dist']) {
+    assert.deepEqual(fs.readdirSync(path.join(root, folder, 'assets/content/part-03-batch2')).sort(),
+      expectedAssets.map(file => path.basename(file)).sort());
+    for (const file of expectedAssets) assert.equal(sha(read(folder + '/' + file)), batchTwo.assets[file]);
+  }
+});
 
 test('release is an explicit unique subset of the immutable Part 3 membership', () => {
   assert.equal(manifest.part, 3);
@@ -93,7 +127,7 @@ test('release is an explicit unique subset of the immutable Part 3 membership', 
 });
 
 test('all 1175 existing article objects and Part 1 snapshot remain unchanged', () => {
-  assert.equal(articles.length, 1175 + rows.length);
+  assert.equal(articles.length, 1175 + allRows.length);
   assert.equal(new Set(articles.map(a => a.slug)).size, articles.length);
   for (const [slug, hash] of Object.entries(manifest.existingArticles))
     assert.equal(sha(JSON.stringify(articleBySlug.get(slug))), hash, `Existing article changed: ${slug}`);
@@ -104,7 +138,7 @@ test('all 1175 existing article objects and Part 1 snapshot remain unchanged', (
 });
 
 test('registered payloads, full languages, evidence and SEO match the reviewed release', () => {
-  for (const row of rows) {
+  for (const row of allRows) {
     const article = articleBySlug.get(row.slug);
     assert(article, row.slug);
     assert.equal(hashObject(article), row.payloadSha256, `Registered payload ${row.slug}`);
@@ -152,7 +186,7 @@ for (const lang of langs) test(`${lang}: every ready article renders its full re
   const feed = read(`dist/rss-${lang}.xml`).toString();
   const search = json(`dist/search-index-${lang}.json`);
   const categoryCache = new Map();
-  for (const row of rows) {
+  for (const row of allRows) {
     const article = articleBySlug.get(row.slug), body = article.i18n[lang];
     const url = route(lang, row.slug), canonical = site.origin + url;
     const html = read(`dist${url}index.html`).toString();
@@ -195,7 +229,7 @@ for (const lang of langs) test(`${lang}: every ready article renders its full re
       const parsed = new URL(assetUrl, site.origin);
       const expectedAsset = '/assets/' + article.hero.replace(/\.webp$/, width === '1440w' ? '.webp' : '-' + width.slice(0, -1) + '.webp');
       assert.equal(parsed.pathname, expectedAsset);
-      assert.equal(parsed.searchParams.get('v'), assets[expectedAsset.slice(1)].slice(0, 16), `Responsive cache hash ${url}`);
+      assert.equal(parsed.searchParams.get('v'), allAssets[expectedAsset.slice(1)].slice(0, 16), `Responsive cache hash ${url}`);
     }
     assert.equal(heroSource.sizes, article.heroResponsive.sizes);
     assert.equal(hero.width, '1440');
@@ -253,7 +287,7 @@ for (const lang of langs) test(`${lang}: every ready article renders its full re
 
 // Local links must target an existing generated route; paused Part 3 drafts cannot leak into release prose.
 test('all internal links in the new rendered article bodies resolve', () => {
-  for (const row of rows) for (const lang of langs) {
+  for (const row of allRows) for (const lang of langs) {
     const html = read(`dist${route(lang, row.slug)}index.html`).toString();
     const content = html.match(/<article class="article">([\s\S]*?)<\/article>/)?.[1];
     assert(content);

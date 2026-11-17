@@ -1,0 +1,611 @@
+{
+  "sourceId": "5799",
+  "article": {
+    "slug": "baby-and-child/when-your-child-picks-their-nose",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "When your child keeps picking their nose",
+        "description": "Help your child manage an itchy or crusty nose, try a quiet alternative to picking, and learn how to stop a nosebleed and when to seek medical care.",
+        "intro": "Your child reaches for the same nostril each evening while listening to a story. Before reminding them to stop, ask what they feel. A dry crust or an itchy nose needs a different response from a hand that wanders whenever the story gets exciting.",
+        "sections": [
+          {
+            "heading": "Start with the itch",
+            "paragraphs": [
+              "Picking is a common childhood habit. Dry indoor air, a cold or nasal allergies can leave the lining itchy or crusted. A fingernail can scratch the front of the nose, where small blood vessels bleed easily. Picking the new scab can start the bleeding again. Repeated picking does not by itself mean a child is anxious.",
+              "Offer a tissue, show your child how to wipe or blow gently, and wash hands afterward. Keep nails short and smooth. A plain saline nasal spray may help loosen dry mucus; choose a product suitable for the child's age. Ask a clinician if itching, congestion or bleeding keeps returning, especially if the same nostril has persistent foul-smelling discharge. Do not probe the nose to look for a trapped object."
+            ]
+          },
+          {
+            "heading": "Make the replacement easier",
+            "paragraphs": [
+              "Agree on a quiet cue your child is comfortable with, such as putting a tissue within reach. Try it in the setting where picking usually happens. During a story, a small age-appropriate toy may give their hands something else to do. Recognise when they remember the tissue. Public scolding can make an ordinary habit embarrassing.",
+              "There is no single ointment that fixes the habit. In a randomized study of 105 children referred for recurrent nosebleeds, petroleum jelly alone did not prevent further bleeding more effectively than observation. The study looked at recurrent bleeds, not whether children stopped picking. Ask a clinician before using medicated sprays or creams inside the nose."
+            ]
+          },
+          {
+            "heading": "If a nosebleed starts",
+            "paragraphs": [
+              "Sit your child upright and leaning slightly forward. Pinch the soft lower part of the nose closed, below the bony bridge, for ten full minutes without checking. Have them breathe through the mouth and spit out blood. If bleeding continues, repeat firm pressure for another ten minutes. Do not tilt the head back or pack the nose with tissue.",
+              "Get urgent medical help if bleeding continues after those two rounds. Seek emergency help sooner for very heavy bleeding, trouble breathing, faintness or a serious head or face injury. Frequent bleeds, easy bruising or bleeding elsewhere warrant a clinician's review. A nosebleed in a child under two should also be discussed with a clinician."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Ask about dryness, crusting and itching before treating picking as misbehaviour.",
+          "Keep tissues handy, nails short and hands clean. Choose a discreet reminder together.",
+          "For a bleed, lean the child forward and press the soft part of the nose without letting go to check."
+        ],
+        "faq": [
+          {
+            "q": "Is nose picking normal in children?",
+            "a": "Yes. A child may be trying to remove dry mucus, soothe an itch or simply keep their hands busy. Ask what they feel, especially if it is always on the same side."
+          },
+          {
+            "q": "Can it do any harm?",
+            "a": "A nail can scratch the lining and start a bleed. Hands can carry germs to the nose and from it to shared objects. Gently wiping with a tissue and washing hands can help."
+          },
+          {
+            "q": "How can we help them stop?",
+            "a": "Address nasal discomfort, keep nails smooth and practise using a tissue. If congestion or bleeding persists, ask whether allergies or another cause need treatment."
+          },
+          {
+            "q": "What can I do in the moment?",
+            "a": "Offer the agreed cue quietly and help the child find a tissue. Give their hands another comfortable activity if they want one. If the nose is bleeding, switch to first aid."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 17, 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Try an age-appropriate plain saline spray when dry mucus is bothersome.",
+            "Use a clock to keep firm pressure on the soft nose for the full ten minutes.",
+            "Tell a clinician about recurring bleeding, other bruising or a persistent one-sided smell or discharge."
+          ],
+          "bemama": "BeMama suggests putting a packet of tissues where your child usually settles to read or watch a programme, then asking which quiet reminder they prefer.",
+          "safety": "Seek urgent care if a nosebleed continues after two ten-minute rounds of firm pressure. Very heavy bleeding, difficulty breathing, faintness or a serious head or facial injury needs emergency help sooner.",
+          "sources": [
+            {
+              "organization": "American Academy of Pediatrics",
+              "title": "How to stop a child's nosebleed",
+              "url": "https://www.healthychildren.org/English/health-issues/injuries-emergencies/Pages/how-to-stop-a-nosebleed.aspx"
+            },
+            {
+              "organization": "Royal Children's Hospital Melbourne",
+              "title": "Nosebleeds in children and home care",
+              "url": "https://www.rch.org.au/kidsinfo/fact_sheets/nosebleeds/"
+            },
+            {
+              "organization": "Loughran and colleagues, Clinical Otolaryngology",
+              "title": "Randomized trial of petroleum jelly for recurrent childhood nosebleeds",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/15142073/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "وقتی کودک مدام انگشتش را در بینی می‌کند",
+        "description": "ببینید برای خارش و خشکی داخل بینی کودک چه می‌توان کرد، چطور یک یادآوری بی‌سروصدا انتخاب کنید و هنگام خون‌دماغ چه زمانی فشار بدهید یا کمک بگیرید.",
+        "intro": "هر شب موقع شنیدن داستان، فرزندتان دستش را به همان سوراخ بینی می‌برد. پیش از آنکه تذکر دهید دستش را بردارد، بپرسید چه حسی دارد. برخورد با پوسته خشک یا خارش با زمانی که کودک از هیجان داستان بی‌اختیار دستش را بالا می‌برد فرق می‌کند.",
+        "sections": [
+          {
+            "heading": "اول سراغ خارش بروید",
+            "paragraphs": [
+              "دست کردن در بینی از عادت‌های رایج کودکی است. هوای خشک خانه، سرماخوردگی یا حساسیت بینی می‌تواند پوشش داخلی را دچار خارش و پوسته‌دار کند. ناخن ممکن است جلوی بینی را که رگ‌های ریز و آسیب‌پذیری دارد بخراشد. کندن دلمه تازه می‌تواند خونریزی را دوباره شروع کند. تکرار این کار به‌تنهایی به معنی اضطراب کودک نیست.",
+              "دستمالی به او بدهید، نشانش دهید چطور آرام بینی‌اش را پاک کند یا فین کند و بعد دست‌ها را بشوید. ناخن‌ها را کوتاه و صاف نگه دارید. اسپری ساده آب‌نمک مناسب سن کودک ممکن است ترشحات خشک را نرم کند. اگر خارش، گرفتگی یا خونریزی تکرار می‌شود، به‌ویژه اگر ترشح بدبو همیشه از یک سمت می‌آید، مشورت کنید. برای یافتن جسم گیرکرده داخل بینی را دستکاری نکنید."
+            ]
+          },
+          {
+            "heading": "رفتار جایگزین را آسان کنید",
+            "paragraphs": [
+              "با کودک روی نشانه‌ای بی‌سروصدا که با آن راحت است توافق کنید، مثل گذاشتن دستمال در دسترس. آن را در همان موقعیتی امتحان کنید که معمولاً دستش به بینی می‌رود. هنگام داستان یک اسباب‌بازی مناسب سن می‌تواند دست‌هایش را مشغول کند. وقتی خودش یادش می‌آید از دستمال استفاده کند، توجه نشان دهید. سرزنش در جمع ممکن است او را از عادتی معمول خجالت‌زده کند.",
+              "پماد خاصی این عادت را برطرف نمی‌کند. در یک پژوهش تصادفی روی ۱۰۵ کودک ارجاع‌شده به‌دلیل خون‌دماغ‌های مکرر، وازلین به‌تنهایی از خونریزی بعدی بهتر از پیگیری بدون درمان جلوگیری نکرد. موضوع پژوهش تکرار خونریزی بود، نه اینکه کودکان دیگر در بینی‌شان دست کنند یا نه. پیش از استفاده از اسپری دارویی یا کرم داخل بینی با پزشک مشورت کنید."
+            ]
+          },
+          {
+            "heading": "اگر بینی خون آمد",
+            "paragraphs": [
+              "کودک را صاف بنشانید و کمی به جلو خم کنید. بخش نرم پایین بینی را زیر پل استخوانی آن فشار دهید تا سوراخ‌ها بسته شوند. ده دقیقه کامل فشار را نگه دارید و برای نگاه کردن رها نکنید. بگذارید از دهان نفس بکشد و خون را تف کند. اگر خونریزی ادامه داشت، ده دقیقه دیگر فشار محکم را تکرار کنید. سر را عقب نبرید و داخل بینی دستمال نچپانید.",
+              "اگر پس از این دو نوبت هنوز خون می‌آید، سریع مراقبت پزشکی بگیرید. برای خونریزی بسیار شدید، مشکل تنفسی، حالت غش یا آسیب جدی به سر یا صورت زودتر از اورژانس کمک بگیرید. خون‌دماغ مکرر، کبود شدن آسان یا خونریزی جای دیگری از بدن باید با پزشک بررسی شود. خون‌دماغ در کودک زیر دو سال را هم به پزشک اطلاع دهید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "پیش از آنکه دست کردن در بینی را بدرفتاری بدانید، درباره خشکی، پوسته و خارش بپرسید.",
+          "دستمال در دسترس، ناخن‌ها کوتاه و دست‌ها تمیز باشد. با هم نشانه‌ای بی‌سروصدا انتخاب کنید.",
+          "برای خون‌دماغ، کودک را به جلو خم کنید و بخش نرم را بدون رها کردن برای نگاه کردن فشار دهید."
+        ],
+        "faq": [
+          {
+            "q": "آیا دست کردن در بینی در کودکان طبیعی است؟",
+            "a": "بله. شاید می‌خواهد ترشحات خشک را بردارد، خارش را آرام کند یا فقط دستش را مشغول کند. بپرسید چه حسی دارد، به‌خصوص اگر همیشه یک سمت درگیر است."
+          },
+          {
+            "q": "ممکن است آسیبی بزند؟",
+            "a": "ناخن می‌تواند داخل بینی را بخراشد و خونریزی ایجاد کند. دست‌ها ممکن است میکروب را به بینی و از بینی به وسایل مشترک ببرند. پاک کردن آرام با دستمال و شستن دست‌ها کمک می‌کند."
+          },
+          {
+            "q": "چطور کمک کنیم این کار را کنار بگذارد؟",
+            "a": "به ناراحتی بینی رسیدگی کنید، ناخن‌ها را صاف نگه دارید و استفاده از دستمال را تمرین کنید. اگر گرفتگی یا خونریزی ادامه دارد، بپرسید آیا حساسیت یا علت دیگری نیاز به درمان دارد."
+          },
+          {
+            "q": "همان لحظه چه کنم؟",
+            "a": "نشانه توافق‌شده را بی‌سروصدا نشان دهید و برای یافتن دستمال کمک کنید. اگر مایل بود، فعالیت راحتی برای مشغول کردن دست‌هایش بدهید. اگر بینی خون می‌آید سراغ کمک‌های اولیه بروید."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۷ نوامبر ۲۰۲۶ مرور شد",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "اگر ترشحات خشک آزاردهنده است، اسپری ساده آب‌نمک مناسب سن کودک را امتحان کنید.",
+            "با ساعت ده دقیقه کامل فشار محکم روی بخش نرم بینی را اندازه بگیرید.",
+            "خونریزی تکراری، کبودی جای دیگری از بدن یا بو و ترشح ماندگار یک‌طرفه را به پزشک بگویید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند جایی که کودک معمولاً کتاب می‌خواند یا برنامه‌ای می‌بیند دستمال بگذارید و بپرسید کدام نشانه بی‌سروصدا را بیشتر دوست دارد.",
+          "safety": "اگر پس از دو نوبت ده‌دقیقه‌ای فشار محکم خونریزی قطع نشد، فوری به مرکز درمانی مراجعه کنید. برای خونریزی بسیار شدید، مشکل تنفس، حالت غش یا آسیب جدی سر یا صورت زودتر از اورژانس کمک بگیرید.",
+          "sources": [
+            {
+              "organization": "آکادمی اطفال آمریکا",
+              "title": "چگونه خون‌دماغ کودک را متوقف کنیم",
+              "url": "https://www.healthychildren.org/English/health-issues/injuries-emergencies/Pages/how-to-stop-a-nosebleed.aspx"
+            },
+            {
+              "organization": "بیمارستان سلطنتی کودکان ملبورن",
+              "title": "خون‌دماغ کودکان و مراقبت در خانه",
+              "url": "https://www.rch.org.au/kidsinfo/fact_sheets/nosebleeds/"
+            },
+            {
+              "organization": "لاکرن و همکاران، مجله گوش و حلق و بینی بالینی",
+              "title": "کارآزمایی تصادفی وازلین برای خون‌دماغ‌های مکرر در کودکان",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/15142073/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "عندما يكرّر الطفل إدخال إصبعه في أنفه",
+        "description": "ساعد طفلك على التعامل مع الحكة والقشور في الأنف، واتفقا على تذكير هادئ، وتعلّم كيف توقف الرعاف ومتى تحتاج إلى استشارة طبية أو مساعدة طارئة.",
+        "intro": "كل مساء أثناء القصة يُدخل طفلك إصبعه في فتحة الأنف نفسها. قبل أن تذكّره بالتوقف، اسأله عمّا يشعر به. تحتاج القشرة الجافة أو الحكة إلى استجابة مختلفة عن يد ترتفع دون انتباه عندما تصبح القصة مشوقة.",
+        "sections": [
+          {
+            "heading": "ابدأ بالسؤال عن الحكة",
+            "paragraphs": [
+              "العبث بالأنف عادة شائعة في الطفولة. قد يترك هواء المنزل الجاف أو الزكام أو حساسية الأنف حكة أو قشورًا على بطانته. وقد يخدش الظفر مقدمة الأنف حيث تنزف الأوعية الصغيرة بسهولة. نزع القشرة المتشكلة فوق الخدش قد يعيد النزف. وتكرار هذا الفعل وحده لا يعني أن الطفل يعاني القلق.",
+              "قدّم منديلًا وعلّمه المسح أو التمخّط بلطف وغسل يديه بعد ذلك. اجعل أظافره قصيرة وناعمة. قد يساعد بخاخ محلول ملحي بسيط مناسب لعمره على تليين المخاط الجاف. استشر الطبيب إذا تكررت الحكة أو الانسداد أو النزف، خصوصًا مع إفراز مستمر كريه الرائحة من الفتحة نفسها. لا تدخل شيئًا لتفتش عن جسم عالق في الأنف."
+            ]
+          },
+          {
+            "heading": "سهّل السلوك البديل",
+            "paragraphs": [
+              "اتفقا على إشارة هادئة يرتاح إليها الطفل، مثل وضع منديل في متناول يده. جرّباها في الموقف الذي تتكرر فيه العادة. أثناء القصة يمكن أن تشغل لعبة صغيرة مناسبة لعمره يديه. أظهر أنك لاحظت حين يتذكر المنديل. التوبيخ أمام الآخرين قد يحرجه من عادة مألوفة.",
+              "ليس هناك مرهم يحل العادة بمفرده. في دراسة عشوائية شملت ١٠٥ أطفال أُحيلوا بسبب رعاف متكرر، لم يكن الفازلين وحده أفضل من المراقبة في منع النزف اللاحق. بحثت الدراسة تكرار الرعاف ولم تبحث ما إذا توقف الأطفال عن العبث بأنوفهم. استشر الطبيب قبل وضع بخاخ دوائي أو كريم داخل الأنف."
+            ]
+          },
+          {
+            "heading": "إذا بدأ الرعاف",
+            "paragraphs": [
+              "أجلس الطفل منتصبًا مع ميل خفيف إلى الأمام. اضغط على الجزء السفلي اللين من الأنف تحت الجسر العظمي لإغلاق الفتحتين عشر دقائق كاملة دون أن ترفع أصابعك للتفقد. اطلب منه التنفس من فمه وبصق الدم. إذا استمر النزف فكرّر الضغط الثابت عشر دقائق أخرى. لا تُمِل رأسه إلى الخلف ولا تحشُ الأنف بالمناديل.",
+              "اطلب رعاية عاجلة إذا استمر النزف بعد فترتي الضغط. اطلب الإسعاف قبل ذلك إذا كان النزف غزيرًا جدًا، أو صعب التنفس، أو شعر الطفل بقرب الإغماء، أو تعرض لإصابة خطيرة في الرأس أو الوجه. يستدعي الرعاف المتكرر أو سهولة التكدم أو النزف في مكان آخر مراجعة الطبيب. وينبغي إبلاغ الطبيب بالرعاف لدى طفل دون السنتين."
+            ]
+          }
+        ],
+        "takeaways": [
+          "اسأل عن الجفاف والقشور والحكة قبل اعتبار الفعل سوء تصرف.",
+          "ضع المناديل في المتناول، وأبق الأظافر قصيرة واليدين نظيفتين، واتفقا على تذكير خفي.",
+          "عند الرعاف أمِل الطفل إلى الأمام واضغط على الجزء اللين دون أن تتركه للتحقق."
+        ],
+        "faq": [
+          {
+            "q": "هل إدخال الإصبع في الأنف طبيعي عند الأطفال؟",
+            "a": "نعم. قد يحاول الطفل إزالة مخاط جاف أو تهدئة حكة أو إشغال يديه. اسأله عمّا يشعر به، خاصة إذا كان الأمر دائمًا في الجهة نفسها."
+          },
+          {
+            "q": "هل قد يضر به؟",
+            "a": "قد يخدش الظفر بطانة الأنف فيبدأ النزف. ويمكن لليدين نقل الجراثيم إلى الأنف ومنه إلى الأشياء المشتركة. المسح بلطف بمنديل وغسل اليدين مفيدان."
+          },
+          {
+            "q": "كيف نساعده على التوقف؟",
+            "a": "عالج انزعاج الأنف وأبق الأظافر ناعمة وتمرّن معه على استعمال المنديل. إذا استمر الانسداد أو النزف، اسأل الطبيب إن كانت الحساسية أو مشكلة أخرى تحتاج إلى علاج."
+          },
+          {
+            "q": "ماذا أفعل في اللحظة نفسها؟",
+            "a": "أعطه الإشارة المتفق عليها بهدوء وساعده على إيجاد منديل. واقترح نشاطًا آخر مريحًا ليديه إن رغب فيه. فإذا كان الأنف ينزف فانتقل إلى الإسعاف الأولي."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٧ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "جرّب بخاخ محلول ملحي بسيط مناسبًا لعمر الطفل إذا أزعجه المخاط الجاف.",
+            "استخدم ساعة للحفاظ على الضغط الثابت فوق الجزء اللين عشر دقائق كاملة.",
+            "أخبر الطبيب عن تكرر النزف أو ظهور كدمات أخرى أو رائحة أو إفراز مستمر من جهة واحدة."
+          ],
+          "bemama": "تقترح بي ماما وضع علبة مناديل حيث يجلس الطفل للقراءة أو لمشاهدة برنامج ثم سؤاله عن التذكير الهادئ الذي يفضله.",
+          "safety": "اطلب رعاية عاجلة إذا استمر الرعاف بعد فترتين من الضغط الثابت مدة كل منهما عشر دقائق. النزف الغزير جدًا أو صعوبة التنفس أو الشعور بقرب الإغماء أو إصابة خطيرة في الرأس أو الوجه تستدعي الإسعاف قبل ذلك.",
+          "sources": [
+            {
+              "organization": "الأكاديمية الأمريكية لطب الأطفال",
+              "title": "كيفية إيقاف نزف الأنف عند الطفل",
+              "url": "https://www.healthychildren.org/English/health-issues/injuries-emergencies/Pages/how-to-stop-a-nosebleed.aspx"
+            },
+            {
+              "organization": "مستشفى الأطفال الملكي في ملبورن",
+              "title": "الرعاف عند الأطفال والعناية في المنزل",
+              "url": "https://www.rch.org.au/kidsinfo/fact_sheets/nosebleeds/"
+            },
+            {
+              "organization": "لوغران وزملاؤه، مجلة طب الأنف والأذن والحنجرة السريري",
+              "title": "تجربة عشوائية للفازلين في الرعاف المتكرر لدى الأطفال",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/15142073/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Quand votre enfant se met souvent le doigt dans le nez",
+        "description": "Soulagez les démangeaisons ou croûtes, trouvez un rappel discret et apprenez à comprimer le nez en cas de saignement et à reconnaître quand consulter.",
+        "intro": "Chaque soir pendant l’histoire, votre enfant porte son doigt à la même narine. Avant de lui rappeler d’arrêter, demandez-lui ce qu’il ressent. Une croûte sèche ou une démangeaison appelle une autre réponse qu’une main qui s’égare au moment le plus passionnant du récit.",
+        "sections": [
+          {
+            "heading": "Cherchez d’abord ce qui démange",
+            "paragraphs": [
+              "Se curer le nez est fréquent chez l’enfant. L’air sec, un rhume ou une allergie nasale peuvent irriter la muqueuse ou laisser des croûtes. Un ongle peut égratigner l’avant du nez, où de petits vaisseaux saignent facilement. Arracher ensuite la croûte peut faire recommencer le saignement. Ce geste répété ne signifie pas à lui seul que l’enfant est anxieux.",
+              "Proposez un mouchoir, montrez-lui comment s’essuyer ou se moucher doucement, puis se laver les mains. Coupez et limez les ongles. Un spray de sérum physiologique simple et adapté à l’âge peut ramollir les sécrétions sèches. Consultez si les démangeaisons, la congestion ou les saignements reviennent, surtout en cas d’écoulement malodorant persistant d’un seul côté. N’allez pas sonder le nez à la recherche d’un objet coincé."
+            ]
+          },
+          {
+            "heading": "Facilitez le geste de remplacement",
+            "paragraphs": [
+              "Mettez-vous d’accord sur un signal discret qui lui convient, par exemple lui poser un mouchoir à portée de main. Essayez-le dans la situation habituelle. Pendant l’histoire, un petit jouet adapté à l’âge peut lui occuper les mains. Faites-lui remarquer ses efforts lorsqu’il pense au mouchoir. Le gronder en public risque de lui faire honte d’une habitude banale.",
+              "Aucune pommade ne règle à elle seule cette habitude. Dans une étude randomisée auprès de 105 enfants adressés pour des saignements de nez récurrents, la vaseline seule ne prévenait pas mieux les nouveaux saignements que la simple surveillance. L’étude portait sur les récidives de saignement, pas sur l’arrêt du geste. Demandez conseil avant d’appliquer une crème ou un spray médicamenteux dans le nez."
+            ]
+          },
+          {
+            "heading": "Si le nez commence à saigner",
+            "paragraphs": [
+              "Asseyez l’enfant bien droit, légèrement penché en avant. Pincez fermement la partie molle du bas du nez, sous l’arête osseuse, pour fermer les narines pendant dix minutes entières sans relâcher pour regarder. Faites-le respirer par la bouche et recracher le sang. Si le saignement continue, comprimez à nouveau dix minutes. Ne basculez pas sa tête en arrière et ne bourrez pas le nez de mouchoirs.",
+              "Consultez en urgence si le saignement persiste après ces deux compressions. Appelez les secours plus tôt s’il est très abondant, si l’enfant a du mal à respirer, se sent près de perdre connaissance ou a subi un traumatisme sérieux de la tête ou du visage. Des saignements fréquents, des bleus faciles ou des saignements ailleurs demandent un avis médical. Il faut aussi signaler tout saignement de nez chez un enfant de moins de deux ans."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Recherchez sécheresse, croûtes et démangeaisons avant d’y voir un problème de comportement.",
+          "Mouchoirs à portée de main, ongles courts, mains propres : choisissez ensemble un rappel discret.",
+          "En cas de saignement, penchez l’enfant en avant et comprimez la partie molle sans relâcher pour vérifier."
+        ],
+        "faq": [
+          {
+            "q": "Est-il normal qu’un enfant se mette le doigt dans le nez ?",
+            "a": "Oui. Il essaie peut-être d’enlever du mucus sec, d’apaiser une démangeaison ou simplement d’occuper ses mains. Demandez ce qu’il ressent, surtout si le geste est toujours du même côté."
+          },
+          {
+            "q": "Cela peut-il faire du mal ?",
+            "a": "Un ongle peut égratigner la muqueuse et la faire saigner. Les mains peuvent apporter des microbes au nez ou les transmettre du nez aux objets partagés. S’essuyer doucement avec un mouchoir et se laver les mains peut aider."
+          },
+          {
+            "q": "Comment l’aider à arrêter ?",
+            "a": "Occupez-vous de l’inconfort nasal, gardez les ongles lisses et entraînez-vous avec le mouchoir. Si la congestion ou les saignements persistent, demandez s’il faut traiter une allergie ou une autre cause."
+          },
+          {
+            "q": "Que faire sur le moment ?",
+            "a": "Faites discrètement le signal convenu et aidez l’enfant à trouver un mouchoir. S’il le souhaite, proposez une autre activité pour ses mains. Si le nez saigne, passez aux premiers secours."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 17 novembre 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Essayez un spray de sérum physiologique simple adapté à l’âge si les sécrétions sèches gênent.",
+            "Regardez l’heure pour comprimer fermement la partie molle pendant dix minutes entières.",
+            "Signalez les saignements répétés, les bleus ailleurs, une odeur ou un écoulement persistant d’un seul côté."
+          ],
+          "bemama": "BeMama suggère de poser un paquet de mouchoirs là où votre enfant lit ou regarde une émission, puis de lui demander quel rappel discret il préfère.",
+          "safety": "Consultez en urgence si le saignement continue après deux périodes de dix minutes de pression ferme. Saignement très abondant, difficulté à respirer, sensation de malaise imminent ou traumatisme sérieux de la tête ou du visage justifient d’appeler les secours plus tôt.",
+          "sources": [
+            {
+              "organization": "Académie américaine de pédiatrie",
+              "title": "Comment arrêter un saignement de nez chez l’enfant",
+              "url": "https://www.healthychildren.org/English/health-issues/injuries-emergencies/Pages/how-to-stop-a-nosebleed.aspx"
+            },
+            {
+              "organization": "Hôpital royal pour enfants de Melbourne",
+              "title": "Saignements de nez chez l’enfant et soins à la maison",
+              "url": "https://www.rch.org.au/kidsinfo/fact_sheets/nosebleeds/"
+            },
+            {
+              "organization": "Loughran et ses collègues, Clinical Otolaryngology",
+              "title": "Essai randomisé de la vaseline dans les saignements de nez récurrents de l’enfant",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/15142073/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Çocuğunuz sık sık burnunu karıştırıyorsa",
+        "description": "Burun kaşıntısı ve kabuklanmada çocuğa nasıl yardım edebileceğinizi, gizli bir hatırlatmayı, burun kanamasını durdurmayı ve ne zaman başvuracağınızı öğrenin.",
+        "intro": "Çocuğunuz her akşam öykü dinlerken elini aynı burun deliğine götürüyor. Bırakmasını söylemeden önce ne hissettiğini sorun. Kuru bir kabuk veya kaşıntı ile öykü heyecanlı bir yere geldiğinde farkında olmadan burna giden el farklı bir yaklaşım gerektirebilir.",
+        "sections": [
+          {
+            "heading": "Önce kaşıntıyı sorun",
+            "paragraphs": [
+              "Burnu karıştırmak çocuklukta sık görülür. Kuru ortam havası, nezle veya burun alerjisi iç yüzeyde kaşıntı ya da kabuklanma yapabilir. Tırnak, önde bulunan ve kolay kanayan küçük damarları çizebilir. Yeni oluşan kabuğu koparmak kanamayı yeniden başlatabilir. Tek başına sık sık burnunu karıştırması çocuğun kaygılı olduğu anlamına gelmez.",
+              "Bir mendil verip burnunu nazikçe silmeyi veya sümkürmeyi, ardından ellerini yıkamayı gösterin. Tırnakları kısa ve pürüzsüz tutun. Yaşa uygun sade tuzlu su spreyi kuru salgıları yumuşatabilir. Kaşıntı, tıkanıklık ya da kanama tekrarlıyorsa, özellikle de aynı taraftan sürekli kötü kokulu akıntı geliyorsa hekime danışın. İçeride bir cisim aramak için burnu kurcalamayın."
+            ]
+          },
+          {
+            "heading": "Yerine koyacağı davranışı kolaylaştırın",
+            "paragraphs": [
+              "Mendili yakınına koymak gibi çocuğun rahat ettiği sessiz bir işaret belirleyin. Bunu hareketin genellikle olduğu ortamda deneyin. Öykü sırasında yaşına uygun küçük bir oyuncak ellerini meşgul edebilir. Mendili kendi hatırladığında bunu fark ettiğinizi söyleyin. Başkalarının önünde azarlamak sıradan bir alışkanlığı utanç kaynağına dönüştürebilir.",
+              "Alışkanlığı tek başına geçiren bir merhem yoktur. Tekrarlayan burun kanaması için yönlendirilen 105 çocukla yapılan rastgele gruplamalı bir çalışmada yalnız vazelin sürmek, yeni kanamaları önlemede sadece izlemekten daha etkili değildi. Çalışmada çocukların burnunu karıştırmayı bırakması değil, kanamanın tekrarı incelendi. Burun içinde ilaçlı sprey veya krem kullanmadan önce hekime danışın."
+            ]
+          },
+          {
+            "heading": "Burun kanamaya başlarsa",
+            "paragraphs": [
+              "Çocuğu dik oturtup hafifçe öne eğin. Burun kemiğinin altında kalan yumuşak alt kısmı sıkıştırarak burun deliklerini tam on dakika kapalı tutun. Kontrol etmek için bırakmayın. Ağızdan nefes almasını ve kanı tükürmesini sağlayın. Kanama sürüyorsa on dakika daha kararlı biçimde bastırın. Başını arkaya yatırmayın ve buruna mendil tıkamayın.",
+              "Bu iki uygulamadan sonra kanama devam ediyorsa acil tıbbi yardım alın. Kanama çok yoğunsa, çocuk nefes almakta zorlanıyor ya da bayılacak gibi oluyorsa veya ciddi bir baş ya da yüz yaralanması geçirdiyse daha erken acil yardım çağırın. Sık kanama, kolay morarma veya başka yerlerden kanama için hekim değerlendirmesi gerekir. İki yaşın altındaki çocukta burun kanamasını da bir hekime bildirin."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Davranış sorunu olarak görmeden önce kuruluk, kabuk ve kaşıntıyı sorun.",
+          "Mendil bulundurun, tırnakları kısa ve elleri temiz tutun. Birlikte belli belirsiz bir hatırlatma seçin.",
+          "Kanamada çocuğu öne eğip burnun yumuşak kısmına kontrol etmek için bırakmadan bastırın."
+        ],
+        "faq": [
+          {
+            "q": "Çocukların burnunu karıştırması olağan mı?",
+            "a": "Evet. Çocuk kurumuş salgıyı çıkarmaya, kaşıntıyı gidermeye veya ellerini meşgul etmeye çalışıyor olabilir. Özellikle hep aynı taraftaysa ne hissettiğini sorun."
+          },
+          {
+            "q": "Zararı olabilir mi?",
+            "a": "Tırnak iç yüzeyi çizip kanatabilir. Eller mikropları buruna, burundan da paylaşılan eşyalara taşıyabilir. Mendille nazikçe silmek ve elleri yıkamak yardımcı olur."
+          },
+          {
+            "q": "Bırakmasına nasıl yardım ederiz?",
+            "a": "Burundaki rahatsızlığı giderin, tırnakları pürüzsüz tutun ve mendil kullanmayı deneyin. Tıkanıklık ya da kanama sürerse alerji veya başka bir nedenin tedavi gerektirip gerektirmediğini sorun."
+          },
+          {
+            "q": "O anda ne yapabilirim?",
+            "a": "Kararlaştırdığınız işareti sessizce verin ve bir mendil bulmasına yardım edin. İsterse ellerini meşgul edecek başka bir etkinlik sağlayın. Kanama varsa ilk yardıma geçin."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 17 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Kurumuş salgı rahatsız ediyorsa yaşa uygun sade tuzlu su spreyi deneyin.",
+            "Burnun yumuşak kısmını tam on dakika sıkmak için saate bakın.",
+            "Tekrarlayan kanama, başka morluklar veya tek tarafta kalıcı kötü koku ya da akıntıyı hekime anlatın."
+          ],
+          "bemama": "BeMama, çocuğun kitap okuduğu veya program izlediği yere bir paket mendil koymanızı ve hangi sessiz hatırlatmayı istediğini sormanızı önerir.",
+          "safety": "İki kez onar dakika kararlı basıya rağmen kanama sürüyorsa acil tıbbi yardım alın. Çok yoğun kanama, nefes almada güçlük, bayılacak gibi olma veya ciddi baş ya da yüz yaralanması daha erken acil yardım gerektirir.",
+          "sources": [
+            {
+              "organization": "Amerikan Pediatri Akademisi",
+              "title": "Çocuğun burun kanaması nasıl durdurulur?",
+              "url": "https://www.healthychildren.org/English/health-issues/injuries-emergencies/Pages/how-to-stop-a-nosebleed.aspx"
+            },
+            {
+              "organization": "Melbourne Kraliyet Çocuk Hastanesi",
+              "title": "Çocuklarda burun kanaması ve evde bakım",
+              "url": "https://www.rch.org.au/kidsinfo/fact_sheets/nosebleeds/"
+            },
+            {
+              "organization": "Loughran ve çalışma arkadaşları, Clinical Otolaryngology",
+              "title": "Tekrarlayan çocukluk çağı burun kanamasında vazelin üzerine rastgele gruplamalı çalışma",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/15142073/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Cuando tu hijo se mete el dedo en la nariz a menudo",
+        "description": "Ayuda a tu hijo con el picor o las costras nasales, prueba un recordatorio discreto y aprende a detener un sangrado de nariz y cuándo buscar atención.",
+        "intro": "Cada noche, mientras escucha un cuento, tu hijo se lleva el dedo a la misma fosa nasal. Antes de recordarle que pare, pregúntale qué siente. Una costra seca o el picor requieren una respuesta diferente de la que necesita una mano que se mueve sin pensar cuando el cuento se pone emocionante.",
+        "sections": [
+          {
+            "heading": "Empieza por el picor",
+            "paragraphs": [
+              "Hurgarse la nariz es un hábito infantil frecuente. El aire seco, un resfriado o una alergia pueden dejar picor o costras. Una uña puede arañar la parte delantera de la nariz, donde hay pequeños vasos que sangran con facilidad. Si arranca la costra nueva, puede volver a sangrar. La repetición del hábito no significa por sí sola que el niño tenga ansiedad.",
+              "Ofrécele un pañuelo, enséñale a limpiarse o sonarse suavemente y a lavarse las manos después. Mantén las uñas cortas y sin bordes ásperos. Un espray nasal de suero salino simple, adecuado para su edad, puede ablandar el moco seco. Consulta si el picor, la congestión o el sangrado se repiten, sobre todo si hay secreción persistente con mal olor de un solo lado. No explores la nariz para buscar un objeto atrapado."
+            ]
+          },
+          {
+            "heading": "Facilita una alternativa",
+            "paragraphs": [
+              "Acordad una señal discreta con la que esté cómodo, como dejar un pañuelo a su alcance. Probadla en el momento en que suele hurgarse la nariz. Durante un cuento, un juguete apropiado para su edad puede ocuparle las manos. Reconoce cuando se acuerda del pañuelo. Reñirle en público puede hacer que se avergüence de un hábito corriente.",
+              "Ninguna pomada corrige por sí sola el hábito. En un estudio aleatorizado de 105 niños derivados por sangrados nasales recurrentes, la vaselina sola no evitó nuevos sangrados mejor que la observación. Se estudiaron los sangrados repetidos, no si los niños dejaban de hurgarse la nariz. Consulta antes de aplicar aerosoles con medicamentos o cremas dentro de la nariz."
+            ]
+          },
+          {
+            "heading": "Si empieza a sangrar",
+            "paragraphs": [
+              "Sienta al niño erguido y ligeramente inclinado hacia delante. Aprieta la parte blanda inferior de la nariz, por debajo del puente óseo, cerrándola durante diez minutos completos sin soltar para mirar. Que respire por la boca y escupa la sangre. Si sigue sangrando, repite la presión firme otros diez minutos. No le eches la cabeza hacia atrás ni le tapones la nariz con pañuelos.",
+              "Busca atención médica urgente si el sangrado sigue después de esos dos periodos. Solicita ayuda de emergencias antes si sangra muchísimo, le cuesta respirar, se siente a punto de desmayarse o ha sufrido una lesión importante en la cabeza o la cara. Si los sangrados son frecuentes, le salen moretones fácilmente o sangra por otros sitios, consulta. También conviene consultar por cualquier sangrado nasal en un menor de dos años."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Pregunta si hay sequedad, costras o picor antes de interpretar el hábito como mal comportamiento.",
+          "Deja pañuelos a mano, mantén las uñas cortas y las manos limpias, y acordad una señal discreta.",
+          "Si sangra, inclina al niño hacia delante y aprieta la parte blanda sin soltar para comprobar."
+        ],
+        "faq": [
+          {
+            "q": "¿Es normal que los niños se hurguen la nariz?",
+            "a": "Sí. Pueden intentar quitarse moco seco, aliviar el picor o mantener las manos ocupadas. Pregunta qué siente, sobre todo si siempre le pasa en el mismo lado."
+          },
+          {
+            "q": "¿Puede hacerle daño?",
+            "a": "Una uña puede arañar la mucosa y provocar sangrado. Las manos pueden llevar gérmenes a la nariz y de allí a objetos compartidos. Puede ayudar limpiarse suavemente con un pañuelo y lavarse las manos."
+          },
+          {
+            "q": "¿Cómo podemos ayudarle a dejarlo?",
+            "a": "Atended las molestias nasales, mantened las uñas lisas y practicad el uso del pañuelo. Si persisten la congestión o el sangrado, pregunta si una alergia u otra causa necesita tratamiento."
+          },
+          {
+            "q": "¿Qué puedo hacer en ese momento?",
+            "a": "Utiliza la señal acordada de forma discreta y ayúdale a encontrar un pañuelo. Si quiere, ofrécele otra actividad para las manos. Si sangra, aplica los primeros auxilios."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 17 de noviembre de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Si le molesta el moco seco, prueba un espray salino simple adecuado para su edad.",
+            "Usa un reloj para mantener la presión en la parte blanda durante diez minutos completos.",
+            "Informa de los sangrados recurrentes, otros moretones o secreción u olor persistente de un solo lado."
+          ],
+          "bemama": "BeMama sugiere dejar pañuelos donde el niño suele leer o ver un programa y preguntarle qué recordatorio discreto prefiere.",
+          "safety": "Busca atención urgente si sigue sangrando tras dos periodos de diez minutos de presión firme. Un sangrado muy abundante, dificultad para respirar, sensación de desmayo o una lesión importante en la cabeza o la cara requieren ayuda de emergencias antes.",
+          "sources": [
+            {
+              "organization": "Academia Estadounidense de Pediatría",
+              "title": "Cómo detener un sangrado nasal en un niño",
+              "url": "https://www.healthychildren.org/English/health-issues/injuries-emergencies/Pages/how-to-stop-a-nosebleed.aspx"
+            },
+            {
+              "organization": "Hospital Infantil Real de Melbourne",
+              "title": "Sangrado nasal infantil y cuidados en casa",
+              "url": "https://www.rch.org.au/kidsinfo/fact_sheets/nosebleeds/"
+            },
+            {
+              "organization": "Loughran y colaboradores, Clinical Otolaryngology",
+              "title": "Ensayo aleatorizado de vaselina para el sangrado nasal recurrente infantil",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/15142073/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Quando a criança vive colocando o dedo no nariz",
+        "description": "Ajude a criança a lidar com coceira ou crostas no nariz, combine um lembrete discreto e saiba como estancar um sangramento e quando procurar atendimento.",
+        "intro": "Seu filho leva o dedo à mesma narina toda noite enquanto ouve uma história. Antes de pedir que pare, pergunte o que sente. Uma crosta seca ou uma coceira pede uma resposta diferente da de uma mão que vai distraída ao nariz quando a história fica emocionante.",
+        "sections": [
+          {
+            "heading": "Comece pela coceira",
+            "paragraphs": [
+              "Mexer no nariz é um hábito comum na infância. O ar seco, um resfriado ou a rinite alérgica podem deixar a mucosa com coceira ou crostas. A unha pode arranhar a parte da frente do nariz, onde pequenos vasos sangram facilmente. Arrancar a crosta nova pode fazer voltar o sangramento. O gesto repetido, sozinho, não significa que a criança esteja ansiosa.",
+              "Ofereça um lenço e ensine a limpar ou assoar o nariz delicadamente e a lavar as mãos depois. Mantenha as unhas curtas e lisas. Um spray nasal de soro fisiológico simples, adequado à idade, pode amolecer o muco seco. Procure orientação se a coceira, a obstrução ou o sangramento voltarem, principalmente se houver secreção persistente com mau cheiro de um só lado. Não introduza objetos no nariz para procurar algo preso."
+            ]
+          },
+          {
+            "heading": "Facilite a troca de hábito",
+            "paragraphs": [
+              "Combinem um aviso discreto com que a criança se sinta à vontade, como colocar um lenço ao alcance. Tentem na situação em que o gesto costuma acontecer. Durante a história, um brinquedo apropriado à idade pode ocupar as mãos. Reconheça quando ela se lembra do lenço. Repreendê-la em público pode causar vergonha de um hábito comum.",
+              "Não há pomada que corrija esse hábito por si só. Em um estudo randomizado com 105 crianças encaminhadas por sangramentos nasais recorrentes, a vaselina isolada não evitou novos sangramentos melhor do que apenas observar. O estudo avaliou a repetição do sangramento, e não se as crianças pararam de pôr o dedo no nariz. Consulte um profissional antes de usar sprays com medicamentos ou cremes dentro do nariz."
+            ]
+          },
+          {
+            "heading": "Se começar a sangrar",
+            "paragraphs": [
+              "Sente a criança com o tronco ereto e levemente inclinado para a frente. Aperte a parte macia inferior do nariz, abaixo do osso, fechando as narinas por dez minutos completos sem soltar para conferir. Oriente a respirar pela boca e cuspir o sangue. Se ainda estiver sangrando, faça pressão firme por mais dez minutos. Não incline a cabeça para trás nem coloque lenços dentro do nariz.",
+              "Procure atendimento urgente se o sangramento continuar depois dessas duas etapas. Chame a emergência antes se for muito intenso, se a criança tiver dificuldade para respirar, sentir que vai desmaiar ou tiver sofrido lesão grave na cabeça ou no rosto. Sangramentos frequentes, facilidade para ficar com manchas roxas ou sangramento em outros locais merecem avaliação médica. Sangramento nasal em menores de dois anos também deve ser discutido com o profissional."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Pergunte sobre ressecamento, crostas e coceira antes de interpretar o gesto como mau comportamento.",
+          "Deixe lenços à mão, unhas curtas e mãos limpas. Combinem um lembrete discreto.",
+          "Se sangrar, incline a criança para a frente e aperte a parte macia sem soltar para verificar."
+        ],
+        "faq": [
+          {
+            "q": "É normal a criança colocar o dedo no nariz?",
+            "a": "Sim. Ela pode querer tirar muco seco, aliviar a coceira ou simplesmente ocupar as mãos. Pergunte o que sente, sobretudo se for sempre do mesmo lado."
+          },
+          {
+            "q": "Pode fazer mal?",
+            "a": "A unha pode arranhar a mucosa e causar sangramento. As mãos podem levar germes até o nariz e do nariz para objetos compartilhados. Limpar delicadamente com um lenço e lavar as mãos pode ajudar."
+          },
+          {
+            "q": "Como ajudar a parar?",
+            "a": "Cuide do desconforto nasal, mantenha as unhas lisas e pratiquem usar um lenço. Se a obstrução ou o sangramento persistirem, pergunte se alergia ou outra causa precisa de tratamento."
+          },
+          {
+            "q": "O que fazer naquele momento?",
+            "a": "Dê o aviso combinado em voz baixa ou por um gesto e ajude a encontrar um lenço. Se a criança quiser, ofereça outra atividade para as mãos. Se estiver sangrando, faça os primeiros socorros."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 17 de novembro de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Tente um spray de soro fisiológico simples adequado à idade se o muco seco incomodar.",
+            "Use um relógio para manter a pressão firme na parte macia do nariz durante dez minutos completos.",
+            "Informe o profissional sobre sangramentos repetidos, manchas roxas ou mau cheiro ou secreção persistente de um lado."
+          ],
+          "bemama": "A BeMama sugere deixar um pacote de lenços onde a criança costuma ler ou ver um programa e perguntar qual lembrete discreto ela prefere.",
+          "safety": "Procure atendimento urgente se o sangramento persistir após duas etapas de dez minutos de pressão firme. Sangramento muito intenso, dificuldade para respirar, sensação de desmaio ou lesão grave na cabeça ou no rosto exigem ajuda de emergência antes disso.",
+          "sources": [
+            {
+              "organization": "Academia Americana de Pediatria",
+              "title": "Como estancar um sangramento nasal em crianças",
+              "url": "https://www.healthychildren.org/English/health-issues/injuries-emergencies/Pages/how-to-stop-a-nosebleed.aspx"
+            },
+            {
+              "organization": "Hospital Real da Criança de Melbourne",
+              "title": "Sangramento nasal infantil e cuidados em casa",
+              "url": "https://www.rch.org.au/kidsinfo/fact_sheets/nosebleeds/"
+            },
+            {
+              "organization": "Loughran e colaboradores, Clinical Otolaryngology",
+              "title": "Estudo randomizado de vaselina para sangramentos nasais recorrentes em crianças",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/15142073/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5799.webp",
+    "heroAlt": {
+      "en": "A child holds a tissue to their nose while looking at a picture book.",
+      "es": "Un niño se limpia la nariz con un pañuelo mientras mira un libro ilustrado.",
+      "fr": "Un enfant tient un mouchoir contre son nez en regardant un livre illustré.",
+      "fa": "کودک در حال نگاه کردن به کتاب تصویری دستمالی کنار بینی‌اش گرفته است.",
+      "ar": "طفل يضع منديلًا على أنفه وهو ينظر إلى كتاب مصور.",
+      "pt": "Uma criança segura um lenço junto ao nariz enquanto olha um livro ilustrado.",
+      "tr": "Resimli kitaba bakan bir çocuk burnuna bir mendil tutuyor."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "When your child keeps picking their nose",
+      "description": "Help your child manage an itchy or crusty nose, try a quiet alternative to picking, and learn how to stop a nosebleed and when to seek medical care."
+    },
+    "fa": {
+      "title": "وقتی کودک مدام انگشتش را در بینی می‌کند",
+      "description": "ببینید برای خارش و خشکی داخل بینی کودک چه می‌توان کرد، چطور یک یادآوری بی‌سروصدا انتخاب کنید و هنگام خون‌دماغ چه زمانی فشار بدهید یا کمک بگیرید."
+    },
+    "ar": {
+      "title": "عندما يكرّر الطفل إدخال إصبعه في أنفه",
+      "description": "ساعد طفلك على التعامل مع الحكة والقشور في الأنف، واتفقا على تذكير هادئ، وتعلّم كيف توقف الرعاف ومتى تحتاج إلى استشارة طبية أو مساعدة طارئة."
+    },
+    "fr": {
+      "title": "Quand votre enfant se met souvent le doigt dans le nez",
+      "description": "Soulagez les démangeaisons ou croûtes, trouvez un rappel discret et apprenez à comprimer le nez en cas de saignement et à reconnaître quand consulter."
+    },
+    "tr": {
+      "title": "Çocuğunuz sık sık burnunu karıştırıyorsa",
+      "description": "Burun kaşıntısı ve kabuklanmada çocuğa nasıl yardım edebileceğinizi, gizli bir hatırlatmayı, burun kanamasını durdurmayı ve ne zaman başvuracağınızı öğrenin."
+    },
+    "es": {
+      "title": "Cuando tu hijo se mete el dedo en la nariz a menudo",
+      "description": "Ayuda a tu hijo con el picor o las costras nasales, prueba un recordatorio discreto y aprende a detener un sangrado de nariz y cuándo buscar atención."
+    },
+    "pt": {
+      "title": "Quando a criança vive colocando o dedo no nariz",
+      "description": "Ajude a criança a lidar com coceira ou crostas no nariz, combine um lembrete discreto e saiba como estancar um sangramento e quando procurar atendimento."
+    }
+  }
+}

@@ -1,0 +1,646 @@
+{
+  "sourceId": "5794",
+  "article": {
+    "slug": "baby-and-child/child-sleep-medicines-melatonin-and-herbal-products",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "Before giving a child something to help them sleep",
+        "description": "Compare melatonin, sedating medicines and herbal sleep products for children. Learn what to ask about night waking and what to do after an accidental dose.",
+        "intro": "At bedtime your child asks for another drink, falls asleep late and wakes again at midnight. A relative offers a sleep gummy from their cupboard. Before reaching for it, ask a different question: is the difficulty falling asleep, staying asleep, or getting up in time after a short night? Each pattern can need a different response.",
+        "sections": [
+          {
+            "heading": "Describe a few nights before choosing a product",
+            "paragraphs": [
+              "For several nights, jot down bedtime, when sleep actually starts, wakings, naps and morning wake time. Note snoring or gasping, pain, worries, caffeine and recent medicine changes. Bring the record to the child’s clinician if sleep problems persist or interfere with school, mood or family life. Tell them promptly about breathing pauses or significant daytime sleepiness.",
+              "A regular wake time and a short, predictable bedtime routine give the child cues. Move screens away from the bed and avoid caffeine in the evening. If something hurts or the child is frightened at night, deal with that concern. A child with autism, ADHD, a visual impairment or other needs may benefit from an individual sleep plan. The diagnosis alone does not select a medicine."
+            ]
+          },
+          {
+            "heading": "What the word “sleep” on a label leaves out",
+            "paragraphs": [
+              "Melatonin is a hormone involved in the timing of the body clock. A clinician may suggest it for a particular timing problem or a child with persistent difficulty falling asleep after routines have been addressed. Ask what it is meant to change, when to give it, which product to use, what unwanted effects to watch for and when to review or stop it. The amount in some supplements can differ from the label. Do not copy another child’s dose.",
+              "Some allergy and cold medicines cause drowsiness, and some children become restless instead. Do not give an antihistamine just to make a child sleep. In the randomized TIRED study, 44 infants aged 6–15 months were assigned diphenhydramine or placebo for one week. It did not reduce night wakings needing a parent’s help compared with placebo. A small infant study cannot choose a treatment for an older child."
+            ]
+          },
+          {
+            "heading": "Check herbal mixtures and prescription medicines",
+            "paragraphs": [
+              "Products with valerian, passionflower or other herbs can cause side effects and interact with medicines. Evidence for treating childhood insomnia is limited. Take a photo of the ingredients to a pharmacist or clinician before combining products. Avoid giving an adult sleeping tablet or someone else’s prescription. If a medicine has already been prescribed to your child, ask the prescriber before changing it.",
+              "Store all sleep products locked away and in their original containers, including gummies that look like sweets. If a child may have swallowed an extra dose or an unknown amount, contact the local poison centre promptly. Have the packet and time of exposure ready. Do not induce vomiting. Call emergency services immediately if breathing is difficult, the child collapses, has a seizure or cannot be awakened."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Describe the sleep pattern and its daytime effects before asking about a medicine.",
+          "Review melatonin, antihistamines and herbal products with a professional who knows your child.",
+          "Keep sleep products locked away and get poison advice for a possible extra ingestion."
+        ],
+        "faq": [
+          {
+            "q": "Will a sedative solve repeated night waking?",
+            "a": "Drowsiness does not resolve every reason for waking. Start by identifying the pattern and any pain, breathing concerns or worries. A clinician can help plan the next step."
+          },
+          {
+            "q": "Which sleeping medicine is best for children?",
+            "a": "There is no single best product. For selected children, a clinician may consider melatonin alongside a sleep plan. The intended benefit, timing and follow-up should be clear before starting."
+          },
+          {
+            "q": "Which herbal sleep remedy should I choose?",
+            "a": "No herbal product has dependable evidence as a first choice for a child’s insomnia. Bring the label and a list of other medicines for advice. A product being sold without a prescription does not establish that it is suitable."
+          },
+          {
+            "q": "What should I try when my child cannot sleep?",
+            "a": "Keep a brief sleep record, agree on a regular routine and ask what happens at bedtime and overnight. Seek an assessment for persistent difficulties, disrupted daytime life, pain, snoring or gasping."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 17, 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Record sleep onset, wakings and next-day functioning.",
+            "Ask what each proposed medicine is intended to change and when to review it.",
+            "Keep prescription, nonprescription and herbal products safely stored."
+          ],
+          "bemama": "BeMama suggests taking a picture of the proposed sleep product and bringing a few actual bedtimes and wake times to the appointment. It makes the discussion specific to your child.",
+          "safety": "Contact a poison centre promptly for a possible extra or unknown ingestion. Do not cause vomiting. Call emergency services for abnormal breathing, seizure, collapse or inability to wake the child.",
+          "sources": [
+            {
+              "organization": "American Academy of Pediatrics",
+              "title": "Melatonin and children’s sleep",
+              "url": "https://www.healthychildren.org/English/healthy-living/sleep/Pages/Melatonin-and-Childrens-Sleep.aspx"
+            },
+            {
+              "organization": "Raising Children Network",
+              "title": "Sleep medicines and herbal remedies for children",
+              "url": "https://raisingchildren.net.au/toddlers/sleep/sleep-problems/sleep-medicines"
+            },
+            {
+              "organization": "Merenstein and colleagues, Archives of Pediatrics & Adolescent Medicine",
+              "title": "Randomized trial of diphenhydramine for infant night waking",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16818836/"
+            },
+            {
+              "organization": "National Capital Poison Center",
+              "title": "Melatonin exposures and poisoning advice",
+              "url": "https://www.poison.org/articles/melatonin"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "پیش از دادن دارو یا مکمل برای خواب کودک",
+        "description": "ملاتونین، داروهای خواب‌آور و فرآورده‌های گیاهی چه تفاوتی دارند؟ بدانید بیداری‌های شبانه را چگونه ثبت کنید و اگر کودک مقدار اضافه‌ای خورد چه کنید.",
+        "intro": "وقت خواب است و فرزندتان باز هم آب می‌خواهد. دیر خوابش می‌برد و نیمه‌شب دوباره بیدار می‌شود. یکی از بستگان پاستیلی برای خواب پیشنهاد می‌کند. پیش از مصرف، ببینید مشکل کدام است. آیا کودک سخت به خواب می‌رود، در طول شب بیدار می‌شود یا پس از یک شب کوتاه نمی‌تواند به‌موقع از خواب بلند شود؟ برای هر کدام ممکن است راه متفاوتی لازم باشد.",
+        "sections": [
+          {
+            "heading": "پیش از انتخاب فرآورده، چند شب را ثبت کنید",
+            "paragraphs": [
+              "چند شب ساعت رفتن به تخت، ساعت واقعی به خواب رفتن، بیداری‌ها، چرت‌ها و زمان بیدار شدن صبح را بنویسید. خروپف یا نفس‌نفس زدن، درد، نگرانی، مصرف کافئین و تغییر اخیر دارو را هم یادداشت کنید. اگر مشکل ادامه یافت یا بر مدرسه، خلق‌وخو یا زندگی خانواده اثر گذاشت، یادداشت را به پزشک کودک نشان دهید. وقفه تنفسی یا خواب‌آلودگی چشمگیر روزانه را زود به پزشک اطلاع دهید.",
+              "ساعت ثابت بیداری و برنامه کوتاه و قابل پیش‌بینی پیش از خواب به کودک کمک می‌کند زمان خواب را بشناسد. صفحه‌نمایش‌ها را از تخت دور کنید و عصرها کافئین ندهید. اگر چیزی درد می‌کند یا کودک شب‌ها می‌ترسد، به همان مسئله رسیدگی کنید. کودکی که اوتیسم، اختلال کم‌توجهی‌ـ‌بیش‌فعالی، آسیب بینایی یا نیاز دیگری دارد ممکن است از برنامه خواب فردی سود ببرد. تشخیص به‌تنهایی تعیین نمی‌کند چه دارویی مناسب است."
+            ]
+          },
+          {
+            "heading": "واژه «خواب» روی برچسب چه چیزهایی را نمی‌گوید؟",
+            "paragraphs": [
+              "ملاتونین هورمونی است که در تنظیم ساعت زیستی نقش دارد. پزشک ممکن است برای مشکل مشخصی در زمان‌بندی خواب یا وقتی که با وجود تنظیم برنامه هنوز به خواب رفتن دشوار است، آن را پیشنهاد کند. بپرسید قرار است چه تغییری ببینید، چه زمانی و از کدام فرآورده بدهید، مراقب چه عوارضی باشید و چه وقت مصرف آن را بازبینی یا قطع کنید. مقدار ملاتونین بعضی مکمل‌ها با برچسب تفاوت دارد. دوز کودک دیگری را الگو قرار ندهید.",
+              "برخی داروهای حساسیت و سرماخوردگی خواب‌آلودگی می‌آورند و برخی کودکان برعکس، بی‌قرار می‌شوند. برای خواباندن کودک به او آنتی‌هیستامین ندهید. در پژوهش تصادفی TIRED، به ۴۴ شیرخوار ۶ تا ۱۵ ماهه به مدت یک هفته دیفن‌هیدرامین یا دارونما دادند. دارو در مقایسه با دارونما بیداری‌هایی را که به کمک والد نیاز داشت کاهش نداد. از این مطالعه کوچک در شیرخواران نمی‌توان برای کودک بزرگ‌تر درمان انتخاب کرد."
+            ]
+          },
+          {
+            "heading": "ترکیبات گیاهی و داروهای نسخه‌ای را بررسی کنید",
+            "paragraphs": [
+              "فرآورده‌های حاوی سنبل‌الطیب، گل ساعتی یا گیاهان دیگر می‌توانند عوارض داشته باشند و با داروها تداخل کنند. شواهد درمان بی‌خوابی کودک با آن‌ها محدود است. پیش از مصرف هم‌زمان چند فرآورده، عکس ترکیبات را به داروساز یا پزشک نشان دهید. قرص خواب بزرگسالان یا داروی نسخه‌شده برای فرد دیگر را به کودک ندهید. پیش از تغییر داروی تجویزشده برای خود کودک، با تجویزکننده صحبت کنید.",
+              "همه این فرآورده‌ها، حتی پاستیل‌هایی را که شبیه شیرینی‌اند، در بسته اصلی و کمد قفل‌دار بگذارید. اگر احتمال دارد کودک یک نوبت اضافه یا مقداری نامعلوم خورده باشد، سریع با مرکز محلی اطلاع‌رسانی مسمومیت‌ها تماس بگیرید. بسته و زمان مصرف را آماده داشته باشید. کودک را وادار به استفراغ نکنید. اگر نفس کشیدن دشوار است، کودک از حال می‌رود، تشنج می‌کند یا بیدار نمی‌شود، فوراً با اورژانس تماس بگیرید."
+            ]
+          }
+        ],
+        "takeaways": [
+          "پیش از پرسیدن درباره دارو، الگوی خواب و اثر آن بر روز کودک را توضیح دهید.",
+          "ملاتونین، آنتی‌هیستامین‌ها و محصولات گیاهی را با متخصصی که فرزندتان را می‌شناسد بررسی کنید.",
+          "فرآورده‌های خواب را در جای قفل‌دار بگذارید و اگر احتمال مصرف اضافه هست، از مرکز مسمومیت‌ها راهنمایی بگیرید."
+        ],
+        "faq": [
+          {
+            "q": "آیا داروی آرام‌بخش بیداری مکرر شبانه را برطرف می‌کند؟",
+            "a": "خواب‌آلودگی همه علت‌های بیداری را برطرف نمی‌کند. ابتدا الگوی بیداری، درد، مشکل تنفسی یا نگرانی‌ها را مشخص کنید. پزشک می‌تواند برای قدم بعدی کمک کند."
+          },
+          {
+            "q": "بهترین داروی خواب برای کودکان چیست؟",
+            "a": "یک فرآورده برای همه بهترین نیست. برای بعضی کودکان پزشک ممکن است همراه با برنامه خواب، ملاتونین را در نظر بگیرد. پیش از شروع باید هدف مصرف، زمان آن و برنامه پیگیری روشن باشد."
+          },
+          {
+            "q": "کدام فرآورده گیاهی برای خواب بهتر است؟",
+            "a": "برای انتخاب هیچ فرآورده گیاهی به‌عنوان درمان اول بی‌خوابی کودک شواهد قابل اتکایی وجود ندارد. برچسب فرآورده و فهرست داروهای دیگر را برای مشورت ببرید. فروش بدون نسخه مناسب بودن آن را برای کودک ثابت نمی‌کند."
+          },
+          {
+            "q": "وقتی فرزندم نمی‌تواند بخوابد چه کنم؟",
+            "a": "چند شب خواب او را ثبت کنید، درباره برنامه‌ای منظم توافق کنید و بپرسید موقع خواب و در طول شب چه می‌گذرد. برای مشکل پایدار، اختلال در فعالیت روزانه، درد، خروپف یا نفس‌نفس زدن، درخواست ارزیابی کنید."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۷ نوامبر ۲۰۲۶ بررسی شد",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "ساعت به خواب رفتن، بیداری‌ها و وضعیت کودک در روز بعد را ثبت کنید.",
+            "بپرسید هر داروی پیشنهادی قرار است چه چیزی را تغییر دهد و چه وقت باید بازبینی شود.",
+            "داروهای نسخه‌ای، بدون نسخه و فرآورده‌های گیاهی را در جای امن نگه دارید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند از فرآورده پیشنهادی عکس بگیرید و زمان واقعی خواب و بیداری چند شب را همراه آن به ویزیت ببرید تا گفت‌وگو درباره وضعیت خود فرزندتان باشد.",
+          "safety": "اگر احتمال مصرف اضافه یا مقداری نامعلوم وجود دارد، سریع با مرکز مسمومیت‌ها تماس بگیرید. کودک را وادار به استفراغ نکنید. برای تنفس غیرطبیعی، تشنج، از حال رفتن یا ناتوانی در بیدار کردن کودک با اورژانس تماس بگیرید.",
+          "sources": [
+            {
+              "organization": "آکادمی طب کودکان آمریکا",
+              "title": "ملاتونین و خواب کودکان",
+              "url": "https://www.healthychildren.org/English/healthy-living/sleep/Pages/Melatonin-and-Childrens-Sleep.aspx"
+            },
+            {
+              "organization": "شبکه پرورش کودکان",
+              "title": "داروهای خواب و فرآورده‌های گیاهی برای کودکان",
+              "url": "https://raisingchildren.net.au/toddlers/sleep/sleep-problems/sleep-medicines"
+            },
+            {
+              "organization": "مرنستین و همکاران، مجله آرشیو طب کودکان و نوجوانان",
+              "title": "کارآزمایی تصادفی دیفن‌هیدرامین برای بیداری شبانه شیرخواران",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16818836/"
+            },
+            {
+              "organization": "مرکز ملی مسمومیت پایتخت آمریکا",
+              "title": "تماس با ملاتونین و راهنمایی درباره مسمومیت",
+              "url": "https://www.poison.org/articles/melatonin"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "قبل إعطاء طفلك دواءً أو مكملاً لمساعدته على النوم",
+        "description": "تعرّف إلى الميلاتونين والأدوية المسببة للنعاس ومستحضرات الأعشاب للأطفال، وما تسأل عنه عند تكرار الاستيقاظ ليلاً وكيف تتصرف بعد جرعة زائدة بالخطأ.",
+        "intro": "عند موعد النوم يطلب طفلك كوب ماء آخر، ثم يغفو متأخراً ويستيقظ ثانية عند منتصف الليل. يعرض عليك أحد أقربائك قطعة من حلوى النوم المطاطية. قبل أن تمد يدك إليها، حدّد الصعوبة التي تواجه طفلك. هل يصعب عليه أن يغفو، أم يستيقظ كثيراً، أم يصعب إيقاظه في موعده بعد ليلة قصيرة؟ قد يحتاج كل نمط إلى تدبير مختلف.",
+        "sections": [
+          {
+            "heading": "صِف بضع ليالٍ قبل اختيار المستحضر",
+            "paragraphs": [
+              "سجّل لعدة ليالٍ وقت الذهاب إلى الفراش، ومتى غفا الطفل فعلاً، ومرات الاستيقاظ والقيلولة ووقت النهوض صباحاً. دوّن الشخير أو اللهاث والألم والقلق والكافيين وأي تغييرات حديثة في الأدوية. خذ السجل إلى طبيب الطفل إذا استمرت الصعوبة أو أثرت في المدرسة أو المزاج أو حياة الأسرة. أبلغ الطبيب سريعاً إذا لاحظت توقف التنفس أثناء النوم أو نعاساً شديداً نهاراً.",
+              "يساعد وقت نهوض منتظم وروتين قصير مألوف على تهيئة الطفل للنوم. أبعد الشاشات عن الفراش وتجنب الكافيين مساءً. إذا كان لدى الطفل ألم أو خوف ليلي فاهتم بالسبب. قد يستفيد الطفل المصاب بالتوحد أو اضطراب نقص الانتباه وفرط الحركة أو ضعف البصر، وكذلك الطفل الذي لديه احتياجات أخرى من خطة نوم فردية. التشخيص وحده لا يحدّد دواءً مناسباً."
+            ]
+          },
+          {
+            "heading": "ما الذي لا تخبرك به كلمة «النوم» على العبوة؟",
+            "paragraphs": [
+              "الميلاتونين هرمون له دور في ضبط توقيت الساعة البيولوجية. قد يقترحه الطبيب لمشكلة محددة في توقيت النوم أو لطفل ما زال يصعب عليه أن يغفو بعد تعديل الروتين. اسأل عن التغير المتوقع، ومتى تعطيه، وأي منتج تستخدم، والآثار غير المرغوب فيها التي تراقبها، ومتى تراجع الخطة أو توقفه. قد تختلف الكمية الفعلية في بعض المكملات عما على العبوة. لا تتبع جرعة طفل آخر.",
+              "تسبب بعض أدوية الحساسية والزكام النعاس، بينما قد تزيد التململ لدى بعض الأطفال. لا تعطِ مضاد هيستامين لمجرد تنويم الطفل. في دراسة TIRED العشوائية وُزّع ٤٤ رضيعاً بعمر ٦ إلى ١٥ شهراً لتلقي ديفينهيدرامين أو دواء وهمي مدة أسبوع. لم يقلّل الدواء الاستيقاظ الليلي الذي يستدعي مساعدة أحد الوالدين مقارنة بالدواء الوهمي. ولا تحدّد دراسة صغيرة لدى الرضع علاج طفل أكبر سناً."
+            ]
+          },
+          {
+            "heading": "تحقّق من الخلطات العشبية والأدوية الموصوفة",
+            "paragraphs": [
+              "قد تسبّب منتجات الناردين أو زهرة الآلام أو غيرهما من الأعشاب آثاراً جانبية وتتفاعل مع أدوية أخرى. الأدلة على علاج أرق الأطفال بها محدودة. اعرض صورة المكونات على صيدلي أو طبيب قبل الجمع بين المنتجات. لا تعطِ الطفل قرص نوم للكبار أو دواءً موصوفاً لشخص آخر. وإذا كان الدواء موصوفاً للطفل نفسه، فراجع من وصفه قبل تغييره.",
+              "احفظ مستحضرات النوم كلها في عبواتها الأصلية داخل خزانة مقفلة، بما فيها القطع المطاطية التي تشبه الحلوى. إذا احتمل أن الطفل ابتلع جرعة إضافية أو كمية مجهولة، فاتصل سريعاً بمركز السموم المحلي وجهّز العبوة ووقت الابتلاع. لا تحاول إحداث القيء. اتصل بالطوارئ فوراً إذا واجه الطفل صعوبة في التنفس أو انهار أو أصيب بنوبة تشنج أو تعذّر إيقاظه."
+            ]
+          }
+        ],
+        "takeaways": [
+          "صِف نمط النوم وآثاره نهاراً قبل السؤال عن دواء.",
+          "ناقش الميلاتونين ومضادات الهيستامين والمستحضرات العشبية مع مختص يعرف طفلك.",
+          "احفظ مستحضرات النوم في مكان مقفل واستشر مركز السموم عند احتمال ابتلاع جرعة إضافية."
+        ],
+        "faq": [
+          {
+            "q": "هل يحلّ المهدئ مشكلة الاستيقاظ الليلي المتكرر؟",
+            "a": "النعاس لا يعالج كل أسباب الاستيقاظ. حدّد أولاً نمط الاستيقاظ، وأي ألم أو مشكلة في التنفس أو قلق. يمكن للطبيب المساعدة في التخطيط للخطوة التالية."
+          },
+          {
+            "q": "ما أفضل دواء نوم للأطفال؟",
+            "a": "لا يوجد منتج واحد يناسب الجميع. قد يدرس الطبيب استخدام الميلاتونين مع خطة للنوم لدى أطفال معينين. ينبغي أن تتضح الفائدة المرجوة والتوقيت والمتابعة قبل البدء."
+          },
+          {
+            "q": "أي مستحضر عشبي للنوم أختار؟",
+            "a": "لا توجد أدلة موثوقة تدعم مستحضراً عشبياً كخيار أول لأرق الطفل. خذ الملصق وقائمة الأدوية الأخرى لطلب المشورة. بيع المنتج من دون وصفة لا يثبت أنه مناسب للطفل."
+          },
+          {
+            "q": "ماذا أجرب عندما يتعذّر على طفلي النوم؟",
+            "a": "احتفظ بسجل موجز، واتفق مع طفلك على روتين منتظم، واسأله عما يحدث عند موعد النوم وأثناء الليل. اطلب تقييماً للصعوبات المستمرة أو لتعطل الحياة نهاراً أو للألم أو الشخير أو اللهاث."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٧ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "سجّل وقت بدء النوم ومرات الاستيقاظ وكيف يمضي الطفل يومه التالي.",
+            "اسأل عن التغير المنتظر من كل دواء مقترح ومتى تُراجع الحاجة إليه.",
+            "احفظ الأدوية الموصوفة والتي تُصرف من دون وصفة والمستحضرات العشبية في مكان آمن."
+          ],
+          "bemama": "تقترح بي ماما تصوير مستحضر النوم المقترح وأخذ أوقات النوم والنهوض الفعلية لبضع ليالٍ إلى الموعد، كي يدور النقاش حول ما يحدث لطفلك.",
+          "safety": "اتصل سريعاً بمركز السموم عند احتمال ابتلاع جرعة إضافية أو كمية مجهولة. لا تحاول إحداث القيء. اتصل بالطوارئ عند اضطراب التنفس أو التشنج أو الانهيار أو تعذّر إيقاظ الطفل.",
+          "sources": [
+            {
+              "organization": "الأكاديمية الأمريكية لطب الأطفال",
+              "title": "الميلاتونين ونوم الأطفال",
+              "url": "https://www.healthychildren.org/English/healthy-living/sleep/Pages/Melatonin-and-Childrens-Sleep.aspx"
+            },
+            {
+              "organization": "شبكة تربية الأطفال",
+              "title": "أدوية النوم والمستحضرات العشبية للأطفال",
+              "url": "https://raisingchildren.net.au/toddlers/sleep/sleep-problems/sleep-medicines"
+            },
+            {
+              "organization": "ميرنشتاين وزملاؤه، دورية أرشيف طب الأطفال والمراهقين",
+              "title": "تجربة عشوائية لديفينهيدرامين في الاستيقاظ الليلي لدى الرضع",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16818836/"
+            },
+            {
+              "organization": "مركز السموم الوطني بمنطقة العاصمة الأمريكية",
+              "title": "التعرض للميلاتونين والمشورة بشأن التسمم",
+              "url": "https://www.poison.org/articles/melatonin"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Avant de donner à un enfant un produit pour dormir",
+        "description": "Mélatonine, médicaments sédatifs ou plantes : quelles questions poser si votre enfant se réveille la nuit, et que faire après une prise accidentelle ?",
+        "intro": "Votre enfant réclame à boire au coucher, s’endort tard et se réveille à minuit. Un proche vous propose une gomme pour dormir. Avant de l’accepter, posez-vous une question : votre enfant peine-t-il à s’endormir, à rester endormi ou à se lever après une nuit trop courte ? Le soutien à apporter dépend de la réponse.",
+        "sections": [
+          {
+            "heading": "Décrivez quelques nuits avant de choisir un produit",
+            "paragraphs": [
+              "Pendant plusieurs nuits, notez l’heure du coucher, l’endormissement réel, les réveils, les siestes et le lever. Relevez les ronflements, les reprises de souffle difficiles, les douleurs, les inquiétudes, la caféine et tout changement de médicament. Montrez ces notes au professionnel qui suit l’enfant si la difficulté persiste ou gêne l’école, l’humeur ou la vie familiale. Signalez rapidement des pauses respiratoires ou une forte somnolence en journée.",
+              "Une heure de lever régulière et un rituel court et prévisible donnent des repères. Éloignez les écrans du lit et évitez la caféine le soir. Si l’enfant a mal ou a peur, occupez-vous de ce qui le gêne. Un enfant autiste, ayant un TDAH, une déficience visuelle ou d’autres besoins peut bénéficier d’un accompagnement personnalisé. Le diagnostic seul ne permet pas de choisir un médicament."
+            ]
+          },
+          {
+            "heading": "Ce que le mot « sommeil » sur l’emballage ne dit pas",
+            "paragraphs": [
+              "La mélatonine est une hormone qui participe au réglage de l’horloge biologique. Un professionnel peut la proposer pour un problème précis d’horaire de sommeil ou un endormissement toujours difficile malgré un travail sur les habitudes. Demandez ce qui devrait changer, quand la donner, quel produit choisir, quels effets surveiller et quand réévaluer ou arrêter. La quantité de certains compléments peut différer de celle indiquée. Ne reprenez pas la dose d’un autre enfant.",
+              "Certains médicaments contre l’allergie ou le rhume font somnoler, tandis que certains enfants s’agitent. Ne donnez pas d’antihistaminique uniquement pour faire dormir. Dans l’essai randomisé TIRED, 44 bébés de 6 à 15 mois ont reçu pendant une semaine de la diphénhydramine ou un placebo. Le médicament n’a pas réduit les réveils nécessitant l’aide d’un parent par rapport au placebo. Ce petit essai chez le nourrisson ne permet pas de choisir un traitement pour un enfant plus âgé."
+            ]
+          },
+          {
+            "heading": "Vérifiez les plantes et les médicaments prescrits",
+            "paragraphs": [
+              "La valériane, la passiflore et d’autres plantes peuvent entraîner des effets indésirables ou interagir avec des médicaments. Les données sur leur efficacité dans l’insomnie de l’enfant sont limitées. Montrez la photo des ingrédients au pharmacien ou au médecin avant d’associer des produits. Ne donnez ni somnifère d’adulte ni médicament prescrit à quelqu’un d’autre. Si votre enfant a déjà une ordonnance, demandez au prescripteur avant toute modification.",
+              "Gardez tous les produits pour dormir sous clé et dans leur emballage d’origine, y compris les gommes qui ressemblent à des bonbons. Si l’enfant a pu avaler une dose supplémentaire ou une quantité inconnue, appelez rapidement le centre antipoison local avec l’emballage et l’heure de la prise. Ne le faites pas vomir. Appelez immédiatement les secours si sa respiration est difficile, s’il s’effondre, convulse ou ne se réveille pas."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Décrivez le sommeil et ses effets sur la journée avant de demander un médicament.",
+          "Passez en revue la mélatonine, les antihistaminiques et les plantes avec un professionnel qui connaît votre enfant.",
+          "Rangez les produits sous clé et appelez le centre antipoison s’il a pu en prendre davantage que prévu."
+        ],
+        "faq": [
+          {
+            "q": "Un sédatif mettra-t-il fin aux réveils répétés ?",
+            "a": "La somnolence ne règle pas toutes les raisons d’un réveil. Observez le déroulement de la nuit et recherchez douleurs, problèmes respiratoires ou inquiétudes. Un professionnel peut vous aider à choisir la suite."
+          },
+          {
+            "q": "Quel est le meilleur produit pour faire dormir un enfant ?",
+            "a": "Il n’existe pas de produit idéal pour tous. Dans certains cas, un professionnel peut envisager la mélatonine en complément d’un accompagnement du sommeil. Clarifiez l’effet attendu, le moment de la prise et le suivi avant de commencer."
+          },
+          {
+            "q": "Quelle plante choisir pour le sommeil ?",
+            "a": "Aucune plante ne dispose de données assez solides pour être le premier choix dans l’insomnie de l’enfant. Apportez l’étiquette et la liste des autres médicaments. Une vente sans ordonnance ne garantit pas que le produit convient."
+          },
+          {
+            "q": "Que faire si mon enfant n’arrive pas à dormir ?",
+            "a": "Tenez un bref journal de sommeil, convenez d’une routine régulière et demandez ce qui se passe au coucher et dans la nuit. Consultez pour un problème persistant, un retentissement dans la journée, de la douleur, des ronflements ou des difficultés à reprendre souffle."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 17 novembre 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Notez l’endormissement, les réveils et la façon dont l’enfant va le lendemain.",
+            "Demandez quel effet on attend de chaque médicament proposé et quand il faudra faire le point.",
+            "Rangez en lieu sûr les médicaments prescrits, ceux en vente libre et les préparations à base de plantes."
+          ],
+          "bemama": "BeMama propose de photographier le produit envisagé et d’apporter quelques heures réelles de coucher et de lever au rendez-vous. Vous pourrez ainsi parler de la situation précise de votre enfant.",
+          "safety": "En cas de dose supplémentaire possible ou de quantité inconnue, appelez rapidement un centre antipoison. Ne provoquez pas de vomissement. Appelez les secours en cas de respiration anormale, de convulsion, d’effondrement ou si l’enfant ne se réveille pas.",
+          "sources": [
+            {
+              "organization": "Académie américaine de pédiatrie",
+              "title": "La mélatonine et le sommeil des enfants",
+              "url": "https://www.healthychildren.org/English/healthy-living/sleep/Pages/Melatonin-and-Childrens-Sleep.aspx"
+            },
+            {
+              "organization": "Raising Children Network, réseau australien d’information parentale",
+              "title": "Médicaments et produits à base de plantes pour le sommeil des enfants",
+              "url": "https://raisingchildren.net.au/toddlers/sleep/sleep-problems/sleep-medicines"
+            },
+            {
+              "organization": "Merenstein et collaborateurs, Archives of Pediatrics & Adolescent Medicine",
+              "title": "Essai randomisé de la diphénhydramine pour les réveils du nourrisson",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16818836/"
+            },
+            {
+              "organization": "Centre antipoison de la région de la capitale américaine",
+              "title": "Exposition à la mélatonine et conseils en cas d’intoxication",
+              "url": "https://www.poison.org/articles/melatonin"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Çocuğunuza uyuması için bir ürün vermeden önce",
+        "description": "Çocuklarda melatonin, uyku veren ilaçlar ve bitkisel ürünleri tanıyın. Gece uyanmalarını takip etmeyi ve yanlışlıkla doz alındığında ne yapacağınızı öğrenin.",
+        "intro": "Yatma saati geldiğinde çocuğunuz bir bardak daha su istiyor, geç uykuya dalıyor ve gece yarısı tekrar uyanıyor. Bir yakınınız kendi dolabından uyku için satılan bir jelibon öneriyor. Önce sorunun ne olduğunu anlamaya çalışın. Çocuğunuz uykuya dalmakta mı, uykuyu sürdürmekte mi, yoksa kısa bir geceden sonra zamanında kalkmakta mı zorlanıyor? Her biri farklı bir yaklaşım gerektirebilir.",
+        "sections": [
+          {
+            "heading": "Bir ürün seçmeden önce birkaç geceyi kaydedin",
+            "paragraphs": [
+              "Birkaç gece boyunca yatağa girdiği ve gerçekten uykuya daldığı saatleri, gece uyanmalarını, gündüz uykularını ve sabah kalkış saatini yazın. Horlama, nefes nefese uyanma, ağrı, kaygı, kafein tüketimi ve yakın zamanda değişen ilaçları not edin. Sorun sürüyorsa veya okulu, ruh halini ya da aile yaşamını etkiliyorsa kaydı çocuğunuzun hekimine götürün. Uykuda solunumun durduğunu veya gündüz belirgin uyuklama olduğunu fark ederseniz gecikmeden bildirin.",
+              "Düzenli kalkış saati ve kısa, öngörülebilir bir akşam rutini çocuğa uyku zamanını hatırlatır. Ekranları yataktan uzaklaştırın ve akşamları kafeinden kaçının. Ağrısı ya da gece korkusu varsa bununla ilgilenin. Otizmi, DEHB’si, görme yetersizliği veya başka gereksinimleri olan çocuk için bireysel bir uyku planı yararlı olabilir. Tek başına tanı, ilaç seçimini belirlemez."
+            ]
+          },
+          {
+            "heading": "Etikette “uyku” yazması size neyi söylemez?",
+            "paragraphs": [
+              "Melatonin, vücut saatinin zamanlamasında rol oynayan bir hormondur. Hekim belirli bir zamanlama sorunu varsa veya rutin düzenlendiği halde çocuk uykuya dalmakta zorlanıyorsa melatonini önerebilir. Neyin değişmesinin beklendiğini, hangi ürünün ne zaman verileceğini, hangi istenmeyen etkilerin izleneceğini ve ne zaman yeniden değerlendirilip bırakılacağını sorun. Bazı takviyelerde miktar etikettekinden farklı olabilir. Başka bir çocuğun dozunu örnek almayın.",
+              "Bazı alerji ve soğuk algınlığı ilaçları uyku verirken kimi çocukları huzursuz edebilir. Sırf uyusun diye çocuğa antihistaminik vermeyin. TIRED adlı rastgele gruplandırılmış çalışmada 6–15 aylık 44 bebeğe bir hafta boyunca difenhidramin veya plasebo verildi. Difenhidramin, plaseboya kıyasla ebeveyn yardımı gerektiren gece uyanmalarını azaltmadı. Bebeklerde yapılan bu küçük çalışma daha büyük bir çocuk için tedavi seçimini belirleyemez."
+            ]
+          },
+          {
+            "heading": "Bitkisel karışımları ve reçeteli ilaçları kontrol edin",
+            "paragraphs": [
+              "Kediotu, çarkıfelek veya başka bitkiler içeren ürünler yan etkilere yol açabilir ve ilaçlarla etkileşebilir. Çocuklarda uykusuzluk tedavisine ilişkin kanıtlar sınırlıdır. Ürünleri bir arada vermeden önce içerik listesinin fotoğrafını bir eczacıya veya hekime gösterin. Yetişkinler için uyku hapı ya da başkasına reçete edilmiş ilacı vermeyin. Çocuğunuza reçete edilmiş bir ilacı değiştirmeden önce yazan hekime danışın.",
+              "Şekere benzeyen jelibonlar dahil tüm bu ürünleri kendi ambalajlarında ve kilit altında tutun. Çocuğun fazladan bir doz ya da bilinmeyen miktarda ürün yutmuş olma ihtimali varsa hemen yerel zehir danışma merkezine başvurun. Ambalajı ve olay saatini hazır bulundurun. Kusturmaya çalışmayın. Çocuk nefes almakta zorlanıyorsa, yığılıp kalırsa, nöbet geçirirse veya uyandırılamıyorsa derhal acil yardım çağırın."
+            ]
+          }
+        ],
+        "takeaways": [
+          "İlaç sormadan önce uyku düzenini ve gün içindeki etkilerini tarif edin.",
+          "Melatonin, antihistaminik ve bitkisel ürünleri çocuğunuzu tanıyan bir sağlık uzmanıyla değerlendirin.",
+          "Uyku ürünlerini kilit altında tutun. Fazladan ürün yutulmuş olabileceğinde zehir danışma merkezine ulaşın."
+        ],
+        "faq": [
+          {
+            "q": "Sakinleştirici sık sık gece uyanmayı çözer mi?",
+            "a": "Uykulu olmak her uyanma nedenini ortadan kaldırmaz. Önce uyanma düzenini, ağrı, solunum sorunu veya kaygı olup olmadığını belirleyin. Hekim bir sonraki adımı planlamanıza yardımcı olabilir."
+          },
+          {
+            "q": "Çocuklar için en iyi uyku ilacı hangisidir?",
+            "a": "Herkes için en iyi tek ürün yoktur. Hekim bazı çocuklar için uyku planının yanında melatonini değerlendirebilir. Başlamadan önce beklenen yarar, zamanlama ve takip planı açıklığa kavuşmalıdır."
+          },
+          {
+            "q": "Uyku için hangi bitkisel ürünü seçmeliyim?",
+            "a": "Çocukluk çağı uykusuzluğunda ilk seçenek olarak güvenilir kanıtla desteklenen bir bitkisel ürün yoktur. Danışırken etiketi ve diğer ilaçların listesini götürün. Reçetesiz satılması ürünü çocuğa uygun kılmaz."
+          },
+          {
+            "q": "Çocuğum uyuyamıyorsa ne deneyebilirim?",
+            "a": "Kısa bir uyku kaydı tutun, düzenli bir rutin belirleyin ve yatarken ya da gece neler olduğunu konuşun. Sorun sürüyorsa, gündüz yaşamı etkileniyorsa veya ağrı, horlama ya da nefes nefese uyanma varsa değerlendirme isteyin."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 17 Kasım 2026 tarihinde gözden geçirildi",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Uykuya dalış saatini, uyanmaları ve ertesi gün nasıl olduğunu kaydedin.",
+            "Önerilen her ilacın neyi değiştirmesinin beklendiğini ve ne zaman yeniden değerlendirileceğini sorun.",
+            "Reçeteli, reçetesiz ve bitkisel ürünleri güvenli bir yerde saklayın."
+          ],
+          "bemama": "BeMama, önerilen uyku ürününün fotoğrafını çekip randevuya birkaç gecenin gerçek yatış ve kalkış saatleriyle birlikte götürmenizi önerir. Böylece görüşmeyi çocuğunuzun durumuna göre sürdürebilirsiniz.",
+          "safety": "Fazladan doz veya bilinmeyen miktarda ürün yutulmuş olabileceğinde hemen zehir danışma merkezine ulaşın. Kusturmayın. Solunum anormalse, çocuk nöbet geçirirse, yığılıp kalırsa veya uyandırılamıyorsa acil yardım çağırın.",
+          "sources": [
+            {
+              "organization": "Amerikan Pediatri Akademisi",
+              "title": "Melatonin ve çocukların uykusu",
+              "url": "https://www.healthychildren.org/English/healthy-living/sleep/Pages/Melatonin-and-Childrens-Sleep.aspx"
+            },
+            {
+              "organization": "Raising Children Network",
+              "title": "Çocuklarda uyku ilaçları ve bitkisel ürünler",
+              "url": "https://raisingchildren.net.au/toddlers/sleep/sleep-problems/sleep-medicines"
+            },
+            {
+              "organization": "Merenstein ve çalışma arkadaşları, Archives of Pediatrics & Adolescent Medicine",
+              "title": "Bebeklerde gece uyanmaları için difenhidraminin rastgele gruplandırılmış çalışması",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16818836/"
+            },
+            {
+              "organization": "Ulusal Başkent Zehir Danışma Merkezi",
+              "title": "Melatonine maruz kalma ve zehirlenme danışmanlığı",
+              "url": "https://www.poison.org/articles/melatonin"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Antes de dar a un niño un producto para dormir",
+        "description": "Compara la melatonina, los sedantes y las plantas, descubre qué preguntar si tu hijo se despierta de noche y cómo actuar tras una toma accidental.",
+        "intro": "Al acostarse, tu hijo pide otro vaso de agua, se duerme tarde y a medianoche vuelve a despertarse. Un familiar ofrece una gominola para dormir. Antes de aceptarla, pregúntate si le cuesta conciliar el sueño, mantenerlo o levantarse después de una noche corta. Cada situación puede necesitar una respuesta distinta.",
+        "sections": [
+          {
+            "heading": "Describe varias noches antes de escoger un producto",
+            "paragraphs": [
+              "Durante unas noches anota la hora de acostarse, cuándo se duerme realmente, los despertares, las siestas y la hora de levantarse. Apunta si ronca o jadea, tiene dolor o preocupaciones, toma cafeína o ha cambiado de medicamento. Lleva el registro a la consulta si el problema persiste o afecta a la escuela, al ánimo o a la vida familiar. Comunica sin demora las pausas respiratorias o una somnolencia diurna marcada.",
+              "Levantarse a una hora regular y seguir una rutina breve y previsible le dan referencias. Aleja las pantallas de la cama y evita la cafeína por la tarde-noche. Si le duele algo o tiene miedo, atiende ese problema. Con autismo, TDAH, una discapacidad visual u otras necesidades puede convenir un plan de sueño individual. El diagnóstico por sí solo no indica qué medicamento usar."
+            ]
+          },
+          {
+            "heading": "Lo que no dice la palabra «sueño» en la etiqueta",
+            "paragraphs": [
+              "La melatonina es una hormona que participa en el ajuste del reloj biológico. Un profesional puede plantearla ante ciertos problemas con el horario de sueño o si al niño le sigue costando dormirse tras abordar las rutinas. Pregunta qué se espera mejorar, cuándo darla, qué producto usar, qué efectos adversos vigilar y cuándo revisarla o dejarla. La cantidad de algunos suplementos puede diferir de la etiqueta. No copies la dosis de otro niño.",
+              "Algunos medicamentos para la alergia o el resfriado causan somnolencia, y a algunos niños los inquietan. No des un antihistamínico solo para dormir. En el ensayo aleatorizado TIRED, 44 bebés de 6 a 15 meses recibieron difenhidramina o placebo durante una semana. El medicamento no redujo, frente al placebo, los despertares que requerían ayuda de un adulto. Este estudio pequeño en lactantes no determina el tratamiento de un niño mayor."
+            ]
+          },
+          {
+            "heading": "Revisa los preparados de plantas y los fármacos recetados",
+            "paragraphs": [
+              "Los productos con valeriana, pasiflora u otras plantas pueden provocar efectos adversos e interaccionar con medicamentos. Hay pocos datos sobre su eficacia para el insomnio infantil. Antes de mezclar productos, muestra una foto de los ingredientes en la farmacia o la consulta. No des somníferos para adultos ni la receta de otra persona. Si ya han recetado algo a tu hijo, consulta a quien lo indicó antes de cambiarlo.",
+              "Guarda bajo llave y en su envase original todos los productos para dormir, incluidas las gominolas que parecen golosinas. Si tu hijo pudo tomar una dosis adicional o una cantidad desconocida, contacta cuanto antes con el centro de toxicología local. Ten a mano el envase y la hora de la posible toma. No le provoques el vómito. Llama a emergencias de inmediato si le cuesta respirar, se desploma, tiene convulsiones o no consigues despertarlo."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Describe el patrón de sueño y su efecto durante el día antes de preguntar por un fármaco.",
+          "Revisa la melatonina, los antihistamínicos y las plantas con un profesional que conozca a tu hijo.",
+          "Guarda los productos bajo llave y pide orientación toxicológica ante una posible toma adicional."
+        ],
+        "faq": [
+          {
+            "q": "¿Un sedante resolverá los despertares repetidos?",
+            "a": "La somnolencia no resuelve todos los motivos de un despertar. Empieza por identificar el patrón y posibles dolores, problemas respiratorios o preocupaciones. Un profesional puede ayudar a decidir el siguiente paso."
+          },
+          {
+            "q": "¿Cuál es el mejor producto para dormir en la infancia?",
+            "a": "No hay uno que sea el mejor para todos. En casos concretos, el profesional puede valorar la melatonina junto con un plan de sueño. Aclara el beneficio esperado, el momento de uso y el seguimiento antes de empezar."
+          },
+          {
+            "q": "¿Qué remedio de plantas conviene elegir?",
+            "a": "Ninguno cuenta con pruebas sólidas para ser la primera opción ante el insomnio infantil. Lleva la etiqueta y una lista de los demás medicamentos para recibir consejo. La venta sin receta no garantiza que sea adecuado."
+          },
+          {
+            "q": "¿Qué hago si a mi hijo le cuesta dormir?",
+            "a": "Lleva un registro breve, acordad una rutina regular y pregunta qué ocurre al acostarse y por la noche. Pide valoración si la dificultad persiste, afecta al día a día o hay dolor, ronquidos o jadeos."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 17 de noviembre de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Anota la hora de conciliar el sueño, los despertares y cómo se encuentra al día siguiente.",
+            "Pregunta qué se pretende mejorar con cada medicamento propuesto y cuándo se revisará.",
+            "Guarda de forma segura los productos recetados, los de venta libre y los preparados de plantas."
+          ],
+          "bemama": "BeMama sugiere fotografiar el producto propuesto y llevar a la consulta algunas horas reales de acostarse y levantarse. Así podréis hablar de la situación concreta de tu hijo.",
+          "safety": "Contacta cuanto antes con un centro de toxicología ante una posible toma adicional o de cantidad desconocida. No provoques el vómito. Llama a emergencias si la respiración es anormal, tiene convulsiones, se desploma o no puedes despertarlo.",
+          "sources": [
+            {
+              "organization": "Academia Estadounidense de Pediatría",
+              "title": "La melatonina y el sueño infantil",
+              "url": "https://www.healthychildren.org/English/healthy-living/sleep/Pages/Melatonin-and-Childrens-Sleep.aspx"
+            },
+            {
+              "organization": "Raising Children Network, red australiana de información para familias",
+              "title": "Medicamentos y preparados de plantas para el sueño en la infancia",
+              "url": "https://raisingchildren.net.au/toddlers/sleep/sleep-problems/sleep-medicines"
+            },
+            {
+              "organization": "Merenstein y colaboradores, Archives of Pediatrics & Adolescent Medicine",
+              "title": "Ensayo aleatorizado de difenhidramina para los despertares nocturnos en lactantes",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16818836/"
+            },
+            {
+              "organization": "Centro de Toxicología de la Región de la Capital de Estados Unidos",
+              "title": "Exposición a la melatonina y orientación toxicológica",
+              "url": "https://www.poison.org/articles/melatonin"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Antes de dar à criança um produto para dormir",
+        "description": "Compare melatonina, sedativos e produtos fitoterápicos, saiba o que perguntar sobre os despertares noturnos e como agir após uma ingestão acidental.",
+        "intro": "Na hora de deitar, seu filho pede mais água, adormece tarde e acorda à meia-noite. Um parente oferece uma goma para dormir que guarda em casa. Antes de aceitá-la, pense na dificuldade: pegar no sono, continuar dormindo ou levantar na hora depois de uma noite curta? Cada padrão pode pedir uma resposta diferente.",
+        "sections": [
+          {
+            "heading": "Descreva algumas noites antes de escolher um produto",
+            "paragraphs": [
+              "Durante várias noites, anote quando a criança se deita, quando adormece, os despertares, os cochilos e a hora de levantar. Registre roncos, respiração ofegante, dores, preocupações, cafeína e mudanças de medicação. Leve as anotações à consulta se as dificuldades persistirem ou afetarem escola, humor ou vida familiar. Informe prontamente pausas na respiração ou sonolência diurna importante.",
+              "Um horário regular para acordar e uma rotina curta e previsível ao deitar ajudam a orientar a criança. Afaste as telas da cama e evite cafeína à noite. Se ela sente dor ou medo, cuide desse motivo. Crianças com autismo, TDAH, deficiência visual ou outras necessidades podem se beneficiar de um plano individual. O diagnóstico isolado não indica qual medicamento usar."
+            ]
+          },
+          {
+            "heading": "O que a palavra “sono” na embalagem não conta",
+            "paragraphs": [
+              "A melatonina é um hormônio envolvido no ajuste do relógio biológico. O profissional pode sugeri-la em determinados problemas de horário do sono ou se a criança continua com dificuldade para adormecer apesar dos ajustes na rotina. Pergunte o que deve melhorar, quando dar, qual produto usar, quais efeitos indesejados observar e quando reavaliar ou parar. Em alguns suplementos, a quantidade difere do rótulo. Não copie a dose de outra criança.",
+              "Alguns remédios contra alergia ou resfriado causam sonolência, mas algumas crianças ficam agitadas. Não dê anti-histamínico apenas para fazer a criança dormir. No ensaio randomizado TIRED, 44 bebês de 6 a 15 meses receberam difenidramina ou placebo durante uma semana. Em comparação ao placebo, o medicamento não reduziu os despertares que exigiam ajuda dos pais. Um estudo pequeno com bebês não determina o tratamento de uma criança maior."
+            ]
+          },
+          {
+            "heading": "Confira as misturas de ervas e os medicamentos prescritos",
+            "paragraphs": [
+              "Produtos com valeriana, passiflora ou outras plantas podem causar efeitos adversos e interagir com medicamentos. As evidências para tratar a insônia infantil são limitadas. Mostre uma foto dos ingredientes ao farmacêutico ou ao médico antes de combinar produtos. Não dê comprimido para dormir de adulto nem remédio prescrito para outra pessoa. Se a criança já usa um medicamento prescrito, consulte quem o receitou antes de fazer mudanças.",
+              "Guarde todos os produtos para dormir trancados e nas embalagens originais, inclusive gomas que parecem doces. Se a criança pode ter engolido uma dose extra ou quantidade desconhecida, procure logo o centro de intoxicações local. Tenha a embalagem e o horário da possível ingestão à mão. Não provoque vômito. Chame imediatamente a emergência se houver dificuldade para respirar, desmaio, convulsão ou se não conseguir acordá-la."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Descreva o padrão de sono e os efeitos durante o dia antes de perguntar sobre medicação.",
+          "Converse sobre melatonina, anti-histamínicos e ervas com um profissional que conheça a criança.",
+          "Guarde os produtos sob chave e peça orientação toxicológica se houver chance de ingestão extra."
+        ],
+        "faq": [
+          {
+            "q": "Um sedativo resolve os despertares repetidos?",
+            "a": "A sonolência não resolve todas as causas dos despertares. Identifique o padrão e observe dor, alterações respiratórias ou preocupações. Um profissional pode ajudar a planejar o próximo passo."
+          },
+          {
+            "q": "Qual é o melhor remédio para a criança dormir?",
+            "a": "Não há um único produto ideal. Em casos selecionados o profissional pode considerar melatonina junto com um plano de sono. Antes de começar, esclareça o benefício esperado, o horário e o acompanhamento."
+          },
+          {
+            "q": "Qual fitoterápico devo escolher para o sono?",
+            "a": "Não há um produto de ervas com evidência confiável como primeira escolha para a insônia infantil. Leve o rótulo e a lista de outros remédios à consulta. A venda sem receita não garante que seja adequado."
+          },
+          {
+            "q": "O que tentar quando meu filho não consegue dormir?",
+            "a": "Faça um registro breve, combine uma rotina regular e pergunte o que acontece na hora de deitar e durante a noite. Procure avaliação se a dificuldade persistir, afetar o dia a dia ou vier com dor, ronco ou dificuldade para puxar o ar."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 17 de novembro de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Anote o início do sono, os despertares e como a criança passa o dia seguinte.",
+            "Pergunte o que cada medicamento proposto pretende mudar e quando o efeito será reavaliado.",
+            "Guarde com segurança medicamentos prescritos, de venda livre e produtos de ervas."
+          ],
+          "bemama": "A BeMama sugere fotografar o produto proposto e levar à consulta alguns horários reais de deitar e levantar. Assim a conversa parte do que acontece com seu filho.",
+          "safety": "Procure logo um centro de intoxicações se a criança pode ter ingerido uma dose extra ou quantidade desconhecida. Não provoque vômito. Chame a emergência se a respiração estiver anormal, houver convulsão ou desmaio ou se a criança não acordar.",
+          "sources": [
+            {
+              "organization": "Academia Americana de Pediatria",
+              "title": "Melatonina e sono infantil",
+              "url": "https://www.healthychildren.org/English/healthy-living/sleep/Pages/Melatonin-and-Childrens-Sleep.aspx"
+            },
+            {
+              "organization": "Raising Children Network, rede australiana de informação às famílias",
+              "title": "Medicamentos e produtos de ervas para o sono infantil",
+              "url": "https://raisingchildren.net.au/toddlers/sleep/sleep-problems/sleep-medicines"
+            },
+            {
+              "organization": "Merenstein e colaboradores, Archives of Pediatrics & Adolescent Medicine",
+              "title": "Ensaio randomizado de difenidramina nos despertares noturnos de bebês",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/16818836/"
+            },
+            {
+              "organization": "Centro de Intoxicações da Região da Capital dos Estados Unidos",
+              "title": "Exposição à melatonina e orientações em caso de intoxicação",
+              "url": "https://www.poison.org/articles/melatonin"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5794.webp",
+    "heroAlt": {
+      "en": "An adult locks a medicine bottle in a glass-fronted cabinet beside a bedside lamp.",
+      "fa": "بزرگسالی درِ شیشه‌ای کمد دارو را که یک شیشهٔ دارو در آن است کنار چراغ خواب قفل می‌کند.",
+      "ar": "شخص بالغ يقفل خزانة بواجهة زجاجية فيها زجاجة دواء قرب مصباح السرير.",
+      "fr": "Un adulte ferme à clé une armoire vitrée contenant un flacon de médicament près d’une lampe de chevet.",
+      "es": "Una persona adulta cierra con llave un armario con un frasco de medicamento junto a la lámpara de noche.",
+      "pt": "Uma pessoa adulta tranca um armário de vidro com um frasco de remédio perto da luminária de cabeceira.",
+      "tr": "Bir yetişkin, başucu lambasının yanında içinde ilaç şişesi bulunan cam kapaklı dolabı kilitliyor."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "Before giving a child something to help them sleep",
+      "description": "Compare melatonin, sedating medicines and herbal sleep products for children. Learn what to ask about night waking and what to do after an accidental dose."
+    },
+    "fa": {
+      "title": "پیش از دادن دارو یا مکمل برای خواب کودک",
+      "description": "ملاتونین، داروهای خواب‌آور و فرآورده‌های گیاهی چه تفاوتی دارند؟ بدانید بیداری‌های شبانه را چگونه ثبت کنید و اگر کودک مقدار اضافه‌ای خورد چه کنید."
+    },
+    "ar": {
+      "title": "قبل إعطاء طفلك دواءً أو مكملاً لمساعدته على النوم",
+      "description": "تعرّف إلى الميلاتونين والأدوية المسببة للنعاس ومستحضرات الأعشاب للأطفال، وما تسأل عنه عند تكرار الاستيقاظ ليلاً وكيف تتصرف بعد جرعة زائدة بالخطأ."
+    },
+    "fr": {
+      "title": "Avant de donner à un enfant un produit pour dormir",
+      "description": "Mélatonine, médicaments sédatifs ou plantes : quelles questions poser si votre enfant se réveille la nuit, et que faire après une prise accidentelle ?"
+    },
+    "tr": {
+      "title": "Çocuğunuza uyuması için bir ürün vermeden önce",
+      "description": "Çocuklarda melatonin, uyku veren ilaçlar ve bitkisel ürünleri tanıyın. Gece uyanmalarını takip etmeyi ve yanlışlıkla doz alındığında ne yapacağınızı öğrenin."
+    },
+    "es": {
+      "title": "Antes de dar a un niño un producto para dormir",
+      "description": "Compara la melatonina, los sedantes y las plantas, descubre qué preguntar si tu hijo se despierta de noche y cómo actuar tras una toma accidental."
+    },
+    "pt": {
+      "title": "Antes de dar à criança um produto para dormir",
+      "description": "Compare melatonina, sedativos e produtos fitoterápicos, saiba o que perguntar sobre os despertares noturnos e como agir após uma ingestão acidental."
+    }
+  }
+}

@@ -1,0 +1,611 @@
+{
+  "sourceId": "5782",
+  "article": {
+    "slug": "when-a-teenagers-anger-turns-into-aggression",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "When a teenager’s anger turns into aggression",
+        "description": "Know when to step away from an escalating argument, how to protect people at home, and where to seek help for repeated aggression or serious threats.",
+        "intro": "A disagreement about coming home late gets louder. Then your teen throws a mug against the wall and a younger child is standing nearby. Leave the argument about the curfew for later. Move yourself and the younger child to safety first.",
+        "sections": [
+          {
+            "heading": "During an escalating argument",
+            "paragraphs": [
+              "Keep your voice low and use few words. Give the teenager room and keep a clear way out. You might say, “I want to hear what happened. I’m stepping away because things are being thrown.” Avoid following them, blocking a doorway, grabbing them or trying to take a weapon. Go to a safe place and call for help.",
+              "Call emergency services now if anyone is in immediate danger, a weapon is being used or threatened, someone is seriously injured, or you cannot keep people safe. Tell responders who is present, what happened and whether there is a weapon. Get urgent professional assessment for a serious threat to harm someone or themselves, even if the teen later dismisses it."
+            ]
+          },
+          {
+            "heading": "When everyone is safe and calmer",
+            "paragraphs": [
+              "Agree on a time to come back to the issue. Ask what your teen noticed before they lost control. Tight shoulders, a clenched jaw or faster breathing may be their signal to take a break. Practise one option together, such as moving to a quieter room or slowing the breath, and name an adult they can contact. A break is an option when it is safe; it is not a response to immediate danger.",
+              "Be clear about what must change: “It’s okay to be angry. Throwing things can hurt people.” Check on whoever was frightened or hurt, then agree how damage can be repaired. A parent can also acknowledge shouting and demonstrate trying again without blaming the teen for the adult’s reaction."
+            ]
+          },
+          {
+            "heading": "Bring a pattern to someone who can help",
+            "paragraphs": [
+              "If aggression repeats, scares people or affects school and home, contact the teenager’s clinician or a child mental health service. Describe triggers, threats, injuries, access to weapons, substance use and changes in sleep or mood. Ask about a safety plan, support for siblings and help for yourself. Do not wait for another injury.",
+              "In a primary-care trial, 224 children aged seven to fifteen with a positive psychosocial screen were randomly assigned to usual study care or an approach that gave clinicians the screen results and access to telephone parenting education. At nine months, the intervention group had lower aggression scores. It was a combined programme in a selected group; it does not show that a particular phrase will stop violence at home."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Get people to safety before discussing the rule that started the argument.",
+          "Rehearse a pause and a return to the conversation while everyone is calm.",
+          "Seek professional help for threats, repeated violence or fear at home."
+        ],
+        "faq": [
+          {
+            "q": "How can I manage my own anger?",
+            "a": "Notice your voice and posture. Step back to a safe place, keep your message brief and return to the topic when calm. Ask another adult for support."
+          },
+          {
+            "q": "What is the best response when my teenager is angry?",
+            "a": "Leave space, listen and state the limit briefly. If the anger becomes dangerous, get to safety and call emergency services."
+          },
+          {
+            "q": "How can I help my teen handle the feeling?",
+            "a": "Later, ask what they felt before the outburst. Practise a safe way to pause, calm down and come back to what needs sorting out."
+          },
+          {
+            "q": "What if I cannot control the aggression?",
+            "a": "You do not have to manage repeated violence alone. Contact a clinician or youth mental health service to plan support. In immediate danger, call emergency services now."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 17, 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Keep exits clear and move other children away from danger.",
+            "Return to problem-solving after everyone is safe.",
+            "Describe serious threats and past incidents to the assessing professional."
+          ],
+          "bemama": "BeMama suggests agreeing on a short phrase for ending a heated conversation and a time to return only when everyone feels safe.",
+          "safety": "Call emergency services for imminent harm, an immediate weapon threat, serious injury or inability to keep people safe. Arrange urgent assessment for serious threats of harm to self or others.",
+          "sources": [
+            {
+              "organization": "NHS",
+              "title": "Teen aggression and arguments",
+              "url": "https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/teen-aggression-and-arguments/"
+            },
+            {
+              "organization": "American Academy of Child and Adolescent Psychiatry",
+              "title": "Children’s threats and when to seek assessment",
+              "url": "https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Childrens-Threats-When-Are-They-Serious-065.aspx"
+            },
+            {
+              "organization": "Borowsky and colleagues, Pediatrics",
+              "title": "Primary care intervention and aggressive behaviour in children",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/15466063/"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "وقتی خشم نوجوان به پرخاشگری می‌انجامد",
+        "description": "بدانید چه زمانی از بحثی که بالا گرفته فاصله بگیرید، چگونه اعضای خانواده را ایمن نگه دارید و برای تهدید جدی یا خشونت تکرارشونده از چه کسی کمک بخواهید.",
+        "intro": "بحث بر سر دیر آمدن به خانه بالا می‌گیرد. نوجوانتان لیوانی به دیوار می‌کوبد و کودک کوچک‌تری هم آنجاست. صحبت درباره ساعت برگشت را به بعد بسپارید. اول خودتان و کودک کوچک‌تر را به جای امن ببرید.",
+        "sections": [
+          {
+            "heading": "وقتی بحث بالا می‌گیرد",
+            "paragraphs": [
+              "با صدای پایین و کوتاه صحبت کنید. به نوجوان فضا بدهید و مسیر خروج را باز بگذارید. می‌توانید بگویید: «می‌خواهم بشنوم چه اتفاقی افتاده. چون وسیله پرت می‌شود، الان کمی دور می‌شوم.» دنبالش نروید، راه در را نبندید، او را نگیرید و تلاش نکنید سلاحی را از دستش بکشید. به محل امن بروید و کمک بخواهید.",
+              "اگر کسی در خطر فوری است، سلاحی به کار رفته یا کسی با آن تهدید می‌شود، کسی به‌شدت آسیب دیده یا نمی‌توانید افراد را ایمن نگه دارید، فوراً با خدمات اضطراری تماس بگیرید. بگویید چه کسانی حضور دارند، چه اتفاقی افتاده و آیا سلاحی در محل است. تهدید جدی به آسیب زدن به خود یا دیگری به ارزیابی فوری تخصصی نیاز دارد، حتی اگر نوجوان بعداً آن را بی‌اهمیت بداند."
+            ]
+          },
+          {
+            "heading": "وقتی همه در امان و آرام‌ترند",
+            "paragraphs": [
+              "بر سر زمانی برای برگشتن به موضوع توافق کنید. بپرسید پیش از آنکه کنترلش را از دست بدهد چه حسی داشت. سفت شدن شانه‌ها، فشردن فک یا تند شدن نفس می‌تواند علامت نیاز به وقفه باشد. رفتن به اتاقی آرام‌تر یا آهسته‌تر نفس کشیدن را تمرین کنید و بزرگسالی را که می‌تواند با او تماس بگیرد مشخص کنید. وقفه وقتی کاربرد دارد که همه در امان باشند. در خطر فوری کمک اضطراری لازم است.",
+              "روشن بگویید چه رفتاری باید عوض شود: «حق داری عصبانی باشی. پرت کردن وسایل ممکن است کسی را زخمی کند.» به کسی که ترسیده یا آسیب دیده رسیدگی کنید و بعد درباره جبران خسارت توافق کنید. اگر خودتان فریاد زدید، می‌توانید این را بپذیرید و دوباره آرام‌تر شروع کنید، بدون آنکه نوجوان را مسئول واکنش خود بدانید."
+            ]
+          },
+          {
+            "heading": "هنگام درخواست کمک، الگوی اتفاق‌ها را توضیح دهید",
+            "paragraphs": [
+              "اگر پرخاشگری تکرار می‌شود، دیگران را می‌ترساند یا بر مدرسه و خانه اثر می‌گذارد، با پزشک نوجوان یا مرکز سلامت روان کودک و نوجوان تماس بگیرید. محرک‌ها، تهدیدها، آسیب‌ها، دسترسی به سلاح، مصرف مواد و تغییر خواب یا خلق‌وخو را توضیح دهید. درباره برنامه ایمنی و حمایت از خواهر و برادرها و خودتان بپرسید. منتظر آسیب بعدی نمانید.",
+              "در یک کارآزمایی در مراقبت‌های اولیه، ۲۲۴ کودک و نوجوان ۷ تا ۱۵ ساله با نتیجه مثبت غربالگری روانی‌اجتماعی به‌طور تصادفی در دو گروه قرار گرفتند. گروه اول مراقبت معمول پژوهش را دریافت کرد. در گروه دیگر پزشکان از نتیجه غربالگری آگاه شدند و خانواده‌ها به آموزش تلفنی والدین دسترسی داشتند. پس از ۹ ماه نمره پرخاشگری در گروه دوم پایین‌تر بود. این برنامه چندجزئی در گروهی منتخب اجرا شد و نشان نمی‌دهد که جمله‌ای خاص خشونت خانگی را متوقف می‌کند."
+            ]
+          }
+        ],
+        "takeaways": [
+          "پیش از صحبت درباره قانونی که بحث را آغاز کرد، افراد را به جای امن ببرید.",
+          "وقتی آرام هستید، قطع کوتاه گفت‌وگو و از سر گرفتن آن را تمرین کنید.",
+          "برای تهدید، خشونت تکراری یا ترس در خانه از متخصص کمک بگیرید."
+        ],
+        "faq": [
+          {
+            "q": "چگونه خشم خودم را مدیریت کنم؟",
+            "a": "به صدا و حالت بدنتان توجه کنید. به جای امن بروید، کوتاه صحبت کنید و پس از آرام شدن به موضوع برگردید. از بزرگسال دیگری حمایت بخواهید."
+          },
+          {
+            "q": "وقتی نوجوانم خشمگین است چه واکنشی نشان دهم؟",
+            "a": "به او فضا بدهید، گوش کنید و حد و مرز را کوتاه بیان کنید. اگر وضعیت خطرناک شد، به جای امن بروید و با خدمات اضطراری تماس بگیرید."
+          },
+          {
+            "q": "چگونه در کنار آمدن با خشم به او کمک کنم؟",
+            "a": "بعداً بپرسید پیش از فوران خشم چه حسی داشت. با هم تمرین کنید چطور با ایمنی مکث کند، آرام شود و به مسئله‌ای که باید حل شود برگردد."
+          },
+          {
+            "q": "اگر نتوانم پرخاشگری را مهار کنم چه کنم؟",
+            "a": "لازم نیست خشونت تکرارشونده را به‌تنهایی مدیریت کنید. برای تنظیم یک برنامه حمایتی با پزشک یا مرکز سلامت روان نوجوانان تماس بگیرید. در خطر فوری همین حالا خدمات اضطراری را خبر کنید."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۷ نوامبر ۲۰۲۶ بررسی شد",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "مسیر خروج را باز بگذارید و کودکان دیگر را از خطر دور کنید.",
+            "پس از ایمن شدن همه، حل مسئله را از سر بگیرید.",
+            "تهدیدهای جدی و رویدادهای پیشین را برای متخصص ارزیاب توضیح دهید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند برای پایان دادن به یک بحث داغ، روی جمله‌ای کوتاه توافق کنید و تنها وقتی همه احساس امنیت می‌کنند به گفت‌وگو برگردید.",
+          "safety": "در صورت خطر قریب‌الوقوع، تهدید فوری با سلاح، آسیب جدی یا ناتوانی در ایمن نگه داشتن افراد، با خدمات اضطراری تماس بگیرید. برای تهدید جدی به آسیب زدن به خود یا دیگران، ارزیابی فوری تخصصی بخواهید.",
+          "sources": [
+            {
+              "organization": "خدمات ملی سلامت بریتانیا",
+              "title": "پرخاشگری و مشاجره در نوجوانی",
+              "url": "https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/teen-aggression-and-arguments/"
+            },
+            {
+              "organization": "آکادمی روان‌پزشکی کودک و نوجوان آمریکا",
+              "title": "تهدیدهای کودکان و زمان درخواست ارزیابی",
+              "url": "https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Childrens-Threats-When-Are-They-Serious-065.aspx"
+            },
+            {
+              "organization": "بوروفسکی و همکاران، مجله پدیاتریکس",
+              "title": "مداخله در مراقبت‌های اولیه و رفتار پرخاشگرانه کودکان",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/15466063/"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "عندما يتحول غضب المراهق إلى عدوان",
+        "description": "تعرّف إلى الوقت المناسب للابتعاد عن جدال يتصاعد، وكيفية حماية الموجودين في المنزل، ومتى تطلب المساعدة بسبب عنف متكرر أو تهديد خطير.",
+        "intro": "يعلو الصوت في نقاش حول تأخر ابنك في العودة. يرمي كوباً في الحائط ويقف طفل أصغر منه على مقربة. أجّل النقاش حول موعد العودة. ابتعد أولاً مع الطفل الصغير إلى مكان آمن.",
+        "sections": [
+          {
+            "heading": "عندما يتصاعد الجدال",
+            "paragraphs": [
+              "تكلم بصوت منخفض وبكلمات قليلة. اترك للمراهق مساحة وللجميع طريق خروج واضحاً. يمكنك القول: «أريد سماع ما حدث. سأبتعد الآن لأن الأشياء تُرمى». لا تتبعه أو تسد المدخل أو تمسك به أو تحاول انتزاع سلاح منه. انتقل إلى مكان آمن واطلب المساعدة.",
+              "اتصل بالطوارئ الآن إذا تعرض أي شخص لخطر فوري، أو استُخدم سلاح أو وُجّه تهديد بسلاح، أو أصيب أحد إصابة خطيرة، أو تعذر عليك إبقاء الموجودين آمنين. أخبر المستجيبين بمن في المكان وما حدث وهل يوجد سلاح. اطلب تقييماً مهنياً عاجلاً لأي تهديد جدي بإيذاء النفس أو الآخرين، حتى إن قلّل المراهق لاحقاً من شأنه."
+            ]
+          },
+          {
+            "heading": "بعد أن يصبح الجميع في أمان ويهدؤوا",
+            "paragraphs": [
+              "اتفقا على وقت للعودة إلى الموضوع. اسأله عما لاحظه قبل أن يفقد السيطرة. قد ينبهه توتر الكتفين أو شد الفك أو تسارع النفس إلى حاجته لاستراحة. تدرّبا على الانتقال إلى غرفة أهدأ أو إبطاء التنفس وحددا شخصاً بالغاً يمكنه الاتصال به. تصلح الاستراحة حين يكون الوضع آمناً. أما الخطر الفوري فيحتاج إلى نجدة.",
+              "وضّح السلوك الذي يجب تغييره: «من حقك أن تغضب. رمي الأشياء قد يجرح الناس». اطمئن على من خاف أو تأذى ثم اتفقا على كيفية إصلاح الضرر. إذا صرخت أنت أيضاً يمكنك الاعتراف بذلك والمحاولة مجدداً بهدوء، دون تحميل المراهق مسؤولية ردك."
+            ]
+          },
+          {
+            "heading": "صِف النمط المتكرر لمن يمكنه المساعدة",
+            "paragraphs": [
+              "إذا تكرر العدوان أو أخاف الناس أو أثر في المدرسة والبيت، فتواصل مع طبيب المراهق أو خدمة الصحة النفسية للأطفال واليافعين. صف المواقف التي تسبق الحوادث والتهديدات والإصابات وإمكان الوصول إلى سلاح وتعاطي المواد وتغيّر النوم أو المزاج. اسأل عن خطة للسلامة وعن دعم الإخوة ودعمك أنت أيضاً. لا تنتظر إصابة جديدة.",
+              "في تجربة بالرعاية الأولية، وُزّع عشوائياً ٢٢٤ طفلاً ويافعاً أعمارهم بين ٧ و١٥ عاماً كانت نتيجة تحريهم النفسي الاجتماعي إيجابية. تلقت مجموعة الرعاية المعتادة في الدراسة. وفي الأخرى اطّلع الأطباء على نتائج التحري وأتيح للأهل إرشاد تربوي عبر الهاتف. بعد تسعة أشهر كانت درجات العدوان أقل في المجموعة الثانية. جمع البرنامج أكثر من إجراء لدى مجموعة منتقاة ولا يثبت أن عبارة بعينها ستوقف العنف في المنزل."
+            ]
+          }
+        ],
+        "takeaways": [
+          "أبعد الناس عن الخطر قبل مناقشة القاعدة التي بدأ الخلاف بسببها.",
+          "تدرّبوا على التوقف ثم العودة إلى الحديث حين يكون الجميع هادئين.",
+          "اطلب دعماً مهنياً للتهديدات أو العنف المتكرر أو الخوف في المنزل."
+        ],
+        "faq": [
+          {
+            "q": "كيف أتعامل مع غضبي أنا؟",
+            "a": "انتبه إلى صوتك ووضعية جسدك. ابتعد إلى مكان آمن واختصر كلامك وعُد إلى الموضوع حين تهدأ. اطلب مساندة شخص بالغ آخر."
+          },
+          {
+            "q": "كيف أستجيب عندما يغضب ابني المراهق؟",
+            "a": "اترك له مساحة، واستمع، واذكر الحد باختصار. إذا أصبح الوضع خطراً فانتقل إلى مكان آمن واتصل بالطوارئ."
+          },
+          {
+            "q": "كيف أساعده في التعامل مع شعوره؟",
+            "a": "اسأله لاحقاً عما أحسّ به قبل الانفجار. تدرّبا على طريقة آمنة لأخذ استراحة والهدوء ثم العودة إلى ما يلزم حله."
+          },
+          {
+            "q": "ماذا أفعل إذا عجزت عن السيطرة على العدوان؟",
+            "a": "لست مضطراً إلى التعامل مع العنف المتكرر وحدك. اتصل بطبيب أو بخدمة للصحة النفسية لليافعين لإعداد خطة دعم. في حال الخطر الفوري اتصل بالطوارئ الآن."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٧ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "اترك المخارج مفتوحة وأبعد الأطفال الآخرين عن الخطر.",
+            "عودوا إلى البحث عن حل بعدما يصبح الجميع بأمان.",
+            "أخبر المختص الذي يجري التقييم عن التهديدات الجدية والحوادث السابقة."
+          ],
+          "bemama": "تقترح بي ماما الاتفاق على عبارة قصيرة لإنهاء نقاش محتدم وعلى وقت للعودة إليه حين يشعر الجميع بالأمان فقط.",
+          "safety": "اتصل بالطوارئ عند خطر وشيك أو تهديد فوري بسلاح أو إصابة خطيرة أو تعذر حماية الناس. رتّب تقييماً عاجلاً للتهديد الجدي بإيذاء النفس أو الآخرين.",
+          "sources": [
+            {
+              "organization": "هيئة الخدمات الصحية الوطنية البريطانية",
+              "title": "عدوان المراهقين والخلافات",
+              "url": "https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/teen-aggression-and-arguments/"
+            },
+            {
+              "organization": "الأكاديمية الأمريكية للطب النفسي للأطفال والمراهقين",
+              "title": "تهديدات الأطفال ومتى يلزم التقييم",
+              "url": "https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Childrens-Threats-When-Are-They-Serious-065.aspx"
+            },
+            {
+              "organization": "بوروفسكي وزملاؤها، مجلة طب الأطفال",
+              "title": "تدخل في الرعاية الأولية والسلوك العدواني لدى الأطفال",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/15466063/"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Quand la colère d’un adolescent devient agressive",
+        "description": "Sachez quand vous éloigner d’une dispute qui s’envenime, comment protéger les proches et où demander de l’aide en cas d’agressions ou de menaces graves.",
+        "intro": "Le ton monte à propos de l’heure à laquelle votre adolescent est rentré. Il lance une tasse contre le mur alors qu’un plus jeune se tient près de lui. Vous reparlerez des horaires plus tard. Mettez-vous d’abord à l’abri avec le plus jeune.",
+        "sections": [
+          {
+            "heading": "Quand la dispute s’envenime",
+            "paragraphs": [
+              "Parlez doucement et brièvement. Laissez de l’espace à l’adolescent et gardez une issue dégagée. Vous pouvez dire : « Je veux comprendre ce qui s’est passé. Je m’éloigne parce que des objets sont lancés. » Évitez de le suivre, de bloquer une porte, de le saisir ou de lui retirer une arme. Mettez-vous à l’abri et appelez à l’aide.",
+              "Appelez immédiatement les secours si quelqu’un est en danger immédiat, si une arme est utilisée ou brandie pour menacer, si quelqu’un est grièvement blessé ou si vous ne pouvez pas assurer la sécurité des personnes présentes. Précisez qui est là, ce qui s’est passé et si une arme est présente. Toute menace sérieuse de se faire du mal ou de blesser autrui nécessite une évaluation professionnelle urgente, même si l’adolescent la minimise ensuite."
+            ]
+          },
+          {
+            "heading": "Quand tout le monde est en sécurité et plus calme",
+            "paragraphs": [
+              "Convenez d’un moment pour reprendre la discussion. Demandez à votre adolescent ce qu’il a ressenti avant de perdre le contrôle. Des épaules tendues, des mâchoires serrées ou une respiration accélérée peuvent lui signaler qu’il a besoin d’une pause. Essayez ensemble de rejoindre une pièce calme ou de ralentir la respiration. Identifiez un adulte à contacter. Une pause convient lorsque la sécurité est assurée. Un danger immédiat appelle des secours.",
+              "Précisez ce qui doit changer : « Tu as le droit d’être en colère. Lancer des objets peut blesser quelqu’un. » Prenez des nouvelles de la personne blessée ou effrayée et cherchez comment réparer les dégâts. Si vous avez crié, vous pouvez le reconnaître et reprendre plus calmement sans rendre votre adolescent responsable de votre réaction."
+            ]
+          },
+          {
+            "heading": "Décrire les incidents pour obtenir de l’aide",
+            "paragraphs": [
+              "Si les agressions se répètent, font peur ou perturbent l’école et le foyer, contactez le professionnel qui suit votre adolescent ou un service de santé mentale pour jeunes. Décrivez les déclencheurs, menaces, blessures, accès à des armes, consommation de substances et changements du sommeil ou de l’humeur. Demandez un plan de sécurité, du soutien pour les frères et sœurs et pour vous. N’attendez pas une autre blessure.",
+              "Un essai en soins primaires a réparti au hasard 224 jeunes de 7 à 15 ans dont le dépistage psychosocial était positif. Un groupe recevait les soins habituels de l’étude. Dans l’autre, les soignants connaissaient le résultat du dépistage et un accompagnement parental par téléphone était accessible. À neuf mois, les scores d’agressivité étaient plus faibles dans ce dernier groupe. Le programme combinait plusieurs mesures dans un groupe sélectionné. Il ne montre pas qu’une phrase donnée arrêtera la violence à la maison."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Mettez les personnes à l’abri avant de reparler de la règle à l’origine de la dispute.",
+          "Entraînez-vous à faire une pause puis à reprendre la discussion au calme.",
+          "Demandez une aide professionnelle en cas de menaces, de violences répétées ou de peur à la maison."
+        ],
+        "faq": [
+          {
+            "q": "Comment gérer ma propre colère ?",
+            "a": "Observez votre voix et votre posture. Éloignez-vous en sécurité, restez bref et revenez au sujet une fois calme. Appuyez-vous sur un autre adulte."
+          },
+          {
+            "q": "Comment réagir quand mon adolescent est en colère ?",
+            "a": "Laissez-lui de l’espace, écoutez et rappelez brièvement la limite. Si la colère devient dangereuse, mettez-vous à l’abri et appelez les secours."
+          },
+          {
+            "q": "Comment l’aider à gérer ce qu’il ressent ?",
+            "a": "Plus tard, demandez-lui ce qu’il a ressenti avant d’exploser. Entraînez-vous à faire une pause sans danger, à retrouver le calme puis à reprendre la question en suspens."
+          },
+          {
+            "q": "Que faire si je n’arrive pas à maîtriser les agressions ?",
+            "a": "Vous pouvez vous faire aider face à des violences répétées. Contactez un professionnel ou un service de santé mentale pour jeunes afin de préparer un plan. En cas de danger immédiat, appelez les secours sans attendre."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 17 novembre 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Gardez les issues libres et éloignez les autres enfants du danger.",
+            "Reprenez la recherche de solutions une fois tout le monde en sécurité.",
+            "Décrivez les menaces graves et les incidents passés au professionnel chargé de l’évaluation."
+          ],
+          "bemama": "BeMama propose de convenir d’une phrase brève pour interrompre une discussion animée et d’un moment pour la reprendre uniquement quand tout le monde se sentira en sécurité.",
+          "safety": "Appelez les secours en cas de danger imminent, de menace immédiate avec une arme, de blessure grave ou d’impossibilité de protéger les personnes présentes. Demandez une évaluation urgente pour toute menace sérieuse de se faire du mal ou de blesser autrui.",
+          "sources": [
+            {
+              "organization": "Service national de santé britannique",
+              "title": "Agressivité et disputes à l’adolescence",
+              "url": "https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/teen-aggression-and-arguments/"
+            },
+            {
+              "organization": "Académie américaine de psychiatrie de l’enfant et de l’adolescent",
+              "title": "Menaces des jeunes et motifs d’évaluation",
+              "url": "https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Childrens-Threats-When-Are-They-Serious-065.aspx"
+            },
+            {
+              "organization": "Borowsky et collègues, Pediatrics",
+              "title": "Intervention en soins primaires et comportements agressifs chez les jeunes",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/15466063/"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Ergenlikte öfke saldırganlığa dönüştüğünde",
+        "description": "Büyüyen bir tartışmada ne zaman uzaklaşacağınızı, evdekileri nasıl koruyacağınızı ve ciddi tehdit ya da tekrarlayan şiddette nereden yardım alacağınızı öğrenin.",
+        "intro": "Eve geç gelme konusunda tartışırken sesler yükseliyor. Ergen çocuğunuz bir kupayı duvara fırlatıyor ve küçük kardeşi yakında duruyor. Eve dönüş saatini sonra konuşun. Önce kendinizi ve küçük çocuğu güvene alın.",
+        "sections": [
+          {
+            "heading": "Tartışma büyürken",
+            "paragraphs": [
+              "Alçak sesle ve kısa konuşun. Gence alan tanıyın, çıkış yolunu açık bırakın. “Ne olduğunu duymak istiyorum. Eşyalar fırlatıldığı için şimdi uzaklaşıyorum” diyebilirsiniz. Peşinden gitmeyin, kapıyı kapatacak şekilde durmayın, genci tutmaya veya elinden silah almaya çalışmayın. Güvenli bir yere geçip yardım çağırın.",
+              "Biri o anda tehlikedeyse, silah kullanılıyor ya da silahla tehdit ediliyorsa, ciddi bir yaralanma varsa veya insanları güvende tutamıyorsanız hemen acil yardım çağırın. Görevlilere kimlerin orada olduğunu, ne yaşandığını ve silah olup olmadığını söyleyin. Genç sonradan önemsemese bile kendisine ya da başkasına zarar vereceğine dair ciddi tehdit için acil profesyonel değerlendirme isteyin."
+            ]
+          },
+          {
+            "heading": "Herkes güvende ve daha sakinken",
+            "paragraphs": [
+              "Konuya ne zaman döneceğinizi kararlaştırın. Kontrolünü kaybetmeden önce ne fark ettiğini sorun. Omuzların gerilmesi, çenenin sıkılması veya hızlı nefes alma, ara verme ihtiyacını gösterebilir. Birlikte daha sessiz bir odaya geçme ya da nefesi yavaşlatma alıştırması yapın ve ulaşabileceği bir yetişkin belirleyin. Ortam güvenliyken ara verilebilir. O anda tehlike varsa acil yardım gerekir.",
+              "Değişmesi gereken davranışı açıkça söyleyin: “Kızabilirsin. Eşya fırlatmak insanlara zarar verebilir.” Korkan veya yaralanan kişiyi kontrol edin, sonra zararın nasıl giderileceğini kararlaştırın. Siz de bağırdıysanız bunu kabul edip kendi tepkiniz için çocuğu suçlamadan yeniden deneyebilirsiniz."
+            ]
+          },
+          {
+            "heading": "Yardım isterken tekrar eden olayları anlatın",
+            "paragraphs": [
+              "Saldırganlık tekrarlıyorsa, insanları korkutuyorsa veya okulu ve ev yaşamını etkiliyorsa genci izleyen hekimle ya da çocuk ve ergen ruh sağlığı birimiyle görüşün. Tetikleyicileri, tehditleri, yaralanmaları, silaha erişimi, madde kullanımını, uyku ve duygudurum değişimlerini anlatın. Güvenlik planı, kardeşler ve kendiniz için destek isteyin. Başka birinin yaralanmasını beklemeyin.",
+              "Birinci basamakta yapılan bir araştırmada psikososyal taraması pozitif çıkan 7–15 yaşlarında 224 çocuk rastgele iki gruba ayrıldı. Bir grup araştırmadaki olağan bakımı aldı. Diğer grupta hekimlere tarama sonuçları bildirildi ve aileler telefonla ebeveyn eğitimine erişebildi. Dokuz ay sonra bu grubun saldırganlık puanları daha düşüktü. Seçilmiş bir grupta birkaç desteği birleştiren bu program, belli bir cümlenin evde şiddeti durduracağını göstermez."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Tartışmaya yol açan kuralı konuşmadan önce insanları güvene alın.",
+          "Herkes sakinken ara verip konuşmaya geri dönmeyi prova edin.",
+          "Tehditler, tekrar eden şiddet veya evde korku için profesyonel yardım alın."
+        ],
+        "faq": [
+          {
+            "q": "Kendi öfkemi nasıl yönetebilirim?",
+            "a": "Sesinizi ve duruşunuzu fark edin. Güvenli bir yere çekilin, kısa konuşun ve sakinken konuya dönün. Başka bir yetişkinden destek isteyin."
+          },
+          {
+            "q": "Gencim öfkelendiğinde nasıl karşılık vermeliyim?",
+            "a": "Alan tanıyın, dinleyin ve sınırı kısaca belirtin. Öfke tehlike yaratıyorsa güvene geçin ve acil yardım çağırın."
+          },
+          {
+            "q": "Duygusuyla baş etmesine nasıl yardım edebilirim?",
+            "a": "Daha sonra, öfke patlamasından önce ne hissettiğini sorun. Güvenli biçimde ara vermeyi, sakinleşmeyi ve çözülmesi gereken konuya dönmeyi birlikte deneyin."
+          },
+          {
+            "q": "Saldırganlığı kontrol edemiyorsam ne yapmalıyım?",
+            "a": "Tekrarlayan şiddeti tek başınıza yönetmek zorunda değilsiniz. Bir destek planı için hekim veya genç ruh sağlığı birimiyle görüşün. O anda tehlike varsa hemen acil yardım çağırın."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 17 Kasım 2026 tarihinde incelendi",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Çıkışları açık bırakın ve diğer çocukları tehlikeden uzaklaştırın.",
+            "Sorun çözmeye herkes güvendeyken dönün.",
+            "Değerlendiren uzmana ciddi tehditleri ve geçmiş olayları anlatın."
+          ],
+          "bemama": "BeMama, sertleşen bir konuşmayı bitirmek için kısa bir cümle belirlemenizi ve yalnızca herkes kendini güvende hissettiğinde konuşmaya döneceğiniz bir zaman kararlaştırmanızı önerir.",
+          "safety": "Yakın tehlike, anlık silahlı tehdit, ciddi yaralanma veya insanları koruyamama durumunda acil yardım çağırın. Kendine veya başkasına zarar vermeye yönelik ciddi tehditler için acil değerlendirme isteyin.",
+          "sources": [
+            {
+              "organization": "Birleşik Krallık Ulusal Sağlık Hizmeti",
+              "title": "Ergenlikte saldırganlık ve tartışmalar",
+              "url": "https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/teen-aggression-and-arguments/"
+            },
+            {
+              "organization": "Amerikan Çocuk ve Ergen Psikiyatrisi Akademisi",
+              "title": "Çocuklarda tehditler ve değerlendirme gerektiren durumlar",
+              "url": "https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Childrens-Threats-When-Are-They-Serious-065.aspx"
+            },
+            {
+              "organization": "Borowsky ve çalışma arkadaşları, Pediatrics",
+              "title": "Birinci basamak müdahalesi ve çocuklarda saldırgan davranış",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/15466063/"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "Cuando la ira de un adolescente se convierte en agresión",
+        "description": "Aprende cuándo apartarte de una discusión que va a más, cómo proteger a quienes están en casa y dónde pedir ayuda si hay agresiones o amenazas serias.",
+        "intro": "Una discusión porque tu hijo llegó tarde sube de tono. Lanza una taza contra la pared y hay un niño pequeño cerca. La hora de llegada puede hablarse más tarde. Ponte a salvo y lleva contigo al pequeño.",
+        "sections": [
+          {
+            "heading": "Mientras la discusión va a más",
+            "paragraphs": [
+              "Habla en voz baja y con pocas palabras. Dale espacio y deja libre una salida. Puedes decir: «Quiero saber qué pasó. Ahora me aparto porque se están lanzando cosas». Evita seguirlo, bloquear la puerta, agarrarlo o intentar quitarle un arma. Busca un lugar seguro y pide ayuda.",
+              "Llama ahora a emergencias si alguien corre peligro inmediato, se está usando un arma o amenazando con ella, hay una lesión grave o no puedes mantener a las personas a salvo. Explica quién está presente, qué pasó y si hay un arma. Busca una evaluación profesional urgente ante una amenaza seria de hacerse daño o hacer daño a otra persona, aunque después el adolescente le quite importancia."
+            ]
+          },
+          {
+            "heading": "Cuando todos estén a salvo y más tranquilos",
+            "paragraphs": [
+              "Acuerda cuándo retomar el tema. Pregunta qué notó antes de perder el control. La tensión en los hombros, la mandíbula apretada o la respiración rápida pueden indicar que necesita una pausa. Practiquen ir a una habitación tranquila o respirar más despacio y elijan a un adulto a quien pueda llamar. Hacer una pausa sirve cuando hay seguridad. Un peligro inmediato requiere actuar.",
+              "Di claramente qué debe cambiar: «Puedes enfadarte. Tirar cosas puede herir a alguien». Comprueba cómo está quien se asustó o sufrió daño y acuerden cómo repararlo. Si gritaste, puedes reconocerlo y volver a intentarlo sin responsabilizar a tu hijo de tu reacción."
+            ]
+          },
+          {
+            "heading": "Describe lo que se repite al pedir ayuda",
+            "paragraphs": [
+              "Si la agresión se repite, asusta a la familia o afecta a la escuela y al hogar, consulta al profesional que atiende al adolescente o a un servicio de salud mental juvenil. Describe los desencadenantes, amenazas, lesiones, acceso a armas, consumo de sustancias y cambios del sueño o del ánimo. Pide un plan de seguridad y apoyo para los hermanos y para ti. No esperes a que alguien vuelva a sufrir daño.",
+              "Un ensayo en atención primaria asignó al azar a 224 menores de 7 a 15 años con un resultado positivo en un cuestionario psicosocial. Un grupo recibió la atención habitual del estudio. En el otro, los profesionales conocían los resultados y había acceso a orientación telefónica para los padres. A los nueve meses, este grupo tuvo puntuaciones de agresividad menores. Fue un programa combinado en un grupo seleccionado y no demuestra que una frase concreta detenga la violencia en casa."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Pon a todos a salvo antes de hablar de la norma que originó la discusión.",
+          "Practiquen hacer una pausa y retomar la conversación cuando todos estén tranquilos.",
+          "Busca apoyo profesional ante amenazas, violencia repetida o miedo en casa."
+        ],
+        "faq": [
+          {
+            "q": "¿Cómo puedo manejar mi propio enfado?",
+            "a": "Observa tu voz y postura. Retírate a un lugar seguro, sé breve y retoma el tema con calma. Pide apoyo a otro adulto."
+          },
+          {
+            "q": "¿Cómo respondo si mi hijo adolescente está enfadado?",
+            "a": "Dale espacio, escucha y expresa el límite con pocas palabras. Si hay peligro, ponte a salvo y llama a emergencias."
+          },
+          {
+            "q": "¿Cómo puedo ayudarle a manejar lo que siente?",
+            "a": "Más tarde pregúntale qué sintió antes del estallido. Practiquen cómo hacer una pausa con seguridad, calmarse y retomar el asunto pendiente."
+          },
+          {
+            "q": "¿Y si no puedo controlar las agresiones?",
+            "a": "Puedes pedir apoyo ante la violencia repetida. Contacta con un profesional o un servicio de salud mental juvenil para preparar un plan. Si hay peligro inmediato, llama ya a emergencias."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 17 de noviembre de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Deja las salidas libres y aleja a los demás niños del peligro.",
+            "Busquen soluciones cuando todos estén a salvo.",
+            "Describe al profesional las amenazas serias y los incidentes anteriores."
+          ],
+          "bemama": "BeMama sugiere acordar una frase breve para terminar una discusión acalorada y un momento para retomarla solo cuando todos se sientan a salvo.",
+          "safety": "Llama a emergencias ante un daño inminente, una amenaza inmediata con un arma, una lesión grave o si no puedes proteger a las personas presentes. Pide evaluación urgente si hay amenazas serias de hacerse daño o de dañar a otros.",
+          "sources": [
+            {
+              "organization": "Servicio Nacional de Salud del Reino Unido",
+              "title": "Agresividad y discusiones en la adolescencia",
+              "url": "https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/teen-aggression-and-arguments/"
+            },
+            {
+              "organization": "Academia Estadounidense de Psiquiatría Infantil y Adolescente",
+              "title": "Amenazas en la infancia y cuándo solicitar una evaluación",
+              "url": "https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Childrens-Threats-When-Are-They-Serious-065.aspx"
+            },
+            {
+              "organization": "Borowsky y colaboradores, Pediatrics",
+              "title": "Intervención en atención primaria y conductas agresivas en menores",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/15466063/"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Quando a raiva do adolescente se transforma em agressão",
+        "description": "Saiba quando se afastar de uma discussão que está piorando, como proteger as pessoas em casa e onde buscar ajuda diante de agressões ou ameaças graves.",
+        "intro": "Uma discussão porque seu filho chegou tarde fica cada vez mais alta. Ele joga uma caneca contra a parede perto de uma criança menor. Deixe a conversa sobre o horário para depois. Primeiro, leve a criança e vá para um lugar seguro.",
+        "sections": [
+          {
+            "heading": "Quando a discussão se intensifica",
+            "paragraphs": [
+              "Fale baixo e use poucas palavras. Dê espaço ao adolescente e deixe livre uma saída. Você pode dizer: “Quero entender o que aconteceu. Vou me afastar porque estão jogando objetos.” Evite segui-lo, bloquear a porta, agarrá-lo ou tentar tirar uma arma. Vá para um local seguro e peça ajuda.",
+              "Acione a emergência agora se houver perigo imediato, se alguém usar uma arma ou ameaçar usá-la, se alguém estiver gravemente ferido ou se você não conseguir manter todos em segurança. Diga quem está presente, o que aconteceu e se há arma. Peça avaliação profissional urgente para uma ameaça séria de ferir a si mesmo ou outra pessoa, mesmo que o adolescente depois a minimize."
+            ]
+          },
+          {
+            "heading": "Quando todos estiverem seguros e mais tranquilos",
+            "paragraphs": [
+              "Combine um momento para voltar ao assunto. Pergunte o que o adolescente percebeu antes de perder o controle. Ombros tensos, mandíbula contraída ou respiração acelerada podem indicar que precisa de uma pausa. Pratiquem ir para um cômodo mais tranquilo ou respirar mais devagar e escolham um adulto a quem ele possa recorrer. Uma pausa cabe quando há segurança. Diante de perigo imediato, procure ajuda de emergência.",
+              "Explique o que precisa mudar: “Você pode sentir raiva. Jogar objetos pode machucar alguém.” Veja como está quem se assustou ou se feriu e combinem como reparar os danos. Se você gritou, pode reconhecer isso e recomeçar sem culpar o adolescente pela sua própria reação."
+            ]
+          },
+          {
+            "heading": "Ao pedir ajuda, descreva o que se repete",
+            "paragraphs": [
+              "Se as agressões se repetem, assustam outras pessoas ou prejudicam a escola e a família, procure o profissional que acompanha o adolescente ou um serviço de saúde mental infantojuvenil. Descreva o que desencadeia os episódios, ameaças, ferimentos, acesso a armas, uso de substâncias e mudanças no sono e no humor. Peça um plano de segurança e apoio para os irmãos e para você. Não espere que alguém se machuque de novo.",
+              "Em um ensaio na atenção primária, 224 jovens de 7 a 15 anos com triagem psicossocial positiva foram distribuídos por sorteio. Um grupo recebeu os cuidados habituais do estudo. No outro, os profissionais receberam o resultado da triagem e as famílias tiveram acesso a orientação parental por telefone. Aos nove meses, esse segundo grupo obteve pontuações menores de agressividade. Foi um programa combinado em participantes selecionados. Não demonstra que uma frase específica interrompa a violência em casa."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Proteja as pessoas antes de discutir a regra que originou o conflito.",
+          "Pratiquem fazer uma pausa e retomar a conversa quando todos estiverem calmos.",
+          "Procure apoio profissional para ameaças, violência repetida ou medo em casa."
+        ],
+        "faq": [
+          {
+            "q": "Como posso lidar com a minha raiva?",
+            "a": "Observe sua voz e sua postura. Afaste-se para um local seguro, fale brevemente e retome o assunto com calma. Peça apoio a outro adulto."
+          },
+          {
+            "q": "Como responder quando meu filho adolescente está com raiva?",
+            "a": "Dê espaço, escute e explique o limite em poucas palavras. Se houver perigo, vá para um lugar seguro e acione a emergência."
+          },
+          {
+            "q": "Como ajudá-lo a lidar com esse sentimento?",
+            "a": "Depois, pergunte o que sentiu antes de explodir. Pratiquem como fazer uma pausa em segurança, recuperar a calma e voltar ao que precisa ser resolvido."
+          },
+          {
+            "q": "E se eu não conseguir controlar as agressões?",
+            "a": "Você pode pedir apoio para lidar com violência repetida. Procure um profissional ou serviço de saúde mental juvenil para organizar um plano. Em perigo imediato, acione a emergência agora."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 17 de novembro de 2026",
+          "updatedIso": "2026-11-17",
+          "guidance": [
+            "Deixe as saídas livres e afaste as outras crianças do perigo.",
+            "Voltem a buscar soluções depois que todos estiverem seguros.",
+            "Descreva as ameaças sérias e os episódios anteriores ao profissional que fará a avaliação."
+          ],
+          "bemama": "A BeMama sugere combinar uma frase curta para interromper uma discussão acalorada e um momento para retomá-la apenas quando todos se sentirem seguros.",
+          "safety": "Acione a emergência em caso de perigo iminente, ameaça imediata com arma, ferimento grave ou se você não puder proteger as pessoas. Procure avaliação urgente para ameaças sérias de ferir a si mesmo ou outra pessoa.",
+          "sources": [
+            {
+              "organization": "Serviço Nacional de Saúde do Reino Unido",
+              "title": "Agressividade e discussões na adolescência",
+              "url": "https://www.nhs.uk/mental-health/children-and-young-adults/advice-for-parents/teen-aggression-and-arguments/"
+            },
+            {
+              "organization": "Academia Americana de Psiquiatria da Infância e Adolescência",
+              "title": "Ameaças feitas por crianças e quando pedir avaliação",
+              "url": "https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Childrens-Threats-When-Are-They-Serious-065.aspx"
+            },
+            {
+              "organization": "Borowsky e colaboradores, Pediatrics",
+              "title": "Intervenção na atenção primária e comportamento agressivo em jovens",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/15466063/"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5782.webp",
+    "heroAlt": {
+      "en": "Pieces of a broken blue mug on the hallway floor near an open door",
+      "es": "Trozos de una taza azul rota en el pasillo junto a una puerta abierta",
+      "fr": "Les morceaux d’une tasse bleue dans le couloir, près d’une porte ouverte",
+      "pt": "Cacos de uma caneca azul no corredor, perto de uma porta aberta",
+      "tr": "Koridor zemininde açık bir kapının yakınında kırık mavi kupa parçaları",
+      "fa": "تکه‌های لیوان آبی شکسته روی کف راهرو نزدیک دری باز",
+      "ar": "قطع كوب أزرق مكسور على أرض الممر قرب باب مفتوح"
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "When a teenager’s anger turns into aggression",
+      "description": "Know when to step away from an escalating argument, how to protect people at home, and where to seek help for repeated aggression or serious threats."
+    },
+    "fa": {
+      "title": "وقتی خشم نوجوان به پرخاشگری می‌انجامد",
+      "description": "بدانید چه زمانی از بحثی که بالا گرفته فاصله بگیرید، چگونه اعضای خانواده را ایمن نگه دارید و برای تهدید جدی یا خشونت تکرارشونده از چه کسی کمک بخواهید."
+    },
+    "ar": {
+      "title": "عندما يتحول غضب المراهق إلى عدوان",
+      "description": "تعرّف إلى الوقت المناسب للابتعاد عن جدال يتصاعد، وكيفية حماية الموجودين في المنزل، ومتى تطلب المساعدة بسبب عنف متكرر أو تهديد خطير."
+    },
+    "fr": {
+      "title": "Quand la colère d’un adolescent devient agressive",
+      "description": "Sachez quand vous éloigner d’une dispute qui s’envenime, comment protéger les proches et où demander de l’aide en cas d’agressions ou de menaces graves."
+    },
+    "tr": {
+      "title": "Ergenlikte öfke saldırganlığa dönüştüğünde",
+      "description": "Büyüyen bir tartışmada ne zaman uzaklaşacağınızı, evdekileri nasıl koruyacağınızı ve ciddi tehdit ya da tekrarlayan şiddette nereden yardım alacağınızı öğrenin."
+    },
+    "es": {
+      "title": "Cuando la ira de un adolescente se convierte en agresión",
+      "description": "Aprende cuándo apartarte de una discusión que va a más, cómo proteger a quienes están en casa y dónde pedir ayuda si hay agresiones o amenazas serias."
+    },
+    "pt": {
+      "title": "Quando a raiva do adolescente se transforma em agressão",
+      "description": "Saiba quando se afastar de uma discussão que está piorando, como proteger as pessoas em casa e onde buscar ajuda diante de agressões ou ameaças graves."
+    }
+  }
+}

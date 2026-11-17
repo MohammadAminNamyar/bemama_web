@@ -1,0 +1,765 @@
+{
+  "sourceId": "5825",
+  "article": {
+    "slug": "high-prolactin-ovulation-and-miscarriage",
+    "category": "ttc",
+    "i18n": {
+      "en": {
+        "title": "Can a high prolactin result explain a miscarriage?",
+        "description": "Learn how high prolactin can affect ovulation, why one result cannot explain a pregnancy loss, and when symptoms or repeat testing can guide the next step.",
+        "intro": "After a miscarriage, it is understandable to look for an explanation in a blood test. A raised prolactin result needs context. This hormone normally rises in pregnancy and during breastfeeding. A result taken then means something different from a persistently raised level in someone whose periods have become infrequent.",
+        "sections": [
+          {
+            "heading": "What prolactin can change",
+            "paragraphs": [
+              "The pituitary, a small gland at the base of the brain, releases prolactin to support milk production. Outside pregnancy or breastfeeding, persistently high levels can interfere with the signals that trigger ovulation. Periods may become irregular or stop. Some people notice milk-like nipple discharge. These changes can make conception more difficult.",
+              "Tell the clinician about the timing of the test in relation to pregnancy, a loss or breastfeeding, and how regular your cycles were before pregnancy. Ovulation may return before the first period after birth. If you want to avoid pregnancy, ask about a contraceptive method that fits your circumstances."
+            ]
+          },
+          {
+            "heading": "Can it explain a previous loss?",
+            "paragraphs": [
+              "A prolactin result cannot establish why a particular pregnancy ended. Ovulating less often and losing a pregnancy after conception are different problems. In the United States, the American Society for Reproductive Medicine recommends evaluating recurrent pregnancy loss after two or more losses and checking prolactin when there are additional clues, such as milk-like discharge or failure to ovulate. Ask how your history fits the local assessment pathway.",
+              "One small trial compared bromocriptine with no treatment in women with unexplained high prolactin and repeated miscarriage. A subsequent evidence review reported 46 women in the analysis and 42 pregnancies. There were fewer miscarriages in the treated group, but the study had important limitations. Evidence for an improvement in live births was very uncertain. Its results cannot predict one person’s outcome or justify treating everyone after a loss."
+            ]
+          },
+          {
+            "heading": "What to bring to a repeat test or consultation",
+            "paragraphs": [
+              "Bring the result with its units and the laboratory’s reference interval, your period dates, and a list of medicines. Pregnancy, breastfeeding, stress around a blood draw and some medicines can raise prolactin. Other causes include an underactive thyroid and a prolactinoma, a usually benign pituitary tumour. A single mild elevation does not diagnose a tumour.",
+              "The clinician may repeat a mildly raised result, check for pregnancy or thyroid problems and review medicines, including some used for nausea or mental health conditions. If a raised level persists, the team may check which form of prolactin the test detected or arrange imaging when appropriate. Do not stop a prescribed medicine to see whether the number falls."
+            ]
+          },
+          {
+            "heading": "When treatment is appropriate",
+            "paragraphs": [
+              "Treatment depends on the cause and your goals. For a prolactinoma, medicines such as cabergoline or bromocriptine can lower prolactin, shrink the tumour and allow ovulation to return. They are not a general treatment to prevent miscarriage. Ask which follow-up will show whether your own treatment is working.",
+              "If you take one of these medicines and are planning a pregnancy, agree in advance what to do after a positive test. Many people stop treatment under specialist guidance once pregnancy is confirmed. Some with a larger tumour need a different plan. Contact the prescribing team promptly after a positive test and follow your individual instructions. New headaches or visual changes warrant prompt medical advice. A sudden severe headache or sudden loss of vision needs emergency care."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Interpret the level alongside pregnancy or breastfeeding status, symptoms, medicines and cycle history.",
+          "Persistently high prolactin can disrupt ovulation, but one result cannot give the cause of a miscarriage.",
+          "Ask the prescribing team for a preconception plan and instructions for a positive pregnancy test."
+        ],
+        "faq": [
+          {
+            "q": "Can I have a successful pregnancy after treatment?",
+            "a": "Yes, conception and live birth are possible. Correcting a cause of high prolactin may help ovulation resume. It cannot guarantee a live birth or prove that prolactin caused a previous loss."
+          },
+          {
+            "q": "Which medicines lower prolactin?",
+            "a": "Cabergoline and bromocriptine are options for some people, including those with a prolactinoma. The choice, dose and pregnancy plan depend on the diagnosis and should be agreed with the clinician."
+          },
+          {
+            "q": "How does prolactin affect fertility?",
+            "a": "Persistently high levels can interfere with ovulation and lead to irregular or absent periods. Fertility may improve when the underlying problem is treated. If you want to avoid pregnancy, remember ovulation can return before a period."
+          },
+          {
+            "q": "Why might a prolactin result be high?",
+            "a": "Pregnancy, breastfeeding, stress, certain medicines, thyroid disease and a prolactinoma are among the possibilities. One number cannot distinguish them. Take the result and medicine list to your clinician."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Note when the blood was drawn relative to pregnancy, breastfeeding and symptoms.",
+            "Ask whether a repeat level, medicine review or thyroid test would help interpret the result.",
+            "Ask for written medicine instructions before trying for pregnancy."
+          ],
+          "bemama": "BeMama suggests bringing the laboratory report and a short menstrual and pregnancy timeline to the appointment so that the result can be interpreted in context.",
+          "safety": "Do not start or stop a medicine for a high prolactin result without the prescribing clinician’s plan. Seek emergency care for a sudden severe headache or sudden vision loss, and prompt advice for new headaches or other visual changes.",
+          "sources": [
+            {
+              "organization": "American Society for Reproductive Medicine",
+              "title": "Recurrent pregnancy loss and indications for prolactin testing",
+              "url": "https://www.asrm.org/practice-guidance/practice-committee-documents/recurrent-pregnancy-loss-a-committee-opinion-2026/"
+            },
+            {
+              "organization": "National Institute of Diabetes and Digestive and Kidney Diseases",
+              "title": "Prolactinoma, fertility and pregnancy planning",
+              "url": "https://www.niddk.nih.gov/health-information/endocrine-diseases/prolactinoma"
+            },
+            {
+              "organization": "Hirahara and colleagues, Fertility and Sterility",
+              "title": "Bromocriptine and outcomes in recurrent miscarriage with high prolactin",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/9696215/"
+            },
+            {
+              "organization": "Cochrane Pregnancy and Childbirth",
+              "title": "Dopamine agonists and miscarriage in idiopathic hyperprolactinaemia",
+              "url": "https://doi.org/10.1002/14651858.CD008883.pub2"
+            },
+            {
+              "organization": "International Pituitary Society, Nature Reviews Endocrinology",
+              "title": "Diagnosis and management of prolactin-secreting pituitary adenomas",
+              "url": "https://www.nature.com/articles/s41574-023-00886-5"
+            },
+            {
+              "organization": "Society for Endocrinology",
+              "title": "Emergency guidance for pituitary apoplexy",
+              "url": "https://rcem.ac.uk/wp-content/uploads/2022/06/Pituitary_Apoplexy_Emergency_Guidance_Society_for_Endocrinology_Jan_2014.pdf"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "آیا پرولاکتین بالا می‌تواند علت یک سقط را مشخص کند؟",
+        "description": "ببینید پرولاکتین بالا چه اثری بر تخمک‌گذاری دارد، چرا یک آزمایش علت سقط را مشخص نمی‌کند و چه زمانی پیگیری علامت‌ها یا تکرار آزمایش به تصمیم‌گیری کمک می‌کند.",
+        "intro": "بعد از از دست دادن بارداری طبیعی است که در آزمایش خون دنبال توضیحی بگردید. برای تفسیر پرولاکتین بالا باید شرایط آزمایش را دانست. این هورمون در بارداری و شیردهی به‌طور طبیعی افزایش پیدا می‌کند. بالا بودن آن در این زمان معنای متفاوتی با بالا ماندن آن در کسی دارد که فاصلهٔ قاعدگی‌هایش بیشتر شده است.",
+        "sections": [
+          {
+            "heading": "پرولاکتین چه تغییری ایجاد می‌کند؟",
+            "paragraphs": [
+              "هیپوفیز، غدهٔ کوچکی در قاعدهٔ مغز، برای کمک به تولید شیر پرولاکتین ترشح می‌کند. خارج از بارداری یا شیردهی، بالا ماندن این هورمون می‌تواند پیام‌های لازم برای تخمک‌گذاری را مختل کند. قاعدگی ممکن است نامنظم یا قطع شود. بعضی افراد متوجه ترشحی شبیه شیر از نوک پستان می‌شوند. این تغییرات می‌توانند باردار شدن را دشوارتر کنند.",
+              "به پزشک بگویید زمان آزمایش نسبت به بارداری، سقط یا شیردهی چه موقع بوده و پیش از بارداری قاعدگی‌هایتان چقدر منظم بوده‌اند. پس از زایمان، تخمک‌گذاری ممکن است پیش از اولین قاعدگی برگردد. اگر قصد بارداری ندارید، دربارهٔ روشی برای پیشگیری که با شرایطتان جور باشد مشورت کنید."
+            ]
+          },
+          {
+            "heading": "آیا می‌توان علت سقط قبلی را با این آزمایش فهمید؟",
+            "paragraphs": [
+              "یک نتیجهٔ پرولاکتین مشخص نمی‌کند که چرا یک بارداری به پایان رسیده است. کم شدن دفعات تخمک‌گذاری با از دست دادن بارداری پس از لقاح فرق دارد. در آمریکا انجمن پزشکی تولیدمثل توصیه می‌کند پس از دو بار یا بیشتر از دست دادن بارداری، بررسی برای سقط مکرر انجام شود. آزمایش پرولاکتین زمانی مطرح است که نشانهٔ دیگری مانند ترشح شیری از پستان یا نداشتن تخمک‌گذاری وجود داشته باشد. بپرسید در محل زندگی‌تان با توجه به سابقهٔ شما چه بررسی‌ای انجام می‌شود.",
+              "در یک کارآزمایی کوچک، زنان دچار پرولاکتین بالا با علت نامشخص و سقط مکرر یا بروموکریپتین دریافت کردند یا درمانی نگرفتند. مرور بعدی شواهد گزارش کرد که ۴۶ زن در تحلیل حضور داشتند و ۴۲ بارداری رخ داد. سقط در گروه درمان‌شده کمتر بود اما مطالعه محدودیت‌های مهمی داشت. شواهد دربارهٔ افزایش تولد زنده بسیار نامطمئن بود. این نتایج سرنوشت بارداری یک فرد را پیش‌بینی نمی‌کنند و دلیلی برای درمان همهٔ افراد پس از سقط نیستند."
+            ]
+          },
+          {
+            "heading": "برای آزمایش مجدد یا ویزیت چه همراه ببرید؟",
+            "paragraphs": [
+              "برگهٔ نتیجه با واحد و محدودهٔ مرجع آزمایشگاه، تاریخ‌های قاعدگی و فهرست داروها را ببرید. بارداری، شیردهی، استرس هنگام خون‌گیری و بعضی داروها ممکن است پرولاکتین را بالا ببرند. علت‌های دیگر شامل کم‌کاری تیروئید و پرولاکتینوما، تومور معمولاً خوش‌خیم هیپوفیز، هستند. یک نتیجه که فقط اندکی بالا باشد تومور را تشخیص نمی‌دهد.",
+              "پزشک ممکن است آزمایشی را که کمی بالا بوده تکرار کند، احتمال بارداری یا مشکل تیروئید را بررسی کند و داروهای مصرفی، از جمله بعضی داروهای تهوع یا سلامت روان را مرور کند. اگر پرولاکتین بالا بماند، تیم درمان ممکن است بررسی کند آزمایش کدام شکل پرولاکتین را اندازه گرفته یا در صورت لزوم تصویربرداری بخواهد. داروی تجویزی را برای اینکه ببینید عدد پایین می‌آید یا نه خودسرانه قطع نکنید."
+            ]
+          },
+          {
+            "heading": "چه زمانی درمان مناسب است؟",
+            "paragraphs": [
+              "درمان به علت و هدف شما بستگی دارد. در پرولاکتینوما، داروهایی مثل کابرگولین یا بروموکریپتین می‌توانند پرولاکتین را کم کنند، تومور را کوچک‌تر کنند و امکان بازگشت تخمک‌گذاری را فراهم کنند. این داروها درمان عمومی پیشگیری از سقط نیستند. بپرسید با چه پیگیری‌ای می‌توان فهمید درمان برای شما مؤثر بوده است.",
+              "اگر یکی از این داروها را مصرف می‌کنید و قصد بارداری دارید، از قبل روشن کنید که پس از مثبت شدن آزمایش بارداری چه باید کرد. بسیاری از افراد پس از تأیید بارداری با راهنمایی متخصص دارو را قطع می‌کنند. برای بعضی افراد که تومور بزرگ‌تری دارند، ممکن است برنامهٔ دیگری لازم باشد. پس از آزمایش مثبت زود با تیم تجویزکننده تماس بگیرید و طبق دستور ویژهٔ خودتان عمل کنید. برای سردرد تازه یا تغییر دید سریع مشورت پزشکی بگیرید. سردرد ناگهانی و شدید یا از دست رفتن ناگهانی دید نیاز به مراقبت اورژانسی دارد."
+            ]
+          }
+        ],
+        "takeaways": [
+          "نتیجه را در کنار وضعیت بارداری یا شیردهی، علامت‌ها، داروها و سابقهٔ چرخه‌های قاعدگی تفسیر کنید.",
+          "پرولاکتینی که بالا می‌ماند می‌تواند تخمک‌گذاری را مختل کند، اما یک نتیجه علت سقط را نشان نمی‌دهد.",
+          "از تیم تجویزکننده برنامهٔ پیش از بارداری و دستور پس از مثبت شدن آزمایش بارداری را بخواهید."
+        ],
+        "faq": [
+          {
+            "q": "آیا پس از درمان می‌توانم باردار شوم و نوزاد زنده به دنیا بیاورم؟",
+            "a": "بله، باردار شدن و تولد زنده ممکن است. درمان علت بالا رفتن پرولاکتین می‌تواند به بازگشت تخمک‌گذاری کمک کند. این کار تولد زنده را تضمین نمی‌کند و ثابت نمی‌کند که سقط قبلی ناشی از پرولاکتین بوده است."
+          },
+          {
+            "q": "چه داروهایی پرولاکتین را پایین می‌آورند؟",
+            "a": "کابرگولین و بروموکریپتین برای بعضی افراد، از جمله مبتلایان به پرولاکتینوما، از گزینه‌های درمان هستند. انتخاب دارو، مقدار آن و برنامهٔ بارداری به تشخیص بستگی دارند و باید با پزشک مشخص شوند."
+          },
+          {
+            "q": "پرولاکتین چه اثری بر باروری دارد؟",
+            "a": "بالا ماندن آن می‌تواند تخمک‌گذاری را مختل و قاعدگی را نامنظم یا قطع کند. با درمان علت، باروری ممکن است بهتر شود. اگر قصد بارداری ندارید به یاد داشته باشید تخمک‌گذاری ممکن است پیش از برگشت قاعدگی رخ دهد."
+          },
+          {
+            "q": "چرا ممکن است نتیجهٔ آزمایش پرولاکتین بالا باشد؟",
+            "a": "بارداری، شیردهی، استرس، بعضی داروها، بیماری تیروئید و پرولاکتینوما از احتمال‌ها هستند. یک عدد به‌تنهایی این علت‌ها را از هم جدا نمی‌کند. برگهٔ آزمایش و فهرست داروهایتان را به پزشک نشان دهید."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۶ نوامبر ۲۰۲۶ بازبینی شد",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "تاریخ خون‌گیری را نسبت به بارداری، شیردهی و شروع علامت‌ها یادداشت کنید.",
+            "بپرسید آیا تکرار آزمایش، مرور داروها یا بررسی تیروئید به تفسیر نتیجه کمک می‌کند.",
+            "پیش از تلاش برای بارداری، دستور مصرف دارو را به‌صورت کتبی بگیرید."
+          ],
+          "bemama": "بی‌ماما پیشنهاد می‌کند همراه برگهٔ آزمایش، تاریخچهٔ کوتاهی از قاعدگی‌ها و بارداری‌هایتان را به ویزیت ببرید تا نتیجه در شرایط خودتان تفسیر شود.",
+          "safety": "به دلیل پرولاکتین بالا، دارویی را بدون برنامهٔ پزشک تجویزکننده شروع یا قطع نکنید. برای سردرد ناگهانی و شدید یا از دست رفتن ناگهانی دید به اورژانس مراجعه کنید. برای سردرد تازه یا دیگر تغییرات دید سریع مشورت پزشکی بگیرید.",
+          "sources": [
+            {
+              "organization": "انجمن پزشکی تولیدمثل آمریکا",
+              "title": "سقط مکرر و موارد نیاز به آزمایش پرولاکتین",
+              "url": "https://www.asrm.org/practice-guidance/practice-committee-documents/recurrent-pregnancy-loss-a-committee-opinion-2026/"
+            },
+            {
+              "organization": "مؤسسهٔ ملی دیابت و بیماری‌های گوارشی و کلیوی آمریکا",
+              "title": "پرولاکتینوما، باروری و برنامه‌ریزی بارداری",
+              "url": "https://www.niddk.nih.gov/health-information/endocrine-diseases/prolactinoma"
+            },
+            {
+              "organization": "هیر‌اهارا و همکاران، فرتیلیتی اند استریلیتی",
+              "title": "بروموکریپتین و پیامدهای سقط مکرر همراه با پرولاکتین بالا",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/9696215/"
+            },
+            {
+              "organization": "گروه بارداری و زایمان کاکرین",
+              "title": "داروهای آگونیست دوپامین و سقط در پرولاکتین بالای بدون علت مشخص",
+              "url": "https://doi.org/10.1002/14651858.CD008883.pub2"
+            },
+            {
+              "organization": "انجمن بین‌المللی هیپوفیز، نیچر ریویوز اندوکرینولوژی",
+              "title": "تشخیص و درمان آدنوم‌های هیپوفیز ترشح‌کنندهٔ پرولاکتین",
+              "url": "https://www.nature.com/articles/s41574-023-00886-5"
+            },
+            {
+              "organization": "انجمن غدد درون‌ریز بریتانیا",
+              "title": "راهنمای اورژانسی آپوپلکسی هیپوفیز",
+              "url": "https://rcem.ac.uk/wp-content/uploads/2022/06/Pituitary_Apoplexy_Emergency_Guidance_Society_for_Endocrinology_Jan_2014.pdf"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "هل يفسّر ارتفاع البرولاكتين فقدان الحمل؟",
+        "description": "تعرّفي إلى أثر ارتفاع البرولاكتين في الإباضة، ولماذا لا يكفي تحليل واحد لمعرفة سبب فقدان الحمل، ومتى تفيد مراجعة الأعراض أو إعادة الفحص مع الطبيب.",
+        "intro": "بعد فقدان الحمل، من المفهوم أن تبحثي عن تفسير في تحليل للدم. يحتاج ارتفاع البرولاكتين إلى فهم الظروف التي أُجري فيها الفحص. يرتفع هذا الهرمون طبيعيًا في الحمل والرضاعة. والنتيجة في تلك الفترة لها دلالة مختلفة عن ارتفاع مستمر لدى شخص أصبحت دورته متباعدة.",
+        "sections": [
+          {
+            "heading": "ما الذي يغيّره البرولاكتين؟",
+            "paragraphs": [
+              "تفرز الغدة النخامية، وهي غدة صغيرة عند قاعدة الدماغ، هرمون البرولاكتين لدعم إنتاج الحليب. خارج الحمل والرضاعة، يمكن أن يؤدي ارتفاعه المستمر إلى اضطراب الإشارات التي تطلق الإباضة. وقد تصبح الدورة غير منتظمة أو تنقطع. وقد يلاحظ البعض إفرازًا يشبه الحليب من الحلمة. يمكن لهذه التغيرات أن تجعل حدوث الحمل أصعب.",
+              "أخبري الطبيب بموعد التحليل بالنسبة إلى الحمل أو فقدانه أو الرضاعة، ومدى انتظام الدورة قبل الحمل. بعد الولادة قد تعود الإباضة قبل أول دورة شهرية. إذا كنت تريدين تجنب الحمل فاسألي عن وسيلة منع تناسب ظروفك."
+            ]
+          },
+          {
+            "heading": "هل يفسّر فقدان حمل سابق؟",
+            "paragraphs": [
+              "لا تحدد نتيجة البرولاكتين سبب انتهاء حمل بعينه. قلة الإباضة وفقدان الحمل بعد حدوث الإخصاب مسألتان مختلفتان. في الولايات المتحدة توصي الجمعية الأمريكية للطب التناسلي بتقييم فقدان الحمل المتكرر بعد فقد حملين أو أكثر، وقياس البرولاكتين عند وجود دلائل إضافية، مثل إفراز يشبه الحليب أو عدم حدوث الإباضة. اسألي كيف ستجري دراسة تاريخك الصحي وفق المسار المتبع حيث تتلقين الرعاية.",
+              "قارنت تجربة صغيرة بين البروموكريبتين وعدم تلقي علاج لدى نساء يعانين ارتفاع البرولاكتين مجهول السبب وفقدان الحمل المتكرر. أفادت مراجعة لاحقة بأن التحليل شمل ٤٦ امرأة، وحدثت ٤٢ حالة حمل. كان عدد حالات الفقد أقل في المجموعة المعالجة، لكن للدراسة قيودًا مهمة. وظلت الأدلة على زيادة الولادات الحية غير مؤكدة إلى حد كبير. لا تتنبأ هذه النتائج بمآل حمل شخص بعينه ولا تبرر علاج الجميع بعد فقد الحمل."
+            ]
+          },
+          {
+            "heading": "ما الذي تحضرينه إلى موعد إعادة الفحص أو الاستشارة؟",
+            "paragraphs": [
+              "أحضري نتيجة التحليل ووحداته والمجال المرجعي للمختبر، وتواريخ الدورات وقائمة الأدوية. يمكن للحمل والرضاعة والتوتر وقت سحب الدم وبعض الأدوية أن ترفع البرولاكتين. ومن الأسباب الأخرى قصور الغدة الدرقية والورم البرولاكتيني، وهو ورم نخامي حميد في معظم الحالات. لا يكفي ارتفاع طفيف في قياس واحد لتشخيص ورم.",
+              "قد يعيد الطبيب التحليل إن كان الارتفاع طفيفًا ويتحقق من وجود حمل أو مشكلة في الغدة الدرقية ويراجع الأدوية، ومنها بعض أدوية الغثيان أو الاضطرابات النفسية. وإذا استمر الارتفاع، فقد يتحقق الفريق من صورة البرولاكتين التي قاسها التحليل أو يطلب تصويرًا عند الحاجة. لا توقفي دواءً موصوفًا لتري إن كانت النتيجة ستنخفض."
+            ]
+          },
+          {
+            "heading": "متى يكون العلاج مناسبًا؟",
+            "paragraphs": [
+              "يتوقف العلاج على السبب وعلى أهدافك. في حال الورم البرولاكتيني، قد تخفض أدوية مثل الكابيرغولين أو البروموكريبتين البرولاكتين وتقلص حجم الورم وتتيح عودة الإباضة. وهي ليست علاجًا عامًا للوقاية من فقد الحمل. اسألي كيف ستتم متابعة استجابتك للعلاج.",
+              "إذا كنت تتناولين أحد هذه الأدوية وتخططين للحمل، فاتفقي مسبقًا مع الفريق على ما تفعلينه بعد اختبار حمل إيجابي. يتوقف كثيرون عن العلاج بإرشاد من الاختصاصي بعد تأكيد الحمل. وقد تحتاج بعض المصابات بورم أكبر إلى خطة أخرى. تواصلي سريعًا مع الفريق الذي وصف الدواء بعد إيجابية الاختبار واتبعي تعليماتك الفردية. الصداع الجديد أو تغير الرؤية يستدعي مشورة طبية سريعة. أما الصداع المفاجئ الشديد أو فقدان البصر المفاجئ فيحتاج إلى رعاية طارئة."
+            ]
+          }
+        ],
+        "takeaways": [
+          "فسّري المستوى في ضوء الحمل أو الرضاعة والأعراض والأدوية وتاريخ الدورة.",
+          "قد يخلّ ارتفاع البرولاكتين المستمر بالإباضة، لكن نتيجة واحدة لا تكشف سبب فقدان الحمل.",
+          "اطلبي من الفريق الذي وصف الدواء خطة لما قبل الحمل وتعليمات واضحة إذا كان الاختبار إيجابيًا."
+        ],
+        "faq": [
+          {
+            "q": "هل يمكنني إنجاب مولود حي بعد العلاج؟",
+            "a": "نعم، يمكن حدوث حمل وولادة طفل حي. وقد يساعد علاج سبب ارتفاع البرولاكتين على عودة الإباضة. لكنه لا يضمن ولادة حية ولا يثبت أن البرولاكتين تسبب بفقد حمل سابق."
+          },
+          {
+            "q": "ما الأدوية التي تخفض البرولاكتين؟",
+            "a": "الكابيرغولين والبروموكريبتين خياران لبعض الأشخاص، بمن فيهم المصابون بالورم البرولاكتيني. يعتمد الاختيار والجرعة وخطة الحمل على التشخيص، ويجب الاتفاق عليها مع الطبيب."
+          },
+          {
+            "q": "كيف يؤثر البرولاكتين في الخصوبة؟",
+            "a": "قد تعطل مستوياته المرتفعة باستمرار الإباضة وتؤدي إلى دورة غير منتظمة أو منقطعة. وقد تتحسن الخصوبة عند علاج المشكلة المسببة. إذا كنت تريدين تجنب الحمل فتذكري أن الإباضة قد تعود قبل نزول الدورة."
+          },
+          {
+            "q": "لماذا قد تكون نتيجة البرولاكتين مرتفعة؟",
+            "a": "من التفسيرات الممكنة الحمل والرضاعة والتوتر وبعض الأدوية وأمراض الغدة الدرقية والورم البرولاكتيني. لا يميز رقم واحد بينها. خذي النتيجة وقائمة أدويتك إلى الطبيب."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "دوّني توقيت سحب الدم بالنسبة إلى الحمل والرضاعة وبدء الأعراض.",
+            "اسألي إن كانت إعادة القياس أو مراجعة الأدوية أو فحص الدرقية ستساعد في تفسير النتيجة.",
+            "اطلبي تعليمات مكتوبة عن الدواء قبل محاولة الحمل."
+          ],
+          "bemama": "تقترح بي ماما إحضار تقرير المختبر وتسلسل زمني موجز للدورات والحمل إلى الموعد ليتسنى للطبيب تفسير النتيجة في سياقها.",
+          "safety": "لا تبدئي أو توقفي دواءً بسبب ارتفاع البرولاكتين من دون خطة الطبيب الذي يصفه. اطلبي الرعاية الطارئة إذا حدث صداع شديد ومفاجئ أو فقدان مفاجئ للبصر، ومشورة سريعة للصداع الجديد أو غيره من تغيرات الرؤية.",
+          "sources": [
+            {
+              "organization": "الجمعية الأمريكية للطب التناسلي",
+              "title": "فقدان الحمل المتكرر ومتى يُطلب فحص البرولاكتين",
+              "url": "https://www.asrm.org/practice-guidance/practice-committee-documents/recurrent-pregnancy-loss-a-committee-opinion-2026/"
+            },
+            {
+              "organization": "المعهد الوطني الأمريكي للسكري وأمراض الجهاز الهضمي والكلى",
+              "title": "الورم البرولاكتيني والخصوبة والتخطيط للحمل",
+              "url": "https://www.niddk.nih.gov/health-information/endocrine-diseases/prolactinoma"
+            },
+            {
+              "organization": "هيراهارا وزملاؤه، مجلة Fertility and Sterility",
+              "title": "البروموكريبتين ونتائج الحمل عند تكرر الإجهاض مع ارتفاع البرولاكتين",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/9696215/"
+            },
+            {
+              "organization": "مجموعة كوكرين للحمل والولادة",
+              "title": "ناهضات الدوبامين وفقد الحمل في فرط البرولاكتين مجهول السبب",
+              "url": "https://doi.org/10.1002/14651858.CD008883.pub2"
+            },
+            {
+              "organization": "الجمعية الدولية للغدة النخامية، Nature Reviews Endocrinology",
+              "title": "تشخيص الأورام النخامية المفرزة للبرولاكتين وتدبيرها",
+              "url": "https://www.nature.com/articles/s41574-023-00886-5"
+            },
+            {
+              "organization": "الجمعية البريطانية للغدد الصماء",
+              "title": "إرشادات الطوارئ للسكتة النخامية",
+              "url": "https://rcem.ac.uk/wp-content/uploads/2022/06/Pituitary_Apoplexy_Emergency_Guidance_Society_for_Endocrinology_Jan_2014.pdf"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Une prolactine élevée peut-elle expliquer une fausse couche ?",
+        "description": "Découvrez comment la prolactine agit sur l’ovulation, pourquoi un dosage isolé ne suffit pas à expliquer une fausse couche et quand en parler en consultation.",
+        "intro": "Après une fausse couche, il est compréhensible de chercher une explication dans une prise de sang. Pour interpréter une prolactine élevée, il faut savoir dans quelles circonstances elle a été mesurée. Cette hormone augmente naturellement pendant la grossesse et l’allaitement. Un résultat obtenu à ce moment-là n’a pas le même sens qu’une élévation persistante chez une personne dont les règles se sont espacées.",
+        "sections": [
+          {
+            "heading": "Ce qu’une prolactine élevée peut modifier",
+            "paragraphs": [
+              "L’hypophyse, petite glande située à la base du cerveau, libère de la prolactine pour soutenir la production de lait. En dehors de la grossesse ou de l’allaitement, une élévation persistante peut perturber les signaux qui déclenchent l’ovulation. Les règles peuvent devenir irrégulières ou s’arrêter. Il arrive qu’un liquide laiteux s’écoule des mamelons. Ces changements peuvent rendre la conception plus difficile.",
+              "Précisez à quel moment la prise de sang a eu lieu par rapport à la grossesse, à sa perte ou à l’allaitement, et si vos cycles étaient réguliers avant la grossesse. Après l’accouchement, l’ovulation peut reprendre avant le retour des règles. Si vous souhaitez éviter une grossesse, demandez quelle contraception conviendrait à votre situation."
+            ]
+          },
+          {
+            "heading": "Le résultat peut-il expliquer une fausse couche passée ?",
+            "paragraphs": [
+              "Le taux de prolactine ne permet pas de déterminer pourquoi une grossesse précise s’est interrompue. Ovuler moins souvent et perdre une grossesse après la conception sont deux problèmes différents. Aux États-Unis, la Société américaine de médecine de la reproduction recommande une évaluation des pertes de grossesse répétées dès deux pertes, et un dosage de prolactine en présence d’autres signes, tels qu’un écoulement laiteux ou une absence d’ovulation. Demandez quel bilan est proposé là où vous êtes suivie, compte tenu de vos antécédents.",
+              "Un petit essai a comparé la bromocriptine à l’absence de traitement chez des femmes ayant une prolactine élevée de cause inconnue et des fausses couches répétées. Une revue ultérieure indique que l’analyse portait sur 46 femmes et 42 grossesses. Il y a eu moins de fausses couches dans le groupe traité, mais l’étude comportait des limites importantes. L’effet sur les naissances vivantes restait très incertain. Ces résultats ne prédisent pas l’issue d’une grossesse individuelle et ne justifient pas un traitement systématique après une fausse couche."
+            ]
+          },
+          {
+            "heading": "Que préparer pour un second dosage ou une consultation ?",
+            "paragraphs": [
+              "Apportez le compte rendu avec les unités et l’intervalle de référence du laboratoire, les dates de vos règles et la liste de vos médicaments. La grossesse, l’allaitement, le stress lié à la prise de sang et certains médicaments peuvent faire monter la prolactine. Une thyroïde insuffisamment active ou un prolactinome, tumeur le plus souvent bénigne de l’hypophyse, sont d’autres explications possibles. Un dosage légèrement augmenté et isolé ne permet pas de diagnostiquer une tumeur.",
+              "Le médecin peut proposer de répéter un taux légèrement élevé, de rechercher une grossesse ou un trouble thyroïdien et de revoir vos traitements. Certains médicaments contre les nausées ou prescrits en psychiatrie peuvent être concernés. Si l’élévation persiste, l’équipe peut vérifier quelle forme de prolactine le test a mesurée ou proposer un examen d’imagerie si nécessaire. Ne suspendez pas un médicament prescrit pour voir si le taux baisse."
+            ]
+          },
+          {
+            "heading": "Quand proposer un traitement ?",
+            "paragraphs": [
+              "Le traitement dépend de la cause et de vos projets. En cas de prolactinome, la cabergoline ou la bromocriptine peuvent faire baisser la prolactine, réduire la taille de la tumeur et permettre le retour de l’ovulation. Ces médicaments ne constituent pas un traitement général de prévention des fausses couches. Demandez comment l’équipe vérifiera si votre traitement fonctionne.",
+              "Si vous prenez l’un de ces médicaments et envisagez une grossesse, convenez à l’avance de la marche à suivre si le test est positif. De nombreuses personnes arrêtent le traitement sur avis spécialisé une fois la grossesse confirmée. Une tumeur plus volumineuse peut nécessiter une autre conduite. Contactez rapidement l’équipe prescriptrice après un test positif et suivez les consignes qui vous concernent. Un mal de tête nouveau ou une modification de la vision justifient un avis médical rapide. Un mal de tête soudain et intense ou une perte de vision brutale relève des urgences."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Interprétez le dosage en tenant compte d’une grossesse ou d’un allaitement, des symptômes, des médicaments et du déroulement des cycles.",
+          "Une prolactine durablement élevée peut perturber l’ovulation, mais un dosage isolé ne donne pas la cause d’une fausse couche.",
+          "Avant un projet de grossesse, demandez à l’équipe prescriptrice les consignes à suivre après un test positif."
+        ],
+        "faq": [
+          {
+            "q": "Puis-je donner naissance à un enfant vivant après le traitement ?",
+            "a": "Oui, une conception et une naissance vivante sont possibles. Traiter la cause d’une prolactine élevée peut permettre à l’ovulation de reprendre. Cela ne garantit pas une naissance vivante et ne prouve pas que la prolactine était à l’origine d’une perte antérieure."
+          },
+          {
+            "q": "Quels médicaments font baisser la prolactine ?",
+            "a": "La cabergoline et la bromocriptine sont des possibilités dans certains cas, notamment en présence d’un prolactinome. Le choix, la dose et les consignes en cas de grossesse dépendent du diagnostic et doivent être convenus avec le médecin."
+          },
+          {
+            "q": "Comment la prolactine agit-elle sur la fertilité ?",
+            "a": "Une élévation persistante peut perturber l’ovulation et entraîner des règles irrégulières ou absentes. La fertilité peut s’améliorer lorsque la cause est traitée. Si vous voulez éviter une grossesse, gardez à l’esprit que l’ovulation peut revenir avant les règles."
+          },
+          {
+            "q": "Pourquoi mon résultat peut-il être élevé ?",
+            "a": "La grossesse, l’allaitement, le stress, certains médicaments, un trouble thyroïdien ou un prolactinome font partie des possibilités. Une valeur seule ne les distingue pas. Apportez le résultat et la liste de vos traitements en consultation."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Notez la date du prélèvement par rapport à la grossesse, à l’allaitement et aux symptômes.",
+            "Demandez si un nouveau dosage, une revue des traitements ou un bilan thyroïdien aiderait à comprendre le résultat.",
+            "Avant d’essayer de concevoir, demandez des consignes écrites pour vos médicaments."
+          ],
+          "bemama": "BeMama vous propose d’apporter le compte rendu et quelques dates de règles et de grossesses pour replacer le résultat dans son contexte.",
+          "safety": "Ne commencez ni n’arrêtez un traitement pour une prolactine élevée sans la conduite convenue avec le prescripteur. Consultez les urgences pour un mal de tête soudain et intense ou une perte brutale de vision. Demandez un avis rapide pour un mal de tête nouveau ou d’autres changements visuels.",
+          "sources": [
+            {
+              "organization": "Société américaine de médecine de la reproduction",
+              "title": "Pertes de grossesse répétées et indications du dosage de la prolactine",
+              "url": "https://www.asrm.org/practice-guidance/practice-committee-documents/recurrent-pregnancy-loss-a-committee-opinion-2026/"
+            },
+            {
+              "organization": "Institut américain du diabète et des maladies digestives et rénales",
+              "title": "Prolactinome, fertilité et projet de grossesse",
+              "url": "https://www.niddk.nih.gov/health-information/endocrine-diseases/prolactinoma"
+            },
+            {
+              "organization": "Hirahara et collaborateurs, Fertility and Sterility",
+              "title": "Bromocriptine et fausses couches répétées en cas de prolactine élevée",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/9696215/"
+            },
+            {
+              "organization": "Groupe Cochrane sur la grossesse et l’accouchement",
+              "title": "Agonistes dopaminergiques et fausse couche en cas d’hyperprolactinémie idiopathique",
+              "url": "https://doi.org/10.1002/14651858.CD008883.pub2"
+            },
+            {
+              "organization": "Société internationale de l’hypophyse, Nature Reviews Endocrinology",
+              "title": "Diagnostic et prise en charge des adénomes hypophysaires sécrétant de la prolactine",
+              "url": "https://www.nature.com/articles/s41574-023-00886-5"
+            },
+            {
+              "organization": "Société britannique d’endocrinologie",
+              "title": "Prise en charge urgente de l’apoplexie hypophysaire",
+              "url": "https://rcem.ac.uk/wp-content/uploads/2022/06/Pituitary_Apoplexy_Emergency_Guidance_Society_for_Endocrinology_Jan_2014.pdf"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Yüksek prolaktin sonucu bir gebelik kaybını açıklar mı?",
+        "description": "Prolaktinin yumurtlamayı nasıl etkilediğini, tek bir sonucun gebelik kaybını neden açıklayamadığını ve hangi durumlarda yeni bir test gerekebildiğini öğrenin.",
+        "intro": "Gebelik kaybından sonra kan tahlilinde bir açıklama aramanız anlaşılır. Yüksek çıkan prolaktini yorumlayabilmek için testin hangi koşullarda yapıldığını bilmek gerekir. Bu hormon gebelikte ve emzirme döneminde doğal olarak yükselir. Böyle bir dönemde alınan sonuçla adetleri giderek seyrekleşen bir kişide sürekli yüksek ölçülen değer aynı anlama gelmez.",
+        "sections": [
+          {
+            "heading": "Prolaktin neleri değiştirebilir?",
+            "paragraphs": [
+              "Beynin tabanındaki küçük bir bez olan hipofiz, süt üretimini desteklemek için prolaktin salgılar. Gebelik ve emzirme dışında uzun süre yüksek kalan düzeyler yumurtlamayı başlatan sinyalleri etkileyebilir. Adetler düzensizleşebilir veya kesilebilir. Bazı kişiler meme ucundan süte benzer bir akıntı geldiğini fark eder. Bu değişiklikler gebe kalmayı güçleştirebilir.",
+              "Testin gebelik, kayıp veya emzirme dönemine göre ne zaman yapıldığını ve gebelikten önce adetlerinizin ne kadar düzenli olduğunu hekime anlatın. Doğumdan sonra yumurtlama ilk adetten önce geri dönebilir. Gebelik istemiyorsanız durumunuza uygun bir korunma yöntemi hakkında bilgi alın."
+            ]
+          },
+          {
+            "heading": "Daha önceki bir kaybı açıklar mı?",
+            "paragraphs": [
+              "Prolaktin sonucu belirli bir gebeliğin neden sona erdiğini gösteremez. Seyrek yumurtlama ile gebe kaldıktan sonra yaşanan kayıp ayrı sorunlardır. ABD’de Amerikan Üreme Tıbbı Derneği, iki veya daha fazla kayıptan sonra tekrarlayan gebelik kaybının değerlendirilmesini, prolaktinin ise süte benzer akıntı ya da yumurtlamama gibi ek bulgular varsa ölçülmesini önerir. Sizin öykünüzde hangi değerlendirmenin uygun olduğunu takip edildiğiniz merkeze sorun.",
+              "Küçük bir çalışmada, nedeni açıklanamayan prolaktin yüksekliği ve tekrarlayan düşüğü olan kadınlarda bromokriptin kullanımı ile tedavisiz izlem karşılaştırıldı. Sonraki bir kanıt incelemesinde analize 46 kadının alındığı ve 42 gebelik olduğu bildirildi. Tedavi grubunda daha az düşük görüldü ancak çalışmanın önemli sınırlılıkları vardı. Canlı doğumların artıp artmadığına ilişkin kanıt çok belirsizdi. Bu sonuçlarla tek bir kişinin gebelik sonucu öngörülemez veya kayıptan sonra herkese tedavi önerilemez."
+            ]
+          },
+          {
+            "heading": "Tekrar teste veya görüşmeye giderken",
+            "paragraphs": [
+              "Laboratuvarın birim ve referans aralığını içeren raporu, adet tarihlerinizi ve ilaç listenizi götürün. Gebelik, emzirme, kan alınırken yaşanan stres ve bazı ilaçlar prolaktini yükseltebilir. Tiroid bezinin yavaş çalışması ve hipofizin genellikle iyi huylu bir tümörü olan prolaktinoma da olası nedenlerdir. Bir kez ölçülen hafif yükseklik tümör tanısı koydurmaz.",
+              "Hekim hafif yüksek çıkan testi tekrarlayabilir, gebelik veya tiroid sorunu olup olmadığına bakabilir ve ilaçları gözden geçirebilir. Bulantı ya da ruh sağlığı sorunları için kullanılan bazı ilaçlar bunlara dahildir. Yükseklik sürerse ekip testin prolaktinin hangi biçimini ölçtüğünü kontrol edebilir veya uygun görürse görüntüleme isteyebilir. Sonucun düşüp düşmediğini görmek için reçeteli bir ilacı kendiliğinizden kesmeyin."
+            ]
+          },
+          {
+            "heading": "Tedavi ne zaman uygundur?",
+            "paragraphs": [
+              "Tedavi nedene ve sizin beklentilerinize bağlıdır. Prolaktinomada kabergolin veya bromokriptin gibi ilaçlar prolaktini azaltabilir, tümörü küçültebilir ve yumurtlamanın yeniden başlamasını sağlayabilir. Düşükleri önlemek için herkese uygulanan bir tedavi değildir. Sizin tedavinizin etkisinin nasıl izleneceğini sorun.",
+              "Bu ilaçlardan birini kullanıyor ve gebelik planlıyorsanız gebelik testi pozitif çıktığında ne yapacağınızı önceden kararlaştırın. Birçok kişi gebelik doğrulandıktan sonra uzman yönlendirmesiyle ilacı bırakır. Daha büyük tümörü olan bazı kişiler için farklı bir plan gerekebilir. Test pozitif çıktığında ilacı yazan ekiple gecikmeden görüşün ve size özel talimatlara uyun. Yeni başlayan baş ağrısı veya görme değişikliği için hızla tıbbi görüş alın. Aniden başlayan şiddetli baş ağrısı veya ani görme kaybı acil yardım gerektirir."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Sonucu gebelik veya emzirme durumu, belirtiler, ilaçlar ve adet düzeninizle birlikte değerlendirin.",
+          "Sürekli yüksek prolaktin yumurtlamayı bozabilir, ancak tek bir sonuç gebelik kaybının nedenini göstermez.",
+          "Gebelik öncesinde ve test pozitif çıktığında uygulanacak planı ilacı yazan ekipten isteyin."
+        ],
+        "faq": [
+          {
+            "q": "Tedaviden sonra sağlıklı bir gebelik sonucu mümkün mü?",
+            "a": "Evet, gebe kalmak ve canlı doğum yapmak mümkündür. Prolaktin yüksekliğinin nedeni tedavi edildiğinde yumurtlama geri dönebilir. Bu, canlı doğumu garanti etmez veya önceki kaybın prolaktinden kaynaklandığını göstermez."
+          },
+          {
+            "q": "Hangi ilaçlar prolaktini düşürür?",
+            "a": "Kabergolin ve bromokriptin, prolaktinoması olanlar dahil bazı kişiler için seçeneklerdir. İlaç seçimi, doz ve gebelikte izlenecek yol tanıya bağlıdır ve hekimle birlikte belirlenmelidir."
+          },
+          {
+            "q": "Prolaktin doğurganlığı nasıl etkiler?",
+            "a": "Sürekli yüksek düzeyler yumurtlamayı etkileyebilir ve adetlerin düzensizleşmesine veya kesilmesine yol açabilir. Altta yatan sorun tedavi edildiğinde doğurganlık artabilir. Gebelik istemiyorsanız yumurtlamanın ilk adetten önce geri dönebileceğini hatırlayın."
+          },
+          {
+            "q": "Prolaktin neden yüksek çıkabilir?",
+            "a": "Gebelik, emzirme, stres, bazı ilaçlar, tiroid hastalığı ve prolaktinoma olası nedenler arasındadır. Tek bir sayı bunları ayırt ettirmez. Sonucunuzu ve ilaç listenizi hekime götürün."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtların gözden geçirilme tarihi 16 Kasım 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Kan örneğinin gebelik, emzirme ve belirtilere göre ne zaman alındığını kaydedin.",
+            "Tekrar ölçümün, ilaçların gözden geçirilmesinin veya tiroid testinin sonucu yorumlamaya yardımcı olup olmayacağını sorun.",
+            "Gebe kalmayı denemeden önce ilaçlarınız için yazılı talimat isteyin."
+          ],
+          "bemama": "BeMama, hekimin sonucu değerlendirirken bağlamı görebilmesi için laboratuvar raporunu, adet ve gebelik tarihlerini kısaca not ederek randevuya götürmenizi önerir.",
+          "safety": "Prolaktin yüksekliği nedeniyle ilacı yazan hekimin planı olmadan bir ilaca başlamayın veya ilacı kesmeyin. Ani ve şiddetli baş ağrısı ya da ani görme kaybında acil yardım alın. Yeni baş ağrısı veya diğer görme değişikliklerinde gecikmeden tıbbi görüş alın.",
+          "sources": [
+            {
+              "organization": "Amerikan Üreme Tıbbı Derneği",
+              "title": "Tekrarlayan gebelik kaybı ve prolaktin ölçümü gerektiren durumlar",
+              "url": "https://www.asrm.org/practice-guidance/practice-committee-documents/recurrent-pregnancy-loss-a-committee-opinion-2026/"
+            },
+            {
+              "organization": "ABD Ulusal Diyabet, Sindirim ve Böbrek Hastalıkları Enstitüsü",
+              "title": "Prolaktinoma, doğurganlık ve gebelik planlaması",
+              "url": "https://www.niddk.nih.gov/health-information/endocrine-diseases/prolactinoma"
+            },
+            {
+              "organization": "Hirahara ve çalışma arkadaşları, Fertility and Sterility",
+              "title": "Prolaktin yüksekliğiyle birlikte tekrarlayan düşüklerde bromokriptin ve gebelik sonuçları",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/9696215/"
+            },
+            {
+              "organization": "Cochrane Gebelik ve Doğum Grubu",
+              "title": "Nedeni bilinmeyen prolaktin yüksekliğinde dopamin agonistleri ve düşük",
+              "url": "https://doi.org/10.1002/14651858.CD008883.pub2"
+            },
+            {
+              "organization": "Uluslararası Hipofiz Derneği, Nature Reviews Endocrinology",
+              "title": "Prolaktin salgılayan hipofiz adenomlarının tanı ve tedavisi",
+              "url": "https://www.nature.com/articles/s41574-023-00886-5"
+            },
+            {
+              "organization": "Birleşik Krallık Endokrinoloji Derneği",
+              "title": "Hipofiz apopleksisinde acil yaklaşım rehberi",
+              "url": "https://rcem.ac.uk/wp-content/uploads/2022/06/Pituitary_Apoplexy_Emergency_Guidance_Society_for_Endocrinology_Jan_2014.pdf"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "¿La prolactina alta explica una pérdida del embarazo?",
+        "description": "Descubre cómo afecta la prolactina a la ovulación, por qué un análisis no basta para explicar una pérdida y cuándo conviene repetirlo o consultar los síntomas.",
+        "intro": "Después de una pérdida del embarazo, es comprensible buscar una explicación en un análisis de sangre. Para interpretar una prolactina elevada hay que saber cuándo se midió. Esta hormona normalmente aumenta en el embarazo y la lactancia. Un resultado en ese momento tiene un significado distinto al de una elevación persistente en alguien que cada vez menstrúa con menor frecuencia.",
+        "sections": [
+          {
+            "heading": "Qué puede cambiar cuando sube la prolactina",
+            "paragraphs": [
+              "La hipófisis, una pequeña glándula en la base del cerebro, libera prolactina para favorecer la producción de leche. Fuera del embarazo y la lactancia, unos niveles elevados de forma persistente pueden interferir con las señales que desencadenan la ovulación. Las reglas pueden volverse irregulares o desaparecer. Algunas personas observan una secreción parecida a la leche en los pezones. Estos cambios pueden dificultar la concepción.",
+              "Explica cuándo se hizo el análisis en relación con un embarazo, una pérdida o la lactancia, y cómo eran tus ciclos antes del embarazo. Después del parto, puedes volver a ovular antes de la primera regla. Si quieres evitar un embarazo, pregunta qué método anticonceptivo se adapta a tu situación."
+            ]
+          },
+          {
+            "heading": "¿Puede explicar una pérdida anterior?",
+            "paragraphs": [
+              "Un valor de prolactina no permite establecer por qué terminó un embarazo concreto. Ovular con poca frecuencia y perder un embarazo después de haber concebido son problemas distintos. En Estados Unidos, la Sociedad Estadounidense de Medicina Reproductiva recomienda evaluar las pérdidas recurrentes a partir de dos pérdidas y medir la prolactina cuando hay otras señales, como secreción similar a la leche o ausencia de ovulación. Pregunta cómo se aborda tu historial en el lugar donde te atienden.",
+              "Un pequeño ensayo comparó la bromocriptina con la ausencia de tratamiento en mujeres con prolactina alta sin causa conocida y pérdidas repetidas. Una revisión posterior informó de 46 mujeres incluidas en el análisis y 42 embarazos. Hubo menos pérdidas en el grupo tratado, pero el estudio tenía limitaciones importantes. La evidencia sobre una posible mejora de los nacimientos con vida era muy incierta. Estos resultados no predicen un desenlace individual ni justifican tratar a todas las personas después de una pérdida."
+            ]
+          },
+          {
+            "heading": "Qué llevar si repites el análisis o acudes a consulta",
+            "paragraphs": [
+              "Lleva el resultado con sus unidades y el intervalo de referencia del laboratorio, las fechas de tus reglas y una lista de medicamentos. El embarazo, la lactancia, el estrés asociado a la extracción y algunos fármacos pueden elevar la prolactina. Otras causas incluyen el hipotiroidismo y el prolactinoma, un tumor de la hipófisis que suele ser benigno. Una elevación leve en un solo análisis no diagnostica un tumor.",
+              "El profesional puede repetir una medición ligeramente elevada, comprobar si hay embarazo o un problema tiroideo y revisar los medicamentos, incluidos algunos que se emplean para las náuseas o la salud mental. Si la elevación persiste, puede comprobar qué forma de prolactina detectó la prueba o solicitar imágenes si procede. No suspendas un tratamiento recetado para ver si baja el resultado."
+            ]
+          },
+          {
+            "heading": "Cuándo procede el tratamiento",
+            "paragraphs": [
+              "El tratamiento depende de la causa y de tus objetivos. En un prolactinoma, la cabergolina o la bromocriptina pueden reducir la prolactina, disminuir el tamaño del tumor y permitir que se reanude la ovulación. No son un tratamiento general para prevenir pérdidas. Pregunta qué seguimiento mostrará si el tratamiento te ayuda.",
+              "Si tomas uno de estos medicamentos y planeas un embarazo, acuerda de antemano qué hacer cuando la prueba dé positivo. Muchas personas dejan el fármaco por indicación del especialista una vez confirmado el embarazo. En algunos tumores más grandes el plan es distinto. Contacta pronto con quien te lo recetó después de un resultado positivo y sigue tus indicaciones individuales. Un dolor de cabeza nuevo o cambios visuales requieren consulta pronta. Un dolor de cabeza súbito e intenso o la pérdida repentina de visión requieren atención de emergencia."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Interpreta el valor junto con el embarazo o la lactancia, los síntomas, los medicamentos y la historia de tus ciclos.",
+          "Una elevación persistente puede alterar la ovulación, pero un solo resultado no explica la causa de una pérdida.",
+          "Pide al equipo que prescribe el tratamiento un plan antes de concebir e instrucciones para una prueba positiva."
+        ],
+        "faq": [
+          {
+            "q": "¿Puedo tener un embarazo con un nacimiento con vida después del tratamiento?",
+            "a": "Sí, es posible concebir y tener un bebé. Corregir la causa de la prolactina alta puede ayudar a que se reanude la ovulación. No garantiza un nacimiento con vida ni demuestra que la prolactina causara una pérdida anterior."
+          },
+          {
+            "q": "¿Qué medicamentos reducen la prolactina?",
+            "a": "La cabergolina y la bromocriptina son opciones para algunas personas, entre ellas quienes tienen un prolactinoma. La elección, la dosis y el plan para el embarazo dependen del diagnóstico y deben acordarse con el profesional."
+          },
+          {
+            "q": "¿Cómo afecta la prolactina a la fertilidad?",
+            "a": "Una elevación persistente puede alterar la ovulación y hacer que las reglas sean irregulares o desaparezcan. La fertilidad puede mejorar al tratar la causa. Si deseas evitar un embarazo, recuerda que puedes ovular antes de volver a menstruar."
+          },
+          {
+            "q": "¿Por qué puede salir alta la prolactina?",
+            "a": "Entre las causas se encuentran el embarazo, la lactancia, el estrés, ciertos fármacos, los trastornos tiroideos y el prolactinoma. Un número por sí solo no permite distinguirlas. Lleva el resultado y la lista de medicamentos a la consulta."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Anota la fecha de extracción en relación con el embarazo, la lactancia y los síntomas.",
+            "Pregunta si conviene repetir la medición, revisar los medicamentos o comprobar la función tiroidea.",
+            "Pide indicaciones por escrito sobre el tratamiento antes de buscar un embarazo."
+          ],
+          "bemama": "BeMama sugiere llevar el informe de laboratorio y una cronología breve de las reglas y los embarazos para interpretar mejor el resultado.",
+          "safety": "No empieces ni suspendas medicación por un valor alto de prolactina sin un plan de quien la prescribe. Busca atención de emergencia por un dolor de cabeza súbito e intenso o una pérdida repentina de visión. Consulta pronto por un dolor de cabeza nuevo u otros cambios visuales.",
+          "sources": [
+            {
+              "organization": "Sociedad Estadounidense de Medicina Reproductiva",
+              "title": "Pérdidas recurrentes del embarazo e indicaciones para medir la prolactina",
+              "url": "https://www.asrm.org/practice-guidance/practice-committee-documents/recurrent-pregnancy-loss-a-committee-opinion-2026/"
+            },
+            {
+              "organization": "Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales de Estados Unidos",
+              "title": "Prolactinoma, fertilidad y planificación del embarazo",
+              "url": "https://www.niddk.nih.gov/health-information/endocrine-diseases/prolactinoma"
+            },
+            {
+              "organization": "Hirahara y colaboradores, Fertility and Sterility",
+              "title": "Bromocriptina y desenlaces de pérdidas recurrentes con prolactina alta",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/9696215/"
+            },
+            {
+              "organization": "Grupo Cochrane de Embarazo y Parto",
+              "title": "Agonistas de la dopamina y pérdidas del embarazo en la hiperprolactinemia idiopática",
+              "url": "https://doi.org/10.1002/14651858.CD008883.pub2"
+            },
+            {
+              "organization": "Sociedad Internacional de la Hipófisis, Nature Reviews Endocrinology",
+              "title": "Diagnóstico y tratamiento de los adenomas hipofisarios que secretan prolactina",
+              "url": "https://www.nature.com/articles/s41574-023-00886-5"
+            },
+            {
+              "organization": "Sociedad de Endocrinología",
+              "title": "Guía de urgencias para la apoplejía hipofisaria",
+              "url": "https://rcem.ac.uk/wp-content/uploads/2022/06/Pituitary_Apoplexy_Emergency_Guidance_Society_for_Endocrinology_Jan_2014.pdf"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "A prolactina alta pode explicar uma perda gestacional?",
+        "description": "Entenda como a prolactina pode afetar a ovulação, por que um exame isolado não explica uma perda gestacional e quando rever sintomas ou repetir a dosagem.",
+        "intro": "Depois de uma perda gestacional, é compreensível procurar uma explicação no exame de sangue. Um resultado elevado de prolactina precisa ser interpretado no seu contexto. Esse hormônio sobe naturalmente durante a gravidez e a amamentação. Um exame feito nessa fase tem um significado diferente de uma elevação persistente em quem passou a menstruar com menos frequência.",
+        "sections": [
+          {
+            "heading": "O que a prolactina pode alterar",
+            "paragraphs": [
+              "A hipófise, pequena glândula na base do cérebro, libera prolactina para estimular a produção de leite. Fora da gravidez e da amamentação, níveis persistentemente altos podem interferir nos sinais que desencadeiam a ovulação. A menstruação pode ficar irregular ou parar. Algumas pessoas percebem uma secreção parecida com leite nos mamilos. Essas mudanças podem dificultar a concepção.",
+              "Informe ao profissional quando o exame foi feito em relação à gravidez, à perda ou à amamentação e como eram os ciclos antes da gestação. Após o parto, a ovulação pode voltar antes da primeira menstruação. Se você quer evitar uma gravidez, pergunte qual método contraceptivo se adapta à sua situação."
+            ]
+          },
+          {
+            "heading": "O exame explica uma perda anterior?",
+            "paragraphs": [
+              "Um resultado de prolactina não estabelece por que uma determinada gravidez terminou. Ovular com menos frequência e perder uma gestação depois da concepção são problemas diferentes. Nos Estados Unidos, a Sociedade Americana de Medicina Reprodutiva recomenda investigar perdas recorrentes a partir de duas perdas e medir a prolactina quando houver outras pistas, como secreção leitosa ou ausência de ovulação. Pergunte como o serviço que atende você avalia seu histórico.",
+              "Um ensaio pequeno comparou a bromocriptina com a ausência de tratamento em mulheres com prolactina elevada sem causa conhecida e perdas gestacionais repetidas. Uma revisão posterior relatou 46 mulheres na análise e 42 gestações. Houve menos perdas no grupo tratado, mas o estudo tinha limitações importantes. A evidência de aumento dos nascimentos com vida era muito incerta. Os resultados não permitem prever o desfecho de uma pessoa nem justificam tratar todas as pessoas após uma perda."
+            ]
+          },
+          {
+            "heading": "O que levar a uma nova coleta ou consulta",
+            "paragraphs": [
+              "Leve o resultado com a unidade e o intervalo de referência do laboratório, as datas da menstruação e a lista de medicamentos. Gravidez, amamentação, estresse na coleta e certos medicamentos podem elevar a prolactina. Outras causas incluem o hipotireoidismo e o prolactinoma, tumor da hipófise que costuma ser benigno. Uma elevação discreta em um único exame não diagnostica um tumor.",
+              "O profissional pode repetir uma dosagem pouco elevada, investigar gravidez ou problemas da tireoide e rever os remédios, como alguns usados para náuseas ou tratamentos de saúde mental. Se a elevação persistir, a equipe pode verificar qual forma de prolactina o teste detectou ou solicitar exames de imagem quando indicado. Não suspenda um medicamento prescrito para ver se o número cai."
+            ]
+          },
+          {
+            "heading": "Quando o tratamento é indicado",
+            "paragraphs": [
+              "O tratamento depende da causa e dos seus objetivos. Em um prolactinoma, medicamentos como cabergolina ou bromocriptina podem baixar a prolactina, reduzir o tamanho do tumor e permitir o retorno da ovulação. Eles não são um tratamento geral para prevenir perdas gestacionais. Pergunte como a equipe acompanhará sua resposta.",
+              "Se você usa um desses medicamentos e planeja engravidar, combine com antecedência o que fazer depois de um teste positivo. Muitas pessoas suspendem o medicamento sob orientação do especialista quando a gravidez é confirmada. Quem tem um tumor maior pode precisar de um plano diferente. Entre em contato com a equipe que prescreveu o medicamento logo após um teste positivo e siga as instruções para o seu caso. Dor de cabeça nova ou alterações visuais exigem orientação rápida. Dor de cabeça súbita e intensa ou perda súbita da visão exigem atendimento de emergência."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Interprete o valor considerando gravidez ou amamentação, sintomas, medicamentos e histórico dos ciclos.",
+          "A prolactina persistentemente elevada pode alterar a ovulação, mas um exame não revela a causa de uma perda gestacional.",
+          "Peça à equipe que prescreve o medicamento um plano antes de engravidar e instruções para um teste positivo."
+        ],
+        "faq": [
+          {
+            "q": "É possível ter um bebê depois do tratamento?",
+            "a": "Sim, é possível engravidar e ter um bebê nascido vivo. Tratar a causa da prolactina alta pode permitir que a ovulação volte. Não garante um nascimento com vida nem prova que a prolactina provocou uma perda anterior."
+          },
+          {
+            "q": "Quais medicamentos baixam a prolactina?",
+            "a": "Cabergolina e bromocriptina são opções para algumas pessoas, inclusive aquelas com prolactinoma. A escolha, a dose e o plano para uma gravidez dependem do diagnóstico e devem ser combinados com o profissional de saúde."
+          },
+          {
+            "q": "Como a prolactina afeta a fertilidade?",
+            "a": "Níveis persistentemente elevados podem interferir na ovulação e tornar a menstruação irregular ou ausente. A fertilidade pode melhorar com o tratamento da causa. Se quiser evitar uma gravidez, lembre-se de que a ovulação pode voltar antes da menstruação."
+          },
+          {
+            "q": "Por que a prolactina pode estar alta?",
+            "a": "Gravidez, amamentação, estresse, alguns medicamentos, doenças da tireoide e prolactinoma estão entre as possibilidades. Um valor isolado não permite distinguir as causas. Leve o resultado e a lista de medicamentos à consulta."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Anote a data da coleta em relação à gravidez, à amamentação e aos sintomas.",
+            "Pergunte se repetir a dosagem, rever os medicamentos ou avaliar a tireoide ajuda a interpretar o resultado.",
+            "Peça orientações por escrito sobre o medicamento antes de tentar engravidar."
+          ],
+          "bemama": "A BeMama sugere levar o laudo do laboratório e um breve histórico com datas das menstruações e das gestações, para ajudar a interpretar o resultado na consulta.",
+          "safety": "Não comece nem suspenda um medicamento por causa de uma prolactina elevada sem o plano do profissional que o prescreve. Procure atendimento de emergência por dor de cabeça súbita e intensa ou perda súbita da visão. Peça orientação prontamente por dor de cabeça nova ou outras alterações visuais.",
+          "sources": [
+            {
+              "organization": "Sociedade Americana de Medicina Reprodutiva",
+              "title": "Perdas gestacionais recorrentes e indicações para dosar prolactina",
+              "url": "https://www.asrm.org/practice-guidance/practice-committee-documents/recurrent-pregnancy-loss-a-committee-opinion-2026/"
+            },
+            {
+              "organization": "Instituto Nacional de Diabetes e Doenças Digestivas e Renais dos Estados Unidos",
+              "title": "Prolactinoma, fertilidade e planejamento da gravidez",
+              "url": "https://www.niddk.nih.gov/health-information/endocrine-diseases/prolactinoma"
+            },
+            {
+              "organization": "Hirahara e colaboradores, Fertility and Sterility",
+              "title": "Bromocriptina e desfechos de perdas gestacionais recorrentes com prolactina elevada",
+              "url": "https://pubmed.ncbi.nlm.nih.gov/9696215/"
+            },
+            {
+              "organization": "Grupo Cochrane de Gravidez e Parto",
+              "title": "Agonistas da dopamina e perdas gestacionais na hiperprolactinemia idiopática",
+              "url": "https://doi.org/10.1002/14651858.CD008883.pub2"
+            },
+            {
+              "organization": "Sociedade Internacional de Hipófise, Nature Reviews Endocrinology",
+              "title": "Diagnóstico e tratamento dos adenomas da hipófise que secretam prolactina",
+              "url": "https://www.nature.com/articles/s41574-023-00886-5"
+            },
+            {
+              "organization": "Sociedade Britânica de Endocrinologia",
+              "title": "Atendimento de emergência na apoplexia hipofisária",
+              "url": "https://rcem.ac.uk/wp-content/uploads/2022/06/Pituitary_Apoplexy_Emergency_Guidance_Society_for_Endocrinology_Jan_2014.pdf"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5825.webp",
+    "heroAlt": {
+      "en": "An empty specimen tube in a rack beside a calendar marked with purple dots and a pencil.",
+      "es": "Un tubo de muestras vacío en una gradilla junto a un calendario marcado con puntos morados y un lápiz.",
+      "fr": "Un tube de prélèvement vide dans un portoir à côté d’un calendrier marqué de points violets et d’un crayon.",
+      "pt": "Um tubo de coleta vazio no suporte ao lado de um calendário marcado com pontos roxos e de um lápis.",
+      "tr": "Mor noktalarla işaretlenmiş bir takvim ve kurşun kalemin yanında, standında boş bir numune tüpü.",
+      "fa": "یک لولهٔ خالی نمونه‌گیری در پایه، کنار تقویمی با نقطه‌های بنفش و یک مداد.",
+      "ar": "أنبوب عينات فارغ على حامل بجوار تقويم بعلامات بنفسجية وقلم رصاص."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "Can a high prolactin result explain a miscarriage?",
+      "description": "Learn how high prolactin can affect ovulation, why one result cannot explain a pregnancy loss, and when symptoms or repeat testing can guide the next step."
+    },
+    "fa": {
+      "title": "آیا پرولاکتین بالا می‌تواند علت یک سقط را مشخص کند؟",
+      "description": "ببینید پرولاکتین بالا چه اثری بر تخمک‌گذاری دارد، چرا یک آزمایش علت سقط را مشخص نمی‌کند و چه زمانی پیگیری علامت‌ها یا تکرار آزمایش به تصمیم‌گیری کمک می‌کند."
+    },
+    "ar": {
+      "title": "هل يفسّر ارتفاع البرولاكتين فقدان الحمل؟",
+      "description": "تعرّفي إلى أثر ارتفاع البرولاكتين في الإباضة، ولماذا لا يكفي تحليل واحد لمعرفة سبب فقدان الحمل، ومتى تفيد مراجعة الأعراض أو إعادة الفحص مع الطبيب."
+    },
+    "fr": {
+      "title": "Une prolactine élevée peut-elle expliquer une fausse couche ?",
+      "description": "Découvrez comment la prolactine agit sur l’ovulation, pourquoi un dosage isolé ne suffit pas à expliquer une fausse couche et quand en parler en consultation."
+    },
+    "tr": {
+      "title": "Yüksek prolaktin sonucu bir gebelik kaybını açıklar mı?",
+      "description": "Prolaktinin yumurtlamayı nasıl etkilediğini, tek bir sonucun gebelik kaybını neden açıklayamadığını ve hangi durumlarda yeni bir test gerekebildiğini öğrenin."
+    },
+    "es": {
+      "title": "¿La prolactina alta explica una pérdida del embarazo?",
+      "description": "Descubre cómo afecta la prolactina a la ovulación, por qué un análisis no basta para explicar una pérdida y cuándo conviene repetirlo o consultar los síntomas."
+    },
+    "pt": {
+      "title": "A prolactina alta pode explicar uma perda gestacional?",
+      "description": "Entenda como a prolactina pode afetar a ovulação, por que um exame isolado não explica uma perda gestacional e quando rever sintomas ou repetir a dosagem."
+    }
+  }
+}

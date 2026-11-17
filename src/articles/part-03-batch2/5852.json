@@ -1,0 +1,611 @@
+{
+  "sourceId": "5852",
+  "article": {
+    "slug": "baby-and-child/plate-colour-and-childrens-appetite",
+    "category": "child",
+    "i18n": {
+      "en": {
+        "title": "Does plate colour change a child’s appetite?",
+        "description": "Children may prefer food on one plate. Learn what colour studies measured and how to offer meals without pressing your child to eat more or less.",
+        "intro": "Your child asks for the red bowl and leaves some rice in it. Tomorrow they might choose the same bowl and finish the rice. Liking the bowl, liking the food and feeling hungry are three different things. A choice of plate can give a child a say at dinner without asking it to control how much they eat.",
+        "sections": [
+          {
+            "heading": "What did the plate study actually test?",
+            "paragraphs": [
+              "Researchers showed children and adults pictures of four familiar dishes on six different plate colours. The children included 49 aged five to nine and 71 aged ten to sixteen. Younger children chose colourful plates more often than older children. Participants ranked pictures. The researchers did not measure how much food a child ate or how hungry the child felt afterward.",
+              "It helps to ask what changed in a claim about colour. A pink food is different from a familiar food on a pink dish. A preference for a photograph does not establish that a red plate increases appetite or that a blue plate suppresses it. The study gives no basis for changing a child’s portions according to the plate."
+            ]
+          },
+          {
+            "heading": "If a colour seems to matter at your table",
+            "paragraphs": [
+              "Suppose your child refuses grey mushroom soup but enjoys the same mushrooms sliced on toast. They might dislike the texture, smell or temperature, or be unsure what is in the soup. Ask a simple question, such as “Is it the smooth texture or the smell you noticed?” Accept “I don’t know” as an answer.",
+              "If your child likes a particular plate, let them choose between two you already own. Offer one familiar food alongside something they are learning about. Let them decide which of the offered foods to eat and how much. A chance to look, smell or taste on another day can be enough. Avoid turning the meal into a test of a colour theory."
+            ]
+          },
+          {
+            "heading": "When concern about appetite needs a different conversation",
+            "paragraphs": [
+              "Keep the lights bright enough to see the food and use ordinary mealtime routines. There is no reason to turn a fridge light blue, hide pale foods or choose a dish to make a child eat less. Rice, yoghurt and beans can all look pale and have very different textures and nutrients.",
+              "If your child’s range of foods is shrinking, they have pain or trouble swallowing, or their growth is a concern, speak with their clinician. Bring examples of foods they can manage, textures they avoid and any changes over time. If your concern is weight, ask to review growth and nutrition together before restricting foods."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Studies of preferred plate colours and photographs do not tell you how much a child will eat.",
+          "A familiar plate can be a low-pressure choice at a meal.",
+          "Describe persistent changes in eating, swallowing or growth to a clinician."
+        ],
+        "faq": [
+          {
+            "q": "Does pink make children lose their appetite?",
+            "a": "A child may like or dislike a pink food or dish. There is no dependable rule that pink reduces hunger. Ask what your child noticed about the food and let them choose from the meal."
+          },
+          {
+            "q": "Do grey foods put children off?",
+            "a": "Some children may be unsure about an unfamiliar grey food. Its taste, smell, texture and familiarity matter too. One refusal does not tell you that the colour suppressed appetite."
+          },
+          {
+            "q": "Do children eat too much white food because of its colour?",
+            "a": "Colour alone does not tell you what a child will eat or whether the food belongs in their meals. There is no basis for removing white foods as a group to control a child’s weight."
+          },
+          {
+            "q": "Will a red plate or a red food make my child hungrier?",
+            "a": "Some children like the way a particular dish looks on a brightly coloured plate. This does not demonstrate increased hunger or predict how much they will eat. Use whichever suitable plate your family prefers."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidence reviewed November 16, 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Separate a preference for the appearance of food from actual hunger or intake.",
+            "Offer varied foods at regular meals and let the child decide whether and how much to eat.",
+            "Ask about persistent eating problems or a change in growth instead of manipulating plate colours."
+          ],
+          "bemama": "BeMama suggests asking “Which bowl would you like?” and then moving on to the meal. Your child can enjoy having a choice even if the amount they eat stays the same.",
+          "safety": "Seek clinical advice for persistent narrowing of the diet, pain or difficulty swallowing, or concerns about growth. Ask for individual advice before starting a restrictive diet for a child.",
+          "sources": [
+            {
+              "organization": "Food Quality and Preference, original study",
+              "title": "Do children prefer coloured plates?",
+              "url": "https://www.sciencedirect.com/science/article/pii/S0950329318304269"
+            },
+            {
+              "organization": "American Academy of Pediatrics",
+              "title": "Helping a selective eater try more foods",
+              "url": "https://www.healthychildren.org/English/tips-tools/ask-the-pediatrician/Pages/How-Do-I-Help-My-Picky-Eater-Try-More-Foods.aspx"
+            },
+            {
+              "organization": "American Academy of Pediatrics",
+              "title": "Letting young children explore foods without pressure",
+              "url": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/taste-touch-explore-make-nutritious-food-fun-for-young-eaters.aspx"
+            }
+          ]
+        }
+      },
+      "fa": {
+        "title": "آیا رنگ بشقاب اشتهای کودک را تغییر می‌دهد؟",
+        "description": "شاید کودک غذا را در بشقاب خاصی بیشتر بپسندد. ببینید در پژوهش‌ها چه چیزی اندازه‌گیری شده و چطور می‌توانید مقدار خوردن را به خودش بسپارید.",
+        "intro": "کودکتان کاسهٔ قرمز را می‌خواهد و کمی برنج در آن باقی می‌گذارد. شاید فردا همان کاسه را انتخاب کند و همهٔ برنج را بخورد. دوست داشتن کاسه، دوست داشتن برنج و گرسنه بودن سه موضوع جداگانه‌اند. انتخاب ظرف به کودک فرصت می‌دهد در تصمیمی کوچک برای شام شریک شود و به اندازهٔ اشتهای خودش غذا بخورد.",
+        "sections": [
+          {
+            "heading": "پژوهش دربارهٔ بشقاب‌ها دقیقاً چه چیزی را سنجید؟",
+            "paragraphs": [
+              "پژوهشگران عکس چهار غذای آشنا را در بشقاب‌هایی به شش رنگ به کودکان و بزرگسالان نشان دادند. در میان کودکان، ۴۹ نفر پنج تا نه ساله و ۷۱ نفر ده تا شانزده ساله بودند. کودکان کم‌سن‌تر بیشتر از بزرگ‌ترها بشقاب‌های رنگی را انتخاب کردند. شرکت‌کنندگان عکس‌ها را به ترتیب علاقه رتبه‌بندی کردند. پژوهشگران اندازه نگرفتند که کودکان چقدر غذا خوردند یا بعد از آن چقدر گرسنه بودند.",
+              "وقتی دربارهٔ تأثیر رنگ چیزی می‌شنوید، ببینید دقیقاً چه چیزی تغییر کرده است. یک خوراکی صورتی با غذای همیشگی در بشقابی صورتی فرق دارد. پسندیدن یک عکس ثابت نمی‌کند که بشقاب قرمز اشتها را زیاد می‌کند یا بشقاب آبی آن را کم می‌کند. این مطالعه دلیلی برای تغییر مقدار غذا بر اساس رنگ بشقاب به دست نمی‌دهد."
+            ]
+          },
+          {
+            "heading": "اگر رنگ غذا سر سفره مهم به نظر می‌رسد",
+            "paragraphs": [
+              "فرض کنید کودک سوپ قارچ خاکستری را نمی‌خورد، اما همان قارچ را ورقه‌شده روی نان برشته دوست دارد. شاید بافت، بو یا دمای سوپ را نمی‌پسندد یا نمی‌داند داخلش چیست. می‌توانید ساده بپرسید «صاف و یکدست بودنش توجهت را جلب کرد یا بویش؟» پاسخ «نمی‌دانم» را هم بپذیرید.",
+              "اگر بشقاب خاصی را دوست دارد، دو ظرفی را که در خانه دارید پیش رویش بگذارید تا انتخاب کند. کنار غذایی که تازه با آن آشنا می‌شود یک خوراکی آشنا هم بگذارید. بگذارید خودش تصمیم بگیرد از بین غذاهای سفره چه بخورد و چقدر. شاید روز دیگری تنها نگاه کردن، بو کردن یا چشیدن کافی باشد. زمان غذا را به آزمایشی برای سنجش تأثیر رنگ تبدیل نکنید."
+            ]
+          },
+          {
+            "heading": "چه وقت دربارهٔ اشتهای کودک با پزشک صحبت کنیم؟",
+            "paragraphs": [
+              "نور کافی برای دیدن غذا فراهم کنید و برنامهٔ معمول وعده‌ها را ادامه دهید. لازم نیست چراغ یخچال را آبی کنید، غذاهای روشن را پنهان کنید یا برای کمتر خوردن کودک ظرف ویژه‌ای انتخاب کنید. برنج، ماست و لوبیای سفید همگی روشن به نظر می‌رسند اما بافت و مواد مغذی متفاوتی دارند.",
+              "اگر تنوع غذاهایی که کودک می‌پذیرد رو به کاهش است، هنگام بلع درد یا مشکل دارد یا نگران رشد او هستید، با پزشکش صحبت کنید. چند نمونه از غذاهایی را که راحت می‌خورد، بافت‌هایی که نمی‌پذیرد و تغییراتی که دیده‌اید بگویید. اگر وزنش نگرانتان کرده است، پیش از محدود کردن غذا بخواهید رشد و تغذیهٔ او را با هم بررسی کنند."
+            ]
+          }
+        ],
+        "takeaways": [
+          "انتخاب رنگ بشقاب در عکس‌ها نشان نمی‌دهد کودک چه مقدار غذا خواهد خورد.",
+          "انتخاب یک بشقاب آشنا فرصتی برای مشارکت بدون فشار در وعدهٔ غذایی است.",
+          "تغییر مداوم در غذا خوردن، بلع یا رشد کودک را برای پزشک شرح دهید."
+        ],
+        "faq": [
+          {
+            "q": "آیا رنگ صورتی اشتهای کودک را کم می‌کند؟",
+            "a": "ممکن است کودک یک خوراکی یا ظرف صورتی را دوست داشته باشد یا نپسندد. قاعدهٔ قابل اتکایی وجود ندارد که صورتی گرسنگی را کم کند. بپرسید چه چیزی در غذا توجهش را جلب کرده و بگذارید از غذای سفره انتخاب کند."
+          },
+          {
+            "q": "آیا غذاهای خاکستری کودکان را از خوردن منصرف می‌کنند؟",
+            "a": "بعضی از کودکان برای امتحان کردن غذای خاکستری ناآشنا تردید دارند. مزه، بو، بافت و آشنا بودن غذا هم مهم‌اند. یک بار نپذیرفتن نشان نمی‌دهد که رنگ غذا اشتها را کم کرده است."
+          },
+          {
+            "q": "آیا کودکان به دلیل رنگ سفید بعضی غذاها در خوردن آن‌ها زیاده‌روی می‌کنند؟",
+            "a": "رنگ به‌تنهایی نمی‌گوید کودک چه می‌خورد یا آن غذا چه جایگاهی در وعده‌های او دارد. حذف همهٔ خوراکی‌های سفید برای کنترل وزن کودک مبنایی ندارد."
+          },
+          {
+            "q": "آیا بشقاب یا غذای قرمز کودکم را گرسنه‌تر می‌کند؟",
+            "a": "بعضی از کودکان ظاهر یک غذا را در بشقابی با رنگ زنده می‌پسندند. این ترجیح افزایش گرسنگی را ثابت نمی‌کند و مقدار خوردن را پیش‌بینی نمی‌کند. از هر ظرف مناسبی که خانواده دوست دارد استفاده کنید."
+          }
+        ],
+        "evidence": {
+          "updated": "شواهد در ۱۶ نوامبر ۲۰۲۶ بررسی شد",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "پسندیدن ظاهر غذا را از احساس گرسنگی و مقدار واقعی خوردن جدا بدانید.",
+            "در وعده‌های منظم غذاهای متنوع بگذارید و تصمیم دربارهٔ خوردن و مقدار آن را به کودک بسپارید.",
+            "دربارهٔ مشکل مداوم در غذا خوردن یا تغییر رشد با پزشک صحبت کنید، به‌جای اینکه رنگ ظرف‌ها را تغییر دهید."
+          ],
+          "bemama": "پیشنهاد بی‌ماما این است که بپرسید «کدام کاسه را می‌خواهی؟» و بعد سراغ غذا بروید. کودک حتی اگر همان مقدار همیشگی را بخورد، می‌تواند از حق انتخابش لذت ببرد.",
+          "safety": "اگر تنوع غذایی مدام کمتر می‌شود، بلع دردناک یا دشوار است یا دربارهٔ رشد نگرانی دارید، نظر پزشک را بپرسید. پیش از شروع رژیم محدودکننده برای کودک متناسب با شرایط خودش راهنمایی بگیرید.",
+          "sources": [
+            {
+              "organization": "مجلهٔ کیفیت و ترجیح غذا، پژوهش اصلی",
+              "title": "آیا کودکان بشقاب‌های رنگی را ترجیح می‌دهند؟",
+              "url": "https://www.sciencedirect.com/science/article/pii/S0950329318304269"
+            },
+            {
+              "organization": "آکادمی پزشکی کودکان آمریکا",
+              "title": "کمک به کودک انتخاب‌گر برای امتحان کردن خوراکی‌های بیشتر",
+              "url": "https://www.healthychildren.org/English/tips-tools/ask-the-pediatrician/Pages/How-Do-I-Help-My-Picky-Eater-Try-More-Foods.aspx"
+            },
+            {
+              "organization": "آکادمی پزشکی کودکان آمریکا",
+              "title": "فرصت آشنایی با غذاها بدون فشار برای کودکان کم‌سن",
+              "url": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/taste-touch-explore-make-nutritious-food-fun-for-young-eaters.aspx"
+            }
+          ]
+        }
+      },
+      "ar": {
+        "title": "هل يتغير إقبال الطفل على الطعام مع لون الطبق؟",
+        "description": "قد يعجب طفلك بالطعام في طبق معيّن. تعرّف إلى ما قاسه الباحثون حقًا، وكيف تترك لطفلك اختيار الكمية التي يأكلها من دون ضغط.",
+        "intro": "يطلب طفلك الوعاء الأحمر ويترك فيه قليلًا من الأرز. وغدًا قد يختار الوعاء نفسه ويأكل الأرز كله. الإعجاب بالوعاء وحب الأرز والشعور بالجوع أمور مختلفة. اختيار الطبق يعطيه رأيًا في العشاء ويترك له حرية تحديد الكمية بحسب جوعه.",
+        "sections": [
+          {
+            "heading": "ما الذي اختبرته دراسة الأطباق؟",
+            "paragraphs": [
+              "عرض الباحثون على أطفال وبالغين صور أربع وجبات مألوفة في أطباق بستة ألوان مختلفة. شارك ٤٩ طفلًا أعمارهم بين خمس وتسع سنوات و٧١ أعمارهم بين عشر وست عشرة سنة. اختار الأصغر سنًا الأطباق الملونة أكثر من الأكبر سنًا. رتّب المشاركون الصور بحسب تفضيلاتهم. لم يقس الباحثون كمية ما أكله الطفل أو مقدار جوعه بعد ذلك.",
+              "حين تسمع كلامًا عن تأثير اللون، انتبه إلى ما تغيّر بالضبط. فالطعام الوردي يختلف عن طعام مألوف في طبق وردي. تفضيل صورة لا يثبت أن الطبق الأحمر يزيد الشهية أو أن الأزرق يخففها. ولا تقدم الدراسة أساسًا لتغيير الحصة بحسب لون الطبق."
+            ]
+          },
+          {
+            "heading": "إذا بدا أن للون أثرًا على مائدتكم",
+            "paragraphs": [
+              "لنفترض أن طفلك يرفض حساء الفطر الرمادي ويحب الفطر نفسه شرائح فوق خبز محمّص. قد ينزعج من القوام أو الرائحة أو الحرارة أو يجهل ما في الحساء. اسأله ببساطة «هل لفتك قوامه الناعم أم رائحته؟». وتقبّل منه أيضًا جواب «لا أعرف».",
+              "إذا أحب طبقًا معيّنًا فدعه يختار بين طبقين لديكم في المنزل. قدّم طعامًا يعرفه إلى جانب طعام يتعرّف إليه. واترك له اختيار ما يأكل من المعروض والكمية التي يريدها. قد تكفيه في يوم آخر فرصة للنظر أو الشم أو التذوق. تجنّب تحويل الوجبة إلى تجربة للتحقق من نظرية عن الألوان."
+            ]
+          },
+          {
+            "heading": "متى تتحدث مع الطبيب عن الشهية؟",
+            "paragraphs": [
+              "استخدم إضاءة تكفي لرؤية الطعام وحافظ على عادات الوجبات المعتادة. لا حاجة إلى مصباح أزرق في الثلاجة أو إخفاء الأطعمة الفاتحة أو اختيار طبق بهدف أن يأكل الطفل أقل. فقد يبدو الأرز واللبن والفاصولياء البيضاء متقاربة في اللون وتختلف كثيرًا في قوامها وقيمتها الغذائية.",
+              "إذا كان طفلك يقبل عددًا يتناقص باستمرار من الأطعمة أو يعاني ألمًا أو صعوبة عند البلع أو كنت قلقًا بشأن نموه، فراجع طبيبه. اذكر أمثلة على ما يستطيع أكله والقوام الذي يتجنبه وما تغيّر بمرور الوقت. وإذا كان القلق متعلقًا بالوزن، فاطلب تقييم النمو والتغذية معًا قبل تقييد أطعمة معيّنة."
+            ]
+          }
+        ],
+        "takeaways": [
+          "لا يخبرنا تفضيل لون طبق في صورة بالكمية التي سيأكلها الطفل.",
+          "اختيار طبق مألوف فرصة للمشاركة في الوجبة دون ضغط.",
+          "أخبر الطبيب بأي تغيّر مستمر في الأكل أو البلع أو النمو."
+        ],
+        "faq": [
+          {
+            "q": "هل يجعل اللون الوردي الأطفال يفقدون شهيتهم؟",
+            "a": "قد يعجب الطفل بطعام أو وعاء وردي وقد لا يعجبه. لا توجد قاعدة موثوقة تقول إن الوردي يقلل الجوع. اسأله عما لاحظه في الطعام واترك له الاختيار مما يُقدّم."
+          },
+          {
+            "q": "هل ينفر الأطفال من الطعام الرمادي؟",
+            "a": "قد يتردد بعض الأطفال أمام طعام رمادي غير مألوف. وللطعم والرائحة والقوام ومعرفة الطعام أيضًا دور. رفضه مرة واحدة لا يدل على أن لونه أضعف الشهية."
+          },
+          {
+            "q": "هل يفرط الأطفال في تناول الأطعمة البيضاء بسبب لونها؟",
+            "a": "لا يكشف اللون وحده ما سيأكله الطفل أو مكانة الطعام في وجباته. ولا يوجد أساس لاستبعاد جميع الأطعمة البيضاء بهدف التحكم في وزن الطفل."
+          },
+          {
+            "q": "هل يزيد طبق أحمر أو طعام أحمر جوع طفلي؟",
+            "a": "يعجب بعض الأطفال بمظهر وجبة في طبق زاهي اللون. هذا لا يثبت زيادة الجوع ولا يتنبأ بكمية ما سيأكلونه. استخدموا الطبق المناسب الذي تفضله الأسرة."
+          }
+        ],
+        "evidence": {
+          "updated": "رُوجعت الأدلة في ١٦ نوفمبر ٢٠٢٦",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "ميّز بين الإعجاب بمظهر الطعام والجوع الفعلي والكمية التي يتناولها الطفل.",
+            "اعرض أطعمة متنوعة في وجبات منتظمة واترك للطفل أن يقرر هل يأكل وكم يأكل.",
+            "استشر الطبيب بشأن صعوبات الأكل المستمرة أو تغيّر النمو بدلًا من تبديل ألوان الأطباق."
+          ],
+          "bemama": "تقترح بي ماما أن تسأل «أي وعاء تحب؟» ثم تنتقل إلى الوجبة. يمكن أن يستمتع الطفل بالاختيار حتى لو أكل الكمية المعتادة.",
+          "safety": "اطلب المشورة الطبية إذا استمر تقلص تنوع الطعام أو ظهر ألم أو صعوبة عند البلع أو كانت لديك مخاوف بشأن النمو. اطلب نصيحة تناسب طفلك قبل بدء حمية مقيّدة له.",
+          "sources": [
+            {
+              "organization": "مجلة جودة الغذاء وتفضيلاته، دراسة أصلية",
+              "title": "هل يفضل الأطفال الأطباق الملونة؟",
+              "url": "https://www.sciencedirect.com/science/article/pii/S0950329318304269"
+            },
+            {
+              "organization": "الأكاديمية الأمريكية لطب الأطفال",
+              "title": "مساعدة الطفل الانتقائي على تجربة مزيد من الأطعمة",
+              "url": "https://www.healthychildren.org/English/tips-tools/ask-the-pediatrician/Pages/How-Do-I-Help-My-Picky-Eater-Try-More-Foods.aspx"
+            },
+            {
+              "organization": "الأكاديمية الأمريكية لطب الأطفال",
+              "title": "إتاحة الفرصة للصغار لاستكشاف الطعام من دون ضغط",
+              "url": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/taste-touch-explore-make-nutritious-food-fun-for-young-eaters.aspx"
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "La couleur de l’assiette change-t-elle l’appétit d’un enfant ?",
+        "description": "Une assiette peut plaire davantage à un enfant. Découvrez ce que les études ont mesuré et comment lui laisser le choix de la quantité qu’il mange.",
+        "intro": "Votre enfant réclame le bol rouge et y laisse du riz. Demain, il choisira peut-être le même bol et le finira. Aimer le bol, apprécier le riz et avoir faim sont trois choses distinctes. Choisir son assiette lui donne son mot à dire au dîner tout en le laissant écouter sa faim.",
+        "sections": [
+          {
+            "heading": "Qu’a mesuré l’étude sur les assiettes ?",
+            "paragraphs": [
+              "Les chercheurs ont présenté à des adultes et à des enfants des photos de quatre plats familiers servis dans des assiettes de six couleurs différentes. Parmi les enfants, 49 avaient de cinq à neuf ans et 71 de dix à seize ans. Les plus jeunes ont choisi les assiettes colorées plus souvent que leurs aînés. Les participants ont classé des photos. L’étude n’a mesuré ni la quantité consommée ni la faim ressentie ensuite.",
+              "Quand on parle de couleur, demandez-vous ce qui change. Un aliment rose et un aliment habituel servi dans une assiette rose offrent deux expériences différentes. Préférer une photo ne prouve pas qu’une assiette rouge stimule l’appétit ou qu’une bleue le diminue. Rien dans cette étude ne justifie d’ajuster les portions à la couleur de l’assiette."
+            ]
+          },
+          {
+            "heading": "Quand une couleur semble compter à table",
+            "paragraphs": [
+              "Votre enfant refuse un velouté gris aux champignons, mais apprécie les mêmes champignons en lamelles sur une tartine. La texture, l’odeur ou la température peuvent le gêner. Peut-être ignore-t-il ce qu’il y a dans le bol. Demandez-lui par exemple « Tu as remarqué la texture lisse ou l’odeur ? » Acceptez aussi « Je ne sais pas ».",
+              "S’il tient à son assiette, proposez-lui d’en choisir une parmi deux que vous possédez déjà. Servez un aliment familier à côté de quelque chose qu’il découvre. Laissez-le décider de ce qu’il mange parmi les aliments proposés et en quelle quantité. Un autre jour, il voudra peut-être simplement regarder, sentir ou goûter. Le repas n’a pas à servir d’expérience sur les couleurs."
+            ]
+          },
+          {
+            "heading": "Quand parler de l’appétit avec un professionnel",
+            "paragraphs": [
+              "Éclairez suffisamment la table pour bien voir les aliments et gardez vos habitudes de repas. Inutile de mettre une lumière bleue dans le réfrigérateur, de cacher les aliments pâles ou de choisir une assiette pour faire manger moins. Le riz, le yaourt et certains haricots ont tous une couleur claire, mais présentent des textures et des apports nutritionnels très différents.",
+              "Si votre enfant accepte de moins en moins d’aliments, a mal ou peine à avaler, ou si sa croissance vous inquiète, parlez-en au professionnel qui le suit. Précisez ce qu’il arrive à manger, les textures qu’il évite et ce qui a changé. Si son poids vous préoccupe, demandez à faire le point sur sa croissance et son alimentation avant de restreindre certains aliments."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Classer des photos ou choisir une couleur d’assiette ne permet pas de prédire la quantité qu’un enfant mangera.",
+          "Choisir une assiette familière est une façon simple de participer au repas sans pression.",
+          "Décrivez au professionnel de santé toute modification durable de l’alimentation, de la déglutition ou de la croissance."
+        ],
+        "faq": [
+          {
+            "q": "Le rose fait-il perdre l’appétit aux enfants ?",
+            "a": "Un aliment ou un plat rose peut plaire ou déplaire. Rien ne permet d’affirmer que le rose réduit la faim. Demandez à votre enfant ce qu’il a remarqué dans l’aliment et laissez-le choisir parmi ce que vous servez."
+          },
+          {
+            "q": "Les aliments gris rebutent-ils les enfants ?",
+            "a": "Un aliment gris et inconnu peut faire hésiter certains enfants. Le goût, l’odeur, la texture et le fait de connaître l’aliment jouent aussi un rôle. Un seul refus ne prouve pas que la couleur a coupé l’appétit."
+          },
+          {
+            "q": "Les enfants mangent-ils trop d’aliments blancs à cause de leur couleur ?",
+            "a": "La couleur seule ne dit ni ce que l’enfant mangera ni la place de l’aliment dans ses repas. Rien ne justifie de supprimer tous les aliments blancs pour contrôler son poids."
+          },
+          {
+            "q": "Une assiette ou un aliment rouge donnera-t-il plus faim à mon enfant ?",
+            "a": "Certains enfants apprécient l’aspect d’un plat dans une assiette de couleur vive. Cela ne prouve pas qu’ils ont plus faim et ne prédit pas ce qu’ils mangeront. Utilisez l’assiette qui convient à votre famille."
+          }
+        ],
+        "evidence": {
+          "updated": "Données examinées le 16 novembre 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Distinguez le plaisir de regarder un plat de la faim ressentie et de la quantité consommée.",
+            "Proposez des aliments variés à des horaires réguliers. Laissez l’enfant décider s’il mange et en quelle quantité.",
+            "En cas de difficultés alimentaires persistantes ou de changement de croissance, parlez-en à un professionnel au lieu de modifier les couleurs."
+          ],
+          "bemama": "BeMama propose de demander « Quel bol veux-tu ? » puis de passer au repas. Le plaisir de choisir compte même si l’enfant mange la même quantité.",
+          "safety": "Demandez un avis médical si l’éventail des aliments acceptés diminue durablement, si avaler est douloureux ou difficile ou si la croissance vous inquiète. Avant d’entreprendre un régime restrictif pour un enfant, demandez un conseil personnalisé.",
+          "sources": [
+            {
+              "organization": "Food Quality and Preference, étude originale",
+              "title": "Les enfants préfèrent-ils les assiettes colorées ?",
+              "url": "https://www.sciencedirect.com/science/article/pii/S0950329318304269"
+            },
+            {
+              "organization": "Académie américaine de pédiatrie",
+              "title": "Aider un enfant sélectif à découvrir davantage d’aliments",
+              "url": "https://www.healthychildren.org/English/tips-tools/ask-the-pediatrician/Pages/How-Do-I-Help-My-Picky-Eater-Try-More-Foods.aspx"
+            },
+            {
+              "organization": "Académie américaine de pédiatrie",
+              "title": "Laisser les jeunes enfants explorer les aliments sans pression",
+              "url": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/taste-touch-explore-make-nutritious-food-fun-for-young-eaters.aspx"
+            }
+          ]
+        }
+      },
+      "tr": {
+        "title": "Tabağın rengi çocuğun iştahını değiştirir mi?",
+        "description": "Çocuğunuz yemeği belli bir tabakta daha çok beğenebilir. Renk araştırmalarında ne ölçüldüğünü ve miktarı çocuğa nasıl bırakabileceğinizi öğrenin.",
+        "intro": "Çocuğunuz kırmızı kâseyi istedi ama pilavın birazını bıraktı. Yarın yine o kâseyi seçip pilavı bitirebilir. Kâseyi sevmek, pilavı sevmek ve aç olmak farklı şeylerdir. Sofrada tabağını seçerek söz sahibi olabilir. Ne kadar yiyeceğine ise kendi açlığına göre karar verebilir.",
+        "sections": [
+          {
+            "heading": "Tabak araştırmasında ne ölçüldü?",
+            "paragraphs": [
+              "Araştırmacılar çocuklara ve yetişkinlere, altı farklı renkte tabakta sunulan dört tanıdık yemeğin fotoğraflarını gösterdi. Çocuklardan 49’u beş ile dokuz, 71’i on ile on altı yaş arasındaydı. Küçük yaştaki çocuklar renkli tabakları daha büyük yaştaki çocuklardan daha sık seçti. Katılımcılar fotoğrafları tercihlerine göre sıraladı. Çocukların ne kadar yediği veya sonrasında ne kadar aç hissettiği ölçülmedi.",
+              "Renkle ilgili bir iddiayı duyduğunuzda tam olarak neyin değiştiğine bakın. Pembe renkli bir yiyecekle tanıdık bir yiyeceğin pembe tabakta sunulması farklıdır. Bir fotoğrafı beğenmek, kırmızı tabağın iştah açtığını veya mavinin iştahı azalttığını göstermez. Bu çalışma porsiyonları tabağa göre değiştirmek için dayanak sağlamaz."
+            ]
+          },
+          {
+            "heading": "Sofranızda renk önemli görünüyorsa",
+            "paragraphs": [
+              "Çocuğunuz gri renkli mantar çorbasını istemeyebilir ama aynı mantarı kızarmış ekmek üzerinde dilimlenmiş olarak sevebilir. Çorbanın kıvamı, kokusu veya sıcaklığı onu rahatsız edebilir ya da içinde ne olduğunu bilmeyebilir. “Pürüzsüz olması mı, kokusu mu dikkatini çekti?” gibi kısa bir soru sorun. “Bilmiyorum” demesini de kabul edin.",
+              "Belirli bir tabağı seviyorsa evdeki iki tabaktan birini seçmesine fırsat verin. Yeni tanıdığı bir yiyeceğin yanında alışık olduğu bir yiyecek sunun. Sunulanlardan hangisini ve ne kadar yiyeceğine kendisi karar versin. Başka bir gün bakması, koklaması veya tatması yeterli olabilir. Sofrayı renklerin etkisini sınayan bir deneye çevirmeyin."
+            ]
+          },
+          {
+            "heading": "İştahla ilgili kaygıyı ne zaman hekime anlatmalı?",
+            "paragraphs": [
+              "Yiyeceklerin görülebileceği kadar aydınlıkta, alıştığınız öğün düzenini sürdürün. Buzdolabına mavi ışık takmak, açık renkli yiyecekleri saklamak veya çocuğun daha az yemesi için tabak seçmek gerekmez. Pilav, yoğurt ve kuru fasulye açık renkli olsa da dokuları ve besin içerikleri farklıdır.",
+              "Çocuğunuzun kabul ettiği yiyecekler giderek azalıyorsa, yutarken ağrısı ya da güçlüğü varsa veya büyümesi sizi kaygılandırıyorsa hekimine danışın. Rahat yediklerinden, kaçındığı dokulardan ve zamanla nelerin değiştiğinden örnekler verin. Kilosu konusunda endişeniz varsa bazı yiyecekleri kısıtlamadan önce büyümesinin ve beslenmesinin birlikte değerlendirilmesini isteyin."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Fotoğraflarda hangi tabak renklerinin beğenildiği çocuğun ne kadar yiyeceğini göstermez.",
+          "Tanıdık bir tabak seçmek, çocuğa baskı olmadan öğüne katılma fırsatı verir.",
+          "Yemede, yutmada veya büyümede kalıcı değişiklikleri hekime anlatın."
+        ],
+        "faq": [
+          {
+            "q": "Pembe renk çocukların iştahını keser mi?",
+            "a": "Çocuk pembe bir yiyeceği veya tabağı beğenebilir ya da beğenmeyebilir. Pembenin açlığı azalttığına dair güvenilir bir kural yoktur. Yiyecekte ne fark ettiğini sorun ve sofradakilerden seçmesine izin verin."
+          },
+          {
+            "q": "Çocuklar gri yiyeceklerden uzak mı durur?",
+            "a": "Bazı çocuklar tanımadıkları gri bir yiyeceğe tereddütle yaklaşabilir. Tadının, kokusunun, dokusunun ve tanıdık olup olmamasının da etkisi vardır. Bir kez reddetmesi, rengin iştahını kestiğini göstermez."
+          },
+          {
+            "q": "Çocuklar beyaz yiyecekleri renginden dolayı fazla mı yer?",
+            "a": "Renk tek başına çocuğun ne kadar yiyeceğini ya da o yiyeceğin öğünlerinde nasıl yer alacağını belirlemez. Kilosunu kontrol etmek için beyaz yiyeceklerin tümünü çıkarmanın dayanağı yoktur."
+          },
+          {
+            "q": "Kırmızı tabak veya kırmızı yiyecek çocuğumu daha çok acıktırır mı?",
+            "a": "Bazı çocuklar belli bir yemeğin canlı renkli bir tabaktaki görünümünü sever. Bu, açlıklarının arttığını göstermez ve ne kadar yiyeceklerini öngörmez. Ailenize uygun olan tabağı kullanabilirsiniz."
+          }
+        ],
+        "evidence": {
+          "updated": "Kanıtlar 16 Kasım 2026 tarihinde incelendi",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Yiyeceğin görünümünü beğenmek ile açlık hissini ve yenilen miktarı birbirinden ayırın.",
+            "Düzenli öğünlerde çeşitli yiyecekler sunun. Yiyip yemeyeceğine ve miktarına çocuk karar versin.",
+            "Kalıcı yeme güçlüğü veya büyümede değişiklik varsa tabak renkleriyle oynamak yerine hekime danışın."
+          ],
+          "bemama": "BeMama, “Hangi kâseyi istersin?” diye sorup yemeğe geçmenizi önerir. Yediği miktar değişmese de çocuğunuz seçim yapmaktan hoşlanabilir.",
+          "safety": "Beslenme çeşitliliği sürekli daralıyorsa, yutarken ağrı ya da güçlük varsa veya büyüme konusunda kaygınız varsa sağlık uzmanına danışın. Çocuğa kısıtlayıcı bir beslenme düzeni uygulamadan önce ona özel öneri alın.",
+          "sources": [
+            {
+              "organization": "Food Quality and Preference, özgün araştırma",
+              "title": "Çocuklar renkli tabakları tercih ediyor mu?",
+              "url": "https://www.sciencedirect.com/science/article/pii/S0950329318304269"
+            },
+            {
+              "organization": "Amerikan Pediatri Akademisi",
+              "title": "Seçici yiyen çocuğun daha fazla yiyecek denemesine yardımcı olmak",
+              "url": "https://www.healthychildren.org/English/tips-tools/ask-the-pediatrician/Pages/How-Do-I-Help-My-Picky-Eater-Try-More-Foods.aspx"
+            },
+            {
+              "organization": "Amerikan Pediatri Akademisi",
+              "title": "Küçük çocukların baskı olmadan yiyecekleri keşfetmesine fırsat vermek",
+              "url": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/taste-touch-explore-make-nutritious-food-fun-for-young-eaters.aspx"
+            }
+          ]
+        }
+      },
+      "es": {
+        "title": "¿Cambia el apetito infantil con el color del plato?",
+        "description": "Puede que a tu hijo le guste más la comida en un plato concreto. Descubre qué midieron los estudios y cómo dejar que decida cuánto comer.",
+        "intro": "Tu hijo pide el cuenco rojo y se deja un poco de arroz. Mañana puede que elija el mismo cuenco y se lo termine. Que le guste el cuenco, que le guste el arroz y que tenga hambre son cosas distintas. Elegir el plato le da voz en la cena sin condicionar cuánto debe comer.",
+        "sections": [
+          {
+            "heading": "¿Qué se midió en el estudio sobre los platos?",
+            "paragraphs": [
+              "Un equipo mostró a adultos y niños fotografías de cuatro comidas conocidas en platos de seis colores. Participaron 49 niños de cinco a nueve años y 71 de diez a dieciséis. Los más pequeños eligieron platos de colores con más frecuencia que los mayores. Los participantes ordenaron las imágenes por preferencia. El equipo no midió cuánto comían ni cuánta hambre sentían después.",
+              "Cuando oigas algo sobre un color, fíjate en qué cambia. Una comida rosa es distinta de una comida conocida servida en un plato rosa. Preferir una fotografía no demuestra que el plato rojo dé hambre ni que el azul la quite. El estudio no justifica cambiar las porciones según el plato."
+            ]
+          },
+          {
+            "heading": "Si en casa parece importar el color",
+            "paragraphs": [
+              "Quizá tu hijo rechaza una crema gris de champiñones, pero le gustan esos mismos champiñones en láminas sobre una tostada. Podrían molestarle la textura, el olor o la temperatura. Tal vez no sabe qué lleva la crema. Puedes preguntarle «¿Qué has notado, que es muy suave o el olor?». Acepta también un «No lo sé».",
+              "Si le gusta un plato concreto, deja que elija entre dos que ya tengáis. Sirve un alimento conocido junto a otro que esté descubriendo. Deja que decida cuáles de los alimentos ofrecidos quiere comer y en qué cantidad. Otro día quizá solo quiera mirarlo, olerlo o probarlo. La mesa no tiene por qué convertirse en un experimento sobre colores."
+            ]
+          },
+          {
+            "heading": "Cuándo conviene hablar del apetito en la consulta",
+            "paragraphs": [
+              "Usa luz suficiente para ver la comida y mantén los horarios y costumbres habituales. No hay motivo para instalar una luz azul en la nevera, esconder alimentos claros ni elegir una vajilla que haga comer menos a tu hijo. El arroz, el yogur y algunas alubias pueden ser claros y tener texturas y nutrientes muy distintos.",
+              "Si acepta cada vez menos alimentos, siente dolor o tiene dificultades al tragar, o te preocupa su crecimiento, consulta con su profesional de salud. Lleva ejemplos de lo que puede comer, las texturas que evita y los cambios recientes. Si te preocupa su peso, pide que valoren juntos su crecimiento y alimentación antes de restringir alimentos."
+            ]
+          }
+        ],
+        "takeaways": [
+          "Las preferencias de color en fotografías no indican cuánto comerá un niño.",
+          "Ofrecer un plato conocido permite elegir sin presión durante la comida.",
+          "Comenta en la consulta cualquier cambio persistente en la alimentación, la deglución o el crecimiento."
+        ],
+        "faq": [
+          {
+            "q": "¿El rosa quita el apetito a los niños?",
+            "a": "A un niño puede gustarle o no un alimento o un plato rosa. No hay una regla fiable que indique que el rosa reduce el hambre. Pregúntale qué ha notado y deja que elija entre los alimentos de la comida."
+          },
+          {
+            "q": "¿Los alimentos grises provocan rechazo?",
+            "a": "A algunos niños les genera dudas un alimento gris desconocido. También importan su sabor, olor, textura y si les resulta familiar. Un único rechazo no demuestra que el color le haya quitado el apetito."
+          },
+          {
+            "q": "¿Los niños comen demasiados alimentos blancos por su color?",
+            "a": "El color por sí solo no indica lo que comerá el niño ni qué lugar debe ocupar un alimento en sus comidas. No hay razón para eliminar todos los alimentos blancos para controlar su peso."
+          },
+          {
+            "q": "¿Un plato o una comida de color rojo le dará más hambre?",
+            "a": "A algunos niños les gusta cómo queda una comida en un plato de color vivo. Esto no demuestra que tengan más hambre ni predice cuánto comerán. Usad el plato que os resulte más cómodo."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidencia revisada el 16 de noviembre de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Distingue entre el aspecto que prefiere el niño, el hambre que siente y la cantidad que come.",
+            "Ofrece alimentos variados en comidas regulares y deja que decida si come y cuánto.",
+            "Consulta si las dificultades persisten o cambia su crecimiento, en vez de probar distintos colores de platos."
+          ],
+          "bemama": "BeMama propone preguntar «¿Qué cuenco quieres?» y pasar a la comida. El niño puede disfrutar de la elección aunque coma la misma cantidad.",
+          "safety": "Pide orientación si cada vez acepta menos alimentos de forma persistente, le duele o le cuesta tragar, o te preocupa su crecimiento. Consulta antes de iniciar una dieta restrictiva para un niño.",
+          "sources": [
+            {
+              "organization": "Food Quality and Preference, estudio original",
+              "title": "¿Prefieren los niños los platos de colores?",
+              "url": "https://www.sciencedirect.com/science/article/pii/S0950329318304269"
+            },
+            {
+              "organization": "Academia Estadounidense de Pediatría",
+              "title": "Cómo ayudar a un niño selectivo a probar más alimentos",
+              "url": "https://www.healthychildren.org/English/tips-tools/ask-the-pediatrician/Pages/How-Do-I-Help-My-Picky-Eater-Try-More-Foods.aspx"
+            },
+            {
+              "organization": "Academia Estadounidense de Pediatría",
+              "title": "Dejar que los niños pequeños exploren los alimentos sin presión",
+              "url": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/taste-touch-explore-make-nutritious-food-fun-for-young-eaters.aspx"
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "A cor do prato muda o apetite da criança?",
+        "description": "Seu filho pode preferir uma comida em determinado prato. Veja o que as pesquisas mediram e como deixá-lo escolher a quantidade que quer comer.",
+        "intro": "Seu filho pede a tigela vermelha e deixa um pouco de arroz. Amanhã, talvez escolha a mesma tigela e coma tudo. Gostar da tigela, apreciar o arroz e sentir fome são coisas diferentes. Escolher o prato dá à criança uma participação no jantar sem determinar quanto deve comer.",
+        "sections": [
+          {
+            "heading": "O que a pesquisa dos pratos avaliou?",
+            "paragraphs": [
+              "Pesquisadores mostraram a crianças e adultos fotos de quatro refeições conhecidas servidas em pratos de seis cores. Participaram 49 crianças de cinco a nove anos e 71 participantes de dez a dezesseis anos. Os mais novos escolheram pratos coloridos com maior frequência. Os participantes classificaram imagens por preferência. Os pesquisadores não mediram a quantidade ingerida nem a fome sentida depois.",
+              "Quando ouvir uma afirmação sobre a cor, observe o que mudou. Um alimento rosa é diferente de um alimento conhecido servido em um prato rosa. Preferir uma fotografia não demonstra que o prato vermelho abre o apetite ou que o azul o reduz. O estudo não justifica mudar as porções de acordo com a cor do prato."
+            ]
+          },
+          {
+            "heading": "Se a cor parece fazer diferença à mesa",
+            "paragraphs": [
+              "Imagine que seu filho recusa um creme acinzentado de cogumelos, mas gosta dos mesmos cogumelos fatiados numa torrada. Pode estranhar a textura, o cheiro ou a temperatura, ou talvez não saiba o que há na sopa. Faça uma pergunta simples, como “Você reparou que está bem lisinha ou percebeu o cheiro?”. Aceite também “Não sei”.",
+              "Se ele gosta de um prato específico, deixe que escolha entre dois que você já tem. Ofereça um alimento que conhece junto de outro que está descobrindo. Deixe a criança decidir o que comer entre as opções e em que quantidade. Em outro dia, olhar, cheirar ou provar já pode ser suficiente. Evite transformar a refeição num teste sobre cores."
+            ]
+          },
+          {
+            "heading": "Quando conversar sobre o apetite com um profissional",
+            "paragraphs": [
+              "Ilumine a mesa o suficiente para ver a comida e mantenha os hábitos da família. Não há motivo para colocar uma luz azul na geladeira, esconder alimentos claros ou escolher uma louça para seu filho comer menos. Arroz, iogurte e feijão-branco podem ter cores claras, com texturas e nutrientes bem diferentes.",
+              "Se a criança aceita cada vez menos alimentos, sente dor ou dificuldade para engolir, ou se você tem dúvidas sobre o crescimento, fale com quem acompanha sua saúde. Leve exemplos do que ela consegue comer, das texturas que evita e do que mudou. Se a preocupação for com o peso, peça uma avaliação do crescimento e da alimentação antes de restringir alimentos."
+            ]
+          }
+        ],
+        "takeaways": [
+          "A preferência por cores de pratos em fotografias não informa quanto uma criança vai comer.",
+          "Escolher um prato familiar permite participar da refeição sem pressão.",
+          "Converse com um profissional sobre mudanças persistentes na alimentação, na deglutição ou no crescimento."
+        ],
+        "faq": [
+          {
+            "q": "A cor rosa tira o apetite das crianças?",
+            "a": "A criança pode gostar ou não de um alimento rosa ou de uma louça dessa cor. Não existe uma regra confiável de que o rosa diminui a fome. Pergunte o que seu filho percebeu e deixe que escolha entre os alimentos oferecidos."
+          },
+          {
+            "q": "Alimentos cinzentos causam rejeição?",
+            "a": "Algumas crianças hesitam diante de uma comida acinzentada que não conhecem. O sabor, o cheiro, a textura e a familiaridade também contam. Uma recusa isolada não indica que a cor tirou o apetite."
+          },
+          {
+            "q": "A criança come demais alimentos brancos por causa da cor?",
+            "a": "A cor sozinha não indica quanto a criança comerá nem o lugar daquele alimento nas refeições. Não há justificativa para eliminar os alimentos brancos em conjunto para controlar o peso."
+          },
+          {
+            "q": "Um prato ou alimento vermelho deixa meu filho com mais fome?",
+            "a": "Algumas crianças gostam da aparência de uma comida em um prato de cor viva. Isso não demonstra maior fome nem prevê quanto vão comer. Use a louça que melhor servir à família."
+          }
+        ],
+        "evidence": {
+          "updated": "Evidências revisadas em 16 de novembro de 2026",
+          "updatedIso": "2026-11-16",
+          "guidance": [
+            "Diferencie gostar da aparência da comida de sentir fome e de quanto a criança come de fato.",
+            "Ofereça alimentos variados em refeições regulares e deixe a criança decidir se quer comer e quanto.",
+            "Consulte um profissional se houver dificuldades alimentares persistentes ou mudanças no crescimento, em vez de mudar as cores dos pratos."
+          ],
+          "bemama": "A BeMama sugere perguntar “Qual tigela você quer?” e seguir com a refeição. Seu filho pode gostar da escolha mesmo que coma a mesma quantidade.",
+          "safety": "Busque orientação se a variedade de alimentos diminuir de forma persistente, houver dor ou dificuldade para engolir, ou surgir preocupação com o crescimento. Peça orientação individual antes de iniciar uma dieta restritiva para uma criança.",
+          "sources": [
+            {
+              "organization": "Food Quality and Preference, pesquisa original",
+              "title": "As crianças preferem pratos coloridos?",
+              "url": "https://www.sciencedirect.com/science/article/pii/S0950329318304269"
+            },
+            {
+              "organization": "Academia Americana de Pediatria",
+              "title": "Como ajudar uma criança seletiva a experimentar mais alimentos",
+              "url": "https://www.healthychildren.org/English/tips-tools/ask-the-pediatrician/Pages/How-Do-I-Help-My-Picky-Eater-Try-More-Foods.aspx"
+            },
+            {
+              "organization": "Academia Americana de Pediatria",
+              "title": "Deixar a criança pequena explorar os alimentos sem pressão",
+              "url": "https://www.healthychildren.org/English/healthy-living/nutrition/Pages/taste-touch-explore-make-nutritious-food-fun-for-young-eaters.aspx"
+            }
+          ]
+        }
+      }
+    },
+    "hero": "content/part-03-batch2/5852.webp",
+    "heroAlt": {
+      "en": "A child’s hand holds a blue plate of vegetable pasta beside the same dish on a red plate.",
+      "fa": "دست کودکی لبهٔ بشقاب آبی پاستا با سبزیجات را گرفته است و همان غذا در یک بشقاب قرمز کنار آن قرار دارد.",
+      "ar": "يد طفل تمسك بطبق أزرق من المعكرونة بالخضار بجانب الوجبة نفسها في طبق أحمر.",
+      "fr": "Une main d’enfant tient une assiette bleue de pâtes aux légumes à côté du même plat servi dans une assiette rouge.",
+      "tr": "Bir çocuğun eli sebzeli makarna dolu mavi tabağı tutuyor; yanında aynı yemek kırmızı bir tabakta duruyor.",
+      "es": "Una mano infantil sujeta un plato azul de pasta con verduras junto al mismo plato de comida servido en uno rojo.",
+      "pt": "Uma criança segura um prato azul de macarrão com legumes ao lado da mesma comida servida em um prato vermelho."
+    },
+    "heroResponsive": {
+      "widths": [
+        160,
+        320,
+        480,
+        720
+      ],
+      "sizes": "(max-width: 800px) calc(100vw - 48px), 720px"
+    }
+  },
+  "seo": {
+    "en": {
+      "title": "Does plate colour change a child’s appetite?",
+      "description": "Children may prefer food on one plate. Learn what colour studies measured and how to offer meals without pressing your child to eat more or less."
+    },
+    "fa": {
+      "title": "آیا رنگ بشقاب اشتهای کودک را تغییر می‌دهد؟",
+      "description": "شاید کودک غذا را در بشقاب خاصی بیشتر بپسندد. ببینید در پژوهش‌ها چه چیزی اندازه‌گیری شده و چطور می‌توانید مقدار خوردن را به خودش بسپارید."
+    },
+    "ar": {
+      "title": "هل يتغير إقبال الطفل على الطعام مع لون الطبق؟",
+      "description": "قد يعجب طفلك بالطعام في طبق معيّن. تعرّف إلى ما قاسه الباحثون حقًا، وكيف تترك لطفلك اختيار الكمية التي يأكلها من دون ضغط."
+    },
+    "fr": {
+      "title": "La couleur de l’assiette change-t-elle l’appétit d’un enfant ?",
+      "description": "Une assiette peut plaire davantage à un enfant. Découvrez ce que les études ont mesuré et comment lui laisser le choix de la quantité qu’il mange."
+    },
+    "tr": {
+      "title": "Tabağın rengi çocuğun iştahını değiştirir mi?",
+      "description": "Çocuğunuz yemeği belli bir tabakta daha çok beğenebilir. Renk araştırmalarında ne ölçüldüğünü ve miktarı çocuğa nasıl bırakabileceğinizi öğrenin."
+    },
+    "es": {
+      "title": "¿Cambia el apetito infantil con el color del plato?",
+      "description": "Puede que a tu hijo le guste más la comida en un plato concreto. Descubre qué midieron los estudios y cómo dejar que decida cuánto comer."
+    },
+    "pt": {
+      "title": "A cor do prato muda o apetite da criança?",
+      "description": "Seu filho pode preferir uma comida em determinado prato. Veja o que as pesquisas mediram e como deixá-lo escolher a quantidade que quer comer."
+    }
+  }
+}
