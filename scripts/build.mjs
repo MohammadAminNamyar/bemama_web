@@ -1,3 +1,4 @@
+import { homeCopy, homeArticlePool, renderEditorialHome, renderEditorialHeader } from '../src/editorial-home.mjs';
 import { existsSync, readFileSync } from 'node:fs';
 import { createHash } from 'node:crypto';
 import { cp, mkdir, readFile, rm, writeFile } from 'node:fs/promises';
@@ -715,6 +716,7 @@ const transparentPixel = 'data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEA
 const imageSizeCache = new Map();
 
 const feedsOnly = process.argv.includes('--feeds-only');
+const homePools = new Map();
 let homeStyles;
 if (!feedsOnly) {
 await rm(dist, { recursive: true, force: true, maxRetries: 5, retryDelay: 200 });
@@ -725,6 +727,7 @@ await cp(path.join(root, 'public'), dist, { recursive: true });
 const webManifest = JSON.parse(await readFile(path.join(dist, 'site.webmanifest'), 'utf8'));
 webManifest.icons = webManifest.icons.map(icon => ({ ...icon, src: versionedAsset(icon.src) }));
 await writeFile(path.join(dist, 'site.webmanifest'), JSON.stringify(webManifest, null, 2) + '\n');
+const editorialStyles = await readFile(path.join(root, 'src', 'editorial-home.css'), 'utf8');
 const baseStyles = await readFile(path.join(root, 'src', 'styles.css'), 'utf8');
 const hubStyles = await readFile(path.join(root, 'src', 'hub.css'), 'utf8');
 const routineStyles = await readFile(path.join(root, 'src', 'routine-articles.css'), 'utf8');
@@ -740,15 +743,16 @@ function cssSection(source, start, end) {
 const versionFontUrls = css => css.replace(/url\("(\/assets\/fonts\/[^"?]+)"\)/g,
   (_, src) => `url("${versionedAsset(src)}")`);
 homeStyles = minifyCss(versionFontUrls([
-  cssSection(baseStyles, null, '/* Interactive product tour */'),
+  cssSection(baseStyles, null, '.hero-stages {'),
+  cssSection(baseStyles, '.product-intro {', '/* Interactive product tour */'),
   cssSection(baseStyles, '.nav-top.nav-tour {', '.home-tour-promo {'),
   cssSection(baseStyles, '@media (prefers-reduced-motion: reduce)'),
   cssSection(hubStyles, null, '/* --- Breadcrumbs --- */'),
-  cssSection(hubStyles, '.article-grid {', '.category-section-header {'),
   cssSection(hubStyles, '@media (max-width: 980px) {', '.tool-layout .article {'),
-  cssSection(hubStyles, '.compact-tools-link, .search-toggle-label {', '.article-section[id], .birth-preferences {')
+  cssSection(hubStyles, '.compact-tools-link, .search-toggle-label {', '.article-section[id], .birth-preferences {'),
+  editorialStyles
 ].join('\n')));
-const styles = versionFontUrls(`${baseStyles}\n${hubStyles}\n${routineStyles}`);
+const styles = versionFontUrls(`${baseStyles}\n${hubStyles}\n${routineStyles}\n${editorialStyles}`);
 await writeFile(
   path.join(dist, 'assets', 'styles.css'),
   minifyCss(styles)
@@ -760,6 +764,12 @@ for (const script of ['local-calendar.js','baby-name-data.js','who-weight-refere
     if (source.includes(`from './${dependency}'`)) source = source.replaceAll(`from './${dependency}'`, `from '${versionedAsset(`/assets/${dependency}`)}'`);
   }
   await writeFile(path.join(dist, 'assets', script), minifyJavaScript(source));
+}
+
+for (const language of languages) {
+  const pool = homeArticlePool(language, { articleBySlug, categoryById, pick, escapeHtml, localizedPath, imageMarkup, hubText });
+  homePools.set(language.code, pool);
+  await writeFile(path.join(dist, `home-articles-${language.code}.json`), normalizeJsonStringify(pool));
 }
 
 // Each route has its own file. Keep filesystem writes bounded and concurrent
@@ -834,6 +844,11 @@ function renderPage(language, slug) {
     jsonLd = renderCategoryJsonLd(language, slug, category);
     ogImage = `${site.origin}/assets/${category.hero}`;
     preloadImage = `/assets/${category.hero}`;
+  } else if (slug === 'bemama-app') {
+    title = `${t.home.eyebrow} | ${site.name}`;
+    description = t.metaDescription;
+    body = renderHome(language);
+    preloadImage = '/assets/tour/daily-home.png';
   } else if (slug === 'explore') {
     const ui = tourUiFor(language.code);
     title = `${ui.title} | ${site.name}`;
@@ -848,9 +863,11 @@ function renderPage(language, slug) {
     body = renderPolicy(language, slug, page);
     preloadImage = undefined;
   } else {
-    title = `${site.name} | ${t.home.eyebrow}`;
+    title = `${homeCopy[language.code][0]} | ${site.name}`;
     description = t.metaDescription;
-    body = renderHome(language);
+    body = renderEditorialHome(language, { escapeHtml, localizedPath, articleBySlug, categoryById, pick, imageMarkup, hubText, homePool: homePools.get(language.code), homePoolUrl: versionedAsset(`/home-articles-${language.code}.json`) });
+    preloadImage = undefined;
+    ogImage = `${site.origin}/assets/home/characters-preparing.webp`;
     jsonLd = renderSiteJsonLd(language);
   }
 
@@ -904,6 +921,7 @@ function renderPage(language, slug) {
     ${article?.birthPreferences ? `<script type="module" src="${versionedAsset('/assets/birth-preferences.js')}"></script>` : ''}
     ${article?.kind === 'tool' && !article.catalogHidden ? `<script type="module" src="${versionedAsset('/assets/care-tools.js')}"></script>` : ''}
     ${slug === 'explore' ? `<script type="module" src="${versionedAsset('/assets/product-tour.js')}"></script>` : ''}${slug === '' ? `\n    <script type="module" src="${versionedAsset('/assets/quick-help-entry.js')}"></script>` : ''}
+    ${slug === '' ? `<script type="module" src="${versionedAsset('/assets/home-articles.js')}"></script>` : ''}
     ${renderAnalytics()}
     ${renderDeferredImageLoader()}
   </body>
@@ -911,87 +929,7 @@ function renderPage(language, slug) {
 }
 
 function renderHeader(language, slug) {
-  const t = content[language.code];
-  const lang = language.code;
-  const ui = tourUiFor(lang);
-  const guideUi = hubText(lang);
-  const catItems = categories.slice().sort((a, b) => a.order - b.order);
-  const articleTitle = (article) => escapeHtml((article.i18n[lang] ?? article.i18n.en).title);
-
-  const languageLinks = languages
-    .map((item) => `<a class="${item.code === lang ? 'active' : ''}" href="${localizedPath(item.code, slug)}" hreflang="${item.code}">${escapeHtml(item.label)}</a>`)
-    .join('');
-
-  const desktopCategory = (category) => {
-    const categoryTitle = pick(category.title, lang);
-    const label = escapeHtml(categoryTitle);
-    const guideCount = articlesInCategory(category.id).length;
-    const viewAllLabel = escapeHtml(guideUi.viewAllCategory.replace('{category}', categoryTitle));
-    const links = featuredArticlesForCategory(category.id)
-      .map((article) => `<a href="${localizedPath(lang, article.slug)}" role="menuitem">${articleTitle(article)}</a>`)
-      .join('');
-    return `<li class="nav-item has-menu">
-        <a class="nav-top" href="${localizedPath(lang, category.slug)}" aria-haspopup="true">${label}<span class="caret" aria-hidden="true"></span></a>
-        <div class="submenu" role="menu" aria-label="${label}">
-          <a class="submenu-overview" href="${localizedPath(lang, category.slug)}" role="menuitem">
-            <span><strong>${viewAllLabel}</strong><small>${guideCount} ${escapeHtml(guideUi.guidesLabel)}</small></span>
-            <span class="submenu-overview-arrow" aria-hidden="true">${FORWARD_CHEVRON}</span>
-          </a>
-          <span class="submenu-label">${escapeHtml(guideUi.featuredInCategory)}</span>
-          ${links}
-        </div>
-      </li>`;
-  };
-
-  const mobileCategory = (category) => {
-    const categoryTitle = pick(category.title, lang);
-    const label = escapeHtml(categoryTitle);
-    const viewAllLabel = escapeHtml(guideUi.viewAllCategory.replace('{category}', categoryTitle));
-    const links = featuredArticlesForCategory(category.id)
-      .map((article) => `<a href="${localizedPath(lang, article.slug)}">${articleTitle(article)}</a>`)
-      .join('');
-    return `<details class="mobile-group">
-          <summary>${label}</summary>
-          <div class="mobile-sub"><a class="mobile-sub-all" href="${localizedPath(lang, category.slug)}">${viewAllLabel}</a>${links}</div>
-        </details>`;
-  };
-
-  return `<header class="site-header">
-  <div class="nav">
-    <a class="brand" href="${localizedPath(lang, '')}" aria-label="${escapeHtml(websiteUxCopy(lang).home)}">
-      <img src="${versionedAsset('/assets/bemama_logo_mark_navy.svg')}" alt="${escapeHtml(site.name)}" width="38" height="38" loading="eager" decoding="async" />
-      <span>BeMama</span>
-    </a>
-    <nav class="primary-nav" aria-label="${escapeHtml(t.nav.home)}">
-      <ul class="nav-list">
-        <li class="nav-item"><a class="nav-top" href="${localizedPath(lang, '')}">${escapeHtml(t.nav.home)}</a></li>
-        ${catItems.map(desktopCategory).join('')}
-        <li class="nav-item has-menu lang-item">
-          <button type="button" class="nav-top" aria-haspopup="true">${escapeHtml(t.nav.language)}<span class="caret" aria-hidden="true"></span></button>
-          <div class="submenu submenu-lang" role="menu">${languageLinks}</div>
-        </li>
-        <li class="nav-item"><a class="nav-top nav-tour" href="${localizedPath(lang, 'explore')}">${escapeHtml(ui.navLabel)}</a></li>
-        <li class="nav-item"><a class="nav-top nav-support" href="${localizedPath(lang, 'contact')}">${escapeHtml(t.nav.support)}</a></li>
-      </ul>
-    </nav>
-    <a class="compact-tools-link" href="${localizedPath(lang, 'tools')}">${escapeHtml(websiteUxCopy(lang).tools)}</a>
-    ${renderSearch(language, 'desktop')}
-    <details class="mobile-menu">
-      <summary aria-label="${escapeHtml(websiteUxCopy(lang).menu)}"><span class="menu-icon" aria-hidden="true"></span></summary>
-      <div class="mobile-menu-panel">
-        ${renderSearch(language, 'mobile')}
-        <a class="mobile-link" href="${localizedPath(lang, '')}">${escapeHtml(t.nav.home)}</a>
-        <a class="mobile-link" href="${localizedPath(lang, 'explore')}">${escapeHtml(ui.navLabel)}</a>
-        ${catItems.map(mobileCategory).join('')}
-        <details class="mobile-group">
-          <summary>${escapeHtml(t.nav.language)}</summary>
-          <div class="mobile-sub mobile-lang">${languageLinks}</div>
-        </details>
-        <a class="mobile-link button secondary" href="${localizedPath(lang, 'contact')}">${escapeHtml(t.nav.support)}</a>
-      </div>
-    </details>
-  </div>
-</header>`;
+  return renderEditorialHeader(language, slug, { escapeHtml, localizedPath, categories, pick, content, languages, renderSearch, versionedAsset, websiteUxCopy });
 }
 
 function renderSearch(language, variant) {
@@ -2497,17 +2435,19 @@ function renderSearchIndex() {
       lang,
       type: labels.types.home,
       title: site.name,
-      description: t.metaDescription,
+      description: homeCopy[lang][2],
       category: site.name,
       url: localizedPath(lang, ''),
-      body: compactSearchText([
-        t.home.eyebrow,
-        t.home.copy,
-        t.home.mediaText,
-        t.home.whatText,
-        t.home.trustText,
-        t.home.features.flat()
-      ])
+      body: compactSearchText(homeCopy[lang].slice(0, 8))
+    });
+    entries.push({
+      lang,
+      type: labels.types.page,
+      title: homeCopy[lang][4],
+      description: t.metaDescription,
+      category: site.name,
+      url: localizedPath(lang, 'bemama-app'),
+      body: compactSearchText([t.home.eyebrow, t.home.copy, t.home.mediaText, t.home.features.flat()])
     });
 
     entries.push({

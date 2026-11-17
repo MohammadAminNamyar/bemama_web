@@ -6,8 +6,8 @@ import { withHelpCampaign } from '../public/assets/quick-help-entry.js';
 import { languages } from '../src/pages.mjs';
 import { homeRollout } from '../src/home-rollout.mjs';
 
-test('English homepage opens a public tool without sending readers to app sign-in', async () => {
-  const html = await readFile(new URL('../dist/index.html', import.meta.url), 'utf8');
+test('App landing page opens a public tool without sending readers to app sign-in', async () => {
+  const html = await readFile(new URL('../dist/bemama-app/index.html', import.meta.url), 'utf8');
   const heroAction = html.match(/<div class="hero-actions">([\s\S]*?)<\/div>/)?.[1] ?? '';
   assert.match(heroAction, /href="\/tools\/"/);
   assert.match(heroAction, /public_tools_clicked/);
@@ -17,8 +17,8 @@ test('English homepage opens a public tool without sending readers to app sign-i
 });
 
 for (const { code } of languages.filter(({ code }) => code !== 'en')) {
-  test(`${code}: homepage opens working public tools in the same language`, async () => {
-    const html = await readFile(new URL(`../dist/${code === 'en' ? '' : code + '/'}index.html`, import.meta.url), 'utf8');
+  test(`${code}: app landing page opens working public tools in the same language`, async () => {
+    const html = await readFile(new URL(`../dist/${code === 'en' ? '' : code + '/'}bemama-app/index.html`, import.meta.url), 'utf8');
     const hero = html.match(/<div class="hero-actions">([\s\S]*?)<\/div>/)?.[1] ?? '';
     assert.ok(hero.includes(`href="/${code}/tools/"`));
     assert.ok(hero.includes(homeRollout[code].freeToolsAction));

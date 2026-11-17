@@ -1,4 +1,4 @@
-import { homeRollout } from './home-rollout.mjs';
+import { homeCopy } from './editorial-home.mjs';
 import { part1SearchOverrides } from './articles/part-01/seo.mjs';
 import { part2SearchOverrides } from './articles/part-02.mjs';
 import { part3SearchOverrides } from './articles/part-03.mjs';
@@ -179,7 +179,7 @@ export function searchMetadata({ lang, slug, title, description }) {
   const override = {
     ...(descriptionsByLanguage[lang][slug] ? { description: descriptionsByLanguage[lang][slug] } : {}),
     ...metadataOverrides[`${lang}/${slug}`],
-    ...(slug === '' && homeRollout[lang]?.metaDescription ? { description: homeRollout[lang].metaDescription } : {})
+    ...(slug === '' ? { title: homeCopy[lang][0] + ' | BeMama', description: homeCopy[lang][2] } : {})
   };
   const originalTitle = normalizeMetadata(title);
   const summary = normalizeMetadata(override.description ?? description);

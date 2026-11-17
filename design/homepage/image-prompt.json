@@ -1,0 +1,14 @@
+{
+  "tool": "built-in imagegen",
+  "reference": "Existing BeMama orange pregnant character and purple partner supplied by the user.",
+  "scenePrompt": "Preserve the existing BeMama characters and 3D rendering. In a cozy ivory home, she folds a baby garment while he assembles a wooden stacking-ring toy. Warm daylight, navy and gold accents, no text, phones or app interface.",
+  "finalEditPrompt": "Change only clothing and footwear. Give her an ivory maternity dress with subtle gold embroidery, camel cardigan and elegant flats. Give him a navy tailored blazer, cream knit shirt, taupe trousers and tan loafers. Preserve faces, colors, hair, horns, ears, tails, pregnant silhouette, poses, hands, activities, objects, lighting and composition.",
+  "exports": [
+    "public/assets/home/characters-grounded.webp",
+    "public/assets/home/characters-grounded-800.webp",
+    "public/assets/home/characters-grounded-480.webp"
+  ],
+  "latestEditPrompt": "Preserve the approved characters, elegant outfits, seated poses, baby clothes, basket and stacking toy. Add an oval ivory woven rug beneath both characters and all objects, with natural contact shadows, so they visibly sit on the ground. Keep the surrounding background transparent and retain the full figures, tails and rug.",
+  "master": "design/homepage/characters-grounded-master.png",
+  "placement": "Tall rounded navy panel with the original curved ivory and gold backdrop."
+}

@@ -25,7 +25,7 @@ export const languages = [
   { code: 'pt', label: 'Português', dir: 'ltr' }
 ];
 
-export const pageSlugs = ['', 'explore', 'about', 'editorial', 'privacy', 'terms', 'subscription-terms', 'ai-disclaimer', 'contact'];
+export const pageSlugs = ['', 'bemama-app', 'explore', 'about', 'editorial', 'privacy', 'terms', 'subscription-terms', 'ai-disclaimer', 'contact'];
 
 const updated = 'June 19, 2026';
 

@@ -130,7 +130,7 @@ const knownRoutes = new Set(requiredRoutes);
 const homeHtml = await readFile(path.join(dist, 'index.html'), 'utf8');
 const mainCss = await readFile(path.join(dist, 'assets', 'styles.css'), 'utf8');
 const homeStyles = homeHtml.match(/<style id="home-styles">([\s\S]*?)<\/style>/)?.[1];
-if (!homeStyles || !homeStyles.includes('.hero') || !homeStyles.includes('.site-footer') || !homeStyles.includes('.mobile-menu')) {
+if (!homeStyles || !homeStyles.includes('.reading-hero') || !homeStyles.includes('.site-footer') || !homeStyles.includes('.reading-mobile-menu')) {
   throw new Error('Homepage must include its full layout and navigation styles before first paint.');
 }
 if (homeHtml.includes('<link rel="stylesheet"') || homeStyles.includes('.organizer-dashboard') || homeStyles.includes('.routine-visual')) {
@@ -142,18 +142,22 @@ if (homeHtml.includes('rel="preload" as="style"') || homeHtml.includes("this.rel
 if (Buffer.byteLength(homeStyles) > 50000 || homeStyles.includes('.tour-workspace')) {
   throw new Error('Homepage CSS must stay within its 50 KB budget and exclude the interactive tour.');
 }
-const heroPreload = homeHtml.match(/<link rel="preload" as="image"[^>]+>/)?.[0] ?? '';
-if (!heroPreload.includes('daily-home-400.avif') || !homeHtml.includes('Manrope-Latin-Variable.woff2')) {
-  throw new Error('Homepage must preload its right-sized hero candidates and smaller Latin font.');
+const editorialHero = homeHtml.match(/<picture class="reading-hero-image">[\s\S]*?<\/picture>/)?.[0] ?? '';
+if (!editorialHero.includes('characters-grounded-480.webp') ||
+    !editorialHero.includes('characters-grounded-800.webp') ||
+    !editorialHero.includes('fetchpriority="high"') ||
+    !homeHtml.includes('Manrope-Latin-Variable.woff2')) {
+  throw new Error('Homepage must prioritize responsive character artwork and load the smaller Latin font.');
 }
+const appLandingHtml = await readFile(path.join(dist, 'bemama-app', 'index.html'), 'utf8');
 if (homeHtml.includes('/assets/care-tools.js')) {
   throw new Error('Homepage must not load the tool-only JavaScript bundle.');
 }
-const heroMarkup = homeHtml.match(/<div class="hero-product">([\s\S]*?)<p class="hero-preview-note">/)?.[1] ?? '';
+const heroMarkup = appLandingHtml.match(/<div class="hero-product">([\s\S]*?)<p class="hero-preview-note">/)?.[1] ?? '';
 if (!heroMarkup.includes('/assets/tour/daily-home.') || mainCss.includes('hero-carousel-fade')) {
-  throw new Error('Homepage hero must show a static app preview without automatic rotation.');
+  throw new Error('App landing page must retain its static app preview without automatic rotation.');
 }
-if (/<video\b[^>]*\sposter=/i.test(homeHtml) || !homeHtml.includes('video[data-poster]')) {
+if (/<video\b[^>]*\sposter=/i.test(appLandingHtml) || !appLandingHtml.includes('video[data-poster]')) {
   throw new Error('Below-fold video posters must be loaded near the viewport instead of during initial navigation.');
 }
 for (const expectedAsset of [
@@ -163,8 +167,8 @@ for (const expectedAsset of [
   'videos/bemama-care-story-01-poster-640.webp',
   'videos/bemama-care-story-02-poster-360.webp'
 ]) {
-  if (!homeHtml.includes(expectedAsset)) {
-    throw new Error(`Homepage is missing optimized media: ${expectedAsset}`);
+  if (!appLandingHtml.includes(expectedAsset)) {
+    throw new Error(`App landing page is missing optimized media: ${expectedAsset}`);
   }
 }
 
@@ -208,14 +212,18 @@ for (const file of htmlFiles) {
 // category hub and sitemap, so the header should never return to listing the
 // entire library twice for desktop and mobile.
 const englishHomepage = await readFile(path.join(dist, 'index.html'), 'utf8');
-const englishHeader = englishHomepage.match(/<header class="site-header">.*?<\/header>/s)?.[0] ?? '';
+const englishHeader = englishHomepage.match(/<header class="reading-header">.*?<\/header>/s)?.[0] ?? '';
 const headerLinkCount = [...englishHeader.matchAll(/href="[^"]+"/g)].length;
 if (headerLinkCount > 80) {
   throw new Error(`Global navigation has too many links: ${headerLinkCount} (maximum 80).`);
 }
-const categoryOverviewCount = [...englishHeader.matchAll(/class="submenu-overview"/g)].length;
-if (categoryOverviewCount !== categories.length) {
-  throw new Error(`Global navigation must provide one explicit category overview action per category; found ${categoryOverviewCount}.`);
+for (const category of categories.filter(category => category.id !== 'app')) {
+  if (!englishHeader.includes(`href="/${category.slug}/"`)) {
+    throw new Error(`Global navigation is missing topic ${category.slug}.`);
+  }
+}
+if (!englishHeader.includes('href="/bemama-app/"')) {
+  throw new Error('Global navigation must link to the relocated app landing page.');
 }
 
 const englishFooter = englishHomepage.match(/<footer class="site-footer".*?<\/footer>/s)?.[0] ?? '';

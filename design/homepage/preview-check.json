@@ -1,0 +1,452 @@
+{
+  "status": "local-preview",
+  "previewUrl": "http://127.0.0.1:4173/",
+  "appPage": "/bemama-app/",
+  "layout": "Editorial homepage with the original tall rounded navy artwork panel and curved ivory/gold backdrop; grounded mascots in elegant outfits, with the phone preview moved to the app page.",
+  "artwork": "public/assets/home/characters-grounded.webp",
+  "browser": {
+    "passed": true,
+    "results": [
+      {
+        "lang": "en",
+        "width": 1440,
+        "status": 200,
+        "overflow": false,
+        "localLinks": 21,
+        "appPagePreserved": true
+      },
+      {
+        "lang": "en",
+        "width": 900,
+        "status": 200,
+        "overflow": false,
+        "localLinks": 21,
+        "appPagePreserved": true
+      },
+      {
+        "lang": "en",
+        "width": 768,
+        "status": 200,
+        "overflow": false,
+        "localLinks": 21,
+        "appPagePreserved": true
+      },
+      {
+        "lang": "en",
+        "width": 390,
+        "status": 200,
+        "overflow": false,
+        "localLinks": 21,
+        "appPagePreserved": true
+      },
+      {
+        "lang": "fa",
+        "width": 1440,
+        "status": 200,
+        "overflow": false,
+        "localLinks": 21,
+        "appPagePreserved": true
+      },
+      {
+        "lang": "fa",
+        "width": 900,
+        "status": 200,
+        "overflow": false,
+        "localLinks": 21,
+        "appPagePreserved": true
+      },
+      {
+        "lang": "fa",
+        "width": 768,
+        "status": 200,
+        "overflow": false,
+        "localLinks": 21,
+        "appPagePreserved": true
+      },
+      {
+        "lang": "fa",
+        "width": 390,
+        "status": 200,
+        "overflow": false,
+        "localLinks": 21,
+        "appPagePreserved": true
+      },
+      {
+        "lang": "ar",
+        "width": 1440,
+        "status": 200,
+        "overflow": false,
+        "localLinks": 21,
+        "appPagePreserved": true
+      },
+      {
+        "lang": "ar",
+        "width": 900,
+        "status": 200,
+        "overflow": false,
+        "localLinks": 21,
+        "appPagePreserved": true
+      },
+      {
+        "lang": "ar",
+        "width": 768,
+        "status": 200,
+        "overflow": false,
+        "localLinks": 21,
+        "appPagePreserved": true
+      },
+      {
+        "lang": "ar",
+        "width": 390,
+        "status": 200,
+        "overflow": false,
+        "localLinks": 21,
+        "appPagePreserved": true
+      },
+      {
+        "lang": "fr",
+        "width": 1440,
+        "status": 200,
+        "overflow": false,
+        "localLinks": 21,
+        "appPagePreserved": true
+      },
+      {
+        "lang": "fr",
+        "width": 900,
+        "status": 200,
+        "overflow": false,
+        "localLinks": 21,
+        "appPagePreserved": true
+      },
+      {
+        "lang": "fr",
+        "width": 768,
+        "status": 200,
+        "overflow": false,
+        "localLinks": 21,
+        "appPagePreserved": true
+      },
+      {
+        "lang": "fr",
+        "width": 390,
+        "status": 200,
+        "overflow": false,
+        "localLinks": 21,
+        "appPagePreserved": true
+      },
+      {
+        "lang": "tr",
+        "width": 1440,
+        "status": 200,
+        "overflow": false,
+        "localLinks": 21,
+        "appPagePreserved": true
+      },
+      {
+        "lang": "tr",
+        "width": 900,
+        "status": 200,
+        "overflow": false,
+        "localLinks": 21,
+        "appPagePreserved": true
+      },
+      {
+        "lang": "tr",
+        "width": 768,
+        "status": 200,
+        "overflow": false,
+        "localLinks": 21,
+        "appPagePreserved": true
+      },
+      {
+        "lang": "tr",
+        "width": 390,
+        "status": 200,
+        "overflow": false,
+        "localLinks": 21,
+        "appPagePreserved": true
+      },
+      {
+        "lang": "es",
+        "width": 1440,
+        "status": 200,
+        "overflow": false,
+        "localLinks": 21,
+        "appPagePreserved": true
+      },
+      {
+        "lang": "es",
+        "width": 900,
+        "status": 200,
+        "overflow": false,
+        "localLinks": 21,
+        "appPagePreserved": true
+      },
+      {
+        "lang": "es",
+        "width": 768,
+        "status": 200,
+        "overflow": false,
+        "localLinks": 21,
+        "appPagePreserved": true
+      },
+      {
+        "lang": "es",
+        "width": 390,
+        "status": 200,
+        "overflow": false,
+        "localLinks": 21,
+        "appPagePreserved": true
+      },
+      {
+        "lang": "pt",
+        "width": 1440,
+        "status": 200,
+        "overflow": false,
+        "localLinks": 21,
+        "appPagePreserved": true
+      },
+      {
+        "lang": "pt",
+        "width": 900,
+        "status": 200,
+        "overflow": false,
+        "localLinks": 21,
+        "appPagePreserved": true
+      },
+      {
+        "lang": "pt",
+        "width": 768,
+        "status": 200,
+        "overflow": false,
+        "localLinks": 21,
+        "appPagePreserved": true
+      },
+      {
+        "lang": "pt",
+        "width": 390,
+        "status": 200,
+        "overflow": false,
+        "localLinks": 21,
+        "appPagePreserved": true
+      }
+    ],
+    "search": true,
+    "errors": []
+  },
+  "preservation": {
+    "passed": true,
+    "previousPageBodiesPreserved": 9717,
+    "originalHomepagesRelocated": 7,
+    "previousAssetsPreserved": 6559,
+    "stylesChanged": true,
+    "comparison": "Page main content equal after normalizing CRLF and generated asset cache hashes. Assets equal after CRLF normalization; built asset cache hashes checked by indexing tests."
+  },
+  "pageValidation": "Validated 9731 HTML files and 9723 localized routes.",
+  "seoAuditPassed": true,
+  "remainingChecks": [
+    "Historical Part 2 raw-file snapshot fails at public/assets/bemama_logo_mark_navy.svg after Git checkout changes line endings.",
+    "Historical Part 3 raw-file snapshot fails at .claude/launch.json after Git checkout changes line endings; the snapshot also predates the authorized build/template changes."
+  ],
+  "deployed": false,
+  "remainingPart3Paused": 280,
+  "articleRotation": {
+    "passed": true,
+    "results": [
+      {
+        "language": "en",
+        "pool": 1346,
+        "cards": 12,
+        "unique": true,
+        "differentVisits": true,
+        "imagesDecoded": true
+      },
+      {
+        "language": "fa",
+        "pool": 1346,
+        "cards": 12,
+        "unique": true,
+        "differentVisits": true,
+        "imagesDecoded": true
+      },
+      {
+        "language": "ar",
+        "pool": 1346,
+        "cards": 12,
+        "unique": true,
+        "differentVisits": true,
+        "imagesDecoded": true
+      },
+      {
+        "language": "fr",
+        "pool": 1346,
+        "cards": 12,
+        "unique": true,
+        "differentVisits": true,
+        "imagesDecoded": true
+      },
+      {
+        "language": "tr",
+        "pool": 1346,
+        "cards": 12,
+        "unique": true,
+        "differentVisits": true,
+        "imagesDecoded": true
+      },
+      {
+        "language": "es",
+        "pool": 1346,
+        "cards": 12,
+        "unique": true,
+        "differentVisits": true,
+        "imagesDecoded": true
+      },
+      {
+        "language": "pt",
+        "pool": 1346,
+        "cards": 12,
+        "unique": true,
+        "differentVisits": true,
+        "imagesDecoded": true
+      }
+    ],
+    "noJavaScriptFallback": true,
+    "networkFailureFallback": true,
+    "hamburgerKeyboard": true
+  },
+  "toolsCards": {
+    "passed": true,
+    "results": [
+      {
+        "lang": "en",
+        "width": 1440,
+        "cards": 4,
+        "overflow": false
+      },
+      {
+        "lang": "en",
+        "width": 768,
+        "cards": 4,
+        "overflow": false
+      },
+      {
+        "lang": "en",
+        "width": 390,
+        "cards": 4,
+        "overflow": false
+      },
+      {
+        "lang": "fa",
+        "width": 1440,
+        "cards": 4,
+        "overflow": false
+      },
+      {
+        "lang": "fa",
+        "width": 768,
+        "cards": 4,
+        "overflow": false
+      },
+      {
+        "lang": "fa",
+        "width": 390,
+        "cards": 4,
+        "overflow": false
+      },
+      {
+        "lang": "ar",
+        "width": 1440,
+        "cards": 4,
+        "overflow": false
+      },
+      {
+        "lang": "ar",
+        "width": 768,
+        "cards": 4,
+        "overflow": false
+      },
+      {
+        "lang": "ar",
+        "width": 390,
+        "cards": 4,
+        "overflow": false
+      },
+      {
+        "lang": "fr",
+        "width": 1440,
+        "cards": 4,
+        "overflow": false
+      },
+      {
+        "lang": "fr",
+        "width": 768,
+        "cards": 4,
+        "overflow": false
+      },
+      {
+        "lang": "fr",
+        "width": 390,
+        "cards": 4,
+        "overflow": false
+      },
+      {
+        "lang": "tr",
+        "width": 1440,
+        "cards": 4,
+        "overflow": false
+      },
+      {
+        "lang": "tr",
+        "width": 768,
+        "cards": 4,
+        "overflow": false
+      },
+      {
+        "lang": "tr",
+        "width": 390,
+        "cards": 4,
+        "overflow": false
+      },
+      {
+        "lang": "es",
+        "width": 1440,
+        "cards": 4,
+        "overflow": false
+      },
+      {
+        "lang": "es",
+        "width": 768,
+        "cards": 4,
+        "overflow": false
+      },
+      {
+        "lang": "es",
+        "width": 390,
+        "cards": 4,
+        "overflow": false
+      },
+      {
+        "lang": "pt",
+        "width": 1440,
+        "cards": 4,
+        "overflow": false
+      },
+      {
+        "lang": "pt",
+        "width": 768,
+        "cards": 4,
+        "overflow": false
+      },
+      {
+        "lang": "pt",
+        "width": 390,
+        "cards": 4,
+        "overflow": false
+      }
+    ]
+  },
+  "updatedAt": "2026-11-17",
+  "homepageCssBytes": 49038,
+  "targetedTests": "25 passed: indexing, IndexNow, app landing quick-help and content rollout."
+}

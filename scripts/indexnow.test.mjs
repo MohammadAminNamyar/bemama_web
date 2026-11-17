@@ -8,7 +8,10 @@ import batchTwo from '../src/articles/part-03-batch2/manifest.json' with { type:
 
 test('default IndexNow URL selection excludes explicitly retired noindex tools', () => {
   const urls=activePageUrls();
-  assert.equal(urls.length,6055 + part2Release.articleCount * part2Release.languages.length + (part3Release.articleCount + additions.articles.length + batchTwo.articles.length) * part3Release.languages.length);
+  assert.equal(urls.length,6055 + part2Release.articleCount * part2Release.languages.length + (part3Release.articleCount + additions.articles.length + batchTwo.articles.length) * part3Release.languages.length + part3Release.languages.length);
+  for (const language of part3Release.languages) {
+    assert.ok(urls.includes(`https://bemamas.com/${language === 'en' ? '' : language + '/'}bemama-app/`));
+  }
   assert.ok(urls.includes('https://bemamas.com/editorial/'));
   assert.ok(urls.includes('https://bemamas.com/ar/editorial/'));
   for(const id of ['milestone-tracker','solids-planner','toddler-activity-picker']) assert.ok(urls.every(url=>!url.includes(`/tools/${id}/`)));

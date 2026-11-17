@@ -85,11 +85,11 @@ test('visual controls are localized and worksheets have labels without data subm
   }
 });
 
-test('home feature cards now map to verified localized workflows',async()=>{
+test('app landing feature cards map to verified localized workflows',async()=>{
   for(const lang of langs) {
     assert.equal(content[lang].home.features.length,3);
     const prefix=lang==='en'?'':lang+'/';
-    const html=await readFile(new URL(`../dist/${prefix}index.html`,import.meta.url),'utf8');
+    const html=await readFile(new URL(`../dist/${prefix}bemama-app/index.html`,import.meta.url),'utf8');
     for(const slug of ['about-bemama/daily-journey','about-bemama/tools','tools'])assert.ok(html.includes(`href="/${prefix}${slug}/"`));
   }
   assert.equal(new Set(articles.map(a=>a.slug)).size,articles.length);

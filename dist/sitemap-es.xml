@@ -15,6 +15,20 @@
 
   </url>
   <url>
+    <loc>https://bemamas.com/es/bemama-app/</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://bemamas.com/bemama-app/" />
+    <xhtml:link rel="alternate" hreflang="fa" href="https://bemamas.com/fa/bemama-app/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://bemamas.com/ar/bemama-app/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://bemamas.com/fr/bemama-app/" />
+    <xhtml:link rel="alternate" hreflang="tr" href="https://bemamas.com/tr/bemama-app/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://bemamas.com/es/bemama-app/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://bemamas.com/pt/bemama-app/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://bemamas.com/bemama-app/" />
+
+  </url>
+  <url>
     <loc>https://bemamas.com/es/explore/</loc>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
