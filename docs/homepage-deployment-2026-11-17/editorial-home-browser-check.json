@@ -1,0 +1,119 @@
+{
+  "passed": true,
+  "results": [
+    {
+      "lang": "en",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "localLinks": 21,
+      "appPagePreserved": true
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "localLinks": 21,
+      "appPagePreserved": true
+    },
+    {
+      "lang": "fa",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "localLinks": 21,
+      "appPagePreserved": true
+    },
+    {
+      "lang": "fa",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "localLinks": 21,
+      "appPagePreserved": true
+    },
+    {
+      "lang": "ar",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "localLinks": 21,
+      "appPagePreserved": true
+    },
+    {
+      "lang": "ar",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "localLinks": 21,
+      "appPagePreserved": true
+    },
+    {
+      "lang": "fr",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "localLinks": 21,
+      "appPagePreserved": true
+    },
+    {
+      "lang": "fr",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "localLinks": 21,
+      "appPagePreserved": true
+    },
+    {
+      "lang": "tr",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "localLinks": 21,
+      "appPagePreserved": true
+    },
+    {
+      "lang": "tr",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "localLinks": 21,
+      "appPagePreserved": true
+    },
+    {
+      "lang": "es",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "localLinks": 21,
+      "appPagePreserved": true
+    },
+    {
+      "lang": "es",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "localLinks": 21,
+      "appPagePreserved": true
+    },
+    {
+      "lang": "pt",
+      "width": 1440,
+      "status": 200,
+      "overflow": false,
+      "localLinks": 21,
+      "appPagePreserved": true
+    },
+    {
+      "lang": "pt",
+      "width": 390,
+      "status": 200,
+      "overflow": false,
+      "localLinks": 21,
+      "appPagePreserved": true
+    }
+  ],
+  "search": true,
+  "errors": []
+}

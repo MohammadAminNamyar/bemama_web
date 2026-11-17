@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "previousPageBodiesPreserved": 9717,
+  "originalHomepagesRelocated": 7,
+  "previousAssetsPreserved": 6559,
+  "stylesChanged": true,
+  "comparison": "Page main content equal after normalizing CRLF and generated asset cache hashes. Assets equal after CRLF normalization; built asset cache hashes checked by indexing tests."
+}

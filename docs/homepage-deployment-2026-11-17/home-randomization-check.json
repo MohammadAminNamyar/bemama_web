@@ -1,0 +1,64 @@
+{
+  "passed": true,
+  "results": [
+    {
+      "language": "en",
+      "pool": 1346,
+      "cards": 12,
+      "unique": true,
+      "differentVisits": true,
+      "imagesDecoded": true
+    },
+    {
+      "language": "fa",
+      "pool": 1346,
+      "cards": 12,
+      "unique": true,
+      "differentVisits": true,
+      "imagesDecoded": true
+    },
+    {
+      "language": "ar",
+      "pool": 1346,
+      "cards": 12,
+      "unique": true,
+      "differentVisits": true,
+      "imagesDecoded": true
+    },
+    {
+      "language": "fr",
+      "pool": 1346,
+      "cards": 12,
+      "unique": true,
+      "differentVisits": true,
+      "imagesDecoded": true
+    },
+    {
+      "language": "tr",
+      "pool": 1346,
+      "cards": 12,
+      "unique": true,
+      "differentVisits": true,
+      "imagesDecoded": true
+    },
+    {
+      "language": "es",
+      "pool": 1346,
+      "cards": 12,
+      "unique": true,
+      "differentVisits": true,
+      "imagesDecoded": true
+    },
+    {
+      "language": "pt",
+      "pool": 1346,
+      "cards": 12,
+      "unique": true,
+      "differentVisits": true,
+      "imagesDecoded": true
+    }
+  ],
+  "noJavaScriptFallback": true,
+  "networkFailureFallback": true,
+  "hamburgerKeyboard": true
+}

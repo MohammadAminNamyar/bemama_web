@@ -1,0 +1,79 @@
+{
+  "status": "deployed-and-publicly-verified",
+  "origin": "https://bemamas.com",
+  "checkedAt": "2026-11-17T22:48:33.501401+00:00",
+  "releaseId": "part3-homepage-20261117T224510Z-38eeb9157",
+  "sourceCommit": "38eeb91571ab22c8a92e26eb0ae440eedf6d761f",
+  "sourceBranch": "codex/editorial-home",
+  "manifestSha256": "a9ca4ea1f5f242dcfb848bb4f922745314586ecb328bb12169a0383f1627d1c6",
+  "configSha256": "bea30991ba5aa031f77cced30e63c3b3f4e2c6a8ab71c3d1fab0cfe451514e01",
+  "artifactFilesVerified": 16352,
+  "previousPathsRetained": 16328,
+  "previousRelease": "/var/www/bemama_web/releases/part3-20261117T015756Z-9e006162f",
+  "languages": [
+    "en",
+    "fa",
+    "ar",
+    "fr",
+    "tr",
+    "es",
+    "pt"
+  ],
+  "desktopAndMobileChecks": 14,
+  "toolsResponsiveChecks": 21,
+  "publicPagesChecked": 28,
+  "discoveryFilesChecked": 21,
+  "newAssetBytesChecked": 5,
+  "publicCacheBypassUsed": false,
+  "remainingPart3Articles": 280,
+  "remainingPart3Status": "paused",
+  "editorialWorkResumed": false,
+  "existingContent": {
+    "passed": true,
+    "previousPageBodiesPreserved": 9717,
+    "originalHomepagesRelocated": 7,
+    "previousAssetsPreserved": 6559,
+    "stylesChanged": true,
+    "comparison": "Page main content equal after normalizing CRLF and generated asset cache hashes. Assets equal after CRLF normalization; built asset cache hashes checked by indexing tests."
+  },
+  "localValidation": {
+    "htmlFiles": 9731,
+    "localizedRoutes": 9723,
+    "targetedTestsPassed": 25,
+    "homepageCssBytes": 49038
+  },
+  "proofs": [
+    {
+      "file": "publish-result.json",
+      "sha256": "0ec6d636bfe89c477cd8388f0b649c2212e07389ff48bdbc4aa320738756c09e"
+    },
+    {
+      "file": "stage-verified.json",
+      "sha256": "269c67302720dbb5a15c1a175bd71e8f8fb5afb63e39d4c72bf2cbe34aa87950"
+    },
+    {
+      "file": "previous-state.json",
+      "sha256": "48cbaa3e67e5d731f55a1757ca5426fd669272040c74d435bef5cf8d1cfa1525"
+    },
+    {
+      "file": "public-verification.json",
+      "sha256": "4fa891542fc2449e7ca9c3246d16eb68791d52aa532548aa2f54528dab12dcc9"
+    },
+    {
+      "file": "editorial-home-browser-check.json",
+      "sha256": "c364c3d8719699a0e565b1e5b9f97565bc968b95763c41e386a92cb7119a7a52"
+    },
+    {
+      "file": "home-randomization-check.json",
+      "sha256": "b8b380fa97d55fda0d636dca1585c5b3708c24cd4eebd7fd2d555a7800d73b86"
+    },
+    {
+      "file": "home-tools-check.json",
+      "sha256": "f2e68bdc34faa325e4524b00738e9bd46a94666699eca5bd03ab4616b33c4310"
+    },
+    {
+      "file": "preservation.json",
+      "sha256": "88757aa1333b061a8e56c8314bfd60094eb7bb2b68b36b217f23ae45471ade17"
+    }
+  ]
+}

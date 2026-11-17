@@ -1,0 +1,334 @@
+{
+  "passed": true,
+  "origin": "https://bemamas.com",
+  "checkedAt": "2026-11-17T22:47:03.436Z",
+  "cacheBypass": false,
+  "results": [
+    {
+      "route": "/",
+      "status": 200,
+      "mainMatches": true,
+      "metadataMatches": true,
+      "cache": "HIT"
+    },
+    {
+      "route": "/bemama-app/",
+      "status": 200,
+      "mainMatches": true,
+      "metadataMatches": true,
+      "cache": "DYNAMIC"
+    },
+    {
+      "route": "/pregnancy/second-trimester/",
+      "status": 200,
+      "mainMatches": true,
+      "metadataMatches": true,
+      "cache": "MISS"
+    },
+    {
+      "route": "/tools/due-date-calculator/",
+      "status": 200,
+      "mainMatches": true,
+      "metadataMatches": true,
+      "cache": "MISS"
+    },
+    {
+      "file": "home-articles-en.json",
+      "status": 200,
+      "contentMatches": true
+    },
+    {
+      "file": "search-index-en.json",
+      "status": 200,
+      "contentMatches": true
+    },
+    {
+      "file": "sitemap-en.xml",
+      "status": 200,
+      "contentMatches": true
+    },
+    {
+      "route": "/fa/",
+      "status": 200,
+      "mainMatches": true,
+      "metadataMatches": true,
+      "cache": "HIT"
+    },
+    {
+      "route": "/fa/bemama-app/",
+      "status": 200,
+      "mainMatches": true,
+      "metadataMatches": true,
+      "cache": "MISS"
+    },
+    {
+      "route": "/fa/pregnancy/second-trimester/",
+      "status": 200,
+      "mainMatches": true,
+      "metadataMatches": true,
+      "cache": "EXPIRED"
+    },
+    {
+      "route": "/fa/tools/due-date-calculator/",
+      "status": 200,
+      "mainMatches": true,
+      "metadataMatches": true,
+      "cache": "MISS"
+    },
+    {
+      "file": "home-articles-fa.json",
+      "status": 200,
+      "contentMatches": true
+    },
+    {
+      "file": "search-index-fa.json",
+      "status": 200,
+      "contentMatches": true
+    },
+    {
+      "file": "sitemap-fa.xml",
+      "status": 200,
+      "contentMatches": true
+    },
+    {
+      "route": "/ar/",
+      "status": 200,
+      "mainMatches": true,
+      "metadataMatches": true,
+      "cache": "MISS"
+    },
+    {
+      "route": "/ar/bemama-app/",
+      "status": 200,
+      "mainMatches": true,
+      "metadataMatches": true,
+      "cache": "MISS"
+    },
+    {
+      "route": "/ar/pregnancy/second-trimester/",
+      "status": 200,
+      "mainMatches": true,
+      "metadataMatches": true,
+      "cache": "MISS"
+    },
+    {
+      "route": "/ar/tools/due-date-calculator/",
+      "status": 200,
+      "mainMatches": true,
+      "metadataMatches": true,
+      "cache": "MISS"
+    },
+    {
+      "file": "home-articles-ar.json",
+      "status": 200,
+      "contentMatches": true
+    },
+    {
+      "file": "search-index-ar.json",
+      "status": 200,
+      "contentMatches": true
+    },
+    {
+      "file": "sitemap-ar.xml",
+      "status": 200,
+      "contentMatches": true
+    },
+    {
+      "route": "/fr/",
+      "status": 200,
+      "mainMatches": true,
+      "metadataMatches": true,
+      "cache": "MISS"
+    },
+    {
+      "route": "/fr/bemama-app/",
+      "status": 200,
+      "mainMatches": true,
+      "metadataMatches": true,
+      "cache": "MISS"
+    },
+    {
+      "route": "/fr/pregnancy/second-trimester/",
+      "status": 200,
+      "mainMatches": true,
+      "metadataMatches": true,
+      "cache": "MISS"
+    },
+    {
+      "route": "/fr/tools/due-date-calculator/",
+      "status": 200,
+      "mainMatches": true,
+      "metadataMatches": true,
+      "cache": "MISS"
+    },
+    {
+      "file": "home-articles-fr.json",
+      "status": 200,
+      "contentMatches": true
+    },
+    {
+      "file": "search-index-fr.json",
+      "status": 200,
+      "contentMatches": true
+    },
+    {
+      "file": "sitemap-fr.xml",
+      "status": 200,
+      "contentMatches": true
+    },
+    {
+      "route": "/tr/",
+      "status": 200,
+      "mainMatches": true,
+      "metadataMatches": true,
+      "cache": "MISS"
+    },
+    {
+      "route": "/tr/bemama-app/",
+      "status": 200,
+      "mainMatches": true,
+      "metadataMatches": true,
+      "cache": "MISS"
+    },
+    {
+      "route": "/tr/pregnancy/second-trimester/",
+      "status": 200,
+      "mainMatches": true,
+      "metadataMatches": true,
+      "cache": "MISS"
+    },
+    {
+      "route": "/tr/tools/due-date-calculator/",
+      "status": 200,
+      "mainMatches": true,
+      "metadataMatches": true,
+      "cache": "MISS"
+    },
+    {
+      "file": "home-articles-tr.json",
+      "status": 200,
+      "contentMatches": true
+    },
+    {
+      "file": "search-index-tr.json",
+      "status": 200,
+      "contentMatches": true
+    },
+    {
+      "file": "sitemap-tr.xml",
+      "status": 200,
+      "contentMatches": true
+    },
+    {
+      "route": "/es/",
+      "status": 200,
+      "mainMatches": true,
+      "metadataMatches": true,
+      "cache": "MISS"
+    },
+    {
+      "route": "/es/bemama-app/",
+      "status": 200,
+      "mainMatches": true,
+      "metadataMatches": true,
+      "cache": "MISS"
+    },
+    {
+      "route": "/es/pregnancy/second-trimester/",
+      "status": 200,
+      "mainMatches": true,
+      "metadataMatches": true,
+      "cache": "MISS"
+    },
+    {
+      "route": "/es/tools/due-date-calculator/",
+      "status": 200,
+      "mainMatches": true,
+      "metadataMatches": true,
+      "cache": "EXPIRED"
+    },
+    {
+      "file": "home-articles-es.json",
+      "status": 200,
+      "contentMatches": true
+    },
+    {
+      "file": "search-index-es.json",
+      "status": 200,
+      "contentMatches": true
+    },
+    {
+      "file": "sitemap-es.xml",
+      "status": 200,
+      "contentMatches": true
+    },
+    {
+      "route": "/pt/",
+      "status": 200,
+      "mainMatches": true,
+      "metadataMatches": true,
+      "cache": "MISS"
+    },
+    {
+      "route": "/pt/bemama-app/",
+      "status": 200,
+      "mainMatches": true,
+      "metadataMatches": true,
+      "cache": "MISS"
+    },
+    {
+      "route": "/pt/pregnancy/second-trimester/",
+      "status": 200,
+      "mainMatches": true,
+      "metadataMatches": true,
+      "cache": "MISS"
+    },
+    {
+      "route": "/pt/tools/due-date-calculator/",
+      "status": 200,
+      "mainMatches": true,
+      "metadataMatches": true,
+      "cache": "MISS"
+    },
+    {
+      "file": "home-articles-pt.json",
+      "status": 200,
+      "contentMatches": true
+    },
+    {
+      "file": "search-index-pt.json",
+      "status": 200,
+      "contentMatches": true
+    },
+    {
+      "file": "sitemap-pt.xml",
+      "status": 200,
+      "contentMatches": true
+    },
+    {
+      "asset": "home/characters-grounded.webp",
+      "status": 200,
+      "exactBytes": true
+    },
+    {
+      "asset": "home/characters-grounded-800.webp",
+      "status": 200,
+      "exactBytes": true
+    },
+    {
+      "asset": "home/characters-grounded-480.webp",
+      "status": 200,
+      "exactBytes": true
+    },
+    {
+      "asset": "home-articles.js",
+      "status": 200,
+      "exactBytes": true
+    },
+    {
+      "asset": "styles.css",
+      "status": 200,
+      "exactBytes": true
+    }
+  ]
+}

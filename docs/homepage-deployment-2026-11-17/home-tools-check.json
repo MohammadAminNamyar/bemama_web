@@ -1,0 +1,131 @@
+{
+  "passed": true,
+  "results": [
+    {
+      "lang": "en",
+      "width": 1440,
+      "cards": 4,
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "width": 768,
+      "cards": 4,
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "cards": 4,
+      "overflow": false
+    },
+    {
+      "lang": "fa",
+      "width": 1440,
+      "cards": 4,
+      "overflow": false
+    },
+    {
+      "lang": "fa",
+      "width": 768,
+      "cards": 4,
+      "overflow": false
+    },
+    {
+      "lang": "fa",
+      "width": 390,
+      "cards": 4,
+      "overflow": false
+    },
+    {
+      "lang": "ar",
+      "width": 1440,
+      "cards": 4,
+      "overflow": false
+    },
+    {
+      "lang": "ar",
+      "width": 768,
+      "cards": 4,
+      "overflow": false
+    },
+    {
+      "lang": "ar",
+      "width": 390,
+      "cards": 4,
+      "overflow": false
+    },
+    {
+      "lang": "fr",
+      "width": 1440,
+      "cards": 4,
+      "overflow": false
+    },
+    {
+      "lang": "fr",
+      "width": 768,
+      "cards": 4,
+      "overflow": false
+    },
+    {
+      "lang": "fr",
+      "width": 390,
+      "cards": 4,
+      "overflow": false
+    },
+    {
+      "lang": "tr",
+      "width": 1440,
+      "cards": 4,
+      "overflow": false
+    },
+    {
+      "lang": "tr",
+      "width": 768,
+      "cards": 4,
+      "overflow": false
+    },
+    {
+      "lang": "tr",
+      "width": 390,
+      "cards": 4,
+      "overflow": false
+    },
+    {
+      "lang": "es",
+      "width": 1440,
+      "cards": 4,
+      "overflow": false
+    },
+    {
+      "lang": "es",
+      "width": 768,
+      "cards": 4,
+      "overflow": false
+    },
+    {
+      "lang": "es",
+      "width": 390,
+      "cards": 4,
+      "overflow": false
+    },
+    {
+      "lang": "pt",
+      "width": 1440,
+      "cards": 4,
+      "overflow": false
+    },
+    {
+      "lang": "pt",
+      "width": 768,
+      "cards": 4,
+      "overflow": false
+    },
+    {
+      "lang": "pt",
+      "width": 390,
+      "cards": 4,
+      "overflow": false
+    }
+  ]
+}

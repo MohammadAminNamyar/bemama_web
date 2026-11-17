@@ -1,0 +1,156 @@
+{
+  "status": "published-origin-verified",
+  "configSha256": "bea30991ba5aa031f77cced30e63c3b3f4e2c6a8ab71c3d1fab0cfe451514e01",
+  "release": "/var/www/bemama_web/releases/part3-homepage-20261117T224510Z-38eeb9157",
+  "previous": "/var/www/bemama_web/releases/part3-20261117T015756Z-9e006162f",
+  "verification": {
+    "files": 16352,
+    "bytes": 916897930,
+    "manifestSha256": "a9ca4ea1f5f242dcfb848bb4f922745314586ecb328bb12169a0383f1627d1c6"
+  },
+  "originSmokes": [
+    {
+      "route": "/",
+      "status": 200,
+      "sha256": "f7bfa49f3f2f577e83685c6ff404c09c0f418956289645098fc62684e877f123"
+    },
+    {
+      "route": "/bemama-app/",
+      "status": 200,
+      "sha256": "92130699e50fe9a13df06d3e1df866204b1b87e10c369e239b09709446ce2c9c"
+    },
+    {
+      "route": "/pregnancy/second-trimester/",
+      "status": 200,
+      "sha256": "8ba42476c0343cffe350b48614bf62cf9e36ce5e8a88fe6ce3ff90c3f78a1948"
+    },
+    {
+      "route": "/tools/due-date-calculator/",
+      "status": 200,
+      "sha256": "bc71fbcaff5400fcda78ad6e76d8e7fe8550bc0c403a04838f2e8815514d8073"
+    },
+    {
+      "route": "/fa/",
+      "status": 200,
+      "sha256": "0746d42e0b0a3ca9a7e4ff10857f3e3a4a58b6ab36289dcebab7c7189a4f348f"
+    },
+    {
+      "route": "/fa/bemama-app/",
+      "status": 200,
+      "sha256": "721c0a89062145a65715a588924fbf77da8eed45b8ba185d79f254bcbee7bb74"
+    },
+    {
+      "route": "/fa/pregnancy/second-trimester/",
+      "status": 200,
+      "sha256": "d8ab4e5126b4aa69a13f11289654db62e1290bf4ceb92011afd69d13ed4b21fa"
+    },
+    {
+      "route": "/fa/tools/due-date-calculator/",
+      "status": 200,
+      "sha256": "c82684d3fa04b913a1a7bbb74337978380da661b62626d63560967e20f3a95e5"
+    },
+    {
+      "route": "/ar/",
+      "status": 200,
+      "sha256": "3e89059374bf058dfacf86ed4755a38927d38524293ce6b56be1ad1387991e59"
+    },
+    {
+      "route": "/ar/bemama-app/",
+      "status": 200,
+      "sha256": "5f66a5e497ef0c4dd3eee0543e5190684744ba0ecbb42a60efec2bf26606aff5"
+    },
+    {
+      "route": "/ar/pregnancy/second-trimester/",
+      "status": 200,
+      "sha256": "03df804c0e2464cc273731b7df639be42efaf9bfddc4d0cf373d3de6245163aa"
+    },
+    {
+      "route": "/ar/tools/due-date-calculator/",
+      "status": 200,
+      "sha256": "3e164e678af2dfb0dcc70cef5888d044d2e0fe3a510e094d0a79db1ee6c4e1d1"
+    },
+    {
+      "route": "/fr/",
+      "status": 200,
+      "sha256": "9b124b9717bde59ae3b81a619ec5e49c06ceca1a51df638ccf672a00ddb222e6"
+    },
+    {
+      "route": "/fr/bemama-app/",
+      "status": 200,
+      "sha256": "59c3a69e87418dcac2e4d8689f9778b8a467e08525e7f2ed5f703541f823a461"
+    },
+    {
+      "route": "/fr/pregnancy/second-trimester/",
+      "status": 200,
+      "sha256": "6cad2df3150017af093387ab900fe5037bcad1d3095432f7b6d9c1d1d204441f"
+    },
+    {
+      "route": "/fr/tools/due-date-calculator/",
+      "status": 200,
+      "sha256": "0fb3a6d4d3a92113b02f0d199b8367ad5aa1d099b496e92b3ad249542cd6d975"
+    },
+    {
+      "route": "/tr/",
+      "status": 200,
+      "sha256": "67d20102e2e5c42dedaf2cb655959ff21dd2eb35b9ea0a145899dd1ce2e25b12"
+    },
+    {
+      "route": "/tr/bemama-app/",
+      "status": 200,
+      "sha256": "54c5fb9ead16620fcf46750eb44251327c9d653cf1141ca3e362915ba0fe5cbc"
+    },
+    {
+      "route": "/tr/pregnancy/second-trimester/",
+      "status": 200,
+      "sha256": "53b159f6d6267e4df1b26f7d511bfd33ff79762a453cd9687fb2cb8603c9d310"
+    },
+    {
+      "route": "/tr/tools/due-date-calculator/",
+      "status": 200,
+      "sha256": "5861bc69ae59236d4a447e26c50c0c58ea060ef0666ff89ea2e4334f5d668c76"
+    },
+    {
+      "route": "/es/",
+      "status": 200,
+      "sha256": "f1286d7423fc78e60b6e0e353f942d95bb1b46b5e370f935353d548b67898da5"
+    },
+    {
+      "route": "/es/bemama-app/",
+      "status": 200,
+      "sha256": "d6404ededdd2efc457a5d3af445d3165c7934e7d6dfd862537a2b145461a3080"
+    },
+    {
+      "route": "/es/pregnancy/second-trimester/",
+      "status": 200,
+      "sha256": "99cf5f7ad474c035948654dc7ff95e235b457ba9db6e486a8d10b8633fb419e4"
+    },
+    {
+      "route": "/es/tools/due-date-calculator/",
+      "status": 200,
+      "sha256": "bcaec87080d49b28b8176bdda4d14030361c50e051cbc793ca47abc8d960bfc6"
+    },
+    {
+      "route": "/pt/",
+      "status": 200,
+      "sha256": "b5690e32d7456353aee6cd929bc66cbd6a086a293c33deae207554abef0006fb"
+    },
+    {
+      "route": "/pt/bemama-app/",
+      "status": 200,
+      "sha256": "c5c32a4a7f876bd92db6d571d243badae6347e465b0f9789d97c24f1bd088e25"
+    },
+    {
+      "route": "/pt/pregnancy/second-trimester/",
+      "status": 200,
+      "sha256": "4558c223382bfd13368d4c74979e15c8c494797090eecec39873c06b7456f24e"
+    },
+    {
+      "route": "/pt/tools/due-date-calculator/",
+      "status": 200,
+      "sha256": "231ccafd410aea0872df979c24c10d74766471cec75209dd6faef94f8621cee6"
+    }
+  ],
+  "publicEdgeVerificationStillRequired": true,
+  "nginxConfigChanged": false,
+  "servicesReloadedOrRestarted": false
+}
